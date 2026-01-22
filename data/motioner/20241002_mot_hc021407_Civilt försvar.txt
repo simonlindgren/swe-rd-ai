@@ -1,0 +1,472 @@
+SEARCH TERM: AI
+DOCUMENT ID: hc021407
+TITLE: Civilt försvar
+TYPE: mot
+SUBTYPE: Kommittémotion
+DATE: 2024-10-02
+PARLIAMENTARY YEAR: 2024/25
+ORGANISATION: FöU
+STATUS: Klar
+DOWNLOADED: 2026-01-22 10:25:10
+================================================================================
+
+<style><!-- 
+ @page Section1 { size:595.3pt 841.9pt; margin:35.45pt 85.05pt 56.7pt }
+div.Section1 { page:Section1 }
+div.pconf body { t-i:14.2pt; line-height:15pt; font-family:'Verdana'; font-size: 0.90em }
+div.pconf h1, h2, h3, h4, h5, h6, p { margin:0pt }
+div.pconf li, table { margin-top:0pt; margin-bottom:0pt }
+div.pconf h1 { margin-top:41pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:19.5pt; font-family:'Verdana'; font-size: 1.05em; font-weight:normal; color:#000000 }
+div.pconf h2 { margin-top:30pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:17pt; font-family:'Verdana'; font-size: 1.00em; font-weight:normal; color:#000000 }
+div.pconf h3 { margin-top:18pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:15pt; font-family:'Verdana'; font-size: 0.90em; font-weight:bold; color:#000000 }
+div.pconf h4 { margin-top:18pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:15pt; font-family:'Verdana'; font-size: 0.90em; font-weight:normal; font-style:italic; color:#000000 }
+div.pconf h5 { margin-top:15pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:15pt; font-family:'Verdana'; font-size: 0.90em; font-weight:bold; font-style:normal; color:#000000 }
+div.pconf h6 { margin-top:15pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:15pt; font-family:'Verdana'; font-size: 0.90em; font-weight:normal; font-style:italic; color:#000000 }
+.Heading7 { margin-top:15pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:15pt; font-family:'Verdana'; font-size: 0.90em; font-weight:normal; font-style:italic; color:#000000; -aw-style-name:heading7 }
+.Heading8 { margin-top:15pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:15pt; font-family:'Verdana'; font-size: 0.90em; font-weight:normal; font-style:italic; color:#000000; -aw-style-name:heading8 }
+.Heading9 { margin-top:0pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:15pt; font-family:'Verdana'; font-size: 0.90em; font-weight:normal; font-style:italic; color:#000000; -aw-style-name:heading9 }
+.BalloonText { margin-bottom:0pt; t-i:14.2pt; line-height:normal; font-family:'Segoe UI'; font-size: 0.90em }
+.Beteckning { margin-top:18pt; margin-bottom:0pt; t-i:14.2pt; page-break-inside:auto; page-break-after:auto; line-height:19.5pt; font-size: 1.05em }
+.BlockText, .Inramatstycke { margin-right:56.7pt; margin-left:56.7pt; margin-bottom:0pt; t-i:0pt; text-align:nojustify; line-height:15pt; border:0.75pt solid #000000; padding:10pt; font-size: 0.90em; font-style:italic; -aw-border:0.25pt single }
+.Citaticitat { margin-top:7.5pt; margin-left:34pt; margin-bottom:0pt; t-i:0pt; line-height:12pt; font-size: 0.90em }
+.Citaticitatmedindrag { margin-top:0pt; margin-left:34pt; margin-bottom:7.5pt; t-i:17pt; line-height:12pt; font-size: 0.90em }
+.Citatmedindrag { margin-top:0pt; margin-left:17pt; margin-bottom:0pt; t-i:17pt; line-height:12pt; font-size: 0.90em }
+.CommentSubject { margin-bottom:0pt; t-i:14.2pt; line-height:normal; font-size: 0.90em; font-weight:bold }
+.CommentText { margin-bottom:0pt; t-i:14.2pt; line-height:normal; font-size: 0.90em }
+.FSHLogo { margin-top:4pt; margin-bottom:0pt; t-i:0pt; line-height:normal; font-size: 0.90em }
+.FSHNormL { margin-top:4pt; margin-bottom:0pt; t-i:0pt; line-height:15pt; border-top:1.5pt solid #000000; padding-top:3pt; font-size: 0.90em }
+.FSHNormal { margin-top:4pt; margin-bottom:0pt; t-i:0pt; line-height:15pt; font-size: 0.90em }
+.FSHNormalS5 { margin-top:11.5pt; margin-bottom:26pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-size: 0.95em; font-weight:bold }
+.FSHRub1, .Rubrik1S5 { margin-top:135pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:16pt; font-size: 1.00em }
+.FSHRub2, .Rubrik1A4 { margin-top:50pt; margin-bottom:5pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:24pt; font-size: 1.05em }
+.FSHTitel, .Dokumentrubrik { margin-top:4pt; margin-bottom:4pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:20pt; border-bottom:0.75pt solid #000000; padding-bottom:3pt; font-size: 1.05em; -aw-border-bottom:0.5pt single }
+.Footer { margin-top:4pt; margin-bottom:0pt; t-i:0pt; text-align:center; line-height:normal; font-size: 0.90em }
+.FootnoteText { margin-top:0pt; margin-bottom:0pt; t-i:0pt; line-height:12pt; font-size: 0.90em }
+.Frslagsrubrik { margin-top:41pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:19.5pt; font-family:'Verdana'; font-size: 1.05em }
+.Frslagstext, .Hemstlatt, .Yrkande { margin-top:4pt; margin-left:19.85pt; margin-bottom:0pt; t-i:-19.85pt; line-height:15pt; font-size: 0.90em }
+.Header { margin-top:4pt; margin-bottom:0pt; t-i:0pt; line-height:normal; font-size: 0.90em }
+.KantRubrikS5H { margin-top:6pt; margin-right:2.85pt; margin-bottom:0pt; t-i:0pt; text-align:right; line-height:8pt; font-size: 0.90em }
+.KantRubrikS5Hrad2 { margin-top:0pt; margin-right:2.85pt; margin-bottom:0pt; t-i:0pt; text-align:right; line-height:10pt; font-size: 0.90em }
+.KantRubrikS5V { margin-top:6pt; margin-right:0pt; margin-bottom:0pt; t-i:0pt; text-align:left; line-height:8pt; font-size: 0.90em }
+.KantRubrikS5Vrad2 { margin-top:0pt; margin-right:0pt; margin-bottom:0pt; t-i:0pt; text-align:left; line-height:10pt; font-size: 0.90em }
+.KantrubrikH { margin-top:4pt; margin-right:-82.2pt; margin-bottom:0pt; t-i:0pt; text-align:right; line-height:15pt; font-size: 0.90em }
+.KantrubrikV { margin-top:4pt; margin-left:-85.05pt; margin-bottom:0pt; t-i:0pt; line-height:normal; font-size: 0.90em }
+.Klla { margin-top:0pt; margin-bottom:0pt; t-i:0pt; line-height:12pt; font-size: 0.90em }
+.Lagtext { margin-top:4pt; margin-bottom:0pt; t-i:0pt; line-height:normal; font-size: 0.90em }
+.Lagtextindrag { margin-top:4pt; margin-bottom:0pt; t-i:14.2pt; line-height:normal; font-size: 0.90em }
+.Lagtextrubrik { margin-top:4pt; margin-bottom:0pt; t-i:0pt; line-height:normal; font-size: 0.90em; font-style:italic; letter-spacing:1pt }
+.List { margin-top:7.5pt; margin-left:17pt; margin-bottom:7.5pt; t-i:-17pt; line-height:15pt; font-size: 0.90em }
+.ListBullet, .PunktlistaBomb { margin-top:4pt; margin-left:14.2pt; margin-bottom:0pt; t-i:-14.2pt; line-height:15pt; font-size: 0.90em }
+.ListNumber, .PunktlistaNummer { margin-top:4pt; margin-left:14.2pt; margin-bottom:0pt; t-i:-14.2pt; line-height:15pt; font-size: 0.90em }
+.ListParagraph { margin-left:36pt; margin-bottom:0pt; t-i:14.2pt; line-height:15pt; font-size: 0.90em }
+.ListaGemener { margin-top:7.5pt; margin-left:17pt; margin-bottom:7.5pt; t-i:-17pt; line-height:15pt; font-size: 0.90em }
+.ListaLinje { margin-top:7.5pt; margin-left:17pt; margin-bottom:7.5pt; t-i:-17pt; line-height:15pt; font-size: 0.90em }
+.ListaNummer { margin-top:7.5pt; margin-left:17pt; margin-bottom:7.5pt; t-i:-17pt; line-height:15pt; font-size: 0.90em }
+.ListaPunkt { margin-top:7.5pt; margin-left:17pt; margin-bottom:7.5pt; t-i:-17pt; line-height:15pt; font-size: 0.90em }
+.MotionTIllRiksdagen { margin-top:18pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:19.5pt; font-size: 1.05em }
+.Motionr { margin-top:14pt; margin-bottom:31.5pt; t-i:0pt; page-break-inside:avoid; line-height:15pt; font-size: 1.00em; font-weight:bold; font-style:normal }
+.Motiveringrubrik2numrerat1 { margin-top:30pt; margin-left:0pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:17pt; font-family:'Verdana'; font-size: 1.00em }
+.Motiveringrubrik3numrerat1 { margin-top:18pt; margin-left:0pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:15pt; font-family:'Verdana'; font-size: 0.90em; font-weight:bold }
+.Motiveringrubrik3numrerat11 { margin-top:18pt; margin-left:0pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:15pt; font-family:'Verdana'; font-size: 0.90em; font-weight:bold }
+.Motiveringrubrik4numrerat11 { margin-top:18pt; margin-left:0pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:15pt; font-family:'Verdana'; font-size: 0.90em; font-weight:normal; font-style:italic }
+.NormalWeb { margin-bottom:0pt; t-i:14.2pt; line-height:15pt; font-family:'Verdana'; font-size: 0.90em }
+.NormalIndent { margin-left:65.2pt; margin-bottom:0pt; t-i:14.2pt; line-height:15pt; font-size: 0.90em }
+.Normalutanindragellerluft { margin-top:4pt; margin-bottom:0pt; t-i:0pt; line-height:15pt; font-size: 0.90em }
+.Normal00 { margin-top:4pt; margin-bottom:0pt; t-i:0pt; line-height:normal; font-size: 0.90em }
+.NormalA4fot { margin-top:12pt; margin-bottom:0pt; t-i:0pt; text-align:center; line-height:normal; font-size: 0.90em }
+.NormalA4sidnr { margin-top:4pt; margin-bottom:12pt; t-i:0pt; text-align:center; line-height:normal; font-size: 0.90em }
+.NormalS5sidnrH { margin-top:4pt; margin-right:2.85pt; margin-bottom:0pt; t-i:0pt; text-align:right; line-height:normal; font-size: 0.90em }
+.NormalS5sidnrV { margin-top:4pt; margin-right:0pt; margin-bottom:0pt; t-i:0pt; text-align:left; line-height:normal; font-size: 0.90em }
+.PlainText { margin-bottom:0pt; t-i:0pt; line-height:12pt; font-family:'Verdana'; font-size: 0.90em }
+.Quote { margin-top:7.5pt; margin-left:17pt; margin-bottom:0pt; t-i:0pt; line-height:12pt; font-size: 0.90em }
+.R1 { margin-top:41pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:19.5pt; font-family:'Verdana'; font-size: 1.05em }
+.R2 { margin-top:30pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:17pt; font-family:'Verdana'; font-size: 1.00em }
+.R3 { margin-top:18pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:15pt; font-family:'Verdana'; font-size: 0.90em; font-weight:bold }
+.Rubrik1numrerat { margin-top:41pt; margin-left:0pt; margin-bottom:0pt; t-i:0pt; page-break-inside:auto; page-break-after:avoid; line-height:19.5pt; font-family:'Verdana'; font-size: 1.05em }
+.Rubrik2numrerat { margin-top:30pt; margin-left:0pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:17pt; font-family:'Verdana'; font-size: 1.00em }
+.Rubrik3numrerat { margin-top:18pt; margin-left:0pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:15pt; font-family:'Verdana'; font-size: 0.90em; font-weight:bold }
+.Rubrik4numrerat { margin-top:18pt; margin-left:0pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:15pt; font-family:'Verdana'; font-size: 0.90em; font-weight:normal; font-style:italic }
+.RubrikFrslagTIllRiksdagsbeslut { margin-top:41pt; margin-bottom:15pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:19.5pt; font-family:'Verdana'; font-size: 1.05em }
+.RubrikInnehllsf { margin-top:41pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:19.5pt; font-family:'Verdana'; font-size: 1.05em }
+.RubrikSammanf { margin-top:41pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:19.5pt; font-family:'Verdana'; font-size: 1.05em }
+.Salutation { margin-top:41pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:19.5pt; font-family:'Verdana'; font-size: 1.05em }
+.Streckkod { margin-top:12pt; margin-bottom:0pt; t-i:0pt; text-align:center; line-height:normal; font-family:IDAutomationHC39S; font-size: 1.00em }
+.Strecklista, .PunktlistaTankstreck { margin-top:4pt; margin-left:14.2pt; margin-bottom:0pt; t-i:-14.2pt; line-height:15pt; font-size: 0.90em }
+.Subtitle { margin-top:4pt; margin-bottom:0pt; t-i:0pt; line-height:15pt; font-family:'Verdana'; font-size: 0.90em; font-weight:bold }
+.TOC1 { margin-top:4pt; margin-bottom:0pt; t-i:0pt; line-height:15pt; font-size: 0.90em }
+.TOC2 { margin-top:4pt; margin-left:14.2pt; margin-bottom:0pt; t-i:0pt; line-height:15pt; font-size: 0.90em }
+.TOC3 { margin-top:4pt; margin-left:28.35pt; margin-bottom:0pt; t-i:0pt; line-height:15pt; font-size: 0.90em }
+.TOC4 { margin-top:4pt; margin-left:42.55pt; margin-bottom:0pt; t-i:0pt; line-height:15pt; font-size: 0.90em }
+.TOC5 { margin-top:4pt; margin-left:56.7pt; margin-bottom:0pt; t-i:0pt; line-height:15pt; font-size: 0.90em }
+.TOC6 { margin-top:4pt; margin-left:56.7pt; margin-bottom:0pt; t-i:0pt; line-height:15pt; font-size: 0.90em }
+.TOC7 { margin-top:15pt; margin-left:56.7pt; margin-bottom:0pt; t-i:14.2pt; page-break-inside:avoid; page-break-after:avoid; line-height:normal; font-family:'Verdana'; font-size: 0.90em; font-weight:normal; font-style:italic }
+.TOC8 { margin-top:15pt; margin-left:56.7pt; margin-bottom:0pt; t-i:14.2pt; page-break-inside:avoid; page-break-after:avoid; line-height:normal; font-family:'Verdana'; font-size: 0.90em; font-weight:normal; font-style:italic }
+.TOC9 { margin-top:15pt; margin-left:56.7pt; margin-bottom:0pt; t-i:14.2pt; page-break-inside:avoid; page-break-after:avoid; line-height:normal; font-family:'Verdana'; font-size: 0.90em; font-weight:normal; font-style:italic }
+.TOCHeading { margin-top:41pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:19.5pt; font-family:'Verdana'; font-size: 1.05em }
+.Tabellunderrubrik { margin-top:0pt; margin-bottom:0pt; t-i:0pt; page-break-after:avoid; line-height:15pt; font-size: 0.90em; font-weight:normal; font-style:italic }
+.Tabellrubrik { margin-top:7.5pt; margin-bottom:0pt; t-i:0pt; page-break-after:avoid; line-height:15pt; font-size: 0.90em; font-weight:bold }
+.Title { margin-top:41pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:19.5pt; font-family:'Verdana'; font-size: 1.05em }
+.Underskriftdatum { margin-top:24pt; margin-bottom:3pt; t-i:0pt; page-break-inside:avoid; line-height:15pt; font-size: 0.90em; font-style:normal }
+.Underskrifter { margin-top:15pt; margin-bottom:3pt; t-i:0pt; page-break-inside:avoid; line-height:15pt; font-size: 0.90em; font-style:italic }
+.Yrkandehnv, .Frslagspunkthnv { margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; font-size: 0.90em }
+span.BallongtextChar { font-family:'Segoe UI'; font-size: 0.90em }
+span.BeteckningChar { font-size:19.5pt }
+span.CommentReference { font-size:8pt }
+span.FSHRub2Char, span.Rubrik1A4Char { font-size:24pt }
+span.FotnotstextChar { font-size:10pt }
+span.Hyperlink { text-decoration:underline; color:#0563c1; -aw-style-name:hyperlink }
+span.InledningChar { font-family:'Verdana'; font-size: 1.00em; font-weight:bold }
+span.IntenseReference { font-weight:normal; font-style:normal; font-variant:normal; text-decoration:none; text-transform:none; letter-spacing:0pt; vertical-align:0pt; color:#000000; display:inline }
+span.KommentarerChar { font-size:10pt }
+span.KommentarsmneChar { font-size:10pt; font-weight:bold }
+span.MotionTIllRiksdagenChar { font-size:19.5pt }
+span.OformateradtextChar { font-family:'Verdana'; font-size: 0.90em }
+span.PlaceholderText { color:#f4b083 }
+span.Rubrik1Char { font-family:'Verdana'; font-size: 1.05em }
+span.Rubrik2Char { font-family:'Verdana'; font-size: 1.00em }
+span.Rubrik3Char { font-family:'Verdana'; font-size: 0.90em; font-weight:bold }
+span.Rubrik4Char { font-family:'Verdana'; font-size: 0.90em; font-style:italic }
+span.Rubrik5Char { font-family:'Verdana'; font-weight:bold }
+span.Rubrik6Char { font-family:'Verdana'; font-style:italic }
+span.Rubrik7Char { font-family:'Verdana'; font-size: 0.90em; font-weight:bold }
+span.Rubrik8Char { font-family:'Verdana'; font-size: 0.90em; font-weight:bold }
+span.Rubrik9Char { font-family:'Verdana'; font-size: 0.90em; font-weight:bold }
+span.RubrikChar { font-family:'Verdana'; font-size: 1.00em; font-weight:bold }
+span.SidfotChar { font-size:11.5pt }
+span.UnderrubrikChar { font-family:'Verdana'; font-size: 0.90em; font-weight:bold }
+.TableGrid {  }
+
+.pconf{width: 450px;margin-left:5px;overflow:visable;font-family:Verdana, Geneva, sans-serif;} 
+ .sidhuvud_publikation, .sidhuvud_beteckning{font-size:133%}
+.MotionarLista {font-size:122%}
+
+--></style><div class="pconf"><span class="sidhuvud_publikation">Motion till riksdagen</span><br/>
+<span class="sidhuvud_beteckning">2024/25:1407</span><br/>
+<span class="MotionarLista">av Björn Söder m.fl. (SD)</span><br/>
+<h1>Civilt försvar</h1>
+<hr class="sidhuvud_linje"/>
+
+
+		<div class="Section1">
+			<p class="RubrikFrslagTIllRiksdagsbeslut">
+				<a name="_Toc106800475"></a><a name="_Toc106801300"><span style="-aw-sdt-tag:'CC_Boilerplate_4'; -aw-sdt-title:'CC_Boilerplate_4'"><span>Förslag till riksdagsbeslut</span></span><span style="-aw-bookmark-end:_Toc106800475"></span></a>
+			</p>
+			<div style="-aw-sdt-tag:'495c828d-024c-45bc-86a6-913782590f42'; -aw-sdt-title:'Yrkande 1'">
+				<ol type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-left:14pt; t-i:0pt; padding-left:5.85pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att regeringen i sitt arbete bör beakta det som anförs i motionen om det civila försvaret och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'cc9c4a3d-3ef6-4360-9ec3-de747dd4fc89'; -aw-sdt-title:'Yrkande 2'">
+				<ol start="2" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; margin-left:14pt; t-i:0pt; padding-left:5.85pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att regeringen bör beakta direktiven om civilförsvarets utformning och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'48bb257b-7a03-437f-906d-089c8413d46f'; -aw-sdt-title:'Yrkande 3'">
+				<ol start="3" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; margin-left:14pt; t-i:0pt; padding-left:5.85pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att regeringen bör beakta civilförsvaret och krisberedskapens ledning och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'1b3c8265-4d1b-4d04-be20-d05627cfbe87'; -aw-sdt-title:'Yrkande 4'">
+				<ol start="4" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; margin-left:14pt; t-i:0pt; padding-left:5.85pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att regeringen bör överväga myndigheternas totalförsvarsperspektiv och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'f9a18035-ff89-4aac-9f28-3dbdad53431c'; -aw-sdt-title:'Yrkande 5'">
+				<ol start="5" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; margin-left:14pt; t-i:0pt; padding-left:5.85pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att regeringen behöver ta hänsyn till utformningen av SOS Alarm och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'ab335c7c-08ad-42e0-a76f-996e28958c3a'; -aw-sdt-title:'Yrkande 6'">
+				<ol start="6" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; margin-left:14pt; t-i:0pt; padding-left:5.85pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att regeringen i sitt arbete bör beakta en översyn av beredskapslagren och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'2613df46-420d-47c4-bac8-a47f285a585c'; -aw-sdt-title:'Yrkande 7'">
+				<ol start="7" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; margin-left:14pt; t-i:0pt; padding-left:5.85pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att regeringen bör överväga att stärka arbetet med energisäkerhet och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'2c67f208-6021-4878-8072-0eac8e3e9de6'; -aw-sdt-title:'Yrkande 8'">
+				<ol start="8" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; margin-left:14pt; t-i:0pt; padding-left:5.85pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att regeringen bör överväga att stärka arbetet med strålsäkerhet och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'ba071e27-ec5e-420c-a211-dd16da93bd82'; -aw-sdt-title:'Yrkande 9'">
+				<ol start="9" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; margin-left:14pt; t-i:0pt; padding-left:5.85pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om skjutbanors roll för totalförsvaret och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'a8a02097-af9c-4d65-9dd8-42f8ae40c81a'; -aw-sdt-title:'Yrkande 10'">
+				<ol start="10" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; t-i:0pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att utreda om staten bör bli huvudman för räddningstjänsten och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'e574734d-f4e4-4d7c-9aac-bdc1c08e9467'; -aw-sdt-title:'Yrkande 11'">
+				<ol start="11" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; t-i:0pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att tillsätta en ny utredning utifrån det aktuella omvärldsläget för att se över beredskapsbehovet av de regionala flygplatserna och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'c37090b6-2cfc-450f-882b-9ee0a74d2c01'; -aw-sdt-title:'Yrkande 12'">
+				<ol start="12" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; t-i:0pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att de analoga radarfyrarna, s.k. VOR, ska behållas och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'b13f6386-cd43-45c9-866b-c9d6f2cf9df3'; -aw-sdt-title:'Yrkande 13'">
+				<ol start="13" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; t-i:0pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att Luftfartsverket ska ges i uppdrag att omgående återta ansvaret för att tillhandahålla radardata till samtliga flygplatser i Sverige och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'086029e3-8a3e-4580-bddb-992f2913c47e'; -aw-sdt-title:'Yrkande 14'">
+				<ol start="14" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; t-i:0pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om säkerhetsklassade torrhamnar och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'CC_Motivering_Rubrik'; -aw-sdt-title:'CC_Motivering_Rubrik'">
+				<h1>
+					<a name="MotionsStart"></a><a name="_Toc106801301"></a><a name="_Toc106800476"><span>Ett reformerat civilförsvar</span></a>
+				</h1>
+			</div>
+			<span style="-aw-bookmark-end:_Toc106801301">
+			</span>
+			<p class="Normalutanindragellerluft">
+				<span style="-aw-bookmark-end:_Toc106800476"></span><span>Det är av stor vikt att arbetet med att förstärka och återuppbygga det civila försvaret fortsätter. Det militära försvaret är utifrån dagens moderna samhälle beroende av ett robust civilt försvar. Bara under det senaste året har flera myndigheter gått ut med information om att återuppbyggnaden går för långsamt och måste snabbas på. Decennier av ansvarslös och naiv försvarspolitik har försatt Sverige, och inte minst befolkningen, i </span><span style="letter-spacing:-0.05pt">en dålig sits. På flera håll är skyddsrumsbeståndet för litet, det saknas idag logistik</span><span style="letter-spacing:-0.05pt">&#xad;</span><span style="letter-spacing:-0.05pt">flöden</span><span> för livsmedelsförsörjning och de myndigheter och kommuner som är satta att leda det civila försvaret har inte övat i den utsträckning som säkerhetsläget kräver. Kriget i Ukraina visar på Rysslands totala likgiltighet inför civila mål och civil infrastruktur, </span><span style="letter-spacing:-0.05pt">vilket ger oss en förevisning av hur landet i en krigssituation kommer agera mot Sverige.</span><span> Det är därför av stor vikt att arbetet med det civila försvaret växlar upp och speglar det negativa säkerhetsläge som existerar i vårt närområde. Grunden för det framtida civila försvaret är de förslag som återfinns i Försvarsberedningens rapport. För att återupprätta ett trovärdigt och väl fungerande civilt försvar kommer dock än mer </span><span style="letter-spacing:-0.1pt">omfattande sats</span><span style="letter-spacing:-0.1pt">&#xad;</span><span style="letter-spacing:-0.1pt">ningar </span><span>än vad som föreslås i Försvarsberedningens rapport behöva genomföras. Det civila försvaret ska ha förmåga och planering för att ge stöd till det militära försvaret. Vidare ska det civila försvaret stärka samhällets samlade förmåga att förebygga och hantera svåra påfrestningar såväl i fred som i krig. Till skillnad från den hotbild som </span><span style="letter-spacing:-0.05pt">rådde under det kalla kriget är dagens situation mer komplex och svårförutsägbar. Utöver</span><span> krig utgörs hoten mot vår säkerhet idag av exempelvis cyberattacker, informationskrig genom desinformation, användandet av massförstörelsevapen, terrorism, sabotage</span><span>&#xad;</span><span>verksamhet och smittsamma sjukdomar.</span>
+			</p>
+			<p>
+				<span>För att det civila försvaret ska klara av att lösa sina uppgifter utifrån denna hotbild måste det civila försvaret ha bredare kompetens, kunskap och förmågor än vad som var fallet förut. I praktiken innebär detta att det kommer krävas omfattande satsningar på </span><span style="letter-spacing:-0.05pt">övningar, materiel, personal samt förmåga att hantera situationer med bristfälligt besluts</span><span style="letter-spacing:-0.05pt">&#xad;</span><span style="letter-spacing:-0.05pt">underlag</span><span> och knappa resurser. Målbilden är att det civila försvaret ska klara av att lösa sin uppgift i minst 90 dygn. Kraven på den enskilde kommer härvid att bli påtagligt högre. I syfte att öka individens förståelse för totalförsvarets vikt och varje medborgares skyldigheter så bör totalförsvarsinformation införas som en tydlig del inom samhälls</span><span>&#xad;</span><span>kunskapen i såväl grundskola som gymnasium. För att Sverige ska klara av framtida kriser är det av yttersta vikt att varje medborgare medvetet tar ett stort eget ansvar och förbereder sig så att han eller hon klarar sig utan stöd från samhället i minst en vecka. Sveriges medlemskap i Nato innebär inte endast ett militärt åtagande utan även ett civilt, där det genom medlemskapet finns krav på mål som ska uppnås. Natomedlemskapet ger </span><span style="letter-spacing:-0.1pt">oss således en bättre möjlighet att fortsätta det redan etablerade samarbetet inom området.</span><span> Sverigedemokraterna vill se en fortsatt integration och samarbete mellan Sverige och de nordiska länderna inom ramen för de olika samarbetsprojekt som idag existerar på området. Sveriges och Finlands Natomedlemskap har undanröjt flera hinder kring bland </span><span style="letter-spacing:-0.05pt">annat informationsdelning och system vilket möjliggör ett fördjupat samarbete. Det är av stor vikt att arbetet tar ett helhetsgrepp kring bland annat livsmedels- och drivmedels</span><span style="letter-spacing:-0.05pt">&#xad;</span><span style="letter-spacing:-0.05pt">försörjning,</span><span> </span><span style="letter-spacing:-0.05pt">sjukvård, lagerhållning och befolkningsskydd. Detta för att i yttersta möjliga </span><span>mån säkerställa en regional trygghet och uthållighet i händelse av kris eller krig. </span>
+			</p>
+			<h1>
+				<span>Det civila försvarets finansieringsstruktur</span>
+			</h1>
+			<p class="Normalutanindragellerluft">
+				<span>Sverigedemokraterna anser i likhet med Försvarsberedningens rapport </span><span style="font-style:italic">Kraftsamling</span><span> att det finns en fördel med att samla anslagsposter för investeringar, vidmakthållande och transfereringar inom utgiftsområde</span><span>&#xa0;</span><span>6. Detta för att enklare kunna följa upp och kunna skapa sig en överblick över hur medlen fördelas mellan myndigheterna. Det har tidigare varit svårt att följa upp eller på något sätt mäta hur utvecklingen av det civila försvaret fortlöper. Givet säkerhetsläget är det av stor vikt att arbetet med att stärka det civila försvaret fortlöper och skalar upp. </span>
+			</p>
+			<h1>
+				<span>Psykologiskt försvar</span>
+			</h1>
+			<p class="Normalutanindragellerluft">
+				<span>Problematiken med desinformation, informationspåverkan och hybridkrigföring som syftar till att sänka befolkningens försvarsvilja har under de senaste åren fått allt större uppmärksamhet. Samhällets digitalisering, sociala medier och AI i kombination med det senaste decenniets återkommande kriser har en påverkan på människors uppfattning av sig själva, sina medmänniskor och sitt land. Den ökade polariseringen mellan ideologi, religion, konspirationsteorier och extremism kommer på sikt leda till allvarliga motsätt</span><span>&#xad;</span><span>ningar, vilket redan utnyttjas av främmande makt. Det är därför av stor vikt att landets myndigheter, institutioner, offentliga nyhetsmedier och aktörer som är centrala för landets motståndskraft och psykologiska försvar, agerar sakligt för att inte bli ett led i främmande makts angrepp på Sverige. En viktig del i det psykologiska försvaret och </span><span style="letter-spacing:-0.1pt">motståndskraften är medborgarnas tillit till en saklig och förtroendeingivande förvaltning.</span>
+			</p>
+			<p>
+				<span style="letter-spacing:-0.05pt">Sverigedemokraterna är orubbliga i bevarandet av vår nation, vår kulturella samhörig</span><span style="letter-spacing:-0.05pt">&#xad;</span><span style="letter-spacing:-0.05pt">het</span><span> och vår självbestämmanderätt. Sverige må ha stora problem med segregation och kriminalitet men detta innebär inte på något sätt att vi skall vika för påtryckningar, hot eller verksamhet som syftar till att sänka befolkningens tilltro till vår förmåga att lösa problemen. Sverigedemokraterna delar Försvarsberedningens bedömning att försvars</span><span>&#xad;</span><span>vilja är den enskilt viktigaste komponenten i totalförsvaret. Det psykologiska försvaret bör enligt vår mening i större utsträckning också tala om vikten av social samman</span><span>&#xad;</span><span>hållning och uppslutning kring våra kulturella värderingar som gjorde Sverige till det land det en gång var, nämligen ett av världens mest utvecklade och säkraste länder. Ukrainakriget visar på hur existentiellt viktig en enad befolkning är i en kris- och krigssituation. Sverigedemokraterna vill se ett utökat arbete och bredd inom området hos främst Myndigheten för samhällsskydd och beredskap, Polismyndigheten och andra aktörer som har uppdrag inom detta område. </span><span style="-aw-import:spaces">&#xa0;</span><span> </span>
+			</p>
+			<h1>
+				<span>Direktiv till civilförsvaret</span>
+			</h1>
+			<p class="Normalutanindragellerluft">
+				<span>Det civila försvarets huvuduppgift är att säkerställa vår nationella uthållighet avseende försvarsvilja, energi- och livsmedelsförsörjning samt vårt demokratiska samhällsskick. Det civila försvaret utgör en väsentlig del av totalförsvaret utan vilket inte det militära </span><span style="letter-spacing:-0.1pt">försvaret kommer att kunna lösa sina uppgifter. På motsvarande sätt är det civila försvaret</span><span> instrumentellt när det gäller att vidmakthålla den nationella försvarsviljan och uthållig</span><span>&#xad;</span><span>heten. På sikt bör även det civila försvaret utvecklas mot interoperabilitet med övriga nordiska länders motsvarigheter, i syfte att både kunna ge och ta emot omedelbart bistånd i händelse av svåra påfrestningar på samhället i fred, kris och krig. Det civila försvaret bör utvecklas, övas och ledas i nära samverkan med det militära försvaret så att synergieffekter uppnås och konkurrensförhållanden och ledningsproblematik kan undanröjas redan i den fredstida verksamheten. Totalförsvarets förmåga att säkerställa en långsiktig förnödenhetsförsörjning bör övervägas att utvecklas mot den finska modellen, där företagskedjor enligt lag skall innehålla vissa nivåer av bränsle, livsmedel m.m.</span>
+			</p>
+			<p>
+				<span>Civilförsvaret ska därför:</span>
+			</p>
+			<ul type="disc" style="margin:0pt; padding-left:0pt">
+				<li class="ListaPunkt" style="margin-left:10.52pt; margin-bottom:0pt; t-i:0pt; padding-left:6.48pt; font-family:serif; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''">
+					<span style="font-family:'Verdana'">Med alla medel stödja det militära försvaret i dess utförande av militära operationer men även verka för det civila samhällets fortsatta funktion under kris och krig. </span>
+				</li>
+				<li class="ListaPunkt" style="margin-top:0pt; margin-left:10.52pt; margin-bottom:0pt; t-i:0pt; padding-left:6.48pt; font-family:serif; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''">
+					<span style="font-family:'Verdana'">Långsiktigt och i samverkan med näringslivet bygga upp och vidmakthålla den nationella försörjningsförmågan genom olika former av beredskapslager av strategiskt viktiga produkter såsom kritiska industrikomponenter, drivmedel, läkemedel och livsmedel. </span>
+				</li>
+				<li class="ListaPunkt" style="margin-top:0pt; margin-left:10.52pt; margin-bottom:0pt; t-i:0pt; padding-left:6.48pt; font-family:serif; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''">
+					<span style="font-family:'Verdana'">Kunna stödja näringslivet med utbildning samt skydd och bevakning av samhälls</span><span style="font-family:'Verdana'">&#xad;</span><span style="font-family:'Verdana'">kritisk infrastruktur, till exempel inom elförsörjning och transportväsendet. </span>
+				</li>
+				<li class="ListaPunkt" style="margin-top:0pt; margin-left:10.52pt; margin-bottom:0pt; t-i:0pt; padding-left:6.48pt; font-family:serif; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''">
+					<span style="font-family:'Verdana'">Kunna upprätthålla isfria sjötrafikleder i Östersjön och Västerhavet. </span>
+				</li>
+				<li class="ListaPunkt" style="margin-top:0pt; margin-left:10.52pt; margin-bottom:0pt; t-i:0pt; padding-left:6.48pt; font-family:serif; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''">
+					<span style="font-family:'Verdana'">I samverkan med andra myndigheter och även allierade nationer tidigt kunna upptäcka, identifiera och neutralisera hot mot rikets säkerhet. </span>
+				</li>
+				<li class="ListaPunkt" style="margin-top:0pt; margin-left:10.52pt; margin-bottom:0pt; t-i:0pt; padding-left:6.48pt; font-family:serif; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''">
+					<span style="font-family:'Verdana'">I samverkan med övriga totalförsvaret och även andra allierade kunna övervaka och hävda vår territoriella integritet. </span>
+				</li>
+				<li class="ListaPunkt" style="margin-top:0pt; margin-left:10.52pt; margin-bottom:0pt; t-i:0pt; padding-left:6.48pt; font-family:serif; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''">
+					<span style="font-family:'Verdana'">Inom riket kunna omdisponera resurser för att stödja områden som blivit utsatta för omfattande skador i samband med sabotage eller andra former av angrepp, till exempel biologiska angrepp, brand, översvämningar, men även vid omfattande naturkatastrofer eller miljöbrott (oljeutsläpp med mera). </span>
+				</li>
+				<li class="ListaPunkt" style="margin-top:0pt; margin-left:10.52pt; margin-bottom:0pt; t-i:0pt; padding-left:6.48pt; font-family:serif; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''">
+					<span style="font-family:'Verdana'">Efter särskild förfrågan och förberedelser/utbildning kunna ställa resurser till andra länders förfogande vad avser räddningstjänst, såsom brandbekämpning, oljeutsläpp, återuppbyggnad eller humanitärt stöd. </span>
+				</li>
+				<li class="ListaPunkt" style="margin-top:0pt; margin-left:10.52pt; t-i:0pt; padding-left:6.48pt; font-family:serif; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''">
+					<span style="font-family:'Verdana'">Genom återkommande övningar på alla nivåer skapa personkännedom mellan samverkande myndigheter, säkerställa att befattningshavare känner till beredskaps</span><span style="font-family:'Verdana'">&#xad;</span><span style="font-family:'Verdana'">planer och kan och vågar fatta beslut i okända situationer och med bristfälligt beslutsunderlag där ansvarsgränser kan vara otydliga. </span>
+				</li>
+			</ul>
+			<h1>
+				<span>Civilförsvar och krisberedskapens ledning</span>
+			</h1>
+			<p class="Normalutanindragellerluft">
+				<span>Det civila försvaret och krisberedskapen bygger på tre principer: ansvarsprincipen, närhetsprincipen och likhetsprincipen. Sammantaget kan det konkretiseras så att den aktör som i fredstid är ansvarig för en verksamhet också tar ansvaret i händelse av kris eller krig. Hanteringen av händelser från kris och krig utgår också från att dessa hanteras av närmast ansvarig. Slutligen innebär likhetsprincipen att en verksamhet ska fungera så normalt det bara går under en kris men också att eventuella förändringar inte får gå hur långt som helst. Ovanstående innebär konkret att kommuner, regioner och länsstyrelser är ansvariga för det grundläggande krisberedskapsarbetet i fredstid. De är ansvariga för att tillse att förskolepersonalen vet vad som sker när flyglarmet går, att skolmaten serveras men också att elen och verksamheten på äldreboendet fungerar.</span>
+			</p>
+			<p>
+				<span>Mot bakgrund av den rad ödesdigra beslut som togs under 2000-talet så avvecklades merparten av de fungerande rutiner och processer som det gamla systemet byggde på. Detta innebär att allt måste återuppbyggas på nytt och som det ser ut idag har många av landets 290 kommuner inte förutsättningarna att hantera detta viktiga uppdrag på ett fullgott sätt. I backspegeln har vi migrationskrisen och därefter pandemin som inneburit att en stor del av kommunens dagliga verksamhet inom skola, äldreomsorg och stads</span><span>&#xad;</span><span>planering fått gå på knäna de senaste åren. Kraven på de olika principerna innebär att staten, som är ytterst ansvarig, har begränsade medel att kravställa mot en miniminivå när det gäller det krisförebyggande arbetet.</span>
+			</p>
+			<p>
+				<span>Myndigheten för samhällsskydd och beredskap har en samordnande roll i det före</span><span>&#xad;</span><span>byggande krisberedskapsarbetet. Som det ser ut idag går återuppbyggnaden långsamt och landets 290 kommuner arbetar utifrån helt olika förutsättningar och ambitions</span><span>&#xad;</span><span>nivåer, vilket innebär 290 olika lösningar. Målbilden ska inte vara ett civilt försvar från </span><span style="letter-spacing:-0.05pt">kalla kriget utan ett civilt försvar som är anpassat för 2000-talets hotbild och utmaningar.</span><span> Samtidigt finns det ett stort behov av att det i uppstarten av återupp</span><span>&#xad;</span><span>byggnaden finns en tydlig ledning och styrning som kan säkerställa en nationell sammanhållning och rikt</span><span>&#xad;</span><span>linje. Denna ska givetvis åtföljas av möjligheter till sanktioner för de aktörer som inte prioriterar eller fokuserar på återuppbyggnaden av krisberedskapsfunktioner, vilka också är lagstadgade uppdrag. Myndigheten för samhällsskydd och beredskap bör övervägas att få utökad föreskriftsrätt för att tillsammans med länsstyrelsen tillse att arbetet med civilt försvar och krisberedskap fortlöper och når en acceptabel nivå med hänvisning till vad som ingår i varje aktörs uppdrag.</span>
+			</p>
+			<h1>
+				<span>Myndigheter</span>
+			</h1>
+			<p class="Normalutanindragellerluft">
+				<span>En minst lika viktig del i återuppbyggnaden av det civila försvaret är direktiven till de statliga myndigheterna genom regleringsbreven. Myndigheter såsom Trafikverket, Jordbruksverket, Livsmedelsverket m.fl. ska ha ett totalförsvarsperspektiv i sin verksamhet. Under den pågående återuppbyggnadsfasen har det framkommit problem kring myndigheternas fokus och roll kring det civila försvaret. Detta innefattar krigsplaceringar, vägbyggen samt nedläggning av för totalförsvaret viktig infrastruktur såsom flygfält m.m. Sverigedemokraterna ser det därför som viktigt att regeringen i regleringsbreven säkerställer myndigheternas totalförsvarsfokus och att detta årligen återrapporteras.</span>
+			</p>
+			<h1>
+				<span>SOS Alarm</span>
+			</h1>
+			<p class="Normalutanindragellerluft">
+				<span>I tider av kris och otrygghet är det extra viktigt att medborgarna känner förtroende för den alarmeringsfunktion som SOS Alarm är satt att sköta. För att upprätthålla detta förtroende är det av yttersta vikt att nödsamtalen behandlas likvärdigt och av en och samma aktör, oavsett var i landet en nödsituation inträffat. Det är även av stor vikt att svarstider upprätthålls över tid och att tillräckliga resurser finns i händelse av kris eller krig. SOS Alarms uppdrag är komplext, och för att kunna hantera kriser, olyckor och hög belastning krävs en robust organisation. Vidare fyller SOS Alarm en viktig roll i det </span><span style="letter-spacing:-0.05pt">civila försvaret och måste framöver utformas och öva på att vara en del av total</span><span style="letter-spacing:-0.05pt">&#xad;</span><span style="letter-spacing:-0.05pt">försvaret,</span><span> i fred såväl som i krig. SOS Alarm har med hjälp av budgettillskott arbetat hårt för att förbättra både svarstider, säkerhet och tillgänglighet, vilket är positivt. Samtidigt kan det fortsatt ligga i samhällets intresse att den nuvarande styrformen utvärderas och utreds. En sådan utredning skulle kunna lämna förslag på andra styrformer än aktie</span><span>&#xad;</span><span>bolagsform. </span>
+			</p>
+			<h1>
+				<span>Beredskapslager</span>
+			</h1>
+			<p class="Normalutanindragellerluft">
+				<span>Det civila försvaret och rikets krisberedskap är i behov av beredskapslager. För vissa produkter krävs nationella och regionala lager, för andra behövs storskalig central lagerhållning kompletterat med lokala lager. Riktvärdet bör vara att beredskapslagren klarar av att täcka minst tre månaders förbrukning. Om händelseutvecklingen påkallar att beredskapslagren nyttjas, ska inhemsk produktion kunna ökas eller ställas på krigsfot inom tre månader för att tillgången till vissa utpekade produkter ska kunna säkerställas. Tidsramen för att ställa om industrin ska ses som ett första riktvärde. På sikt ska industrin kunna ställas om på betydligt kortare tid. För att förbättra och säkerställa vår förmåga att klara av framtida kriser, behöver också självförsörjningsgraden av exempel</span><span>&#xad;</span><span>vis livsmedel, drivmedel och läkemedel samt skydds- och sjukvårdsmateriel höjas avsevärt. Svenska beredskapslager ska i normalfallet lagerhållas och finansieras av marknadsaktörer inom de olika segmenten, till exempel aktörerna inom livsmedels- och läkemedelsbranscherna. För att säkerställa att konkurrensneutraliteten bibehålls behöver lagstiftning och regler tas fram. I de fall små lokala näringsidkare i glesbygd inte klarar av att uppfylla uppställda krav, eller om någon marknadsaktör anser att konkurrens</span><span>&#xad;</span><span>neutraliteten satts ur spel, ska de kunna söka statligt stöd för att klara av att uppfylla de uppställda kraven. Samtliga kommuner, regioner och privata aktörer inom hälso- och sjukvård ska genom lagstiftning regleras att i sin dagliga verksamhet omsätta datum</span><span>&#xad;</span><span>känsliga artiklar och varor i beredskapslagren, till exempel läkemedel. Beredskaps</span><span>&#xad;</span><span>lagrens innehåll fastställs av Myndigheten för samhällsskydd och beredskap i samarbete med berörda myndigheter. Krav på lagerhållning av materiel och varor som är kritiska för totalförsvaret bör regleras i lag och de särskilda företag (K</span><span>&#x2011;</span><span>företag) som har att verkställa detta ska kunna göra det utan att det påverkar marknaden.</span>
+			</p>
+			<h1>
+				<span>Energisäkerhet för civilförsvar och samhällets krisberedskap</span>
+			</h1>
+			<p class="Normalutanindragellerluft">
+				<span style="letter-spacing:-0.05pt">Sverigedemokraterna anser att det är centralt för Sverige att driva frågor om hög säkerhet</span><span> och standard angående elektricitet i allmänhet samt kompetens och yrkes</span><span>&#xad;</span><span>erfarenhet hos utövare av dessa tjänster. Olika elkraftskonsumenter är olika beroende av säker el. För samhällsviktig verksamhet kan oacceptabla konsekvenser snabbt uppstå vid elavbrott. Med hjälp av modern styrteknik kan olika användare sättas i prioriteringsordning vid brist på el. Forskning visar att särskilda reservkraftnät med viss radie är kostnads</span><span>&#xad;</span><span>effek</span><span>&#xad;</span><span>tiva när det finns flera samhällsviktiga verksamheter nära varandra. Energimyndigheten bör ges i uppdrag att utifrån dessa utgångspunkter särskilt förstärka försörjnings</span><span>&#xad;</span><span>trygg</span><span>&#xad;</span><span>heten för samhällsviktiga verksamheter. Härvid bör särskild hänsyn tas till det bedömt kraftigt ökande elbehovet samt överföringskapacitet i stomnät mellan olika regioner, i syfte att säkerställa redundans.</span>
+			</p>
+			<h1>
+				<span>Strålsäkerhetsskydd för civilförsvar och samhällets krisberedskap</span>
+			</h1>
+			<p class="Normalutanindragellerluft">
+				<span>Då potentiella hot mot vår kärnkraft kan anses som förhöjda i ett stigande instabilt läge i vår omvärld, anser vi att ett ökat skydd för dessa anläggningar är av central betydelse för rikets säkerhet. Gällande skyddsregler ska ses över, inte bara för våra kärnkraftverk utan även vad gäller vår atomverksamhet och vår storskaliga vattenkraft. Säkerhets</span><span>&#xad;</span><span>zonerna runt verken bör därför ges en utökad radie, vilket även innefattar luftrummet. Sverigedemokraterna föreslår att regeringen återkommer till riksdagen med förslag på lagstiftning som svarar mot de större skyddsbehov som dagens instabilitet i vårt närområde medför.</span>
+			</p>
+			<h1>
+				<span>Skjutbanor</span>
+			</h1>
+			<p class="Normalutanindragellerluft">
+				<a name="_Hlk178272412"><span>Dagens miljökrav från både EU och den svenska miljöbalken är redan högt ställda. Det är inte svårt att föreställa sig att kraven kommer bli striktare vilket i sin tur kommer ha en betydande negativ inverkan på försvaret och den civila skytteverksamheten. Fenomenet vi ser idag med allt fler nedstängda skjutbanor har kallats för skjutbane</span><span>&#xad;</span><span>döden. Svårigheterna att erhålla miljötillstånd för nya skjutbanor eller utbyggnad har som följdeffekt att vissa helt enkelt lägger ned istället. Mot bakgrund av detta anser Sverigedemokraterna att regeringen bör agera för att bromsa trenden och istället säkerställa en ökad utbyggnad. För att detta ska kunna få effekt behöver regeringen vidta följande åtgärder:</span></a>
+			</p>
+			<ul type="disc" style="margin:0pt; padding-left:0pt">
+				<li class="ListaPunkt" style="margin-left:10.52pt; margin-bottom:0pt; t-i:0pt; padding-left:6.48pt; font-family:serif; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''">
+					<span style="font-family:'Verdana'">Utökad samordning och resurser för miljötillstånd: Regeringen bör aktivt arbeta för att underlätta processen för att erhålla miljötillstånd för skjutbanor genom ökad samordning mellan olika myndigheter och tilldelning av resurser för att hantera dessa ärenden effektivt.</span>
+				</li>
+				<li class="ListaPunkt" style="margin-top:0pt; margin-left:10.52pt; margin-bottom:0pt; t-i:0pt; padding-left:6.48pt; font-family:serif; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''">
+					<span style="font-family:'Verdana'">Incitament för skjutbaneetablering och -utveckling: Genom skräddarsydda ekonomiska incitament och stödprogram bör regeringen främja etablering och utveckling av skjutbanor för att säkerställa tillgången på platser för skytteutbildning och </span><span style="font-family:'Verdana'">&#x2011;</span><span style="font-family:'Verdana'">övning.</span>
+				</li>
+				<li class="ListaPunkt" style="margin-top:0pt; margin-left:10.52pt; margin-bottom:0pt; t-i:0pt; padding-left:6.48pt; font-family:serif; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''">
+					<span style="font-family:'Verdana'">Forskning och innovation för miljövänliga skjutbanealternativ: Regeringen bör investera i forskning och utveckling av miljövänliga alternativ för skjutbanor, såsom ljudreducerande teknologier och återvinningsbara material, för att minska den potentiella miljöpåverkan och underlätta tillståndsprocessen.</span>
+				</li>
+				<li class="ListaPunkt" style="margin-top:0pt; margin-left:10.52pt; t-i:0pt; padding-left:6.48pt; font-family:serif; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''">
+					<span style="font-family:'Verdana'">Stärkt dialog och samarbete med skjutbaneföreningar: Genom regelbunden dialog och samarbete med skjutbaneföreningar och andra intressenter inom skytteområdet bör regeringen aktivt arbeta för att förstå deras behov och utmaningar samt utforma policyåtgärder som möter dessa behov på ett effektivt sätt.</span>
+				</li>
+			</ul>
+			<p class="Normalutanindragellerluft">
+				<span>Med dessa åtgärder kan regeringen säkerställa att Sveriges totalförsvarsförmåga vidmakthålls. </span>
+			</p>
+			<h1>
+				<span>Räddningstjänst</span>
+			</h1>
+			<p class="Normalutanindragellerluft">
+				<span>Räddningstjänsten i Sverige kommunaliserades 1986. Innan dess ansvarade staten genom de statliga civilförsvarsorganisationerna för brandskydd och räddningsinsatser i stor utsträckning. Den nya ordningen som infördes 1986 innebar att ansvaret för räddningstjänsten överfördes till kommunerna, vilket gjorde att varje kommun fick ett eget ansvar för att organisera och upprätthålla en fungerande räddningstjänst. Detta innebar att kommunerna fick större frihet att anpassa räddningstjänsten efter lokala behov och förutsättningar, samtidigt som det blev möjligt att samordna insatser mellan kommuner genom samverkansavtal. Det var en del av en större decentraliseringsprocess i Sverige som syftade till att ge kommunerna mer ansvar för välfärds- och samhälls</span><span>&#xad;</span><span>tjänster. Den kommunala räddningstjänsten i Sverige har dock mött flera utmaningar som gjort att den inte alltid fungerat som det var tänkt. Några av de huvudsakliga orsakerna är resursbrist och ekonomiska utmaningar, personalbrist och rekryterings</span><span>&#xad;</span><span>problem, ökad komplexitet och nya hotbilder, samordningsproblem mellan kommuner, otydlig roll- och ansvarsfördelning och bristande investeringar i utbildning och teknik. För att möta de nya samhällsutmaningarna och hoten är det uppenbart att det behövs en helomvändning när det gäller svensk räddningstjänst. Det bör utredas om inte staten ska återta huvudmannaskapet för räddningstjänsten för att säkerställa en enhetlig standard över hela landet. Det skulle också underlätta för samordning och resursallokering vid större händelser och katastrofer, vilket är avgörande för att säkerställa en effektiv och snabb respons. Regeringen bör därför utreda om staten åter bör bli huvudman för räddningstjänsten.</span>
+			</p>
+			<h1>
+				<a name="_Hlk177036677"><span>Regionala flygplatser</span></a>
+			</h1>
+			<p class="Normalutanindragellerluft">
+				<span style="-aw-bookmark-end:_Hlk177036677"></span><span>De regionala flygplatserna har stor betydelse för regionerna. Dessa fyller ofta, vid sidan av att vara av strategiskt intresse, också en viktig funktion för att ta emot samhälls</span><span>&#xad;</span><span>nödvändig trafik som ambulansflyg, brandbekämpningsflyg samt polisiära och militära flyg. Flygplatserna fyller också en viktig roll för både näringslivet och medborgare. De regionala flygplatserna är antingen privata eller har kommuner och regioner som ägare. Till följd av det försämrade omvärldsläget har flygplatsernas betydelse också ökat. Detta innefattar också Sveriges förmodade roll som transitland inom Nato. Just nu sker ett antal saker som försvårar för de regionala flygplatserna att fullfölja alla dessa viktiga uppdrag. </span>
+			</p>
+			<p>
+				<span>De regionala flygplatserna har under lång tid varit kraftigt underfinansierade. Sverige har valt ett system där kommuner fått driva mindre flygplatser utan förutsättningar att nå lönsamhet. Detta samtidigt som staten, genom bolaget Swedavia, valt ut att driva stora flygplatser som har förutsättningar att nå lönsamhet. Staten tjänar alltså pengar på de stora flygplatserna medan kommunerna får kämpa med de mindre flygplatsernas underskott. Tre av fyra flygplatser drivs av kommuner eller regioner och har denna utsatthet. </span><span style="color:#212121">Denna märkliga och orättvisa uppdelning har debatterats och också utretts under flera år. Regeringen har dock ökat de statliga anslagen till de regionala flyg</span><span style="color:#212121">&#xad;</span><span style="color:#212121">plats</span><span style="color:#212121">&#xad;</span><span style="color:#212121">erna, men den ökningen behöver fortsätta för att säkra fortlevnaden för dessa flyg</span><span style="color:#212121">&#xad;</span><span style="color:#212121">platser. Men uppdelningen får också andra konsekvenser. Behovet av fler bered</span><span style="color:#212121">&#xad;</span><span style="color:#212121">skaps</span><span style="color:#212121">&#xad;</span><span style="color:#212121">flygplatser har ökat och fler beredskapsflygplatser har också tillkommit. Från att ha varit två är nu 17 av de regionala flygplatserna beredskapsflygplatser. Men även här är beredskapsersättningen underfinansierad. Ersättningen som tilldelas för uppdragen av staten täcker inte kostnaderna för ökad öppethållning och mer beredskap. </span>
+			</p>
+			<p>
+				<span>Det är också viktigt att definiera vad begreppet beredskapsflygplats har för betydelse i händelse av höjd beredskap eller krig. Begreppet beredskapsflygplats har idag bara en definition av vad som ska gälla i fred, avseende krav på öppethållande – ingenting om vad som gäller för att säkra allierade tilltransporter för Nato i ett försämrat omvärldsläge eller ytterst i krig. Statusen på en beredskapsflygplats har då också bäring på om flyg</span><span>&#xad;</span><span>platsen är av så kallat riksintresse. Dessa förtydliganden är något Försvarsmakten och andra myndigheter efterfrågat. </span>
+			</p>
+			<p>
+				<span>Uppdelningen av Flygplatssverige har också fått direkt kännbara konsekvenser. Statliga Luftfartsverket (LFV) har beslutat att inte längre tillhandahålla radardata till åtta regionala flygplatser. Det rör sig om Arvidsjaurs flygplats, Ljungbyheds Flygklubb, Stockholm Skavsta Airport, Stockholm Västerås flygplats, Småland Airport, Trollhättan </span><span style="letter-spacing:-0.05pt">Airport, Örebro Airport och Kristianstad Österlen Airport. De sex senare är också bered</span><span style="letter-spacing:-0.05pt">&#xad;</span><span style="letter-spacing:-0.05pt">skapsflygplatser.</span><span> Anledningen till att LFV inte längre tillhandahåller radardata är att de ansett att det inte är lönsamt för dem att tillhandahålla data. LFV har också sagt upp avtalen trots att det inte funnits andra leverantörer som kan ge radardata. Konsekvens</span><span>&#xad;</span><span>erna utan radartäckning blir att endast en flygning kan ske åt gången vid de berörda </span><span style="letter-spacing:-0.05pt">flygplatserna. Kommer ett annat flygplan in i luftrummet måste flygtrafikledaren beordra</span><span> flygplanet att vänta eller vända om. Detta ställer förstås flygplatserna på enorma prov. Den reguljära trafiken har bara drabbats i liten omfattning men exempelvis får all skol</span><span>&#xad;</span><span>verksamhet planeras om. Polisen kan inte genomföra spaning med drönare. Försvars</span><span>&#xad;</span><span>makten kan inte öva i de berörda flygplatsernas luftrum. För Försvarsmakten i till exempel Kristianstads flygplats närhet får arméförband vid militära övningsfält göra eldupphör med jämna mellanrum då flyg vistas i luftrummet.</span>
+			</p>
+			<p>
+				<span>För tillfället har en flygplats, Skavsta, hittat en aktör som kan leverera radardata. Det är osäkert om övriga berörda flygplatser kan tillämpa samma lösning. Förutom de nu </span><span style="letter-spacing:-0.05pt">åtta drabbade, har LFV nu också sagt upp avtalen för att leverera radardata till ytterligare</span><span> fem flygplatser till årsskiftet 2024/25. Det är Skellefteå Airport, Kalmar-Öland Airport, Karlstad Airport, Norrköping Airport och Jönköping Airport.</span><span style="color:#212121"> De berörda flygplatserna och deras samarbetsorganisation Svenska Regionala Flygplatser (SRF) menar helt riktigt att här behöver en nationell aktör ha det övergripande ansvaret för att säkerställa att det finns radartäckning vid våra flygplatser. Det ansvaret bör ligga på LFV. SRF har också uppvaktat regeringen i frågan. </span><span>Ytterligare en fråga där uppdelningen av Flygplats</span><span>&#xad;</span><span>sverige drabbar de regionala flygplatserna, är att de analoga radarfyrarna, s</span><span>&#xa0;</span><span>k VOR, inte får vara kvar. LFV går över till digital teknik och har då inte velat fortsätta finansiera de analoga systemen. Skulle de digitala systemen störas ut eller slås ut i händelse av krig, kan flygplatserna ha de analoga systemen som backup. Här är det flera myndigheter, bl</span><span>&#xa0;</span><span>a Försvarsmakten och Trafikverket, som yrkat på att LFV borde behålla systemen. LFV har här, liksom i frågan om radardata, angett att de inte har det uppdraget utan är i första hand ålagda att få sina tjänster som statligt affärsverk att vara lönsamma.</span><span style="color:#212121"> </span>
+			</p>
+			<p>
+				<span>Det finns också fler exempel på när uppdelningen av flygplatssystemet drabbar de regionala flygplatserna. När Trafikverket beslutade om att ta bort en del regionala flyg</span><span>&#xad;</span><span>platser från listan över riksintressen innebar det att kommuner och regioner var tvungna att ta på sig ett större ansvar för att finansiera investeringar för sina flygplatser. Flyg</span><span>&#xad;</span><span>platser som klassas som riksintressen kan ha större möjlighet att få statligt stöd för drift och infrastrukturutveckling, eftersom de anses vara viktiga för nationella trans</span><span>&#xad;</span><span>porter och beredskap. När flygplatser tas bort från riksintresselistan minskar deras möjlighet att få statliga investeringar, vilket kan leda till nedprioritering i underhåll och utveckling. Trots att Trafikverkets utredning om riksintresse för regionala flygplatser skulle genom</span><span>&#xad;</span><span>föras i samråd med lokala och regionala aktörer samt en noggrann bedömning av flygplatsernas betydelse för krisberedskap, samhällsutveckling och näringsliv tog man märkligt nog bort även befintliga beredskapsflygplatser från listan. Det finns exempel där beredskapsflygplats med Sjöfartsverkets permanenta bas för SAR och där Försvars</span><span>&#xad;</span><span>makten har intressen också plockades bort från listan, varför man kan ifrågasätta hur Trafikverkets utredning egentligen gick till. Den svenska uppdelningen av flygplats</span><span>&#xad;</span><span>systemet får allvarliga konsekvenser. Det är därför viktigt att regeringen nu fortsätter att öka det statliga driftsstödet till de regionala flygplatserna. Det är också viktigt att bered</span><span>&#xad;</span><span>skapsflygplatser får ersättning för det jobb de utför och att det klaras ut vad beredskaps</span><span>&#xad;</span><span>flygplatserna har för uppdrag vid höjd beredskap. Trafikverket behöver bli konsekventa i arbetet med att utse flygplatser med riksintresse. Likaså måste landet ha en utpekad aktör, en myndighet som säkerställer att våra flygplatser har radarförbindelser. Den uppdelning av vårt flygplatssystem som vi har i Sverige finns inte i våra grannländer. Där förekommer inte heller de problem vi ser i Sverige. Många regionala flygplatser i Sverige har redan ekonomiska svårigheter. Detta kan leda till att vissa flygplatser antingen skalar ner sin verksamhet eller i värsta fall läggs ner, vilket skulle påverka transportmöjligheterna i de berörda regionerna och inte minst vår beredskap och total</span><span>&#xad;</span><span>försvarsförmåga. Regeringen bör därför tillsätta en ny utredning utifrån det aktuella omvärldsläget</span><span style="color:#212121"> för att se över beredskapsbehovet av de regionala flygplatserna. Utred</span><span style="color:#212121">&#xad;</span><span style="color:#212121">ningen bör titta på ansvarsfördelningen kring beredskap, tekniska funktioner kring nationell radartäckning m.m. Utredningen bör omgående tillsättas. </span>
+			</p>
+			<h1>
+				<span>Hamnar</span>
+			</h1>
+			<p class="Normalutanindragellerluft">
+				<span>Sveriges hamnar är centrala för totalförsvaret där de utgör viktiga nav för varu</span><span>&#xad;</span><span>trans</span><span>&#xad;</span><span>porter, militär logistik och energiimport. Deras betydelse ökar ytterligare i tider av kris, där sjötransport ofta blir en nödvändig och pålitlig lösning när andra transportmedel är osäkra eller otillgängliga. Sveriges beroende av importerade varor gör att hamnar blir centrala för landets försörjningsberedskap. Om hamnar skulle blockeras eller påverkas negativt under en kris, kommer det få allvarliga konsekvenser för hela samhället. Under kriser är det nödvändigt att snabbt transportera stora mängder materiel, som exempelvis sjukvårdsmaterial, förnödenheter eller försvarsmateriel. </span>
+			</p>
+			<p>
+				<span>Samtliga av de stora hamnarna är strategiskt viktiga för totalförsvaret där förmågan att hantera stora mängder gods gör dem till en viktig del av transportinfrastrukturen. Torrhamnar, så kallade dry ports, behöver användas för att få mer plats och effektivare flöden. En container som anlöper Göteborgs hamn lastas direkt på tåg utan att förtullas och transporteras sedan exempelvis till Falköping eller Skövde till en torrhamn, där containern lastas av och förtullas. Genom en snabb flytt av containern tar den inte upp onödig plats i hamnen. Ska detta fungera optimalt bör torrhamnarna klassas enligt gällande ISPS-regelverk, som infördes av USA efter terrordåden den 11 september 2001. Säkerhetsklassningen bygger på ett skalskydd med övervakning och utbildad personal. Antalet säkerhetsklassade torrhamnar behöver utökas.</span>
+			</p>
+			<p>
+				<span>Hamnar är kritiska för Sveriges krisberedskap men möter stora utmaningar, inklusive sårbarhet för säkerhetshot, kapacitetsbrist, klimatrelaterade risker och bristande samordning. Deras funktionalitet beror också på fungerande infrastruktur och energi. Lösningar som bättre koordinering, investeringar i resiliens mot klimatförändringar och stärkt cybersäkerhet är avgörande för att möta dessa utmaningar.</span>
+			</p>
+			<div style="-aw-sdt-tag:'CC_Underskrifter'; -aw-sdt-title:'CC_Underskrifter'">
+				<p>
+					<span style="-aw-import:ignore">&#xa0;</span>
+				</p>
+				<p>
+					<span style="-aw-import:ignore">&#xa0;</span>
+				</p>
+			</div>
+			<table cellspacing="0" cellpadding="0" style="width:100%; border-collapse:collapse">
+				<tr style="page-break-inside:avoid">
+					<td style="width:1%; padding-right:5.4pt; padding-left:5.4pt; vertical-align:bottom">
+						<p class="Underskrifter" style="margin-bottom:0pt">
+							<span>Björn Söder (SD)</span>
+						</p>
+					</td>
+					<td style="width:1%; padding-right:5.4pt; padding-left:5.4pt; vertical-align:bottom">
+						<p class="Underskrifter" style="margin-bottom:0pt">
+							<span style="-aw-import:ignore">&#xa0;</span>
+						</p>
+					</td>
+				</tr>
+				<tr style="page-break-inside:avoid">
+					<td style="width:1%; padding-right:5.4pt; padding-left:5.4pt; vertical-align:bottom">
+						<p class="Underskrifter" style="margin-bottom:0pt">
+							<span>Lars Wistedt (SD)</span>
+						</p>
+					</td>
+					<td style="width:1%; padding-right:5.4pt; padding-left:5.4pt; vertical-align:bottom">
+						<p class="Underskrifter" style="margin-bottom:0pt">
+							<span>Sara-Lena Bjälkö (SD)</span>
+						</p>
+					</td>
+				</tr>
+				<tr style="page-break-inside:avoid">
+					<td style="width:1%; padding-right:5.4pt; padding-left:5.4pt; vertical-align:bottom">
+						<p class="Underskrifter" style="margin-bottom:0pt">
+							<span>Göran Hargestam (SD)</span>
+						</p>
+					</td>
+					<td style="width:1%; padding-right:5.4pt; padding-left:5.4pt; vertical-align:bottom">
+						<p class="Underskrifter" style="margin-bottom:0pt">
+							<span style="-aw-import:ignore">&#xa0;</span>
+						</p>
+					</td>
+				</tr>
+			</table>
+			<p>
+				<span style="-aw-import:ignore">&#xa0;</span>
+			</p>
+		</div>
+	</div>

@@ -1,0 +1,648 @@
+SEARCH TERM: AI
+DOCUMENT ID: hc021384
+TITLE: Konsumentpolitik
+TYPE: mot
+SUBTYPE: Kommittémotion
+DATE: 2024-10-02
+PARLIAMENTARY YEAR: 2024/25
+ORGANISATION: CU
+STATUS: Klar
+DOWNLOADED: 2026-01-22 10:25:10
+================================================================================
+
+<style><!-- 
+ @page Section1 { size:595.3pt 841.9pt; margin:35.45pt 85.05pt 56.7pt }
+div.Section1 { page:Section1 }
+div.pconf body { t-i:17pt; line-height:15pt; font-family:'Verdana'; font-size: 0.90em }
+div.pconf h1, h2, h3, h4, h5, h6, p { margin:0pt }
+div.pconf li, table { margin-top:0pt; margin-bottom:0pt }
+div.pconf h1 { margin-top:41pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:19.5pt; font-family:'Verdana'; font-size: 1.05em; font-weight:normal; color:#000000 }
+div.pconf h2 { margin-top:30pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:17pt; font-family:'Verdana'; font-size: 1.00em; font-weight:normal; color:#000000 }
+div.pconf h3 { margin-top:18pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:17pt; font-family:'Verdana'; font-size: 0.90em; font-weight:bold; color:#000000 }
+div.pconf h4 { margin-top:18pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:17pt; font-family:'Verdana'; font-size: 0.90em; font-weight:normal; font-style:italic; color:#000000 }
+div.pconf h5 { margin-top:15pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:17pt; font-family:'Verdana'; font-size: 0.90em; font-weight:bold; font-style:normal; color:#000000 }
+div.pconf h6 { margin-top:15pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:17pt; font-family:'Verdana'; font-size: 0.90em; font-weight:normal; font-style:italic; color:#000000 }
+.Heading7 { margin-top:15pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:17pt; font-family:'Verdana'; font-size: 0.90em; font-weight:normal; font-style:italic; color:#000000; -aw-style-name:heading7 }
+.Heading8 { margin-top:15pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:17pt; font-family:'Verdana'; font-size: 0.90em; font-weight:normal; font-style:italic; color:#000000; -aw-style-name:heading8 }
+.Heading9 { margin-top:0pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:17pt; font-family:'Verdana'; font-size: 0.90em; font-weight:normal; font-style:italic; color:#000000; -aw-style-name:heading9 }
+.BalloonText { margin-bottom:0pt; t-i:17pt; line-height:normal; font-family:'Segoe UI'; font-size: 0.90em }
+.Beteckning { margin-top:18pt; margin-bottom:0pt; t-i:14.2pt; page-break-inside:auto; page-break-after:auto; line-height:19.5pt; font-size: 1.05em }
+.BlockText, .Inramatstycke { margin-right:56.7pt; margin-left:56.7pt; margin-bottom:0pt; t-i:0pt; text-align:nojustify; line-height:15pt; border:0.75pt solid #000000; padding:10pt; font-size: 0.90em; font-style:italic; -aw-border:0.25pt single }
+.Citaticitat { margin-top:7.5pt; margin-left:34pt; margin-bottom:0pt; t-i:0pt; line-height:12pt; font-size: 0.90em }
+.Citaticitatmedindrag { margin-top:0pt; margin-left:34pt; margin-bottom:7.5pt; t-i:17pt; line-height:12pt; font-size: 0.90em }
+.Citatmedindrag { margin-top:0pt; margin-left:17pt; margin-bottom:0pt; t-i:17pt; line-height:12pt; font-size: 0.90em }
+.CommentSubject { margin-bottom:0pt; t-i:17pt; line-height:normal; font-size: 0.90em; font-weight:bold }
+.CommentText { margin-bottom:0pt; t-i:17pt; line-height:normal; font-size: 0.90em }
+.FSHLogo { margin-top:4pt; margin-bottom:0pt; t-i:0pt; line-height:normal; font-size: 0.90em }
+.FSHNormL { margin-top:4pt; margin-bottom:0pt; t-i:0pt; line-height:15pt; border-top:1.5pt solid #000000; padding-top:3pt; font-size: 0.90em }
+.FSHNormal { margin-top:4pt; margin-bottom:0pt; t-i:0pt; line-height:15pt; font-size: 0.90em }
+.FSHNormalS5 { margin-top:11.5pt; margin-bottom:26pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-size: 0.95em; font-weight:bold }
+.FSHRub1, .Rubrik1S5 { margin-top:135pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:16pt; font-size: 1.00em }
+.FSHRub2, .Rubrik1A4 { margin-top:50pt; margin-bottom:5pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:24pt; font-size: 1.05em }
+.FSHTitel, .Dokumentrubrik { margin-top:4pt; margin-bottom:4pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:20pt; border-bottom:0.75pt solid #000000; padding-bottom:3pt; font-size: 1.05em; -aw-border-bottom:0.5pt single }
+.Footer { margin-top:4pt; margin-bottom:0pt; t-i:0pt; text-align:center; line-height:normal; font-size: 0.90em }
+.FootnoteText { margin-top:0pt; margin-bottom:0pt; t-i:0pt; line-height:12pt; font-size: 0.90em }
+.Frslagsrubrik { margin-top:41pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:19.5pt; font-family:'Verdana'; font-size: 1.05em }
+.Frslagstext, .Hemstlatt, .Yrkande { margin-top:4pt; margin-left:19.85pt; margin-bottom:0pt; t-i:-19.85pt; line-height:15pt; font-size: 0.90em }
+.Header { margin-top:4pt; margin-bottom:0pt; t-i:0pt; line-height:normal; font-size: 0.90em }
+.KantRubrikS5H { margin-top:6pt; margin-right:2.85pt; margin-bottom:0pt; t-i:0pt; text-align:right; line-height:8pt; font-size: 0.90em }
+.KantRubrikS5Hrad2 { margin-top:0pt; margin-right:2.85pt; margin-bottom:0pt; t-i:0pt; text-align:right; line-height:10pt; font-size: 0.90em }
+.KantRubrikS5V { margin-top:6pt; margin-right:0pt; margin-bottom:0pt; t-i:0pt; text-align:left; line-height:8pt; font-size: 0.90em }
+.KantRubrikS5Vrad2 { margin-top:0pt; margin-right:0pt; margin-bottom:0pt; t-i:0pt; text-align:left; line-height:10pt; font-size: 0.90em }
+.KantrubrikH { margin-top:4pt; margin-right:-82.2pt; margin-bottom:0pt; t-i:0pt; text-align:right; line-height:15pt; font-size: 0.90em }
+.KantrubrikV { margin-top:4pt; margin-left:-85.05pt; margin-bottom:0pt; t-i:0pt; line-height:normal; font-size: 0.90em }
+.Klla { margin-top:0pt; margin-bottom:0pt; t-i:0pt; line-height:12pt; font-size: 0.90em }
+.Lagtext { margin-top:4pt; margin-bottom:0pt; t-i:0pt; line-height:normal; font-size: 0.90em }
+.Lagtextindrag { margin-top:4pt; margin-bottom:0pt; t-i:14.2pt; line-height:normal; font-size: 0.90em }
+.Lagtextrubrik { margin-top:4pt; margin-bottom:0pt; t-i:0pt; line-height:normal; font-size: 0.90em; font-style:italic; letter-spacing:1pt }
+.List { margin-top:7.5pt; margin-left:17pt; margin-bottom:7.5pt; t-i:-17pt; line-height:15pt; font-size: 0.90em }
+.ListBullet, .PunktlistaBomb { margin-top:4pt; margin-left:14.2pt; margin-bottom:0pt; t-i:-14.2pt; line-height:15pt; font-size: 0.90em }
+.ListNumber, .PunktlistaNummer { margin-top:4pt; margin-left:14.2pt; margin-bottom:0pt; t-i:-14.2pt; line-height:15pt; font-size: 0.90em }
+.ListParagraph { margin-left:36pt; margin-bottom:0pt; t-i:17pt; line-height:15pt; font-size: 0.90em }
+.ListaGemener { margin-top:7.5pt; margin-left:17pt; margin-bottom:7.5pt; t-i:-17pt; line-height:15pt; font-size: 0.90em }
+.ListaLinje { margin-top:7.5pt; margin-left:19pt; margin-bottom:7.5pt; t-i:-19pt; line-height:15pt; font-size: 0.90em }
+.ListaNummer { margin-top:7.5pt; margin-left:17pt; margin-bottom:7.5pt; t-i:-17pt; line-height:15pt; font-size: 0.90em }
+.ListaPunkt { margin-top:7.5pt; margin-left:17pt; margin-bottom:7.5pt; t-i:-17pt; line-height:15pt; font-size: 0.90em }
+.MotionTIllRiksdagen { margin-top:18pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:19.5pt; font-size: 1.05em }
+.Motionr { margin-top:14pt; margin-bottom:31.5pt; t-i:0pt; page-break-inside:avoid; line-height:15pt; font-size: 1.00em; font-weight:bold; font-style:normal }
+.Motiveringrubrik2numrerat1 { margin-top:30pt; margin-left:0pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:17pt; font-family:'Verdana'; font-size: 1.00em }
+.Motiveringrubrik3numrerat1 { margin-top:18pt; margin-left:0pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:17pt; font-family:'Verdana'; font-size: 0.90em; font-weight:bold }
+.Motiveringrubrik3numrerat11 { margin-top:18pt; margin-left:0pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:17pt; font-family:'Verdana'; font-size: 0.90em; font-weight:bold }
+.Motiveringrubrik4numrerat11 { margin-top:18pt; margin-left:0pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:17pt; font-family:'Verdana'; font-size: 0.90em; font-weight:normal; font-style:italic }
+.NormalIndent { margin-left:65.2pt; margin-bottom:0pt; t-i:17pt; line-height:15pt; font-size: 0.90em }
+.Normalutanindragellerluft { margin-top:4pt; margin-bottom:0pt; t-i:0pt; line-height:15pt; font-size: 0.90em }
+.Normal00 { margin-top:4pt; margin-bottom:0pt; t-i:0pt; line-height:normal; font-size: 0.90em }
+.NormalA4fot { margin-top:12pt; margin-bottom:0pt; t-i:0pt; text-align:center; line-height:normal; font-size: 0.90em }
+.NormalA4sidnr { margin-top:4pt; margin-bottom:12pt; t-i:0pt; text-align:center; line-height:normal; font-size: 0.90em }
+.NormalS5sidnrH { margin-top:4pt; margin-right:2.85pt; margin-bottom:0pt; t-i:0pt; text-align:right; line-height:normal; font-size: 0.90em }
+.NormalS5sidnrV { margin-top:4pt; margin-right:0pt; margin-bottom:0pt; t-i:0pt; text-align:left; line-height:normal; font-size: 0.90em }
+.PlainText { margin-bottom:0pt; t-i:0pt; line-height:12pt; font-family:'Verdana'; font-size: 0.90em }
+.Quote { margin-top:7.5pt; margin-left:17pt; margin-bottom:0pt; t-i:0pt; line-height:12pt; font-size: 0.90em }
+.R1 { margin-top:41pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:19.5pt; font-family:'Verdana'; font-size: 1.05em }
+.R2 { margin-top:30pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:17pt; font-family:'Verdana'; font-size: 1.00em }
+.R3 { margin-top:18pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:17pt; font-family:'Verdana'; font-size: 0.90em; font-weight:bold }
+.Rubrik1numrerat { margin-top:41pt; margin-left:0pt; margin-bottom:0pt; t-i:0pt; page-break-inside:auto; page-break-after:avoid; line-height:19.5pt; font-family:'Verdana'; font-size: 1.05em }
+.Rubrik2numrerat { margin-top:30pt; margin-left:0pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:17pt; font-family:'Verdana'; font-size: 1.00em }
+.Rubrik3numrerat { margin-top:18pt; margin-left:0pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:17pt; font-family:'Verdana'; font-size: 0.90em; font-weight:bold }
+.Rubrik4numrerat { margin-top:18pt; margin-left:0pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:17pt; font-family:'Verdana'; font-size: 0.90em; font-weight:normal; font-style:italic }
+.RubrikFrslagTIllRiksdagsbeslut { margin-top:41pt; margin-bottom:15pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:19.5pt; font-family:'Verdana'; font-size: 1.05em }
+.RubrikInnehllsf { margin-top:41pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:19.5pt; font-family:'Verdana'; font-size: 1.05em }
+.RubrikSammanf { margin-top:41pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:19.5pt; font-family:'Verdana'; font-size: 1.05em }
+.Salutation { margin-top:41pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:19.5pt; font-family:'Verdana'; font-size: 1.05em }
+.Streckkod { margin-top:12pt; margin-bottom:0pt; t-i:0pt; text-align:center; line-height:normal; font-family:IDAutomationHC39S; font-size: 1.00em }
+.Strecklista, .PunktlistaTankstreck { margin-top:4pt; margin-left:14.2pt; margin-bottom:0pt; t-i:-14.2pt; line-height:15pt; font-size: 0.90em }
+.Subtitle { margin-top:4pt; margin-bottom:0pt; t-i:0pt; line-height:15pt; font-family:'Verdana'; font-size: 0.90em; font-weight:bold }
+.TOC1 { margin-top:4pt; margin-bottom:0pt; t-i:0pt; line-height:15pt; font-size: 0.90em }
+.TOC2 { margin-top:4pt; margin-left:14.2pt; margin-bottom:0pt; t-i:0pt; line-height:15pt; font-size: 0.90em }
+.TOC3 { margin-top:4pt; margin-left:28.35pt; margin-bottom:0pt; t-i:0pt; line-height:15pt; font-size: 0.90em }
+.TOC4 { margin-top:4pt; margin-left:42.55pt; margin-bottom:0pt; t-i:0pt; line-height:15pt; font-size: 0.90em }
+.TOC5 { margin-top:4pt; margin-left:56.7pt; margin-bottom:0pt; t-i:0pt; line-height:15pt; font-size: 0.90em }
+.TOC6 { margin-top:4pt; margin-left:56.7pt; margin-bottom:0pt; t-i:0pt; line-height:15pt; font-size: 0.90em }
+.TOC7 { margin-top:15pt; margin-left:56.7pt; margin-bottom:0pt; t-i:14.2pt; page-break-inside:avoid; page-break-after:avoid; line-height:normal; font-family:'Verdana'; font-size: 0.90em; font-weight:normal; font-style:italic }
+.TOC8 { margin-top:15pt; margin-left:56.7pt; margin-bottom:0pt; t-i:14.2pt; page-break-inside:avoid; page-break-after:avoid; line-height:normal; font-family:'Verdana'; font-size: 0.90em; font-weight:normal; font-style:italic }
+.TOC9 { margin-top:15pt; margin-left:56.7pt; margin-bottom:0pt; t-i:14.2pt; page-break-inside:avoid; page-break-after:avoid; line-height:normal; font-family:'Verdana'; font-size: 0.90em; font-weight:normal; font-style:italic }
+.TOCHeading { margin-top:41pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:19.5pt; font-family:'Verdana'; font-size: 1.05em }
+.Tabellunderrubrik { margin-top:0pt; margin-bottom:0pt; t-i:0pt; page-break-after:avoid; line-height:15pt; font-size: 0.90em; font-weight:normal; font-style:italic }
+.Tabellrubrik { margin-top:7.5pt; margin-bottom:0pt; t-i:0pt; page-break-after:avoid; line-height:15pt; font-size: 0.90em; font-weight:bold }
+.Title { margin-top:41pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:19.5pt; font-family:'Verdana'; font-size: 1.05em }
+.Underskriftdatum { margin-top:24pt; margin-bottom:3pt; t-i:0pt; page-break-inside:avoid; line-height:15pt; font-size: 0.90em; font-style:normal }
+.Underskrifter { margin-top:15pt; margin-bottom:3pt; t-i:0pt; page-break-inside:avoid; line-height:15pt; font-size: 0.90em; font-style:italic }
+.Yrkandehnv, .Frslagspunkthnv { margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; font-size: 0.90em }
+span.BallongtextChar { font-family:'Segoe UI'; font-size: 0.90em }
+span.BeteckningChar { font-size:19.5pt }
+span.CommentReference { font-size:8pt }
+span.FSHRub2Char, span.Rubrik1A4Char { font-size:24pt }
+span.FotnotstextChar { font-size:10pt }
+span.Hyperlink { text-decoration:underline; color:#0563c1; -aw-style-name:hyperlink }
+span.InledningChar { font-family:'Verdana'; font-size: 1.00em; font-weight:bold }
+span.IntenseReference { font-weight:normal; font-style:normal; font-variant:normal; text-decoration:none; text-transform:none; letter-spacing:0pt; vertical-align:0pt; color:#000000; display:inline }
+span.KommentarerChar { font-size:10pt }
+span.KommentarsmneChar { font-size:10pt; font-weight:bold }
+span.MotionTIllRiksdagenChar { font-size:19.5pt }
+span.OformateradtextChar { font-family:'Verdana'; font-size: 0.90em }
+span.PlaceholderText { color:#f4b083 }
+span.Rubrik1Char { font-family:'Verdana'; font-size: 1.05em }
+span.Rubrik2Char { font-family:'Verdana'; font-size: 1.00em }
+span.Rubrik3Char { font-family:'Verdana'; font-size: 0.90em; font-weight:bold }
+span.Rubrik4Char { font-family:'Verdana'; font-size: 0.90em; font-style:italic }
+span.Rubrik5Char { font-family:'Verdana'; font-weight:bold }
+span.Rubrik6Char { font-family:'Verdana'; font-style:italic }
+span.Rubrik7Char { font-family:'Verdana'; font-size: 0.90em; font-weight:bold }
+span.Rubrik8Char { font-family:'Verdana'; font-size: 0.90em; font-weight:bold }
+span.Rubrik9Char { font-family:'Verdana'; font-size: 0.90em; font-weight:bold }
+span.RubrikChar { font-family:'Verdana'; font-size: 1.00em; font-weight:bold }
+span.SidfotChar { font-size:11.5pt }
+span.UnderrubrikChar { font-family:'Verdana'; font-size: 0.90em; font-weight:bold }
+.TableGrid {  }
+
+.pconf{width: 450px;margin-left:5px;overflow:visable;font-family:Verdana, Geneva, sans-serif;} 
+ .sidhuvud_publikation, .sidhuvud_beteckning{font-size:133%}
+.MotionarLista {font-size:122%}
+
+--></style><div class="pconf"><span class="sidhuvud_publikation">Motion till riksdagen</span><br/>
+<span class="sidhuvud_beteckning">2024/25:1384</span><br/>
+<span class="MotionarLista">av Mikael Eskilandersson m.fl. (SD)</span><br/>
+<h1>Konsumentpolitik</h1>
+<hr class="sidhuvud_linje"/>
+
+
+		<div class="Section1">
+			<h1 style="margin-bottom:15pt">
+				<a name="_Toc106800475"></a><a name="_Toc106801300"><span style="-aw-sdt-tag:'CC_Boilerplate_4'; -aw-sdt-title:'CC_Boilerplate_4'"><span>Förslag till riksdagsbeslut</span></span><span style="-aw-bookmark-end:_Toc106800475"></span></a>
+			</h1>
+			<div style="-aw-sdt-tag:'bc302aa0-7154-43e9-80f8-303b6d3f698c'; -aw-sdt-title:'Yrkande 1'">
+				<ol type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-left:14pt; t-i:0pt; padding-left:5.85pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att Sverige inom EU ska verka för att innehåll i alkoholhaltiga drycker ska uppges på innehållsförteckningen och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'5a2ee8ce-4572-4d68-b9a2-7f75a2f76855'; -aw-sdt-title:'Yrkande 2'">
+				<ol start="2" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; margin-left:14pt; t-i:0pt; padding-left:5.85pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att införa ursprungsmärkning av huvudingrediensen i rätter på menyer och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'bc2ef0bd-45ea-4977-97da-cf1735ae5491'; -aw-sdt-title:'Yrkande 3'">
+				<ol start="3" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; margin-left:14pt; t-i:0pt; padding-left:5.85pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att nationella riktlinjer bör tas fram om fördelar med att handla svenskt och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'5cc7f8fe-63d0-4593-b463-424d361ee891'; -aw-sdt-title:'Yrkande 4'">
+				<ol start="4" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; margin-left:14pt; t-i:0pt; padding-left:5.85pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att ett nationellt regelverk för märkning av kulturhistoriskt värdefulla svenska matprodukter bör tas fram och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'e05e4fb1-c773-4ec9-a65a-00d3347be236'; -aw-sdt-title:'Yrkande 5'">
+				<ol start="5" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; margin-left:14pt; t-i:0pt; padding-left:5.85pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att det bör tas fram nationella riktlinjer för hur offentliga inköp kan styras mer mot svenskproducerade varor och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'a85341e5-2d84-4b70-81b9-cbf099de4c07'; -aw-sdt-title:'Yrkande 6'">
+				<ol start="6" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; margin-left:14pt; t-i:0pt; padding-left:5.85pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att Sverige inom EU ska verka för att införa en åldersgräns för reklam på internet i syfte att skydda barn och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'569e2fac-44f5-456b-928b-f594bffbba75'; -aw-sdt-title:'Yrkande 7'">
+				<ol start="7" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; margin-left:14pt; t-i:0pt; padding-left:5.85pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att undersöka behoven av ytterligare stärkt konsumentskydd för barn i den digitala världen och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'fed09505-6685-4f44-ab27-cb4b89781da1'; -aw-sdt-title:'Yrkande 8'">
+				<ol start="8" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; margin-left:14pt; t-i:0pt; padding-left:5.85pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att Sverige i EU ska verka för att svensk lagstiftning om reklam riktad mot barn i tv-sändningar ska utgöra miniminivå i hela Europa och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'7dd1dfab-910d-4980-9d7f-cd5677b70925'; -aw-sdt-title:'Yrkande 9'">
+				<ol start="9" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; margin-left:14pt; t-i:0pt; padding-left:5.85pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att undersöka flera möjliga åtgärder för kontroller och sanktioner mot de företag som bryter mot lagen gällande reklam riktad direkt till barn och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'a6e99b8a-49e6-4ba8-9b3a-de0c801e4674'; -aw-sdt-title:'Yrkande 10'">
+				<ol start="10" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; t-i:0pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att utreda hur det kan underlättas för konsumenter att byta bank och hur förfarandet för fullständigt bankbyte via fullmakt kan göras och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'c76b454d-c244-4013-92bd-306203b28827'; -aw-sdt-title:'Yrkande 11'">
+				<ol start="11" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; t-i:0pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att företag, inte enbart privatpersoner, ska få utökat skydd mot försäljning som utförs av försäljare via telefon och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'cbffcbc5-3b7b-4721-9e5a-c98245f11106'; -aw-sdt-title:'Yrkande 12'">
+				<ol start="12" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; t-i:0pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att ångerrätten vid telefonförsäljning ska gälla för företag, inte enbart privatpersoner, och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'7324c277-f0b1-4a94-b1c0-3f6abee2624a'; -aw-sdt-title:'Yrkande 13'">
+				<ol start="13" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; t-i:0pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att ta krafttag mot bedrägerier och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'4c1a9f1e-9c1a-4ecb-a8fb-d083d3280c2a'; -aw-sdt-title:'Yrkande 14'">
+				<ol start="14" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; t-i:0pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att regeringen bör ta fram förslag till sanktioner för de som levererar oriktiga fakturor, och detta tillkännager riksdagen för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'0591bac1-4e86-4ee4-a58a-06160afa71eb'; -aw-sdt-title:'Yrkande 15'">
+				<ol start="15" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; t-i:0pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att utreda regelverket mot ocker så att lagen får rimlig effekt på priser och avtal och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'c84121a5-f3f6-42f2-b65d-71ed0ea26270'; -aw-sdt-title:'Yrkande 16'">
+				<ol start="16" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; t-i:0pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att införa ett förbud mot att sälja andrahandsbiljetter till ett högre pris än originalpriset och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'a172009f-8c3e-4663-b953-4f45e7d775be'; -aw-sdt-title:'Yrkande 17'">
+				<ol start="17" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; t-i:0pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att det tydligt ska framgå vid försäljning av biljetter om företaget är den officiella säljaren av biljetterna och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'3c5ef8e7-2c0e-483c-9983-b523e059929e'; -aw-sdt-title:'Yrkande 18'">
+				<ol start="18" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; t-i:0pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att Trafikverket och Konsumentverket bör ges i uppdrag att ta fram förslag på hur fullgod information om trafik och avgångar kan uppnås genom förnyad ansvarsfördelning och utökad samordning mellan berörda inom kollektivtrafiken och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'502c08ab-1fc2-41ff-a671-4a5b1f7ad7a0'; -aw-sdt-title:'Yrkande 19'">
+				<ol start="19" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; t-i:0pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att regeringen ska se över lagen (2015:953) om kollektivtrafikresenärers rättigheter i syfte att tillgodose en god konsumenträtt avseende punktlighet, information och parkeringsplatstillgänglighet kopplat till kollektivtrafiken och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'5053a516-38ab-480d-928e-6d0a6eb26eea'; -aw-sdt-title:'Yrkande 20'">
+				<ol start="20" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; t-i:0pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att tågresenärer bör ha samma rättigheter som flygresenärer och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'2bee1e5c-84e4-4f4c-b689-b0d9a666c5d8'; -aw-sdt-title:'Yrkande 21'">
+				<ol start="21" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; t-i:0pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att anpassa svensk lagstiftning inom konsumenträtt till ett framtida samhälle där både myndigheter och företagare utnyttjar AI, och detta tillkännager riksdagen för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'ff221e84-9a11-49f7-84dd-920549ecc026'; -aw-sdt-title:'Yrkande 22'">
+				<ol start="22" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; t-i:0pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att kontantplikt ska råda för livsnödvändiga konsumtionsartiklar och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'14cd79a5-ed11-4e1b-b176-a987b094c911'; -aw-sdt-title:'Yrkande 23'">
+				<ol start="23" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; t-i:0pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att regeringen i Sverige bör agera mot s.k. greenwashing, felaktiga miljöpåståenden, och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'13b9dd09-1020-4589-99b7-41b67cbfcb60'; -aw-sdt-title:'Yrkande 24'">
+				<ol start="24" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; t-i:0pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att förbjuda eller starkt begränsa cancerogena och svårnedbrytbara ämnen i konsumentprodukter och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'e34a74fc-3301-4d2f-a1a7-d02dd6a3aa51'; -aw-sdt-title:'Yrkande 25'">
+				<ol start="25" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; t-i:0pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att Kemikalieinspektionen måste förstärka och prioritera arbetet med att förhindra import av farliga ämnen via e</span><span>&#x2011;</span><span>handel, speciellt produkter riktade till barn, och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-content:placeholder; -aw-sdt-tag:'CC_Motivering_Rubrik'; -aw-sdt-title:'CC_Motivering_Rubrik'">
+				<h1>
+					<a name="MotionsStart"></a><a name="_Toc106801301"></a><a name="_Toc106800476"><span>Innehållsförteckning på alkoholhaltiga drycker</span></a>
+				</h1>
+			</div>
+			<span style="-aw-bookmark-end:_Toc106801301">
+			</span>
+			<p class="Normalutanindragellerluft">
+				<span style="-aw-bookmark-end:_Toc106800476"></span><span>Konsumenter har rätt att få vetskap om innehållet i det som köps i form av tjänster och </span><span style="letter-spacing:-0.1pt">varor, även i livsmedel och drycker. Idag görs skillnad på kraven i innehållsförteckningar </span><span>beroende på produkttyp. För alkoholhaltiga produkter med högre alkoholhalt än 1,2 volymprocent krävs ingen redovisning av ingredienser eller näringsdeklaration. EU:s lagstiftning tillåter exempelvis 63 olika tillsatser och processhjälpmedel vid tillverkning av vin utan att dessa på något sätt behöver deklareras.</span>
+			</p>
+			<p>
+				<span>Konsumenter är medvetna och ställer krav. Det finns numera stora behov och flera skäl för många att få vetskap om innehållet i de produkter som ska förtäras. Sådana skäl kan vara etiska eller hälsomässiga. Då det förekommer allergier är det av största vikt att få vetskap om innehållet i förväg. Innehållsdeklaration skulle även påverka branschen positivt. Erfarenheter från då krav ställs på innehållsdeklaration för livsmedel, är att skadliga ingredienser successivt plockas bort.</span>
+			</p>
+			<p>
+				<span>Sverige ska inom EU verka för att innehållet i samtliga livsmedelsprodukter samt alkoholhaltiga drycker redovisas och tydliggörs för konsumenter.</span>
+			</p>
+			<h1>
+				<span>Ursprungsmärkning</span>
+			</h1>
+			<p class="Normalutanindragellerluft">
+				<span>Ursprungsmärkning är viktig ur många aspekter. Konsumenter ska ges tillräcklig information för att kunna göra aktiva val när de köper produkter eller utnyttjar en tjänst. Detta för att kunna välja bort en sämre vara eller tjänst som inte når upp till de krav konsumenten ställer. Viktigt är också att kunna välja vad man vill stödja genom sin konsumtion, inte minst när det gäller jordbruksprodukter. Ursprunget har en avgörande betydelse även för andra varor samt vilka regler som gällt för produktionen. </span>
+			</p>
+			<p>
+				<span>Enligt Livsmedelsverket ska vissa livsmedel alltid ursprungsmärkas. Det gäller fisk, nötkött, gris, lamm, get, fågel och även honung, frukt, grönsaker med mera. För andra livsmedel ska ursprung endast anges om kunden kan bli vilseledd i annat fall.</span>
+			</p>
+			<p>
+				<span>Trots tydliga direktiv finns risk att en konsument har svårighet att välja exempelvis Sverigeproducerat, ekologiskt eller kött som inte är ritualslaktat. Sverige har strängare regler när det gäller exempelvis djurhållning och användning av antibiotika vilket medför högre kostnader, men som ger mer hälsosam mat och som skyddar djur mot onödigt lidande. </span>
+			</p>
+			<p>
+				<span>Det ska vara lätt för svenska konsumenter att välja svensk mat. Om fler handlar svenska produkter så gynnar det även jordbruksnäringen. Om livsmedelsproduktionen ökar i Sverige så ökar även självförsörjningsgraden, och sårbarheten i händelse av krig och kris minskar. Nu när det är krig i Europa så är detta extra viktigt och det måste vara en prioriterad fråga.</span>
+			</p>
+			<p>
+				<span>För att göra det enkelt för konsumenter behövs tydliga regler. EU:s dokument och de svenska tolkningarna av dessa är komplicerade. Exempelvis finns utrymme för tolkning om en produkt innehåller råvaror från flera länder eller olika resonemang om vilken huvudingrediens en produkt har. </span>
+			</p>
+			<p>
+				<span>En enkel regel behövs: </span><a name="_Hlk174090384"><span>all mat som säljs i Sverige ska märkas med ursprungsland. En utredning som får i uppdrag att föreslå formerna för ursprungsmärkning bör tillsättas. </span></a><span>Märkningen ska vara obligatorisk, tydlig, enkel och standardiserad. </span>
+			</p>
+			<h1>
+				<span>Ursprungsmärkta menyer</span>
+			</h1>
+			<p class="Normalutanindragellerluft">
+				<span>Konsumenter ska ha rätt att veta vad de köper på restaurang. Det är alltid möjligt att fråga personalen, men det kan ibland uppfattas som omständligt, och många personer avstår av olika skäl. Det bör framgå av menyn vilket ursprung huvudingrediensen i maträtten har, då det kan ha avgörande betydelse för vilka restprodukter som kan förväntas och hur villkoren ser ut för de som producerat maten. </span>
+			</p>
+			<p>
+				<span>Ett exempel på där skillnader mellan producentländer förekommer, är antibiotika</span><span>&#xad;</span><span>användandet i köttproduktion. Information om regler för djurhållning, arbetsvillkor och besprutningsgrad behövs för att kunna göra medvetna val.</span>
+			</p>
+			<p>
+				<span>Regeringen gav i juli 2018 Livsmedelsverket i uppdrag att analysera vilka underlag som Sverige behöver ta fram för en anmälan till EU-kommissionen om nationella bestämmelser om obligatorisk ursprungsmärkning av kött och fisk på restauranger och i storhushåll. Ett år senare fick Livsmedelsverket i uppdrag att också ta fram underlagen. Syftet var att få fram bestämmelser om obligatorisk ursprungsinformation för kött på restauranger och i storhushåll. Uppdraget är genomfört och rapport och förslag framlagt. Sverigedemokraterna har länge drivit förslaget. Ursprungsmärkning bör införas för huvudingrediensen gällande allt som köps på restaurang, inte enbart kött. Produktursprung ska införas på menyer för ökad konsumentmakt.</span>
+			</p>
+			<h1>
+				<span>Nationella riktlinjer om fördelar med att handla svenskt</span>
+			</h1>
+			<p class="Normalutanindragellerluft">
+				<span>Det är eftersträvansvärt att välja närproducerade produkter som har lång hållbarhet, eftersom det ger mindre påverkan på miljön. Många svenska produkter håller god kvalitet och har hög hållbarhet samt närproducerade produkter orsakar minimal miljöpåverkan genom minskad mängd transporter. Att handla svenskt kött innebär förutom kortare transportväg även bättre villkor för djuren och ökat stöd till svenska företagare. Allt detta är positivt för det svenska näringslivet. Nationella riktlinjer bör tas fram om fördelarna med att handla svenskt.</span>
+			</p>
+			<h1>
+				<span>Nationellt regelverk för märkning av kulturhistoriskt värdefulla svenska matprodukter</span>
+			</h1>
+			<p class="Normalutanindragellerluft">
+				<span>Maten spelar en central roll. Förutom att utgöra en nödvändig näringskälla är den bärare av traditioner, kultur och upplevelser. Sverige har många traditionella matprodukter som är nära sammankopplade till vårt land, vår miljö och vår kulturhistoria, och det förtjänar att lyftas fram. I dagsläget finns dock inga nationella regleringar för att skydda eller uppmärksamma svensk högkvalitativ mat. Därför behöver ett nationellt regelverk för märkning av kulturhistoriskt värdefulla svenska matprodukter tas fram, vilket skulle medföra positiva effekter för besöksnäringen, landsbygdsutvecklingen och svenska konsumenter. Ett nationellt regelverk för märkning av kulturhistoriskt värdefulla svenska matprodukter bör tas fram.</span>
+			</p>
+			<h1>
+				<span>Nationella riktlinjer för hur offentliga inköp kan styras mer mot svenskproducerade varor </span>
+			</h1>
+			<p class="Normalutanindragellerluft">
+				<span>Konsumtion ska bidra till social hållbarhet. Det gäller i första hand rättvisa villkor för de som producerar de varor vi använder och att vår konsumtion inte bidrar till barn</span><span>&#xad;</span><span>arbete eller till för hög miljöbelastning. Även i detta avseende är det Sverige</span><span>&#xad;</span><span>demokraternas mening att det så långt det är möjligt är bäst att välja svenskproducerat. Genom att upplysa konsumenter om fördelarna med att välja svenskproducerade varor och genom att välja svenskproducerat i offentliga inköp, gynnas svenska företag och deras konkurrenskraft. Därför bör det tas fram nationella riktlinjer för hur offentliga inköp kan styras mer mot svenskproducerade varor.</span>
+			</p>
+			<h1>
+				<span>Inför på EU-nivå en åldersgräns för reklam på internet och förtydliga åtgärder vid brott mot lagen</span>
+			</h1>
+			<p class="Normalutanindragellerluft">
+				<span>Barn i lägre åldrar gör inte inköp i särskilt hög grad själva, men de är i allra högsta grad konsumenter. Därför är det viktigt att de regler som omfattar konsumenter tar extra hänsyn till produkter, tjänster och konsumentprocesser avsedda för barn. </span>
+			</p>
+			<p>
+				<span>Eftersom barn och unga ofta har svårare än vuxna att sålla och vara kritiska till de budskap de möter kan de anses som extra mottagliga för reklambudskap. Därför behöver reglerna för reklam riktad till barn vara skarpare än det som gäller idag. Företag ska inte skicka direktreklam till någon som är yngre än 16 år. Förbud mot direktreklam till barn som är yngre än 16 år råder gällande all adresserad reklam. Det gäller i brev, via telefon och sms. Det är enbart en liten del numera som direktadresseras. Den största delen av reklam och reklambudskap ges via alla de digitala kanaler och plattformar som barn hanterar. Av den anledningen behövs en lagskärpning, för ökat skydd gällande marknadsföring riktad till barn. Eftersom direkta köpuppmaningar till barn är förbjudna och räknas som otillbörlig marknadsföring så krävs åtgärder för kontroller och sanktioner mot de företag som bryter mot lagen.</span>
+			</p>
+			<h1>
+				<span>Verka på EU-nivå för att svensk lagstiftning om reklam riktad mot barn i tv-sändningar ska utgöra miniminivå i Europa</span>
+			</h1>
+			<p class="Normalutanindragellerluft">
+				<span>Barn under 12 år ska slippa reklam före och efter tv-program riktade till deras ålders</span><span>&#xad;</span><span>grupp, enligt svensk lagstiftning. Men detta gäller endast för tv-sändningar från Sverige. Det resulterar i att många tv-kanaler använder plattformar utanför Sverige, där andra lagar gäller. Många barn ser dessa sändningar, och lagen behöver därför skärpas så att barnprogram kan ses utan att riskera reklam. Enligt radio- och tv-lagen får inte reklam i tv-sändningar, sökbar text-tv och beställ-tv syfta till att fånga uppmärksamheten hos barn under tolv år. I tv-sändningar och beställ-tv får reklam inte förekomma omedelbart före eller efter ett program eller en del av ett program som huvudsakligen vänder sig till barn under tolv år. Genom lagändringar som trädde i kraft den 1 december 2020 ska även en leverantör av en videodelningsplattform följa dessa regler (prop. 2019/20:168). </span>
+			</p>
+			<p>
+				<span>Barn spenderar mer och mer tid i den digitala världen. I dagsläget saknas förbud mot riktad barnreklam på internet och i appar. Det finns regler för hur reklamen får se ut och vad den får innehålla; den får inte utformas som spel, lekar eller liknande. Men inte sällan innehåller appar med barn som målgrupp så kallade köp inuti app, vilket får anses utgöra indirekt köpuppmaning. Reklam på internet får inte direkt uppmana barn att köpa något, men det finns inget förbud mot att rikta reklam mot barn som surfar på internet. Detta kan orsaka köptryck hos både barn och föräldrar. Här behöver även den svenska lagstiftningen uppdateras så att konsumentskyddet för framförallt barn och unga följer den digitala utvecklingen. Sverige ska inte enbart försvara sin rätt till hårdare lagar mot marknadsföring riktad till barn utan även inom EU verka för att kraven i denna lag</span><span>&#xad;</span><span>stiftning utgör en miniminivå i hela Europa. </span>
+			</p>
+			<p>
+				<span>Det behövs även flera möjliga åtgärder för kontroller och sanktioner mot de företag som bryter mot lagen gällande direktriktad reklam till barn. </span>
+			</p>
+			<h1>
+				<span>Underlätta aktiva konsumentval</span>
+			</h1>
+			<p class="Normalutanindragellerluft">
+				<span>Sverigedemokraternas konsumentpolitik utgår till stor del från den enskilde individens perspektiv. Ett välfungerande samhälle där lagar och regler är logiska och så enkla som möjligt att förstå eftersträvas. Konsumenter vill känna trygghet och erhålla nödvändig information för att kunna fatta bra beslut i varje situation. Parallellt med att närings</span><span>&#xad;</span><span>livets villkor utvecklas och att det finns en välfungerande konkurrens, behöver konsumenternas villkor kontinuerligt också utvecklas. Konsumenten ska ha möjligheten att göra aktiva val. </span>
+			</p>
+			<p>
+				<span>Att byta mobilabonnemang är idag enkelt då konsumenten har rätt att medföra sitt gamla telefonnummer till den nya operatören. Detta beror framför allt på att mobil</span><span>&#xad;</span><span>telefonnummer är standardiserade, vilket rent tekniskt möjliggör medflyttning. Banktjänster är däremot inte standardiserade på likvärdigt sätt. Bankerna har inte samma format och syntaxer för de tjänster de erbjuder, vilket förhindrar flyttning. Den som vill byta bank kan naturligtvis öppna ett kundengagemang i ny bank vid sidan om den befintliga banken, men bankkontonummer kan inte enkelt flyttas över. Dessutom är det omöjligt att medföra clearingnummer eftersom dessa av tradition är knutna till det fysiska bankkontoret. </span>
+			</p>
+			<p>
+				<span>Det behöver undersökas om clearing- och bankkontonummer kan ersättas av en standardiserad nummermodell inom Sverige. Eftersom byte av bank i regel innebär att tjänster behöver flyttas var för sig och alla banker inte erbjuder samma tjänster, kan detta försvåra byte av bank. Det kan uppfattas vara en alltför krånglig procedur. Regelverket för fullmaktsförfarande vid bankbyte behöver utvecklas, så att fler tjänster kan flyttas enklare och endast en underskrift genom bank-id eller en vanlig signatur krävs. Detta skulle underlätta för bankkunderna och ge dem möjlighet att ställa högre krav på sin bank. Med anledning av detta behöver det utredas hur det kan underlättas för konsumenter att byta bank och hur förfarandet för fullständigt bankbyte via fullmakt kan göras. </span>
+			</p>
+			<h1>
+				<span>Företag bör få utökat skydd mot försäljning via telefon och ha ångerrätt vid telefonförsäljning</span>
+			</h1>
+			<p class="Normalutanindragellerluft">
+				<span>Alla affärer bygger på att säljare och köpare, båda parter, är nöjda med uppgörelsen. Så ser det inte alltid ut, framförallt inte när det gäller telefonförsäljning. </span>
+			</p>
+			<p>
+				<span>Lagen om telefonförsäljning har ändrats så att telefonförsäljning till privatpersoner har belagts med ett skriftlighetskrav. Detta på grund av de många problemen med telefonförsäljning. Den 1 september 2018 infördes ett skriftlighetskrav vid telefon</span><span>&#xad;</span><span>försäljning i syfte att stärka konsumentskyddet. Skriftlighetskravet innebär att det inte längre är möjligt att ingå ett distansavtal muntligen när näringsidkaren på eget initiativ kontaktar konsumenten per telefon. För att ett giltigt avtal ska ingås krävs att konsumenten efter telefonsamtalet skriftligen accepterar näringsidkarens anbud.</span>
+			</p>
+			<p>
+				<span>Företagare förväntas ha större resurser för att skydda sig mot oönskad telefon</span><span>&#xad;</span><span>försäljning. Men det drabbar småföretagare, som vanligtvis inte har större resurser än en privatperson och därmed är lika utsatta. Mindre företag har i dag svårigheter att hävda sin rätt mot oseriösa telefonförsäljare då det kan vara svårt för företagare att styrka att de blivit vilseledda. Till skillnad från konsumenter har företagare inte någon lagstadgad ångerrätt vid distansavtal. I propositionen med förslag om ett skriftlighetskrav vid telefonförsäljning till konsumenter ansåg regeringen däremot inte att reglerna om ett skriftlighetskrav även skulle vara tillämpliga vid telefonförsäljning till småföretagare. </span>
+			</p>
+			<p>
+				<span>Vi anser att skyddet för småföretagare vid distansavtal måste stärkas. Bland annat bör småföretagare som kontaktas av telefonförsäljare omfattas av samma regler om skriftlighetskrav och ångerrätt som gäller vid telefonförsäljning till konsumenter. </span>
+			</p>
+			<h1>
+				<span>Inga undantag för partier eller bolag eller föreningar ägda av politiska partier gällande försäljning av lotter och spel</span>
+			</h1>
+			<p class="Normalutanindragellerluft">
+				<span>Det är anmärkningsvärt att det finns särskilda undantag för politiska partiers försäljning av lotter och spel på kredit, vilket möjliggör högst tveksamma upplägg. De lagar som finns för att skydda konsumenter ska givetvis gälla även för politiska partier och bolag och föreningar som ägs av politiska partier. Lotter och spel ska aldrig säljas på kredit och försäljningen ska inte vara aggressiv. En utredning, Ds</span><span>&#xa0;</span><span>2024:3 Utredning om översyn av partipolitiska lotterier, är färdig och förslagen bereds 2024 på Regerings</span><span>&#xad;</span><span>kansliet. Utredaren har tagit fram två olika förslag: </span>
+			</p>
+			<ol type="1" style="margin:0pt; padding-left:0pt">
+				<li class="ListaNummer" style="margin-left:14pt; margin-bottom:0pt; t-i:0pt; padding-left:3pt">
+					<span>förbud mot partipolitiska lotterier (lotterier som säljs av organisationer i syfte att ge intäkter till politiska partier) och </span>
+				</li>
+				<li class="ListaNummer" style="margin-top:0pt; margin-left:14pt; t-i:0pt; padding-left:3pt">
+					<span>ett förslag som innebär skärpta krav på partipolitiska lotterier.</span>
+				</li>
+			</ol>
+			<p class="Normalutanindragellerluft">
+				<span>Skärpningarna innebär att de undantag från spellagens kreditförbud och bonus</span><span>&#xad;</span><span>begränsningar som gäller för allmännyttiga spel, inte längre ska gälla partipolitiska lotterier. Utredningen föreslår även att det vid köp av spel till förmån för partipolitisk verksamhet, samt i marknadsföringen, tydligt ska framgå vilket parti som är förmåns</span><span>&#xad;</span><span>tagare, samt att spelskatt ska betalas vid spel till förmån för partipolitisk verksamhet.</span>
+			</p>
+			<p>
+				<span>Redan riksdagens verksamhetsår 2017/18 tillkännagav riksdagen till regeringen att man bör ta fram ytterligare skriftlighetskrav. Sverigedemokraterna är måna om att framhålla vikten av snabbare hantering. Man behöver på bättre sätt och mer skyndsamt agera för konsumenternas trygghet gällande telefonförsäljning. </span>
+			</p>
+			<h1>
+				<span>Krafttag mot bedrägerier</span>
+			</h1>
+			<p class="Normalutanindragellerluft">
+				<span>Senare år har bedrägerierna ökat i hög grad. De drabbar både privatpersoner och företagare, i synnerhet svaga konsumentgrupper såsom pensionärer. Mycket behöver och kan göras för att värna konsumenter, utöver ren brottsbekämpning. Finans</span><span>&#xad;</span><span>inspektionen har i uppdrag att redovisa hur inspektionen bedriver tillsyn över hur bankerna tillämpar bestämmelserna om motverkande av bedrägerier i lagen om betaltjänster. Uppdraget ska redovisas under våren 2024. </span>
+			</p>
+			<p>
+				<span>Vi menar att bankerna har ett stort ansvar i att dels följa den vård- och omsorgsplikt de har, dels genom att utveckla sina trygghets- och säkerhetssystem. Flera saker är påbörjade vilket är positivt. Regeringen har exempelvis träffat storbankerna om att de bör ta större ansvar och ska ta fram förslag till åtgärder. Det är dock ovisst hur upp</span><span>&#xad;</span><span>draget till bankerna ser ut. I ett svar på en skriftlig fråga i februari 2024 skriver finansmarknadsministern att han utgår från att bankerna i fortsättningen utvecklar säkerheten kring sina produkter och tjänster. Det är något som borde ha gjorts för länge sedan. Vi menar att tydliga krav bör ställas från regeringen om kraftfulla åtgärder mot bedrägerierna. Det återstår att se hur kravet från regeringen på bankerna ser ut och om bankerna snarast vidtar verkningsfulla åtgärder. Sverigedemokraterna har ett flertal förslag mot bedrägerier och till förmån för brottsoffer i en särskild kommittémotion om brottsoffer och skadestånd.</span><span style="-aw-import:spaces">&#xa0; </span>
+			</p>
+			<h1>
+				<span>Sanktioner för de som levererar oriktiga fakturor och åtgärder mot ocker </span>
+			</h1>
+			<p class="Normalutanindragellerluft">
+				<span>Ett exempel är då hantverkare begär högre betalning än vad som i berörd bransch kan anses rimligt eller gör ett större påslag på varor som säljs än vad som är befogat. Ett annat exempel är annonsering om bostäder där det företag som majoriteten av mäklar</span><span>&#xad;</span><span>firmorna är anslutna till har en närmast monopolliknande ställning och därför kan ta ut oskäliga avgifter av konsumenterna. Dessa har i många fall inte något annat val än att utnyttja tjänsten om de vill få sin bostad såld.</span>
+			</p>
+			<p>
+				<span>Numera finns ett räntetak som ska reglera hur mycket ränta som maximalt är möjligt </span><span style="letter-spacing:-0.1pt">att ta ut. I Sverige bör det även fortsättningsvis finnas en ockerlagstiftning som begränsar</span><span> möjligheterna att utnyttja konsumenters okunskap eller oförmåga att bedöma riktigheten i kostnader och avtal.</span>
+			</p>
+			<h1>
+				<span>Förbud mot försäljning av andrahandsbiljetter till överpris och tydlighet om vem som är den officiella säljaren av biljetterna </span>
+			</h1>
+			<p class="Normalutanindragellerluft">
+				<span>Varje år arrangeras många event runt om i landet. Det handlar bland annat om konserter, sportevenemang, festivaler och teater. Det kan vara högt tryck på de populära till</span><span>&#xad;</span><span>ställningarna och köpare behöver ofta vara ute i god tid för att få tag i biljetter. Generellt sett släpps biljetterna många månader före evenemanget. Det är vanligt att biljetter säljs i andra hand, exempelvis då den ursprungliga köparen av olika skäl ångrat sig. Eftersom biljettförsäljaren inte är skyldig att tillämpa ångerrätt vid köp av evenemangsbiljetter och ångerrätten, i de fall den förekommer, har en kort tidsfrist så säljs biljetterna ofta vidare i andra hand för att undvika ekonomisk förlust. </span>
+			</p>
+			<p>
+				<span>Många gånger är konsumenten av den uppfattningen att företaget man köper biljetten av är den officiella biljettförsäljaren. I själva verket är det ofta så att företaget säljer biljetten i andra hand. Det behöver därför tydligt framgå vid försäljning av biljetter om företaget är den officiella säljaren av biljetterna. Syftet är att det ska bli tydligare för konsumenten om man köper sina biljetter via en officiell sida till aktuellt pris eller om man handlar på andrahandsmarknaden och betalar ett överpris.</span>
+			</p>
+			<p>
+				<span>Det förekommer också att både privatpersoner och företag köper upp åtråvärda biljetter för att sälja dem vidare i vinstsyfte, vilket resulterar i överpriser. Eftersom en person eller ett företag som säljer biljetter i andra hand kan prissätta efter eget tycke, säljs i stort sett alltid andrahandsbiljetter till ett betydligt högre pris än vid förstahands</span><span>&#xad;</span><span>försäljning. Detta innebär en försämrad möjlighet att få tag i biljetter för de som vill besöka evenemanget, samtidigt som det också begränsar möjligheten för de som inte kan betala överpriser.</span>
+			</p>
+			<p>
+				<span>Som konsument är det vanskligt att köpa andrahandsbiljetter. Det kan innebära att man behöver betala överpris. Det är dessutom svårt att veta om biljetten är äkta, om platserna stämmer med det som bokats och om samma biljett sålts till fler personer. En ytterligare risk kan vara att om arrangemanget ställs in erhåller köparen möjligen enbart summan motsvarande det ursprungliga priset tillbaka och alltså inte det köparen betalat totalt för biljetten.</span>
+			</p>
+			<p>
+				<span>Det finns ett förbud mot försäljning av biljetter köpta genom automatiserade metoder, så kallade botar, som EU antog i revideringen av fyra konsumenträttighets</span><span>&#xad;</span><span>direktiv i november 2019. I exempelvis Danmark och Norge är det förbjudet att sälja biljetter vidare till ett högre pris än det ursprungliga från arrangören. Ett förbud mot att sälja andrahandsbiljetter till ett högre pris än originalpriset bör införas. </span>
+			</p>
+			<h1>
+				<span>Samordningsuppdrag om fullgod information om trafik och avgångar inom kollektivtrafiken</span>
+			</h1>
+			<p class="Normalutanindragellerluft">
+				<span>Det brister många gånger i informationen till resenärer då fel inträffar. Här saknas samordning mellan transportörer, där Trafikverket och kommunerna inte har skyldighet att informera Svensk Kollektivtrafik eller SJ om förändringar. Någon form av ansvar för samordning genom stationsråd på plats för att ge resenärer den information som behövs, skulle förbättra konsumentperspektivet inom kollektivtrafiken. Ytterligare behov är bättre platstillgänglighet för bilparkering i anslutning till hållplatser, eftersom det i många fall saknas tillgänglighet och tillräckligt antal parkeringsplatser.</span>
+			</p>
+			<p>
+				<span>Utökade uppdrag till berörda myndigheter för att få nödvändiga förändringar till stånd och att se över lagen (2015:953) om kollektivtrafikresenärers rättigheter utifrån gällande problematik, skulle bättre svara mot en god konsumenträtt.</span>
+			</p>
+			<h1>
+				<span>Se över lagen (2015:953) om kollektivtrafikresenärers rättigheter</span>
+			</h1>
+			<p class="Normalutanindragellerluft">
+				<span>I kollektivtrafiken förekommer omfattande brister där konsumenter drabbas. Det gäller inte minst punktligheten, men även information kring då fel och förseningar inträffar samt att det råder parkeringsplatsbrist i anslutning till hållplatser. Från flera håll 2023 och 2024 hörs stark kritik mot att tågtrafiken fungerar mycket dåligt. Det är så många problem med tågtrafiken i Sverige, med bland annat inställda och försenade tåg, att det krävs en kriskommission för att det ska gå att rätta till, menar vissa.</span>
+			</p>
+			<p>
+				<span>Resenärer är intresserade av punktlighet för tidsmässig vinst, detta som ett skäl för </span><span style="letter-spacing:-0.1pt">att välja just kollektivtrafik. När det brister i punktlighet så orsakar det att deras planering,</span><span> möten och andra trafikavgångar missas. Konsumentperspektivet ska vara lika starkt gällande resenärsrättigheter som för konsumenter vid tillhandahållande av andra produkter och tjänster.</span>
+			</p>
+			<p>
+				<span>Enligt Svensk Kollektivtrafik är problemen störst inom tågtrafiken, eftersom samtliga aktörer där är beroende av varandra och olika former av stopp medför köer eftersom omkörningar inte kan göras. Här behöver trafiktabeller mellan godstrafik respektive passagerartrafik synkroniseras.</span>
+			</p>
+			<p>
+				<span>I augusti 2023 gav regeringen Trafikverket i uppdrag att ta fram förslag för att stärka järnvägsunderhållets genomförande och järnvägstrafikens robusthet, tillförlitlighet och punktlighet. I februari 2024 redovisade Trafikverket pågående och planerade åtgärder som syftar till att förbättra den operativa förmågan. Åtgärderna är strukturerade i nio fokusområden som omfattar exempelvis införande av nya affärsupplägg, förbättrad reservdelsstrategi och riktade utbyten av viktiga komponenter. Det återstår dock att se om trafiken kommer att flyta på bra. Det ser inte ut som om informationsdelen till konsumenter tas med inom åtgärderna. Vi ser behov av förbättringar på området.</span>
+			</p>
+			<h1>
+				<span>Samma rättigheter för tågresenärer som för flygresenärer</span>
+			</h1>
+			<p class="Normalutanindragellerluft">
+				<span>Konsumenter som är resenärer ska självklart ha goda och likvärdiga rättigheter. Det är rimligt att tågresenärer exempelvis ska ha samma förutsättningar och rättigheter som flygresenärer. Tåg är både energieffektivt och miljövänligt och är därmed ett hållbart sätt att resa. Det finns ingen logik i att tågresenärers rättigheter ska vara sämre än för flygresenärer. Vid förseningar och inställda avgångar finns det ett relativt gott skydd för konsumenter. Det är dock inte rimligt att återbetalningstiden för tågresenärer är 30 dagar. Återbetalning för flygresor ska ske inom sju dagar och då borde samma regler gälla för tågresenärer. Rent konkret innebär det att tågresenärers rättigheter ska vara desamma som flygresenärers när det gäller återbetalning av biljetter eller prisned</span><span>&#xad;</span><span>sättning. </span>
+			</p>
+			<h1>
+				<span>Anpassa svensk lagstiftning inom konsumenträtt till ett framtida samhälle där både myndigheter och företagare utnyttjar AI </span>
+			</h1>
+			<p class="Normalutanindragellerluft">
+				<span>Utvecklingen av AI har geopolitisk betydelse och kommer att påverka Sveriges säkerhet och internationella samarbeten. Frågor om standarder, specifikationer och etiska normer för AI kommer sannolikt att få samma geopolitiska dimensioner som exempelvis molntjänster, 5G och 6G. En viktig väg framåt för utvecklingen av gemensamma regler är ett ökat engagemang inom EU och med strategiskt viktiga parter utanför EU. </span>
+			</p>
+			<p>
+				<span>AI kan användas för att effektivisera den offentliga förvaltningen och även för att förbättra dess möjlighet att bedriva ändamålsenlig verksamhet, exempelvis inom vård, socialtjänst och brottsbekämpning. Det ekonomiska värdet av att i större omfattning använda AI i den offentliga förvaltningen är betydande. Myndigheten för digital förvaltning har beräknat att om dagens AI-teknik skulle användas fullt ut i den offentliga förvaltningen skulle Sverige kunna göra stora vinster, ca 140 miljarder kronor årligen, vilket motsvarar ca sex procent av dagens totala offentliga utgifter. Vinsterna skulle uppstå främst genom högre produktivitet, ökade intäkter och minskade felaktiga utbetalningar.</span>
+			</p>
+			<p>
+				<span>Det finns således stor potential för AI samtidigt som risker behöver utredas och lagstiftningen behöver anpassas för att stärka svenska konsumenters rättigheter i ett framtida samhälle där myndighetsbeslut tas med hjälp av automatiserat beslutsfattande. Regeringen tillsatte i december 2023 en AI-kommission med syftet att stärka svensk konkurrenskraft samt effektivisera myndighetsbeslut. Kommissionens uppdrag är även att analysera risker samt att utreda hur tekniken kan användas på ett etiskt och rättssäkert sätt. </span>
+			</p>
+			<p>
+				<span>För att stärka konsumenträtten är det viktigt att svensk lagstiftning ger ett fullgott skydd i ett framtida samhälle där allt mer av försäljning och marknadsföring sker med hjälp av AI. Regeringen bör således ges i uppdrag att anpassa svensk lagstiftning till ett samhälle där AI utnyttjas i större utsträckning av både myndigheter och näringsliv. </span>
+			</p>
+			<h1>
+				<span>Kontantplikt för livsnödvändiga konsumtionsartiklar</span>
+			</h1>
+			<p class="Normalutanindragellerluft">
+				<span>Kontantanvändningen minskar alltmer och ersätts av kortbetalning och digitala betalsätt i takt med den ökade digitaliseringen. Många vill dock gärna ha kontanter som spar</span><span>&#xad;</span><span>medel, särskilt i kristid, vilket är en mycket viktig aspekt för att bevara kontant</span><span>&#xad;</span><span>hantering. Riksbanken har uttryckt oro för kontantlöshet. Svensk Handel menar att det finns grupper i samhället som i högre utsträckning är beroende av kontanter än andra, exempelvis äldre, funktionsnedsatta och turister. Europeiska centralbanken har lyft behovet av en viss mängd kontanter för att ekonomin ska fungera. Det är dessutom det dominerande betalningsmedlet inom euroområdet. Samtidigt är kontanter viktiga för social inkludering av svagare medborgare såsom äldre personer och låginkomsttagare. Nätverket Kontantupproret har tagit upp beredskapsperspektivet i Sverige, samt behovet av kontanter exempelvis för sårbara grupper.</span>
+			</p>
+			<p>
+				<span>Vi vill att kontantplikt ska råda för livsnödvändiga konsumtionsartiklar. Större livsmedelsbutiker, apotek och bensinstationer ska acceptera kontanter som betalnings</span><span>&#xad;</span><span>metod. Undantag ska dock råda för små företag och även mindre livsmedelsbutiker som kan drabbas negativt. Endast livsmedelshandlare som omsätter en viss summa och uppåt ska behöva ta emot kontant betalning. Det ska inte råda kontantplikt dygnet runt, utan vissa områden och tider ska kunna undantas av säkerhetsskäl. </span>
+			</p>
+			<p>
+				<span>Regeringen har tillsatt en utredning med stöd av Sverigedemokraterna, och ut</span><span>&#xad;</span><span>redningen leds av Sverigedemokraterna. Utredningen ska belysa de nuvarande möjlig</span><span>&#xad;</span><span>heterna att betala med kontanter för livsnödvändiga varor och tillgången till kontant</span><span>&#xad;</span><span>tjänster i städer, tätorter samt i gles- och landsbygder, analysera effekterna av redan genomförda lagstiftningsåtgärder inom kontantområdet och hur de samverkar med den tekniska utvecklingen och förändrade betalmönster samt kartlägga vilka tjänster och produkter och geografiska områden där kontanter spelar en särskild roll, inbegripet vid fredstida krissituationer, höjd beredskap och ytterst krig. Utredningen ska redovisas den sista december 2024, vilket vi ser fram emot. </span>
+			</p>
+			<p>
+				<span>Det är inte bara digitala betalmetoder som är känsliga för en attack mot svenska it-system. Även viktiga samhällsfunktioner som polis, räddningstjänst, kollektivtrafik, sjukhus och annan viktig infrastruktur är känsliga för it-störningar. Dessa system behöver också ökat skydd och robusthet i händelse av krig. </span>
+			</p>
+			<h1>
+				<span>Agera mot greenwashing, felaktiga miljöpåståenden</span>
+			</h1>
+			<p class="Normalutanindragellerluft">
+				<span>Det har en längre tid varit ett stort problem med så kallad greenwashing. Det innebär att företag eller organisationer marknadsför sina produkter, sig själva eller sina tjänster som miljövänliga, hållbara, klimatsmarta eller ”gröna”. Detta utan att de förbättrar klimatet eller minskar negativ miljöpåverkan eller också har de inte underbyggda fakta för att de skulle innebära positiv miljönytta. I många fall använder företag eller organisationer miljövänliga påståenden för att framstå som mer hållbara än de egentligen är. Påståendena kan innebära budskap i text eller vilseledande användning av symboler.</span>
+			</p>
+			<p>
+				<span>Felaktiga miljöpåståenden är självklart lika negativt som annat lurendrejeri. Det är illa eftersom det vuxit i omfattning i takt med inriktningen och den tilltagande diskussionen i samhället om att agera miljövänligt. De som vilseleder konsumenter gällande miljöpåståenden lurar konsumenterna och gör hela miljöarbetet en otjänst genom sin tvivelaktighet.</span>
+			</p>
+			<p>
+				<span>Europaparlamentet vill stoppa greenwashing och reglera området så att konsumenter ges bättre information om hållbarheten i de produkter de köper. I januari 2024 aviserades förslaget om att information om en produkts påverkan på miljön, livslängd, reparerbarhet, sammansättning, produktion och användning faktiskt ska stödjas av verifierbara källor. Ministerrådet har antagit avtalet och medlemsstaterna har 24 månader på sig att införliva uppdateringen i den nationella lagstiftningen.</span>
+			</p>
+			<p>
+				<span>I Sverige finns förbud mot vilseledanande marknadsföring i marknadsföringslagen (2008:486), vilket även kan inkludera vilseledande miljöpåståenden. Konsumentverket ansvarar för att övervaka och säkerställa att marknadsföringslagen följs. </span>
+			</p>
+			<p>
+				<span>Sverigedemokraterna har redan tidigare tagit upp vikten av den här frågan exempelvis genom en skriftlig fråga till dåvarande statsråd, eftersom ingenting tycktes hända gentemot den frekventa pågående greenwashingen trots regelverket. Nu behöver EU-reglerna implementeras snarast möjligt och verkliga åtgärder mot vilseledande miljöpåståenden sättas in i Sverige. Ageranden kan utgöras av exempelvis kampanjer mot greenwashing och tydligare upplysning om reglerna när det gäller vilseledande miljöpåståenden.</span>
+			</p>
+			<h1>
+				<span>Förbjud eller begränsa kraftigt cancerogena ämnen och inför varningstext för miljöfarliga läkemedel</span>
+			</h1>
+			<p class="Normalutanindragellerluft">
+				<span>En rapport från Sveriges lantbruksuniversitet visar att Sveriges största dricksvattentäkter Vänern, Vättern, Mälaren och deras vattendrag är förorenade av avloppsvatten med miljögifter, i många fall cancerogena och svåra att bryta ner. Över 100 kemiska ämnen har analyserats, och majoriteten var läkemedelssubstanser. Läkemedelsrester från hushåll och sjukhus kan påverka fysiologiska processer hos såväl människor som djur när de kommer ut i naturen. Användningen av antibiotika och svampdödande medel kan leda till resistensutveckling hos mikroorganismer. Endokrint aktiva ämnen, exempelvis östrogen och progesteronderivat, påverkar fiskars reproduktionsförmåga, och sekundärt hela ekosystem.</span>
+			</p>
+			<p>
+				<span>För att upplysa konsumenterna om miljöfarliga läkemedel ska dessa märkas tydligt med en varningstext så att konsumenter uppmanas att lämna in dessa som miljöfarligt avfall istället för att spola ner dessa i avloppet.</span>
+			</p>
+			<h1>
+				<span>Förhindra import av farliga ämnen via internationell e</span><span>&#x2011;</span><span>handel </span>
+			</h1>
+			<p class="Normalutanindragellerluft">
+				<span>Handel via internet tar ständigt nya marknadsandelar och är ett bekvämt och enkelt sätt för konsumenter att införskaffa varor från hela världen.</span>
+			</p>
+			<p>
+				<span>Kemikalieinspektionen har framfört att nya förutsättningar har lett till att kontrollen av produktsäkerhet och regelefterlevnad inte är fullt ut anpassade för e</span><span>&#x2011;</span><span>handel. Kemikalieinspektionen arbetar därför på flera arenor för att möta denna utmaning. Internationell e</span><span>&#x2011;</span><span>handel har kontrollerats inom ramen för ett nordiskt samarbete, och gränskontroller har utförts i samverkan med Tullverket. Kemikalieinspektionen har initierat och är ordförande för ett projekt om tillsyn av e</span><span>&#x2011;</span><span>handel inom ramen för EU-samverkan.</span>
+			</p>
+			<p>
+				<span>Trots alla ansträngningar av Kemikalieinspektionen förekommer fortfarande okontrollerad e</span><span>&#x2011;</span><span>handel vilket innebär att otaliga produkter som innehåller skadliga ämnen kommer in i landet. Speciellt allvarligt är det när billiga leksaker som innehåller skadliga ämnen importeras. För att skydda våra barn måste Kemikalieinspektionen skyndsamt och målmedvetet accelerera arbetet med att förhindra att dessa skadliga produkter kommer in i landet.</span>
+			</p>
+			<div style="-aw-sdt-tag:'CC_Underskrifter'; -aw-sdt-title:'CC_Underskrifter'">
+				<p>
+					<span style="-aw-import:ignore">&#xa0;</span>
+				</p>
+				<p>
+					<span style="-aw-import:ignore">&#xa0;</span>
+				</p>
+			</div>
+			<table cellspacing="0" cellpadding="0" style="width:100%; border-collapse:collapse">
+				<tr style="page-break-inside:avoid">
+					<td style="width:1%; padding-right:5.4pt; padding-left:5.4pt; vertical-align:bottom">
+						<p class="Underskrifter" style="margin-bottom:0pt">
+							<span>Mikael Eskilandersson (SD)</span>
+						</p>
+					</td>
+					<td style="width:1%; padding-right:5.4pt; padding-left:5.4pt; vertical-align:bottom">
+						<p class="Underskrifter" style="margin-bottom:0pt">
+							<span style="-aw-import:ignore">&#xa0;</span>
+						</p>
+					</td>
+				</tr>
+				<tr style="page-break-inside:avoid">
+					<td style="width:1%; padding-right:5.4pt; padding-left:5.4pt; vertical-align:bottom">
+						<p class="Underskrifter" style="margin-bottom:0pt">
+							<span>Roger Hedlund (SD)</span>
+						</p>
+					</td>
+					<td style="width:1%; padding-right:5.4pt; padding-left:5.4pt; vertical-align:bottom">
+						<p class="Underskrifter" style="margin-bottom:0pt">
+							<span>Björn Tidland (SD)</span>
+						</p>
+					</td>
+				</tr>
+				<tr style="page-break-inside:avoid">
+					<td style="width:1%; padding-right:5.4pt; padding-left:5.4pt; vertical-align:bottom">
+						<p class="Underskrifter" style="margin-bottom:0pt">
+							<span>Rashid Farivar (SD)</span>
+						</p>
+					</td>
+					<td style="width:1%; padding-right:5.4pt; padding-left:5.4pt; vertical-align:bottom">
+						<p class="Underskrifter" style="margin-bottom:0pt">
+							<span>Mats Hellhoff (SD)</span>
+						</p>
+					</td>
+				</tr>
+			</table>
+			<p>
+				<span style="-aw-import:ignore">&#xa0;</span>
+			</p>
+		</div>
+	</div>

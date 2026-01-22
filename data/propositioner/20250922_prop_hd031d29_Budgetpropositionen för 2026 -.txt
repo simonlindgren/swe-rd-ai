@@ -1,0 +1,905 @@
+SEARCH TERM: AI
+DOCUMENT ID: hd031d29
+TITLE: Budgetpropositionen för 2026 - Utgiftsområde 27 Avgiften till Europeiska unionen
+TYPE: prop
+SUBTYPE: prop
+DATE: 2025-09-22 08:40:36
+PARLIAMENTARY YEAR: 2025/26
+ORGANISATION: 
+STATUS: 
+DOWNLOADED: 2026-01-22 10:26:18
+================================================================================
+
+<div style="margin:3px;">
+<STYLE type="text/css">
+
+body {margin-top: 0px;margin-left: 0px;}
+
+#page_1 {position:relative; overflow: hidden;z:b;margin:0px 0px 0px 10px ;padding: 0px;border: none;width: 721px;height: 1123px;}
+
+#page_1 #p1dimg1 {position:absolute;top:0px;left:651px;z-index:-1;width:57px;height:1123px;}
+#page_1 #p1dimg1 #p1img1 {width:57px;height:1123px;}
+
+
+
+
+#page_2 {position:relative; overflow: hidden;z:b;margin:12px 0px 13px 10px ;padding: 0px;border: none;width: 766px;}
+#page_2 #id_1 {border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 541px;overflow: hidden;}
+#page_2 #id_2 {border:none;z:b;margin:98px 0px 0px 10px ;padding: 0px;border:none;width: 451px;overflow: hidden;}
+
+
+
+
+
+#page_3 {position:relative; overflow: hidden;z:b;margin:13px 0px 13px 10px ;padding: 0px;border: none;width: 766px;}
+#page_3 #id_1 {border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 721px;overflow: hidden;}
+#page_3 #id_2 {border:none;z:b;margin:99px 0px 0px 10px ;padding: 0px;border:none;width: 451px;overflow: hidden;}
+
+
+
+
+
+#page_4 {position:relative; overflow: hidden;z:b;margin:26px 0px 13px 10px ;padding: 0px;border: none;width: 766px;}
+
+
+
+
+
+#page_5 {position:relative; overflow: hidden;z:b;margin:22px 0px 13px 10px ;padding: 0px;border: none;width: 766px;}
+
+
+
+
+
+#page_6 {position:relative; overflow: hidden;z:b;margin:22px 0px 13px 10px ;padding: 0px;border: none;width: 766px;}
+
+
+
+
+
+#page_7 {position:relative; overflow: hidden;z:b;margin:22px 0px 13px 10px ;padding: 0px;border: none;width: 766px;}
+
+
+
+
+
+#page_8 {position:relative; overflow: hidden;z:b;margin:22px 0px 13px 10px ;padding: 0px;border: none;width: 766px;}
+
+
+
+
+
+#page_9 {position:relative; overflow: hidden;z:b;margin:22px 0px 13px 10px ;padding: 0px;border: none;width: 947px;}
+
+#page_9 #p9dimg1 {position:absolute;top:679px;left:147px;z-index:-1;width:493px;height:2px;font-size: 1px !important;l-h:nHeight;}
+#page_9 #p9dimg1 #p9img1 {width:493px;height:2px;}
+
+
+
+
+#page_10 {position:relative; overflow: hidden;z:b;margin:22px 0px 13px 10px ;padding: 0px;border: none;width: 766px;}
+
+
+
+
+
+#page_11 {position:relative; overflow: hidden;z:b;margin:22px 0px 13px 10px ;padding: 0px;border: none;width: 766px;}
+
+
+
+
+
+#page_12 {position:relative; overflow: hidden;z:b;margin:22px 0px 13px 10px ;padding: 0px;border: none;width: 766px;}
+
+#page_12 #p12dimg1 {position:absolute;top:265px;left:1px;z-index:-1;width:492px;height:2px;font-size: 1px !important;l-h:nHeight;}
+#page_12 #p12dimg1 #p12img1 {width:492px;height:2px;}
+
+
+
+
+#page_13 {position:relative; overflow: hidden;z:b;margin:22px 0px 13px 10px ;padding: 0px;border: none;width: 766px;}
+
+#page_13 #p13dimg1 {position:absolute;top:215px;left:0px;z-index:-1;width:508px;height:67px;}
+#page_13 #p13dimg1 #p13img1 {width:508px;height:67px;}
+
+
+
+
+.dclr {clear:both;float:none;height:1px;margin:0px;padding:0px;overflow:hidden;}
+
+.ft0{font:  20px 'Verdana' !important;l-h: 33px;}
+.ft1{font:  14px 'Verdana' !important;l-h: 17px;}
+.ft2{font:  10px 'Verdana' !important;l-h: 1px;}
+.ft3{font:  12px 'Verdana' !important;l-h: 14px;}
+.ft4{font: bold  14px 'Verdana' !important;l-h: 22px;}
+.ft5{font:  16px 'Verdana' !important;l-h: 24px;}
+.ft6{font:  12px 'Verdana' !important;l-h: 15px;}
+.ft7{font:  14px 'Verdana' !important;l-h: 16px;}
+.ft8{font: bold  12px 'Verdana' !important;l-h: 16px;}
+.ft9{font:  14px 'Verdana' !important;margin-left: 20px;l-h: 18px;}
+.ft10{font:  14px 'Verdana' !important;l-h: 18px;}
+.ft11{font:  14px 'Verdana' !important;margin-left: 20px;l-h: 19px;}
+.ft12{font:  14px 'Verdana' !important;l-h: 19px;}
+.ft13{font: bold  12px 'Verdana' !important;l-h: 15px;}
+.ft14{font:  10px 'Verdana' !important;l-h: 13px;}
+.ft15{font:  10px 'Verdana' !important;l-h: 12px;}
+.ft16{font:  12px 'Verdana' !important;l-h: 14px;}
+.ft17{font: bold  12px 'Verdana' !important;l-h: 14px;}
+.ft18{font:  20px 'Verdana' !important;margin-left: 60px;l-h: 38px;}
+.ft19{font:  20px 'Verdana' !important;l-h: 38px;}
+.ft20{font: bold  14px 'Verdana' !important;l-h: 21px;}
+.ft21{font: bold  14px 'Verdana' !important;margin-left: 50px;l-h: 22px;}
+.ft22{font:  12px 'Verdana' !important;l-h: 18px;}
+.ft23{font:  12px 'Verdana' !important;l-h: 19px;}
+.ft24{font: bold  10px 'Verdana' !important;l-h: 11px;}
+.ft25{font:  10px 'Verdana' !important;l-h: 6px;position: relative; bottom: 3px;}
+.ft26{font: bold  10px 'Verdana' !important;l-h: 12px;}
+.ft27{font:  10px 'Verdana' !important;l-h: 6px;}
+.ft28{font:  10px 'Verdana' !important;margin-left: 2px;l-h: 12px;}
+.ft29{font: bold  10px 'Verdana' !important;l-h: 7px;position: relative; bottom: 4px;}
+.ft30{font: italic  12px 'Verdana' !important;l-h: 14px;}
+.ft31{font:  10px 'Verdana' !important;l-h: 7px;position: relative; bottom: 4px;}
+.ft32{font:  12px 'Verdana' !important;l-h: 17px;}
+.ft33{font: bold  14px 'Verdana' !important;margin-left: 50px;l-h: 25px;}
+.ft34{font: bold  14px 'Verdana' !important;l-h: 25px;}
+.ft35{font:  14px 'Verdana' !important;l-h: 19px;}
+.ft36{font:  10px 'Verdana' !important;text-decoration: underline;l-h: 12px;}
+.ft37{font:  10px 'Verdana' !important;text-decoration: underline;l-h: 10px;}
+.ft38{font:  14px 'Verdana' !important;l-h: 21px;}
+.ft39{font:  14px 'Verdana' !important;margin-left: 39px;l-h: 19px;}
+.ft40{font: italic  12px 'Verdana' !important;l-h: 18px;}
+
+.p0{text-align: left;padding-left: 0px;margin-top: 148px;margin-bottom: 0px !important;}
+.p1{text-align: left;margin-top: 33px;margin-bottom: 0px !important;}
+.p2{text-align: left;padding-left: 180px;margin-top: 816px;margin-bottom: 0px !important;}
+.p3{text-align: left;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p4{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p5{text-align: right;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p6{text-align: right;padding-right: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p7{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p8{text-align: left;margin-top: 0px;margin-bottom: 0px !important;}
+.p9{text-align: left;padding-left: 140px;margin-top: 0px;margin-bottom: 0px !important;}
+.p10{text-align: left;padding-left: 0px;margin-top: 29px;margin-bottom: 0px !important;}
+.p11{text-align: left;padding-left: 0px;margin-top: 34px;margin-bottom: 0px !important;}
+.p12{text-align: left;padding-left: 0px;padding-right: 147px;margin-top: 5px;margin-bottom: 0px !important;text-indent: 0.30px;}
+.p13{text-align: left;padding-left: 0px;padding-right: 168px;margin-top: 1px;margin-bottom: 0px !important;text-indent: 0.30px;}
+.p14{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p15{text-align: right;padding-right: 8px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p16{text-align: left;padding-left: 0px;padding-right: 189px;margin-top: 0px;margin-bottom: 0px !important;text-indent: 0.76px;}
+.p17{text-align: left;margin-top: 24px;margin-bottom: 0px !important;}
+.p18{text-align: left;padding-right: 147px;margin-top: 9px;margin-bottom: 0px !important;}
+.p19{text-align: left;padding-right: 147px;margin-top: 5px;margin-bottom: 0px !important;}
+.p20{text-align: left;padding-right: 147px;margin-top: 0px;margin-bottom: 0px !important;}
+.p21{text-align: left;padding-right: 168px;margin-top: 9px;margin-bottom: 0px !important;}
+.p22{text-align: left;padding-right: 168px;margin-top: 8px;margin-bottom: 0px !important;}
+.p23{text-align: left;padding-right: 147px;margin-top: 7px;margin-bottom: 0px !important;}
+.p24{text-align: left;padding-left: 220px;margin-top: 59px;margin-bottom: 0px !important;}
+.p25{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;}
+.p26{text-align: left;padding-left: 0px;padding-right: 147px;margin-top: 9px;margin-bottom: 0px !important;}
+.p27{text-align: left;padding-left: 0px;padding-right: 147px;margin-top: 6px;margin-bottom: 0px !important;}
+.p28{text-align: left;padding-left: 0px;padding-right: 273px;margin-top: 11px;margin-bottom: 0px !important;text-indent: 0.75px;}
+.p29{text-align: left;padding-left: 0px;margin-top: 4px;margin-bottom: 0px !important;}
+.p30{text-align: right;padding-right: 7px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p31{text-align: left;padding-left: 0px;margin-top: 3px;margin-bottom: 0px !important;}
+.p32{text-align: left;padding-left: 0px;padding-right: 147px;margin-top: 15px;margin-bottom: 0px !important;}
+.p33{text-align: left;padding-left: 0px;padding-right: 168px;margin-top: 7px;margin-bottom: 0px !important;}
+.p34{text-align: left;padding-left: 0px;padding-right: 168px;margin-top: 13px;margin-bottom: 0px !important;text-indent: 0.75px;}
+.p35{text-align: right;padding-right: 1px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p36{text-align: left;padding-left: 0px;padding-right: 147px;margin-top: 3px;margin-bottom: 0px !important;}
+.p37{text-align: left;padding-left: 220px;margin-top: 47px;margin-bottom: 0px !important;}
+.p38{text-align: left;padding-left: 0px;padding-right: 168px;margin-top: 0px;margin-bottom: 0px !important;text-indent: 0.75px;}
+.p39{text-align: left;padding-left: 0px;padding-right: 189px;margin-top: 3px;margin-bottom: 0px !important;}
+.p40{text-align: left;padding-left: 0px;padding-right: 168px;margin-top: 16px;margin-bottom: 0px !important;}
+.p41{text-align: left;padding-left: 0px;padding-right: 147px;margin-top: 16px;margin-bottom: 0px !important;}
+.p42{text-align: left;padding-left: 0px;padding-right: 147px;margin-top: 5px;margin-bottom: 0px !important;}
+.p43{text-align: left;padding-left: 0px;margin-top: 22px;margin-bottom: 0px !important;}
+.p44{text-align: left;padding-left: 0px;padding-right: 147px;margin-top: 8px;margin-bottom: 0px !important;}
+.p45{text-align: left;padding-left: 0px;margin-top: 5px;margin-bottom: 0px !important;}
+.p46{text-align: left;padding-left: 220px;margin-top: 111px;margin-bottom: 0px !important;}
+.p47{text-align: left;padding-left: 0px;padding-right: 399px;margin-top: 0px;margin-bottom: 0px !important;text-indent: 0.76px;}
+.p48{text-align: left;padding-right: 147px;margin-top: 3px;margin-bottom: 0px !important;}
+.p49{text-align: left;padding-right: 168px;margin-top: 7px;margin-bottom: 0px !important;}
+.p50{text-align: left;margin-top: 8px;margin-bottom: 0px !important;}
+.p51{text-align: left;padding-right: 147px;margin-top: 5px;margin-bottom: 0px !important;}
+.p52{text-align: left;padding-right: 147px;margin-top: 8px;margin-bottom: 0px !important;}
+.p53{text-align: left;padding-right: 147px;margin-top: 8px;margin-bottom: 0px !important;}
+.p54{text-align: left;padding-right: 147px;margin-top: 6px;margin-bottom: 0px !important;}
+.p55{text-align: left;padding-right: 147px;margin-top: 9px;margin-bottom: 0px !important;}
+.p56{text-align: left;padding-left: 220px;margin-top: 25px;margin-bottom: 0px !important;}
+.p57{text-align: left;padding-right: 168px;margin-top: 0px;margin-bottom: 0px !important;}
+.p58{text-align: left;padding-right: 168px;margin-top: 8px;margin-bottom: 0px !important;}
+.p59{text-align: left;padding-right: 147px;margin-top: 4px;margin-bottom: 0px !important;}
+.p60{text-align: left;padding-right: 147px;margin-top: 9px;margin-bottom: 0px !important;}
+.p61{text-align: left;padding-right: 168px;margin-top: 0px;margin-bottom: 0px !important;}
+.p62{text-align: left;padding-right: 147px;margin-top: 8px;margin-bottom: 0px !important;}
+.p63{text-align: left;padding-right: 147px;margin-top: 6px;margin-bottom: 0px !important;}
+.p64{text-align: left;padding-right: 147px;margin-top: 6px;margin-bottom: 0px !important;}
+.p65{text-align: left;padding-left: 220px;margin-top: 30px;margin-bottom: 0px !important;}
+.p66{text-align: left;padding-left: 120px;margin-top: 0px;margin-bottom: 0px !important;}
+.p67{text-align: left;padding-left: 120px;padding-right: 189px;margin-top: 1px;margin-bottom: 0px !important;}
+.p68{text-align: left;padding-left: 120px;padding-right: 168px;margin-top: 8px;margin-bottom: 0px !important;}
+.p69{text-align: left;padding-left: 120px;margin-top: 13px;margin-bottom: 0px !important;}
+.p70{text-align: left;padding-left: 120px;margin-top: 4px;margin-bottom: 0px !important;}
+.p71{text-align: right;padding-right: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p72{text-align: left;padding-left: 120px;padding-right: 189px;margin-top: 3px;margin-bottom: 0px !important;}
+.p73{text-align: left;padding-left: 120px;padding-right: 168px;margin-top: 18px;margin-bottom: 0px !important;}
+.p74{text-align: left;padding-left: 120px;padding-right: 147px;margin-top: 1px;margin-bottom: 0px !important;}
+.p75{text-align: left;padding-left: 120px;margin-top: 18px;margin-bottom: 0px !important;}
+.p76{text-align: left;padding-left: 120px;padding-right: 168px;margin-top: 5px;margin-bottom: 0px !important;}
+.p77{text-align: left;padding-left: 120px;margin-top: 5px;margin-bottom: 0px !important;}
+.p78{text-align: right;padding-right: 147px;margin-top: 8px;margin-bottom: 0px !important;}
+.p79{text-align: left;padding-left: 120px;margin-top: 3px;margin-bottom: 0px !important;}
+.p80{text-align: left;padding-left: 120px;margin-top: 19px;margin-bottom: 0px !important;}
+.p81{text-align: left;padding-left: 120px;padding-right: 147px;margin-top: 5px;margin-bottom: 0px !important;}
+.p82{text-align: left;padding-left: 120px;margin-top: 7px;margin-bottom: 0px !important;}
+.p83{text-align: left;padding-left: 120px;padding-right: 168px;margin-top: 1px;margin-bottom: 0px !important;}
+.p84{text-align: left;padding-left: 120px;padding-right: 210px;margin-top: 0px;margin-bottom: 0px !important;}
+.p85{text-align: left;padding-left: 360px;margin-top: 45px;margin-bottom: 0px !important;}
+.p86{text-align: left;padding-right: 147px;margin-top: 0px;margin-bottom: 0px !important;}
+.p87{text-align: left;padding-right: 168px;margin-top: 3px;margin-bottom: 0px !important;}
+.p88{text-align: left;padding-right: 147px;margin-top: 7px;margin-bottom: 0px !important;}
+.p89{text-align: left;margin-top: 23px;margin-bottom: 0px !important;}
+.p90{text-align: left;padding-right: 168px;margin-top: 9px;margin-bottom: 0px !important;}
+.p91{text-align: left;padding-right: 147px;margin-top: 10px;margin-bottom: 0px !important;}
+.p92{text-align: left;padding-right: 168px;margin-top: 7px;margin-bottom: 0px !important;}
+.p93{text-align: left;padding-right: 147px;margin-top: 9px;margin-bottom: 0px !important;}
+.p94{text-align: left;padding-left: 200px;margin-top: 90px;margin-bottom: 0px !important;}
+.p95{text-align: left;padding-right: 147px;margin-top: 9px;margin-bottom: 0px !important;}
+.p96{text-align: left;padding-right: 168px;margin-top: 7px;margin-bottom: 0px !important;}
+.p97{text-align: left;padding-right: 147px;margin-top: 4px;margin-bottom: 0px !important;}
+.p98{text-align: left;padding-right: 147px;margin-top: 5px;margin-bottom: 0px !important;}
+.p99{text-align: left;padding-right: 147px;margin-top: 8px;margin-bottom: 0px !important;}
+.p100{text-align: left;margin-top: 4px;margin-bottom: 0px !important;}
+.p101{text-align: left;padding-right: 147px;margin-top: 11px;margin-bottom: 0px !important;}
+.p102{text-align: left;padding-right: 147px;margin-top: 10px;margin-bottom: 0px !important;}
+.p103{text-align: left;padding-left: 200px;margin-top: 35px;margin-bottom: 0px !important;}
+.p104{text-align: left;padding-left: 0px;padding-right: 168px;margin-top: 0px;margin-bottom: 0px !important;}
+.p105{text-align: left;padding-left: 0px;margin-top: 8px;margin-bottom: 0px !important;}
+.p106{text-align: left;padding-left: 0px;margin-top: 16px;margin-bottom: 0px !important;}
+.p107{text-align: right;padding-right: 21px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p108{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p109{text-align: right;padding-right: 4px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p110{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p111{text-align: left;padding-left: 0px;padding-right: 168px;margin-top: 6px;margin-bottom: 0px !important;}
+.p112{text-align: left;padding-left: 0px;margin-top: 21px;margin-bottom: 0px !important;}
+.p113{text-align: left;padding-left: 0px;padding-right: 147px;margin-top: 17px;margin-bottom: 0px !important;text-indent: 0.75px;}
+.p114{text-align: left;padding-left: 0px;padding-right: 147px;margin-top: 13px;margin-bottom: 0px !important;}
+.p115{text-align: left;padding-left: 220px;margin-top: 24px;margin-bottom: 0px !important;}
+.p116{text-align: left;padding-left: 0px;padding-right: 147px;margin-top: 0px;margin-bottom: 0px !important;}
+.p117{text-align: left;padding-left: 0px;padding-right: 168px;margin-top: 6px;margin-bottom: 0px !important;}
+.p118{text-align: left;padding-left: 0px;margin-top: 1px;margin-bottom: 0px !important;}
+.p119{text-align: left;padding-left: 0px;margin-top: 24px;margin-bottom: 0px !important;}
+.p120{text-align: left;padding-left: 0px;margin-top: 10px;margin-bottom: 0px !important;}
+.p121{text-align: left;padding-left: 0px;padding-right: 168px;margin-top: 7px;margin-bottom: 0px !important;}
+.p122{text-align: left;padding-left: 0px;margin-top: 27px;margin-bottom: 0px !important;}
+.p123{text-align: left;padding-left: 0px;padding-right: 147px;margin-top: 7px;margin-bottom: 0px !important;}
+.p124{text-align: left;padding-left: 0px;padding-right: 147px;margin-top: 5px;margin-bottom: 0px !important;}
+.p125{text-align: left;padding-left: 220px;margin-top: 372px;margin-bottom: 0px !important;}
+
+.td0{padding: 0px;margin: 0px;width: 56px;vertical-align: bottom;}
+.td1{padding: 0px;margin: 0px;width: 445px;vertical-align: bottom;}
+.td2{padding: 0px;margin: 0px;width: 14px;vertical-align: bottom;}
+.td3{padding: 0px;margin: 0px;width: 501px;vertical-align: bottom;}
+.td4{padding: 0px;margin: 0px;width: 80px;vertical-align: bottom;}
+.td5{padding: 0px;margin: 0px;width: 241px;vertical-align: bottom;}
+.td6{padding: 0px;margin: 0px;width: 195px;vertical-align: bottom;}
+.td7{border-bottom: #000000 1px solid;padding: 0px;margin: 0px;width: 80px;vertical-align: bottom;}
+.td8{border-bottom: #000000 1px solid;padding: 0px;margin: 0px;width: 241px;vertical-align: bottom;}
+.td9{border-bottom: #000000 1px solid;padding: 0px;margin: 0px;width: 195px;vertical-align: bottom;}
+.td10{border-bottom: #000000 1px solid;padding: 0px;margin: 0px;width: 322px;vertical-align: bottom;}
+.td11{padding: 0px;margin: 0px;width: 217px;vertical-align: bottom;}
+.td12{padding: 0px;margin: 0px;width: 51px;vertical-align: bottom;}
+.td13{padding: 0px;margin: 0px;width: 50px;vertical-align: bottom;}
+.td14{padding: 0px;margin: 0px;width: 49px;vertical-align: bottom;}
+.td15{border-bottom: #000000 1px solid;padding: 0px;margin: 0px;width: 217px;vertical-align: bottom;}
+.td16{border-bottom: #000000 1px solid;padding: 0px;margin: 0px;width: 51px;vertical-align: bottom;}
+.td17{border-bottom: #000000 1px solid;padding: 0px;margin: 0px;width: 50px;vertical-align: bottom;}
+.td18{border-bottom: #000000 1px solid;padding: 0px;margin: 0px;width: 49px;vertical-align: bottom;}
+.td19{border-bottom: #000000 1px solid;padding: 0px;margin: 0px;width: 282px;vertical-align: bottom;}
+.td20{border-bottom: #000000 1px solid;padding: 0px;margin: 0px;width: 89px;vertical-align: bottom;}
+.td21{border-bottom: #000000 1px solid;padding: 0px;margin: 0px;width: 68px;vertical-align: bottom;}
+.td22{border-bottom: #000000 1px solid;padding: 0px;margin: 0px;width: 77px;vertical-align: bottom;}
+.td23{border-bottom: #000000 1px solid;padding: 0px;margin: 0px;width: 287px;vertical-align: bottom;}
+.td24{border-bottom: #000000 1px solid;padding: 0px;margin: 0px;width: 229px;vertical-align: bottom;}
+.td25{padding: 0px;margin: 0px;width: 113px;vertical-align: bottom;}
+.td26{padding: 0px;margin: 0px;width: 202px;vertical-align: bottom;}
+.td27{padding: 0px;margin: 0px;width: 191px;vertical-align: bottom;}
+.td28{border-bottom: #000000 1px solid;padding: 0px;margin: 0px;width: 113px;vertical-align: bottom;}
+.td29{border-bottom: #000000 1px solid;padding: 0px;margin: 0px;width: 202px;vertical-align: bottom;}
+.td30{border-bottom: #000000 1px solid;padding: 0px;margin: 0px;width: 191px;vertical-align: bottom;}
+.td31{border-bottom: #000000 1px solid;padding: 0px;margin: 0px;width: 201px;vertical-align: bottom;}
+.td32{border-bottom: #000000 1px solid;padding: 0px;margin: 0px;width: 59px;vertical-align: bottom;}
+.td33{border-bottom: #000000 1px solid;padding: 0px;margin: 0px;width: 169px;vertical-align: bottom;}
+.td34{border-bottom: #000000 1px solid;padding: 0px;margin: 0px;width: 88px;vertical-align: bottom;}
+.td35{border-bottom: #000000 1px solid;padding: 0px;margin: 0px;width: 60px;vertical-align: bottom;}
+.td36{border-bottom: #000000 1px solid;padding: 0px;margin: 0px;width: 137px;vertical-align: bottom;}
+.td37{border-bottom: #000000 1px solid;padding: 0px;margin: 0px;width: 121px;vertical-align: bottom;}
+.td38{border-bottom: #000000 1px solid;padding: 0px;margin: 0px;width: 112px;vertical-align: bottom;}
+.td39{border-bottom: #000000 1px solid;padding: 0px;margin: 0px;width: 85px;vertical-align: bottom;}
+.td40{border-bottom: #000000 1px solid;padding: 0px;margin: 0px;width: 270px;vertical-align: bottom;}
+.td41{border-bottom: #000000 1px solid;padding: 0px;margin: 0px;width: 100px;vertical-align: bottom;}
+
+.tr0{heightzzz: 17px;}
+.tr1{heightzzz: 57px;}
+.tr2{heightzzz: 32px;}
+.tr3{heightzzz: 30px;}
+.tr4{heightzzz: 16px;}
+.tr5{heightzzz: 19px;}
+.tr6{heightzzz: 21px;}
+.tr7{heightzzz: 15px;}
+.tr8{heightzzz: 12px;}
+.tr9{heightzzz: 20px;}
+.tr10{heightzzz: 18px;}
+
+.t0{width: 541px;f:15px 'Verdana' !important;}
+.t1{width: 542px;margin-top: 9px;f:11px 'Verdana' !important;}
+.t2{width: 542px;margin-top: 3px;f:9px 'Verdana' !important;}
+.t3{width: 542px;margin-top: 4px;f:bold 11px 'Verdana' !important;}
+.t4{width: 542px;margin-top: 4px;f:11px 'Verdana' !important;}
+.t5{width: 531px;margin-leftZ: 150px;margin-top: 4px;f:11px 'Verdana' !important;}
+.t6{width: 543px;margin-leftZ: 150px;margin-top: 4px;f:11px 'Verdana' !important;}
+.t7{width: 542px;margin-top: 22px;f:11px 'Verdana' !important;}
+
+</STYLE>
+
+
+
+<DIV id="page_1">
+<DIV id="p1dimg1">
+<INGENBILD zsrc="HD031d291x1.jpg/" id="p1img1">
+</DIV>
+
+
+<DIV class="dclr"></DIV>
+<P class="p0 ft0">Utgiftsområde 27</P>
+<P class="p1 ft0">Avgiften till Europeiska unionen</P>
+<P class="p2 ft1">1</P>
+</DIV>
+<DIV id="page_2">
+
+
+<DIV id="id_1">
+<TABLE cellpadding=0 cellspacing=0 class="t0">
+<TR>
+	<TD class="tr0 td0"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr0 td1"><SPAN class="p4 ft3">Prop. 2025/26:1 Utgiftsområde 27</SPAN> </TD>
+	<TD class="tr0 td2"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=2 class="tr1 td3"><SPAN class="p3 ft4">Utgiftsområde 27 – Avgiften till Europeiska unionen</SPAN> </TD>
+	<TD class="tr1 td2"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=2 class="tr2 td3"><SPAN class="p3 ft5">Innehållsförteckning</SPAN> </TD>
+	<TD class="tr2 td2"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=2 class="tr3 td3"><SPAN class="p3 ft6"><A href="#page_3">1 Förslag till riksdagsbeslut .................................................................................................</A></SPAN> </TD>
+	<TD class="tr3 td2"><SPAN class="p5 ft1"><A href="#page_3">3</A></SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=2 class="tr2 td3"><SPAN class="p3 ft6"><A href="#page_4">2 Utgiftsområde 27 Avgiften till Europeiska unionen....................................................</A></SPAN> </TD>
+	<TD class="tr2 td2"><SPAN class="p5 ft1"><A href="#page_4">4</A></SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr4 td0"><SPAN class="p6 ft7"><A href="#page_4">2.1</A></SPAN> </TD>
+	<TD class="tr4 td1"><SPAN class="p7 ft6"><A href="#page_4">Utgiftsområdets omfattning.................................................................................</A></SPAN> </TD>
+	<TD class="tr4 td2"><SPAN class="p5 ft7"><A href="#page_4">4</A></SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr0 td0"><SPAN class="p6 ft1"><A href="#page_5">2.2</A></SPAN> </TD>
+	<TD class="tr0 td1"><SPAN class="p7 ft6"><A href="#page_5">Utgiftsutveckling....................................................................................................</A></SPAN> </TD>
+	<TD class="tr0 td2"><SPAN class="p5 ft1"><A href="#page_5">5</A></SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr4 td0"><SPAN class="p6 ft7"><A href="#page_6">2.3</A></SPAN> </TD>
+	<TD class="tr4 td1"><SPAN class="p7 ft6"><A href="#page_6">Mål för utgiftsområdet..........................................................................................</A></SPAN> </TD>
+	<TD class="tr4 td2"><SPAN class="p5 ft7"><A href="#page_6">6</A></SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr0 td0"><SPAN class="p6 ft1"><A href="#page_7">2.4</A></SPAN> </TD>
+	<TD class="tr0 td1"><SPAN class="p7 ft6"><A href="#page_7">Resultatindikatorer och andra bedömningsgrunder.........................................</A></SPAN> </TD>
+	<TD class="tr0 td2"><SPAN class="p5 ft1"><A href="#page_7">7</A></SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr4 td0"><SPAN class="p6 ft7"><A href="#page_7">2.5</A></SPAN> </TD>
+	<TD class="tr4 td1"><SPAN class="p7 ft6"><A href="#page_7">Resultatredovisning ...............................................................................................</A></SPAN> </TD>
+	<TD class="tr4 td2"><SPAN class="p5 ft7"><A href="#page_7">7</A></SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr0 td0"><SPAN class="p6 ft1"><A href="#page_10">2.6</A></SPAN> </TD>
+	<TD class="tr0 td1"><SPAN class="p7 ft6"><A href="#page_10">Regeringens bedömning av måluppfyllelsen ...................................................</A></SPAN> </TD>
+	<TD class="tr0 td2"><SPAN class="p5 ft1"><A href="#page_10">10</A></SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr4 td0"><SPAN class="p6 ft7"><A href="#page_11">2.7</A></SPAN> </TD>
+	<TD class="tr4 td1"><SPAN class="p7 ft6"><A href="#page_11">Politikens inriktning ............................................................................................</A></SPAN> </TD>
+	<TD class="tr4 td2"><SPAN class="p5 ft7"><A href="#page_11">11</A></SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr0 td0"><SPAN class="p6 ft1"><A href="#page_12">2.8</A></SPAN> </TD>
+	<TD class="tr0 td1"><SPAN class="p7 ft6"><A href="#page_12">Budgetförslag........................................................................................................</A></SPAN> </TD>
+	<TD class="tr0 td2"><SPAN class="p5 ft1"><A href="#page_12">12</A></SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr5 td0"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr5 td1"><SPAN class="p7 ft6"><A href="#page_12">2.8.1 1:1 Avgiften till Europeiska unionen..................................................</A></SPAN> </TD>
+	<TD class="tr5 td2"><SPAN class="p5 ft1"><A href="#page_12">12</A></SPAN> </TD>
+</TR>
+</TABLE>
+</DIV>
+<DIV id="id_2">
+<P class="p8 ft1">2</P>
+</DIV>
+</DIV>
+<DIV id="page_3">
+
+
+<DIV id="id_1">
+<P class="p9 ft3">Prop. 2025/26:1 Utgiftsområde 27</P>
+<P class="p10 ft0">1 Förslag till riksdagsbeslut</P>
+<P class="p11 ft8">Regeringens förslag:</P>
+<P class="p12 ft10"><SPAN class="ft6">1.</SPAN><SPAN class="ft9">Riksdagen bemyndigar regeringen att under 2026 ingå de ekonomiska åtaganden som följer av </SPAN><NOBR>EU-budgeten</NOBR> för budgetåret 2026 (avsnitt <A href="#page_12">2.8.1)</A>.</P>
+<P class="p13 ft12"><SPAN class="ft6">2.</SPAN><SPAN class="ft11">Riksdagen anvisar anslaget för budgetåret 2026 inom utgiftsområde 27 Avgiften till Europeiska unionen enligt tabell 1.1.</SPAN></P>
+<TABLE cellpadding=0 cellspacing=0 class="t1">
+<TR>
+	<TD class="tr6 td4"><SPAN class="p14 ft13">Tabell 1.1</SPAN> </TD>
+	<TD class="tr6 td5"><SPAN class="p3 ft13">Anslagsbelopp</SPAN> </TD>
+	<TD class="tr6 td6"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr4 td4"><SPAN class="p14 ft14">Tusental kronor</SPAN> </TD>
+	<TD class="tr4 td5"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr4 td6"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr5 td7"><SPAN class="p14 ft15">Anslag</SPAN> </TD>
+	<TD class="tr5 td8"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr5 td9"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=2 class="tr5 td10"><SPAN class="p14 ft16">1:1 Avgiften till Europeiska unionen</SPAN> </TD>
+	<TD class="tr5 td9"><SPAN class="p15 ft16">54 199 851</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=2 class="tr5 td10"><SPAN class="p14 ft17">Summa anslag inom utgiftsområdet</SPAN> </TD>
+	<TD class="tr5 td9"><SPAN class="p15 ft17">54 199 851</SPAN> </TD>
+</TR>
+</TABLE>
+</DIV>
+<DIV id="id_2">
+<P class="p8 ft1">3</P>
+</DIV>
+</DIV>
+<DIV id="page_4">
+
+
+<P class="p16 ft19"><SPAN class="ft0">2</SPAN><SPAN class="ft18">Utgiftsområde 27 Avgiften till Europeiska unionen</SPAN></P>
+<P class="p17 ft4"><SPAN class="ft20">2.1</SPAN><SPAN class="ft21">Utgiftsområdets omfattning</SPAN></P>
+<P class="p18 ft10">Utgifterna inom utgiftsområde 27 Avgiften till Europeiska unionen utgörs av Sveriges betalningar till Europeiska unionen för att finansiera <NOBR>EU-budgeten.</NOBR> Europeiska unionens allmänna budget beslutas årligen inom en flerårig budgetram. <NOBR>EU-budgetens</NOBR> årliga utgifter och inkomster ska vara lika stora. <NOBR>EU-budgeten</NOBR> finansieras huvudsakligen genom avgifter från medlemsstaterna, vilket innebär att budgetens utgiftsnivå styr utvecklingen för utgiftsområdet. Den aktuella ramen omfattar perioden 2021– 2027 och sammanlagt 1 074,3 miljarder euro i åtaganden i 2018 års priser. Överenskommelsen om den fleråriga budgetramen omfattade även ett återhämtningsinstrument som ligger utanför taket för den fleråriga budgetramen. Genom återhämtningsinstrumentet tillfördes 750 miljarder euro i 2018 års priser under perioden <NOBR>2021–2023</NOBR> i syfte att motverka de negativa ekonomiska effekterna av spridningen av <NOBR>covid-19.</NOBR></P>
+<P class="p19 ft10">EU:s budget består av sju utgiftsområden som benämns budgetrubriker: 1 Inre marknaden, innovation och den digitala ekonomin; 2 Sammanhållning, motståndskraft och värderingar; 3 Naturresurser och miljö; 4 Migration och gränsförvaltning;</P>
+<P class="p20 ft10">5 Säkerhet och försvar; 6 Grannskapet och omvärlden; och 7 EU:s offentliga förvaltning. Varje budgetrubrik innehåller underrubriker, som i sin tur innehåller olika program. Utöver <NOBR>EU-budgetens</NOBR> rubriker finns specialinstrument som kan tillgängliggöras, vilka påverkar <NOBR>EU-avgiften.</NOBR></P>
+<P class="p21 ft10">Avgifterna som medlemsstaterna betalar in till Europeiska kommissionen benämns Europeiska unionens egna medel och regleras i rådets beslut (EU, Euratom) 2020/2053 av den 14 december 2020 om systemet för Europeiska unionens egna medel och om upphävande av beslut 2014/335/EU, Euratom, det s.k. egna medelsbeslutet.</P>
+<P class="p22 ft10">I det nuvarande systemet för egna medel finns det fyra kategorier av egna medel: traditionella egna medel (tulluppbörd), en mervärdesskattebaserad avgift, en avgift baserad på volymen icke återvunna plastförpackningar och en avgift baserad på medlemsstaternas bruttonationalinkomst (BNI). De fyra olika typerna av egna medel är i sin tur de fyra olika avgiftskomponenter som tillsammans utgör respektive medlemsstats avgift till EU. De myndigheter som ansvarar för beräkning och inbetalning av Sveriges olika delposter (avgiftskomponenter) är Tullverket (tulluppbörden), Skatteverket (den mervärdesskattebaserade avgiften), Naturvårdsverket (den plastbaserade avgiften) och Kammarkollegiet (den <NOBR>BNI-baserade</NOBR> avgiften). Dessa myndigheter ska tillhandahålla medel för att betala <NOBR>EU-avgiften</NOBR> på ett konto hos Riksgäldskontoret.</P>
+<P class="p23 ft22">I det nuvarande systemet för egna medel finns bestämmelser och begränsningsregler som gör att Sveriges avgift skiljer sig från de flesta andra medlemsstaters. Sverige har en reduktion på den <NOBR>BNI-baserade</NOBR> avgiftskomponenten, även kallad rabatt. Sveriges nettoreduktion beräknas under perioden <NOBR>2021–2027</NOBR> uppgå till 777 miljoner euro per år i 2018 års priser. Även Danmark, Nederländerna, Tyskland och Österrike har reduktioner på sina respektive <NOBR>BNI-baserade</NOBR> avgiftskomponenter.</P>
+<P class="p24 ft1">4</P>
+</DIV>
+<DIV id="page_5">
+
+
+<P class="p25 ft4"><SPAN class="ft20">2.2</SPAN><SPAN class="ft21">Utgiftsutveckling</SPAN></P>
+<P class="p26 ft10">I <A href="#page_5">tabell 2.1 </A>redovisas utgiftsutvecklingen för utgiftsområdet. <NOBR>EU-avgiften</NOBR> har minskat från ca 43 585 miljoner kronor 2023 till ca 41 187 miljoner kronor 2024, vilket var en minskning med 2 398 miljoner kronor (5,5 procent). Detta berodde framför allt på att EU:s totala utgifter minskade med ca 21 miljarder euro 2024 jämfört med 2023, vilket främst resulterade i en minskning av den <NOBR>BNI-baserade</NOBR> avgiften. Under 2024 började övriga medlemsstaters ekonomier att återhämta sig från den ekonomiska nedgången till följd av <NOBR>covid-19-pandemin,</NOBR> vilket innebar att Sveriges andel av EU:s totala BNI minskade. Den plastbaserade avgiften ökade med 1 275 miljoner kronor till följd av en ändrad beräkningsmetod 2024 jämfört med 2023. Jämförelsen mellan åren påverkas även av att reduktionen på <NOBR>BNI-avgiften</NOBR> blev 766 miljoner kronor högre jämfört med 2023 och uppgick till 10 667 miljoner kronor.</P>
+<P class="p27 ft23">Utfallet för utgiftsområdet uppgick till 41 187 miljoner kronor, vilket är 427 miljoner kronor (1,0 procent) högre än vad som anvisades i statens budget 2024. Detta beskrivs närmare i skrivelsen Årsredovisning för staten 2024 (skr. 2024/25:101 s. <NOBR>161–163).</NOBR></P>
+<P class="p28 ft13">Tabell 2.1 Utgiftsutveckling inom utgiftsområde 27 Avgiften till Europeiska unionen</P>
+<P class="p29 ft14">Miljoner kronor</P>
+<TABLE cellpadding=0 cellspacing=0 class="t2">
+<TR>
+	<TD class="tr7 td11"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr7 td12"><SPAN class="p30 ft15">Utfall</SPAN> </TD>
+	<TD class="tr7 td13"><SPAN class="p15 ft15">Budget</SPAN> </TD>
+	<TD class="tr7 td14"><SPAN class="p30 ft15">Prognos</SPAN> </TD>
+	<TD class="tr7 td14"><SPAN class="p30 ft24">Förslag</SPAN> </TD>
+	<TD class="tr7 td14"><SPAN class="p30 ft15">Beräknat</SPAN> </TD>
+	<TD class="tr7 td13"><SPAN class="p15 ft15">Beräknat</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr8 td15"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr8 td16"><SPAN class="p30 ft15">2024</SPAN> </TD>
+	<TD class="tr8 td17"><SPAN class="p15 ft15">2025<SPAN class="ft25">1</SPAN></SPAN> </TD>
+	<TD class="tr8 td18"><SPAN class="p15 ft15">2025</SPAN> </TD>
+	<TD class="tr8 td18"><SPAN class="p30 ft24">2026</SPAN> </TD>
+	<TD class="tr8 td18"><SPAN class="p30 ft15">2027</SPAN> </TD>
+	<TD class="tr8 td17"><SPAN class="p15 ft15">2028</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr5 td15"><SPAN class="p14 ft16">1:1 Avgiften till Europeiska unionen</SPAN> </TD>
+	<TD class="tr5 td16"><SPAN class="p30 ft16">41 187</SPAN> </TD>
+	<TD class="tr5 td17"><SPAN class="p15 ft16">47 762</SPAN> </TD>
+	<TD class="tr5 td18"><SPAN class="p30 ft16">46 137</SPAN> </TD>
+	<TD class="tr5 td18"><SPAN class="p30 ft17">54 200</SPAN> </TD>
+	<TD class="tr5 td18"><SPAN class="p30 ft16">57 708</SPAN> </TD>
+	<TD class="tr5 td17"><SPAN class="p15 ft16">62 097</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr0 td11"><SPAN class="p14 ft26">Totalt för utgiftsområde 27 Avgiften till</SPAN> </TD>
+	<TD class="tr0 td12"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr0 td13"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr0 td14"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr0 td14"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr0 td14"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr0 td13"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr4 td15"><SPAN class="p14 ft17">Europeiska unionen</SPAN> </TD>
+	<TD class="tr4 td16"><SPAN class="p30 ft17">41 187</SPAN> </TD>
+	<TD class="tr4 td17"><SPAN class="p15 ft17">47 762</SPAN> </TD>
+	<TD class="tr4 td18"><SPAN class="p30 ft17">46 137</SPAN> </TD>
+	<TD class="tr4 td18"><SPAN class="p30 ft17">54 200</SPAN> </TD>
+	<TD class="tr4 td18"><SPAN class="p30 ft17">57 708</SPAN> </TD>
+	<TD class="tr4 td17"><SPAN class="p15 ft17">62 097</SPAN> </TD>
+</TR>
+</TABLE>
+<P class="p31 ft15"><SPAN class="ft27">1</SPAN><SPAN class="ft28">Inklusive beslut om ändringar i statens budget 2025 och förslag till ändringar i samband med denna proposition.</SPAN></P>
+<P class="p32 ft10">År 2027 beräknas Sveriges avgift öka till 57 708 miljoner kronor. Ökningen beror framför allt på att EU:s utgifter beräknas öka till följd av att utbetalningarna inom programperioden <NOBR>2021–2027,</NOBR> som varit försenade under den första delen av perioden, väntas öka. De försenade utbetalningarna som väntas öka 2027 utgörs framför allt av utbetalningar inom programmen för EU:s sammanhållningspolitik under budgetrubrik 2. Beräkningarna i <A href="#page_5">tabell 2.1 </A>och <A href="#page_5">tabell 2.2 </A>tar inte hänsyn till det förslag till flerårig budgetram <NOBR>2028–2034</NOBR> eller det förslag till modifierat system för EU:s egna medel som kommissionen lämnat inför förhandlingarna och som skiljer sig från regeringens mål för dessa förhandlingar.</P>
+<P class="p33 ft10">I <A href="#page_5">tabell 2.2 </A>redovisas de faktorer som styr <NOBR>EU-avgiften</NOBR> under posten Övrigt. Prognosen för 2026 baseras på kommissionens förslag till EU:s årsbudget för 2026. Av <A href="#page_6">tabell 2.3 </A>framgår att hela <NOBR>EU-avgiften</NOBR> utgörs av transfereringar i form av utbetalningar från Sverige till kommissionen för att finansiera <NOBR>EU-budgeten.</NOBR></P>
+<P class="p34 ft13">Tabell 2.2 Förändringar av utgiftsramen <NOBR>2026–2028</NOBR> för utgiftsområde 27 Avgiften till Europeiska unionen</P>
+<P class="p29 ft14">Miljoner kronor</P>
+<TABLE cellpadding=0 cellspacing=0 class="t3">
+<TR>
+	<TD class="tr7 td19"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr7 td20"><SPAN class="p35 ft15">2026</SPAN> </TD>
+	<TD class="tr7 td21"><SPAN class="p5 ft15">2027</SPAN> </TD>
+	<TD class="tr7 td22"><SPAN class="p15 ft15">2028</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr9 td19"><SPAN class="p14 ft17">Anvisat 2025<SPAN class="ft29">1</SPAN></SPAN> </TD>
+	<TD class="tr9 td20"><SPAN class="p5 ft17">47 762</SPAN> </TD>
+	<TD class="tr9 td21"><SPAN class="p5 ft17">47 762</SPAN> </TD>
+	<TD class="tr9 td22"><SPAN class="p15 ft17">47 762</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr10 td19"><SPAN class="p14 ft16">Beslutade, föreslagna och aviserade åtgärder</SPAN> </TD>
+	<TD class="tr10 td20"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr10 td21"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr10 td22"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr10 td19"><SPAN class="p14 ft30">varav BP26</SPAN> </TD>
+	<TD class="tr10 td20"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr10 td21"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr10 td22"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr10 td19"><SPAN class="p14 ft16">Överföring till/från andra utgiftsområden</SPAN> </TD>
+	<TD class="tr10 td20"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr10 td21"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr10 td22"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr5 td19"><SPAN class="p14 ft16">Övrigt</SPAN> </TD>
+	<TD class="tr5 td20"><SPAN class="p5 ft16">6 438</SPAN> </TD>
+	<TD class="tr5 td21"><SPAN class="p5 ft16">9 946</SPAN> </TD>
+	<TD class="tr5 td22"><SPAN class="p15 ft16">14 335</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr5 td19"><SPAN class="p14 ft17">Ny utgiftsram</SPAN> </TD>
+	<TD class="tr5 td20"><SPAN class="p5 ft17">54 200</SPAN> </TD>
+	<TD class="tr5 td21"><SPAN class="p5 ft17">57 708</SPAN> </TD>
+	<TD class="tr5 td22"><SPAN class="p15 ft17">62 097</SPAN> </TD>
+</TR>
+</TABLE>
+<P class="p36 ft15"><SPAN class="ft27">1</SPAN><SPAN class="ft28">Statens budget enligt riksdagens beslut i december 2024 (bet. 2024/25:FiU10). Beloppet är således exklusive beslut om ändringar i statens budget.</SPAN></P>
+<P class="p37 ft1">5</P>
+</DIV>
+<DIV id="page_6">
+
+
+<P class="p38 ft13">Tabell 2.3 Utgiftsram 2026 realekonomiskt fördelad för utgiftsområde 27 Avgiften till Europeiska unionen</P>
+<P class="p31 ft14">Miljoner kronor</P>
+<TABLE cellpadding=0 cellspacing=0 class="t4">
+<TR>
+	<TD class="tr4 td23"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr4 td24"><SPAN class="p15 ft15">2026</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr5 td23"><SPAN class="p14 ft16">Transfereringar<SPAN class="ft31">1</SPAN></SPAN> </TD>
+	<TD class="tr5 td24"><SPAN class="p15 ft16">54 200</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr5 td23"><SPAN class="p14 ft17">Summa utgiftsram</SPAN> </TD>
+	<TD class="tr5 td24"><SPAN class="p15 ft17">54 200</SPAN> </TD>
+</TR>
+</TABLE>
+<P class="p31 ft15">Anm.: Den realekonomiska fördelningen baseras på utfall 2024 samt kända förändringar av anslagens användning.</P>
+<P class="p39 ft15"><SPAN class="ft27">1</SPAN><SPAN class="ft28">Med transfereringar avses inkomstöverföringar, dvs. utbetalningar av bidrag från staten till exempelvis hushåll, företag eller kommuner utan att staten får någon direkt motprestation.</SPAN></P>
+<P class="p40 ft10">Det finns betydande risker för att Sveriges <NOBR>EU-avgift</NOBR> utvecklas på annat sätt än vad som förutses i prognosen. Sveriges avgift beror, som framgått ovan, på storleken på EU:s faktiska utgifter och hur stor andel av EU:s utgifter som Sverige ska finansiera. Utgiftsprognosen försvåras också av att <NOBR>EU-budgetens</NOBR> utgiftsnivå vid vissa tillfällen justeras genom ändringsbudgetar under det aktuella budgetåret. Tidpunkterna för antagandet och genomförandet av EU:s ändringsbudgetar kan även påverka Sveriges avgift ett annat år än beslutsåret.</P>
+<P class="p41 ft10">Kommissionen presenterade i december 2021 ett förslag om att introducera tre nya avgiftskomponenter: en baserad på EU:s utsläppshandelssystem, en baserad på en mekanism för justering av koldioxidutsläpp vid EU:s yttre gräns och en baserad på medlemsstaternas intäkter från omfördelningen av beskattningsrätt på stora multinationella företagsvinster. Under 2023 presenterade kommissionen ett förslag om avgiftskomponenter, som innehåller revideringar av förslagen från december 2021, och ett nytt förslag till temporär avgiftskomponent som baseras på en befintlig statistisk bas som avser en ungefärlig uppskattning av företagsvinster. Införandet av nya avgiftskomponenter minskar den andel av EU:s intäkter som kommer från medlemsstaternas <NOBR>BNI-baserade</NOBR> avgifter. Om de nya avgiftskomponenterna införs minskar således den andel av Sveriges avgift till EU som utgörs av den <NOBR>BNI-baserade</NOBR> avgiften. Om införandet av nya avgiftskomponenter innebär en ökning eller minskning av Sveriges avgift till EU beror dock på om Sveriges andel av beräkningsbasen för respektive ny avgiftskomponent blir större eller mindre i förhållande till Sveriges andel av medlemsstaternas sammanlagda BNI.</P>
+<P class="p42 ft10"><NOBR>EU-avgiften</NOBR> för samtliga medlemsstater påverkas alltså av den ekonomiska utvecklingen i varje enskild medlemsstat. Inledningsvis baseras Sveriges och övriga medlemsstaters <NOBR>EU-avgift</NOBR> på prognoser för den ekonomiska utvecklingen. Beroende på hur väl de initiala prognoserna överensstämmer med utfallet, kan resultatet av tillämpningen av de gemensamma reglerna komma att avvika och respektive medlemsstats avgift behöva justeras.</P>
+<P class="p43 ft4"><SPAN class="ft20">2.3</SPAN><SPAN class="ft21">Mål för utgiftsområdet</SPAN></P>
+<P class="p44 ft32">Målet för den svenska budgetpolitiken i EU är att prioritera gemensamma utmaningar som mer effektivt hanteras på <NOBR>EU-nivå</NOBR> än av de enskilda länderna, exempelvis miljö och klimat, forskning, migration, säkerhet och att utveckla den inre marknaden. Målet innebär att Sverige ska verka för en effektiv och återhållsam budgetpolitik inom EU, där utgifter med ett tydligt europeiskt mervärde prioriteras. Målet innebär även att Sverige ska verka för en kostnadseffektiv användning av EU:s budgetmedel</P>
+<P class="p45 ft1">(prop. 1994/95:40, bet. 1994/95:FiU5, rskr. 1994/95:67).</P>
+<P class="p46 ft1">6</P>
+</DIV>
+<DIV id="page_7">
+
+
+<P class="p47 ft34"><SPAN class="ft20">2.4</SPAN><SPAN class="ft33">Resultatindikatorer och andra bedömningsgrunder</SPAN></P>
+<P class="p48 ft10">Regeringen uppnår målet för utgiftsområdet främst genom förhandlingarna om den fleråriga budgetramen, årsbudgeten och ändringsbudgetarna i Europeiska unionens råd samt genom rådets förhandlingar med Europaparlamentet. I dessa förhandlingar verkar regeringen för goda marginaler till utgiftstaken för åtaganden och betalningar, och för omprioriteringar inom fastställda ramar. Vidare agerar regeringen tillsammans med likasinnade länder för att försöka begränsa budgetpåverkan. Målet för utgiftsområdet styr även regeringens bedömning av om kommissionen bör beviljas ansvarsfrihet. Regeringen samråder regelbundet med riksdagens <NOBR>EU-nämnd</NOBR> i frågor som rör årsbudgeten och den fleråriga budgetramen.</P>
+<P class="p49 ft10">Uppföljningen av <NOBR>EU-budgeten</NOBR> sköts främst av Europeiska revisionsrätten och kommissionen. Sverige röstar i den årliga ansvarsfrihetsprövningen med Europeiska revisionsrättens uppföljning som en viktig grund för ställningstagandet.</P>
+<P class="p17 ft4"><SPAN class="ft20">2.5</SPAN><SPAN class="ft21">Resultatredovisning</SPAN></P>
+<P class="p50 ft35"><NOBR>EU-budgeten</NOBR> för 2024</P>
+<P class="p51 ft10">Årsbudgeten för 2024 var den fjärde i budgetramen för perioden <NOBR>2021–2027.</NOBR> Utgifterna i <NOBR>EU-budgeten</NOBR> delas in i åtagandebemyndiganden (åtaganden) och betalningsbemyndiganden (betalningar). Betalningar motsvarar faktiska utgifter under ett budgetår, medan åtaganden som kommissionen kan ingå kan leda till betalningar från <NOBR>EU-budgeten</NOBR> såväl det aktuella budgetåret som kommande år.</P>
+<P class="p52 ft10">I den ursprungliga antagna budgeten för 2024 uppgick de beräknade åtagandena till 186,0 miljarder euro och betalningarna till 170,5 miljarder euro. Den antagna budgeten reviderades därefter genom fem ändringsbudgetar. Med beaktande av de antagna ändringsbudgetarna uppgick åtagandena till 190,3 miljarder euro och betalningarna till 144,8 miljarder euro.</P>
+<P class="p53 ft32">Den 1 februari 2024 antogs en överenskommelse om halvtidsöversynen av den fleråriga budgetramen i Europeiska rådet i form av rådsslutsatser (se EUCO 2/24). Överenskommelsen resulterade i ett stöd till Ukraina om 17 miljarder euro i bidrag och 33 miljarder euro i lån. I övrigt omfattade överenskommelsen hantering av ökade räntekostnader kopplade till EU:s gemensamma upplåning och utgiftsökningar om totalt 14,6 miljarder euro. Av utgiftsökningarna avsåg 2,0 miljarder euro budgetrubrik 4 Migration och gränsförvaltning, 1,5 miljarder euro Europeiska försvarsfonden, 7,6 miljarder euro budgetrubrik 6 Grannskapet och omvärlden samt</P>
+<P class="p54 ft10">3,5 miljarder euro specialinstrument. Genomförandet av den överenskomna revideringen av det fleråriga budgetramverket för <NOBR>2024–2027</NOBR> sker genom årsbudgeten för respektive år.</P>
+<P class="p55 ft22">Den första ändringsbudgeten för 2024 innefattade framför allt en implementering av delar av överenskommelsen gällande halvtidsöversynen av EU:s fleråriga budgetram. Ändringsbudgeten innebar sammantaget ökade åtaganden om 5,8 miljarder euro och ökade betalningar om 4,1 miljarder euro. Ökningarna avsåg framför allt Ukrainafaciliteten och skapandet av det nya specialinstrumentet Ukrainareserven, med totalt 4,8 miljarder euro i åtaganden och 3,8 miljarder euro i betalningar. Vidare förstärktes Europeiska försvarsfonden med 376 miljoner euro i åtaganden. Reserven för solidaritet och katastrofbistånd delades upp i två enskilda instrument som båda tillfördes medel. Västra Balkanfaciliteten tillfördes 500 miljoner euro i åtaganden och 24 miljoner euro i betalningar, medan Europeiska fonden för justering för globaliseringseffekter minskades med 176 miljoner euro i åtaganden. Ändrings-</P>
+<P class="p56 ft1">7</P>
+</DIV>
+<DIV id="page_8">
+
+
+<P class="p57 ft10">budgeten innehöll även en allokering av medel till kommissionen för administrativa kostnader för åtgärder med anledning av <NOBR>AI-förordningen.</NOBR> Som framgår av <A href="#page_9">tabell 2.4 </A>resulterade ändringsbudgeten i en höjning av den svenska <NOBR>EU-avgiften</NOBR> 2024 med ca 1,5 miljarder kronor.</P>
+<P class="p58 ft32">Den andra ändringsbudgeten ökade budgeten för Europeiska åklagarmyndigheten (Eppo) med 3,6 miljoner euro. Tillskottet av medel till myndigheten avsåg 20 nya heltidstjänster med anledning av Sveriges och Polens anslutning till samarbetet. EU- budgetens flexibilitetsinstrument användes för att finansiera myndighetens budgettillskott, eftersom det inte fanns utrymme inom den aktuella budgetunderrubriken,</P>
+<P class="p59 ft10">2b Motståndskraft och värderingar. Ändringsbudgeten ökade Sveriges <NOBR>EU-avgift</NOBR> med ca 1,3 miljoner kronor.</P>
+<P class="p60 ft10">Den tredje ändringsbudgeten innebar en justering av intäkterna i budgeten genom att 2023 års budgetöverskott på ca 632 miljoner euro överfördes till årsbudgeten för</P>
+<P class="p61 ft10">2024. Detta minskade Sveriges <NOBR>EU-avgift</NOBR> för 2024 med 231 miljoner kronor jämfört med den antagna årsbudgeten för 2024.</P>
+<P class="p62 ft1">Genom den fjärde ändringsbudgeten uppdaterades prognosen för <NOBR>EU-budgetens</NOBR> intäkter. De beräknade intäkterna för egna medel justerades i enlighet med de uppdaterade prognoser för samtliga egna medel som fastställdes den 22 maj 2024 vid det årliga mötet för den rådgivande kommittén för egna medel. Justeringen innebar en ökning av Sveriges <NOBR>EU-avgift</NOBR> med ca 304 miljoner euro för 2024, jämfört med avgiften som beräknades på den antagna årsbudgeten för 2024. Ökningen av Sveriges <NOBR>EU-avgift</NOBR> berodde främst på att EU:s totala tullintäkter blev lägre än tidigare prognosticerat. I ändringsbudgeten summerades EU:s totala tullintäkter till</P>
+<P class="p63 ft22">ca 20 miljarder euro, vilket kan jämföras med tidigare prognosticerade ca 25 miljarder euro i den antagna årsbudgeten för 2024. Sveriges <NOBR>EU-avgift</NOBR> ökade även till följd av en högre prognos för icke återvunna plastförpackningar. Därutöver gjordes en justering av intäkterna för bl.a. inbetalda böter och avgifter fram till juni 2024 och det reviderade bidraget från Storbritannien till EU. Intäkterna från böter och avgifter ökade med ca 513 miljoner euro, från ca 149 miljoner till 663 miljoner euro. Intäkterna från Storbritannien blev ca 1,5 miljarder euro lägre än prognosticerat till följd av att utestående åtaganden under 2023 inte motsvarade de betalningar som planerats. Ändringsbudgeten innehöll även justeringar i utgifter för vissa decentraliserade myndigheter. Den fjärde ändringsbudgeten innebar sammantaget en ökning om totalt 12 miljoner euro i åtaganden och 12 miljoner euro i betalningar. För Sveriges <NOBR>EU-avgift</NOBR> innebar ändringsbudgeten en ökning om ca 3,4 miljarder kronor.</P>
+<P class="p64 ft22">Den femte ändringsbudgeten syftade till att dels justera <NOBR>EU-budgetens</NOBR> utgifter och intäkter, dels genomföra ett antal tekniska korrigeringar. Betalningsnivån för Europeiska regionala utvecklingsfonden ökade med 2,9 miljarder euro till följd av en omfördelning av medel till plattformen för strategisk teknik för Europa. Avsatta medel i reserver för bilaterala partnerskapsavtal om hållbart fiske mellan EU och tredjeländer, motsvarande 32,9 miljoner euro i åtaganden och 25,8 miljoner euro i betalningar, användes inte. Ändringsbudgeten avsåg även en ökning av anslagsnivån för administrativa utgifter med 68,5 miljoner euro till följd av de senaste uppdateringarna för pensioner och uppdatering av löner. Ändringsbudgeten innehöll även justeringar i utgifter för vissa decentraliserade myndigheter. Vidare genomfördes en anpassning av kontoplanen på både utgifts- och inkomstsidan och av anmärkningarna till följd av antagandet av förslaget om en samarbetsmekanism för lån till Ukraina. Sammantaget uppgår nettoeffekten av utgiftsförändringarna av ändringsbudgeten till en ökning om 44,5 miljoner euro i åtaganden och 2 954,8 miljoner euro i betalningar. Den femte ändringsbudgeten innehöll samtidigt ökade intäkter från slutgiltiga böter och vitesbetalningar till den 30 september 2024 om totalt 2 815 miljoner euro.</P>
+<P class="p65 ft1">8</P>
+</DIV>
+<DIV id="page_9">
+<DIV id="p9dimg1">
+<INGENBILD zsrc="HD031d299x1.jpg/" id="p9img1">
+</DIV>
+
+
+<P class="p66 ft1">Sammantaget innebar ändringsbudgeten en nettoökning av <NOBR>BNI-avgiften</NOBR> om</P>
+<P class="p67 ft12">139,9 miljoner euro. Den totala effekten på Sveriges <NOBR>EU-avgift</NOBR> var en ökning om ca 53 miljoner kronor.</P>
+<P class="p68 ft12">I <A href="#page_9">tabell 2.4 </A>beskrivs effekten av ändringar i <NOBR>EU-budgeten</NOBR> på Sveriges avgift till EU under 2024.</P>
+<P class="p69 ft13">Tabell 2.4 Avgiftseffekter 2024 av ändringar i <NOBR>EU-budgeten</NOBR> 2024</P>
+<P class="p70 ft14">Miljoner kronor</P>
+<TABLE cellpadding=0 cellspacing=0 class="t5">
+<TR>
+	<TD class="tr7 td25"><SPAN class="p14 ft36">Ändring i <NOBR>EU-budgeten</NOBR></SPAN> </TD>
+	<TD class="tr7 td26"><SPAN class="p71 ft37">Effekt på Sveriges avgift till EU under 2024</SPAN> </TD>
+	<TD class="tr7 td27"><SPAN class="p30 ft37">År ändringarna får effekt på utgiftsområdet</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr6 td28"><SPAN class="p14 ft16">1</SPAN> </TD>
+	<TD class="tr6 td29"><SPAN class="p71 ft16">1 512</SPAN> </TD>
+	<TD class="tr6 td30"><SPAN class="p30 ft16">2024</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr10 td28"><SPAN class="p14 ft16">2</SPAN> </TD>
+	<TD class="tr10 td29"><SPAN class="p71 ft16">1,3</SPAN> </TD>
+	<TD class="tr10 td30"><SPAN class="p30 ft16">2024</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr10 td28"><SPAN class="p14 ft16">3</SPAN> </TD>
+	<TD class="tr10 td29"><SPAN class="p71 ft16"><NOBR>-231</NOBR></SPAN> </TD>
+	<TD class="tr10 td30"><SPAN class="p30 ft16">2024</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr5 td28"><SPAN class="p14 ft16">4</SPAN> </TD>
+	<TD class="tr5 td29"><SPAN class="p71 ft16">3 370</SPAN> </TD>
+	<TD class="tr5 td30"><SPAN class="p30 ft16">2024</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr5 td28"><SPAN class="p14 ft16">5</SPAN> </TD>
+	<TD class="tr5 td29"><SPAN class="p71 ft16">53</SPAN> </TD>
+	<TD class="tr5 td30"><SPAN class="p30 ft16">2024</SPAN> </TD>
+</TR>
+</TABLE>
+<P class="p72 ft15">Källa: Egna beräkningar där antagna förslag till ändringar i <NOBR>EU-budgeten</NOBR> jämförts med <NOBR>EU-budgeten</NOBR> exklusive föreslagna ändringar.</P>
+<P class="p73 ft38">Sverige röstade emot ansvarsfrihet för Europeiska kommissionen för 2022 års budget</P>
+<P class="p74 ft22">Vid Ekofinrådets möte den 12 mars 2024 röstade Sverige nej i frågan om att bevilja ansvarsfrihet för kommissionen för genomförandet av 2022 års budget med motiveringen att det är allvarligt att kommissionen fått en revisionsförklaring som innehåller kritik avseende vissa delar av budgeten och att ett flertal av iakttagelserna i samband med revisionen dessutom medför att <NOBR>EU-budgetens</NOBR> exponering för olika risker ökar. Även Danmark, Finland, Nederländerna och Österrike valde att inte stödja rekommendationen om att bevilja kommissionen ansvarsfrihet. Europeiska unionens råd antog likväl förslaget med kvalificerad majoritet.</P>
+<P class="p75 ft35">Sveriges avgift till EU under 2024</P>
+<P class="p76 ft10">Utfallet för den svenska <NOBR>EU-avgiften</NOBR> under 2024 blev 41 187 miljoner kronor (se <A href="#page_9">tabell 2.5), </A>vilket var 427 miljoner kronor (1,0 procent) mer än de medel som anvisades i statens budget. En mer utförlig redogörelse för utfallet finns i skrivelsen Årsredovisning för staten 2024 (skr. 2024/25:101 s. <NOBR>161–163).</NOBR></P>
+<P class="p69 ft13">Tabell 2.5 Anslagna medel och utfall för 2024</P>
+<P class="p77 ft14">Miljoner kronor</P>
+<P class="p78 ft15">Anslag Ändringsbudget Anslagskredit<SPAN style="padding-left:55px;">Utfall</SPAN></P>
+<TABLE cellpadding=0 cellspacing=0 class="t6">
+<TR>
+	<TD class="tr10 td31"><SPAN class="p14 ft16">1:1 Avgiften till Europeiska unionen</SPAN> </TD>
+	<TD class="tr10 td32"><SPAN class="p5 ft16">40 760</SPAN> </TD>
+	<TD class="tr10 td33"><SPAN class="p5 ft16">427</SPAN> </TD>
+	<TD class="tr10 td34"><SPAN class="p30 ft16">41 187</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr5 td31"><SPAN class="p14 ft17">Totalt för utgiftsområde 27</SPAN> </TD>
+	<TD class="tr5 td32"><SPAN class="p5 ft17">40 760</SPAN> </TD>
+	<TD class="tr5 td33"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr5 td34"><SPAN class="p30 ft17">41 187</SPAN> </TD>
+</TR>
+</TABLE>
+<P class="p79 ft15">Källa: Årsredovisning för staten 2024.</P>
+<P class="p80 ft35"><NOBR>EU-budgeten</NOBR> för 2025</P>
+<P class="p81 ft12">EU:s årsbudget för 2025 antogs av Europaparlamentet den 27 november 2024 och är den femte i budgetramen för perioden <NOBR>2021–2027.</NOBR></P>
+<P class="p82 ft1">Den antagna <NOBR>EU-budgeten</NOBR> (exklusive ändringsbudgetar) för 2025 uppgår till</P>
+<P class="p83 ft22">199,4 miljarder euro i åtaganden och 155,2 miljarder euro i betalningar. Detta motsvarar en ökning av åtaganden med ca 2,1 procent jämfört med 2024 års budget (inklusive ändringsbudgetar i <NOBR>EU-budgeten)</NOBR> och en ökning av betalningar med</P>
+<P class="p84 ft10">ca 3,6 procent jämfört med 2024 års budget (inklusive ändringsbudgetar i EU- budgeten).</P>
+<P class="p85 ft1">9</P>
+</DIV>
+<DIV id="page_10">
+
+
+<P class="p86 ft1">EU:s årsbudget består av sju utgiftsområden som benämns budgetrubriker. Varje budgetrubrik innehåller underrubriker, som i sin tur innehåller olika program (se avsnitt <A href="#page_4">2.1)</A>. Den budgetrubrik under vilken åtagandena ökade mest jämfört med 2024 var rubrik 2 Sammanhållning, motståndskraft och värderingar, som ökade med</P>
+<P class="p87 ft10">3,4 miljarder euro. Ökningen följer bl.a. av högre räntekostnader för upplåning inom Next Generation EU (NGEU). Åtaganden ökade betydligt även under budgetrubrikerna 4 Gränsförvaltning och migration och 7 EU:s offentliga förvaltning Den största minskningen av åtaganden 2025 jämfört med 2024 återfinns under budgetrubrik 3 Naturresurser och miljö, där minskningen var 575 miljoner euro. Åtaganden minskade också under budgetrubrikerna 1 Inre marknaden, innovation och den digitala ekonomin, 5 Säkerhet och försvar samt 6 Grannskapet och omvärlden. Att betalningarna ökade jämfört med 2024 kan delvis förklaras av att takten igenomförandet av programmen för den innevarande perioden <NOBR>(2021–2027)</NOBR> ökade jämfört med föregående år.</P>
+<P class="p88 ft10">Sverige röstade emot förslaget om att anta EU:s årsbudget för 2025. Motståndet motiverades av att förslaget i otillräcklig grad byggde på omprioriteringar av befintliga anslag för att täcka räntekostnaderna för <NOBR>NGEU-lånen,</NOBR> vilket strider mot Sveriges budgetrestriktiva hållning. Europeiska unionens råd antog emellertid förslaget med kvalificerad majoritet.</P>
+<P class="p89 ft4"><SPAN class="ft20">2.6</SPAN><SPAN class="ft21">Regeringens bedömning av måluppfyllelsen</SPAN></P>
+<P class="p90 ft10">För 2025 ökar åtagandena i <NOBR>EU-budgeten</NOBR> med 9,1 miljarder euro jämfört med 2024 (inklusive ändringar under pågående budgetår).</P>
+<P class="p91 ft10">Regeringen har aktivt verkat för omprioriteringar inom den antagna budgeten och drivit en budgetrestriktiv linje, både i behandlingen av ändringsbudgetar och i andra lagstiftningsinitiativ. Under 2024 röstade Sverige nej två gånger i budgetrelaterade frågor, dels i frågan om att bevilja ansvarsfrihet till kommissionen för genomförandet av 2022 års budget, dels till förslaget om att anta EU:s årsbudget för 2025. I båda fallen antog likväl Europeiska unionens råd förslagen med kvalificerad majoritet. En mer utförlig redogörelse för hur regeringen resonerat inför omröstningar finns i skrivelsen Verksamheten i Europeiska unionen under 2024 (skr. 2024/25:115 bilaga 3).</P>
+<P class="p92 ft10">Regeringen bedömer att målet att inom EU prioritera gemensamma utmaningar som mer effektivt hanteras på <NOBR>EU-nivå</NOBR> har uppfyllts, bl.a. genom att Sverige aktivt verkat för ett bibehållet och förstärkt <NOBR>EU-stöd</NOBR> till Ukraina med anledning av Rysslands fullskaliga invasion.</P>
+<P class="p93 ft10">I förhandlingarna om halvtidsöversynen av den fleråriga budgetramen verkade Sverige för att begränsa budgetökningarna och föreslog horisontella omprioriteringar för att möjliggöra finansiering av nya insatser. Den slutliga överenskommelsen resulterade i mindre omfattande och mindre utgiftsdrivande åtgärder än vad som föreslogs i kommissionens ursprungliga förslag. Regeringens främsta prioritet i förhandlingarna var att säkerställa ett ökat <NOBR>EU-stöd</NOBR> till Ukraina, vilket bibehölls i linje med kommissionens förslag. Regeringen bedömer därmed att förhandlingsresultatet är i överensstämmelse med målet för den svenska budgetpolitiken i EU.</P>
+<P class="p49 ft12">Sammanfattningsvis bedöms resultaten inom området i huvudsak vara förenliga med målet för Sveriges budgetpolitik i EU.</P>
+<P class="p94 ft1">10</P>
+</DIV>
+<DIV id="page_11">
+
+
+<P class="p8 ft4"><SPAN class="ft20">2.7</SPAN><SPAN class="ft21">Politikens inriktning</SPAN></P>
+<P class="p95 ft10">Sverige verkar för att det europeiska samarbetet ska möta aktuella utmaningar som unionen står inför. Sveriges grundläggande mål för <NOBR>EU-budgeten</NOBR> är, som tidigare redovisats, att återhållsamhet ska gälla för de gemensamma utgifterna, samt att EU- gemensamma utmaningar och ändamålsenliga program ska prioriteras, vilket ska möjliggöra för unionen att leva upp till ingångna åtaganden. Regeringen avser i enlighet med detta att verka för restriktivitet vid beredningen av kommande årsbudgetar och i förhandlingen om nästa fleråriga budgetram. Vägledande för Sveriges agerande är vidare principerna om subsidiaritet, europeiskt mervärde, proportionalitet, resultatinriktning, kostnadseffektivitet och en sund ekonomisk förvaltning, där jämställdhetsintegrering utgör en del.</P>
+<P class="p96 ft23">Enligt prognosen i augusti 2025 beräknas avgiften till EU efter avdragen reduktion uppgå till ca 54 200 miljoner kronor 2026, ca 57 708 miljoner kronor 2027 och ca 62 097 miljoner kronor 2028. Sveriges beräknade genomsnittliga reduktion av avgiften uppgår till ca 8 <NOBR>000–11</NOBR> 000 miljoner kronor per år <NOBR>2021–2027.</NOBR></P>
+<P class="p97 ft1">Den 4 juni 2025 presenterade kommissionen sitt förslag till årsbudget för 2026, som blir den sjätte i den fleråriga budgetramen för <NOBR>2021–2027.</NOBR> Kommissionen har för 2026 föreslagit åtaganden på 193 262 miljoner euro (inklusive instrument utanför den fleråriga budgetramen). Jämfört med årsbudgeten för 2025 ökar de föreslagna betalningarna för 2026 med 36 998 miljoner euro till 192 207 miljoner euro (inklusive instrument utanför den fleråriga budgetramen). Detta motsvarar en ökning om</P>
+<P class="p98 ft10">23,8 procent och beror på att utbetalningarna från budgetramen <NOBR>2021–2027</NOBR> har släpat efter till följd av försenat genomförande av programmen inom framför allt sammanhållningspolitiken. Utbetalningarna ökar i takt med att programmen genomförs under de sista åren av den fleråriga budgetramen för <NOBR>2021–2027.</NOBR></P>
+<P class="p99 ft32">Förhandlingarna om årsbudgeten för 2026 pågår. Nivåerna för betalningar och åtaganden kan komma att förändras fram tills budgeten slutligt fastställs. En överenskommelse mellan Europeiska unionens råd och Europaparlamentet om budgeten för 2026 kommer sannolikt att nås i november eller december 2025. Rådets förslag till årsbudget 2026 innebär 191 955 miljoner euro i åtaganden och 191 510 miljoner euro i betalningar, vilket innebär en minskning med 1 307 miljoner euro respektive</P>
+<P class="p100 ft1">697 miljoner euro jämfört med kommissionens förslag.</P>
+<P class="p101 ft10">Restriktivitet är en grundläggande hållning för regeringen i den fortsatta behandlingen av budgetförslaget för 2026. Detta innebär bl.a. att betalningsanslagen bör läggas på rimliga nivåer och att tillräckliga marginaler upprätthålls mellan årsbudgeten och utgiftstaken för både åtaganden och betalningar.</P>
+<P class="p102 ft10">Den 16 juli 2025 presenterade kommissionen sitt förslag till nästa fleråriga budgetram <NOBR>2028–2034.</NOBR> Meddelandet som publicerades i samband med detta beskriver inriktningen på kommissionens förslag och de ändringar i utgifternas omfattning, sammansättning, inriktning och utformning som kommissionen anser nödvändiga för att möta EU:s utmaningar.</P>
+<P class="p62 ft10">Kommissionen anser att EU behöver en mer ambitiös budgetram som är enklare, mer strategisk och resultatinriktad för att möta framtida utmaningar som säkerhet, konkurrenskraft, grön omställning och digitalisering. Kommissionen föreslår att en högre grad av flexibilitet tillåts mellan budgetens olika element för att möjliggöra snabba anpassningar vid kriser eller nya prioriteringar. Budgeten ska enligt kommissionens förslag innehålla färre rubriker och finansieringsprogram, och mer harmoniserade regelverk så att individer och företag lätt kan hitta och få tillgång till finansieringsmöjligheter.</P>
+<P class="p103 ft1">11</P>
+</DIV>
+<DIV id="page_12">
+<DIV id="p12dimg1">
+<INGENBILD zsrc="HD031d2912x1.jpg/" id="p12img1">
+</DIV>
+
+
+<P class="p104 ft10">Regeringens budgetrestriktiva linje gäller som ovan anförts även i förhandlingen om den fleråriga budgetramen <NOBR>2028–2034.</NOBR> Den svenska avgiften bör hållas nere, vilket uppnås genom att EU:s utgifter och nivån på taken i den fleråriga budgetramen hålls nere och att regeringen verkar för fortsatta reduktioner i Sveriges <NOBR>EU-avgift.</NOBR> Regeringens ståndpunkter avseende övergripande principer för den fleråriga budgetramen och dess storlek, inklusive för enskilda fonder och program, behandlas i faktapromemorian 2025/26:FPM3.</P>
+<P class="p43 ft4"><SPAN class="ft20">2.8</SPAN><SPAN class="ft21">Budgetförslag</SPAN></P>
+<P class="p105 ft35"><SPAN class="ft35">2.8.1</SPAN><SPAN class="ft39">1:1 Avgiften till Europeiska unionen</SPAN></P>
+<P class="p106 ft13">Tabell 2.6 Anslagsutveckling 1:1 Avgiften till Europeiska unionen</P>
+<P class="p45 ft14">Tusental kronor</P>
+<TABLE cellpadding=0 cellspacing=0 class="t7">
+<TR>
+	<TD class="tr10 td35"><SPAN class="p107 ft16">2024</SPAN> </TD>
+	<TD class="tr10 td36"><SPAN class="p108 ft16">Utfall</SPAN> </TD>
+	<TD class="tr10 td37"><SPAN class="p109 ft16">41 186 925</SPAN> </TD>
+	<TD class="tr10 td38"><SPAN class="p110 ft16">Anslagssparande</SPAN> </TD>
+	<TD class="tr10 td39"><SPAN class="p15 ft16"><NOBR>-870</NOBR> 296</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr10 td35"><SPAN class="p107 ft16">2025</SPAN> </TD>
+	<TD class="tr10 td36"><SPAN class="p108 ft16">Anslag</SPAN> </TD>
+	<TD class="tr10 td37"><SPAN class="p109 ft16">47 761 911<SPAN class="ft31">1</SPAN></SPAN> </TD>
+	<TD class="tr10 td38"><SPAN class="p110 ft16">Utgiftsprognos</SPAN> </TD>
+	<TD class="tr10 td39"><SPAN class="p15 ft16">46 137 471</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr10 td35"><SPAN class="p107 ft17">2026</SPAN> </TD>
+	<TD class="tr10 td36"><SPAN class="p108 ft17">Förslag</SPAN> </TD>
+	<TD class="tr10 td37"><SPAN class="p109 ft17">54 199 851</SPAN> </TD>
+	<TD class="tr10 td38"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr10 td39"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr5 td35"><SPAN class="p107 ft16">2027</SPAN> </TD>
+	<TD class="tr5 td36"><SPAN class="p108 ft16">Beräknat</SPAN> </TD>
+	<TD class="tr5 td37"><SPAN class="p109 ft16">57 708 409</SPAN> </TD>
+	<TD class="tr5 td38"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr5 td39"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr5 td35"><SPAN class="p107 ft16">2028</SPAN> </TD>
+	<TD class="tr5 td36"><SPAN class="p108 ft16">Beräknat</SPAN> </TD>
+	<TD class="tr5 td37"><SPAN class="p109 ft16">62 096 850</SPAN> </TD>
+	<TD class="tr5 td38"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr5 td39"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+</TABLE>
+<P class="p31 ft15"><SPAN class="ft27">1</SPAN><SPAN class="ft28">Inklusive beslut om ändringar i statens budget 2025 och förslag till ändringar i samband med denna proposition.</SPAN></P>
+<P class="p43 ft8">Ändamål</P>
+<P class="p111 ft10">Anslaget får användas för utgifter för betalning av Sveriges avgift till Europeiska unionens allmänna budget. Anslaget får även användas för eventuella krav från Europeiska kommissionen på dröjsmålsränta på grund av försenade inbetalningar av egna medel.</P>
+<P class="p112 ft8">Skälen för regeringens förslag</P>
+<P class="p113 ft13">Tabell 2.7 Förändringar av anslagsnivån <NOBR>2026–2028</NOBR> för 1:1 Avgiften till Europeiska unionen</P>
+<P class="p31 ft14">Tusental kronor</P>
+<TABLE cellpadding=0 cellspacing=0 class="t3">
+<TR>
+	<TD class="tr4 td40"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr4 td41"><SPAN class="p35 ft15">2026</SPAN> </TD>
+	<TD class="tr4 td21"><SPAN class="p5 ft15">2027</SPAN> </TD>
+	<TD class="tr4 td22"><SPAN class="p15 ft15">2028</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr5 td40"><SPAN class="p14 ft17">Anvisat 2025<SPAN class="ft29">1</SPAN></SPAN> </TD>
+	<TD class="tr5 td41"><SPAN class="p5 ft17">47 761 911</SPAN> </TD>
+	<TD class="tr5 td21"><SPAN class="p5 ft17">47 761 911</SPAN> </TD>
+	<TD class="tr5 td22"><SPAN class="p15 ft17">47 761 911</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr10 td40"><SPAN class="p14 ft16">Beslutade, föreslagna och aviserade åtgärder</SPAN> </TD>
+	<TD class="tr10 td41"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr10 td21"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr10 td22"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr10 td40"><SPAN class="p14 ft16">Övrigt</SPAN> </TD>
+	<TD class="tr10 td41"><SPAN class="p5 ft16">6 437 940</SPAN> </TD>
+	<TD class="tr10 td21"><SPAN class="p5 ft16">9 946 498</SPAN> </TD>
+	<TD class="tr10 td22"><SPAN class="p15 ft16">14 334 939</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr9 td40"><SPAN class="p14 ft17">Förslag/beräknat anslag</SPAN> </TD>
+	<TD class="tr9 td41"><SPAN class="p5 ft17">54 199 851</SPAN> </TD>
+	<TD class="tr9 td21"><SPAN class="p5 ft17">57 708 409</SPAN> </TD>
+	<TD class="tr9 td22"><SPAN class="p15 ft17">62 096 850</SPAN> </TD>
+</TR>
+</TABLE>
+<P class="p36 ft15"><SPAN class="ft27">1</SPAN><SPAN class="ft28">Statens budget enligt riksdagens beslut i december 2024 (bet. 2024/25:FiU10). Beloppet är således exklusive beslut om ändringar i statens budget.</SPAN></P>
+<P class="p114 ft22">Sveriges avgift till <NOBR>EU-budgeten</NOBR> beräknas för 2026 uppgå till 54 199 851 000 kronor. <NOBR>EU-avgiftens</NOBR> prognostiserade förändring mellan år redovisas under posten Övrigt i <A href="#page_12">tabell 2.7. </A>Inkomster från den gemensamma tulltaxan utgör, som framgår av avsnitt <A href="#page_4">2.1, </A>ett av EU:s egna medel och betalas in efter faktisk uppbörd. Medlemsstaterna får behålla 25 procent av tulluppbörden. Beloppen i <A href="#page_12">tabell 2.6 </A>avser inbetalningarna till kommissionen efter avdrag för administrativa kostnader. Tulluppbörden redovisas under inkomsttitel 1511 <SPAN class="ft40">Tullmedel</SPAN>. Regeringen beräknar att tullavgiften för 2026 kommer att uppgå till 6 450 miljoner kronor. Den mervärdesskattebaserade avgiftskomponenten beräknas som andel av medlemsstaternas mervärdesskattebas. Sveriges mervärdesskattebaserade avgift beräknas 2026 uppgå till 8 785 miljoner kronor. Avgiftskomponenten baserad på icke återvunna plastförpackningar beräknas 2026 uppgå till 2 135 miljoner kronor. Inklusive den svenska reduktionen (se avsnitt <A href="#page_4">2.1)</A></P>
+<P class="p115 ft1">12</P>
+</DIV>
+<DIV id="page_13">
+<DIV id="p13dimg1">
+<INGENBILD zsrc="HD031d2913x1.jpg/" id="p13img1">
+</DIV>
+
+
+<P class="p116 ft10">beräknas Sveriges <NOBR>BNI-baserade</NOBR> avgift under 2026 uppgå till 36 830 miljoner kronor. Beräkningarna i <A href="#page_12">tabell 2.6 </A>och <A href="#page_12">tabell 2.7 </A>tar inte hänsyn till det förslag till flerårig budgetram <NOBR>2028–2034</NOBR> eller det förslag till modifierat system för EU:s egna medel som Europeiska kommissionen lämnat inför förhandlingarna. Kommissionens förslag till flerårig budgetram <NOBR>2028–2034</NOBR> och till modifierat system för EU:s egna medel skiljer sig från Sveriges mål för dessa förhandlingar.</P>
+<P class="p117 ft22">Regeringen föreslår att 54 199 851 000 kronor anvisas under anslaget 1:1 <SPAN class="ft40">Avgiften till Europeiska unionen </SPAN>för 2026. För 2027 och 2028 beräknas anslaget till</P>
+<P class="p118 ft1">57 708 409 000 kronor respektive 62 096 850 000 kronor.</P>
+<P class="p119 ft8">Bemyndigande om ekonomiska åtaganden</P>
+<P class="p120 ft8">Regeringens förslag</P>
+<P class="p121 ft10">Regeringen bemyndigas att under 2026 ingå de ekonomiska åtaganden som följer av <NOBR>EU-budgeten</NOBR> för budgetåret 2026.</P>
+<P class="p122 ft8">Skälen för regeringens förslag</P>
+<P class="p123 ft22">Medlemsstaternas avgifter används för att finansiera <NOBR>EU-budgetens</NOBR> betalningar under innevarande år. De åtaganden som staten ingår inom området avser <NOBR>EU-budgetens</NOBR> åtagandebemyndiganden för innevarande år, vilka kan resultera i betalningar både innevarande och kommande år. I kommissionens budgetförslag föreslås att åtagandebemyndiganden om 193 262 miljoner euro ska ställas till förfogande för 2026. I enlighet med beslutet om unionens egna medel beräknas Sverige under 2026 betala in ca 3 procent av medlemsstaternas totala inbetalda avgifter till EU för att finansiera årsbudgeten. Utöver medlemsstaternas inbetalda avgifter har EU även andra intäktskällor, men de är små i jämförelse med medlemsstaternas avgift. Av den anledningen kan huvuddelen av 2026 års budgets åtagandebemyndiganden på 193 262 miljoner euro antas finansieras av medlemsstaterna, varav ca 3 procent kommer att finansieras av Sverige. Förhandlingar om EU:s årsbudget för 2026 pågår emellertid fortfarande och en budget kommer att antas först i slutet av 2025.</P>
+<P class="p124 ft12">Regeringen bör därför bemyndigas att under 2026 ingå de ekonomiska åtaganden som följer av <NOBR>EU-budgeten</NOBR> för budgetåret 2026.</P>
+<P class="p125 ft1">13</P>
+</DIV>
+
+</div><style>
+
+
+TD,TD.p2h {
+zzzfont-size:90%;
+zzzmargin-right:2px;
+zzzoverflow:visable;
+zzzword-wrap: break-word;
+}
+
+P {
+zdisplay:block;
+}
+
+.divbreak {
+clear:both;
+display:block;
+zwidth: 100%;
+zheight: 1px;
+zword-wrap: break-word;
+}
+
+
+.xecp {
+  display:block;
+  margin: 0px !important;
+  padding: 0px !important;
+  
+}
+
+.ec {
+  border-style:solid;
+  border-width:1px;
+  display:block;
+  margin: 0px !important;
+  padding: 0px !important;
+}
+
+.TOPS {
+  overflow:visable;
+  margin:2px;
+  width:690px !important;
+}
+
+</style>

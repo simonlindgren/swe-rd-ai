@@ -1,0 +1,60 @@
+SEARCH TERM: artificiell intelligens
+DOCUMENT ID: h002ub507
+TITLE: Forskning inom robotik och AI
+TYPE: mot
+SUBTYPE: Enskild motion
+DATE: 2012-10-05
+PARLIAMENTARY YEAR: 2012/13
+ORGANISATION: UbU
+STATUS: Ank T
+DOWNLOADED: 2026-01-22 10:25:00
+================================================================================
+
+<div class="sidhuvud_publikation">Motion till riksdagen</div>
+<div class="sidhuvud_beteckning">2012/13:Ub507</div>
+<div class="MotionarLista">av Erik Almqvist (SD)</div>
+<h1>Forskning inom robotik och AI</h1>
+<hr class="sidhuvud_linje">
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta name="GENERATOR" content="upCast/5.5.4 (Java; I) [infinity-loop]" />
+  <meta http-equiv="GENERATOR" content="upCast/5.5.4 (Java; I) [infinity-loop]" />
+  <title>F&ouml;rslag till riksdagsbeslut</title>
+  <meta name="Description" content="Forskning inom robotik och AI" />
+  <meta name="Author" content="ct0627aa" />
+  <meta name="Keywords" content="Motion2000 120821:1120 v6.03" />
+  <!--  Document Comment: St&ouml;rre EAN, fria namnval (prtimotion etc), a4-funktionen, nya v-loggan, gr&ouml;nmarkering, basdialogen mm -->
+  <!--  Operator: dockonvert -->
+  <meta name="lastChanged" content="Thu, 10 Jan 2013 12:40:00 CET" />
+  <!--  Company : Riksdagen -->
+  <link rel="STYLESHEET" type="text/css" href="MOT_201213_Ub_507.motion.visual.css" />
+</head>
+<body>
+    <h1 class="F&ouml;rslagsrubrik">F&ouml;rslag till riksdagsbeslut</h1>
+    <p class="Hemstl_att,F&ouml;rslagspunkt,Yrkande,F&ouml;rslagstext" style="margin-left: 0.0mm; word-break-inside: hyphenate;">Riksdagen tillk&auml;nnager f&ouml;r regeringen som sin mening vad som anf&ouml;rs i motionen om ett riktat forskningsanslag f&ouml;r grundforskning inom robotik och AI.</p>
+    <h1 class="heading&nbsp;1">Motivering</h1>
+    <p class="Normal,BeslutDnr" style="word-break-inside: hyphenate;">En konkurrensstark industri f&ouml;ruts&auml;tter idag en h&ouml;g grad av automatisering f&ouml;r att h&aring;lla en h&ouml;g produktivitet. &Auml;ven om Sverige l&auml;nge har legat l&aring;ngt fram n&auml;r det kommer till automatiseringsteknik (framf&ouml;rallt industriellt och inom till&auml;mpad forskning), s&aring; har vi den senaste tiden kunnat se hur den svenska grundforskningen halkar efter.</p>
+    <p class="Normal&nbsp;Indent,Normal_indrag,Normal&nbsp;Indrag" style="word-break-inside: hyphenate;">St&ouml;rre satsningar p&aring; grundforskning i robotik och automation &auml;r n&ouml;dv&auml;ndiga f&ouml;r att Sverige p&aring; sikt ska kunna forts&auml;tta ha en konkurrenskraftig tillverknings- och processindustri.</p>
+    <p class="Normal&nbsp;Indent,Normal_indrag,Normal&nbsp;Indrag" style="word-break-inside: hyphenate;">Vi kommer sannolikt &auml;ven f&aring; se fram&ouml;ver hur robotteknik till&auml;mpas inom m&aring;nga nya omr&aring;den s&aring;som v&aring;rd, transporter och f&ouml;r enklare servicetj&auml;nster. M&aring;nga potentiella till&auml;mpningsomr&aring;den &auml;r beroende av kunskap i artificiell intelligens, varf&ouml;r &auml;ven grundforskningen inom artificiell intelligens b&ouml;r st&auml;rkas.</p>
+    <table style="border-bottom-style: none; border-left-style: none; border-right-style: none; border-collapse: collapse; border-top-style: none; margin-left: -1.23mm; margin-right: auto; table-layout: fixed; width: 107.48mm;">
+      <colgroup><col width="203"/><col width="203"/></colgroup>
+      <tbody>
+        <tr>
+          <td valign="top" colspan="1" style="border-bottom-style: hidden; border-bottom-color: #000000; border-left-style: hidden; border-left-color: #000000; border-right-style: hidden; border-right-color: #000000; border-top-style: hidden; border-top-color: #000000; padding-bottom: 0.0mm; padding-left: 1.23mm; padding-right: 1.23mm; padding-top: 0.0mm; vertical-align: top; width: 53.73mm;">
+            <p class="UnderskriftDatum" style="margin-top: 4.23mm;">Stockholm den 5 oktober 2012</p>
+          </td>
+          <td valign="top" colspan="1" style="border-bottom-style: hidden; border-bottom-color: #000000; border-left-style: hidden; border-left-color: #000000; border-right-style: hidden; border-right-color: #000000; border-top-style: hidden; border-top-color: #000000; padding-bottom: 0.0mm; padding-left: 1.23mm; padding-right: 1.23mm; padding-top: 0.0mm; vertical-align: top; width: 53.75mm;">
+          </td>
+        </tr>
+        <tr>
+          <td valign="top" colspan="1" style="border-bottom-style: hidden; border-bottom-color: #000000; border-left-style: hidden; border-left-color: #000000; border-right-style: hidden; border-right-color: #000000; border-top-style: hidden; border-top-color: #000000; padding-bottom: 0.0mm; padding-left: 1.23mm; padding-right: 1.23mm; padding-top: 0.0mm; vertical-align: top; width: 53.73mm;">
+            <p class="Underskrifter">Erik Almqvist (SD)</p>
+          </td>
+          <td valign="top" colspan="1" style="border-bottom-style: hidden; border-bottom-color: #000000; border-left-style: hidden; border-left-color: #000000; border-right-style: hidden; border-right-color: #000000; border-top-style: hidden; border-top-color: #000000; padding-bottom: 0.0mm; padding-left: 1.23mm; padding-right: 1.23mm; padding-top: 0.0mm; vertical-align: top; width: 53.75mm;">
+          </td>
+        </tr>
+      </tbody>
+    </table>

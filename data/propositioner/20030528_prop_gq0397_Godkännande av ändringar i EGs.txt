@@ -1,0 +1,2695 @@
+SEARCH TERM: AI
+DOCUMENT ID: gq0397
+TITLE: Godkännande av ändringar i EG:s regler om val till Europaparlamentet, m.m.
+TYPE: prop
+SUBTYPE: prop
+DATE: 2003-05-28
+PARLIAMENTARY YEAR: 2002/03
+ORGANISATION: JU
+STATUS: hämtad_2
+DOWNLOADED: 2026-01-22 10:29:06
+================================================================================
+
+<div style="margin:3px;">
+<STYLE type="text/css">
+
+body {margin-top: 0px;margin-left: 0px;}
+
+#page_1 {position:relative; overflow: hidden;z:b;margin:21px 0px 17px 10px ;padding: 0px;border: none;width: 947px;}
+
+
+
+
+
+#page_2 {position:relative; overflow: hidden;z:b;margin:19px 0px 17px 10px ;padding: 0px;border: none;width: 947px;}
+
+
+
+
+
+#page_3 {position:relative; overflow: hidden;z:b;margin:20px 0px 17px 10px ;padding: 0px;border: none;width: 947px;}
+
+
+
+
+
+#page_4 {position:relative; overflow: hidden;z:b;margin:20px 0px 17px 10px ;padding: 0px;border: none;width: 856px;}
+#page_4 #id_1 {float:left;border:none;z:b;margin:15px 0px 0px 10px ;padding: 0px;border:none;width: 586px;overflow: hidden;}
+#page_4 #id_1 #id_1_1 {border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 586px;overflow: hidden;}
+#page_4 #id_1 #id_1_2 {border:none;z:b;margin:8px 0px 0px 10px ;padding: 0px;border:none;width: 586px;overflow: hidden;}
+#page_4 #id_1 #id_1_2 #id_1_2_1 {float:left;border:none;z:b;margin:7px 0px 0px 10px ;padding: 0px;border:none;width: 315px;overflow: hidden;}
+#page_4 #id_1 #id_1_2 #id_1_2_2 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 360px;overflow: hidden;}
+#page_4 #id_1 #id_1_3 {border:none;z:b;margin:11px 0px 0px 10px ;padding: 0px;border:none;width: 586px;overflow: hidden;}
+#page_4 #id_2 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 270px;overflow: hidden;}
+
+
+
+
+#page_4 #tx1 {position:absolute;top:277px;left:0px;width:327px;height:190px;}
+
+#page_5 {position:relative; overflow: hidden;z:b;margin:20px 0px 17px 10px ;padding: 0px;border: none;width: 947px;}
+#page_5 #id_1 {border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 270px;overflow: hidden;}
+#page_5 #id_2 {border:none;z:b;margin:1px 0px 0px 10px ;padding: 0px;border:none;width: 811px;overflow: hidden;}
+#page_5 #id_2 #id_2_1 {float:left;border:none;z:b;margin:8px 0px 0px 10px ;padding: 0px;border:none;width: 315px;overflow: hidden;}
+#page_5 #id_2 #id_2_2 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 541px;overflow: hidden;}
+#page_5 #id_3 {border:none;z:b;margin:26px 0px 0px 10px ;padding: 0px;border:none;width: 902px;overflow: hidden;}
+
+#page_5 #dimg1z{position:absolute;top:879px;left:63px;z-index:-1;width:154px;height:1px;font-size: 1px !important;l-h:nHeight;}
+#page_5 #dimg1 #img1  {width:154px;height:1px;}
+
+
+
+
+#page_6 {position:relative; overflow: hidden;z:b;margin:20px 0px 17px 10px ;padding: 0px;border: none;width: 947px;}
+
+
+
+
+
+#page_7 {position:relative; overflow: hidden;z:b;margin:20px 0px 18px 10px ;padding: 0px;border: none;width: 947px;}
+
+
+
+
+
+#page_8 {position:relative; overflow: hidden;z:b;margin:20px 0px 17px 10px ;padding: 0px;border: none;width: 947px;}
+#page_8 #id_1 {border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 811px;overflow: hidden;}
+#page_8 #id_2 {border:none;z:b;margin:8px 0px 0px 10px ;padding: 0px;border:none;width: 811px;overflow: hidden;}
+#page_8 #id_2 #id_2_1 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 360px;overflow: hidden;}
+#page_8 #id_2 #id_2_2 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 541px;overflow: hidden;}
+#page_8 #id_3 {border:none;z:b;margin:8px 0px 0px 10px ;padding: 0px;border:none;width: 902px;overflow: hidden;}
+
+
+
+
+
+#page_9 {position:relative; overflow: hidden;z:b;margin:20px 0px 17px 10px ;padding: 0px;border: none;width: 947px;}
+
+#page_9 #dimg1z{position:absolute;top:54px;left:63px;z-index:-1;width:154px;height:1px;font-size: 1px !important;l-h:nHeight;}
+#page_9 #dimg1 #img1  {width:154px;height:1px;}
+
+
+
+
+#page_10 {position:relative; overflow: hidden;z:b;margin:20px 0px 17px 10px ;padding: 0px;border: none;width: 947px;}
+
+
+
+
+
+#page_11 {position:relative; overflow: hidden;z:b;margin:20px 0px 17px 10px ;padding: 0px;border: none;width: 947px;}
+
+
+
+
+
+#page_12 {position:relative; overflow: hidden;z:b;margin:20px 0px 17px 10px ;padding: 0px;border: none;width: 947px;}
+
+
+
+
+
+#page_13 {position:relative; overflow: hidden;z:b;margin:20px 0px 17px 10px ;padding: 0px;border: none;width: 856px;}
+#page_13 #id_1 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 586px;overflow: hidden;}
+#page_13 #id_2 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 270px;overflow: hidden;}
+
+
+
+
+
+#page_14 {position:relative; overflow: hidden;z:b;margin:20px 0px 18px 10px ;padding: 0px;border: none;width: 856px;}
+
+
+
+
+
+#page_15 {position:relative; overflow: hidden;z:b;margin:20px 0px 17px 10px ;padding: 0px;border: none;width: 856px;}
+#page_15 #id_1 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 586px;overflow: hidden;}
+#page_15 #id_2 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 270px;overflow: hidden;}
+
+#page_15 #dimg1z{position:absolute;top:867px;left:0px;z-index:-1;width:507px;height:42px;}
+#page_15 #dimg1 #img1  {width:507px;height:42px;}
+
+
+
+
+#page_16 {position:relative; overflow: hidden;z:b;margin:20px 0px 17px 10px ;padding: 0px;border: none;width: 856px;}
+
+
+
+
+
+#page_17 {position:relative; overflow: hidden;z:b;margin:20px 0px 18px 10px ;padding: 0px;border: none;width: 856px;}
+
+
+
+
+
+#page_18 {position:relative; overflow: hidden;z:b;margin:20px 0px 18px 10px ;padding: 0px;border: none;width: 856px;}
+
+
+
+
+
+#page_19 {position:relative; overflow: hidden;z:b;margin:20px 0px 17px 10px ;padding: 0px;border: none;width: 947px;}
+
+#page_19 #dimg1z{position:absolute;top:880px;left:63px;z-index:-1;width:488px;height:42px;}
+#page_19 #dimg1 #img1  {width:488px;height:42px;}
+
+
+
+
+#page_20 {position:relative; overflow: hidden;z:b;margin:20px 0px 17px 10px ;padding: 0px;border: none;width: 856px;}
+#page_20 #id_1 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 541px;overflow: hidden;}
+#page_20 #id_2 {float:left;border:none;z:b;margin:1px 0px 0px 10px ;padding: 0px;border:none;width: 315px;overflow: hidden;}
+
+
+
+
+
+#page_21 {position:relative; overflow: hidden;z:b;margin:20px 0px 17px 10px ;padding: 0px;border: none;width: 947px;}
+
+
+
+
+
+#page_22 {position:relative; overflow: hidden;z:b;margin:20px 0px 17px 10px ;padding: 0px;border: none;width: 947px;}
+
+
+
+
+
+#page_23 {position:relative; overflow: hidden;z:b;margin:20px 0px 17px 10px ;padding: 0px;border: none;width: 856px;}
+#page_23 #id_1 {float:left;border:none;z:b;margin:3px 0px 0px 10px ;padding: 0px;border:none;width: 586px;overflow: hidden;}
+#page_23 #id_2 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 270px;overflow: hidden;}
+
+
+
+
+
+#page_24 {position:relative; overflow: hidden;z:b;margin:20px 0px 17px 10px ;padding: 0px;border: none;width: 856px;}
+#page_24 #id_1 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 586px;overflow: hidden;}
+#page_24 #id_2 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 270px;overflow: hidden;}
+
+
+
+
+
+#page_25 {position:relative; overflow: hidden;z:b;margin:20px 0px 17px 10px ;padding: 0px;border: none;width: 856px;}
+#page_25 #id_1 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 586px;overflow: hidden;}
+#page_25 #id_2 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 270px;overflow: hidden;}
+
+
+
+
+
+#page_26 {position:relative; overflow: hidden;z:b;margin:19px 0px 17px 10px ;padding: 0px;border: none;width: 856px;}
+
+
+
+
+
+#page_27 {position:relative; overflow: hidden;z:b;margin:20px 0px 17px 10px ;padding: 0px;border: none;width: 856px;}
+#page_27 #id_1 {float:left;border:none;z:b;margin:3px 0px 0px 10px ;padding: 0px;border:none;width: 586px;overflow: hidden;}
+#page_27 #id_2 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 270px;overflow: hidden;}
+
+
+
+
+
+#page_28 {position:relative; overflow: hidden;z:b;margin:19px 0px 17px 10px ;padding: 0px;border: none;width: 947px;}
+
+
+
+
+
+#page_29 {position:relative; overflow: hidden;z:b;margin:20px 0px 17px 10px ;padding: 0px;border: none;width: 856px;}
+#page_29 #id_1 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 586px;overflow: hidden;}
+#page_29 #id_2 {float:left;border:none;z:b;margin:1px 0px 0px 10px ;padding: 0px;border:none;width: 270px;overflow: hidden;}
+
+
+
+
+
+#page_30 {position:relative; overflow: hidden;z:b;margin:19px 0px 17px 10px ;padding: 0px;border: none;width: 856px;}
+
+
+
+
+
+#page_31 {position:relative; overflow: hidden;z:b;margin:19px 0px 17px 10px ;padding: 0px;border: none;width: 856px;}
+
+
+
+
+
+#page_32 {position:relative; overflow: hidden;z:b;margin:20px 0px 17px 10px ;padding: 0px;border: none;width: 856px;}
+#page_32 #id_1 {float:left;border:none;z:b;margin:3px 0px 0px 10px ;padding: 0px;border:none;width: 586px;overflow: hidden;}
+#page_32 #id_2 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 270px;overflow: hidden;}
+
+
+
+
+
+#page_33 {position:relative; overflow: hidden;z:b;margin:20px 0px 17px 10px ;padding: 0px;border: none;width: 856px;}
+#page_33 #id_1 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 586px;overflow: hidden;}
+#page_33 #id_2 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 270px;overflow: hidden;}
+
+
+
+
+
+#page_34 {position:relative; overflow: hidden;z:b;margin:19px 0px 17px 10px ;padding: 0px;border: none;width: 947px;}
+
+
+
+
+
+#page_35 {position:relative; overflow: hidden;z:b;margin:19px 0px 17px 10px ;padding: 0px;border: none;width: 947px;}
+
+
+
+
+
+#page_36 {position:relative; overflow: hidden;z:b;margin:19px 0px 17px 10px ;padding: 0px;border: none;width: 947px;}
+
+
+
+
+
+#page_37 {position:relative; overflow: hidden;z:b;margin:20px 0px 17px 10px ;padding: 0px;border: none;width: 856px;}
+#page_37 #id_1 {border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 811px;overflow: hidden;}
+#page_37 #id_1 #id_1_1 {float:left;border:none;z:b;margin:3px 0px 0px 10px ;padding: 0px;border:none;width: 541px;overflow: hidden;}
+#page_37 #id_1 #id_1_2 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 270px;overflow: hidden;}
+#page_37 #id_2 {border:none;z:b;margin:107px 0px 0px 10px ;padding: 0px;border:none;width: 90px;overflow: hidden;}
+
+
+
+
+
+#page_38 {position:relative; overflow: hidden;z:b;margin:20px 0px 17px 10px ;padding: 0px;border: none;width: 856px;}
+#page_38 #id_1 {float:left;border:none;z:b;margin:3px 0px 0px 10px ;padding: 0px;border:none;width: 586px;overflow: hidden;}
+#page_38 #id_1 #id_1_1 {border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 586px;overflow: hidden;}
+#page_38 #id_1 #id_1_2 {border:none;z:b;margin:7px 0px 0px 10px ;padding: 0px;border:none;width: 586px;overflow: hidden;}
+#page_38 #id_1 #id_1_2 #id_1_2_1 {float:left;border:none;z:b;margin:7px 0px 0px 10px ;padding: 0px;border:none;width: 315px;overflow: hidden;}
+#page_38 #id_1 #id_1_2 #id_1_2_2 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 360px;overflow: hidden;}
+#page_38 #id_2 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 270px;overflow: hidden;}
+
+
+
+
+#page_38 #tx1 {position:absolute;top:264px;left:0px;width:327px;height:190px;}
+
+#page_39 {position:relative; overflow: hidden;z:b;margin:19px 0px 17px 10px ;padding: 0px;border: none;width: 856px;}
+#page_39 #id_1 {border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 721px;overflow: hidden;}
+#page_39 #id_1 #id_1_1 {float:left;border:none;z:b;margin:24px 0px 0px 10px ;padding: 0px;border:none;width: 315px;overflow: hidden;}
+#page_39 #id_1 #id_1_2 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 496px;overflow: hidden;}
+#page_39 #id_2 {border:none;z:b;margin:101px 0px 0px 10px ;padding: 0px;border:none;width: 90px;overflow: hidden;}
+
+#page_39 #dimg1z{position:absolute;top:191px;left:0px;z-index:-1;width:154px;height:1px;font-size: 1px !important;l-h:nHeight;}
+#page_39 #dimg1 #img1  {width:154px;height:1px;}
+
+
+
+
+#page_40 {position:relative; overflow: hidden;z:b;margin:20px 0px 17px 10px ;padding: 0px;border: none;width: 856px;}
+#page_40 #id_1 {border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 811px;overflow: hidden;}
+#page_40 #id_1 #id_1_1 {float:left;border:none;z:b;margin:3px 0px 0px 10px ;padding: 0px;border:none;width: 586px;overflow: hidden;}
+#page_40 #id_1 #id_1_2 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 270px;overflow: hidden;}
+#page_40 #id_2 {border:none;z:b;margin:77px 0px 0px 10px ;padding: 0px;border:none;width: 90px;overflow: hidden;}
+
+
+
+
+
+#page_41 {position:relative; overflow: hidden;z:b;margin:19px 0px 17px 10px ;padding: 0px;border: none;width: 947px;}
+
+#page_41 #dimg1z{position:absolute;top:242px;left:63px;z-index:-1;width:151px;height:1px;font-size: 1px !important;l-h:nHeight;}
+#page_41 #dimg1 #img1  {width:151px;height:1px;}
+
+
+
+
+.dclr {clear:both;float:none;height:1px;margin:0px;padding:0px;overflow:hidden;}
+
+.ft0{font:  20px 'Verdana' !important;l-h: 35px;}
+.ft1{font:  16px 'Verdana' !important;l-h: 26px;}
+.ft2{font:  14px 'Verdana' !important;l-h: 19px;}
+.ft3{font:  14px 'Verdana' !important;l-h: 19px;}
+.ft4{font:  14px 'Verdana' !important;l-h: 17px;}
+.ft5{font:  14px 'Verdana' !important;l-h: 18px;}
+.ft6{font:  10px 'Verdana' !important;l-h: 1px;}
+.ft7{font:  14px 'Verdana' !important;margin-left: 40px;l-h: 18px;}
+.ft8{font:  14px 'Verdana' !important;l-h: 18px;}
+.ft9{font:  14px 'Verdana' !important;margin-left: 40px;l-h: 19px;}
+.ft10{font:  14px 'Verdana' !important;margin-left: 40px;l-h: 19px;}
+.ft11{font:  14px 'Verdana' !important;l-h: 19px;}
+.ft12{font:  14px 'Verdana' !important;margin-left: 5px;l-h: 19px;}
+.ft13{font:  14px 'Verdana' !important;margin-left: 6px;l-h: 19px;}
+.ft14{font:  14px 'Verdana' !important;margin-left: 8px;l-h: 18px;}
+.ft15{font:  14px 'Verdana' !important;margin-left: 51px;l-h: 22px;}
+.ft16{font:  14px 'Verdana' !important;l-h: 22px;}
+.ft17{font:  12px 'Verdana' !important;l-h: 14px;position: relative; bottom: 7px;}
+.ft18{font:  10px 'Verdana' !important;l-h: 12px;position: relative; bottom: 6px;}
+.ft19{font:  12px 'Verdana' !important;l-h: 15px;}
+.ft20{font:  14px 'Verdana' !important;l-h: 18px;}
+.ft21{font:  14px 'Verdana' !important;margin-left: 8px;l-h: 19px;}
+.ft22{font:  14px 'Verdana' !important;margin-left: 14px;l-h: 19px;}
+.ft23{font:  14px 'Verdana' !important;margin-left: 13px;l-h: 19px;}
+.ft24{font:  14px 'Verdana' !important;margin-left: 7px;l-h: 19px;}
+.ft25{font:  14px 'Verdana' !important;margin-left: 9px;l-h: 19px;}
+.ft26{font:  14px 'Verdana' !important;margin-left: 9px;l-h: 19px;}
+.ft27{font:  14px 'Verdana' !important;margin-left: 5px;l-h: 19px;}
+.ft28{font:  14px 'Verdana' !important;margin-left: 4px;l-h: 19px;}
+.ft29{font:  14px 'Verdana' !important;margin-left: 7px;l-h: 19px;}
+.ft30{font:  14px 'Verdana' !important;margin-left: 10px;l-h: 19px;}
+.ft31{font:  14px 'Verdana' !important;margin-left: 9px;l-h: 18px;}
+.ft32{font:  14px 'Verdana' !important;margin-left: 7px;l-h: 19px;}
+.ft33{font:  14px 'Verdana' !important;margin-left: 8px;l-h: 19px;}
+.ft34{font:  14px 'Verdana' !important;l-h: 19px;}
+.ft35{font:  14px 'Verdana' !important;l-h: 20px;}
+.ft36{font:  16px 'Verdana' !important;margin-left: 64px;l-h: 26px;}
+.ft37{font:  14px 'Verdana' !important;margin-left: 42px;l-h: 19px;}
+.ft38{font:  14px 'Verdana' !important;margin-left: 5px;l-h: 19px;}
+.ft39{font:  14px 'Verdana' !important;l-h: 18px;}
+.ft40{font:  10px 'Verdana' !important;l-h: 6px;}
+.ft41{font:  10px 'Verdana' !important;l-h: 11px;}
+.ft42{font:  10px 'Verdana' !important;l-h: 8px;}
+.ft43{font:  14px 'Verdana' !important;l-h: 21px;}
+.ft44{font:  10px 'Verdana' !important;l-h: 13px;}
+.ft45{font:  10px 'Verdana' !important;l-h: 3px;}
+.ft46{font:  10px 'Verdana' !important;l-h: 2px;}
+.ft47{font:  10px 'Verdana' !important;l-h: 5px;}
+.ft48{font:  14px 'Verdana' !important;margin-left: 6px;l-h: 19px;}
+.ft49{font:  14px 'Verdana' !important;margin-left: 7px;l-h: 18px;}
+.ft50{font:  14px 'Verdana' !important;margin-left: 6px;l-h: 18px;}
+.ft51{font:  14px 'Verdana' !important;margin-left: 9px;l-h: 19px;}
+.ft52{font:  14px 'Verdana' !important;margin-left: 6px;l-h: 19px;}
+.ft53{font:  14px 'Verdana' !important;margin-left: 7px;l-h: 18px;}
+.ft54{font:  16px 'Verdana' !important;l-h: 25px;}
+.ft55{font:  14px 'Verdana' !important;margin-left: 4px;l-h: 18px;}
+.ft56{font:  10px 'Verdana' !important;l-h: 10px;}
+.ft57{font:  12px 'Verdana' !important;margin-left: 3px;l-h: 15px;}
+.ft58{font:  14px 'Verdana' !important;margin-left: 6px;l-h: 17px;}
+.ft59{font:  10px 'Verdana' !important;l-h: 10px;}
+
+.p0{text-align: left;padding-left: 0px;padding-right: 525px;margin-top: 0px;margin-bottom: 0px !important;}
+.p1{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p2{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p3{text-align: left;padding-left: 0px;margin-top: 25px;margin-bottom: 0px !important;}
+.p4{text-align: left;padding-left: 0px;margin-top: 20px;margin-bottom: 0px !important;}
+.p5{text-align: left;padding-left: 0px;margin-top: 43px;margin-bottom: 0px !important;}
+.p6{text-align: left;padding-left: 220px;margin-top: 24px;margin-bottom: 0px !important;}
+.p7{text-align: left;padding-left: 220px;margin-top: 0px;margin-bottom: 0px !important;}
+.p8{text-align: left;padding-left: 0px;margin-top: 62px;margin-bottom: 0px !important;}
+.p9{text-align: left;padding-left: 0px;padding-right: 294px;margin-top: 15px;margin-bottom: 0px !important;}
+.p10{text-align: left;padding-left: 0px;padding-right: 294px;margin-top: 1px;margin-bottom: 0px !important;text-indent: 15px;}
+.p11{text-align: right;padding-right: 84px;margin-top: 243px;margin-bottom: 0px !important;}
+.p12{text-align: left;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p13{text-align: right;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p14{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p15{text-align: right;padding-right: 126px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p16{text-align: right;padding-right: 1px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p17{text-align: left;padding-left: 140px;padding-right: 294px;margin-top: 2px;margin-bottom: 0px !important;text-indent: 0.60px;}
+.p18{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p19{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p20{text-align: left;padding-left: 0px;margin-top: 2px;margin-bottom: 0px !important;}
+.p21{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p22{text-align: right;padding-right: 84px;margin-top: 67px;margin-bottom: 0px !important;}
+.p23{text-align: right;padding-right: 21px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p24{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p25{text-align: left;padding-left: 0px;margin-top: 16px;margin-bottom: 0px !important;}
+.p26{text-align: left;padding-left: 0px;padding-right: 294px;margin-top: 0px;margin-bottom: 0px !important;text-indent: 15px;}
+.p27{text-align: left;padding-left: 0px;margin-top: 1px;margin-bottom: 0px !important;}
+.p28{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;}
+.p29{text-align: left;padding-left: 0px;padding-right: 294px;margin-top: 0px;margin-bottom: 0px !important;text-indent: 15px;}
+.p30{text-align: right;padding-right: 84px;margin-top: 756px;margin-bottom: 0px !important;}
+.p31{text-align: left;margin-top: 0px;margin-bottom: 0px !important;}
+.p32{text-align: left;margin-top: 55px;margin-bottom: 0px !important;}
+.p33{text-align: left;padding-right: 0px;padding-top: 2px;margin-top: 13px;margin-bottom: 0px !important;text-indent: 15px;}
+.p34{text-align: left;padding-left: 200px;margin-top: 17px;margin-bottom: 0px !important;}
+.p35{text-align: left;padding-left: 200px;margin-top: 0px;margin-bottom: 0px !important;}
+.p36{text-align: left;padding-left: 220px;padding-right: 0px;margin-top: 0px;margin-bottom: 0px !important;text-indent: 15px;}
+.p37{text-align: left;padding-right: 0px;margin-top: 2px;margin-bottom: 0px !important;text-indent: 15px;}
+.p38{text-align: left;margin-top: 0px;margin-bottom: 0px !important;text-indent: 15px;}
+.p39{text-align: left;margin-top: 116px;margin-bottom: 0px !important;text-indent: 15px;}
+.p40{text-align: left;padding-left: 0px;padding-right: 0px;margin-top: 0px;margin-bottom: 0px !important;}
+.p41{text-align: left;padding-left: 0px;padding-right: 0px;margin-top: 2px;margin-bottom: 0px !important;text-indent: 15px;}
+.p42{text-align: right;padding-right: 84px;margin-top: 949px;margin-bottom: 0px !important;}
+.p43{text-align: left;margin-top: 0px;margin-bottom: 0px !important;}
+.p44{text-align: left;margin-top: 39px;margin-bottom: 0px !important;}
+.p45{text-align: left;margin-top: 58px;margin-bottom: 0px !important;}
+.p46{text-align: left;margin-top: 20px;margin-bottom: 0px !important;}
+.p47{text-align: left;margin-top: 1px;margin-bottom: 0px !important;}
+.p48{text-align: left;margin-top: 2px;margin-bottom: 0px !important;}
+.p49{text-align: left;padding-left: 0px;padding-right: 294px;margin-top: 1px;margin-bottom: 0px !important;}
+.p50{text-align: left;padding-left: 0px;padding-right: 294px;margin-top: 3px;margin-bottom: 0px !important;text-indent: 1px;}
+.p51{text-align: left;padding-left: 0px;padding-right: 294px;margin-top: 0px;margin-bottom: 0px !important;}
+.p52{text-align: left;padding-left: 0px;margin-top: 1px;margin-bottom: 0px !important;}
+.p53{text-align: left;padding-left: 0px;padding-right: 294px;margin-top: 0px;margin-bottom: 0px !important;}
+.p54{text-align: left;padding-left: 0px;padding-right: 294px;margin-top: 37px;margin-bottom: 0px !important;}
+.p55{text-align: left;padding-left: 0px;padding-right: 294px;margin-top: 21px;margin-bottom: 0px !important;}
+.p56{text-align: left;padding-left: 0px;padding-right: 294px;margin-top: 3px;margin-bottom: 0px !important;}
+.p57{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;}
+.p58{text-align: right;padding-right: 84px;margin-top: 3px;margin-bottom: 0px !important;}
+.p59{text-align: left;padding-left: 0px;padding-right: 84px;margin-top: 0px;margin-bottom: 0px !important;}
+.p60{text-align: right;padding-right: 84px;margin-top: 911px;margin-bottom: 0px !important;}
+.p61{text-align: right;padding-right: 84px;margin-top: 0px;margin-bottom: 0px !important;}
+.p62{text-align: left;padding-left: 120px;padding-right: 315px;margin-top: 20px;margin-bottom: 0px !important;text-indent: 0.75px;}
+.p63{text-align: left;padding-left: 0px;padding-right: 294px;margin-top: 13px;margin-bottom: 0px !important;text-indent: 15px;}
+.p64{text-align: left;padding-left: 280px;margin-top: 16px;margin-bottom: 0px !important;}
+.p65{text-align: left;padding-left: 0px;margin-top: 1px;margin-bottom: 0px !important;}
+.p66{text-align: left;padding-left: 0px;padding-right: 294px;margin-top: 20px;margin-bottom: 0px !important;}
+.p67{text-align: left;padding-left: 0px;padding-right: 294px;margin-top: 19px;margin-bottom: 0px !important;}
+.p68{text-align: left;padding-left: 0px;padding-right: 294px;margin-top: 19px;margin-bottom: 0px !important;}
+.p69{text-align: right;margin-top: 0px;margin-bottom: 0px !important;}
+.p70{text-align: left;padding-left: 0px;padding-right: 126px;margin-top: 0px;margin-bottom: 0px !important;}
+.p71{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;}
+.p72{text-align: left;padding-right: 21px;margin-top: 0px;margin-bottom: 0px !important;}
+.p73{text-align: left;padding-right: 294px;margin-top: 0px;margin-bottom: 0px !important;}
+.p74{text-align: left;padding-left: 0px;padding-right: 294px;margin-top: 0px;margin-bottom: 0px !important;}
+.p75{text-align: left;padding-left: 0px;margin-top: 20px;margin-bottom: 0px !important;}
+.p76{text-align: left;padding-left: 0px;margin-top: 19px;margin-bottom: 0px !important;}
+.p77{text-align: left;padding-left: 0px;padding-right: 294px;margin-top: 20px;margin-bottom: 0px !important;}
+.p78{text-align: right;padding-right: 84px;margin-top: 11px;margin-bottom: 0px !important;}
+.p79{text-align: left;padding-left: 0px;margin-top: 39px;margin-bottom: 0px !important;}
+.p80{text-align: right;padding-right: 84px;margin-top: 872px;margin-bottom: 0px !important;}
+.p81{text-align: left;padding-left: 560px;margin-top: 0px;margin-bottom: 0px !important;}
+.p82{text-align: left;padding-left: 0px;margin-top: 33px;margin-bottom: 0px !important;}
+.p83{text-align: left;padding-left: 0px;margin-top: 52px;margin-bottom: 0px !important;}
+.p84{text-align: left;padding-left: 0px;padding-right: 294px;margin-top: 9px;margin-bottom: 0px !important;}
+.p85{text-align: left;padding-left: 0px;padding-right: 294px;margin-top: 2px;margin-bottom: 0px !important;text-indent: 15px;}
+.p86{text-align: left;padding-left: 0px;padding-right: 294px;margin-top: 6px;margin-bottom: 0px !important;text-indent: 15px;}
+.p87{text-align: left;padding-left: 0px;margin-top: 36px;margin-bottom: 0px !important;}
+.p88{text-align: right;padding-right: 63px;margin-top: 0px;margin-bottom: 0px !important;}
+.p89{text-align: left;padding-left: 0px;padding-right: 294px;margin-top: 1px;margin-bottom: 0px !important;text-indent: 15px;}
+.p90{text-align: left;padding-left: 120px;padding-right: 315px;margin-top: 53px;margin-bottom: 0px !important;text-indent: 0.75px;}
+.p91{text-align: left;padding-left: 0px;margin-top: 54px;margin-bottom: 0px !important;}
+.p92{text-align: left;padding-left: 0px;padding-right: 294px;margin-top: 11px;margin-bottom: 0px !important;}
+.p93{text-align: left;padding-left: 0px;margin-top: 41px;margin-bottom: 0px !important;}
+.p94{text-align: left;padding-left: 0px;padding-right: 294px;margin-top: 11px;margin-bottom: 0px !important;}
+.p95{text-align: right;padding-right: 63px;margin-top: 22px;margin-bottom: 0px !important;}
+.p96{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;}
+.p97{text-align: left;padding-left: 0px;margin-top: 39px;margin-bottom: 0px !important;}
+.p98{text-align: left;padding-left: 0px;margin-top: 53px;margin-bottom: 0px !important;}
+.p99{text-align: right;padding-right: 63px;margin-top: 21px;margin-bottom: 0px !important;}
+.p100{text-align: left;padding-right: 0px;margin-top: 0px;margin-bottom: 0px !important;text-indent: 15px;}
+.p101{text-align: left;margin-top: 41px;margin-bottom: 0px !important;}
+.p102{text-align: left;margin-top: 47px;margin-bottom: 0px !important;}
+.p103{text-align: left;padding-right: 0px;margin-top: 9px;margin-bottom: 0px !important;}
+.p104{text-align: left;margin-top: 37px;margin-bottom: 0px !important;}
+.p105{text-align: left;padding-right: 0px;margin-top: 1px;margin-bottom: 0px !important;text-indent: 15px;}
+.p106{text-align: left;padding-right: 0px;margin-top: 1px;margin-bottom: 0px !important;}
+.p107{text-align: left;padding-right: 0px;margin-top: 1px;margin-bottom: 0px !important;text-indent: 15px;}
+.p108{text-align: right;padding-right: 63px;margin-top: 949px;margin-bottom: 0px !important;}
+.p109{text-align: left;padding-right: 294px;margin-top: 9px;margin-bottom: 0px !important;}
+.p110{text-align: left;padding-right: 294px;margin-top: 0px;margin-bottom: 0px !important;text-indent: 15px;}
+.p111{text-align: left;padding-right: 294px;margin-top: 2px;margin-bottom: 0px !important;text-indent: 15px;}
+.p112{text-align: left;padding-right: 294px;margin-top: 1px;margin-bottom: 0px !important;text-indent: 15px;}
+.p113{text-align: left;margin-top: 36px;margin-bottom: 0px !important;}
+.p114{text-align: left;padding-right: 294px;margin-top: 9px;margin-bottom: 0px !important;}
+.p115{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p116{text-align: left;padding-right: 0px;margin-top: 0px;margin-bottom: 0px !important;}
+.p117{text-align: left;margin-top: 39px;margin-bottom: 0px !important;}
+.p118{text-align: left;margin-top: 9px;margin-bottom: 0px !important;}
+.p119{text-align: left;padding-right: 0px;margin-top: 0px;margin-bottom: 0px !important;text-indent: 15px;}
+.p120{text-align: left;margin-top: 40px;margin-bottom: 0px !important;}
+.p121{text-align: left;padding-right: 0px;margin-top: 13px;margin-bottom: 0px !important;}
+.p122{text-align: left;padding-right: 0px;margin-top: 21px;margin-bottom: 0px !important;text-indent: 15px;}
+.p123{text-align: left;padding-left: 0px;padding-right: 0px;margin-top: 0px;margin-bottom: 0px !important;}
+.p124{text-align: left;padding-left: 0px;padding-right: 147px;margin-top: 0px;margin-bottom: 0px !important;}
+.p125{text-align: left;padding-left: 0px;padding-right: 147px;margin-top: 0px;margin-bottom: 0px !important;text-indent: 15px;}
+.p126{text-align: left;padding-left: 0px;padding-right: 147px;margin-top: 2px;margin-bottom: 0px !important;text-indent: 15px;}
+.p127{text-align: left;padding-left: 0px;padding-right: 147px;margin-top: 1px;margin-bottom: 0px !important;text-indent: 15px;}
+.p128{text-align: right;margin-top: 30px;margin-bottom: 0px !important;}
+.p129{text-align: left;padding-right: 84px;margin-top: 0px;margin-bottom: 0px !important;text-indent: 15px;}
+.p130{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p131{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p132{text-align: left;padding-right: 84px;margin-top: 0px;margin-bottom: 0px !important;}
+.p133{text-align: center;padding-right: 1px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p134{text-align: center;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p135{text-align: center;padding-right: 63px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p136{text-align: left;padding-left: 120px;padding-right: 294px;margin-top: 53px;margin-bottom: 0px !important;text-indent: 0.75px;}
+.p137{text-align: left;padding-left: 0px;margin-top: 55px;margin-bottom: 0px !important;}
+.p138{text-align: left;padding-left: 0px;padding-right: 294px;margin-top: 13px;margin-bottom: 0px !important;}
+.p139{text-align: left;padding-left: 0px;margin-top: 40px;margin-bottom: 0px !important;}
+.p140{text-align: left;padding-left: 0px;padding-right: 315px;margin-top: 15px;margin-bottom: 0px !important;}
+.p141{text-align: left;padding-left: 0px;margin-top: 22px;margin-bottom: 0px !important;}
+.p142{text-align: right;padding-right: 63px;margin-top: 6px;margin-bottom: 0px !important;}
+.p143{text-align: left;margin-top: 1px;margin-bottom: 0px !important;text-indent: 15px;}
+.p144{text-align: left;margin-top: 2px;margin-bottom: 0px !important;text-indent: 15px;}
+.p145{text-align: left;padding-right: 1px;margin-top: 1px;margin-bottom: 0px !important;text-indent: 15px;}
+.p146{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;}
+.p147{text-align: left;padding-left: 0px;padding-right: 84px;margin-top: 0px;margin-bottom: 0px !important;text-indent: 15px;}
+.p148{text-align: left;padding-left: 0px;padding-right: 294px;margin-top: 0px;margin-bottom: 0px !important;}
+.p149{text-align: left;padding-left: 0px;margin-top: 56px;margin-bottom: 0px !important;}
+.p150{text-align: left;padding-left: 0px;padding-right: 294px;margin-top: 15px;margin-bottom: 0px !important;}
+.p151{text-align: right;padding-right: 63px;margin-top: 127px;margin-bottom: 0px !important;}
+.p152{text-align: left;padding-left: 0px;margin-top: 13px;margin-bottom: 0px !important;}
+.p153{text-align: left;padding-left: 0px;margin-top: 19px;margin-bottom: 0px !important;}
+.p154{text-align: left;padding-left: 120px;padding-right: 294px;margin-top: 41px;margin-bottom: 0px !important;text-indent: 0.75px;}
+.p155{text-align: right;padding-right: 63px;margin-top: 313px;margin-bottom: 0px !important;}
+.p156{text-align: left;padding-left: 0px;margin-top: 15px;margin-bottom: 0px !important;}
+.p157{text-align: left;padding-left: 0px;margin-top: 20px;margin-bottom: 0px !important;}
+.p158{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;}
+.p159{text-align: left;padding-right: 0px;margin-top: 20px;margin-bottom: 0px !important;}
+.p160{text-align: left;padding-right: 0px;margin-top: 24px;margin-bottom: 0px !important;}
+.p161{text-align: left;padding-right: 0px;margin-top: 19px;margin-bottom: 0px !important;}
+.p162{text-align: left;padding-right: 0px;margin-top: 20px;margin-bottom: 0px !important;}
+.p163{text-align: right;padding-right: 63px;margin-top: 930px;margin-bottom: 0px !important;}
+.p164{text-align: left;padding-right: 0px;margin-top: 0px;margin-bottom: 0px !important;}
+.p165{text-align: left;padding-right: 0px;margin-top: 21px;margin-bottom: 0px !important;}
+.p166{text-align: left;padding-right: 0px;margin-top: 22px;margin-bottom: 0px !important;}
+.p167{text-align: left;padding-right: 0px;margin-top: 23px;margin-bottom: 0px !important;}
+.p168{text-align: left;padding-left: 0px;margin-top: 19px;margin-bottom: 0px !important;}
+.p169{text-align: left;padding-right: 0px;margin-top: 0px;margin-bottom: 0px !important;text-indent: 15px;}
+.p170{text-align: left;padding-right: 0px;margin-top: 0px;margin-bottom: 0px !important;text-indent: 15px;}
+.p171{text-align: left;padding-left: 0px;margin-top: 1px;margin-bottom: 0px !important;}
+.p172{text-align: left;padding-right: 0px;margin-top: 19px;margin-bottom: 0px !important;text-indent: 15px;}
+.p173{text-align: left;padding-right: 0px;margin-top: 20px;margin-bottom: 0px !important;text-indent: 15px;}
+.p174{text-align: right;padding-right: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p175{text-align: right;margin-top: 529px;margin-bottom: 0px !important;}
+.p176{text-align: left;padding-right: 21px;margin-top: 0px;margin-bottom: 0px !important;}
+.p177{text-align: left;padding-left: 0px;padding-right: 504px;margin-top: 0px;margin-bottom: 0px !important;}
+.p178{text-align: left;padding-left: 0px;padding-right: 462px;margin-top: 2px;margin-bottom: 0px !important;}
+.p179{text-align: left;padding-left: 0px;margin-top: 1px;margin-bottom: 0px !important;}
+.p180{text-align: left;padding-left: 0px;margin-top: 2px;margin-bottom: 0px !important;}
+.p181{text-align: left;padding-left: 0px;margin-top: 20px;margin-bottom: 0px !important;}
+.p182{text-align: left;padding-left: 0px;margin-top: 19px;margin-bottom: 0px !important;}
+.p183{text-align: left;padding-left: 0px;padding-right: 294px;margin-top: 1px;margin-bottom: 0px !important;text-indent: 15px;}
+.p184{text-align: left;padding-left: 0px;padding-right: 294px;margin-top: 2px;margin-bottom: 0px !important;text-indent: 15px;}
+.p185{text-align: right;padding-right: 63px;margin-top: 11px;margin-bottom: 0px !important;}
+.p186{text-align: left;padding-right: 0px;margin-top: 1px;margin-bottom: 0px !important;text-indent: 15px;}
+.p187{text-align: right;margin-top: 12px;margin-bottom: 0px !important;}
+.p188{text-align: right;padding-right: 567px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p189{text-align: right;margin-top: 913px;margin-bottom: 0px !important;}
+.p190{text-align: left;padding-right: 0px;margin-top: 0px;margin-bottom: 0px !important;}
+.p191{text-align: left;padding-left: 0px;padding-right: 0px;margin-top: 20px;margin-bottom: 0px !important;}
+.p192{text-align: left;margin-top: 2px;margin-bottom: 0px !important;}
+.p193{text-align: left;padding-left: 0px;padding-right: 126px;padding-top: 2px;margin-top: 0px;margin-bottom: 0px !important;}
+.p194{text-align: left;margin-top: 20px;margin-bottom: 0px !important;}
+.p195{text-align: left;margin-top: 23px;margin-bottom: 0px !important;}
+.p196{text-align: left;margin-top: 45px;margin-bottom: 0px !important;}
+.p197{text-align: left;padding-left: 0px;padding-right: 189px;margin-top: 0px;margin-bottom: 0px !important;text-indent: 0.14px;}
+.p198{text-align: left;margin-top: 19px;margin-bottom: 0px !important;}
+.p199{text-align: left;padding-right: 0px;margin-top: 1px;margin-bottom: 0px !important;}
+.p200{text-align: left;padding-right: 0px;margin-top: 3px;margin-bottom: 0px !important;text-indent: 15px;}
+.p201{text-align: right;padding-right: 63px;margin-top: 87px;margin-bottom: 0px !important;}
+.p202{text-align: left;padding-left: 0px;margin-top: 1px;margin-bottom: 0px !important;}
+.p203{text-align: left;padding-left: 0px;padding-right: 294px;margin-top: 1px;margin-bottom: 0px !important;}
+.p204{text-align: left;padding-left: 0px;padding-right: 294px;margin-top: 3px;margin-bottom: 0px !important;}
+.p205{text-align: left;padding-left: 0px;margin-top: 60px;margin-bottom: 0px !important;}
+.p206{text-align: left;padding-left: 0px;padding-right: 294px;margin-top: 19px;margin-bottom: 0px !important;text-indent: 15px;}
+.p207{text-align: right;padding-right: 63px;margin-top: 490px;margin-bottom: 0px !important;}
+.p208{text-align: left;margin-top: 15px;margin-bottom: 0px !important;}
+.p209{text-align: left;padding-right: 21px;margin-top: 0px;margin-bottom: 0px !important;}
+.p210{text-align: left;margin-top: 18px;margin-bottom: 0px !important;}
+.p211{text-align: left;margin-top: 11px;margin-bottom: 0px !important;}
+.p212{text-align: left;padding-left: 220px;padding-right: 0px;margin-top: 0px;margin-bottom: 0px !important;}
+.p213{text-align: left;padding-left: 220px;padding-right: 0px;margin-top: 4px;margin-bottom: 0px !important;}
+.p214{text-align: left;padding-left: 220px;padding-right: 0px;margin-top: 0px;margin-bottom: 0px !important;}
+.p215{text-align: left;padding-left: 240px;margin-top: 0px;margin-bottom: 0px !important;}
+.p216{text-align: left;margin-top: 1px;margin-bottom: 0px !important;}
+.p217{text-align: left;padding-left: 0px;padding-right: 0px;margin-top: 0px;margin-bottom: 0px !important;}
+.p218{text-align: left;padding-left: 0px;padding-right: 0px;margin-top: 3px;margin-bottom: 0px !important;}
+.p219{text-align: left;padding-left: 0px;padding-right: 21px;margin-top: 1px;margin-bottom: 0px !important;}
+.p220{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;}
+.p221{text-align: left;padding-right: 0px;margin-top: 0px;margin-bottom: 0px !important;text-indent: 15px;}
+.p222{text-align: left;margin-top: 59px;margin-bottom: 0px !important;}
+.p223{text-align: left;padding-right: 0px;margin-top: 15px;margin-bottom: 0px !important;}
+.p224{text-align: left;padding-left: 0px;margin-top: 18px;margin-bottom: 0px !important;}
+.p225{text-align: left;padding-left: 0px;padding-right: 315px;margin-top: 19px;margin-bottom: 0px !important;}
+.p226{text-align: left;padding-left: 0px;padding-right: 294px;margin-top: 77px;margin-bottom: 0px !important;}
+.p227{text-align: right;padding-right: 63px;margin-top: 653px;margin-bottom: 0px !important;}
+
+.td0{padding: 0px;margin: 0px;width: 508px;vertical-align: bottom;}
+.td1{padding: 0px;margin: 0px;width: 153px;vertical-align: bottom;}
+.td2{border-bottom: #000000 1px solid;padding: 0px;margin: 0px;width: 508px;vertical-align: bottom;}
+.td3{border-bottom: #000000 1px solid;padding: 0px;margin: 0px;width: 153px;vertical-align: bottom;}
+.td4{padding: 0px;margin: 0px;width: 506px;vertical-align: bottom;}
+.td5{padding: 0px;margin: 0px;width: 149px;vertical-align: bottom;}
+.td6{padding: 0px;margin: 0px;width: 8px;vertical-align: bottom;}
+.td7{padding: 0px;margin: 0px;width: 497px;vertical-align: bottom;}
+.td8{padding: 0px;margin: 0px;width: 80px;vertical-align: bottom;}
+.td9{padding: 0px;margin: 0px;width: 416px;vertical-align: bottom;}
+.td10{padding: 0px;margin: 0px;width: 489px;vertical-align: bottom;}
+.td11{padding: 0px;margin: 0px;width: 17px;vertical-align: bottom;}
+.td12{padding: 0px;margin: 0px;width: 48px;vertical-align: bottom;}
+.td13{padding: 0px;margin: 0px;width: 441px;vertical-align: bottom;}
+.td14{padding: 0px;margin: 0px;width: 99px;vertical-align: bottom;}
+.td15{padding: 0px;margin: 0px;width: 341px;vertical-align: bottom;}
+.td16{padding: 0px;margin: 0px;width: 69px;vertical-align: bottom;}
+.td17{padding: 0px;margin: 0px;width: 420px;vertical-align: bottom;}
+.td18{padding: 0px;margin: 0px;width: 78px;vertical-align: bottom;}
+.td19{padding: 0px;margin: 0px;width: 418px;vertical-align: bottom;}
+.td20{padding: 0px;margin: 0px;width: 436px;vertical-align: bottom;}
+.td21{padding: 0px;margin: 0px;width: 45px;vertical-align: bottom;}
+.td22{padding: 0px;margin: 0px;width: 488px;vertical-align: bottom;}
+.td23{padding: 0px;margin: 0px;width: 121px;vertical-align: bottom;}
+.td24{padding: 0px;margin: 0px;width: 269px;vertical-align: bottom;}
+.td25{padding: 0px;margin: 0px;width: 132px;vertical-align: bottom;}
+.td26{padding: 0px;margin: 0px;width: 406px;vertical-align: bottom;}
+.td27{padding: 0px;margin: 0px;width: 258px;vertical-align: bottom;}
+.td28{padding: 0px;margin: 0px;width: 533px;vertical-align: bottom;}
+.td29{padding: 0px;margin: 0px;width: 585px;vertical-align: bottom;}
+.td30{padding: 0px;margin: 0px;width: 87px;vertical-align: bottom;}
+.td31{padding: 0px;margin: 0px;width: 507px;vertical-align: bottom;}
+.td32{padding: 0px;margin: 0px;width: 2px;vertical-align: bottom;}
+.td33{padding: 0px;margin: 0px;width: 512px;vertical-align: bottom;}
+.td34{padding: 0px;margin: 0px;width: 71px;vertical-align: bottom;}
+.td35{border-right: #000000 1px solid;padding: 0px;margin: 0px;width: 1px;vertical-align: bottom;}
+.td36{border-right: #000000 1px solid;border-top: #000000 1px solid;padding: 0px;margin: 0px;width: 511px;vertical-align: bottom;}
+.td37{border-right: #000000 1px solid;padding: 0px;margin: 0px;width: 511px;vertical-align: bottom;}
+.td38{border-right: #000000 1px solid;border-bottom: #000000 1px solid;padding: 0px;margin: 0px;width: 511px;vertical-align: bottom;}
+.td39{padding: 0px;margin: 0px;width: 583px;vertical-align: bottom;}
+.td40{padding: 0px;margin: 0px;width: 435px;vertical-align: bottom;}
+.td41{padding: 0px;margin: 0px;width: 76px;vertical-align: bottom;}
+.td42{border-right: #000000 1px solid;padding: 0px;margin: 0px;width: 434px;vertical-align: bottom;}
+.td43{padding: 0px;margin: 0px;width: 268px;vertical-align: bottom;}
+
+.tr0{heightzzz: 31px;}
+.tr1{heightzzz: 27px;}
+.tr2{heightzzz: 43px;}
+.tr3{heightzzz: 19px;}
+.tr4{heightzzz: 23px;}
+.tr5{heightzzz: 25px;}
+.tr6{heightzzz: 20px;}
+.tr7{heightzzz: 21px;}
+.tr8{heightzzz: 6px;}
+.tr9{heightzzz: 11px;}
+.tr10{heightzzz: 22px;}
+.tr11{heightzzz: 37px;}
+.tr12{heightzzz: 8px;}
+.tr13{heightzzz: 26px;}
+.tr14{heightzzz: 13px;}
+.tr15{heightzzz: 3px;}
+.tr16{heightzzz: 2px;}
+.tr17{heightzzz: 24px;}
+.tr18{heightzzz: 5px;}
+.tr19{heightzzz: 18px;}
+.tr20{heightzzz: 39px;}
+.tr21{heightzzz: 38px;}
+.tr22{heightzzz: 33px;}
+.tr23{heightzzz: 10px;}
+
+.t0{width: 693px;margin-leftZ: 75px;margin-top: 12px;f:23px 'Verdana' !important;}
+.t1{width: 686px;margin-leftZ: 76px;f:17px 'Verdana' !important;}
+.t2{width: 540px;margin-leftZ: 76px;margin-top: 7px;f:15px 'Verdana' !important;}
+.t3{width: 540px;margin-leftZ: 76px;f:15px 'Verdana' !important;}
+.t4{width: 540px;margin-leftZ: 76px;margin-top: 5px;f:15px 'Verdana' !important;}
+.t5{width: 686px;margin-leftZ: 76px;f:23px 'Verdana' !important;}
+.t6{width: 421px;margin-top: 20px;f:15px 'Verdana' !important;}
+.t7{width: 421px;margin-leftZ: 76px;margin-top: 24px;f:15px 'Verdana' !important;}
+.t8{width: 696px;margin-leftZ: 76px;margin-top: 23px;f:9px 'Verdana' !important;}
+.t9{width: 686px;f:15px 'Verdana' !important;}
+.t10{width: 705px;margin-top: 33px;f:17px 'Verdana' !important;}
+.t11{width: 705px;margin-top: 35px;f:17px 'Verdana' !important;}
+.t12{width: 705px;margin-top: 36px;f:16px 'Verdana' !important;}
+.t13{width: 686px;margin-leftZ: 76px;f:17px 'Verdana' !important;}
+.t14{width: 686px;margin-leftZ: 76px;f:16px 'Verdana' !important;}
+.t15{width: 421px;f:17px 'Verdana' !important;}
+.t16{width: 409px;f:17px 'Verdana' !important;}
+.t17{width: 686px;margin-leftZ: 76px;f:15px 'Verdana' !important;}
+
+</STYLE>
+
+
+
+<DIV id="page_1">
+
+
+<P class="p0 ft0">Regeringens proposition 2002/03:97</P>
+<TABLE cellpadding=0 cellspacing=0 class="t0">
+<TR>
+	<TD class="tr0 td0"><SPAN class="p1 ft1">Godkännande av ändringar i EG:s regler om val till</SPAN> </TD>
+	<TD class="tr0 td1"><SPAN class="p2 ft1">Prop.</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr1 td2"><SPAN class="p1 ft1">Europaparlamentet, m.m.</SPAN> </TD>
+	<TD class="tr1 td3"><SPAN class="p2 ft1">2002/03:97</SPAN> </TD>
+</TR>
+</TABLE>
+<P class="p3 ft2">Regeringen överlämnar denna proposition till riksdagen.</P>
+<P class="p4 ft2">Stockholm den 22 maj 2003</P>
+<P class="p5 ft2">Göran Persson</P>
+<P class="p6 ft2">Pär Nuder</P>
+<P class="p7 ft2">(Justitiedepartementet)</P>
+<P class="p8 ft1">Propositionens huvudsakliga innehåll</P>
+<P class="p9 ft3">I propositionen föreslås att riksdagen godkänner rådets beslut 2002/772/EG, Euratom av den 25 juni 2002 och av den 23 september 2002 om ändring av akten om allmänna direkta val av företrädare i Europaparlamentet som utgör en bilaga till beslut 76/787/EKSG, EEG, Euratom (valrättsakten). Som en följd av godkännandet föreslås ändringar i vallagen (1997:157) som bl.a. innebär att vissa ytterligare ämbeten och uppdrag blir oförenliga med att vara ledamot av Europaparlamentet. Vi- dare föreslås en ändring i lagen (1994:1500) med anledning av Sveriges anslutning till Europeiska unionen.</P>
+<P class="p10 ft2">I propositionen föreslås också att valsedlar utan partibeteckning skall redovisas särskilt i den offentliga valstatistiken.</P>
+<P class="p10 ft2">De lagändringar som är föranledda av beslutet om ändring av valrättsakten föreslås träda i kraft den dag regeringen bestämmer. Övriga lagändringar föreslås träda i kraft den 1 januari 2004.</P>
+<P class="p11 ft2">1</P>
+</DIV>
+<DIV id="page_2">
+
+
+<TABLE cellpadding=0 cellspacing=0 class="t1">
+<TR>
+	<TD colspan=3 class="tr0 td4"><SPAN class="p12 ft1">Innehållsförteckning</SPAN> </TD>
+	<TD class="tr0 td5"><SPAN class="p13 ft2">Prop. 2002/03:97</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr2 td6"><SPAN class="p12 ft4">1</SPAN> </TD>
+	<TD colspan=2 class="tr2 td7"><SPAN class="p14 ft5">Förslag till riksdagsbeslut..................................................................</SPAN> </TD>
+	<TD class="tr2 td5"><SPAN class="p15 ft2">3</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr1 td6"><SPAN class="p12 ft4">2</SPAN> </TD>
+	<TD class="tr1 td8"><SPAN class="p14 ft2">Lagtext</SPAN> </TD>
+	<TD class="tr1 td9"><SPAN class="p16 ft5">...............................................................................................</SPAN> </TD>
+	<TD class="tr1 td5"><SPAN class="p15 ft2">4</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr3 td6"><SPAN class="p12 ft6">&nbsp;</SPAN> </TD>
+	<TD class="tr3 td8"><SPAN class="p14 ft2">2.1</SPAN> </TD>
+	<TD class="tr3 td9"><SPAN class="p16 ft5">Förslag till lag om ändring i vallagen (1997:157) ..............</SPAN> </TD>
+	<TD class="tr3 td5"><SPAN class="p15 ft2">4</SPAN> </TD>
+</TR>
+</TABLE>
+<P class="p17 ft8"><SPAN class="ft4">2.2</SPAN><SPAN class="ft7">Förslag till lag om ändring i lagen (1994:1500) med anledning av Sveriges anslutning till Europeiska unionen .7</SPAN></P>
+<TABLE cellpadding=0 cellspacing=0 class="t2">
+<TR>
+	<TD class="tr4 td6"><SPAN class="p13 ft4">3</SPAN> </TD>
+	<TD colspan=3 class="tr4 td10"><SPAN class="p14 ft5">Ärendet och dess beredning.............................................................</SPAN> </TD>
+	<TD class="tr4 td11"><SPAN class="p13 ft4">10</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr5 td6"><SPAN class="p13 ft4">4</SPAN> </TD>
+	<TD colspan=3 class="tr5 td10"><SPAN class="p14 ft4">EG:s regler om val av ledamöter till Europaparlamentet ................</SPAN> </TD>
+	<TD class="tr5 td11"><SPAN class="p13 ft4">11</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr3 td6"><SPAN class="p12 ft6">&nbsp;</SPAN> </TD>
+	<TD class="tr3 td12"><SPAN class="p14 ft4">4.1</SPAN> </TD>
+	<TD colspan=2 class="tr3 td13"><SPAN class="p18 ft5">Valrättsakten .....................................................................</SPAN> </TD>
+	<TD class="tr3 td11"><SPAN class="p13 ft4">11</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr3 td6"><SPAN class="p12 ft6">&nbsp;</SPAN> </TD>
+	<TD class="tr3 td12"><SPAN class="p12 ft6">&nbsp;</SPAN> </TD>
+	<TD class="tr3 td14"><SPAN class="p18 ft2">4.1.1</SPAN> </TD>
+	<TD class="tr3 td15"><SPAN class="p19 ft5">Bakgrund.........................................................</SPAN> </TD>
+	<TD class="tr3 td11"><SPAN class="p13 ft4">11</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr3 td6"><SPAN class="p12 ft6">&nbsp;</SPAN> </TD>
+	<TD class="tr3 td12"><SPAN class="p12 ft6">&nbsp;</SPAN> </TD>
+	<TD class="tr3 td14"><SPAN class="p18 ft2">4.1.2</SPAN> </TD>
+	<TD class="tr3 td15"><SPAN class="p19 ft5">Nuvarande lydelse...........................................</SPAN> </TD>
+	<TD class="tr3 td11"><SPAN class="p13 ft4">11</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr3 td6"><SPAN class="p12 ft6">&nbsp;</SPAN> </TD>
+	<TD class="tr3 td12"><SPAN class="p14 ft4">4.2</SPAN> </TD>
+	<TD colspan=2 class="tr3 td13"><SPAN class="p18 ft5">Beslutet om ändringar i valrättsakten ...............................</SPAN> </TD>
+	<TD class="tr3 td11"><SPAN class="p13 ft4">12</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr3 td6"><SPAN class="p12 ft6">&nbsp;</SPAN> </TD>
+	<TD class="tr3 td12"><SPAN class="p12 ft6">&nbsp;</SPAN> </TD>
+	<TD class="tr3 td14"><SPAN class="p18 ft2">4.2.1</SPAN> </TD>
+	<TD class="tr3 td15"><SPAN class="p19 ft5">Bakgrund.........................................................</SPAN> </TD>
+	<TD class="tr3 td11"><SPAN class="p13 ft4">12</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr6 td6"><SPAN class="p12 ft6">&nbsp;</SPAN> </TD>
+	<TD class="tr6 td12"><SPAN class="p12 ft6">&nbsp;</SPAN> </TD>
+	<TD class="tr6 td14"><SPAN class="p18 ft2">4.2.2</SPAN> </TD>
+	<TD class="tr6 td15"><SPAN class="p19 ft5">Ändringsbeslutets innehåll..............................</SPAN> </TD>
+	<TD class="tr6 td11"><SPAN class="p13 ft4">13</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr3 td6"><SPAN class="p12 ft6">&nbsp;</SPAN> </TD>
+	<TD class="tr3 td12"><SPAN class="p12 ft6">&nbsp;</SPAN> </TD>
+	<TD class="tr3 td14"><SPAN class="p18 ft2">4.2.3</SPAN> </TD>
+	<TD class="tr3 td15"><SPAN class="p19 ft5">Sveriges tillträde till beslutet om ändring av</SPAN> </TD>
+	<TD class="tr3 td11"><SPAN class="p12 ft6">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr3 td6"><SPAN class="p12 ft6">&nbsp;</SPAN> </TD>
+	<TD class="tr3 td12"><SPAN class="p12 ft6">&nbsp;</SPAN> </TD>
+	<TD class="tr3 td14"><SPAN class="p12 ft6">&nbsp;</SPAN> </TD>
+	<TD class="tr3 td15"><SPAN class="p19 ft5">valrättsakten....................................................</SPAN> </TD>
+	<TD class="tr3 td11"><SPAN class="p13 ft4">15</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr3 td6"><SPAN class="p12 ft6">&nbsp;</SPAN> </TD>
+	<TD class="tr3 td12"><SPAN class="p14 ft4">4.3</SPAN> </TD>
+	<TD colspan=2 class="tr3 td13"><SPAN class="p18 ft5">Ändring i vallagen (1997:157)..........................................</SPAN> </TD>
+	<TD class="tr3 td11"><SPAN class="p13 ft4">17</SPAN> </TD>
+</TR>
+</TABLE>
+<P class="p20 ft2"><SPAN class="ft4">4.4</SPAN><SPAN class="ft9">Ändring i lagen (1994:1500) med anledning av Sveriges</SPAN></P>
+<TABLE cellpadding=0 cellspacing=0 class="t3">
+<TR>
+	<TD class="tr6 td6"><SPAN class="p12 ft6">&nbsp;</SPAN> </TD>
+	<TD class="tr6 td16"><SPAN class="p12 ft6">&nbsp;</SPAN> </TD>
+	<TD class="tr6 td17"><SPAN class="p21 ft5">anslutning till Europeiska unionen....................................</SPAN> </TD>
+	<TD class="tr6 td11"><SPAN class="p13 ft4">18</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr5 td6"><SPAN class="p13 ft4">5</SPAN> </TD>
+	<TD colspan=2 class="tr5 td10"><SPAN class="p14 ft4">Redovisning av valsedlar som saknar partibeteckning....................</SPAN> </TD>
+	<TD class="tr5 td11"><SPAN class="p13 ft4">19</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr3 td6"><SPAN class="p12 ft6">&nbsp;</SPAN> </TD>
+	<TD class="tr3 td16"><SPAN class="p14 ft2">5.1</SPAN> </TD>
+	<TD class="tr3 td17"><SPAN class="p21 ft5">Bakgrund...........................................................................</SPAN> </TD>
+	<TD class="tr3 td11"><SPAN class="p13 ft4">19</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr3 td6"><SPAN class="p12 ft6">&nbsp;</SPAN> </TD>
+	<TD class="tr3 td16"><SPAN class="p14 ft2">5.2</SPAN> </TD>
+	<TD class="tr3 td17"><SPAN class="p21 ft5">Överväganden ...................................................................</SPAN> </TD>
+	<TD class="tr3 td11"><SPAN class="p13 ft4">19</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr1 td6"><SPAN class="p13 ft4">6</SPAN> </TD>
+	<TD colspan=2 class="tr1 td10"><SPAN class="p14 ft5">Ekonomiska konsekvenser ..............................................................</SPAN> </TD>
+	<TD class="tr1 td11"><SPAN class="p13 ft4">21</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr1 td6"><SPAN class="p13 ft4">7</SPAN> </TD>
+	<TD colspan=2 class="tr1 td10"><SPAN class="p14 ft5">Författningskommentar ...................................................................</SPAN> </TD>
+	<TD class="tr1 td11"><SPAN class="p13 ft4">22</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr3 td6"><SPAN class="p12 ft6">&nbsp;</SPAN> </TD>
+	<TD class="tr3 td16"><SPAN class="p14 ft2">7.1</SPAN> </TD>
+	<TD class="tr3 td17"><SPAN class="p21 ft4">Förslaget till lag om ändring i vallagen (1997:157)..........</SPAN> </TD>
+	<TD class="tr3 td11"><SPAN class="p13 ft4">22</SPAN> </TD>
+</TR>
+</TABLE>
+<P class="p17 ft11"><SPAN class="ft4">7.2</SPAN><SPAN class="ft10">Förslaget till lag om ändring i lagen (1994:1500) med anledning av Sveriges anslutning till Europeiska unionen22</SPAN></P>
+<TABLE cellpadding=0 cellspacing=0 class="t4">
+<TR>
+	<TD colspan=2 class="tr4 td7"><SPAN class="p12 ft5">Bilaga 1 Valsystemet för val av Europaparlamentets ledamöter.........</SPAN> </TD>
+	<TD class="tr4 td11"><SPAN class="p13 ft4">23</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=2 class="tr5 td7"><SPAN class="p12 ft2">Bilaga 2 Akt om allmänna direkta val av företrädare i</SPAN> </TD>
+	<TD class="tr5 td11"><SPAN class="p12 ft6">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr3 td18"><SPAN class="p12 ft6">&nbsp;</SPAN> </TD>
+	<TD class="tr3 td19"><SPAN class="p12 ft5">Europaparlamentet.................................................................</SPAN> </TD>
+	<TD class="tr3 td11"><SPAN class="p13 ft4">27</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr1 td18"><SPAN class="p12 ft2">Bilaga 3</SPAN> </TD>
+	<TD colspan=2 class="tr1 td20"><SPAN class="p12 ft4">Rådets beslut 2002/772/EG, Euratom av den 25 juni 2002 och</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr3 td18"><SPAN class="p12 ft6">&nbsp;</SPAN> </TD>
+	<TD colspan=2 class="tr3 td20"><SPAN class="p12 ft4">av den 23 september 2002 om ändring av akten om allmänna</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr6 td18"><SPAN class="p12 ft6">&nbsp;</SPAN> </TD>
+	<TD colspan=2 class="tr6 td20"><SPAN class="p12 ft5">direkta val av företrädare i Europaparlamentet, som utgör en</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr3 td18"><SPAN class="p12 ft6">&nbsp;</SPAN> </TD>
+	<TD class="tr3 td19"><SPAN class="p12 ft4">bilaga till beslut 76/787/EKSG, EEG, Euratom ....................</SPAN> </TD>
+	<TD class="tr3 td11"><SPAN class="p13 ft4">32</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr1 td18"><SPAN class="p12 ft2">Bilaga 4</SPAN> </TD>
+	<TD colspan=2 class="tr1 td20"><SPAN class="p12 ft5">Sammanfattning av delar av 1999 års författningsutrednings</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr3 td18"><SPAN class="p12 ft6">&nbsp;</SPAN> </TD>
+	<TD class="tr3 td19"><SPAN class="p12 ft4">betänkande Offentliga valförberedelser (SOU 2001:99).......</SPAN> </TD>
+	<TD class="tr3 td11"><SPAN class="p13 ft4">37</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr1 td18"><SPAN class="p12 ft2">Bilaga 5</SPAN> </TD>
+	<TD colspan=2 class="tr1 td20"><SPAN class="p12 ft5">Delar av 1999 års författningsutrednings författningsförslag i</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr6 td18"><SPAN class="p12 ft6">&nbsp;</SPAN> </TD>
+	<TD class="tr6 td19"><SPAN class="p12 ft4">betänkandet Offentliga valförberedelser (SOU 2001:99)......</SPAN> </TD>
+	<TD class="tr6 td11"><SPAN class="p13 ft4">38</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr1 td18"><SPAN class="p12 ft2">Bilaga 6</SPAN> </TD>
+	<TD class="tr1 td19"><SPAN class="p12 ft4">Förteckning över remissinstanser (SOU 2001:99) ................</SPAN> </TD>
+	<TD class="tr1 td11"><SPAN class="p13 ft4">40</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=2 class="tr1 td7"><SPAN class="p12 ft4">Utdrag ur protokoll vid regeringssammanträde den 22 maj 2003...........</SPAN> </TD>
+	<TD class="tr1 td11"><SPAN class="p13 ft4">41</SPAN> </TD>
+</TR>
+</TABLE>
+<P class="p22 ft2">2</P>
+</DIV>
+<DIV id="page_3">
+
+
+<TABLE cellpadding=0 cellspacing=0 class="t5">
+<TR>
+	<TD class="tr1 td21"><SPAN class="p23 ft1">1</SPAN> </TD>
+	<TD class="tr1 td22"><SPAN class="p24 ft1">Förslag till riksdagsbeslut</SPAN> </TD>
+	<TD class="tr1 td23"><SPAN class="p12 ft4">Prop. 2002/03:97</SPAN> </TD>
+</TR>
+</TABLE>
+<P class="p25 ft2">Regeringen föreslår att riksdagen</P>
+<P class="p26 ft2"><SPAN class="ft4">1.</SPAN><SPAN class="ft12">godkänner rådets beslut 2002/772/EG, Euratom av den 25 juni 2002 och av den 23 september 2002 om ändring av akten om allmänna direkta val av företrädare i Europaparlamentet, som utgör en bilaga till beslut 76/787/EKSG, EEG, Euratom,</SPAN></P>
+<P class="p27 ft2"><SPAN class="ft4">2.</SPAN><SPAN class="ft13">antar regeringens förslag till lag om ändring i vallagen (1997:157)</SPAN></P>
+<P class="p28 ft2">samt</P>
+<P class="p29 ft5"><SPAN class="ft4">3.</SPAN><SPAN class="ft14">antar regeringens förslag till lag om ändring i lagen (1994:1500) med anledning av Sveriges anslutning till Europeiska unionen.</SPAN></P>
+<P class="p30 ft2">3</P>
+</DIV>
+<DIV id="page_4">
+
+<DIV id="tx1"><SPAN class="ft3">När den centrala valmyndigheten har fördelat mandaten mellan partierna och utsett ledamöter eller företrädare och ersättare skall valresultatet tillkännages genom att det kungörs i Post- och Inrikes Tidningar. Därmed är valet avslutat.</SPAN></DIV>
+
+<DIV class="dclr"></DIV>
+<DIV>
+<DIV id="id_1">
+<DIV id="id_1_1">
+<P class="p31 ft1">2 Lagtext</P>
+<P class="p32 ft16"><SPAN class="ft2">2.1</SPAN><SPAN class="ft15">Förslag till lag om ändring i vallagen (1997:157)</SPAN></P>
+<P class="p33 ft2">Härigenom föreskrivs att 18 kap. 14, 15 och 71 §§ vallagen (1997:157)<SPAN class="ft17">1 </SPAN>skall ha följande lydelse.</P>
+<TABLE cellpadding=0 cellspacing=0 class="t6">
+<TR>
+	<TD class="tr3 td24"><SPAN class="p12 ft2">Nuvarande lydelse</SPAN> </TD>
+	<TD class="tr3 td25"><SPAN class="p12 ft4">Föreslagen lydelse</SPAN> </TD>
+</TR>
+</TABLE>
+<P class="p34 ft2">18 kap.</P>
+<P class="p35 ft2">14 §</P>
+<P class="p36 ft3">När den centrala valmyndigheten har fördelat mandaten mellan partierna och utsett ledamöter eller företrädare och ersättare skall valresultatet tillkännages genom att det kungörs i Post- och Inrikes Tidningar. Kungörelsen skall dessutom innehålla uppgifter om antalet giltiga och ogiltiga valsedlar och om antalet valsedlar som är ogiltiga därför att de saknar partibeteckning. Därmed är valet avslutat.</P>
+<P class="p37 ft2">Det skall också kungöras i Post- och Inrikes Tidningar, när nya ledamöter och ersättare utsetts enligt <NOBR>58–60</NOBR> §§ eller nya företrädare och ersättare utsetts enligt <NOBR>67–69</NOBR> §§.</P>
+</DIV>
+<DIV id="id_1_2">
+<DIV id="id_1_2_1">
+<P class="p38 ft11">När länsstyrelsen har fördelat mandaten mellan partierna och utsett ledamöter och ersättare skall valresultatet kungöras genom att protokollet läggs fram för granskning. Därmed är valet avslutat.</P>
+<P class="p39 ft2">Detsamma skall gälla när nya ledamöter och ersättare utsetts enligt <NOBR>61–66</NOBR> §§.</P>
+</DIV>
+<DIV id="id_1_2_2">
+<P class="p31 ft2">15 §</P>
+<P class="p40 ft11">När länsstyrelsen har fördelat mandaten mellan partierna och utsett ledamöter och ersättare skall valresultatet kungöras genom att protokollet läggs fram för granskning. Protokollet skall dessutom innehålla uppgifter om antalet giltiga och ogiltiga valsedlar och om antalet valsedlar som är ogiltiga därför att de saknar partibeteckning. Därmed är valet avslutat.</P>
+<P class="p41 ft11">När nya ledamöter och ersättare utsetts enligt <NOBR>61–66</NOBR> §§ skall detta också kungöras genom att protokollet läggs fram för granskning.</P>
+</DIV>
+</DIV>
+<DIV id="id_1_3">
+<P class="p31 ft19"><SPAN class="ft18">1 </SPAN>Vallagen omtryckt 2002:68</P>
+</DIV>
+</DIV>
+<DIV id="id_2">
+<P class="p31 ft2">Prop. 2002/03:97</P>
+<P class="p42 ft2">4</P>
+</DIV>
+</DIV>
+</DIV>
+<DIV id="page_5">
+<DIV id="dimg1">
+<INGENBILD zsrc="GQ03975x1.jpg/" id="img1">
+</DIV>
+
+
+<DIV id="id_1">
+<P class="p31 ft20">Prop. 2002/03:97</P>
+</DIV>
+<DIV id="id_2">
+<DIV id="id_2_1">
+<P class="p43 ft2">Uppdraget som företrädare i Europaparlamentet är inte förenligt med att vara</P>
+<P class="p44 ft2"><SPAN class="ft4">–</SPAN><SPAN class="ft12">ledamot av regeringen i en medlemsstat,</SPAN></P>
+<P class="p43 ft2"><SPAN class="ft4">–</SPAN><SPAN class="ft21">ledamot av Europeiska gemenskapernas kommission,</SPAN></P>
+<P class="p43 ft2"><SPAN class="ft4">–</SPAN><SPAN class="ft22">domare, generaladvokat eller justitiesekreterare i Europeiska gemenskapernas domstol,</SPAN></P>
+<P class="p45 ft2"><SPAN class="ft4">–</SPAN><SPAN class="ft23">ledamot av Europeiska revisionsrätten,</SPAN></P>
+<P class="p46 ft11"><SPAN class="ft4">–</SPAN><SPAN class="ft24">medlem av rådgivande kommittén i Europeiska kol- och stålgemenskapen eller av Ekonomiska och sociala kommittén i Europeiska gemenskapen och Europeiska atomenergigemenskapen,</SPAN></P>
+<P class="p47 ft3"><SPAN class="ft4">–</SPAN><SPAN class="ft25">medlem av sådana kommittéer eller andra organ som har tillsatts enligt fördragen om upprättandet av Europeiska kol- och stålgemenskapen, Europeiska gemenskapen och Europeiska atomenergigemenskapen för att förvalta gemenskapernas medel eller för att utföra en permanent och direkt förvaltningsuppgift,</SPAN></P>
+<P class="p48 ft11"><SPAN class="ft4">–</SPAN><SPAN class="ft26">styrelseledamot, direktionsledamot eller anställd i Europeiska investeringsbanken, eller</SPAN></P>
+<P class="p43 ft3"><SPAN class="ft4">–</SPAN><SPAN class="ft27">tjänsteman eller annars anställd i aktiv tjänst inom Europeiska gemenskapernas institutioner eller till dessa knutna fackorgan.</SPAN></P>
+</DIV>
+<DIV id="id_2_2">
+<P class="p43 ft2"><SPAN class="ft4">71</SPAN><SPAN class="ft28">§</SPAN><SPAN class="ft17">2</SPAN></P>
+<P class="p49 ft2">Uppdraget som företrädare i Europaparlamentet är inte förenligt med att vara</P>
+<P class="p50 ft2"><SPAN class="ft4">–</SPAN><SPAN class="ft29">ledamot av ett nationellt parlament,</SPAN></P>
+<P class="p51 ft2"><SPAN class="ft4">–</SPAN><SPAN class="ft12">ledamot av regeringen i en medlemsstat,</SPAN></P>
+<P class="p51 ft2"><SPAN class="ft4">–</SPAN><SPAN class="ft21">ledamot av Europeiska gemenskapernas kommission,</SPAN></P>
+<P class="p51 ft2"><SPAN class="ft4">–</SPAN><SPAN class="ft22">domare, generaladvokat eller justitiesekreterare i Europeiska gemenskapernas domstol eller förstainstansrätt,</SPAN></P>
+<P class="p49 ft2"><SPAN class="ft4">–</SPAN><SPAN class="ft30">ledamot i Europeiska centralbankens direktion,</SPAN></P>
+<P class="p51 ft2"><SPAN class="ft4">–</SPAN><SPAN class="ft23">ledamot av Europeiska revisionsrätten,</SPAN></P>
+<P class="p52 ft2"><SPAN class="ft4">–</SPAN><NOBR><SPAN class="ft28">EU-ombudsman,</SPAN></NOBR></P>
+<P class="p53 ft2"><SPAN class="ft4">–</SPAN><SPAN class="ft13">medlem av Ekonomiska och sociala kommittén i Europeiska gemenskapen och Europeiska atomenergigemenskapen,</SPAN></P>
+<P class="p54 ft3"><SPAN class="ft4">–</SPAN><SPAN class="ft25">medlem av sådana kommittéer eller andra organ som har tillsatts enligt fördragen om upprättandet av Europeiska gemenskapen och Europeiska atomenergigemenskapen för att förvalta gemenskapernas medel eller för att utföra en permanent och direkt förvaltningsuppgift,</SPAN></P>
+<P class="p55 ft5"><SPAN class="ft4">–</SPAN><SPAN class="ft31">styrelseledamot, direktionsledamot eller anställd i Europeiska investeringsbanken, eller</SPAN></P>
+<P class="p56 ft2"><SPAN class="ft4">–</SPAN><SPAN class="ft13">tjänsteman eller annan anställd i aktiv tjänst inom Europeiska gemenskapernas institutioner eller i organ som är knutna till dem, eller i Europeiska centralbanken.</SPAN></P>
+</DIV>
+</DIV>
+<DIV id="id_3">
+<P class="p57 ft19"><SPAN class="ft18">2 </SPAN>Senaste lydelse 2002:68</P>
+<P class="p58 ft2">5</P>
+</DIV>
+</DIV>
+<DIV id="page_6">
+
+
+<P class="p59 ft2">Denna lag träder såvitt avser 18 kap. 71 § vallagen (1997:157) i kraft den Prop. 2002/03:97 dag regeringen bestämmer. Lagen i övrigt träder i kraft den 1 januari</P>
+<P class="p57 ft2">2004.</P>
+<P class="p60 ft2">6</P>
+</DIV>
+<DIV id="page_7">
+
+
+<P class="p61 ft2">Prop. 2002/03:97</P>
+<P class="p62 ft16"><SPAN class="ft2">2.2</SPAN><SPAN class="ft15">Förslag till lag om ändring i lagen (1994:1500) med anledning av Sveriges anslutning till Europeiska unionen</SPAN></P>
+<P class="p63 ft5">Härigenom föreskrivs att 4 § lagen (1994:1500) med anledning av Sveriges anslutning till Europeiska unionen skall ha följande lydelse.</P>
+<TABLE cellpadding=0 cellspacing=0 class="t7">
+<TR>
+	<TD class="tr3 td24"><SPAN class="p12 ft2">Nuvarande lydelse</SPAN> </TD>
+	<TD class="tr3 td25"><SPAN class="p12 ft4">Föreslagen lydelse</SPAN> </TD>
+</TR>
+</TABLE>
+<P class="p64 ft2">4 §<SPAN class="ft17">1</SPAN></P>
+<P class="p65 ft2">De fördrag och andra instrument som avses i 2 och 3 §§ är:</P>
+<P class="p66 ft2"><SPAN class="ft4">1.</SPAN><SPAN class="ft13">Fördraget den 18 april 1951 om upprättandet av Europeiska kol- och stålgemenskapen</SPAN></P>
+<P class="p67 ft2"><SPAN class="ft4">2.</SPAN><SPAN class="ft29">Fördraget den 25 mars 1957 om upprättandet av Europeiska ekonomiska gemenskapen</SPAN></P>
+<P class="p66 ft2"><SPAN class="ft4">3.</SPAN><SPAN class="ft12">Fördraget den 25 mars 1957 om upprättandet av Europeiska atomenergigemenskapen</SPAN></P>
+<P class="p67 ft2"><SPAN class="ft4">4.</SPAN><SPAN class="ft29">Konventionen den 13 november 1962 om ändring av Fördraget om upprättandet av Europeiska ekonomiska gemenskapen i syfte att göra den särskilda ordningen för associering av utomeuropeiska länder och territorier som behandlas i fjärde delen av detta fördrag tillämplig med avseende på Nederländska Antillerna</SPAN></P>
+<P class="p66 ft2"><SPAN class="ft4">5.</SPAN><SPAN class="ft12">Protokollet den 8 april 1965 om Europeiska gemenskapernas immunitet och privilegier</SPAN></P>
+<P class="p66 ft2"><SPAN class="ft4">6.</SPAN><SPAN class="ft12">Fördraget den 22 april 1970 om ändring av vissa budgetbestämmelser i fördragen om upprättandet av Europeiska gemenskaperna och i fördraget om upprättandet av ett gemensamt råd och en gemensam kommission för Europeiska gemenskaperna</SPAN></P>
+<P class="p68 ft3"><SPAN class="ft4">7.</SPAN><SPAN class="ft32">Fördraget den 22 januari 1972 om Konungariket Danmarks, Irlands, Konungariket Norges och Förenade konungariket Storbritannien och Nordirlands anslutning till Europeiska ekonomiska gemenskapen och Europeiska atomenergigemenskapen</SPAN></P>
+<P class="p66 ft2"><SPAN class="ft4">8.</SPAN><SPAN class="ft29">Beslutet av Europeiska gemenskapernas råd av den 22 januari 1972 om Konungariket Danmarks, Irlands, Konungariket Norges och Förenade konungariket Storbritannien och Nordirlands anslutning till Europeiska kol- och stålgemenskapen</SPAN></P>
+<P class="p66 ft2"><SPAN class="ft4">9.</SPAN><SPAN class="ft12">Fördraget den 10 juli 1975 om ändring av vissa bestämmelser i protokollet om Europeiska investeringsbankens stadga</SPAN></P>
+<TABLE cellpadding=0 cellspacing=0 class="t8">
+<TR>
+	<TD class="tr6 td26"><SPAN class="p12 ft19"><SPAN class="ft18">1 </SPAN>Senaste lydelse 2001:1272</SPAN> </TD>
+	<TD class="tr6 td27"><SPAN class="p13 ft2">7</SPAN> </TD>
+</TR>
+</TABLE>
+</DIV>
+<DIV id="page_8">
+
+
+<DIV id="id_1">
+<P class="p69 ft2">Prop. 2002/03:97</P>
+<P class="p70 ft3">10. Fördraget den 22 juli 1975 om ändring av vissa finansiella bestämmelser i fördragen om upprättandet av Europeiska gemenskaperna och i fördraget om upprättandet av ett gemensamt råd och en gemensam kommission för Europeiska gemenskaperna</P>
+</DIV>
+<DIV id="id_2">
+<DIV id="id_2_1">
+<P class="p71 ft2">11. Akten den 20 september</P>
+<P class="p72 ft3">1976 om allmänna direkta val av företrädare i församlingen (Europaparlamentet) samt beslutet av Europeiska gemenskapernas råd av den 1 februari 1993 om ändring av nämnda akt</P>
+</DIV>
+<DIV id="id_2_2">
+<P class="p71 ft2">11. Akten den 20 september</P>
+<P class="p73 ft3">1976 om allmänna direkta val av företrädare i församlingen (Europaparlamentet) samt beslutet av Europeiska unionens råd av den 25 juni och den 23 september 2002 om ändring av nämnda akt</P>
+</DIV>
+</DIV>
+<DIV id="id_3">
+<P class="p74 ft2"><SPAN class="ft4">12.</SPAN><SPAN class="ft13">Fördraget den 28 maj 1979 om Hellenska republikens anslutning till Europeiska ekonomiska gemenskapen och Europeiska atomenergigemenskapen</SPAN></P>
+<P class="p66 ft2"><SPAN class="ft4">13.</SPAN><SPAN class="ft13">Beslutet av Europeiska gemenskapernas råd av den 24 maj 1979 om Hellenska republikens anslutning till Europeiska kol- och stålgemenskapen</SPAN></P>
+<P class="p67 ft2"><SPAN class="ft4">14.</SPAN><SPAN class="ft13">Fördraget den 13 mars 1984 om ändring av fördragen om upprättandet av Europeiska gemenskaperna i fråga om Grönland</SPAN></P>
+<P class="p66 ft2"><SPAN class="ft4">15.</SPAN><SPAN class="ft13">Fördraget den 12 juni 1985 om Konungariket Spaniens och Portugisiska republikens anslutning till Europeiska ekonomiska gemenskapen och Europeiska atomenergigemenskapen</SPAN></P>
+<P class="p67 ft2"><SPAN class="ft4">16.</SPAN><SPAN class="ft13">Beslutet av Europeiska gemenskapernas råd av den 11 juni 1985 om Konungariket Spaniens och Portugisiska republikens anslutning till Eu- ropeiska kol- och stålgemenskapen</SPAN></P>
+<P class="p75 ft2"><SPAN class="ft4">17.</SPAN><SPAN class="ft12">Europeiska enhetsakten den 17 och 28 februari 1986</SPAN></P>
+<P class="p76 ft2"><SPAN class="ft4">18.</SPAN><SPAN class="ft12">Fördraget den 7 februari 1992 om Europeiska unionen</SPAN></P>
+<P class="p66 ft2"><SPAN class="ft4">19.</SPAN><SPAN class="ft21">Fördraget den 24 juni 1994 om Konungariket Norges, Republiken Österrikes, Republiken Finlands och Konungariket Sveriges anslutning till Europeiska unionen</SPAN></P>
+<P class="p68 ft3"><SPAN class="ft4">20.</SPAN><SPAN class="ft33">Amsterdamfördraget den 2 oktober 1997 om ändring av Fördraget om Europeiska unionen, fördragen om upprättandet av Europeiska gemenskaperna och vissa akter som hör samman med dem, med förklaring av Sverige enligt artikel K 7.2 och K 7.3 b i Fördraget om Europeiska unionen i deras lydelse enligt Amsterdamfördraget</SPAN></P>
+<P class="p77 ft2"><SPAN class="ft4">21.</SPAN><SPAN class="ft13">Nicefördraget den 26 februari 2001 om ändring av Fördraget om Eu- ropeiska unionen, fördragen om upprättandet av Europeiska gemenskaperna och vissa akter som hör samman med dem</SPAN></P>
+<P class="p78 ft2">8</P>
+</DIV>
+</DIV>
+<DIV id="page_9">
+<DIV id="dimg1">
+<INGENBILD zsrc="GQ03979x1.jpg/" id="img1">
+</DIV>
+
+
+<P class="p59 ft2">22. Bilagor och protokoll som hör till de fördrag och andra instrument Prop. 2002/03:97 som anges i <NOBR>1-21.</NOBR></P>
+<P class="p79 ft2">Denna lag träder i kraft den dag regeringen bestämmer.</P>
+<P class="p80 ft2">9</P>
+</DIV>
+<DIV id="page_10">
+
+
+<P class="p81 ft2">Prop. 2002/03:97</P>
+<P class="p82 ft1">3 Ärendet och dess beredning</P>
+<P class="p83 ft34">EG:s regler om val till Europaparlamentet</P>
+<P class="p84 ft3">Den 15 juli 1998 antog Europaparlamentet en resolution (bilaga 1) om utarbetande av ett förslag till ett valsystem som omfattar gemensamma principer för val av Europaparlamentets ledamöter (EGT nr C 292, 21.9.1998, s. 66). Resolutionen, som efter antagandet överlämnades till bl.a. Europeiska unionens råd, antogs på grundval av f.d. artikel 138.3 i Fördraget om Europeiska gemenskapen <NOBR>(EG-fördraget),</NOBR> nuvarande artikel 190.4. Enligt denna artikel skall Europaparlamentet utarbeta ett förslag till allmänna direkta val enligt en i alla medlemsstater enhetlig ordning eller i enlighet med principer som är gemensamma för alla medlemsstater. Rådet skall därefter, efter samtycke från Europaparlamentet, enhälligt fastställa bestämmelser om detta och rekommendera medlemsstaterna att anta bestämmelserna i enlighet med sina respektive konstitutionella regler.</P>
+<P class="p85 ft35">Frågan om införande av ett valsystem som bygger på för medlemsstaterna gemensamma principer och som samtidigt ger medlemsstaterna möjlighet att i stor utsträckning tillämpa sina egna nationella bestämmelser vid val till Europaparlamentet, har alltsedan Europaparlamentets resolution antogs år 1998 förhandlats i rådet. Regeringen har vid sammanlagt fem tillfällen informerat riksdagspartierna om hur förhandlingarna har fortskridit. Den 23 maj 2002 nåddes slutligen en politisk överenskommelse i rådet om ändringar i den redan befintliga akten om allmänna direkta val av företrädare i Europaparlamentet (nedan kallad valrättsakten) som utgör en bilaga till beslut 76/787/EKSG, EEG, Euratom (EGT nr L 278, 8.10.1976, s. 1, bilaga 2). Europaparlamentet lämnade sitt samtycke till ändringsbeslutet den 12 juni 2002. Rådet antog beslutet 2002/772/EG, Euratom om ändringar den 25 juni och den 23 september 2002 (EGT nr L 283, 21.10.2002, s. 1, bilaga 3) och har uppmanat medlemsstaterna i EU att anta det i enlighet med sina respektive konstitutionella bestämmelser i så god tid att de nya reglerna kan tillämpas vid valet till Europaparlamentet år 2004.</P>
+<P class="p86 ft2">Ändringsbeslutet föranleder ändringar i vallagen (1997:157) och i lagen (1994:1500) med anledning av Sveriges anslutning till Europeiska unionen. Lagförslagen har arbetats fram i samarbete med Valmyndigheten.</P>
+<P class="p87 ft34">Redovisning av valsedlar som saknar partibeteckning</P>
+<P class="p84 ft11">I september 1999 beslutade regeringen direktiv till en parlamentariskt sammansatt kommitté med uppdrag att redovisa vissa frågor som rör regeringsformen (Ju 1999:13, dir. 1999:71). Utredningen antog namnet 1999 års författningsutredning. I mars 2000 fick författningsutredningen genom tilläggsdirektiv i uppdrag att utreda bl.a. vissa valfrågor (dir.</P>
+<P class="p88 ft2">10</P>
+</DIV>
+<DIV id="page_11">
+
+
+<P class="p59 ft2">2000:21). I uppdraget ingick att överväga vilken giltighet valsedlar som Prop. 2002/03:97 saknar partibeteckning, blanka valsedlar, skall ha.</P>
+<P class="p29 ft3">Författningsutredningen avgav i december 2001 delbetänkandet Of- fentliga valförberedelser (2001:99). Betänkandet omfattar bl.a. frågan vilken giltighet valsedlar som saknar partibeteckning skall ha. En sammanfattning av avsnittet om valsedlar som saknar partibeteckning finns i bilaga 4. De delar av utredningens författningsförslag som behandlas i denna proposition finns i bilaga 5.</P>
+<P class="p89 ft3">Betänkandet har remissbehandlats. En förteckning över remissinstanserna finns i bilaga 6. En sammanställning över yttrandena finns tillgänglig i Justitiedepartementet (dnr Ju/2001/8524).</P>
+<P class="p90 ft1"><SPAN class="ft1">4</SPAN><SPAN class="ft36">EG:s regler om val av ledamöter till Europaparlamentet</SPAN></P>
+<P class="p91 ft16"><SPAN class="ft2">4.1</SPAN><SPAN class="ft15">Valrättsakten</SPAN></P>
+<P class="p91 ft2"><SPAN class="ft4">4.1.1</SPAN><SPAN class="ft37">Bakgrund</SPAN></P>
+<P class="p92 ft11">Bindande <NOBR>EG-rättsliga</NOBR> bestämmelser om val av ledamöter till Europaparlamentet finns främst i valrättsakten från 1976 (se bilaga 2). Valrättsakten har hittills ändrats fyra gånger – i samtliga fall artikel 2 som innehåller en uppräkning av hur många företrädare i Europaparlamentet som skall väljas för respektive medlemsstat – och då med anledning av med att nya medlemmar har anslutit sig till unionen. Valrättsakten har antagits av samtliga medlemsstater i enlighet med deras respektive konstitutionella bestämmelser och ingår i det man brukar kalla EG:s primärrätt, d.v.s. den har status som fördrag. För svenskt vidkommande gäller att valrättsakten ingår i den uppräkning av olika gemenskapsrättsliga fördrag och andra instrument som finns i 4 § i lagen med anledning av Sveriges anslutning till Europeiska unionen (1994:1500).</P>
+<P class="p93 ft2"><SPAN class="ft4">4.1.2</SPAN><SPAN class="ft37">Nuvarande lydelse</SPAN></P>
+<P class="p94 ft2">Enligt artikel 1 skall valen vara direkta och rösträtten allmän. Ingen får rösta mer än en gång (artikel 8).</P>
+<P class="p89 ft3">Parlamentets mandattid är fem år (artikel 3.1). Valet skall förrättas under samma tidsperiod i hela unionen och den perioden skall börja en torsdag morgon och sluta närmast följande söndag (artikel 9.1). Det står medlemsstaterna fritt att välja valdag under tidsperioden. För det första direktvalet av ledamöter till parlamentet år 1979 valde rådet en viss tidsperiod i juni månad. Sedan den tidpunkten fastställts gäller den även för senare val (artikel 10.1). Om det skulle visa sig omöjligt att hålla kom-</P>
+<P class="p95 ft2">11</P>
+</DIV>
+<DIV id="page_12">
+
+
+<P class="p59 ft2">mande val under den tidsperioden skall rådet enhälligt bestämma en an- Prop. 2002/03:97 nan period som då måste infalla under tiden maj – juli (artikel 10.2).</P>
+<P class="p26 ft2">Det finns inga bestämmelser om förtidsröstning och rösträkningen får inte börja förrän röstningen i den sista medlemsstaten har avslutats (artikel 9.2).</P>
+<P class="p26 ft2">För det fall en plats blir vakant under mandatperioden, t.ex. genom att företrädaren har förlorat sin valbarhet, skall varje medlemsstat fastställa ett förfarande för hur platsen skall besättas för återstoden av mandatperioden (artikel 12.1).</P>
+<P class="p10 ft2">I valrättsakten finns vidare bestämmelser om vilka verksamheter som är förenliga (artikel 5) respektive oförenliga (artikel 6) med uppdraget som företrädare i Europaparlamentet samt om prövning av ledamöternas behörighet (artikel 11).</P>
+<P class="p10 ft2">Enligt artikel 5 är uppdraget som företrädare i Europaparlamentet förenligt med att vara ledamot av parlamentet i en medlemsstat.</P>
+<P class="p26 ft2">Enligt artikel 6 är uppdraget som företrädare i Europaparlamentet inte förenligt med att vara</P>
+<P class="p96 ft2"><SPAN class="ft4">–</SPAN><SPAN class="ft28">ledamot av regeringen i ett medlemsland,</SPAN></P>
+<P class="p27 ft2"><SPAN class="ft4">–</SPAN><SPAN class="ft28">ledamot av Europeiska gemenskapernas kommission,</SPAN></P>
+<P class="p26 ft2"><SPAN class="ft4">–</SPAN><SPAN class="ft12">domare, generaladvokat eller justitiesekreterare i Europeiska gemenskapernas domstol,</SPAN></P>
+<P class="p96 ft2"><SPAN class="ft4">–</SPAN><SPAN class="ft28">ledamot av Europeiska gemenskapernas revisionsrätt,</SPAN></P>
+<P class="p29 ft11"><SPAN class="ft4">–</SPAN><SPAN class="ft38">medlem av Rådgivande kommittén i Europeiska kol- och stålgemenskapen eller medlem av Ekonomiska och sociala kommittén i Europeiska ekonomiska gemenskaper och i Europeiska atomenergigemenskapen,</SPAN></P>
+<P class="p89 ft3"><SPAN class="ft4">–</SPAN><SPAN class="ft27">medlem av sådana kommittéer eller andra organ som har tillsatts enligt fördragen om upprättandet av Europeiska kol- och stålgemenskapen, Europeiska ekonomiska gemenskapen och Europeiska atomenergigemenskapen för att förvalta gemenskapernas medel eller för att utföra en permanent och direkt förvaltningsuppgift,</SPAN></P>
+<P class="p10 ft2"><SPAN class="ft4">–</SPAN><SPAN class="ft29">styrelseledamot, direktionsledamot eller anställd i Europeiska investeringsbanken, eller</SPAN></P>
+<P class="p26 ft2"><SPAN class="ft4">–</SPAN><SPAN class="ft29">tjänsteman eller annan anställd i aktiv tjänst inom Europeiska gemenskapernas institutioner eller till dessa knuta fackorgan.</SPAN></P>
+<P class="p97 ft16"><SPAN class="ft2">4.2</SPAN><SPAN class="ft15">Beslutet om ändring av valrättsakten</SPAN></P>
+<P class="p98 ft2"><SPAN class="ft4">4.2.1</SPAN><SPAN class="ft37">Bakgrund</SPAN></P>
+<P class="p92 ft3">Enligt artikel 138.3 i <NOBR>EG-fördraget</NOBR> i dess lydelse enligt Maastrichtfördraget skulle Europaparlamentet lägga fram förslag till en för alla medlemsländer enhetlig ordning för allmänna direkta val till Europaparlamentet. Något sådant förslag lades dock aldrig fram. För att underlätta framtagandet av ett förslag som hade förutsättningar att vinna medlemsstaternas gillande, gjordes genom Amsterdamfördraget ett tillägg till artikeln, nämligen att förslaget alternativt kan bygga på principer som är gemensamma för alla medlemsstater.</P>
+<P class="p99 ft2">12</P>
+</DIV>
+<DIV id="page_13">
+
+
+<DIV>
+<DIV id="id_1">
+<P class="p100 ft11">Mot denna bakgrund antog Europaparlamentet i juli 1998, alltså redan innan Amsterdamfördraget hade trätt i kraft, en resolution om utarbetandet av ett förslag till ett valsystem som omfattar gemensamma principer för val av Europaparlamentets ledamöter. Som ovan har nämnts har frågan om införande av ett valsystem som bygger på för medlemsländerna gemensamma principer och som samtidigt ger medlemsstaterna möjlighet att tillämpa sina egna nationella bestämmelser, härefter diskuterats i rådet. I maj 2002 kunde slutligen politisk enighet nås om ett förslag som innebär att valrättsakten ändras i flera hänseenden. Efter att Europaparlamentet lämnat sitt samtycke antog rådet den 25 juni 2002 beslutet 2002/772/EG, Euratom om ändring av valrättsakten. Den 23 september 2002 antog rådet den irländska språkversionen av ändringsbeslutet.</P>
+<P class="p101 ft2"><SPAN class="ft4">4.2.2</SPAN><SPAN class="ft37">Ändringsbeslutets innehåll</SPAN></P>
+<P class="p102 ft34">Inledning</P>
+<P class="p103 ft3">Enligt artikel 1.1 skall i titeln till och i resten av valrättsakten orden ”företrädare”, ”företrädare i Europaparlamentet” och ”företrädarna(s)” genomgående – med undantag av artikel 13 – ersättas med ”ledamot av Europaparlamentet”, ”ledamöter av Europaparlamentet” respektive ”Eu- ropaparlamentets ledamöter(s)”.</P>
+<P class="p104 ft34">Valsystemet karaktär</P>
+<P class="p103 ft11">Enligt artikel 1.2 skall nuvarande artikel 1 ersättas och i den nya artikelns första punkt slås fast att Europaparlamentets ledamöter skall väljas genom listval (valsedlar) eller ett förfarande med s.k. single transferable vote (STV), och att valsättet skall vara proportionellt. Enligt den andra punkten får medlemsstaterna tillåta listval med preferenslistor enligt bestämmelser som skall fastställas av respektive medlemsstat. I den tredje punkten stadgas att valen skall vara allmänna, direkta, fria och hemliga.</P>
+<P class="p105 ft11">Enligt artikel 1.3 skall nuvarande artikel 2 ersättas med tre nya artiklar, 2, 2a och 2b. Innehållet i nuvarande artikel 2 tas bort helt från valrättsakten eftersom motsvarande reglering – en uppräkning av hur många företrädare i Europaparlamentet som skall väljas för respektive medlemsstat</P>
+<P class="p106 ft11">– finns i artikel 190.2 i <NOBR>EG-fördraget.</NOBR> Enligt nya artikel 2 får medlemsstaterna upprätta valkretsar för val till Europaparlamentet eller föreskriva en indelning i andra enheter. Detta får dock inte inkräkta på valsystemets proportionella karaktär. Enligt nya artikel 2a får medlemsstaterna fastställa en lägsta tröskel för fördelning av mandaten. Tröskeln får dock inte sättas högre än fem procent av de avgivna rösterna på nationell nivå. I nya artikel 2 b stadgas att medlemsstaterna får fastställa ett tak för kandidaternas utgifter i samband med valkampanjer.</P>
+<P class="p107 ft2">Enligt artikel 1.4 skall första punkten i nuvarande artikel 3 utgå, övriga ändringar i artikeln är av språklig och redaktionell karaktär. Även ändringen i artikel 1.5 är av språklig karaktär.</P>
+</DIV>
+<DIV id="id_2">
+<P class="p31 ft2">Prop. 2002/03:97</P>
+<P class="p108 ft2">13</P>
+</DIV>
+</DIV>
+</DIV>
+<DIV id="page_14">
+
+
+<TABLE cellpadding=0 cellspacing=0 class="t9">
+<TR>
+	<TD class="tr7 td28"><SPAN class="p12 ft34">Behörighetskrav för ledamöter av Europaparlamentet</SPAN> </TD>
+	<TD class="tr7 td23"><SPAN class="p12 ft4">Prop. 2002/03:97</SPAN> </TD>
+</TR>
+</TABLE>
+<P class="p109 ft2">Enligt artikel 1.6 skall nuvarande artikel 5 – enligt vilken det är tillåtet att samtidigt vara ledamot av Europaparlamentet och av ett nationellt parlament – upphöra att gälla.</P>
+<P class="p110 ft11">Enligt artikel 1.7 a) skall det i första punkten i nuvarande artikel 6 göras ändringar – både tillägg och strykningar – i den lista över olika ämbeten och uppdrag som är oförenliga med att vara ledamot av Europaparlamentet. De ämbeten och uppdrag som skall läggas till är domare eller justitiesekreterare i Europeiska gemenskapernas förstainstansrätt, ledamot i Europeiska centralbankens direktion, <NOBR>EU-ombudsman,</NOBR> tjänsteman eller annan anställd i aktiv tjänst i organ som är knutna till Europeiska gemenskapernas institutioner, eller i Europeiska centralbanken. De som skall utgå är sådana som har anknytning till Europeiska kol- och stålgemenskapen som har upphört att gälla.</P>
+<P class="p111 ft2">Enligt artikel 1.7 b) skall det i en ny andra punkt i artikel 6 uttryckligen stadgas att från och med valet till Europaparlamentet år 2004 är uppdraget som ledamot av Europaparlamentet inte förenligt med uppdraget som ledamot av ett nationellt parlament. Från detta har dock, under en övergångsperiod, undantag gjorts för ledamöter av Irlands och Storbritanniens parlament.</P>
+<P class="p112 ft2">Ändringarna i artikel 1.7 c) och d) är av språklig och redaktionell karaktär.</P>
+<P class="p113 ft34">Nationella regler styr valet</P>
+<P class="p114 ft11">Enligt artikel 1.8 skall nuvarande artikel 7 ersättas och i den nya lydelsen slås fast att valförfarandet i varje medlemsstat skall genomföras enligt nationella bestämmelser om inget annat följer av bestämmelserna i valrättsakten. I de nationella bestämmelserna kan nationella särdrag beaktas men de får inte inkräkta på valsystemets proportionella karaktär.</P>
+<TABLE cellpadding=0 cellspacing=0 class="t10">
+<TR>
+	<TD class="tr3 td29"><SPAN class="p12 ft39">Tidpunkt för valet</SPAN> </TD>
+	<TD class="tr3 td30"><SPAN class="p12 ft6">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr0 td29"><SPAN class="p12 ft2">Ändringen i artikel 1.9 a) innebär ett förtydligande av nuvarande artikel</SPAN> </TD>
+	<TD class="tr0 td30"><SPAN class="p12 ft6">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr3 td29"><SPAN class="p12 ft2">9.1 på så sätt att det uttryckligen framgår att det är medlemsstaterna som</SPAN> </TD>
+	<TD class="tr3 td30"><SPAN class="p12 ft6">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr3 td29"><SPAN class="p12 ft2">bestämmer, inte bara på vilken dag i den aktuella perioden som valet</SPAN> </TD>
+	<TD class="tr3 td30"><SPAN class="p12 ft6">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr3 td29"><SPAN class="p12 ft2">skall hållas, utan också under vilken tid.</SPAN> </TD>
+	<TD class="tr3 td30"><SPAN class="p12 ft6">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr3 td29"><SPAN class="p115 ft2">Artikel 1.9 b) innebär att nuvarande artikel 9.2 ändras så att det blir</SPAN> </TD>
+	<TD class="tr3 td30"><SPAN class="p12 ft6">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr3 td29"><SPAN class="p12 ft2">möjligt för medlemsstaterna att omedelbart påbörja rösträkningen när det</SPAN> </TD>
+	<TD class="tr3 td30"><SPAN class="p12 ft6">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr6 td29"><SPAN class="p12 ft2">nationella valet har avslutats. Däremot får medlemsstaterna inte officiellt</SPAN> </TD>
+	<TD class="tr6 td30"><SPAN class="p12 ft6">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr3 td29"><SPAN class="p12 ft2">meddela sitt valresultat innan valet har avslutats i samtliga medlemssta-</SPAN> </TD>
+	<TD class="tr3 td30"><SPAN class="p12 ft6">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr3 td29"><SPAN class="p12 ft2">ter. Härutöver innebär ändringen att nuvarande artikel 9.3 utgår.</SPAN> </TD>
+	<TD class="tr3 td30"><SPAN class="p12 ft6">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr3 td29"><SPAN class="p115 ft2">Ändringen av nuvarande artikel 10.2, se artikel 1.10 b), innebär att rå-</SPAN> </TD>
+	<TD class="tr3 td30"><SPAN class="p12 ft6">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr3 td29"><SPAN class="p12 ft2">det – genom enhälligt beslut och efter att Europaparlamentet har hörts –</SPAN> </TD>
+	<TD class="tr3 td30"><SPAN class="p12 ft6">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr3 td29"><SPAN class="p12 ft2">kan besluta att valet skall hållas också i april månad. Enligt nuvarande</SPAN> </TD>
+	<TD class="tr3 td30"><SPAN class="p12 ft6">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr6 td29"><SPAN class="p12 ft2">lydelse kan valet hållas – förutom i juni – i maj eller juli. Ändringen in-</SPAN> </TD>
+	<TD class="tr6 td30"><SPAN class="p12 ft6">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr3 td29"><SPAN class="p12 ft2">nebär härutöver att rådets beslut att flytta valet måste fattas minst ett år</SPAN> </TD>
+	<TD class="tr3 td30"><SPAN class="p12 ft6">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr3 td29"><SPAN class="p12 ft2">före utgången av den femåriga valperioden.</SPAN> </TD>
+	<TD class="tr3 td30"><SPAN class="p12 ft6">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr3 td29"><SPAN class="p115 ft2">Ändringen i artikel 1.10 c) innebär att hänvisningen till Europeiska</SPAN> </TD>
+	<TD class="tr3 td30"><SPAN class="p12 ft6">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr3 td29"><SPAN class="p12 ft2">kol- och stålgemenskapen i artikel 10.3 tas bort samt att hänvisningen till</SPAN> </TD>
+	<TD rowspan=2 class="tr5 td30"><SPAN class="p13 ft2">14</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr8 td29"><SPAN class="p12 ft40">&nbsp;</SPAN> </TD>
+</TR>
+</TABLE>
+</DIV>
+<DIV id="page_15">
+<DIV id="dimg1">
+<INGENBILD zsrc="GQ039715x1.jpg/" id="img1">
+</DIV>
+
+
+<DIV>
+<DIV id="id_1">
+<P class="p116 ft2">Europeiska ekonomiska gemenskapen ändras till Europeiska gemenskapen. Övriga ändringar i artikel 1.10 är av språklig eller redaktionell karaktär.</P>
+<P class="p71 ft2">Ändringen i artikel 1.11 är en följd av övriga ändringar.</P>
+<P class="p113 ft34">Regler om ett mandats upphörande</P>
+<P class="p103 ft11">Enligt artikel 1.12 skall nuvarande artikel 12 ersättas med en ny artikel. I den första punkten i den nya artikeln stadgas att en plats blir vakant när mandatet för en ledamot av Europaparlamentet upphör på grund av att ledamoten begär sitt entledigande, avsätts eller avlider, eller på grund av att mandattiden löper ut. Enligt den andra punkten skall varje medlemsstat, om inte annat följer av övriga bestämmelser i valrättsakten, fastställa lämpliga förfaranden för hur en plats som blir vakant skall besättas under återstoden av valperioden. Om det uttryckligen i en medlemsstats lagstiftning fastställs när mandattiden för en ledamot löper ut skall, enligt den tredje punkten, dennes mandat upphöra i enlighet med bestämmelserna i denna lagstiftning. Enligt den fjärde punkten skall Europaparlamentets ordförande utan dröjsmål underrätta behöriga myndigheter i den berörda medlemsstaten om en plats blir vakant på grund av att en ledamot begär sitt entledigande, avsätts eller avlider.</P>
+<P class="p117 ft34">Slutbestämmelser</P>
+<P class="p118 ft2">Artikel 1.13 innebär att nuvarande artikel 14 upphör att gälla.</P>
+<P class="p119 ft2">Enligt artikel 1.14 skall nuvarande artikel 15 ersättas och i den nya artikeln anges på vilka ytterligare språk akten har upprättats. Övriga ändringar i artikel 1.14 och i artikel 1.15 och 1.16 reglerar vilka ändringar som görs beträffande de olika bilagorna.</P>
+<P class="p100 ft3">Enligt artikel 2.1 skall artiklarna i valrättsakten och dess bilagor omnumreras i enlighet med en till ändringsbeslutet bifogad tabell. Tabellen utgör en integrerad del av beslutet. Enligt artikel 2.2 och 2.3 skall hänvisningar till artiklar i valrättsakten och dess bilagor anpassas och tolkas som hänvisningar till akten i dess omnumrerade version.</P>
+<P class="p105 ft11">Enligt artikel 3 skall ändringarna i artiklarna 1 och 2 träda i kraft den första dagen i den månad som följer efter medlemsstaternas antagande av bestämmelserna i beslutet i enlighet med deras respektive konstitutionella bestämmelser. Medlemsstaterna skall till rådets generalsekretariat anmäla när de genomfört sina respektive nationella förfaranden.</P>
+<P class="p107 ft2">Enligt artikel 4 skall ändringsbeslutet offentliggöras i Europeiska gemenskapernas officiella tidning.</P>
+<P class="p120 ft2"><SPAN class="ft4">4.2.3</SPAN><SPAN class="ft37">Sveriges tillträde till beslutet om ändring av valrättsakten</SPAN></P>
+<P class="p121 ft2">Regeringens förslag: Riksdagen godkänner beslutet om ändring av valrättsakten.</P>
+<P class="p122 ft5">Skälen för regeringens förslag: Frågan om införande av ett valsystem som bygger på för medlemsländerna gemensamma principer och som</P>
+</DIV>
+<DIV id="id_2">
+<P class="p31 ft2">Prop. 2002/03:97</P>
+<P class="p108 ft2">15</P>
+</DIV>
+</DIV>
+</DIV>
+<DIV id="page_16">
+
+
+<P class="p123 ft2">samtidigt ger medlemsstaterna möjlighet att tillämpa sina egna nationella Prop. 2002/03:97 bestämmelser har, som ovan har nämnts, diskuterats i rådet sedan 1998.</P>
+<P class="p124 ft2">Resultatet av förhandlingarna innebär att valrättsakten ändras i flera viktiga avseenden.</P>
+<P class="p125 ft3">Den viktigaste ändringen innebär att medlemsstaternas företrädare i Europaparlamentet i framtiden kommer att väljas enligt principer som är gemensamma för alla medlemsländer. Så har inte varit fallet tidigare och den främsta förklaringen till det är att medlemsländerna vid val till Europaparlamentet har velat tillämpa ett valsätt som så långt som möjligt liknar det som används vid val till de nationella församlingarna. Att de direktvalda företrädarna nu kan att väljas enligt principer som är gemensamma för alla, samtidigt som det finns ett utrymme att tillämpa nationella regler, måste betraktas som en förbättring och ett framsteg för det europeiska samarbetet.</P>
+<P class="p126 ft11">Ytterligare en viktig ändring är att det nu blir förbjudet att samtidigt vara ledamot av ett nationellt parlament och av Europaparlamentet, något som alltså enligt nuvarande bestämmelser i valrättsakten uttryckligen är tillåtet. För svenskt vidkommande uttalades redan i samband med det första svenska valet till Europaparlamentet år 1995 att ”vart och ett av uppdragen som riksdagsledamot och företrädare i Europaparlamentet är emellertid i sig så betungande att dubbla mandat redan av den anledningen knappast kan komma i fråga. Man bör därför kunna räkna med att om en riksdagsledamot blir invald i Europaparlamentet, han eller hon frånträder uppdraget som riksdagsledamot” (prop. 1994/95:154, s. 32). Detta synsätt återspeglas nu alltså i ändringsbeslutet.</P>
+<P class="p126 ft11">Härtill kommer att ändringen innebär att det blir möjligt att hålla val till Europaparlamentet också i april månad. Nuvarande period, i mitten av juni, är för svenskt vidkommande olycklig såtillvida att skolornas sommarlov då har inletts och många har påbörjat sina sommarsemestrar. I det senaste valet till Europaparlamentet år 1999 uppgick t.ex. det svenska valdeltagandet till 38,8 % medan det genomsnittliga valdeltagandet i hela EU uppgick till 49,9 %. I rådet har det förts diskussioner om att flytta valet till i maj månad men någon enighet har hittills inte kunnat nås, främst på grund av svårigheterna att hitta en i samtliga länder helgfri period i maj. När det nu blir möjligt att hålla valet också i april ökar naturligtvis möjligheterna att nå enighet om att flytta valet.</P>
+<P class="p126 ft2">Det bör framhållas att ändringen endast innebär att det blir möjligt att hålla valet – förutom i maj, juni eller juli – också i april månad. Att flytta valet förutsätter som ovan har framgått, förutom att Europaparlamentet skall höras, ett enhälligt beslut i rådet. Ändringen innebär alltså ingen ändring i sak; valet till Europaparlamentet år 2004 kommer liksom tidigare val att hållas under en period i mitten av juni. Det svenska valet kommer att hållas söndagen den 13 juni.</P>
+<P class="p127 ft2">Det ankommer enligt 10 kap. 2 § regeringsformen på riksdagen att godkänna beslutet om ändring av valrättsakten. Enligt regeringens uppfattning finns, som framgår av det ovan anförda, goda skäl för Sverige att tillträda beslutet. Regeringen föreslår därför att riksdagen godkänner rådets beslut av den 25 juni 2002 och av den 23 september 2002 om ändring av valrättsakten.</P>
+<P class="p128 ft2">16</P>
+</DIV>
+<DIV id="page_17">
+
+
+<P class="p129 ft2">Ett tillträde till ändringsbeslutet föranleder ändringar i vallagen Prop. 2002/03:97 (1997:157) och i lagen (1994:1500) med anledning av Sveriges anslut-</P>
+<P class="p31 ft2">ning till Europeiska unionen.</P>
+<TABLE cellpadding=0 cellspacing=0 class="t11">
+<TR>
+	<TD colspan=2 class="tr1 td18"><SPAN class="p12 ft16">4.3</SPAN> </TD>
+	<TD colspan=2 class="tr1 td31"><SPAN class="p12 ft16">Ändring i vallagen (1997:157)</SPAN> </TD>
+	<TD class="tr1 td30"><SPAN class="p12 ft6">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr9 td32"><SPAN class="p12 ft41">&nbsp;</SPAN> </TD>
+	<TD colspan=2 class="tr9 td33"><SPAN class="p12 ft41">&nbsp;</SPAN> </TD>
+	<TD class="tr9 td34"><SPAN class="p12 ft41">&nbsp;</SPAN> </TD>
+	<TD class="tr9 td30"><SPAN class="p12 ft41">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr7 td35"><SPAN class="p12 ft6">&nbsp;</SPAN> </TD>
+	<TD colspan=2 class="tr6 td36"><SPAN class="p130 ft4">Regeringens förslag: Vallagen ändras på så sätt att uppdraget som le-</SPAN> </TD>
+	<TD class="tr7 td34"><SPAN class="p12 ft6">&nbsp;</SPAN> </TD>
+	<TD class="tr7 td30"><SPAN class="p12 ft6">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr3 td35"><SPAN class="p12 ft6">&nbsp;</SPAN> </TD>
+	<TD colspan=2 class="tr3 td37"><SPAN class="p130 ft5">damot av Europaparlamentet inte är förenligt med att vara ledamot av</SPAN> </TD>
+	<TD class="tr3 td34"><SPAN class="p12 ft6">&nbsp;</SPAN> </TD>
+	<TD class="tr3 td30"><SPAN class="p12 ft6">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr3 td35"><SPAN class="p12 ft6">&nbsp;</SPAN> </TD>
+	<TD colspan=2 class="tr3 td37"><SPAN class="p130 ft5">ett nationellt parlament, domare eller justitiesekreterare i Europeiska</SPAN> </TD>
+	<TD class="tr3 td34"><SPAN class="p12 ft6">&nbsp;</SPAN> </TD>
+	<TD class="tr3 td30"><SPAN class="p12 ft6">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr3 td35"><SPAN class="p12 ft6">&nbsp;</SPAN> </TD>
+	<TD colspan=2 class="tr3 td37"><SPAN class="p130 ft5">gemenskapernas förstainstansrätt, ledamot i Europeiska centralban-</SPAN> </TD>
+	<TD class="tr3 td34"><SPAN class="p12 ft6">&nbsp;</SPAN> </TD>
+	<TD class="tr3 td30"><SPAN class="p12 ft6">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr3 td35"><SPAN class="p12 ft6">&nbsp;</SPAN> </TD>
+	<TD colspan=2 class="tr3 td37"><SPAN class="p130 ft5">kens direktion, <NOBR>EU-ombudsman,</NOBR> tjänsteman eller annan anställd i ak-</SPAN> </TD>
+	<TD class="tr3 td34"><SPAN class="p12 ft6">&nbsp;</SPAN> </TD>
+	<TD class="tr3 td30"><SPAN class="p12 ft6">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr6 td35"><SPAN class="p12 ft6">&nbsp;</SPAN> </TD>
+	<TD colspan=2 class="tr6 td37"><SPAN class="p130 ft5">tiv tjänst i organ som är knutna till Europeiska gemenskapernas insti-</SPAN> </TD>
+	<TD class="tr6 td34"><SPAN class="p12 ft6">&nbsp;</SPAN> </TD>
+	<TD class="tr6 td30"><SPAN class="p12 ft6">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr10 td35"><SPAN class="p12 ft6">&nbsp;</SPAN> </TD>
+	<TD colspan=2 class="tr7 td38"><SPAN class="p130 ft2">tutioner, eller i Europeiska centralbanken.</SPAN> </TD>
+	<TD class="tr10 td34"><SPAN class="p12 ft6">&nbsp;</SPAN> </TD>
+	<TD class="tr10 td30"><SPAN class="p12 ft6">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr11 td32"><SPAN class="p12 ft6">&nbsp;</SPAN> </TD>
+	<TD colspan=3 class="tr11 td39"><SPAN class="p131 ft2">Skälen för regeringens förslag: Genom bestämmelserna i 18 kap.</SPAN> </TD>
+	<TD class="tr11 td30"><SPAN class="p12 ft6">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=4 class="tr3 td29"><SPAN class="p12 ft2">71 § vallagen genomförs valrättsaktens bestämmelser (artikel 6) om vilka</SPAN> </TD>
+	<TD class="tr3 td30"><SPAN class="p12 ft6">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=4 class="tr3 td29"><SPAN class="p12 ft2">ämbeten och uppdrag som är oförenliga med uppdraget som ledamot av</SPAN> </TD>
+	<TD class="tr3 td30"><SPAN class="p12 ft6">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=4 class="tr3 td29"><SPAN class="p12 ft2">Europaparlamentet. Reglerna syftar till att säkerställa att de som skall</SPAN> </TD>
+	<TD class="tr3 td30"><SPAN class="p12 ft6">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=4 class="tr6 td29"><SPAN class="p12 ft2">företräda väljarna i Europaparlamentet i vissa viktiga avseenden är opar-</SPAN> </TD>
+	<TD class="tr6 td30"><SPAN class="p12 ft6">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=4 class="tr3 td29"><SPAN class="p12 ft2">tiska och oberoende.</SPAN> </TD>
+	<TD class="tr3 td30"><SPAN class="p12 ft6">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr3 td32"><SPAN class="p12 ft6">&nbsp;</SPAN> </TD>
+	<TD colspan=3 class="tr3 td39"><SPAN class="p131 ft2">Som ovan har framgått görs genom beslutet om ändring av valrättsak-</SPAN> </TD>
+	<TD class="tr3 td30"><SPAN class="p12 ft6">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=4 class="tr3 td29"><SPAN class="p12 ft2">ten ändringar i fråga om vilka ämbeten och uppdrag som är oförenliga</SPAN> </TD>
+	<TD class="tr3 td30"><SPAN class="p12 ft6">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=4 class="tr3 td29"><SPAN class="p12 ft2">med att vara ledamot av Europaparlamentet; några uppdrag och ämbeten</SPAN> </TD>
+	<TD class="tr3 td30"><SPAN class="p12 ft6">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=4 class="tr6 td29"><SPAN class="p12 ft2">tillkommer, några tas bort. De som tillkommer är ledamot av ett natio-</SPAN> </TD>
+	<TD class="tr6 td30"><SPAN class="p12 ft6">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=4 class="tr3 td29"><SPAN class="p12 ft2">nellt parlament, domare eller justitiesekreterare i Europeiska gemenska-</SPAN> </TD>
+	<TD class="tr3 td30"><SPAN class="p12 ft6">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=4 class="tr3 td29"><SPAN class="p12 ft2">pernas förstainstansrätt, ledamot i Europeiska centralbankens direktion,</SPAN> </TD>
+	<TD class="tr3 td30"><SPAN class="p12 ft6">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=4 class="tr3 td29"><SPAN class="p12 ft2"><NOBR>EU-ombudsman,</NOBR> tjänsteman eller annan anställd i aktiv tjänst i organ</SPAN> </TD>
+	<TD class="tr3 td30"><SPAN class="p12 ft6">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=4 class="tr3 td29"><SPAN class="p12 ft2">som är knutna till Europeiska gemenskapernas institutioner, eller i Euro-</SPAN> </TD>
+	<TD class="tr3 td30"><SPAN class="p12 ft6">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=4 class="tr3 td29"><SPAN class="p12 ft2">peiska centralbanken. De uppdrag och ämbeten som tas bort är sådana</SPAN> </TD>
+	<TD class="tr3 td30"><SPAN class="p12 ft6">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=4 class="tr3 td29"><SPAN class="p12 ft2">som har anknytning till Europeiska kol- och stålgemenskapen som har</SPAN> </TD>
+	<TD class="tr3 td30"><SPAN class="p12 ft6">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=4 class="tr6 td29"><SPAN class="p12 ft2">upphört att gälla.</SPAN> </TD>
+	<TD class="tr6 td30"><SPAN class="p12 ft6">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr3 td32"><SPAN class="p12 ft6">&nbsp;</SPAN> </TD>
+	<TD colspan=3 class="tr3 td39"><SPAN class="p131 ft2">Beslutet om ändring av valrättsakten föranleder således ändringar i</SPAN> </TD>
+	<TD class="tr3 td30"><SPAN class="p12 ft6">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=4 class="tr3 td29"><SPAN class="p12 ft2">18 kap. 71 § vallagen på så sätt att de nya oförenliga ämbetena och upp-</SPAN> </TD>
+	<TD class="tr3 td30"><SPAN class="p12 ft6">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=4 class="tr3 td29"><SPAN class="p12 ft2">dragen bör läggas till i bestämmelsen medan de ämbeten och uppdrag</SPAN> </TD>
+	<TD class="tr3 td30"><SPAN class="p12 ft6">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=4 class="tr3 td29"><SPAN class="p12 ft2">som har anknytning till Europeiska kol- och stålgemenskapen bör tas</SPAN> </TD>
+	<TD class="tr3 td30"><SPAN class="p12 ft6">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=2 class="tr3 td18"><SPAN class="p12 ft2">bort.</SPAN> </TD>
+	<TD class="tr3 td40"><SPAN class="p12 ft6">&nbsp;</SPAN> </TD>
+	<TD class="tr3 td34"><SPAN class="p12 ft6">&nbsp;</SPAN> </TD>
+	<TD class="tr3 td30"><SPAN class="p12 ft6">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr6 td32"><SPAN class="p12 ft6">&nbsp;</SPAN> </TD>
+	<TD colspan=3 class="tr6 td39"><SPAN class="p131 ft2">Det svenska genomförandet av den aktuella bestämmelsen i valrättsak-</SPAN> </TD>
+	<TD class="tr6 td30"><SPAN class="p12 ft6">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=4 class="tr3 td29"><SPAN class="p12 ft2">ten ändrades nyligen, den 1 april 2002 (prop. 2001/02:53, bet.</SPAN> </TD>
+	<TD class="tr3 td30"><SPAN class="p12 ft6">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=4 class="tr3 td29"><SPAN class="p12 ft2">2001/02:KU8, rskr. 2001/02:147). Lagändringarna var föranledda av ett</SPAN> </TD>
+	<TD class="tr3 td30"><SPAN class="p12 ft6">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=4 class="tr3 td29"><SPAN class="p12 ft2">avgörande i Valprövningsnämnden (beslut den 15 juli 1999, dnr 1999:4)</SPAN> </TD>
+	<TD class="tr3 td30"><SPAN class="p12 ft6">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=4 class="tr3 td29"><SPAN class="p12 ft2">som gällde frågan när dåvarande statsrådet Schori, som kandiderade till</SPAN> </TD>
+	<TD class="tr3 td30"><SPAN class="p12 ft6">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=4 class="tr3 td29"><SPAN class="p12 ft2">Europaparlamentet vid valet år 1999, senast behövde lämna regeringen</SPAN> </TD>
+	<TD class="tr3 td30"><SPAN class="p12 ft6">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=4 class="tr6 td29"><SPAN class="p12 ft2">för att vara valbar i Europaparlamentsvalet. Valprövningsnämnden fann</SPAN> </TD>
+	<TD class="tr6 td30"><SPAN class="p12 ft6">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=4 class="tr3 td29"><SPAN class="p12 ft2">att det enligt vallagen var förhållandena på valdagen som avgjorde om en</SPAN> </TD>
+	<TD class="tr3 td30"><SPAN class="p12 ft6">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=4 class="tr3 td29"><SPAN class="p12 ft2">kandidat var valbar eller inte, men att den avgörande tidpunkten enligt</SPAN> </TD>
+	<TD class="tr3 td30"><SPAN class="p12 ft6">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=4 class="tr3 td29"><SPAN class="p12 ft2">valrättsaktens bestämmelser om med uppdraget oförenliga ämbeten eller</SPAN> </TD>
+	<TD class="tr3 td30"><SPAN class="p12 ft6">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=4 class="tr3 td29"><SPAN class="p12 ft2">uppdrag inträder först i och med att den valde tillträder sitt uppdrag i Eu-</SPAN> </TD>
+	<TD class="tr3 td30"><SPAN class="p12 ft6">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=4 class="tr3 td29"><SPAN class="p12 ft2">ropaparlamentet. 2002 års lagändringar innebär att den som kandiderar i</SPAN> </TD>
+	<TD class="tr3 td30"><SPAN class="p12 ft6">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=4 class="tr6 td29"><SPAN class="p12 ft2">valet till Europaparlamentet och som samtidigt innehar ett ämbete eller</SPAN> </TD>
+	<TD class="tr6 td30"><SPAN class="p12 ft6">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=4 class="tr3 td29"><SPAN class="p12 ft2">uppdrag som är oförenligt med uppdraget som ledamot i Europaparla-</SPAN> </TD>
+	<TD rowspan=2 class="tr1 td30"><SPAN class="p13 ft2">17</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr12 td32"><SPAN class="p12 ft42">&nbsp;</SPAN> </TD>
+	<TD class="tr12 td41"><SPAN class="p12 ft42">&nbsp;</SPAN> </TD>
+	<TD class="tr12 td40"><SPAN class="p12 ft42">&nbsp;</SPAN> </TD>
+	<TD class="tr12 td34"><SPAN class="p12 ft42">&nbsp;</SPAN> </TD>
+</TR>
+</TABLE>
+</DIV>
+<DIV id="page_18">
+
+
+<P class="p132 ft2">mentet inte behöver frånträda sitt ämbete eller uppdrag förrän han eller Prop. 2002/03:97 hon tillträder uppdraget i Europaparlamentet. Regeringens nu lagda för-</P>
+<P class="p31 ft2">slag innebär naturligtvis inte någon ändring i detta avseende.</P>
+<P class="p110 ft2">Enligt den inledande artikeln i ändringsbeslutet (artikel 1.1) skall bl.a. orden ”företrädare i Europaparlamentet” ersättas med ”ledamot av Europaparlamentet”. I vallagen används genomgående och i ett flertal paragrafer uttrycket ”företrädare” i Europaparlamentet. Mot bakgrund av att regeringen nyligen har beslutat direktiv till en parlamentariskt sammansatt kommitté med uppdrag att lämna förslag till en helt ny vallag (dir. 2003:37), lägger regeringen inte nu fram något förslag till ändring av vallagen i aktuellt hänseende.</P>
+<TABLE cellpadding=0 cellspacing=0 class="t12">
+<TR>
+	<TD colspan=2 class="tr13 td18"><SPAN class="p12 ft16">4.4</SPAN> </TD>
+	<TD colspan=2 class="tr13 td31"><SPAN class="p12 ft16">Ändring i lagen (1994:1500) med anledning av Sve-</SPAN> </TD>
+	<TD class="tr13 td30"><SPAN class="p12 ft6">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr7 td32"><SPAN class="p12 ft6">&nbsp;</SPAN> </TD>
+	<TD class="tr7 td41"><SPAN class="p12 ft6">&nbsp;</SPAN> </TD>
+	<TD colspan=2 class="tr7 td31"><SPAN class="p12 ft43">riges anslutning till Europeiska unionen</SPAN> </TD>
+	<TD class="tr7 td30"><SPAN class="p12 ft6">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr14 td32"><SPAN class="p12 ft44">&nbsp;</SPAN> </TD>
+	<TD colspan=2 class="tr14 td33"><SPAN class="p12 ft44">&nbsp;</SPAN> </TD>
+	<TD class="tr14 td34"><SPAN class="p12 ft44">&nbsp;</SPAN> </TD>
+	<TD class="tr14 td30"><SPAN class="p12 ft44">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr7 td35"><SPAN class="p12 ft6">&nbsp;</SPAN> </TD>
+	<TD colspan=2 class="tr6 td36"><SPAN class="p133 ft4">Regeringens förslag: Rådets beslut 2002/772/EG, Euratom av den 25</SPAN> </TD>
+	<TD class="tr7 td34"><SPAN class="p12 ft6">&nbsp;</SPAN> </TD>
+	<TD class="tr7 td30"><SPAN class="p12 ft6">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr3 td35"><SPAN class="p12 ft6">&nbsp;</SPAN> </TD>
+	<TD colspan=2 class="tr3 td37"><SPAN class="p133 ft4">juni 2002 och av den 23 september 2002 om ändring av akten om all-</SPAN> </TD>
+	<TD class="tr3 td34"><SPAN class="p12 ft6">&nbsp;</SPAN> </TD>
+	<TD class="tr3 td30"><SPAN class="p12 ft6">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr6 td35"><SPAN class="p12 ft6">&nbsp;</SPAN> </TD>
+	<TD colspan=2 class="tr6 td37"><SPAN class="p134 ft5">männa direkta val av företrädare i Europaparlamentet, som utgör en</SPAN> </TD>
+	<TD class="tr6 td34"><SPAN class="p12 ft6">&nbsp;</SPAN> </TD>
+	<TD class="tr6 td30"><SPAN class="p12 ft6">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr3 td35"><SPAN class="p12 ft6">&nbsp;</SPAN> </TD>
+	<TD colspan=2 class="tr3 td37"><SPAN class="p133 ft5">bilaga till beslut 76/787/EKSG, EEG, Euratom, läggs till i punkten 11</SPAN> </TD>
+	<TD class="tr3 td34"><SPAN class="p12 ft6">&nbsp;</SPAN> </TD>
+	<TD class="tr3 td30"><SPAN class="p12 ft6">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr3 td35"><SPAN class="p12 ft6">&nbsp;</SPAN> </TD>
+	<TD colspan=2 class="tr3 td37"><SPAN class="p133 ft5">i förteckningen över fördrag och andra instrument i 4 § anslutningsla-</SPAN> </TD>
+	<TD class="tr3 td34"><SPAN class="p12 ft6">&nbsp;</SPAN> </TD>
+	<TD class="tr3 td30"><SPAN class="p12 ft6">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr3 td35"><SPAN class="p12 ft6">&nbsp;</SPAN> </TD>
+	<TD class="tr3 td41"><SPAN class="p130 ft2">gen.</SPAN> </TD>
+	<TD class="tr3 td42"><SPAN class="p12 ft6">&nbsp;</SPAN> </TD>
+	<TD class="tr3 td34"><SPAN class="p12 ft6">&nbsp;</SPAN> </TD>
+	<TD class="tr3 td30"><SPAN class="p12 ft6">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr15 td35"><SPAN class="p12 ft45">&nbsp;</SPAN> </TD>
+	<TD colspan=2 class="tr16 td38"><SPAN class="p12 ft46">&nbsp;</SPAN> </TD>
+	<TD class="tr15 td34"><SPAN class="p12 ft45">&nbsp;</SPAN> </TD>
+	<TD class="tr15 td30"><SPAN class="p12 ft45">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr11 td32"><SPAN class="p12 ft6">&nbsp;</SPAN> </TD>
+	<TD colspan=3 class="tr11 td39"><SPAN class="p131 ft2">Skälen för regeringens förslag: I Sverige tillämpas den principen att</SPAN> </TD>
+	<TD class="tr11 td30"><SPAN class="p12 ft6">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=4 class="tr6 td29"><SPAN class="p135 ft2">ett internationellt avtal som Sverige har tillträtt inte omedelbart blir en</SPAN> </TD>
+	<TD class="tr6 td30"><SPAN class="p12 ft6">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=4 class="tr3 td29"><SPAN class="p135 ft4">del av den svenska rätten, utan på ett eller annat sätt måste införlivas med</SPAN> </TD>
+	<TD class="tr3 td30"><SPAN class="p12 ft6">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=4 class="tr3 td29"><SPAN class="p135 ft5">svensk rätt för att bli gällande inför svenska domstolar och andra myn-</SPAN> </TD>
+	<TD class="tr3 td30"><SPAN class="p12 ft6">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=4 class="tr3 td29"><SPAN class="p135 ft4">digheter. En sådan metod är inkorporering. Inkorporering innebär att det</SPAN> </TD>
+	<TD class="tr3 td30"><SPAN class="p12 ft6">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=4 class="tr3 td29"><SPAN class="p135 ft5">i en lag eller annan författning anges att det internationella avtalet eller</SPAN> </TD>
+	<TD class="tr3 td30"><SPAN class="p12 ft6">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=4 class="tr3 td29"><SPAN class="p135 ft2">delar av det skall gälla i Sverige. Detta innebär i sin tur att avtalsbe-</SPAN> </TD>
+	<TD class="tr3 td30"><SPAN class="p12 ft6">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=4 class="tr6 td29"><SPAN class="p135 ft4">stämmelserna, utan att omarbetas, överförs till svensk rätt och blir direkt</SPAN> </TD>
+	<TD class="tr6 td30"><SPAN class="p12 ft6">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=4 class="tr3 td29"><SPAN class="p135 ft5">tillämpliga som svensk författningstext. En annan metod är transforme-</SPAN> </TD>
+	<TD class="tr3 td30"><SPAN class="p12 ft6">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=4 class="tr3 td29"><SPAN class="p135 ft4">ring. Denna metod innebär att det internationella avtalet eller delar av det</SPAN> </TD>
+	<TD class="tr3 td30"><SPAN class="p12 ft6">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=4 class="tr3 td29"><SPAN class="p12 ft2">omarbetas till svensk författningstext.</SPAN> </TD>
+	<TD class="tr3 td30"><SPAN class="p12 ft6">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr3 td32"><SPAN class="p12 ft6">&nbsp;</SPAN> </TD>
+	<TD colspan=3 class="tr3 td39"><SPAN class="p131 ft2">Mot bakgrund av detta dualistiska synsätt i Sverige på förhållandet</SPAN> </TD>
+	<TD class="tr3 td30"><SPAN class="p12 ft6">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=4 class="tr3 td29"><SPAN class="p135 ft4">mellan svensk rätt och traktaträtt ansågs det krävas någon form av natio-</SPAN> </TD>
+	<TD class="tr3 td30"><SPAN class="p12 ft6">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=4 class="tr6 td29"><SPAN class="p135 ft5">nell lagstiftning för att 1994 års anslutningsfördrag skulle kunna införli-</SPAN> </TD>
+	<TD class="tr6 td30"><SPAN class="p12 ft6">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=4 class="tr3 td29"><SPAN class="p135 ft4">vas med svensk rätt (prop. 1994/95:19, del 1, s. 500). Övergripande be-</SPAN> </TD>
+	<TD class="tr3 td30"><SPAN class="p12 ft6">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=4 class="tr3 td29"><SPAN class="p135 ft2">stämmelser om Sveriges anslutning har därför tagits in i lagen</SPAN> </TD>
+	<TD class="tr3 td30"><SPAN class="p12 ft6">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=4 class="tr3 td29"><SPAN class="p135 ft5">(1994:1500) med anledning av Sveriges anslutning till Europeiska unio-</SPAN> </TD>
+	<TD class="tr3 td30"><SPAN class="p12 ft6">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=4 class="tr3 td29"><SPAN class="p135 ft5">nen, den s.k. anslutningslagen. I anslutningslagen föreskrivs att anslut-</SPAN> </TD>
+	<TD class="tr3 td30"><SPAN class="p12 ft6">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=4 class="tr3 td29"><SPAN class="p135 ft5">ningsfördraget och de grundläggande fördragen m.m. gäller här i landet</SPAN> </TD>
+	<TD class="tr3 td30"><SPAN class="p12 ft6">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=4 class="tr6 td29"><SPAN class="p135 ft5">med den verkan som följer av fördragen (2 §). Vidare föreskrivs i 3 § i</SPAN> </TD>
+	<TD class="tr6 td30"><SPAN class="p12 ft6">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=4 class="tr3 td29"><SPAN class="p135 ft5">lagen att gemenskapens beslut gäller här i landet i den omfattning och</SPAN> </TD>
+	<TD class="tr3 td30"><SPAN class="p12 ft6">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=4 class="tr3 td29"><SPAN class="p135 ft4">med den verkan som följer av bl.a. de fördrag som anges i 4 §. I 4 § räk-</SPAN> </TD>
+	<TD class="tr3 td30"><SPAN class="p12 ft6">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=4 class="tr3 td29"><SPAN class="p135 ft5">nas de fördrag och andra instrument upp som avses i 2 och 3 §§ och i</SPAN> </TD>
+	<TD class="tr3 td30"><SPAN class="p12 ft6">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=4 class="tr3 td29"><SPAN class="p135 ft5">punkten 11 anges valrättsakten. Mot denna bakgrund bör paragrafen nu</SPAN> </TD>
+	<TD class="tr3 td30"><SPAN class="p12 ft6">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=4 class="tr3 td29"><SPAN class="p135 ft5">ändras genom att rådets beslut 2002/772/EG, Euratom av den 25 juni</SPAN> </TD>
+	<TD class="tr3 td30"><SPAN class="p12 ft6">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=4 class="tr3 td29"><SPAN class="p135 ft4">2002 och av den 23 september 2002 läggs till i punkten 11. Detta innebär</SPAN> </TD>
+	<TD class="tr3 td30"><SPAN class="p12 ft6">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=4 class="tr6 td29"><SPAN class="p135 ft5">att beslutet införlivas med svensk rätt och blir gällande här i landet. Det</SPAN> </TD>
+	<TD class="tr6 td30"><SPAN class="p12 ft6">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=4 class="tr3 td29"><SPAN class="p135 ft5">bör framhållas att lagändringen närmast är av redaktionell karaktär och</SPAN> </TD>
+	<TD rowspan=2 class="tr17 td30"><SPAN class="p13 ft2">18</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr18 td32"><SPAN class="p12 ft47">&nbsp;</SPAN> </TD>
+	<TD class="tr18 td41"><SPAN class="p12 ft47">&nbsp;</SPAN> </TD>
+	<TD class="tr18 td40"><SPAN class="p12 ft47">&nbsp;</SPAN> </TD>
+	<TD class="tr18 td34"><SPAN class="p12 ft47">&nbsp;</SPAN> </TD>
+</TR>
+</TABLE>
+</DIV>
+<DIV id="page_19">
+<DIV id="dimg1">
+<INGENBILD zsrc="GQ039719x1.jpg/" id="img1">
+</DIV>
+
+
+<P class="p59 ft2">att beslutet om ändringar i valrättsakten inte förutsätter någon överlåtelse Prop. 2002/03:97 av beslutanderätt till EG.</P>
+<P class="p29 ft11">De lagändringar som är föranledda av beslutet om ändringar i valrättsakten skall träda i kraft vid ändringsbeslutets ikraftträdande. Enligt artikel 3 i beslutet skall ändringarna i artiklarna 1 och 2 få verkan den första dagen i den månad som följer efter medlemsstaternas antagande av bestämmelserna i beslutet i enlighet med deras respektive konstitutionella bestämmelser. Vidare skall medlemsstaterna anmäla till rådets generalsekretariat när de har genomfört respektive nationella förfaranden.</P>
+<P class="p89 ft3">Det kan inte nu förutses när samtliga förutsättningar för ikraftträdande av ändringsbeslutet är uppfyllda. Det bör därför ankomma på regeringen att bevaka detta och besluta när lagändringarna skall träda i kraft.</P>
+<P class="p136 ft1"><SPAN class="ft1">5</SPAN><SPAN class="ft36">Redovisning av valsedlar som saknar partibeteckning</SPAN></P>
+<P class="p137 ft16"><SPAN class="ft2">5.1</SPAN><SPAN class="ft15">Bakgrund</SPAN></P>
+<P class="p138 ft3">Den fria nomineringsrätten är en central princip i det svenska valsystemet. Enligt den fria nomineringsrätten har väljarna möjlighet att kort tid före ett val bilda ett nytt parti. För att det skall vara möjligt för väljarna att rösta på det nya partiet skall det enligt 9 kap. 12 § vallagen i varje röstningslokal finnas blanka valsedlar som väljarna kan skriva till partiets beteckning och dess kandidater på. En blank valsedel utan tillskriven partibeteckning är emellertid ogiltig enligt 18 kap. 10 § vallagen. Sådana valsedlar redovisas inte särskilt i den offentliga valstatistiken utan ingår i gruppen “ogiltiga valsedlar“. I riksdagsvalen år 1998 och 2002 uppgick antalet ogiltiga valsedlar till omkring 113 500 respektive 82 200. Enligt Valmyndigheten var minst 99 procent av dessa ogiltiga på grund av att de saknade partibeteckning.</P>
+<P class="p85 ft3">I den allmänna debatten har det framförts krav på att de valsedlar som saknar partibeteckning skall betraktas som giltiga eller att de i vart fall skall redovisas särskilt. Grunden för detta är att man anser att den väljare som röstat blankt utfört en aktiv valhandling för att ge uttryck för sitt missnöje med det politiska systemet. Det har också föreslagits att valsedlar som saknar partibeteckning skulle kunna ingå i underlaget för att bestämma olika spärrnivåer, t.ex. spärren mot små partier i riksdagsval eller spärren för tilldelning och utläggning av fria valsedlar.</P>
+<P class="p139 ft16"><SPAN class="ft2">5.2</SPAN><SPAN class="ft15">Överväganden</SPAN></P>
+<P class="p140 ft2">Regeringens förslag: Valsedlar utan partibeteckning skall redovisas i den offentliga valstatistiken.</P>
+<P class="p141 ft2">Utredningens förslag överensstämmer i huvudsak med regeringens.</P>
+<P class="p142 ft2">19</P>
+</DIV>
+<DIV id="page_20">
+
+
+<DIV>
+<DIV id="id_1">
+<P class="p38 ft3">Remissinstanserna har inte haft något att erinra mot förslaget. Valmyndigheten och Länsstyrelsen i Skåne län har haft synpunkter på den lagtekniska utformningen av förslaget. Statsvetenskapliga institutionen vid Uppsala universitet har anfört att valsedlar utan partibeteckning bör betraktas som giltiga och därmed påverka mandatspärren <NOBR>(4%-spärren)</NOBR> men däremot inte mandatfördelningen.</P>
+<P class="p143 ft11">Skälen för regeringens förslag: Vårt valsystem är utformat på ett sådant sätt att den väljare som genom att rösta vill ge uttryck för ett missnöje med det befintliga politiska systemet har två olika alternativ att välja emellan; antingen kan väljaren rösta blankt, dvs. använda en valsedel utan partibeteckning, eller också kan väljaren på den blanka valsedeln ange en påhittad partibeteckning av typen ”Kalle <NOBR>Anka-partiet”.</NOBR> I det förra fallet är valsedeln ogiltig, i det sistnämnda är den giltig.</P>
+<P class="p144 ft11">För att folkstyrelsen skall kunna behålla en hög legitimitet bland medborgarna är det viktigt att missnöjessignaler av det aktuella slaget fångas upp och tas om hand av valsystemet. Detta är särskilt viktigt när det gäller valsedlar utan partibeteckning eftersom dessa vid de senaste valen har uppgått till ett betydande antal och många väljare dessutom synes ha gjort ett både aktivt och seriöst val då de röstat blankt.</P>
+<P class="p145 ft2">1999 års författningsutredning har i delbetänkandet (s. 53 f.) redogjort för vilka konsekvenserna skulle ha blivit om de blanka valsedlarna i 1998 års val hade betraktats som giltiga. Enligt de av utredningen redovisade uppgifterna skulle sammanlagt 15 mandat ha blivit obesatta i sju landstingsfullmäktige och sammanlagt 234 mandat skulle ha blivit obesatta i 205 kommunfullmäktige, d.v.s. det skulle ha lett till ett flertal tomma stolar.</P>
+<P class="p143 ft11">Utredningen har också redovisat vilka konsekvenserna skulle ha blivit om de blanka valsedlarna hade ingått i underlaget för att bestämma olika spärrnivåer, t.ex. spärren mot små partier i riksdagsval eller spärren för tilldelning av fria valsedlar. Enligt de redovisade uppgifterna skulle de blanka valsedlarna inte ha förändrat valresultatet om de hade ingått i underlaget för att bestämma spärrnivån för representation i riksdag eller landstingsfullmäktige. De blanka valsedlarna skulle däremot ha fått betydelse om de hade ingått i underlaget för att bestämma spärrnivån för tilldelning av fria valsedlar vid riksdagsvalet år 2002 och vid 1999 års val till Europaparlamentet. Staten svarar nämligen för kostnaden för valsedlar till partier som vid något av de senaste två valen till dessa församlingar har erhållit mer än en procent av rösterna i hela landet (6 kap. 8 och 10 §§ vallagen). Vid 1998 års riksdagsval överskred Sveriges Pensionärers Intresseparti – SPI den aktuella spärren med endast 257 röster. I valet förekom, som tidigare har framgått, enligt Valmyndigheten mer än 100 000 blanka valsedlar. Detta parti skulle alltså inte ha kvalificerat sig för tilldelning och utläggning av fria valsedlar vid riksdagsvalet år 2002 om valsedlar utan partibeteckning hade ingått i underlaget för att bestämma den aktuella spärrnivån. Vid 1995 års val till Europaparlamentet låg partiet <NOBR>Sarajevo-Listan</NOBR> endast 43 röster över spärren. Antalet ogiltiga röster i detta val uppgick till 59 077. Inte heller detta parti torde alltså ha kvalificerat sig för tilldelning och utläggning av fria valsedlar vid valet till Europaparlamentet år 1999 om valsedlar utan partibeteckning hade ingått i underlaget för att bestämma spärrnivån.</P>
+</DIV>
+<DIV id="id_2">
+<P class="p146 ft2">Prop. 2002/03:97</P>
+<P class="p108 ft2">20</P>
+</DIV>
+</DIV>
+</DIV>
+<DIV id="page_21">
+
+
+<P class="p147 ft2">Det svenska valsystemet bygger på den uttalade förutsättningen att väl- Prop. 2002/03:97 jarna vid val röstar på ett parti och att de har möjlighet att avge en sär-</P>
+<P class="p148 ft11">skild personröst, 3 kap. 7 § regeringsformen. Ytterligare en grundläggande förutsättning för valsystemet är att det är de politiska partierna som skall bära upp verksamheten i de valda församlingarna. Det representativa styrelseskicket bygger med andra ord på att väljarna vid val till dessa församlingar röstar fram ledamöter som företräder ett parti. En ordning som innebär att valsedlar utan partibeteckning får delta vid mandatfördelningen eller att de på annat sätt tillåts påverka valsystemets spärrnivåer skulle strida mot dessa grunder.</P>
+<P class="p89 ft3">Mot denna bakgrund delar regeringen författningsutredningens uppfattning att valsedlar utan partibeteckning även i fortsättningen bör vara ogiltiga och att de inte heller bör tillåtas påverka de olika spärrnivåerna i valsystemet. I stället bör, på det sätt som utredningen har föreslagit, valsedlar som saknar partibeteckning redovisas särskilt i den offentliga valstatistiken. Detta förutsätter naturligtvis att de valsedlar som saknar partibeteckning också räknas, i vart fall av länsstyrelsen som skall göra den slutliga sammanräkningen av valresultatet.</P>
+<P class="p85 ft3">Som ovan har nämnts kan väljare som önskar ge uttryck för ett missnöje med det befintliga politiska systemet, förutom att rösta blankt, också välja att på en blank valsedel ange en påhittad partibeteckning av typen ”Kalle <NOBR>Anka-partiet”.</NOBR> I riksdagsvalet år 1998 förekom omkring 4 400 valsedlar med påhittade partibeteckningar och till skillnad från valsedlar som helt saknar partibeteckning, är sådana valsedlar, med nuvarande utformning av partibegreppet i regeringsformen, giltiga. Bl.a. för att göra det möjligt att särskilja sådan proteströstning från röster på partier som verkligen eftersträvar representation i den församling valet avser, har 1999 års författningsutredning föreslagit att det skall införas ett system med offentliga valförberedelser som innebär att de partier som önskar delta i allmänna val måste anmäla detta senast en viss tid före valet. Ut- redningens förslag om offentliga valförberedelser har fått ett i huvudsak positivt mottagande av remissinstanserna (dnr. Ju/2001/8524). Ett flertal remissinstanser har dock haft synpunkter på den lagtekniska utformningen. Regeringen har därför beslutat att den parlamentariskt sammansatta kommitté som nyligen har fått i uppdrag att lämna förslag till en helt ny vallag på nytt skall överväga frågan om införande av offentliga valförberedelser (dir. 2003:37).</P>
+<P class="p149 ft1">6 Ekonomiska konsekvenser</P>
+<P class="p150 ft2">Regeringen gör bedömningen att förslagen inte kommer att innebära ökade kostnader för staten.</P>
+<P class="p151 ft2">21</P>
+</DIV>
+<DIV id="page_22">
+
+
+<TABLE cellpadding=0 cellspacing=0 class="t5">
+<TR>
+	<TD class="tr1 td21"><SPAN class="p23 ft1">7</SPAN> </TD>
+	<TD class="tr1 td22"><SPAN class="p24 ft1">Författningskommentar</SPAN> </TD>
+	<TD class="tr1 td23"><SPAN class="p12 ft4">Prop. 2002/03:97</SPAN> </TD>
+</TR>
+</TABLE>
+<P class="p137 ft16"><SPAN class="ft2">7.1</SPAN><SPAN class="ft15">Förslaget till lag om ändring i vallagen (1997:157)</SPAN></P>
+<P class="p152 ft2">18 kap.</P>
+<P class="p153 ft2">14 och 15 §§</P>
+<P class="p74 ft2">Ändringarna innebär att det skall ske en särskild och officiell redovisning av antalet valsedlar som är ogiltiga därför att de saknar partibeteckning, se avsnitt 5.</P>
+<P class="p4 ft2">71 §</P>
+<P class="p148 ft11">Ändringen innebär att uppdraget som ledamot av Europaparlamentet är oförenligt med att vara ledamot av ett nationellt parlament, domare eller justitiesekreterare i Europeiska gemenskapernas förstainstansrätt, ledamot i Europeiska centralbankens direktion, <NOBR>EU-ombudsman,</NOBR> tjänsteman eller annan anställd i aktiv tjänst i organ som är knutna till Europeiska gemenskapernas institutioner, eller i Europeiska centralbanken. Ämbeten och uppdrag som har anknytning till Europeiska kol- och stålgemenskapen – som har upphört att gälla – tas bort från bestämmelsen.</P>
+<P class="p154 ft16"><SPAN class="ft2">7.2</SPAN><SPAN class="ft15">Förslaget till lag om ändring i lagen (1994:1500) med anledning av Sveriges anslutning till Europeiska unionen</SPAN></P>
+<P class="p152 ft2">4 §</P>
+<P class="p74 ft2">Ändringen innebär att beslutet 2002/772/EG, Euratom av Europeiska unionens råd av den 25 juni och av den 23 september 2002 om ändring av valrättsakten läggs till i punkten 11. Samtidigt tas beslutet av Europeiska gemenskapernas råd av den 1 februari 1993 bort eftersom det inte längre har någon verkan.</P>
+<P class="p155 ft2">22</P>
+</DIV>
+<DIV id="page_23">
+
+
+<DIV>
+<DIV id="id_1">
+<P class="p31 ft1">Valsystemet för val av Europaparlamentets ledamöter</P>
+<P class="p156 ft2"><NOBR>A4-0212/98</NOBR></P>
+<P class="p119 ft2">Resolution om utarbetandet av ett förslag till ett valsystem som omfattar gemensamma principer för val av Europaparlamentets ledamöter</P>
+<P class="p157 ft2">Europaparlamentet utfärdar denna resolution</P>
+<P class="p100 ft11"><SPAN class="ft4">–</SPAN><SPAN class="ft38">med beaktande av resolutionsförslaget från de Vries om ett enhetligt valsystem vid val av Europaparlamentets ledamöter </SPAN><NOBR>(B4-0723/96),</NOBR></P>
+<P class="p100 ft11"><SPAN class="ft4">–</SPAN><SPAN class="ft38">med beaktande av sina betänkanden om en enhetligt valordning och i synnerhet resolutionerna av den 10 oktober 1991 och den 10 mars 1993,</SPAN></P>
+<P class="p107 ft2"><SPAN class="ft4">–</SPAN><SPAN class="ft12">med beaktande av rättsakten om allmänna direkta val av företrädare i Europaparlamentet, som utgör en bilaga till rådets beslut av den 20 september 1976,</SPAN></P>
+<P class="p100 ft11"><SPAN class="ft4">–</SPAN><SPAN class="ft48">med beaktande av den tyska regeringens förslag av den 22 oktober 1996 under regeringskonferensen om en enhetlig valordning, där de viktigaste delarna i resolutionen av den 10 mars 1993 togs upp,</SPAN></P>
+<P class="p107 ft2"><SPAN class="ft4">–</SPAN><SPAN class="ft13">med beaktande av artikel 138.3 i </SPAN><NOBR>EG-fördraget</NOBR> och den ändring som införs i och med <NOBR>Amsterdam-fördraget,</NOBR></P>
+<P class="p158 ft2"><SPAN class="ft4">–</SPAN><SPAN class="ft28">med beaktande av artikel 148 i arbetsordningen,</SPAN></P>
+<P class="p119 ft2">.– med beaktande av betänkandet från utskottet för institutionella frågor och yttrandet från utskottet för rättsliga frågor och medborgarrätt <NOBR>(A4-0212/98),</NOBR> och av följande skäl:</P>
+<P class="p159 ft5"><SPAN class="ft2">A.</SPAN><SPAN class="ft49">I och med </SPAN><NOBR>Amsterdam-fördraget</NOBR> införs begreppet ”principer som är gemensamma för alla medlemsstater” och man följer därmed den linje som Europaparlamentet angav redan i den resolution som antogs av parlamentet den 10 mars 1993, i vilken man inte uttryckligen föreslog ett enhetligt valförfarande utan endast allmänna riktlinjer.</P>
+<P class="p160 ft2"><SPAN class="ft5">B.</SPAN><SPAN class="ft13">Den brittiska regeringen lade inför det brittiska parlamentet fram ett lagförslag om att införa en regional och proportionell valmetod för valet till Europaparlamentet från och med 1999.</SPAN></P>
+<P class="p161 ft2"><SPAN class="ft4">C.</SPAN><SPAN class="ft29">De nya medlemsskapsförhandlingarna kommer troligtvis att leda till tio nya medlemmar i Europeiska unionen.</SPAN></P>
+<P class="p162 ft2"><SPAN class="ft5">D.</SPAN><SPAN class="ft12">Bland medlemsstaterna råder stor enighet om fastställandet av ett antal gemensamma principer.</SPAN></P>
+<P class="p161 ft2"><SPAN class="ft4">E.</SPAN><SPAN class="ft13">Dessa principer skall i första hand genomföras på nationell nivå i en folkens och staternas union, och antalet ledamöter som skall väljas i varje medlemsstat skall säkerställa att folken i staterna som slutit sig samman i gemenskapen representeras på ett korrekt sätt.</SPAN></P>
+<P class="p159 ft11">1. Parlamentet välkomnar den överenskommelse som ingicks under regeringskonferensen om att fastställa ett antal gemensamma principer; är övertygat om att vissa bestämmelser kan träda i kraft redan vid nästa val till Europaparlamentet, i synnerhet vad gäller fastställandet av en nedre</P>
+</DIV>
+<DIV id="id_2">
+<P class="p31 ft2">Prop. 2002/03:97</P>
+<P class="p31 ft2">Bilaga 1</P>
+<P class="p163 ft2">23</P>
+</DIV>
+</DIV>
+</DIV>
+<DIV id="page_24">
+
+
+<DIV>
+<DIV id="id_1">
+<P class="p164 ft8">procentspärr, oförenlighet och åtgärder för att öka jämställdheten mellan män och kvinnor, medan en stegvis förändring är lämpligare i andra fall,</P>
+<P class="p165 ft5"><SPAN class="ft4">2.</SPAN><SPAN class="ft14">anser att det råder stor enighet om införandet av det proportionella systemet, som därför bör införas i gemenskapens valsystem,</SPAN></P>
+<P class="p166 ft2"><SPAN class="ft4">3.</SPAN><SPAN class="ft13">konstaterar att införandet av ett valsystem med geografiska valkretsar inte kan genomföras på ett enhetligt sätt och att man bör fastställa valkretsarna på grundval av de olika medlemsstaternas respektive befolkningsmängd; betonar emellertid att ett system med territoriella valkretsar inte får påverka principen om proportionella val enligt artikel 2 i förslaget till rättsakt,</SPAN></P>
+<P class="p159 ft11"><SPAN class="ft4">4.</SPAN><SPAN class="ft48">anser att för att en gemenskapspolitisk medvetenhet och gemenskapspolitiska partier skall kunna utvecklas skulle ett visst antal procent av mandaten kunna fördelas enligt den proportionella valmetoden inom ramen för en gemensam valkrets för alla medlemsstaternas territorium,</SPAN></P>
+<P class="p162 ft2"><SPAN class="ft4">5.</SPAN><SPAN class="ft21">konstaterar att det bör vara frivilligt att fastställa en nedre procentspärr, och att denna spärr i vilket fall som helst inte bör överstiga 5 procent av de avlagda rösterna på nationell nivå,</SPAN></P>
+<P class="p161 ft2"><SPAN class="ft4">6.</SPAN><SPAN class="ft21">tar hänsyn till att förslagsrumsvotering medför ökat valdeltagande, men anser att det bör vara upp till medlemsstaterna att välja om de vill tillämpa förslagsrumsvotering eller ej,</SPAN></P>
+<P class="p162 ft2"><SPAN class="ft4">7.</SPAN><SPAN class="ft21">anser att vid upprättande av europeiska listor måste jämställdheten mellan män och kvinnor beaktas, och att det först och främst är de politiska partierna som skall genomföra detta,</SPAN></P>
+<P class="p159 ft5"><SPAN class="ft4">8.</SPAN><SPAN class="ft50">föreslår att valet till Europaparlamentet skall hållas någon gång under maj månad, för att på så sätt möjliggöra ett så stort valdeltagande som möjligt genom att undvika att valet hålls under skolornas sommarlov som börjar i början av juni i många av medlemsstaterna,</SPAN></P>
+<P class="p167 ft3"><SPAN class="ft4">9.</SPAN><SPAN class="ft33">rekommenderar att antalet valdagar reduceras i så hög utsträckning som möjligt i syfte att komma överens om en enda dag, eller om det är omöjligt, maximalt två dagar, till exempel en lördag och söndag,</SPAN></P>
+<P class="p162 ft2"><SPAN class="ft4">10.</SPAN><SPAN class="ft12">begär att rådet behandlar förslaget nedan och antar det snarast möjligt så att det kan träda i kraft så snart som möjligt,</SPAN></P>
+<P class="p162 ft2"><SPAN class="ft4">11.</SPAN><SPAN class="ft21">uppdrar åt sin ordförande att vidarebefordra denna resolution samt det bifogade förslaget till rättsakt till rådet, kommissionen och medlemsstaternas parlament och regeringar.</SPAN></P>
+<P class="p168 ft2">BILAGA</P>
+<P class="p157 ft2">EUROPEISKA UNIONENS RÅD,</P>
+<P class="p169 ft2">som är sammansatt av företrädare för medlemsstaterna och som beslutar enhälligt,</P>
+</DIV>
+<DIV id="id_2">
+<P class="p31 ft2">Prop. 2002/03:97</P>
+<P class="p31 ft2">Bilaga 1</P>
+<P class="p163 ft2">24</P>
+</DIV>
+</DIV>
+</DIV>
+<DIV id="page_25">
+
+
+<DIV>
+<DIV id="id_1">
+<P class="p170 ft5">– som beaktar artikel 138.3 i Fördraget om upprättandet av Europeiska gemenskapen (artikel 190.4 i det konsoliderade fördraget),</P>
+<P class="p37 ft2"><SPAN class="ft4">–</SPAN><SPAN class="ft13">som beaktar artikel 21.3 i Fördraget om upprättandet av Europeiska kol- och stålgemenskapen,</SPAN></P>
+<P class="p119 ft2"><SPAN class="ft4">–</SPAN><SPAN class="ft12">som beaktar artikel 108.3 i Fördraget om upprättandet av Europeiska atomenergigemenskapen,</SPAN></P>
+<P class="p171 ft2"><SPAN class="ft4">–</SPAN><SPAN class="ft28">som beaktar Europaparlamentets förslag,</SPAN></P>
+<P class="p158 ft2"><SPAN class="ft4">–</SPAN><SPAN class="ft28">som beaktar Europaparlamentets samtycke,</SPAN></P>
+<P class="p119 ft2">som avser att verkställa bestämmelserna i fördraget angående valordningen,</P>
+<P class="p172 ft2">HAR BESLUTAT OM de bestämmelser som bifogats detta beslut och rekommenderar medlemsstaterna att anta bestämmelserna i enlighet med deras konstitutionella bestämmelser.</P>
+<P class="p173 ft2">Detta beslut och de bifogade bestämmelserna skall offentliggöras i Eu- ropeiska gemenskapernas officiella tidning.</P>
+<P class="p119 ft2">Medlemsstaterna skall genast anmäla till generalsekreteraren i Europeiska gemenskapernas råd när de har avslutat det förfarande som enligt deras konstitutionella bestämmelser krävs för att anta de bestämmelser som har bifogats detta beslut.</P>
+<P class="p173 ft2">Detta beslut träder i kraft den dag det offentliggörs i Europeiska gemenskapernas officiella tidning.</P>
+<P class="p173 ft2">FÖRSLAG I ENLIGHET MED ARTIKEL 138.3 I FÖRDRAGET OM UPPRÄTTANDET AV EUROPEISKA GEMENSKAPEN</P>
+<P class="p71 ft2">(artikel 190.4 i det konsoliderade fördraget)</P>
+<P class="p172 ft2">för att möjliggöra val av Europaparlamentets ledamöter genom allmänna direkta val enligt principer som är gemensamma för samtliga medlemsstater</P>
+<P class="p105 ft3">Artikel 1 – I varje medlemsstat skall Europaparlamentets ledamöter väljas genom omröstning utifrån proportionellt sammansatta röstlistor. Valen skall vara allmänna, direkta, fria rättvisa och hemliga.</P>
+<P class="p119 ft2">Artikel 2 – Valkretsar skall upprättas för detta val utan att detta rent allmänt inkräktar på tillämpningen av proportionella val, i syfte att föra de förtroendevalda närmare väljarna och med hänsyn till den specifika karaktären hos varje medlemsstat. Denna bestämmelse kommer att kunna tillämpas från och med valet till Europaparlamentet år 2004. De medlemsstater vars befolkning inte överstiger 20 miljoner invånare behöver inte upprätta valkretsar.</P>
+<P class="p107 ft2">Artikel 3 – I det fall ett land beslutar inrätta flera valkretsar inom sitt territorium förblir ledamöterna av Europaparlamentet, i enlighet med artiklarna 137 och 138 (189 och 190 enligt ny numrering) i fördraget, företrädare för folken i de medlemsstater som förenas i Europeiska gemenskapen, och inte företrädare för sin valkrets.</P>
+<P class="p107 ft2">Artikel 4 – Särskilda bestämmelser får förekomma, som tar hänsyn till regionala skillnader, men dessa får inte inkräkta på principen om proportionella val.</P>
+</DIV>
+<DIV id="id_2">
+<P class="p31 ft2">Prop. 2002/03:97</P>
+<P class="p31 ft2">Bilaga 1</P>
+<P class="p163 ft2">25</P>
+</DIV>
+</DIV>
+</DIV>
+<DIV id="page_26">
+
+
+<TABLE cellpadding=0 cellspacing=0 class="t1">
+<TR>
+	<TD class="tr10 td28"><SPAN class="p174 ft2">Artikel 5 – Det bör vara frivilligt att fastställa en nedre procentspärr,</SPAN> </TD>
+	<TD class="tr10 td23"><SPAN class="p12 ft4">Prop. 2002/03:97</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr19 td28"><SPAN class="p174 ft5">och att denna spärr bör i vilket fall som helst inte överstiga 5 procent av</SPAN> </TD>
+	<TD class="tr19 td23"><SPAN class="p12 ft20">Bilaga 1</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr3 td28"><SPAN class="p12 ft2">de avlagda rösterna på nationell nivå,</SPAN> </TD>
+	<TD class="tr3 td23"><SPAN class="p12 ft6">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr3 td28"><SPAN class="p174 ft5">Artikel 6 – Medlemsstaterna får tillåta förslagsrumsvotering enligt be-</SPAN> </TD>
+	<TD class="tr3 td23"><SPAN class="p12 ft6">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr6 td28"><SPAN class="p12 ft2">stämmelser som fastställs av respektive medlemsstat.</SPAN> </TD>
+	<TD class="tr6 td23"><SPAN class="p12 ft6">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr3 td28"><SPAN class="p174 ft5">Artikel 7 – Europaparlamentet kommer att behandla ett förslag om att</SPAN> </TD>
+	<TD class="tr3 td23"><SPAN class="p12 ft6">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr3 td28"><SPAN class="p174 ft4">en bestämd procentandel av det totala antalet mandat i Europaparlamen-</SPAN> </TD>
+	<TD class="tr3 td23"><SPAN class="p12 ft6">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr3 td28"><SPAN class="p174 ft5">tet skall fördelas med hjälp av proportionellt sammansatta listor som av-</SPAN> </TD>
+	<TD class="tr3 td23"><SPAN class="p12 ft6">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr3 td28"><SPAN class="p174 ft4">ser en gemensam valkrets bestående av Europeiska unionens medlems-</SPAN> </TD>
+	<TD class="tr3 td23"><SPAN class="p12 ft6">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr3 td28"><SPAN class="p174 ft4">staters totala territorium från och med det val till Europaparlamentet som</SPAN> </TD>
+	<TD class="tr3 td23"><SPAN class="p12 ft6">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr6 td28"><SPAN class="p174 ft4">hålls år 2009. Rådet skall före den 1 januari 2008 i enlighet med Europa-</SPAN> </TD>
+	<TD class="tr6 td23"><SPAN class="p12 ft6">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr3 td28"><SPAN class="p174 ft5">parlamentets förslag anta genomförandebestämmelserna enhälligt och</SPAN> </TD>
+	<TD class="tr3 td23"><SPAN class="p12 ft6">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr3 td28"><SPAN class="p12 ft2">efter samtycke från Europaparlamentet.</SPAN> </TD>
+	<TD class="tr3 td23"><SPAN class="p12 ft6">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr3 td28"><SPAN class="p174 ft2">Artikel 8 – Att inneha ett mandat i Europaparlamentet är oförenligt</SPAN> </TD>
+	<TD class="tr3 td23"><SPAN class="p12 ft6">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr3 td28"><SPAN class="p12 ft2">med att ha ett mandat i ett nationellt parlament.</SPAN> </TD>
+	<TD class="tr3 td23"><SPAN class="p12 ft6">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr3 td28"><SPAN class="p174 ft2">Artikel 9 – Varje medlemsstat kan fastställa ett övre gräns för</SPAN> </TD>
+	<TD class="tr3 td23"><SPAN class="p12 ft6">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr6 td28"><SPAN class="p12 ft2">kandidaternas utgifter i samband med valkampanjen.</SPAN> </TD>
+	<TD class="tr6 td23"><SPAN class="p12 ft6">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr3 td28"><SPAN class="p174 ft2">Artikel 10 – Akten av den 20 september 1976 om införande av all-</SPAN> </TD>
+	<TD class="tr3 td23"><SPAN class="p12 ft6">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr3 td28"><SPAN class="p174 ft4">männa direkta val av ledamöterna i Europaparlamentet fortsätter att gälla</SPAN> </TD>
+	<TD class="tr3 td23"><SPAN class="p12 ft6">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr3 td28"><SPAN class="p12 ft2">om inte annat följer av andra bestämmelser.</SPAN> </TD>
+	<TD class="tr3 td23"><SPAN class="p12 ft6">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr3 td28"><SPAN class="p174 ft5">Artikel 11 – Bestämmelserna i denna akt träder i kraft den första da-</SPAN> </TD>
+	<TD class="tr3 td23"><SPAN class="p12 ft6">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr3 td28"><SPAN class="p174 ft4">gen i den månad som följer efter det att den sista av de anmälningar som</SPAN> </TD>
+	<TD class="tr3 td23"><SPAN class="p12 ft6">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr6 td28"><SPAN class="p12 ft2">avses i beslutet har tagits emot.</SPAN> </TD>
+	<TD class="tr6 td23"><SPAN class="p12 ft6">&nbsp;</SPAN> </TD>
+</TR>
+</TABLE>
+<P class="p175 ft2">26</P>
+</DIV>
+<DIV id="page_27">
+
+
+<DIV>
+<DIV id="id_1">
+<P class="p176 ft1">Akt om allmänna direkta val av företrädare i Europaparlamentet</P>
+<P class="p156 ft2">Artikel 1</P>
+<P class="p169 ft2">Europaparlamentets företrädare för folken i de stater som slutit sig samman i gemenskapen skall väljas genom allmänna direkta val.</P>
+<P class="p157 ft2">Artikel 2</P>
+<P class="p169 ft2">I varje medlemsstat skall följande antal företrädare i Europaparlamentet väljas:</P>
+<P class="p177 ft3">Belgien . // 25. Danmark . // 16. Tyskland . // 99. Grekland . // 25. Spanien . // 64. Frankrike . // 87. Irland . // 15. Italien . // 87. Luxemburg . // 6.</P>
+<P class="p178 ft2">Nederländerna . // 31. Österrike . // 21. Portugal . // 25. Finland . // 16. Sverige . // 22.</P>
+<P class="p179 ft2">Förenade kungariket . // 87.</P>
+<P class="p168 ft2">Artikel 3</P>
+<P class="p158 ft2"><SPAN class="ft4">1.</SPAN><SPAN class="ft28">Företrädarna skall väljas för en period av 5 år.</SPAN></P>
+<P class="p119 ft2"><SPAN class="ft4">2.</SPAN><SPAN class="ft12">Denna femårsperiod skall börja då den första sessionen öppnas efter varje val.</SPAN></P>
+<P class="p107 ft2">Valperioden kan förlängas eller förkortas enligt artikel 10.2 andra stycket.</P>
+<P class="p119 ft2"><SPAN class="ft4">3.</SPAN><SPAN class="ft29">Företrädarnas mandattid skall börja och sluta vid samma tidpunkt som den period som avses i punkt 2.</SPAN></P>
+<P class="p168 ft2">Artikel 4</P>
+<P class="p119 ft2"><SPAN class="ft4">1.</SPAN><SPAN class="ft21">Företrädarna skall rösta individuellt och personligen. De får inte bindas av några instruktioner eller uppdrag.</SPAN></P>
+<P class="p107 ft2"><SPAN class="ft4">2.</SPAN><SPAN class="ft51">Företrädarna skall åtnjuta den immunitet och de privilegier som gäller för Europaparlamentets ledamöter enligt det protokoll om immunitet och privilegier för Europeiska gemenskaperna som är fogat till fördraget om upprättandet av ett gemensamt råd och en gemensam kommission för Europeiska gemenskaperna.</SPAN></P>
+<P class="p157 ft2">Artikel 5</P>
+<P class="p169 ft2">Uppdraget som företrädare i Europaparlamentet är förenligt med att vara ledamot av parlamentet i en medlemsstat.</P>
+</DIV>
+<DIV id="id_2">
+<P class="p31 ft2">Prop. 2002/03:97</P>
+<P class="p31 ft2">Bilaga 2</P>
+<P class="p163 ft2">27</P>
+</DIV>
+</DIV>
+</DIV>
+<DIV id="page_28">
+
+
+<TABLE cellpadding=0 cellspacing=0 class="t1">
+<TR>
+	<TD class="tr10 td28"><SPAN class="p115 ft2">Artikel 6</SPAN> </TD>
+	<TD class="tr10 td23"><SPAN class="p12 ft4">Prop. 2002/03:97</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr19 td28"><SPAN class="p115 ft20">1. Uppdraget som företrädare i Europaparlamentet är inte förenligt</SPAN> </TD>
+	<TD class="tr19 td23"><SPAN class="p12 ft20">Bilaga 2</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr3 td28"><SPAN class="p12 ft2">med att vara</SPAN> </TD>
+	<TD class="tr3 td23"><SPAN class="p12 ft6">&nbsp;</SPAN> </TD>
+</TR>
+</TABLE>
+<P class="p180 ft2"><SPAN class="ft5">-</SPAN><SPAN class="ft28">ledamot av regeringen i en medlemsstat</SPAN></P>
+<P class="p96 ft2"><SPAN class="ft5">-</SPAN><SPAN class="ft28">ledamot av Europeiska gemenskapernas kommission</SPAN></P>
+<P class="p26 ft2"><SPAN class="ft5">-</SPAN><SPAN class="ft29">domare generaladvokat eller justitiesekreterare i Europeiska gemenskapernas domstol</SPAN></P>
+<P class="p27 ft2"><SPAN class="ft5">-</SPAN><SPAN class="ft28">ledamot av Europeiska gemenskapernas revisionsrätt</SPAN></P>
+<P class="p29 ft11"><SPAN class="ft5">-</SPAN><SPAN class="ft48">medlem av Rådgivande kommittén i Europeiska kol- och stålgemenskapen eller medlem av Ekonomiska och sociala kommittén i Europeiska ekonomiska gemenskapen och i Europeiska atomenergigemenskapen</SPAN></P>
+<P class="p29 ft3"><SPAN class="ft5">-</SPAN><SPAN class="ft52">medlem av sådana kommittéer eller andra organ som har tillsatts enligt fördragen om upprättandet av Europeiska kol- och stålgemenskapen Europeiska ekonomiska gemenskapen och Europeiska atomenergigemenskapen för att förvalta gemenskapernas medel eller för att utföra en permanent och direkt förvaltningsuppgift</SPAN></P>
+<P class="p26 ft2"><SPAN class="ft5">-</SPAN><SPAN class="ft21">styrelseledamot direktionsledamot eller anställd i Europeiska investeringsbanken</SPAN></P>
+<P class="p10 ft2"><SPAN class="ft5">-</SPAN><SPAN class="ft12">tjänsteman eller annan anställd i aktiv tjänst inom Europeiska gemenskapernas institutioner eller till dessa knutna fackorgan.</SPAN></P>
+<P class="p96 ft2"><SPAN class="ft4">2.</SPAN><SPAN class="ft12">Dessutom kan varje medlemsstat under de förutsättningar som anges</SPAN></P>
+<P class="p28 ft2"><SPAN class="ft2">i</SPAN><SPAN class="ft28">artikel 7.2 fastställa nationella regler om oförenlighet.</SPAN></P>
+<P class="p26 ft2"><SPAN class="ft4">3.</SPAN><SPAN class="ft13">Sådana företrädare i Europaparlamentet på vilka punkterna 1 och 2 blir tillämpliga under den femårsperiod som avses i artikel 3 skall ersättas enligt artikel 12.</SPAN></P>
+<P class="p181 ft2">Artikel 7</P>
+<P class="p29 ft3"><SPAN class="ft4">1.</SPAN><SPAN class="ft32">Enligt artikel 21.3 i Fördraget om upprättandet av Europeiska kol- och stålgemenskapen artikel 138.3 i Fördraget om upprättandet av Europeiska ekonomiska gemenskapen och artikel 108.3 i Fördraget om upprättandet av Europeiska atomenergigemenskapen skall Europaparlamentet utarbeta ett förslag till en enhetlig valordning.</SPAN></P>
+<P class="p89 ft3"><SPAN class="ft4">2.</SPAN><SPAN class="ft52">Tills dess att en enhetlig valordning träder i kraft och om inte annat följer av de övriga bestämmelserna i denna akt skall valförfarandet regleras av varje medlemsstats nationella föreskrifter.</SPAN></P>
+<P class="p182 ft2">Artikel 8</P>
+<P class="p183 ft2">Vid val av företrädare i Europaparlamentet får ingen rösta mer än en gång.</P>
+<P class="p182 ft2">Artikel 9</P>
+<P class="p26 ft2"><SPAN class="ft4">1.</SPAN><SPAN class="ft13">Val till Europaparlamentet skall hållas den dag som varje medlemsstat fastställer; denna dag skall för samtliga medlemsstater infalla under samma period som skall börja en torsdag morgon och sluta närmast följande söndag.</SPAN></P>
+<P class="p89 ft8"><SPAN class="ft4">2.</SPAN><SPAN class="ft53">Rösträkningen får inte börja förrän valet har avslutats i den medlemsstat vars väljare skall rösta sist inom den period som anges i punkt 1.</SPAN></P>
+<P class="p184 ft2"><SPAN class="ft4">3.</SPAN><SPAN class="ft12">Om en medlemsstat beslutar att omröstning skall ske i två omgångar för val till Europaparlamentet skall den första omgången äga rum inom den period som avses i punkt 1.</SPAN></P>
+<P class="p185 ft2">28</P>
+</DIV>
+<DIV id="page_29">
+
+
+<DIV>
+<DIV id="id_1">
+<P class="p71 ft2">Artikel 10</P>
+<P class="p186 ft2">1. För det första valet skall rådet enhälligt och efter att ha hört Europaparlamentet bestämma den period som avses i artikel 9.1.</P>
+<P class="p119 ft2"><SPAN class="ft4">2.</SPAN><SPAN class="ft13">De följande valen skall äga rum inom samma period under det sista året av den femårstid som avses i artikel 3.</SPAN></P>
+<P class="p100 ft3">Om det visar sig omöjligt att under den perioden hålla valen i gemenskapen skall rådet enhälligt och efter att ha hört Europaparlamentet bestämma en annan period som inte får infalla mer än en månad före eller en månad efter den enligt föregående stycke bestämda perioden.</P>
+<P class="p105 ft3"><SPAN class="ft4">3.</SPAN><SPAN class="ft33">Utan att det påverkar tillämpningen av artikel 22 i Fördraget om upprättandet av Europeiska kol- och stålgemenskapen artikel 139 i Fördraget om upprättandet av Europeiska ekonomiska gemenskapen och artikel 109 i Fördraget om upprättandet av Europeiska atomenergigemenskapen skall Europaparlamentet utan särskild kallelse sammanträda den första tisdagen sedan en månad har förflutit efter utgången av den i artikel 9.1 avsedda perioden.</SPAN></P>
+<P class="p107 ft2"><SPAN class="ft4">4.</SPAN><SPAN class="ft21">Det avgående Europaparlamentets befogenheter skall upphöra när det nya Europaparlamentet sammanträder första gången.</SPAN></P>
+<P class="p157 ft2">Artikel 11</P>
+<P class="p100 ft11">Till dess att den enhetliga valordning som avses i artikel 7.1 träder i kraft skall Europaparlamentet pröva företrädarnas behörighet. I detta syfte skall Europaparlamentet beaktade valresultat som medlemsstaterna officiellt har tillkännagivit och avgöra sådana tvister som kan uppkomma på grund av bestämmelserna i denna akt dock inte tvister som uppkommer på grund av nationella bestämmelser som akten hänvisar till.</P>
+<P class="p157 ft2">Artikel 12</P>
+<P class="p119 ft2"><SPAN class="ft4">1.</SPAN><SPAN class="ft12">Till dess att den enhetliga valordning som avses i artikel 7.1 träder i kraft och om inte annat följer av de övriga bestämmelserna i denna akt skall varje medlemsstat fastställa ett lämpligt förfarande för hur en plats som blir vakant under den femåriga mandattid som avses i artikel 3 skall besättas för den återstående mandattiden.</SPAN></P>
+<P class="p107 ft2"><SPAN class="ft4">2.</SPAN><SPAN class="ft13">Om en plats blir vakant på grund av gällande nationella bestämmelser i en medlemsstat skallmedlemsstaten underrätta Europaparlamentet som skall beakta denna underrättelse.</SPAN></P>
+<P class="p107 ft2">I alla andra fall skall Europaparlamentet fastställa när en plats är vakant och underrätta medlemsstaten om detta.</P>
+<P class="p168 ft2">Artikel 13</P>
+<P class="p119 ft2">Om det visar sig nödvändigt att besluta om åtgärder för att genomföra denna akt skall rådet på förslag från Europaparlamentet och efter att ha hört kommissionen enhälligt besluta om sådana åtgärder. Rådet skall först ha försökt komma överens med Europaparlamentet i en förlikningskommitté som skall bestå av rådet och företrädare för Europaparlamentet.</P>
+<P class="p157 ft2">Artikel 14</P>
+<P class="p105 ft11">Artikel 21.1 och 21.2 i Fördraget om upprättandet av Europeiska kol- och stålgemenskapen artikel 138.1 och 138.2 i Fördraget om upprättandet av Europeiska ekonomiska gemenskapen och artikel 108.1 och 108.2 i</P>
+</DIV>
+<DIV id="id_2">
+<P class="p31 ft2">Prop. 2002/03:97</P>
+<P class="p31 ft2">Bilaga 2</P>
+<P class="p163 ft2">29</P>
+</DIV>
+</DIV>
+</DIV>
+<DIV id="page_30">
+
+
+<TABLE cellpadding=0 cellspacing=0 class="t13">
+<TR>
+	<TD class="tr7 td28"><SPAN class="p12 ft5">Fördraget om upprättandet av Europeiska atomenergigemenskapen skall</SPAN> </TD>
+	<TD class="tr7 td23"><SPAN class="p12 ft4">Prop. 2002/03:97</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr19 td28"><SPAN class="p12 ft5">upphöra att gälla den dag då det första Europaparlamentet som valts en-</SPAN> </TD>
+	<TD class="tr19 td23"><SPAN class="p12 ft20">Bilaga 2</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr3 td28"><SPAN class="p12 ft2">ligt denna akt sammanträder enligt artikel 10.3.</SPAN> </TD>
+	<TD class="tr3 td23"><SPAN class="p12 ft6">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr20 td28"><SPAN class="p115 ft2">Artikel 15</SPAN> </TD>
+	<TD class="tr20 td23"><SPAN class="p12 ft6">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr3 td28"><SPAN class="p115 ft4">Denna akt är upprättad på danska engelska franska iriska italienska ne-</SPAN> </TD>
+	<TD class="tr3 td23"><SPAN class="p12 ft6">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr3 td28"><SPAN class="p12 ft2">derländska och tyska språken vilka samtliga texter är lika giltiga.</SPAN> </TD>
+	<TD class="tr3 td23"><SPAN class="p12 ft6">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr3 td28"><SPAN class="p115 ft2">Bilagorna <NOBR>I-III</NOBR> skall utgöra en integrerad del av denna akt.</SPAN> </TD>
+	<TD class="tr3 td23"><SPAN class="p12 ft6">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr3 td28"><SPAN class="p115 ft2">En förklaring av Förbundsrepubliken Tysklands regering är fogad till</SPAN> </TD>
+	<TD class="tr3 td23"><SPAN class="p12 ft6">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr3 td28"><SPAN class="p12 ft2">denna akt.</SPAN> </TD>
+	<TD class="tr3 td23"><SPAN class="p12 ft6">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr20 td28"><SPAN class="p115 ft2">Artikel 16</SPAN> </TD>
+	<TD class="tr20 td23"><SPAN class="p12 ft6">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr3 td28"><SPAN class="p115 ft4">Bestämmelserna i denna akt träder i kraft den första dagen i den månad</SPAN> </TD>
+	<TD class="tr3 td23"><SPAN class="p12 ft6">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr3 td28"><SPAN class="p12 ft5">som följer efter det att den sista av de anmälningar som avses i beslutet</SPAN> </TD>
+	<TD class="tr3 td23"><SPAN class="p12 ft6">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr3 td28"><SPAN class="p12 ft2">har tagits emot.</SPAN> </TD>
+	<TD class="tr3 td23"><SPAN class="p12 ft6">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr3 td28"><SPAN class="p115 ft2">Utfärdad i Bryssel den tjugonde september nittonhundrasjuttiosex.</SPAN> </TD>
+	<TD class="tr3 td23"><SPAN class="p12 ft6">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr6 td28"><SPAN class="p115 ft2">R. VAN ELSLANDE</SPAN> </TD>
+	<TD class="tr6 td23"><SPAN class="p12 ft6">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr3 td28"><SPAN class="p115 ft2">Ivar NØRGAARD</SPAN> </TD>
+	<TD class="tr3 td23"><SPAN class="p12 ft6">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr3 td28"><SPAN class="p115 ft2"><NOBR>Hans-Dietrich</NOBR> GENSCHER</SPAN> </TD>
+	<TD class="tr3 td23"><SPAN class="p12 ft6">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr3 td28"><SPAN class="p115 ft2">Louis DE GUIRINGAUD</SPAN> </TD>
+	<TD class="tr3 td23"><SPAN class="p12 ft6">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr3 td28"><SPAN class="p115 ft2">Gearóid MAC GEARAILT</SPAN> </TD>
+	<TD class="tr3 td23"><SPAN class="p12 ft6">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr3 td28"><SPAN class="p115 ft2">Arnaldo FORLANI</SPAN> </TD>
+	<TD class="tr3 td23"><SPAN class="p12 ft6">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr6 td28"><SPAN class="p115 ft2">Jean HAMILIUS</SPAN> </TD>
+	<TD class="tr6 td23"><SPAN class="p12 ft6">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr3 td28"><SPAN class="p115 ft2">L. J. BRINKHORST</SPAN> </TD>
+	<TD class="tr3 td23"><SPAN class="p12 ft6">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr3 td28"><SPAN class="p115 ft2">A. CROSLAND</SPAN> </TD>
+	<TD class="tr3 td23"><SPAN class="p12 ft6">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr21 td28"><SPAN class="p115 ft2">BILAGA I</SPAN> </TD>
+	<TD class="tr21 td23"><SPAN class="p12 ft6">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr3 td28"><SPAN class="p115 ft5">De danska myndigheterna får besluta om de dagar då val av ledamöter</SPAN> </TD>
+	<TD class="tr3 td23"><SPAN class="p12 ft6">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr6 td28"><SPAN class="p12 ft2">till Europaparlamentet skall äga rum på Grönland.</SPAN> </TD>
+	<TD class="tr6 td23"><SPAN class="p12 ft6">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr21 td28"><SPAN class="p115 ft2">BILAGA II</SPAN> </TD>
+	<TD class="tr21 td23"><SPAN class="p12 ft6">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr3 td28"><SPAN class="p115 ft5">Förenade kungariket skall tillämpa bestämmelserna i denna akt endast</SPAN> </TD>
+	<TD class="tr3 td23"><SPAN class="p12 ft6">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr3 td28"><SPAN class="p12 ft2">på Förenade kungariket.</SPAN> </TD>
+	<TD class="tr3 td23"><SPAN class="p12 ft6">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr20 td28"><SPAN class="p115 ft2">BILAGA III</SPAN> </TD>
+	<TD class="tr20 td23"><SPAN class="p12 ft6">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr3 td28"><SPAN class="p115 ft2">FÖRKLARING OM ARTIKEL 13</SPAN> </TD>
+	<TD class="tr3 td23"><SPAN class="p12 ft6">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr3 td28"><SPAN class="p115 ft5">Det föreligger enighet om att medlingskommitten i fråga om sitt förfa-</SPAN> </TD>
+	<TD class="tr3 td23"><SPAN class="p12 ft6">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr3 td28"><SPAN class="p12 ft5">rande skall följa bestämmelserna i punkterna 5 6 och 7 för det förfarande</SPAN> </TD>
+	<TD class="tr3 td23"><SPAN class="p12 ft6">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr3 td28"><SPAN class="p12 ft4">som fastställdes i Europaparlamentets rådets och kommissionens gemen-</SPAN> </TD>
+	<TD class="tr3 td23"><SPAN class="p12 ft6">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr3 td28"><SPAN class="p12 ft2">samma förklaring av den 4 mars 1975(*)(**).</SPAN> </TD>
+	<TD class="tr3 td23"><SPAN class="p12 ft6">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr6 td28"><SPAN class="p115 ft2">(*) EGT nr C 89 22.4.1975.</SPAN> </TD>
+	<TD class="tr6 td23"><SPAN class="p12 ft6">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr3 td28"><SPAN class="p115 ft5">(**) Denna gemensamma förklaring återges på sidorna <NOBR>873-876</NOBR> i den-</SPAN> </TD>
+	<TD class="tr3 td23"><SPAN class="p12 ft6">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr3 td28"><SPAN class="p12 ft2">na del.</SPAN> </TD>
+	<TD class="tr3 td23"><SPAN class="p12 ft6">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr3 td28"><SPAN class="p115 ft5">Med beaktande av Frankrikes Förenade konungariket Storbritannien</SPAN> </TD>
+	<TD class="tr3 td23"><SPAN class="p12 ft6">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr3 td28"><SPAN class="p12 ft5">och Nordirlands och Amerikas Förenta staters rättigheter och skyldighe-</SPAN> </TD>
+	<TD class="tr3 td23"><SPAN class="p12 ft6">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr3 td28"><SPAN class="p12 ft5">ter skall Berlins parlament välja företrädare till de platser som inom För-</SPAN> </TD>
+	<TD class="tr3 td23"><SPAN class="p12 ft6">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr3 td28"><SPAN class="p12 ft2">bundsrepubliken Tysklands kvot tillfaller Land Berlin.</SPAN> </TD>
+	<TD class="tr3 td23"><SPAN class="p12 ft6">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr20 td28"><SPAN class="p115 ft2">FÖRKLARING AV FÖRBUNDSREPUBLIKEN TYSKLANDS</SPAN> </TD>
+	<TD class="tr20 td23"><SPAN class="p12 ft6">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr3 td28"><SPAN class="p12 ft2">REGERING</SPAN> </TD>
+	<TD class="tr3 td23"><SPAN class="p12 ft6">&nbsp;</SPAN> </TD>
+</TR>
+</TABLE>
+<P class="p187 ft2">30</P>
+</DIV>
+<DIV id="page_31">
+
+
+<TABLE cellpadding=0 cellspacing=0 class="t14">
+<TR>
+	<TD class="tr7 td28"><SPAN class="p174 ft5">Förbundsrepubliken Tysklands regering förklarar att akten om allmän-</SPAN> </TD>
+	<TD class="tr7 td23"><SPAN class="p12 ft4">Prop. 2002/03:97</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr19 td28"><SPAN class="p174 ft20">na direkta val av ledamöter av Europaparlamentet skall tillämpas på</SPAN> </TD>
+	<TD class="tr19 td23"><SPAN class="p12 ft20">Bilaga 2</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr3 td28"><SPAN class="p188 ft5">Land Berlin.</SPAN> </TD>
+	<TD class="tr3 td23"><SPAN class="p12 ft6">&nbsp;</SPAN> </TD>
+</TR>
+</TABLE>
+<P class="p189 ft2">31</P>
+</DIV>
+<DIV id="page_32">
+
+
+<DIV>
+<DIV id="id_1">
+<P class="p190 ft54">Rådets beslut av den 25 juni 2002 och av den 23 september 2002 om ändring av akten om allmänna direkta val av företrädare i Europaparlamentet, som utgör en bilaga till beslut 76/787/EKSG, EEG, Euratom</P>
+<P class="p168 ft2">(2002/772/EG, Euratom)</P>
+<P class="p191 ft8">EUROPEISKA UNIONENS RÅD HAR ANTAGIT DETTA BESLUT med beaktande av Fördraget om upprättandet av Europeiska gemen-</P>
+<P class="p192 ft2">skapen, särskilt artikel 190.4 i detta,</P>
+<P class="p169 ft2">med beaktande av Fördraget om upprättandet av Europeiska atomenergigemenskapen, särskilt artikel 108.3 och 108.4 i detta,</P>
+<P class="p71 ft2">med beaktande av Europaparlamentets utkast<SPAN class="ft17">1</SPAN>,</P>
+<P class="p193 ft2">med beaktande av Europaparlamentets samtycke<SPAN class="ft17">2</SPAN>, och av följande skäl:</P>
+<P class="p158 ft5"><SPAN class="ft4">(1)</SPAN><SPAN class="ft55">En ändring bör göras i akten om allmänna direkta val av företrädare</SPAN></P>
+<P class="p116 ft2"><SPAN class="ft2">i</SPAN><SPAN class="ft12">Europaparlamentet för att möjliggöra allmänna direkta val enligt principer som är gemensamma för alla medlemsstater, samtidigt som dessa ges möjlighet att tillämpa sina egna nationella bestämmelser i de delar som inte regleras av detta beslut.</SPAN></P>
+<P class="p107 ft2"><SPAN class="ft5">(2)</SPAN><SPAN class="ft29">För att förbättra läsbarheten hos akten, i dess lydelse enligt detta beslut, anses det lämpligt att bestämmelserna numreras om, vilket kommer att möjliggöra en tydligare konsolidering.</SPAN></P>
+<P class="p119 ft2">HÄRIGENOM FASTSTÄLLS följande bestämmelser, som medlemsstaterna rekommenderas att anta i enlighet med deras respektive konstitutionella bestämmelser.</P>
+<P class="p194 ft2">Artikel 1</P>
+<P class="p116 ft2">Akten om allmänna direkta val av företrädare i Europaparlamentet, som utgör en bilaga till rådets beslut 76/787/EKSG, EEG, Euratom<SPAN class="ft17">3 </SPAN>(nedan kallad 1976 års akt), ändras härmed enligt bestämmelserna i denna artikel.</P>
+<P class="p106 ft5"><SPAN class="ft4">1.</SPAN><SPAN class="ft49">I titeln till och i resten av 1976 års akt, med undantag av artikel 13, skall orden "företrädare", "företrädare i Europaparlamentet" eller "företrädarna(s)" ersättas med "ledamot av Europaparlamentet", "ledamöter av Europaparlamentet" respektive "Europaparlamentets ledamöter(s)"</SPAN></P>
+<P class="p195 ft2"><SPAN class="ft4">2.</SPAN><SPAN class="ft28">Artikel 1 skall ersättas med följande:</SPAN></P>
+<P class="p179 ft2">"Artikel 1</P>
+<P class="p119 ft2"><SPAN class="ft4">1.</SPAN><SPAN class="ft29">I varje medlemsstat skall Europaparlamentets ledamöter väljas genom listval (valsedlar) eller ett förfarande med single transferable vote (STV), och valsättet skall vara proportionellt.</SPAN></P>
+<P class="p119 ft2"><SPAN class="ft4">2.</SPAN><SPAN class="ft51">Medlemsstaterna får tillåta listval med preferenslistor enligt bestämmelser som skall fastställas av respektive medlemsstat.</SPAN></P>
+<P class="p171 ft2"><SPAN class="ft4">3.</SPAN><SPAN class="ft28">Valen skall vara allmänna, direkta, fria och hemliga."</SPAN></P>
+<P class="p196 ft19"><SPAN class="ft56">1</SPAN><SPAN class="ft57">EGT C 292, 21.9.1998, s. 66.</SPAN></P>
+<P class="p43 ft19"><SPAN class="ft56">2</SPAN><SPAN class="ft57">Yttrandet avgivet den 12 juni 2002 (ännu ej offentliggjort i EGT).</SPAN></P>
+<P class="p47 ft19"><SPAN class="ft56">3</SPAN><SPAN class="ft57">EGT L 278, 8.10.1976, s. 1.</SPAN></P>
+</DIV>
+<DIV id="id_2">
+<P class="p31 ft2">Prop. 2002/03:97</P>
+<P class="p31 ft2">Bilaga 3</P>
+<P class="p163 ft2">32</P>
+</DIV>
+</DIV>
+</DIV>
+<DIV id="page_33">
+
+
+<DIV>
+<DIV id="id_1">
+<P class="p197 ft2">3. Artikel 2 skall ersättas med följande artiklar: "Artikel 2</P>
+<P class="p119 ft2">Varje medlemsstat får, i enlighet med sin specifika nationella situation, upprätta valkretsar för val till Europaparlamentet eller föreskriva indelning i andra enheter, utan att detta får inkräkta på valsystemets proportionella karaktär.</P>
+<P class="p157 ft2">Artikel 2a</P>
+<P class="p119 ft2">Medlemsstaterna får fastställa en lägsta tröskel för fördelningen av mandaten. Denna tröskel får inte sättas högre än 5 procent av de avgivna rösterna på nationell nivå.</P>
+<P class="p157 ft2">Artikel 2b</P>
+<P class="p119 ft2">Varje medlemsstat får fastställa ett tak för kandidaternas utgifter i samband med valkampanjen."</P>
+<P class="p198 ft2"><SPAN class="ft4">4.</SPAN><SPAN class="ft28">Artikel 3 skall ändras på följande sätt:</SPAN></P>
+<P class="p158 ft2"><SPAN class="ft4">a)</SPAN><SPAN class="ft28">Punkt 1 skall utgå och punkterna 2 och 3 skall betecknas 1 och 2.</SPAN></P>
+<P class="p105 ft5"><SPAN class="ft5">b)</SPAN><SPAN class="ft50">I den nya punkt 1 skall orden "Denna femårsperiod" ersättas med "Den femårsperiod för vilken Europaparlamentets ledamöter valts".</SPAN></P>
+<P class="p37 ft2"><SPAN class="ft5">c)</SPAN><SPAN class="ft12">I den nya punkt 2 skall hänvisningen till "punkt 2" ersättas med en hänvisning till "punkt 1".</SPAN></P>
+<P class="p198 ft2"><SPAN class="ft4">5.</SPAN><SPAN class="ft28">Artikel 4.2 skall ersättas med följande:</SPAN></P>
+<P class="p199 ft2">"2. Europaparlamentets ledamöter skall åtnjuta den immunitet och de privilegier som gäller för dem enligt protokollet om Europeiska gemenskapernas immunitet och privilegier av den 8 april 1965."</P>
+<P class="p198 ft2"><SPAN class="ft4">6.</SPAN><SPAN class="ft28">Artikel 5 skall upphöra att gälla.</SPAN></P>
+<P class="p46 ft2"><SPAN class="ft4">7.</SPAN><SPAN class="ft28">Artikel 6 skall ändras på följande sätt:</SPAN></P>
+<P class="p158 ft2"><SPAN class="ft4">a)</SPAN><SPAN class="ft28">I punkt 1:</SPAN></P>
+<P class="p119 ft2"><SPAN class="ft2">i)</SPAN><SPAN class="ft13">I slutet av tredje strecksatsen skall orden "eller förstainstansrätten" läggas till.</SPAN></P>
+<P class="p100 ft4"><SPAN class="ft2">ii)</SPAN><SPAN class="ft58">Mellan den nuvarande tredje och fjärde strecksatsen skall följande strecksats läggas till: "- ledamot i Europeiska centralbankens direktion".</SPAN></P>
+<P class="p200 ft2"><SPAN class="ft2">iii)</SPAN><SPAN class="ft13">Mellan den nuvarande fjärde och femte strecksatsen skall följande strecksats läggas till: "- </SPAN><NOBR>EU-ombudsmannen".</NOBR></P>
+<P class="p100 ft4"><SPAN class="ft5">iv)</SPAN><SPAN class="ft58">I den nuvarande femte strecksatsen skall orden "medlem av Rådgivande kommittén i Europeiska kol- och stålgemenskapen eller" utgå.</SPAN></P>
+<P class="p200 ft2"><SPAN class="ft2">v)</SPAN><SPAN class="ft12">I den nuvarande sjätte strecksatsen skall orden "Europeiska kol- och stålgemenskapen," utgå.</SPAN></P>
+<P class="p107 ft2"><SPAN class="ft2">vi)</SPAN><SPAN class="ft51">Den nuvarande åttonde strecksatsen skall ersättas med följande text: "- tjänsteman eller annan anställd i aktiv tjänst inom Europeiska gemenskapernas institutioner eller i organ som är knutna till dem, eller i Europeiska centralbanken."</SPAN></P>
+<P class="p119 ft2">b) Efter punkt 1 skall följande punkt införas, och de nuvarande punkterna 2 och 3 skall betecknas 3 och 4:</P>
+<P class="p107 ft2">"2. Från och med valet till Europaparlamentet år 2004 skall uppdraget som ledamot av Europaparlamentet inte vara förenligt med uppdraget som ledamot av ett nationellt parlament.</P>
+</DIV>
+<DIV id="id_2">
+<P class="p31 ft2">Prop. 2002/03:97</P>
+<P class="p31 ft2">Bilaga 3</P>
+<P class="p163 ft2">33</P>
+</DIV>
+</DIV>
+</DIV>
+<DIV id="page_34">
+
+
+<TABLE cellpadding=0 cellspacing=0 class="t1">
+<TR>
+	<TD class="tr7 td28"><SPAN class="p115 ft5">Utan hinder av denna regel och utan att det påverkar tillämpningen av</SPAN> </TD>
+	<TD class="tr7 td23"><SPAN class="p12 ft4">Prop. 2002/03:97</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr3 td28"><SPAN class="p12 ft2">bestämmelserna i punkt 3 får</SPAN> </TD>
+	<TD class="tr3 td23"><SPAN class="p12 ft2">Bilaga 3</SPAN> </TD>
+</TR>
+</TABLE>
+<P class="p10 ft2"><SPAN class="ft5">-</SPAN><SPAN class="ft29">de ledamöter av Irlands nationella parlament som vid ett senare val väljs till ledamöter av Europaparlamentet utöva båda mandaten samtidigt fram till följande val till Irlands nationella parlament, då första stycket i denna punkt skall tillämpas,</SPAN></P>
+<P class="p10 ft2"><SPAN class="ft5">-</SPAN><SPAN class="ft13">de ledamöter av Förenade kungarikets nationella parlament som under den femårsperiod som föregår valet till Europaparlamentet 2004 även är ledamöter av Europaparlamentet utöva båda mandaten samtidigt fram till valet till Europaparlamentet 2009, då första stycket i denna punkt skall tillämpas."</SPAN></P>
+<P class="p26 ft2">c) I den nya punkt 3 skall ordet "fastställa" ersättas med ordet "utöka" och hänvisningen till "artikel 7.2" ersättas med en hänvisning till "artikel 7".</P>
+<P class="p10 ft2">d) I den nya punkt 4 skall hänvisningen till "punkterna 1 och 2" ersättas med en hänvisning till "punkterna 1, 2 och 3".</P>
+<P class="p76 ft2"><SPAN class="ft4">8.</SPAN><SPAN class="ft28">Artikel 7 skall ersättas med följande:</SPAN></P>
+<P class="p65 ft2">"Artikel 7</P>
+<P class="p29 ft8">Om inte annat följer av bestämmelserna i denna akt skall valförfarandet i varje medlemsstat genomföras enligt de nationella bestämmelserna.</P>
+<P class="p184 ft2">I dessa nationella bestämmelser kan nationella särdrag i medlemsstaterna eventuellt beaktas, men de får inte inkräkta på valsystemets proportionella karaktär."</P>
+<P class="p75 ft2"><SPAN class="ft4">9.</SPAN><SPAN class="ft28">Artikel 9 skall ändras på följande sätt:</SPAN></P>
+<P class="p96 ft2"><SPAN class="ft4">a)</SPAN><SPAN class="ft28">I punkt 1 skall orden "den dag" ersättas med "den dag och den tid".</SPAN></P>
+<P class="p26 ft2"><SPAN class="ft5">b)</SPAN><SPAN class="ft29">I punkt 2 skall orden "Rösträkningen får inte börja" ersättas med "En medlemsstat får inte officiellt meddela sitt valresultat".</SPAN></P>
+<P class="p96 ft2"><SPAN class="ft5">c)</SPAN><SPAN class="ft28">Punkt 3 skall utgå.</SPAN></P>
+<P class="p75 ft2"><SPAN class="ft4">10.</SPAN><SPAN class="ft12">Artikel 10 skall ändras på följande sätt:</SPAN></P>
+<P class="p26 ft2"><SPAN class="ft4">a)</SPAN><SPAN class="ft13">I punkt 1 skall orden "den period som avses i artikel 9.1" ersättas med "valperioden".</SPAN></P>
+<P class="p29 ft3"><SPAN class="ft5">b)</SPAN><SPAN class="ft27">I punkt 2 andra stycket skall orden "bestämma en annan period som inte får infalla mer än en månad före" ersättas med "minst ett år före utgången av den femårsperiod som avses i artikel 3 bestämma en annan valperiod, som inte får infalla mer än två månader före".</SPAN></P>
+<P class="p89 ft11"><SPAN class="ft5">c)</SPAN><SPAN class="ft38">I punkt 3 skall orden "artikel 22 i Fördraget om upprättandet av Eu- ropeiska kol- och stålgemenskapen" utgå, orden "Europeiska ekonomiska gemenskapen" skall ersättas med "Europeiska gemenskapen" och orden "den i artikel 9.1 avsedda perioden" skall ersättas med "valperioden".</SPAN></P>
+<P class="p67 ft2"><SPAN class="ft4">11.</SPAN><SPAN class="ft29">I artikel 11 skall orden "Till dess att den enhetliga valordning som avses i artikel 7.1 träder i kraft," utgå, och ordningsföljden mellan orden "skall" och "Europaparlamentet" skall kastas om.</SPAN></P>
+<P class="p201 ft2">34</P>
+</DIV>
+<DIV id="page_35">
+
+
+<TABLE cellpadding=0 cellspacing=0 class="t1">
+<TR>
+	<TD class="tr7 td28"><SPAN class="p12 ft2">12. Artikel 12 skall ersättas med följande:</SPAN> </TD>
+	<TD class="tr7 td23"><SPAN class="p12 ft4">Prop. 2002/03:97</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr3 td28"><SPAN class="p12 ft2">"Artikel 12</SPAN> </TD>
+	<TD class="tr3 td23"><SPAN class="p12 ft2">Bilaga 3</SPAN> </TD>
+</TR>
+</TABLE>
+<P class="p89 ft3"><SPAN class="ft4">1.</SPAN><SPAN class="ft32">En plats blir vakant när mandatet för en ledamot av Europaparlamentet upphör på grund av att han begär sitt entledigande, avsätts eller avlider, eller på grund av att mandattiden löper ut.</SPAN></P>
+<P class="p26 ft2"><SPAN class="ft4">2.</SPAN><SPAN class="ft13">Om inte annat följer av de övriga bestämmelserna i denna akt, skall varje medlemsstat fastställa lämpliga förfaranden för hur en plats som blir vakant skall besättas under återstoden av den femårsperiod som avses i artikel 3.</SPAN></P>
+<P class="p10 ft2"><SPAN class="ft4">3.</SPAN><SPAN class="ft51">Om det uttryckligen fastställs i en medlemsstats lagstiftning när mandattiden för en ledamot av Europaparlamentet löper ut, skall dennes mandat upphöra i enlighet med bestämmelserna i denna lagstiftning. De behöriga nationella myndigheterna skall underrätta Europaparlamentet om detta.</SPAN></P>
+<P class="p10 ft2"><SPAN class="ft4">4.</SPAN><SPAN class="ft12">Om en plats blir vakant på grund av att ledamoten begär sitt entledigande, avsätts eller avlider, skall Europaparlamentets ordförande utan dröjsmål underrätta de behöriga myndigheterna i den berörda medlemsstaten."</SPAN></P>
+<P class="p75 ft2"><SPAN class="ft4">13.</SPAN><SPAN class="ft12">Artikel 14 skall upphöra att gälla.</SPAN></P>
+<P class="p76 ft2"><SPAN class="ft4">14.</SPAN><SPAN class="ft12">Artikel 15 skall ersättas med följande:</SPAN></P>
+<P class="p57 ft2">"Artikel 15</P>
+<P class="p26 ft2">Denna akt är upprättad på danska, engelska, finska, franska, grekiska, iriska, italienska, nederländska, portugisiska, spanska, svenska och tyska språken, vilka alla texter är lika giltiga.</P>
+<P class="p202 ft2">Bilagorna II och II skall utgöra en integrerad del av denna akt."</P>
+<P class="p76 ft2"><SPAN class="ft4">15.</SPAN><SPAN class="ft12">Bilaga I skall upphöra att gälla.</SPAN></P>
+<P class="p66 ft2"><SPAN class="ft4">16.</SPAN><SPAN class="ft29">I bilaga III skall förklaringen av Förbundsrepubliken Tysklands regering utgå.</SPAN></P>
+<P class="p153 ft2">Artikel 2</P>
+<P class="p74 ft2"><SPAN class="ft4">1.</SPAN><SPAN class="ft13">Artiklar i och bilagor till 1976 års akt, i deras lydelser enligt detta beslut, skall omnumreras i enlighet med jämförelsetabellerna i bilagan till detta beslut, som utgör en integrerad del av detta.</SPAN></P>
+<P class="p203 ft5"><SPAN class="ft4">2.</SPAN><SPAN class="ft50">Hänvisningarna till artiklar i och bilagor till 1976 års akt skall anpassas i enlighet därmed. Detsamma gäller hänvisningar till dessa artiklar och till deras underavdelningar i gemenskapsfördragen.</SPAN></P>
+<P class="p204 ft3"><SPAN class="ft4">3.</SPAN><SPAN class="ft27">Hänvisningar till artiklar i 1976 års akt i andra instrument eller rättsakter skall tolkas som hänvisningar till artiklar i 1976 års akt enligt den omnumrering som nämns i punkt 1 respektive till punkterna i dessa artiklar enligt omnumreringen genom detta beslut.</SPAN></P>
+<P class="p4 ft2">Artikel 3</P>
+<P class="p74 ft2">1. De ändringar som avses i artiklarna 1 och 2 får verkan den första dagen i den månad som följer efter medlemsstaternas antagande av bestämmelserna i detta beslut i enlighet med deras respektive konstitutionella bestämmelser.</P>
+<P class="p185 ft2">35</P>
+</DIV>
+<DIV id="page_36">
+
+
+<TABLE cellpadding=0 cellspacing=0 class="t13">
+<TR>
+	<TD class="tr7 td28"><SPAN class="p12 ft5">2. Medlemsstaterna skall till rådets generalsekretariat anmäla när de har</SPAN> </TD>
+	<TD class="tr7 td23"><SPAN class="p12 ft4">Prop. 2002/03:97</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr19 td28"><SPAN class="p12 ft20">genomfört respektive nationella förfaranden.</SPAN> </TD>
+	<TD class="tr19 td23"><SPAN class="p12 ft20">Bilaga 3</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr20 td28"><SPAN class="p12 ft2">Artikel 4</SPAN> </TD>
+	<TD class="tr20 td23"><SPAN class="p12 ft6">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr3 td28"><SPAN class="p115 ft5">Detta beslut skall offentliggöras i Europeiska gemenskapernas officiel-</SPAN> </TD>
+	<TD class="tr3 td23"><SPAN class="p12 ft6">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr3 td28"><SPAN class="p12 ft2">la tidning.</SPAN> </TD>
+	<TD class="tr3 td23"><SPAN class="p12 ft6">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr21 td28"><SPAN class="p115 ft2">Utfärdat i Luxemburg den 25 juni 2002.</SPAN> </TD>
+	<TD class="tr21 td23"><SPAN class="p12 ft6">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr3 td28"><SPAN class="p115 ft2">På rådets vägnar</SPAN> </TD>
+	<TD class="tr3 td23"><SPAN class="p12 ft6">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr3 td28"><SPAN class="p115 ft2">J. Matas I Palou</SPAN> </TD>
+	<TD class="tr3 td23"><SPAN class="p12 ft6">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr6 td28"><SPAN class="p115 ft2">Ordförande</SPAN> </TD>
+	<TD class="tr6 td23"><SPAN class="p12 ft6">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr21 td28"><SPAN class="p115 ft2">Utfärdat i Bryssel den 23 september 2002.</SPAN> </TD>
+	<TD class="tr21 td23"><SPAN class="p12 ft6">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr3 td28"><SPAN class="p115 ft2">På rådets vägnar</SPAN> </TD>
+	<TD class="tr3 td23"><SPAN class="p12 ft6">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr3 td28"><SPAN class="p115 ft2">M. Fischer Boel</SPAN> </TD>
+	<TD class="tr3 td23"><SPAN class="p12 ft6">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr3 td28"><SPAN class="p115 ft2">Ordförande</SPAN> </TD>
+	<TD class="tr3 td23"><SPAN class="p12 ft6">&nbsp;</SPAN> </TD>
+</TR>
+</TABLE>
+<P class="p205 ft2">BILAGA</P>
+<P class="p206 ft3">Jämförelsetabell enligt artikel 2 i rådets beslut 2002/772/EG, Euratom av den 25 juni 2002 och av den 23 september 2002 om ändring av akten om allmänna direkta val av företrädare i Europaparlamentet, som utgör en bilaga till beslut 76/787/EKSG, EEG, Euratom.</P>
+<P class="p207 ft2">36</P>
+</DIV>
+<DIV id="page_37">
+
+
+<DIV id="id_1">
+<DIV id="id_1_1">
+<P class="p190 ft1">Sammanfattning av delar av 1999 års författningsutrednings betänkande Offentliga valförberedelser (SOU 2001:99)</P>
+<P class="p208 ft3">Det skall ske en särskild officiell redovisning av antalet ogiltiga röster i form av valsedlar utan anmäld partibeteckning. Redovisningen skall med andra ord omfatta såväl röster på oanmälda partibeteckningar som s.k. blankröster, dvs. valsedlar som helt saknar partibeteckning.</P>
+</DIV>
+<DIV id="id_1_2">
+<P class="p31 ft2">Prop. 2002/03:97</P>
+<P class="p31 ft2">Bilaga 4</P>
+</DIV>
+</DIV>
+<DIV id="id_2">
+<P class="p31 ft2">37</P>
+</DIV>
+</DIV>
+<DIV id="page_38">
+
+<DIV id="tx1"><SPAN class="ft3">När den centrala valmyndigheten har fördelat mandaten mellan partierna och utsett ledamöter eller företrädare och ersättare skall valresultatet tillkännages genom att det kungörs i Post- och Inrikes Tidningar. Därmed är valet avslutat.</SPAN></DIV>
+
+<DIV class="dclr"></DIV>
+<DIV>
+<DIV id="id_1">
+<DIV id="id_1_1">
+<P class="p209 ft1">Delar av 1999 års författningsutrednings författningsförslag i betänkandet Offentliga valförberedelser (SOU 2001:99)</P>
+<P class="p210 ft2">Transumt</P>
+<P class="p31 ft2"><NOBR>----------------------------</NOBR></P>
+<P class="p31 ft16">Förslag till lag om ändring i vallagen (1997:157)</P>
+<P class="p211 ft5">Härigenom föreskrivs att 8 kap. 14 och 15 §§ vallagen (1997:157) skall</P>
+<TABLE cellpadding=0 cellspacing=0 class="t15">
+<TR>
+	<TD class="tr7 td24"><SPAN class="p12 ft2">ha följande lydelse.</SPAN> </TD>
+	<TD class="tr7 td25"><SPAN class="p12 ft6">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr7 td24"><SPAN class="p12 ft2">Nuvarande lydelse</SPAN> </TD>
+	<TD class="tr7 td25"><SPAN class="p12 ft4">Föreslagen lydelse</SPAN> </TD>
+</TR>
+</TABLE>
+<P class="p34 ft2">18 kap.</P>
+<P class="p35 ft2">14 §</P>
+<P class="p212 ft3">När den centrala valmyndigheten har fördelat mandaten mellan de anmälda partierna och utsett ledamöter eller företrädare och ersättare skall valresultatet tillkännages genom att det kungörs i Post- och Inrikes Tidningar. Kungörelsen skall innehålla uppgift om</P>
+<P class="p213 ft2">1. antalet giltiga och ogiltiga röster,</P>
+<P class="p214 ft2">2. hur rösterna fördelar sig på anmälda partier, och</P>
+<P class="p214 ft2">3. antalet ogiltiga röster i form av valsedlar som har partibeteckning för parti som inte har anmält sitt deltagande eller saknar partibeteckning.</P>
+<P class="p215 ft2">Därmed är valet avslutat.</P>
+<P class="p119 ft2">Det skall också kungöras i Post- och Inrikes Tidningar, när nya ledamöter och ersättare utsetts enligt <NOBR>58–60§§</NOBR> eller nya företrädare och ersättare utsetts enligt <NOBR>67–69§§.</NOBR></P>
+</DIV>
+<DIV id="id_1_2">
+<DIV id="id_1_2_1">
+<P class="p43 ft11">När länsstyrelsen har fördelat mandaten mellan partierna och utsett ledamöter och ersättare skall valresultatet kungöras genom att protokollet läggs fram för granskning.</P>
+<P class="p216 ft2">Därmed är valet avslutat.</P>
+</DIV>
+<DIV id="id_1_2_2">
+<P class="p31 ft2">15 §</P>
+<P class="p217 ft3">När länsstyrelsen har fördelat mandaten mellan de anmälda partierna och utsett ledamöter och ersättare skall valresultatet kungöras genom att protokollet läggs fram för granskning. Protokollet skall innehålla uppgift om</P>
+<P class="p218 ft2"><SPAN class="ft5">1.</SPAN><SPAN class="ft13">antalet giltiga och ogiltiga röster, och</SPAN></P>
+<P class="p219 ft2"><SPAN class="ft5">2.</SPAN><SPAN class="ft28">hur rösterna fördelar sig på anmälda partier, och</SPAN></P>
+<P class="p220 ft2"><SPAN class="ft5">3.</SPAN><SPAN class="ft28">antalet ogiltiga röster i form av</SPAN></P>
+</DIV>
+</DIV>
+</DIV>
+<DIV id="id_2">
+<P class="p31 ft2">Prop. 2002/03:97</P>
+<P class="p31 ft2">Bilaga 5</P>
+<P class="p163 ft2">38</P>
+</DIV>
+</DIV>
+</DIV>
+<DIV id="page_39">
+<DIV id="dimg1">
+<INGENBILD zsrc="GQ039739x1.jpg/" id="img1">
+</DIV>
+
+
+<DIV id="id_1">
+<DIV id="id_1_1">
+<P class="p221 ft2">Detsamma skall gälla när nya ledamöter och ersättare utsetts enligt <NOBR>61–66</NOBR> §§.</P>
+<P class="p222 ft2">Denna lag träder i kraft den</P>
+</DIV>
+<DIV id="id_1_2">
+<TABLE cellpadding=0 cellspacing=0 class="t16">
+<TR>
+	<TD class="tr7 td43"><SPAN class="p12 ft2">valsedlar som har partibeteckning</SPAN> </TD>
+	<TD class="tr7 td23"><SPAN class="p12 ft4">Prop. 2002/03:97</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr19 td43"><SPAN class="p12 ft20">för parti som inte har anmält sitt</SPAN> </TD>
+	<TD class="tr19 td23"><SPAN class="p12 ft20">Bilaga 5</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr3 td43"><SPAN class="p12 ft2">deltagande eller som saknar parti-</SPAN> </TD>
+	<TD class="tr3 td23"><SPAN class="p12 ft6">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr6 td43"><SPAN class="p12 ft2">beteckning.</SPAN> </TD>
+	<TD class="tr6 td23"><SPAN class="p12 ft6">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr3 td43"><SPAN class="p2 ft20">Därmed är valet avslutat.</SPAN> </TD>
+	<TD class="tr3 td23"><SPAN class="p12 ft6">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr3 td43"><SPAN class="p2 ft2">När nya ledamöter och ersättare</SPAN> </TD>
+	<TD class="tr3 td23"><SPAN class="p12 ft6">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr3 td43"><SPAN class="p12 ft2">utsetts enligt <NOBR>61–66</NOBR> §§ skall detta</SPAN> </TD>
+	<TD class="tr3 td23"><SPAN class="p12 ft6">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr3 td43"><SPAN class="p12 ft2">också kungöras genom att proto-</SPAN> </TD>
+	<TD class="tr3 td23"><SPAN class="p12 ft6">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr3 td43"><SPAN class="p12 ft2">kollet läggs fram för granskning.</SPAN> </TD>
+	<TD class="tr3 td23"><SPAN class="p12 ft6">&nbsp;</SPAN> </TD>
+</TR>
+</TABLE>
+</DIV>
+</DIV>
+<DIV id="id_2">
+<P class="p31 ft2">39</P>
+</DIV>
+</DIV>
+<DIV id="page_40">
+
+
+<DIV id="id_1">
+<DIV id="id_1_1">
+<P class="p31 ft1">Förteckning över remissinstanser (SOU 2001:99)</P>
+<P class="p223 ft11">Valprövningsnämnden, Riksdagens ombudsmän, Svea hovrätt, Malmö tingsrätt, Göteborgs tingsrätt, Kammarrätten i Stockholm, Länsrätten i Stockholms län, Länsrätten i Göteborg, Justitiekanslern, Statskontoret, Valmyndigheten, Länsstyrelsen i Stockholms län, Länsstyrelsen i Uppsala län, Länsstyrelsen i Östergötlands län, Länsstyrelsen i Kronobergs län, Länsstyrelsen i Skåne län, Länsstyrelsen i Hallands län, Länsstyrelsen i Västa Götalands län, Länsstyrelsen i Gävleborgs län, Länsstyrelsen i Västernorrlands län, Juridisk fakulteten vid Uppsala universitet, Statsvetenskapliga institutionen vid Uppsala universitet, Juridiska fakulteten vid Lunds universitet, Statsvetenskapliga institutionen vid Lunds universitet, Juridiska fakulteten vid Stockholms universitet, Statsvetenskapliga institutionen vid Stockholms universitet, Samhällsvetenskapliga fakultetsnämnden vid Göteborgs universitet, Stockholms kommun, Tierps kommun, Norrköpings kommun, Karlshamns kommun, Malmö kommun, Falkenbergs kommun, Norbergs kommun, Falu kommun, Östersunds kommun, Umeå kommun, Arjeplogs kommun, Stockholms läns landsting, Östergötlands läns landsting, Skåne läns landsting, Västra Götalands läns landsting, Västmanlands läns landsting, Norrbottens läns landsting, Kyrkostyrelsen, Pensionärernas riksorganisation, Svenska Kommunförbundet, Landstingsförbundet, Svenska Samernas Riksförbund, Landsorganisationen i Sverige (LO) och Tjänstemännens Centralorganisation (TCO). Härutöver har Sametinget inkommit med yttrande.</P>
+</DIV>
+<DIV id="id_1_2">
+<P class="p31 ft2">Prop. 2002/03:97</P>
+<P class="p31 ft2">Bilaga 6</P>
+</DIV>
+</DIV>
+<DIV id="id_2">
+<P class="p31 ft2">40</P>
+</DIV>
+</DIV>
+<DIV id="page_41">
+<DIV id="dimg1">
+<INGENBILD zsrc="GQ039741x1.jpg/" id="img1">
+</DIV>
+
+
+<TABLE cellpadding=0 cellspacing=0 class="t17">
+<TR>
+	<TD rowspan=2 class="tr22 td28"><SPAN class="p12 ft1">Justitiedepartementet</SPAN> </TD>
+	<TD class="tr4 td23"><SPAN class="p12 ft4">Prop. 2002/03:97</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr23 td23"><SPAN class="p12 ft59">&nbsp;</SPAN> </TD>
+</TR>
+</TABLE>
+<P class="p224 ft2">Utdrag ur protokoll vid regeringssammanträde den 22 maj 2003</P>
+<P class="p225 ft2">Närvarande: statsministern Persson, ordförande, och statsråden Winberg, Ulvskog, Lindh, Sahlin, Östros, Messing, Engqvist, Lövdén, Ringholm, Bodström, Karlsson J. O., Karlsson H., Nykvist, Lund, Nuder, Johansson, Hallengren, Björklund</P>
+<P class="p4 ft2">Föredragande: statsrådet Nuder</P>
+<P class="p226 ft2">Regeringen beslutar proposition Godkännande av ändringar i EG:s regler om val till Europaparlamentet, m.m.</P>
+<P class="p227 ft2">41</P>
+</DIV>
+
+</div><style>
+
+
+TD,TD.p2h {
+zzzfont-size:90%;
+zzzmargin-right:2px;
+zzzoverflow:visable;
+zzzword-wrap: break-word;
+}
+
+P {
+zdisplay:block;
+}
+
+.divbreak {
+clear:both;
+display:block;
+zwidth: 100%;
+zheight: 1px;
+zword-wrap: break-word;
+}
+
+
+.xecp {
+  display:block;
+  margin: 0px !important;
+  padding: 0px !important;
+  
+}
+
+.ec {
+  border-style:solid;
+  border-width:1px;
+  display:block;
+  margin: 0px !important;
+  padding: 0px !important;
+}
+
+.TOPS {
+  overflow:visable;
+  margin:2px;
+  width:690px !important;
+}
+
+</style>

@@ -1,0 +1,668 @@
+SEARCH TERM: AI
+DOCUMENT ID: hd022819
+TITLE: Vissa kulturpolitiska frågor
+TYPE: mot
+SUBTYPE: Partimotion
+DATE: 2025-10-06
+PARLIAMENTARY YEAR: 2025/26
+ORGANISATION: KrU
+STATUS: Hänvisad
+DOWNLOADED: 2026-01-22 10:25:05
+================================================================================
+
+<style><!-- 
+ @page Section1 { size:595.3pt 841.9pt; margin:35.45pt 85.05pt 56.7pt }
+div.Section1 { page:Section1 }
+div.pconf body { t-i:14.2pt; line-height:150%; font-family:'Verdana'; font-size: 0.90em }
+div.pconf h1, h2, h3, h4, h5, h6, p { margin:0pt }
+div.pconf li, table { margin-top:0pt; margin-bottom:0pt }
+div.pconf h1 { margin-top:41pt; margin-left:21.6pt; margin-bottom:0pt; t-i:-21.6pt; page-break-inside:avoid; page-break-after:avoid; line-height:19.5pt; font-family:'Verdana'; font-size: 1.05em; font-weight:normal; color:#000000 }
+div.pconf h2 { margin-top:30pt; margin-left:28.8pt; margin-bottom:0pt; t-i:-28.8pt; page-break-inside:avoid; page-break-after:avoid; line-height:17pt; font-family:'Verdana'; font-size: 1.00em; font-weight:normal; color:#000000 }
+div.pconf h3 { margin-top:18pt; margin-left:36pt; margin-bottom:0pt; t-i:-36pt; page-break-inside:avoid; page-break-after:avoid; line-height:15pt; font-family:'Verdana'; font-size: 0.90em; font-weight:bold; color:#000000 }
+div.pconf h4 { margin-top:18pt; margin-left:43.2pt; margin-bottom:0pt; t-i:-43.2pt; page-break-inside:avoid; page-break-after:avoid; line-height:15pt; font-family:'Verdana'; font-size: 0.90em; font-weight:normal; font-style:italic; color:#000000 }
+div.pconf h5 { margin-top:15pt; margin-left:50.4pt; margin-bottom:0pt; t-i:-50.4pt; page-break-inside:avoid; page-break-after:avoid; line-height:15pt; font-family:'Verdana'; font-size: 0.90em; font-weight:bold; font-style:normal; color:#000000 }
+div.pconf h6 { margin-top:15pt; margin-left:57.6pt; margin-bottom:0pt; t-i:-57.6pt; page-break-inside:avoid; page-break-after:avoid; line-height:15pt; font-family:'Verdana'; font-size: 0.90em; font-weight:normal; font-style:italic; color:#000000 }
+.Heading7 { margin-top:15pt; margin-left:64.8pt; margin-bottom:0pt; t-i:-64.8pt; page-break-inside:avoid; page-break-after:avoid; line-height:15pt; font-family:'Verdana'; font-size: 0.90em; font-weight:normal; font-style:italic; color:#000000; -aw-style-name:heading7 }
+.Heading8 { margin-top:15pt; margin-left:72pt; margin-bottom:0pt; t-i:-72pt; page-break-inside:avoid; page-break-after:avoid; line-height:15pt; font-family:'Verdana'; font-size: 0.90em; font-weight:normal; font-style:italic; color:#000000; -aw-style-name:heading8 }
+.Heading9 { margin-top:0pt; margin-left:79.2pt; margin-bottom:0pt; t-i:-79.2pt; page-break-inside:avoid; page-break-after:avoid; line-height:15pt; font-family:'Verdana'; font-size: 0.90em; font-weight:normal; font-style:italic; color:#000000; -aw-style-name:heading9 }
+.BalloonText { margin-bottom:0pt; t-i:14.2pt; line-height:normal; font-family:'Segoe UI'; font-size: 0.90em }
+.Beteckning { margin-top:18pt; margin-bottom:0pt; t-i:14.2pt; page-break-inside:auto; page-break-after:auto; line-height:19.5pt; font-size: 1.05em }
+.BlockText, .Inramatstycke { margin-right:56.7pt; margin-left:56.7pt; margin-bottom:0pt; t-i:0pt; text-align:nojustify; line-height:150%; border:0.75pt solid #000000; padding:10pt; font-size: 0.90em; font-style:italic; -aw-border:0.25pt single }
+.Citaticitat { margin-top:7.5pt; margin-left:34pt; margin-bottom:0pt; t-i:0pt; line-height:150%; font-size: 0.90em }
+.Citaticitatmedindrag { margin-top:0pt; margin-left:34pt; margin-bottom:7.5pt; t-i:17pt; line-height:150%; font-size: 0.90em }
+.Citatmedindrag { margin-top:0pt; margin-left:17pt; margin-bottom:0pt; t-i:17pt; line-height:150%; font-size: 0.90em }
+.CommentSubject { margin-bottom:0pt; t-i:14.2pt; line-height:normal; font-size: 0.90em; font-weight:bold }
+.CommentText { margin-bottom:0pt; t-i:14.2pt; line-height:normal; font-size: 0.90em }
+.FSHLogo { margin-top:4pt; margin-bottom:0pt; t-i:0pt; line-height:normal; font-size: 0.90em }
+.FSHNormL { margin-top:4pt; margin-bottom:0pt; t-i:0pt; line-height:15pt; border-top:1.5pt solid #000000; padding-top:3pt; font-size: 0.90em }
+.FSHNormal { margin-top:4pt; margin-bottom:0pt; t-i:0pt; line-height:15pt; font-size: 0.90em }
+.FSHNormalS5 { margin-top:11.5pt; margin-bottom:26pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-size: 0.95em; font-weight:bold }
+.FSHRub1, .Rubrik1S5 { margin-top:135pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:16pt; font-size: 1.00em }
+.FSHRub2, .Rubrik1A4 { margin-top:50pt; margin-bottom:5pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:24pt; font-size: 1.05em }
+.FSHTitel, .Dokumentrubrik { margin-top:4pt; margin-bottom:4pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:20pt; border-bottom:0.75pt solid #000000; padding-bottom:3pt; font-size: 1.05em; -aw-border-bottom:0.5pt single }
+.Footer { margin-top:4pt; margin-bottom:0pt; t-i:0pt; text-align:center; line-height:normal; font-size: 0.90em }
+.FootnoteText { margin-top:0pt; margin-bottom:0pt; t-i:0pt; line-height:12pt; font-size: 0.90em }
+.Frslagsrubrik { margin-top:41pt; margin-left:21.6pt; margin-bottom:0pt; t-i:-21.6pt; page-break-inside:avoid; page-break-after:avoid; line-height:19.5pt; font-family:'Verdana'; font-size: 1.05em }
+.Frslagstext, .Hemstlatt, .Yrkande { margin-top:4pt; margin-left:19.85pt; margin-bottom:0pt; t-i:-19.85pt; line-height:150%; font-size: 0.90em }
+.Header { margin-top:4pt; margin-bottom:0pt; t-i:0pt; line-height:normal; font-size: 0.90em }
+.KantRubrikS5H { margin-top:6pt; margin-right:2.85pt; margin-bottom:0pt; t-i:0pt; text-align:right; line-height:8pt; font-size: 0.90em }
+.KantRubrikS5Hrad2 { margin-top:0pt; margin-right:2.85pt; margin-bottom:0pt; t-i:0pt; text-align:right; line-height:10pt; font-size: 0.90em }
+.KantRubrikS5V { margin-top:6pt; margin-right:0pt; margin-bottom:0pt; t-i:0pt; text-align:left; line-height:8pt; font-size: 0.90em }
+.KantRubrikS5Vrad2 { margin-top:0pt; margin-right:0pt; margin-bottom:0pt; t-i:0pt; text-align:left; line-height:10pt; font-size: 0.90em }
+.KantrubrikH { margin-top:4pt; margin-right:-82.2pt; margin-bottom:0pt; t-i:0pt; text-align:right; line-height:15pt; font-size: 0.90em }
+.KantrubrikV { margin-top:4pt; margin-left:-85.05pt; margin-bottom:0pt; t-i:0pt; line-height:normal; font-size: 0.90em }
+.Klla { margin-top:0pt; margin-bottom:0pt; t-i:0pt; line-height:12pt; font-size: 0.90em }
+.Lagtext { margin-top:4pt; margin-bottom:0pt; t-i:0pt; line-height:normal; font-size: 0.90em }
+.Lagtextindrag { margin-top:4pt; margin-bottom:0pt; t-i:14.2pt; line-height:normal; font-size: 0.90em }
+.Lagtextrubrik { margin-top:4pt; margin-bottom:0pt; t-i:0pt; line-height:normal; font-size: 0.90em; font-style:italic; letter-spacing:1pt }
+.List { margin-top:7.5pt; margin-left:17pt; margin-bottom:7.5pt; t-i:-17pt; line-height:150%; font-size: 0.90em }
+.ListBullet, .PunktlistaBomb { margin-top:4pt; margin-left:14.2pt; margin-bottom:0pt; t-i:-14.2pt; line-height:150%; font-size: 0.90em }
+.ListNumber, .PunktlistaNummer { margin-top:4pt; margin-left:14.2pt; margin-bottom:0pt; t-i:-14.2pt; line-height:150%; font-size: 0.90em }
+.ListParagraph { margin-left:36pt; margin-bottom:0pt; t-i:14.2pt; line-height:150%; font-size: 0.90em }
+.ListaGemener { margin-top:7.5pt; margin-left:17pt; margin-bottom:7.5pt; t-i:-17pt; line-height:150%; font-size: 0.90em }
+.ListaLinje { margin-top:7.5pt; margin-left:17pt; margin-bottom:7.5pt; t-i:-17pt; line-height:150%; font-size: 0.90em }
+.ListaNummer { margin-top:7.5pt; margin-left:17pt; margin-bottom:7.5pt; t-i:-17pt; line-height:150%; font-size: 0.90em }
+.ListaPunkt { margin-top:7.5pt; margin-left:17pt; margin-bottom:7.5pt; t-i:-17pt; line-height:150%; font-size: 0.90em }
+.MotionTIllRiksdagen { margin-top:18pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:19.5pt; font-size: 1.05em }
+.Motionr { margin-top:14pt; margin-bottom:31.5pt; t-i:0pt; page-break-inside:avoid; line-height:15pt; font-size: 1.00em; font-weight:bold; font-style:normal }
+.Motiveringrubrik2numrerat1 { margin-top:30pt; margin-left:0pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:17pt; font-family:'Verdana'; font-size: 1.00em }
+.Motiveringrubrik3numrerat1 { margin-top:18pt; margin-left:0pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:15pt; font-family:'Verdana'; font-size: 0.90em; font-weight:bold }
+.Motiveringrubrik3numrerat11 { margin-top:18pt; margin-left:0pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:15pt; font-family:'Verdana'; font-size: 0.90em; font-weight:bold }
+.Motiveringrubrik4numrerat11 { margin-top:18pt; margin-left:0pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:15pt; font-family:'Verdana'; font-size: 0.90em; font-weight:normal; font-style:italic }
+.NormalWeb { margin-bottom:0pt; t-i:14.2pt; line-height:150%; font-family:'Verdana'; font-size: 0.90em }
+.NormalIndent { margin-left:65.2pt; margin-bottom:0pt; t-i:14.2pt; line-height:150%; font-size: 0.90em }
+.Normalutanindragellerluft { margin-top:4pt; margin-bottom:0pt; t-i:0pt; line-height:150%; font-size: 0.90em }
+.Normal00 { margin-top:4pt; margin-bottom:0pt; t-i:0pt; line-height:normal; font-size: 0.90em }
+.NormalA4fot { margin-top:12pt; margin-bottom:0pt; t-i:0pt; text-align:center; line-height:normal; font-size: 0.90em }
+.NormalA4sidnr { margin-top:4pt; margin-bottom:12pt; t-i:0pt; text-align:center; line-height:normal; font-size: 0.90em }
+.NormalS5sidnrH { margin-top:4pt; margin-right:2.85pt; margin-bottom:0pt; t-i:0pt; text-align:right; line-height:normal; font-size: 0.90em }
+.NormalS5sidnrV { margin-top:4pt; margin-right:0pt; margin-bottom:0pt; t-i:0pt; text-align:left; line-height:normal; font-size: 0.90em }
+.PlainText { margin-bottom:0pt; t-i:0pt; line-height:12pt; font-family:'Verdana'; font-size: 0.90em }
+.Quote { margin-top:7.5pt; margin-left:17pt; margin-bottom:0pt; t-i:0pt; line-height:150%; font-size: 0.90em }
+.R1 { margin-top:41pt; margin-left:21.6pt; margin-bottom:0pt; t-i:-21.6pt; page-break-inside:avoid; page-break-after:avoid; line-height:19.5pt; font-family:'Verdana'; font-size: 1.05em }
+.R2 { margin-top:30pt; margin-left:28.8pt; margin-bottom:0pt; t-i:-28.8pt; page-break-inside:avoid; page-break-after:avoid; line-height:17pt; font-family:'Verdana'; font-size: 1.00em }
+.R3 { margin-top:18pt; margin-left:36pt; margin-bottom:0pt; t-i:-36pt; page-break-inside:avoid; page-break-after:avoid; line-height:15pt; font-family:'Verdana'; font-size: 0.90em; font-weight:bold }
+.Rubrik1numrerat { margin-top:41pt; margin-left:0pt; margin-bottom:0pt; t-i:0pt; page-break-inside:auto; page-break-after:avoid; line-height:19.5pt; font-family:'Verdana'; font-size: 1.05em }
+.Rubrik2numrerat { margin-top:30pt; margin-left:0pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:17pt; font-family:'Verdana'; font-size: 1.00em }
+.Rubrik3numrerat { margin-top:18pt; margin-left:0pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:15pt; font-family:'Verdana'; font-size: 0.90em; font-weight:bold }
+.Rubrik4numrerat { margin-top:18pt; margin-left:0pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:15pt; font-family:'Verdana'; font-size: 0.90em; font-weight:normal; font-style:italic }
+.RubrikFrslagTIllRiksdagsbeslut { margin-top:41pt; margin-left:21.6pt; margin-bottom:15pt; t-i:-21.6pt; page-break-inside:avoid; page-break-after:avoid; line-height:19.5pt; font-family:'Verdana'; font-size: 1.05em }
+.RubrikInnehllsf { margin-top:41pt; margin-left:21.6pt; margin-bottom:0pt; t-i:-21.6pt; page-break-inside:avoid; page-break-after:avoid; line-height:19.5pt; font-family:'Verdana'; font-size: 1.05em }
+.RubrikSammanf { margin-top:41pt; margin-left:21.6pt; margin-bottom:0pt; t-i:-21.6pt; page-break-inside:avoid; page-break-after:avoid; line-height:19.5pt; font-family:'Verdana'; font-size: 1.05em }
+.Salutation { margin-top:41pt; margin-left:21.6pt; margin-bottom:0pt; t-i:-21.6pt; page-break-inside:avoid; page-break-after:avoid; line-height:19.5pt; font-family:'Verdana'; font-size: 1.05em }
+.Streckkod { margin-top:12pt; margin-bottom:0pt; t-i:0pt; text-align:center; line-height:normal; font-family:IDAutomationHC39S; font-size: 1.00em }
+.Strecklista, .PunktlistaTankstreck { margin-top:4pt; margin-left:14.2pt; margin-bottom:0pt; t-i:-14.2pt; line-height:150%; font-size: 0.90em }
+.Subtitle { margin-top:4pt; margin-bottom:0pt; t-i:0pt; line-height:150%; font-family:'Verdana'; font-size: 0.90em; font-weight:bold }
+.TOC1 { margin-top:4pt; margin-bottom:0pt; t-i:0pt; line-height:150%; font-size: 0.90em }
+.TOC2 { margin-top:4pt; margin-left:14.2pt; margin-bottom:0pt; t-i:0pt; line-height:150%; font-size: 0.90em }
+.TOC3 { margin-top:4pt; margin-left:28.35pt; margin-bottom:0pt; t-i:0pt; line-height:150%; font-size: 0.90em }
+.TOC4 { margin-top:4pt; margin-left:42.55pt; margin-bottom:0pt; t-i:0pt; line-height:150%; font-size: 0.90em }
+.TOC5 { margin-top:4pt; margin-left:56.7pt; margin-bottom:0pt; t-i:0pt; line-height:150%; font-size: 0.90em }
+.TOC6 { margin-top:4pt; margin-left:56.7pt; margin-bottom:0pt; t-i:0pt; line-height:150%; font-size: 0.90em }
+.TOC7 { margin-top:15pt; margin-left:56.7pt; margin-bottom:0pt; t-i:14.2pt; page-break-inside:avoid; page-break-after:avoid; line-height:normal; font-family:'Verdana'; font-size: 0.90em; font-weight:normal; font-style:italic }
+.TOC8 { margin-top:15pt; margin-left:56.7pt; margin-bottom:0pt; t-i:14.2pt; page-break-inside:avoid; page-break-after:avoid; line-height:normal; font-family:'Verdana'; font-size: 0.90em; font-weight:normal; font-style:italic }
+.TOC9 { margin-top:15pt; margin-left:56.7pt; margin-bottom:0pt; t-i:14.2pt; page-break-inside:avoid; page-break-after:avoid; line-height:normal; font-family:'Verdana'; font-size: 0.90em; font-weight:normal; font-style:italic }
+.TOCHeading { margin-top:41pt; margin-left:21.6pt; margin-bottom:0pt; t-i:-21.6pt; page-break-inside:avoid; page-break-after:avoid; line-height:19.5pt; font-family:'Verdana'; font-size: 1.05em }
+.Tabellunderrubrik { margin-top:0pt; margin-bottom:0pt; t-i:0pt; page-break-after:avoid; line-height:150%; font-size: 0.90em; font-weight:normal; font-style:italic }
+.Tabellrubrik { margin-top:7.5pt; margin-bottom:0pt; t-i:0pt; page-break-after:avoid; line-height:150%; font-size: 0.90em; font-weight:bold }
+.Title { margin-top:41pt; margin-left:21.6pt; margin-bottom:0pt; t-i:-21.6pt; page-break-inside:avoid; page-break-after:avoid; line-height:19.5pt; font-family:'Verdana'; font-size: 1.05em }
+.Underskriftdatum { margin-top:24pt; margin-bottom:3pt; t-i:0pt; page-break-inside:avoid; line-height:15pt; font-size: 0.90em; font-style:normal }
+.Underskrifter { margin-top:15pt; margin-bottom:3pt; t-i:0pt; page-break-inside:avoid; line-height:15pt; font-size: 0.90em; font-style:italic }
+.Yrkandehnv, .Frslagspunkthnv { margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; font-size: 0.90em }
+.paragraph { margin-top:5pt; margin-bottom:5pt; t-i:0pt; line-height:normal; font-family:'Verdana'; font-size: 0.90em }
+span.BallongtextChar { font-family:'Segoe UI'; font-size: 0.90em }
+span.BeteckningChar { font-size:19.5pt }
+span.CommentReference { font-size:8pt }
+span.FSHRub2Char, span.Rubrik1A4Char { font-size:24pt }
+span.FotnotstextChar { font-size:10pt }
+span.Hyperlink { text-decoration:underline; color:#0563c1; -aw-style-name:hyperlink }
+span.InledningChar { font-family:'Verdana'; font-size: 1.00em; font-weight:bold }
+span.IntenseReference { font-weight:normal; font-style:normal; font-variant:normal; text-decoration:none; text-transform:none; letter-spacing:0pt; vertical-align:0pt; color:#000000; display:inline }
+span.KommentarerChar { font-size:10pt }
+span.KommentarsmneChar { font-size:10pt; font-weight:bold }
+span.MotionTIllRiksdagenChar { font-size:19.5pt }
+span.OformateradtextChar { font-family:'Verdana'; font-size: 0.90em }
+span.PlaceholderText { color:#f4b083 }
+span.Rubrik1Char { font-family:'Verdana'; font-size: 1.05em }
+span.Rubrik2Char { font-family:'Verdana'; font-size: 1.00em }
+span.Rubrik3Char { font-family:'Verdana'; font-size: 0.90em; font-weight:bold }
+span.Rubrik4Char { font-family:'Verdana'; font-size: 0.90em; font-style:italic }
+span.Rubrik5Char { font-family:'Verdana'; font-weight:bold }
+span.Rubrik6Char { font-family:'Verdana'; font-style:italic }
+span.Rubrik7Char { font-family:'Verdana'; font-size: 0.90em; font-weight:bold }
+span.Rubrik8Char { font-family:'Verdana'; font-size: 0.90em; font-weight:bold }
+span.Rubrik9Char { font-family:'Verdana'; font-size: 0.90em; font-weight:bold }
+span.RubrikChar { font-family:'Verdana'; font-size: 1.00em; font-weight:bold }
+span.SidfotChar { font-size:11.5pt }
+span.UnderrubrikChar { font-family:'Verdana'; font-size: 0.90em; font-weight:bold }
+.TableGrid {  }
+
+.pconf{width: 450px;margin-left:5px;overflow:visable;font-family:Verdana, Geneva, sans-serif;} 
+ .sidhuvud_publikation, .sidhuvud_beteckning{font-size:133%}
+.MotionarLista {font-size:122%}
+
+--></style><div class="pconf"><span class="sidhuvud_publikation">Motion till riksdagen</span><br/>
+<span class="sidhuvud_beteckning">2025/26:2819</span><br/>
+<span class="MotionarLista">av Nooshi Dadgostar m.fl. (V)</span><br/>
+<h1>Vissa kulturpolitiska frågor</h1>
+<hr class="sidhuvud_linje"/>
+
+
+		<div class="Section1">
+			<div style="-aw-sdt-tag:''">
+				<p class="TOCHeading">
+					<a name="_Hlk210410179"></a><a name="_Toc106800475"><span>Innehållsförteckning</span></a>
+				</p>
+				<p class="TOC1">
+					<a href="#_Toc210410511" style="text-decoration:none"><span class="Hyperlink" style="text-decoration:none; color:#000000">1</span><span style="width:22.35pt; line-height:150%; font-size: 0.90em; color:#000000; display:inline-block; -aw-tabstop-align:left; -aw-tabstop-pos:28.35pt">&#xa0;</span><span class="Hyperlink" style="text-decoration:none; color:#000000">Förslag till riksdagsbeslut</span></a>
+				</p>
+				<p class="TOC1">
+					<a href="#_Toc210410512" style="text-decoration:none"><span class="Hyperlink" style="text-decoration:none; color:#000000">2</span><span style="width:22.35pt; line-height:150%; font-size: 0.90em; color:#000000; display:inline-block; -aw-tabstop-align:left; -aw-tabstop-pos:28.35pt">&#xa0;</span><span class="Hyperlink" style="text-decoration:none; color:#000000">Inledning</span></a>
+				</p>
+				<p class="TOC1">
+					<a href="#_Toc210410513" style="text-decoration:none"><span class="Hyperlink" style="text-decoration:none; color:#000000">3</span><span style="width:22.35pt; line-height:150%; font-size: 0.90em; color:#000000; display:inline-block; -aw-tabstop-align:left; -aw-tabstop-pos:28.35pt">&#xa0;</span><span class="Hyperlink" style="text-decoration:none; color:#000000">Det fria kulturlivet</span></a>
+				</p>
+				<p class="TOC1">
+					<a href="#_Toc210410514" style="text-decoration:none"><span class="Hyperlink" style="text-decoration:none; color:#000000">4</span><span style="width:22.35pt; line-height:150%; font-size: 0.90em; color:#000000; display:inline-block; -aw-tabstop-align:left; -aw-tabstop-pos:28.35pt">&#xa0;</span><span class="Hyperlink" style="text-decoration:none; color:#000000">Det ideella kulturlivet och folkbildningen</span></a>
+				</p>
+				<p class="TOC1">
+					<a href="#_Toc210410515" style="text-decoration:none"><span class="Hyperlink" style="text-decoration:none; color:#000000">5</span><span style="width:22.35pt; line-height:150%; font-size: 0.90em; color:#000000; display:inline-block; -aw-tabstop-align:left; -aw-tabstop-pos:28.35pt">&#xa0;</span><span class="Hyperlink" style="text-decoration:none; color:#000000">Konstnärernas villkor</span></a>
+				</p>
+				<p class="TOC2">
+					<a href="#_Toc210410516" style="text-decoration:none"><span class="Hyperlink" style="text-decoration:none; color:#000000">5.1</span><span style="width:13.35pt; line-height:150%; font-size: 0.90em; color:#000000; display:inline-block; -aw-tabstop-align:left; -aw-tabstop-pos:42.55pt">&#xa0;</span><span class="Hyperlink" style="text-decoration:none; color:#000000">Trygghet för kulturarbetare</span></a>
+				</p>
+				<p class="TOC1">
+					<a href="#_Toc210410517" style="text-decoration:none"><span class="Hyperlink" style="text-decoration:none; color:#000000">6</span><span style="width:22.35pt; line-height:150%; font-size: 0.90em; color:#000000; display:inline-block; -aw-tabstop-align:left; -aw-tabstop-pos:28.35pt">&#xa0;</span><span class="Hyperlink" style="text-decoration:none; color:#000000">Litteraturpolitik</span></a>
+				</p>
+				<p class="TOC1">
+					<a href="#_Toc210410518" style="text-decoration:none"><span class="Hyperlink" style="text-decoration:none; color:#000000">7</span><span style="width:22.35pt; line-height:150%; font-size: 0.90em; color:#000000; display:inline-block; -aw-tabstop-align:left; -aw-tabstop-pos:28.35pt">&#xa0;</span><span class="Hyperlink" style="text-decoration:none; color:#000000">Bibliotek</span></a>
+				</p>
+				<p class="TOC2">
+					<a href="#_Toc210410519" style="text-decoration:none"><span class="Hyperlink" style="text-decoration:none; color:#000000">7.1</span><span style="width:13.35pt; line-height:150%; font-size: 0.90em; color:#000000; display:inline-block; -aw-tabstop-align:left; -aw-tabstop-pos:42.55pt">&#xa0;</span><span class="Hyperlink" style="text-decoration:none; color:#000000">Stopp för privatisering av bibliotek</span></a>
+				</p>
+				<p class="TOC2">
+					<a href="#_Toc210410520" style="text-decoration:none"><span class="Hyperlink" style="text-decoration:none; color:#000000">7.2</span><span style="width:13.35pt; line-height:150%; font-size: 0.90em; color:#000000; display:inline-block; -aw-tabstop-align:left; -aw-tabstop-pos:42.55pt">&#xa0;</span><span class="Hyperlink" style="text-decoration:none; color:#000000">Främja skolbiblioteken</span></a>
+				</p>
+				<p class="TOC1">
+					<a href="#_Toc210410521" style="text-decoration:none"><span class="Hyperlink" style="text-decoration:none; color:#000000">8</span><span style="width:22.35pt; line-height:150%; font-size: 0.90em; color:#000000; display:inline-block; -aw-tabstop-align:left; -aw-tabstop-pos:28.35pt">&#xa0;</span><span class="Hyperlink" style="text-decoration:none; color:#000000">Barns rätt till kultur</span></a>
+				</p>
+				<p class="TOC2">
+					<a href="#_Toc210410522" style="text-decoration:none"><span class="Hyperlink" style="text-decoration:none; color:#000000">8.1</span><span style="width:13.35pt; line-height:150%; font-size: 0.90em; color:#000000; display:inline-block; -aw-tabstop-align:left; -aw-tabstop-pos:42.55pt">&#xa0;</span><span class="Hyperlink" style="text-decoration:none; color:#000000">Kultur i skolan</span></a>
+				</p>
+				<p class="TOC3">
+					<a href="#_Toc210410523" style="text-decoration:none"><span class="Hyperlink" style="text-decoration:none; color:#000000">8.1.1</span><span style="width:7.75pt; line-height:150%; font-size: 0.90em; color:#000000; display:inline-block; -aw-tabstop-align:left; -aw-tabstop-pos:60.1pt">&#xa0;</span><span class="Hyperlink" style="text-decoration:none; color:#000000">Kulturgaranti för alla barn och elever</span></a>
+				</p>
+				<p class="TOC3">
+					<a href="#_Toc210410524" style="text-decoration:none"><span class="Hyperlink" style="text-decoration:none; color:#000000">8.1.2</span><span style="width:9.45pt; line-height:150%; font-size: 0.90em; color:#000000; display:inline-block; -aw-tabstop-align:left; -aw-tabstop-pos:61.8pt">&#xa0;</span><span class="Hyperlink" style="text-decoration:none; color:#000000">Kulturpedagogen som brygga</span></a>
+				</p>
+				<p class="TOC3">
+					<a href="#_Toc210410525" style="text-decoration:none"><span class="Hyperlink" style="text-decoration:none; color:#000000">8.1.3</span><span style="width:9.45pt; line-height:150%; font-size: 0.90em; color:#000000; display:inline-block; -aw-tabstop-align:left; -aw-tabstop-pos:61.8pt">&#xa0;</span><span class="Hyperlink" style="text-decoration:none; color:#000000">Praktisk-estetiska ämnen</span></a>
+				</p>
+				<p class="TOC2">
+					<a href="#_Toc210410526" style="text-decoration:none"><span class="Hyperlink" style="text-decoration:none; color:#000000">8.2</span><span style="width:13.35pt; line-height:150%; font-size: 0.90em; color:#000000; display:inline-block; -aw-tabstop-align:left; -aw-tabstop-pos:42.55pt">&#xa0;</span><span class="Hyperlink" style="text-decoration:none; color:#000000">Kulturskola för alla</span></a>
+				</p>
+				<p class="TOC1">
+					<a href="#_Toc210410527" style="text-decoration:none"><span class="Hyperlink" style="text-decoration:none; color:#000000">9</span><span style="width:22.35pt; line-height:150%; font-size: 0.90em; color:#000000; display:inline-block; -aw-tabstop-align:left; -aw-tabstop-pos:28.35pt">&#xa0;</span><span class="Hyperlink" style="text-decoration:none; color:#000000">Bevarande av kulturarvet i hela landet</span></a>
+				</p>
+				<p class="TOC2">
+					<a href="#_Toc210410528" style="text-decoration:none"><span class="Hyperlink" style="text-decoration:none; color:#000000">9.1</span><span style="width:13.35pt; line-height:150%; font-size: 0.90em; color:#000000; display:inline-block; -aw-tabstop-align:left; -aw-tabstop-pos:42.55pt">&#xa0;</span><span class="Hyperlink" style="text-decoration:none; color:#000000">Arbetslivsmuseum</span></a>
+				</p>
+				<p class="TOC2">
+					<a href="#_Toc210410529" style="text-decoration:none"><span class="Hyperlink" style="text-decoration:none; color:#000000">9.2</span><span style="width:13.35pt; line-height:150%; font-size: 0.90em; color:#000000; display:inline-block; -aw-tabstop-align:left; -aw-tabstop-pos:42.55pt">&#xa0;</span><span class="Hyperlink" style="text-decoration:none; color:#000000">Arkiv</span></a>
+				</p>
+				<p class="TOC1">
+					<a href="#_Toc210410530" style="text-decoration:none"><span class="Hyperlink" style="text-decoration:none; color:#000000">10</span><span style="width:16.35pt; line-height:150%; font-size: 0.90em; color:#000000; display:inline-block; -aw-tabstop-align:left; -aw-tabstop-pos:28.35pt">&#xa0;</span><span class="Hyperlink" style="text-decoration:none; color:#000000">Audiovisuell politik för morgondagen</span></a>
+				</p>
+				<p class="TOC2">
+					<a href="#_Toc210410531" style="text-decoration:none"><span class="Hyperlink" style="text-decoration:none; color:#000000">10.1</span><span style="width:21.5pt; line-height:150%; font-size: 0.90em; color:#000000; display:inline-block; -aw-tabstop-align:left; -aw-tabstop-pos:56.7pt">&#xa0;</span><span class="Hyperlink" style="text-decoration:none; color:#000000">Digitaliseringen av film</span></a>
+				</p>
+				<p class="TOC1">
+					<a href="#_Toc210410532" style="text-decoration:none"><span class="Hyperlink" style="text-decoration:none; color:#000000">11</span><span style="width:16.35pt; line-height:150%; font-size: 0.90em; color:#000000; display:inline-block; -aw-tabstop-align:left; -aw-tabstop-pos:28.35pt">&#xa0;</span><span class="Hyperlink" style="text-decoration:none; color:#000000">Musik</span></a>
+				</p>
+				<p class="Normalutanindragellerluft">
+				</p>
+			</div>
+			<p class="RubrikFrslagTIllRiksdagsbeslut" style="-aw-import:list-item; -aw-list-level-number:0; -aw-list-number-format:'%0'; -aw-list-number-styles:'decimal'; -aw-list-number-values:'1'; -aw-list-padding-sml:12.1pt">
+				<a name="_Toc210410511"><span style="-aw-import:ignore"><span>1</span><span style="width:12.1pt; font:7pt 'Verdana'; display:inline-block; -aw-import:spaces">&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; </span></span><span style="-aw-sdt-tag:'CC_Boilerplate_4'; -aw-sdt-title:'CC_Boilerplate_4'"><span>Förslag till riksdagsbeslut</span></span><span style="-aw-bookmark-end:_Toc106800475"></span></a>
+			</p>
+			<div style="-aw-sdt-tag:'bf8805c7-e1d3-4553-852e-8dcd98e3de17'; -aw-sdt-title:'Yrkande 1'">
+				<ol type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-left:14pt; t-i:0pt; padding-left:5.85pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att regeringen bör återkomma med förslag om förändrade regler för merkostnadslån för instrumentköp för deltagare på folkhögskolans kurser och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'a74fb453-3700-436e-a0e9-5c931294d2d2'; -aw-sdt-title:'Yrkande 2'">
+				<ol start="2" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; margin-left:14pt; t-i:0pt; padding-left:5.85pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att regeringen bör återkomma till riksdagen med förslag på nytt regelverk för sjukförsäkringen utifrån utredningen Ett trygghetssystem för alla och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'f3cd764a-c1cf-4b3a-9705-443f0ee6fe8a'; -aw-sdt-title:'Yrkande 3'">
+				<ol start="3" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; margin-left:14pt; t-i:0pt; padding-left:5.85pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att regeringen bör tillsätta en litteraturpolitisk utredning för att adressera de utmaningar som beskrivs i motionen och genomlysa hela det litterära ekosystemet och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'d8c6c446-f330-43ac-b19c-222bf12044c8'; -aw-sdt-title:'Yrkande 4'">
+				<ol start="4" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; margin-left:14pt; t-i:0pt; padding-left:5.85pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att inga folkbibliotek ska drivas av vinstdrivande företag och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'811a21bb-fdca-4f11-8f91-a13ba682ca1e'; -aw-sdt-title:'Yrkande 5'">
+				<ol start="5" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; margin-left:14pt; t-i:0pt; padding-left:5.85pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att regeringen bör återkomma med ett lagförslag som innebär att varje huvudman för skolbiblioteksverksamheten ska anställa personal som i första hand har en examen från en högskoleutbildning inom biblioteks- och informationsvetenskap eller i andra hand en examen från en annan relevant högskoleutbildning, och detta tillkännager riksdagen för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'fd248273-ab91-4f85-83da-2cf4e4f910a7'; -aw-sdt-title:'Yrkande 6'">
+				<ol start="6" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; margin-left:14pt; t-i:0pt; padding-left:5.85pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att regeringen bör genomföra en kulturgaranti efter norsk modell och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'1ba75ac4-2a2f-4f52-a433-8cedd9ae7563'; -aw-sdt-title:'Yrkande 7'">
+				<ol start="7" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; margin-left:14pt; t-i:0pt; padding-left:5.85pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att regeringen bör utreda vilka förutsättningar som redan finns och vilka åtgärder som behöver vidtas för att varje skola ska kunna ha en kulturpedagog knuten till sig och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'90060f6f-6317-4fd6-87c9-1e4e21e8e119'; -aw-sdt-title:'Yrkande 8'">
+				<ol start="8" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; margin-left:14pt; t-i:0pt; padding-left:5.85pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att estetiska ämnen bör återinföras på samtliga gymnasieprogram och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'b05a6d8d-f0d7-4893-a04b-5d1698168e29'; -aw-sdt-title:'Yrkande 9'">
+				<ol start="9" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; margin-left:14pt; t-i:0pt; padding-left:5.85pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att regeringen bör göra en översyn av utformningen av Kulturskoleklivet för att kunna utbilda fler kulturskolepedagoger, i översynen ska möjligheten att inkludera fler lärosäten samt förutsättningarna för att även folkhögskolan ska kunna bidra med platser undersökas, och detta tillkännager riksdagen för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'4f419b81-eb13-44b7-ab7a-9e4381bc3df4'; -aw-sdt-title:'Yrkande 10'">
+				<ol start="10" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; t-i:0pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att regeringen bör utreda förutsättningarna för en regional kulturskoleverksamhet inom ramen för kultursamverkansmodellen och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'011a1f7f-8dd5-423a-a53a-16eaa4f76276'; -aw-sdt-title:'Yrkande 11'">
+				<ol start="11" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; t-i:0pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att regeringen bör återinföra fri entré-reformen på museerna och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'483efa54-54f9-4426-b297-203958e01008'; -aw-sdt-title:'Yrkande 12'">
+				<ol start="12" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; t-i:0pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att regeringen skyndsamt ska återkomma till riksdagen med lagförslag utifrån de utredningar som gjorts på arkivområdet de senaste åren och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'72b419db-5f66-40d4-ad0c-af50b0ebc593'; -aw-sdt-title:'Yrkande 13'">
+				<ol start="13" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; t-i:0pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att regeringen bör vidta lämpliga åtgärder för att digitaliseringen av det filmiska kulturarvet påskyndas och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'de44ce80-4d5a-459d-a81c-219a962e5ec2'; -aw-sdt-title:'Yrkande 14'">
+				<ol start="14" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; t-i:0pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att regeringen bör tillsätta en statlig utredning för att genomlysa musiklivets villkor på alla nivåer från statliga subventioner, utbildningsvägar, turnéstruktur och myndigheters samverkan till exportfrågor och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'CC_Motivering_Rubrik'; -aw-sdt-title:'CC_Motivering_Rubrik'">
+				<h1 style="-aw-import:list-item; -aw-list-level-number:0; -aw-list-number-format:'%0'; -aw-list-number-styles:'decimal'; -aw-list-number-values:'2'; -aw-list-padding-sml:12.1pt">
+					<a name="MotionsStart"></a><a name="_Toc210410512"></a><a name="_Toc106800476"><span style="-aw-import:ignore"><span>2</span><span style="width:12.1pt; font:7pt 'Verdana'; display:inline-block; -aw-import:spaces">&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; </span></span><span>Inledning</span></a>
+				</h1>
+			</div>
+			<span style="-aw-bookmark-end:_Toc210410512">
+			</span>
+			<p style="t-i:0pt">
+				<span style="-aw-bookmark-end:_Toc106800476"></span><span class="normaltextrun" style="color:#1b1b1b">Den centrala frågan för Vänsterpartiet är hur vi ska kunna skapa ett kulturliv för alla och inte bara för några få. Idag är det tydligt att kulturvanorna skiljer sig mycket mellan olika grupper. Människor i städer tar del av kultur i högre grad än människor boende på landet. Statistiken visar också att de med högre inkomst och längre utbildning är mer aktiva än andra inom kultursektorn, särskilt som åskådare. Myndigheten för kultur</span><span class="normaltextrun" style="color:#1b1b1b">&#xad;</span><span class="normaltextrun" style="color:#1b1b1b">analys visar i sin utvärdering av den svenska kulturpolitiken att vi är långt ifrån att nå målet om delaktighet för alla. Socioekonomiska faktorer väger mycket tungt och dem kan inte kulturpolitiken ensam rå på menar myndigheten. Det behövs insatser inom många områden, och för Vänsterpartiet hänger kulturpolitiken tätt samman med vår strävan efter ett jämlikt samhälle.</span><span class="eop" style="color:#1b1b1b">&#xa0;</span>
+			</p>
+			<p>
+				<span class="normaltextrun" style="color:#1b1b1b">Kulturen ska vara fri och frispråkig. I dag händer det att kultur tystas och läggs tillrätta, ibland med goda föresatser, ibland med klassförakt, sexism eller hat som grund. Vänsterpartiet är konsekventa försvarare av konstnärlig frihet och yttrandefrihet. I dag angrips yttrandefriheten och det fria kulturlivet av extremhögern. Deras kulturkamp syftar till att tysta obekväma åsikter och föra oss tillbaka till en tid då kritik mot makten betraktades som illojalitet mot nationen. Vänsterpartiet anser att det är en ytterst viktig princip att politiker inte ska styra det konstnärliga innehållet. Konsten får aldrig reduceras enbart till sådant som är lättillgängligt, politiskt korrekt eller ämnat att underhålla för stunden.</span><span class="eop" style="color:#1b1b1b">&#xa0;</span>
+			</p>
+			<p>
+				<span class="normaltextrun" style="color:#1b1b1b">Att uttrycka sig genom konsten är en fundamental mänsklig rättighet. Varje konstnärligt uttryck är unikt och en viktig del av det samhälle vi lever i. Resultatet av konstnärligt skapande kan inte likställas med vanliga varor och tjänster utan har en särskild dimension. Marknadskrafterna kan inte ensamma garantera att det finns en mångfald av kulturuttryck, vare sig lokalt, regionalt, nationellt eller internationellt, utan huvudansvaret för detta vilar på det allmänna och på kulturpolitiken i stort. Det måste därför ges förutsättningar för att alla ska få möjlighet att utveckla sin skapande förmåga och vara aktiva deltagare på likvärdiga villkor i kulturlivet. En statlig kulturpolitik är en viktig del och ska bland annat garantera en fördelning av resurser över landet och genom lagstiftning ge alla invånares tillgång till kulturverksamhet. Vi ser att en fullödig kulturpolitik behöver stå på fyra ben, de offentliga institutionerna, det fria kulturlivet, de ideella aktörerna och goda villkor för kulturarbetarna.</span><span class="eop" style="color:#1b1b1b">&#xa0;</span>
+			</p>
+			<h1 style="-aw-import:list-item; -aw-list-level-number:0; -aw-list-number-format:'%0'; -aw-list-number-styles:'decimal'; -aw-list-number-values:'3'; -aw-list-padding-sml:12.1pt">
+				<span style="-aw-import:ignore"><span>3</span><span style="width:12.1pt; font:7pt 'Verdana'; display:inline-block; -aw-import:spaces">&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; </span></span><a name="_Toc210410513"><span class="normaltextrun">Det fria kulturlivet</span></a><span class="eop">&#xa0;</span>
+			</h1>
+			<p style="t-i:0pt">
+				<span class="normaltextrun" style="color:#1b1b1b">Vi har en rik flora av fria professionella grupper i landet. Det gäller inom alla scen</span><span class="normaltextrun" style="color:#1b1b1b">&#xad;</span><span class="normaltextrun" style="color:#1b1b1b">konstområden. De är av stor betydelse för ett vitalt och utmanande kulturliv. De har i olika grad tillgång till de regionala institutionerna och stöd från de regionala kultur</span><span class="normaltextrun" style="color:#1b1b1b">&#xad;</span><span class="normaltextrun" style="color:#1b1b1b">konsulenterna. Många grupper beskriver en tuff situation med stor administrativ börda och små ekonomiska marginaler. De senaste åren med pandemi och hög inflation har satt sina spår och med neddragningar i verksamhetsstöd och beställningar har flera anrika fria teatergrupper fått slå igen den här mandatperioden. För att få till en nationell turné krävs bidragsansök</span><span class="normaltextrun" style="color:#1b1b1b">&#xad;</span><span class="normaltextrun" style="color:#1b1b1b">ningar till en stor mängd kommuner, regioner och nationella instanser. När en föreställ</span><span class="normaltextrun" style="color:#1b1b1b">&#xad;</span><span class="normaltextrun" style="color:#1b1b1b">ning sedan är genomförd ska den redovisas till alla bidragsgivare. Om en grupp letar sig utanför centralorterna är det oftast ideella arrangörer som är nyckeln. Det är inte rimligt att så stort ansvar för att få ut kultur i hela landet ska ligga på ideella krafter. Genom att stärka de fria gruppernas ekonomiska muskler kan fler föreställningar komma ut till mindre orter och landsbygden.</span><span class="eop" style="color:#1b1b1b">&#xa0;</span>
+			</p>
+			<p>
+				<span class="normaltextrun" style="color:#1b1b1b">Vi ser att den fria dansen har en särskilt tuff situation. Det är ett relativt nytt konstområde och fanns inte med i planeringen när</span><span class="normaltextrun" style="color:#1b1b1b">&#xa0;</span><span class="normaltextrun" style="color:#1b1b1b">de offentliga institutionerna byggdes upp efter 1974 års kulturproposition. Många av de fria dansgrupperna saknar egna träningslokaler och det har tagit tid att bygga upp strukturer. För dem spelar centrumbildningarna en viktig roll och vi tror att flera regionala centrumbildningar skulle skapa förutsättningar för mer kultur i hela landet. Centrumbildningarna stöttar upp med fortbildning och </span><span class="normaltextrun">rådgivning och agerar arbetsgivare. I Vänsterpartiets budgetförslag för 2026 på utgiftsområde 17 (mot. 2025/26:V673) finns därför ökat stöd till det fria kulturlivet, till centrumbildningar och lokaler för dans. </span>
+			</p>
+			<h1 style="-aw-import:list-item; -aw-list-level-number:0; -aw-list-number-format:'%0'; -aw-list-number-styles:'decimal'; -aw-list-number-values:'4'; -aw-list-padding-sml:12.1pt">
+				<span style="-aw-import:ignore"><span>4</span><span style="width:12.1pt; font:7pt 'Verdana'; display:inline-block; -aw-import:spaces">&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; </span></span><a name="_Toc210410514"><span class="normaltextrun">Det ideella kulturlivet och folkbildningen</span></a><span class="eop">&#xa0;</span>
+			</h1>
+			<p style="t-i:0pt">
+				<span class="normaltextrun" style="color:#1b1b1b">Vänsterpartiet menar att de ideella kulturaktörerna måste få ett lyft och uppmärksammas mer. Svenskarna är oerhört aktiva som kulturutövare: sjunger i kör, lajvar, spelar i band och målar – ibland i föreningsform och ibland genom studieförbunden. Även på små orter sjuder föreningslivet och det är här målet om kultur i hela landet förverkligas. Ett stort antal</span><span class="normaltextrun" style="color:#1b1b1b">&#xa0;</span><span class="normaltextrun" style="color:#1b1b1b">kulturföreningar är arrangörer av teaterföreställningar, konserter och konstutställningar som ger arbetstillfällen för yrkesverksamma. Värdet av det frivilliga arbetet inom kultursektorn uppgår till 8,4 miljarder per år. Det är viktigt att alla nivåer, såväl kommunal som regional och nationell nivå, stöttar upp med goda ekonomiska förhållanden, anpassade och tydliga regelverk och ett bra bemötande för att underlätta föreningsarbete för den som inte är van organisatör. Parallellt med den positiva bilden av ett vitalt föreningsliv ser vi oroande tendenser. Många små föreningar är beroende av stöd från en nationell stödstruktur för administration och organisation. Kulturrådets bidrag till såväl centrala amatörföreningar som musikarrangörer har haft en negativ utveckling de senaste åren efter att ha legat stilla under över ett decennium. Med krympande resurser blir det svårt för Kulturrådet att omfatta nya riksförbund som uppstår kring nya kulturformer och musikaliska uttryck. Vi anser att det är väldigt olyckligt då man riskerar att utestänga ungas preferenser och försvårarar att nå målet om ett dynamiskt kulturliv. Det är också ett stort bekymmer att befintliga organisationer tvingas till nedskärningar och uppsägningar. I ett brev till kulturministern beskriver de två stora paraplyorganisationerna på området personalneddragningar på 37 % under mandatperioden. och de som funnit länge har fått minskade resurser. Det är en mycket olycklig utveckling då den nationella nivån i en organisation ofta står för ett administrativt</span><span class="normaltextrun" style="color:#1b1b1b">&#xa0;</span><span class="normaltextrun" style="color:#1b1b1b">stöd. Som exempel kan vi ta Amatörteaterns riksförbund (ATR) som organiserar... lokalföreningar.</span><span class="normaltextrun" style="font-family:Arial"> </span><span class="normaltextrun">Förutom att stödja amatörteaterföreningar över hela landet genom utbildning, rådgivning och arrangemang, ansvarar de också för ett nationellt manusbibliotek och en upphovsrättsförmedling. Denna funktion är avgörande för att möjliggöra laglig och tillgänglig teaterverksamhet inom kulturskolor, folkhögskolor, skolteater och ideella grupper, och är unik i sitt slag.</span><span class="normaltextrun" style="color:#1b1b1b"> </span>
+			</p>
+			<p>
+				<span class="normaltextrun">För oss i Vänsterpartiet är det viktigt att det finns</span><span class="normaltextrun">&#xa0;</span><span class="normaltextrun">starka nationella infrastrukturer för det fria och ideellt och demokratiskt organiserade kulturlivet och vi höjer därför anslaget till de centrala amatörkulturorganisationerna i vår budgetmotion. Vi anslår också medel för ideell kulturverksamhet för att stötta föreningar som ser till att vi får kultur i hela landet. Läs mer i vår budgetmotion för utgiftsområde 17 (2025/26:V673).</span><span class="eop">&#xa0;</span>
+			</p>
+			<p>
+				<span class="normaltextrun" style="color:#1b1b1b">En annan viktig del av det ideella kulturlivet står studieförbunden för. Studieförbundens kommunala anslag har minskat med två tredjedelar jämfört med början av 90-talet. När nu också den statliga bidragen dras ner med 500 miljoner kronor på en mandatperiod påverkar det i högsta grad tillgången till folkbildning och kultur i hela landet. Studieförbunden har varit en viktig motor för att få spridning av kulturen utanför de stora kommunerna. Med sin stora närvaro i hela landet har man kunnat tillhandahålla replokaler, studiecirklar inom språk och kultur och varit flitiga arrangörer av festivaler och kulturprogram. Allt detta riskeras när regeringen går fram med sina sparpaket. Över 800 personer har sagts upp sedan Tidöpartierna tog över regeringsmakten och det försvårar organiserandet av ideella cirkelledare och arrangerandet av kulturprogram. Utöver uppsägningar har besparingar behövts göras på fastighetssidan och många musikhus och replokaler har fått stänga. </span>
+			</p>
+			<p>
+				<span class="normaltextrun" style="color:#1b1b1b">Det är också viktigt att ta folkhögskolorna med i det kulturella ekosystemet. Folkhögskolorna erbjuder en stor bredd när</span><span class="normaltextrun" style="font-family:'Open Sans'; color:#1b1b1b"> </span><span class="normaltextrun" style="color:#1b1b1b">det gäller utbildningar inom kultur och media. För den som saknar grundskolebehörigheten finns möjlighet att läsa allmän kurs med estetisk inriktning, och särskild kurs ingår ofta som ett informellt mellansteg innan högre studier på kulturområdet. En kartläggning under förra mandatperioden visade att hela 70 procent av deltagarna på de särskilda kurserna inom konst och media hade inte läst estetiskt program på gymnasiet. Det visar att folkhögskolan är en reell andra chans. För oss i Vänsterpartiet är det oerhört viktigt att det finns en sådan väg till högre konstnärliga utbildningar som inte innebär höga terminsavgifter. Fortfarande är det stor skillnad på vilken bakgrund deltagarna på allmän kurs har och de som läser på särskild kurs. Här finns en stor utmaning för folkhögskolorna att locka t.ex. fler nyanlända som börjat läsa svenska att sedan fortsätta vidare på de särskilda kurserna. Vi har också noterat att reglerna hos CSN för merkostnadslån för instrument inte gäller studerande på folkhögskola utan bara på högskolenivå. </span>
+			</p>
+			<p>
+				<span class="normaltextrun" style="color:#1b1b1b">Regeringen bör återkomma med förslag om förändrade regler för merkostnadslån för instrumentköp för deltagare på folkhögskolans kurser. Detta bör riksdagen ställa sig bakom och ge regeringen till känna.</span>
+			</p>
+			<p>
+				<span class="normaltextrun" style="color:#1b1b1b">De utbildningar och kurser som bedrivs med inriktning på kultur inom folkbildningen bidrar</span><span class="normaltextrun" style="color:#1b1b1b">&#xa0;</span><span class="normaltextrun" style="color:#1b1b1b">till ett rikare kulturliv och konstnärlig utveckling för människor i alla åldrar. I vår budgetmotion för utgiftsområde 17 </span><span class="normaltextrun">(2025/26:V673)</span><span class="normaltextrun" style="color:#1b1b1b">&#xa0;</span><span class="normaltextrun" style="color:#1b1b1b">skjuter vi till de resurser som regeringen och Sd tagit bort till studieförbunden och vi höjer ersättningen per deltagare inom folkhögskolan. </span>
+			</p>
+			<h1 style="-aw-import:list-item; -aw-list-level-number:0; -aw-list-number-format:'%0'; -aw-list-number-styles:'decimal'; -aw-list-number-values:'5'; -aw-list-padding-sml:12.1pt">
+				<span style="-aw-import:ignore"><span>5</span><span style="width:12.1pt; font:7pt 'Verdana'; display:inline-block; -aw-import:spaces">&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; </span></span><a name="_Toc210410515"><span class="normaltextrun">Konstnärernas villkor</span></a><span class="eop">&#xa0;</span>
+			</h1>
+			<p style="t-i:0pt">
+				<span class="normaltextrun">Grunden för att alla Sveriges invånare ska få ta del av kvalitativ kultur är goda villkor för den som vill utbilda sig och arbeta inom ett konstnärligt yrke. Arbetslivet ser väldigt annorlunda ut för kulturskapare är för många andra grupper på arbetsmarknaden. Den fackliga organiseringen försvåras av att många frilansar och går på korta kontrakt. Många kulturskapare kombinerar också uppdrag som egenföretagare med anställningar eller stipendier för att få ihop sin försörjning. För oss som Vänsterparti är det viktigt att hitta stödsystem, anställningsformer och socialförsäkringssystem som tryggar den väljer en karriär inom en kreativ eller konstnärlig verksamhet.</span><span class="eop">&#xa0;</span>
+			</p>
+			<p>
+				<span class="normaltextrun">Under lång tid har kulturstöden halkat efter. Få av de statliga stöden har indexerats och anpassats efter inflationen och regioner och kommuner har under flera år haft det kämpigt ekonomiskt. Det har påverkat arbetsförhållandena på såväl offentliga institutioner som verksamhetsstöd</span><span class="normaltextrun">&#xa0;</span><span class="normaltextrun">och beställningar av konstutställningar och föreställningar från fria grupper. För att komma till rätta med det tuffa läget behövs breda satsningar på kultur över hela landet. För att unga människor ska våga satsa på de många gånger långa utbildningar som krävs för ett konstnärligt yrke behöver samhället på olika sätt signalera att man ser värdet av kultur och att det kommer finnas möjlighet till försörjning. Vänsterpartiet föreslår en höjning av anslagen bland annat till kulturallianserna för att fler ska kunna ingå i ett trygghetssystem och vi höjer de generella statsstöden till kommuner och regioner. Vi ser också till att kultursamverkansmodellen stärks upp efter regeringens nedskärningar. Läs mer i vår motion på utgiftsområde 17 (2025/26:V673).</span><span class="eop">&#xa0;</span>
+			</p>
+			<h2 style="-aw-import:list-item; -aw-list-level-number:1; -aw-list-number-format:'%0.%1'; -aw-list-number-styles:'decimal decimal'; -aw-list-number-values:'5 1'; -aw-list-padding-sml:8.8pt">
+				<span style="-aw-import:ignore"><span>5.1</span><span style="width:8.8pt; font:7pt 'Verdana'; display:inline-block; -aw-import:spaces">&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; </span></span><a name="_Toc210410516"><span class="normaltextrun">Trygghet för kulturarbetare</span></a><span class="normaltextrun"> </span>
+			</h2>
+			<p style="t-i:0pt">
+				<span class="normaltextrun">En viktig del i vår kulturpolitik är att verka för en stark ekonomi som tillåter fler fasta anställningar på kulturinstitutioner och långsiktighet i bidragsregler så att fler fria grupper kan tillsvidareanställa. Men vi ser också behov av ett förstärkt skyddsnät vid sjukdom, arbetslöshet och föräldraledighet. I takt med att arbetsmarknaden förändrats har tryggheten vid sjukdom urholkats för stora grupper av människor. Tryggheten och förutsägbarheten brister för både arbetstagare med tidsbegränsade anställningar och för personer som kombinerar tidsbegränsade anställningar och företagande.</span><span class="eop">&#xa0;</span>
+			</p>
+			<p>
+				<span class="normaltextrun">Under coronakrisen blev detta tydligt i kultursektorn, som drabbades hårt, och många egenföretagare larmade om att reglerna i princip gjorde det omöjligt för dem att möta krisens effekter. Som kulturarbetare kan vissa perioder under ett år vara fulla av arbete medan andra perioder i stället inte innebär något jobb alls. </span>
+			</p>
+			<p>
+				<span class="normaltextrun">En annan vanlig inkomstkälla för kulturarbetare är stipendier. Dessa stipendier finns bl a till för att stödja själva konstnärskapet och arbetsprocessen för att skapa ett verk, det är en period som annars inte skulle vara inkomstbringande. Stipendier</span><span class="normaltextrun">&#xa0;</span><span class="normaltextrun">är viktiga för att kulturen ska kunna vara levande och utvecklas men är</span><span class="normaltextrun">&#xa0;</span><span class="normaltextrun">idag inte sjukpenninggrundande</span><span class="eop">&#xa0;</span>
+			</p>
+			<p>
+				<span class="normaltextrun">De problem som uppstår för s.k. kombinatörer, som många kulturarbetare är, med en blandning av inkomstkällor är välkända sedan länge. Trots detta har mycket lite gjort på området. I </span><span class="normaltextrun" style="font-style:italic">SOU 2030:30 Ett trygghetssystem för alla </span><span class="normaltextrun">finns en rad förslag som skulle skapa ett bättre anpassat regelverk för att beräkna sjukpenninggrundande inkomst (SGI). Det ger i sin tur tryggare kulturarbetare som vet att man har en försörjning även vid sjukdom, föräldraledighet, vab och pension.</span><span class="normaltextrun">&#xa0;</span><span class="normaltextrun">I regeringens strategi för företag inom kulturella och kreativa näringar är man tydlig med att de offentliga trygghetssystemen “</span><span class="normaltextrun" style="font-style:italic">ska ge goda villkor för enskilda som försörjer sig både som anställda och som egenföretagare</span><span class="normaltextrun">.” Nu är det dags att ta fram en proposition för att skapa dessa goda villkor.</span><span class="eop">&#xa0;</span>
+			</p>
+			<p>
+				<span class="eop">Regeringen bör återkomma till riksdagen med förslag på nytt regelverk för sjukförsäkringen utifrån utredningen Ett trygghetssystem för alla. Detta bör riksdagen ställa sig bakom och ge regeringen till känna.</span>
+			</p>
+			<h1 style="-aw-import:list-item; -aw-list-level-number:0; -aw-list-number-format:'%0'; -aw-list-number-styles:'decimal'; -aw-list-number-values:'6'; -aw-list-padding-sml:12.1pt">
+				<span style="-aw-import:ignore"><span>6</span><span style="width:12.1pt; font:7pt 'Verdana'; display:inline-block; -aw-import:spaces">&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; </span></span><a name="_Toc210410517"><span>Litteraturpolitik</span></a>
+			</h1>
+			<p style="t-i:0pt">
+				<span class="normaltextrun">Berättandet i dess olika former bär så mycket av vår historia, kultur och identitet. Litteraturen är ett arkiv för människans samlade fantasier, drömmar och begär. Genom läsandet utvecklas vårt ordförråd och med det vilka tankar som blir möjliga att tänka och vad som blir möjligt att förstå om omgivningens beskaffenhet. Genom goda villkor för översättare, författare och illustratörer öppnas hela världens berättelser för oss med allt var det innebär av vidgade vyer, nya tankar och förståelse för andras erfarenheter och åsikter.</span><span class="eop">&#xa0;</span>
+			</p>
+			<p>
+				<span class="normaltextrun">Vi ser att det finns en mängd aktuella utmaningar inom litteratursektorn som behöver adresseras politiskt. Den senaste större litteraturpolitiska utredningen gjordes 2012 och de propositioner och satsningar som gjort sedan dess har främst varit riktade mot läsfrämjande verksamhet och biblioteksfrågor. För en heltäckande litteraturpolitik behöver man ta ett helhetsgrepp kring alla delar i det litterära ekosystemet, dvs även skapande, förmedling och distribution. Svenska folkets sätt att ta del av litteratur har förändrats radikalt de senaste åren. De strömmade ljudböckerna tar allt större plats och köpen av fysiska böcker minskar. Från att strömningstjänsterna hade 8,5 % av marknaden 2016 hade andelen ökat till hela 35 % år 2023. Köpen av fysiska böcker sker dessutom allt oftare på nätet och bokhandlarna får en tuffare situation. Idag saknar hälften av landets kommuner en bokhandel. </span>
+			</p>
+			<p>
+				<span class="normaltextrun">Nya läs- och köpbeteenden påverkar bokutgivningen och förstås i slutändan även författare och översättare. Både författare och förlag utan egna streamingtjänster beklagar den starka ställning som ett fåtal aktörer har fått på denna växande marknad. De nya affärsmodellerna har inneburit lägre ersättningar per läst bok och avtalen mellan strömningsplattformarna och förlagen är sällan transparenta för författarna. Detta kan i förlängningen ge färre utgivna böcker av svenska författare när färre har råd att försörja sig på sitt skrivande. Illustratörer går samma öde till mötes då de inte får någon ersättning alls när deras böcker strömmas och ingen ser bilderna. Vi har inget emot ljudboken i sig och ser att strömningstjänsterna tillgängliggör litteraturen på ett fantastiskt sätt, det som är problematiskt är affärsmodellen. De stora ekonomiska bekymmer som många delar av branschen upplever har väckt intresset för mer av reglering men också för en översyn av stöden hos olika myndigheter.</span><span class="eop">&#xa0;</span>
+			</p>
+			<p>
+				<span class="normaltextrun">Utöver det finns många andra frågor som behöver besvaras. Det handlar bland annat om teknikneutralitet, AI, digitalisering, prisreglering, frågor om de olika stöden och branschens förutsättningar. </span>
+			</p>
+			<p>
+				<span class="normaltextrun">Vänsterpartiet anser att det kan behövas politiska åtgärder för att lösa en del av dessa frågor, andra kan förhoppningsvis de olika delarna av branschen själva hantera. Vi menar dock att en utredning som tar ett helhetsgrepp behövs som stöd för alla aktörer. </span>
+			</p>
+			<p>
+				<span class="normaltextrun">Regeringen bör tillsätta en litteraturpolitisk utredning för att adressera de utmaningar som beskrivits i denna motion och genomlysa det litterära ekosystemet. Detta bör riksdagen ställa sig bakom och ge regeringen till känna.</span><span class="eop">&#xa0;</span>
+			</p>
+			<h1 style="-aw-import:list-item; -aw-list-level-number:0; -aw-list-number-format:'%0'; -aw-list-number-styles:'decimal'; -aw-list-number-values:'7'; -aw-list-padding-sml:12.1pt">
+				<span style="-aw-import:ignore"><span>7</span><span style="width:12.1pt; font:7pt 'Verdana'; display:inline-block; -aw-import:spaces">&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; </span></span><a name="_Toc210410518"><span class="normaltextrun">Bibliotek</span></a><span class="eop">&#xa0;</span><span class="eop" style="font-family:'GillSans Pro for Riksdagen Md'; font-size: 0.95em; font-weight:bold">&#xa0;</span>
+			</h1>
+			<h2 style="-aw-import:list-item; -aw-list-level-number:1; -aw-list-number-format:'%0.%1'; -aw-list-number-styles:'decimal decimal'; -aw-list-number-values:'7 1'; -aw-list-padding-sml:8.8pt">
+				<span style="-aw-import:ignore"><span>7.1</span><span style="width:8.8pt; font:7pt 'Verdana'; display:inline-block; -aw-import:spaces">&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; </span></span><a name="_Toc210410519"><span class="normaltextrun">Stopp för privatisering av bibliotek</span></a><span class="eop">&#xa0;</span>
+			</h2>
+			<p style="t-i:0pt">
+				<span class="normaltextrun">Biblioteken är en viktig del av vår demokrati och den kulturella institution som är mest utbredd i vårt land. Genom att förmedla kunskap och utgöra en plattform för tankar, idéer och åsikter har folkbiblioteken ett stort ansvar för samhällets utveckling. Biblioteken utgör också en mötesplats för medborgare och civilsamhälle och är en garant för folkbildningen. I många kommuner är biblioteket också en central kulturaktör med omfattande programverksamhet. Dit går förskolegrupperna för att ta del av teater och de lokala konstnärerna kan ställa ut. Högerblocket letar hela tiden upp nya välfärdsområden som företag kan göra vinst på. Men när vi går in på ett bibliotek ska vi inte vara kunder. Folkbiblioteken är en grundbult i vår demokrati och en garant för allas tillgång till kunskap och bildning. Privatisering av biblioteken riskerar att förändra bibliotekens kvalitetsnivå, oberoende och tillgänglighet och deras viktiga roll som mötesplatser för demokratiska samtal. Vi vill att biblioteken ska stå fria från styrning av marknadskrafterna och kommersiella intressen. </span>
+			</p>
+			<p>
+				<span>Inga folkbibliotek ska drivas av vinstdrivande företag. Detta bör riksdagen ställa sig bakom och ge regeringen till känna.</span>
+			</p>
+			<p>
+				<span class="normaltextrun" style="color:#1b1b1b">Biblioteksstatistiken visar att sedan millennieskiftet har antalet folkbibliotek minskat med 24 procent och mer än 400 biblioteksfilialer har under de senaste decennierna försvunnit. I de mindre befolkningstäta länen måste många biblioteksbesökare åka långt för att komma till ett bibliotek eller en biblioteksfilial. Den minskade tillgängligheten har sannolikt bidragit till att färre besöker bibliotek och att de regionala skillnaderna ökar. Satsningar på bokbussar har varit ett sätt att möta de växande skillnaderna. Det är förstås ett bra sätt att hantera det avstånd vissa människor har till närmsta bibliotek, och de satsningarna ska kvarstå och gärna byggas ut, men de kan inte ersätta det fysiska biblioteket som har mer bibliotekspersonal och ett större utbud. Tidigare analyser av besöksmönster visar att boende i socioekonomiskt svagare delar av en kommun generellt sett är mindre benägna att resa för att besöka folk</span><span class="normaltextrun" style="color:#1b1b1b">&#xad;</span><span class="normaltextrun" style="color:#1b1b1b">biblioteket samt att de oftare besöker bibliotek om de ligger i anslutning till annan samhällelig service. Vänsterpartiet ser ett stort behov av satsningar på bibliotek och fler biblioteksfilialer.</span><span class="eop" style="color:#1b1b1b">&#xa0;</span>
+			</p>
+			<h2 style="-aw-import:list-item; -aw-list-level-number:1; -aw-list-number-format:'%0.%1'; -aw-list-number-styles:'decimal decimal'; -aw-list-number-values:'7 2'; -aw-list-padding-sml:8.8pt">
+				<span style="-aw-import:ignore"><span>7.2</span><span style="width:8.8pt; font:7pt 'Verdana'; display:inline-block; -aw-import:spaces">&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; </span></span><a name="_Toc210410520"><span class="normaltextrun">Främja skolbiblioteken</span></a><span class="eop">&#xa0;</span>
+			</h2>
+			<p style="t-i:0pt">
+				<span class="normaltextrun">Skolbiblioteken har ett dubbelt ansvar – både att främja läslust och att vara en resurs för undervisningen. Skolbiblioteken ska ge eleverna tillgång till ett rikt utbud av medier, till såväl skön- som facklitteratur. Ett bibliotek där välutbildad bibliotekspersonal samarbetar med den pedagogiska personalen kan locka fram och tillfredsställa barnens och ungdomarnas läslust, nyfikenhet och forskarintresse och dessutom hjälpa dem att orientera sig bland nya medier och i flödet av information på nätet. </span>
+			</p>
+			<p>
+				<span class="normaltextrun">Det är viktigt att eleverna har nära till sitt bibliotek. Under många år har en hög andel av</span><span class="normaltextrun">&#xa0;</span><span class="normaltextrun">skolorna slutit avtal med ett folkbibliotek för att uppfylla kravet i skollagen om att erbjuda ett skolbibliotek. Tyvärr innebär det många gånger svårigheter att utnyttja biblioteket spontant på raster eller att hinna dit för att göra efterforskningar under lektionstid. </span>
+			</p>
+			<p>
+				<span class="normaltextrun">Vänsterpartiet har länge drivit kravet på bemannade skolbibliotek och en skärpning av definitionen på ett skolbibliotek och välkomnade de förslag som lades fram av Gustav Fridolins utredning redan 2021. Där slog fast att söktrycket till de olika biblioteksutbildningarna var högt och förutsättningarna goda för att anta fler studerande. Vi beklagar att varken den nuvarande eller den förra regeringen tog tag i frågan om dimensioneringen av utbildningen för skolbibliotekarier i tid så att det kunde finnas en möjlighet att rekrytera medarbetare när man sedan gick fram med en ändring i skollagen för att kräva bemannade skolbibliotek. I vår budget</span><span class="normaltextrun">&#xa0;</span><span class="normaltextrun">(2025/26:V700)</span><span class="normaltextrun">&#xa0;</span><span class="normaltextrun">föreslår vi därför 100 fler platser till bibliotekarieutbildningen. </span><span class="eop">Då skolbibliotekarie inte är en skyddad titel behöver vi fastställa en önskvärd utbildningsnivå i lagstiftningen.</span>
+			</p>
+			<p>
+				<span class="eop">Vi vill att regeringen återkommer med ett lagförslag som innebär att varje huvudman för skolbiblioteksverksamheten ska anställa personal som i första hand har en examen från en högskoleutbildning inom biblioteks- och informationsvetenskap eller i andra hand en examen från en annan relevant högskoleutbildning. Detta bör riksdagen ställa sig bakom och ge regeringen till känna.</span>
+			</p>
+			<h1 style="-aw-import:list-item; -aw-list-level-number:0; -aw-list-number-format:'%0'; -aw-list-number-styles:'decimal'; -aw-list-number-values:'8'; -aw-list-padding-sml:12.1pt">
+				<span style="-aw-import:ignore"><span>8</span><span style="width:12.1pt; font:7pt 'Verdana'; display:inline-block; -aw-import:spaces">&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; </span></span><a name="_Toc210410521"><span class="normaltextrun">Barns rätt till kultur</span></a><span class="eop">&#xa0;</span>
+			</h1>
+			<p style="t-i:0pt">
+				<span class="normaltextrun" style="color:#1b1b1b">Det är samhällets ansvar att ge alla barn och unga i landet lika goda möjligheter att bygga vidare på den första upptäckar- och skaparglädjen, på lusten att söka kunskap och lära sig nya saker, vidga sin värld och få del i nya sammanhang. Det är därför grundläggande att alla barn under hela sin uppväxt har tillgång till kulturella verksamheter där de själva är skapande, men också att de får uppleva professionellt utövad kultur inom alla genrer. Barns och ungas rätt till kultur begränsas dock alltför ofta av familjens ekonomiska situation. När det offentliga drar sig tillbaka och de kommersiella alternativen tar över så lämnas de som inte har råd att betala utanför. Även dessa barn ska ha möjlighet att ta del av kultur. För det första eftersom de här och nu har rätt till kulturella upplevelser i sin vardag. För det andra eftersom utestängning av barn från kulturella verksamheter riskerar att bidra till ett utanförskap senare i livet.</span><span class="eop" style="color:#1b1b1b">&#xa0;</span>
+			</p>
+			<h2 style="-aw-import:list-item; -aw-list-level-number:1; -aw-list-number-format:'%0.%1'; -aw-list-number-styles:'decimal decimal'; -aw-list-number-values:'8 1'; -aw-list-padding-sml:8.8pt">
+				<span style="-aw-import:ignore"><span>8.1</span><span style="width:8.8pt; font:7pt 'Verdana'; display:inline-block; -aw-import:spaces">&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; </span></span><a name="_Toc210410522"><span class="normaltextrun">Kultur i skolan</span></a><span class="eop">&#xa0;</span>
+			</h2>
+			<p style="t-i:0pt">
+				<span class="normaltextrun" style="color:#1b1b1b">Skolan och utbildningen har en central roll för allas möjlighet att delta i kulturlivet. Det kan handla om hur väl skolan integrerar professionellt framställd kultur i sin verksam</span><span class="normaltextrun" style="color:#1b1b1b">&#xad;</span><span class="normaltextrun" style="color:#1b1b1b">het, men också om skolans innehåll. Det kan handla om de estetiska och samhälls</span><span class="normaltextrun" style="color:#1b1b1b">&#xad;</span><span class="normaltextrun" style="color:#1b1b1b">orienterande ämnena samt hur utbildning påverkar mer övergripande förändringar såsom läsförståelsens utveckling, segregation och selektionseffekter i rekrytering till konstnärliga utbildningar. Utbildning har en direkt effekt och den påverkar människors kulturvanor och deltagande.</span><span class="eop" style="color:#1b1b1b">&#xa0;</span>
+			</p>
+			<h3 style="-aw-import:list-item; -aw-list-level-number:2; -aw-list-number-format:'%0.%1.%2'; -aw-list-number-styles:'decimal decimal decimal'; -aw-list-number-values:'8 1 1'; -aw-list-padding-sml:11pt">
+				<span style="-aw-import:ignore"><span>8.1.1</span><span style="width:11pt; font:7pt 'Verdana'; display:inline-block; -aw-import:spaces">&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; </span></span><a name="_Toc210410523"><span class="normaltextrun">Kulturgaranti för alla barn och elever</span></a><span class="eop">&#xa0;</span>
+			</h3>
+			<p style="t-i:0pt">
+				<span class="normaltextrun">Det är stora skillnader mellan elevers tillgång till professionell kultur. I vissa regioner och kommuner finns i dag en kulturgaranti som garanterar alla elever ett visst antal scenföreställningar under skoltiden och ibland även insatser från Skapande skola. Andra elever kan gå hela sin skolgång utan att komma i kontakt med en scenkonstföreställning eller ett museibesök. Det här rimmar illa med det nationella målet om alla barns rätt till kultur. Samtidigt satsas det mycket pengar i kulturbudgetar på alla nivåer, både på de fria grupperna och på de offentliga institutionerna. </span>
+			</p>
+			<p>
+				<span class="normaltextrun">Vi behöver bara gå till vårt grannland Norge för att få ett exempel på hur man skulle kunna jobba på ett bättre sätt. Sedan 1994 har det i Norge funnits en nationell samlande aktör, Scenekunstbruket, som valt ut de mest högkvalitativa föreställningarna för barn och ungdomar. Sedan nästan 20 år är organisationen nationell samordnare för att få ut produktionerna genom reformen Den kulturelle skolesekken. De utvalda föreställningarna förmedlas vidare till regionerna som har fått en budget för att köpa in föreställningarna. I samarbete med kommunerna erbjuds sedan skolorna föreställningar. Det har lett till ett ökat resursutnyttjande då kulturaktörer med offentliga bidrag har gått från att spela en föreställning 4–9 gånger till att i stället över några års tid framföra den 500 gånger.</span><span class="eop">&#xa0;</span>
+			</p>
+			<p>
+				<span class="normaltextrun">I Sverige i dagsläget måste de svenska grupperna däremot själva jaga skolor, kultursamordnare och bidrag i 290 kommuner och 21 regioner. De ska marknadsföra sig, delta på utbudsdagar och schemalägga turnéer. I Norge får man den servicen när man valts ut av Scenekunstbruket och ingår i Den kulturelle skolesekken. Där kan man också se att statusen höjts och därmed intresset för att skapa föreställningar för barn och ungdomar sedan systemet infördes. En systematisering och strukturering av de pengar som i dag finns hos Kulturrådet genom ett antal olika anslag, däribland pengar i kultursamverkansmodellen, skulle möjliggöra en kulturgaranti för alla barn från förskolan till gymnasiet. I ett första steg vill vi införa rätten för alla elever att ta del av professionell scenkonst.</span><span class="eop">&#xa0;</span>
+			</p>
+			<p>
+				<span class="eop">Regeringen bör genomföra en kulturgaranti för alla elever efter norsk modell i enlighet med vad som beskrivs i motionen. Detta bör riksdagen ställa sig bakom och ge regeringen till känna.</span>
+			</p>
+			<h3 style="-aw-import:list-item; -aw-list-level-number:2; -aw-list-number-format:'%0.%1.%2'; -aw-list-number-styles:'decimal decimal decimal'; -aw-list-number-values:'8 1 2'; -aw-list-padding-sml:11pt">
+				<span style="-aw-import:ignore"><span>8.1.2</span><span style="width:11pt; font:7pt 'Verdana'; display:inline-block; -aw-import:spaces">&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; </span></span><a name="_Toc210410524"><span class="normaltextrun">Kulturpedagogen som brygga</span></a><span class="normaltextrun"> </span>
+			</h3>
+			<p style="t-i:0pt">
+				<span class="normaltextrun">Skolan och kulturinstitutionernas samarbete är viktigt för att öppna dörrar till kulturen för barn och unga. De statliga museernas styrdokument betonar att de särskilt ska integrera ett barnperspektiv och bedriva pedagogisk verksamhet. Många kulturarvsinstitutioner erbjuder programverksamhet riktad mot skolan och samarbetar med skolväsendet. På samma sätt betonar styrdokument för olika skolformer vikten av att elever får möta kultur i undervisningen. Många lärare är positiva till att ta del av t.ex. kulturarvsinstitutionernas utställningar och material men ekonomi, tidsbrist och geografiska avstånd utgör hinder. Riksantikvarieämbetet fick i uppdrag att undersöka vad som krävs för att öka interaktionen mellan skola och kultursektorn och konstaterar att det som saknas i styrkedjan är någon som följer upp barnens rätt till kultur i skolan. Vänsterpartiet ser därför att det behövs en ny yrkesroll i skolvärlden, kulturpedagogen, som kan vara länken mellan kulturen och skolan och vara garanten för att kulturella uttryckssätt integreras i undervisningen, att eleverna får ta del av scenkonst och ett utbyte med andra kulturinstitutioner som länsmuseer. Då tillgången till kultur i skolan bör vara likvärdig i hela landet behöver regeringen agera i frågan. </span>
+			</p>
+			<p>
+				<span>Regeringen bör utreda vilka förutsättningar som redan finns och vilka åtgärder som behöver vidtas för att varje skola ska kunna ha en kulturpedagog knuten till sig. Detta bör riksdagen ställa sig bakom och ge regeringen till känna.</span>
+			</p>
+			<h3 style="-aw-import:list-item; -aw-list-level-number:2; -aw-list-number-format:'%0.%1.%2'; -aw-list-number-styles:'decimal decimal decimal'; -aw-list-number-values:'8 1 3'; -aw-list-padding-sml:11pt">
+				<span style="-aw-import:ignore"><span class="normaltextrun"><span class="normaltextrun">8.1.3</span></span><span style="width:11pt; font:7pt 'Verdana'; display:inline-block; -aw-import:spaces">&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; </span></span><a name="_Toc210410525"><span class="normaltextrun">Praktisk-estetiska ämnen</span></a>
+			</h3>
+			<p style="t-i:0pt">
+				<span class="normaltextrun" style="color:#1b1b1b">Vänsterpartiet tycker att det är självklart att alla elever såväl på grundskolenivå som i gymnasiet ska ha möjlighet att utveckla och använda sin fantasi och kreativitet samt sin förmåga att kommunicera genom att delta i estetisk verksamhet. Det krävs kunskaper för att ta del av och tolka det kulturella utbudet. Estetik, kreativitet och förmåga att uttrycka sig konstnärligt är vidare en tillgång i många yrken. </span><span class="normaltextrun">I de senaste årens diskussion om försämrade skolresultat har röster höjts för att eleverna behöver mer tid för teoretiska studier och att det därmed finns mindre utrymme för de praktisk-estetiska ämnena. Det här rimmar illa med den forskning som tittat närmare på hur musik, dans och andra kreativa uttryck ökar barns inlärningsförmåga även i andra ämnen. </span><span class="normaltextrun" style="color:#1b1b1b">Vi anser att de estetiska ämnena både behöver uppvärderas och få ett ökat utrymme i skolan och därför vill vi att antalet timmar i estetiska ämnen ökar och att ämnena ska finnas med på alla nivåer i grund- och gymnasieskolan</span><span class="eop" style="color:#1b1b1b">&#xa0;</span>
+			</p>
+			<p>
+				<span class="normaltextrun">För att detta ska vara möjligt behövs pedagoger med rätt utbildning och rätt förutsättningar att göra sitt jobb. Vi menar att den dåliga arbetssituation som råder på många skolor avskräcker från att söka sig till yrket och andelen obehöriga lärare är stor.</span><span class="normaltextrun">&#xa0;</span><span class="normaltextrun">Vi vill se en satsning på att lyfta de praktisk-estetiska ämnena i grundskolan och menar att regeringen tillsammans med ansvariga myndigheter och Sveriges Kommuner och Regioner (SKR) behöver ta frågan på allvar. </span>
+			</p>
+			<p>
+				<span class="normaltextrun">Även äldre ungdomar behöver utveckla sin kreativitet och få flera verktyg för att uttrycka sig. Den kraftiga minskningen av andelen elever som läser ett estetiskt ämne i gymnasieskolan är djupt olycklig menar vi. </span>
+			</p>
+			<p>
+				<span class="normaltextrun">Estetiska ämnen bör återinföras som obligatoriskt ämne på samtliga gymnasieprogram. Detta bör riksdagen ställa sig bakom och ge regeringen till känna.</span>
+			</p>
+			<h2 style="-aw-import:list-item; -aw-list-level-number:1; -aw-list-number-format:'%0.%1'; -aw-list-number-styles:'decimal decimal'; -aw-list-number-values:'8 2'; -aw-list-padding-sml:8.8pt">
+				<span style="-aw-import:ignore"><span>8.2</span><span style="width:8.8pt; font:7pt 'Verdana'; display:inline-block; -aw-import:spaces">&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; </span></span><a name="_Toc210410526"><span class="normaltextrun">Kulturskola för alla</span></a><span class="eop">&#xa0;</span>
+			</h2>
+			<p style="t-i:0pt">
+				<span class="normaltextrun" style="color:#1b1b1b">Kulturskolan är landets största barn- och ungdomskulturverksamhet och spelar en viktig roll för barns och ungas möjlighet att själva utöva kultur. Barn som ges möjlighet att utöva kultur får ökat självförtroende, stärker sin problemlösande förmåga och blir bättre på socialt samspel. Drama, dans, bildkonst, film, musik och andra kulturyttringar är viktiga för att stärka barns möjligheter att uttrycka sig med mer än språket. Kulturskolan har också bidragit till att många musiker och artister har fått en grundläggande utbild</span><span class="normaltextrun" style="color:#1b1b1b">&#xad;</span><span class="normaltextrun" style="color:#1b1b1b">ning som i vissa fall lett till att svensk musik och kultur kunnat spridas över världen och att svenska musiker kommer från alla landets delar och inte bara storstädernas kärna. Det viktigaste argumentet för kulturskolan är det mervärde som skapas i människors liv när kultur och kulturskapande blir en naturlig del av tillvaron. Målsättningen måste vara att alla barn ska få möjlighet att pröva på olika </span><span class="normaltextrun">kulturyttringar. För att uppnå detta behöver kulturskolan göras tillgänglig för alla, </span>
+			</p>
+			<p>
+				<span class="normaltextrun">Numera har nästan alla kommuner en musikskola eller kulturskola. Enligt Kulturrådets senaste sammanställning för 2023 hade 83 procent av barnen i kulturskolan minst en förälder med eftergymnasial utbildning. Knappt 20 procent av deltagarna i kulturskolan hade utländsk bakgrund, jämfört med drygt 27 procent för befolkningen som helhet. Särskilt inom musiken är det tydligt att det är främst barn med högutbildade föräldrar med egen musikalisk bakgrund som fortsätter att musicera upp i tonåren. För att locka fler barn med olika bakgrund kan man behöva jobba på nya sätt. I vissa kommuner är det också</span><span class="normaltextrun">&#xa0;</span><span class="normaltextrun">höga avgifterna som kan utgöra en tröskel för många familjer.</span><span class="normaltextrun">&#xa0;</span><span class="normaltextrun">Nu ligger</span><span class="normaltextrun">&#xa0;</span><span class="normaltextrun">man</span><span class="normaltextrun">&#xa0;</span><span class="normaltextrun">i startgroparna för att erbjuda vårdnadshavare att betala med Fritidskortet. Trots vår kritik mot utformningen hoppas vi att det ska ge fler chansen att anmäla sig till en kurs. Tyvärr har inte regeringen kombinerat reformen med att hantera bristen på utbildade lärare. I dagsläget står runt 40 000 barn i kö. För att få spela ett populärt instrument som piano kan man i vissa kommuner få vänta flera år. Utan ytterligare insatser kommer staten alltså bara subventionera de som redan tagit sig in i verksamheten och som hade råd att betala utan fritidskortet. Vi vill se att det s.k. kulturskoleklivet som innebär en riktad satsning på utbildning av fler kulturskolepedagoger ses över. Det har fått en mindre dimensionering än planerat pga. Tidöpartiernas neddragning och många kommuner tycker inte utformningen har varit optimal. </span>
+			</p>
+			<p>
+				<span class="normaltextrun">Regeringen bör göra en översyn av utformningen av Kulturskoleklivet för att kunna utbilda fler kulturskolepedagoger, i översynen ska möjligheten att inkludera fler lärosäten samt förutsättningarna för att även folkhögskolan ska kunna bidra med platser undersökas. Detta bör riksdagen ställa sig bakom och ge regeringen till känna.</span>
+			</p>
+			<p>
+				<span class="normaltextrun">Under de senaste åren har det gjorts flera viktiga insatser för att utveckla kulturskolan. Inom den gemensamma organisationen Kulturskolerådet stöttar kulturskolorna varandra kring utvecklingsfrågor, fortbildning och nya metoder. Det nationella Kulturskolecentrum samlar in statistik och sprider forskningsresultat. För många små kommuner kan det dock vara svårt att ta till vara dessa resurser och utveckla den egna verksamheten. Det är också ett litet antal mindre kommuner som fortfarande inte erbjuder barnen kulturskola. Här tror vi att den regionala nivån skulle kunna spela en positiv roll för erfarenhetsutbyte, utvecklingsstöd, möjlighet för barnen att ta del av ett större utbud över kommungränserna, gemensamma fortbildningar för personal, lägeraktiviteter och spetskurser för eleverna. Vi tycker det vore intressant att titta närmare på om en regional kulturskoleverksamhet skulle kunna vara en del av kultursamverkansmodellen och genom en kombination av statliga, regionala och kommunala resurser stötta kulturskolan att växla upp sin verksamhet.</span><span class="eop">&#xa0;</span>
+			</p>
+			<p>
+				<span class="eop">Regeringen bör utreda förutsättningarna för en regional kulturskoleverksamhet inom ramen för kultursamverkansmodellen. Detta bör riksdagen ställa sig bakom och ge regeringen till känna.</span>
+			</p>
+			<h1 style="-aw-import:list-item; -aw-list-level-number:0; -aw-list-number-format:'%0'; -aw-list-number-styles:'decimal'; -aw-list-number-values:'9'; -aw-list-padding-sml:12.1pt">
+				<span style="-aw-import:ignore"><span>9</span><span style="width:12.1pt; font:7pt 'Verdana'; display:inline-block; -aw-import:spaces">&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; </span></span><a name="_Toc210410527"><span class="normaltextrun">Bevarande av kulturarvet i hela landet</span></a><span class="eop">&#xa0;</span>
+			</h1>
+			<p style="t-i:0pt">
+				<span class="normaltextrun">Kultur är en tolkning av oss, av vår tid, vårt förflutna och våra visioner. Kulturarv handlar inte bara om historia och dåtid, utan även om nutid och framtid. Kunskap om både samtidens skeenden och den bakomliggande historien bidrar till vår förståelse av vilka vi är i dag och hur vi kan forma vår framtid. För att våga tro på framtiden är insikten om att vårt samhälle alltid är under förändring avgörande. Det samhälleliga kulturarvsansvaret måste innefatta hela kulturarvet, såsom kvinnornas kulturarv, lokalsamhällets folkliga kultur, teatrarnas och filmhistoriens skatter, museiföremål, de nationella minoriteternas och de invandrade gruppernas kulturarv och hela klassamhällets historia ur olika perspektiv. Lärdomar från historien och tillgången till ett levande kulturarv – till hela den komplexa rikedomen av olika erfarenheter som är vår historia – ger oss den nödvändiga kompassen för att vi ska kunna orientera oss såväl i vår samtid som i vår framtid. Kulturarvet är ett stort område och går inte att helt frikoppla från andra kulturpolitiska insatser utan hör ihop med det nät som är svenskt kulturliv. Kulturskolan lär ut folkmusik och föreningar tränar folkdans, stöd finns till musiker, konstnärer och konsthantverkare som för vidare äldre traditioner, det ideella kulturlivet är av stor vikt för möjliggörandet av levandegörande av kulturarv. Det är därför inte möjligt att ställa satsningar på kulturarvet mot andra kultursatsningar. En samlad kulturpolitik är det som behövs baserad på förståelse för hur svenskt kulturliv fungerar. Vänsterpartiets syn på kulturarvspolitiken står därmed i klar kontrast mot den som regeringen och Sverigedemokraterna bedrivit den här mandatperioden med ensidigt fokus på bevarande ur ett beredskapsperspektiv och förhoppningen om att en statlig kulturkanon ska skapa nyfikenhet och kunskap om svensk kulturhistoria.</span><span class="eop">&#xa0;</span>
+			</p>
+			<p>
+				<span class="normaltextrun" style="color:#1b1b1b">Länsstyrelserna en viktig roll i bevarandet av kulturarvet. Med sin kompetens inom kulturarv och ansvar inom kulturmiljöområdet är de en viktig samarbetspartner för kommuner, företag och privatpersoner som vill göra förändringar på fastigheter eller exploatera för byggnation. För oss i Vänsterpartiet är det av största vikt att kulturarvet kan bevaras i hela landet och att kulturmiljöer är tillgängliga för fler. Vi anser att det behövs ökade medel för att underhålla och tillgängliggöra kulturmiljöer och föreslår det i vår budgetmotion för 2026. </span><span class="normaltextrun">Vi trappar även upp den kyrkoantikvariska ersättningen så inte Svenska kyrkan får stora underhållsskulder när de krympande församlingarna ska stå för allt höge kostnader. </span>
+			</p>
+			<p>
+				<span class="normaltextrun">Vi vill att museerna ska ses som en del av en kulturell allmännytta som alla invånare har rätt till, en gemensam skatt. Precis som det är möjligt för alla att besöka ett bibliotek gratis och ta del av kunskapen där vill vi att den kunskapsbank som museerna utgör ska vara tillgänglig för alla. </span>
+			</p>
+			<p>
+				<span class="normaltextrun">Fri entré till statliga museer är ett sätt att sänka trösklarna och öka människors tillgång till kultur och bildning. Myndigheten för kulturanalys släppte 2023 en rapport om fri entrés påverkan på besöksmönstren. Där konstateras att det är tveksamt om reformen har lett till ett breddat deltagande även om man kan konstatera att reformen har lett till ett ökat deltagande. Förklaringarna till det kan vara många. Delvis handlar det om att det behövs fler insatser än fri entré för att museerna ska kunna bryta sitt besöksmönster. Vi ser att den segregation och ojämlikhet som finns i samhället inte bryts så enkelt men Tidöpartierna har tagit resultatet som ett bevis på att reformen inte var rätt. När fri entré för vuxna återigen slopades av regeringen kunde man uppmäta ett besökstapp på 21 procent under 2023. Vi vill därför se att den här relativt billiga reformen tas tillbaka och att museerna fortsatt har goda resurser att jobba för att nå ut bredare och kunna välkomna andra besökare. </span>
+			</p>
+			<p>
+				<span class="normaltextrun">På längre sikt vill vi också att fler museer ska omfattas. I tidigare budgetmotioner har vi t.ex. föreslagit att utöka reformen till att även innefatta Tekniska museet. På regional nivå har många av länsmuseerna tagit bort sina avgifter och det är mycket viktigt då de har stor potential att nå människor i hela landet. </span>
+			</p>
+			<p>
+				<span class="normaltextrun">Regeringen bör återinföra fri entré-reformen på museerna. Detta bör riksdagen ställa sig bakom och ge regeringen till känna.</span>
+			</p>
+			<h2 style="-aw-import:list-item; -aw-list-level-number:1; -aw-list-number-format:'%0.%1'; -aw-list-number-styles:'decimal decimal'; -aw-list-number-values:'9 1'; -aw-list-padding-sml:8.8pt">
+				<span style="-aw-import:ignore"><span>9.1</span><span style="width:8.8pt; font:7pt 'Verdana'; display:inline-block; -aw-import:spaces">&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; </span></span><a name="_Toc210410528"><span class="normaltextrun">Arbetslivsmuseum</span></a><span class="normaltextrun"> </span>
+			</h2>
+			<p style="t-i:0pt">
+				<span class="normaltextrun">Arbetslivsmuseerna berättar om, gestaltar och levandegör på olika sätt hur arbetet, arbetslivet och till viss del även livet vid sidan om arbetet har sett ut genom historien. I dag finns det ca 1 500 arbetslivsmuseer i Sverige. Museerna drivs till största del av ideellt arbetande personal och deras samlingar är mycket omfattande. Vänsterpartiet är mycket mån om att de viktiga arbetslivsmuseerna och deras verksamhet ska finnas kvar och utvecklas. Riksantikvarieämbetet genomförde en studie om arbetslivsmuseernas villkor 2020 och den visade bl.a. att andelen arbetslivsmuseer som samarbetar med ett regionalt eller kommunalt museum har minskat sedan den förra kartläggningen 2001. Den största gruppen engagerade är män i åldern 60–70 år och många vittnade om en oro att kunskapen inte kommer leva vidare när dagens eldsjälar inte längre är med. Kartläggningen visade att de flesta som är medlemmar har gått med av ett lokalhistoriskt intresse men många anger också hur viktigt det sociala sammanhanget är. Rapportens slutsats är att arbetslivsmuseerna fyller många olika funktioner och att deras bidrag till den sociala hållbarheten på orten kan vara betydande. Det är viktigt att rapportens slutsatser tas tillvara och att insatser görs för att stärka arbetslivsmuseernas position</span><span class="normaltextrun" style="line-height:150%; font-size: 0.90em">. </span>
+			</p>
+			<h2 style="-aw-import:list-item; -aw-list-level-number:1; -aw-list-number-format:'%0.%1'; -aw-list-number-styles:'decimal decimal'; -aw-list-number-values:'9 2'; -aw-list-padding-sml:8.8pt">
+				<span style="-aw-import:ignore"><span>9.2</span><span style="width:8.8pt; font:7pt 'Verdana'; display:inline-block; -aw-import:spaces">&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; </span></span><a name="_Toc210410529"><span class="normaltextrun">Arkiv</span></a><span class="eop">&#xa0;</span>
+			</h2>
+			<p style="t-i:0pt">
+				<span class="normaltextrun">De senaste årens ökade intresse för släktforskning har inneburit att många nya användare har lärt sig att uppskatta de kyrkböcker och andra äldre arkiv där man både i fysisk och digital form kan hitta information om sin släkt. Tv-program som Det sitter i väggarna har också visat tittarna den rika information som finns i landets arkiv om platser och fastigheter. Men inom kulturpolitiken har arkivfrågorna fört en undanskymd tillvaro i väntan på initiativ från regeringen. I december 2019 släpptes arkivutredningen Härifrån till evigheten (SOU 2019:58). Där konstaterades att arkivsektorn under lång tid pekat på behovet av teknisk utveckling. Man föreslog att en ny arkivlag skulle ersätta den gamla och att finansieringsmodellen för överlämnande av arkiv delvis skulle förändras. I maj 2022 kom Riksarkivets rapport angående de behov de identifierat bl.a. efter arkivutredningen. Riksarkivet redovisar ett antal områden där utökade befogenheter för myndigheten är behövligt. Från Vänsterpartiets sida tycker vi att flera av förslagen är intressanta, bl.a. att portalparagrafen i arkivlagen behöver omformuleras så att hela bredden av arkiv kan omfattas av lagstiftningen. Det är viktigt att arkiv ses lika mycket som en förutsättning för demokrati med säkrad tillgång till allmänna handlingar som en betydande del av vårt kulturarv. Det har nu gått många år sedan arkivutredningen och det behövs en kraftsamling både lagstiftningsmässigt och ekonomiskt kring området. Vänsterpartiet menar att flera av förslagen som utredningen innehåller behöver behandlas men vill i dagsläget inte lyfta ut så många enskildheter utan hoppas att regeringen kan komma med ett sammanhållet och genomgripande förslag till riksdagen så snart som möjligt. </span>
+			</p>
+			<p>
+				<span class="normaltextrun">Regeringen ska skyndsamt återkomma till riksdagen med lagförslag utifrån de utredningar som gjorts på arkivområdet de senaste åren. Detta bör riksdagen ställa sig bakom och ge regeringen till känna.</span>
+			</p>
+			<h1 style="-aw-import:list-item; -aw-list-level-number:0; -aw-list-number-format:'%0'; -aw-list-number-styles:'decimal'; -aw-list-number-values:'10'; -aw-list-padding-sml:2.6pt">
+				<span style="-aw-import:ignore"><span>10</span><span style="width:2.6pt; font:7pt 'Verdana'; display:inline-block; -aw-import:spaces">&#xa0; </span></span><a name="_Toc210410530"><span class="normaltextrun">Audiovisuell politik för morgondagen</span></a><span class="eop">&#xa0;</span>
+			</h1>
+			<p style="t-i:0pt">
+				<span class="normaltextrun">TV, film, radio och digitala spel av olika slag förekommer i nästan varje svensk invånares liv varje dag. Det är kultur och medieformer som berör, skapar engagemang, gemenskap, väcker debatt, bildar och informerar oss om världen.</span><span class="eop">&#xa0;</span>
+			</p>
+			<p>
+				<span class="normaltextrun">Företag inom svensk film och tv befinner sig i skärningspunkten mellan kulturpolitik och näringslivspolitik. Många är beroende av offentligt stöd samtidigt som man många gånger befinner sig på en internationell arena och en global marknad. </span>
+			</p>
+			<p>
+				<span class="normaltextrun">Svensk film har nått stora framgångar de senaste åren med</span><span class="normaltextrun">&#xa0;</span><span class="normaltextrun">internationella utmärkelser. Parallellt är det ett tydligt mönster att biopubliken minskat markant och besökarna ser i lägre utsträckning svensk film. Lönsamheten är låg i de flesta led. Under coronapandemin var många biosalonger stängda eller halvtomma och det har varit svårt att locka tillbaka publiken. Bedömare menar dock att det framför allt är de förändrade och förbättrade möjligheterna att se film på annat sätt som spelar in i minskningen. Redan mellan 2018 och 2019 minskade antalet biobesök med närmare en miljon.</span><span class="eop">&#xa0;</span>
+			</p>
+			<p>
+				<span class="normaltextrun">För oss i Vänsterpartiet är det viktigt att även fortsättningsvis stötta biografer runtom i landet genom Svenska Filminstitutet. Biografernas digitalisering och framväxten av nya digitala visningsformer för livesändningar av scenföreställningar som exempelvis dans och opera har gett möjligheter till ett ökat och mer flexibelt kulturutbud i hela landet. Föreningsdrivna och kommunala biografer är också en förutsättning för verksamheter som skolbio och filmklubbar. Att uppleva och samtala om film med andra är en annan sorts kulturupplevelse än att strömma film hemma.</span><span class="eop">&#xa0;</span>
+			</p>
+			<p>
+				<span class="normaltextrun">Streamingtjänsterna tillgängliggör ett enormt utbud av både film och serier genom det som kallas VOD – video on demand. Den finansieringsmodell av den statliga filmpolitiken som slogs fast så sent som 2017 har därför stora utmaningar då den bygger på intäkter från biografmomsen. Även andra delar av affärsmodellen utmanas när de s.k. visningsfönstren inte är desamma som tidigare och streamingtjänsterna i allt högre utsträckning gör sina egna filmer som inte har sin premiär på bio. Vi hoppas att den filmutredning som gjorts den här mandatperioden ska resultera i ett omtag kring dessa utmaningar och lägger därför inga konkreta förslag i årets motion. </span>
+			</p>
+			<h2 style="-aw-import:list-item; -aw-list-level-number:1; -aw-list-number-format:'%0.%1'; -aw-list-number-styles:'decimal decimal'; -aw-list-number-values:'10 1'; -aw-list-padding-sml:0.8pt">
+				<span style="-aw-import:ignore"><span>10.1</span><span style="width:0.8pt; font:7pt 'Verdana'; display:inline-block"> </span></span><a name="_Toc210410531"><span class="normaltextrun">Digitaliseringen av film</span></a><span class="eop">&#xa0;</span>
+			</h2>
+			<p style="t-i:0pt">
+				<span class="normaltextrun">Ett av de filmpolitiska målen inom ramen för den statliga filmpolitiken är målet Ett filmarv som bevaras, används och utvecklas. I dag görs och visas film nästan uteslutande digitalt. Den analoga filmtekniken är helt på väg ut. I Svenska Filminstitutets (SFI) arkiv finns närmare 33 000 filmer och det är ett av världens äldsta filmarkiv. Om kommande generationer ska kunna ta del av vårt filmiska kulturarv, från sent 1800-tal till 2000-tal, måste det digitaliseras i snabbare takt. Vänsterpartiet anser att det svenska filmiska kulturarvet har lika stor vikt som andra kulturarv och inte får förfalla. Det filmiska kulturarvet får inte heller vara otillgängligt för allmänheten. Med den digitalisering som nu görs kan filmerna visas på alla digitala biografer och</span><span class="normaltextrun">&#xa0;</span><span class="normaltextrun">i andra moderna format.</span><span class="normaltextrun">&#xa0;</span><span class="normaltextrun">Det handlar kort sagt om en historisk möjlighet att göra kulturarvet tillgängligt i stor skala, samtidigt som det finns en historisk risk att större delen av filmarvet går förlorad om inte denna chans tillvaratas. Kompentens och reservdelar till maskiner är snart en bristvara. Med det sagt måste satsningarna kvarstå och SFI flaggar även för stora investeringsbehov i nya lokaler som är anpassade för kommande klimatförändringar.</span><span class="eop">&#xa0;</span>
+			</p>
+			<p>
+				<span>Regeringen bör vidta lämpliga åtgärder för att digitaliseringen av det filmiska kulturarvet påskyndas. Detta bör riksdagen ställa sig bakom och ge regeringen till känna.</span><a name="_Hlk209009832"><span class="eop">&#xa0;</span></a>
+			</p>
+			<h1 style="-aw-import:list-item; -aw-list-level-number:0; -aw-list-number-format:'%0'; -aw-list-number-styles:'decimal'; -aw-list-number-values:'11'; -aw-list-padding-sml:2.6pt">
+				<span style="-aw-import:ignore"><span class="eop"><span class="eop">11</span></span><span style="width:2.6pt; font:7pt 'Verdana'; display:inline-block; -aw-import:spaces">&#xa0; </span></span><a name="_Toc210410532"><span style="-aw-bookmark-end:_Hlk209009832"></span><span class="eop">Musik</span></a>
+			</h1>
+			<p style="t-i:0pt">
+				<span class="normaltextrun" style="color:#1b1b1b">Varje generation har utifrån de musiktraditioner som funnits fått erövra sitt eget utrymme och sin egen musik. Det finns i dag ett brett spektrum av musikgenrer, en musikalisk mångfald som vi har anledning att vara stolta över. Men dessa genrer och stilar lever under mycket olika ekonomiska villkor. Det är politikens ansvar att musiken i landet får förutsättningar att utvecklas och expandera. Musik är, tillsammans med film, den konstart som ungdomar från alla samhällsklasser kommer mest i kontakt med, både som mottagare och utövare. 600</span><span class="normaltextrun" style="color:#1b1b1b">&#xa0;</span><span class="normaltextrun" style="color:#1b1b1b">000 personer i landet sjunger i kör. Ungdomar repar och spelar i band i tusentals källare och tillfälliga lokaler. Intresset för visan har utvecklats starkt och vissjungandet har blivit en rörelse som förenar över generationsgränserna. Musik- eller kulturskolor finns i nästan alla kommuner. Lokala orkestrar, körer och musikhus, regionala och nationella institutioner utgör stommen i det samhälleligt stödda musiklivet. Samtidigt står det fria musiklivet, professionella grupper, musiker och sångare, för en mycket stor del av musikutbudet. Deras konstnärliga frihet är av vital betydelse för musikens utveckling.</span><span class="eop" style="color:#1b1b1b">&#xa0;</span>
+			</p>
+			<p>
+				<span class="eop" style="color:#1b1b1b">Samtidigt som det finns stort intresse för att utöva och ta del av musik är de politiska strukturerna ett lapptäcke. Många partier talar gärna om det svenska musikundret men samtidigt fattar man beslut som förstör det ekosystem som behövs för att stötta nya talanger. </span><span class="normaltextrun" style="color:#1b1b1b">Förutsättningarna för svenskt musikliv har förändrats mycket de senaste åren bl.a. beroende på digitaliseringen och globaliseringen. Användningen av AI ställer nya krav på upphovsrätten. </span><span class="eop" style="color:#1b1b1b">Sedan Rikskonserter försvann har det utretts nya turnéstrukturer och flera stöden hos Kulturrådet är rejält översökta. Efter pandemin har allt fler enskilda företag och större kommersiella aktörer tilldelats medel som tidigare gått till föreningslivet. Det har också sett en stor omstrukturering av bidrag som tidigare förmedlades av paraplyorganisationer som Svensk jazz. Konsekvenserna av den förändringen har inte genomlyst tillräckligt. De stora nedskärningar inom studieförbundens verksamhet har slagit särskilt hårt mot musikverksamheten när man inte haft råd att behålla replokaler och musikhus. Det saknas små och mellanstora scener för den som är i början av sin karriär och i många tätorter finns diskussion om ljudnivåer kopplade till musiklivet. </span><span class="normaltextrun">Kulturrådet fick i uppdrag av regeringen att kartlägga tillgången till musikscener i hela landet </span><span class="eop">och de har kommit med en rad rekommendationer. Vi tror dock det behövs ett helhetsgrepp och föreslår en större utredning.</span>
+			</p>
+			<p>
+				<span class="eop">Regeringen bör därför tillsätta en statlig utredning för att genomlysa musiklivets villkor på alla nivåer från statliga subventioner, utbildningsvägar, turnéstruktur och myndigheters samverkan till exportfrågor. Detta bör riksdagen ställa sig bakom och ge regeringen till känna.</span><a name="_Hlk209009840"><span class="eop" style="color:#1b1b1b">&#xa0;</span></a>
+			</p>
+			<div style="-aw-sdt-tag:'CC_Underskrifter'; -aw-sdt-title:'CC_Underskrifter'">
+				<p>
+					<span style="-aw-import:ignore">&#xa0;</span>
+				</p>
+				<p>
+					<span style="-aw-import:ignore">&#xa0;</span>
+				</p>
+			</div>
+			<table cellspacing="0" cellpadding="0" style="width:100%; border-collapse:collapse">
+				<tr style="page-break-inside:avoid">
+					<td style="width:1%; padding-right:5.4pt; padding-left:5.4pt; vertical-align:bottom">
+						<p class="Underskrifter" style="margin-bottom:0pt">
+							<span>Nooshi Dadgostar (V)</span>
+						</p>
+					</td>
+					<td style="width:1%; padding-right:5.4pt; padding-left:5.4pt; vertical-align:bottom">
+						<p class="Underskrifter" style="margin-bottom:0pt">
+							<span style="-aw-import:ignore">&#xa0;</span>
+						</p>
+					</td>
+				</tr>
+				<tr style="page-break-inside:avoid">
+					<td style="width:1%; padding-right:5.4pt; padding-left:5.4pt; vertical-align:bottom">
+						<p class="Underskrifter" style="margin-bottom:0pt">
+							<span>Andrea Andersson Tay (V)</span>
+						</p>
+					</td>
+					<td style="width:1%; padding-right:5.4pt; padding-left:5.4pt; vertical-align:bottom">
+						<p class="Underskrifter" style="margin-bottom:0pt">
+							<span>Samuel Gonzalez Westling (V)</span>
+						</p>
+					</td>
+				</tr>
+				<tr style="page-break-inside:avoid">
+					<td style="width:1%; padding-right:5.4pt; padding-left:5.4pt; vertical-align:bottom">
+						<p class="Underskrifter" style="margin-bottom:0pt">
+							<span>Tony Haddou (V)</span>
+						</p>
+					</td>
+					<td style="width:1%; padding-right:5.4pt; padding-left:5.4pt; vertical-align:bottom">
+						<p class="Underskrifter" style="margin-bottom:0pt">
+							<span>Lotta Johnsson Fornarve (V)</span>
+						</p>
+					</td>
+				</tr>
+				<tr style="page-break-inside:avoid">
+					<td style="width:1%; padding-right:5.4pt; padding-left:5.4pt; vertical-align:bottom">
+						<p class="Underskrifter" style="margin-bottom:0pt">
+							<span>Andreas Lennkvist Manriquez (V)</span>
+						</p>
+					</td>
+					<td style="width:1%; padding-right:5.4pt; padding-left:5.4pt; vertical-align:bottom">
+						<p class="Underskrifter" style="margin-bottom:0pt">
+							<span>Isabell Mixter (V)</span>
+						</p>
+					</td>
+				</tr>
+				<tr style="page-break-inside:avoid">
+					<td style="width:1%; padding-right:5.4pt; padding-left:5.4pt; vertical-align:bottom">
+						<p class="Underskrifter" style="margin-bottom:0pt">
+							<span>Vasiliki Tsouplaki (V)</span>
+						</p>
+					</td>
+					<td style="width:1%; padding-right:5.4pt; padding-left:5.4pt; vertical-align:bottom">
+						<p class="Underskrifter" style="margin-bottom:0pt">
+							<span style="-aw-import:ignore">&#xa0;</span>
+						</p>
+					</td>
+				</tr>
+			</table>
+			<p>
+				<span style="-aw-bookmark-end:_Hlk210410179"></span><span style="-aw-import:ignore">&#xa0;</span>
+			</p>
+		</div>
+	</div>

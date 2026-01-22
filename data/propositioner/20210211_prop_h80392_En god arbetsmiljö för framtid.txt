@@ -1,0 +1,1905 @@
+SEARCH TERM: artificiell intelligens
+DOCUMENT ID: h80392
+TITLE: En god arbetsmiljö för framtiden - regeringens arbetsmiljöstrategi 2021-2025
+TYPE: prop
+SUBTYPE: skr
+DATE: 2021-02-11
+PARLIAMENTARY YEAR: 2020/21
+ORGANISATION: Arbetsmarknadsdepartementet
+STATUS: Klar
+DOWNLOADED: 2026-01-22 10:26:07
+================================================================================
+
+<div style="margin:3px;">
+<STYLE type="text/css">
+
+body {margin-top: 0px;margin-left: 0px;}
+
+#page_1 {position:relative; overflow: hidden;z:b;margin:10px 0px 21px 10px ;padding: 0px;border: none;width: 766px;}
+
+#page_1 #p1dimg1 {position:absolute;top:0px;left:546px;z-index:-1;width:54px;height:97px;}
+#page_1 #p1dimg1 #p1img1 {width:54px;height:97px;}
+
+
+
+
+#page_2 {position:relative; overflow: hidden;z:b;margin:16px 0px 21px 10px ;padding: 0px;border: none;width: 676px;}
+#page_2 #id_1 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 90px;overflow: hidden;}
+#page_2 #id_2 {float:left;border:none;z:b;margin:1px 0px 0px 10px ;padding: 0px;border:none;width: 541px;overflow: hidden;}
+
+
+
+
+
+#page_3 {position:relative; overflow: hidden;z:b;margin:15px 0px 21px 10px ;padding: 0px;border: none;width: 766px;}
+
+
+
+
+
+#page_4 {position:relative; overflow: hidden;z:b;margin:16px 0px 21px 10px ;padding: 0px;border: none;width: 676px;}
+#page_4 #id_1 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 90px;overflow: hidden;}
+#page_4 #id_2 {float:left;border:none;z:b;margin:1px 0px 0px 10px ;padding: 0px;border:none;width: 541px;overflow: hidden;}
+
+
+
+
+
+#page_5 {position:relative; overflow: hidden;z:b;margin:16px 0px 21px 10px ;padding: 0px;border: none;width: 586px;}
+
+
+
+
+
+#page_6 {position:relative; overflow: hidden;z:b;margin:16px 0px 21px 10px ;padding: 0px;border: none;width: 676px;}
+#page_6 #id_1 {border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 586px;overflow: hidden;}
+#page_6 #id_2 {border:none;z:b;margin:13px 0px 0px 10px ;padding: 0px;border:none;width: 676px;overflow: hidden;}
+#page_6 #id_2 #id_2_1 {float:left;border:none;z:b;margin:64px 0px 0px 10px ;padding: 0px;border:none;width: 90px;overflow: hidden;}
+#page_6 #id_2 #id_2_2 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 541px;overflow: hidden;}
+
+
+
+
+
+#page_7 {position:relative; overflow: hidden;z:b;margin:16px 0px 21px 10px ;padding: 0px;border: none;width: 766px;}
+
+
+
+
+
+#page_8 {position:relative; overflow: hidden;z:b;margin:16px 0px 21px 10px ;padding: 0px;border: none;width: 676px;}
+
+
+
+
+
+#page_9 {position:relative; overflow: hidden;z:b;margin:16px 0px 21px 10px ;padding: 0px;border: none;width: 676px;}
+
+
+
+
+
+#page_10 {position:relative; overflow: hidden;z:b;margin:16px 0px 21px 10px ;padding: 0px;border: none;width: 721px;}
+
+
+
+
+
+#page_11 {position:relative; overflow: hidden;z:b;margin:15px 0px 21px 10px ;padding: 0px;border: none;width: 586px;}
+
+
+
+
+
+#page_12 {position:relative; overflow: hidden;z:b;margin:15px 0px 21px 10px ;padding: 0px;border: none;width: 631px;}
+
+
+
+
+
+#page_13 {position:relative; overflow: hidden;z:b;margin:16px 0px 21px 10px ;padding: 0px;border: none;width: 766px;}
+
+
+
+
+
+#page_14 {position:relative; overflow: hidden;z:b;margin:16px 0px 21px 10px ;padding: 0px;border: none;width: 721px;}
+
+
+
+
+
+#page_15 {position:relative; overflow: hidden;z:b;margin:16px 0px 21px 10px ;padding: 0px;border: none;width: 766px;}
+
+
+
+
+
+#page_16 {position:relative; overflow: hidden;z:b;margin:16px 0px 21px 10px ;padding: 0px;border: none;width: 631px;}
+#page_16 #id_1 {border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 586px;overflow: hidden;}
+#page_16 #id_2 {border:none;z:b;margin:12px 0px 0px 10px ;padding: 0px;border:none;width: 586px;overflow: hidden;}
+#page_16 #id_2 #id_2_1 {float:left;border:none;z:b;margin:74px 0px 0px 10px ;padding: 0px;border:none;width: 135px;overflow: hidden;}
+#page_16 #id_2 #id_2_2 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 451px;overflow: hidden;}
+
+
+
+
+
+#page_17 {position:relative; overflow: hidden;z:b;margin:16px 0px 21px 10px ;padding: 0px;border: none;width: 766px;}
+
+
+
+
+
+#page_18 {position:relative; overflow: hidden;z:b;margin:16px 0px 21px 10px ;padding: 0px;border: none;width: 631px;}
+#page_18 #id_1 {border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 586px;overflow: hidden;}
+#page_18 #id_2 {border:none;z:b;margin:1px 0px 0px 10px ;padding: 0px;border:none;width: 586px;overflow: hidden;}
+#page_18 #id_2 #id_2_1 {float:left;border:none;z:b;margin:101px 0px 0px 10px ;padding: 0px;border:none;width: 135px;overflow: hidden;}
+#page_18 #id_2 #id_2_2 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 451px;overflow: hidden;}
+
+
+
+
+
+#page_19 {position:relative; overflow: hidden;z:b;margin:16px 0px 21px 10px ;padding: 0px;border: none;width: 766px;}
+
+
+
+
+
+#page_20 {position:relative; overflow: hidden;z:b;margin:16px 0px 21px 10px ;padding: 0px;border: none;width: 721px;}
+#page_20 #id_1 {border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 586px;overflow: hidden;}
+#page_20 #id_2 {border:none;z:b;margin:2px 0px 0px 10px ;padding: 0px;border:none;width: 676px;overflow: hidden;}
+#page_20 #id_2 #id_2_1 {float:left;border:none;z:b;margin:95px 0px 0px 10px ;padding: 0px;border:none;width: 135px;overflow: hidden;}
+#page_20 #id_2 #id_2_2 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 541px;overflow: hidden;}
+
+
+
+
+
+#page_21 {position:relative; overflow: hidden;z:b;margin:16px 0px 21px 10px ;padding: 0px;border: none;width: 676px;}
+
+
+
+
+
+#page_22 {position:relative; overflow: hidden;z:b;margin:16px 0px 21px 10px ;padding: 0px;border: none;width: 721px;}
+#page_22 #id_1 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 135px;overflow: hidden;}
+#page_22 #id_2 {float:left;border:none;z:b;margin:1px 0px 0px 10px ;padding: 0px;border:none;width: 541px;overflow: hidden;}
+
+
+
+
+
+#page_23 {position:relative; overflow: hidden;z:b;margin:15px 0px 21px 10px ;padding: 0px;border: none;width: 676px;}
+
+
+
+
+
+#page_24 {position:relative; overflow: hidden;z:b;margin:15px 0px 21px 10px ;padding: 0px;border: none;width: 721px;}
+#page_24 #id_1 {border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 586px;overflow: hidden;}
+#page_24 #id_2 {border:none;z:b;margin:11px 0px 0px 10px ;padding: 0px;border:none;width: 676px;overflow: hidden;}
+#page_24 #id_2 #id_2_1 {float:left;border:none;z:b;margin:54px 0px 0px 10px ;padding: 0px;border:none;width: 135px;overflow: hidden;}
+#page_24 #id_2 #id_2_2 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 541px;overflow: hidden;}
+
+
+
+
+
+#page_25 {position:relative; overflow: hidden;z:b;margin:16px 0px 21px 10px ;padding: 0px;border: none;width: 676px;}
+
+
+
+
+
+#page_26 {position:relative; overflow: hidden;z:b;margin:15px 0px 21px 10px ;padding: 0px;border: none;width: 631px;}
+
+
+
+
+
+#page_27 {position:relative; overflow: hidden;z:b;margin:16px 0px 21px 10px ;padding: 0px;border: none;width: 676px;}
+
+
+
+
+
+#page_28 {position:relative; overflow: hidden;z:b;margin:16px 0px 21px 10px ;padding: 0px;border: none;width: 631px;}
+#page_28 #id_1 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 135px;overflow: hidden;}
+#page_28 #id_2 {float:left;border:none;z:b;margin:1px 0px 0px 10px ;padding: 0px;border:none;width: 451px;overflow: hidden;}
+
+
+
+
+
+#page_29 {position:relative; overflow: hidden;z:b;margin:16px 0px 21px 10px ;padding: 0px;border: none;width: 766px;}
+
+
+
+
+
+#page_30 {position:relative; overflow: hidden;z:b;margin:16px 0px 21px 10px ;padding: 0px;border: none;width: 721px;}
+
+
+
+
+
+#page_31 {position:relative; overflow: hidden;z:b;margin:16px 0px 21px 10px ;padding: 0px;border: none;width: 676px;}
+#page_31 #id_1 {float:left;border:none;z:b;margin:14px 0px 0px 10px ;padding: 0px;border:none;width: 451px;overflow: hidden;}
+#page_31 #id_2 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 135px;overflow: hidden;}
+
+#page_31 #p31dimg1 {position:absolute;top:235px;left:0px;z-index:-1;width:112px;height:1px;font-size: 1px !important;l-h:nHeight;}
+#page_31 #p31dimg1 #p31img1 {width:112px;height:1px;}
+
+
+
+
+.dclr {clear:both;float:none;height:1px;margin:0px;padding:0px;overflow:hidden;}
+
+.ft0{font:  18px 'Verdana' !important;l-h: 29px;}
+.ft1{font:  14px 'Verdana' !important;l-h: 22px;}
+.ft2{font:  12px 'Verdana' !important;l-h: 15px;}
+.ft3{font: italic  12px 'Verdana' !important;l-h: 15px;}
+.ft4{font:  12px 'Verdana' !important;l-h: 15px;}
+.ft5{font:  12px 'Verdana' !important;l-h: 16px;}
+.ft6{font:  12px 'Verdana' !important;l-h: 12px;}
+.ft7{font:  12px 'Verdana' !important;margin-left: 32px;l-h: 15px;}
+.ft8{font:  10px 'Verdana' !important;l-h: 1px;}
+.ft9{font:  12px 'Verdana' !important;margin-left: 33px;l-h: 15px;}
+.ft10{font:  14px 'Verdana' !important;margin-left: 50px;l-h: 22px;}
+.ft11{font:  12px 'Verdana' !important;margin-left: 3px;l-h: 15px;}
+.ft12{font:  14px 'Verdana' !important;l-h: 19px;}
+.ft13{font:  14px 'Verdana' !important;margin-left: 39px;l-h: 19px;}
+.ft14{font:  14px 'Verdana' !important;l-h: 19px;}
+.ft15{font:  12px 'Verdana' !important;margin-left: 12px;l-h: 15px;}
+.ft16{font:  12px 'Verdana' !important;l-h: 10px;}
+.ft17{font:  12px 'Verdana' !important;margin-left: 13px;l-h: 15px;}
+.ft18{font:  12px 'Verdana' !important;margin-left: 13px;l-h: 16px;}
+.ft19{font:  14px 'Verdana' !important;margin-left: 51px;l-h: 22px;}
+.ft20{font:  12px 'Verdana' !important;l-h: 15px;position: relative; bottom: 4px;}
+.ft21{font:  14px 'Verdana' !important;l-h: 20px;}
+.ft22{font:  10px 'Verdana' !important;l-h: 6px;}
+.ft23{font:  12px 'Verdana' !important;l-h: 11px;}
+
+.p0{text-align: left;padding-left: 0px;padding-right: 441px;margin-top: 26px;margin-bottom: 0px !important;}
+.p1{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p2{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p3{text-align: left;padding-left: 0px;margin-top: 20px;margin-bottom: 0px !important;}
+.p4{text-align: left;padding-left: 0px;margin-top: 16px;margin-bottom: 0px !important;}
+.p5{text-align: left;padding-left: 0px;margin-top: 31px;margin-bottom: 0px !important;}
+.p6{text-align: left;padding-left: 180px;padding-right: 315px;margin-top: 20px;margin-bottom: 0px !important;}
+.p7{text-align: left;padding-left: 0px;margin-top: 52px;margin-bottom: 0px !important;}
+.p8{text-align: left;padding-left: 0px;padding-right: 147px;margin-top: 28px;margin-bottom: 0px !important;}
+.p9{text-align: left;padding-left: 0px;padding-right: 168px;margin-top: 2px;margin-bottom: 0px !important;text-indent: 11px;}
+.p10{text-align: left;padding-left: 0px;margin-top: 3px;margin-bottom: 0px !important;}
+.p11{text-align: left;padding-left: 0px;padding-right: 168px;margin-top: 0px;margin-bottom: 0px !important;text-indent: 0.18px;}
+.p12{text-align: left;padding-left: 0px;padding-right: 168px;margin-top: 1px;margin-bottom: 0px !important;text-indent: 0.18px;}
+.p13{text-align: left;padding-left: 0px;margin-top: 17px;margin-bottom: 0px !important;}
+.p14{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;}
+.p15{text-align: right;padding-right: 42px;margin-top: 0px;margin-bottom: 0px !important;}
+.p16{text-align: left;margin-top: 0px;margin-bottom: 0px !important;}
+.p17{text-align: left;margin-top: 753px;margin-bottom: 0px !important;}
+.p18{text-align: left;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p19{text-align: right;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p20{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;}
+.p21{text-align: left;padding-left: 0px;margin-top: 1px;margin-bottom: 0px !important;}
+.p22{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p23{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p24{text-align: left;padding-left: 0px;padding-right: 105px;margin-top: 1px;margin-bottom: 0px !important;text-indent: 0.49px;}
+.p25{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p26{text-align: right;padding-right: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p27{text-align: right;padding-right: 63px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p28{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p29{text-align: right;padding-right: 105px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p30{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;}
+.p31{text-align: right;padding-right: 1px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p32{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p33{text-align: right;padding-right: 42px;margin-top: 564px;margin-bottom: 0px !important;}
+.p34{text-align: left;padding-right: 63px;margin-top: 17px;margin-bottom: 0px !important;}
+.p35{text-align: left;padding-right: 63px;margin-top: 3px;margin-bottom: 0px !important;text-indent: 11px;}
+.p36{text-align: left;padding-right: 63px;margin-top: 4px;margin-bottom: 0px !important;text-indent: 11px;}
+.p37{text-align: left;padding-right: 63px;margin-top: 1px;margin-bottom: 0px !important;text-indent: 11px;}
+.p38{text-align: left;padding-right: 0px;margin-top: 0px;margin-bottom: 0px !important;text-indent: 11px;}
+.p39{text-align: left;padding-right: 105px;margin-top: 1px;margin-bottom: 0px !important;}
+.p40{text-align: left;padding-right: 105px;margin-top: 2px;margin-bottom: 0px !important;text-indent: 11px;}
+.p41{text-align: left;padding-right: 105px;margin-top: 4px;margin-bottom: 0px !important;text-indent: 11px;}
+.p42{text-align: left;padding-right: 105px;margin-top: 3px;margin-bottom: 0px !important;text-indent: 11px;}
+.p43{text-align: right;padding-right: 42px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p44{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;text-indent: 0.112px;}
+.p45{text-align: left;padding-left: 0px;padding-right: 168px;margin-top: 0px;margin-bottom: 0px !important;text-indent: 0.60px;}
+.p46{text-align: left;padding-right: 63px;margin-top: 12px;margin-bottom: 0px !important;}
+.p47{text-align: left;margin-top: 16px;margin-bottom: 0px !important;}
+.p48{text-align: left;margin-top: 1px;margin-bottom: 0px !important;}
+.p49{text-align: left;padding-right: 63px;margin-top: 16px;margin-bottom: 0px !important;}
+.p50{text-align: left;padding-left: 0px;padding-right: 63px;margin-top: 0px;margin-bottom: 0px !important;}
+.p51{text-align: left;padding-left: 0px;padding-right: 168px;margin-top: 0px;margin-bottom: 0px !important;}
+.p52{text-align: left;padding-left: 0px;padding-right: 168px;margin-top: 1px;margin-bottom: 0px !important;text-indent: 11px;}
+.p53{text-align: left;padding-left: 0px;padding-right: 168px;margin-top: 4px;margin-bottom: 0px !important;}
+.p54{text-align: left;padding-left: 0px;padding-right: 189px;margin-top: 33px;margin-bottom: 0px !important;text-indent: 0.61px;}
+.p55{text-align: left;padding-left: 0px;padding-right: 168px;margin-top: 12px;margin-bottom: 0px !important;}
+.p56{text-align: left;padding-left: 0px;margin-top: 37px;margin-bottom: 0px !important;}
+.p57{text-align: left;padding-left: 0px;padding-right: 168px;margin-top: 11px;margin-bottom: 0px !important;}
+.p58{text-align: left;padding-left: 0px;margin-top: 3px;margin-bottom: 0px !important;}
+.p59{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;}
+.p60{text-align: left;padding-left: 0px;padding-right: 63px;margin-top: 0px;margin-bottom: 0px !important;text-indent: 0.112px;}
+.p61{text-align: left;padding-left: 0px;margin-top: 52px;margin-bottom: 0px !important;}
+.p62{text-align: left;padding-left: 140px;padding-right: 63px;margin-top: 33px;margin-bottom: 0px !important;text-indent: 0.60px;}
+.p63{text-align: left;padding-left: 0px;padding-right: 63px;margin-top: 12px;margin-bottom: 0px !important;}
+.p64{text-align: left;padding-left: 140px;padding-right: 63px;margin-top: 36px;margin-bottom: 0px !important;text-indent: 0.60px;}
+.p65{text-align: left;margin-top: 30px;margin-bottom: 0px !important;}
+.p66{text-align: left;padding-left: 0px;padding-right: 63px;margin-top: 0px;margin-bottom: 0px !important;text-indent: 0.18px;}
+.p67{text-align: left;padding-left: 0px;padding-right: 168px;margin-top: 17px;margin-bottom: 0px !important;text-indent: 0.19px;}
+.p68{text-align: left;padding-left: 0px;padding-right: 168px;margin-top: 2px;margin-bottom: 0px !important;text-indent: 0.19px;}
+.p69{text-align: left;padding-left: 0px;padding-right: 168px;margin-top: 1px;margin-bottom: 0px !important;text-indent: 0.19px;}
+.p70{text-align: left;margin-top: 49px;margin-bottom: 0px !important;}
+.p71{text-align: left;padding-right: 168px;margin-top: 16px;margin-bottom: 0px !important;}
+.p72{text-align: left;margin-top: 36px;margin-bottom: 0px !important;}
+.p73{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p74{text-align: left;padding-left: 0px;padding-right: 63px;margin-top: 0px;margin-bottom: 0px !important;text-indent: 0.112px;}
+.p75{text-align: left;padding-left: 0px;padding-right: 63px;margin-top: 7px;margin-bottom: 0px !important;text-indent: 11px;}
+.p76{text-align: left;padding-left: 0px;padding-right: 63px;margin-top: 5px;margin-bottom: 0px !important;text-indent: 11px;}
+.p77{text-align: right;padding-right: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p78{text-align: left;padding-right: 105px;margin-top: 0px;margin-bottom: 0px !important;}
+.p79{text-align: left;padding-right: 105px;margin-top: 5px;margin-bottom: 0px !important;text-indent: 11px;}
+.p80{text-align: left;padding-left: 0px;padding-right: 147px;margin-top: 33px;margin-bottom: 0px !important;text-indent: 0.60px;}
+.p81{text-align: right;padding-right: 21px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p82{text-align: right;padding-right: 105px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p83{text-align: left;padding-left: 0px;padding-right: 189px;margin-top: 38px;margin-bottom: 0px !important;text-indent: 0.61px;}
+.p84{text-align: left;padding-left: 0px;padding-right: 168px;margin-top: 3px;margin-bottom: 0px !important;text-indent: 11px;}
+.p85{text-align: left;padding-left: 0px;margin-top: 50px;margin-bottom: 0px !important;}
+.p86{text-align: left;padding-left: 0px;padding-right: 63px;margin-top: 17px;margin-bottom: 0px !important;}
+.p87{text-align: left;padding-left: 160px;padding-right: 105px;margin-top: 38px;margin-bottom: 0px !important;text-indent: 0.60px;}
+.p88{text-align: left;padding-left: 0px;padding-right: 63px;margin-top: 13px;margin-bottom: 0px !important;}
+.p89{text-align: left;padding-left: 0px;padding-right: 63px;margin-top: 1px;margin-bottom: 0px !important;text-indent: 11px;}
+.p90{text-align: left;padding-left: 0px;padding-right: 63px;margin-top: 3px;margin-bottom: 0px !important;text-indent: 11px;}
+.p91{text-align: left;padding-left: 0px;padding-right: 168px;margin-top: 1px;margin-bottom: 0px !important;}
+.p92{text-align: left;padding-left: 0px;padding-right: 147px;margin-top: 1px;margin-bottom: 0px !important;text-indent: 11px;}
+.p93{text-align: left;padding-left: 0px;padding-right: 168px;margin-top: 4px;margin-bottom: 0px !important;text-indent: 11px;}
+.p94{text-align: left;padding-left: 0px;padding-right: 168px;margin-top: 35px;margin-bottom: 0px !important;text-indent: 0.61px;}
+.p95{text-align: left;padding-left: 0px;padding-right: 168px;margin-top: 5px;margin-bottom: 0px !important;text-indent: 11px;}
+.p96{text-align: left;padding-left: 0px;padding-right: 21px;margin-top: 0px;margin-bottom: 0px !important;text-indent: 0.60px;}
+.p97{text-align: left;margin-top: 12px;margin-bottom: 0px !important;}
+.p98{text-align: left;padding-right: 5px;margin-top: 6px;margin-bottom: 0px !important;text-indent: 11px;}
+.p99{text-align: left;padding-left: 0px;margin-top: 33px;margin-bottom: 0px !important;}
+.p100{text-align: left;padding-left: 0px;padding-right: 147px;margin-top: 11px;margin-bottom: 0px !important;}
+.p101{text-align: left;padding-left: 0px;padding-right: 147px;margin-top: 4px;margin-bottom: 0px !important;text-indent: 11px;}
+.p102{text-align: right;padding-right: 42px;margin-top: 2px;margin-bottom: 0px !important;}
+.p103{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;text-indent: 0.112px;}
+.p104{text-align: left;padding-right: 5px;margin-top: 0px;margin-bottom: 0px !important;text-indent: 11px;}
+.p105{text-align: left;padding-left: 0px;padding-right: 63px;margin-top: 37px;margin-bottom: 0px !important;text-indent: 0.60px;}
+.p106{text-align: left;padding-right: 5px;margin-top: 3px;margin-bottom: 0px !important;text-indent: 11px;}
+.p107{text-align: left;padding-right: 5px;margin-top: 2px;margin-bottom: 0px !important;text-indent: 11px;}
+.p108{text-align: left;margin-top: 5px;margin-bottom: 0px !important;text-indent: 11px;}
+.p109{text-align: left;padding-left: 0px;padding-right: 168px;margin-top: 36px;margin-bottom: 0px !important;text-indent: 0.61px;}
+.p110{text-align: left;padding-left: 0px;margin-top: 5px;margin-bottom: 0px !important;}
+.p111{text-align: left;padding-right: 63px;margin-top: 0px;margin-bottom: 0px !important;text-indent: 11px;}
+.p112{text-align: left;margin-top: 52px;margin-bottom: 0px !important;}
+.p113{text-align: left;padding-right: 63px;margin-top: 16px;margin-bottom: 0px !important;}
+.p114{text-align: left;padding-left: 0px;padding-right: 84px;margin-top: 39px;margin-bottom: 0px !important;text-indent: 0.60px;}
+.p115{text-align: left;padding-right: 63px;margin-top: 13px;margin-bottom: 0px !important;}
+.p116{text-align: left;padding-left: 0px;padding-right: 0px;margin-top: 0px;margin-bottom: 0px !important;}
+.p117{text-align: left;padding-left: 0px;padding-right: 105px;margin-top: 0px;margin-bottom: 0px !important;}
+.p118{text-align: left;padding-left: 0px;padding-right: 105px;margin-top: 4px;margin-bottom: 0px !important;text-indent: 11px;}
+.p119{text-align: left;padding-left: 0px;padding-right: 105px;margin-top: 2px;margin-bottom: 0px !important;text-indent: 11px;}
+.p120{text-align: left;padding-left: 0px;padding-right: 105px;margin-top: 3px;margin-bottom: 0px !important;text-indent: 11px;}
+.p121{text-align: right;margin-top: 80px;margin-bottom: 0px !important;}
+.p122{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;}
+.p123{text-align: left;padding-right: 63px;margin-top: 11px;margin-bottom: 0px !important;}
+.p124{text-align: left;padding-right: 63px;margin-top: 5px;margin-bottom: 0px !important;text-indent: 11px;}
+.p125{text-align: left;padding-right: 63px;margin-top: 2px;margin-bottom: 0px !important;text-indent: 11px;}
+.p126{text-align: left;padding-left: 0px;padding-right: 105px;margin-top: 11px;margin-bottom: 0px !important;}
+.p127{text-align: left;padding-left: 0px;padding-right: 105px;margin-top: 4px;margin-bottom: 0px !important;text-indent: 11px;}
+.p128{text-align: left;padding-left: 0px;padding-right: 105px;margin-top: 5px;margin-bottom: 0px !important;text-indent: 11px;}
+.p129{text-align: right;margin-top: 60px;margin-bottom: 0px !important;}
+.p130{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p131{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p132{text-align: left;padding-right: 63px;margin-top: 11px;margin-bottom: 0px !important;}
+.p133{text-align: left;padding-right: 63px;margin-top: 5px;margin-bottom: 0px !important;text-indent: 11px;}
+.p134{text-align: left;padding-left: 0px;padding-right: 0px;margin-top: 0px;margin-bottom: 0px !important;text-indent: 11px;}
+.p135{text-align: left;padding-left: 0px;padding-right: 105px;margin-top: 1px;margin-bottom: 0px !important;}
+.p136{text-align: left;padding-left: 0px;padding-right: 105px;margin-top: 1px;margin-bottom: 0px !important;text-indent: 11px;}
+.p137{text-align: left;padding-left: 0px;padding-right: 126px;margin-top: 36px;margin-bottom: 0px !important;text-indent: 0.61px;}
+.p138{text-align: left;padding-left: 0px;padding-right: 105px;margin-top: 12px;margin-bottom: 0px !important;}
+.p139{text-align: right;margin-top: 61px;margin-bottom: 0px !important;}
+.p140{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p141{text-align: left;padding-left: 0px;padding-right: 147px;margin-top: 34px;margin-bottom: 0px !important;text-indent: 0.61px;}
+.p142{text-align: left;padding-left: 0px;padding-right: 1px;margin-top: 0px;margin-bottom: 0px !important;text-indent: 0.60px;}
+.p143{text-align: left;margin-top: 3px;margin-bottom: 0px !important;text-indent: 11px;}
+.p144{text-align: left;margin-top: 2px;margin-bottom: 0px !important;text-indent: 11px;}
+.p145{text-align: left;margin-top: 6px;margin-bottom: 0px !important;text-indent: 11px;}
+.p146{text-align: left;padding-left: 0px;padding-right: 168px;margin-top: 0px;margin-bottom: 0px !important;text-indent: 11px;}
+.p147{text-align: left;padding-left: 0px;padding-right: 147px;margin-top: 2px;margin-bottom: 0px !important;text-indent: 11px;}
+.p148{text-align: left;padding-left: 0px;margin-top: 51px;margin-bottom: 0px !important;}
+.p149{text-align: left;padding-left: 0px;margin-top: 36px;margin-bottom: 0px !important;}
+.p150{text-align: right;padding-right: 42px;margin-top: 98px;margin-bottom: 0px !important;}
+.p151{text-align: left;padding-left: 0px;margin-top: 34px;margin-bottom: 0px !important;}
+.p152{text-align: left;padding-left: 0px;padding-right: 63px;margin-top: 12px;margin-bottom: 0px !important;}
+.p153{text-align: left;padding-left: 0px;padding-right: 63px;margin-top: 3px;margin-bottom: 0px !important;text-indent: 18px;}
+.p154{text-align: left;padding-left: 0px;margin-top: 33px;margin-bottom: 0px !important;}
+.p155{text-align: left;padding-left: 0px;margin-top: 12px;margin-bottom: 0px !important;}
+.p156{text-align: left;margin-top: 248px;margin-bottom: 0px !important;}
+.p157{text-align: left;margin-top: 14px;margin-bottom: 0px !important;}
+.p158{text-align: left;padding-right: 21px;margin-top: 15px;margin-bottom: 0px !important;}
+.p159{text-align: left;margin-top: 17px;margin-bottom: 0px !important;}
+.p160{text-align: left;padding-right: 63px;margin-top: 76px;margin-bottom: 0px !important;}
+.p161{text-align: right;padding-right: 42px;margin-top: 752px;margin-bottom: 0px !important;}
+
+.td0{padding: 0px;margin: 0px;width: 407px;vertical-align: bottom;}
+.td1{padding: 0px;margin: 0px;width: 119px;vertical-align: bottom;}
+.td2{border-bottom: #000000 1px solid;padding: 0px;margin: 0px;width: 407px;vertical-align: bottom;}
+.td3{border-bottom: #000000 1px solid;padding: 0px;margin: 0px;width: 119px;vertical-align: bottom;}
+.td4{padding: 0px;margin: 0px;width: 404px;vertical-align: bottom;}
+.td5{padding: 0px;margin: 0px;width: 7px;vertical-align: bottom;}
+.td6{padding: 0px;margin: 0px;width: 325px;vertical-align: bottom;}
+.td7{padding: 0px;margin: 0px;width: 6px;vertical-align: bottom;}
+.td8{padding: 0px;margin: 0px;width: 38px;vertical-align: bottom;}
+.td9{padding: 0px;margin: 0px;width: 351px;vertical-align: bottom;}
+.td10{padding: 0px;margin: 0px;width: 14px;vertical-align: bottom;}
+.td11{padding: 0px;margin: 0px;width: 390px;vertical-align: bottom;}
+.td12{padding: 0px;margin: 0px;width: 318px;vertical-align: bottom;}
+.td13{padding: 0px;margin: 0px;width: 55px;vertical-align: bottom;}
+.td14{padding: 0px;margin: 0px;width: 334px;vertical-align: bottom;}
+.td15{padding: 0px;margin: 0px;width: 34px;vertical-align: bottom;}
+.td16{padding: 0px;margin: 0px;width: 61px;vertical-align: bottom;}
+.td17{padding: 0px;margin: 0px;width: 396px;vertical-align: bottom;}
+.td18{padding: 0px;margin: 0px;width: 333px;vertical-align: bottom;}
+.td19{padding: 0px;margin: 0px;width: 120px;vertical-align: bottom;}
+.td20{padding: 0px;margin: 0px;width: 37px;vertical-align: bottom;}
+.td21{padding: 0px;margin: 0px;width: 350px;vertical-align: bottom;}
+.td22{padding: 0px;margin: 0px;width: 15px;vertical-align: bottom;}
+.td23{padding: 0px;margin: 0px;width: 388px;vertical-align: bottom;}
+.td24{padding: 0px;margin: 0px;width: 395px;vertical-align: bottom;}
+.td25{padding: 0px;margin: 0px;width: 468px;vertical-align: bottom;}
+.td26{padding: 0px;margin: 0px;width: 43px;vertical-align: bottom;}
+.td27{padding: 0px;margin: 0px;width: 473px;vertical-align: bottom;}
+.td28{padding: 0px;margin: 0px;width: 465px;vertical-align: bottom;}
+.td29{padding: 0px;margin: 0px;width: 65px;vertical-align: bottom;}
+.td30{padding: 0px;margin: 0px;width: 126px;vertical-align: bottom;}
+.td31{padding: 0px;margin: 0px;width: 412px;vertical-align: bottom;}
+.td32{padding: 0px;margin: 0px;width: 383px;vertical-align: bottom;}
+.td33{padding: 0px;margin: 0px;width: 90px;vertical-align: bottom;}
+.td34{padding: 0px;margin: 0px;width: 105px;vertical-align: bottom;}
+.td35{padding: 0px;margin: 0px;width: 57px;vertical-align: bottom;}
+.td36{padding: 0px;margin: 0px;width: 369px;vertical-align: bottom;}
+.td37{padding: 0px;margin: 0px;width: 427px;vertical-align: bottom;}
+.td38{padding: 0px;margin: 0px;width: 13px;vertical-align: bottom;}
+.td39{padding: 0px;margin: 0px;width: 149px;vertical-align: bottom;}
+.td40{padding: 0px;margin: 0px;width: 375px;vertical-align: bottom;}
+.td41{padding: 0px;margin: 0px;width: 525px;vertical-align: bottom;}
+
+.tr0{heightzzz: 27px;}
+.tr1{heightzzz: 24px;}
+.tr2{heightzzz: 17px;}
+.tr3{heightzzz: 15px;}
+.tr4{heightzzz: 22px;}
+.tr5{heightzzz: 16px;}
+.tr6{heightzzz: 21px;}
+.tr7{heightzzz: 18px;}
+.tr8{heightzzz: 34px;}
+.tr9{heightzzz: 6px;}
+.tr10{heightzzz: 23px;}
+.tr11{heightzzz: 20px;}
+.tr12{heightzzz: 26px;}
+.tr13{heightzzz: 28px;}
+.tr14{heightzzz: 31px;}
+
+.t0{width: 552px;margin-leftZ: 69px;margin-top: 11px;f:20px 'Verdana' !important;}
+.t1{width: 431px;margin-top: 18px;f:13px 'Verdana' !important;}
+.t2{width: 348px;margin-leftZ: 75px;f:13px 'Verdana' !important;}
+.t3{width: 431px;f:13px 'Verdana' !important;}
+.t4{width: 402px;margin-leftZ: 26px;f:13px 'Verdana' !important;}
+.t5{width: 512px;margin-leftZ: 94px;f:13px 'Verdana' !important;}
+.t6{width: 431px;margin-leftZ: 68px;f:13px 'Verdana' !important;}
+.t7{width: 555px;margin-top: 1px;f:13px 'Verdana' !important;}
+.t8{width: 555px;margin-top: 10px;f:13px 'Verdana' !important;}
+.t9{width: 541px;f:17px 'Verdana' !important;}
+.t10{width: 555px;margin-top: 8px;f:13px 'Verdana' !important;}
+.t11{width: 564px;f:13px 'Verdana' !important;}
+.t12{width: 541px;margin-leftZ: 68px;f:17px 'Verdana' !important;}
+.t13{width: 557px;f:13px 'Verdana' !important;}
+.t14{width: 557px;margin-leftZ: 6px;f:13px 'Verdana' !important;}
+.t15{width: 564px;margin-top: 44px;f:13px 'Verdana' !important;}
+
+</STYLE>
+
+
+
+<DIV id="page_1">
+<DIV id="p1dimg1">
+<INGENBILD zsrc="H803921x1.jpg/" id="p1img1">
+</DIV>
+
+
+<DIV class="dclr"></DIV>
+<P class="p0 ft0">Regeringens skrivelse 2020/21:92</P>
+<TABLE cellpadding=0 cellspacing=0 class="t0">
+<TR>
+	<TD class="tr0 td0"><SPAN class="p1 ft1">En god arbetsmiljö för framtiden – regeringens</SPAN> </TD>
+	<TD class="tr0 td1"><SPAN class="p2 ft1">Skr.</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr1 td2"><SPAN class="p1 ft1">arbetsmiljöstrategi <NOBR>2021–2025</NOBR></SPAN> </TD>
+	<TD class="tr1 td3"><SPAN class="p2 ft1">2020/21:92</SPAN> </TD>
+</TR>
+</TABLE>
+<P class="p3 ft2">Regeringen överlämnar denna skrivelse till riksdagen.</P>
+<P class="p4 ft2">Stockholm den 11 februari 2021</P>
+<P class="p5 ft3">Stefan Löfven</P>
+<P class="p6 ft3">Eva Nordmark <SPAN class="ft2">(Arbetsmarknadsdepartementet)</SPAN></P>
+<P class="p7 ft1">Skrivelsens huvudsakliga innehåll</P>
+<P class="p8 ft4">I denna skrivelse presenterar regeringen sin arbetsmiljöstrategi för 2021– 2025. Arbetsmiljöstrategin anger regeringens långsiktiga politiska inriktning för området under de kommande fem åren. I skrivelsen presenteras hur strategin styr mot uppsatta mål, genomförande av strategin samt hur den ska följas upp. Myndigheterna på arbetsmiljöområdet får i uppdrag att ta fram åtgärdsplaner, vilket ger dem en mer framträdande och tydligare roll att stödja genomförandet av arbetsmiljöstrategin. Regeringen kommer att fortsätta ha ett forum för dialog med arbetsmarknadens parter.</P>
+<P class="p9 ft2">Det övergripande målet för arbetsmiljöstrategin är det av riksdagen beslutade målet för arbetslivspolitiken om goda arbetsvillkor och möjlighet till utveckling i arbetet för både kvinnor och män (prop. 2011/12:1 utg.omr. 14 avsnitt 4.3, bet. 2011/12:AU2, rskr. 2011/12:88) samt regeringens mål om en arbetsmiljö som förebygger ohälsa och olycksfall, som motverkar att människor utestängs från arbetet, som tar hänsyn till människors olika förutsättningar och som bidrar till utveckling av både individer och verksamheter (prop. 2020/21:1 utg.omr. 14 avsnitt</P>
+<P class="p10 ft2">5.1). Delmålen för arbetsmiljöstrategin är följande:</P>
+<P class="p11 ft2">• Ett hållbart arbetsliv – alla ska kunna, orka och vilja jobba ett helt arbetsliv.</P>
+<P class="p12 ft5">• Ett hälsosamt arbetsliv – arbetslivet ska bidra till utveckling och välbefinnande.</P>
+<P class="p11 ft2">• Ett tryggt arbetsliv – ingen ska riskera liv eller hälsa på grund av jobbet.</P>
+<P class="p13 ft2">• En arbetsmarknad utan brott och fusk – en bristfällig arbetsmiljö ska</P>
+<P class="p14 ft6">aldrig vara ett konkurrensmedel.</P>
+<P class="p15 ft2">1</P>
+</DIV>
+<DIV id="page_2">
+
+
+<DIV>
+<DIV id="id_1">
+<P class="p16 ft2">Skr. 2020/21:92</P>
+<P class="p17 ft2">2</P>
+</DIV>
+<DIV id="id_2">
+<P class="p16 ft1">Innehållsförteckning</P>
+<TABLE cellpadding=0 cellspacing=0 class="t1">
+<TR>
+	<TD class="tr2 td4"><SPAN class="p18 ft2"><A href="#page_3">1 En god arbetsmiljö för framtiden ......................................................</A></SPAN> </TD>
+	<TD class="tr2 td5"><SPAN class="p19 ft2"><A href="#page_3">4</A></SPAN> </TD>
+</TR>
+</TABLE>
+<P class="p20 ft2"><SPAN class="ft2">1.1</SPAN><A href="#page_6"><SPAN class="ft7">En fortsättning på regeringens arbetsmiljöstrategi för</SPAN></A></P>
+<TABLE cellpadding=0 cellspacing=0 class="t2">
+<TR>
+	<TD class="tr3 td6"><SPAN class="p18 ft2"><NOBR><A href="#page_6">2016–2020..........................................................................</A></NOBR></SPAN> </TD>
+	<TD class="tr3 td5"><SPAN class="p19 ft2"><A href="#page_6">6</A></SPAN> </TD>
+</TR>
+</TABLE>
+<P class="p21 ft2"><SPAN class="ft2">1.2</SPAN><A href="#page_7"><SPAN class="ft7">En europeisk strategisk ram för arbetsmiljö 2021–</SPAN></A></P>
+<TABLE cellpadding=0 cellspacing=0 class="t3">
+<TR>
+	<TD class="tr3 td7"><SPAN class="p18 ft8">&nbsp;</SPAN> </TD>
+	<TD class="tr3 td8"><SPAN class="p18 ft8">&nbsp;</SPAN> </TD>
+	<TD class="tr3 td9"><SPAN class="p22 ft2"><A href="#page_7">2027....................................................................................</A></SPAN> </TD>
+	<TD class="tr3 td10"><SPAN class="p19 ft2"><A href="#page_7">7</A></SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr3 td7"><SPAN class="p18 ft8">&nbsp;</SPAN> </TD>
+	<TD class="tr3 td8"><SPAN class="p23 ft2"><A href="#page_7">1.3</A></SPAN> </TD>
+	<TD class="tr3 td9"><SPAN class="p22 ft2"><A href="#page_7">Internationella arbetsorganisationen (ILO) ........................</A></SPAN> </TD>
+	<TD class="tr3 td10"><SPAN class="p19 ft2"><A href="#page_7">7</A></SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr4 td7"><SPAN class="p19 ft2"><A href="#page_8">2</A></SPAN> </TD>
+	<TD colspan=2 class="tr4 td11"><SPAN class="p23 ft2"><A href="#page_8">Vision och mål ..................................................................................</A></SPAN> </TD>
+	<TD class="tr4 td10"><SPAN class="p19 ft2"><A href="#page_8">8</A></SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr3 td7"><SPAN class="p18 ft8">&nbsp;</SPAN> </TD>
+	<TD class="tr3 td8"><SPAN class="p23 ft2"><A href="#page_8">2.1</A></SPAN> </TD>
+	<TD class="tr3 td9"><SPAN class="p22 ft2"><A href="#page_8">Arbetslivet ska ge trygghet, utveckling och god</A></SPAN> </TD>
+	<TD class="tr3 td10"><SPAN class="p18 ft8">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr3 td7"><SPAN class="p18 ft8">&nbsp;</SPAN> </TD>
+	<TD class="tr3 td8"><SPAN class="p18 ft8">&nbsp;</SPAN> </TD>
+	<TD class="tr3 td9"><SPAN class="p22 ft2"><A href="#page_8">hälsa....................................................................................</A></SPAN> </TD>
+	<TD class="tr3 td10"><SPAN class="p19 ft2"><A href="#page_8">8</A></SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr5 td7"><SPAN class="p18 ft8">&nbsp;</SPAN> </TD>
+	<TD class="tr5 td8"><SPAN class="p23 ft2"><A href="#page_8">2.2</A></SPAN> </TD>
+	<TD class="tr5 td9"><SPAN class="p22 ft2"><A href="#page_8">Goda arbetsvillkor och möjlighet till utveckling i</A></SPAN> </TD>
+	<TD class="tr5 td10"><SPAN class="p18 ft8">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr3 td7"><SPAN class="p18 ft8">&nbsp;</SPAN> </TD>
+	<TD class="tr3 td8"><SPAN class="p18 ft8">&nbsp;</SPAN> </TD>
+	<TD class="tr3 td9"><SPAN class="p22 ft2"><A href="#page_8">arbetet för både kvinnor och män .......................................</A></SPAN> </TD>
+	<TD class="tr3 td10"><SPAN class="p19 ft2"><A href="#page_8">8</A></SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr4 td7"><SPAN class="p19 ft2"><A href="#page_9">3</A></SPAN> </TD>
+	<TD colspan=2 class="tr4 td11"><SPAN class="p23 ft2"><A href="#page_9">Ett hållbart arbetsliv ..........................................................................</A></SPAN> </TD>
+	<TD class="tr4 td10"><SPAN class="p19 ft2"><A href="#page_9">9</A></SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr3 td7"><SPAN class="p18 ft8">&nbsp;</SPAN> </TD>
+	<TD class="tr3 td8"><SPAN class="p23 ft2"><A href="#page_9">3.1</A></SPAN> </TD>
+	<TD class="tr3 td9"><SPAN class="p22 ft2"><A href="#page_9">Alla ska kunna och vilja arbeta ett helt arbetsliv ................</A></SPAN> </TD>
+	<TD class="tr3 td10"><SPAN class="p19 ft2"><A href="#page_9">9</A></SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr5 td7"><SPAN class="p18 ft8">&nbsp;</SPAN> </TD>
+	<TD class="tr5 td8"><SPAN class="p23 ft2"><A href="#page_11">3.2</A></SPAN> </TD>
+	<TD class="tr5 td9"><SPAN class="p22 ft2"><A href="#page_11">Arbetslivets utveckling skapar nya utmaningar................</A></SPAN> </TD>
+	<TD class="tr5 td10"><SPAN class="p19 ft2"><A href="#page_11">11</A></SPAN> </TD>
+</TR>
+</TABLE>
+<P class="p24 ft2"><SPAN class="ft2">3.3</SPAN><A href="#page_11"><SPAN class="ft7">God arbetsmiljö och möjlighet till kompetensutveckling är avgörande för att säkerställa</SPAN></A></P>
+<TABLE cellpadding=0 cellspacing=0 class="t2">
+<TR>
+	<TD class="tr3 td12"><SPAN class="p18 ft2"><A href="#page_11">kompetensförsörjningen ...................................................</A></SPAN> </TD>
+	<TD class="tr3 td10"><SPAN class="p19 ft2"><A href="#page_11">11</A></SPAN> </TD>
+</TR>
+</TABLE>
+<P class="p20 ft2"><SPAN class="ft2">3.4</SPAN><A href="#page_13"><SPAN class="ft7">Forskning och analys för ett hållbart arbetsliv ska</SPAN></A></P>
+<TABLE cellpadding=0 cellspacing=0 class="t3">
+<TR>
+	<TD class="tr5 td7"><SPAN class="p18 ft8">&nbsp;</SPAN> </TD>
+	<TD class="tr5 td13"><SPAN class="p18 ft8">&nbsp;</SPAN> </TD>
+	<TD class="tr5 td14"><SPAN class="p25 ft2"><A href="#page_13">prioriteras även fortsättningsvis .......................................</A></SPAN> </TD>
+	<TD class="tr5 td10"><SPAN class="p19 ft2"><A href="#page_13">13</A></SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr6 td7"><SPAN class="p19 ft2"><A href="#page_14">4</A></SPAN> </TD>
+	<TD colspan=2 class="tr6 td11"><SPAN class="p23 ft2"><A href="#page_14">Ett hälsosamt arbetsliv ....................................................................</A></SPAN> </TD>
+	<TD class="tr6 td10"><SPAN class="p19 ft2"><A href="#page_14">14</A></SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr5 td7"><SPAN class="p18 ft8">&nbsp;</SPAN> </TD>
+	<TD class="tr5 td13"><SPAN class="p23 ft2"><A href="#page_14">4.1</A></SPAN> </TD>
+	<TD class="tr5 td14"><SPAN class="p25 ft2"><A href="#page_14">Att skapa friska arbetsplatser kan bidra till såväl</A></SPAN> </TD>
+	<TD class="tr5 td10"><SPAN class="p18 ft8">&nbsp;</SPAN> </TD>
+</TR>
+</TABLE>
+<TABLE cellpadding=0 cellspacing=0 class="t2">
+<TR>
+	<TD class="tr5 td12"><SPAN class="p18 ft2"><A href="#page_14">hälsa som lönsamhet.........................................................</A></SPAN> </TD>
+	<TD class="tr5 td10"><SPAN class="p19 ft2"><A href="#page_14">14</A></SPAN> </TD>
+</TR>
+</TABLE>
+<P class="p20 ft2"><SPAN class="ft2">4.2</SPAN><A href="#page_15"><SPAN class="ft7">Det systematiska arbetsmiljöarbetet är grunden till</SPAN></A></P>
+<TABLE cellpadding=0 cellspacing=0 class="t2">
+<TR>
+	<TD class="tr3 td12"><SPAN class="p18 ft2"><A href="#page_15">en god arbetsmiljö ............................................................</A></SPAN> </TD>
+	<TD class="tr3 td10"><SPAN class="p19 ft2"><A href="#page_15">15</A></SPAN> </TD>
+</TR>
+</TABLE>
+<P class="p21 ft2"><SPAN class="ft2">4.3</SPAN><A href="#page_16"><SPAN class="ft7">För ett välfungerande arbetsmiljöarbete är det</SPAN></A></P>
+<TABLE cellpadding=0 cellspacing=0 class="t4">
+<TR>
+	<TD class="tr3 td15"><SPAN class="p18 ft8">&nbsp;</SPAN> </TD>
+	<TD class="tr3 td14"><SPAN class="p25 ft2"><A href="#page_16">avgörande med fungerande samverkan ............................</A></SPAN> </TD>
+	<TD class="tr3 td10"><SPAN class="p19 ft2"><A href="#page_16">16</A></SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr3 td15"><SPAN class="p26 ft2"><A href="#page_17">4.4</A></SPAN> </TD>
+	<TD class="tr3 td14"><SPAN class="p25 ft2"><A href="#page_17">Utvecklingen går mot ett mer flexibelt arbetsliv ..............</A></SPAN> </TD>
+	<TD class="tr3 td10"><SPAN class="p19 ft2"><A href="#page_17">17</A></SPAN> </TD>
+</TR>
+</TABLE>
+<P class="p21 ft2"><SPAN class="ft2">4.5</SPAN><A href="#page_18"><SPAN class="ft7">Det blir allt viktigare att belysa hur den kognitiva</SPAN></A></P>
+<TABLE cellpadding=0 cellspacing=0 class="t3">
+<TR>
+	<TD class="tr3 td16"><SPAN class="p18 ft8">&nbsp;</SPAN> </TD>
+	<TD class="tr3 td14"><SPAN class="p19 ft2"><A href="#page_18">arbetsmiljön påverkar oss .................................................</A></SPAN> </TD>
+	<TD class="tr3 td10"><SPAN class="p19 ft2"><A href="#page_18">18</A></SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr3 td16"><SPAN class="p26 ft2"><A href="#page_19">4.6</A></SPAN> </TD>
+	<TD class="tr3 td14"><SPAN class="p27 ft2"><A href="#page_19">Kränkande särbehandling, trakasserier och</A></SPAN> </TD>
+	<TD class="tr3 td10"><SPAN class="p18 ft8">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr3 td16"><SPAN class="p18 ft8">&nbsp;</SPAN> </TD>
+	<TD class="tr3 td14"><SPAN class="p19 ft2"><A href="#page_19">mobbning får inte accepteras på en arbetsplats ................</A></SPAN> </TD>
+	<TD class="tr3 td10"><SPAN class="p19 ft2"><A href="#page_19">19</A></SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=2 class="tr4 td17"><SPAN class="p19 ft2"><A href="#page_20">5 Ett tryggt arbetsliv...........................................................................</A></SPAN> </TD>
+	<TD class="tr4 td10"><SPAN class="p19 ft2"><A href="#page_20">20</A></SPAN> </TD>
+</TR>
+</TABLE>
+<P class="p21 ft2"><SPAN class="ft2">5.1</SPAN><A href="#page_20"><SPAN class="ft7">Regeringen utvidgar sin nollvision mot dödsolyckor</SPAN></A></P>
+<TABLE cellpadding=0 cellspacing=0 class="t4">
+<TR>
+	<TD class="tr3 td15"><SPAN class="p18 ft8">&nbsp;</SPAN> </TD>
+	<TD class="tr3 td14"><SPAN class="p25 ft2"><A href="#page_20">till att ingen ska dö till följd av arbete ..............................</A></SPAN> </TD>
+	<TD class="tr3 td10"><SPAN class="p19 ft2"><A href="#page_20">20</A></SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr3 td15"><SPAN class="p26 ft2"><A href="#page_22">5.2</A></SPAN> </TD>
+	<TD class="tr3 td14"><SPAN class="p25 ft2"><A href="#page_22">En god arbetsmiljö är en jämställdhetsfråga.....................</A></SPAN> </TD>
+	<TD class="tr3 td10"><SPAN class="p19 ft2"><A href="#page_22">22</A></SPAN> </TD>
+</TR>
+</TABLE>
+<P class="p21 ft2"><SPAN class="ft2">5.3</SPAN><A href="#page_23"><SPAN class="ft7">Arbetsmiljöreglerna bör ses över ur ett</SPAN></A></P>
+<TABLE cellpadding=0 cellspacing=0 class="t2">
+<TR>
+	<TD class="tr3 td12"><SPAN class="p18 ft2"><A href="#page_23">jämställdhetsperspektiv ....................................................</A></SPAN> </TD>
+	<TD class="tr3 td10"><SPAN class="p19 ft2"><A href="#page_23">23</A></SPAN> </TD>
+</TR>
+</TABLE>
+<P class="p21 ft2"><SPAN class="ft2">5.4</SPAN><A href="#page_24"><SPAN class="ft7">Frågor om organisatorisk och social arbetsmiljö ska</SPAN></A></P>
+<TABLE cellpadding=0 cellspacing=0 class="t4">
+<TR>
+	<TD class="tr3 td15"><SPAN class="p18 ft8">&nbsp;</SPAN> </TD>
+	<TD class="tr3 td14"><SPAN class="p25 ft2"><A href="#page_24">prioriteras de närmaste åren .............................................</A></SPAN> </TD>
+	<TD class="tr3 td10"><SPAN class="p19 ft2"><A href="#page_24">24</A></SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr3 td15"><SPAN class="p26 ft2"><A href="#page_24">5.5</A></SPAN> </TD>
+	<TD class="tr3 td14"><SPAN class="p25 ft2"><A href="#page_24">Hot och våld i arbetslivet behöver tas på allvar................</A></SPAN> </TD>
+	<TD class="tr3 td10"><SPAN class="p19 ft2"><A href="#page_24">24</A></SPAN> </TD>
+</TR>
+</TABLE>
+<P class="p21 ft2"><SPAN class="ft2">5.6</SPAN><A href="#page_25"><SPAN class="ft7">Friska arbetsplatser hanterar farliga ämnen på ett</SPAN></A></P>
+<TABLE cellpadding=0 cellspacing=0 class="t2">
+<TR>
+	<TD class="tr3 td12"><SPAN class="p18 ft2"><A href="#page_25">säkert sätt..........................................................................</A></SPAN> </TD>
+	<TD class="tr3 td10"><SPAN class="p19 ft2"><A href="#page_25">25</A></SPAN> </TD>
+</TR>
+</TABLE>
+<P class="p20 ft2"><SPAN class="ft2">5.7</SPAN><A href="#page_26"><SPAN class="ft7">Arbetsmiljökunskap behöver stärkas både inför och</SPAN></A></P>
+<TABLE cellpadding=0 cellspacing=0 class="t3">
+<TR>
+	<TD class="tr5 td17"><SPAN class="p19 ft2"><A href="#page_26">under arbetslivet ...............................................................</A></SPAN> </TD>
+	<TD class="tr5 td10"><SPAN class="p19 ft2"><A href="#page_26">26</A></SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr6 td17"><SPAN class="p19 ft2"><A href="#page_26">6 En arbetsmarknad utan fusk och brott.............................................</A></SPAN> </TD>
+	<TD class="tr6 td10"><SPAN class="p19 ft2"><A href="#page_26">26</A></SPAN> </TD>
+</TR>
+</TABLE>
+</DIV>
+</DIV>
+</DIV>
+<DIV id="page_3">
+
+
+<TABLE cellpadding=0 cellspacing=0 class="t5">
+<TR>
+	<TD class="tr7 td15"><SPAN class="p26 ft2"><A href="#page_27">6.1</A></SPAN> </TD>
+	<TD class="tr7 td18"><SPAN class="p28 ft2"><A href="#page_27">En bristfällig arbetsmiljö ska aldrig vara ett</A></SPAN> </TD>
+	<TD class="tr7 td19"><SPAN class="p19 ft2">Skr. 2020/21:92</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr3 td15"><SPAN class="p18 ft8">&nbsp;</SPAN> </TD>
+	<TD class="tr3 td18"><SPAN class="p28 ft2"><A href="#page_27">konkurrensmedel .............................................................</A></SPAN> </TD>
+	<TD class="tr3 td19"><SPAN class="p29 ft2"><A href="#page_27">27</A></SPAN> </TD>
+</TR>
+</TABLE>
+<P class="p30 ft2"><SPAN class="ft2">6.2</SPAN><A href="#page_28"><SPAN class="ft9">Arbetet mot arbetslivskriminalitet ska utvecklas</SPAN></A></P>
+<TABLE cellpadding=0 cellspacing=0 class="t6">
+<TR>
+	<TD class="tr5 td5"><SPAN class="p18 ft8">&nbsp;</SPAN> </TD>
+	<TD class="tr5 td20"><SPAN class="p18 ft8">&nbsp;</SPAN> </TD>
+	<TD class="tr5 td21"><SPAN class="p31 ft2"><A href="#page_28">genom fler kontroller och förebyggande arbete...............</A></SPAN> </TD>
+	<TD class="tr5 td22"><SPAN class="p19 ft2"><A href="#page_28">28</A></SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr6 td5"><SPAN class="p18 ft2"><A href="#page_29">7</A></SPAN> </TD>
+	<TD colspan=2 class="tr6 td23"><SPAN class="p32 ft2"><A href="#page_29">Genomförande................................................................................</A></SPAN> </TD>
+	<TD class="tr6 td22"><SPAN class="p19 ft2"><A href="#page_29">29</A></SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr5 td5"><SPAN class="p18 ft8">&nbsp;</SPAN> </TD>
+	<TD class="tr5 td20"><SPAN class="p32 ft2"><A href="#page_29">7.1</A></SPAN> </TD>
+	<TD class="tr5 td21"><SPAN class="p31 ft2"><A href="#page_29">Åtgärdsplaner och myndigheternas roll...........................</A></SPAN> </TD>
+	<TD class="tr5 td22"><SPAN class="p19 ft2"><A href="#page_29">29</A></SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr3 td5"><SPAN class="p18 ft8">&nbsp;</SPAN> </TD>
+	<TD class="tr3 td20"><SPAN class="p32 ft2"><A href="#page_29">7.2</A></SPAN> </TD>
+	<TD class="tr3 td21"><SPAN class="p31 ft2"><A href="#page_29">Regeringens arbetsmiljöforum ........................................</A></SPAN> </TD>
+	<TD class="tr3 td22"><SPAN class="p19 ft2"><A href="#page_29">29</A></SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr4 td5"><SPAN class="p18 ft2"><A href="#page_30">8</A></SPAN> </TD>
+	<TD colspan=2 class="tr4 td23"><SPAN class="p32 ft2"><A href="#page_30">Uppföljning ....................................................................................</A></SPAN> </TD>
+	<TD class="tr4 td22"><SPAN class="p19 ft2"><A href="#page_30">30</A></SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr5 td5"><SPAN class="p18 ft8">&nbsp;</SPAN> </TD>
+	<TD class="tr5 td20"><SPAN class="p32 ft2"><A href="#page_30">8.1</A></SPAN> </TD>
+	<TD class="tr5 td21"><SPAN class="p31 ft2"><A href="#page_30">Uppföljning av åtgärdsplaner ..........................................</A></SPAN> </TD>
+	<TD class="tr5 td22"><SPAN class="p19 ft2"><A href="#page_30">30</A></SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr3 td5"><SPAN class="p18 ft8">&nbsp;</SPAN> </TD>
+	<TD class="tr3 td20"><SPAN class="p32 ft2"><A href="#page_30">8.2</A></SPAN> </TD>
+	<TD class="tr3 td21"><SPAN class="p31 ft2"><A href="#page_30">Utvärdering......................................................................</A></SPAN> </TD>
+	<TD class="tr3 td22"><SPAN class="p19 ft2"><A href="#page_30">30</A></SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=3 class="tr4 td24"><SPAN class="p18 ft2"><A href="#page_31">Utdrag ur protokoll vid regeringssammanträde den 11 februari</A></SPAN> </TD>
+	<TD class="tr4 td22"><SPAN class="p18 ft8">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr3 td5"><SPAN class="p18 ft8">&nbsp;</SPAN> </TD>
+	<TD class="tr3 td20"><SPAN class="p18 ft8">&nbsp;</SPAN> </TD>
+	<TD class="tr3 td21"><SPAN class="p31 ft2"><A href="#page_31">2021 ......................................................................................</A></SPAN> </TD>
+	<TD class="tr3 td22"><SPAN class="p19 ft2"><A href="#page_31">31</A></SPAN> </TD>
+</TR>
+</TABLE>
+<P class="p33 ft2">3</P>
+</DIV>
+<DIV id="page_4">
+
+
+<DIV>
+<DIV id="id_1">
+<P class="p16 ft2">Skr. 2020/21:92</P>
+<P class="p17 ft2">4</P>
+</DIV>
+<DIV id="id_2">
+<P class="p16 ft1"><SPAN class="ft1">1</SPAN><SPAN class="ft10">En god arbetsmiljö för framtiden</SPAN></P>
+<P class="p34 ft2">Arbetsmarknads- och arbetslivspolitiken i Sverige tar sin utgångspunkt i människors vilja till arbete och utveckling. Att delta i arbetslivet är någonting positivt. Arbete är för de flesta människor, såväl kvinnor som män, den viktigaste källan till försörjning och har stor betydelse för individens möjlighet till delaktighet och inflytande i samhället. Arbete betyder gemenskap och makt att forma sitt eget liv och sin framtid. En säker och utvecklande arbetsmiljö är centralt för en väl fungerande och livskraftig arbetsmarknad. En god arbetsmiljö har betydelse för såväl tillväxt som sysselsättning, liksom för en god, jämlik och jämställd hälsa.</P>
+<P class="p35 ft2">Sverige har en stark och välfungerande arbetsmarknadsmodell. En viktig del i en väl fungerande politik på arbetslivsområdet är en god dialog mellan staten och arbetsmarknadens parter om hur politiken kan utvecklas och vilka insatser som bör genomföras. Trepartssamarbetet är en viktig utgångspunkt även för det fortsatta arbetet med att säkra en god arbetsmiljö på svenska arbetsplatser. Den svenska arbetsmiljölagstiftningen bygger på att arbetsgivaren ansvarar för arbetsmiljön medan arbetsmiljöarbetet sker i samverkan mellan arbetsgivare, arbetstagare och skyddsombud. På arbetsmiljöområdet har arbetsmarknadens parter en lång tradition av gemensamma åtgärder. Några exempel är parternas egna organisationer AFA Försäkring, Prevent, Partsrådet och Sunt arbetsliv som ägs gemensamt av arbetsmarknadens parter.</P>
+<P class="p36 ft2">Regeringen har gjort betydande ambitionshöjningar på arbetslivsområdet under de senaste åren. Regeringens arbetsmiljöstrategi för det moderna arbetslivet <NOBR>2016–2020</NOBR> har pekat ut en långsiktig riktning för politiken och det nationella arbetsmiljöarbetet. Regeringen har inrättat Myndigheten för arbetsmiljökunskap och ett tioårigt nationellt forskningsprogram om arbetslivsforskning vid Forskningsrådet för hälsa, arbetsliv och välfärd (Forte). Betydande resursökningar under de senaste åren har lett till att Arbetsmiljöverket under 2019 genomförde nästan 10 000 fler inspektioner jämfört med 2016. Regeringen har också kraftsamlat i arbetet mot dödsolyckor i arbetslivet. Det myndighetsgemensamma arbetet mot fusk, regelöverträdelser och brottslighet i arbetslivet har förstärkts.</P>
+<P class="p36 ft2">För att möta olika utmaningar i arbetslivet krävs en fortsatt hög ambitionsnivå för politiken. Frågor om en god arbetsmiljö och ett hållbart arbetsliv behöver därför prioriteras.</P>
+<P class="p37 ft2">Den pandemi som orsakats av coronaviruset har haft stor påverkan på arbetslivet. För alla har arbetsmiljön på ett eller annat sätt förändrats. Pandemin har inneburit olika utmaningar för olika yrkesgrupper. För de som kunnat har pandemin inneburit en stor och snabb omställning från den fysiska arbetsplatsen till digitalt arbete hemifrån. Andra har behövt gå till arbetet precis som vanligt för att samhällets grundläggande funktioner ska fungera, vilket också medfört en ökad utsatthet för att riskera att smittas av viruset. För vård- och omsorgspersonal har arbetsdagarna varit långa, arbetsbördan tung och tiden för återhämtning knapp. Pandemin kommer att fortsätta påverka Sverige och omvärlden under en lång tid framöver. Vissa av de förändringar som pandemin inneburit för vårt sätt att leva och arbeta kan också komma att bli bestående.</P>
+</DIV>
+</DIV>
+</DIV>
+<DIV id="page_5">
+
+
+<P class="p38 ft2">Arbetslivet är i ständig förändring. Dagens arbetsliv ställer högre krav Skr. 2020/21:92 på medarbetarnas kompetens och förmåga att hantera information och problemlösning. Arbetsmarknaden i Sverige har blivit mer tudelad mellan</P>
+<P class="p39 ft2"><SPAN class="ft2">å</SPAN><SPAN class="ft11">ena sidan personer som har längre utbildning och yrkeserfarenhet – som har lättare att få arbete – och å andra sidan personer med kort utbildning och liten eller ingen yrkeserfarenhet – som har svårare att etablera sig på arbetsmarknaden. Livslångt lärande, omställning och kompetensutveckling blir allt viktigare och en central del i att skapa ett längre och hållbart arbetsliv.</SPAN></P>
+<P class="p40 ft2">Allt fler blir allt äldre och andelen äldre i befolkningen ökar. Att vi lever längre är en stor framgång för vårt samhälle, samtidigt ställer det höga krav på vår välfärd. Det innebär att vi behöver arbeta längre och att pensionsåldern successivt kommer att behöva höjas. Dock finns det utmaningar för grupper som redan idag har svårt att arbeta fram till dagens pensionsålder på grund av ett allt för slitsamt arbetsliv, sjukdom eller funktionsnedsättning. För att säkra kompetensförsörjningen inom bland annat välfärden behöver så många som möjligt arbeta ända fram till pensionen. Då är en god arbetsmiljö och trygghet viktigt för att människor ska kunna stanna i arbete. En god arbetsmiljö kan också bidra till att fler personer med nedsatt arbetsförmåga på grund av funktionsnedsättning eller sjukdom kan stanna kvar längre i arbete eller börja arbeta igen.</P>
+<P class="p41 ft2">Jämfört med många andra länder är arbetskraftsdeltagandet i Sverige mer jämställt i alla grupper i samhället. Kvinnor och män arbetar dock i stor utsträckning inom olika sektorer på arbetsmarknaden med olika villkor och risker i arbetsmiljön. Som exempel kan nämnas att dödsolyckor i arbetet främst sker i mansdominerade branscher medan det i många kvinnodominerade branscher är vanligare med stress och psykiska påfrestningar i arbetet. Frågor om arbetsmiljö behöver därför också beaktas utifrån ett jämställdhetsperspektiv.</P>
+<P class="p42 ft2">Rörligheten mellan olika länder av både arbetskraft och tjänster ökar. Den globala konkurrensen ställer ständigt nya krav på produktivitets- och effektivitetshöjningar och leder också till nya sätt att organisera arbete. Utvecklingen mot allt fler underentreprenörer har pågått under lång tid liksom utvecklingen mot fler tidsbegränsade anställningar. Vinster i produktion och effektivitet får inte ske på bekostnad av arbetstagarnas arbetsmiljö och trygghet i arbetslivet.</P>
+<P class="p40 ft2">Arbetsmiljön har stor betydelse för hur länge människor kan, orkar och vill arbeta, liksom för människors levnadsvillkor. En god arbetsmiljö främjar utveckling av såväl verksamheter som individer och ger plats för människor med olika bakgrund och förmågor i arbetslivet. Att skapa friska arbetsplatser är en viktig del för att främja hälsa och ska vara en central del i det dagliga arbetsmiljöarbetet. Det kan aldrig accepteras att någon dör på eller av sitt arbete. Ambitionerna för arbetsmiljöpolitiken behöver dock vara högre än att ingen ska skadas eller bli sjuk av jobbet. Arbetslivet ska erbjuda var och en som arbetar utveckling och möjlighet till god hälsa. Alla som arbetar i Sverige ska ha en arbetsmiljö som gör det möjligt att kunna och vilja arbeta ett helt arbetsliv. Alla har rätt till en trygg och säker arbetsmiljö. Ingen ska behöva arbeta i en miljö där kränkande särbehandling, diskriminering eller trakasserier förekommer.</P>
+<TABLE cellpadding=0 cellspacing=0 class="t7">
+<TR>
+	<TD class="tr7 td25"><SPAN class="p43 ft2">Den här arbetsmiljöstrategin ska ses som regeringens långsiktiga</SPAN> </TD>
+	<TD class="tr7 td16"><SPAN class="p18 ft8">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr5 td25"><SPAN class="p43 ft2">politiska inriktning för området. Arbetslivet ska ge var och en som arbetar</SPAN> </TD>
+	<TD class="tr5 td16"><SPAN class="p19 ft2">5</SPAN> </TD>
+</TR>
+</TABLE>
+</DIV>
+<DIV id="page_6">
+
+
+<DIV id="id_1">
+<P class="p44 ft2">Skr. 2020/21:92 trygghet, utveckling och god hälsa. Ett tydligt regelverk, en välfungerande tillsyn, kontinuerlig kunskapsutveckling genom hela arbetslivet och en välfungerande partssamverkan är det som skapar goda arbetsvillkor och möjlighet till utveckling i arbetet för både kvinnor och män. Arbetsmiljölagstiftningen bestämmer vilka grundläggande krav som ska ställas för att skapa en god arbetsmiljö och för att förebygga ohälsa och olycksfall i arbetet. För att behålla den höga skyddsnivån för arbetstagare i Sverige behöver kunskap och regelverk följa med i de förändringar som sker i arbetslivet. Regeringen avser därför att se över arbetsmiljöregelverket. Arbetsmiljöreglerna måste ge samma skydd för kvinnor och män oavsett yrke, bransch eller sektor. Arbetsmiljöregelverket behöver också vara anpassat för dagens och morgondagens arbetsliv. Den organisatoriska och sociala arbetsmiljön ska prioriteras. I den här strategin utvidgar regeringen också sin nollvision mot dödsolyckor från en målsättning om att ingen ska dö på jobbet till att ingen ska dö till följd av arbete. Den nya nollvisionen tar i likhet med den tidigare sikte på arbetsplatsolyckor som leder till död men också på arbetsrelaterad dödlighet på grund av till exempel längre sjukdom, cancer och suicid. På så sätt omfattar den nya nollvisionen kvinnodominerade sektorer i högre utsträckning. Regeringen utvecklar även arbetet mot arbetslivskriminalitet genom fler kontroller och förebyggande arbete. En bristfällig arbetsmiljö ska aldrig tillåtas vara ett konkurrensmedel. Människohandel eller människoexploatering ska inte förekomma.</P>
+</DIV>
+<DIV id="id_2">
+<DIV id="id_2_1">
+<P class="p16 ft2">6</P>
+</DIV>
+<DIV id="id_2_2">
+<P class="p45 ft14"><SPAN class="ft12">1.1</SPAN><SPAN class="ft13">En fortsättning på regeringens arbetsmiljöstrategi för </SPAN><NOBR>2016–2020</NOBR></P>
+<P class="p46 ft2">Den tidigare arbetsmiljöstrategin som presenterades i regeringens skrivelse En arbetsmiljöstrategi för det moderna arbetslivet <NOBR>2016–2020</NOBR> (skr. 2015/16:80) innehöll tre prioriterade områden:</P>
+<P class="p47 ft2"><SPAN class="ft4">–</SPAN><SPAN class="ft15">En nollvision mot dödsolyckor och förebyggande av arbetsolyckor</SPAN></P>
+<P class="p48 ft2"><SPAN class="ft4">–</SPAN><SPAN class="ft15">Ett hållbart arbetsliv</SPAN></P>
+<P class="p16 ft2"><SPAN class="ft4">–</SPAN><SPAN class="ft15">Psykosocial arbetsmiljö</SPAN></P>
+<P class="p49 ft2">Strategiperioden har löpt ut och regeringen kommer att redogöra för sin resultatredovisning i budgetpropositionen 2022.</P>
+<P class="p37 ft4">Den 18 april 2019 gav regeringen Statskontoret i uppdrag att utvärdera arbetsmiljöstrategin (A2019/00794). Statskontoret överlämnade rapporten Utvärdering av En arbetsmiljöstrategi för det moderna arbetslivet 2016– 2020 (2020:4) till regeringen i januari 2020. Statskontoret bedömde att strategin, och de uppdrag som har lämnats i samband med den, överlag har gett goda förutsättningar för att uppnå strategins mål och det övergripande målet för arbetsmiljöpolitiken. Statskontoret bedömde emellertid att det finns utrymme att bedriva det strategiska arbetsmiljöarbetet ännu mer effektivt. Bland annat ansåg Statskontoret att regeringen bör avgränsa och precisera strategins prioriterade områden samt formulera mer konkreta och tidsatta mål för strategin. Statskontoret bedömde också att strategin behöver följas upp mer systematiskt och att regeringen inför näst-</P>
+</DIV>
+</DIV>
+</DIV>
+<DIV id="page_7">
+
+
+<P class="p50 ft2">kommande strategiperiod bör överväga att styra berörda myndigheter mer Skr. 2020/21:92 tillitsbaserat. Det handlar bland annat om att ge myndigheterna större</P>
+<P class="p51 ft2">inflytande över hur åtgärderna i strategin utformas. På så sätt kan myndigheternas erfarenheter och kompetens bättre tas tillvara.</P>
+<P class="p52 ft2">Regeringen har beaktat slutsatserna från Statskontorets utvärdering i arbetet i framtagandet av denna strategi. Bland annat innehåller denna strategi tydligare avgränsade områden och fyra konkretiserade delmål. I arbetet med att ta fram prioriterade områden i strategin har flertalet dialoger hållits med representanter från arbetsmarknadens parter, Arbetsmiljöverket och Myndigheten för arbetsmiljökunskap. Till skillnad från den tidigare strategin får myndigheterna på arbetsmiljöområdet i uppdrag att ta fram åtgärdsplaner och ett större inflytande över utformningen av åtgärder för att genomföra strategins innehåll. Strategin och myndigheternas åtgärdsplaner kommer att följas upp genom</P>
+<P class="p53 ft2">regeringens arbetsmiljöforum, årliga återrapporteringar från myndigheterna och i resultatredovisningen i budgetpropositionen. (Se även kapitel 7 Genomförande och kapitel 8 Uppföljning.)</P>
+<P class="p54 ft14"><SPAN class="ft14">1.2</SPAN><SPAN class="ft13">En europeisk strategisk ram för arbetsmiljö </SPAN><NOBR>2021–2027</NOBR></P>
+<P class="p55 ft2">En av principerna i den europeiska pelaren för sociala rättigheter är att arbetstagare i Europeiska unionen har rätt till ett gott skydd för hälsa och säkerhet i arbetet liksom till en arbetsmiljö som passar för deras yrkesverksamhet och gör att de kan arbeta längre. Europeiska kommissionen har som en del av sitt arbetsprogram för 2021, Ett livskraftigt EU i en känslig omvärld, aviserat att den avser att lägga fram en ny europeisk strategisk ram på arbetsmiljöområdet under 2021. Den strategiska ramen syftar till att tillhandahålla en politisk ram för att förbättra arbetsmiljön på både nationell nivå och <NOBR>EU-nivå.</NOBR> Som tidigare europeiska strategier på arbetsmiljöområdet syftar även den kommande strategin till att uppmana medlemsstaterna att anta och uppdatera sina nationella arbetsmiljöstrategier. Den nya europeiska strategin kommer bland annat att fokusera på frågor om det föränderliga arbetslivet och erfarenheter till följd av <NOBR>covid-19-pandemin.</NOBR></P>
+<P class="p56 ft14"><SPAN class="ft14">1.3</SPAN><SPAN class="ft13">Internationella arbetsorganisationen (ILO)</SPAN></P>
+<P class="p57 ft2">Sverige har åtagit sig förpliktelser på arbetsmiljöområdet genom att ratificera Internationella arbetsorganisationens (ILO) konventioner. ILO har antagit mer än 40 konventioner och rekommendationer på området. Två viktiga konventioner är ILO:s konvention (nr 187) om ett ramverk för att främja arbetsmiljö som lägger grunden för ett systematiskt arbetsmiljöarbete och ILO:s konvention (nr 155) om arbetarskydd och arbetsmiljö, som bland annat kräver en sammanhängande nationell arbetsmiljöpolitik samt åtgärder för att främja arbetsmiljö och förbättra arbetsförhållandena.</P>
+<P class="p58 ft2">Vid den internationella arbetskonferensen i Genève 2019 antogs ILO:s</P>
+<P class="p59 ft16">hundraårsdeklaration för framtidens arbetsliv. Hundraårsdeklarationen</P>
+<P class="p15 ft2">7</P>
+</DIV>
+<DIV id="page_8">
+
+
+<P class="p60 ft2">Skr. 2020/21:92 bidrar till att höja statusen för arbetsmiljöfrågorna, bland annat genom en tillhörande resolution. I resolutionen framgår det att ILO:s styrelse bör ta ställning till konkreta förslag om hur säkra och sunda arbetsvillkor kan inkluderas i ILO:s ramverk av grundläggande principer och rättigheter i arbetslivet. Genom att erkänna en god arbetsmiljö som en del av de grundläggande principerna och rättigheterna kan arbetsmiljöperspektivet i arbetslivet stärkas, se även skrivelsen ILO:s hundraårskonvention för framtidens arbetsliv (skr. 2019/20:202).</P>
+<P class="p61 ft1"><SPAN class="ft1">2</SPAN><SPAN class="ft10">Vision och mål</SPAN></P>
+<P class="p62 ft14"><SPAN class="ft12">2.1</SPAN><SPAN class="ft13">Arbetslivet ska ge trygghet, utveckling och god hälsa</SPAN></P>
+<P class="p63 ft2">Regeringens vision är ett arbetsliv som erbjuder var och en som arbetar trygghet, utveckling och god hälsa. En god arbetsmiljö ger utrymme för människor med olika bakgrund och förmågor i arbetslivet. Alla i Sverige ska ha ett tryggt jobb där ingen blir utnyttjad eller utsliten. En god arbetsmiljö är en förutsättning för hög produktivitet i svensk ekonomi, som utmärks av ett högt arbetskraftsdeltagande och en hög sysselsättningsgrad. En god arbetsmiljö utvecklar verksamheter och företag. Arbetsmiljölagstiftningen ska bidra till en god och säker arbetsmiljö och ska betona det förebyggande arbetet. För ett väl fungerande arbetsmiljöarbete är det avgörande att det finns en god samverkan mellan staten, arbetsgivare och arbetstagare.</P>
+<P class="p64 ft14"><SPAN class="ft12">2.2</SPAN><SPAN class="ft13">Goda arbetsvillkor och möjlighet till utveckling i arbetet för både kvinnor och män</SPAN></P>
+<P class="p63 ft2">Regeringens arbetsmiljöstrategi syftar till att tydliggöra och stärka arbetet med att uppnå det av riksdagen beslutade målet för arbetslivspolitiken som är att Sverige ska ha goda arbetsvillkor och möjlighet till utveckling i arbetet för både kvinnor och män (prop. 2011/12:1 utg.omr. 14 avsnitt 4.3, bet. 2011/12:AU2, rskr. 2011/12:88). Regeringen har utifrån detta mål satt ett mål om en arbetsmiljö som förebygger ohälsa och olycksfall, som motverkar att människor utestängs från arbetslivet, som tar hänsyn till människors olika förutsättningar och som bidrar till att utveckla individer och verksamheter (prop. 2020/21:1 utg.omr. 14 avsnitt 5.1). I denna strategi bryts målet för arbetsmiljö ned i fyra delmål. Delmålen syftar till att tydliggöra politikens inriktning på de områden som regeringen bedömer har stor betydelse för att uppnå arbetsmiljömålet och i slutändan det övergripande målet för arbetslivspolitiken. Delmålen i arbetsmiljöstrategin är följande:</P>
+<P class="p65 ft2">8</P>
+</DIV>
+<DIV id="page_9">
+
+
+<P class="p66 ft2">• Ett hållbart arbetsliv – alla ska kunna, orka och vilja jobba ett helt Skr. 2020/21:92 arbetsliv.</P>
+<P class="p67 ft2"><SPAN class="ft2">•</SPAN><SPAN class="ft17">Ett hälsosamt arbetsliv – arbetslivet ska bidra till utveckling och välbefinnande.</SPAN></P>
+<P class="p68 ft2"><SPAN class="ft2">•</SPAN><SPAN class="ft17">Ett tryggt arbetsliv – ingen ska riskera liv eller hälsa på grund av jobbet.</SPAN></P>
+<P class="p69 ft5"><SPAN class="ft2">•</SPAN><SPAN class="ft18">En arbetsmarknad utan brott och fusk – en bristfällig arbetsmiljö ska aldrig vara ett konkurrensmedel.</SPAN></P>
+<P class="p70 ft1"><SPAN class="ft1">3</SPAN><SPAN class="ft19">Ett hållbart arbetsliv</SPAN></P>
+<P class="p71 ft2">Alla ska kunna, orka och vilja jobba ett helt arbetsliv. Arbetsmiljön har stor betydelse för hur länge människor kan och vill arbeta. En god arbetsmiljö är en förutsättning för ett hållbart arbetsliv som ger möjlighet till kompetensutveckling, omställning och trygghet. En god arbetsmiljö och goda arbetsvillkor går hand i hand. Arbetslivet har förändrats snabbt och fortsätter att göra det. För att skapa ett hållbart arbetsliv behöver kunskap och regelverk följa med i dessa förändringar. Därför kommer regeringen fortsätta att satsa på forskning och kunskap. En god arbetsmiljö är också avgörande för att säkerställa kompetensförsörjningen. Arbetssituationen och arbetsmiljön för de anställda inom välfärden är en fortsatt viktig fråga för regeringen.</P>
+<P class="p72 ft14"><SPAN class="ft14">3.1</SPAN><SPAN class="ft13">Alla ska kunna och vilja arbeta ett helt arbetsliv</SPAN></P>
+<TABLE cellpadding=0 cellspacing=0 class="t8">
+<TR>
+	<TD class="tr2 td25"><SPAN class="p18 ft2">Vi lever allt längre, är friskare och mer utbildade. Att fler studerar längre</SPAN> </TD>
+	<TD class="tr2 td16"><SPAN class="p18 ft8">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr3 td25"><SPAN class="p18 ft2">gör också att inträdet på arbetsmarknaden sker senare. Däremot har inte</SPAN> </TD>
+	<TD class="tr3 td16"><SPAN class="p18 ft8">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr3 td25"><SPAN class="p18 ft2">utträdet från arbetsmarknaden senarelagts i takt med att livslängden har</SPAN> </TD>
+	<TD class="tr3 td16"><SPAN class="p18 ft8">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr3 td25"><SPAN class="p18 ft2">ökat. Den arbetande delen av befolkningen behöver förlänga sitt arbetsliv</SPAN> </TD>
+	<TD class="tr3 td16"><SPAN class="p18 ft8">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr5 td25"><SPAN class="p18 ft2">för att säkra kompetensförsörjningen, för att pensionerna inte ska bli för</SPAN> </TD>
+	<TD class="tr5 td16"><SPAN class="p18 ft8">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr3 td25"><SPAN class="p18 ft2">låga och för att bidra till att finansiera välfärden. Regeringen anser att det</SPAN> </TD>
+	<TD class="tr3 td16"><SPAN class="p18 ft8">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr3 td25"><SPAN class="p18 ft2">är nödvändigt att vidta ytterligare långsiktiga insatser för att uppnå ett</SPAN> </TD>
+	<TD class="tr3 td16"><SPAN class="p18 ft8">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr5 td25"><SPAN class="p18 ft2">hållbart arbetsliv för alla. Arbetsmiljöfrågorna behöver prioriteras så att</SPAN> </TD>
+	<TD class="tr5 td16"><SPAN class="p18 ft8">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr3 td25"><SPAN class="p18 ft2">alla ska orka, kunna och vilja arbeta ett helt arbetsliv.</SPAN> </TD>
+	<TD class="tr3 td16"><SPAN class="p18 ft8">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr3 td25"><SPAN class="p73 ft2">Ett hållbart arbetsliv är en fråga om jämlikhet. Å ena sidan har</SPAN> </TD>
+	<TD class="tr3 td16"><SPAN class="p18 ft8">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr5 td25"><SPAN class="p18 ft2">arbetslivet på många sätt blivit bättre och fler är friskare högre upp i</SPAN> </TD>
+	<TD class="tr5 td16"><SPAN class="p18 ft8">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr3 td25"><SPAN class="p18 ft2">åldrarna. Å andra sidan finns de som har slitsamma och enformiga arbeten</SPAN> </TD>
+	<TD class="tr3 td16"><SPAN class="p18 ft8">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr3 td25"><SPAN class="p18 ft2">och som upplever stora brister i arbetsmiljön redan många år innan</SPAN> </TD>
+	<TD class="tr3 td16"><SPAN class="p18 ft8">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr5 td25"><SPAN class="p18 ft2">pensionen. Ett längre arbetsliv kan inte åstadkommas enbart genom</SPAN> </TD>
+	<TD class="tr5 td16"><SPAN class="p18 ft8">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr3 td25"><SPAN class="p18 ft2">åtgärder under den senare delen av arbetslivet. Hur arbetslivet har sett ut i</SPAN> </TD>
+	<TD class="tr3 td16"><SPAN class="p18 ft8">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr3 td25"><SPAN class="p18 ft2">sin helhet påverkar när människor går i pension. All exponering i</SPAN> </TD>
+	<TD class="tr3 td16"><SPAN class="p18 ft8">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr5 td25"><SPAN class="p18 ft2">arbetsmiljön, såväl positiv som negativ, från första arbetsdagen har</SPAN> </TD>
+	<TD class="tr5 td16"><SPAN class="p18 ft8">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr3 td25"><SPAN class="p18 ft2">betydelse för arbetsförmågan, orken och viljan att arbeta senare i livet.</SPAN> </TD>
+	<TD class="tr3 td16"><SPAN class="p18 ft8">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr3 td25"><SPAN class="p18 ft2">Många, särskilt i arbetaryrken, har en arbetsmiljö som har försämrats</SPAN> </TD>
+	<TD class="tr3 td16"><SPAN class="p18 ft8">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr5 td25"><SPAN class="p18 ft2">under de senaste årtiondena. Personer med högre utbildning stannar längre</SPAN> </TD>
+	<TD class="tr5 td16"><SPAN class="p18 ft8">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr3 td25"><SPAN class="p18 ft2">i arbetslivet än personer med låg utbildning. Kvinnor har högre</SPAN> </TD>
+	<TD class="tr3 td16"><SPAN class="p18 ft8">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr5 td25"><SPAN class="p18 ft2">sjukfrånvaro, arbetar mer deltid och lämnar arbetslivet tidigare än män.</SPAN> </TD>
+	<TD class="tr5 td16"><SPAN class="p19 ft2">9</SPAN> </TD>
+</TR>
+</TABLE>
+</DIV>
+<DIV id="page_10">
+
+
+<P class="p74 ft2">Skr. 2020/21:92 Forskning om arbetsmiljöförhållandena för olika grupper på arbetsmarknaden behöver öka. Forskning visar att det finns skillnader när det gäller exponering för bristfälliga arbetsmiljöförhållanden mellan utrikes födda och inrikes födda anställda på den svenska arbetsmarknaden. Tidigare studier visar att <NOBR>hbtqi-personer,</NOBR> jämfört med andra anställda, oftare utsätts för kränkande särbehandling, trakasserier och mobbning på jobbet. I regeringens handlingsplan för <NOBR>hbtqi-personers</NOBR> lika rättigheter och möjligheter pekas arbetslivet ut som ett nytt fokusområde. Regeringen anser att även arbetslivet är ett område som är av särskild betydelse för arbetet med att främja <NOBR>hbtqi-personers</NOBR> lika rättigheter och möjligheter (A2021/00140). Myndigheten för arbetsmiljökunskap arbetar på uppdrag av regeringen med att inhämta och sammanställa kunskap om hbtqpersoners arbetsmiljö, med ett särskilt fokus på transpersoner (A2020/01002). Regeringen ser positivt på att det arbetet fortsätter under de kommande åren. Det är viktigt att myndigheten beaktar ett jämställdhets- och likabehandlingsperspektiv i sitt arbete liksom fördjupar kunskapen om skillnader i arbetsförhållanden mellan inrikes och utrikes födda anställda.</P>
+<P class="p75 ft2">En central del för att skapa ett längre och hållbart arbetsliv är att bättre ta till vara äldres kompetens och erfarenhet. Arbetslivet behöver bli mer åldersoberoende och äldres kunskaper och erfarenheter behöver tas till vara på ett bättre sätt i arbetslivet. Allt fler kan och vill arbeta längre, men många möter olika hinder i arbetslivet i till exempel olika regelsystem och avtal. Dessa frågor måste också beaktas för att skapa ett längre och hållbart arbetsliv. Den delegation för senior arbetskraft som tillsattes som en del av pensionsöverenskommelsen 2017 har överlämnat sitt betänkande Äldre har aldrig varit yngre – allt fler kan och vill arbeta längre (SOU 2020:69). Delegationen kom bland annat fram till att kraven i arbetslivet har förändrats, att livslångt lärande blir allt viktigare och att det finns en betydande arbetskraftspotential bland seniorer. Arbetsgivares attityder till och nyttjande av senior arbetskraft behöver förbättras. Bland annat behöver chefer bedriva ett åldersmedvetet ledarskap. Åldersdiskriminering bör motverkas med breda åtgärder, och en god arbetsmiljö genom hela livet är grundläggande.</P>
+<P class="p76 ft2">Enligt arbetsmiljölagen (1977:1160) ska arbetsförhållanden anpassas till människors olika förutsättningar. Det är en fråga om att alla ska kunna delta på lika villkor i arbetslivet. För att personer med funktionsnedsättning ska kunna delta på lika villkor som andra behöver arbetsmiljön vara öppen, inkluderande och tillgänglig. Det kan innebära behov av <NOBR>icke-diskriminerande</NOBR> åtgärder, stödjande teknik eller andra hjälpmedel, individuella stödinsatser och tillgänglighetsanpassningar. Funktionsförmågan varierar ofta under arbetslivet. En tillgänglig arbetsmiljö kan bidra till att möjliggöra ett längre arbetsliv för fler, men också till att personer med funktionsnedsättning kan vara delaktiga på arbetsmarknaden. Det är arbetsgivarens ansvar att se till att skapa tillgängliga arbetsmiljöer. Företagshälsovården har även en viktig roll vid rehabilitering och arbetsanpassning vid återgång i arbetet efter sjukskrivning.</P>
+<P class="p72 ft2">10</P>
+</DIV>
+<DIV id="page_11">
+
+
+<TABLE cellpadding=0 cellspacing=0 class="t9">
+<TR>
+	<TD class="tr8 td26"><SPAN class="p77 ft14">3.2</SPAN> </TD>
+	<TD class="tr8 td27"><SPAN class="p23 ft14">Arbetslivets utveckling skapar nya utmaningar <SPAN class="ft20">Skr. 2020/21:92</SPAN></SPAN> </TD>
+</TR>
+</TABLE>
+<P class="p78 ft2">Globalisering och den snabba tekniska utvecklingen leder till omfattande strukturella förändringar i ekonomin och på arbetsmarknaden. En ökad digitalisering, robotisering och användning av artificiell intelligens driver på förändringarna i snabb takt. Vissa arbeten försvinner och ersätts av nya som ofta innebär bättre fysisk arbetsmiljö. Ny teknik och nya sätt att organisera arbete minskar många traditionella fysiska arbetsmiljörisker som tunga lyft och kemisk exponering. Samtidigt innebär förändringarna nya risker i arbetslivet.</P>
+<P class="p40 ft2">Förändringarna i arbetslivet påverkar hur vi arbetar, var vi arbetar och när vi arbetar. Digitala arbetsverktyg möjliggör att arbeta på annan plats än den fysiska arbetsplatsen. Arbete på distans har ökat stort under den pandemi som orsakades av coronaviruset. Den tekniska utvecklingen gör det också möjligt att förmedla tjänster på nya sätt genom digitala verktyg, såsom plattformar, vilket kan påverka hur arbetet organiseras.</P>
+<P class="p40 ft2">Det ska råda förutsägbara och trygga förhållanden även i ett arbetsliv i förändring. Alla som arbetar i Sverige ska ha en god och säker arbetsmiljö. I situationer då tjänster förmedlas genom nya digitala verktyg bör det inte finnas några oklarheter i arbetsmiljöansvaret. På samma sätt bör det inte finnas några oklarheter vad gäller ansvarsfördelningen mellan olika aktörer när arbetsgivaren inte råder över arbetsplatsen. Arbetsmiljöarbetet behöver utvecklas för att möta nya förutsättningar och Arbetsmiljöverket behöver rätt förutsättningar för att utföra sitt tillsynsuppdrag. Den aktör som i praktiken har störst möjlighet att påverka arbetsmiljöförutsättningarna för den som utför arbetet bör vara den som har ansvar för arbetsmiljön. Den aktören kan till exempel ha rådighet över platsen där arbetet utförs eller på annat sätt ha rådighet över avgörande moment som kan påverka arbetsmiljön. Ansvarsförhållandena bör tydliggöras och förutsättningarna för ett sådant rådighetsansvar ses över.</P>
+<P class="p79 ft2">Det finns ett behov av ökad förståelse för hur ett arbetsliv i förändring påverkar arbetsmiljön och organiseringen av arbete. Arbetsmiljöverket och Myndigheten för arbetsmiljökunskap är centrala aktörer i detta sammanhang, liksom arbetsmarknadens parter.</P>
+<P class="p80 ft21">3.3 God arbetsmiljö och möjlighet till kompetensutveckling är avgörande för att säkerställa kompetensförsörjningen</P>
+<TABLE cellpadding=0 cellspacing=0 class="t10">
+<TR>
+	<TD class="tr7 td28"><SPAN class="p18 ft2">Förhållandena på arbetsmarknaden påverkas också av de strukturella</SPAN> </TD>
+	<TD class="tr7 td29"><SPAN class="p18 ft8">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr3 td28"><SPAN class="p18 ft2">förändringar som gör att både arbetsgivarnas och arbetstagarnas</SPAN> </TD>
+	<TD class="tr3 td29"><SPAN class="p18 ft8">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr3 td28"><SPAN class="p18 ft2">förutsättningar och behov förändras. Arbetsgivare behöver förutsägbarhet</SPAN> </TD>
+	<TD class="tr3 td29"><SPAN class="p18 ft8">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr3 td28"><SPAN class="p18 ft2">för att kunna anpassa sina verksamheter och klara den ökade</SPAN> </TD>
+	<TD class="tr3 td29"><SPAN class="p18 ft8">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr5 td28"><SPAN class="p18 ft2">konkurrensen. Inte minst gäller detta för mindre företag. Arbetstagarna å</SPAN> </TD>
+	<TD class="tr5 td29"><SPAN class="p18 ft8">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr3 td28"><SPAN class="p18 ft2">sin sida behöver ett skydd som är anpassat för den nya arbetsmarknaden,</SPAN> </TD>
+	<TD class="tr3 td29"><SPAN class="p18 ft8">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr3 td28"><SPAN class="p18 ft2">där en viktig del av tryggheten består av kontinuerlig kompetensutveckling</SPAN> </TD>
+	<TD class="tr3 td29"><SPAN class="p18 ft8">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr5 td28"><SPAN class="p18 ft2">inom anställningen och därigenom förstärkt anställningsbarhet.</SPAN> </TD>
+	<TD class="tr5 td29"><SPAN class="p18 ft8">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr3 td28"><SPAN class="p73 ft2">Det har ständigt uppstått nya yrken men den nuvarande</SPAN> </TD>
+	<TD class="tr3 td29"><SPAN class="p18 ft8">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr3 td28"><SPAN class="p18 ft2">teknikutvecklingen gör att omställningen sker snabbt. En del av de svenska</SPAN> </TD>
+	<TD rowspan=2 class="tr6 td29"><SPAN class="p19 ft2">11</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr9 td28"><SPAN class="p18 ft22">&nbsp;</SPAN> </TD>
+</TR>
+</TABLE>
+</DIV>
+<DIV id="page_12">
+
+
+<TABLE cellpadding=0 cellspacing=0 class="t11">
+<TR>
+	<TD class="tr7 td30"><SPAN class="p81 ft2">Skr. 2020/21:92</SPAN> </TD>
+	<TD class="tr7 td31"><SPAN class="p18 ft2">jobben och vissa arbetsuppgifter kan under de kommande åren antas</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr3 td30"><SPAN class="p18 ft8">&nbsp;</SPAN> </TD>
+	<TD class="tr3 td31"><SPAN class="p18 ft2">komma att ersättas av digitala lösningar. Uppskattningarna varierar stort,</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr3 td30"><SPAN class="p18 ft8">&nbsp;</SPAN> </TD>
+	<TD class="tr3 td31"><SPAN class="p18 ft2">men de jobb som enligt de flesta bedömare kommer att ersättas är främst</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr3 td30"><SPAN class="p18 ft8">&nbsp;</SPAN> </TD>
+	<TD class="tr3 td31"><SPAN class="p18 ft2">rutinarbeten inom detaljhandeln och administration, men det finns också</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr5 td30"><SPAN class="p18 ft8">&nbsp;</SPAN> </TD>
+	<TD class="tr5 td31"><SPAN class="p18 ft4">exempel på arbeten inom journalistik, transporter, service, redovisning och</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr3 td30"><SPAN class="p18 ft8">&nbsp;</SPAN> </TD>
+	<TD class="tr3 td31"><SPAN class="p18 ft2">ekonomi som redan har ersatts eller förväntas bli ersatta. Även om vissa</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr5 td30"><SPAN class="p18 ft8">&nbsp;</SPAN> </TD>
+	<TD class="tr5 td31"><SPAN class="p18 ft2">arbetsuppgifter eller jobb kommer att automatiseras kan det också antas</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr3 td30"><SPAN class="p18 ft8">&nbsp;</SPAN> </TD>
+	<TD class="tr3 td31"><SPAN class="p18 ft2">att den kunskapsintensiva delen av arbetslivet kommer att öka i samma</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr3 td30"><SPAN class="p18 ft8">&nbsp;</SPAN> </TD>
+	<TD class="tr3 td31"><SPAN class="p18 ft4">eller större utsträckning som de arbetsuppgifter som kommer att försvinna.</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr3 td30"><SPAN class="p18 ft8">&nbsp;</SPAN> </TD>
+	<TD class="tr3 td31"><SPAN class="p18 ft2">Därför blir livslångt lärande, kompetensutveckling och möjlighet till byte</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr5 td30"><SPAN class="p18 ft8">&nbsp;</SPAN> </TD>
+	<TD class="tr5 td31"><SPAN class="p18 ft2">av yrke eller arbetsuppgifter allt viktigare frågor.</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr3 td30"><SPAN class="p18 ft8">&nbsp;</SPAN> </TD>
+	<TD class="tr3 td31"><SPAN class="p73 ft2">Enligt Arbetsmiljöverkets arbetsmiljöundersökning 2019 har ungefär 60</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr5 td30"><SPAN class="p18 ft8">&nbsp;</SPAN> </TD>
+	<TD class="tr5 td31"><SPAN class="p18 ft2">procent av de sysselsatta fått utbildning på betald arbetstid under de</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr3 td30"><SPAN class="p18 ft8">&nbsp;</SPAN> </TD>
+	<TD class="tr3 td31"><SPAN class="p18 ft2">senaste 12 månaderna. Andelen som har fått betald utbildning ökar med</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr3 td30"><SPAN class="p18 ft8">&nbsp;</SPAN> </TD>
+	<TD class="tr3 td31"><SPAN class="p18 ft2">stigande inkomst. Arbetsgivarnas förmåga att identifiera, ta till vara och</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr5 td30"><SPAN class="p18 ft8">&nbsp;</SPAN> </TD>
+	<TD class="tr5 td31"><SPAN class="p18 ft2">utveckla individernas kompetens är av stor betydelse för kompetens-</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr3 td30"><SPAN class="p18 ft8">&nbsp;</SPAN> </TD>
+	<TD class="tr3 td31"><SPAN class="p18 ft2">försörjningen på arbetsmarknaden. Kompetensutvecklingen är ett</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr3 td30"><SPAN class="p18 ft8">&nbsp;</SPAN> </TD>
+	<TD class="tr3 td31"><SPAN class="p18 ft2">gemensamt intresse för både arbetsgivare och arbetstagare, liksom viktigt</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr5 td30"><SPAN class="p18 ft8">&nbsp;</SPAN> </TD>
+	<TD class="tr5 td31"><SPAN class="p18 ft2">för en väl fungerande arbetsmarknad. Arbetsmarknadens parter spelar en</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr3 td30"><SPAN class="p18 ft8">&nbsp;</SPAN> </TD>
+	<TD class="tr3 td31"><SPAN class="p18 ft2">viktig roll i detta arbete eftersom de genom avtal anpassar villkoren och</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr3 td30"><SPAN class="p18 ft8">&nbsp;</SPAN> </TD>
+	<TD class="tr3 td31"><SPAN class="p18 ft2">förutsättningar för kompetensutveckling och omställning i olika</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr5 td30"><SPAN class="p18 ft8">&nbsp;</SPAN> </TD>
+	<TD class="tr5 td31"><SPAN class="p18 ft2">branscher. Vidare spelar de möjligheter som finns inom utbildnings-</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr3 td30"><SPAN class="p18 ft8">&nbsp;</SPAN> </TD>
+	<TD class="tr3 td31"><SPAN class="p18 ft2">väsendet en viktig roll.</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr3 td30"><SPAN class="p18 ft8">&nbsp;</SPAN> </TD>
+	<TD class="tr3 td31"><SPAN class="p73 ft2">Förhandlings- och samverkansrådet PTK, IF Metall, Kommunal och</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr3 td30"><SPAN class="p18 ft8">&nbsp;</SPAN> </TD>
+	<TD class="tr3 td31"><SPAN class="p18 ft2">Svenskt Näringsliv har förhandlat fram en principöverenskommelse om</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr5 td30"><SPAN class="p18 ft8">&nbsp;</SPAN> </TD>
+	<TD class="tr5 td31"><SPAN class="p18 ft2">trygghet, omställning och anställningsskydd. Den 4 december 2020</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr3 td30"><SPAN class="p18 ft8">&nbsp;</SPAN> </TD>
+	<TD class="tr3 td31"><SPAN class="p18 ft2">begärde parterna gemensamt att regeringen ska modernisera arbetsrätten i</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr5 td30"><SPAN class="p18 ft8">&nbsp;</SPAN> </TD>
+	<TD class="tr5 td31"><SPAN class="p18 ft2">enlighet med principöverenskommelsen (A2020/02524). Regeringen har</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr3 td30"><SPAN class="p18 ft8">&nbsp;</SPAN> </TD>
+	<TD class="tr3 td31"><SPAN class="p18 ft2">påbörjat arbetet med att genomföra parternas principöverenskommelse</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr3 td30"><SPAN class="p18 ft8">&nbsp;</SPAN> </TD>
+	<TD class="tr3 td31"><SPAN class="p18 ft2">som bland annat innebär förbättrade möjligheter till kompetensutveckling</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr3 td30"><SPAN class="p18 ft8">&nbsp;</SPAN> </TD>
+	<TD class="tr3 td31"><SPAN class="p18 ft2">och omställning under hela arbetslivet för alla oavsett anställningsform</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr5 td30"><SPAN class="p18 ft8">&nbsp;</SPAN> </TD>
+	<TD class="tr5 td31"><SPAN class="p18 ft2">(A2021/00045). Det ska bland annat införas ett nytt och parallellt</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr3 td30"><SPAN class="p18 ft8">&nbsp;</SPAN> </TD>
+	<TD class="tr3 td31"><SPAN class="p18 ft2">offentligt studiestöd (U2021/00138). Regeringen har utöver det tagit flera</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr5 td30"><SPAN class="p18 ft8">&nbsp;</SPAN> </TD>
+	<TD class="tr5 td31"><SPAN class="p18 ft2">initiativ för att möjliggöra omställning och vidareutbildning. Bland annat</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr3 td30"><SPAN class="p18 ft8">&nbsp;</SPAN> </TD>
+	<TD class="tr3 td31"><SPAN class="p18 ft2">avser regeringen att återkomma med ett förslag om höjda åldersgränser för</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr3 td30"><SPAN class="p18 ft8">&nbsp;</SPAN> </TD>
+	<TD class="tr3 td31"><SPAN class="p18 ft4">rätt till studiemedel och studiestartsstöd samt ändrade återbetalningsregler.</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr3 td30"><SPAN class="p18 ft8">&nbsp;</SPAN> </TD>
+	<TD class="tr3 td31"><SPAN class="p73 ft2">En god arbetsmiljö är avgörande för att säkerställa kompetens-</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr5 td30"><SPAN class="p18 ft8">&nbsp;</SPAN> </TD>
+	<TD class="tr5 td31"><SPAN class="p18 ft2">försörjningen i olika sektorer, inom såväl offentlig sektor som det privata</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr3 td30"><SPAN class="p18 ft8">&nbsp;</SPAN> </TD>
+	<TD class="tr3 td31"><SPAN class="p18 ft2">näringslivet. Arbetsmiljön behöver därför bli bättre. Regeringen har tillsatt</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr5 td30"><SPAN class="p18 ft8">&nbsp;</SPAN> </TD>
+	<TD class="tr5 td31"><SPAN class="p18 ft2">en välfärdskommission som bland annat arbetar för en hållbar kompetens-</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr3 td30"><SPAN class="p18 ft8">&nbsp;</SPAN> </TD>
+	<TD class="tr3 td31"><SPAN class="p18 ft2">försörjning och god arbetsmiljö inom välfärden (Fi2019/04300).</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr3 td30"><SPAN class="p18 ft8">&nbsp;</SPAN> </TD>
+	<TD class="tr3 td31"><SPAN class="p18 ft4">Långsiktiga prognoser har visat på att det kommer att råda kompetensbrist</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr3 td30"><SPAN class="p18 ft8">&nbsp;</SPAN> </TD>
+	<TD class="tr3 td31"><SPAN class="p18 ft2">inom välfärden även framöver. För att attrahera och behålla kompetens</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr5 td30"><SPAN class="p18 ft8">&nbsp;</SPAN> </TD>
+	<TD class="tr5 td31"><SPAN class="p18 ft2">inom bland annat vård och omsorg krävs trygga anställningar, en god</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr3 td30"><SPAN class="p18 ft8">&nbsp;</SPAN> </TD>
+	<TD class="tr3 td31"><SPAN class="p18 ft2">arbetsmiljö och möjlighet till utveckling i arbetet. Under 2020</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr5 td30"><SPAN class="p18 ft8">&nbsp;</SPAN> </TD>
+	<TD class="tr5 td31"><SPAN class="p18 ft2">presenterade regeringen satsningen Äldreomsorgslyftet som föreslås</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr3 td30"><SPAN class="p18 ft8">&nbsp;</SPAN> </TD>
+	<TD class="tr3 td31"><SPAN class="p18 ft2">fortsätta till 2023 och som syftar till att stärka kompetensen inom</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr3 td30"><SPAN class="p18 ft8">&nbsp;</SPAN> </TD>
+	<TD class="tr3 td31"><SPAN class="p18 ft2">äldreomsorgen genom att ge såväl ny som befintlig personal möjlighet att</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr3 td30"><SPAN class="p18 ft8">&nbsp;</SPAN> </TD>
+	<TD class="tr3 td31"><SPAN class="p18 ft2">genomgå utbildning på betald arbetstid. Arbetssituationen och</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr5 td30"><SPAN class="p18 ft8">&nbsp;</SPAN> </TD>
+	<TD class="tr5 td31"><SPAN class="p18 ft2">arbetsmiljön för de anställda inom välfärden är en viktig fråga för</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr3 td30"><SPAN class="p82 ft2">12</SPAN> </TD>
+	<TD class="tr3 td31"><SPAN class="p18 ft2">regeringen. 2019 tillsatte regeringen en nationell samordnare som ska</SPAN> </TD>
+</TR>
+</TABLE>
+</DIV>
+<DIV id="page_13">
+
+
+<P class="p50 ft2">främja en hållbar kompetensförsörjning inom kommunalt finansierad vård Skr. 2020/21:92 och omsorg om äldre (dir. 2019:77). Samordnaren ska stödja kommunerna</P>
+<P class="p51 ft2">genom att bland annat stimulera förändringsarbete för en attraktivare arbetsmiljö, stärka ledarskapet samt föreslå välfärdstekniska lösningar som kan avlasta personalen.</P>
+<P class="p9 ft2">Över en längre tidsperiod har andelen tillfälligt anställda legat på en för hög nivå. Tidsbegränsade anställningar och deltidsarbete kan förvisso vara ett sätt att underlätta inträdet på arbetsmarknaden för bland annat ungdomar och utrikes födda men innebär samtidigt osäkerhet för den enskilda individen. Många brister i arbetsmiljön handlar i grunden om försämrade arbetsvillkor. Personer med osäkra anställningar saknar ofta den trygghet som krävs för att våga påtala arbetsmiljöbrister och tar mindre gärna förtroendeuppdrag som till exempel skyddsombud. I Arbetsmiljöverkets arbetsmiljöundersökning för 2019 angav tidsbegränsat anställda i betydligt högre utsträckning än tillsvidareanställda att de har arbetat trots sjukdom för att de inte hade råd att vara sjuka eller inte ville bli sedda som lata. Under pandemin har dessa frågor aktualiserats och vilka konsekvenser det kan få. Arbetet för en förbättrad arbetsmiljö går hand i hand med arbetstagares arbetsvillkor och trygghet i stort. Regeringen har påbörjat arbetet med att genomföra parternas principöverenskommelse som bland annat innehåller ändringar i reglering av anställning till lägre sysselsättningsgrad, bestämmelser om visstidsanställning samt heltid som norm (A2021/00044).</P>
+<P class="p83 ft14"><SPAN class="ft14">3.4</SPAN><SPAN class="ft13">Forskning och analys för ett hållbart arbetsliv ska prioriteras även fortsättningsvis</SPAN></P>
+<P class="p55 ft2">Kunskap om hur en bra arbetsmiljö skapas och vad som främjar ett mer hållbart arbetsliv kräver både forskning av hög kvalitet och att forskningsresultaten sprids till och används på arbetsplatserna. Fler satsningar på utvärdering, forskning och statistik på arbetsmiljöområdet behövs. Ökad kunskap om och förståelse för de ofta komplexa sambanden mellan arbetsmiljö och hälsa är nödvändiga för att uppnå ett hållbart arbetsliv. Kunskapssammanställningar och analyser bidrar till en ökad förståelse av problemen och därmed till att relevanta åtgärder kan genomföras.</P>
+<P class="p84 ft2">Arbetslivsforskning omfattas av många olika områden och discipliner. 2017 gav regeringen Forskningsrådet för hälsa, arbetsliv och välfärd (Forte) i uppdrag att inrätta och driva ett nationellt forskningsprogram om arbetslivsforskning (S2017/03055). Forskningsprogrammet är tioårigt och har tre prioriterade områden: att skapa ett hållbart och inkluderande arbetsliv, att främja goda arbetsförhållanden och att åstadkomma ett hälsofrämjande arbetsliv. I regeringens forsknings- och innovationspolitiska proposition Forskning, frihet, framtid – kunskap och innovation för Sverige (prop. 2020/21:60) tillförs programmet ytterligare medel för att fortsatt prioritera såväl de forskningssatsningar som regeringen pekade ut vid programmets inrättade liksom nya utmaningar på området. Utöver programmet för arbetslivsforskning finns det flera andra satsningar i</P>
+<P class="p59 ft2">propositionen som bedöms bidra till arbetet för en god arbetsmiljö, till</P>
+<P class="p15 ft2">13</P>
+</DIV>
+<DIV id="page_14">
+
+
+<P class="p74 ft2">Skr. 2020/21:92 exempel inrättandet av ett nationellt forskningsprogram om psykisk hälsa, en satsning på forskning om prevention och folkhälsa samt en äldreforskningssatsning där frågor om kunskap inom äldreomsorgen är en prioriterad fråga.</P>
+<P class="p85 ft1"><SPAN class="ft1">4</SPAN><SPAN class="ft10">Ett hälsosamt arbetsliv</SPAN></P>
+<P class="p86 ft2">Arbetslivet ska bidra till utveckling och välbefinnande. Var och en som arbetar ska ha möjlighet till god hälsa. Att skapa friska arbetsplatser är en viktig del för att främja hälsa. Arbetsmiljön ska bidra till ett positivt utbyte i form av ett rikt arbetsinnehåll, arbetstillfredsställelse, gemenskap och personlig utveckling. Balans mellan krav och resurser, medarbetares makt och inflytande över sitt arbete, god gemenskap och stöd från chefen är några exempel på friskfaktorer i arbetet. Om arbetsmiljön inte bara är bra utan även hälsofrämjande och bidrar till produktivitet gynnar det såväl enskilda individer, företagare och verksamheter som samhället i stort. En långsiktigt god arbetsmiljö skapas genom välfungerande samverkan mellan arbetsgivare och arbetstagare. Företagshälsovården och dess roll i arbetsmiljöarbetet behöver utvecklas och stärkas. Det är angeläget att företagshälsovården används i större utsträckning i det förebyggande arbetsmiljöarbetet. Frågor om arbete på distans eller hemifrån är fortsatt aktuella. Mobbning i arbetslivet behöver motverkas. Ingen ska behöva arbeta i en miljö där kränkande särbehandling, diskriminering och trakasserier, inklusive sexuella trakasserier, förekommer.</P>
+<P class="p87 ft14"><SPAN class="ft12">4.1</SPAN><SPAN class="ft13">Att skapa friska arbetsplatser kan bidra till såväl hälsa som lönsamhet</SPAN></P>
+<P class="p88 ft2">Sysselsättning och ekonomisk trygghet spelar en stor roll för en god, jämlik och jämställd hälsa. Arbete är för de flesta människor den viktigaste källan till försörjning och har också stor betydelse för individens möjlighet till delaktighet och inflytande i samhället. Det finns en nära koppling mellan arbete och individens hälsa och välmående.</P>
+<P class="p89 ft2">Det traditionella arbetsmiljöarbetet har i stor utsträckning fokuserat på risker och problem. Men arbetsmiljöarbetet ska inte bara skydda arbetstagare från skador och sjukdomar utan ska också vara ett hälsofrämjande arbete. Arbetsmiljön ska bidra till att skapa en god hälsa och stärka hälsan i samhället. Ett större hälsofrämjande arbete skulle kunna öka individers motivation och glädje i arbetet vilket i sin tur skulle kunna ge ökad konkurrenskraft och lönsamhet för företag och verksamheter. Arbetslivspolitiken bör därför främja ett hälsosamt arbetsliv som uppmuntrar och gör det möjligt för så många som möjligt att träda in, utvecklas och kvarstå i arbetslivet.</P>
+<P class="p90 ft2">Regeringen har gett Arbetsmiljöverket och Myndigheten för arbetsmiljökunskap i uppdrag att sammanställa och redovisa friskfaktorer i arbetslivet (A2018/01350). Exempel på sådana faktorer är att</P>
+<P class="p48 ft2">14</P>
+</DIV>
+<DIV id="page_15">
+
+
+<P class="p50 ft2">medarbetare känner trygghet, stöd och utvecklingsmöjligheter i sitt arbete, Skr. 2020/21:92 men också möjlighet till ansvar, handlingsutrymme och medbestämmande. Ett gott ledarskap, att kommunikationen är god och att</P>
+<P class="p91 ft2">arbetsplatsen genomsyras av gemensamma värderingar är några andra exempel på friskfaktorer. Även utformning av arbetsredskap och arbetsplatser kan främja friskhet.</P>
+<P class="p92 ft2">Det finns kunskapsluckor om arbetsmiljöns positiva effekter och vad som skapar friska arbetsplatser. Forskning på området handlar främst om faktorer som ökar risk för ohälsa. Vidare saknas det också kunskap om arbetsmiljöns betydelse för produktion, tillväxt och innovation. Arbetsmiljöarbetet behöver både kunna handla om att begränsa riskerna och om att utveckla de positiva faktorerna i arbetet. Regeringen anser att arbetsmiljöaspekter som är gynnsamma ur hälsosynpunkt behöver komma mer i fokus. Arbetet med friska arbetsplatser behöver prioriteras. Företagshälsovården kan bidra i arbetet med att skapa friska arbetsplatser. Det förutsätter en företagshälsovård med god kompetensförsörjning, hög kvalitet och ett ändamålsenligt regelverk. Arbetsgivaren behöver säkerställa tillgången till företagshälsovård eller annan experthjälp.</P>
+<P class="p93 ft2">Narkotika på arbetsplatsen påverkar också arbetslivet och medför risker i arbetsmiljön, orsakar arbetsplatsolyckor, påverkar medarbetarnas psykiska och fysiska hälsa och kan orsaka situationer med hot och våld. Regeringen avser att besluta om en förnyad <NOBR>ANDTS-strategi</NOBR> (alkohol, narkotika, dopning, tobak och spel). Det finns därför anledning att uppmärksamma arbetsgivarens förebyggande arbetsmiljöarbete och arbetsanpassning vid missbruk och beroende.</P>
+<P class="p94 ft14"><SPAN class="ft14">4.2</SPAN><SPAN class="ft13">Det systematiska arbetsmiljöarbetet är grunden till en god arbetsmiljö</SPAN></P>
+<P class="p55 ft2">Ett systematiskt arbetsmiljöarbete handlar om att arbetet med arbetsmiljön ska vara en naturlig del i den dagliga verksamheten. Ett gott arbetsmiljöarbete handlar både om att begränsa riskerna och att utveckla de positiva faktorerna. Det handlar om att undersöka, åtgärda och följa upp verksamheten för att förebygga olycksfall och ohälsa, men också för att skapa en god arbetsmiljö. Arbetet omfattar alla aspekter av arbetsmiljön. Alla arbetsgivare ska arbeta med ett systematiskt arbetsmiljöarbete. Alla som arbetar har rätt till en god arbetsmiljö, oavsett arbetsplatsens storlek och formen för arbetet. Arbetsmiljölagen och föreskrifterna om systematiskt arbetsmiljöarbete (AFS 2001:1) gäller också för studerande. Elever har från årskurs sju rätt att utse elevskyddsombud som får vara med i arbetsmiljöarbetet på skolan och studenter kan utse studerandeskyddsombud. Studenter och elever behöver få förutsättningar för en god och trygg studietid. Det är därför viktigt att elevers och studenters arbetsmiljöer beaktas och systematiskt arbetas med, såväl den fysiska som den psykosociala arbetsmiljön. Studenthälsovården har också en viktig roll att främja studenternas fysiska och psykiska hälsa.</P>
+<P class="p95 ft2">Företagen har en betydande roll på den svenska arbetsmarknaden. En klar majoritet av landets arbetstagare arbetar i en verksamhet inom den</P>
+<P class="p59 ft6">privata sektorn. Antalet egenföretagare har ökat, liksom andelen</P>
+<P class="p15 ft2">15</P>
+</DIV>
+<DIV id="page_16">
+
+
+<DIV id="id_1">
+<P class="p44 ft2">Skr. 2020/21:92 arbetstagare som är anställda i små företag. Samtliga arbetsgivare behöver ta sitt arbetsmiljöansvar. Arbetsmiljöskyddet är en rättighet och ska vara detsamma oavsett var man arbetar. Arbetsgivare på mindre arbetsplatser har vanligtvis inte samma resurser till arbetsmiljöarbetet som en arbetsgivare på en större arbetsplats. Det kan leda till att det är svårare för mindre arbetsgivare att få en överblick över regelverk och krav som arbetsmiljölagstiftningen ställer. Regeringen anser att det måste finnas förutsättningar för alla arbetsgivare att göra rätt oavsett arbetsplatsens storlek. Minskad administration och regelbörda är viktigt för konkurrenskraft, tillväxt och sysselsättning i svenska företag. Arbetet med att förenkla för företag är därmed angeläget. Regler ska därför utformas på ett tydligt och enkelt sätt. Arbetsmiljöverket har i uppgift att ta fram och tillhandahålla behovsanpassad, lättillgänglig och kvalificerad information inom sitt ansvarsområde, där de små och medelstora företagens behov särskilt ska beaktas. Myndigheten för arbetsmiljökunskap spelar också en viktig roll i att sprida kunskap om arbetsmiljö till arbetsplatserna, liksom parternas gemensamma kunskapsorganisationer.</P>
+</DIV>
+<DIV id="id_2">
+<DIV id="id_2_1">
+<P class="p16 ft2">16</P>
+</DIV>
+<DIV id="id_2_2">
+<P class="p96 ft14"><SPAN class="ft12">4.3</SPAN><SPAN class="ft13">För ett välfungerande arbetsmiljöarbete är det avgörande med fungerande samverkan</SPAN></P>
+<P class="p97 ft2">En fungerande samverkan har stor betydelse för hur arbetsmiljöarbetet fungerar på en arbetsplats. Enligt arbetsmiljölagen ska arbetstagaren medverka i arbetsmiljöarbetet och delta i genomförandet av de åtgärder som behövs för att åstadkomma en god arbetsmiljö. Skyddsombuden spelar en central roll i arbetsmiljöarbetet och det är angeläget att skyddsombuden får den utbildning som krävs för att kunna genomföra sitt uppdrag. Allt fler arbetstagare arbetar på arbetsplatser som saknar ett lokalt skyddsombud. Rörligheten på arbetsmarknaden och en stor ökning av företag med få anställda är två orsaker. När det inte finns en lokal skyddsorganisation är de regionala skyddsombuden viktiga. Det är angeläget att påpeka att de regionala skyddsombudens verksamhet är ett stöd till både anställda och arbetsgivare i arbetet för en bättre arbetsmiljö, i synnerhet för småföretag som oftast har sämre förutsättningar att utveckla ett lokalt arbetsmiljöarbete. När kunskap saknas i den egna organisationen är de regionala skyddsombuden, liksom företagshälsovården, en viktig resurs. Riksdagen har riktat ett tillkännagivande till regeringen att tillsätta en utredning för att utvärdera effekten av de regionala skyddsombudens verksamhet (bet. 2019/20:AU13, punkt 2, rskr. 2019/20:305). Regeringen avser att återkomma i denna fråga.</P>
+<P class="p98 ft2">För ett välfungerande arbetsmiljöarbete är det avgörande med en god dialog på alla nivåer. Regeringen och myndigheterna arbetar tillsammans med arbetsmarknadens parter för att skapa ramarna för en god arbetsmiljö. Det är arbetsgivarna, arbetstagarna och deras representanter som tillsammans utformar och bedriver det dagliga arbetsmiljöarbetet på de enskilda arbetsplatserna. Kunskaper om det lokala arbetsmiljöarbetet är avgörande för hur arbetsmiljökraven i praktiken kan genomföras. Arbetsmarknadens parter har samlad kompetens, branschkunskap och företräder de som ska tillämpa och använda lagstiftningen. För att ett gott</P>
+</DIV>
+</DIV>
+</DIV>
+<DIV id="page_17">
+
+
+<P class="p50 ft2">arbetsmiljöarbete ska kunna bedrivas, och för att regelverket ska utformas Skr. 2020/21:92 tydligt, enkelt och förståeligt, anser regeringen att samverkan mellan arbetsmiljömyndigheterna och arbetsmarknadens parter behöver</P>
+<P class="p91 ft2">prioriteras och utvecklas. Regeringen har tydliggjort i Arbetsmiljöverkets och Myndigheten för arbetsmiljökunskaps instruktioner hur de ska arbeta tillsammans med arbetsmarknadens parter.</P>
+<P class="p99 ft14"><SPAN class="ft14">4.4</SPAN><SPAN class="ft13">Utvecklingen går mot ett mer flexibelt arbetsliv</SPAN></P>
+<P class="p100 ft2">I vissa delar av arbetslivet suddas gränserna ut för när och var arbete kan utföras. Det ska råda förutsättningar för en god arbetsmiljö även i ett flexibelt arbetsliv. Under pandemin har frågor om distansarbete och arbete hemifrån aktualiserats för vissa grupper av arbetstagare. Frågor om när och var vi arbetar kommer sannolikt att fortsätta påverka arbetslivet framöver.</P>
+<P class="p9 ft2">Arbete hemifrån och på distans skapar både möjligheter och utmaningar i arbetslivet. Digitalisering och arbete på distans är inte nya fenomen. Under en längre tid har nya sätt att organisera arbetet gjort att fler arbeten kan utföras utan tidsmässiga, rumsliga eller organisatoriska gränser. De förändringar som pågår i delar av arbetslivet påverkar både arbetslivets struktur och innehåll, liksom arbetstagares förutsättningar och villkor. För många skapar flexibiliteten i var och när arbete utförs bättre förutsättningar att kombinera arbetsliv och privatliv. Samtidigt riskerar privatliv och arbetsliv att flyta ihop när rum och platser som tidigare var reserverade för privatliv nu också används för arbete. Var och när arbete utförs påverkar också andra områden. Till exempel kan frågor om gestaltning av bostäder få ytterligare betydelse utifrån att ännu fler nu har hemmet som en arbetsplats.</P>
+<P class="p95 ft2">De anställdas möjligheter att arbeta självständigt och ta ett yrkesmässigt ansvar kan ha stor betydelse för arbetstillfredsställelsen. Ett flexibelt arbetsliv kan därför ha relevans för hur nöjd arbetstagaren är med arbetet. Självständighet och ansvar ger även förutsättningar för att anställda ska kunna delta aktivt i arbetsmiljöarbetet. En del upplever dock att ett mer digitalt arbete drar upp arbetstempot och leder till ökad stress. Vidare kan arbete hemifrån leda till färre sociala kontakter och mer isolering. När allt fler arbetar hemifrån och från tillfälliga kontorslösningar ökar också risken för olika typer av belastningsbesvär. Frågor om belastningsbesvär är därför viktig att beakta i arbetsmiljöarbetet till följd av pandemin. En annan viktig fråga är hur skyddsombuden ska ha möjlighet att utföra sina uppdrag på distans.</P>
+<P class="p101 ft2">Ett mer flexibelt arbetsliv innebär utmaningar även för chefer när det gäller att leda och fördela arbete som utförs på en mängd olika platser. Arbetsgivarens möjligheter och förutsättningar att se, hantera och åtgärda problem i arbetsmiljön kan också vara begränsade. Arbetsgivaren är ansvarig för arbetstagarnas arbetsmiljö. Det gäller även när arbetstagare arbetar hemifrån eller på distans. Samtidigt råder inte arbetsgivaren över arbetsplatsen när den är i någons privata hem. Med fler som arbetar hemifrån finns det därför ett behov av att analysera hur det påverkar arbetstagarnas arbetsmiljö. Det är viktigt att det råder förutsättningar för en god arbetsmiljö även vid distansarbete och arbete hemifrån. Även om</P>
+<P class="p102 ft2">17</P>
+</DIV>
+<DIV id="page_18">
+
+
+<DIV id="id_1">
+<P class="p103 ft2">Skr. 2020/21:92 arbetsgivaren inte råder över arbetsplatsen ska ansvarsfördelningen mellan olika aktörer vara tydlig.</P>
+</DIV>
+<DIV id="id_2">
+<DIV id="id_2_1">
+<P class="p16 ft2">18</P>
+</DIV>
+<DIV id="id_2_2">
+<P class="p104 ft2">Regeringen anser att frågor kopplade till det digitala och flexibla arbetslivet är fortsatt aktuella för det kommande arbetsmiljöarbetet. När fler arbetar hemifrån behöver arbetsmiljön belysas ur perspektivet att arbetsplatsen är rörlig liksom vilka konsekvenser en dålig utformning av arbetsplatser får för enskilda individer, både utifrån fysiska och psykosociala aspekter. Regeringen har beslutat att ge Myndigheten för arbetsmiljökunskap i uppdrag att kartlägga och analysera förutsättningar som finns för arbete hemifrån under pandemin, samt kartlägga och analysera hur arbete hemifrån påverkar arbetstagarnas arbetsmiljö (A2020/02549). Vidare vägledning behövs om hur arbetsgivaren kan leva upp till arbetsmiljöansvaret även i en arbetsmiljö i hemmet, samt hur digitala verktyg påverkar arbetsmiljön.</P>
+<P class="p105 ft14"><SPAN class="ft12">4.5</SPAN><SPAN class="ft13">Det blir allt viktigare att belysa hur den kognitiva arbetsmiljön påverkar oss</SPAN></P>
+<P class="p97 ft2">Arbetslivet och sättet att arbeta på har förändrats de senaste decennierna. Dagens arbetsliv ställer allt större krav på kognitiva förmågor. Vi arbetar alltmer med information. Inte bara i tjänstemannayrken, utan även inom till exempel industri, hantverk och sjukvård. Många arbetsmoment har blivit mer komplicerade och det behövs mer tid för att lösa krävande uppgifter. Vissa arbeten som tidigare har varit fysiskt krävande har blivit mer kognitivt krävande och den digitala arbetsmiljön har utvecklats. Frågor om den kognitiva arbetsmiljön och digital arbetsmiljö behöver belysas i arbetsmiljöarbetet. Regeringen är angelägen om att arbetsmiljömyndigheterna arbetar med dessa frågor framöver.</P>
+<P class="p106 ft2">Kognitiva belastningar kan finnas både fysiskt på arbetsplatsen och i själva arbetsuppgiften. Det kan exempelvis handla om yttre störningar såsom buller och småprat eller att snabbt växla mellan olika typer av arbetsuppgifter. Att kastas mellan olika krävande arbetsuppgifter eller att snabbt behöva sätta sig in i problem och prioritera mellan uppgifter ställer krav på koncentration och problemlösningsförmåga.</P>
+<P class="p107 ft2">Människan är bra på att lösa komplexa problem men arbetsminnets kapacitet är begränsad och koncentrationen försvåras av avbrott och oväsen. Den kognitiva arbetsmiljön, det vill säga hur hjärnan påverkas under arbetsdagen, spelar en allt större roll i arbetslivet. Det ställer nya krav på arbetsmiljöarbetet. Frågan blir särskilt viktig när arbetstagare har eller drabbas av kognitiva problem, till exempel i form av minnesproblem eller uppmärksamhetssvårigheter. Det faktum att många någon gång i livet drabbas av kognitiva problem, övergående eller permanenta, ger inte minst frågan aktualitet. När yrkesverksamma personer har eller drabbas av kognitiva funktionsnedsättningar ställs ofta krav på arbetsplatsens utformning, arbetets innehåll och arbetstid. Åtgärder som gynnar personer med kognitiva funktionsnedsättningar kan som regel också underlätta arbetet för andra anställda.</P>
+<P class="p108 ft4">I takt med att tekniken utvecklas ställs det även nya krav på arbetstagares förmåga att förstå och använda den nya tekniken. Känslan av att teknik</P>
+</DIV>
+</DIV>
+</DIV>
+<DIV id="page_19">
+
+
+<P class="p50 ft2">introduceras och förändras i ett snabbare tempo än vad arbetstagare klarar Skr. 2020/21:92 av kan leda till teknikstress och utgör en arbetsmiljörisk. Frågan om</P>
+<P class="p51 ft2">teknikstress har aktualiserats med anledning av att fler arbetar hemifrån och på distans. Produktivitetsvinster från ny teknologi kan också dra upp arbetstempot och leda till ökad arbetsbelastning för arbetstagare. Samtidigt medför ny teknik att yrken och arbetsuppgifter utvecklas och att mer rutinartade uppgifter kan utföras med avancerat tekniskt stöd. På så vis frigörs arbetstid som kan ägnas mer avancerade och utvecklande uppgifter. Teknikutvecklingen behöver komma såväl företag som medarbetare till gagn och framtidens arbetsmiljöarbete behöver anpassas till nya förutsättningar och utmaningar.</P>
+<P class="p109 ft14"><SPAN class="ft14">4.6</SPAN><SPAN class="ft13">Kränkande särbehandling, trakasserier och mobbning får inte accepteras på en arbetsplats</SPAN></P>
+<P class="p55 ft2">Alla arbetsgivare ska ha ett förebyggande och främjande arbete för att motverka diskriminering inom en verksamhet och på annat sätt verka för lika rättigheter och möjligheter oavsett kön, könsöverskridande identitet eller uttryck, etnisk tillhörighet, religion eller annan trosuppfattning, funktionsnedsättning, sexuell läggning eller ålder.</P>
+<P class="p9 ft2">Trakasserier och sexuella trakasserier i arbetslivet är allvarliga problem. Berättelserna från <NOBR>metoo-uppropet</NOBR> synliggjorde att diskriminering och sexuella trakasserier förekommer i många branscher och i alla delar av samhället. I Arbetsmiljöverkets arbetsmiljöundersökning 2019 uppgav närmare en av fyra unga kvinnor att de hade varit utsatta för sexuella trakasserier i arbetet. I samband med <NOBR>metoo-uppropen</NOBR> blev det också tydligt att det saknas kunskap om de regelverk och krav som ställs på arbetsgivare att förebygga och motverka sexuella trakasserier. Arbetsmiljöverket och Diskrimineringsombudsmannen har genomfört särskilda kunskapshöjande insatser gällande arbetet mot sexuella trakasserier. Det är avgörande att det finns ett förebyggande arbetsmiljöarbete och att arbetsgivare känner till vad de har för ansvar och arbetar aktivt för att motverka sådan behandling.</P>
+<P class="p101 ft2">Kränkande särbehandling och trakasserier får inte accepteras på en arbetsplats. Regeringen har därför tillsatt en utredning som ser över behovet av åtgärder för att säkerställa efterlevnad av bestämmelserna om aktiva åtgärder i diskrimineringslagen (dir. 2018:99). Utredaren ska även bedöma om det finns behov av skydd för arbetstagare vid diskriminering, trakasserier och hot av personer som inte är anställda på arbetsplatsen, såsom kunder, patienter, passagerare eller brukare (dir. 2020:102). Regeringen har också tillsatt en utredning som ska föreslå hur ILO:s konvention (nr 190) om avskaffande av våld och trakasserier ska genomföras i svensk rätt (dir. 2020:98). Sverige var pådrivande för att konventionen skulle röstas igenom på ILO:s arbetskonferens 2019. Syftet med konventionen är att motverka våld och trakasserier samt könsrelaterat våld och könsrelaterade trakasserier i arbetslivet. Konventionen inkluderar även våld i hemmet och dess påverkan i arbetslivet.</P>
+<P class="p110 ft2">En annan fråga är hur diskriminering påverkar olika gruppers villkor i</P>
+<P class="p59 ft23">arbetslivet. Inom ramen för arbetet med den nationella planen mot rasism,</P>
+<P class="p15 ft2">19</P>
+</DIV>
+<DIV id="page_20">
+
+
+<DIV id="id_1">
+<P class="p44 ft2">Skr. 2020/21:92 liknande former av fientlighet och hatbrott konstaterar regeringen att det krävs mer kunskap om hur rasism och diskriminering påverkar olika gruppers livsvillkor inom ett brett spektrum av områden (Ku2016/02629). Regeringen har bland annat därför gett länsstyrelserna i uppdrag att öka kunskap och medvetenhet bland aktörer på arbetsmarknaden om rasism (A2020/01514).</P>
+</DIV>
+<DIV id="id_2">
+<DIV id="id_2_1">
+<P class="p16 ft2">20</P>
+</DIV>
+<DIV id="id_2_2">
+<P class="p111 ft2">Regeringen anser att det också är viktigt att lyfta frågan om mobbning i arbetslivet och att det motverkas. På arbetsplatser där det förekommer mobbning är det inte bara den mobbade som drabbas. Även andra anställda på arbetsplatsen mår ofta dåligt och har en högre sjukfrånvaro. Med ökad användning av digitala medier i arbetslivet har digitala kränkningar och nätmobbning blivit vanligare. Ingen ska behöva arbeta i en arbetsmiljö där kränkande särbehandling och trakasserier förekommer, varken digitalt eller på den fysiska arbetsplatsen. Regeringen ser ett behov av att frågan om mobbning i arbetslivet uppmärksammas och att åtgärder vidtas för att motverka förekomsten av mobbning på arbetsplatser.</P>
+<P class="p112 ft1"><SPAN class="ft1">5</SPAN><SPAN class="ft10">Ett tryggt arbetsliv</SPAN></P>
+<P class="p113 ft2">Ingen ska riskera liv eller hälsa på grund av jobbet. Alla har rätt till en trygg och säker arbetsmiljö. Ett systematiskt arbetsmiljöarbete är avgörande för att förebygga ohälsa och olycksfall, som i värsta fall leder till död. Kunskap om arbetsmiljö är viktigt för att minska arbetsrelaterade olyckor och ohälsa. En god säkerhetskultur innebär att alla på arbetsplatsen är medvetna om de risker som finns och har både kunskap och vilja att minska dem. Inget annat än en nollvision kan gälla för dödsfall till följd av arbete. Regeringen utvidgar sin nollvision mot dödsolyckor från en målsättning om att ingen ska dö på jobbet till att ingen ska dö till följd av arbete. Den nya nollvisionen innefattar också annan arbetsrelaterad dödlighet på grund av till exempel längre sjukdom, cancer eller suicid. Farliga ämnen på arbetsplatserna behöver begränsas och hanteras på rätt sätt. Frågor om hot och våld i arbetslivet behöver tas på allvar. Likaså behöver utvecklingen med ökad stress i arbetslivet brytas. Regeringen kommer därför att prioritera frågor om organisatorisk och social arbetsmiljö under de kommande åren. Arbetsmiljöreglerna behöver också ses över ur ett jämställdhetsperspektiv. En fråga som behöver beaktas är om det behövs sanktionsavgifter på fler områden än idag.</P>
+<P class="p114 ft14"><SPAN class="ft12">5.1</SPAN><SPAN class="ft13">Regeringen utvidgar sin nollvision mot dödsolyckor till att ingen ska dö till följd av arbete</SPAN></P>
+<P class="p115 ft2">Att bekämpa dödsolyckor i arbetet är en viktig prioritering för regeringen. Det dör ungefär en person varje vecka till följd av en olycka i sitt arbete i Sverige. Arbetet mot dödsolyckor i arbetslivet ska fortsätta med berörda myndigheter, representanter för arbetsmarknadens parter och andra</P>
+</DIV>
+</DIV>
+</DIV>
+<DIV id="page_21">
+
+
+<P class="p116 ft2">organisationer i de branscher som är värst drabbade av dödsolyckor. Skr. 2020/21:92 Statsrådens gemensamma arbete mot dödsolyckor i arbetslivet som</P>
+<P class="p117 ft2">inleddes under föregående strategiperiod ska fortsätta utvecklas. Samtidigt är det viktigt att inte begränsa ansträngningarna endast till specifika branscher utan också fokusera på de förebyggande insatserna mot typen av olyckshändelser som vanligast leder till död. Ett återkommande mönster för de händelser som leder till dödsolyckor är att det har skett en eller flera avvikelser från hur man vanligen agerar och att säkerhetsåtgärder samtidigt har saknats eller varit bristfälliga. Med kunskap och ett systematiskt arbetsmiljöarbete kan de allra flesta av dödsolyckorna förebyggas. Samverkan med skyddsombud är viktigt för att minska risken för allvarliga olyckor. Att arbeta med attityder och värderingar är minst lika viktigt för att minska dödsolyckor i arbetet.</P>
+<P class="p118 ft2">Ingen ska behöva dö på sitt arbete, men ingen ska heller behöva dö av sitt arbete. Regeringen utvidgar därför sin nollvision mot dödsolyckor till att ingen ska behöva dö till följd av sitt arbete. Det handlar om en nollvision mot arbetsplatsolyckor som leder till död men också mot arbetsrelaterad dödlighet på grund av till exempel längre sjukdom, cancer och suicid. Att vidga nollvisionen är viktigt ur ett jämställdhetsperspektiv.</P>
+<P class="p119 ft2">Varje år dör tusentals människor i Sverige i förtid på grund av arbetsrelaterade sjukdomar. Den arbetsrelaterade dödligheten beror både på gårdagens och dagens arbetsmiljöer. Många arbetsrelaterade dödsfall beror på att personer är utsatta för låga eller måttliga risker under en mycket lång tid, medan antalet personer som är utsatta för de allra högsta riskerna är ganska få. Ofta sker dödsfallen en längre tid efter att arbetstagaren varit på den farliga arbetsplatsen. Många av dagens arbetsrelaterade dödsfall är effekten av framför allt tidigare asbestanvändning.</P>
+<P class="p120 ft2">Forskare bedömer att dödsfall orsakade av arbetsrelaterad stress väntas skörda långt fler liv i framtiden. Arbetsrelaterad stress är ett stort arbetsmiljöproblem. Det är något som regeringen tar på största allvar. Utvecklingen med ökad stress i arbetslivet måste brytas. Forskningen visar att det går att minska den arbetsrelaterade dödligheten genom förebyggande åtgärder på arbetsplatsen och tillämpning av ny kunskap. Regeringen anser att kunskapen om den stressrelaterade ohälsan därför behöver öka. Inte minst kunskap om kostnader för den stressrelaterade sjukfrånvaron och kunskap om annan frånvaro på grund av arbetsrelaterad psykisk ohälsa och effektiva åtgärder för återgång i arbete.</P>
+<P class="p120 ft2">Arbetsrelaterade suicid ingår i regeringens breddade nollvision om att ingen ska dö till följd av arbete. Det behövs mer kunskap om arbetsrelaterade suicid i Sverige. Psykisk ohälsa är en stor folkhälsoutmaning och en prioriterad fråga av regeringen. Regeringen avser att ta fram en strategi för psykisk hälsa och suicidprevention. Regeringen har därför bett ett tjugotal berörda myndigheter att inkomma med underlag inför en kommande strategi på området (S2020/06171). Arbetsmiljöverket och Myndigheten för arbetsmiljökunskap är med i det arbetet.</P>
+<P class="p121 ft2">21</P>
+</DIV>
+<DIV id="page_22">
+
+
+<DIV>
+<DIV id="id_1">
+<P class="p122 ft2">Skr. 2020/21:92</P>
+<P class="p17 ft2">22</P>
+</DIV>
+<DIV id="id_2">
+<P class="p16 ft14"><SPAN class="ft12">5.2</SPAN><SPAN class="ft13">En god arbetsmiljö är en jämställdhetsfråga</SPAN></P>
+<P class="p123 ft2">Idag finns de flesta arbetande kvinnorna i Sverige inom offentlig sektor, där omsorg om människor står i fokus. Dessa välfärdsyrken är överrepresenterade i sjukskrivningar på grund av stressrelaterad ohälsa. Vård- och omsorgssektorn utmärker sig när det gäller ohälsa som en följd av organisatoriska och sociala faktorer i arbetsmiljön, exempelvis obalans mellan krav och resurser i arbetet, hög arbetsbelastning och små möjligheter att påverka arbetets utförande. Det kan också handla om dåliga förutsättningar och resurser för chefer inom äldreomsorgen med många anställda per chef och hög personalomsättning. Arbetsmiljöverkets inspektionsinsats <NOBR>2017–2019</NOBR> inom äldreomsorgen visar att nära nio av tio av de inspekterade arbetsplatserna har arbetsmiljöbrister, främst när det gäller det grundläggande systematiska arbetsmiljöarbetet.</P>
+<P class="p124 ft2">För att få till en långsiktig förändring och bryta ohälsan liksom arbetsmiljöproblemen som finns inom vård- och omsorgssektorn har Arbetsmiljöverket förändrat sitt sätt att inspektera dessa verksamheter. Det är fullmäktige och nämnd som är den yttersta arbetsgivarrepresentanten för kommuner och regioner och styrelser för privata välfärdsföretag. Numera genomför Arbetsmiljöverket sina inspektioner på dessa arbetsplatser genom att de först träffar ledningen och därefter inspekterar arbetsplatser. Regeringen anser att det är viktigt att Arbetsmiljöverket fortsätter att utöva och utveckla tillsynen av arbetsmiljön inom välfärden.</P>
+<P class="p125 ft2">Kostnader för ohälsa och utebliven produktion är höga, både för individ och för samhälle. Ohälsa ökar hos både kvinnor och män, även om kvinnor är sjukskrivna i betydligt högre utsträckning än män. Ökningen är framför allt relaterad till stress och brister i den organisatoriska och sociala arbetsmiljön i kvinnodominerade sektorer. Andra förklaringar till kvinnors ohälsa är att kvinnor tar större ansvar för obetalt hem- och omsorgsarbete. Kunskapen om den stressrelaterade ohälsan i relation till det obetalda hem- och omsorgsarbetet behöver därmed också öka. Jämställdhetsmyndigheten har därför fått i uppdrag att kartlägga forskning om samband mellan obetalt arbete, familjeliv och sjukfrånvaro. Myndigheten ska också genomföra en förstudie om ojämställdhet i arbetslivet och kvinnors psykiska hälsa (A2020/02204).</P>
+<P class="p36 ft2">Regeringen anser att de värderingar och normer som ligger bakom ojämställdheten när det gäller arbetsvillkor och arbetsmiljö behöver ifrågasättas och ändras. Arbetsmiljöverket har exempelvis visat att könsnormer och en machokultur på arbetsplatser påverkar attityder till säkerhet och risker i arbetsmiljön. En god arbetsmiljö är viktig för att kvinnor och män ska ha goda arbetsvillkor och möjlighet till utveckling i arbetet. Arbetsmiljöverket har sedan flera år tillbaka ett särskilt uppdrag att jämställdhetsintegrera sin verksamhet. Att ta fram regler och genomföra inspektioner som synliggör kvinnors och mäns olika förutsättningar i arbetsmiljön är avgörande för att uppnå de jämställdhetspolitiska målen i Sverige (prop. 2008/09:1, bet. 2008/09:AU1, rskr. 2008/09:115) och målet för arbetslivspolitiken om goda arbetsvillkor och möjlighet till utveckling i arbetet för både kvinnor och män (prop. 2011/12:1 utg.omr. 14 avsnitt 4.3, bet. 2011/12:AU2, rskr. 2011/12:88). Regeringen är angelägen om att arbetet fortsätter och prioriteras.</P>
+</DIV>
+</DIV>
+</DIV>
+<DIV id="page_23">
+
+
+<TABLE cellpadding=0 cellspacing=0 class="t12">
+<TR>
+	<TD class="tr10 td26"><SPAN class="p77 ft14">5.3</SPAN> </TD>
+	<TD class="tr10 td32"><SPAN class="p23 ft14">Arbetsmiljöreglerna bör ses över ur ett</SPAN> </TD>
+	<TD class="tr10 td33"><SPAN class="p18 ft2">Skr. 2020/21:92</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr11 td26"><SPAN class="p18 ft8">&nbsp;</SPAN> </TD>
+	<TD class="tr11 td32"><SPAN class="p23 ft14">jämställdhetsperspektiv</SPAN> </TD>
+	<TD class="tr11 td33"><SPAN class="p18 ft8">&nbsp;</SPAN> </TD>
+</TR>
+</TABLE>
+<P class="p126 ft2">Under åren <NOBR>2011–2016</NOBR> hade Arbetsmiljöverket ett regeringsuppdrag om kvinnors arbetsmiljö. En slutsats av uppdraget är att arbetsmiljön för kvinnor överlag är sämre än vad den är för män (Arbetsmiljöverkets rapport 2017:6). Bristen på jämställdhet i arbetsmiljön beror bland annat på att resurserna inom de kvinnodominerade yrkena är små i förhållande till arbetsbelastningen och att det förebyggande arbetsmiljöarbetet i många fall är svagt. Det finns också skillnader i hur man ser på krav på kunskap och utbildning. En truckförare behöver utbildning innan det utfärdas ett tillstånd för att köra trucken, medan hemtjänstpersonal förväntas kunna förflytta och stödja brukare utan intyg eller krav på ergonomiutbildning.</P>
+<P class="p127 ft2">Arbetslivet ser inte likadant ut som det gjorde när arbetsmiljölagen trädde i kraft 1978. Då stod industrin för en större del av den svenska sysselsättningen. Fler hade manuella arbeten, tillsvidareanställningar och en större del av arbetskraften var män. Det innebär att arbetsmiljölagen har ett större skydd mot olyckor än mot sjukdomar och är mer inriktad på arbetsmiljön i industrin än i till exempel tjänste- och välfärdssektorn. Kvinnor och män arbetar i stor utsträckning inom olika branscher och olika yrken, vilket innebär olika villkor och arbetsmiljörisker. De olika riskbilderna för kvinnor och män förklaras till stor del av att kvinnor och män arbetar i olika yrken. Men det finns också andra faktorer som gör att kvinnor och män inte har samma skydd i arbetsmiljön. Forskning visar att ett förhållningssätt till arbetsmiljö där kön inte beaktas ofta bara synliggör den genomsnittliga manliga arbetaren medan de arbetsvillkor som gäller för kvinnor och män som faller utanför normen osynliggörs. Till exempel skiljer sig den belastning kvinnor och män utsätts för på grund av att verktyg, skyddsutrustning och arbetsstationer är utformade och anpassade för män.</P>
+<P class="p128 ft2">Arbetsmiljöreglerna bör ses över ur ett jämställdhetsperspektiv. Även om arbetsmiljölagen och Arbetsmiljöverkets föreskrifter har uppdaterats under åren anser regeringen att det finns anledning att se över hur den organisatoriska och sociala arbetsmiljön kan förbättras för att bland annat komma åt de arbetsmiljörisker som finns i kvinnodominerade sektorer. En fråga som behöver beaktas är om det behövs sanktionsavgifter på fler områden än idag.</P>
+<P class="p120 ft2">Forskningen om arbetsmiljön är också mindre utvecklad i de sektorer där flest kvinnor arbetar. Vid prövning av rätten till ersättning från arbetsskadeförsäkringen finns behov av kunskap om arbetsmiljöns betydelse för uppkomst av sjukdom. Det är fortsatt angeläget med forskning om riskfaktorer som är särskilt förekommande i kvinnodominerade arbetsmiljöer, samt vilka faktorer i arbetsmiljön som orsakar de sjukdomar som kvinnor typiskt sett söker livränta för. Regeringen anser också att det finns ett behov av att se över arbetsskadeförsäkringen, inte minst ur ett jämställdhetsperspektiv.</P>
+<P class="p129 ft2">23</P>
+</DIV>
+<DIV id="page_24">
+
+
+<DIV id="id_1">
+<TABLE cellpadding=0 cellspacing=0 class="t13">
+<TR>
+	<TD class="tr1 td34"><SPAN class="p18 ft2">Skr. 2020/21:92</SPAN> </TD>
+	<TD class="tr1 td35"><SPAN class="p130 ft14">5.4</SPAN> </TD>
+	<TD class="tr1 td36"><SPAN class="p32 ft14">Frågor om organisatorisk och social arbetsmiljö</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr11 td34"><SPAN class="p18 ft8">&nbsp;</SPAN> </TD>
+	<TD class="tr11 td35"><SPAN class="p18 ft8">&nbsp;</SPAN> </TD>
+	<TD class="tr11 td36"><SPAN class="p32 ft14">ska prioriteras de närmaste åren</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr12 td34"><SPAN class="p18 ft8">&nbsp;</SPAN> </TD>
+	<TD colspan=2 class="tr12 td37"><SPAN class="p130 ft2">En del av sjukfrånvaron är relaterad till organisatoriska och sociala</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr3 td34"><SPAN class="p18 ft8">&nbsp;</SPAN> </TD>
+	<TD colspan=2 class="tr3 td37"><SPAN class="p130 ft2">faktorer i arbetsmiljön. De behöver hanteras på organisatorisk nivå och</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr5 td34"><SPAN class="p18 ft8">&nbsp;</SPAN> </TD>
+	<TD colspan=2 class="tr5 td37"><SPAN class="p130 ft2">inte på individnivå. Hela organisationen, på alla nivåer, ska se till att</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr3 td34"><SPAN class="p18 ft8">&nbsp;</SPAN> </TD>
+	<TD colspan=2 class="tr3 td37"><SPAN class="p130 ft2">kraven i arbetet balanseras med rätt sorts resurser. Arbetsmiljöverkets</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr3 td34"><SPAN class="p18 ft8">&nbsp;</SPAN> </TD>
+	<TD colspan=2 class="tr3 td37"><SPAN class="p130 ft2">föreskrifter och allmänna råd om organisatorisk och social arbetsmiljö</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr5 td34"><SPAN class="p18 ft8">&nbsp;</SPAN> </TD>
+	<TD colspan=2 class="tr5 td37"><SPAN class="p130 ft2">(AFS 2015:4) är ett steg i riktning mot att synliggöra och åtgärda problem</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr3 td34"><SPAN class="p18 ft8">&nbsp;</SPAN> </TD>
+	<TD colspan=2 class="tr3 td37"><SPAN class="p130 ft2">i dessa delar av arbetsmiljön. Arbetsmiljöverkets samverkan med</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr3 td34"><SPAN class="p18 ft8">&nbsp;</SPAN> </TD>
+	<TD colspan=2 class="tr3 td37"><SPAN class="p130 ft2">Försäkringskassan är också viktig för att förebygga ohälsa och effektivt</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr5 td34"><SPAN class="p18 ft8">&nbsp;</SPAN> </TD>
+	<TD colspan=2 class="tr5 td37"><SPAN class="p130 ft2">arbeta med arbetsanpassning och rehabilitering.</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr3 td34"><SPAN class="p18 ft8">&nbsp;</SPAN> </TD>
+	<TD colspan=2 class="tr3 td37"><SPAN class="p131 ft2">Myndigheterna på arbetsmiljöområdet behöver prioritera frågor om</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr3 td34"><SPAN class="p18 ft8">&nbsp;</SPAN> </TD>
+	<TD colspan=2 class="tr3 td37"><SPAN class="p130 ft2">organisatorisk och social arbetsmiljö under de kommande åren. Frågorna</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr5 td34"><SPAN class="p18 ft8">&nbsp;</SPAN> </TD>
+	<TD colspan=2 class="tr5 td37"><SPAN class="p130 ft2">behöver också belysas ur ett jämställdhetsperspektiv. Arbetsmiljöproblem</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr3 td34"><SPAN class="p18 ft8">&nbsp;</SPAN> </TD>
+	<TD colspan=2 class="tr3 td37"><SPAN class="p130 ft2">som relaterar till organisatoriska och sociala faktorer på arbetsplatsen</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr3 td34"><SPAN class="p18 ft8">&nbsp;</SPAN> </TD>
+	<TD colspan=2 class="tr3 td37"><SPAN class="p130 ft2">behöver hanteras med samma allvarsamhet som de fysiska riskerna på</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr5 td34"><SPAN class="p18 ft8">&nbsp;</SPAN> </TD>
+	<TD colspan=2 class="tr5 td37"><SPAN class="p130 ft2">arbetsplatsen. Det har gått mer än fem år sedan Arbetsmiljöverkets</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr3 td34"><SPAN class="p18 ft8">&nbsp;</SPAN> </TD>
+	<TD colspan=2 class="tr3 td37"><SPAN class="p130 ft2">föreskrifter och allmänna råd om organisatorisk och social arbetsmiljö</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr3 td34"><SPAN class="p18 ft8">&nbsp;</SPAN> </TD>
+	<TD colspan=2 class="tr3 td37"><SPAN class="p130 ft2">trädde i kraft. Föreskrifterna ställer bland annat krav på hur ohälsosam</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr5 td34"><SPAN class="p18 ft8">&nbsp;</SPAN> </TD>
+	<TD colspan=2 class="tr5 td37"><SPAN class="p130 ft2">arbetsbelastning och kränkande särbehandling förebyggs och hanteras.</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr3 td34"><SPAN class="p18 ft8">&nbsp;</SPAN> </TD>
+	<TD colspan=2 class="tr3 td37"><SPAN class="p130 ft4">Alltför mycket arbete eller för hög arbetstakt och kränkande särbehandling</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr3 td34"><SPAN class="p18 ft8">&nbsp;</SPAN> </TD>
+	<TD colspan=2 class="tr3 td37"><SPAN class="p130 ft2">är exempel på problem i den organisatoriska och sociala arbetsmiljön.</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr5 td34"><SPAN class="p18 ft8">&nbsp;</SPAN> </TD>
+	<TD colspan=2 class="tr5 td37"><SPAN class="p130 ft2">Föreskrifterna är viktiga för att bryta utvecklingen mot ökad arbets-</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr3 td34"><SPAN class="p18 ft8">&nbsp;</SPAN> </TD>
+	<TD colspan=2 class="tr3 td37"><SPAN class="p130 ft2">relaterad ohälsa på grund av dessa faktorer. De behöver följas upp, och</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr3 td34"><SPAN class="p18 ft8">&nbsp;</SPAN> </TD>
+	<TD colspan=2 class="tr3 td37"><SPAN class="p130 ft2">resultatet av föreskrifterna ska utvärderas inom de närmaste åren för att</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr5 td34"><SPAN class="p18 ft8">&nbsp;</SPAN> </TD>
+	<TD colspan=2 class="tr5 td37"><SPAN class="p130 ft2">kunna utveckla arbetet liksom för att se om föreskrifterna fått den effekt</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr3 td34"><SPAN class="p18 ft8">&nbsp;</SPAN> </TD>
+	<TD colspan=2 class="tr3 td37"><SPAN class="p130 ft2">som har avsetts.</SPAN> </TD>
+</TR>
+</TABLE>
+</DIV>
+<DIV id="id_2">
+<DIV id="id_2_1">
+<P class="p16 ft2">24</P>
+</DIV>
+<DIV id="id_2_2">
+<P class="p16 ft14">5.5 Hot och våld i arbetslivet behöver tas på allvar</P>
+<P class="p132 ft2">Ingen ska behöva utsättas för hot eller våld, varken i hemmet eller på jobbet. Under <NOBR>metoo-uppropen</NOBR> blev det tydligt att arbete återstår för att få slut på hot, våld och även sexuella trakasserier i arbetslivet. Det gäller när anställda utsätts av kollegor eller en chef, men även av personer som inte är anställda på arbetsplatsen. Enligt Arbetsmiljöverkets arbetsmiljöundersökning 2019 hade omkring en av tio män och närmare två av tio kvinnor varit utsatta för våld eller hot om våld i arbetet minst en gång under det senaste året. Andelen män respektive kvinnor som varit utsatta för våld har legat på samma nivå under hela perioden <NOBR>2011–2019.</NOBR> Regeringen har tillsatt en utredning som bland annat ska bedöma om det finns behov av skydd för arbetstagare som diskrimineras, trakasseras eller hotas av personer som inte är anställda på arbetsplatsen, såsom kunder, patienter, passagerare eller brukare (dir. 2020:102).</P>
+<P class="p133 ft2">Oron för att bli utsatt för hot och våld på arbetet innebär en psykisk belastning som också påverkar arbetsmiljön negativt. Det ökade arbetet hemifrån under pandemin har också inneburit en ökad risk för våld, liksom för hedersrelaterat våld och förtryck. Den arbetstagare som är utsatt kan också få svårare att söka stöd.</P>
+</DIV>
+</DIV>
+</DIV>
+<DIV id="page_25">
+
+
+<P class="p134 ft2">Förekomsten av hot och våld i arbetslivet har visat sig vara större inom Skr. 2020/21:92 vissa branscher på arbetsmarknaden. Hot och våld är vanligt förekommande i exempelvis skola, hälso- och sjukvård samt omsorg.</P>
+<P class="p135 ft2">Andra yrken och branscher som visat sig vara särskilt utsatta är till exempel yrken som bevakar lag och säkerhet i samhället samt anställda inom detaljhandeln. Under senare år har det kommit rapporter om att allt fler myndighetsanställda blir utsatta för hot och våld i sitt arbete.</P>
+<P class="p136 ft2">Regeringen anser att det är helt oacceptabelt att de som har till uppgift att hjälpa och skydda andra i samhället utsätts för våld och hot. Det är inte enbart ett arbetsmiljöproblem utan i förlängningen även ett angrepp på det demokratiska samhället. Regeringen har vidtagit flera åtgärder som innebär ett generellt sett skärpt straffrättsligt skydd mot våld, hot och trakasserier. Regeringen har också stärkt skyddet särskilt för offentliganställda. En konvention och tillhörande rekommendationen om avskaffande av våld och trakasserier har antagits av ILO och en särskild utredare har fått i uppdrag att föreslå hur den ska genomföras i svensk rätt (dir. 2020:98).</P>
+<P class="p137 ft14"><SPAN class="ft14">5.6</SPAN><SPAN class="ft13">Friska arbetsplatser hanterar farliga ämnen på ett säkert sätt</SPAN></P>
+<P class="p138 ft2">Varje år orsakar avgaser, damm och kemikalier på jobbet olyckor, sjukdomar och i värsta fall dödsfall. Även om utveckling av ny teknik och arbetssätt reducerat många kemiska risker i arbetslivet så är kemikalier ett fortsatt allvarligt arbetsmiljöproblem. Farliga kemikalier och kemiska arbetsmiljörisker förekommer på nästan alla arbetsplatser. Många gånger vet vi inte vilka ämnen vi utsätts för. Kunskapen om vilka nanomaterial som används i arbetslivet, och hur risker kopplade till dem ska hanteras, är fortsatt låg. Information på svenska om nanomaterial bör finnas tillgänglig. Kemiska ämnen på huden är ett annat exempel på problem som arbetstagare utsätts för.</P>
+<P class="p120 ft2">Farliga ämnen kan orsaka alltifrån mindre irritationer till livshotande tillstånd som cancer. För att minska risken att arbetstagare drabbas av cancer har det skett flera revideringar av <NOBR>EU-direktiven</NOBR> som begränsar farliga ämnen på arbetsplatserna. Sverige har höga skyddsnivåer och det är viktigt att den lägsta nivån höjs inom EU. Det bidrar till ett högre skydd för arbetstagare och en rättvisare konkurrens mellan företag som verkar inom EU. Medlemsstaternas rätt att ha en högre skyddsnivå än de gränsvärden som beslutas på <NOBR>EU-nivå</NOBR> ska värnas och respekteras. Arbetet med att utveckla skyddet för arbetstagare fortsätter även framöver. Regeringen ser positivt på att gränsvärden för farliga ämnen uppdateras i enlighet med den vetenskapliga utvecklingen på området. Sverige ska fortsatt ha höga skyddsnivåer mot farliga ämnen på arbetsplatserna. Det nationella arbetet med att begränsa kemiska risker i arbetslivet måste fortsätta samtidigt som arbetet pågår på <NOBR>EU-nivå.</NOBR></P>
+<P class="p139 ft2">25</P>
+</DIV>
+<DIV id="page_26">
+
+
+<TABLE cellpadding=0 cellspacing=0 class="t14">
+<TR>
+	<TD class="tr1 td34"><SPAN class="p18 ft2">Skr. 2020/21:92</SPAN> </TD>
+	<TD class="tr1 td35"><SPAN class="p130 ft14">5.7</SPAN> </TD>
+	<TD class="tr1 td36"><SPAN class="p32 ft14">Arbetsmiljökunskap behöver stärkas både inför</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr11 td34"><SPAN class="p18 ft8">&nbsp;</SPAN> </TD>
+	<TD class="tr11 td35"><SPAN class="p18 ft8">&nbsp;</SPAN> </TD>
+	<TD class="tr11 td36"><SPAN class="p32 ft14">och under arbetslivet</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr12 td34"><SPAN class="p18 ft8">&nbsp;</SPAN> </TD>
+	<TD colspan=2 class="tr12 td37"><SPAN class="p130 ft2">Kunskap och attityder är avgörande för att förebygga ohälsa. Det är</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr3 td34"><SPAN class="p18 ft8">&nbsp;</SPAN> </TD>
+	<TD colspan=2 class="tr3 td37"><SPAN class="p130 ft2">otillräckligt att endast några få experter har goda arbetsmiljökunskaper när</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr5 td34"><SPAN class="p18 ft8">&nbsp;</SPAN> </TD>
+	<TD colspan=2 class="tr5 td37"><SPAN class="p130 ft2">arbetsmiljöarbetet ska integreras i arbetsplatsernas dagliga verksamhet.</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr3 td34"><SPAN class="p18 ft8">&nbsp;</SPAN> </TD>
+	<TD colspan=2 class="tr3 td37"><SPAN class="p130 ft2">Kunskapen behövs hos många fler. Alla chefer, arbetsledare, skydds-</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr3 td34"><SPAN class="p18 ft8">&nbsp;</SPAN> </TD>
+	<TD colspan=2 class="tr3 td37"><SPAN class="p130 ft2">ombud och arbetstagare behöver goda kunskaper om hur arbetsmiljö-</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr5 td34"><SPAN class="p18 ft8">&nbsp;</SPAN> </TD>
+	<TD colspan=2 class="tr5 td37"><SPAN class="p130 ft2">arbetet ska utföras då alla har en roll i arbetsmiljöarbetet. Det är av vikt att</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr3 td34"><SPAN class="p18 ft8">&nbsp;</SPAN> </TD>
+	<TD colspan=2 class="tr3 td37"><SPAN class="p130 ft4">skyddsombud får utbildning för att kunna genomföra sitt uppdrag på bästa</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr3 td34"><SPAN class="p18 ft8">&nbsp;</SPAN> </TD>
+	<TD colspan=2 class="tr3 td37"><SPAN class="p130 ft4">sätt. För många arbetsplatser behövs ett kunskapsstöd i arbetsmiljöarbetet</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr5 td34"><SPAN class="p18 ft8">&nbsp;</SPAN> </TD>
+	<TD colspan=2 class="tr5 td37"><SPAN class="p130 ft2">av en extern resurs. Företagshälsovården har en viktig roll att fylla i dessa</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr3 td34"><SPAN class="p18 ft8">&nbsp;</SPAN> </TD>
+	<TD colspan=2 class="tr3 td37"><SPAN class="p130 ft2">avseenden, liksom parternas kunskapsorganisationer.</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr3 td34"><SPAN class="p18 ft8">&nbsp;</SPAN> </TD>
+	<TD colspan=2 class="tr3 td37"><SPAN class="p131 ft2">Att vara ny på en arbetsplats innebär ofta en betydligt större risk för att</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr5 td34"><SPAN class="p18 ft8">&nbsp;</SPAN> </TD>
+	<TD colspan=2 class="tr5 td37"><SPAN class="p130 ft2">råka ut för olycksfall på jobbet, både för unga och äldre. Anmälda</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr3 td34"><SPAN class="p18 ft8">&nbsp;</SPAN> </TD>
+	<TD colspan=2 class="tr3 td37"><SPAN class="p130 ft2">arbetsolyckor bland unga har ökat kraftigt de senaste åren. Flest</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr3 td34"><SPAN class="p18 ft8">&nbsp;</SPAN> </TD>
+	<TD colspan=2 class="tr3 td37"><SPAN class="p130 ft4">anmälningar görs av unga män i åldern <NOBR>16–24</NOBR> år. En bristande introduktion</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr5 td34"><SPAN class="p18 ft8">&nbsp;</SPAN> </TD>
+	<TD colspan=2 class="tr5 td37"><SPAN class="p130 ft2">och okunskap om arbetsmiljöns betydelse kan vara några förklaringar till</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr3 td34"><SPAN class="p18 ft8">&nbsp;</SPAN> </TD>
+	<TD colspan=2 class="tr3 td37"><SPAN class="p130 ft4">fler olyckor bland unga. I framtiden förutspås fler byta arbeten vilket också</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr3 td34"><SPAN class="p18 ft8">&nbsp;</SPAN> </TD>
+	<TD colspan=2 class="tr3 td37"><SPAN class="p130 ft2">kan bidra till en ökad risk för arbetsolyckor.</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr5 td34"><SPAN class="p18 ft8">&nbsp;</SPAN> </TD>
+	<TD colspan=2 class="tr5 td37"><SPAN class="p131 ft2">I arbeten där det finns stora risker är det extra viktigt att känna till</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr3 td34"><SPAN class="p18 ft8">&nbsp;</SPAN> </TD>
+	<TD colspan=2 class="tr3 td37"><SPAN class="p130 ft2">riskerna i arbetsmiljön och hur man förebygger dessa. Arbetsmiljöverket</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr3 td34"><SPAN class="p18 ft8">&nbsp;</SPAN> </TD>
+	<TD colspan=2 class="tr3 td37"><SPAN class="p130 ft2">har till exempel tagit fram lektionsmaterial för gymnasiala utbildningar</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr5 td34"><SPAN class="p18 ft8">&nbsp;</SPAN> </TD>
+	<TD colspan=2 class="tr5 td37"><SPAN class="p130 ft2">inom byggverksamhet, gröna näringarna och transportsektorn som lärare</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr3 td34"><SPAN class="p18 ft8">&nbsp;</SPAN> </TD>
+	<TD colspan=2 class="tr3 td37"><SPAN class="p130 ft2">kan använda för att öka elevernas medvetenhet om arbetsmiljöfrågor.</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr3 td34"><SPAN class="p18 ft8">&nbsp;</SPAN> </TD>
+	<TD colspan=2 class="tr3 td37"><SPAN class="p130 ft2">Arbetsmiljöfrågor är inte bara viktiga i praktiska yrkesutbildningar, där de</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr5 td34"><SPAN class="p18 ft8">&nbsp;</SPAN> </TD>
+	<TD colspan=2 class="tr5 td37"><SPAN class="p130 ft2">ingår i yrkeskurserna, utan berör alla. Kunskaper om arbetsmiljö</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr3 td34"><SPAN class="p18 ft8">&nbsp;</SPAN> </TD>
+	<TD colspan=2 class="tr3 td37"><SPAN class="p130 ft4">förmedlas också genom undervisning i samhällskunskap både inom grund-</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr3 td34"><SPAN class="p18 ft8">&nbsp;</SPAN> </TD>
+	<TD colspan=2 class="tr3 td37"><SPAN class="p130 ft2">skolan och gymnasieskolan och motsvarande skolformer. För att bland</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr5 td34"><SPAN class="p18 ft8">&nbsp;</SPAN> </TD>
+	<TD colspan=2 class="tr5 td37"><SPAN class="p130 ft2">annat bidra till att minska antal arbetsolyckor och annan ohälsa i</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr3 td34"><SPAN class="p18 ft8">&nbsp;</SPAN> </TD>
+	<TD colspan=2 class="tr3 td37"><SPAN class="p130 ft2">arbetslivet är undervisningen om arbetsmiljö viktig i skolan. Kunskaper,</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr3 td34"><SPAN class="p18 ft8">&nbsp;</SPAN> </TD>
+	<TD colspan=2 class="tr3 td37"><SPAN class="p130 ft2">medvetenhet och attityder hos ledning och andra befattningshavare i en</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr5 td34"><SPAN class="p18 ft8">&nbsp;</SPAN> </TD>
+	<TD colspan=2 class="tr5 td37"><SPAN class="p130 ft2">verksamhet är viktiga för att arbetsmiljön ska få en ökad betydelse.</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr3 td34"><SPAN class="p18 ft8">&nbsp;</SPAN> </TD>
+	<TD colspan=2 class="tr3 td37"><SPAN class="p131 ft2">Goda och säkra arbetssätt som redan finns behöver läras ut genom</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr3 td34"><SPAN class="p18 ft8">&nbsp;</SPAN> </TD>
+	<TD colspan=2 class="tr3 td37"><SPAN class="p130 ft2">fortbildning på olika arbetsplatser. Kunskap om arbetsmiljö och de</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr5 td34"><SPAN class="p18 ft8">&nbsp;</SPAN> </TD>
+	<TD colspan=2 class="tr5 td37"><SPAN class="p130 ft4">rättigheter och skyldigheter som arbetsgivare och arbetstagare har behövs</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr3 td34"><SPAN class="p18 ft8">&nbsp;</SPAN> </TD>
+	<TD colspan=2 class="tr3 td37"><SPAN class="p130 ft2">för att skapa en god grund för en god och säker arbetsmiljö. Myndigheten</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr3 td34"><SPAN class="p18 ft8">&nbsp;</SPAN> </TD>
+	<TD colspan=2 class="tr3 td37"><SPAN class="p130 ft2">för arbetsmiljökunskap har startat ett pilotprojekt i syfte att undersöka</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr5 td34"><SPAN class="p18 ft8">&nbsp;</SPAN> </TD>
+	<TD colspan=2 class="tr5 td37"><SPAN class="p130 ft2">arbetsmiljömedvetenhet och behovet av och möjliga vägar för att utveckla</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr3 td34"><SPAN class="p18 ft8">&nbsp;</SPAN> </TD>
+	<TD colspan=2 class="tr3 td37"><SPAN class="p130 ft2">arbetsmiljökunskap i såväl grundsom gymnasieskolan. Regeringen är</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr3 td34"><SPAN class="p18 ft8">&nbsp;</SPAN> </TD>
+	<TD colspan=2 class="tr3 td37"><SPAN class="p130 ft2">mån om att arbetet med arbetsmiljökunskap utvecklas.</SPAN> </TD>
+</TR>
+</TABLE>
+<TABLE cellpadding=0 cellspacing=0 class="t15">
+<TR>
+	<TD class="tr13 td38"><SPAN class="p18 ft8">&nbsp;</SPAN> </TD>
+	<TD class="tr13 td39"><SPAN class="p140 ft1">6</SPAN> </TD>
+	<TD class="tr13 td40"><SPAN class="p131 ft1">En arbetsmarknad utan fusk och brott</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr14 td38"><SPAN class="p18 ft8">&nbsp;</SPAN> </TD>
+	<TD colspan=2 class="tr14 td41"><SPAN class="p140 ft2">En bristfällig arbetsmiljö ska aldrig vara ett konkurrensmedel. Det ska vara</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr3 td38"><SPAN class="p18 ft8">&nbsp;</SPAN> </TD>
+	<TD colspan=2 class="tr3 td41"><SPAN class="p140 ft4">ordning och reda på arbetsmarknaden. Det ska aldrig löna sig att begå brott</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr3 td38"><SPAN class="p18 ft8">&nbsp;</SPAN> </TD>
+	<TD colspan=2 class="tr3 td41"><SPAN class="p140 ft2">eller skaffa sig fördelar genom att försumma de anställdas rätt till en trygg</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr5 td38"><SPAN class="p19 ft2">26</SPAN> </TD>
+	<TD colspan=2 class="tr5 td41"><SPAN class="p140 ft2">arbetsmiljö. Arbetslivskriminalitet hör inte hemma på den svenska</SPAN> </TD>
+</TR>
+</TABLE>
+</DIV>
+<DIV id="page_27">
+
+
+<P class="p116 ft2">arbetsmarknaden. Regeringen fortsätter därför att prioritera arbetet mot Skr. 2020/21:92 arbetslivskriminalitet, bland annat genom varaktig samverkan inom ramen</P>
+<P class="p117 ft2">för det myndighetsgemensamma arbetet mot fusk, regelöverträdelser och brottslighet i arbetslivet samt ett utökat genomförande av kontroller och förebyggande arbete. Samverkan mellan myndigheter och arbetsmarknadens parter behöver utvecklas.</P>
+<P class="p141 ft14"><SPAN class="ft14">6.1</SPAN><SPAN class="ft13">En bristfällig arbetsmiljö ska aldrig vara ett konkurrensmedel</SPAN></P>
+<P class="p138 ft2">Arbetsmarknadens parter har en viktig roll i arbetet med att skapa en sund konkurrens på arbetsmarknaden. Regeringen värnar den svenska modellen som bygger på att arbetsmarknadens parter kommer överens om anställningsvillkoren på arbetsmarknaden. De allra flesta arbetsgivare tar sitt ansvar för arbetsmiljön och arbetar i samverkan med arbetstagare och skyddsombud för att skapa en god arbetsmiljö. Men det förekommer att företag bryter mot lagar och regler för att få fördelar gentemot sina konkurrenter. Det kan till exempel handla om att arbetstagare inte har tillgång till skyddsutrustning eller att produkter och maskiner används på osäkra sätt som är skadliga för arbetstagares hälsa.</P>
+<P class="p127 ft2">En bristfällig arbetsmiljö får aldrig vara ett konkurrensmedel. Det ska inte löna sig att försumma arbetstagarnas rätt till en god arbetsmiljö. Människohandel eller människoexploatering ska inte förekomma. Företag som medvetet bryter mot arbetsmiljöregelverket för att få konkurrensfördelar skapar osund konkurrens i arbetslivet. Seriösa företag som följer reglerna ska inte kunna konkurreras ut av företag som bryter mot lagar och regler. Det finns flera branscher där det är mer vanligt förekommande med osund konkurrens, däribland <NOBR>bygg-,</NOBR> <NOBR>transport-,</NOBR> städ- och restaurangbranschen. Arbetsmiljöverket ska planera sin tillsyn med utgångspunkt i bland annat analyser av arbetsmiljörisk och risk för att aktörer medvetet bryter mot regelverket. Tillsyn av arbetsmiljö är avgörande för att upprätthålla skyddet för arbetstagare och för att rättvisa konkurrensförhållanden ska kunna råda på arbetsmarknaden.</P>
+<P class="p127 ft2">För att motverka osund konkurrens har regeringen tagit flera initiativ. Bland annat har regeringen fört in ett entreprenörsansvar för lönefordringar i bygg- och anläggningsbranschen och ett skärpt beställaransvar vid köp av transporter. Sanktionsavgifter har också höjts för transportföretagen när en förare kört avsevärt längre än tillåtet eller tagit en avsevärt kortare vila än föreskrivet. Vidare har regeringen också varit aktiv i förhandlingarna av EU:s så kallade mobilitetspaket, där nya regler tagits fram för att skapa en transportbransch med sunda arbetsvillkor. Regeringen har också utökat kravet på personalliggare till fler branscher så att det nu också omfattar <NOBR>restaurang-,</NOBR> <NOBR>fordonsservice-,</NOBR> livsmedels- och <NOBR>tobaksgrossist-,</NOBR> <NOBR>skönhetsvårds-,</NOBR> tvätteri- och byggverksamhet.</P>
+<P class="p129 ft2">27</P>
+</DIV>
+<DIV id="page_28">
+
+
+<DIV>
+<DIV id="id_1">
+<P class="p122 ft2">Skr. 2020/21:92</P>
+<P class="p17 ft2">28</P>
+</DIV>
+<DIV id="id_2">
+<P class="p142 ft14"><SPAN class="ft12">6.2</SPAN><SPAN class="ft13">Arbetet mot arbetslivskriminalitet ska utvecklas genom fler kontroller och förebyggande arbete</SPAN></P>
+<P class="p97 ft2">Arbetsmiljöverket gör bedömningen att antalet företag som systematiskt bryter mot arbetsmiljöregelverket för att få konkurrensfördelar ökar. Även kopplingarna till annan kriminell verksamhet ökar i omfattning. Regeringen ser med stort allvar på detta. Arbetet behöver därför vara en del av regeringens samlade arbete mot kriminalitet. Om samhället kan göra det svårare för kriminella att infiltrera företag eller driva företag i brottslig verksamhet bidrar detta till att bekämpa organiserad brottslighet.</P>
+<P class="p143 ft2">Området arbetslivskriminalitet omfattar till exempel överträdelser av arbetsmiljöregelverket, men också överträdelser av skattelagstiftningen och viss välfärdsbrottslighet. Arbetslivskriminalitet kan också handla om penningtvätt och bedrägerier, arbete utan arbetstillstånd, människoexploatering och människohandel. Arbetstagare riskerar ofta osäkra arbetsvillkor, låga löner, allvarliga kränkningar av sina rättigheter och minskat skydd enligt arbetsrätts- och socialskyddslagstiftningen.</P>
+<P class="p144 ft2">Regeringen bedömer att en välfungerande samverkan mellan relevanta myndigheter är av stor vikt för att arbetet mot arbetslivskriminalitet ska vara effektivt och ändamålsenligt. Likaså behöver samverkan mellan myndigheter och arbetsmarknadens parter utvecklas. Fusk och brottslighet i arbetslivet ger konsekvenser som kräver åtgärder på flera politikområden. Den problematik som myndigheterna möter blir allt mer komplex och för att möta den krävs nya arbetssätt. Regeringen har därför tidigare uppdragit åt Arbetsmiljöverket att tillsammans med Arbetsförmedlingen, Ekobrottsmyndigheten, Försäkringskassan, Jämställdhetsmyndigheten, Migrationsverket, Polismyndigheten och Skatteverket utveckla ändamålsenliga och effektiva metoder för myndighetsgemensam kontroll för att motverka fusk, regelöverträdelser och brottslighet i arbetslivet. Regeringens satsningar för att stärka myndigheternas arbete med metodutveckling för gemensamma kontroller har bidragit till att öka samverkan och myndigheternas gemensamma arbete på området. Även det myndighetsgemensamma arbetet mot organiserad brottslighet som har funnits sedan 2009 är viktigt för att motverka organiserad brottslighets möjligheter att bedriva arbetslivskriminalitet. Totalt 21 myndigheter deltar i den samverkan.</P>
+<P class="p145 ft2">Det myndighetsgemensamma arbetet har ökat möjligheten att stoppa aktörer som bryter mot arbetsmiljöregelverket och andra regler. Regeringen är angelägen om att detta viktiga arbete fortsätter och intensifieras. Regeringen har därför gett ovan nämnda myndigheter i uppdrag att utifrån sina respektive uppgifter fortsatt samverka kring utveckling av metoder och genomförandet av myndighetsgemensamma kontroller, med särskilt fokus på att skapa förutsättningar för varaktig samverkan (A2021/00085). Myndigheternas kontrollverksamhet bidrar på ett effektivt sätt till ökad regelefterlevnad och sunda konkurrensvillkor. Därför behöver antalet kontroller öka. Möjligheterna att följa kontrollverksamheten och dess resultat över tid behöver förbättras. Utöver kontrollverksamhet är förebyggande arbete av stor betydelse för att motverka arbetslivskriminalitet. Allmänhetens kunskap och attityder har</P>
+</DIV>
+</DIV>
+</DIV>
+<DIV id="page_29">
+
+
+<P class="p50 ft2">betydelse för förekomsten av arbetslivskriminalitet, av den anledningen Skr. 2020/21:92 ska förebyggande informationsinsatser genomföras.</P>
+<P class="p146 ft2">Regeringen anser att det är viktigt att myndigheterna kan utbyta den information som krävs för en effektiv och ändamålsenlig kontrollverksamhet. En ökad informationsdelning måste alltid vägas mot den personliga integriteten. Regeringen kommer att se över de behov av förändringar av regelverket om offentlighet och sekretess som kan krävas för att möjliggöra en förbättrad myndighetssamverkan.</P>
+<P class="p147 ft2">Ett gott samarbete mellan Arbetsmiljöverket, Polismyndigheten och Åklagarmyndigheten är viktigt för att effektivt kunna utreda allvarliga arbetsmiljöbrott. Regeringen har också tillsatt en utredning som ska se över regelverket om preskription av brott och straff, vilket också omfattar arbetsmiljöbrott (dir. 2020:91). I utredarens uppdrag ingår bland annat att se över preskriptionstiderna och de olika straff som styr preskriptionstidernas längd samt att ta ställning till vilka brott som inte bör preskriberas.</P>
+<P class="p148 ft1"><SPAN class="ft1">7</SPAN><SPAN class="ft19">Genomförande</SPAN></P>
+<P class="p99 ft14"><SPAN class="ft14">7.1</SPAN><SPAN class="ft13">Åtgärdsplaner och myndigheternas roll</SPAN></P>
+<P class="p100 ft2">Arbetsmiljöverket och Myndigheten för arbetsmiljökunskap har en särskild roll som myndigheter inom arbetsmiljöområdet. Av den anledningen har regeringen beslutat att ge dessa myndigheter i uppdrag att ta fram åtgärdsplaner för att genomföra strategin inom sina respektive områden. Arbetsmiljöstrategin anger regeringens långsiktiga politiska inriktning och prioriteringar på området under <NOBR>2021–2025.</NOBR> Åtgärdsplanerna ska utgå från strategins fyra prioriterade områden och tydliggöra vilka åtgärder som ska genomföras för att nå strategins uppsatta mål. Åtgärderna ska vara tidsatta och innehålla en plan för uppföljning.</P>
+<P class="p149 ft14"><SPAN class="ft14">7.2</SPAN><SPAN class="ft13">Regeringens arbetsmiljöforum</SPAN></P>
+<P class="p57 ft2">För att upprätthålla och fördjupa trepartsarbetet avser regeringen att fortsätta ha ett löpande forum för dialog med representanter för arbetsmarknadens parter och berörda myndigheter. Forumet ska kallas regeringens arbetsmiljöforum. Syftet med forumet är att tillsammans med arbetsmarknadens parter och myndigheter diskutera pågående och planerade åtgärder inom strategins område, samt de åtgärdsplaner som Arbetsmiljöverket och Myndigheten för arbetsmiljökunskap ska ta fram.</P>
+<P class="p150 ft2">29</P>
+</DIV>
+<DIV id="page_30">
+
+
+<P class="p122 ft2">Skr. 2020/21:92</P>
+<P class="p151 ft1"><SPAN class="ft1">8</SPAN><SPAN class="ft10">Uppföljning</SPAN></P>
+<P class="p86 ft2">Utvecklingen inom arbetslivsområdet, där arbetsmiljö ingår, presenteras i regeringens resultatredovisning till riksdagen i den årliga budgetpropositionen. Uppföljning av strategin kommer att ske i budgetpropositionen. I budgetpropositionen presenteras även regeringens politiska inriktning för det kommande året. Arbetsmiljöstrategin ska ses som regeringens långsiktiga politiska inriktning för området.</P>
+<P class="p151 ft14"><SPAN class="ft12">8.1</SPAN><SPAN class="ft13">Uppföljning av åtgärdsplaner</SPAN></P>
+<P class="p152 ft2">Arbetsmiljöverket och Myndigheten för arbetsmiljökunskap kommer årligen att redovisa resultaten av sitt arbete med arbetsmiljöstrategin och de åtgärdsplaner de ska ta fram. En första skriftlig redovisning av uppdraget ska lämnas senast den 31 augusti 2021. Därefter ska Arbetsmiljöverket och Myndigheten för arbetsmiljökunskap årligen återkomma med en skriftlig lägesbeskrivning av pågående arbete, presentera resultat av vidtagna åtgärder och vid behov uppdatera åtgärdsplanerna senast den 1 mars varje år. Uppdraget ska slutredovisas den 1 mars 2026. Vid slutredovisningen ska myndigheterna lämna en helhetsbedömning av hur myndigheternas arbete har bidragit till att uppnå de i strategin uppsatta målen och förslag på fortsatt arbete.</P>
+<P class="p153 ft2">Åtgärdsplanerna kommer att diskuteras i det arbetsmiljöforum som regeringens ska inrätta.</P>
+<P class="p154 ft14"><SPAN class="ft12">8.2</SPAN><SPAN class="ft13">Utvärdering</SPAN></P>
+<P class="p155 ft2">En utvärdering av arbetsmiljöstrategin ska ha påbörjats under 2024.</P>
+<P class="p156 ft2">30</P>
+</DIV>
+<DIV id="page_31">
+<DIV id="p31dimg1">
+<INGENBILD zsrc="H8039231x1.jpg/" id="p31img1">
+</DIV>
+
+
+<DIV class="dclr"></DIV>
+<DIV>
+<DIV id="id_1">
+<P class="p16 ft1">Arbetsmarknadsdepartementet</P>
+<P class="p157 ft2">Utdrag ur protokoll vid regeringssammanträde den 11 februari 2021</P>
+<P class="p158 ft2">Närvarande: statsminister Löfven, ordförande, och statsråden Bolund, Johansson, Baylan, Hallengren, Hultqvist, Andersson, Damberg, Ygeman, Linde, Ekström, Eneroth, Dahlgren, Nilsson, Ernkrans, Lindhagen, Lind, Hallberg, Nordmark, Micko, Stenevi, Olsson Fridh</P>
+<P class="p159 ft2">Föredragande: statsrådet Nordmark</P>
+<P class="p160 ft2">Regeringen beslutar skrivelse En god arbetsmiljö för framtiden - regeringens arbetsmiljöstrategi <NOBR>2021-2025</NOBR></P>
+</DIV>
+<DIV id="id_2">
+<P class="p16 ft2">Skr. 2020/21:92</P>
+<P class="p161 ft2">31</P>
+</DIV>
+</DIV>
+</DIV>
+
+</div><style>
+
+
+TD,TD.p2h {
+zzzfont-size:90%;
+zzzmargin-right:2px;
+zzzoverflow:visable;
+zzzword-wrap: break-word;
+}
+
+P {
+zdisplay:block;
+}
+
+.divbreak {
+clear:both;
+display:block;
+zwidth: 100%;
+zheight: 1px;
+zword-wrap: break-word;
+}
+
+
+.xecp {
+  display:block;
+  margin: 0px !important;
+  padding: 0px !important;
+  
+}
+
+.ec {
+  border-style:solid;
+  border-width:1px;
+  display:block;
+  margin: 0px !important;
+  padding: 0px !important;
+}
+
+.TOPS {
+  overflow:visable;
+  margin:2px;
+  width:690px !important;
+}
+
+</style>

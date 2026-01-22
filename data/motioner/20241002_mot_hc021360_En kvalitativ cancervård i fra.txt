@@ -1,0 +1,519 @@
+SEARCH TERM: AI
+DOCUMENT ID: hc021360
+TITLE: En kvalitativ cancervård i framkant
+TYPE: mot
+SUBTYPE: Kommittémotion
+DATE: 2024-10-02
+PARLIAMENTARY YEAR: 2024/25
+ORGANISATION: SoU
+STATUS: Klar
+DOWNLOADED: 2026-01-22 10:25:10
+================================================================================
+
+<style><!-- 
+ @page Section1 { size:595.3pt 841.9pt; margin:35.45pt 85.05pt }
+div.Section1 { page:Section1 }
+div.pconf body { t-i:14.2pt; line-height:15pt; font-family:'Verdana'; font-size: 0.90em }
+div.pconf h1, h2, h3, h4, h5, h6, p { margin:0pt }
+div.pconf li, table { margin-top:0pt; margin-bottom:0pt }
+div.pconf h1 { margin-top:41pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:19.5pt; font-family:'Verdana'; font-size: 1.05em; font-weight:normal; color:#000000 }
+div.pconf h2 { margin-top:30pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:17pt; font-family:'Verdana'; font-size: 1.00em; font-weight:normal; color:#000000 }
+div.pconf h3 { margin-top:18pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:15pt; font-family:'Verdana'; font-size: 0.90em; font-weight:bold; color:#000000 }
+div.pconf h4 { margin-top:18pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:15pt; font-family:'Verdana'; font-size: 0.90em; font-weight:normal; font-style:italic; color:#000000 }
+div.pconf h5 { margin-top:15pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:15pt; font-family:'Verdana'; font-size: 0.90em; font-weight:bold; font-style:normal; color:#000000 }
+div.pconf h6 { margin-top:15pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:15pt; font-family:'Verdana'; font-size: 0.90em; font-weight:normal; font-style:italic; color:#000000 }
+.Heading7 { margin-top:15pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:15pt; font-family:'Verdana'; font-size: 0.90em; font-weight:normal; font-style:italic; color:#000000; -aw-style-name:heading7 }
+.Heading8 { margin-top:15pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:15pt; font-family:'Verdana'; font-size: 0.90em; font-weight:normal; font-style:italic; color:#000000; -aw-style-name:heading8 }
+.Heading9 { margin-top:0pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:15pt; font-family:'Verdana'; font-size: 0.90em; font-weight:normal; font-style:italic; color:#000000; -aw-style-name:heading9 }
+.BalloonText { margin-bottom:0pt; t-i:14.2pt; line-height:normal; font-family:'Segoe UI'; font-size: 0.90em }
+.Beteckning { margin-top:18pt; margin-bottom:0pt; t-i:14.2pt; page-break-inside:auto; page-break-after:auto; line-height:19.5pt; font-size: 1.05em }
+.BlockText, .Inramatstycke { margin-right:56.7pt; margin-left:56.7pt; margin-bottom:0pt; t-i:0pt; text-align:nojustify; line-height:15pt; border:0.75pt solid #000000; padding:10pt; font-size: 0.90em; font-style:italic; -aw-border:0.25pt single }
+.Citaticitat { margin-top:7.5pt; margin-left:34pt; margin-bottom:0pt; t-i:0pt; line-height:12pt; font-size: 0.90em }
+.Citaticitatmedindrag { margin-top:0pt; margin-left:34pt; margin-bottom:7.5pt; t-i:17pt; line-height:12pt; font-size: 0.90em }
+.Citatmedindrag { margin-top:0pt; margin-left:17pt; margin-bottom:0pt; t-i:17pt; line-height:12pt; font-size: 0.90em }
+.CommentSubject { margin-bottom:0pt; t-i:14.2pt; line-height:normal; font-size: 0.90em; font-weight:bold }
+.CommentText { margin-bottom:0pt; t-i:14.2pt; line-height:normal; font-size: 0.90em }
+.FSHLogo { margin-top:4pt; margin-bottom:0pt; t-i:0pt; line-height:normal; font-size: 0.90em }
+.FSHNormL { margin-top:4pt; margin-bottom:0pt; t-i:0pt; line-height:15pt; border-top:1.5pt solid #000000; padding-top:3pt; font-size: 0.90em }
+.FSHNormal { margin-top:4pt; margin-bottom:0pt; t-i:0pt; line-height:15pt; font-size: 0.90em }
+.FSHNormalS5 { margin-top:11.5pt; margin-bottom:26pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-size: 0.95em; font-weight:bold }
+.FSHRub1, .Rubrik1S5 { margin-top:135pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:16pt; font-size: 1.00em }
+.FSHRub2, .Rubrik1A4 { margin-top:50pt; margin-bottom:5pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:24pt; font-size: 1.05em }
+.FSHTitel, .Dokumentrubrik { margin-top:4pt; margin-bottom:4pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:20pt; border-bottom:0.75pt solid #000000; padding-bottom:3pt; font-size: 1.05em; -aw-border-bottom:0.5pt single }
+.Footer { margin-top:4pt; margin-bottom:0pt; t-i:0pt; text-align:center; line-height:normal; font-size: 0.90em }
+.FootnoteText { margin-top:0pt; margin-bottom:0pt; t-i:0pt; line-height:12pt; font-size: 0.90em }
+.Frslagsrubrik { margin-top:41pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:19.5pt; font-family:'Verdana'; font-size: 1.05em }
+.Frslagstext, .Hemstlatt, .Yrkande { margin-top:4pt; margin-left:19.85pt; margin-bottom:0pt; t-i:-19.85pt; line-height:15pt; font-size: 0.90em }
+.Header { margin-top:4pt; margin-bottom:0pt; t-i:0pt; line-height:normal; font-size: 0.90em }
+.KantRubrikS5H { margin-top:6pt; margin-right:2.85pt; margin-bottom:0pt; t-i:0pt; text-align:right; line-height:8pt; font-size: 0.90em }
+.KantRubrikS5Hrad2 { margin-top:0pt; margin-right:2.85pt; margin-bottom:0pt; t-i:0pt; text-align:right; line-height:10pt; font-size: 0.90em }
+.KantRubrikS5V { margin-top:6pt; margin-right:0pt; margin-bottom:0pt; t-i:0pt; text-align:left; line-height:8pt; font-size: 0.90em }
+.KantRubrikS5Vrad2 { margin-top:0pt; margin-right:0pt; margin-bottom:0pt; t-i:0pt; text-align:left; line-height:10pt; font-size: 0.90em }
+.KantrubrikH { margin-top:4pt; margin-right:-82.2pt; margin-bottom:0pt; t-i:0pt; text-align:right; line-height:15pt; font-size: 0.90em }
+.KantrubrikV { margin-top:4pt; margin-left:-85.05pt; margin-bottom:0pt; t-i:0pt; line-height:normal; font-size: 0.90em }
+.Klla { margin-top:0pt; margin-bottom:0pt; t-i:0pt; line-height:12pt; font-size: 0.90em }
+.Lagtext { margin-top:4pt; margin-bottom:0pt; t-i:0pt; line-height:normal; font-size: 0.90em }
+.Lagtextindrag { margin-top:4pt; margin-bottom:0pt; t-i:14.2pt; line-height:normal; font-size: 0.90em }
+.Lagtextrubrik { margin-top:4pt; margin-bottom:0pt; t-i:0pt; line-height:normal; font-size: 0.90em; font-style:italic; letter-spacing:1pt }
+.List { margin-top:7.5pt; margin-left:17pt; margin-bottom:7.5pt; t-i:-17pt; line-height:15pt; font-size: 0.90em }
+.ListBullet, .PunktlistaBomb { margin-top:4pt; margin-left:14.2pt; margin-bottom:0pt; t-i:-14.2pt; line-height:15pt; font-size: 0.90em }
+.ListNumber, .PunktlistaNummer { margin-top:4pt; margin-left:14.2pt; margin-bottom:0pt; t-i:-14.2pt; line-height:15pt; font-size: 0.90em }
+.ListParagraph { margin-left:36pt; margin-bottom:0pt; t-i:14.2pt; line-height:15pt; font-size: 0.90em }
+.ListaGemener { margin-top:7.5pt; margin-left:17pt; margin-bottom:7.5pt; t-i:-17pt; line-height:15pt; font-size: 0.90em }
+.ListaLinje { margin-top:7.5pt; margin-left:17pt; margin-bottom:7.5pt; t-i:-17pt; line-height:15pt; font-size: 0.90em }
+.ListaNummer { margin-top:7.5pt; margin-left:17pt; margin-bottom:7.5pt; t-i:-17pt; line-height:15pt; font-size: 0.90em }
+.ListaPunkt { margin-top:7.5pt; margin-left:17pt; margin-bottom:7.5pt; t-i:-17pt; line-height:15pt; font-size: 0.90em }
+.MotionTIllRiksdagen { margin-top:18pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:19.5pt; font-size: 1.05em }
+.Motionr { margin-top:14pt; margin-bottom:31.5pt; t-i:0pt; page-break-inside:avoid; line-height:15pt; font-size: 1.00em; font-weight:bold; font-style:normal }
+.Motiveringrubrik2numrerat1 { margin-top:30pt; margin-left:0pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:17pt; font-family:'Verdana'; font-size: 1.00em }
+.Motiveringrubrik3numrerat1 { margin-top:18pt; margin-left:0pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:15pt; font-family:'Verdana'; font-size: 0.90em; font-weight:bold }
+.Motiveringrubrik3numrerat11 { margin-top:18pt; margin-left:0pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:15pt; font-family:'Verdana'; font-size: 0.90em; font-weight:bold }
+.Motiveringrubrik4numrerat11 { margin-top:18pt; margin-left:0pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:15pt; font-family:'Verdana'; font-size: 0.90em; font-weight:normal; font-style:italic }
+.NormalWeb { margin-bottom:0pt; t-i:14.2pt; line-height:15pt; font-family:'Verdana'; font-size: 0.90em }
+.NormalIndent { margin-left:65.2pt; margin-bottom:0pt; t-i:14.2pt; line-height:15pt; font-size: 0.90em }
+.Normalutanindragellerluft { margin-top:4pt; margin-bottom:0pt; t-i:0pt; line-height:15pt; font-size: 0.90em }
+.Normal00 { margin-top:4pt; margin-bottom:0pt; t-i:0pt; line-height:normal; font-size: 0.90em }
+.NormalA4fot { margin-top:12pt; margin-bottom:0pt; t-i:0pt; text-align:center; line-height:normal; font-size: 0.90em }
+.NormalA4sidnr { margin-top:4pt; margin-bottom:12pt; t-i:0pt; text-align:center; line-height:normal; font-size: 0.90em }
+.NormalS5sidnrH { margin-top:4pt; margin-right:2.85pt; margin-bottom:0pt; t-i:0pt; text-align:right; line-height:normal; font-size: 0.90em }
+.NormalS5sidnrV { margin-top:4pt; margin-right:0pt; margin-bottom:0pt; t-i:0pt; text-align:left; line-height:normal; font-size: 0.90em }
+.PlainText { margin-bottom:0pt; t-i:0pt; line-height:12pt; font-family:'Verdana'; font-size: 0.90em }
+.Quote { margin-top:7.5pt; margin-left:17pt; margin-bottom:0pt; t-i:0pt; line-height:12pt; font-size: 0.90em }
+.R1 { margin-top:41pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:19.5pt; font-family:'Verdana'; font-size: 1.05em }
+.R2 { margin-top:30pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:17pt; font-family:'Verdana'; font-size: 1.00em }
+.R3 { margin-top:18pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:15pt; font-family:'Verdana'; font-size: 0.90em; font-weight:bold }
+.Revision { margin-bottom:0pt; t-i:0pt; font-size: 0.90em }
+.Rubrik1numrerat { margin-top:41pt; margin-left:0pt; margin-bottom:0pt; t-i:0pt; page-break-inside:auto; page-break-after:avoid; line-height:19.5pt; font-family:'Verdana'; font-size: 1.05em }
+.Rubrik2numrerat { margin-top:30pt; margin-left:0pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:17pt; font-family:'Verdana'; font-size: 1.00em }
+.Rubrik3numrerat { margin-top:18pt; margin-left:0pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:15pt; font-family:'Verdana'; font-size: 0.90em; font-weight:bold }
+.Rubrik4numrerat { margin-top:18pt; margin-left:0pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:15pt; font-family:'Verdana'; font-size: 0.90em; font-weight:normal; font-style:italic }
+.RubrikFrslagTIllRiksdagsbeslut { margin-top:41pt; margin-bottom:15pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:19.5pt; font-family:'Verdana'; font-size: 1.05em }
+.RubrikInnehllsf { margin-top:41pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:19.5pt; font-family:'Verdana'; font-size: 1.05em }
+.RubrikSammanf { margin-top:41pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:19.5pt; font-family:'Verdana'; font-size: 1.05em }
+.Salutation { margin-top:41pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:19.5pt; font-family:'Verdana'; font-size: 1.05em }
+.Streckkod { margin-top:12pt; margin-bottom:0pt; t-i:0pt; text-align:center; line-height:normal; font-family:IDAutomationHC39S; font-size: 1.00em }
+.Strecklista, .PunktlistaTankstreck { margin-top:4pt; margin-left:14.2pt; margin-bottom:0pt; t-i:-14.2pt; line-height:15pt; font-size: 0.90em }
+.Subtitle { margin-top:4pt; margin-bottom:0pt; t-i:0pt; line-height:15pt; font-family:'Verdana'; font-size: 0.90em; font-weight:bold }
+.TOC1 { margin-top:4pt; margin-bottom:0pt; t-i:0pt; line-height:15pt; font-size: 0.90em }
+.TOC2 { margin-top:4pt; margin-left:14.2pt; margin-bottom:0pt; t-i:0pt; line-height:15pt; font-size: 0.90em }
+.TOC3 { margin-top:4pt; margin-left:28.35pt; margin-bottom:0pt; t-i:0pt; line-height:15pt; font-size: 0.90em }
+.TOC4 { margin-top:4pt; margin-left:42.55pt; margin-bottom:0pt; t-i:0pt; line-height:15pt; font-size: 0.90em }
+.TOC5 { margin-top:4pt; margin-left:56.7pt; margin-bottom:0pt; t-i:0pt; line-height:15pt; font-size: 0.90em }
+.TOC6 { margin-top:4pt; margin-left:56.7pt; margin-bottom:0pt; t-i:0pt; line-height:15pt; font-size: 0.90em }
+.TOC7 { margin-top:15pt; margin-left:56.7pt; margin-bottom:0pt; t-i:14.2pt; page-break-inside:avoid; page-break-after:avoid; line-height:normal; font-family:'Verdana'; font-size: 0.90em; font-weight:normal; font-style:italic }
+.TOC8 { margin-top:15pt; margin-left:56.7pt; margin-bottom:0pt; t-i:14.2pt; page-break-inside:avoid; page-break-after:avoid; line-height:normal; font-family:'Verdana'; font-size: 0.90em; font-weight:normal; font-style:italic }
+.TOC9 { margin-top:15pt; margin-left:56.7pt; margin-bottom:0pt; t-i:14.2pt; page-break-inside:avoid; page-break-after:avoid; line-height:normal; font-family:'Verdana'; font-size: 0.90em; font-weight:normal; font-style:italic }
+.TOCHeading { margin-top:41pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:19.5pt; font-family:'Verdana'; font-size: 1.05em }
+.Tabellunderrubrik { margin-top:0pt; margin-bottom:0pt; t-i:0pt; page-break-after:avoid; line-height:15pt; font-size: 0.90em; font-weight:normal; font-style:italic }
+.Tabellrubrik { margin-top:7.5pt; margin-bottom:0pt; t-i:0pt; page-break-after:avoid; line-height:15pt; font-size: 0.90em; font-weight:bold }
+.Title { margin-top:41pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:19.5pt; font-family:'Verdana'; font-size: 1.05em }
+.Underskriftdatum { margin-top:24pt; margin-bottom:3pt; t-i:0pt; page-break-inside:avoid; line-height:15pt; font-size: 0.90em; font-style:normal }
+.Underskrifter { margin-top:15pt; margin-bottom:3pt; t-i:0pt; page-break-inside:avoid; line-height:15pt; font-size: 0.90em; font-style:italic }
+.Yrkandehnv, .Frslagspunkthnv { margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; font-size: 0.90em }
+span.BallongtextChar { font-family:'Segoe UI'; font-size: 0.90em }
+span.BeteckningChar { font-size:19.5pt }
+span.CommentReference { font-size:8pt }
+span.FSHRub2Char, span.Rubrik1A4Char { font-size:24pt }
+span.FotnotstextChar { font-size:10pt }
+span.Hyperlink { text-decoration:underline; color:#0563c1; -aw-style-name:hyperlink }
+span.InledningChar { font-family:'Verdana'; font-size: 1.05em }
+span.IntenseReference { font-weight:normal; font-style:normal; font-variant:normal; text-decoration:none; text-transform:none; letter-spacing:0pt; vertical-align:0pt; color:#000000; display:inline }
+span.KommentarerChar { font-size:10pt }
+span.KommentarsmneChar { font-size:10pt; font-weight:bold }
+span.MotionTIllRiksdagenChar { font-size:19.5pt }
+span.OformateradtextChar { font-family:'Verdana'; font-size: 0.90em }
+span.PlaceholderText { color:#f4b083 }
+span.Rubrik1Char { font-family:'Verdana'; font-size: 1.05em }
+span.Rubrik2Char { font-family:'Verdana'; font-size: 1.00em }
+span.Rubrik3Char { font-family:'Verdana'; font-size: 0.90em; font-weight:bold }
+span.Rubrik4Char { font-family:'Verdana'; font-size: 0.90em; font-style:italic }
+span.Rubrik5Char { font-family:'Verdana'; font-weight:bold }
+span.Rubrik6Char { font-family:'Verdana'; font-style:italic }
+span.Rubrik7Char { font-family:'Verdana'; font-style:italic }
+span.Rubrik8Char { font-family:'Verdana'; font-style:italic }
+span.Rubrik9Char { font-family:'Verdana'; font-style:italic }
+span.RubrikChar { font-family:'Verdana'; font-size: 1.05em }
+span.SidfotChar { font-size:11.5pt }
+span.UnderrubrikChar { font-family:'Verdana'; font-size: 0.90em; font-weight:bold }
+span.UnresolvedMention { color:#605e5c; background-color:#e1dfdd }
+.TableGrid {  }
+
+.pconf{width: 450px;margin-left:5px;overflow:visable;font-family:Verdana, Geneva, sans-serif;} 
+ .sidhuvud_publikation, .sidhuvud_beteckning{font-size:133%}
+.MotionarLista {font-size:122%}
+
+--></style><div class="pconf"><span class="sidhuvud_publikation">Motion till riksdagen</span><br/>
+<span class="sidhuvud_beteckning">2024/25:1360</span><br/>
+<span class="MotionarLista">av Carina Ståhl Herrstedt m.fl. (SD)</span><br/>
+<h1>En kvalitativ cancervård i framkant</h1>
+<hr class="sidhuvud_linje"/>
+
+
+		<div class="Section1">
+			<div style="-aw-sdt-tag:'CC_Boilerplate_4'; -aw-sdt-title:'CC_Boilerplate_4'">
+				<h1 style="margin-bottom:15pt">
+					<a name="_Toc106801300"></a><a name="_Toc106800475"></a><a name="_Hlk147328943"><span>Förslag till riksdagsbeslut</span></a>
+				</h1>
+			</div>
+			<div style="-aw-sdt-tag:'f3a9b6e4-8b31-4563-84c2-30cc32f15e51'; -aw-sdt-title:'Yrkande 1'">
+				<ol type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-left:14pt; t-i:0pt; padding-left:5.85pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att regeringen bör överväga att det ska bli obligatoriskt att även kalla kvinnor över 74 år till mammografi och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'d28c3ee0-99f5-4f5f-aa0d-f68d45e87368'; -aw-sdt-title:'Yrkande 2'">
+				<ol start="2" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; margin-left:14pt; t-i:0pt; padding-left:5.85pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att regeringen bör verka för ökade kunskaper om riskfaktorer och riskmodeller för att kunna identifiera kvinnor med hög risk för bröstcancer och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'6e268e9d-355e-455b-b75a-3cea6579e95a'; -aw-sdt-title:'Yrkande 3'">
+				<ol start="3" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; margin-left:14pt; t-i:0pt; padding-left:5.85pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att regeringen i arbetet med att utveckla cancervården bör ta i beaktande det som framförs om mammografiscreening och kvinnors brösttäthet och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'f492534b-f88f-461a-8cc9-377be964835c'; -aw-sdt-title:'Yrkande 4'">
+				<ol start="4" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; margin-left:14pt; t-i:0pt; padding-left:5.85pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att regeringen i arbetet med att utveckla cancervården bör ta i beaktande det som framförs om vikten av att utveckla och implementera AI inom mammografiscreening och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'8b61cff4-97ea-4805-b87d-b3e3682fcc5a'; -aw-sdt-title:'Yrkande 5'">
+				<ol start="5" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; margin-left:14pt; t-i:0pt; padding-left:5.85pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att regeringen bör se över den övre åldersgränsen om 65 år för kvinnors rätt att delta i screeningprogrammet för livmoderhalscancer och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'0816c0fc-7da2-4925-a797-78e27e17ca0e'; -aw-sdt-title:'Yrkande 6'">
+				<ol start="6" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; margin-left:14pt; t-i:0pt; padding-left:5.85pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att verka för att Sveriges alla regioner ska erbjuda HPV-catch-up-vaccin för unga män och riskgrupper och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'9095e84b-4907-40e8-8ac0-c4e99cbefc7e'; -aw-sdt-title:'Yrkande 7'">
+				<ol start="7" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; margin-left:14pt; t-i:0pt; padding-left:5.85pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att se över möjligheten att ge uppdrag till Kammarkollegiet att betala ut medel till Regionala cancercentrum i samverkan för catch-up-vaccin till unga män och riskgrupper och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'1b93449d-55eb-4bc5-8b37-0e1025ee1bbf'; -aw-sdt-title:'Yrkande 8'">
+				<ol start="8" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; margin-left:14pt; t-i:0pt; padding-left:5.85pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att regeringen bör verka för att introducera fler nationella screeningprogram och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'6fc074c6-0080-498c-87b9-a8314182e8b7'; -aw-sdt-title:'Yrkande 9'">
+				<ol start="9" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; margin-left:14pt; t-i:0pt; padding-left:5.85pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att regeringen skyndsamt bör verka för att introducera de screeningprogram som beslutats inom EU:s cancerstrategi och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'e52e4d2d-1ea5-41e7-b463-f962071e797f'; -aw-sdt-title:'Yrkande 10'">
+				<ol start="10" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; t-i:0pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att regeringen bör stärka arbetet med organiserad prostatatestning så att samtliga män i berörda åldersgrupper och/eller riskgrupper runt om i landet erbjuds OPT och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'755d3200-03e8-46cb-9d93-0cd33f4517a5'; -aw-sdt-title:'Yrkande 11'">
+				<ol start="11" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; t-i:0pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att regeringen bör verka för att Socialstyrelsen på nytt ska utreda om ett nationellt screeningprogram för tidig upptäckt av prostatacancer bör införas och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'1f1551d6-e540-4091-82b1-07d24218ceed'; -aw-sdt-title:'Yrkande 12'">
+				<ol start="12" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; t-i:0pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att regeringen bör se över hur regionerna kan ges bättre förutsättningar att bedriva cancerforskning och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'05737cfc-84a8-42d1-a190-92f89e942cef'; -aw-sdt-title:'Yrkande 13'">
+				<ol start="13" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; t-i:0pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att regeringen bör arbeta för att regionerna ska ges möjligheter att intensifiera arbetet med att flytta hem alla aspekter av cancervård till patienten där det är möjligt och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'f70a4e83-14f6-4461-b2bc-98065f3e9c14'; -aw-sdt-title:'Yrkande 14'">
+				<ol start="14" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; t-i:0pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att regeringen bör arbeta för att skapa förutsättningar för regionerna att förstärka cancervården genom en utbyggd egenmonitorering och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'c29dfa25-32a9-4d80-bd08-3330b3237555'; -aw-sdt-title:'Yrkande 15'">
+				<ol start="15" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; t-i:0pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att regeringen bör ta ett ökat ansvar för den svenska strålterapiinfrastrukturen i syfte att säkerställa en god tillgång på modern strålterapi och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'1789df44-25d7-45d5-ae06-f4925e3fd1b5'; -aw-sdt-title:'Yrkande 16'">
+				<ol start="16" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; t-i:0pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att regeringen bör arbeta för att stärka förutsättningarna för klinisk forskning inom området för strålterapi och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'ab394813-b094-4880-b751-b7d52b4dd7af'; -aw-sdt-title:'Yrkande 17'">
+				<ol start="17" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; t-i:0pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att regeringen bör arbeta för att stärka det hälsoförebyggande arbetet för att motverka cancer och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<span style="-aw-bookmark-end:_Toc106801300">
+			</span>
+			<div style="-aw-sdt-tag:'CC_Motivering_Rubrik'; -aw-sdt-title:'CC_Motivering_Rubrik'">
+				<h1>
+					<span style="-aw-bookmark-end:_Toc106800475"></span><a name="MotionsStart"></a><a name="_Toc106801301"></a><a name="_Toc106800476"><span>Motivering</span></a>
+				</h1>
+			</div>
+			<span style="-aw-bookmark-end:_Toc106801301">
+			</span>
+			<p class="Normalutanindragellerluft">
+				<span style="-aw-bookmark-end:_Toc106800476"></span><span>Cancer är en av de vanligaste dödsorsakerna i Sverige och det finns omkring 200 olika cancersjukdomar. År 2022 insjuknade 72</span><span>&#xa0;</span><span>108 personer i cancer. Av dessa var 33</span><span>&#xa0;</span><span>196 kvinnor och 38</span><span>&#xa0;</span><span>912 män. Bland kvinnor är bröstcancer vanligast och bland män prostatacancer. Härutöver tillhör hudcancer en av de vanligaste cancerformerna. Prostatacancer är den cancerform som orsakar flest dödsfall bland män, bland kvinnor är det lungcancer. </span>
+			</p>
+			<p>
+				<span>Sverige har kommit långt inom cancerområdet och ligger i framkant när det gäller forskning, men mycket finns kvar att göra. För att förebygga cancer är det preventiva, hälsoförebyggande arbetet otroligt viktigt, samtidigt som kunskapen om riskfaktorer behöver bli mer lättillgänglig. </span>
+			</p>
+			<p>
+				<span>För att förebygga dödsfall och hitta tumörer tidigt krävs att Sverige fortsätter vara ett föregångsland inom forskningsområdet, att testa nya metoder liksom att vara snabbt med att breddinföra effektiva arbetssätt så att de snabbt omsätts i jämlik nytta för medborgarna. Offensiva och inkluderande screeningprogram, kallelser och ökad allmänkunskap om preventiva beteenden och hur individen kan upptäcka tidiga symtom är viktiga nyckelfaktorer för ett välmående och friskt Sverige med låg förekomst av cancer och förbättrad överlevnad för de som drabbas. </span>
+			</p>
+			<h2>
+				<span>Tidöavtalet</span>
+			</h2>
+			<p class="Normalutanindragellerluft">
+				<span>Tidöavtalet är en överenskommelse mellan Sverigedemokraterna, Moderaterna, Kristdemokraterna och Liberalerna. Inom avsnittet för hälso- och sjukvården finns en skrivning om att cancervården och barncancervården ska utvecklas och förbättras. Särskilda satsningar ska göras på vården och eftervården och i det rehabiliterande arbetet. </span>
+			</p>
+			<p>
+				<span>Även om svensk cancervård är i framkant skiljer den sig markant mellan regionerna. Inom bröstcancervården är skillnaderna oroväckande stora för patienter med den vanligaste formen av spridd bröstcancer. Under år 2022 var det endast 2</span><span>&#xa0;</span><span>procent av fallen i Norrbotten som påbörjade den rekommenderade behandlingen, medan siffran i Halland låg på 100 procent.</span>
+			</p>
+			<p>
+				<span>Även inom prostatacancer skiljer sig vården markant mellan regionerna och variationen i väntetid på operation efter misstanke om cancer kan, enligt Nationella prostatacancerregistret, vara så stor som 81 till 260 dagar beroende på var i landet du bor. </span>
+			</p>
+			<p>
+				<span>För att minska de regionala skillnaderna och skapa en patientsäker, jämlik och nära vård i hela landet har samarbetspartierna inom ramen för Tidöavtalet slutit viktiga överenskommelser om en ökad statlig styrning, utvecklad sjukvård på lands- och glesbygd och en ökad samverkan mellan regionerna. Detta bland annat med en nationell vårdförmedling som ska synliggöra regionernas väntetider för olika behandlingar för att möjliggöra för individen att välja den vårdinrättning som har bäst tillgänglighet. Detta arbete kommer samarbetspartierna aktivt arbeta med under mandatperioden. Inom Tidö lyfter samarbetspartierna att cancervården och barncancervården ska utvecklas och förbättras. I arbetet lyfts särskilt behovet av att utveckla eftervård och rehabilitering. Utöver detta är partierna överens om att se över den nationella cancerstrategin. </span>
+			</p>
+			<h2>
+				<span>Erbjud mammografi till kvinnor över 74 år</span>
+			</h2>
+			<p class="Normalutanindragellerluft">
+				<span>Bröstcancer är kvinnors vanligaste cancersjukdom och cirka 20 kvinnor insjuknar varje dag. Sjukdomen drabbar framför allt medelålders och äldre personer. Var fjärde bröstcancer hittas hos en kvinna som är över 75 år. </span>
+			</p>
+			<p>
+				<span>Chansen att bli botad från bröstcancer har ökat de senaste årtiondena. Det beror främst på att allt fler fall upptäcks tidigt och att behandlingsmetoderna blivit bättre. Varje år kallas 1</span><span>&#xa0;</span><span>050</span><span>&#xa0;</span><span>000 kvinnor mellan 40 och 74 år till mammografiundersökning. 850</span><span>&#xa0;</span><span>000 (81 procent) screenas. Cirka 8</span><span>&#xa0;</span><span>000 kvinnor diagnostiseras med bröstcancer och hos cirka 60 procent har tumören upptäckts tack vare mammografin.</span>
+			</p>
+			<p>
+				<span>En tidig upptäckt av cancer skapar goda förutsättningar för en framgångsrik behandling och därmed ett gott liv, oavsett ålder. </span>
+			</p>
+			<p>
+				<span>Idag dör äldre kvinnor för att deras bröstcancer upptäcks försent. Tidig upptäckt genom mammografi kan leda till mindre invasiva behandlingar och bättre överlevnad, även i äldre åldersgrupper. Forskning har visat att äldre kvinnor som diagnostiseras tidigt har bättre chans att överleva och behålla en god livskvalitet. För att öka även äldre kvinnors deltagande i mammografi är det självklart att kvinnor över 74 år ska få genomgå kostnadsfri screening. Sverigedemokraterna anser att åldersgränsen bör slopas och att det bör bli obligatoriskt att erbjuda mammografi även till kvinnor som är äldre än 74 år.</span>
+			</p>
+			<h2>
+				<span>Brösttätheten och mammografiscreening</span>
+			</h2>
+			<p class="Normalutanindragellerluft">
+				<span>I Sverige har omkring 40 procent av kvinnorna mellan 40 och 74 år täta bröst och omkring tio procent har mycket täta bröst. Bröstens täthet har betydelse både för möjligheterna att hitta tumörer vid screening och för hur en effektiv och framgångsrik behandlingsregim ska utformas. Inom området finns behov av stärkt kunskaps</span><span>&#xad;</span><span>utveckling.</span>
+			</p>
+			<p>
+				<span>Sverigedemokraterna menar även att vi behöver ökad kunskap om riskfaktorer och riskmodeller för att kunna identifiera kvinnor med hög risk för bröstcancer. Studier framhåller att bland annat att rökvanor, alkoholvanor och familjehistoria är viktiga faktorer för att möjliggöra en relevant riskbedömning. Härtill pågår en snabb utveckling inom genomikområdet som kommer bidra både till det preventiva arbetet, tidig upptäckt och nya möjligheter med precisionsmedicin.</span>
+			</p>
+			<p>
+				<span>När det kommer till screening av täta bröst är vanlig mammografi inte alltid effektiv för att upptäcka cancer. </span><a name="_Hlk171935351"><span>Därför krävs att kunskapsutvecklingen på området påskyndas </span></a><span>avseende vilka metoder som är bäst lämpade för att hitta cancer i täta bröst. Men även ett aktivt arbete i regionerna för att tillämpa bästa kunskap så att den snabbt kommer kvinnor med täta bröst till del. Exempelvis är ultraljud, tomosyntes, kontraförstärkt mammografi och magnetkamera effektiva och mer optimala alternativ. Sverige</span><span>&#xad;</span><span>demokraterna anför att kvinnor i samband med mammografin ska få information om sina brösts täthet. Vidare ser vi det som angeläget att rutinerna för mammografi</span><span>&#xad;</span><span>screening, som varit standard i 30 år, nu ses över för att ta ett ytterligare steg mot tidig upptäckt och goda behandlingsmöjligheter av bröstcancer. Därutöver behöver kunskaperna om täta bröst stärkas och tillgängliggöras professioner och kvinnor. Det handlar om alla aspekter från prevention till tidig upptäckt och behandling. </span>
+			</p>
+			<h2>
+				<span>Mammografi med stöd av AI </span>
+			</h2>
+			<p class="Normalutanindragellerluft">
+				<span>Enligt europeisk standard granskas idag varje röntgenbild från mammografiunder</span><span>&#xad;</span><span>sökningarna av två röntgenläkare. Dubbelgranskning gör bedömningen säker och minskar risken för att något cancerfall missas. </span>
+			</p>
+			<p>
+				<span>En stor svensk studie om AI inom mammografi har fått stor uppmärksamhet och rankats som ett av de 10 viktigaste forskningsframstegen 2023 enligt Nature Medicine. Studien, ledd av Kristina Lång vid Lunds universitet, undersökte om AI kan ersätta en av de två radiologer som normalt granskar mammografibilder. Resultaten visade att AI kunde minska radiologernas arbetsbörda med 44 procent samtidigt som den upptäckte 20 procent fler cancerfall än den traditionella dubbelgranskningen. Detta visar att AI inte bara skulle kunna effektivisera arbetsprocessen utan även förbättra den tidiga upptäckten av bröstcancer.</span>
+			</p>
+			<p>
+				<span>Genom att analysera mammografibilder med hög precision kan AI hjälpa radiologer att upptäcka subtila tecken på bröstcancer, vilket minskar risken för missade diagnoser. Dessutom minskar AI antalet falska positiva resultat, vilket lindrar patienters oro och sparar vårdresurser. AI möjliggör också snabbare diagnoser genom att automatisera analysprocessen, vilket leder till snabbare behandlingar och förbättrade patientutfall. AI kan förbättra effektiviteten i bröstcancerscreening genom att skapa mer person</span><span>&#xad;</span><span>anpassade program baserade på individuella data, vilket leder till bättre vård och tidigare upptäckt av bröstcancer.</span>
+			</p>
+			<p>
+				<span>En annan studie, ”Människor tänker utanför pixlarna”, som var en liten studie utförd på en arbetsplats, visade att radiologerna ser AI som ett användbart verktyg för att stödja bröstcancerdiagnoser, men de betonar att mänskligt omdöme är oersättligt. Radiologerna var positiva till AI som komplement, men menade att AI ibland ger tvetydiga resultat. </span>
+			</p>
+			<p>
+				<span>För att AI ska kunna användas effektivt inom vården krävs fortsatt utveckling och finjustering av teknologin. Dessutom behöver AI-system utvecklas för att bättre förstå sammanhang och kliniska nyanser, vilket är avgörande för att minska risken för felaktiga diagnoser och för att säkerställa att AI fungerar som ett pålitligt stöd för vårdpersonal. </span>
+			</p>
+			<p>
+				<span>Regeringen bör arbeta för att främja fortsatt utveckling av AI inom vården, eftersom AI har potential att förbättra diagnostik, effektivisera vårdprocesser och avlasta vårdpersonal. Genom att investera i forskning och innovation kan AI-teknologier optimeras för att integreras bättre med befintliga vårdsystem, vilket kan leda till snabbare och mer precisa diagnoser samt förbättrad patientvård. Det är också viktigt att utveckla AI-system som kan förstå kliniska sammanhang och presentera resultat på ett sätt som är användbart för vårdpersonal, vilket kräver både teknisk och etisk utveckling. Detta skulle inte bara stärka vårdkvaliteten utan också bidra till en mer hållbar hälso- och sjukvård.</span>
+			</p>
+			<h2>
+				<span>Screening av livmoderhalscancer för kvinnor över 65 år </span>
+			</h2>
+			<p class="Normalutanindragellerluft">
+				<span>Omkring 32</span><span>&#xa0;</span><span>000 kvinnor får årligen besked om cellförändringar, och närmare 550 kvinnor insjuknar i livmoderhalscancer. Bland kvinnor i åldern 15–45 år är livmoder</span><span>&#xad;</span><span>halscancer den näst vanligaste cancerformen och cirka 160 kvinnor avlider årligen på grund av denna cancerform. I Sverige kallas alla kvinnor i åldern 23–49 år till screening vart tredje år, och kvinnor i åldern 50–64 vart sjunde år. Kvinnor över 65 år kallas således inte alls idag. Sverigedemokraterna vill att den övre åldersgränsen ses över så att även kvinnor som passerat 65 år blir kallade till screening av livmoderhalscancer, så kallad cellprovtagning. </span>
+			</p>
+			<h2>
+				<span>Vaccination mot HPV</span>
+			</h2>
+			<p class="Normalutanindragellerluft">
+				<span>HPV sprids genom sexuella kontakter. De flesta som har haft sex har någon gång fått en HPV-infektion. Oftast läker virusinfektionen ut av sig själv, men viruset kan ge svårare effekter såsom kondylom, cellförändringar och cancer. Vaccination innan första sexuella kontakten ger ett effektivt skydd mot HPV. Men eftersom det skyddar mot nya infektioner är det bra att vaccinera sig senare också. Sedan 2010 har HPV-vaccination ingått i det allmänna vaccinationsprogrammet för flickor i årskurs fem. Med ökad kunskap om HPV-relaterade cancerformer som även drabbar män, samt de positiva effekterna av att vaccinera både pojkar och flickor, erbjuds sedan höstterminen 2020 även pojkar i årskurs fem vaccinationer. Från och med 2021 erbjuds kvinnor i tjugoårs</span><span>&#xad;</span><span>åldern även s.k. catch-up-vaccination mot HPV. </span>
+			</p>
+			<p>
+				<span>Även pojkar/män drabbas av HPV-relaterad cancer; ca 300 drabbas varje år. Samtidigt är de förstås en del av smittspridningen och därför är det viktigt att även de vaccinerar sig.</span>
+			</p>
+			<p>
+				<span>Sverigedemokraterna är därför glada över att regeringen gett Folkhälsomyndigheten i uppdrag att se över behovet av ett vaccinationserbjudande till män och pojkar som inte fått det via det allmänna vaccinationsprogrammet. Sverigedemokraterna ser det som en viktig del i arbetet med att utrota cancer orsakad av HPV.</span>
+			</p>
+			<h2>
+				<span>Prostatacancer</span>
+			</h2>
+			<p class="Normalutanindragellerluft">
+				<span>Prostatacancer är Sveriges vanligaste cancersjukdom och drabbar främst äldre män över 70 år, men kan även drabba yngre. Omkring 10</span><span>&#xa0;</span><span>000 män per år drabbas av prostata</span><span>&#xad;</span><span>cancer. Cancerformen är svår att upptäcka tidigt eftersom den ofta inte ger några symptom alls i ett tidigt stadium. Däremot är det, likt de flesta cancersjukdomarna, större chans att den kan botas ju tidigare den upptäcks, och det pågår ett arbete med att se över och utveckla metoderna för tidig upptäckt av farliga tumörer. Historiskt har prostatacancer ofta identifierats genom PSA-test, som är ett blodprov som enkelt kan tas via en vårdcentral. Sedan några år finns ett mer pricksäkert test kallat Stockholm3-testet tillgängligt som ännu inte tillämpas i alla regioner.</span>
+			</p>
+			<p>
+				<span>Socialstyrelsen har avrått från ett nationellt screeningprogram för prostatacancer i dagsläget på grund av risk för överdiagnostik och överbehandling. Dock rekommen</span><span>&#xad;</span><span>deras att män informeras om fördelar och nackdelar med att testa sig. Det pågår nu regionala projekt med organiserad prostatacancertestning (OPT) i vissa regioner i Sverige. RCC (Regionala cancercentrum) i samverkan har, utifrån överenskommelsen mellan staten och SKR, i uppdrag att stödja regionerna i att organisera prostatacancer</span><span>&#xad;</span><span>testning av symtomfria män. Arbetet samordnas av en nationell arbetsgrupp med representanter från varje sjukvårdsregion. </span>
+			</p>
+			<p>
+				<span>Sverigedemokraterna anser att regeringen bör arbeta för att samtliga män över 50 år, eller som tillhör riskgrupp, och de som har två eller flera släktingar som tidigare haft prostatacancer, redan från 40 år ska få information hemskickad om för- och nackdelar med PSA-testning och att de som därefter önskar testa sig kallas till ett Stockholm3-test eller ett PSA-prov, oavsett vilken region de bor i.</span>
+			</p>
+			<p>
+				<span>Det är också av stor vikt att genom fortsatt forskning säkra att fördelarna med screening, i form av minskad dödlighet, tydligt överväger de negativa konsekvenserna samt att erhålla och tillvarata kunskaper genom OPT för att vidareutveckla och på sikt införa ett nationellt screeningprogram. Kunskapsutvecklingen på området behöver påskyndas och Socialstyrelsen bör på nytt utreda om ett nationellt screeningprogram för tidig upptäckt av prostatacancer bör införas. Genom screening och förebyggande insatser kan vi rädda liv. </span>
+			</p>
+			<h2>
+				<span>Utöka antalet screeningprogram</span>
+			</h2>
+			<p class="Normalutanindragellerluft">
+				<span>För att uppnå en lyckad behandling krävs tidiga insatser. Idag upptäcks en tredjedel av all cancer i ett tidigt stadium och därför måste vården kontinuerligt arbeta med att upptäcka och identifiera sjukdomar så tidigt som möjligt. De svenska satsningarna på regelbundna kallelser till mammografi och cellprovtagning har lett till en minskad dödlighet i bröstcancer och livmoderhalscancer, och därför ska dessa typer av screeningåtgärder där symptomfria individer undersöks i förebyggande syfte utökas. </span>
+			</p>
+			<p>
+				<span>En viktig satsning är således att introducera fler nationella screeningprogram.</span>
+			</p>
+			<p>
+				<span>Det är även viktigt att säkerställa att Sverige fortsätter vara i framkant inom cancervården och att undersöka möjligheterna att implementera screening inom de områden som föreslås i EU:s cancerstrategi. Det innefattar bland annat screening för hudcancer, tjocktarmscancer och lungcancer.</span>
+			</p>
+			<p>
+				<span>Regeringen bör därför se över möjligheten att introducera fler screeningprogram och ta det i beaktande i det fortsatta arbetet med att utveckla cancervården i Sverige.</span>
+			</p>
+			<h2>
+				<span>Bättre möjligheter för regionerna att bedriva cancerforskning</span>
+			</h2>
+			<p class="Normalutanindragellerluft">
+				<span>Sverige har länge legat i framkant inom cancerområdet, med allt från cancerdiagnos till behandling och rehabilitering. Vi menar att det är viktigt att vi fortsätter vara ett föregångsland och att vi bidrar till att bygga evidens om nya metoder liksom blir allt bättre på att effektivt implementera evidensbaserade metoder snabbt och likvärdigt över landet. Här spelar forskningen en viktig roll. </span>
+			</p>
+			<p>
+				<span>Den nationellt finansierade forskningen fungerar relativt väl i Sverige, men det är av stor vikt att även den regionala forskning som sker på sjukhus av exempelvis sjuk</span><span>&#xad;</span><span>sköterskor fortgår. Här är bland annat industrins finansiering av kliniska prövningar inom läkemedels- och medicinteknikområdet avgörande både för att skapa nya behandlingar och för att Sverige ska vara attraktivt för bolag att investera i. Men det handlar även om att Sverige behöver bli bolagens första marknad för nya innovativa lösningar och behandlingar. I grunden handlar det om samverkan mellan vård, akademi och industri. På grund av det arbetstryck som just nu finns i vården framkommer allt oftare att det är svårt att få personal att ta sig tid att delta i klinisk forskning. Sverige</span><span>&#xad;</span><span>demokraterna menar att regionerna behöver ges bättre möjligheter att prioritera forskning och här ser vi att en nationell styrning är viktig liksom att detta är en viktig del i att stärka svensk life science. </span>
+			</p>
+			<h2>
+				<span>Flytta cancerbehandling närmre hemmet</span>
+			</h2>
+			<p class="Normalutanindragellerluft">
+				<span>En av lösningarna på den demografiska utmaningen är arbetet med nära vård. Syftet är att stärka individens autonomi genom att skapa en effektivare vård närmre individen. I dagsläget har arbetet med nära vård framförallt drivits kopplat till primärvården. Det är nu hög tid att expandera arbetet med nära vård till att även omfatta den högspecialise</span><span>&#xad;</span><span>rade vården. Här finns, inom cancervården, stora möjligheter att avlasta sjukhusvården, frigöra vårdplatser, säkra att personalens tid läggs på rätt patienter liksom att stärka individen genom att möjliggöra behandlingar i hemmet för de individer där det är lämpligt. </span>
+			</p>
+			<p>
+				<span>Sverigedemokraterna menar därför att regionerna bör ges möjligheter att intensifiera arbetet med att flytta hem alla aspekter av cancervård till patienten; det handlar till exempel om att kunna ge cytostatika i hemmet eller övervaka biverkningar från behand</span><span>&#xad;</span><span>ling på distans. Arbetet både med möjligheten till behandling i hemmet liksom att kunna få en värdig och fridfull död.</span>
+			</p>
+			<h2>
+				<span>Stärk förutsättningarna till egenmonitorering</span>
+			</h2>
+			<p class="Normalutanindragellerluft">
+				<span>Mellan år 1980 och 2020 har antalet personer som lever med cancer fördubblats. Fler människor får cancerdiagnoser, men överlevnaden har också ökat betydligt, tack vare förbättrad diagnostik, tidig upptäckt och mer effektiva behandlingsmetoder, vilket är en stor framgång i svensk vård. Cancer ses därmed allt oftare som en kronisk sjukdom vilket ställer nya krav på hur vården bör arbeta för att stärka individen och dess när</span><span>&#xad;</span><span>stående. Det finns dock indikationer på att vården inte fullt ut mäktar med de förändrade och ökande behoven. Till exempel visar sig detta i Socialstyrelsens rapport Nationellt och regionalt arbete med standardiserade vårdförlopp där det framkommer att under första halvan av 2022 uppnådde bara 42 procent av cancerpatienterna ledtidsmålen i de standardiserade vårdförloppen, vilket är färre än tidigare. Det finns även indikationer på att cancerpatienter upplever en sämre livskvalitet än personer med andra kroniska sjukdomar.</span>
+			</p>
+			<p>
+				<span>I ljuset av behovet av att flytta cancervården närmre hemmet uppstår nya möjligheter att stärka individen och underlätta för vårdgivaren med hjälp av egenmonitorering. Detta på samma sätt som idag sker inom andra kroniska sjukdomar.</span>
+			</p>
+			<p>
+				<span>Myndigheten för vård- och omsorgsanalys har utrett hur olika typer av digitala stöd och tekniker kan bidra till en mer jämlik, effektiv och tillgänglig cancervård med ökad delaktighet från patienterna. </span>
+			</p>
+			<p>
+				<span>Flera aktuella rapporter pekar på att digital teknik för information och kommunika</span><span>&#xad;</span><span>tion kan ge patienter ökad tillgänglighet till vården liksom bättre förutsättningar att vara delaktiga i sin vård. Digitala stöd kan även ge förutsättningar för ökad jämlikhet genom att stärka de minst gynnade liksom bidra till effektivare vårdprocesser. Fransk forskning pekar även på att egenmonitorering under läkemedelsbehandlingen bidrar till ökad överlevnad och bättre livskvalitet. </span>
+			</p>
+			<p>
+				<span>Patientorganisationer inom cancerområdet är positiva till egenmonitorering som stöd för individen och önskar att utvecklingen påskyndas.</span>
+			</p>
+			<p>
+				<span>Sverigedemokraterna anser att det finns stöd både i pågående nationella strategier, i forskning och från patienter att skapa förutsättningar för regionerna att förstärka cancer</span><span>&#xad;</span><span>vården genom en utbyggd egenmonitorering. Det handlar om att kunna leva ett gott liv trots cancer.</span>
+			</p>
+			<h2>
+				<span>Stärk arbetet inom strålterapi</span>
+			</h2>
+			<p class="Normalutanindragellerluft">
+				<span>Generellt sett är strålterapi en viktig del av cancerbehandlingen, och utvecklingen inom området har varit betydande under de senaste decennierna. Modern strålterapi innefattar avancerade tekniker såsom intensitetsmodulerad strålbehandling (IMRT), bildstyrd strålbehandling (IGRT) och stereotaktisk strålterapi (SRT), vilka kan öka effektiviteten och minska biverkningarna för patienterna.</span>
+			</p>
+			<p>
+				<span>Strålbehandling är en grundläggande behandlingsform för cancer och är den enda botande behandlingen för många patienter, inklusive de med huvud-halscancer, barncancer och prostatacancer. Nästan hälften av alla cancerpatienter behöver strål</span><span>&#xad;</span><span>behandling, och antalet patienter förväntas öka på grund av nya indikationer och i kombination med nya läkemedel. I jämförelse med de nordiska grannländerna tappar svensk strålbehandling mark enligt rapporten Nordisk strålbehandling – en bench</span><span>&#xad;</span><span>markingstudie, som tagits fram av Regionala cancercentrumen i samverkan (RCC i samverkan) 2022. En av orsakerna är att tillgången till utrustning är avsevärt lägre i Sverige än i andra nordiska länder vilket bidrar till onödiga väntetider på strål</span><span>&#xad;</span><span>behandling.</span>
+			</p>
+			<p>
+				<span>Trots potentialerna är strålbehandling alltså underutnyttjad i Sverige, vilket innebär att fler patienter inte fullt ut ges de behandlingsmöjligheter som en cancervård i framkant bör prestera. Sverigedemokraterna anser därför att staten borde ta ett ökat ansvar för den svenska strålterapiinfrastrukturen i syfte att säkerställa en god tillgång på modern strålningsterapi. Vi bör även stärka förutsättningarna för klinisk forskning inom området både för att bygga kunskap om nya kombinationsbehandlingar och för att öka attraktiviteten inom området.</span>
+			</p>
+			<h2>
+				<span>Ett stärkt hälsoförebyggande arbete</span>
+			</h2>
+			<p class="Normalutanindragellerluft">
+				<span>Sverige har goda kunskaper om många riskfaktorer som kan öka förekomsten av ohälsa och att någon drabbas av cancer. Exponering av sol, rökning, övervikt och stillasittande har påvisats ha en negativ påverkan på kroppen och öka risken att utveckla olika cancer</span><span>&#xad;</span><span>former. Det är därför särskilt viktigt att dra nytta av de förebyggande insatser som vi redan nu vet fungerar som rörelse, hälsosamma matvanor, goda solvanor och näringsrikt innehåll inom samhällets alla verksamheter. Ett minskat intag av halvfabrikat bör vara ett mål i sig. Samhällets aktörer, däribland skolan, bör arbeta med att barn ska ges rörelse och frisk luft.</span>
+			</p>
+			<p>
+				<span>Rökningens hälsorisker är också väl kända, och trots det börjar de flesta som röker redan i tonåren. Det är dock ett faktum att rökningen minskat i Sverige. Trots det är det ett fortsatt stort hälsoproblem och omkring 6</span><span>&#xa0;</span><span>000 personer i Sverige drabbas årligen av cancer till följd av rökning och fem av tio dör till följd av rökningen. </span>
+			</p>
+			<p>
+				<span>Sverigedemokraterna anser att hälsoarbetet bör stärkas i hela landet för en välmående och frisk befolkning.</span>
+			</p>
+			<div style="-aw-sdt-tag:'CC_Underskrifter'; -aw-sdt-title:'CC_Underskrifter'">
+				<p>
+					<span style="-aw-import:ignore">&#xa0;</span>
+				</p>
+				<p>
+					<span style="-aw-import:ignore">&#xa0;</span>
+				</p>
+			</div>
+			<table cellspacing="0" cellpadding="0" style="width:100%; border-collapse:collapse">
+				<tr style="page-break-inside:avoid">
+					<td style="width:1%; padding-right:5.4pt; padding-left:5.4pt; vertical-align:bottom">
+						<p class="Underskrifter" style="margin-bottom:0pt">
+							<span>Carina Ståhl Herrstedt (SD)</span>
+						</p>
+					</td>
+					<td style="width:1%; padding-right:5.4pt; padding-left:5.4pt; vertical-align:bottom">
+						<p class="Underskrifter" style="margin-bottom:0pt">
+							<span style="-aw-import:ignore">&#xa0;</span>
+						</p>
+					</td>
+				</tr>
+				<tr style="page-break-inside:avoid">
+					<td style="width:1%; padding-right:5.4pt; padding-left:5.4pt; vertical-align:bottom">
+						<p class="Underskrifter" style="margin-bottom:0pt">
+							<span>Carita Boulwén (SD)</span>
+						</p>
+					</td>
+					<td style="width:1%; padding-right:5.4pt; padding-left:5.4pt; vertical-align:bottom">
+						<p class="Underskrifter" style="margin-bottom:0pt">
+							<span>Mona Olin (SD)</span>
+						</p>
+					</td>
+				</tr>
+				<tr style="page-break-inside:avoid">
+					<td style="width:1%; padding-right:5.4pt; padding-left:5.4pt; vertical-align:bottom">
+						<p class="Underskrifter" style="margin-bottom:0pt">
+							<span>Leonid Yurkovskiy (SD)</span>
+						</p>
+					</td>
+					<td style="width:1%; padding-right:5.4pt; padding-left:5.4pt; vertical-align:bottom">
+						<p class="Underskrifter" style="margin-bottom:0pt">
+							<span>Christian Lindefjärd (SD)</span>
+						</p>
+					</td>
+				</tr>
+			</table>
+			<p>
+				<span style="-aw-bookmark-end:_Hlk147328943"></span><span style="-aw-import:ignore">&#xa0;</span>
+			</p>
+		</div>
+	</div>

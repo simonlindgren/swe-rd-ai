@@ -1,0 +1,2157 @@
+SEARCH TERM: AI
+DOCUMENT ID: gr03149
+TITLE: Avtal mellan Sverige och Danmark om vissa skattefrågor m.m.
+TYPE: prop
+SUBTYPE: prop
+DATE: 2004-05-03
+PARLIAMENTARY YEAR: 2003/04
+ORGANISATION: FI
+STATUS: hämtad_2
+DOWNLOADED: 2026-01-22 10:29:04
+================================================================================
+
+<div style="margin:3px;">
+<STYLE type="text/css">
+
+body {margin-top: 0px;margin-left: 0px;}
+
+#page_1 {position:relative; overflow: hidden;z:b;margin:19px 0px 17px 10px ;padding: 0px;border: none;width: 947px;}
+
+
+
+
+
+#page_2 {position:relative; overflow: hidden;z:b;margin:19px 0px 17px 10px ;padding: 0px;border: none;width: 947px;}
+
+
+
+
+
+#page_3 {position:relative; overflow: hidden;z:b;margin:20px 0px 17px 10px ;padding: 0px;border: none;width: 947px;}
+
+
+
+
+
+#page_4 {position:relative; overflow: hidden;z:b;margin:20px 0px 17px 10px ;padding: 0px;border: none;width: 947px;}
+
+
+
+
+
+#page_5 {position:relative; overflow: hidden;z:b;margin:20px 0px 17px 10px ;padding: 0px;border: none;width: 947px;}
+
+
+
+
+
+#page_6 {position:relative; overflow: hidden;z:b;margin:20px 0px 17px 10px ;padding: 0px;border: none;width: 947px;}
+
+
+
+
+
+#page_7 {position:relative; overflow: hidden;z:b;margin:20px 0px 17px 10px ;padding: 0px;border: none;width: 947px;}
+
+
+
+
+
+#page_8 {position:relative; overflow: hidden;z:b;margin:20px 0px 17px 10px ;padding: 0px;border: none;width: 856px;}
+#page_8 #id_1 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 586px;overflow: hidden;}
+#page_8 #id_2 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 270px;overflow: hidden;}
+
+#page_8 #dimg1z{position:absolute;top:494px;left:0px;z-index:-1;width:150px;height:1px;font-size: 1px !important;l-h:nHeight;}
+#page_8 #dimg1 #img1  {width:150px;height:1px;}
+
+
+
+
+#page_9 {position:relative; overflow: hidden;z:b;margin:19px 0px 17px 10px ;padding: 0px;border: none;width: 947px;}
+
+
+
+
+
+#page_10 {position:relative; overflow: hidden;z:b;margin:20px 0px 17px 10px ;padding: 0px;border: none;width: 856px;}
+#page_10 #id_1 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 586px;overflow: hidden;}
+#page_10 #id_2 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 270px;overflow: hidden;}
+
+#page_10 #dimg1z{position:absolute;top:590px;left:0px;z-index:-1;width:154px;height:1px;font-size: 1px !important;l-h:nHeight;}
+#page_10 #dimg1 #img1  {width:154px;height:1px;}
+
+
+
+#page_10 #tx1 {position:absolute;top:210px;left:0px;width:86px;height:22px;}
+#page_10 #tx2 {position:absolute;top:229px;left:0px;width:333px;height:190px;}
+
+#page_11 {position:relative; overflow: hidden;z:b;margin:20px 0px 17px 10px ;padding: 0px;border: none;width: 947px;}
+
+
+
+
+
+#page_12 {position:relative; overflow: hidden;z:b;margin:20px 0px 17px 10px ;padding: 0px;border: none;width: 947px;}
+
+
+
+
+
+#page_13 {position:relative; overflow: hidden;z:b;margin:20px 0px 18px 10px ;padding: 0px;border: none;width: 766px;}
+
+
+
+
+
+#page_14 {position:relative; overflow: hidden;z:b;margin:20px 0px 17px 10px ;padding: 0px;border: none;width: 856px;}
+#page_14 #id_1 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 541px;overflow: hidden;}
+#page_14 #id_2 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 315px;overflow: hidden;}
+
+
+
+
+
+#page_15 {position:relative; overflow: hidden;z:b;margin:20px 0px 17px 10px ;padding: 0px;border: none;width: 856px;}
+#page_15 #id_1 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 541px;overflow: hidden;}
+#page_15 #id_2 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 315px;overflow: hidden;}
+
+
+
+
+
+#page_16 {position:relative; overflow: hidden;z:b;margin:20px 0px 17px 10px ;padding: 0px;border: none;width: 856px;}
+#page_16 #id_1 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 541px;overflow: hidden;}
+#page_16 #id_2 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 315px;overflow: hidden;}
+
+
+
+
+
+#page_17 {position:relative; overflow: hidden;z:b;margin:20px 0px 17px 10px ;padding: 0px;border: none;width: 947px;}
+
+#page_17 #dimg1z{position:absolute;top:530px;left:63px;z-index:-1;width:488px;height:100px;}
+#page_17 #dimg1 #img1  {width:488px;height:100px;}
+
+
+
+
+#page_18 {position:relative; overflow: hidden;z:b;margin:20px 0px 18px 10px ;padding: 0px;border: none;width: 766px;}
+
+
+
+
+
+#page_19 {position:relative; overflow: hidden;z:b;margin:20px 0px 17px 10px ;padding: 0px;border: none;width: 856px;}
+#page_19 #id_1 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 541px;overflow: hidden;}
+#page_19 #id_2 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 315px;overflow: hidden;}
+
+
+
+
+
+#page_20 {position:relative; overflow: hidden;z:b;margin:20px 0px 17px 10px ;padding: 0px;border: none;width: 947px;}
+
+#page_20 #dimg1z{position:absolute;top:302px;left:63px;z-index:-1;width:488px;height:81px;}
+#page_20 #dimg1 #img1  {width:488px;height:81px;}
+
+
+
+
+#page_21 {position:relative; overflow: hidden;z:b;margin:20px 0px 17px 10px ;padding: 0px;border: none;width: 947px;}
+
+
+
+
+
+#page_22 {position:relative; overflow: hidden;z:b;margin:20px 0px 17px 10px ;padding: 0px;border: none;width: 856px;}
+#page_22 #id_1 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 541px;overflow: hidden;}
+#page_22 #id_2 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 315px;overflow: hidden;}
+
+
+
+
+
+#page_23 {position:relative; overflow: hidden;z:b;margin:20px 0px 18px 10px ;padding: 0px;border: none;width: 856px;}
+#page_23 #id_1 {border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 811px;overflow: hidden;}
+#page_23 #id_1 #id_1_1 {float:left;border:none;z:b;margin:3px 0px 0px 10px ;padding: 0px;border:none;width: 586px;overflow: hidden;}
+#page_23 #id_1 #id_1_2 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 270px;overflow: hidden;}
+#page_23 #id_2 {border:none;z:b;margin:10px 0px 0px 10px ;padding: 0px;border:none;width: 721px;overflow: hidden;}
+
+
+
+
+
+#page_24 {position:relative; overflow: hidden;z:b;margin:19px 0px 17px 10px ;padding: 0px;border: none;width: 947px;}
+
+#page_24 #dimg1z{position:absolute;top:747px;left:63px;z-index:-1;width:154px;height:1px;font-size: 1px !important;l-h:nHeight;}
+#page_24 #dimg1 #img1  {width:154px;height:1px;}
+
+
+
+
+#page_25 {position:relative; overflow: hidden;z:b;margin:19px 0px 18px 10px ;padding: 0px;border: none;width: 856px;}
+
+
+
+
+
+#page_26 {position:relative; overflow: hidden;z:b;margin:20px 0px 17px 10px ;padding: 0px;border: none;width: 856px;}
+#page_26 #id_1 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 586px;overflow: hidden;}
+#page_26 #id_2 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 270px;overflow: hidden;}
+
+#page_26 #dimg1z{position:absolute;top:629px;left:0px;z-index:-1;width:154px;height:1px;font-size: 1px !important;l-h:nHeight;}
+#page_26 #dimg1 #img1  {width:154px;height:1px;}
+
+
+
+
+#page_27 {position:relative; overflow: hidden;z:b;margin:19px 0px 17px 10px ;padding: 0px;border: none;width: 856px;}
+
+
+
+
+
+#page_28 {position:relative; overflow: hidden;z:b;margin:19px 0px 17px 10px ;padding: 0px;border: none;width: 947px;}
+
+
+
+
+
+#page_29 {position:relative; overflow: hidden;z:b;margin:20px 0px 17px 10px ;padding: 0px;border: none;width: 856px;}
+#page_29 #id_1 {float:left;border:none;z:b;margin:3px 0px 0px 10px ;padding: 0px;border:none;width: 586px;overflow: hidden;}
+#page_29 #id_2 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 270px;overflow: hidden;}
+
+#page_29 #dimg1z{position:absolute;top:238px;left:1px;z-index:-1;width:151px;height:1px;font-size: 1px !important;l-h:nHeight;}
+#page_29 #dimg1 #img1  {width:151px;height:1px;}
+
+
+
+
+.dclr {clear:both;float:none;height:1px;margin:0px;padding:0px;overflow:hidden;}
+
+.ft0{font:  20px 'Verdana' !important;l-h: 36px;}
+.ft1{font:  14px 'Verdana' !important;l-h: 17px;}
+.ft2{font:  10px 'Verdana' !important;l-h: 16px;}
+.ft3{font:  10px 'Verdana' !important;l-h: 1px;}
+.ft4{font:  16px 'Verdana' !important;l-h: 26px;}
+.ft5{font:  14px 'Verdana' !important;l-h: 19px;}
+.ft6{font:  14px 'Verdana' !important;l-h: 19px;}
+.ft7{font:  14px 'Verdana' !important;l-h: 18px;}
+.ft8{font:  14px 'Verdana' !important;margin-left: 40px;l-h: 19px;}
+.ft9{font:  10px 'Verdana' !important;l-h: 2px;}
+.ft10{font:  14px 'Verdana' !important;l-h: 18px;}
+.ft11{font:  14px 'Verdana' !important;margin-left: 8px;l-h: 19px;}
+.ft12{font:  14px 'Verdana' !important;margin-left: 5px;l-h: 19px;}
+.ft13{font:  14px 'Verdana' !important;margin-left: 6px;l-h: 19px;}
+.ft14{font:  14px 'Verdana' !important;margin-left: 51px;l-h: 20px;}
+.ft15{font:  14px 'Verdana' !important;l-h: 20px;}
+.ft16{font:  12px 'Verdana' !important;l-h: 14px;position: relative; bottom: 7px;}
+.ft17{font:  14px 'Verdana' !important;text-decoration: underline;l-h: 19px;}
+.ft18{font:  10px 'Verdana' !important;l-h: 12px;position: relative; bottom: 6px;}
+.ft19{font:  12px 'Verdana' !important;l-h: 15px;}
+.ft20{font:  14px 'Verdana' !important;l-h: 19px;}
+.ft21{font:  14px 'Verdana' !important;margin-left: 4px;l-h: 19px;}
+.ft22{font:  14px 'Verdana' !important;margin-left: 7px;l-h: 19px;}
+.ft23{font:  14px 'Verdana' !important;margin-left: 5px;l-h: 18px;}
+.ft24{font:  14px 'Verdana' !important;margin-left: 10px;l-h: 19px;}
+.ft25{font:  14px 'Verdana' !important;margin-left: 10px;l-h: 18px;}
+.ft26{font:  14px 'Verdana' !important;margin-left: 9px;l-h: 19px;}
+.ft27{font:  14px 'Verdana' !important;margin-left: 9px;l-h: 19px;}
+.ft28{font:  14px 'Verdana' !important;l-h: 19px;}
+.ft29{font:  14px 'Verdana' !important;margin-left: 6px;l-h: 19px;}
+.ft30{font:  14px 'Verdana' !important;margin-left: 13px;l-h: 19px;}
+.ft31{font:  14px 'Verdana' !important;margin-left: 4px;l-h: 18px;}
+.ft32{font:  14px 'Verdana' !important;l-h: 21px;}
+.ft33{font:  10px 'Verdana' !important;l-h: 12px;position: relative; bottom: 7px;}
+.ft34{font:  14px 'Verdana' !important;margin-left: 5px;l-h: 18px;}
+.ft35{font:  14px 'Verdana' !important;l-h: 18px;}
+.ft36{font:  14px 'Verdana' !important;margin-left: 5px;l-h: 19px;}
+.ft37{font:  14px 'Verdana' !important;margin-left: 5px;l-h: 19px;}
+.ft38{font:  14px 'Verdana' !important;margin-left: 51px;l-h: 22px;}
+.ft39{font:  14px 'Verdana' !important;l-h: 22px;}
+.ft40{font:  14px 'Verdana' !important;l-h: 17px;}
+.ft41{font:  10px 'Verdana' !important;l-h: 5px;}
+.ft42{font:  12px 'Verdana' !important;l-h: 16px;}
+.ft43{font:  14px 'Verdana' !important;margin-left: 20px;l-h: 16px;}
+.ft44{font:  14px 'Verdana' !important;l-h: 16px;}
+.ft45{font:  14px 'Verdana' !important;margin-left: 20px;l-h: 17px;}
+.ft46{font:  14px 'Verdana' !important;l-h: 14px;}
+.ft47{font:  10px 'Verdana' !important;l-h: 13px;}
+.ft48{font:  10px 'Verdana' !important;l-h: 3px;}
+.ft49{font:  14px 'Verdana' !important;l-h: 19px;}
+.ft50{font:  14px 'Verdana' !important;margin-left: 11px;l-h: 19px;}
+.ft51{font:  14px 'Verdana' !important;margin-left: 4px;l-h: 19px;}
+.ft52{font:  14px 'Verdana' !important;margin-left: 7px;l-h: 19px;}
+.ft53{font:  14px 'Verdana' !important;margin-left: 17px;l-h: 19px;}
+.ft54{font:  10px 'Verdana' !important;l-h: 18px;}
+.ft55{font:  10px 'Verdana' !important;l-h: 8px;}
+.ft56{font:  14px 'Verdana' !important;margin-left: 8px;l-h: 18px;}
+.ft57{font:  14px 'Verdana' !important;margin-left: 9px;l-h: 19px;}
+.ft58{font:  10px 'Verdana' !important;l-h: 7px;}
+
+.p0{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p1{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p2{text-align: left;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p3{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p4{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p5{text-align: left;padding-left: 160px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p6{text-align: left;padding-left: 0px;margin-top: 66px;margin-bottom: 0px !important;}
+.p7{text-align: left;padding-left: 0px;padding-right: 294px;margin-top: 34px;margin-bottom: 0px !important;}
+.p8{text-align: left;padding-left: 0px;padding-right: 294px;margin-top: 1px;margin-bottom: 0px !important;text-indent: 15px;}
+.p9{text-align: right;padding-right: 84px;margin-top: 187px;margin-bottom: 0px !important;}
+.p10{text-align: right;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p11{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p12{text-align: right;padding-right: 147px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p13{text-align: right;padding-right: 1px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p14{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p15{text-align: left;padding-left: 0px;margin-top: 2px;margin-bottom: 0px !important;}
+.p16{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p17{text-align: right;padding-right: 21px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p18{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;}
+.p19{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p20{text-align: right;padding-right: 84px;margin-top: 217px;margin-bottom: 0px !important;}
+.p21{text-align: right;padding-right: 21px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p22{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p23{text-align: left;padding-left: 0px;margin-top: 16px;margin-bottom: 0px !important;}
+.p24{text-align: left;padding-left: 0px;padding-right: 294px;margin-top: 0px;margin-bottom: 0px !important;text-indent: 15px;}
+.p25{text-align: left;padding-left: 0px;padding-right: 294px;margin-top: 0px;margin-bottom: 0px !important;text-indent: 15px;}
+.p26{text-align: right;padding-right: 84px;margin-top: 792px;margin-bottom: 0px !important;}
+.p27{text-align: left;padding-left: 120px;padding-right: 294px;margin-top: 41px;margin-bottom: 0px !important;text-indent: 0.75px;}
+.p28{text-align: left;padding-left: 0px;padding-right: 294px;margin-top: 15px;margin-bottom: 0px !important;text-indent: 15px;}
+.p29{text-align: left;padding-left: 0px;margin-top: 1px;margin-bottom: 0px !important;}
+.p30{text-align: left;padding-left: 280px;margin-top: 18px;margin-bottom: 0px !important;}
+.p31{text-align: left;padding-left: 0px;padding-right: 294px;margin-top: 1px;margin-bottom: 0px !important;text-indent: 15px;}
+.p32{text-align: left;padding-left: 300px;padding-right: 294px;margin-top: 1px;margin-bottom: 0px !important;text-indent: 15px;}
+.p33{text-align: left;padding-left: 0px;margin-top: 25px;margin-bottom: 0px !important;}
+.p34{text-align: right;padding-right: 84px;margin-top: 5px;margin-bottom: 0px !important;}
+.p35{text-align: left;padding-left: 560px;margin-top: 0px;margin-bottom: 0px !important;}
+.p36{text-align: left;padding-left: 480px;margin-top: 21px;margin-bottom: 0px !important;}
+.p37{text-align: left;padding-left: 0px;margin-top: 14px;margin-bottom: 0px !important;}
+.p38{text-align: left;padding-left: 0px;padding-right: 315px;margin-top: 0px;margin-bottom: 0px !important;}
+.p39{text-align: left;padding-left: 0px;padding-right: 294px;margin-top: 8px;margin-bottom: 0px !important;text-indent: 15px;}
+.p40{text-align: left;padding-left: 0px;margin-top: 20px;margin-bottom: 0px !important;}
+.p41{text-align: left;padding-left: 0px;padding-right: 294px;margin-top: 19px;margin-bottom: 0px !important;text-indent: 15px;}
+.p42{text-align: left;padding-left: 0px;margin-top: 2px;margin-bottom: 0px !important;}
+.p43{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;}
+.p44{text-align: left;padding-left: 0px;padding-right: 294px;margin-top: 0px;margin-bottom: 0px !important;}
+.p45{text-align: left;padding-left: 0px;margin-top: 1px;margin-bottom: 0px !important;}
+.p46{text-align: left;padding-left: 0px;margin-top: 23px;margin-bottom: 0px !important;}
+.p47{text-align: left;padding-left: 0px;padding-right: 294px;margin-top: 20px;margin-bottom: 0px !important;text-indent: 15px;}
+.p48{text-align: right;padding-right: 84px;margin-top: 28px;margin-bottom: 0px !important;}
+.p49{text-align: left;padding-left: 0px;padding-right: 84px;margin-top: 0px;margin-bottom: 0px !important;text-indent: 15px;}
+.p50{text-align: left;padding-left: 0px;padding-right: 294px;margin-top: 0px;margin-bottom: 0px !important;}
+.p51{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;}
+.p52{text-align: left;padding-left: 0px;padding-right: 294px;margin-top: 2px;margin-bottom: 0px !important;text-indent: 15px;}
+.p53{text-align: left;padding-left: 0px;padding-right: 294px;margin-top: 19px;margin-bottom: 0px !important;text-indent: 15px;}
+.p54{text-align: left;padding-left: 0px;margin-top: 20px;margin-bottom: 0px !important;}
+.p55{text-align: left;padding-left: 0px;margin-top: 19px;margin-bottom: 0px !important;}
+.p56{text-align: left;padding-left: 0px;margin-top: 1px;margin-bottom: 0px !important;}
+.p57{text-align: right;padding-right: 84px;margin-top: 29px;margin-bottom: 0px !important;}
+.p58{text-align: left;padding-left: 0px;padding-right: 84px;margin-top: 0px;margin-bottom: 0px !important;}
+.p59{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;}
+.p60{text-align: left;padding-left: 0px;padding-right: 294px;margin-top: 20px;margin-bottom: 0px !important;text-indent: 15px;}
+.p61{text-align: right;padding-right: 84px;margin-top: 30px;margin-bottom: 0px !important;}
+.p62{text-align: left;padding-right: 0px;margin-top: 0px;margin-bottom: 0px !important;text-indent: 15px;}
+.p63{text-align: left;margin-top: 21px;margin-bottom: 0px !important;}
+.p64{text-align: left;padding-right: 0px;margin-top: 19px;margin-bottom: 0px !important;text-indent: 15px;}
+.p65{text-align: left;padding-right: 0px;margin-top: 20px;margin-bottom: 0px !important;text-indent: 15px;}
+.p66{text-align: left;padding-left: 0px;margin-top: 21px;margin-bottom: 0px !important;}
+.p67{text-align: left;padding-left: 0px;margin-top: 1px;margin-bottom: 0px !important;}
+.p68{text-align: left;padding-right: 0px;margin-top: 1px;margin-bottom: 0px !important;}
+.p69{text-align: left;padding-right: 0px;margin-top: 0px;margin-bottom: 0px !important;text-indent: 15px;}
+.p70{text-align: left;margin-top: 0px;margin-bottom: 0px !important;}
+.p71{text-align: right;padding-right: 84px;margin-top: 949px;margin-bottom: 0px !important;}
+.p72{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p73{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p74{text-align: left;padding-left: 280px;margin-top: 22px;margin-bottom: 0px !important;}
+.p75{text-align: left;padding-left: 0px;margin-top: 2px;margin-bottom: 0px !important;}
+.p76{text-align: left;padding-left: 0px;padding-right: 294px;margin-top: 3px;margin-bottom: 0px !important;text-indent: 15px;}
+.p77{text-align: left;padding-left: 0px;margin-top: 28px;margin-bottom: 0px !important;}
+.p78{text-align: left;padding-right: 0px;margin-top: 0px;margin-bottom: 0px !important;text-indent: 15px;}
+.p79{text-align: left;padding-left: 0px;padding-right: 0px;margin-top: 1px;margin-bottom: 0px !important;}
+.p80{text-align: left;padding-left: 220px;padding-right: 0px;margin-top: 22px;margin-bottom: 0px !important;text-indent: 15px;}
+.p81{text-align: left;padding-left: 220px;margin-top: 1px;margin-bottom: 0px !important;}
+.p82{text-align: left;padding-left: 220px;padding-right: 0px;margin-top: 0px;margin-bottom: 0px !important;}
+.p83{text-align: left;padding-right: 0px;margin-top: 1px;margin-bottom: 0px !important;text-indent: 15px;}
+.p84{text-align: left;padding-right: 0px;margin-top: 20px;margin-bottom: 0px !important;text-indent: 15px;}
+.p85{text-align: right;padding-right: 63px;margin-top: 949px;margin-bottom: 0px !important;}
+.p86{text-align: left;padding-left: 0px;margin-top: 1px;margin-bottom: 0px !important;}
+.p87{text-align: left;padding-left: 0px;padding-right: 294px;margin-top: 15px;margin-bottom: 0px !important;}
+.p88{text-align: left;padding-left: 0px;margin-top: 40px;margin-bottom: 0px !important;}
+.p89{text-align: left;padding-left: 0px;padding-right: 294px;margin-top: 10px;margin-bottom: 0px !important;}
+.p90{text-align: right;padding-right: 63px;margin-top: 39px;margin-bottom: 0px !important;}
+.p91{text-align: left;padding-left: 0px;padding-right: 294px;margin-top: 0px;margin-bottom: 0px !important;}
+.p92{text-align: left;padding-left: 0px;margin-top: 55px;margin-bottom: 0px !important;}
+.p93{text-align: left;padding-left: 0px;margin-top: 18px;margin-bottom: 0px !important;}
+.p94{text-align: left;padding-left: 0px;padding-right: 294px;margin-top: 11px;margin-bottom: 0px !important;}
+.p95{text-align: left;padding-left: 120px;padding-right: 378px;margin-top: 43px;margin-bottom: 0px !important;text-indent: 0.75px;}
+.p96{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;}
+.p97{text-align: right;padding-right: 63px;margin-top: 0px;margin-bottom: 0px !important;}
+.p98{text-align: left;padding-right: 9px;margin-top: 0px;margin-bottom: 0px !important;}
+.p99{text-align: left;padding-right: 147px;margin-top: 0px;margin-bottom: 0px !important;}
+.p100{text-align: left;padding-left: 0px;padding-right: 189px;margin-top: 54px;margin-bottom: 0px !important;text-indent: 0.75px;}
+.p101{text-align: left;padding-right: 1px;margin-top: 0px;margin-bottom: 0px !important;}
+.p102{text-align: left;margin-top: 0px;margin-bottom: 0px !important;text-indent: 15px;}
+.p103{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;text-indent: 0.32px;}
+.p104{text-align: left;padding-left: 0px;padding-right: 1px;margin-top: 0px;margin-bottom: 0px !important;text-indent: 0.32px;}
+.p105{text-align: left;padding-right: 1px;margin-top: 0px;margin-bottom: 0px !important;text-indent: 15px;}
+.p106{text-align: left;margin-top: 1px;margin-bottom: 0px !important;text-indent: 15px;}
+.p107{text-align: left;margin-top: 2px;margin-bottom: 0px !important;text-indent: 15px;}
+.p108{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;}
+.p109{text-align: left;margin-top: 0px;margin-bottom: 0px !important;}
+.p110{text-align: left;margin-top: 3px;margin-bottom: 0px !important;text-indent: 15px;}
+.p111{text-align: left;padding-right: 1px;margin-top: 2px;margin-bottom: 0px !important;text-indent: 15px;}
+.p112{text-align: left;padding-left: 0px;margin-top: 53px;margin-bottom: 0px !important;}
+.p113{text-align: left;padding-left: 0px;padding-right: 315px;margin-top: 13px;margin-bottom: 0px !important;}
+.p114{text-align: left;padding-left: 0px;padding-right: 294px;margin-top: 22px;margin-bottom: 0px !important;text-indent: 15px;}
+.p115{text-align: center;padding-right: 126px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p116{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p117{text-align: center;padding-right: 42px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p118{text-align: left;padding-right: 1px;margin-top: 3px;margin-bottom: 0px !important;text-indent: 15px;}
+.p119{text-align: left;margin-top: 5px;margin-bottom: 0px !important;text-indent: 15px;}
+.p120{text-align: left;padding-left: 0px;margin-top: 43px;margin-bottom: 0px !important;}
+.p121{text-align: left;padding-left: 0px;padding-right: 294px;margin-top: 13px;margin-bottom: 0px !important;}
+.p122{text-align: left;padding-left: 0px;padding-right: 294px;margin-top: 25px;margin-bottom: 0px !important;}
+.p123{text-align: left;padding-left: 0px;margin-top: 54px;margin-bottom: 0px !important;}
+.p124{text-align: left;padding-left: 0px;padding-right: 294px;margin-top: 15px;margin-bottom: 0px !important;}
+.p125{text-align: right;padding-right: 63px;margin-top: 12px;margin-bottom: 0px !important;}
+.p126{text-align: left;padding-left: 120px;padding-right: 357px;margin-top: 18px;margin-bottom: 0px !important;text-indent: 0.75px;}
+.p127{text-align: left;padding-left: 0px;margin-top: 15px;margin-bottom: 0px !important;}
+.p128{text-align: left;padding-left: 0px;padding-right: 294px;margin-top: 0px;margin-bottom: 0px !important;}
+.p129{text-align: left;padding-left: 120px;padding-right: 378px;margin-top: 42px;margin-bottom: 0px !important;text-indent: 0.75px;}
+.p130{text-align: left;padding-left: 0px;margin-top: 11px;margin-bottom: 0px !important;}
+.p131{text-align: left;padding-left: 0px;padding-right: 294px;margin-top: 2px;margin-bottom: 0px !important;text-indent: 15px;}
+.p132{text-align: left;padding-right: 0px;margin-top: 0px;margin-bottom: 0px !important;}
+.p133{text-align: left;padding-right: 0px;margin-top: 18px;margin-bottom: 0px !important;}
+.p134{text-align: left;padding-right: 0px;margin-top: 17px;margin-bottom: 0px !important;text-indent: 15px;}
+.p135{text-align: left;padding-left: 200px;margin-top: 21px;margin-bottom: 0px !important;}
+.p136{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;}
+.p137{text-align: left;padding-right: 0px;margin-top: 0px;margin-bottom: 0px !important;}
+.p138{text-align: left;margin-top: 1px;margin-bottom: 0px !important;}
+.p139{text-align: left;padding-right: 0px;margin-top: 1px;margin-bottom: 0px !important;text-indent: 15px;}
+.p140{text-align: right;padding-right: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p141{text-align: right;padding-right: 609px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p142{text-align: right;padding-right: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p143{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p144{text-align: right;padding-right: 63px;margin-top: 182px;margin-bottom: 0px !important;}
+.p145{text-align: left;padding-right: 357px;margin-top: 13px;margin-bottom: 0px !important;}
+.p146{text-align: left;padding-right: 294px;margin-top: 11px;margin-bottom: 0px !important;text-indent: 15px;}
+.p147{text-align: left;padding-right: 294px;margin-top: 1px;margin-bottom: 0px !important;text-indent: 15px;}
+.p148{text-align: left;padding-right: 294px;margin-top: 0px;margin-bottom: 0px !important;text-indent: 15px;}
+.p149{text-align: left;margin-top: 2px;margin-bottom: 0px !important;}
+.p150{text-align: left;padding-right: 294px;margin-top: 0px;margin-bottom: 0px !important;text-indent: 15px;}
+.p151{text-align: left;padding-right: 294px;margin-top: 1px;margin-bottom: 0px !important;text-indent: 15px;}
+.p152{text-align: left;padding-right: 0px;margin-top: 0px;margin-bottom: 0px !important;}
+.p153{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p154{text-align: right;padding-right: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p155{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p156{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p157{text-align: left;padding-left: 220px;padding-right: 0px;margin-top: 2px;margin-bottom: 0px !important;}
+.p158{text-align: left;padding-right: 0px;margin-top: 21px;margin-bottom: 0px !important;text-indent: 15px;}
+.p159{text-align: right;padding-right: 63px;margin-top: 930px;margin-bottom: 0px !important;}
+.p160{text-align: right;margin-top: 60px;margin-bottom: 0px !important;}
+.p161{text-align: right;padding-right: 105px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p162{text-align: right;padding-right: 63px;margin-top: 835px;margin-bottom: 0px !important;}
+.p163{text-align: left;margin-top: 15px;margin-bottom: 0px !important;}
+.p164{text-align: left;padding-right: 0px;margin-top: 19px;margin-bottom: 0px !important;}
+.p165{text-align: left;margin-top: 20px;margin-bottom: 0px !important;}
+.p166{text-align: left;padding-right: 0px;margin-top: 77px;margin-bottom: 0px !important;}
+
+.td0{padding: 0px;margin: 0px;width: 477px;vertical-align: bottom;}
+.td1{padding: 0px;margin: 0px;width: 186px;vertical-align: bottom;}
+.td2{padding: 0px;margin: 0px;width: 183px;vertical-align: bottom;}
+.td3{padding: 0px;margin: 0px;width: 3px;vertical-align: bottom;}
+.td4{border-bottom: #000000 1px solid;padding: 0px;margin: 0px;width: 477px;vertical-align: bottom;}
+.td5{border-bottom: #000000 1px solid;padding: 0px;margin: 0px;width: 183px;vertical-align: bottom;}
+.td6{padding: 0px;margin: 0px;width: 506px;vertical-align: bottom;}
+.td7{padding: 0px;margin: 0px;width: 157px;vertical-align: bottom;}
+.td8{padding: 0px;margin: 0px;width: 8px;vertical-align: bottom;}
+.td9{padding: 0px;margin: 0px;width: 497px;vertical-align: bottom;}
+.td10{padding: 0px;margin: 0px;width: 80px;vertical-align: bottom;}
+.td11{padding: 0px;margin: 0px;width: 416px;vertical-align: bottom;}
+.td12{padding: 0px;margin: 0px;width: 69px;vertical-align: bottom;}
+.td13{padding: 0px;margin: 0px;width: 418px;vertical-align: bottom;}
+.td14{padding: 0px;margin: 0px;width: 18px;vertical-align: bottom;}
+.td15{padding: 0px;margin: 0px;width: 488px;vertical-align: bottom;}
+.td16{padding: 0px;margin: 0px;width: 420px;vertical-align: bottom;}
+.td17{padding: 0px;margin: 0px;width: 17px;vertical-align: bottom;}
+.td18{padding: 0px;margin: 0px;width: 489px;vertical-align: bottom;}
+.td19{padding: 0px;margin: 0px;width: 399px;vertical-align: bottom;}
+.td20{padding: 0px;margin: 0px;width: 78px;vertical-align: bottom;}
+.td21{padding: 0px;margin: 0px;width: 45px;vertical-align: bottom;}
+.td22{padding: 0px;margin: 0px;width: 130px;vertical-align: bottom;}
+.td23{padding: 0px;margin: 0px;width: 269px;vertical-align: bottom;}
+.td24{padding: 0px;margin: 0px;width: 132px;vertical-align: bottom;}
+.td25{padding: 0px;margin: 0px;width: 52px;vertical-align: bottom;}
+.td26{padding: 0px;margin: 0px;width: 480px;vertical-align: bottom;}
+.td27{padding: 0px;margin: 0px;width: 533px;vertical-align: bottom;}
+.td28{padding: 0px;margin: 0px;width: 265px;vertical-align: bottom;}
+.td29{padding: 0px;margin: 0px;width: 267px;vertical-align: bottom;}
+.td30{padding: 0px;margin: 0px;width: 585px;vertical-align: bottom;}
+.td31{padding: 0px;margin: 0px;width: 87px;vertical-align: bottom;}
+.td32{padding: 0px;margin: 0px;width: 507px;vertical-align: bottom;}
+.td33{padding: 0px;margin: 0px;width: 2px;vertical-align: bottom;}
+.td34{padding: 0px;margin: 0px;width: 76px;vertical-align: bottom;}
+.td35{padding: 0px;margin: 0px;width: 512px;vertical-align: bottom;}
+.td36{padding: 0px;margin: 0px;width: 71px;vertical-align: bottom;}
+.td37{border-right: #000000 1px solid;padding: 0px;margin: 0px;width: 1px;vertical-align: bottom;}
+.td38{border-right: #000000 1px solid;border-top: #000000 1px solid;padding: 0px;margin: 0px;width: 511px;vertical-align: bottom;}
+.td39{border-right: #000000 1px solid;padding: 0px;margin: 0px;width: 511px;vertical-align: bottom;}
+.td40{border-right: #000000 1px solid;border-bottom: #000000 1px solid;padding: 0px;margin: 0px;width: 511px;vertical-align: bottom;}
+.td41{padding: 0px;margin: 0px;width: 583px;vertical-align: bottom;}
+.td42{padding: 0px;margin: 0px;width: 435px;vertical-align: bottom;}
+.td43{padding: 0px;margin: 0px;width: 408px;vertical-align: bottom;}
+.td44{padding: 0px;margin: 0px;width: 264px;vertical-align: bottom;}
+.td45{padding: 0px;margin: 0px;width: 70px;vertical-align: bottom;}
+.td46{padding: 0px;margin: 0px;width: 143px;vertical-align: bottom;}
+.td47{padding: 0px;margin: 0px;width: 36px;vertical-align: bottom;}
+.td48{padding: 0px;margin: 0px;width: 250px;vertical-align: bottom;}
+.td49{padding: 0px;margin: 0px;width: 214px;vertical-align: bottom;}
+.td50{padding: 0px;margin: 0px;width: 43px;vertical-align: bottom;}
+.td51{padding: 0px;margin: 0px;width: 222px;vertical-align: bottom;}
+.td52{padding: 0px;margin: 0px;width: 180px;vertical-align: bottom;}
+.td53{padding: 0px;margin: 0px;width: 0px;vertical-align: bottom;}
+.td54{padding: 0px;margin: 0px;width: 61px;vertical-align: bottom;}
+.td55{padding: 0px;margin: 0px;width: 49px;vertical-align: bottom;}
+.td56{padding: 0px;margin: 0px;width: 97px;vertical-align: bottom;}
+.td57{padding: 0px;margin: 0px;width: 21px;vertical-align: bottom;}
+.td58{padding: 0px;margin: 0px;width: 111px;vertical-align: bottom;}
+.td59{padding: 0px;margin: 0px;width: 42px;vertical-align: bottom;}
+.td60{padding: 0px;margin: 0px;width: 118px;vertical-align: bottom;}
+.td61{padding: 0px;margin: 0px;width: 147px;vertical-align: bottom;}
+
+.tr0{heightzzz: 39px;}
+.tr1{heightzzz: 23px;}
+.tr2{heightzzz: 16px;}
+.tr3{heightzzz: 37px;}
+.tr4{heightzzz: 47px;}
+.tr5{heightzzz: 27px;}
+.tr6{heightzzz: 28px;}
+.tr7{heightzzz: 43px;}
+.tr8{heightzzz: 38px;}
+.tr9{heightzzz: 60px;}
+.tr10{heightzzz: 19px;}
+.tr11{heightzzz: 31px;}
+.tr12{heightzzz: 20px;}
+.tr13{heightzzz: 25px;}
+.tr14{heightzzz: 18px;}
+.tr15{heightzzz: 22px;}
+.tr16{heightzzz: 33px;}
+.tr17{heightzzz: 24px;}
+.tr18{heightzzz: 5px;}
+.tr19{heightzzz: 13px;}
+.tr20{heightzzz: 21px;}
+.tr21{heightzzz: 3px;}
+.tr22{heightzzz: 2px;}
+.tr23{heightzzz: 32px;}
+.tr24{heightzzz: 11px;}
+.tr25{heightzzz: 8px;}
+.tr26{heightzzz: 7px;}
+
+.t0{width: 696px;margin-leftZ: 75px;f:17px 'Verdana' !important;}
+.t1{width: 695px;margin-leftZ: 76px;f:17px 'Verdana' !important;}
+.t2{width: 540px;margin-leftZ: 76px;f:17px 'Verdana' !important;}
+.t3{width: 540px;margin-leftZ: 76px;f:15px 'Verdana' !important;}
+.t4{width: 436px;margin-leftZ: 170px;f:15px 'Verdana' !important;}
+.t5{width: 695px;margin-leftZ: 76px;f:23px 'Verdana' !important;}
+.t6{width: 421px;margin-leftZ: 76px;margin-top: 20px;f:15px 'Verdana' !important;}
+.t7{width: 705px;margin-top: 11px;f:17px 'Verdana' !important;}
+.t8{width: 705px;margin-top: 39px;f:17px 'Verdana' !important;}
+.t9{width: 416px;margin-top: 20px;f:15px 'Verdana' !important;}
+.t10{width: 705px;f:9px 'Verdana' !important;}
+.t11{width: 541px;margin-leftZ: 76px;f:17px 'Verdana' !important;}
+.t12{width: 695px;f:15px 'Verdana' !important;}
+.t13{width: 705px;margin-top: 35px;f:9px 'Verdana' !important;}
+.t14{width: 541px;f:17px 'Verdana' !important;}
+.t15{width: 695px;margin-leftZ: 76px;f:17px 'Verdana' !important;}
+.t16{width: 695px;margin-leftZ: 76px;f:15px 'Verdana' !important;}
+
+</STYLE>
+
+
+
+<DIV id="page_1">
+
+
+<TABLE cellpadding=0 cellspacing=0 class="t0">
+<TR>
+	<TD rowspan=2 class="tr0 td0"><SPAN class="p0 ft0">Regeringens proposition</SPAN> </TD>
+	<TD colspan=2 class="tr1 td1"><SPAN class="p1 ft1">Prop. 2003/04:149</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr2 td2"><SPAN class="p2 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr2 td3"><SPAN class="p2 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr3 td0"><SPAN class="p0 ft0">2003/04:149</SPAN> </TD>
+	<TD class="tr3 td2"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+	<TD class="tr3 td3"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr4 td0"><SPAN class="p3 ft4">Avtal mellan Sverige och Danmark om vissa</SPAN> </TD>
+	<TD colspan=2 class="tr4 td1"><SPAN class="p4 ft4">Prop.</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr5 td4"><SPAN class="p3 ft4">skattefrågor m.m.</SPAN> </TD>
+	<TD class="tr5 td5"><SPAN class="p4 ft4">2003/04:149</SPAN> </TD>
+	<TD class="tr6 td3"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr7 td0"><SPAN class="p0 ft5">Regeringen överlämnar denna proposition till riksdagen.</SPAN> </TD>
+	<TD class="tr7 td2"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+	<TD class="tr7 td3"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr8 td0"><SPAN class="p0 ft5">Stockholm den 29 april 2004</SPAN> </TD>
+	<TD class="tr8 td2"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+	<TD class="tr8 td3"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr9 td0"><SPAN class="p0 ft5">Göran Persson</SPAN> </TD>
+	<TD class="tr9 td2"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+	<TD class="tr9 td3"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr7 td0"><SPAN class="p5 ft5">Bosse Ringholm</SPAN> </TD>
+	<TD class="tr7 td2"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+	<TD class="tr7 td3"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr10 td0"><SPAN class="p5 ft5">(Finansdepartementet)</SPAN> </TD>
+	<TD class="tr10 td2"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+	<TD class="tr10 td3"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+</TR>
+</TABLE>
+<P class="p6 ft4">Propositionens huvudsakliga innehåll</P>
+<P class="p7 ft6">I propositionen föreslås att riksdagen godkänner ett avtal mellan Sverige och Danmark om vissa skattefrågor samt – med anledning av avtalet – antar en lag om ändring i lagen (1996:1512) om dubbelbeskattningsavtal mellan de nordiska länderna. Avtalet innehåller bl.a. bestämmelser om beskattning av anställningsinkomster, avdrag för inbetalningar till pensionsordningar, avdrag för utgifter för resor över Öresundsbron samt en ordning för utjämning mellan Sverige och Danmark av vissa skatteintäkter.</P>
+<P class="p8 ft5">Vidare föreslås att lagen (1991:586) om särskild inkomstskatt för utomlands bosatta ändras på så sätt att den skattskyldighet som föreligger för inkomst som person som är bosatt utomlands uppbär på grund av anställning i Sverige utökas till att omfatta även vissa fall då personen till viss del utför arbetet utomlands. Om personen utför arbete utomlands, antingen på tjänsteresa eller i sin bostad, skall arbetet vid tillämpning av lagen om särskild inkomstskatt för utomlands bosatta i vissa situationer anses utfört i Sverige.</P>
+<P class="p9 ft5">1</P>
+</DIV>
+<DIV id="page_2">
+
+
+<TABLE cellpadding=0 cellspacing=0 class="t1">
+<TR>
+	<TD colspan=3 class="tr11 td6"><SPAN class="p2 ft4">Innehållsförteckning</SPAN> </TD>
+	<TD class="tr11 td7"><SPAN class="p10 ft5">Prop. 2003/04:149</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr7 td8"><SPAN class="p2 ft1"><A href="#page_3">1</A></SPAN> </TD>
+	<TD colspan=2 class="tr7 td9"><SPAN class="p11 ft7"><A href="#page_3">Förslag till riksdagsbeslut..................................................................</A></SPAN> </TD>
+	<TD class="tr7 td7"><SPAN class="p12 ft5"><A href="#page_3">3</A></SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr5 td8"><SPAN class="p2 ft1"><A href="#page_4">2</A></SPAN> </TD>
+	<TD class="tr5 td10"><SPAN class="p11 ft5"><A href="#page_4">Lagtext</A></SPAN> </TD>
+	<TD class="tr5 td11"><SPAN class="p13 ft7"><A href="#page_4">...............................................................................................</A></SPAN> </TD>
+	<TD class="tr5 td7"><SPAN class="p12 ft5"><A href="#page_4">4</A></SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr10 td8"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+	<TD class="tr10 td10"><SPAN class="p11 ft5"><A href="#page_4">2.1</A></SPAN> </TD>
+	<TD class="tr10 td11"><SPAN class="p14 ft5"><A href="#page_4">Förslag till lag om ändring i lagen (1996:1512)</A></SPAN> </TD>
+	<TD class="tr10 td7"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr10 td8"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+	<TD class="tr10 td10"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+	<TD class="tr10 td11"><SPAN class="p14 ft5"><A href="#page_4">om dubbelbeskattningsavtal mellan de nordiska</A></SPAN> </TD>
+	<TD class="tr10 td7"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr10 td8"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+	<TD class="tr10 td10"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+	<TD class="tr10 td11"><SPAN class="p14 ft7"><A href="#page_4">länderna...............................................................................</A></SPAN> </TD>
+	<TD class="tr10 td7"><SPAN class="p12 ft5"><A href="#page_4">4</A></SPAN> </TD>
+</TR>
+</TABLE>
+<P class="p15 ft5"><SPAN class="ft1">2.2</SPAN><A href="#page_9"><SPAN class="ft8">Förslag till lag om ändring i lagen (1991:586) om</SPAN></A></P>
+<TABLE cellpadding=0 cellspacing=0 class="t2">
+<TR>
+	<TD class="tr12 td8"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+	<TD class="tr12 td12"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+	<TD class="tr12 td13"><SPAN class="p16 ft5"><A href="#page_9">särskild inkomstskatt för utomlands bosatta</A></SPAN> </TD>
+	<TD class="tr12 td14"><SPAN class="p10 ft9"><A href="#page_9">.......................9</A></SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr13 td8"><SPAN class="p10 ft1"><A href="#page_11">3</A></SPAN> </TD>
+	<TD colspan=2 class="tr13 td15"><SPAN class="p11 ft1"><A href="#page_11">Ärendet och dess beredning.............................................................</A></SPAN> </TD>
+	<TD class="tr13 td14"><SPAN class="p10 ft5"><A href="#page_11">11</A></SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr5 td8"><SPAN class="p10 ft1"><A href="#page_12">4</A></SPAN> </TD>
+	<TD colspan=2 class="tr5 td15"><SPAN class="p11 ft7"><A href="#page_12">Gällande rätt ....................................................................................</A></SPAN> </TD>
+	<TD class="tr5 td14"><SPAN class="p10 ft5"><A href="#page_12">12</A></SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr10 td8"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+	<TD class="tr10 td12"><SPAN class="p11 ft5"><A href="#page_12">4.1</A></SPAN> </TD>
+	<TD class="tr10 td13"><SPAN class="p16 ft1"><A href="#page_12">Det nordiska skatteavtalet .................................................</A></SPAN> </TD>
+	<TD class="tr10 td14"><SPAN class="p10 ft5"><A href="#page_12">12</A></SPAN> </TD>
+</TR>
+</TABLE>
+<P class="p15 ft5"><SPAN class="ft1">4.2</SPAN><A href="#page_12"><SPAN class="ft8">Lagen om särskild inkomstskatt för utomlands</SPAN></A></P>
+<TABLE cellpadding=0 cellspacing=0 class="t3">
+<TR>
+	<TD class="tr12 td8"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+	<TD class="tr12 td12"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+	<TD class="tr12 td16"><SPAN class="p13 ft7"><A href="#page_12">bosatta ...............................................................................</A></SPAN> </TD>
+	<TD class="tr12 td17"><SPAN class="p10 ft1"><A href="#page_12">12</A></SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr13 td8"><SPAN class="p10 ft1"><A href="#page_13">5</A></SPAN> </TD>
+	<TD colspan=2 class="tr13 td18"><SPAN class="p13 ft7"><A href="#page_13">Avtalet mellan Sverige och Danmark om vissa skattefrågor ..........</A></SPAN> </TD>
+	<TD class="tr13 td17"><SPAN class="p10 ft1"><A href="#page_13">13</A></SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr5 td8"><SPAN class="p10 ft1"><A href="#page_17">6</A></SPAN> </TD>
+	<TD colspan=2 class="tr5 td18"><SPAN class="p13 ft7"><A href="#page_17">Överväganden och förslag...............................................................</A></SPAN> </TD>
+	<TD class="tr5 td17"><SPAN class="p10 ft1"><A href="#page_17">17</A></SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr10 td8"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+	<TD class="tr10 td12"><SPAN class="p17 ft5"><A href="#page_17">6.1</A></SPAN> </TD>
+	<TD class="tr10 td16"><SPAN class="p13 ft7"><A href="#page_17">Lagen om det nordiska dubbelbeskattningsavtalet ...........</A></SPAN> </TD>
+	<TD class="tr10 td17"><SPAN class="p10 ft1"><A href="#page_17">17</A></SPAN> </TD>
+</TR>
+</TABLE>
+<P class="p15 ft5"><SPAN class="ft1">6.2</SPAN><A href="#page_18"><SPAN class="ft8">Lagen om särskild inkomstskatt för utomlands</SPAN></A></P>
+<TABLE cellpadding=0 cellspacing=0 class="t3">
+<TR>
+	<TD class="tr14 td8"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+	<TD class="tr14 td12"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+	<TD class="tr14 td16"><SPAN class="p13 ft7"><A href="#page_18">bosatta ...............................................................................</A></SPAN> </TD>
+	<TD class="tr14 td17"><SPAN class="p10 ft1"><A href="#page_18">18</A></SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr14 td8"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+	<TD class="tr14 td12"><SPAN class="p17 ft10"><A href="#page_20">6.3</A></SPAN> </TD>
+	<TD class="tr14 td16"><SPAN class="p13 ft7"><A href="#page_20">Kommuner och landsting..................................................</A></SPAN> </TD>
+	<TD class="tr14 td17"><SPAN class="p10 ft1"><A href="#page_20">20</A></SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr6 td8"><SPAN class="p10 ft1"><A href="#page_20">7</A></SPAN> </TD>
+	<TD colspan=2 class="tr6 td18"><SPAN class="p13 ft7"><A href="#page_20">Offentligfinansiella konsekvenser...................................................</A></SPAN> </TD>
+	<TD class="tr6 td17"><SPAN class="p10 ft1"><A href="#page_20">20</A></SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr5 td8"><SPAN class="p10 ft1"><A href="#page_21">8</A></SPAN> </TD>
+	<TD colspan=2 class="tr5 td18"><SPAN class="p13 ft7"><A href="#page_21">Författningskommentar ...................................................................</A></SPAN> </TD>
+	<TD class="tr5 td17"><SPAN class="p10 ft1"><A href="#page_21">21</A></SPAN> </TD>
+</TR>
+</TABLE>
+<P class="p15 ft5"><SPAN class="ft1">8.1</SPAN><A href="#page_21"><SPAN class="ft8">Lagen (1996:1512) om dubbelbeskattningsavtal</SPAN></A></P>
+<TABLE cellpadding=0 cellspacing=0 class="t4">
+<TR>
+	<TD class="tr10 td19"><SPAN class="p2 ft7"><A href="#page_21">mellan de nordiska länderna .............................................</A></SPAN> </TD>
+	<TD class="tr10 td17"><SPAN class="p10 ft1"><A href="#page_21">21</A></SPAN> </TD>
+</TR>
+</TABLE>
+<P class="p18 ft5"><SPAN class="ft1">8.2</SPAN><A href="#page_21"><SPAN class="ft8">Lagen (1991:586) om särskild inkomstskatt för</SPAN></A></P>
+<TABLE cellpadding=0 cellspacing=0 class="t3">
+<TR>
+	<TD class="tr12 td20"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+	<TD class="tr12 td13"><SPAN class="p19 ft7"><A href="#page_21">utomlands bosatta..............................................................</A></SPAN> </TD>
+	<TD class="tr12 td17"><SPAN class="p10 ft1"><A href="#page_21">21</A></SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr13 td20"><SPAN class="p2 ft5"><A href="#page_23">Bilaga 1</A></SPAN> </TD>
+	<TD class="tr13 td13"><SPAN class="p2 ft5"><A href="#page_23">Lagförslag i Finansdepartementets promemoria om</A></SPAN> </TD>
+	<TD class="tr13 td17"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr10 td20"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+	<TD class="tr10 td13"><SPAN class="p2 ft5"><A href="#page_23">ändring av lagen (1991:586) om särskild inkomstskatt</A></SPAN> </TD>
+	<TD class="tr10 td17"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr10 td20"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+	<TD class="tr10 td13"><SPAN class="p2 ft5"><A href="#page_23">för utomlands bosatta med anledning av avtalet den</A></SPAN> </TD>
+	<TD class="tr10 td17"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr10 td20"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+	<TD class="tr10 td13"><SPAN class="p2 ft5"><A href="#page_23">29 oktober 2003 mellan Sverige och Danmark om</A></SPAN> </TD>
+	<TD class="tr10 td17"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr10 td20"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+	<TD class="tr10 td13"><SPAN class="p2 ft7"><A href="#page_23">vissa skattefrågor ...................................................................</A></SPAN> </TD>
+	<TD class="tr10 td17"><SPAN class="p10 ft1"><A href="#page_23">23</A></SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr5 td20"><SPAN class="p2 ft5"><A href="#page_25">Bilaga 2</A></SPAN> </TD>
+	<TD class="tr5 td13"><SPAN class="p2 ft1"><A href="#page_25">Lagrådsremissens lagförslag .................................................</A></SPAN> </TD>
+	<TD class="tr5 td17"><SPAN class="p10 ft1"><A href="#page_25">25</A></SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr5 td20"><SPAN class="p2 ft5"><A href="#page_27">Bilaga 3</A></SPAN> </TD>
+	<TD class="tr5 td13"><SPAN class="p2 ft7"><A href="#page_27">Lagrådets yttrande .................................................................</A></SPAN> </TD>
+	<TD class="tr5 td17"><SPAN class="p10 ft1"><A href="#page_27">27</A></SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=2 class="tr6 td9"><SPAN class="p2 ft1"><A href="#page_29">Utdrag ur protokoll vid regeringssammanträde den 29 april 2004..........</A></SPAN> </TD>
+	<TD class="tr6 td17"><SPAN class="p10 ft1"><A href="#page_29">29</A></SPAN> </TD>
+</TR>
+</TABLE>
+<P class="p20 ft5">2</P>
+</DIV>
+<DIV id="page_3">
+
+
+<TABLE cellpadding=0 cellspacing=0 class="t5">
+<TR>
+	<TD class="tr5 td21"><SPAN class="p21 ft4">1</SPAN> </TD>
+	<TD class="tr5 td15"><SPAN class="p22 ft4">Förslag till riksdagsbeslut</SPAN> </TD>
+	<TD class="tr5 td22"><SPAN class="p2 ft1">Prop. 2003/04:149</SPAN> </TD>
+</TR>
+</TABLE>
+<P class="p23 ft5">Regeringen föreslår att riksdagen</P>
+<P class="p24 ft5"><SPAN class="ft1">1.</SPAN><SPAN class="ft11">godkänner avtalet mellan Sverige och Danmark om vissa skattefrågor,</SPAN></P>
+<P class="p25 ft5"><SPAN class="ft1">2.</SPAN><SPAN class="ft12">antar regeringens förslag till lag om ändring i lagen (1996:1512) om dubbelbeskattningsavtal mellan de nordiska länderna,</SPAN></P>
+<P class="p8 ft5"><SPAN class="ft1">3.</SPAN><SPAN class="ft13">antar regeringens förslag till lag om ändring i lagen (1991:586) om särskild inkomstskatt för utomlands bosatta.</SPAN></P>
+<P class="p26 ft5">3</P>
+</DIV>
+<DIV id="page_4">
+
+
+<TABLE cellpadding=0 cellspacing=0 class="t5">
+<TR>
+	<TD class="tr5 td21"><SPAN class="p21 ft4">2</SPAN> </TD>
+	<TD class="tr5 td15"><SPAN class="p22 ft4">Lagtext</SPAN> </TD>
+	<TD class="tr5 td22"><SPAN class="p2 ft1">Prop. 2003/04:149</SPAN> </TD>
+</TR>
+</TABLE>
+<P class="p23 ft5">Regeringen har följande förslag till lagtext.</P>
+<P class="p27 ft15"><SPAN class="ft7">2.1</SPAN><SPAN class="ft14">Förslag till lag om ändring i lagen (1996:1512) om dubbelbeskattningsavtal mellan de nordiska länderna</SPAN></P>
+<P class="p28 ft5">Härigenom föreskrivs i fråga om lagen (1996:1512) om dubbelbeskattningsavtal mellan de nordiska länderna</P>
+<P class="p29 ft5">dels att 1 § skall ha följande lydelse,</P>
+<P class="p24 ft5">dels att det till lagen skall fogas en ny bilaga, bilaga 4, av följande lydelse.</P>
+<TABLE cellpadding=0 cellspacing=0 class="t6">
+<TR>
+	<TD class="tr10 td23"><SPAN class="p2 ft5">Nuvarande lydelse</SPAN> </TD>
+	<TD class="tr10 td24"><SPAN class="p2 ft1">Föreslagen lydelse</SPAN> </TD>
+</TR>
+</TABLE>
+<P class="p30 ft5">1 §<A href="#page_4"><SPAN class="ft16">1</SPAN></A></P>
+<P class="p31 ft5">Det avtal för att undvika dubbelbeskattning beträffande skatter på inkomst och på förmögenhet som Danmark, Färöarna, Finland, Island, Norge och Sverige undertecknade den 23 september 1996 skall tillsammans med det protokoll som är fogat till avtalet och som utgör en del av detta gälla som lag här i landet. Avtalets bestämmelse i artikel 3 punkt 1 a att uttrycket ”Finland” inte inbegriper landskapet Åland i fråga om den finska kommunalskatten skall inte gälla.</P>
+<P class="p8 ft5">Avtalet och protokollet är avfattade på danska, färöiska, finska, isländska, norska och svenska språken. På svenska språket har utfärdats två texter, en för Finland och en för Sverige. Samtliga texter har samma giltighet. Den för Sverige utfärdade texten framgår av bilaga 1 till denna lag.</P>
+<P class="p31 ft6">Det avtal mellan Sverige och Danmark om beskattning av anställda ombord på färjor och tåg i reguljär trafik mellan Danmark och Sverige som undertecknades den 30 september 1999 skall gälla som lag här i landet. Avtalet är avfattat på danska och svenska språken. Den för Sverige utfärdade texten framgår av bilaga 2 till denna lag.</P>
+<P class="p31 ft6">Det avtal mellan Sverige och Norge som undertecknades den 22 oktober 2002 och som innehåller särskilda bestämmelser för undvikande av dubbelbeskattning vid byggande, underhåll och drift av gränsbron som ingår i den nya Svinesundsförbindelsen skall gälla som lag här i landet. Avtalet är avfattat på svenska och norska språken. Den för Sverige utfärdade texten framgår av bilaga 3 till denna lag.</P>
+<P class="p32 ft6">Det avtal mellan Sverige och Danmark om vissa skattefrågor som undertecknades den 29 oktober 2003 skall gälla som lag här i landet. Avtalet är avfattat på svenska och danska språken. Den för Sverige utfärdade texten framgår av <SPAN class="ft17">bilaga 4 </SPAN>till denna lag.</P>
+<P class="p33 ft19"><SPAN class="ft18">1 </SPAN>Senaste lydelse 2002:982.</P>
+<P class="p34 ft5">4</P>
+</DIV>
+<DIV id="page_5">
+
+
+<P class="p35 ft5">Prop. 2003/04:149</P>
+<P class="p36 ft5">Bilaga 4</P>
+<P class="p37 ft20">Avtal</P>
+<P class="p38 ft20">mellan Konungariket Sverige och Konungariket Danmark om vissa skattefrågor</P>
+<P class="p39 ft5">I förhållandet mellan Sverige och Danmark skall följande gälla i förhållande till avtalet den 23 september 1996 mellan de nordiska länderna för att undvika dubbelbeskattning beträffande skatter på inkomst och på förmögenhet.</P>
+<P class="p40 ft5">Artikel 1</P>
+<P class="p41 ft5"><SPAN class="ft1">1.</SPAN><SPAN class="ft13">Om en person med hemvist i en avtalsslutande stat uppbär lön eller annan liknande ersättning på grund av anställning, som normalt utförs i den andra avtalsslutande staten, för en arbetsgivare med hemvist i denna andra stat, eller vid ett fast driftställe eller en stadigvarande anordning, som personens arbetsgivare har i denna andra stat, skall arbetet vid tillämpning av artikel 15 punkterna 1 och 2 anses vara utfört i denna andra stat, även om arbetet faktiskt utförts i den förstnämnda staten eller i en tredje stat, om</SPAN></P>
+<P class="p42 ft5"><SPAN class="ft1">a)</SPAN><SPAN class="ft12">arbetet i den förstnämnda staten utförs av personen i dennes bostad,</SPAN></P>
+<P class="p43 ft5">eller</P>
+<P class="p24 ft5"><SPAN class="ft7">b)</SPAN><SPAN class="ft13">arbetet i den förstnämnda staten eller i en tredje stat utgör tjänsteresor eller annat arbete av tillfällig natur,</SPAN></P>
+<P class="p44 ft5">men endast om arbetet i den andra staten uppgår till minst hälften av arbetstiden under varje tremånadersperiod.</P>
+<P class="p45 ft5"><SPAN class="ft1">2.</SPAN><SPAN class="ft21">Bestämmelserna i punkt 1 gäller</SPAN></P>
+<P class="p25 ft5"><SPAN class="ft1">a)</SPAN><SPAN class="ft22">i fall då arbetsgivaren inte har hemvist i den andra avtalsslutande staten endast om den lön eller annan liknande ersättning som personen uppbär belastar ett fast driftställe eller en stadigvarande anordning, som arbetsgivaren har i den andra staten,</SPAN></P>
+<P class="p31 ft7"><SPAN class="ft7">b)</SPAN><SPAN class="ft23">i fall då arbetsgivaren har hemvist i den andra avtalsslutande staten endast om den lön eller annan liknande ersättning som personen uppbär inte belastar ett fast driftställe eller en stadigvarande anordning, som arbetsgivaren har i den förstnämnda avtalsslutande staten.</SPAN></P>
+<P class="p46 ft5">Artikel 2</P>
+<P class="p47 ft6">1. Om en fysisk person förvärvar inkomst av rörelse, självständig yrkesutövning eller anställning, som enligt artikel 7, 14, 15 eller 19 får beskattas eller beskattas endast i en avtalsslutande stat och är ansluten till en pensionsordning i den andra avtalsslutande staten, skall</P>
+<P class="p24 ft5"><SPAN class="ft1">a)</SPAN><SPAN class="ft24">inbetalning som denna person gör till pensionsordningen vara avdragsgill i den förstnämnda staten, och</SPAN></P>
+<P class="p31 ft7"><SPAN class="ft7">b)</SPAN><SPAN class="ft25">inbetalning som denna persons arbetsgivare gör till pensionsordningen inte anses som skattepliktig inkomst i den förstnämnda staten för personen samt vara avdragsgill i denna stat för arbetsgivaren.</SPAN></P>
+<P class="p48 ft5">5</P>
+</DIV>
+<DIV id="page_6">
+
+
+<P class="p49 ft5">2. Inbetalningen skall dock endast vara avdragsgill eller inte anses som Prop. 2003/04:149 skattepliktig inkomst i den förstnämnda avtalsslutande staten inom de</P>
+<P class="p50 ft5">beloppsgränser som gäller för inbetalningar till en pensionsordning enligt lagstiftningen i båda avtalsslutande staterna.</P>
+<P class="p51 ft5">3. Denna artikel gäller endast:</P>
+<P class="p24 ft5"><SPAN class="ft1">a)</SPAN><SPAN class="ft26">i fall då person, som får beskattas eller beskattas endast i den förstnämnda avtalsslutande staten för inkomst av rörelse, självständig yrkesutövning eller anställning i denna stat, har hemvist i den andra avtalsslutande staten, om inkomsten utgör minst 75 procent av personens sammanlagda inkomst av rörelse, självständig yrkesutövning eller anställning efter avdrag för samtliga utgifter för inkomsternas förvärvande (nettointäkt), och</SPAN></P>
+<P class="p52 ft5"><SPAN class="ft7">b)</SPAN><SPAN class="ft11">i fall då person, som får beskattas eller beskattas endast i den förstnämnda avtalsslutande staten för inkomst av rörelse, självständig yrkesutövning eller anställning i denna stat, har hemvist i denna stat, om personen var ansluten till och inbetalningar gjordes till pensionsordningen omedelbart innan personen fick hemvist i denna stat.</SPAN></P>
+<P class="p24 ft5">4. Vid tillämpning av punkt 1 skall uttrycket ”pensionsordning” innebära en ordning, som</P>
+<P class="p8 ft5"><SPAN class="ft1">a)</SPAN><SPAN class="ft24">för Danmarks vidkommande omfattas av pensionsbeskattningslagens avsnitt I,</SPAN></P>
+<P class="p24 ft5"><SPAN class="ft7">b)</SPAN><SPAN class="ft22">för Sveriges vidkommande omfattas av 28 eller 58 kap. inkomstskattelagen (1999:1229).</SPAN></P>
+<P class="p40 ft5">Artikel 3</P>
+<P class="p53 ft6">Fysiska personers utgifter för resor över Öresundsbron skall beaktas vid fastställande av den skattepliktiga inkomsten, om de avser normala resor mellan permanentbostaden och arbetsplatsen. Rätt till avdrag föreligger dock endast om sådana allmänna villkor för vad som föreskrivs för sådana resor är uppfyllda som avser exempelvis krav på tidsvinst. Utgifterna skall beräknas med utgångspunkt i den dokumenterade utgiften för billigaste periodabonnemang för resa med personbil respektive resa med allmänna kommunikationer.</P>
+<P class="p40 ft5">Artikel 4</P>
+<P class="p54 ft5">Artikel 31 punkt 5 omfattar inte personer med hemvist i Danmark.</P>
+<P class="p55 ft5">Artikel 5</P>
+<P class="p53 ft28"><SPAN class="ft1">1.</SPAN><SPAN class="ft27">Den avtalsslutande stat som tillerkänns beskattningsrätten enligt artikel 1, skall beskatta inkomsttagaren i enlighet med denna stats lagstiftning beträffande beskattning av tjänsteinkomster, även om arbetet faktiskt utförts i den andra avtalsslutande staten eller i en tredje stat.</SPAN></P>
+<P class="p31 ft28"><SPAN class="ft1">2.</SPAN><SPAN class="ft29">Pension eller livränta som betalas från en avtalsslutande stat till en person med hemvist i denna stat, skall beskattas i enlighet med denna stats allmänna regler, även om denna stat inte har satt ned sin beskattning</SPAN></P>
+<P class="p56 ft5"><SPAN class="ft5">i</SPAN><SPAN class="ft30">samband med inbetalningar till denna ordning, när den andra</SPAN></P>
+<P class="p57 ft5">6</P>
+</DIV>
+<DIV id="page_7">
+
+
+<P class="p58 ft5">avtalsslutande staten enligt artikel 2 tidigare har ansett att inbetalning Prop. 2003/04:149 som erlagts</P>
+<P class="p59 ft5"><SPAN class="ft1">a)</SPAN><SPAN class="ft21">av den fysiska personen är avdragsgill, eller</SPAN></P>
+<P class="p24 ft5"><SPAN class="ft7">b)</SPAN><SPAN class="ft13">av den fysiska personens arbetsgivare inte är skattepliktig inkomst för den fysiska personen samt avdragsgill vid beräkningen av arbetsgivarens skattepliktiga inkomst.</SPAN></P>
+<P class="p8 ft5">3. Bestämmelserna om avdrag för inbetalning till pensionsordning enligt artikel 2 och för utgift för resor över Öresundsbron enligt artikel 3 gäller endast om den fysiska personens inkomst beskattas på nettobasis med möjlighet till avdrag för kostnader.</P>
+<P class="p55 ft5">Artikel 6</P>
+<P class="p47 ft6">I fall då en fysisk person med hemvist i en avtalsslutande stat förvärvar inkomst från anställning i den andra avtalsslutande staten (bruttoinkomst) och denna inkomst för ett beskattningsår uppgår till minst ett belopp motsvarande 150 000 danska kronor före avdrag för utgifter för inkomsternas förvärvande, skall denna andra stat betala ett utjämningsbelopp till den förstnämnda staten. Denna utjämning skall ske senast den 1 oktober året efter det aktuella beskattningsåret. Utjämningsbeloppet skall för Danmarks vidkommande vara den genomsnittliga primärkommunala skatten som uppbärs för inkomst som beskattas i Danmark med stöd av artikel 15. Utjämningsbeloppet skall för Sveriges vidkommande vara den genomsnittliga kommunalskatten som tas ut för primärkommunernas räkning och som avser inkomst som beskattas i Sverige med stöd av artikel 15. Denna artikel gäller emellertid inte inkomst som person med hemvist i en avtalsslutande stat förvärvar genom arbete utfört ombord på svenskt eller danskt skepp i internationell trafik. De behöriga myndigheterna i de avtalsslutande staterna kan ingå en ömsesidig överenskommelse om den närmare utformningen av denna ordning för utjämning. Med ”behörig myndighet” avses den myndighet åt vilken enligt dubbelbeskattningsavtalet mellan de nordiska länderna uppdragits att vara behörig myndighet. De avtalsslutande staterna avser att efter två år utvärdera denna ordning särskilt såvitt avser nivån för utjämningen och det faktum att utjämningen endast avser den del av kommunalskatten som tas ut för primärkommunernas räkning och inte den del som tas ut för landstingskommunernas räkning. Därefter sker en utvärdering vart femte år eller vid väsentliga förändringar av skattesystemen.</P>
+<P class="p46 ft5">Artikel 7</P>
+<P class="p60 ft5">1. Detta avtal träder i kraft den tjugoförsta dagen efter den dag när de två avtalsslutande staterna skriftligen har meddelat varandra att de konstitutionella åtgärder som krävs i respektive stat har vidtagits, och dess bestämmelser skall tillämpas såvitt avser</P>
+<P class="p24 ft5">a) artikel 2, artikel 3, artikel 5 punkterna 2 och 3 samt artikel 6 i fråga om skatter på inkomst som tas ut för beskattningsår som börjar den 1 januari 2004 eller senare, och</P>
+<P class="p61 ft5">7</P>
+</DIV>
+<DIV id="page_8">
+<DIV id="dimg1">
+<INGENBILD zsrc="GR031498x1.jpg/" id="img1">
+</DIV>
+
+
+<DIV>
+<DIV id="id_1">
+<P class="p62 ft5">b) artikel 1, artikel 4 och artikel 5 punkt 1 i fråga om skatter på inkomst som tas ut för beskattningsår som börjar den 1 januari det kalenderår som följer närmast efter det år då avtalet träder i kraft eller senare.</P>
+<P class="p62 ft5">2. Om det visar sig föreligga skattemässiga hinder för den fortsatta integrationen i Öresundsregionen är Sverige och Danmark överens om att inleda diskussioner för att överväga införande av nya bestämmelser eller ändring av bestämmelserna i detta avtal eller att ta initiativ till ändringar av avtalet den 23 september 1996 mellan de nordiska länderna för att undvika dubbelbeskattning beträffande skatter på inkomst och på förmögenhet.</P>
+<P class="p63 ft5">Artikel 8</P>
+<P class="p64 ft5">En avtalsslutande stat kan senast den 30 juni under något kalenderår säga upp avtalet genom skriftligt meddelande härom till den andra avtalsslutande staten. Detta avtal upphör då att gälla i fråga om skatter på inkomst som tas ut för beskattningsår som börjar den 1 januari det kalenderår som följer närmast efter det år då uppsägningen sker eller senare.</P>
+<P class="p65 ft5">Till bekräftelse härav har de vederbörligen befullmäktigade ombuden undertecknat detta avtal.</P>
+<P class="p62 ft5">Som skedde i Köpenhamn den 29 oktober 2003 i två exemplar på svenska och danska språken vilka båda äger lika vitsord.</P>
+<P class="p66 ft7">Denna lag träder i kraft den 1 augusti 2004 och tillämpas beträffande</P>
+<P class="p67 ft7"><SPAN class="ft1">a)</SPAN><SPAN class="ft31">artikel 2, artikel 3, artikel 5 punkterna 2 och 3 samt artikel 6 i avtalet</SPAN></P>
+<P class="p68 ft5"><SPAN class="ft5">i</SPAN><SPAN class="ft12">bilaga 4 för skatter på inkomst som tas ut för beskattningsår som börjar den 1 januari 2004 eller senare, och</SPAN></P>
+<P class="p69 ft5"><SPAN class="ft7">b)</SPAN><SPAN class="ft12">övriga artiklar och punkter i avtalet i bilaga 4 för skatter som tas ut för beskattningsår som börjar den 1 januari 2005 eller senare.</SPAN></P>
+</DIV>
+<DIV id="id_2">
+<P class="p70 ft5">Prop. 2003/04:149</P>
+<P class="p71 ft5">8</P>
+</DIV>
+</DIV>
+</DIV>
+<DIV id="page_9">
+
+
+<TABLE cellpadding=0 cellspacing=0 class="t1">
+<TR height=0>
+	<TD width=50px></TD>
+	<TD width=203px></TD>
+	<TD width=255px></TD>
+	<TD width=124px></TD>
+</TR>
+<TR>
+	<TD class="tr1 td25"><SPAN class="p2 ft32">2.2</SPAN> </TD>
+	<TD colspan=2 class="tr1 td26"><SPAN class="p72 ft32">Förslag till lag om ändring i lagen (1991:586) om</SPAN> </TD>
+	<TD class="tr1 td22"><SPAN class="p2 ft1">Prop. 2003/04:149</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr15 td25"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+	<TD colspan=2 class="tr15 td26"><SPAN class="p72 ft32">särskild inkomstskatt för utomlands bosatta</SPAN> </TD>
+	<TD class="tr15 td22"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=3 class="tr16 td27"><SPAN class="p73 ft5">Härigenom föreskrivs att 5 § lagen (1991:586) om särskild inkomst-</SPAN> </TD>
+	<TD class="tr16 td22"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=3 class="tr10 td27"><SPAN class="p2 ft5">skatt för utomlands bosatta skall ha följande lydelse.</SPAN> </TD>
+	<TD class="tr10 td22"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=2 class="tr0 td28"><SPAN class="p2 ft5">Nuvarande lydelse</SPAN> </TD>
+	<TD class="tr0 td29"><SPAN class="p2 ft5">Föreslagen lydelse</SPAN> </TD>
+	<TD class="tr0 td22"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+</TR>
+</TABLE>
+<P class="p74 ft7">5 §<A href="#page_9"><SPAN class="ft33">1</SPAN></A></P>
+<P class="p29 ft5">Skattepliktig inkomst enligt denna lag är:</P>
+<P class="p24 ft5"><SPAN class="ft1">1.</SPAN><SPAN class="ft12">avlöning eller därmed jämförlig förmån, som utgått av anställning eller uppdrag hos svenska staten eller svensk kommun;</SPAN></P>
+<P class="p31 ft35"><SPAN class="ft1">2.</SPAN><SPAN class="ft34">avlöning eller därmed jämförlig förmån, som utgått av annan anställning eller annat uppdrag än hos svenska staten eller svensk kommun,</SPAN></P>
+<P class="p75 ft5"><SPAN class="ft5">i</SPAN><SPAN class="ft21">den mån inkomsten förvärvats genom verksamhet här i riket;</SPAN></P>
+<P class="p24 ft5"><SPAN class="ft1">3.</SPAN><SPAN class="ft12">arvode och liknande ersättning som uppburits av någon i egenskap av ledamot eller suppleant i styrelse eller annat liknande organ i svenskt aktiebolag eller annan svensk juridisk person, oavsett var verksamheten utövats;</SPAN></P>
+<P class="p45 ft5"><SPAN class="ft1">4.</SPAN><SPAN class="ft21">ersättning i form av</SPAN></P>
+<P class="p25 ft6"><SPAN class="ft1">–</SPAN><SPAN class="ft36">pension, med undantag av barnpension, enligt lagen (1998:674) om inkomstgrundad ålderspension, lagen (1998:702) om garantipension, lagen (2000:461) om efterlevandepension och efterlevandestöd till barn och lagen (2000:462) om införande av lagen (2000:461) om efterlevandepension och efterlevandestöd till barn samt sjukersättning och aktivitetsersättning enligt lagen (1962:381) om allmän försäkring till den del det totala beloppet av uppburna ersättningar för varje kalendermånad överstiger en tolftedel av 0,67 prisbasbelopp,</SPAN></P>
+<P class="p8 ft5"><SPAN class="ft1">–</SPAN><SPAN class="ft12">barnpension enligt lagen om efterlevandepension och efterlevandestöd till barn, samt</SPAN></P>
+<P class="p59 ft5"><SPAN class="ft1">–</SPAN><SPAN class="ft21">annan ersättning enligt lagen om allmän försäkring;</SPAN></P>
+<P class="p8 ft5"><SPAN class="ft1">5.</SPAN><SPAN class="ft12">pension på grund av anställning eller uppdrag hos svenska staten eller svensk kommun;</SPAN></P>
+<P class="p25 ft28"><SPAN class="ft1">6.</SPAN><SPAN class="ft37">belopp, som utgår på grund av annan pensionsförsäkring än tjänstepensionsförsäkring, om försäkringen meddelats i här i riket bedriven försäkringsrörelse samt belopp som utbetalas från pensionssparkonto fört av ett svenskt pensionssparinstitut eller av ett utländskt instituts filial i Sverige enligt lagen (1993:931) om individuellt pensionssparande;</SPAN></P>
+<P class="p31 ft7"><SPAN class="ft1">7.</SPAN><SPAN class="ft23">pension på grund av tjänstepensionsförsäkring samt annan pension eller förmån, om förmån utgår från Sverige på grund av förutvarande tjänst och den tidigare verksamheten huvudsakligen utövats här;</SPAN></P>
+<P class="p76 ft5"><SPAN class="ft1">8.</SPAN><SPAN class="ft12">ersättning enligt lagen (1954:243) om yrkesskadeförsäkring eller lagen (1976:380) om arbetsskadeförsäkring och lagen (1989:225) om ersättning till smittbärare samt enligt annan lag eller författning, som utgått till någon vid sjukdom eller olycksfall i arbete eller på grund av militärtjänstgöring eller i fall som avses i lagen (1977:265) om statligt personskadeskydd eller lagen (1977:267) om krigsskadeersättning till sjömän;</SPAN></P>
+<P class="p77 ft19"><SPAN class="ft18">1 </SPAN>Senaste lydelse 2002:1074.</P>
+<P class="p34 ft5">9</P>
+</DIV>
+<DIV id="page_10">
+<DIV id="dimg1">
+<INGENBILD zsrc="GR0314910x1.jpg/" id="img1">
+</DIV>
+
+<DIV id="tx1"><SPAN class="ft10">inkomst.</SPAN></DIV>
+<DIV id="tx2"><SPAN class="ft28">Verksamhet på grund av anställning i svenskt företag anses utövad här i riket även om tjänsteinnehavaren i och för sin tjänst måste göra tillfälliga besök utomlands eller under längre tid uppehålla sig där under kringresande (t.ex. handelsresande).</SPAN></DIV>
+
+<DIV>
+<DIV id="id_1">
+<P class="p78 ft5">9. dagpenning från arbetslöshetskassa enligt lagen (1997:238) om arbetslöshetsförsäkring;</P>
+<P class="p62 ft5"><SPAN class="ft1">10.</SPAN><SPAN class="ft21">annan härifrån uppburen, genom verksamhet här i riket förvärvad inkomst av tjänst;</SPAN></P>
+<P class="p62 ft5"><SPAN class="ft1">11.</SPAN><SPAN class="ft21">återfört avdrag för egenavgifter enligt socialavgiftslagen (2000:980), egenavgifter som satts ned genom ändrad debitering, i den mån avdrag har medgetts för avgifterna samt avgifter som avses i 62 kap. 6 § inkomstskattelagen (1999:1229) och som satts ned genom ändrad debitering i den mån avdrag har medgetts för avgifterna och dessa inte hänför sig till näringsverksamhet;</SPAN></P>
+<P class="p79 ft7"><SPAN class="ft1">12.</SPAN><SPAN class="ft31">sjöinkomst som avses i 64 kap. 3 och 4 §§ inkomstskattelagen. Som inkomst enligt första stycket </SPAN><NOBR>1–3</NOBR> anses också förskott på sådan</P>
+<P class="p80 ft5">Verksamhet på grund av anställning eller uppdrag i svenskt företag eller vid ett utländskt företags fasta driftställe i Sverige anses utövad här i riket även om den enskilde inom ramen för verksamheten</P>
+<P class="p81 ft5">– gör tjänsteresor utomlands, eller</P>
+<P class="p82 ft5">– utför arbete utomlands i sin bostad under förutsättning att tiden för arbetet där uppgår till högst hälften av den enskildes totala arbetstid i verksamheten under varje tremånadersperiod.</P>
+<P class="p83 ft5">Skattepliktig inkomst enligt denna lag är dock endast sådan inkomst som skulle ha beskattats hos en obegränsat skattskyldig enligt inkomstskattelagen.</P>
+<P class="p84 ft7">Denna lag träder i kraft den 1 augusti 2004 och tillämpas på avlöning eller därmed jämförlig förmån som utgår efter utgången av år 2004.</P>
+</DIV>
+<DIV id="id_2">
+<P class="p70 ft5">Prop. 2003/04:149</P>
+<P class="p85 ft5">10</P>
+</DIV>
+</DIV>
+</DIV>
+<DIV id="page_11">
+
+
+<P class="p35 ft5">Prop. 2003/04:149</P>
+<P class="p86 ft4">3 Ärendet och dess beredning</P>
+<P class="p87 ft5">Det nordiska skatteavtalet undertecknades den 23 september 1996. Det trädde i kraft den 11 maj 1997 och tillämpas från den 1 januari 1998. Avtalet är införlivat i svensk rätt genom lag (1996:1512) om dubbelbeskattningsavtal mellan de nordiska länderna.</P>
+<P class="p31 ft6">Den 29 oktober 2003 undertecknade Sverige och Danmark ett avtal om vissa skattefrågor. Avtalet föreskriver vissa undantag från bestämmelserna i det nordiska skatteavtalet. Avtalet innehåller därutöver åtaganden från de båda staterna att medge avdrag för kostnader under vissa förhållanden samt ett åtagande om ett skatteutjämningssystem avseende personer som bor i det ena landet och arbetar i det andra. Avtalet har remitterats till Kammarrätten i Jönköping och Riksskatteverket. Remissinstanserna har tillstyrkt avtalet. Ett förslag till lag om ändring i lagen om dubbelbeskattningsavtal mellan de nordiska länderna har utarbetats inom Finansdepartementet.</P>
+<P class="p31 ft6">I ett avseende innebär avtalet att fördelningen av beskattningsrätten mellan Sverige och Danmark sker på ett sådant sätt att Sverige för närvarande inte enligt den interna skattelagstiftningen beskattar inkomst som Sverige enligt avtalet fått beskattningsrätten till. Detta gäller inkomst av arbete som utförs i den skattskyldiges hemviststat eller i en tredje stat men som trots detta under vissa förutsättningar skall beskattas i den stat som utgör den anställdes huvudsakliga arbetsstat. I en promemoria som upprättats inom Finansdepartementet, Ändring av lagen (1991:586) om särskild inkomstskatt för utomlands bosatta med anledning av avtalet den 29 oktober 2003 om vissa skattefrågor (dnr Fi2004/832), föreslogs regler som innebär att den skattskyldighet som föreligger för inkomst som person som är bosatt utomlands uppbär på grund av anställning i Sverige utökas till att omfatta även vissa fall då personen till viss del utför arbetet utomlands. Promemorians lagförslag finns i bilaga 1. Promemorian har remissbehandlats och yttranden inkommit från Hovrätten för Skåne och Blekinge, Kammarrätten i Jönköping, Skåne läns landsting, Öresundskommittén och Skatteverket. Sydsvenska industri- och handelskammaren, Juridiska fakulteten vid Lunds universitet och Föreningen Svenskt Näringsliv har inte yttrat sig. En sammanställning över remissyttrandena finns tillgänglig i lagstiftningsärendet (dnr Fi2004/832). Ett förslag till lag om ändring i lagen om särskild inkomstskatt för utomlands bosatta har upprättats inom Finansdepartementet.</P>
+<P class="p88 ft7">Lagrådet</P>
+<P class="p89 ft5">Regeringen beslutade den 1 april 2004 att inhämta Lagrådets yttrande över det förslag till lag om ändring i lagen om särskild inkomstskatt för utomlands bosatta som finns i bilaga 2. Lagrådets yttrande finns i bilaga 3. Regeringen har följt Lagrådets förslag till ändring av utformningen av lagtexten.</P>
+<P class="p90 ft5">11</P>
+</DIV>
+<DIV id="page_12">
+
+
+<P class="p49 ft5">Förslaget till ändring i lagen om dubbelbeskattningsavtal mellan de Prop. 2003/04:149 nordiska länderna innebär endast en ändring av mindre beskaffenhet.</P>
+<P class="p91 ft7">Regeringen anser på grund härav att Lagrådets hörande skulle sakna betydelse. Lagrådets yttrande har därför inte inhämtats i denna del.</P>
+<P class="p92 ft4">4 Gällande rätt</P>
+<P class="p93 ft39"><SPAN class="ft5">4.1</SPAN><SPAN class="ft38">Det nordiska skatteavtalet</SPAN></P>
+<P class="p94 ft28">I det avtal mellan de nordiska länderna för att undvika dubbelbeskattning beträffande skatter på inkomst och på förmögenhet som undertecknades den 23 september 1996 – det nordiska skatteavtalet – finns i artikel 15 bestämmelser om beskattning av enskild tjänst. Enligt denna artikel, som följer huvudprinciperna i det modellavtal som Organisationen för ekonomiskt samarbete och utveckling (OECD) upprättat, får inkomst av enskild tjänst i regel beskattas i den stat där arbetet utförs (punkt 1). Undantag gäller enligt punkt 2 för visst korttidsarbete enligt den s.k. 183- dagarsregeln. Detta gäller då den som mottar ersättningen vistas i den andra staten under en tidsperiod som sammanlagt inte överstiger 183 dagar under en tolvmånadersperiod och ersättningen betalas av arbetsgivare som inte har hemvist i denna andra stat och inte heller ett fast driftställe som arbetsgivaren har i denna andra stat. I fall då denna regel är tillämplig beskattas inkomsten endast i mottagarens hemviststat. Av punkt 2 d framgår att bestämmelsen inte skall tillämpas i fråga om uthyrning av arbetskraft, vilket innebär att inkomsten i sådant fall får beskattas i den stat där arbetet utförs. I punkterna 3 och 4 finns bestämmelser om beskattning av inkomst av arbete som utförs ombord på skepp och luftfartyg i internationell trafik samt vissa andra fartyg.</P>
+<P class="p76 ft5">Det nordiska skatteavtalet i sin helhet är i hög grad uppbyggt på samma sätt som OECD:s modellavtal. Detta innebär bl.a. att det nordiska skatteavtalet huvudsakligen behandlar fördelningen av beskattningsrätten mellan de avtalsslutande staterna. Därutöver finns bl.a. bestämmelser om metoder för undvikande av dubbelbeskattning. Något som däremot inte annat än i undantagsfall regleras i avtalet är frågor om avdragsrätt för kostnader.</P>
+<P class="p95 ft39"><SPAN class="ft5">4.2</SPAN><SPAN class="ft38">Lagen om särskild inkomstskatt för utomlands bosatta</SPAN></P>
+<P class="p94 ft6">I 5 § lagen (1991:586) om särskild inkomstskatt för utomlands bosatta finns bestämmelser om vilka inkomster som är skattepliktiga enligt lagen. Enligt 5 § första stycket 1 är avlöning eller därmed jämförlig förmån, som utgått av anställning eller uppdrag hos svenska staten eller svensk kommun, skattepliktig. Enligt 5 § första stycket 2 är avlöning eller därmed jämförlig förmån, som utgått av annan anställning eller annat uppdrag än hos svenska staten eller svensk kommun, skattepliktig i den mån inkomsten förvärvats genom verksamhet här i riket. Enligt 5 §</P>
+<P class="p96 ft40">första stycket 7 är pension på grund av tjänstepensionsförsäkring samt</P>
+<P class="p97 ft5">12</P>
+</DIV>
+<DIV id="page_13">
+
+
+<P class="p98 ft5">annan pension eller förmån skattepliktig om förmånen utgår från Sverige Prop. 2003/04:149 på grund av förutvarande tjänst och den tidigare verksamheten huvud-</P>
+<P class="p99 ft6">sakligen utövats här. I 5 § tredje stycket anges att verksamhet på grund av anställning i svenskt företag anses utövad här i riket även om tjänsteinnehavaren i och för sin tjänst måste göra tillfälliga besök utomlands eller under längre tid uppehålla sig där under kringresande (t.ex. handelsresande). I övrigt föreligger inte skattskyldighet för denna typ av avlöning eller förmån som utgått till en begränsat skattskyldig.</P>
+<P class="p100 ft4">5 Avtalet mellan Sverige och Danmark om vissa skattefrågor</P>
+<TABLE cellpadding=0 cellspacing=0 class="t7">
+<TR>
+	<TD class="tr15 td30"><SPAN class="p2 ft5">Avtalet den 29 oktober 2003 mellan Sverige och Danmark om vissa</SPAN> </TD>
+	<TD class="tr15 td31"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr10 td30"><SPAN class="p2 ft5">skattefrågor (nedan kallat ”avtalet”) innehåller bestämmelser om vad</SPAN> </TD>
+	<TD class="tr10 td31"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr10 td30"><SPAN class="p2 ft5">som skall gälla mellan Sverige och Danmark i vissa fall i förhållande till</SPAN> </TD>
+	<TD class="tr10 td31"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr10 td30"><SPAN class="p2 ft5">avtalet den 23 september 1996 mellan de nordiska länderna för att</SPAN> </TD>
+	<TD class="tr10 td31"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr10 td30"><SPAN class="p2 ft5">undvika dubbelbeskattning beträffande skatter på inkomst och på</SPAN> </TD>
+	<TD class="tr10 td31"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr10 td30"><SPAN class="p2 ft5">förmögenhet – det nordiska skatteavtalet. Det nordiska skatteavtalet finns</SPAN> </TD>
+	<TD class="tr10 td31"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr10 td30"><SPAN class="p2 ft5">införlivat i svensk rätt genom lagen (1996:1512) om dubbelbeskatt-</SPAN> </TD>
+	<TD class="tr10 td31"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr12 td30"><SPAN class="p2 ft5">ningsavtal mellan de nordiska länderna. Avtalet av den 29 oktober 2003</SPAN> </TD>
+	<TD class="tr12 td31"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr10 td30"><SPAN class="p2 ft5">mellan Sverige och Danmark omfattar en rad frågor som avser beskatt-</SPAN> </TD>
+	<TD class="tr10 td31"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr10 td30"><SPAN class="p2 ft5">ningen av personer som bor i den ena staten och som arbetar i den andra</SPAN> </TD>
+	<TD class="tr10 td31"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr10 td30"><SPAN class="p2 ft5">staten eller i tredje stat. I ett avseende innebär avtalet att fördelningen</SPAN> </TD>
+	<TD class="tr10 td31"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr10 td30"><SPAN class="p2 ft5">mellan de båda staterna sker på ett sådant sätt att Sverige för närvarande</SPAN> </TD>
+	<TD class="tr10 td31"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr10 td30"><SPAN class="p2 ft5">inte enligt den interna skattelagstiftningen beskattar inkomst som Sverige</SPAN> </TD>
+	<TD class="tr10 td31"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr12 td30"><SPAN class="p2 ft5">enligt avtalet fått beskattningsrätten till. Detta gäller inkomst av arbete</SPAN> </TD>
+	<TD class="tr12 td31"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr10 td30"><SPAN class="p2 ft5">som utförs i den skattskyldiges hemviststat eller i en tredje stat men som</SPAN> </TD>
+	<TD class="tr10 td31"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr10 td30"><SPAN class="p2 ft5">trots detta under vissa förutsättningar skall beskattas i den stat som utgör</SPAN> </TD>
+	<TD class="tr10 td31"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr10 td30"><SPAN class="p2 ft5">den anställdes huvudsakliga arbetsstat. På grund av detta åtagande i</SPAN> </TD>
+	<TD class="tr10 td31"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr10 td30"><SPAN class="p2 ft5">avtalet föreslås i avsnitt 6.2 nedan en ändring i lagen (1991:586) om</SPAN> </TD>
+	<TD class="tr10 td31"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr10 td30"><SPAN class="p2 ft5">särskild inkomstskatt för utomlands bosatta (SINK).</SPAN> </TD>
+	<TD class="tr10 td31"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr12 td30"><SPAN class="p73 ft5">I artikel 1 i avtalet regleras vad som skall gälla i förhållandet mellan</SPAN> </TD>
+	<TD class="tr12 td31"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr10 td30"><SPAN class="p2 ft5">Sverige och Danmark vid tillämpning av artikel 15:1 och 2 i det nordiska</SPAN> </TD>
+	<TD class="tr10 td31"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr10 td30"><SPAN class="p2 ft5">skatteavtalet då en person med hemvist i en avtalsslutande stat uppbär</SPAN> </TD>
+	<TD class="tr10 td31"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr10 td30"><SPAN class="p2 ft5">lön eller annan liknande ersättning på grund av anställning, som normalt</SPAN> </TD>
+	<TD class="tr10 td31"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr10 td30"><SPAN class="p2 ft5">utförs i den andra avtalsslutande staten. Om personen faktiskt utfört en</SPAN> </TD>
+	<TD class="tr10 td31"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr10 td30"><SPAN class="p2 ft5">del av arbetet i hemviststaten eller i en tredje stat skall arbetet under vissa</SPAN> </TD>
+	<TD class="tr10 td31"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr12 td30"><SPAN class="p2 ft5">förutsättningar anses vara utfört i den huvudsakliga arbetsstaten. Huvud-</SPAN> </TD>
+	<TD class="tr12 td31"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr10 td30"><SPAN class="p2 ft5">regeln enligt artikel 15 i det nordiska skatteavtalet är att den stat där</SPAN> </TD>
+	<TD class="tr10 td31"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr10 td30"><SPAN class="p2 ft5">arbetet utförs får beskatta ersättningen. Om arbetet utförs i personens</SPAN> </TD>
+	<TD class="tr10 td31"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr10 td30"><SPAN class="p2 ft5">hemviststat eller i tredje stat beskattas ersättningen endast i hemvist-</SPAN> </TD>
+	<TD class="tr10 td31"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr10 td30"><SPAN class="p2 ft5">staten.</SPAN> </TD>
+	<TD class="tr10 td31"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr10 td30"><SPAN class="p73 ft5">Den första situationen då arbetet skall anses vara utfört i den huvud-</SPAN> </TD>
+	<TD class="tr10 td31"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr10 td30"><SPAN class="p2 ft5">sakliga arbetsstaten är då arbetet i hemviststaten utförs av personen i</SPAN> </TD>
+	<TD class="tr10 td31"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr12 td30"><SPAN class="p2 ft5">dennes bostad. Den andra situationen då arbetet skall anses vara utfört i</SPAN> </TD>
+	<TD class="tr12 td31"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr10 td30"><SPAN class="p2 ft5">den huvudsakliga arbetsstaten är då arbetet i hemviststaten eller i en</SPAN> </TD>
+	<TD class="tr10 td31"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr10 td30"><SPAN class="p2 ft5">tredje stat utgör tjänsteresor eller annat arbete av tillfällig natur. En</SPAN> </TD>
+	<TD class="tr10 td31"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr10 td30"><SPAN class="p2 ft5">gemensam förutsättning för att arbetet i dessa båda situationer skall anses</SPAN> </TD>
+	<TD class="tr10 td31"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr10 td30"><SPAN class="p2 ft5">vara utfört i den huvudsakliga arbetsstaten är en tidsgräns som innebär att</SPAN> </TD>
+	<TD rowspan=2 class="tr17 td31"><SPAN class="p10 ft5">13</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr18 td30"><SPAN class="p2 ft41">&nbsp;</SPAN> </TD>
+</TR>
+</TABLE>
+</DIV>
+<DIV id="page_14">
+
+
+<DIV>
+<DIV id="id_1">
+<P class="p101 ft5">arbetet i den huvudsakliga arbetsstaten skall uppgå till minst hälften av den totala arbetstiden under varje tremånadersperiod.</P>
+<P class="p102 ft6">Tidsgränsen på tre månader har samband med den överenskommelse som träffats mellan Riksförsäkringsverket och Den Sociale Sikringsstyrelse i Danmark den 4 december 2001 om tillämpning av artikel 17 i förordningen (EEG) 1408/71 om tillämpningen av systemen för social trygghet. Av överenskommelsen framgår bl.a. följande. Huvudregeln enligt <NOBR>EG-förordningen</NOBR> är att den enskilde skall vara försäkrad i ett land. Man är försäkrad i det land där arbetet utförs. Från detta utbetalas förmånerna och till detta skall socialavgifter betalas. Om man arbetar i två länder och är bosatt i det ena, är man försäkrad i bosättningslandet. Behöriga myndigheter kan avtala om undantag från huvudregeln för vissa personer eller grupper av personer. Riksförsäkringsverket och Den Sociale Sikringsstyrelse har kommit överens om att tillstånd kommer att ges, efter ansökan i varje enskilt fall, för en person att omfattas av lagstiftningen i arbetsgivarens eller huvudarbetsgivarens hemland i följande två situationer:</P>
+<P class="p103 ft44"><SPAN class="ft42">1.</SPAN><SPAN class="ft43">Personer anställda av en arbetsgivare med säte i ett land, som arbetar både en väsentlig del på arbetsplatsen hos arbetsgivaren (minst hälften av arbetstiden under en sammanhängande period av tre månader) och på distans i bosättningslandet.</SPAN></P>
+<P class="p104 ft40"><SPAN class="ft1">2.</SPAN><SPAN class="ft45">Personer som är anställda för arbete i ett land av en arbetsgivare med säte i detta land och samtidigt har arvoderade förtroendeuppdrag i ett annat land.</SPAN></P>
+<P class="p105 ft5">Eftersom både avtalet om vissa skattefrågor och överenskommelsen mellan Riksförsäkringsverket och Den Sociale Sikringsstyrelse innehåller ett krav som innebär att minst hälften av arbetstiden under tre månader skall utföras i arbetsgivarens verksamhetsstat kommer förutsättningarna för att beskattning och socialförsäkring skall ske i samma stat att vara desamma. Kortare perioder av arbete i exempelvis hemviststaten kommer därför inte att påverka vare sig beskattningen eller socialförsäkringen.</P>
+<P class="p106 ft28">I artikel 1:2 anges att en förutsättning för att de ovan nämnda bestämmelserna skall gälla är att den lön eller liknande ersättning som personen uppbär antingen skall belasta en arbetsgivare med hemvist i arbetsstaten eller ett fast driftställe som arbetsgivaren har i arbetsstaten. Detta innebär att för att en person med hemvist i Sverige skall omfattas av bestämmelsen måste han ha en arbetsgivare med hemvist i Danmark och hans lön eller ersättning får inte belasta ett fast driftställe som arbetsgivaren har i Sverige. Personen kan också ha en arbetsgivare med hemvist utanför Danmark men lönen eller ersättningen måste i sådant fall belasta ett fast driftställe som arbetsgivaren har i Danmark.</P>
+<P class="p106 ft28">Artikel 1 i avtalet är nära förknippad med artikel 5:1 i samma avtal. I artikel 5:1 åtar sig de avtalsslutande staterna att beskatta den del av tjänsteinkomsten som de med stöd av artikel 1 får beskattningsrätten till. Den andra staten kommer inte att beskatta ifrågavarande inkomst. Eftersom svensk rätt för närvarande inte medger beskattning av begränsat skattskyldiga för arbete som utförs i den skattskyldiges hemviststat eller i en tredje stat i den utsträckning som är nödvändig enligt avtalet måste en bestämmelse med denna innebörd införas i svensk lagstiftning.</P>
+<P class="p107 ft7">Artikel 2 i avtalet behandlar avdrag för inbetalningar till pensionsordningar. Med pensionsordning avses för Sveriges vidkommande en ord-</P>
+</DIV>
+<DIV id="id_2">
+<P class="p108 ft5">Prop. 2003/04:149</P>
+<P class="p85 ft5">14</P>
+</DIV>
+</DIV>
+</DIV>
+<DIV id="page_15">
+
+
+<DIV>
+<DIV id="id_1">
+<P class="p109 ft6">ning som omfattas av 28 eller 58 kap. inkomstskattelagen (1999:1229), IL. I 28 kap. IL finns bestämmelser om arbetsgivares pensionskostnader. I 58 kap. IL finns bestämmelser om pensionsförsäkringar, kapitalförsäkringar och pensionssparkonton. Uttrycket pensionsordning innebär för Danmarks vidkommande en ordning som omfattas av pensionsbeskattningslagens avsnitt I.</P>
+<P class="p106 ft6">I artikel 2:1 sägs att en inbetalning som en fysisk person gör till en pensionsordning i den ena staten under vissa förutsättningar skall vara avdragsgill vid beskattningen i den andra staten. Detsamma gäller om personens arbetsgivare gör en inbetalning till en pensionsordning och arbetsgivaren får avdrag för inbetalningen och den inte anses som skattepliktig inkomst i arbetsstaten för den fysiska personen.</P>
+<P class="p106 ft7">Artikel 2:2 begränsar rätten till avdrag till att endast omfatta inbetalningar inom de beloppsgränser som gäller för betalningar till en pensionsordning enligt lagstiftningen i båda avtalsslutande staterna.</P>
+<P class="p110 ft28">Artikeln gäller enligt 2:3 endast i fall då en person antingen har inkomster i arbetsstaten som uppgår till minst 75 procent av personens sammanlagda nettointäkt eller har flyttat från den ena staten till den andra och är ansluten till en pensionsordning i den tidigare hemviststaten.</P>
+<P class="p106 ft6">Artikel 3 behandlar rätt till avdrag för resor över Öresundsbron. Rätt till avdrag föreligger för utgifter för kostnader för resor mellan permanentbostaden och arbetsplatsen. Sådana allmänna villkor som föreskrivs för avdragsrätt avseende utgifter för resor mellan bostad och arbete måste emellertid vara uppfyllda. I artikeln anges som exempel kravet på tidsvinst. Utgifterna skall beräknas med utgångspunkt i den billigaste biljetten. I den svenska lagstiftningen görs ingen skillnad mellan arbetsresor som innebär färd över Öresundsbron och andra resor. Avdrag för arbetsresor medges om allmänna villkor är uppfyllda, t.ex. att arbetsplatsen ligger på ett sådant avstånd från den skattskyldiges bostad att han behöver använda något transportmedel eller att erforderlig tidsvinst uppnåtts vid resa med egen bil. Avdragsrätt föreligger också för utgifter för <NOBR>väg-,</NOBR> bro- och färjeavgifter. I Danmark däremot är kostnaden för resor över Öresundsbron inte avdragsgill. Genom denna bestämmelse i avtalet införs en rätt till avdrag. Bestämmelsen berör således enbart beskattningen i Danmark.</P>
+<P class="p111 ft5">Artikel 4 innebär att de särskilda reglerna i artikel 31 punkt 5 i det nordiska skatteavtalet beträffande gränsgångare med hemvist i Danmark inte längre skall gälla. Gränsgångare med hemvist i Sverige berörs däremot inte. De personer med hemvist i Sverige som omfattas av bestämmelserna i artikel 31 punkt 5 i det nordiska skatteavtalet skall därmed även fortsättningsvis beskattas i hemviststaten Sverige. Bestämmelserna i artikel 1 om att arbete skall anses vara utfört i arbetsstaten trots att det faktiskt utförts i hemviststaten eller i tredje stat påverkar inte dessa sistnämnda personer, eftersom de beskattas i hemviststaten för inkomst enligt artikel 15 även om arbetet utförs i arbetsstaten eller i tredje stat.</P>
+<P class="p107 ft28">I artikel 5 regleras hur en stat som tillerkänts beskattningsrätten till vissa inkomster skall behandla dessa vid beskattningen. I 5:1 finns ett åtagande av de båda avtalsslutande staterna att beskatta tjänsteinkomster även om arbetet utförts i den skattskyldiges hemviststat eller i en tredje stat om arbetsstaten enligt artikel 1 tillerkänts beskattningsrätten. Det är</P>
+</DIV>
+<DIV id="id_2">
+<P class="p108 ft5">Prop. 2003/04:149</P>
+<P class="p85 ft5">15</P>
+</DIV>
+</DIV>
+</DIV>
+<DIV id="page_16">
+
+
+<DIV>
+<DIV id="id_1">
+<P class="p101 ft5">bl.a. på grund av detta åtagande som en ändring av 5 § SINK är nödvändig.</P>
+<P class="p105 ft5">Pension eller livränta som skall beskattas i en avtalsslutande stat skall enligt artikel 5:2 beskattas enligt denna stats allmänna regler även om denna stat inte satt ned sin beskattning i samband med inbetalningar till pensionsordning, utan detta i stället skett i den andra staten. Detta innebär att en person med hemvist i Sverige som fått avdrag i Danmark för inbetalningar till en pensionsordning i Sverige med stöd av artikel 2 i avtalet, skall beskattas för den från Sverige utfallande pensionen enligt de allmänna reglerna i IL. Det förhållandet att avdraget medgivits i Danmark och inte i Sverige skall dock i dessa fall inte föranleda att pensionen vid beskattningen behandlas på ett annat sätt än om avdraget medgivits i Sverige.</P>
+<P class="p111 ft5">Bestämmelserna i artikel 2 om avdrag för inbetalningar till pensionsordningar och artikel 3 om avdrag för utgift för resor över Öresundsbron gäller enligt artikel 5:3 endast om den skattskyldiges inkomst beskattas på nettobasis med möjlighet till avdrag för kostnader. Personer som beskattas enligt SINK kan alltså inte medges avdrag för pensionsinbetalningar eller resekostnader.</P>
+<P class="p106 ft6">Artikel 6 innehåller bestämmelser om det system för utjämning som Sverige och Danmark skall tillämpa beträffande skatt som tas ut av skattskyldiga som pendlar över Öresund. Om en person med hemvist i den ena avtalsslutande staten förvärvar inkomst från anställning i den andra avtalsslutande staten skall ett utjämningsbelopp betalas av arbetsstaten till hemviststaten. Detta gäller om inkomsten överstiger 150 000 danska kronor eller motsvarande belopp i svensk valuta. Utjämningsbeloppet uppgår för Sveriges vidkommande till den genomsnittliga kommunalskatten som tas ut för kommunernas räkning för inkomst som beskattas i Sverige med stöd av artikel 15 i det nordiska skatteavtalet. Utjämningsbeloppet omfattar således inte landstingsskatten. En motsvarande regel finns för Danmark.</P>
+<P class="p107 ft28">Inkomst som en person förvärvar genom arbete utfört ombord på ett svenskt eller danskt skepp i internationell trafik omfattas inte av utjämningssystemet. Skälet för detta är att sådan inkomst enligt de regler som för närvarande gäller i Danmark inte beskattas. I Sverige beskattas utomlands bosatta för sjöinkomst med 15 procent av bruttoinkomsten.</P>
+<P class="p106 ft6">I artikel 6 föreskrivs vidare att de behöriga myndigheterna i de avtalsslutande staterna kan ingå en överenskommelse om den närmare utformningen av ordningen för utjämning. Med ”behörig myndighet” avses den myndighet åt vilken enligt det nordiska skatteavtalet uppdragits att vara behörig myndighet, vilket för Sveriges del innebär finansministern eller det befullmäktigade ombud eller den myndighet åt vilken uppdragits att handha frågor enligt avtalet. I Sverige är det enligt förordningen (1998:1314) om tillämpning av dubbelbeskattningsavtalet mellan de nordiska länderna Skatteverket som skall pröva ärenden som skall handläggas av behörig myndighet.</P>
+<P class="p106 ft6">Artikel 6 innehåller slutligen en överenskommelse om att efter två år utvärdera ordningen för utjämning, särskilt såvitt avser nivån för utjämningen och det faktum att utjämningen endast avser den del av kommunalskatten som tas ut för primärkommunernas räkning och inte för den del som tas ut för landstingskommunernas räkning. Därutöver</P>
+</DIV>
+<DIV id="id_2">
+<P class="p108 ft5">Prop. 2003/04:149</P>
+<P class="p85 ft5">16</P>
+</DIV>
+</DIV>
+</DIV>
+<DIV id="page_17">
+<DIV id="dimg1">
+<INGENBILD zsrc="GR0314917x1.jpg/" id="img1">
+</DIV>
+
+
+<P class="p58 ft5">sker en utvärdering av hela systemet vart femte år eller vid väsentliga Prop. 2003/04:149 förändringar av skattesystemen.</P>
+<P class="p25 ft6">Artiklarna 7 och 8 innehåller bestämmelser om ikraftträdande och upphörande av avtalet. Enligt artikel 7:1 träder avtalet i kraft den tjugoförsta dagen efter den dag när de två avtalsslutande staterna skriftligen har meddelat varandra att de konstitutionella åtgärder som krävs i respektive stat har vidtagits. Artiklarna 2, 3, 5:2, 5:3 och 6 tillämpas såvitt avser skatter på inkomst som tas ut för beskattningsår som börjar den 1 januari 2004 eller senare. Artiklarna 1, 4 och 5:1 skall tillämpas såvitt avser skatter på inkomst som tas ut för beskattningsår som börjar den 1 januari det år som följer närmast efter det år då avtalet träder i kraft eller senare. Skälet för att vissa bestämmelser skall tillämpas först efter det att avtalet träder i kraft är det förbud som gäller enligt 2 kap. 10 § andra stycket regeringsformen mot att ta ut skatt i vidare mån än som följer av föreskrift, som gällde när den omständighet inträffade som utlöste skattskyldigheten. Övriga bestämmelser skall tillämpas retroaktivt fr.o.m. den 1 januari 2004, dvs. på omständigheter som inträffade före det att avtalet träder i kraft, eftersom dessa bestämmelser inte kan innebära en ökad skattskyldighet.</P>
+<P class="p76 ft5">Danmark har meddelat att förutsättningarna för ikraftträdande av avtalet är uppfyllda enligt dansk författning.</P>
+<P class="p112 ft4">6 Överväganden och förslag</P>
+<P class="p93 ft39"><SPAN class="ft5">6.1</SPAN><SPAN class="ft38">Lagen om det nordiska dubbelbeskattningsavtalet</SPAN></P>
+<P class="p113 ft5"><SPAN class="ft20">Regeringens förslag: </SPAN>Riksdagen godkänner avtalet mellan Sverige och Danmark om vissa skattefrågor och antar en lag om ändring i lagen (1996:1512) om dubbelbeskattningsavtal mellan de nordiska länderna. Ändringen av lagen innebär att avtalet fogas som en bilaga till lagen.</P>
+<P class="p114 ft20">Skälen för regeringens förslag: <SPAN class="ft5">De svenska och danska regeringarna har fört förhandlingar för att lösa vissa problem som kan uppstå vid tillämpningen av det nordiska skatteavtalet beträffande personer som pendlar mellan Sverige och Danmark. Förhandlingarna har resulterat i avtalet mellan Sverige och Danmark om vissa skattefrågor (nedan kallat ”avtalet”).</SPAN></P>
+<P class="p31 ft28">Enligt förslaget skall ett nytt femte stycke läggas till i 1 § lagen (1996:1512) om dubbelbeskattningsavtal mellan de nordiska länderna. I det nya stycket föreskrivs att avtalet skall gälla som lag här i landet. Avtalet i dess svenska lydelse fogas som en ny bilaga till lagen, bilaga 4.</P>
+<P class="p25 ft6">Enligt artikel 7 i avtalet träder detta i kraft den tjugoförsta dagen efter den dag när de båda avtalsslutande staterna skriftligen har meddelat varandra att de konstitutionella åtgärder som krävs i respektive stat har vidtagits. Danmarks regering har underrättat den svenska regeringen om att nödvändiga konstitutionella åtgärder vidtagits i Danmark. Avtalet kommer att träda i kraft den tjugoförsta dagen efter den dag Sveriges</P>
+<P class="p96 ft46">regering lämnat motsvarande underrättelse till Danmark. I förslaget till</P>
+<P class="p97 ft5">17</P>
+</DIV>
+<DIV id="page_18">
+
+
+<P class="p98 ft5">lag har därför föreskrivits att lagen träder i kraft den 1 augusti 2004. Prop. 2003/04:149 Enligt avtalet skall dock vissa artiklar och punkter tillämpas i fråga om</P>
+<P class="p99 ft28">skatter på inkomst som tas ut för beskattningsår som börjar den 1 januari 2004 eller senare. Avtalet skall därmed beträffande dessa artiklar och punkter tillämpas retroaktivt. Det gäller artikel 2 (avdrag för pensionsinbetalningar), artikel 3 (avdrag för utgift för arbetsresor över Öresundsbron), artikel 5 punkterna 2 och 3 (åtagandet att beskatta pensionsinkomst enligt allmänna regler trots att avdrag inte medgivits för pensionsinbetalningarna samt att avdrag enligt artiklarna 2 och 3 endast ges om inkomst beskattas på nettobasis) och artikel 6 (skatteutjämning). I övriga delar skall avtalet tillämpas först efter det att avtalet träder i kraft.</P>
+<TABLE cellpadding=0 cellspacing=0 class="t8">
+<TR>
+	<TD colspan=2 class="tr15 td20"><SPAN class="p2 ft39">6.2</SPAN> </TD>
+	<TD colspan=2 class="tr15 td32"><SPAN class="p115 ft5">Lagen om särskild inkomstskatt för utomlands</SPAN> </TD>
+	<TD class="tr15 td31"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr15 td33"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+	<TD class="tr15 td34"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+	<TD colspan=2 class="tr15 td32"><SPAN class="p2 ft39">bosatta</SPAN> </TD>
+	<TD class="tr15 td31"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr19 td33"><SPAN class="p2 ft47">&nbsp;</SPAN> </TD>
+	<TD colspan=2 class="tr19 td35"><SPAN class="p2 ft47">&nbsp;</SPAN> </TD>
+	<TD class="tr19 td36"><SPAN class="p2 ft47">&nbsp;</SPAN> </TD>
+	<TD class="tr19 td31"><SPAN class="p2 ft47">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr20 td37"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+	<TD colspan=2 class="tr12 td38"><SPAN class="p116 ft5"><SPAN class="ft20">Regeringens förslag: </SPAN>Tillämpningsområdet utvidgas för bestämmel-</SPAN> </TD>
+	<TD class="tr20 td36"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+	<TD class="tr20 td31"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr10 td37"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+	<TD colspan=2 class="tr10 td39"><SPAN class="p116 ft5">sen i 5 § lagen (1991:586) om särskild inkomstskatt för utomlands</SPAN> </TD>
+	<TD class="tr10 td36"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+	<TD class="tr10 td31"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr12 td37"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+	<TD colspan=2 class="tr12 td39"><SPAN class="p116 ft5">bosatta om att avlöning eller annan därmed jämförlig förmån utgör</SPAN> </TD>
+	<TD class="tr12 td36"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+	<TD class="tr12 td31"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr10 td37"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+	<TD colspan=2 class="tr10 td39"><SPAN class="p116 ft5">skattepliktig inkomst på grund av att verksamheten i sin helhet skall</SPAN> </TD>
+	<TD class="tr10 td36"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+	<TD class="tr10 td31"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr10 td37"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+	<TD colspan=2 class="tr10 td39"><SPAN class="p116 ft1">anses utövad här i riket även om den anställde under vissa omständig-</SPAN> </TD>
+	<TD class="tr10 td36"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+	<TD class="tr10 td31"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr10 td37"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+	<TD colspan=2 class="tr10 td39"><SPAN class="p116 ft5">heter faktiskt utfört en del av arbetet utomlands.</SPAN> </TD>
+	<TD class="tr10 td36"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+	<TD class="tr10 td31"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr21 td37"><SPAN class="p2 ft48">&nbsp;</SPAN> </TD>
+	<TD colspan=2 class="tr22 td40"><SPAN class="p2 ft9">&nbsp;</SPAN> </TD>
+	<TD class="tr21 td36"><SPAN class="p2 ft48">&nbsp;</SPAN> </TD>
+	<TD class="tr21 td31"><SPAN class="p2 ft48">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr3 td33"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+	<TD colspan=3 class="tr3 td41"><SPAN class="p117 ft5"><SPAN class="ft20">Promemorians förslag: </SPAN>Överensstämmer i huvudsak med rege-</SPAN> </TD>
+	<TD class="tr3 td31"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=2 class="tr12 td20"><SPAN class="p2 ft5">ringens.</SPAN> </TD>
+	<TD class="tr12 td42"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+	<TD class="tr12 td36"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+	<TD class="tr12 td31"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr10 td33"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+	<TD colspan=3 class="tr10 td41"><SPAN class="p117 ft5"><SPAN class="ft20">Remissinstanserna: </SPAN>Remissinstanserna har inga erinringar mot för-</SPAN> </TD>
+	<TD class="tr10 td31"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=4 class="tr10 td30"><SPAN class="p2 ft5">slaget. Skatteverket föreslår dock i förtydligande syfte en annan utform-</SPAN> </TD>
+	<TD class="tr10 td31"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=4 class="tr10 td30"><SPAN class="p2 ft5">ning av lagtexten.</SPAN> </TD>
+	<TD class="tr10 td31"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr10 td33"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+	<TD colspan=3 class="tr10 td41"><SPAN class="p117 ft5"><SPAN class="ft20">Skälen för regeringens förslag: </SPAN>Sverige har i artikel 5:1 i avtalet av</SPAN> </TD>
+	<TD class="tr10 td31"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=4 class="tr10 td30"><SPAN class="p2 ft5">den 29 oktober 2003 mellan Sverige och Danmark om vissa skattefrågor</SPAN> </TD>
+	<TD class="tr10 td31"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=4 class="tr12 td30"><SPAN class="p2 ft5">(nedan kallat ”avtalet”) åtagit sig att beskatta den del av tjänsteinkomsten</SPAN> </TD>
+	<TD class="tr12 td31"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=4 class="tr10 td30"><SPAN class="p2 ft5">som Sverige med stöd av artikel 1 i samma avtal får beskattningsrätten</SPAN> </TD>
+	<TD class="tr10 td31"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=4 class="tr10 td30"><SPAN class="p2 ft5">till. Detta innebär att Sverige måste säkerställa att det i intern svensk lag-</SPAN> </TD>
+	<TD class="tr10 td31"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=4 class="tr10 td30"><SPAN class="p2 ft5">stiftning finns grund för beskattning av de personer med hemvist i</SPAN> </TD>
+	<TD class="tr10 td31"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=4 class="tr10 td30"><SPAN class="p2 ft5">Danmark som huvudsakligen utför arbete i Sverige för en svensk arbets-</SPAN> </TD>
+	<TD class="tr10 td31"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=4 class="tr10 td30"><SPAN class="p2 ft5">givare eller vid ett fast driftställe eller en stadigvarande anordning som</SPAN> </TD>
+	<TD class="tr10 td31"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=4 class="tr12 td30"><SPAN class="p2 ft5">en utländsk arbetsgivare har i Sverige, även i de fall då personen delvis</SPAN> </TD>
+	<TD class="tr12 td31"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=4 class="tr10 td30"><SPAN class="p2 ft5">faktiskt utför arbetet antingen i sin bostad eller vid tjänsteresor eller</SPAN> </TD>
+	<TD class="tr10 td31"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=4 class="tr10 td30"><SPAN class="p2 ft5">annat arbete av tillfällig natur i Danmark eller i en tredje stat.</SPAN> </TD>
+	<TD class="tr10 td31"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr10 td33"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+	<TD colspan=3 class="tr10 td41"><SPAN class="p117 ft7">Regler om beskattning av utomlands bosatta finns i lagen (1991:586)</SPAN> </TD>
+	<TD class="tr10 td31"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=4 class="tr10 td30"><SPAN class="p2 ft5">om särskild inkomstskatt för utomlands bosatta (SINK). För att en person</SPAN> </TD>
+	<TD class="tr10 td31"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=4 class="tr10 td30"><SPAN class="p2 ft5">skall vara skattskyldig krävs att han eller hon uppburit en inkomst som är</SPAN> </TD>
+	<TD class="tr10 td31"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=4 class="tr12 td30"><SPAN class="p2 ft5">skattepliktig enligt den uppräkning som finns i 5 § SINK. Det är därför</SPAN> </TD>
+	<TD class="tr12 td31"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=4 class="tr10 td30"><SPAN class="p2 ft5">lämpligt att i uppräkningen lägga till en bestämmelse som medför att</SPAN> </TD>
+	<TD class="tr10 td31"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=4 class="tr10 td30"><SPAN class="p2 ft5">sådan inkomst som omfattas av artikel 1 i avtalet är skattepliktig.</SPAN> </TD>
+	<TD class="tr10 td31"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr10 td33"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+	<TD colspan=3 class="tr10 td41"><SPAN class="p117 ft7">Det finns flera alternativa möjligheter för att i 5 § SINK lägga till den</SPAN> </TD>
+	<TD class="tr10 td31"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=4 class="tr10 td30"><SPAN class="p2 ft5">nödvändiga regeln. Ett sätt är att i bestämmelsen direkt hänvisa till</SPAN> </TD>
+	<TD class="tr10 td31"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=4 class="tr10 td30"><SPAN class="p2 ft5">artikel 1 i avtalet och ange att sådan inkomst som omfattas av bestäm-</SPAN> </TD>
+	<TD class="tr10 td31"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=4 class="tr10 td30"><SPAN class="p2 ft5">melsen också skall vara skattepliktig i Sverige. Denna metod skulle</SPAN> </TD>
+	<TD class="tr10 td31"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=4 class="tr12 td30"><SPAN class="p2 ft5">innebära att exakt den inkomst som avses i artikeln också blev skatte-</SPAN> </TD>
+	<TD class="tr12 td31"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=4 class="tr10 td30"><SPAN class="p2 ft5">pliktig i Sverige, vilket skulle medföra att åtagandet i avtalet fullgjorts.</SPAN> </TD>
+	<TD rowspan=2 class="tr17 td31"><SPAN class="p10 ft5">18</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr18 td33"><SPAN class="p2 ft41">&nbsp;</SPAN> </TD>
+	<TD class="tr18 td34"><SPAN class="p2 ft41">&nbsp;</SPAN> </TD>
+	<TD class="tr18 td42"><SPAN class="p2 ft41">&nbsp;</SPAN> </TD>
+	<TD class="tr18 td36"><SPAN class="p2 ft41">&nbsp;</SPAN> </TD>
+</TR>
+</TABLE>
+</DIV>
+<DIV id="page_19">
+
+
+<DIV>
+<DIV id="id_1">
+<P class="p105 ft5">Ett annat sätt är att mer generellt beskriva de situationer som avses omfattas av skatteplikten. Därmed skulle alla utomlands bosatta personer under angivna förutsättningar, inte bara de med hemvist i Danmark, vara skattskyldiga för inkomster som de uppburit vid hemarbete eller tjänsteresor i utlandet.</P>
+<P class="p102 ft6">Att bestämmelsen trots den generella ordalydelsen i praktiken ändå endast skulle få betydelse för personer med hemvist i Danmark är följden av de skatteavtal som Sverige har ingått med andra stater. De flesta skatteavtal som Sverige ingått bygger på den modell för skatteavtal beträffande inkomst och förmögenhet som Organisationen för ekonomiskt samarbete och utveckling (OECD) utarbetat. I OECD:s modellavtal anges i artikel 15 beträffande inkomst av enskild tjänst att lön och annan liknande ersättning, som person med hemvist i en avtalsslutande stat uppbär på grund av anställning, beskattas endast i hemviststaten, såvida arbetet inte utförs i den andra avtalsslutande staten. Om arbetet utförs i denna andra stat, får ersättning för arbetet beskattas där. Detta innebär att Sverige enligt skatteavtalen endast kan beskatta personer som inte har hemvist i Sverige för ersättning av arbete som dessa personer har utfört här. Det nu ingångna avtalet med Danmark utgör ett undantag i detta avseende.</P>
+<P class="p110 ft6">När det gäller personer som är bosatta utomlands i en stat med vilken Sverige inte har ett skatteavtal innebär en generell bestämmelse att skattskyldigheten utvidgas. Sverige har för närvarande skatteavtal med nästan 80 stater. De stater med vilka Sverige inte har skatteavtal är sådana stater som geografiskt är belägna på så sätt att det är förenat med vissa svårigheter för en anställd att i någon större utsträckning utföra arbete i bostaden. Det ekonomiska utbytet mellan Sverige och dessa stater är också mycket begränsat. Antalet fall när en utvidgad skattskyldighet kan komma att bli aktuell är därför mycket få. Skattskyldigheten avser dessutom tjänsteresor. Detta fall skiljer sig principiellt sett inte nämnvärt från de fall som redan finns reglerade i 5 § tredje stycket SINK beträffande tjänsteinnehavare som gör tillfälliga besök utomlands eller under en längre tid uppehåller sig utomlands under kringresande. Det framstår som ändamålsenligt att utvidga skattskyldigheten till att omfatta den del av inkomsten som hänför sig till i utlandet faktiskt utfört arbete dels om detta utförs i bostaden om den anställde utför huvuddelen av arbetet i Sverige, dels om detta utförs i samband med tjänsteresor i utlandet.</P>
+<P class="p118 ft5">Vid en samlad bedömning är det att föredra att i SINK införa en generell bestämmelse beträffande skattskyldighet för inkomst som förvärvas i samband med hemarbete och tjänsteresor i utlandet framför en direkt hänvisning till en artikel i avtalet med Danmark.</P>
+<P class="p106 ft7">För att säkerställa att även inkomst som uppbärs från en begränsat skattskyldig arbetsgivare med fast driftställe i Sverige med anledning av arbete som är hänförligt till det fasta driftstället omfattas av skattskyldigheten måste det nuvarande kravet på att anställningen skall vara i ett svenskt företag kompletteras i detta avseende.</P>
+<P class="p119 ft7">Förslaget föranleder en ändring i 5 § SINK. Den närmare utformningen av bestämmelsen behandlas i författningskommentaren.</P>
+<P class="p110 ft7">Enligt artikel 7 i avtalet träder avtalet i kraft den tjugoförsta dagen efter den dag när de två staterna underrättat varandra om att de kon-</P>
+</DIV>
+<DIV id="id_2">
+<P class="p108 ft5">Prop. 2003/04:149</P>
+<P class="p85 ft5">19</P>
+</DIV>
+</DIV>
+</DIV>
+<DIV id="page_20">
+<DIV id="dimg1">
+<INGENBILD zsrc="GR0314920x1.jpg/" id="img1">
+</DIV>
+
+
+<P class="p58 ft5">stitutionella åtgärder som krävs i respektive stat har vidtagits och skall Prop. 2003/04:149 tillämpas, såvitt avser artikel 1, i fråga om skatter på inkomst som tas ut</P>
+<P class="p44 ft5">för beskattningsår som börjar den 1 januari det kalenderår som följer närmast efter det år då avtalet träder i kraft eller senare. Danmarks regering har redan underrättat den svenska regeringen om att nödvändiga konstitutionella åtgärder vidtagits i Danmark. Efter att avtalet och förslaget till lagändring godkänts av riksdagen kommer den svenska regeringen att på motsvarande sätt underrätta Danmarks regering. Eftersom detta avses ske i samband med att lagen utfärdas föreslås att förslaget till lag skall träda i kraft den 1 augusti 2004 och tillämpas på avlöning eller därmed jämförlig förmån som utgår efter utgången av år 2004.</P>
+<P class="p120 ft39"><SPAN class="ft5">6.3</SPAN><SPAN class="ft38">Kommuner och landsting</SPAN></P>
+<P class="p121 ft7"><SPAN class="ft49">Regeringens bedömning: </SPAN>Det utjämningsbelopp som regleras i artikel 6 i avtalet den 29 oktober 2003 mellan Sverige och Danmark om vissa skattefrågor bör tillföras kommuner och landsting i det fall utjämningsbelopp betalas av Danmark till Sverige.</P>
+<P class="p122 ft6">Det är främst kommuner och landsting som hittills har förlorat skatteintäkter på grund av att personer som är bosatta i Sverige i vissa fall betalar inkomstskatt i Danmark. Genom det nuvarande inkomstutjämningssystemet för kommuner respektive landsting fördelas skattebortfallet på hela kommunrespektive landstingskollektivet. Därför bör en kompensation för skattebortfallet i form av ett utjämningsbelopp fördelas på samtliga kommuner respektive landsting. För närvarande är det generella statsbidraget det instrument som är lämpligast att användas för denna typ av regleringar.</P>
+<P class="p8 ft5">Regeringen avser att senare under maj månad i år lämna en proposition med förslag till förändringar i statsbidrags- och utjämningssystemet för kommuner och landsting och återkommer därför senare till hur utjämningsbeloppet bör regleras gentemot kommuner och landsting i det nya systemet.</P>
+<P class="p123 ft4">7 Offentligfinansiella konsekvenser</P>
+<P class="p124 ft28">Avtalet mellan Sverige och Danmark om vissa skattefrågor innebär att länderna ska kompensera varandra för kostnaden för den kommunala servicen som de båda ländernas invånare utnyttjar på hemorten när de arbetar i och betalar skatt i det andra landet. En person bosatt i Sverige som pendlar till Danmark för att arbeta beskattas i Danmark men utnyttjar huvudsakligen kommunal service i Sverige och vice versa. Länderna har därför kommit överens om att ersätta varandra med ett belopp som beräknas med utgångspunkt i den genomsnittliga kommunalskattesatsen som tas ut för kommunernas räkning. Sverige ska ersätta Danmark med ett belopp som motsvarar denna svenska skatt som tas ut</P>
+<P class="p125 ft5">20</P>
+</DIV>
+<DIV id="page_21">
+
+
+<P class="p58 ft5">för personer bosatta i Danmark som arbetar i Sverige. Danmark ska i sin Prop. 2003/04:149 tur kompensera Sverige för motsvarande danska skatteuttag.</P>
+<P class="p25 ft6">Det saknas statistiskt säkerställda uppgifter om det exakta antalet pendlare mellan Sverige och Danmark som skall omfattas av denna ordning samt om inkomsternas storlek för dessa grupper. En beräkning som bygger på bedömningar från skattekontoret i Malmö visar att förslaget innebär en inkomstförstärkning för den svenska kommun- och landstingssektorn med 150 – 200 miljoner kronor. Övriga förslag bedöms medföra endast försumbara ekonomiska konsekvenser.</P>
+<P class="p8 ft5">När det gäller ordningen för utjämning av vissa skatteintäkter mellan Sverige och Danmark ger denna upphov till visst merarbete inom Skatteverket. Arbetet är emellertid enligt regeringens bedömning inte av större omfattning än att kostnaden för det bör kunna rymmas inom befintliga resursramar. Förslagen i övrigt bedöms inte medföra ökad arbetsbelastning för de allmänna förvaltningsdomstolarna eller Skatteverket.</P>
+<P class="p123 ft4">8 Författningskommentar</P>
+<P class="p126 ft15"><SPAN class="ft7">8.1</SPAN><SPAN class="ft14">Lagen (1996:1512) om dubbelbeskattningsavtal mellan de nordiska länderna</SPAN></P>
+<P class="p127 ft5">1§</P>
+<P class="p128 ft6">I ett nytt femte stycke föreskrivs att avtalet den 29 oktober 2003 mellan Sverige och Danmark om vissa skattefrågor skall gälla som lag här i landet. Den för Sverige utfärdade texten framgår av bilaga 4 till lagen.</P>
+<P class="p129 ft39"><SPAN class="ft5">8.2</SPAN><SPAN class="ft38">Lagen (1991:586) om särskild inkomstskatt för utomlands bosatta</SPAN></P>
+<P class="p130 ft5">5§</P>
+<P class="p44 ft5">I paragrafen föreskrivs i tredje stycket att verksamhet anses utövad här i riket även om den enskilde under vissa omständigheter utfört arbetet utomlands. Bestämmelsen omfattar sedan tidigare situationer då en enskild är anställd i ett svenskt företag. Enligt den nya lydelsen, som utformats i enlighet med Lagrådets förslag, skall bestämmelsen även omfatta personer med anställning vid ett utländskt företag med fast driftställe i Sverige.</P>
+<P class="p131 ft5">Dessutom skall tredje stycket också tillämpas i fall då inkomst som utgått av annat uppdrag än anställning är skattepliktig enligt första stycket 2. Genom detta tillägg uppnås överensstämmelse mellan första och tredje styckenas tillämpningsområden. I förhållande till olika skatteavtal kan emellertid inträffa att denna utvidgning av tillämpningsområdet för tredje stycket i praktiken inte kommer att medföra någon förändring i förhållande till vad som tidigare gällt. Exempelvis är artikel 15:1 i det nordiska skatteavtalet endast tillämplig på ersättning som uppbärs på grund av anställning.</P>
+<P class="p125 ft5">21</P>
+</DIV>
+<DIV id="page_22">
+
+
+<DIV>
+<DIV id="id_1">
+<P class="p102 ft6">Bestämmelsen har vidare delats upp i två strecksatser. I den första regleras fallet då en enskild gör tjänsteresor utomlands. De ändringar som föreslås är till stor del redaktionella. Begreppet tjänsteinnehavare har bytts ut mot enskild. Den tidigare skrivningen ”tillfälliga besök” har strukits eftersom begreppet tjänsteresa enligt den terminologi som används i inkomstskattelagen (1999:1229) innefattar tillfälliga besök i utlandet som en skattskyldig företar i sin tjänst. Detsamma gäller skrivningen om en längre tids kringresande utomlands. Begreppet tjänsteresor omfattar därmed både då den enskilde i och för sin tjänst gör tillfälliga besök utomlands och då den enskilde under längre tid uppehåller sig där under kringresande. Bestämmelsen får ett något vidare tillämpningsområde än tidigare i och med att tjänsteresor även kan avse vistelser i utlandet som varar under längre tid men som inte innebär kringresande. Något tidskrav avseende tjänsteresans längd i förhållande till den tid som arbete utförs i Sverige ställs inte upp.</P>
+<P class="p107 ft28">Den andra strecksatsen innebär att verksamhet anses utövad här om arbetet utförs i bostaden utomlands. En förutsättning för att verksamheten skall anses utövad här i de fall arbetet utförs i bostaden är dock att tiden för arbetet utomlands uppgår till högst hälften av den enskildes totala arbetstid under varje tremånadersperiod. Den verksamhet som faktiskt utövas i Sverige måste alltså utgöra hälften eller en övervägande del av den anställdes sammanlagda arbetstid. Eftersom jämförelsen skall göras för varje tremånadersperiod kan villkoret att tiden för arbetet i Sverige skall uppgå till minst hälften av den totala arbetstiden vara uppfyllt beträffande en del av året även om villkoret inte är uppfyllt sett över ett helt år. För sådan verksamhet utomlands som omfattas av bestämmelsens första strecksats, tjänsteresor, gäller inte detta villkor.</P>
+</DIV>
+<DIV id="id_2">
+<P class="p108 ft5">Prop. 2003/04:149</P>
+<P class="p85 ft5">22</P>
+</DIV>
+</DIV>
+</DIV>
+<DIV id="page_23">
+
+
+<DIV id="id_1">
+<DIV id="id_1_1">
+<P class="p132 ft4">Lagförslag i Finansdepartementets promemoria om ändring av lagen (1991:586) om särskild inkomstskatt för utomlands bosatta med anledning av avtalet den 29 oktober 2003 mellan Sverige och Danmark om vissa skattefrågor</P>
+<P class="p133 ft20">Förslag till lag om ändring i lagen (1991:586) om särskild inkomstskatt för utomlands bosatta</P>
+<P class="p134 ft5">Härigenom föreskrivs att 5 § lagen (1991:586) skall ha följande lydelse.</P>
+<TABLE cellpadding=0 cellspacing=0 class="t9">
+<TR>
+	<TD class="tr10 td28"><SPAN class="p2 ft5">Nuvarande lydelse</SPAN> </TD>
+	<TD class="tr10 td24"><SPAN class="p2 ft1">Föreslagen lydelse</SPAN> </TD>
+</TR>
+</TABLE>
+<P class="p135 ft7">5 §<A href="#page_23"><SPAN class="ft33">1</SPAN></A></P>
+<P class="p136 ft5">Skattepliktig inkomst enligt denna lag är:</P>
+<P class="p83 ft5"><SPAN class="ft1">1.</SPAN><SPAN class="ft22">avlöning eller därmed jämförlig förmån, som utgått av anställning eller uppdrag hos svenska staten eller svensk kommun;</SPAN></P>
+<P class="p69 ft6"><SPAN class="ft1">2.</SPAN><SPAN class="ft50">avlöning eller därmed jämförlig förmån, som utgått av annan anställning eller annat uppdrag än hos svenska staten eller svensk kommun, i den mån inkomsten förvärvats genom verksamhet här i riket;</SPAN></P>
+<P class="p62 ft5"><SPAN class="ft1">3.</SPAN><SPAN class="ft13">arvode och liknande ersättning som uppburits av någon i egenskap av ledamot eller suppleant i styrelse eller annat liknande organ i svenskt aktiebolag eller annan svensk juridisk person, oavsett var verksamheten utövats;</SPAN></P>
+<P class="p67 ft5"><SPAN class="ft1">4.</SPAN><SPAN class="ft21">ersättning i form av</SPAN></P>
+<P class="p137 ft6"><SPAN class="ft1">–</SPAN><SPAN class="ft51">pension, med undantag av barnpension, enligt lagen (1998:674) om inkomstgrundad ålderspension, lagen (1998:702) om garantipension, lagen (2000:461) om efterlevandepension och efterlevandestöd till barn och lagen (2000:462) om införande av lagen (2000:461) om efterlevandepension och efterlevandestöd till barn samt sjukersättning och aktivitetsersättning enligt lagen (1962:381) om allmän försäkring till den del det totala beloppet av uppburna ersättningar för varje kalendermånad överstiger en tolftedel av 0,67 prisbasbelopp,</SPAN></P>
+<P class="p68 ft5"><SPAN class="ft1">–</SPAN><SPAN class="ft21">barnpension enligt lagen om efterlevandepension och efterlevandestöd till barn, samt</SPAN></P>
+<P class="p138 ft5"><SPAN class="ft1">–</SPAN><SPAN class="ft21">annan ersättning enligt lagen om allmän försäkring;</SPAN></P>
+<P class="p62 ft5"><SPAN class="ft1">5.</SPAN><SPAN class="ft11">pension på grund av anställning eller uppdrag hos svenska staten eller svensk kommun;</SPAN></P>
+<P class="p69 ft28"><SPAN class="ft1">6.</SPAN><SPAN class="ft29">belopp, som utgår på grund av annan pensionsförsäkring än tjänstepensionsförsäkring, om försäkringen meddelats i här i riket bedriven försäkringsrörelse samt belopp som utbetalas från pensionssparkonto fört av ett svenskt pensionssparinstitut eller av ett utländskt instituts filial i Sverige enligt lagen (1993:931) om individuellt pensionssparande;</SPAN></P>
+<P class="p139 ft28"><SPAN class="ft1">7.</SPAN><SPAN class="ft52">pension på grund av tjänstepensionsförsäkring samt annan pension eller förmån, om förmån utgår från Sverige på grund av förutvarande tjänst och den tidigare verksamheten huvudsakligen utövats här;</SPAN></P>
+</DIV>
+<DIV id="id_1_2">
+<P class="p70 ft5">Prop. 2003/04:149</P>
+<P class="p70 ft5">Bilaga 1</P>
+</DIV>
+</DIV>
+<DIV id="id_2">
+<TABLE cellpadding=0 cellspacing=0 class="t10">
+<TR>
+	<TD class="tr12 td43"><SPAN class="p2 ft19"><SPAN class="ft18">1 </SPAN>Senaste lydelse 2002:1074.</SPAN> </TD>
+	<TD class="tr12 td44"><SPAN class="p10 ft5">23</SPAN> </TD>
+</TR>
+</TABLE>
+</DIV>
+</DIV>
+<DIV id="page_24">
+<DIV id="dimg1">
+<INGENBILD zsrc="GR0314924x1.jpg/" id="img1">
+</DIV>
+
+
+<TABLE cellpadding=0 cellspacing=0 class="t1">
+<TR>
+	<TD class="tr20 td27"><SPAN class="p140 ft5">8. ersättning enligt lagen (1954:243) om yrkesskadeförsäkring eller</SPAN> </TD>
+	<TD class="tr20 td22"><SPAN class="p2 ft1">Prop. 2003/04:149</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr14 td27"><SPAN class="p140 ft1">lagen (1976:380) om arbetsskadeförsäkring och lagen (1989:225) om er-</SPAN> </TD>
+	<TD class="tr14 td22"><SPAN class="p2 ft10">Bilaga 1</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr10 td27"><SPAN class="p140 ft7">sättning till smittbärare samt enligt annan lag eller författning, som utgått</SPAN> </TD>
+	<TD class="tr10 td22"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr10 td27"><SPAN class="p140 ft5">till någon vid sjukdom eller olycksfall i arbete eller på grund av</SPAN> </TD>
+	<TD class="tr10 td22"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr12 td27"><SPAN class="p140 ft5">militärtjänstgöring eller i fall som avses i lagen (1977:265) om statligt</SPAN> </TD>
+	<TD class="tr12 td22"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr10 td27"><SPAN class="p140 ft7">personskadeskydd eller lagen (1977:267) om krigsskadeersättning till</SPAN> </TD>
+	<TD class="tr10 td22"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr10 td27"><SPAN class="p141 ft1">sjömän;</SPAN> </TD>
+	<TD class="tr10 td22"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+</TR>
+</TABLE>
+<P class="p131 ft5"><SPAN class="ft1">9.</SPAN><SPAN class="ft24">dagpenning från arbetslöshetskassa enligt lagen (1997:238) om arbetslöshetsförsäkring;</SPAN></P>
+<P class="p24 ft5"><SPAN class="ft1">10.</SPAN><SPAN class="ft13">annan härifrån uppburen, genom verksamhet här i riket förvärvad inkomst av tjänst;</SPAN></P>
+<P class="p24 ft5"><SPAN class="ft1">11.</SPAN><SPAN class="ft53">återfört avdrag för egenavgifter enligt socialavgiftslagen (2000:980), egenavgifter som satts ned genom ändrad debitering, i den mån avdrag har medgetts för avgifterna samt avgifter som avses i 62 kap. 6 § inkomstskattelagen (1999:1229) och som satts ned genom ändrad debitering i den mån avdrag har medgetts för avgifterna och dessa inte hänför sig till näringsverksamhet;</SPAN></P>
+<P class="p45 ft5"><SPAN class="ft1">12.</SPAN><SPAN class="ft21">sjöinkomst som avses i 64 kap. 3 och 4 §§ inkomstskattelagen.</SPAN></P>
+<P class="p29 ft5">Som inkomst enligt första stycket <NOBR>1-3</NOBR> anses också förskott på</P>
+<TABLE cellpadding=0 cellspacing=0 class="t11">
+<TR>
+	<TD colspan=2 class="tr14 td28"><SPAN class="p2 ft7">sådan inkomst.</SPAN> </TD>
+	<TD class="tr14 td45"><SPAN class="p2 ft54">&nbsp;</SPAN> </TD>
+	<TD class="tr14 td46"><SPAN class="p2 ft54">&nbsp;</SPAN> </TD>
+	<TD class="tr14 td47"><SPAN class="p2 ft54">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=2 class="tr10 td28"><SPAN class="p142 ft5">Verksamhet på grund av anställ-</SPAN> </TD>
+	<TD colspan=3 class="tr10 td48"><SPAN class="p10 ft5">Verksamhet på grund av anställ-</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=2 class="tr10 td28"><SPAN class="p2 ft7">ning i svenskt företag anses utövad</SPAN> </TD>
+	<TD colspan=3 class="tr10 td48"><SPAN class="p2 ft7">ning anses utövad här i riket även</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=2 class="tr10 td28"><SPAN class="p2 ft5">här i riket även om tjänsteinne-</SPAN> </TD>
+	<TD colspan=2 class="tr10 td49"><SPAN class="p2 ft5">om tjänsteinnehavaren</SPAN> </TD>
+	<TD class="tr10 td47"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=2 class="tr10 td28"><SPAN class="p2 ft5">havaren i och för sin tjänst måste</SPAN> </TD>
+	<TD colspan=2 class="tr10 td49"><SPAN class="p2 ft5">– i och för sin tjänst måste</SPAN> </TD>
+	<TD class="tr10 td47"><SPAN class="p10 ft5">göra</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr10 td50"><SPAN class="p2 ft5">göra</SPAN> </TD>
+	<TD class="tr10 td51"><SPAN class="p142 ft5">tillfälliga besök utomlands</SPAN> </TD>
+	<TD class="tr10 td45"><SPAN class="p2 ft5">tillfälliga</SPAN> </TD>
+	<TD class="tr10 td46"><SPAN class="p116 ft5">besök utomlands</SPAN> </TD>
+	<TD class="tr10 td47"><SPAN class="p10 ft5">eller</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=2 class="tr12 td28"><SPAN class="p2 ft5">eller under längre tid uppehålla sig</SPAN> </TD>
+	<TD colspan=3 class="tr12 td48"><SPAN class="p2 ft7">under längre tid uppehålla sig där</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr10 td50"><SPAN class="p2 ft5">där</SPAN> </TD>
+	<TD class="tr10 td51"><SPAN class="p142 ft5">under kringresande (t.ex.</SPAN> </TD>
+	<TD class="tr10 td45"><SPAN class="p2 ft5">under</SPAN> </TD>
+	<TD class="tr10 td46"><SPAN class="p143 ft5">kringresande</SPAN> </TD>
+	<TD class="tr10 td47"><SPAN class="p10 ft7">(t.ex.</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=2 class="tr10 td28"><SPAN class="p2 ft5">handelsresande).</SPAN> </TD>
+	<TD colspan=2 class="tr10 td49"><SPAN class="p2 ft5">handelsresande), eller</SPAN> </TD>
+	<TD class="tr10 td47"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr10 td50"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+	<TD class="tr10 td51"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+	<TD colspan=3 class="tr10 td48"><SPAN class="p2 ft7">– utför arbete utomlands, antingen</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr10 td50"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+	<TD class="tr10 td51"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+	<TD colspan=3 class="tr10 td48"><SPAN class="p2 ft5">i sin bostad eller i samband med</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr12 td50"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+	<TD class="tr12 td51"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+	<TD colspan=3 class="tr12 td48"><SPAN class="p2 ft5">tjänsteresa eller annat arbete av</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr10 td50"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+	<TD class="tr10 td51"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+	<TD colspan=3 class="tr10 td48"><SPAN class="p2 ft5">tillfällig natur, men endast om</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr10 td50"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+	<TD class="tr10 td51"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+	<TD colspan=3 class="tr10 td48"><SPAN class="p2 ft7">arbetet utomlands uppgår till högst</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr10 td50"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+	<TD class="tr10 td51"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+	<TD class="tr10 td45"><SPAN class="p2 ft5">hälften</SPAN> </TD>
+	<TD colspan=2 class="tr10 td52"><SPAN class="p10 ft5">av tjänsteinnehavarens</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr10 td50"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+	<TD class="tr10 td51"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+	<TD colspan=2 class="tr10 td49"><SPAN class="p2 ft5">totala arbetstid.</SPAN> </TD>
+	<TD class="tr10 td47"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+</TR>
+</TABLE>
+<P class="p131 ft5">Skattepliktig inkomst enligt denna lag är dock endast sådan inkomst som skulle ha beskattats hos en obegränsat skattskyldig enligt inkomstskattelagen.</P>
+<P class="p60 ft5">Denna lag träder i kraft den 1 juli 2004 och tillämpas på avlöning eller därmed jämförlig förmån som utgår efter utgången av år 2004.</P>
+<P class="p144 ft5">24</P>
+</DIV>
+<DIV id="page_25">
+
+
+<TABLE cellpadding=0 cellspacing=0 class="t12">
+<TR>
+	<TD class="tr20 td53"></TD>
+	<TD rowspan=2 class="tr23 td27"><SPAN class="p2 ft4">Lagrådsremissens lagförslag</SPAN> </TD>
+	<TD class="tr20 td22"><SPAN class="p2 ft1">Prop. 2003/04:149</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr24 td53"></TD>
+	<TD rowspan=2 class="tr10 td22"><SPAN class="p2 ft5">Bilaga 2</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr25 td53"></TD>
+	<TD class="tr25 td27"><SPAN class="p2 ft55">&nbsp;</SPAN> </TD>
+</TR>
+</TABLE>
+<P class="p145 ft39">Förslag till lag om ändring i lagen (1991:586) om särskild inkomstskatt för utomlands bosatta</P>
+<P class="p146 ft5">Härigenom föreskrivs att 5 § lagen (1991:586) om särskild inkomstskatt för utomlands bosatta skall ha följande lydelse.</P>
+<TABLE cellpadding=0 cellspacing=0 class="t9">
+<TR>
+	<TD class="tr10 td28"><SPAN class="p2 ft5">Nuvarande lydelse</SPAN> </TD>
+	<TD class="tr10 td24"><SPAN class="p2 ft1">Föreslagen lydelse</SPAN> </TD>
+</TR>
+</TABLE>
+<P class="p135 ft7">5 §<A href="#page_25"><SPAN class="ft33">1</SPAN></A></P>
+<P class="p136 ft5">Skattepliktig inkomst enligt denna lag är:</P>
+<P class="p147 ft5"><SPAN class="ft1">1.</SPAN><SPAN class="ft22">avlöning eller därmed jämförlig förmån, som utgått av anställning eller uppdrag hos svenska staten eller svensk kommun;</SPAN></P>
+<P class="p148 ft35"><SPAN class="ft1">2.</SPAN><SPAN class="ft56">avlöning eller därmed jämförlig förmån, som utgått av annan anställning eller annat uppdrag än hos svenska staten eller svensk kommun,</SPAN></P>
+<P class="p149 ft5"><SPAN class="ft5">i</SPAN><SPAN class="ft21">den mån inkomsten förvärvats genom verksamhet här i riket;</SPAN></P>
+<P class="p150 ft5"><SPAN class="ft1">3.</SPAN><SPAN class="ft13">arvode och liknande ersättning som uppburits av någon i egenskap av ledamot eller suppleant i styrelse eller annat liknande organ i svenskt aktiebolag eller annan svensk juridisk person, oavsett var verksamheten utövats;</SPAN></P>
+<P class="p67 ft5"><SPAN class="ft1">4.</SPAN><SPAN class="ft21">ersättning i form av</SPAN></P>
+<P class="p148 ft6"><SPAN class="ft1">–</SPAN><SPAN class="ft36">pension, med undantag av barnpension, enligt lagen (1998:674) om inkomstgrundad ålderspension, lagen (1998:702) om garantipension, lagen (2000:461) om efterlevandepension och efterlevandestöd till barn och lagen (2000:462) om införande av lagen (2000:461) om efterlevandepension och efterlevandestöd till barn samt sjukersättning och aktivitetsersättning enligt lagen (1962:381) om allmän försäkring till den del det totala beloppet av uppburna ersättningar för varje kalendermånad överstiger en tolftedel av 0,67 prisbasbelopp,</SPAN></P>
+<P class="p147 ft5"><SPAN class="ft1">–</SPAN><SPAN class="ft12">barnpension enligt lagen om efterlevandepension och efterlevandestöd till barn, samt</SPAN></P>
+<P class="p67 ft5"><SPAN class="ft1">–</SPAN><SPAN class="ft21">annan ersättning enligt lagen om allmän försäkring;</SPAN></P>
+<P class="p150 ft5"><SPAN class="ft1">5.</SPAN><SPAN class="ft11">pension på grund av anställning eller uppdrag hos svenska staten eller svensk kommun;</SPAN></P>
+<P class="p148 ft28"><SPAN class="ft1">6.</SPAN><SPAN class="ft29">belopp, som utgår på grund av annan pensionsförsäkring än tjänstepensionsförsäkring, om försäkringen meddelats i här i riket bedriven försäkringsrörelse samt belopp som utbetalas från pensionssparkonto fört av ett svenskt pensionssparinstitut eller av ett utländskt instituts filial i Sverige enligt lagen (1993:931) om individuellt pensionssparande;</SPAN></P>
+<P class="p151 ft28"><SPAN class="ft1">7.</SPAN><SPAN class="ft52">pension på grund av tjänstepensionsförsäkring samt annan pension eller förmån, om förmån utgår från Sverige på grund av förutvarande tjänst och den tidigare verksamheten huvudsakligen utövats här;</SPAN></P>
+<P class="p151 ft6"><SPAN class="ft1">8.</SPAN><SPAN class="ft57">ersättning enligt lagen (1954:243) om yrkesskadeförsäkring eller lagen (1976:380) om arbetsskadeförsäkring och lagen (1989:225) om ersättning till smittbärare samt enligt annan lag eller författning, som utgått till någon vid sjukdom eller olycksfall i arbete eller på grund av militärtjänstgöring eller i fall som avses i lagen (1977:265) om statligt</SPAN></P>
+<TABLE cellpadding=0 cellspacing=0 class="t13">
+<TR>
+	<TD class="tr12 td43"><SPAN class="p2 ft19"><SPAN class="ft18">1 </SPAN>Senaste lydelse 2002:1074.</SPAN> </TD>
+	<TD class="tr12 td44"><SPAN class="p10 ft5">25</SPAN> </TD>
+</TR>
+</TABLE>
+</DIV>
+<DIV id="page_26">
+<DIV id="dimg1">
+<INGENBILD zsrc="GR0314926x1.jpg/" id="img1">
+</DIV>
+
+
+<DIV>
+<DIV id="id_1">
+<P class="p152 ft5">personskadeskydd eller lagen (1977:267) om krigsskadeersättning till sjömän;</P>
+<P class="p62 ft5"><SPAN class="ft1">9.</SPAN><SPAN class="ft24">dagpenning från arbetslöshetskassa enligt lagen (1997:238) om arbetslöshetsförsäkring;</SPAN></P>
+<P class="p62 ft5"><SPAN class="ft1">10.</SPAN><SPAN class="ft13">annan härifrån uppburen, genom verksamhet här i riket förvärvad inkomst av tjänst;</SPAN></P>
+<P class="p83 ft5"><SPAN class="ft1">11.</SPAN><SPAN class="ft53">återfört avdrag för egenavgifter enligt socialavgiftslagen (2000:980), egenavgifter som satts ned genom ändrad debitering, i den mån avdrag har medgetts för avgifterna samt avgifter som avses i 62 kap. 6 § inkomstskattelagen (1999:1229) och som satts ned genom ändrad debitering i den mån avdrag har medgetts för avgifterna och dessa inte hänför sig till näringsverksamhet;</SPAN></P>
+<P class="p67 ft5"><SPAN class="ft1">12.</SPAN><SPAN class="ft21">sjöinkomst som avses i 64 kap. 3 och 4 §§ inkomstskattelagen.</SPAN></P>
+<P class="p136 ft7">Som inkomst enligt första stycket <NOBR>1–3</NOBR> anses också förskott på sådan</P>
+<TABLE cellpadding=0 cellspacing=0 class="t14">
+<TR>
+	<TD colspan=2 class="tr10 td28"><SPAN class="p2 ft5">inkomst.</SPAN> </TD>
+	<TD class="tr10 td54"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+	<TD class="tr10 td55"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+	<TD class="tr10 td56"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+	<TD class="tr10 td57"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+	<TD class="tr10 td57"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=2 class="tr14 td28"><SPAN class="p142 ft10">Verksamhet på grund av anställ-</SPAN> </TD>
+	<TD colspan=5 class="tr14 td48"><SPAN class="p10 ft10">Verksamhet på grund av anställ-</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=2 class="tr12 td28"><SPAN class="p2 ft7">ning i svenskt företag anses utövad</SPAN> </TD>
+	<TD colspan=5 class="tr12 td48"><SPAN class="p2 ft5">ning eller uppdrag i svenskt</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=2 class="tr10 td28"><SPAN class="p2 ft5">här i riket även om tjänsteinne-</SPAN> </TD>
+	<TD colspan=5 class="tr10 td48"><SPAN class="p2 ft5">företag eller vid ett utländskt</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=2 class="tr10 td28"><SPAN class="p2 ft5">havaren i och för sin tjänst måste</SPAN> </TD>
+	<TD colspan=5 class="tr10 td48"><SPAN class="p2 ft5">företags fasta driftställe i Sverige</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr10 td50"><SPAN class="p2 ft5">göra</SPAN> </TD>
+	<TD class="tr10 td51"><SPAN class="p142 ft5">tillfälliga besök utomlands</SPAN> </TD>
+	<TD colspan=5 class="tr10 td48"><SPAN class="p2 ft5">anses utövad här i riket även om</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=2 class="tr10 td28"><SPAN class="p2 ft5">eller under längre tid uppehålla sig</SPAN> </TD>
+	<TD colspan=2 class="tr10 td58"><SPAN class="p2 ft5">den enskilde</SPAN> </TD>
+	<TD class="tr10 td56"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+	<TD class="tr10 td57"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+	<TD class="tr10 td57"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr10 td50"><SPAN class="p2 ft5">där</SPAN> </TD>
+	<TD class="tr10 td51"><SPAN class="p142 ft5">under kringresande (t.ex.</SPAN> </TD>
+	<TD class="tr10 td54"><SPAN class="p2 ft5">– måste</SPAN> </TD>
+	<TD class="tr10 td55"><SPAN class="p153 ft5">göra</SPAN> </TD>
+	<TD class="tr10 td56"><SPAN class="p154 ft1">tjänsteresor</SPAN> </TD>
+	<TD colspan=2 class="tr10 td59"><SPAN class="p13 ft7">utom-</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=2 class="tr12 td28"><SPAN class="p2 ft5">handelsresande).</SPAN> </TD>
+	<TD colspan=2 class="tr12 td58"><SPAN class="p2 ft5">lands, eller</SPAN> </TD>
+	<TD class="tr12 td56"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+	<TD class="tr12 td57"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+	<TD class="tr12 td57"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr10 td50"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+	<TD class="tr10 td51"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+	<TD class="tr10 td54"><SPAN class="p2 ft5">– utför</SPAN> </TD>
+	<TD class="tr10 td55"><SPAN class="p2 ft5">arbete</SPAN> </TD>
+	<TD class="tr10 td56"><SPAN class="p154 ft5">utomlands</SPAN> </TD>
+	<TD class="tr10 td57"><SPAN class="p0 ft5">i</SPAN> </TD>
+	<TD class="tr10 td57"><SPAN class="p10 ft7">sin</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr10 td50"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+	<TD class="tr10 td51"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+	<TD class="tr10 td54"><SPAN class="p2 ft5">bostad</SPAN> </TD>
+	<TD class="tr10 td55"><SPAN class="p155 ft5">under</SPAN> </TD>
+	<TD colspan=2 class="tr10 td60"><SPAN class="p156 ft5">förutsättning</SPAN> </TD>
+	<TD class="tr10 td57"><SPAN class="p10 ft5">att</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr10 td50"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+	<TD class="tr10 td51"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+	<TD colspan=5 class="tr10 td48"><SPAN class="p2 ft5">arbetet där uppgår till högst</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr10 td50"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+	<TD class="tr10 td51"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+	<TD class="tr10 td54"><SPAN class="p2 ft5">hälften</SPAN> </TD>
+	<TD colspan=2 class="tr10 td61"><SPAN class="p2 ft5">av den enskildes</SPAN> </TD>
+	<TD colspan=2 class="tr10 td59"><SPAN class="p10 ft5">totala</SPAN> </TD>
+</TR>
+</TABLE>
+<P class="p157 ft5">arbetstid under varje tremånadersperiod.</P>
+<P class="p62 ft5">Skattepliktig inkomst enligt denna lag är dock endast sådan inkomst som skulle ha beskattats hos en obegränsat skattskyldig enligt inkomstskattelagen.</P>
+<P class="p158 ft5">Denna lag träder i kraft den 1 juli 2004 och tillämpas på avlöning eller därmed jämförlig förmån som utgår efter utgången av år 2004.</P>
+</DIV>
+<DIV id="id_2">
+<P class="p70 ft5">Prop. 2003/04:149</P>
+<P class="p70 ft5">Bilaga 2</P>
+<P class="p159 ft5">26</P>
+</DIV>
+</DIV>
+</DIV>
+<DIV id="page_27">
+
+
+<TABLE cellpadding=0 cellspacing=0 class="t15">
+<TR>
+	<TD class="tr20 td53"></TD>
+	<TD rowspan=2 class="tr23 td27"><SPAN class="p2 ft4">Lagrådets yttrande</SPAN> </TD>
+	<TD class="tr20 td22"><SPAN class="p2 ft1">Prop. 2003/04:149</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr24 td53"></TD>
+	<TD rowspan=2 class="tr14 td22"><SPAN class="p2 ft10">Bilaga 3</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr26 td53"></TD>
+	<TD class="tr26 td27"><SPAN class="p2 ft58">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr6 td53"></TD>
+	<TD class="tr6 td27"><SPAN class="p2 ft5">Utdrag ur protokoll vid sammanträde <NOBR>2004-04-20</NOBR></SPAN> </TD>
+	<TD class="tr6 td22"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr0 td53"></TD>
+	<TD class="tr0 td27"><SPAN class="p2 ft5"><SPAN class="ft20">Närvarande: </SPAN>f.d. justitierådet Staffan Magnusson, justitierådet Nina</SPAN> </TD>
+	<TD class="tr0 td22"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr10 td53"></TD>
+	<TD class="tr10 td27"><SPAN class="p2 ft5">Pripp och regeringsrådet <NOBR>Bengt-Åke</NOBR> Nilsson.</SPAN> </TD>
+	<TD class="tr10 td22"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr8 td53"></TD>
+	<TD class="tr8 td27"><SPAN class="p2 ft5">Enligt en lagrådsremiss den 1 april 2004 (Finansdepartementet) har</SPAN> </TD>
+	<TD class="tr8 td22"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr10 td53"></TD>
+	<TD class="tr10 td27"><SPAN class="p2 ft5">regeringen beslutat inhämta Lagrådets yttrande över förslag till lag om</SPAN> </TD>
+	<TD class="tr10 td22"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr12 td53"></TD>
+	<TD class="tr12 td27"><SPAN class="p2 ft5">ändring i lagen (1991:586) om särskild inkomstskatt för utomlands</SPAN> </TD>
+	<TD class="tr12 td22"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr10 td53"></TD>
+	<TD class="tr10 td27"><SPAN class="p2 ft5">bosatta.</SPAN> </TD>
+	<TD class="tr10 td22"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr8 td53"></TD>
+	<TD class="tr8 td27"><SPAN class="p2 ft5">Förslaget har inför Lagrådet föredragits av kanslirådet Cecilia Bohlin.</SPAN> </TD>
+	<TD class="tr8 td22"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr8 td53"></TD>
+	<TD class="tr8 td27"><SPAN class="p2 ft5">Förslaget föranleder följande yttrande av Lagrådet:</SPAN> </TD>
+	<TD class="tr8 td22"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr0 td53"></TD>
+	<TD class="tr0 td27"><SPAN class="p2 ft5">I lagrådsremissen föreslås en ändring i 1991 års lag om särskild</SPAN> </TD>
+	<TD class="tr0 td22"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr10 td53"></TD>
+	<TD class="tr10 td27"><SPAN class="p2 ft7">inkomstskatt för utomlands bosatta föranledd av ett avtal den 29 oktober</SPAN> </TD>
+	<TD class="tr10 td22"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr10 td53"></TD>
+	<TD class="tr10 td27"><SPAN class="p2 ft5">2003 mellan Sverige och Danmark om vissa skattefrågor.</SPAN> </TD>
+	<TD class="tr10 td22"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr10 td53"></TD>
+	<TD class="tr10 td27"><SPAN class="p73 ft5">Lagförslaget innebär att den utvidgning av skattskyldigheten som</SPAN> </TD>
+	<TD class="tr10 td22"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr10 td53"></TD>
+	<TD class="tr10 td27"><SPAN class="p2 ft5">kommer till uttryck i 2003 års avtal för svensk del tagits in i 5 § tredje</SPAN> </TD>
+	<TD class="tr10 td22"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr12 td53"></TD>
+	<TD class="tr12 td27"><SPAN class="p2 ft7">stycket i 1991 års lag, dock utan någon begränsning till att gälla enbart</SPAN> </TD>
+	<TD class="tr12 td22"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr10 td53"></TD>
+	<TD class="tr10 td27"><SPAN class="p2 ft5">för arbetsförhållanden med anknytning till Danmark. Samtidigt har 5 §</SPAN> </TD>
+	<TD class="tr10 td22"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr10 td53"></TD>
+	<TD class="tr10 td27"><SPAN class="p2 ft5">tredje stycket ändrats så att det där talas inte bara om verksamhet på</SPAN> </TD>
+	<TD class="tr10 td22"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr10 td53"></TD>
+	<TD class="tr10 td27"><SPAN class="p2 ft5">grund av anställning utan också om verksamhet på grund av uppdrag.</SPAN> </TD>
+	<TD class="tr10 td22"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr10 td53"></TD>
+	<TD class="tr10 td27"><SPAN class="p2 ft7">Enligt vad som upplysts under föredragningen har ”uppdrag” lagts till för</SPAN> </TD>
+	<TD class="tr10 td22"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr10 td53"></TD>
+	<TD class="tr10 td27"><SPAN class="p2 ft5">att få överensstämmelse med den grundläggande bestämmelsen i 5 §</SPAN> </TD>
+	<TD class="tr10 td22"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr10 td53"></TD>
+	<TD class="tr10 td27"><SPAN class="p2 ft7">första stycket 2 om skattepliktig inkomst, där en referens finns inte bara</SPAN> </TD>
+	<TD class="tr10 td22"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr12 td53"></TD>
+	<TD class="tr12 td27"><SPAN class="p2 ft5">till förmån som utgått av ”anställning” utan också av ”uppdrag”.</SPAN> </TD>
+	<TD class="tr12 td22"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr10 td53"></TD>
+	<TD class="tr10 td27"><SPAN class="p73 ft5">Lagrådet ser inte något hinder mot att nu föra in en reglering i 5 §</SPAN> </TD>
+	<TD class="tr10 td22"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr10 td53"></TD>
+	<TD class="tr10 td27"><SPAN class="p2 ft5">tredje stycket som gäller även för uppdragsförhållanden. Noteras bör</SPAN> </TD>
+	<TD class="tr10 td22"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr10 td53"></TD>
+	<TD class="tr10 td27"><SPAN class="p2 ft5">dock att det i artikel 1 i 2003 års avtal uttryckligen talas endast om</SPAN> </TD>
+	<TD class="tr10 td22"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr10 td53"></TD>
+	<TD class="tr10 td27"><SPAN class="p2 ft5">ersättning ”på grund av anställning” och inte också om ersättning ”på</SPAN> </TD>
+	<TD class="tr10 td22"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr10 td53"></TD>
+	<TD class="tr10 td27"><SPAN class="p2 ft7">grund av uppdrag”. Skrivningen i avtalet väcker frågan om avsikten varit</SPAN> </TD>
+	<TD class="tr10 td22"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr12 td53"></TD>
+	<TD class="tr12 td27"><SPAN class="p2 ft7">att ersättningar på grund av uppdragsförhållanden, så som detta begrepp</SPAN> </TD>
+	<TD class="tr12 td22"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr10 td53"></TD>
+	<TD class="tr10 td27"><SPAN class="p2 ft5">är att förstå enligt svensk rätt, skall falla utanför det avtalsreglerade</SPAN> </TD>
+	<TD class="tr10 td22"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr10 td53"></TD>
+	<TD class="tr10 td27"><SPAN class="p2 ft5">området. Enligt vad som upplysts är det tänkt att 2003 års avtal skall</SPAN> </TD>
+	<TD class="tr10 td22"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr10 td53"></TD>
+	<TD class="tr10 td27"><SPAN class="p2 ft7">införlivas i svensk rätt genom att tas in som bilaga till lagen (1996:1512)</SPAN> </TD>
+	<TD class="tr10 td22"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr10 td53"></TD>
+	<TD class="tr10 td27"><SPAN class="p2 ft5">om dubbelbeskattningsavtal mellan de nordiska länderna. Frågan om</SPAN> </TD>
+	<TD class="tr10 td22"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr10 td53"></TD>
+	<TD class="tr10 td27"><SPAN class="p2 ft5">avtalets innebörd vad gäller uppdragsförhållanden bör lämpligen</SPAN> </TD>
+	<TD class="tr10 td22"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr12 td53"></TD>
+	<TD class="tr12 td27"><SPAN class="p2 ft5">uppmärksammas under lagstiftningsärendets fortsatta handläggning.</SPAN> </TD>
+	<TD class="tr12 td22"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr10 td53"></TD>
+	<TD class="tr10 td27"><SPAN class="p73 ft5">Det kan också noteras att lagförslaget avviker från 2003 års avtal</SPAN> </TD>
+	<TD class="tr10 td22"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr10 td53"></TD>
+	<TD class="tr10 td27"><SPAN class="p2 ft7">genom att den föreslagna bestämmelsen om tjänsteresor inte innehåller</SPAN> </TD>
+	<TD class="tr10 td22"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr10 td53"></TD>
+	<TD class="tr10 td27"><SPAN class="p2 ft5">någon tidsbegränsning.</SPAN> </TD>
+	<TD class="tr10 td22"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr10 td53"></TD>
+	<TD class="tr10 td27"><SPAN class="p73 ft5">I fråga om utformningen av 5 § tredje stycket i övrigt förordar</SPAN> </TD>
+	<TD class="tr10 td22"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr10 td53"></TD>
+	<TD class="tr10 td27"><SPAN class="p2 ft5">Lagrådet främst i förtydligande syfte att lagtexten ges följande lydelse</SPAN> </TD>
+	<TD class="tr10 td22"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr12 td53"></TD>
+	<TD class="tr12 td27"><SPAN class="p2 ft5">(förslagen här markerade med kursivstil):</SPAN> </TD>
+	<TD class="tr12 td22"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+</TR>
+</TABLE>
+<P class="p160 ft5">27</P>
+</DIV>
+<DIV id="page_28">
+
+
+<TABLE cellpadding=0 cellspacing=0 class="t16">
+<TR>
+	<TD class="tr20 td27"><SPAN class="p140 ft5">Verksamhet på grund av anställning eller uppdrag i svenskt företag</SPAN> </TD>
+	<TD class="tr20 td22"><SPAN class="p2 ft1">Prop. 2003/04:149</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr14 td27"><SPAN class="p140 ft1">eller vid ett utländskt företags fasta driftsställe i Sverige anses utövad här</SPAN> </TD>
+	<TD class="tr14 td22"><SPAN class="p2 ft10">Bilaga 3</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr10 td27"><SPAN class="p161 ft1">i riket även om den enskilde inom ramen för verksamheten</SPAN> </TD>
+	<TD class="tr10 td22"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+</TR>
+</TABLE>
+<P class="p42 ft5"><SPAN class="ft1">–</SPAN><SPAN class="ft21">gör tjänsteresor utomlands, eller</SPAN></P>
+<P class="p24 ft5"><SPAN class="ft1">–</SPAN><SPAN class="ft13">utför arbete utomlands i sin bostad, under förutsättning att tiden för arbetet där uppgår till högst hälften av den enskildes totala arbetstid i verksamheten under varje tremånadersperiod.</SPAN></P>
+<P class="p162 ft5">28</P>
+</DIV>
+<DIV id="page_29">
+<DIV id="dimg1">
+<INGENBILD zsrc="GR0314929x1.jpg/" id="img1">
+</DIV>
+
+
+<DIV class="dclr"></DIV>
+<DIV>
+<DIV id="id_1">
+<P class="p70 ft4">Finansdepartementet</P>
+<P class="p163 ft5">Utdrag ur protokoll vid regeringssammanträde den 29 april 2004</P>
+<P class="p164 ft5">Närvarande: statsministern Persson, ordförande, och statsråden Ulvskog, Freivalds, Sahlin, Östros, Messing, Engqvist, Lövdén, Ringholm, Bodström, Sommestad, Karlsson, Lund, Nykvist, Andnor, Johansson, Björklund, Jämtin</P>
+<P class="p165 ft5">Föredragande: statsrådet Ringholm</P>
+<P class="p166 ft5">Regeringen beslutar proposition 2003/04:149 Avtal mellan Sverige och Danmark om vissa skattefrågor m.m.</P>
+</DIV>
+<DIV id="id_2">
+<P class="p70 ft5">Prop. 2003/04:149</P>
+<P class="p85 ft5">29</P>
+</DIV>
+</DIV>
+</DIV>
+
+</div><style>
+
+
+TD,TD.p2h {
+zzzfont-size:90%;
+zzzmargin-right:2px;
+zzzoverflow:visable;
+zzzword-wrap: break-word;
+}
+
+P {
+zdisplay:block;
+}
+
+.divbreak {
+clear:both;
+display:block;
+zwidth: 100%;
+zheight: 1px;
+zword-wrap: break-word;
+}
+
+
+.xecp {
+  display:block;
+  margin: 0px !important;
+  padding: 0px !important;
+  
+}
+
+.ec {
+  border-style:solid;
+  border-width:1px;
+  display:block;
+  margin: 0px !important;
+  padding: 0px !important;
+}
+
+.TOPS {
+  overflow:visable;
+  margin:2px;
+  width:690px !important;
+}
+
+</style>

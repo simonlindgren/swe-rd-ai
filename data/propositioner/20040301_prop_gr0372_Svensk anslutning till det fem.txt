@@ -1,0 +1,1972 @@
+SEARCH TERM: AI
+DOCUMENT ID: gr0372
+TITLE: Svensk anslutning till det femte protokollet till konventionen om förbud mot eller inskränkningar i användningen av vissa konventionella vapen som kan anses vara ytterst skadebringande eller ha urskillningslösa verkningar
+TYPE: prop
+SUBTYPE: prop
+DATE: 2004-03-01
+PARLIAMENTARY YEAR: 2003/04
+ORGANISATION: UD
+STATUS: hämtad_2
+DOWNLOADED: 2026-01-22 10:29:05
+================================================================================
+
+<div style="margin:3px;">
+<STYLE type="text/css">
+
+body {margin-top: 0px;margin-left: 0px;}
+
+#page_1 {position:relative; overflow: hidden;z:b;margin:21px 0px 17px 10px ;padding: 0px;border: none;width: 947px;}
+
+
+
+
+
+#page_2 {position:relative; overflow: hidden;z:b;margin:19px 0px 17px 10px ;padding: 0px;border: none;width: 947px;}
+
+
+
+
+
+#page_3 {position:relative; overflow: hidden;z:b;margin:20px 0px 17px 10px ;padding: 0px;border: none;width: 947px;}
+
+
+
+
+
+#page_4 {position:relative; overflow: hidden;z:b;margin:20px 0px 17px 10px ;padding: 0px;border: none;width: 947px;}
+
+
+
+
+
+#page_5 {position:relative; overflow: hidden;z:b;margin:19px 0px 18px 10px ;padding: 0px;border: none;width: 766px;}
+
+
+
+
+
+#page_6 {position:relative; overflow: hidden;z:b;margin:20px 0px 17px 10px ;padding: 0px;border: none;width: 947px;}
+
+
+
+
+
+#page_7 {position:relative; overflow: hidden;z:b;margin:20px 0px 17px 10px ;padding: 0px;border: none;width: 947px;}
+
+
+
+
+
+#page_8 {position:relative; overflow: hidden;z:b;margin:20px 0px 17px 10px ;padding: 0px;border: none;width: 947px;}
+
+
+
+
+
+#page_9 {position:relative; overflow: hidden;z:b;margin:20px 0px 17px 10px ;padding: 0px;border: none;width: 947px;}
+
+
+
+
+
+#page_10 {position:relative; overflow: hidden;z:b;margin:19px 0px 17px 10px ;padding: 0px;border: none;width: 947px;}
+
+
+
+
+
+#page_11 {position:relative; overflow: hidden;z:b;margin:20px 0px 17px 10px ;padding: 0px;border: none;width: 947px;}
+
+#page_11 #dimg1z{position:absolute;top:114px;left:63px;z-index:-1;width:508px;height:527px;}
+#page_11 #dimg1 #img1  {width:508px;height:527px;}
+
+
+
+
+#page_12 {position:relative; overflow: hidden;z:b;margin:20px 0px 17px 10px ;padding: 0px;border: none;width: 947px;}
+
+
+
+
+
+#page_13 {position:relative; overflow: hidden;z:b;margin:20px 0px 17px 10px ;padding: 0px;border: none;width: 856px;}
+#page_13 #id_1 {float:left;border:none;z:b;margin:3px 0px 0px 10px ;padding: 0px;border:none;width: 586px;overflow: hidden;}
+#page_13 #id_2 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 270px;overflow: hidden;}
+
+
+
+
+
+#page_14 {position:relative; overflow: hidden;z:b;margin:20px 0px 17px 10px ;padding: 0px;border: none;width: 947px;}
+
+
+
+
+
+#page_15 {position:relative; overflow: hidden;z:b;margin:20px 0px 17px 10px ;padding: 0px;border: none;width: 947px;}
+
+
+
+
+
+#page_16 {position:relative; overflow: hidden;z:b;margin:19px 0px 17px 10px ;padding: 0px;border: none;width: 947px;}
+
+
+
+
+
+#page_17 {position:relative; overflow: hidden;z:b;margin:19px 0px 17px 10px ;padding: 0px;border: none;width: 947px;}
+
+
+
+
+
+#page_18 {position:relative; overflow: hidden;z:b;margin:19px 0px 17px 10px ;padding: 0px;border: none;width: 947px;}
+
+
+
+
+
+#page_19 {position:relative; overflow: hidden;z:b;margin:19px 0px 17px 10px ;padding: 0px;border: none;width: 856px;}
+
+
+
+
+
+#page_20 {position:relative; overflow: hidden;z:b;margin:19px 0px 17px 10px ;padding: 0px;border: none;width: 856px;}
+#page_20 #id_1 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 586px;overflow: hidden;}
+#page_20 #id_2 {float:left;border:none;z:b;margin:2px 0px 0px 10px ;padding: 0px;border:none;width: 270px;overflow: hidden;}
+
+
+
+
+
+#page_21 {position:relative; overflow: hidden;z:b;margin:20px 0px 17px 10px ;padding: 0px;border: none;width: 947px;}
+
+
+
+
+
+#page_22 {position:relative; overflow: hidden;z:b;margin:20px 0px 17px 10px ;padding: 0px;border: none;width: 947px;}
+
+
+
+
+
+#page_23 {position:relative; overflow: hidden;z:b;margin:20px 0px 17px 10px ;padding: 0px;border: none;width: 856px;}
+#page_23 #id_1 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 586px;overflow: hidden;}
+#page_23 #id_2 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 270px;overflow: hidden;}
+
+
+
+
+
+#page_24 {position:relative; overflow: hidden;z:b;margin:20px 0px 17px 10px ;padding: 0px;border: none;width: 947px;}
+
+
+
+
+
+#page_25 {position:relative; overflow: hidden;z:b;margin:20px 0px 17px 10px ;padding: 0px;border: none;width: 947px;}
+
+
+
+
+
+#page_26 {position:relative; overflow: hidden;z:b;margin:19px 0px 17px 10px ;padding: 0px;border: none;width: 947px;}
+
+
+
+
+
+#page_27 {position:relative; overflow: hidden;z:b;margin:20px 0px 17px 10px ;padding: 0px;border: none;width: 947px;}
+
+
+
+
+
+#page_28 {position:relative; overflow: hidden;z:b;margin:20px 0px 17px 10px ;padding: 0px;border: none;width: 947px;}
+
+
+
+
+
+#page_29 {position:relative; overflow: hidden;z:b;margin:19px 0px 17px 10px ;padding: 0px;border: none;width: 947px;}
+
+
+
+
+
+#page_30 {position:relative; overflow: hidden;z:b;margin:20px 0px 17px 10px ;padding: 0px;border: none;width: 947px;}
+
+
+
+
+
+#page_31 {position:relative; overflow: hidden;z:b;margin:19px 0px 17px 10px ;padding: 0px;border: none;width: 947px;}
+
+
+
+
+
+#page_32 {position:relative; overflow: hidden;z:b;margin:20px 0px 17px 10px ;padding: 0px;border: none;width: 947px;}
+
+
+
+
+
+#page_33 {position:relative; overflow: hidden;z:b;margin:20px 0px 18px 10px ;padding: 0px;border: none;width: 856px;}
+
+
+
+
+
+#page_34 {position:relative; overflow: hidden;z:b;margin:20px 0px 17px 10px ;padding: 0px;border: none;width: 947px;}
+
+
+
+
+
+#page_35 {position:relative; overflow: hidden;z:b;margin:20px 0px 17px 10px ;padding: 0px;border: none;width: 947px;}
+
+
+
+
+
+#page_36 {position:relative; overflow: hidden;z:b;margin:20px 0px 17px 10px ;padding: 0px;border: none;width: 947px;}
+
+
+
+
+
+#page_37 {position:relative; overflow: hidden;z:b;margin:19px 0px 17px 10px ;padding: 0px;border: none;width: 947px;}
+
+
+
+
+
+#page_38 {position:relative; overflow: hidden;z:b;margin:19px 0px 18px 10px ;padding: 0px;border: none;width: 856px;}
+
+
+
+
+
+#page_39 {position:relative; overflow: hidden;z:b;margin:19px 0px 18px 10px ;padding: 0px;border: none;width: 856px;}
+
+
+
+
+
+#page_40 {position:relative; overflow: hidden;z:b;margin:20px 0px 17px 10px ;padding: 0px;border: none;width: 856px;}
+#page_40 #id_1 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 586px;overflow: hidden;}
+#page_40 #id_2 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 270px;overflow: hidden;}
+
+
+
+
+
+#page_41 {position:relative; overflow: hidden;z:b;margin:20px 0px 17px 10px ;padding: 0px;border: none;width: 947px;}
+
+
+
+
+
+#page_42 {position:relative; overflow: hidden;z:b;margin:20px 0px 17px 10px ;padding: 0px;border: none;width: 947px;}
+
+#page_42 #dimg1z{position:absolute;top:238px;left:63px;z-index:-1;width:151px;height:1px;font-size: 1px !important;l-h:nHeight;}
+#page_42 #dimg1 #img1  {width:151px;height:1px;}
+
+
+
+
+.ft0{font:  20px 'Verdana' !important;l-h: 35px;}
+.ft1{font:  16px 'Verdana' !important;l-h: 26px;}
+.ft2{font:  16px 'Verdana' !important;l-h: 25px;}
+.ft3{font:  10px 'Verdana' !important;l-h: 1px;}
+.ft4{font:  14px 'Verdana' !important;l-h: 19px;}
+.ft5{font:  14px 'Verdana' !important;l-h: 19px;}
+.ft6{font:  14px 'Verdana' !important;l-h: 19px;}
+.ft7{font:  14px 'Verdana' !important;l-h: 17px;}
+.ft8{font:  14px 'Verdana' !important;l-h: 18px;}
+.ft9{font:  14px 'Verdana' !important;margin-left: 40px;l-h: 19px;}
+.ft10{font:  14px 'Verdana' !important;l-h: 18px;}
+.ft11{font:  14px 'Verdana' !important;l-h: 20px;}
+.ft12{font:  10px 'Verdana' !important;l-h: 6px;}
+.ft13{font:  14px 'Verdana' !important;margin-left: 51px;l-h: 22px;}
+.ft14{font:  14px 'Verdana' !important;l-h: 22px;}
+.ft15{font:  14px 'Verdana' !important;l-h: 17px;}
+.ft16{font:  14px 'Verdana' !important;l-h: 18px;}
+.ft17{font:  14px 'Verdana' !important;l-h: 19px;}
+.ft18{font:  14px 'Verdana' !important;l-h: 15px;}
+.ft19{font:  14px 'Verdana' !important;margin-left: 56px;l-h: 22px;}
+.ft20{font:  14px 'Verdana' !important;l-h: 21px;}
+.ft21{font:  14px 'Verdana' !important;l-h: 22px;}
+.ft22{font:  14px 'Verdana' !important;l-h: 25px;}
+.ft23{font:  14px 'Verdana' !important;margin-left: 4px;l-h: 26px;}
+.ft24{font:  14px 'Verdana' !important;l-h: 26px;}
+.ft25{font:  14px 'Verdana' !important;margin-left: 4px;l-h: 23px;}
+.ft26{font:  14px 'Verdana' !important;l-h: 23px;}
+.ft27{font:  14px 'Verdana' !important;margin-left: 4px;l-h: 25px;}
+.ft28{font:  14px 'Verdana' !important;margin-left: 4px;l-h: 26px;}
+.ft29{font:  14px 'Verdana' !important;margin-left: 4px;l-h: 26px;}
+.ft30{font:  14px 'Verdana' !important;l-h: 26px;}
+.ft31{font:  14px 'Verdana' !important;margin-left: 4px;l-h: 24px;}
+.ft32{font:  14px 'Verdana' !important;l-h: 26px;}
+.ft33{font:  14px 'Verdana' !important;margin-left: 4px;l-h: 26px;}
+.ft34{font:  12px 'Verdana' !important;l-h: 16px;}
+.ft35{font:  14px 'Verdana' !important;margin-left: 4px;l-h: 18px;}
+.ft36{font:  14px 'Verdana' !important;margin-left: 4px;l-h: 22px;}
+.ft37{font:  12px 'Verdana' !important;l-h: 16px;}
+.ft38{font:  14px 'Verdana' !important;l-h: 24px;}
+.ft39{font:  14px 'Verdana' !important;l-h: 19px;}
+.ft40{font:  14px 'Verdana' !important;l-h: 23px;}
+.ft41{font:  14px 'Verdana' !important;margin-left: 4px;l-h: 24px;}
+.ft42{font:  14px 'Verdana' !important;margin-left: 4px;l-h: 23px;}
+.ft43{font:  14px 'Verdana' !important;margin-left: 4px;l-h: 25px;}
+.ft44{font:  14px 'Verdana' !important;l-h: 25px;}
+.ft45{font:  14px 'Verdana' !important;l-h: 17px;}
+.ft46{font:  12px 'Verdana' !important;l-h: 25px;}
+.ft47{font:  14px 'Verdana' !important;margin-left: 5px;l-h: 22px;}
+.ft48{font:  14px 'Verdana' !important;l-h: 24px;}
+.ft49{font:  14px 'Verdana' !important;l-h: 24px;}
+.ft50{font:  14px 'Verdana' !important;margin-left: 5px;l-h: 26px;}
+.ft51{font:  14px 'Verdana' !important;l-h: 25px;}
+.ft52{font:  12px 'Verdana' !important;margin-left: 4px;l-h: 25px;}
+.ft53{font:  14px 'Verdana' !important;margin-left: 5px;l-h: 25px;}
+.ft54{font:  14px 'Verdana' !important;margin-left: 5px;l-h: 26px;}
+.ft55{font:  14px 'Verdana' !important;margin-left: 5px;l-h: 25px;}
+.ft56{font:  14px 'Verdana' !important;margin-left: 4px;l-h: 24px;}
+.ft57{font:  10px 'Verdana' !important;l-h: 10px;}
+.ft58{font:  14px 'Verdana' !important;text-decoration: underline;l-h: 19px;}
+.ft59{font:  14px 'Verdana' !important;margin-left: 12px;l-h: 19px;}
+.ft60{font:  14px 'Verdana' !important;margin-left: 12px;l-h: 18px;}
+.ft61{font:  14px 'Verdana' !important;margin-left: 12px;l-h: 19px;}
+.ft62{font:  14px 'Verdana' !important;margin-left: 12px;l-h: 19px;}
+.ft63{font:  14px 'Verdana' !important;margin-left: 12px;l-h: 19px;}
+.ft64{font:  14px 'Verdana' !important;l-h: 19px;}
+.ft65{font:  14px 'Verdana' !important;l-h: 13px;}
+.ft66{font:  10px 'Verdana' !important;l-h: 18px;}
+.ft67{font:  14px 'Verdana' !important;margin-left: 6px;l-h: 19px;}
+.ft68{font:  14px 'Verdana' !important;margin-left: 5px;l-h: 19px;}
+.ft69{font:  14px 'Verdana' !important;margin-left: 12px;l-h: 19px;}
+.ft70{font:  14px 'Verdana' !important;margin-left: 12px;l-h: 19px;}
+.ft71{font:  14px 'Verdana' !important;l-h: 14px;}
+.ft72{font:  14px 'Verdana' !important;text-decoration: underline;l-h: 19px;}
+.ft73{font:  14px 'Verdana' !important;margin-left: 30px;l-h: 19px;}
+.ft74{font:  14px 'Verdana' !important;margin-left: 29px;l-h: 19px;}
+.ft75{font:  14px 'Verdana' !important;margin-left: 15px;l-h: 19px;}
+.ft76{font:  14px 'Verdana' !important;margin-left: 5px;l-h: 19px;}
+.ft77{font:  14px 'Verdana' !important;margin-left: 5px;l-h: 19px;}
+.ft78{font:  10px 'Verdana' !important;l-h: 5px;}
+.ft79{font:  14px 'Verdana' !important;margin-left: 4px;l-h: 19px;}
+.ft80{font:  14px 'Verdana' !important;margin-left: 33px;l-h: 19px;}
+.ft81{font:  14px 'Verdana' !important;margin-left: 31px;l-h: 21px;}
+.ft82{font:  14px 'Verdana' !important;l-h: 20px;}
+.ft83{font:  14px 'Verdana' !important;l-h: 21px;}
+.ft84{font:  14px 'Verdana' !important;margin-left: 31px;l-h: 19px;}
+.ft85{font:  16px 'Verdana' !important;text-decoration: underline;l-h: 21px;}
+.ft86{font:  14px 'Verdana' !important;margin-left: 21px;l-h: 19px;}
+.ft87{font:  14px 'Verdana' !important;margin-left: 16px;l-h: 19px;}
+.ft88{font:  14px 'Verdana' !important;margin-left: 11px;l-h: 19px;}
+.ft89{font:  14px 'Verdana' !important;margin-left: 17px;l-h: 19px;}
+.ft90{font:  14px 'Verdana' !important;margin-left: 8px;l-h: 19px;}
+.ft91{font:  14px 'Verdana' !important;margin-left: 18px;l-h: 19px;}
+.ft92{font:  14px 'Verdana' !important;margin-left: 19px;l-h: 19px;}
+.ft93{font:  14px 'Verdana' !important;margin-left: 29px;l-h: 17px;}
+.ft94{font:  14px 'Verdana' !important;margin-left: 34px;l-h: 19px;}
+.ft95{font:  16px 'Verdana' !important;margin-left: 19px;l-h: 26px;}
+.ft96{font:  14px 'Verdana' !important;margin-left: 19px;l-h: 19px;}
+.ft97{font:  14px 'Verdana' !important;margin-left: 20px;l-h: 19px;}
+.ft98{font:  16px 'Verdana' !important;margin-left: 24px;l-h: 26px;}
+.ft99{font:  14px 'Verdana' !important;text-decoration: underline;margin-left: 17px;l-h: 19px;}
+.ft100{font:  14px 'Verdana' !important;margin-left: 10px;l-h: 19px;}
+.ft101{font:  14px 'Verdana' !important;margin-left: 17px;l-h: 18px;}
+.ft102{font:  14px 'Verdana' !important;text-decoration: underline;margin-left: 16px;l-h: 19px;}
+.ft103{font:  14px 'Verdana' !important;margin-left: 32px;l-h: 18px;}
+.ft104{font:  14px 'Verdana' !important;margin-left: 27px;l-h: 18px;}
+.ft105{font:  14px 'Verdana' !important;margin-left: 23px;l-h: 19px;}
+.ft106{font:  14px 'Verdana' !important;margin-left: 24px;l-h: 18px;}
+.ft107{font:  14px 'Verdana' !important;margin-left: 28px;l-h: 19px;}
+.ft108{font:  14px 'Verdana' !important;margin-left: 24px;l-h: 19px;}
+.ft109{font:  14px 'Verdana' !important;margin-left: 14px;l-h: 18px;}
+.ft110{font:  14px 'Verdana' !important;text-decoration: underline;margin-left: 18px;l-h: 19px;}
+
+.p0{text-align: left;padding-left: 0px;padding-right: 525px;margin-top: 0px;margin-bottom: 0px !important;}
+.p1{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p2{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p3{text-align: left;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p4{text-align: left;padding-left: 0px;margin-top: 26px;margin-bottom: 0px !important;}
+.p5{text-align: left;padding-left: 0px;margin-top: 19px;margin-bottom: 0px !important;}
+.p6{text-align: left;padding-left: 0px;margin-top: 43px;margin-bottom: 0px !important;}
+.p7{text-align: left;padding-left: 220px;margin-top: 24px;margin-bottom: 0px !important;}
+.p8{text-align: left;padding-left: 220px;margin-top: 0px;margin-bottom: 0px !important;}
+.p9{text-align: left;padding-left: 0px;margin-top: 62px;margin-bottom: 0px !important;}
+.p10{text-align: left;padding-left: 0px;padding-right: 294px;margin-top: 15px;margin-bottom: 0px !important;text-indent: 15px;}
+.p11{text-align: right;padding-right: 84px;margin-top: 110px;margin-bottom: 0px !important;}
+.p12{text-align: right;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p13{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p14{text-align: right;padding-right: 126px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p15{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p16{text-align: left;padding-left: 0px;margin-top: 1px;margin-bottom: 0px !important;}
+.p17{text-align: right;padding-right: 21px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p18{text-align: left;padding-left: 0px;margin-top: 2px;margin-bottom: 0px !important;}
+.p19{text-align: right;padding-right: 6px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p20{text-align: right;padding-right: 1px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p21{text-align: right;padding-right: 84px;margin-top: 490px;margin-bottom: 0px !important;}
+.p22{text-align: left;padding-left: 560px;margin-top: 0px;margin-bottom: 0px !important;}
+.p23{text-align: left;padding-left: 0px;margin-top: 1px;margin-bottom: 0px !important;}
+.p24{text-align: left;padding-left: 0px;padding-right: 294px;margin-top: 15px;margin-bottom: 0px !important;}
+.p25{text-align: right;padding-right: 84px;margin-top: 831px;margin-bottom: 0px !important;}
+.p26{text-align: left;padding-left: 0px;margin-top: 53px;margin-bottom: 0px !important;}
+.p27{text-align: left;padding-left: 0px;padding-right: 294px;margin-top: 36px;margin-bottom: 0px !important;}
+.p28{text-align: left;padding-left: 0px;padding-right: 294px;margin-top: 2px;margin-bottom: 0px !important;text-indent: 15px;}
+.p29{text-align: left;padding-left: 0px;padding-right: 294px;margin-top: 1px;margin-bottom: 0px !important;text-indent: 15px;}
+.p30{text-align: right;padding-right: 84px;margin-top: 10px;margin-bottom: 0px !important;}
+.p31{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p32{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p33{text-align: left;padding-left: 0px;padding-right: 84px;margin-top: 0px;margin-bottom: 0px !important;}
+.p34{text-align: left;padding-left: 0px;padding-right: 294px;margin-top: 0px;margin-bottom: 0px !important;text-indent: 15px;}
+.p35{text-align: left;padding-left: 0px;padding-right: 294px;margin-top: 1px;margin-bottom: 0px !important;text-indent: 15px;}
+.p36{text-align: left;padding-left: 0px;margin-top: 54px;margin-bottom: 0px !important;}
+.p37{text-align: left;padding-left: 0px;padding-right: 294px;margin-top: 16px;margin-bottom: 0px !important;}
+.p38{text-align: left;padding-left: 0px;margin-top: 43px;margin-bottom: 0px !important;}
+.p39{text-align: left;padding-left: 0px;padding-right: 294px;margin-top: 10px;margin-bottom: 0px !important;}
+.p40{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;}
+.p41{text-align: right;padding-right: 84px;margin-top: 0px;margin-bottom: 0px !important;}
+.p42{text-align: left;padding-left: 0px;padding-right: 294px;margin-top: 0px;margin-bottom: 0px !important;text-indent: 15px;}
+.p43{text-align: left;padding-left: 0px;margin-top: 42px;margin-bottom: 0px !important;}
+.p44{text-align: left;padding-left: 0px;padding-right: 294px;margin-top: 11px;margin-bottom: 0px !important;}
+.p45{text-align: left;padding-left: 0px;padding-right: 294px;margin-top: 11px;margin-bottom: 0px !important;}
+.p46{text-align: left;padding-left: 0px;padding-right: 294px;margin-top: 2px;margin-bottom: 0px !important;text-indent: 15px;}
+.p47{text-align: right;padding-right: 84px;margin-top: 17px;margin-bottom: 0px !important;}
+.p48{text-align: left;padding-left: 120px;padding-right: 357px;margin-top: 43px;margin-bottom: 0px !important;text-indent: 0.75px;}
+.p49{text-align: left;padding-left: 0px;padding-right: 294px;margin-top: 10px;margin-bottom: 0px !important;}
+.p50{text-align: left;padding-left: 0px;padding-right: 294px;margin-top: 0px;margin-bottom: 0px !important;}
+.p51{text-align: left;padding-left: 0px;margin-top: 44px;margin-bottom: 0px !important;}
+.p52{text-align: right;padding-right: 84px;margin-top: 54px;margin-bottom: 0px !important;}
+.p53{text-align: right;padding-right: 21px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p54{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p55{text-align: right;padding-right: 63px;margin-top: 359px;margin-bottom: 0px !important;}
+.p56{text-align: left;padding-left: 0px;margin-top: 33px;margin-bottom: 0px !important;}
+.p57{text-align: left;padding-left: 0px;padding-right: 294px;margin-top: 39px;margin-bottom: 0px !important;}
+.p58{text-align: left;padding-left: 0px;padding-right: 294px;margin-top: 23px;margin-bottom: 0px !important;}
+.p59{text-align: left;padding-left: 0px;padding-right: 294px;margin-top: 39px;margin-bottom: 0px !important;}
+.p60{text-align: left;padding-left: 0px;margin-top: 25px;margin-bottom: 0px !important;}
+.p61{text-align: left;padding-left: 0px;margin-top: 2px;margin-bottom: 0px !important;}
+.p62{text-align: right;padding-right: 63px;margin-top: 0px;margin-bottom: 0px !important;}
+.p63{text-align: left;padding-left: 0px;margin-top: 3px;margin-bottom: 0px !important;}
+.p64{text-align: right;padding-right: 63px;margin-top: 72px;margin-bottom: 0px !important;}
+.p65{text-align: left;margin-top: 0px;margin-bottom: 0px !important;}
+.p66{text-align: left;margin-top: 36px;margin-bottom: 0px !important;}
+.p67{text-align: left;margin-top: 37px;margin-bottom: 0px !important;}
+.p68{text-align: left;padding-right: 42px;margin-top: 38px;margin-bottom: 0px !important;}
+.p69{text-align: left;padding-right: 21px;margin-top: 38px;margin-bottom: 0px !important;}
+.p70{text-align: left;padding-right: 21px;margin-top: 34px;margin-bottom: 0px !important;}
+.p71{text-align: left;margin-top: 40px;margin-bottom: 0px !important;}
+.p72{text-align: left;padding-right: 21px;margin-top: 32px;margin-bottom: 0px !important;}
+.p73{text-align: left;padding-right: 21px;margin-top: 42px;margin-bottom: 0px !important;}
+.p74{text-align: left;padding-right: 0px;margin-top: 37px;margin-bottom: 0px !important;}
+.p75{text-align: right;padding-right: 63px;margin-top: 949px;margin-bottom: 0px !important;}
+.p76{text-align: left;padding-left: 0px;padding-right: 336px;margin-top: 10px;margin-bottom: 0px !important;}
+.p77{text-align: left;padding-left: 0px;margin-top: 36px;margin-bottom: 0px !important;}
+.p78{text-align: left;padding-left: 0px;margin-top: 37px;margin-bottom: 0px !important;}
+.p79{text-align: left;padding-left: 0px;padding-right: 294px;margin-top: 34px;margin-bottom: 0px !important;}
+.p80{text-align: left;padding-left: 0px;padding-right: 336px;margin-top: 31px;margin-bottom: 0px !important;}
+.p81{text-align: left;padding-left: 0px;padding-right: 315px;margin-top: 34px;margin-bottom: 0px !important;}
+.p82{text-align: left;padding-left: 0px;padding-right: 315px;margin-top: 40px;margin-bottom: 0px !important;}
+.p83{text-align: left;padding-left: 0px;padding-right: 294px;margin-top: 31px;margin-bottom: 0px !important;}
+.p84{text-align: right;padding-right: 63px;margin-top: 96px;margin-bottom: 0px !important;}
+.p85{text-align: left;padding-left: 0px;margin-top: 10px;margin-bottom: 0px !important;}
+.p86{text-align: left;padding-left: 0px;padding-right: 294px;margin-top: 23px;margin-bottom: 0px !important;}
+.p87{text-align: left;padding-left: 0px;padding-right: 315px;margin-top: 44px;margin-bottom: 0px !important;}
+.p88{text-align: left;padding-left: 0px;padding-right: 315px;margin-top: 42px;margin-bottom: 0px !important;}
+.p89{text-align: left;padding-left: 0px;margin-top: 40px;margin-bottom: 0px !important;}
+.p90{text-align: left;padding-left: 0px;padding-right: 315px;margin-top: 37px;margin-bottom: 0px !important;}
+.p91{text-align: left;padding-left: 0px;padding-right: 315px;margin-top: 39px;margin-bottom: 0px !important;}
+.p92{text-align: right;padding-right: 63px;margin-top: 48px;margin-bottom: 0px !important;}
+.p93{text-align: left;padding-left: 0px;padding-right: 336px;margin-top: 37px;margin-bottom: 0px !important;}
+.p94{text-align: left;padding-left: 0px;margin-top: 9px;margin-bottom: 0px !important;}
+.p95{text-align: left;padding-left: 0px;padding-right: 315px;margin-top: 34px;margin-bottom: 0px !important;}
+.p96{text-align: left;padding-left: 0px;padding-right: 294px;margin-top: 33px;margin-bottom: 0px !important;}
+.p97{text-align: left;padding-left: 0px;padding-right: 294px;margin-top: 38px;margin-bottom: 0px !important;}
+.p98{text-align: right;padding-right: 63px;margin-top: 20px;margin-bottom: 0px !important;}
+.p99{text-align: left;padding-left: 0px;padding-right: 315px;margin-top: 38px;margin-bottom: 0px !important;}
+.p100{text-align: left;padding-left: 0px;padding-right: 294px;margin-top: 36px;margin-bottom: 0px !important;}
+.p101{text-align: left;padding-left: 0px;padding-right: 294px;margin-top: 31px;margin-bottom: 0px !important;}
+.p102{text-align: left;padding-left: 0px;padding-right: 336px;margin-top: 51px;margin-bottom: 0px !important;}
+.p103{text-align: left;padding-left: 0px;padding-right: 294px;margin-top: 37px;margin-bottom: 0px !important;}
+.p104{text-align: left;padding-left: 0px;padding-right: 294px;margin-top: 39px;margin-bottom: 0px !important;}
+.p105{text-align: right;padding-right: 63px;margin-top: 37px;margin-bottom: 0px !important;}
+.p106{text-align: left;padding-left: 0px;padding-right: 315px;margin-top: 36px;margin-bottom: 0px !important;}
+.p107{text-align: left;padding-left: 0px;padding-right: 357px;margin-top: 39px;margin-bottom: 0px !important;}
+.p108{text-align: left;padding-left: 0px;padding-right: 294px;margin-top: 32px;margin-bottom: 0px !important;}
+.p109{text-align: left;padding-left: 0px;padding-right: 294px;margin-top: 38px;margin-bottom: 0px !important;}
+.p110{text-align: left;padding-left: 0px;margin-top: 42px;margin-bottom: 0px !important;}
+.p111{text-align: left;padding-left: 0px;padding-right: 294px;margin-top: 33px;margin-bottom: 0px !important;}
+.p112{text-align: right;padding-right: 63px;margin-top: 73px;margin-bottom: 0px !important;}
+.p113{text-align: left;padding-left: 0px;padding-right: 168px;margin-top: 37px;margin-bottom: 0px !important;}
+.p114{text-align: left;padding-left: 0px;padding-right: 147px;margin-top: 34px;margin-bottom: 0px !important;}
+.p115{text-align: left;padding-left: 0px;padding-right: 168px;margin-top: 40px;margin-bottom: 0px !important;}
+.p116{text-align: left;padding-left: 0px;padding-right: 147px;margin-top: 39px;margin-bottom: 0px !important;}
+.p117{text-align: right;margin-top: 41px;margin-bottom: 0px !important;}
+.p118{text-align: left;padding-right: 0px;margin-top: 0px;margin-bottom: 0px !important;}
+.p119{text-align: left;margin-top: 45px;margin-bottom: 0px !important;}
+.p120{text-align: left;padding-right: 0px;margin-top: 32px;margin-bottom: 0px !important;}
+.p121{text-align: left;padding-right: 42px;margin-top: 43px;margin-bottom: 0px !important;}
+.p122{text-align: left;padding-right: 42px;margin-top: 35px;margin-bottom: 0px !important;}
+.p123{text-align: left;margin-top: 40px;margin-bottom: 0px !important;}
+.p124{text-align: left;margin-top: 37px;margin-bottom: 0px !important;}
+.p125{text-align: left;padding-right: 63px;margin-top: 37px;margin-bottom: 0px !important;}
+.p126{text-align: left;padding-left: 0px;padding-right: 294px;margin-top: 7px;margin-bottom: 0px !important;}
+.p127{text-align: left;padding-left: 0px;margin-top: 39px;margin-bottom: 0px !important;}
+.p128{text-align: left;padding-left: 0px;padding-right: 294px;margin-top: 35px;margin-bottom: 0px !important;}
+.p129{text-align: left;padding-left: 0px;padding-right: 315px;margin-top: 35px;margin-bottom: 0px !important;}
+.p130{text-align: right;padding-right: 63px;margin-top: 510px;margin-bottom: 0px !important;}
+.p131{text-align: left;padding-left: 0px;padding-right: 336px;margin-top: 38px;margin-bottom: 0px !important;}
+.p132{text-align: left;padding-left: 0px;padding-right: 315px;margin-top: 35px;margin-bottom: 0px !important;}
+.p133{text-align: left;padding-left: 0px;padding-right: 315px;margin-top: 35px;margin-bottom: 0px !important;}
+.p134{text-align: left;padding-left: 0px;margin-top: 37px;margin-bottom: 0px !important;}
+.p135{text-align: left;padding-left: 0px;padding-right: 315px;margin-top: 37px;margin-bottom: 0px !important;}
+.p136{text-align: left;padding-left: 0px;padding-right: 336px;margin-top: 39px;margin-bottom: 0px !important;}
+.p137{text-align: left;padding-left: 0px;margin-top: 38px;margin-bottom: 0px !important;}
+.p138{text-align: left;padding-left: 0px;padding-right: 315px;margin-top: 38px;margin-bottom: 0px !important;}
+.p139{text-align: right;padding-right: 63px;margin-top: 93px;margin-bottom: 0px !important;}
+.p140{text-align: left;padding-right: 21px;margin-top: 0px;margin-bottom: 0px !important;}
+.p141{text-align: left;padding-right: 21px;margin-top: 33px;margin-bottom: 0px !important;}
+.p142{text-align: left;padding-right: 42px;margin-top: 35px;margin-bottom: 0px !important;}
+.p143{text-align: left;margin-top: 38px;margin-bottom: 0px !important;}
+.p144{text-align: left;padding-right: 63px;margin-top: 37px;margin-bottom: 0px !important;}
+.p145{text-align: left;padding-right: 21px;margin-top: 39px;margin-bottom: 0px !important;}
+.p146{text-align: left;margin-top: 39px;margin-bottom: 0px !important;}
+.p147{text-align: left;padding-left: 0px;padding-right: 294px;margin-top: 31px;margin-bottom: 0px !important;}
+.p148{text-align: left;padding-left: 0px;padding-right: 294px;margin-top: 35px;margin-bottom: 0px !important;}
+.p149{text-align: left;padding-left: 0px;margin-top: 13px;margin-bottom: 0px !important;}
+.p150{text-align: left;padding-left: 0px;padding-right: 315px;margin-top: 35px;margin-bottom: 0px !important;}
+.p151{text-align: right;padding-right: 63px;margin-top: 16px;margin-bottom: 0px !important;}
+.p152{text-align: left;padding-left: 0px;margin-top: 35px;margin-bottom: 0px !important;}
+.p153{text-align: left;padding-left: 0px;padding-right: 294px;margin-top: 39px;margin-bottom: 0px !important;}
+.p154{text-align: left;padding-left: 0px;padding-right: 336px;margin-top: 35px;margin-bottom: 0px !important;}
+.p155{text-align: left;padding-left: 0px;padding-right: 294px;margin-top: 39px;margin-bottom: 0px !important;}
+.p156{text-align: left;padding-left: 0px;padding-right: 294px;margin-top: 35px;margin-bottom: 0px !important;}
+.p157{text-align: left;padding-left: 0px;margin-top: 38px;margin-bottom: 0px !important;}
+.p158{text-align: left;padding-left: 0px;margin-top: 8px;margin-bottom: 0px !important;}
+.p159{text-align: left;padding-left: 0px;padding-right: 294px;margin-top: 39px;margin-bottom: 0px !important;}
+.p160{text-align: right;padding-right: 63px;margin-top: 9px;margin-bottom: 0px !important;}
+.p161{text-align: left;padding-left: 0px;padding-right: 294px;margin-top: 32px;margin-bottom: 0px !important;}
+.p162{text-align: left;padding-left: 0px;padding-right: 315px;margin-top: 44px;margin-bottom: 0px !important;}
+.p163{text-align: left;padding-left: 0px;padding-right: 315px;margin-top: 36px;margin-bottom: 0px !important;}
+.p164{text-align: left;padding-left: 0px;padding-right: 336px;margin-top: 38px;margin-bottom: 0px !important;}
+.p165{text-align: left;padding-left: 0px;padding-right: 483px;margin-top: 39px;margin-bottom: 0px !important;}
+.p166{text-align: left;padding-left: 0px;padding-right: 336px;margin-top: 39px;margin-bottom: 0px !important;}
+.p167{text-align: right;padding-right: 63px;margin-top: 11px;margin-bottom: 0px !important;}
+.p168{text-align: left;padding-left: 0px;padding-right: 378px;margin-top: 10px;margin-bottom: 0px !important;}
+.p169{text-align: left;padding-left: 0px;padding-right: 378px;margin-top: 39px;margin-bottom: 0px !important;}
+.p170{text-align: left;padding-left: 0px;padding-right: 336px;margin-top: 36px;margin-bottom: 0px !important;}
+.p171{text-align: left;padding-left: 0px;padding-right: 336px;margin-top: 40px;margin-bottom: 0px !important;}
+.p172{text-align: left;padding-left: 0px;padding-right: 357px;margin-top: 36px;margin-bottom: 0px !important;}
+.p173{text-align: left;padding-left: 0px;padding-right: 315px;margin-top: 38px;margin-bottom: 0px !important;}
+.p174{text-align: left;padding-left: 0px;padding-right: 294px;margin-top: 35px;margin-bottom: 0px !important;}
+.p175{text-align: left;padding-left: 0px;padding-right: 294px;margin-top: 34px;margin-bottom: 0px !important;}
+.p176{text-align: right;padding-right: 63px;margin-top: 41px;margin-bottom: 0px !important;}
+.p177{text-align: left;padding-left: 0px;padding-right: 315px;margin-top: 38px;margin-bottom: 0px !important;}
+.p178{text-align: left;padding-left: 0px;padding-right: 294px;margin-top: 36px;margin-bottom: 0px !important;}
+.p179{text-align: left;padding-left: 0px;padding-right: 294px;margin-top: 33px;margin-bottom: 0px !important;}
+.p180{text-align: left;padding-left: 0px;padding-right: 315px;margin-top: 36px;margin-bottom: 0px !important;}
+.p181{text-align: left;padding-left: 0px;padding-right: 315px;margin-top: 38px;margin-bottom: 0px !important;}
+.p182{text-align: right;padding-right: 63px;margin-top: 91px;margin-bottom: 0px !important;}
+.p183{text-align: left;padding-left: 140px;margin-top: 55px;margin-bottom: 0px !important;}
+.p184{text-align: left;padding-left: 0px;padding-right: 315px;margin-top: 20px;margin-bottom: 0px !important;}
+.p185{text-align: left;padding-left: 0px;padding-right: 315px;margin-top: 19px;margin-bottom: 0px !important;}
+.p186{text-align: left;padding-left: 0px;padding-right: 315px;margin-top: 20px;margin-bottom: 0px !important;}
+.p187{text-align: left;padding-left: 0px;margin-top: 20px;margin-bottom: 0px !important;}
+.p188{text-align: left;padding-left: 260px;margin-top: 41px;margin-bottom: 0px !important;}
+.p189{text-align: left;padding-left: 140px;margin-top: 32px;margin-bottom: 0px !important;}
+.p190{text-align: left;padding-left: 0px;padding-right: 315px;margin-top: 41px;margin-bottom: 0px !important;}
+.p191{text-align: left;padding-left: 0px;padding-right: 315px;margin-top: 20px;margin-bottom: 0px !important;}
+.p192{text-align: left;padding-left: 0px;padding-right: 315px;margin-top: 24px;margin-bottom: 0px !important;}
+.p193{text-align: left;padding-left: 0px;padding-right: 294px;margin-top: 18px;margin-bottom: 0px !important;}
+.p194{text-align: right;padding-right: 63px;margin-top: 67px;margin-bottom: 0px !important;}
+.p195{text-align: left;padding-left: 260px;margin-top: 17px;margin-bottom: 0px !important;}
+.p196{text-align: left;padding-left: 0px;padding-right: 294px;margin-top: 20px;margin-bottom: 0px !important;}
+.p197{text-align: left;padding-left: 0px;padding-right: 294px;margin-top: 21px;margin-bottom: 0px !important;}
+.p198{text-align: left;padding-left: 0px;padding-right: 294px;margin-top: 20px;margin-bottom: 0px !important;}
+.p199{text-align: left;padding-left: 0px;padding-right: 399px;margin-top: 20px;margin-bottom: 0px !important;}
+.p200{text-align: left;padding-left: 260px;margin-top: 42px;margin-bottom: 0px !important;}
+.p201{text-align: left;padding-left: 0px;margin-top: 16px;margin-bottom: 0px !important;}
+.p202{text-align: left;padding-left: 0px;padding-right: 294px;margin-top: 39px;margin-bottom: 0px !important;}
+.p203{text-align: left;padding-left: 0px;padding-right: 294px;margin-top: 20px;margin-bottom: 0px !important;}
+.p204{text-align: left;padding-left: 0px;padding-right: 315px;margin-top: 21px;margin-bottom: 0px !important;}
+.p205{text-align: left;padding-left: 0px;margin-top: 20px;margin-bottom: 0px !important;}
+.p206{text-align: left;padding-left: 0px;padding-right: 315px;margin-top: 0px;margin-bottom: 0px !important;text-indent: 0.24px;}
+.p207{text-align: left;padding-left: 0px;margin-top: 1px;margin-bottom: 0px !important;}
+.p208{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;}
+.p209{text-align: left;padding-left: 0px;padding-right: 357px;margin-top: 19px;margin-bottom: 0px !important;text-indent: 0.24px;}
+.p210{text-align: left;padding-left: 0px;padding-right: 315px;margin-top: 20px;margin-bottom: 0px !important;text-indent: 0.24px;}
+.p211{text-align: left;padding-left: 0px;margin-top: 17px;margin-bottom: 0px !important;}
+.p212{text-align: left;padding-left: 0px;padding-right: 294px;margin-top: 19px;margin-bottom: 0px !important;}
+.p213{text-align: left;padding-left: 260px;margin-top: 43px;margin-bottom: 0px !important;}
+.p214{text-align: center;padding-left: 0px;padding-right: 294px;margin-top: 17px;margin-bottom: 0px !important;}
+.p215{text-align: left;padding-left: 0px;padding-right: 294px;margin-top: 39px;margin-bottom: 0px !important;}
+.p216{text-align: left;padding-left: 140px;padding-right: 294px;margin-top: 16px;margin-bottom: 0px !important;text-indent: 0.89px;}
+.p217{text-align: left;padding-left: 0px;margin-top: 39px;margin-bottom: 0px !important;}
+.p218{text-align: left;padding-left: 0px;padding-right: 294px;margin-top: 19px;margin-bottom: 0px !important;text-indent: 0.48px;}
+.p219{text-align: left;padding-left: 0px;padding-right: 294px;margin-top: 20px;margin-bottom: 0px !important;text-indent: 0.48px;}
+.p220{text-align: left;padding-left: 0px;padding-right: 336px;margin-top: 20px;margin-bottom: 0px !important;}
+.p221{text-align: right;padding-right: 63px;margin-top: 30px;margin-bottom: 0px !important;}
+.p222{text-align: left;margin-top: 33px;margin-bottom: 0px !important;}
+.p223{text-align: left;padding-right: 315px;margin-top: 42px;margin-bottom: 0px !important;}
+.p224{text-align: left;padding-right: 315px;margin-top: 20px;margin-bottom: 0px !important;}
+.p225{text-align: left;padding-left: 180px;margin-top: 43px;margin-bottom: 0px !important;}
+.p226{text-align: left;padding-left: 120px;margin-top: 16px;margin-bottom: 0px !important;}
+.p227{text-align: left;padding-right: 294px;margin-top: 41px;margin-bottom: 0px !important;}
+.p228{text-align: left;padding-right: 315px;margin-top: 20px;margin-bottom: 0px !important;}
+.p229{text-align: left;padding-right: 315px;margin-top: 21px;margin-bottom: 0px !important;}
+.p230{text-align: left;padding-right: 315px;margin-top: 19px;margin-bottom: 0px !important;}
+.p231{text-align: left;padding-left: 0px;padding-right: 399px;margin-top: 0px;margin-bottom: 0px !important;}
+.p232{text-align: left;padding-left: 0px;padding-right: 294px;margin-top: 19px;margin-bottom: 0px !important;}
+.p233{text-align: left;padding-left: 0px;padding-right: 315px;margin-top: 21px;margin-bottom: 0px !important;}
+.p234{text-align: left;padding-left: 200px;margin-top: 16px;margin-bottom: 0px !important;}
+.p235{text-align: left;padding-left: 0px;padding-right: 315px;margin-top: 39px;margin-bottom: 0px !important;}
+.p236{text-align: left;padding-left: 0px;padding-right: 315px;margin-top: 20px;margin-bottom: 0px !important;}
+.p237{text-align: right;padding-right: 63px;margin-top: 87px;margin-bottom: 0px !important;}
+.p238{text-align: left;padding-left: 160px;margin-top: 17px;margin-bottom: 0px !important;}
+.p239{text-align: left;padding-left: 0px;padding-right: 294px;margin-top: 41px;margin-bottom: 0px !important;}
+.p240{text-align: left;padding-left: 0px;margin-top: 22px;margin-bottom: 0px !important;}
+.p241{text-align: left;padding-left: 0px;margin-top: 23px;margin-bottom: 0px !important;}
+.p242{text-align: left;padding-left: 0px;padding-right: 294px;margin-top: 2px;margin-bottom: 0px !important;text-indent: 0.48px;}
+.p243{text-align: left;padding-left: 0px;padding-right: 294px;margin-top: 22px;margin-bottom: 0px !important;}
+.p244{text-align: left;padding-left: 260px;margin-top: 46px;margin-bottom: 0px !important;}
+.p245{text-align: left;padding-left: 260px;margin-top: 19px;margin-bottom: 0px !important;}
+.p246{text-align: left;padding-left: 0px;padding-right: 336px;margin-top: 43px;margin-bottom: 0px !important;}
+.p247{text-align: left;padding-left: 0px;padding-right: 294px;margin-top: 22px;margin-bottom: 0px !important;}
+.p248{text-align: right;padding-right: 63px;margin-top: 170px;margin-bottom: 0px !important;}
+.p249{text-align: left;padding-left: 220px;margin-top: 32px;margin-bottom: 0px !important;}
+.p250{text-align: left;padding-left: 0px;padding-right: 315px;margin-top: 41px;margin-bottom: 0px !important;}
+.p251{text-align: left;padding-left: 0px;padding-right: 315px;margin-top: 73px;margin-bottom: 0px !important;}
+.p252{text-align: left;padding-left: 0px;padding-right: 294px;margin-top: 33px;margin-bottom: 0px !important;}
+.p253{text-align: left;padding-left: 0px;margin-top: 20px;margin-bottom: 0px !important;}
+.p254{text-align: left;padding-left: 0px;padding-right: 336px;margin-top: 0px;margin-bottom: 0px !important;}
+.p255{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;}
+.p256{text-align: left;padding-left: 0px;margin-top: 1px;margin-bottom: 0px !important;}
+.p257{text-align: left;padding-left: 0px;padding-right: 336px;margin-top: 18px;margin-bottom: 0px !important;}
+.p258{text-align: left;padding-left: 0px;padding-right: 315px;margin-top: 20px;margin-bottom: 0px !important;}
+.p259{text-align: left;padding-left: 0px;padding-right: 294px;margin-top: 19px;margin-bottom: 0px !important;}
+.p260{text-align: left;padding-left: 0px;margin-top: 19px;margin-bottom: 0px !important;}
+.p261{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;}
+.p262{text-align: right;padding-right: 63px;margin-top: 3px;margin-bottom: 0px !important;}
+.p263{text-align: right;padding-right: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p264{text-align: left;padding-left: 160px;padding-right: 357px;margin-top: 0px;margin-bottom: 0px !important;text-indent: 0.48px;}
+.p265{text-align: left;padding-left: 160px;padding-right: 336px;margin-top: 3px;margin-bottom: 0px !important;text-indent: 0.48px;}
+.p266{text-align: left;padding-left: 0px;margin-top: 1px;margin-bottom: 0px !important;}
+.p267{text-align: left;padding-left: 0px;margin-top: 19px;margin-bottom: 0px !important;}
+.p268{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;}
+.p269{text-align: left;padding-left: 160px;padding-right: 315px;margin-top: 1px;margin-bottom: 0px !important;text-indent: 0.48px;}
+.p270{text-align: left;padding-left: 160px;padding-right: 294px;margin-top: 0px;margin-bottom: 0px !important;text-indent: 0.48px;}
+.p271{text-align: left;padding-left: 0px;padding-right: 294px;margin-top: 20px;margin-bottom: 0px !important;text-indent: 0.48px;}
+.p272{text-align: left;padding-left: 0px;padding-right: 294px;margin-top: 20px;margin-bottom: 0px !important;text-indent: 0.48px;}
+.p273{text-align: left;padding-left: 0px;padding-right: 336px;margin-top: 92px;margin-bottom: 0px !important;}
+.p274{text-align: right;padding-right: 63px;margin-top: 116px;margin-bottom: 0px !important;}
+.p275{text-align: left;padding-right: 315px;margin-top: 30px;margin-bottom: 0px !important;}
+.p276{text-align: left;padding-right: 315px;margin-top: 19px;margin-bottom: 0px !important;}
+.p277{text-align: left;margin-top: 19px;margin-bottom: 0px !important;}
+.p278{text-align: left;padding-right: 336px;margin-top: 19px;margin-bottom: 0px !important;}
+.p279{text-align: left;padding-right: 336px;margin-top: 19px;margin-bottom: 0px !important;}
+.p280{text-align: left;padding-right: 315px;margin-top: 19px;margin-bottom: 0px !important;}
+.p281{text-align: left;padding-right: 336px;margin-top: 19px;margin-bottom: 0px !important;}
+.p282{text-align: left;padding-right: 294px;margin-top: 19px;margin-bottom: 0px !important;}
+.p283{text-align: left;padding-right: 357px;margin-top: 19px;margin-bottom: 0px !important;}
+.p284{text-align: left;padding-right: 294px;margin-top: 19px;margin-bottom: 0px !important;}
+.p285{text-align: left;margin-top: 74px;margin-bottom: 0px !important;}
+.p286{text-align: left;padding-right: 336px;margin-top: 34px;margin-bottom: 0px !important;}
+.p287{text-align: left;margin-top: 42px;margin-bottom: 0px !important;}
+.p288{text-align: left;padding-left: 0px;padding-right: 315px;margin-top: 30px;margin-bottom: 0px !important;text-indent: 0.36px;}
+.p289{text-align: left;padding-left: 0px;padding-right: 336px;margin-top: 20px;margin-bottom: 0px !important;text-indent: 0.84px;}
+.p290{text-align: left;padding-left: 0px;padding-right: 315px;margin-top: 19px;margin-bottom: 0px !important;text-indent: 0.35px;}
+.p291{text-align: left;padding-left: 0px;padding-right: 315px;margin-top: 20px;margin-bottom: 0px !important;text-indent: 0.36px;}
+.p292{text-align: left;padding-left: 0px;padding-right: 315px;margin-top: 19px;margin-bottom: 0px !important;text-indent: 0.36px;}
+.p293{text-align: left;margin-top: 62px;margin-bottom: 0px !important;}
+.p294{text-align: left;padding-left: 0px;padding-right: 21px;margin-top: 19px;margin-bottom: 0px !important;text-indent: 0.48px;}
+.p295{text-align: left;padding-left: 0px;padding-right: 21px;margin-top: 23px;margin-bottom: 0px !important;text-indent: 0.48px;}
+.p296{text-align: left;padding-left: 0px;padding-right: 21px;margin-top: 21px;margin-bottom: 0px !important;text-indent: 0.48px;}
+.p297{text-align: left;padding-left: 0px;padding-right: 21px;margin-top: 20px;margin-bottom: 0px !important;text-indent: 0.48px;}
+.p298{text-align: left;padding-left: 0px;padding-right: 21px;margin-top: 21px;margin-bottom: 0px !important;text-indent: 0.48px;}
+.p299{text-align: left;padding-left: 0px;padding-right: 21px;margin-top: 20px;margin-bottom: 0px !important;text-indent: 0.48px;}
+.p300{text-align: left;padding-left: 0px;padding-right: 21px;margin-top: 20px;margin-bottom: 0px !important;text-indent: 0.48px;}
+.p301{text-align: left;padding-left: 0px;padding-right: 21px;margin-top: 19px;margin-bottom: 0px !important;text-indent: 0.48px;}
+.p302{text-align: left;margin-top: 66px;margin-bottom: 0px !important;}
+.p303{text-align: left;padding-right: 21px;margin-top: 29px;margin-bottom: 0px !important;}
+.p304{text-align: left;padding-left: 0px;margin-top: 41px;margin-bottom: 0px !important;}
+.p305{text-align: left;padding-left: 0px;padding-right: 294px;margin-top: 30px;margin-bottom: 0px !important;}
+.p306{text-align: left;padding-left: 0px;margin-top: 61px;margin-bottom: 0px !important;}
+.p307{text-align: left;padding-left: 0px;padding-right: 315px;margin-top: 30px;margin-bottom: 0px !important;}
+.p308{text-align: left;padding-left: 280px;margin-top: 19px;margin-bottom: 0px !important;}
+.p309{text-align: right;padding-right: 63px;margin-top: 578px;margin-bottom: 0px !important;}
+.p310{text-align: left;padding-left: 0px;margin-top: 6px;margin-bottom: 0px !important;}
+.p311{text-align: left;padding-left: 0px;margin-top: 15px;margin-bottom: 0px !important;}
+.p312{text-align: left;padding-left: 0px;padding-right: 336px;margin-top: 20px;margin-bottom: 0px !important;}
+.p313{text-align: left;padding-left: 0px;margin-top: 22px;margin-bottom: 0px !important;}
+.p314{text-align: left;padding-left: 0px;padding-right: 294px;margin-top: 77px;margin-bottom: 0px !important;}
+.p315{text-align: right;padding-right: 63px;margin-top: 615px;margin-bottom: 0px !important;}
+
+.td0{padding: 0px;margin: 0px;width: 519px;vertical-align: bottom;}
+.td1{padding: 0px;margin: 0px;width: 141px;vertical-align: bottom;}
+.td2{border-bottom: #000000 1px solid;padding: 0px;margin: 0px;width: 519px;vertical-align: bottom;}
+.td3{border-bottom: #000000 1px solid;padding: 0px;margin: 0px;width: 141px;vertical-align: bottom;}
+.td4{padding: 0px;margin: 0px;width: 506px;vertical-align: bottom;}
+.td5{padding: 0px;margin: 0px;width: 148px;vertical-align: bottom;}
+.td6{padding: 0px;margin: 0px;width: 8px;vertical-align: bottom;}
+.td7{padding: 0px;margin: 0px;width: 497px;vertical-align: bottom;}
+.td8{padding: 0px;margin: 0px;width: 69px;vertical-align: bottom;}
+.td9{padding: 0px;margin: 0px;width: 428px;vertical-align: bottom;}
+.td10{padding: 0px;margin: 0px;width: 42px;vertical-align: bottom;}
+.td11{padding: 0px;margin: 0px;width: 9px;vertical-align: bottom;}
+.td12{padding: 0px;margin: 0px;width: 54px;vertical-align: bottom;}
+.td13{padding: 0px;margin: 0px;width: 434px;vertical-align: bottom;}
+.td14{padding: 0px;margin: 0px;width: 17px;vertical-align: bottom;}
+.td15{padding: 0px;margin: 0px;width: 489px;vertical-align: bottom;}
+.td16{padding: 0px;margin: 0px;width: 63px;vertical-align: bottom;}
+.td17{padding: 0px;margin: 0px;width: 75px;vertical-align: bottom;}
+.td18{padding: 0px;margin: 0px;width: 350px;vertical-align: bottom;}
+.td19{padding: 0px;margin: 0px;width: 227px;vertical-align: bottom;}
+.td20{padding: 0px;margin: 0px;width: 426px;vertical-align: bottom;}
+.td21{padding: 0px;margin: 0px;width: 654px;vertical-align: bottom;}
+.td22{padding: 0px;margin: 0px;width: 585px;vertical-align: bottom;}
+.td23{padding: 0px;margin: 0px;width: 78px;vertical-align: bottom;}
+.td24{padding: 0px;margin: 0px;width: 52px;vertical-align: bottom;}
+.td25{padding: 0px;margin: 0px;width: 480px;vertical-align: bottom;}
+.td26{padding: 0px;margin: 0px;width: 120px;vertical-align: bottom;}
+.td27{padding: 0px;margin: 0px;width: 533px;vertical-align: bottom;}
+.td28{padding: 0px;margin: 0px;width: 307px;vertical-align: bottom;}
+.td29{padding: 0px;margin: 0px;width: 565px;vertical-align: bottom;}
+.td30{padding: 0px;margin: 0px;width: 107px;vertical-align: bottom;}
+.td31{padding: 0px;margin: 0px;width: 312px;vertical-align: bottom;}
+.td32{padding: 0px;margin: 0px;width: 34px;vertical-align: bottom;}
+.td33{padding: 0px;margin: 0px;width: 423px;vertical-align: bottom;}
+.td34{padding: 0px;margin: 0px;width: 567px;vertical-align: bottom;}
+.td35{padding: 0px;margin: 0px;width: 106px;vertical-align: bottom;}
+.td36{padding: 0px;margin: 0px;width: 578px;vertical-align: bottom;}
+.td37{padding: 0px;margin: 0px;width: 94px;vertical-align: bottom;}
+
+.tr0{heightzzz: 31px;}
+.tr1{heightzzz: 27px;}
+.tr2{heightzzz: 26px;}
+.tr3{heightzzz: 43px;}
+.tr4{heightzzz: 19px;}
+.tr5{heightzzz: 20px;}
+.tr6{heightzzz: 18px;}
+.tr7{heightzzz: 25px;}
+.tr8{heightzzz: 28px;}
+.tr9{heightzzz: 23px;}
+.tr10{heightzzz: 57px;}
+.tr11{heightzzz: 75px;}
+.tr12{heightzzz: 30px;}
+.tr13{heightzzz: 60px;}
+.tr14{heightzzz: 29px;}
+.tr15{heightzzz: 6px;}
+.tr16{heightzzz: 33px;}
+.tr17{heightzzz: 10px;}
+.tr18{heightzzz: 21px;}
+.tr19{heightzzz: 5px;}
+.tr20{heightzzz: 37px;}
+.tr21{heightzzz: 22px;}
+.tr22{heightzzz: 24px;}
+
+.t0{width: 693px;margin-leftZ: 75px;margin-top: 12px;f:23px 'Verdana' !important;}
+.t1{width: 685px;margin-leftZ: 76px;f:17px 'Verdana' !important;}
+.t2{width: 502px;margin-leftZ: 110px;f:15px 'Verdana' !important;}
+.t3{width: 540px;margin-leftZ: 76px;f:15px 'Verdana' !important;}
+.t4{width: 685px;f:17px 'Verdana' !important;}
+.t5{width: 696px;f:17px 'Verdana' !important;}
+.t6{width: 685px;margin-leftZ: 76px;f:19px 'Verdana' !important;}
+.t7{width: 685px;margin-leftZ: 76px;f:15px 'Verdana' !important;}
+.t8{width: 685px;margin-leftZ: 76px;f:16px 'Verdana' !important;}
+.t9{width: 448px;margin-leftZ: 291px;f:15px 'Verdana' !important;}
+.t10{width: 448px;margin-leftZ: 215px;f:15px 'Verdana' !important;}
+.t11{width: 705px;f:17px 'Verdana' !important;}
+.t12{width: 454px;margin-leftZ: 286px;f:15px 'Verdana' !important;}
+.t13{width: 606px;margin-leftZ: 148px;f:15px 'Verdana' !important;}
+.t14{width: 685px;f:15px 'Verdana' !important;}
+.t15{width: 705px;margin-top: 16px;f:17px 'Verdana' !important;}
+.t16{width: 705px;margin-top: 26px;f:17px 'Verdana' !important;}
+
+</STYLE>
+
+
+
+<DIV id="page_1">
+
+
+<P class="p0 ft0">Regeringens proposition 2003/04:72</P>
+<TABLE cellpadding=0 cellspacing=0 class="t0">
+<TR>
+	<TD class="tr0 td0"><SPAN class="p1 ft1">Svensk anslutning till det femte protokollet till</SPAN> </TD>
+	<TD class="tr0 td1"><SPAN class="p2 ft1">Prop.</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr1 td0"><SPAN class="p1 ft1">konventionen om förbud mot eller inskränkningar i</SPAN> </TD>
+	<TD class="tr1 td1"><SPAN class="p2 ft1">2003/04:72</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr2 td0"><SPAN class="p1 ft2">användningen av vissa konventionella vapen som kan</SPAN> </TD>
+	<TD class="tr2 td1"><SPAN class="p3 ft3">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr2 td0"><SPAN class="p1 ft1">anses vara ytterst skadebringande eller ha</SPAN> </TD>
+	<TD class="tr2 td1"><SPAN class="p3 ft3">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr2 td2"><SPAN class="p1 ft1">urskillningslösa verkningar</SPAN> </TD>
+	<TD class="tr2 td3"><SPAN class="p3 ft3">&nbsp;</SPAN> </TD>
+</TR>
+</TABLE>
+<P class="p4 ft4">Regeringen överlämnar denna proposition till riksdagen.</P>
+<P class="p5 ft4">Stockholm den 26 februari 2004</P>
+<P class="p6 ft5">Laila Freivalds</P>
+<P class="p7 ft5">Barbro Holmberg</P>
+<P class="p8 ft4">(Utrikesdepartementet)</P>
+<P class="p9 ft1">Propositionens huvudsakliga innehåll</P>
+<P class="p10 ft6">I propositionen föreslås att riksdagen godkänner det femte protokollet till konventionen om förbud mot eller inskränkningar i användningen av vissa konventionella vapen som kan anses vara ytterst skadebringande eller ha urskillningslösa verkningar. Protokollet reglerar s.k. explosiva lämningar efter krig, (oexploderad och kvarlämnad ammunition), i syfte att minimera följderna av dessa lämningar för människor. Protokollet omfattar i huvudsak åtgärder som skall vidtas när en väpnad konflikt har avslutats. Det anger ansvar för röjning av explosiva lämningar efter krig. Vidare innehåller protokollet regler för delgivning av uppgifter och skydd av civilbefolkningen från följderna av explosiva lämningar efter krig. Protokollet ställer också upp villkor för internationellt samarbete. I huvudsak avser protokollet framtida väpnade konflikter men innehåller i begränsad utsträckning även uppmaningar att bistå länder, i dag drabbade av explosiva lämningar efter krig, med röjningsinsatser och med stöd för vård och rehabilitering av skadade. Till viss del behandlar också protokollet åtgärder för att i förebyggande syfte minska förekomsten av explosiva lämningar efter krig.</P>
+<P class="p11 ft4">1</P>
+</DIV>
+<DIV id="page_2">
+
+
+<TABLE cellpadding=0 cellspacing=0 class="t1">
+<TR>
+	<TD colspan=3 class="tr0 td4"><SPAN class="p3 ft1">Innehållsförteckning</SPAN> </TD>
+	<TD class="tr0 td5"><SPAN class="p12 ft4">Prop. 2003/04:72</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr3 td6"><SPAN class="p3 ft7">1</SPAN> </TD>
+	<TD colspan=2 class="tr3 td7"><SPAN class="p13 ft8">Förslag till riksdagsbeslut..................................................................</SPAN> </TD>
+	<TD class="tr3 td5"><SPAN class="p14 ft4">3</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr1 td6"><SPAN class="p3 ft7">2</SPAN> </TD>
+	<TD colspan=2 class="tr1 td7"><SPAN class="p13 ft8">Ärendet och dess beredning...............................................................</SPAN> </TD>
+	<TD class="tr1 td5"><SPAN class="p14 ft4">4</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr1 td6"><SPAN class="p3 ft7">3</SPAN> </TD>
+	<TD colspan=2 class="tr1 td7"><SPAN class="p13 ft8">Bakgrund ...........................................................................................</SPAN> </TD>
+	<TD class="tr1 td5"><SPAN class="p14 ft4">5</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr1 td6"><SPAN class="p3 ft7">4</SPAN> </TD>
+	<TD colspan=2 class="tr1 td7"><SPAN class="p13 ft8">Protokollets innehåll..........................................................................</SPAN> </TD>
+	<TD class="tr1 td5"><SPAN class="p14 ft4">6</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr4 td6"><SPAN class="p3 ft3">&nbsp;</SPAN> </TD>
+	<TD class="tr4 td8"><SPAN class="p13 ft4">4.1</SPAN> </TD>
+	<TD class="tr4 td9"><SPAN class="p15 ft8">Allmänna bestämmelser......................................................</SPAN> </TD>
+	<TD class="tr4 td5"><SPAN class="p14 ft4">6</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr4 td6"><SPAN class="p3 ft3">&nbsp;</SPAN> </TD>
+	<TD class="tr4 td8"><SPAN class="p13 ft4">4.2</SPAN> </TD>
+	<TD class="tr4 td9"><SPAN class="p15 ft8">Definitioner .........................................................................</SPAN> </TD>
+	<TD class="tr4 td5"><SPAN class="p14 ft4">7</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr5 td6"><SPAN class="p3 ft3">&nbsp;</SPAN> </TD>
+	<TD class="tr5 td8"><SPAN class="p13 ft4">4.3</SPAN> </TD>
+	<TD class="tr5 td9"><SPAN class="p15 ft8">Röjningsskyldighet och delgivning av uppgifter ................</SPAN> </TD>
+	<TD class="tr5 td5"><SPAN class="p14 ft4">7</SPAN> </TD>
+</TR>
+</TABLE>
+<P class="p16 ft4"><SPAN class="ft7">4.4</SPAN><SPAN class="ft9">Skydd av civilbefolkningen samt av humanitära</SPAN></P>
+<TABLE cellpadding=0 cellspacing=0 class="t2">
+<TR>
+	<TD class="tr4 td10"><SPAN class="p3 ft3">&nbsp;</SPAN> </TD>
+	<TD class="tr4 td9"><SPAN class="p15 ft7">delegationer och organisationer ..........................................</SPAN> </TD>
+	<TD class="tr4 td11"><SPAN class="p12 ft4">8</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr6 td10"><SPAN class="p17 ft7">4.5</SPAN> </TD>
+	<TD class="tr6 td9"><SPAN class="p15 ft7">Redan förekommande explosiva lämningar efter krig........</SPAN> </TD>
+	<TD class="tr6 td11"><SPAN class="p12 ft10">8</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr4 td10"><SPAN class="p17 ft7">4.6</SPAN> </TD>
+	<TD class="tr4 td9"><SPAN class="p15 ft8">Internationellt samarbete.....................................................</SPAN> </TD>
+	<TD class="tr4 td11"><SPAN class="p12 ft4">9</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr4 td10"><SPAN class="p17 ft7">4.7</SPAN> </TD>
+	<TD class="tr4 td9"><SPAN class="p15 ft8">Allmänna förebyggande åtgärder........................................</SPAN> </TD>
+	<TD class="tr4 td11"><SPAN class="p12 ft4">9</SPAN> </TD>
+</TR>
+</TABLE>
+<P class="p18 ft4"><SPAN class="ft7">4.8</SPAN><SPAN class="ft9">Konsultationer mellan konventionsparter och efterlevnad10</SPAN></P>
+<TABLE cellpadding=0 cellspacing=0 class="t3">
+<TR>
+	<TD class="tr5 td6"><SPAN class="p3 ft3">&nbsp;</SPAN> </TD>
+	<TD class="tr5 td12"><SPAN class="p19 ft4">4.9</SPAN> </TD>
+	<TD class="tr5 td13"><SPAN class="p20 ft8">Den tekniska bilagan.........................................................</SPAN> </TD>
+	<TD class="tr5 td14"><SPAN class="p12 ft7">10</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr7 td6"><SPAN class="p3 ft7">5</SPAN> </TD>
+	<TD colspan=2 class="tr7 td15"><SPAN class="p20 ft8">Protokollet och svenska förhållanden..............................................</SPAN> </TD>
+	<TD class="tr7 td14"><SPAN class="p12 ft7">11</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr1 td6"><SPAN class="p3 ft7">6</SPAN> </TD>
+	<TD colspan=2 class="tr1 td15"><SPAN class="p20 ft8">Godkännande av protokollet............................................................</SPAN> </TD>
+	<TD class="tr1 td14"><SPAN class="p12 ft7">11</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=2 class="tr1 td16"><SPAN class="p3 ft4">Bilaga 1</SPAN> </TD>
+	<TD class="tr1 td13"><SPAN class="p20 ft8">Konventionstext svenska...........................................................</SPAN> </TD>
+	<TD class="tr1 td14"><SPAN class="p12 ft7">13</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=2 class="tr1 td16"><SPAN class="p3 ft4">Bilaga 2</SPAN> </TD>
+	<TD class="tr1 td13"><SPAN class="p20 ft8">Konventionstext engelska .........................................................</SPAN> </TD>
+	<TD class="tr1 td14"><SPAN class="p12 ft7">29</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=3 class="tr8 td7"><SPAN class="p3 ft7">Utdrag ur protokoll vid regeringssammanträde den 26 februari 2004 ....</SPAN> </TD>
+	<TD class="tr8 td14"><SPAN class="p12 ft7">42</SPAN> </TD>
+</TR>
+</TABLE>
+<P class="p21 ft4">2</P>
+</DIV>
+<DIV id="page_3">
+
+
+<P class="p22 ft4">Prop. 2003/04:72</P>
+<P class="p23 ft1">1 Förslag till riksdagsbeslut</P>
+<P class="p24 ft6">Regeringen föreslår att riksdagen godkänner det femte protokollet av den 28 november 2003 till konventionen om förbud mot eller inskränkningar i användningen av vissa konventionella vapen som kan anses vara ytterst skadebringande eller ha urskillningslösa verkningar.</P>
+<P class="p25 ft4">3</P>
+</DIV>
+<DIV id="page_4">
+
+
+<P class="p22 ft4">Prop. 2003/04:72</P>
+<P class="p26 ft1">2 Ärendet och dess beredning</P>
+<P class="p27 ft6">År 2000 initierade Internationella rödakorskommittén (ICRC) en process inom ramen för konventionen om förbud mot eller inskränkningar i användningen av vissa konventionella vapen som kan anses vara ytterst skadebringande eller ha urskillningslösa verkningar (CCW) syftande till att reglera s.k. explosiva lämningar efter krig. Politiskt tryck för en internationell reglering skapades bl.a. mot bakgrund av de allvarliga problem förorsakade av användningen av s.k. klusterammunition (substridsdelar) för civilbefolkningen under och efter Kosovokriget 1999. Därefter har tillkommit ytterligare belägg för de konsekvenser som oexploderad ammunition har medfört i samband med striderna i Afghanistan <NOBR>2001-2002</NOBR> och i Irak 2003.</P>
+<P class="p28 ft4">Vid CCW:s andra översynskonferens i december 2001 tillsattes en expertgrupp bestående av regeringsrepresentanter och militära experter med mandat att diskutera problematiken rörande explosiva lämningar efter krig ur ett humanitärrättsligt, försvarspolitiskt och tekniskt perspektiv.</P>
+<P class="p29 ft6">Efter ett års arbete i expertgruppen kunde CCW:s partsmöte i december 2002 fatta beslut om att inleda formella förhandlingar om ett nytt internationellt instrument om explosiva lämningar efter krig. Förhandlingsmandatet gick ut på att förhandla fram åtgärder att vidtas i huvudsak efter en väpnad konflikt i syfte att minimera följderna av explosiva lämningar efter krig. Det protokoll som nu har förhandlats fram reglerar därför ansvar för röjning av explosiva lämningar efter krig, delgivning av information samt villkor för internationellt samarbete. I begränsad utsträckning omfattas också förebyggande åtgärder som syftar till att minska förekomsten av explosiva lämningar av krig.</P>
+<P class="p29 ft6">Under tre expertmöten 2003 formulerades ett förslag till ett instrument som reglerar explosiva lämningar efter krig. Förslaget godkändes av CCW:s partsmöte den 28 november 2003. Alla konventionsparter var då överens om att instrumentet skulle ges juridiskt bindande status och bli det femte protokollet till konventionen. Den framförhandlade texten finns i svensk översättning i <SPAN class="ft11">bilaga 1 </SPAN>och den engelska texten i <SPAN class="ft11">bilaga 2</SPAN>. Samma partsmöte beslutade att ge expertgruppen i uppdrag att under 2004 fortsätta att diskutera en separat del av det tidigare mandatet som ännu inte färdigbehandlats, nämligen förebyggande åtgärder. Anledningen till detta är att det nya femte protokollet endast i begränsad omfattning behandlar åtgärder som kan vidtas före och under konflikter. Förebyggande åtgärder utgör en viktig del i arbetet för att minimera konsekvenserna av explosiva lämningar efter krig. Detta arbete fortsätter inom ramen för CCW.</P>
+<P class="p28 ft4">Berörda myndigheter har getts tillfälle att lämna synpunkter under förhandlingsarbetet. Mot bakgrund härav har remissförfarande inte ansetts behövligt.</P>
+<P class="p30 ft4">4</P>
+</DIV>
+<DIV id="page_5">
+
+
+<TABLE cellpadding=0 cellspacing=0 class="t4">
+<TR>
+	<TD class="tr9 td17"><SPAN class="p3 ft3">&nbsp;</SPAN> </TD>
+	<TD class="tr9 td18"><SPAN class="p3 ft3">&nbsp;</SPAN> </TD>
+	<TD class="tr9 td19"><SPAN class="p12 ft4">Prop. 2003/04:72</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr10 td17"><SPAN class="p3 ft1">3</SPAN> </TD>
+	<TD class="tr10 td18"><SPAN class="p31 ft1">Bakgrund</SPAN> </TD>
+	<TD class="tr10 td19"><SPAN class="p3 ft3">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=2 class="tr11 td20"><SPAN class="p3 ft4">Humanitära aspekter</SPAN> </TD>
+	<TD class="tr11 td19"><SPAN class="p3 ft3">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=3 class="tr12 td21"><SPAN class="p3 ft4">Oexploderad och kvarlämnad ammunition är i många länder ett minst</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=3 class="tr4 td21"><SPAN class="p3 ft4">lika stort problem som truppminor och har, utöver att orsaka fysisk skada</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=3 class="tr4 td21"><SPAN class="p3 ft4">på människor, också ekonomiska och sociala konsekvenser. Även om det</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=3 class="tr4 td21"><SPAN class="p3 ft4">politiska trycket för en internationell reglering av oexploderad</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=3 class="tr4 td21"><SPAN class="p3 ft4">ammunition har ökat de senaste åren är de problemen till följd av</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=3 class="tr5 td21"><SPAN class="p3 ft4">explosiva lämningar efter krig ingen ny fråga. I länder som exempelvis</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=3 class="tr4 td21"><SPAN class="p3 ft4">Laos och Vietnam finns åtskilliga explosiva lämningar från</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=3 class="tr4 td21"><SPAN class="p3 ft4">Vietnamkriget som fortfarande idag utgör stora risker för</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=2 class="tr4 td20"><SPAN class="p3 ft4">civilbefolkningen och hindrar ekonomisk utveckling.</SPAN> </TD>
+	<TD class="tr4 td19"><SPAN class="p3 ft3">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=3 class="tr4 td21"><SPAN class="p14 ft4">Ammunition, exempelvis substridsdelar, som avfyrats men inte</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=3 class="tr5 td21"><SPAN class="p3 ft4">exploderat som avsett kan ligga kvar på marken och utgöra ett hot mot</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=3 class="tr4 td21"><SPAN class="p3 ft4">civilbefolkningen. Explosiva lämningar efter krig kan ha samma effekt</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=3 class="tr4 td21"><SPAN class="p3 ft4">som truppminor och medför att ett stort antal människor dödas och</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=3 class="tr4 td21"><SPAN class="p3 ft4">skadas under många år efter det att konflikten upphört. De kan också</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=3 class="tr4 td21"><SPAN class="p3 ft4">försvåra för t.ex. hjälpsändningar att nå nödställda på grund av att fordon</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=3 class="tr4 td21"><SPAN class="p3 ft4">inte kan ta sig fram i terräng och på vägar där det finns oexploderad</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=3 class="tr4 td21"><SPAN class="p3 ft4">ammunition som kan explodera vid kontakt. Genom att stora områden</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=3 class="tr5 td21"><SPAN class="p3 ft4">inte kan användas för jordbruk, bostäder m.m. har lämningarna även</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=2 class="tr4 td20"><SPAN class="p3 ft4">ekonomiska konsekvenser.</SPAN> </TD>
+	<TD class="tr4 td19"><SPAN class="p3 ft3">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=3 class="tr4 td21"><SPAN class="p14 ft4">Även kvarlämnad ammunition kan utgöra en stor risk för</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=3 class="tr4 td21"><SPAN class="p3 ft4">civilbefolkningen. Ett exempel är konflikten i Irak där stora mängder</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=2 class="tr4 td20"><SPAN class="p3 ft4">ammunition lämnades kvar i terrängen av irakisk militär.</SPAN> </TD>
+	<TD class="tr4 td19"><SPAN class="p3 ft3">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=2 class="tr13 td20"><SPAN class="p3 ft10">Internationella humanitärrättsliga regleringar</SPAN> </TD>
+	<TD class="tr13 td19"><SPAN class="p3 ft3">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=3 class="tr14 td21"><SPAN class="p3 ft4">Det internationella samfundet har sedan <NOBR>1800-talet</NOBR> strävat efter att</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=3 class="tr4 td21"><SPAN class="p3 ft4">folkrättsligt reglera användningen av vissa vapen. Bakgrunden till CCW</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=3 class="tr5 td21"><SPAN class="p3 ft4">är förhandlingarna om 1977 års tilläggsprotokoll till 1949 års</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=3 class="tr4 td21"><SPAN class="p3 ft4">Genèvekonventioner, vilka bl.a. bekräftar förbudet mot att använda</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=3 class="tr4 td21"><SPAN class="p3 ft4">vapen, projektiler och materiel av sådan beskaffenhet att de orsakar</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=3 class="tr4 td21"><SPAN class="p3 ft4">överflödig skada eller onödigt lidande. Vid den konferens som antog</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=3 class="tr4 td21"><SPAN class="p3 ft4">tilläggsprotokollen beslutades emellertid inte om några restriktioner eller</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=3 class="tr4 td21"><SPAN class="p3 ft4">förbud avseende särskilda vapenkategorier. Som en uppföljning</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=3 class="tr5 td21"><SPAN class="p3 ft4">beslutades därför att inom FN:s ram sammankalla en diplomatkonferens</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=3 class="tr4 td21"><SPAN class="p3 ft4">om förbud mot eller begränsningar i användningen av urskillningslösa</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=2 class="tr4 td20"><SPAN class="p3 ft4">eller särskilt skadebringande konventionella vapen.</SPAN> </TD>
+	<TD class="tr4 td19"><SPAN class="p14 ft7">Konferensen</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=3 class="tr4 td21"><SPAN class="p3 ft4">resulterade 1980 i antagandet av konventionen med samma namn.</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr4 td17"><SPAN class="p32 ft4">CCW</SPAN> </TD>
+	<TD class="tr4 td18"><SPAN class="p3 ft4">reglerar eller förbjuder vapen i syfte</SPAN> </TD>
+	<TD class="tr4 td19"><SPAN class="p14 ft4">att minska</SPAN> </TD>
+</TR>
+</TABLE>
+<TABLE cellpadding=0 cellspacing=0 class="t5">
+<TR>
+	<TD class="tr5 td22"><SPAN class="p3 ft4">civilbefolkningens lidande och begränsa antalet offer i konflikter. CCW</SPAN> </TD>
+	<TD class="tr5 td23"><SPAN class="p3 ft3">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr4 td22"><SPAN class="p3 ft4">är en s.k. ramkonvention som innehåller generella regleringar. Specifika</SPAN> </TD>
+	<TD class="tr4 td23"><SPAN class="p3 ft3">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr4 td22"><SPAN class="p3 ft4">vapentyper regleras eller förbjuds i tillhörande protokoll. Samtidigt med</SPAN> </TD>
+	<TD class="tr4 td23"><SPAN class="p3 ft3">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr4 td22"><SPAN class="p3 ft4">konventionen antogs 1980 tre protokoll: ett som förbjuder användandet</SPAN> </TD>
+	<TD rowspan=2 class="tr7 td23"><SPAN class="p12 ft4">5</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr15 td22"><SPAN class="p3 ft12">&nbsp;</SPAN> </TD>
+</TR>
+</TABLE>
+</DIV>
+<DIV id="page_6">
+
+
+<P class="p33 ft4">av <NOBR>icke-detekterbara</NOBR> fragment (protokoll I), ett om minor, försåt och Prop. 2003/04:72 andra anordningar (protokoll II) samt ett om brandvapen (protokoll III).</P>
+<P class="p34 ft4">Sverige var starkt engagerat i de förhandlingar som ledde fram till konventionens antagande 1980. Sverige hade också uppdraget som ordförande vid den första översynskonferensen <NOBR>1995-96,</NOBR> då konventionen kompletterades på flera sätt. Bland annat förstärktes protokoll II (om minor, försåt och andra anordningar) och ett nytt protokoll om förbud mot synförstörande laservapen tillkom (protokoll IV), också detta till följd av betydande svenska insatser. Sverige presenterar i FN:s generalförsamling sedan några år tillbaka en resolution till stöd för konventionen och dess tilläggsprotokoll.</P>
+<P class="p35 ft4">Sverige har ratificerat konventionen och protokoll <NOBR>I-IV.</NOBR> Vid den andra översynskonferensen 2001 godkände konventionsparterna en revidering av ramkonventionens artikel 1 syftande till att konventionen även skall vara tillämplig i interna väpnade konflikter. Den 3 december 2003 ratificerade Sverige denna ändring som kommer att träda i kraft den 18 maj 2004 sedan Norge deponerat det erforderliga 20:e ratifikationsinstrumentet.</P>
+<P class="p36 ft1">4 Protokollets innehåll</P>
+<P class="p37 ft4">Protokollet innehåller en ingress, elva artiklar och en teknisk bilaga. Protokollets tyngdpunkt ligger på åtgärder som skall vidtas efter en konflikt i syfte att bl.a. röja explosiva lämningar efter krig och att genom andra åtgärder skydda civila mot de risker dessa lämningar utgör. Bilagan innehåller exempel på åtgärder av frivillig karaktär och kan närmast ses som rekommendationer som parterna i protokollet uppmanas att tillämpa. Nedan redovisas de centrala frågorna för protokollets tillämpning.</P>
+<P class="p38 ft14"><SPAN class="ft4">4.1</SPAN><SPAN class="ft13">Allmänna bestämmelser</SPAN></P>
+<P class="p39 ft6">Ingressen förtydligar att protokollet innehåller både juridiskt bindande och frivilliga åtgärder. De förebyggande åtgärderna som specificeras i artikel 9 och i delar av bilagan är frivilliga till sin karaktär.</P>
+<P class="p29 ft6">I artikel 1 finns allmänna bestämmelser. Vid antagandet av protokollet angav Sverige en nationell förklaring till artikel 1.1. Syftet med en sådan förklaring var att framhålla att hänvisningen till den internationella humanitära rätten i artikel 1.1 omfattar både traktaträtt och sedvanerätt och därmed att viktiga principer på den internationella humanitära rättens område är tillämpliga på alla stater. Förklaringen är alltså en principiell markering i syfte att undvika en urholkning av sedvanerätten.</P>
+<P class="p29 ft6">Protokollet omfattar explosiva lämningar efter krig på landterritorium och inre vatten. Explosiva lämningar efter krig är huvudsakligen ett problem på land men kan efter en väpnad konflikt också förekomma i angränsande områden som hamninlopp, floder och insjöar där det dessutom kan ha förekommit dumpning av ammunition. Genom att göra</P>
+<P class="p40 ft15">protokollet tillämpligt på inre vatten omfattas områden inom de s.k.</P>
+<P class="p41 ft4">6</P>
+</DIV>
+<DIV id="page_7">
+
+
+<P class="p33 ft4">baslinjerna som utgör gränsen mellan en stats inre vatten och det s.k. Prop. 2003/04:72 territorialhavet.</P>
+<P class="p42 ft6">Då ramkonventionens artikel 1 år 2001 utsträckte konventionens tillämplighet även till interna konflikter kunde enighet inte nås om att framtida protokoll också automatiskt skulle ges samma räckvidd. Detta innebär att separata beslut i detta avseende måste tas i samband med antagandet av varje nytt protokoll. I det nya protokollet stadgas därför uttryckligen att det är tillämpligt också i interna konflikter.</P>
+<P class="p35 ft4">Artikel 1.4 förtydligar distinktionen mellan explosiva lämningar efter krig som förekommer redan vid protokollets ikraftträdande och lämningar som tillkommer senare.</P>
+<P class="p43 ft14"><SPAN class="ft4">4.2</SPAN><SPAN class="ft13">Definitioner</SPAN></P>
+<P class="p44 ft6">Enligt artikel 2 är explosiva lämningar efter krig ammunition som inte har exploderat som avsett vid användning i en väpnad konflikt, samt ammunition som inte använts men som lämnats kvar och inte längre kontrolleras av en part i en väpnad konflikt. Definitionen har medvetet givits en vid räckvidd. För att undvika tolkningsproblem görs från det nya protokollets tillämpningsområde undantag för minor, försåt och andra anordningar som redan omfattas av CCW:s reviderade protokoll II.</P>
+<P class="p35 ft4">För att klargöra skiljelinjen mellan redan förekommande och nya explosiva lämningar efter krig har en definition på förekommande explosiva lämningar efter krig inarbetats. För flera stater var detta en nyckelfråga under förhandlingarna. Konkret handlade det om att undvika skadeståndskrav eller andra anspråk till följd av konsekvenser av explosiva lämningar efter krig med ursprung i äldre konflikter. Tillsammans med övriga medlemsstater i EU och de flesta andra stater delade Sverige uppfattningen att protokollet inte kan ges retroaktiv juridiskt bindande verkan.</P>
+<P class="p38 ft14"><SPAN class="ft4">4.3</SPAN><SPAN class="ft13">Röjningsskyldighet och delgivning av uppgifter</SPAN></P>
+<P class="p45 ft4">Artikel 3 om röjning av explosiva lämningar efter krig samt artikel 4 om protokollföring, lagring och delgivning av uppgifter utgör centrala delar i protokollet. Artikel 3.1 fördelar ansvaret för röjning m.m. av explosiva lämningar efter krig mellan å ena sidan den stat på vars territorium lämningarna finns kvar efter ett krig och å andra sidan användaren av ammunitionen i de fall användaren inte längre kontrollerar territoriet. Artikeln slår fast att när en användare av sådan ammunition, som övergått till att vara explosiva lämningar efter krig, inte kontrollerar territoriet är denne användare skyldig att då så är möjligt genom olika former av stöd underlätta röjning m.m. av dessa lämningar. Röjningsskyldigheten modifieras dock något av att uttrycket ”då så är möjligt” infördes i syfte att uppnå konsensus kring denna del av protokollet.</P>
+<P class="p46 ft16">Röjningsskyldigheten skiljer sig ifrån 1997 års Ottawakonvention (förbudet mot truppminor) där åtagandena beträffande röjning begränsas</P>
+<P class="p47 ft4">7</P>
+</DIV>
+<DIV id="page_8">
+
+
+<P class="p33 ft4">till det egna territoriet. I CCW:s reviderade protokoll II (artikel 10.3) Prop. 2003/04:72 finns dock en liknande skyldighet för användaren avseende minor.</P>
+<P class="p42 ft17">En viktig del i åtagandena enligt artikel 3 är att det uttryckligen stadgas i punkt 2 att områden med explosiva lämningar efter krig, som bedöms utgöra allvarliga risker för människor, skall ges prioritet vid röjning och förstörning. Denna paragraf stärker protokollets humanitära syften.</P>
+<P class="p29 ft6">För att effektivt kunna lokalisera och röja explosiva lämningar efter krig krävs att uppgifter om var dessa finns och vad de sannolikt består av lämnas till de aktörer som får i uppgift att genomföra röjning, förstöring, utbildning om risker m.m. Åtagandena om delgivning av uppgifter specificeras i artikel 4. Avvägningar av texten var nödvändiga under förhandlingarnas gång eftersom hänsyn måste tas till vad som är praktiskt genomförbart och möjligt ur ett försvars- och säkerhetspolitiskt perspektiv. Artikeln får anses välbalanserad i dessa avseenden och bör, om den tillämpas fullt ut, underlätta röjning för konventionsparter och internationella organisationer. Exempel på protokollföring, lagring och delgivning av information återfinns i den tekniska bilagan, del 1.</P>
+<P class="p48 ft14"><SPAN class="ft4">4.4</SPAN><SPAN class="ft13">Skydd av civilbefolkningen samt av humanitära delegationer och organisationer</SPAN></P>
+<P class="p44 ft6">Artikel 5 följer artikel 4 i upplägget på så sätt att generella juridiskt bindande åtaganden anges i artikeln medan det i den frivilliga tekniska bilagan (del 2) lämnas exempel på hur åtagandena kan genomföras. Parterna är skyldiga att vidta åtgärder inom territorier som de kontrollerar för att skydda civilbefolkning, enskilda civilpersoner och civila objekt från riskerna för och följderna av explosiva lämningar efter krig. Artikeln anger vidare att, för att kunna avgöra vilka skyddsåtgärder som är möjliga att vidta, bör både humanitära och militära avvägningar göras i enskilda situationer. Exempel på åtgärder är varningsåtgärder, utbildning av civilbefolkningen om risker samt utmärkning, avspärrning och bevakning av områden där explosiva lämningar efter krig förekommer.</P>
+<P class="p28 ft4">Artikel 6 anger att parterna skall skydda humanitära delegationer och organisationer från följderna av explosiva lämningar efter krig. De humanitära delegationer och organisationer som omfattas är de som efter samtycke från en part verkar eller kommer att verka inom områden som kontrolleras av berörd part. På begäran av en humanitär delegation eller organisation skall berörd part, om möjligt, delge uppgifter om var explosiva lämningar efter krig finns.</P>
+<P class="p38 ft14"><SPAN class="ft4">4.5</SPAN><SPAN class="ft13">Redan förekommande explosiva lämningar efter krig</SPAN></P>
+<P class="p49 ft4">Artikel 7 avser explosiva lämningar efter krig som förekom innan protokollet trädde ikraft för respektive konventionspart. Enligt denna artikel ges parter, om så behövs, rätt att begära och ta emot stöd från andra konventionsparter, ickeparter samt från internationella organisationer och institutioner för att lösa problem med redan</P>
+<P class="p40 ft18">förekommande explosiva lämningar efter krig. Parter som har möjlighet</P>
+<P class="p41 ft4">8</P>
+</DIV>
+<DIV id="page_9">
+
+
+<P class="p33 ft4">därtill skall lämna sådant stöd. Gränsdragningen mellan redan Prop. 2003/04:72 förekommande och nya explosiva lämningar efter krig var under hela</P>
+<P class="p50 ft17">förhandlingarna en av de svåraste frågorna att lösa. Vissa länder argumenterade starkt för att ytterligare mjuka upp åtagandena avseende redan förekommande explosiva lämningar efter krig. Samtidigt verkade en annan grupp länder för mycket starkare åtaganden för stater som kan anses vara ansvariga för redan förekommande explosiva lämningar efter krig. Som nämnts under avsnitt 4.2 har det emellertid varit både Sveriges och flertalet andra staters uppfattning att protokollet inte skall kunna ges retroaktiv verkan. Samtidigt är det uppenbart att de problem som idag finns till följd av redan förekommande explosiva lämningar efter krig på något sätt måste hanteras i protokollet. Skrivningen i artikel 7 får anses utgöra en väl avvägd kompromiss som omfattar rätten att söka stöd, uppmanar parter som kan lämna stöd att göra så men samtidigt överlåter till parterna att avgöra om de har möjlighet till det.</P>
+<P class="p51 ft14"><SPAN class="ft4">4.6</SPAN><SPAN class="ft19">Internationellt samarbete</SPAN></P>
+<P class="p49 ft4">Artikel 8 innehåller uppmaningar till parterna att lämna stöd till insatser för röjning, utbildning om riskerna m.m. av explosiva lämningar efter krig. Den innehåller också regleringar om stöd till vård, rehabilitering samt ekonomisk och social återanpassning av offer för explosiva lämningar efter krig. Stöd kan bl.a. lämnas via <NOBR>FN-systemet,</NOBR> Internationella rödakorskommittén, nationella rödakors- och röda halvmåneorganisationerna, Internationella rödakorsfederationen, enskilda organisationer eller bilateralt.</P>
+<P class="p46 ft6">Artikel 8 slår också fast att parterna har rätt att delta i utbyte av information om utrustning, teknik m.m. som är nödvändig för att tillämpa protokollet. Detta gäller dock inte vapenrelaterad teknik. Parterna åtar sig vidare att lämna information om bl.a. röjningsteknologi till <NOBR>FN-systemets</NOBR> databaser om minhantering. Framställningar från parterna om stöd kan kanaliseras via <NOBR>FN-systemet</NOBR> som kan bedöma situationen och lämna rekommendationer om lämplig form av stöd.</P>
+<P class="p35 ft4">Strukturen och innehållet i artikel 8 är till stora delar hämtad från Ottawakonventionens (1997) motsvarande bestämmelser om stöd för minröjning, personer som skadats av minor m.m. Även detta är en artikel som stärker protokollets humanitära syften.</P>
+<P class="p43 ft14"><SPAN class="ft4">4.7</SPAN><SPAN class="ft13">Allmänna förebyggande åtgärder</SPAN></P>
+<P class="p45 ft4">Artikel 9 och bilagans del 3 behandlar förebyggande åtgärder<SPAN class="ft5">. </SPAN>Artikeln uppmanar parterna att vidta allmänna förebyggande åtgärder i syfte att minimera förekomsten av explosiva lämningar efter krig. I bilagan, vars innehåll är av frivillig karaktär, rekommenderas parterna att vidta en rad åtgärder i förebyggande syfte som avser bl.a. tillverkning och förvaring av ammunition.</P>
+<P class="p52 ft4">9</P>
+</DIV>
+<DIV id="page_10">
+
+
+<TABLE cellpadding=0 cellspacing=0 class="t6">
+<TR>
+	<TD class="tr9 td24"><SPAN class="p53 ft4">4.8</SPAN> </TD>
+	<TD class="tr9 td25"><SPAN class="p54 ft20">Konsultationer mellan konventionsparter och</SPAN> </TD>
+	<TD class="tr9 td26"><SPAN class="p3 ft7">Prop. 2003/04:72</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr1 td24"><SPAN class="p3 ft3">&nbsp;</SPAN> </TD>
+	<TD class="tr1 td25"><SPAN class="p54 ft14">efterlevnad</SPAN> </TD>
+	<TD class="tr1 td26"><SPAN class="p3 ft3">&nbsp;</SPAN> </TD>
+</TR>
+</TABLE>
+<P class="p39 ft6">Enligt artikel 10 kan en partskonferens sammankallas för samråd om alla frågor gällande protokollets tillämpning. För detta krävs samtycke av en majoritet, dock minst arton av parterna. En partskonferens skall se över protokollets rättsliga status och tillämpning, behandla frågor rörande nationellt genomförande av protokollet, inklusive rapporteringskrav samt förbereda översynskonferenser.</P>
+<P class="p29 ft4">Enligt artikel 11 skall varje part tillse att dess försvarsmakt och berörda myndigheter och organ utfärdar lämpliga instruktioner samt att försvarsmaktens personal får genomgå utbildning som är förenlig med bestämmelserna i protokollet. Parterna åtar sig vidare att samråda och samarbeta bilateralt, genom FN:s generalsekreterare eller andra internationella förfarande, för att lösa problem som kan uppkomma i fråga om tolkningen och tillämpningen av protokollet.</P>
+<P class="p28 ft4">Reglerna om konsultationer och efterlevnad är i viss utsträckning hämtade från CCW:s reviderade protokoll II, som bl.a. föreskriver årliga möten. I det nya protokollet anges dock inte hur ofta partskonferenser skall hållas.</P>
+<P class="p43 ft14"><SPAN class="ft4">4.9</SPAN><SPAN class="ft13">Den tekniska bilagan</SPAN></P>
+<P class="p49 ft4">Det är frivilligt att tillämpa den tekniska bilagan. Den skall ge parterna vägledning om hur de kan gå till väga för att genomföra åtagandena i protokollets artiklar 4, 5 och 9. Bilagan innehåller därför exempel på hur protokollföring, lagring och delgivning av information kan göras (del 1) och beskriver hur varningsåtgärder och utbildning av civilbefolkningen om risker kan genomföras (del 2). Vidare innehåller bilagan rekommendationer om hur parterna kan förebygga uppkomsten av explosiva lämningar efter krig (del 3).</P>
+<P class="p55 ft4">10</P>
+</DIV>
+<DIV id="page_11">
+<DIV id="dimg1">
+<INGENBILD zsrc="GR037211x1.jpg/" id="img1">
+</DIV>
+
+
+<P class="p22 ft4">Prop. 2003/04:72</P>
+<P class="p56 ft1">5 Protokollet och svenska förhållanden</P>
+<P class="p57 ft4">Regeringens bedömning: Det behövs ingen ny lagstiftning för att Sverige skall kunna uppfylla sina åtaganden enligt det femte protokollet till konventionen om förbud mot eller inskränkningar i användningen av vissa konventionella vapen som kan anses vara ytterst skadebringande eller ha urskillningslösa verkningar.</P>
+<P class="p58 ft4">Skälen för regeringens bedömning: Sverige uppfyller de krav protokollet ställer upp. Någon ny lagstiftning krävs således inte.</P>
+<P class="p34 ft4">De myndigheter som främst berörs torde vara Försvarsmakten och Försvarets materielverk.</P>
+<P class="p34 ft4">Tillämpningen av protokollet bör inte påverka svenska försvars- och säkerhetspolitiska intressen negativt. De avvägningar som gjorts i protokollet mellan å ena sidan staternas legitima försvars- och säkerhetsintressen och å andra sidan målsättningarna att minimera lidande för civilbefolkningen är väl avvägda.</P>
+<P class="p29 ft17">Inte heller de åtaganden beträffande nationell rapportering som följer av artikel 11 är av sådan art att de påverkar nationella säkerhetsintressen.</P>
+<P class="p26 ft1">6 Godkännande av protokollet</P>
+<P class="p59 ft6">Regeringens förslag: Riksdagen godkänner det femte protokollet av den 28 november 2003 till konventionen om förbud mot eller inskränkningar i användningen av vissa konventionella vapen som kan anses vara ytterst skadebringande eller ha urskillningslösa verkningar.</P>
+<P class="p60 ft4">Skälen till regeringens förslag:</P>
+<P class="p5 ft5">Humanitära aspekter</P>
+<P class="p42 ft4">Konsekvenserna av explosiva lämningar efter krig är så allvarliga att en internationell reglering behövs. Enligt uppskattningar från enskilda organisationer är mer än åttio länder drabbade av explosiva lämningar efter krig. Under 2001 rapporterades olyckor till följd av oexploderad och kvarlämnad ammunition från över femtio länder. I flera länder, t.ex. Laos, utgör dessa lämningar ett större problem än minor. Behovet av internationellt stöd till ammunitionsröjning och till vård och rehabilitering av de som drabbats av skador är därför stort.</P>
+<P class="p61 ft5">Avsaknaden av reglering</P>
+<P class="p42 ft6">Medan truppminor varit reglerade eller förbjudna under en lång period har oexploderad och kvarlämnad ammunition hittills inte reglerats i internationella avtal trots att konsekvenserna i hög utsträckning är liknande. Protokollet om explosiva lämningar efter krig fyller därför en</P>
+<P class="p62 ft4">11</P>
+</DIV>
+<DIV id="page_12">
+
+
+<P class="p33 ft4">viktig lucka i det internationella regelsystemet. I Ottawakonventionen Prop. 2003/04:72 uppmanas parterna att lämna stöd till vård och rehabilitering av minoffer.</P>
+<P class="p50 ft6">Med det nya femte protokollet till CCW skapas motsvarande regler för att bistå personer som skadats till följd av oexploderad och kvarlämnad ammunition. Resultatet är att oavsett av vilket vapen personer skadas skall parterna så långt det är möjligt lämna stöd. Detsamma gäller avseende röjning av minor respektive explosiva lämningar efter krig, även om villkoren skiljer sig åt. Under förutsättning att protokollets bestämmelser följs är det regeringens bedömning att antalet drabbade personer av explosiva lämningar efter krig i framtiden kommer att minska och att möjligheterna att bistå dem som ändå drabbas ökar.</P>
+<P class="p35 ft4">Enligt <NOBR>CCW-konventionen</NOBR> träder varje nytt protokoll i kraft sex månader efter att 20 stater har anslutit sig till protokollet. Det är av stor vikt att det nya protokollet träder i kraft så snart som möjligt.</P>
+<P class="p63 ft5">I linje med svensk politik</P>
+<P class="p42 ft6">Den svenska politiken beträffande minhantering omfattar redan idag oexploderad ammunition, vilket bl.a. framgår av regeringens samlade syn på minhantering från 2002. Detta gäller såväl finansiellt stöd till röjningsinsatser som utbildning av ammunitions- och minröjare. Det gäller även synen på skadade personers rättigheter till vård och rehabilitering. Att i ett nytt internationellt avtal också reglera explosiva lämningar efter krig ligger därför väl i linje med gällande svensk politik på området. Det nya protokollet innebär också en välkommen komplettering av den internationella humanitära rättens regler.</P>
+<P class="p61 ft5">Svenskt fortsatt engagemang</P>
+<P class="p42 ft6">Sedan problemen med explosiva lämningar efter krig uppmärksammades av Internationella rödakorskommittén har Sverige aktivt verkat för en stark och juridiskt bindande reglering. Det protokoll som CCW:s parter antog i november 2003 kommer inte att lösa alla problem med explosiva lämningar efter krig men det är ett viktigt erkännande av staters ansvar för att göra något åt de allvarliga hot mot civilbefolkningen som lämningarna utgör. I detta första skede regleras främst vilka åtgärder som skall vidtas efter en väpnad konflikt. Samtidigt är förebyggande åtgärder väsentliga för att i framtiden kunna minska mängden oexploderad ammunition och därigenom minimera riskerna för civilbefolkningen. Ett led i dessa ansträngningar är att öka kvaliteten på och tillförlitligheten hos de vapen och ammunitionstyper, inklusive klusterammunition (substridsdelar), som används så att förekomsten av explosiva lämningar efter krig minskar. Det är därför angeläget att arbetet inom CCW med förebyggande åtgärder fortsätter. Sverige avser att delta i detta fortsatta arbete som också omfattar överväganden om att stärka möjligheterna till övervakning av den internationella humanitära rättens tillämpning på berörda områden.</P>
+<P class="p29 ft8">Sammantaget är det regeringens uppfattning att Sverige bör ansluta sig till protokollet. Eftersom protokollet enligt regeringens bedömning utgör en överenskommelse av större vikt skall det enligt 10 kap. 2 § regeringsformen underställas riksdagen för godkännande.</P>
+<P class="p64 ft4">12</P>
+</DIV>
+<DIV id="page_13">
+
+
+<DIV>
+<DIV id="id_1">
+<P class="p65 ft1">Bilaga 1 Konventionstext svenska</P>
+<P class="p66 ft8">Protokoll om explosiva lämningar efter krig</P>
+<P class="p67 ft8">De höga fördragsslutande parterna,</P>
+<P class="p68 ft21">som erkänner de allvarliga problem som explosiva lämningar efter krig förorsakar människor efter en konflikt,</P>
+<P class="p69 ft22">som är medvetna om nödvändigheten av att sluta ett protokoll om allmänna åtgärder att vidta efter en konflikt för att minimera riskerna med och följderna av explosiva lämningar efter krig, och</P>
+<P class="p70 ft22">som är beredda att vidta allmänna förebyggande åtgärder genom frivillig tillämpning av bästa praxis som anges i en teknisk bilaga med sikte på att öka ammunitionens tillförlitlighet och därigenom minska förekomsten av explosiva lämningar efter krig,</P>
+<P class="p71 ft8">har kommit överens om följande.</P>
+<P class="p67 ft8">Artikel 1 Allmänna bestämmelser och tillämpningsområde</P>
+<P class="p72 ft24"><SPAN class="ft7">1.</SPAN><SPAN class="ft23">De höga fördragsslutande parterna är överens om att, i enlighet med Förenta nationernas stadga och den humanitära rätten i väpnade konflikter som de är bundna av, följa åtagandena i detta protokoll, såväl enskilt som i samarbete med andra höga fördragsslutande parter, för att i största möjliga utsträckning minimera riskerna med och följderna av explosiva lämningar efter krig efter en konflikt.</SPAN></P>
+<P class="p73 ft26"><SPAN class="ft7">2.</SPAN><SPAN class="ft25">Detta protokoll skall tillämpas på explosiva lämningar efter krig inom de höga fördragsslutande parternas landterritorium och inre vatten.</SPAN></P>
+<P class="p74 ft22"><SPAN class="ft7">3.</SPAN><SPAN class="ft27">Detta protokoll skall tillämpas på situationer som har uppkommit till följd av konflikter som avses i artikel 1.1 – 1.6 i konventionen i dess ändrade lydelse av den 21 december 2001.</SPAN></P>
+</DIV>
+<DIV id="id_2">
+<P class="p65 ft4">Prop. 2003/04:72</P>
+<P class="p75 ft4">13</P>
+</DIV>
+</DIV>
+</DIV>
+<DIV id="page_14">
+
+
+<P class="p22 ft4">Prop. 2003/04:72</P>
+<P class="p76 ft22">4. Artiklarna 3, 4, 5 och 8 i detta protokoll skall tillämpas på andra explosiva lämningar efter krig än redan förekommande sådana lämningar som definieras i artikel 2.5 i detta protokoll.</P>
+<P class="p77 ft8">Artikel 2 Definitioner</P>
+<P class="p78 ft8">För de syften som avses i detta protokoll gäller följande definitioner:</P>
+<P class="p79 ft24"><SPAN class="ft7">1.</SPAN><SPAN class="ft28">explosiv ammunition</SPAN>: konventionell ammunition som innehåller explosiva ämnen med undantag för minor, försåt och andra anordningar enligt definitionerna i protokoll II till konventionen enligt dess ändrade lydelse av den 3 maj 1996.</P>
+<P class="p80 ft30"><SPAN class="ft7">2.</SPAN><SPAN class="ft29">oexploderad ammunition</SPAN>: explosiv ammunition som har armerats, apterats eller på annat sätt förberetts för användning och har använts i väpnad konflikt. Ammunitionen kan ha avlossats, fällts, utskjutits eller utkastats och borde ha exploderat, men har inte gjort det.</P>
+<P class="p81 ft24"><SPAN class="ft7">3.</SPAN><SPAN class="ft28">kvarlämnad explosiv ammunition</SPAN>: explosiv ammunition som inte har använts i väpnad konflikt och har kvarlämnats eller dumpats av en part i en väpnad konflikt och inte längre kontrolleras av denna part. Kvarlämnad explosiv ammunition kan ha armerats, apterats eller på annat sätt förberetts för användning.</P>
+<P class="p82 ft26"><SPAN class="ft7">4.</SPAN><SPAN class="ft31">explosiva lämningar efter krig</SPAN>: oexploderad ammunition och kvarlämnad explosiv ammunition.</P>
+<P class="p83 ft32"><SPAN class="ft7">5.</SPAN><SPAN class="ft28">redan förekommande explosiva lämningar efter krig</SPAN><SPAN class="ft24">: oexploderad ammunition och kvarlämnad explosiv ammunition som förekom innan detta protokoll trädde i kraft för den höga fördragsslutande part inom vars territorium de finns.</SPAN></P>
+<P class="p84 ft4">14</P>
+</DIV>
+<DIV id="page_15">
+
+
+<TABLE cellpadding=0 cellspacing=0 class="t7">
+<TR>
+	<TD class="tr4 td27"><SPAN class="p3 ft8">Artikel 3 Röjning, bortforsling och förstöring av explosiva lämningar</SPAN> </TD>
+	<TD class="tr4 td26"><SPAN class="p3 ft7">Prop. 2003/04:72</SPAN> </TD>
+</TR>
+</TABLE>
+<P class="p85 ft8">efter krig</P>
+<P class="p86 ft30"><SPAN class="ft7">1.</SPAN><SPAN class="ft33">Varje hög fördragsslutande part och part i en väpnad konflikt skall åta sig det ansvar som anges i denna artikel för alla explosiva lämningar efter krig i områden som parten kontrollerar. I de fall en användare av sådan explosiv ammunition som har övergått till att vara explosiva lämningar efter krig inte kontrollerar området, skall denna användare, när de aktiva fientligheterna har upphört, då så är möjligt, tillhandahålla bl.a. tekniskt, ekonomiskt eller materiellt stöd eller ställa personal till förfogande, antingen bilateralt eller genom en överenskommen tredje part, bl.a. genom </SPAN><NOBR>FN-systemet,</NOBR> eller andra berörda organisationer, för att underlätta utmärkning och röjning samt bortforsling eller förstöring av sådana explosiva lämningar efter krig.</P>
+<P class="p87 ft24"><SPAN class="ft7">2.</SPAN><SPAN class="ft23">När de aktiva fientligheterna har upphört och så snart som möjligt, skall varje hög fördragsslutande part och part i en väpnad konflikt utmärka och röja samt bortforsla eller förstöra explosiva lämningar efter krig i drabbade områden som står under dess kontroll. Områden där det förekommer explosiva lämningar efter krig som enligt punkt 3 i denna artikel bedöms utgöra allvarliga risker för människor skall ges prioritet med avseende på röjning, bortforsling och förstöring.</SPAN></P>
+<P class="p88 ft22"><SPAN class="ft7">3.</SPAN><SPAN class="ft27">När de aktiva fientligheterna har upphört och så snart som möjligt, skall varje hög fördragsslutande part och part i en väpnad konflikt vidta följande åtgärder i drabbade områden som står under dess kontroll för att minska de risker som förorsakas av explosiva lämningar efter krig:</SPAN></P>
+<P class="p89 ft8"><SPAN class="ft34">a)</SPAN><SPAN class="ft35">Kartlägga och bedöma den fara som explosiva lämningar efter krig utgör.</SPAN></P>
+<P class="p90 ft21"><SPAN class="ft7">b)</SPAN><SPAN class="ft36">Bedöma och prioritera behovet av och möjligheten att utföra utmärkning och röjning samt bortforsling eller förstöring.</SPAN></P>
+<P class="p91 ft21"><SPAN class="ft37">c)</SPAN><SPAN class="ft36">Utmärka och röja samt bortforsla eller förstöra explosiva lämningar efter krig.</SPAN></P>
+<P class="p92 ft4">15</P>
+</DIV>
+<DIV id="page_16">
+
+
+<TABLE cellpadding=0 cellspacing=0 class="t8">
+<TR>
+	<TD class="tr9 td27"><SPAN class="p3 ft8">d) Vidta åtgärder för att mobilisera resurser för att genomföra dessa</SPAN> </TD>
+	<TD class="tr9 td26"><SPAN class="p3 ft7">Prop. 2003/04:72</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr8 td27"><SPAN class="p3 ft8">verksamheter.</SPAN> </TD>
+	<TD class="tr8 td26"><SPAN class="p3 ft3">&nbsp;</SPAN> </TD>
+</TR>
+</TABLE>
+<P class="p93 ft38">4. När de utför de ovannämnda verksamheterna, skall de höga fördragsslutande parterna och parterna i en väpnad konflikt beakta internationella normer, bl.a. de internationella normerna om minröjning</P>
+<P class="p94 ft39">(International Mine Action Standards, IMAS).</P>
+<P class="p95 ft24">5. I förekommande fall skall de höga fördragsslutande parterna samarbeta, både med varandra och med andra stater, samt med berörda regionala och internationella organisationer och enskilda organisationer i fråga om att tillhandahålla bl.a. tekniska, ekonomiska och materiella resurser samt personal, och, om omständigheterna så medger, genomföra sådana gemensamma insatser som är nödvändiga för att uppfylla bestämmelserna i denna artikel.</P>
+<P class="p6 ft8">Artikel 4 Protokollföring, lagring och delgivning av uppgifter</P>
+<P class="p96 ft24"><SPAN class="ft7">1.</SPAN><SPAN class="ft23">De höga fördragsslutande parterna och parterna i en väpnad konflikt skall i största möjliga utsträckning och så långt som möjligt protokollföra och lagra uppgifter om användning och kvarlämnande av explosiv ammunition för att underlätta snabb utmärkning och röjning samt bortforsling eller förstöring av explosiva lämningar efter krig, utbildning om riskerna samt delgivning av relevanta uppgifter till den part som kontrollerar ett drabbat område och till civilbefolkningen där.</SPAN></P>
+<P class="p97 ft30"><SPAN class="ft7">2.</SPAN><SPAN class="ft33">De höga fördragsslutande parterna och parterna i en väpnad konflikt som har använt eller kvarlämnat explosiv ammunition som kan ha övergått till att vara explosiva lämningar efter krig skall utan fördröjning, när de aktiva fientligheterna har upphört och så långt som möjligt med förbehåll för sina legitima säkerhetsintressen, ställa sådana uppgifter till den eller de parters förfogande som kontrollerar området i fråga; detta kan göras bilateralt eller via en överenskommen tredje part, exempelvis via </SPAN><NOBR>FN-systemet</NOBR> eller, på begäran, via någon annan berörd organisation som den part som lämnar uppgifterna har förvissat sig om genomför eller kommer att genomföra</P>
+<P class="p98 ft4">16</P>
+</DIV>
+<DIV id="page_17">
+
+
+<TABLE cellpadding=0 cellspacing=0 class="t8">
+<TR>
+	<TD class="tr9 td27"><SPAN class="p3 ft8">utbildning om risker och utmärkning och röjning samt bortforsling eller</SPAN> </TD>
+	<TD class="tr9 td26"><SPAN class="p3 ft7">Prop. 2003/04:72</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr8 td27"><SPAN class="p3 ft8">förstöring av explosiva lämningar efter krig i det drabbade området.</SPAN> </TD>
+	<TD class="tr8 td26"><SPAN class="p3 ft3">&nbsp;</SPAN> </TD>
+</TR>
+</TABLE>
+<P class="p99 ft40">3. Vid protokollföring, lagring och delgivning av sådana uppgifter bör de höga fördragsslutande parterna beakta del 1 i den tekniska bilagan.</P>
+<P class="p100 ft22">Artikel 5 Andra försiktighetsåtgärder, för skydd av civilbefolkningen, enskilda civilpersoner och civila föremål mot riskerna för och följderna av explosiva lämningar efter krig</P>
+<P class="p101 ft24">1. De höga fördragsslutande parterna och parterna i en väpnad konflikt skall vidta alla möjliga försiktighetsåtgärder inom territorier de kontrollerar där det förekommer explosiva lämningar efter krig för att skydda civilbefolkningen, enskilda civilpersoner och civila föremål mot riskerna för och följderna av explosiva lämningar efter krig. Med möjliga försiktighetsåtgärder avses försiktighetsåtgärder som är genomförbara eller praktiskt möjliga med hänsyn till alla vid tillfället rådande förhållanden, däribland humanitära och militära överväganden. Dessa försiktighetsåtgärder kan innefatta varningsåtgärder, utbildning av civilbefolkningen om risker, utmärkning, avspärrning samt bevakning av områden där det finns explosiva lämningar efter krig enligt del 2 i den tekniska bilagan.</P>
+<P class="p102 ft26">Artikel 6 Skydd av humanitära delegationer och organisationer mot följder av explosiva lämningar efter krig</P>
+<P class="p78 ft8">1. Varje hög fördragsslutande part och part i en väpnad konflikt skall</P>
+<P class="p103 ft38"><SPAN class="ft34">a)</SPAN><SPAN class="ft41">i görligaste mån skydda humanitära delegationer och organisationer som verkar eller kommer att verka inom områden som står under dess kontroll och med dess samtycke mot följderna av explosiva lämningar efter krig, och</SPAN></P>
+<P class="p104 ft40"><SPAN class="ft7">b)</SPAN><SPAN class="ft42">på begäran av en sådan humanitär delegation eller organisation, i görligaste mån, lämna uppgifter om lokalisering av alla explosiva lämningar</SPAN></P>
+<P class="p105 ft4">17</P>
+</DIV>
+<DIV id="page_18">
+
+
+<TABLE cellpadding=0 cellspacing=0 class="t7">
+<TR>
+	<TD class="tr9 td27"><SPAN class="p3 ft7">efter krig som den känner till inom områden där den begärande humanitära</SPAN> </TD>
+	<TD class="tr9 td26"><SPAN class="p3 ft7">Prop. 2003/04:72</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr8 td27"><SPAN class="p3 ft8">delegationen eller organisationen verkar eller kommer att verka.</SPAN> </TD>
+	<TD class="tr8 td26"><SPAN class="p3 ft3">&nbsp;</SPAN> </TD>
+</TR>
+</TABLE>
+<P class="p106 ft22">2. Bestämmelserna i denna artikel skall inte inkräkta på gällande internationell humanitär rätt eller andra tillämpliga internationella instrument eller beslut av Förenta nationernas säkerhetsråd som innebär en högre skyddsnivå.</P>
+<P class="p107 ft26">Artikel 7 Stöd avseende redan förekommande explosiva lämningar efter krig</P>
+<P class="p108 ft44"><SPAN class="ft7">1.</SPAN><SPAN class="ft43">Varje hög fördragsslutande part har rätt att, om så behövs, begära och ta emot stöd från andra höga fördragsslutande parter, utanförstående stater och berörda internationella organisationer och institutioner för att lösa problem förorsakade av redan förekommande explosiva lämningar efter krig.</SPAN></P>
+<P class="p109 ft24"><SPAN class="ft7">2.</SPAN><SPAN class="ft23">Varje hög fördragsslutande part som har möjlighet till det skall tillhandahålla stöd för att lösa problem förorsakade av redan förekommande explosiva lämningar efter krig i den mån det är nödvändigt och görligt. Parterna skall då även beakta de humanitära syftena med detta protokoll samt de internationella normerna, bl.a. </SPAN><SPAN class="ft32">International Mine Action Standards, IMAS</SPAN>.</P>
+<P class="p110 ft8">Artikel 8 Samarbete och stöd</P>
+<P class="p111 ft30">1. Varje hög fördragsslutande part som har möjlighet till det skall tillhandahålla stöd till utmärkning och röjning samt bortforsling eller förstöring av explosiva lämningar efter krig och till utbildning av civilbefolkningen om risker och relaterade verksamheter; detta kan ske bl.a. genom <NOBR>FN-systemet,</NOBR> andra berörda internationella, regionala och nationella organisationer och institutioner, Internationella rödakorskommittén, nationella rödakors- och rödahalvmåneföreningar och deras internationella federation, enskilda organisationer eller bilateralt.</P>
+<P class="p112 ft4">18</P>
+</DIV>
+<DIV id="page_19">
+
+
+<TABLE cellpadding=0 cellspacing=0 class="t8">
+<TR>
+	<TD class="tr9 td27"><SPAN class="p3 ft8">2. Varje hög fördragsslutande part som har möjlighet till det skall</SPAN> </TD>
+	<TD class="tr9 td26"><SPAN class="p3 ft7">Prop. 2003/04:72</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr7 td27"><SPAN class="p3 ft8">tillhandahålla stöd för vård, rehabilitering och social och ekonomisk</SPAN> </TD>
+	<TD class="tr7 td26"><SPAN class="p3 ft3">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr1 td27"><SPAN class="p3 ft7">återanpassning av offer för explosiva lämningar efter krig. Sådant stöd kan</SPAN> </TD>
+	<TD class="tr1 td26"><SPAN class="p3 ft3">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr8 td27"><SPAN class="p3 ft45">bl.a. lämnas via <NOBR>FN-systemet,</NOBR> andra berörda internationella, regionala och</SPAN> </TD>
+	<TD class="tr8 td26"><SPAN class="p3 ft3">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr8 td27"><SPAN class="p3 ft8">nationella organisationer eller institutioner, Internationella</SPAN> </TD>
+	<TD class="tr8 td26"><SPAN class="p3 ft3">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr1 td27"><SPAN class="p3 ft7">rödakorskommittén, nationella rödakors- och röda halvmåneföreningar och</SPAN> </TD>
+	<TD class="tr1 td26"><SPAN class="p3 ft3">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr0 td27"><SPAN class="p3 ft8">deras internationella federation, enskilda organisationer eller bilateralt.</SPAN> </TD>
+	<TD class="tr0 td26"><SPAN class="p3 ft3">&nbsp;</SPAN> </TD>
+</TR>
+</TABLE>
+<P class="p113 ft38"><SPAN class="ft7">3.</SPAN><SPAN class="ft41">Varje hög fördragsslutande part som har möjlighet till det skall lämna bidrag till fonder inom </SPAN><NOBR>FN-systemet</NOBR> och till andra berörda fonder för att underlätta tillhandahållande av stöd enligt detta protokoll.</P>
+<P class="p114 ft24"><SPAN class="ft7">4.</SPAN><SPAN class="ft23">Varje hög fördragsslutande part skall ha rätt att delta i ett så omfattande utbyte som möjligt av utrustning, material samt vetenskaplig och teknologisk information, utom information beträffande vapenrelaterad teknologi, som behövs för tillämpningen av detta protokoll. Varje hög fördragsslutande part åtar sig att underlätta sådant utbyte i enlighet med sina nationella lagar och skall inte införa oberättigade inskränkningar i tillhandahållandet av röjningsutrustning och därtill relaterad teknologisk information för humanitära syften.</SPAN></P>
+<P class="p115 ft24"><SPAN class="ft7">5.</SPAN><SPAN class="ft23">Varje hög fördragsslutande part åtar sig att lämna uppgifter till de mindatabaser som har upprättats för detta ändamål inom </SPAN><NOBR>FN-systemet,</NOBR> särskilt information om metoder och teknologier för röjning av explosiva lämningar efter krig, förteckningar över sakkunniga, specialiserade organ och nationella centra för röjning av explosiva lämningar efter krig samt, på frivillig väg, teknisk information om de typer av explosiv ammunition som avses.</P>
+<P class="p116 ft30"><SPAN class="ft7">6.</SPAN><SPAN class="ft33">De höga fördragsslutande parterna får begära stöd som grundas i relevant information av Förenta nationerna, andra berörda organ eller andra stater. Framställningarna kan riktas till Förenta nationernas generalsekreterare, som skall meddela alla de höga fördragsslutande parterna samt berörda internationella organisationer och enskilda organisationer.</SPAN></P>
+<P class="p117 ft4">19</P>
+</DIV>
+<DIV id="page_20">
+
+
+<DIV>
+<DIV id="id_1">
+<P class="p118 ft30">7. Vid framställningar till Förenta nationerna får dess generalsekreterare, inom ramen för tillgängliga resurser, vidta lämpliga åtgärder för att bedöma situationen och, i samarbete med den begärande parten och andra parter som har ansvar enligt vad som anges i artikel 3, rekommendera lämplig form för tillhandahållande av stöd. Generalsekreteraren får också rapportera till de höga fördragsslutande parterna om en sådan bedömning liksom om typen och omfattningen av det stöd som behövs, inklusive möjliga bidrag från fonder inom <NOBR>FN-systemet.</NOBR></P>
+<P class="p119 ft8">Artikel 9 Allmänna förebyggande åtgärder</P>
+<P class="p120 ft44"><SPAN class="ft7">1.</SPAN><SPAN class="ft43">Varje hög fördragsslutande part uppmuntras att, med hänsyn till vars och ens olika läge och förmåga, vidta allmänna förebyggande åtgärder i syfte att minimera förekomsten av explosiva lämningar efter krig, innefattande, men inte begränsat till, de åtgärder som avses i del 3 i den tekniska bilagan.</SPAN></P>
+<P class="p121 ft22"><SPAN class="ft7">2.</SPAN><SPAN class="ft27">Varje hög fördragsslutande part får frivilligt utbyta information om strävanden att främja och upprätta bästa praxis i fråga om åtgärder som avses i punkt 1 i denna artikel.</SPAN></P>
+<P class="p66 ft8">Artikel 10 Konsultationer mellan de höga fördragsslutande parterna</P>
+<P class="p122 ft44"><SPAN class="ft7">1.</SPAN><SPAN class="ft43">De höga fördragsslutande parterna förbinder sig att samråda och samarbeta om alla frågor som gäller detta protokollstillämpning. I detta syfte skall en konferens hållas mellan de höga fördragsslutande parterna efter beslut av en majoritet av dem, dock minst arton parter.</SPAN></P>
+<P class="p123 ft8"><SPAN class="ft7">2.</SPAN><SPAN class="ft35">Konferensen skall bl.a.</SPAN></P>
+<P class="p124 ft8"><SPAN class="ft34">a)</SPAN><SPAN class="ft35">göra en översyn av detta protokolls rättsliga status och tillämpning,</SPAN></P>
+<P class="p125 ft40"><SPAN class="ft7">b)</SPAN><SPAN class="ft42">behandla frågor som rör nationell tillämpning av detta protokoll, innefattande årlig nationell rapportering eller uppdatering,</SPAN></P>
+<P class="p124 ft8"><SPAN class="ft37">c)</SPAN><SPAN class="ft35">förbereda översynskonferenser.</SPAN></P>
+</DIV>
+<DIV id="id_2">
+<P class="p65 ft4">Prop. 2003/04:72</P>
+<P class="p75 ft4">20</P>
+</DIV>
+</DIV>
+</DIV>
+<DIV id="page_21">
+
+
+<P class="p22 ft4">Prop. 2003/04:72</P>
+<P class="p126 ft46">3. Kostnaderna för konferensen skall fördelas mellan de höga fördragsslutande parterna och utanförstående stater som deltar i konferensen enligt Förenta nationernas bidragsskala efter vederbörlig justering.</P>
+<P class="p127 ft8">Artikel 11 Efterlevnad</P>
+<P class="p128 ft22"><SPAN class="ft7">1.</SPAN><SPAN class="ft27">Varje hög fördragsslutande part skall tillse att dess försvarsmakt och berörda myndigheter och organ utfärdar lämpliga instruktioner och bestämmelser och att försvarsmaktens personal får genomgå utbildning som är förenlig med bestämmelserna i detta protokoll.</SPAN></P>
+<P class="p129 ft24"><SPAN class="ft7">2.</SPAN><SPAN class="ft23">De höga fördragsslutande parterna åtar sig att samråda och samarbeta bilateralt, genom Förenta nationernas generalsekreterare eller genom andra tillämpliga internationella förfaranden för att lösa problem som kan uppkomma i fråga om tolkningen eller tillämpningen av bestämmelserna i detta protokoll.</SPAN></P>
+<P class="p130 ft4">21</P>
+</DIV>
+<DIV id="page_22">
+
+
+<TABLE cellpadding=0 cellspacing=0 class="t7">
+<TR>
+	<TD class="tr4 td27"><SPAN class="p3 ft8">Teknisk bilaga</SPAN> </TD>
+	<TD class="tr4 td26"><SPAN class="p3 ft7">Prop. 2003/04:72</SPAN> </TD>
+</TR>
+</TABLE>
+<P class="p131 ft44">Denna tekniska bilaga innehåller förslag till bästa praxis för att uppnå syftena med artiklarna 4, 5 och 9 i protokollet. Tillämpningen av denna tekniska bilaga är frivillig för de höga fördragsslutande parterna.</P>
+<P class="p132 ft26">1. Protokollföring, lagring och delgivning av uppgifter om oexploderad ammunition (UXO) och kvarlämnad explosiv ammunition (AXO)</P>
+<P class="p133 ft22">a) <SPAN class="ft32">Protokollföring av uppgifter. </SPAN>Staterna bör sträva efter att protokollföra följande uppgifter om explosiv ammunition som kan ha övergått till att vara UXO så exakt som möjligt:</P>
+<P class="p134 ft8"><SPAN class="ft8">i)</SPAN><SPAN class="ft35">Lokalisering av målområden för explosiv ammunition.</SPAN></P>
+<P class="p135 ft21"><SPAN class="ft8">ii)</SPAN><SPAN class="ft36">Ungefärlig mängd explosiv ammunition som använts i områden enligt i ovan.</SPAN></P>
+<P class="p136 ft21"><SPAN class="ft8">iii)</SPAN><SPAN class="ft47">Typ och slag av explosiv ammunition som använts i områden enligt i ovan.</SPAN></P>
+<P class="p137 ft8"><SPAN class="ft8">iv)</SPAN><SPAN class="ft35">Allmän lokalisering av känd och trolig UXO.</SPAN></P>
+<P class="p138 ft48">När en stat har nödgats kvarlämna explosiv ammunition under pågående operationer, bör den sträva efter att lämna denna AXO på ett säkert sätt och protokollföra uppgifter om den enligt följande:</P>
+<P class="p137 ft8"><SPAN class="ft8">v)</SPAN><SPAN class="ft35">Platsen för AXO.</SPAN></P>
+<P class="p134 ft8"><SPAN class="ft8">vi)</SPAN><SPAN class="ft35">Ungefärlig mängd AXO på varje särskilt angiven plats.</SPAN></P>
+<P class="p134 ft8"><SPAN class="ft8">vii)</SPAN><SPAN class="ft35">Typer av AXO på varje särskilt angiven plats.</SPAN></P>
+<P class="p139 ft4">22</P>
+</DIV>
+<DIV id="page_23">
+
+
+<DIV>
+<DIV id="id_1">
+<P class="p140 ft22"><SPAN class="ft7">b)</SPAN><SPAN class="ft28">Lagring av uppgifter. </SPAN>När en stat har protokollfört uppgifter enligt a ovan, bör uppgifterna lagras så att det skall vara möjligt att återfinna dem och sedan delge dem enligt c.</P>
+<P class="p141 ft24"><SPAN class="ft37">c)</SPAN><SPAN class="ft28">Delgivning av uppgifter. </SPAN>Uppgifter som protokollförts och lagrats av en stat i enlighet med a och b bör delges i enlighet med följande bestämmelser med beaktande av den uppgiftslämnande statens säkerhetsintressen och andra åtaganden.</P>
+<P class="p142 ft26">i) <SPAN class="ft49">Innehåll. </SPAN>Beträffande UXO bör i de delgivna uppgifterna ingå följande information:</P>
+<P class="p143 ft8"><SPAN class="ft7">1)</SPAN><SPAN class="ft35">Den allmänna lokaliseringen av känd och trolig UXO.</SPAN></P>
+<P class="p144 ft21"><SPAN class="ft7">2)</SPAN><SPAN class="ft36">Typ och ungefärlig mängd explosiv ammunition som har använts i målområden.</SPAN></P>
+<P class="p145 ft21"><SPAN class="ft7">3)</SPAN><SPAN class="ft36">Metod för identifiering av den explosiva ammunitionen, däribland färg, dimensioner och form samt andra kännemärken av betydelse.</SPAN></P>
+<P class="p146 ft8"><SPAN class="ft7">4)</SPAN><SPAN class="ft35">Metod för säkert oskadliggörande av den explosiva ammunitionen.</SPAN></P>
+<P class="p124 ft8">Beträffande AXO bör i de delgivna uppgifterna ingå följande information:</P>
+<P class="p124 ft8"><SPAN class="ft7">5)</SPAN><SPAN class="ft35">Lokalisering av AXO.</SPAN></P>
+<P class="p124 ft8"><SPAN class="ft7">6)</SPAN><SPAN class="ft35">Ungefärlig mängd AXO på varje särskilt angiven plats.</SPAN></P>
+<P class="p143 ft8"><SPAN class="ft7">7)</SPAN><SPAN class="ft35">Typer av AXO på varje särskilt angiven plats.</SPAN></P>
+<P class="p124 ft8"><SPAN class="ft7">8)</SPAN><SPAN class="ft35">Metod för identifiering av AXO, däribland färg, dimensioner och form.</SPAN></P>
+<P class="p124 ft8"><SPAN class="ft7">9)</SPAN><SPAN class="ft35">Uppgifter om förpackningstyp och förpackningssätt för AXO.</SPAN></P>
+<P class="p124 ft8"><SPAN class="ft7">10)</SPAN><SPAN class="ft35">Uppgifter om AXO:s status.</SPAN></P>
+</DIV>
+<DIV id="id_2">
+<P class="p65 ft4">Prop. 2003/04:72</P>
+<P class="p75 ft4">23</P>
+</DIV>
+</DIV>
+</DIV>
+<DIV id="page_24">
+
+
+<P class="p22 ft4">Prop. 2003/04:72</P>
+<P class="p85 ft8">11) Lokalisering och beskaffenhet av försåt som är kända för att finnas inom</P>
+<P class="p85 ft8">det område där AXO förekommer.</P>
+<P class="p147 ft24"><SPAN class="ft8">ii)</SPAN><SPAN class="ft28">Mottagare. </SPAN>Uppgifterna bör delges den eller de parter som kontrollerar det drabbade området och de personer eller institutioner som den delgivande staten har förvissat sig om medverkar eller kommer att medverka i röjning av UXO eller AXO inom det drabbade området eller i utbildning av civilbefolkningen om riskerna med UXO och AXO.</P>
+<P class="p148 ft24"><SPAN class="ft8">iii)</SPAN><SPAN class="ft50">Mekanism. </SPAN>En stat bör då så är görligt utnyttja de mekanismer som har upprättats internationellt eller lokalt för delgivning av uppgifter, såsom FN:s minhanteringsorgan (United Nations Mine Action Service, UNMAS), uppgiftshanteringssystemet för minröjning <SPAN class="ft32">(Information Management System for Mine Action -</SPAN></P>
+<P class="p149 ft8"><SPAN class="ft39">IMSMA) </SPAN>och andra expertorgan som den delgivande staten finner lämpligt.</P>
+<P class="p148 ft24"><SPAN class="ft8">iv)</SPAN><SPAN class="ft50">Tidsfrister. </SPAN>Uppgifterna bör delges så snart som möjligt med beaktande av sådana omständigheter som pågående militär och humanitär verksamhet i de drabbade områdena, tillgång till uppgifter och deras tillförlitlighet samt relevanta säkerhetsfrågor.</P>
+<P class="p78 ft8">2. Varningsåtgärder, utbildning om risker, utmärkning, avspärrning</P>
+<P class="p94 ft8">och bevakning</P>
+<P class="p77 ft39">Nyckelbegrepp</P>
+<P class="p150 ft44"><SPAN class="ft34">a)</SPAN><SPAN class="ft43">Med </SPAN><SPAN class="ft51">varningsåtgärder </SPAN>avses punktvis tillhandahållande av information till civilbefolkningen om lämpliga försiktighetsåtgärder för att minimera riskerna med explosiva lämningar efter krig inom drabbade områden.</P>
+<P class="p111 ft46"><SPAN class="ft7">b)</SPAN><SPAN class="ft52">Utbildningen av civilbefolkningen om riskerna bör bestå av utbildningsprogram som syftar till att underlätta informationsutbyte mellan olika drabbade samhällen, offentliga myndigheter och humanitära organisationer med sikte på att de drabbade samhällena skall informeras om</SPAN></P>
+<P class="p151 ft4">24</P>
+</DIV>
+<DIV id="page_25">
+
+
+<TABLE cellpadding=0 cellspacing=0 class="t7">
+<TR>
+	<TD class="tr4 td27"><SPAN class="p3 ft7">de hot som explosiva lämningar efter krig utgör. Dessa utbildningsprogram</SPAN> </TD>
+	<TD class="tr4 td26"><SPAN class="p3 ft7">Prop. 2003/04:72</SPAN> </TD>
+</TR>
+</TABLE>
+<P class="p85 ft8">innebär vanligen en långsiktig verksamhet.</P>
+<P class="p152 ft39">Bästa praxis för varningsåtgärder och utbildning om risker</P>
+<P class="p153 ft22"><SPAN class="ft37">c)</SPAN><SPAN class="ft27">Alla program om varningsåtgärder och utbildning om risker bör, när så är möjligt, beakta gällande nationella och internationella normer, däribland de internationella minröjningsnormerna (</SPAN><SPAN class="ft32">International Mine Action Standards, IMAS</SPAN>).</P>
+<P class="p95 ft22"><SPAN class="ft7">d)</SPAN><SPAN class="ft27">Varningsåtgärder och utbildning om risker bör tillhandahållas den drabbade civilbefolkningen där civila personer ingår som bor i eller intill områden där det finns explosiva lämningar efter krig och civilpersoner som passerar sådana områden.</SPAN></P>
+<P class="p154 ft24"><SPAN class="ft34">e)</SPAN><SPAN class="ft23">Varningsåtgärder skall vidtas så snart som möjligt beroende på omständigheterna och tillgången på uppgifter. Ett program för utbildning om risker bör ersätta varningsåtgärdsprogrammen så snart som möjligt. Varningsåtgärder bör alltid vidtas och utbildning om risker alltid ges till i drabbade samhällena så tidigt som möjligt.</SPAN></P>
+<P class="p155 ft44"><SPAN class="ft8">f)</SPAN><SPAN class="ft53">Parterna i en konflikt bör anlita utomstående parter, såsom internationella organisationer och enskilda organisationer, när de saknar egna tillräckliga resurser eller förmåga att ge en effektiv utbildning om risker.</SPAN></P>
+<P class="p156 ft22"><SPAN class="ft7">g)</SPAN><SPAN class="ft27">Parterna i en konflikt bör om möjligt tillhandahålla ytterligare resurser för varningsåtgärder och utbildning om risker. Dessa kan innefatta lämnande av logistiskt stöd, framställning av material för utbildning om risker, ekonomiskt stöd och allmän kartografisk information.</SPAN></P>
+<P class="p157 ft39">Utmärkning, avspärrning och bevakning av områden där det finns explosiva</P>
+<P class="p158 ft39">lämningar efter krig</P>
+<P class="p159 ft40">h) När så är möjligt, och när som helst under en konflikt samt därefter, bör parterna i en konflikt, där det förekommer explosiva lämningar efter krig, så</P>
+<P class="p160 ft4">25</P>
+</DIV>
+<DIV id="page_26">
+
+
+<TABLE cellpadding=0 cellspacing=0 class="t7">
+<TR>
+	<TD class="tr9 td27"><SPAN class="p3 ft8">snart som möjligt och i största möjliga utsträckning tillse att områden där</SPAN> </TD>
+	<TD class="tr9 td26"><SPAN class="p3 ft7">Prop. 2003/04:72</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr7 td27"><SPAN class="p3 ft7">det förekommer explosiva lämningar utmärks, avspärras och bevakas så att</SPAN> </TD>
+	<TD class="tr7 td26"><SPAN class="p3 ft3">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr0 td27"><SPAN class="p3 ft8">civilbefolkningen effektivt utestängs i enlighet med följande bestämmelser.</SPAN> </TD>
+	<TD class="tr0 td26"><SPAN class="p3 ft3">&nbsp;</SPAN> </TD>
+</TR>
+</TABLE>
+<P class="p161 ft24"><SPAN class="ft8">i)</SPAN><SPAN class="ft54">Varningsskyltar som följer det gängse bruket av utmärkning som är känt i det drabbade samhället bör användas vid utmärkning av misstänkta riskområden. Skyltar och annan utmärkning för avgränsning av riskområden bör så långt som möjligt vara synliga, läsliga, gjorda av beständigt material och motståndskraftiga mot miljöpåverkan och det bör tydligt framgå på vilken sida av skyltarna det område ligger som anses vara drabbat av explosiva lämningar efter krig och på vilken sida det område ligger som anses vara säkert.</SPAN></P>
+<P class="p162 ft22"><SPAN class="ft8">j)</SPAN><SPAN class="ft55">En lämplig struktur bör upprättas som skall ansvara för övervakning och skötsel av de permanenta och temporära utmärkningsanordningarna, vilket skall kopplas till de nationella och lokala programmen för utbildning om risker.</SPAN></P>
+<P class="p127 ft8">3. Allmänna förebyggande åtgärder</P>
+<P class="p163 ft22">Stater som tillverkar eller anskaffar explosiv ammunition bör i största möjliga utsträckning och på lämpligt sätt sträva efter att se till att följande åtgärder tillämpas och upprätthålls under den explosiva ammunitionens livstid.</P>
+<P class="p157 ft39"><SPAN class="ft8">a) </SPAN>Ledning av ammunitionstillverkning</P>
+<P class="p164 ft21"><SPAN class="ft8">i)</SPAN><SPAN class="ft47">Tillverkningsmetoderna bör utformas så att ammunitionen skall bli så tillförlitlig som möjligt.</SPAN></P>
+<P class="p165 ft21"><SPAN class="ft8">ii)</SPAN><SPAN class="ft36">Certifierade kvalitetskontrollmetoder bör tillämpas i tillverkningsprocessen.</SPAN></P>
+<P class="p166 ft21"><SPAN class="ft8">iii)</SPAN><SPAN class="ft47">Vid tillverkning av explosiv ammunition bör internationellt erkända certifierade kvalitetsförsäkringsnormer tillämpas.</SPAN></P>
+<P class="p167 ft4">26</P>
+</DIV>
+<DIV id="page_27">
+
+
+<P class="p22 ft4">Prop. 2003/04:72</P>
+<P class="p168 ft21"><SPAN class="ft8">iv)</SPAN><SPAN class="ft47">Acceptanstest bör genomföras genom provskjutning under olika förhållanden eller med andra validerade förfaranden.</SPAN></P>
+<P class="p169 ft21"><SPAN class="ft8">v)</SPAN><SPAN class="ft36">Stränga tillförlitlighetsnormer bör användas vid transaktioner och överlåtelser av explosiv ammunition.</SPAN></P>
+<P class="p78 ft39"><SPAN class="ft8">b) </SPAN>Hantering av ammunition</P>
+<P class="p170 ft22">För att trygga bästa möjliga långsiktiga tillförlitlighet för explosiv ammunition uppmanas staterna att tillämpa normer för bästa praxis och förfaranden för förvaring, transport, fältförvaring och hantering av ammunition enligt följande riktlinjer:</P>
+<P class="p171 ft22"><SPAN class="ft8">i)</SPAN><SPAN class="ft55">Explosiv ammunition bör vid behov förvaras i säkra anläggningar eller lämpliga behållare som skyddar den och dess delar i en kontrollerad atmosfärisk förvaringsmiljö, om så är nödvändigt.</SPAN></P>
+<P class="p172 ft48"><SPAN class="ft8">ii)</SPAN><SPAN class="ft56">En stat bör transportera explosiv ammunition till och från tillverkningsanläggningar och förråd och i terrängen så att skadorna på ammunitionen minimeras.</SPAN></P>
+<P class="p173 ft22"><SPAN class="ft8">iii)</SPAN><SPAN class="ft55">När en stat förvarar och transporterar explosiv ammunition, bör den använda lämpliga behållare och en kontrollerad atmosfärisk förvaringsmiljö när så är nödvändigt.</SPAN></P>
+<P class="p174 ft21"><SPAN class="ft8">iv)</SPAN><SPAN class="ft47">Risken för explosioner i förråd bör minimeras genom lämpliga former av förvaring.</SPAN></P>
+<P class="p175 ft24"><SPAN class="ft8">v)</SPAN><SPAN class="ft23">Staterna bör tillämpa lämpliga förfaringssätt för protokollföring, sökning och test av ammunition, vilka bör innehålla uppgifter om tillverkningsdag för varje enhet eller parti av explosiv ammunition och uppgifter om var ammunitionen har varit, under vilka förhållanden den har förvarats och vilka miljöfaktorer den har utsatts för.</SPAN></P>
+<P class="p176 ft4">27</P>
+</DIV>
+<DIV id="page_28">
+
+
+<TABLE cellpadding=0 cellspacing=0 class="t7">
+<TR>
+	<TD class="tr5 td27"><SPAN class="p3 ft8">vi) Förvarad explosiv ammunition bör regelbundet, om så är lämpligt,</SPAN> </TD>
+	<TD class="tr5 td26"><SPAN class="p3 ft7">Prop. 2003/04:72</SPAN> </TD>
+</TR>
+</TABLE>
+<P class="p94 ft8">provskjutas för att trygga att den fungerar på avsett sätt.</P>
+<P class="p177 ft48"><SPAN class="ft8">vii)</SPAN><SPAN class="ft56">Delar av explosiv ammunition som förvaras i förråd bör, där så är lämpligt, genomgå laboratorieprov för att trygga att den fungerar på avsett sätt.</SPAN></P>
+<P class="p178 ft22"><SPAN class="ft8">viii)</SPAN><SPAN class="ft55">Där så är nödvändigt bör lämpliga åtgärder vidtas, bl.a. anpassning till förväntad tid som ammunitionen skall förvaras, till följd av information som inhämtats genom protokollföring, sökning och tester, för att behålla den lagrade explosiva ammunitionens tillförlitlighet.</SPAN></P>
+<P class="p157 ft39"><SPAN class="ft8">c) </SPAN>Utbildning</P>
+<P class="p179 ft30">Lämplig utbildning av all personal som deltar i hantering, transport och användning av explosiv ammunition är en viktig del av strävandena att säkerställa att ammunitionen fungerar på avsett sätt. Staterna bör därför anta och tillämpa lämpliga utbildningsprogram för att trygga att personalen är lämpligt utbildad i fråga om ammunition som den skall hantera.</P>
+<P class="p127 ft39"><SPAN class="ft8">d) </SPAN>Överlåtelse</P>
+<P class="p180 ft22">En stat som avser att överlåta explosiv ammunition till en annan stat som inte tidigare har haft den typen av explosiv ammunition bör sträva efter att se till att den mottagande staten har förmåga att förvara, underhålla och använda ammunitionen på ett riktigt sätt.</P>
+<P class="p157 ft39"><SPAN class="ft8">e) </SPAN>Framtida tillverkning</P>
+<P class="p181 ft22">En stat bör undersöka möjligheterna att förbättra tillförlitligheten av sådan explosiv ammunition som den avser att tillverka eller anskaffa i syfte att uppnå största möjliga tillförlitlighet.</P>
+<P class="p182 ft4">28</P>
+</DIV>
+<DIV id="page_29">
+
+
+<TABLE cellpadding=0 cellspacing=0 class="t7">
+<TR>
+	<TD rowspan=2 class="tr16 td27"><SPAN class="p3 ft1">Bilaga 2 Konventionstext engelska</SPAN> </TD>
+	<TD class="tr9 td26"><SPAN class="p3 ft7">Prop. 2003/04:72</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr17 td26"><SPAN class="p3 ft57">&nbsp;</SPAN> </TD>
+</TR>
+</TABLE>
+<P class="p183 ft4">Protocol on Explosive Remnants of War</P>
+<P class="p152 ft4">The High Contracting Parties,</P>
+<P class="p184 ft4">Recognising the serious <NOBR>post-conflict</NOBR> humanitarian problems caused by explosive remnants of war,</P>
+<P class="p185 ft4">Conscious of the need to conclude a Protocol on <NOBR>post-conflict</NOBR> remedial measures of a generic nature in order to minimise the risks and effects of explosive remnants of war,</P>
+<P class="p186 ft4">And willing to address generic preventive measures, through voluntary best practices specified in a Technical Annex for improving the reliability of munitions, and therefore minimising the occurrence of explosive remnants of war,</P>
+<P class="p187 ft4">Have agreed as follows:</P>
+<P class="p188 ft4">Article 1</P>
+<P class="p189 ft58">General provision and scope of application</P>
+<P class="p190 ft4"><SPAN class="ft7">1.</SPAN><SPAN class="ft59">In conformity with the Charter of the United Nations and of the rules of the international law of armed conflict applicable to them, High Contracting Parties agree to comply with the obligations specified in this Protocol, both individually and in </SPAN><NOBR>co-operation</NOBR> with other High Contracting Parties, to minimise the risks and effects of explosive remnants of war in <NOBR>post-conflict</NOBR> situations.</P>
+<P class="p191 ft8"><SPAN class="ft7">2.</SPAN><SPAN class="ft60">This Protocol shall apply to explosive remnants of war on the land territory including internal waters of High Contracting Parties.</SPAN></P>
+<P class="p192 ft8"><SPAN class="ft7">3.</SPAN><SPAN class="ft60">This Protocol shall apply to situations resulting from conflicts referred to in Article 1, paragraphs 1 to 6, of the Convention, as amended on 21 December 2001.</SPAN></P>
+<P class="p193 ft4"><SPAN class="ft7">4.</SPAN><SPAN class="ft59">Articles 3, 4, 5 and 8 of this Protocol apply to explosive remnants of war other than existing explosive remnants of war as defined in Article 2, paragraph 5 of this Protocol.</SPAN></P>
+<P class="p194 ft4">29</P>
+</DIV>
+<DIV id="page_30">
+
+
+<TABLE cellpadding=0 cellspacing=0 class="t9">
+<TR>
+	<TD class="tr18 td28"><SPAN class="p3 ft4">Article 2</SPAN> </TD>
+	<TD class="tr18 td26"><SPAN class="p3 ft7">Prop. 2003/04:72</SPAN> </TD>
+</TR>
+</TABLE>
+<P class="p195 ft58">Definitions</P>
+<P class="p157 ft4">For the purpose of this Protocol,</P>
+<P class="p196 ft8"><SPAN class="ft7">1.</SPAN><SPAN class="ft61">Explosive ordnance </SPAN>means conventional munitions containing explosives, with the exception of mines, booby traps and other devices as defined in Protocol II of this Convention as amended on 3 May 1996.</P>
+<P class="p197 ft4"><SPAN class="ft7">2.</SPAN><SPAN class="ft62">Unexploded ordnance </SPAN>means explosive ordnance that has been primed, fused, armed, or otherwise prepared for use and used in an armed conflict. It may have been fired, dropped, launched or projected and should have exploded but failed to do so.</P>
+<P class="p198 ft4"><SPAN class="ft7">3.</SPAN><SPAN class="ft62">Abandoned explosive ordnance </SPAN>means explosive ordnance that has not been used during an armed conflict, that has been left behind or dumped by a party to an armed conflict, and which is no longer under control of the party that left it behind or dumped it. Abandoned explosive ordnance may or may not have been primed, fused, armed or otherwise prepared for use.</P>
+<P class="p199 ft5"><SPAN class="ft7">4.</SPAN><SPAN class="ft62">Explosive remnants of war </SPAN><SPAN class="ft4">means unexploded ordnance and abandoned explosive ordnance.</SPAN></P>
+<P class="p196 ft64"><SPAN class="ft7">5.</SPAN><SPAN class="ft63">Existing explosive remnants of war </SPAN><SPAN class="ft17">means unexploded ordnance and abandoned explosive ordnance that existed prior to the entry into force of this Protocol for the High Contracting Party on whose territory it exists.</SPAN></P>
+<P class="p200 ft4">Article 3</P>
+<P class="p201 ft58">Clearance, removal or destruction of explosive remnants of war</P>
+<P class="p202 ft6">1. Each High Contracting Party and party to an armed conflict shall bear the responsibilities set out in this Article with respect to all explosive remnants of war in territory under its control. In cases where a user of explosive ordnance which has become explosive remnants of war, does not exercise control of the territory, the user shall, after the cessation of active hostilities, provide where feasible, inter alia technical, financial, material or human resources assistance, bilaterally or through a mutually agreed third party, including inter alia through the United Nations system or other relevant organisations, to facilitate the marking and clearance, removal or destruction of such explosive remnants of war.</P>
+<P class="p203 ft17">2. After the cessation of active hostilities and as soon as feasible, each High Contracting Party and party to an armed conflict shall mark and clear, remove or destroy explosive remnants of war in affected territories</P>
+<P class="p40 ft65">under its control. Areas affected by explosive remnants of war which are</P>
+<P class="p62 ft4">30</P>
+</DIV>
+<DIV id="page_31">
+
+
+<TABLE cellpadding=0 cellspacing=0 class="t1">
+<TR>
+	<TD class="tr18 td27"><SPAN class="p3 ft4">assessed pursuant to paragraph 3 of this Article as posing a serious</SPAN> </TD>
+	<TD class="tr18 td26"><SPAN class="p3 ft7">Prop. 2003/04:72</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr6 td27"><SPAN class="p3 ft8">humanitarian risk shall be accorded priority status for clearance, removal</SPAN> </TD>
+	<TD class="tr6 td26"><SPAN class="p3 ft66">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr4 td27"><SPAN class="p3 ft4">or destruction.</SPAN> </TD>
+	<TD class="tr4 td26"><SPAN class="p3 ft3">&nbsp;</SPAN> </TD>
+</TR>
+</TABLE>
+<P class="p204 ft4"><SPAN class="ft7">3.</SPAN><SPAN class="ft59">After the cessation of active hostilities and as soon as feasible, each High Contracting Party and party to an armed conflict shall take the following measures in affected territories under its control, to reduce the risks posed by explosive remnants of war:</SPAN></P>
+<P class="p205 ft4"><SPAN class="ft7">(a)</SPAN><SPAN class="ft67">survey and assess the threat posed by explosive remnants of war;</SPAN></P>
+<P class="p206 ft4"><SPAN class="ft8">(b)</SPAN><SPAN class="ft68">assess and prioritise needs and practicability in terms of marking and clearance, removal or destruction;</SPAN></P>
+<P class="p207 ft4"><SPAN class="ft8">(c)</SPAN><SPAN class="ft67">mark and clear, remove or destroy explosive remnants of war;</SPAN></P>
+<P class="p208 ft4"><SPAN class="ft8">(d)</SPAN><SPAN class="ft68">take steps to mobilise resources to carry out these activities.</SPAN></P>
+<P class="p209 ft17"><SPAN class="ft7">4.</SPAN><SPAN class="ft69">In conducting the above activities High Contracting Parties and parties to an armed conflict shall take into account international standards, including the International Mine Action Standards.</SPAN></P>
+<P class="p210 ft6"><SPAN class="ft7">5.</SPAN><SPAN class="ft70">High Contracting Parties shall </SPAN><NOBR>co-operate,</NOBR> where appropriate, both among themselves and with other states, relevant regional and international organisations and <NOBR>non-governmental</NOBR> organisations on the provision of inter alia technical, financial, material and human resources assistance including, in appropriate circumstances, the undertaking of joint operations necessary to fulfil the provisions of this Article.</P>
+<P class="p200 ft4">Article 4</P>
+<P class="p211 ft58">Recording, retaining and transmission of information</P>
+<P class="p173 ft6">1. High Contracting Parties and parties to an armed conflict shall to the maximum extent possible and as far as practicable record and retain information on the use of explosive ordnance or abandonment of explosive ordnance, to facilitate the rapid marking and clearance, removal or destruction of explosive remnants of war, risk education and the provision of relevant information to the party in control of the territory and to civilian populations in that territory.</P>
+<P class="p196 ft17">2. High Contracting Parties and parties to an armed conflict which have used or abandoned explosive ordnance which may have become explosive remnants of war shall, without delay after the cessation of active hostilities and as far as practicable, subject to these parties’ legitimate security interests, make available such information to the party or parties in control of the affected area, bilaterally or through a mutually agreed third party including inter alia the United Nations or, upon request, to other relevant organisations which the party providing the information is satisfied are or will be undertaking risk education and the</P>
+<P class="p40 ft71">marking and clearance, removal or destruction of explosive remnants of</P>
+<P class="p62 ft4">31</P>
+</DIV>
+<DIV id="page_32">
+
+
+<TABLE cellpadding=0 cellspacing=0 class="t7">
+<TR>
+	<TD class="tr4 td27"><SPAN class="p3 ft4">war in the affected area.</SPAN> </TD>
+	<TD class="tr4 td26"><SPAN class="p3 ft7">Prop. 2003/04:72</SPAN> </TD>
+</TR>
+</TABLE>
+<P class="p212 ft16">3. In recording, retaining and transmitting such information, the High Contracting Parties should have regard to Part 1 of the Technical Annex.</P>
+<P class="p213 ft4">Article 5</P>
+<P class="p214 ft58">Other precautions for the protection of the civilian population, individual civilians and civilian objects from the risks and effects of explosive remnants of war</P>
+<P class="p215 ft17">1. High Contracting Parties and parties to an armed conflict shall take all feasible precautions in the territory under their control affected by explosive remnants of war to protect the civilian population, individual civilians and civilian objects from the risks and effects of explosive remnants of war. Feasible precautions are those precautions which are practicable or practicably possible, taking into account all circumstances ruling at the time, including humanitarian and military considerations. These precautions may include warnings, risk education to the civilian population, marking, fencing and monitoring of territory affected by explosive remnants of war, as set out in Part 2 of the Technical Annex.</P>
+<P class="p213 ft4">Article 6</P>
+<P class="p216 ft72">Provisions for the protection of humanitarian missions and organisations from the effects of explosive remnants of war</P>
+<P class="p217 ft4"><SPAN class="ft7">1.</SPAN><SPAN class="ft59">Each High Contracting Party and party to an armed conflict shall:</SPAN></P>
+<P class="p218 ft4"><SPAN class="ft7">(a)</SPAN><SPAN class="ft73">Protect, as far as feasible, from the effects of explosive remnants of war, humanitarian missions and organisations that are or will be operating in the area under the control of the High Contracting Party or party to an armed conflict and with that party’s consent.</SPAN></P>
+<P class="p219 ft4"><SPAN class="ft8">(b)</SPAN><SPAN class="ft74">Upon request by such a humanitarian mission or organisation, provide, as far as feasible, information on the location of all explosive remnants of war that it is aware of in territory where the requesting humanitarian mission or organisation will operate or is operating.</SPAN></P>
+<P class="p220 ft4"><SPAN class="ft7">2.</SPAN><SPAN class="ft59">The provisions of this Article are without prejudice to existing International Humanitarian Law or other international instruments as applicable or decisions by the Security Council of the United Nations which provide for a higher level of protection</SPAN><SPAN class="ft8">.</SPAN></P>
+<P class="p221 ft4">32</P>
+</DIV>
+<DIV id="page_33">
+
+
+<TABLE cellpadding=0 cellspacing=0 class="t10">
+<TR>
+	<TD class="tr18 td28"><SPAN class="p3 ft4">Article 7</SPAN> </TD>
+	<TD class="tr18 td26"><SPAN class="p3 ft7">Prop. 2003/04:72</SPAN> </TD>
+</TR>
+</TABLE>
+<P class="p222 ft58">Assistance with respect to existing explosive remnants of war</P>
+<P class="p223 ft4"><SPAN class="ft7">1.</SPAN><SPAN class="ft75">Each High Contracting Party has the right to seek and receive assistance, where appropriate, from other High Contracting Parties, from states </SPAN><NOBR>non-party</NOBR> and relevant international organisations and institutions in dealing with the problems posed by existing explosive remnants of war.</P>
+<P class="p224 ft4"><SPAN class="ft7">2.</SPAN><SPAN class="ft75">Each High Contracting Party in a position to do so shall provide assistance in dealing with the problems posed by existing explosive remnants of war, as necessary and feasible. In so doing, High Contracting Parties shall also take into account the humanitarian objectives of this Protocol, as well as international standards including the International Mine Action Standards.</SPAN></P>
+<P class="p225 ft4">Article 8</P>
+<P class="p226 ft58"><NOBR>Co-operation</NOBR> and assistance</P>
+<P class="p227 ft6"><SPAN class="ft7">1.</SPAN><SPAN class="ft76">Each High Contracting Party in a position to do so shall provide assistance for the marking and clearance, removal or destruction of explosive remnants of war, and for risk education to civilian populations and related activities inter alia through the United Nations system, other relevant international, regional or national organisations or institutions, the International Committee of the Red Cross, national Red Cross and Red Crescent societies and their International Federation, nongovernmental organisations, or on a bilateral basis.</SPAN></P>
+<P class="p228 ft6"><SPAN class="ft7">2.</SPAN><SPAN class="ft76">Each High Contracting Party in a position to do so shall provide assistance for the care and rehabilitation and social and economic reintegration of victims of explosive remnants of war. Such assistance may be provided inter alia through the United Nations system, relevant international, regional or national organisations or institutions, the International Committee of the Red Cross, national Red Cross and Red Crescent societies and their International Federation, </SPAN><NOBR>non-governmental</NOBR> organisations, or on a bilateral basis.</P>
+<P class="p229 ft17"><SPAN class="ft7">3.</SPAN><SPAN class="ft77">Each High Contracting Party in a position to do so shall contribute to trust funds within the United Nations system, as well as other relevant trust funds, to facilitate the provision of assistance under this Protocol.</SPAN></P>
+<P class="p230 ft6"><SPAN class="ft7">4.</SPAN><SPAN class="ft76">Each High Contracting Party shall have the right to participate in the fullest possible exchange of equipment, material and scientific and technological information other than weapons related technology,</SPAN></P>
+<TABLE cellpadding=0 cellspacing=0 class="t11">
+<TR>
+	<TD class="tr5 td29"><SPAN class="p3 ft4">necessary for the implementation of this Protocol. High Contracting</SPAN> </TD>
+	<TD rowspan=2 class="tr7 td30"><SPAN class="p12 ft4">33</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr19 td29"><SPAN class="p3 ft78">&nbsp;</SPAN> </TD>
+</TR>
+</TABLE>
+</DIV>
+<DIV id="page_34">
+
+
+<P class="p33 ft4">Parties undertake to facilitate such exchanges in accordance with national Prop. 2003/04:72 legislation and shall not impose undue restrictions on the provision of</P>
+<P class="p231 ft4">clearance equipment and related technological information for humanitarian purposes.</P>
+<P class="p232 ft6"><SPAN class="ft7">5.</SPAN><SPAN class="ft76">Each High Contracting Party undertakes to provide information to the relevant databases on mine action established within the United Nations system, especially information concerning various means and technologies of clearance of explosive remnants of war, lists of experts, expert agencies or national points of contact on clearance of explosive remnants of war and, on a voluntary basis, technical information on relevant types of explosive ordnance.</SPAN></P>
+<P class="p233 ft4"><SPAN class="ft7">6.</SPAN><SPAN class="ft68">High Contracting Parties may submit requests for assistance substantiated by relevant information to the United Nations, to other appropriate bodies or to other states. These requests may be submitted to the </SPAN><NOBR>Secretary-General</NOBR> of the United Nations, who shall transmit them to all High Contracting Parties and to relevant international organisations and <NOBR>non-governmental</NOBR> organisations.</P>
+<P class="p198 ft6"><SPAN class="ft7">7.</SPAN><SPAN class="ft76">In the case of requests to the United Nations, the </SPAN><NOBR>Secretary-General</NOBR> of the United Nations, within the resources available to the Secretary- General of the United Nations, may take appropriate steps to assess the situation and in <NOBR>co-operation</NOBR> with the requesting High Contracting Party and other High Contracting Parties with responsibility as set out in Article 3 above, recommend the appropriate provision of assistance. The <NOBR>Secretary-General</NOBR> may also report to High Contracting Parties on any such assessment as well as on the type and scope of assistance required, including possible contributions from the trust funds established within the United Nations system.</P>
+<P class="p213 ft4">Article 9</P>
+<P class="p234 ft58">Generic preventive measures</P>
+<P class="p235 ft4"><SPAN class="ft7">1.</SPAN><SPAN class="ft59">Bearing in mind the different situations and capacities, each High Contracting Party is encouraged to take generic preventive measures aimed at minimising the occurrence of explosive remnants of war, including, but not limited to, those referred to in part 3 of the Technical Annex.</SPAN></P>
+<P class="p236 ft4"><SPAN class="ft7">2.</SPAN><SPAN class="ft59">Each High Contracting Party may, on a voluntary basis, exchange information related to efforts to promote and establish best practices in respect of paragraph 1 of this Article.</SPAN></P>
+<P class="p237 ft4">34</P>
+</DIV>
+<DIV id="page_35">
+
+
+<TABLE cellpadding=0 cellspacing=0 class="t12">
+<TR>
+	<TD class="tr18 td31"><SPAN class="p3 ft4">Article 10</SPAN> </TD>
+	<TD class="tr18 td26"><SPAN class="p3 ft7">Prop. 2003/04:72</SPAN> </TD>
+</TR>
+</TABLE>
+<P class="p238 ft58">Consultations of High Contracting Parties</P>
+<P class="p239 ft4"><SPAN class="ft7">1.</SPAN><SPAN class="ft68">The High Contracting Parties undertake to consult and </SPAN><NOBR>co-operate</NOBR> with each other on all issues related to the operation of this Protocol. For this purpose, a Conference of High Contracting Parties shall be held as agreed to by a majority, but no less than eighteen High Contracting Parties.</P>
+<P class="p240 ft4"><SPAN class="ft7">2.</SPAN><SPAN class="ft79">The work of the conferences of High Contracting Parties shall include:</SPAN></P>
+<P class="p241 ft4"><SPAN class="ft34">(a)</SPAN><SPAN class="ft80">review of the status and operation of this Protocol</SPAN><SPAN class="ft8">;</SPAN></P>
+<P class="p242 ft83"><SPAN class="ft34">(b)</SPAN><SPAN class="ft81">consideration of matters pertaining to national implementation of this Protocol, including national reporting or updating on an annual basis</SPAN><SPAN class="ft82">.</SPAN></P>
+<P class="p207 ft4"><SPAN class="ft37">(c)</SPAN><SPAN class="ft84">preparation for review conferences</SPAN><SPAN class="ft8">.</SPAN></P>
+<P class="p243 ft4"><SPAN class="ft7">3.</SPAN><SPAN class="ft68">The costs of the Conference of High Contracting Parties shall be borne by the High Contracting Parties and States not parties participating in the Conference, in accordance with the United Nations scale of assessment adjusted appropriately.</SPAN></P>
+<P class="p244 ft4">Article 11</P>
+<P class="p245 ft58">Compliance</P>
+<P class="p246 ft6"><SPAN class="ft7">1.</SPAN><SPAN class="ft76">Each High Contracting Party shall require that its armed forces and relevant agencies or departments issue appropriate instructions and operating procedures and that its personnel receive training consistent with the relevant provisions of this Protocol.</SPAN></P>
+<P class="p247 ft6"><SPAN class="ft7">2.</SPAN><SPAN class="ft76">The High Contracting Parties undertake to consult each other and to </SPAN><NOBR>co-operate</NOBR> with each other bilaterally, through the <NOBR>Secretary-General</NOBR> of the United Nations or through other appropriate international procedures, to resolve any problems that may arise with regard to the interpretation and application of the provisions of this Protocol.</P>
+<P class="p248 ft4">35</P>
+</DIV>
+<DIV id="page_36">
+
+
+<P class="p22 ft4">Prop. 2003/04:72</P>
+<P class="p249 ft85">Technical Annex</P>
+<P class="p250 ft4">This Technical Annex contains suggested best practice for achieving the objectives contained in Articles 4, 5 and 9 of this Protocol. This Technical Annex will be implemented by High Contracting Parties on a voluntary basis.</P>
+<P class="p251 ft1">1. Recording, storage and release of information for Unexploded Ordnance (UXO) and Abandoned Explosive Ordnance (AXO)</P>
+<P class="p252 ft4"><SPAN class="ft8">(a) </SPAN>Recording of information: Regarding explosive ordnance which may have become UXO a State should endeavour to record the following information as accurately as possible:</P>
+<P class="p253 ft4"><SPAN class="ft8">(i)</SPAN><SPAN class="ft86">the location of areas targeted using explosive ordnance;</SPAN></P>
+<P class="p254 ft4"><SPAN class="ft4">(ii)</SPAN><SPAN class="ft87">the approximate number of explosive ordnance used in the areas under (i);</SPAN></P>
+<P class="p255 ft4"><SPAN class="ft4">(iii)</SPAN><SPAN class="ft88">the type and nature of explosive ordnance used in areas under</SPAN></P>
+<P class="p256 ft4">(i);</P>
+<P class="p255 ft4"><SPAN class="ft4">(iv)</SPAN><SPAN class="ft59">the general location of known and probable UXO;</SPAN></P>
+<P class="p257 ft17">Where a State has been obliged to abandon explosive ordnance in the course of operations, it should endeavour to leave AXO in a safe and secure manner and record information on this ordnance as follows:</P>
+<P class="p253 ft4"><SPAN class="ft4">(v)</SPAN><SPAN class="ft89">the location of AXO;</SPAN></P>
+<P class="p255 ft4"><SPAN class="ft4">(vi)</SPAN><SPAN class="ft59">the approximate amount of AXO at each specific site;</SPAN></P>
+<P class="p255 ft4"><SPAN class="ft4">(vii)</SPAN><SPAN class="ft90">the types of AXO at each specific site.</SPAN></P>
+<P class="p258 ft4"><SPAN class="ft7">(b)</SPAN><SPAN class="ft91">Storage of information: Where a State has recorded information in accordance with paragraph (a), it should be stored in such a manner as to allow for its retrieval and subsequent release in accordance with paragraph (c).</SPAN></P>
+<P class="p259 ft17"><SPAN class="ft37">(c)</SPAN><SPAN class="ft92">Release of information: Information recorded and stored by a State in accordance with paragraphs (a) and (b) should, taking into account the security interests and other obligations of the State providing the information, be released in accordance with the following provisions:</SPAN></P>
+<P class="p260 ft4">(i) Content:</P>
+<P class="p261 ft4">On UXO the released information should contain details on:</P>
+<P class="p262 ft4">36</P>
+</DIV>
+<DIV id="page_37">
+
+
+<TABLE cellpadding=0 cellspacing=0 class="t13">
+<TR>
+	<TD class="tr18 td32"><SPAN class="p263 ft8">(1)</SPAN> </TD>
+	<TD class="tr18 td33"><SPAN class="p32 ft4">the general location of known and probable UXO;</SPAN> </TD>
+	<TD class="tr18 td26"><SPAN class="p3 ft7">Prop. 2003/04:72</SPAN> </TD>
+</TR>
+</TABLE>
+<P class="p264 ft7"><SPAN class="ft8">(2)</SPAN><SPAN class="ft93">the types and approximate number of explosive ordnance used in the targeted areas;</SPAN></P>
+<P class="p265 ft4"><SPAN class="ft7">(3)</SPAN><SPAN class="ft73">the method of identifying the explosive ordnance including colour, size and shape and other relevant markings</SPAN><SPAN class="ft8">;</SPAN></P>
+<P class="p266 ft4"><SPAN class="ft8">(4)</SPAN><SPAN class="ft74">the method for safe disposal of the explosive ordnance.</SPAN></P>
+<P class="p267 ft4">On AXO the released information should contain details on:</P>
+<P class="p268 ft4"><SPAN class="ft8">(5)</SPAN><SPAN class="ft74">the location of the AXO;</SPAN></P>
+<P class="p268 ft4"><SPAN class="ft8">(6)</SPAN><SPAN class="ft74">the approximate number of AXO at each specific site;</SPAN></P>
+<P class="p268 ft4"><SPAN class="ft8">(7)</SPAN><SPAN class="ft74">the types of AXO at each specific site;</SPAN></P>
+<P class="p269 ft4"><SPAN class="ft8">(8)</SPAN><SPAN class="ft74">the method of identifying the AXO, including colour, size and shape;</SPAN></P>
+<P class="p268 ft4"><SPAN class="ft8">(9)</SPAN><SPAN class="ft74">information on type and methods of packing for AXO;</SPAN></P>
+<P class="p268 ft4"><SPAN class="ft7">(10)</SPAN><SPAN class="ft86">state of readiness;</SPAN></P>
+<P class="p270 ft4"><SPAN class="ft7">(11)</SPAN><SPAN class="ft86">the location and nature of any booby traps known to be present in the area of AXO.</SPAN></P>
+<P class="p271 ft4"><SPAN class="ft8">ii)</SPAN><SPAN class="ft94">Recipient: The information should be released to the party or parties in control of the affected territory and to those persons or institutions that the releasing State is satisfied are, or will be, involved in UXO or AXO clearance in the affected area, in the education of the civilian population on the risks of UXO or AXO</SPAN><SPAN class="ft8">.</SPAN></P>
+<P class="p272 ft4"><SPAN class="ft8">iii)</SPAN><SPAN class="ft73">Mechanism: A State should, where feasible, make use of those mechanisms established internationally or locally for the release of information, such as through UNMAS, IMSMA, and other expert agencies, as considered appropriate by the releasing State.</SPAN></P>
+<P class="p219 ft4"><SPAN class="ft4">iv)</SPAN><SPAN class="ft73">Timing: The information should be released as soon as possible, taking into account such matters as any ongoing military and humanitarian operations in the affected areas, the availability and reliability of information and relevant security issues.</SPAN></P>
+<P class="p273 ft1"><SPAN class="ft1">2.</SPAN><SPAN class="ft95">Warnings, risk education, marking, fencing and monitoring</SPAN></P>
+<P class="p274 ft4">37</P>
+</DIV>
+<DIV id="page_38">
+
+
+<TABLE cellpadding=0 cellspacing=0 class="t14">
+<TR>
+	<TD class="tr5 td27"><SPAN class="p3 ft58">Key terms</SPAN> </TD>
+	<TD class="tr5 td26"><SPAN class="p3 ft7">Prop. 2003/04:72</SPAN> </TD>
+</TR>
+</TABLE>
+<P class="p275 ft4"><SPAN class="ft34">(a)</SPAN><SPAN class="ft96">Warnings are the punctual provision of cautionary information to the civilian population, intended to minimise risks caused by explosive remnants of war in affected territories.</SPAN></P>
+<P class="p276 ft4"><SPAN class="ft7">(b)</SPAN><SPAN class="ft91">Risk education to the civilian population should consist of risk education programmes to facilitate information exchange between affected communities, government authorities and humanitarian organisations so that affected communities are informed about the threat from explosive remnants of war. Risk education programmes are usually a long term activity</SPAN><SPAN class="ft8">.</SPAN></P>
+<P class="p277 ft58">Best practice elements of warnings and risk education</P>
+<P class="p278 ft17"><SPAN class="ft37">(c)</SPAN><SPAN class="ft92">All programmes of warnings and risk education should, where possible, take into account prevailing national and international standards, including the International Mine Action Standards.</SPAN></P>
+<P class="p279 ft4"><SPAN class="ft7">(d)</SPAN><SPAN class="ft91">Warnings and risk education should be provided to the affected civilian population which comprises civilians living in or around areas containing explosive remnants of war and civilians who transit such areas.</SPAN></P>
+<P class="p280 ft4"><SPAN class="ft34">(e)</SPAN><SPAN class="ft96">Warnings should be given, as soon as possible, depending on the context and the information available. A risk education programme should replace a warnings programme as soon as possible. Warnings and risk education always should be provided to the affected communities at the earliest possible time.</SPAN></P>
+<P class="p281 ft4"><SPAN class="ft8">(f)</SPAN><SPAN class="ft97">Parties to a conflict should employ third parties such as international organisations and </SPAN><NOBR>non-governmental</NOBR> organisations when they do not have the resources and skills to deliver efficient risk education.</P>
+<P class="p282 ft4"><SPAN class="ft7">(g)</SPAN><SPAN class="ft91">Parties to a conflict should, if possible, provide additional resources for warnings and risk education. Such items might include: provision of logistical support, production of risk education materials, financial support and general cartographic information.</SPAN></P>
+<P class="p283 ft58">Marking, fencing, and monitoring of an explosive remnants of war affected area</P>
+<P class="p284 ft6"><SPAN class="ft16">(h) </SPAN>When possible, at any time during the course of a conflict and thereafter, where explosive remnants of war exist the parties to a conflict should, at the earliest possible time and to the maximum extent possible, ensure that areas containing explosive remnants of war are marked, fenced and monitored so as to ensure the effective exclusion of civilians, in accordance with the following provisions.</P>
+<TABLE cellpadding=0 cellspacing=0 class="t15">
+<TR>
+	<TD class="tr9 td34"><SPAN class="p3 ft4">(i) Warning signs based on methods of marking recognised by the</SPAN> </TD>
+	<TD rowspan=2 class="tr8 td35"><SPAN class="p12 ft4">38</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr19 td34"><SPAN class="p3 ft78">&nbsp;</SPAN> </TD>
+</TR>
+</TABLE>
+</DIV>
+<DIV id="page_39">
+
+
+<TABLE cellpadding=0 cellspacing=0 class="t4">
+<TR>
+	<TD class="tr18 td27"><SPAN class="p3 ft4">affected community should be utilised in the marking of suspected</SPAN> </TD>
+	<TD class="tr18 td26"><SPAN class="p3 ft7">Prop. 2003/04:72</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr6 td27"><SPAN class="p3 ft10">hazardous areas. Signs and other hazardous area boundary markers</SPAN> </TD>
+	<TD class="tr6 td26"><SPAN class="p3 ft66">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr4 td27"><SPAN class="p3 ft4">should as far as possible be visible, legible, durable and resistant to</SPAN> </TD>
+	<TD class="tr4 td26"><SPAN class="p3 ft3">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr4 td27"><SPAN class="p3 ft4">environmental effects and should clearly identify which side of the</SPAN> </TD>
+	<TD class="tr4 td26"><SPAN class="p3 ft3">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr5 td27"><SPAN class="p3 ft4">marked boundary is considered to be within the explosive remnants of</SPAN> </TD>
+	<TD class="tr5 td26"><SPAN class="p3 ft3">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr4 td27"><SPAN class="p3 ft4">war affected area and which side is considered to be safe.</SPAN> </TD>
+	<TD class="tr4 td26"><SPAN class="p3 ft3">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr20 td27"><SPAN class="p3 ft4"><SPAN class="ft8">(j) </SPAN>An appropriate structure should be put in place with responsibility</SPAN> </TD>
+	<TD class="tr20 td26"><SPAN class="p3 ft3">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr4 td27"><SPAN class="p3 ft4">for the monitoring and maintenance of permanent and temporary</SPAN> </TD>
+	<TD class="tr4 td26"><SPAN class="p3 ft3">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr5 td27"><SPAN class="p3 ft4">marking systems, integrated with national and local risk education</SPAN> </TD>
+	<TD class="tr5 td26"><SPAN class="p3 ft3">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr4 td27"><SPAN class="p3 ft4">programmes.</SPAN> </TD>
+	<TD class="tr4 td26"><SPAN class="p3 ft3">&nbsp;</SPAN> </TD>
+</TR>
+</TABLE>
+<P class="p285 ft1"><SPAN class="ft1">3.</SPAN><SPAN class="ft98">Generic preventive measures</SPAN></P>
+<P class="p286 ft4">States producing or procuring explosive ordnance should to the extent possible and as appropriate endeavour to ensure that the following measures are implemented and respected during the <NOBR>life-cycle</NOBR> of explosive ordnance.</P>
+<P class="p287 ft58"><SPAN class="ft8">(a)</SPAN><SPAN class="ft99">Munitions manufacturing management</SPAN></P>
+<P class="p288 ft4"><SPAN class="ft8">(i)</SPAN><SPAN class="ft100">Production processes should be designed to achieve the greatest reliability of munitions.</SPAN></P>
+<P class="p289 ft4"><SPAN class="ft4">(ii)</SPAN><SPAN class="ft89">Production processes should be subject to certified quality control measures.</SPAN></P>
+<P class="p290 ft4"><SPAN class="ft4">(iii)</SPAN><SPAN class="ft94">During the production of explosive ordnance, certified quality assurance standards that are internationally recognised should be applied.</SPAN></P>
+<P class="p291 ft4"><SPAN class="ft4">(iv)</SPAN><SPAN class="ft59">Acceptance testing should be conducted through </SPAN><NOBR>live-fire</NOBR> testing over a range of conditions or through other validated procedures.</P>
+<P class="p292 ft8"><SPAN class="ft4">(v)</SPAN><SPAN class="ft101">High reliability standards should be required in the course of explosive ordnance transactions and transfers.</SPAN></P>
+<P class="p293 ft58"><SPAN class="ft8">(b)</SPAN><SPAN class="ft102">Munitions management</SPAN></P>
+<TABLE cellpadding=0 cellspacing=0 class="t16">
+<TR>
+	<TD class="tr21 td36"><SPAN class="p3 ft4">In order to ensure the best possible <NOBR>long-term</NOBR> reliability of explosive</SPAN> </TD>
+	<TD class="tr21 td37"><SPAN class="p3 ft3">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr6 td36"><SPAN class="p3 ft10">ordnance, States are encouraged to apply best practice norms and</SPAN> </TD>
+	<TD class="tr6 td37"><SPAN class="p3 ft66">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr4 td36"><SPAN class="p3 ft4">operating procedures with respect to its storage, transport, field storage,</SPAN> </TD>
+	<TD rowspan=2 class="tr22 td37"><SPAN class="p12 ft4">39</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr19 td36"><SPAN class="p3 ft78">&nbsp;</SPAN> </TD>
+</TR>
+</TABLE>
+</DIV>
+<DIV id="page_40">
+
+
+<DIV>
+<DIV id="id_1">
+<P class="p65 ft4">and handling in accordance with the following guidance.</P>
+<P class="p294 ft8"><SPAN class="ft4">(i)</SPAN><SPAN class="ft103">Explosive ordnance, where necessary, should be stored in secure facilities or appropriate containers that protect the explosive ordnance and its components in a controlled atmosphere, if necessary.</SPAN></P>
+<P class="p295 ft16"><SPAN class="ft8">(ii)</SPAN><SPAN class="ft104">A State should transport explosive ordnance to and from production facilities, storage facilities and the field in a manner that minimises damage to the explosive ordnance.</SPAN></P>
+<P class="p296 ft4"><SPAN class="ft4">(iii)</SPAN><SPAN class="ft105">Appropriate containers and controlled environments, where necessary, should be used by a State when stockpiling and transporting explosive ordnance.</SPAN></P>
+<P class="p297 ft8"><SPAN class="ft4">(iv)</SPAN><SPAN class="ft106">The risk of explosions in stockpiles should be minimised by the use of appropriate stockpile arrangements.</SPAN></P>
+<P class="p298 ft4"><SPAN class="ft4">(v)</SPAN><SPAN class="ft107">States should apply appropriate explosive ordnance logging, tracking and testing procedures, which should include information on the date of manufacture of each number, lot or batch of explosive ordnance, and information on where the explosive ordnance has been, under what conditions it has been stored, and to what environmental factors it has been exposed.</SPAN></P>
+<P class="p299 ft4"><SPAN class="ft4">(vi)</SPAN><SPAN class="ft108">Periodically, stockpiled explosive ordnance should undergo, where appropriate, </SPAN><NOBR>live-firing</NOBR> testing to ensure that munitions function as desired.</P>
+<P class="p300 ft4"><SPAN class="ft4">(vii)</SPAN><NOBR><SPAN class="ft96">Sub-assemblies</SPAN></NOBR> of stockpiled explosive ordnance should, where appropriate, undergo laboratory testing to ensure that munitions function as desired.</P>
+<P class="p301 ft8"><SPAN class="ft4">(viii)</SPAN><SPAN class="ft109">Where necessary, appropriate action, including adjustment to the expected </SPAN><NOBR>shelf-life</NOBR> of ordnance, should be taken as a result of information acquired by logging, tracking and testing procedures, in order to maintain the reliability of stockpiled explosive ordnance.</P>
+<P class="p302 ft58"><SPAN class="ft8">(c)</SPAN><SPAN class="ft110">Training</SPAN></P>
+<P class="p303 ft4">The proper training of all personnel involved in the handling, transporting and use of explosive ordnance is an important factor in seeking to ensure its reliable operation as intended. States should therefore adopt and maintain suitable training programmes to ensure that personnel are properly trained with regard to the munitions with which they will be required to deal.</P>
+</DIV>
+<DIV id="id_2">
+<P class="p65 ft4">Prop. 2003/04:72</P>
+<P class="p75 ft4">40</P>
+</DIV>
+</DIV>
+</DIV>
+<DIV id="page_41">
+
+
+<P class="p22 ft4">Prop. 2003/04:72</P>
+<P class="p304 ft4">(d) <SPAN class="ft58">Transfer</SPAN></P>
+<P class="p305 ft6">A State planning to transfer explosive ordnance to another State that did not previously possess that type of explosive ordnance should endeavour to ensure that the receiving State has the capability to store, maintain and use that explosive ordnance correctly.</P>
+<P class="p306 ft58"><SPAN class="ft7">(e)</SPAN><SPAN class="ft110">Future production</SPAN></P>
+<P class="p307 ft4">A State should examine ways and means of improving the reliability of explosive ordnance that it intends to produce or procure, with a view to achieving the highest possible reliability.</P>
+<P class="p308 ft4">_____</P>
+<P class="p309 ft4">41</P>
+</DIV>
+<DIV id="page_42">
+<DIV id="dimg1">
+<INGENBILD zsrc="GR037242x1.jpg/" id="img1">
+</DIV>
+
+
+<P class="p22 ft4">Prop. 2003/04:72</P>
+<P class="p310 ft1">Utrikesdepartementet</P>
+<P class="p311 ft4">Utdrag ur protokoll vid regeringssammanträde den 26 februari 2004</P>
+<P class="p312 ft8">Närvarande: statsrådet Freivalds, ordförande, och statsråden, Sahlin, Östros, Engqvist, Lövdén, Ringholm, Sommestad, Karlsson, Nykvist, Andnor, Nuder, Johansson, Hallengren, Holmberg,</P>
+<P class="p313 ft4">Föredragande: Laila Freivalds</P>
+<P class="p314 ft6">Regeringen beslutar proposition 2003/04:72 Svensk anslutning till det femte protokollet till konventionen om förbud mot eller inskränkningar i användningen av vissa konventionella vapen som kan anses vara ytterst skadebringande eller ha urskillningslösa verkningar.</P>
+<P class="p315 ft4">42</P>
+</DIV>
+
+</div><style>
+
+
+TD,TD.p2h {
+zzzfont-size:90%;
+zzzmargin-right:2px;
+zzzoverflow:visable;
+zzzword-wrap: break-word;
+}
+
+P {
+zdisplay:block;
+}
+
+.divbreak {
+clear:both;
+display:block;
+zwidth: 100%;
+zheight: 1px;
+zword-wrap: break-word;
+}
+
+
+.xecp {
+  display:block;
+  margin: 0px !important;
+  padding: 0px !important;
+  
+}
+
+.ec {
+  border-style:solid;
+  border-width:1px;
+  display:block;
+  margin: 0px !important;
+  padding: 0px !important;
+}
+
+.TOPS {
+  overflow:visable;
+  margin:2px;
+  width:690px !important;
+}
+
+</style>

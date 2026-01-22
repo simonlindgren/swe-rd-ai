@@ -1,0 +1,2010 @@
+SEARCH TERM: artificiell intelligens
+DOCUMENT ID: hc023111
+TITLE: Utgiftsområde 4 Rättsväsendet
+TYPE: mot
+SUBTYPE: Kommittémotion
+DATE: 2024-10-04
+PARLIAMENTARY YEAR: 2024/25
+ORGANISATION: JuU
+STATUS: Klar
+DOWNLOADED: 2026-01-22 10:24:38
+================================================================================
+
+<style><!-- 
+ @page Section1 { size:595.3pt 841.9pt; margin:35.45pt 85.05pt 56.7pt }
+div.Section1 { page:Section1 }
+div.pconf body { t-i:14.2pt; line-height:15pt; font-family:'Verdana'; font-size: 0.90em }
+div.pconf h1, h2, h3, h4, h5, h6, p { margin:0pt }
+div.pconf li, table { margin-top:0pt; margin-bottom:0pt }
+div.pconf h1 { margin-top:41pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:19.5pt; font-family:'Verdana'; font-size: 1.05em; font-weight:normal; color:#000000 }
+div.pconf h2 { margin-top:30pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:17pt; font-family:'Verdana'; font-size: 1.00em; font-weight:normal; color:#000000 }
+div.pconf h3 { margin-top:18pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:15pt; font-family:'Verdana'; font-size: 0.90em; font-weight:bold; color:#000000 }
+div.pconf h4 { margin-top:18pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:15pt; font-family:'Verdana'; font-size: 0.90em; font-weight:normal; font-style:italic; color:#000000 }
+div.pconf h5 { margin-top:15pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:15pt; font-family:'Verdana'; font-size: 0.90em; font-weight:bold; font-style:normal; color:#000000 }
+div.pconf h6 { margin-top:15pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:15pt; font-family:'Verdana'; font-size: 0.90em; font-weight:normal; font-style:italic; color:#000000 }
+.Heading7 { margin-top:15pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:15pt; font-family:'Verdana'; font-size: 0.90em; font-weight:normal; font-style:italic; color:#000000; -aw-style-name:heading7 }
+.Heading8 { margin-top:15pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:15pt; font-family:'Verdana'; font-size: 0.90em; font-weight:normal; font-style:italic; color:#000000; -aw-style-name:heading8 }
+.Heading9 { margin-top:0pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:15pt; font-family:'Verdana'; font-size: 0.90em; font-weight:normal; font-style:italic; color:#000000; -aw-style-name:heading9 }
+.BalloonText { margin-bottom:0pt; t-i:14.2pt; line-height:normal; font-family:'Segoe UI'; font-size: 0.90em }
+.Beteckning { margin-top:18pt; margin-bottom:0pt; t-i:14.2pt; page-break-inside:auto; page-break-after:auto; line-height:19.5pt; font-size: 1.05em }
+.BlockText, .Inramatstycke { margin-right:56.7pt; margin-left:56.7pt; margin-bottom:0pt; t-i:0pt; text-align:nojustify; line-height:15pt; border:0.75pt solid #000000; padding:10pt; font-size: 0.90em; font-style:italic; -aw-border:0.25pt single }
+.Citaticitat { margin-top:7.5pt; margin-left:34pt; margin-bottom:0pt; t-i:0pt; line-height:12pt; font-size: 0.90em }
+.Citaticitatmedindrag { margin-top:0pt; margin-left:34pt; margin-bottom:7.5pt; t-i:17pt; line-height:12pt; font-size: 0.90em }
+.Citatmedindrag { margin-top:0pt; margin-left:17pt; margin-bottom:0pt; t-i:17pt; line-height:12pt; font-size: 0.90em }
+.CommentSubject { margin-bottom:0pt; t-i:14.2pt; line-height:normal; font-size: 0.90em; font-weight:bold }
+.CommentText { margin-bottom:0pt; t-i:14.2pt; line-height:normal; font-size: 0.90em }
+.FSHLogo { margin-top:4pt; margin-bottom:0pt; t-i:0pt; line-height:normal; font-size: 0.90em }
+.FSHNormL { margin-top:4pt; margin-bottom:0pt; t-i:0pt; line-height:15pt; border-top:1.5pt solid #000000; padding-top:3pt; font-size: 0.90em }
+.FSHNormal { margin-top:4pt; margin-bottom:0pt; t-i:0pt; line-height:15pt; font-size: 0.90em }
+.FSHNormalS5 { margin-top:11.5pt; margin-bottom:26pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-size: 0.95em; font-weight:bold }
+.FSHRub1, .Rubrik1S5 { margin-top:135pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:16pt; font-size: 1.00em }
+.FSHRub2, .Rubrik1A4 { margin-top:50pt; margin-bottom:5pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:24pt; font-size: 1.05em }
+.FSHTitel, .Dokumentrubrik { margin-top:4pt; margin-bottom:4pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:20pt; border-bottom:0.75pt solid #000000; padding-bottom:3pt; font-size: 1.05em; -aw-border-bottom:0.5pt single }
+.Footer { margin-top:4pt; margin-bottom:0pt; t-i:0pt; text-align:center; line-height:normal; font-size: 0.90em }
+.FootnoteText { margin-top:0pt; margin-bottom:0pt; t-i:0pt; line-height:12pt; font-size: 0.90em }
+.Frslagsrubrik { margin-top:41pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:19.5pt; font-family:'Verdana'; font-size: 1.05em }
+.Frslagstext, .Hemstlatt, .Yrkande { margin-top:4pt; margin-left:24.95pt; margin-bottom:0pt; t-i:-24.95pt; line-height:15pt; font-size: 0.90em }
+.Header { margin-top:4pt; margin-bottom:0pt; t-i:0pt; line-height:normal; font-size: 0.90em }
+.KantRubrikS5H { margin-top:6pt; margin-right:2.85pt; margin-bottom:0pt; t-i:0pt; text-align:right; line-height:8pt; font-size: 0.90em }
+.KantRubrikS5Hrad2 { margin-top:0pt; margin-right:2.85pt; margin-bottom:0pt; t-i:0pt; text-align:right; line-height:10pt; font-size: 0.90em }
+.KantRubrikS5V { margin-top:6pt; margin-right:0pt; margin-bottom:0pt; t-i:0pt; text-align:left; line-height:8pt; font-size: 0.90em }
+.KantRubrikS5Vrad2 { margin-top:0pt; margin-right:0pt; margin-bottom:0pt; t-i:0pt; text-align:left; line-height:10pt; font-size: 0.90em }
+.KantrubrikH { margin-top:4pt; margin-right:-82.2pt; margin-bottom:0pt; t-i:0pt; text-align:right; line-height:15pt; font-size: 0.90em }
+.KantrubrikV { margin-top:4pt; margin-left:-85.05pt; margin-bottom:0pt; t-i:0pt; line-height:normal; font-size: 0.90em }
+.Klla { margin-top:0pt; margin-bottom:0pt; t-i:0pt; line-height:12pt; font-size: 0.90em }
+.Lagtext { margin-top:4pt; margin-bottom:0pt; t-i:0pt; line-height:normal; font-size: 0.90em }
+.Lagtextindrag { margin-top:4pt; margin-bottom:0pt; t-i:14.2pt; line-height:normal; font-size: 0.90em }
+.Lagtextrubrik { margin-top:4pt; margin-bottom:0pt; t-i:0pt; line-height:normal; font-size: 0.90em; font-style:italic; letter-spacing:1pt }
+.List { margin-top:7.5pt; margin-left:17pt; margin-bottom:7.5pt; t-i:-17pt; line-height:15pt; font-size: 0.90em }
+.ListBullet, .PunktlistaBomb { margin-top:4pt; margin-left:14.2pt; margin-bottom:0pt; t-i:-14.2pt; line-height:15pt; font-size: 0.90em }
+.ListNumber, .PunktlistaNummer { margin-top:4pt; margin-left:14.2pt; margin-bottom:0pt; t-i:-14.2pt; line-height:15pt; font-size: 0.90em }
+.ListParagraph { margin-left:36pt; margin-bottom:0pt; t-i:14.2pt; line-height:15pt; font-size: 0.90em }
+.ListaGemener { margin-top:7.5pt; margin-left:17pt; margin-bottom:7.5pt; t-i:-17pt; line-height:15pt; font-size: 0.90em }
+.ListaLinje { margin-top:7.5pt; margin-left:17pt; margin-bottom:7.5pt; t-i:-17pt; line-height:15pt; font-size: 0.90em }
+.ListaNummer { margin-top:7.5pt; margin-left:17pt; margin-bottom:7.5pt; t-i:-17pt; line-height:15pt; font-size: 0.90em }
+.ListaPunkt { margin-top:7.5pt; margin-left:17pt; margin-bottom:7.5pt; t-i:-17pt; line-height:15pt; font-size: 0.90em }
+.MotionTIllRiksdagen { margin-top:18pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:19.5pt; font-size: 1.05em }
+.Motionr { margin-top:14pt; margin-bottom:31.5pt; t-i:0pt; page-break-inside:avoid; line-height:15pt; font-size: 1.00em; font-weight:bold; font-style:normal }
+.Motiveringrubrik2numrerat1 { margin-top:30pt; margin-left:0pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:17pt; font-family:'Verdana'; font-size: 1.00em }
+.Motiveringrubrik3numrerat1 { margin-top:18pt; margin-left:0pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:15pt; font-family:'Verdana'; font-size: 0.90em; font-weight:bold }
+.Motiveringrubrik3numrerat11 { margin-top:18pt; margin-left:0pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:15pt; font-family:'Verdana'; font-size: 0.90em; font-weight:bold }
+.Motiveringrubrik4numrerat11 { margin-top:18pt; margin-left:0pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:15pt; font-family:'Verdana'; font-size: 0.90em; font-weight:normal; font-style:italic }
+.NormalWeb { margin-bottom:0pt; t-i:14.2pt; line-height:15pt; font-family:'Verdana'; font-size: 0.90em }
+.NormalIndent { margin-left:65.2pt; margin-bottom:0pt; t-i:14.2pt; line-height:15pt; font-size: 0.90em }
+.Normalutanindragellerluft { margin-top:4pt; margin-bottom:0pt; t-i:0pt; line-height:15pt; font-size: 0.90em }
+.Normal00 { margin-top:4pt; margin-bottom:0pt; t-i:0pt; line-height:normal; font-size: 0.90em }
+.NormalA4fot { margin-top:12pt; margin-bottom:0pt; t-i:0pt; text-align:center; line-height:normal; font-size: 0.90em }
+.NormalA4sidnr { margin-top:4pt; margin-bottom:12pt; t-i:0pt; text-align:center; line-height:normal; font-size: 0.90em }
+.NormalS5sidnrH { margin-top:4pt; margin-right:2.85pt; margin-bottom:0pt; t-i:0pt; text-align:right; line-height:normal; font-size: 0.90em }
+.NormalS5sidnrV { margin-top:4pt; margin-right:0pt; margin-bottom:0pt; t-i:0pt; text-align:left; line-height:normal; font-size: 0.90em }
+.PlainText { margin-bottom:0pt; t-i:0pt; line-height:12pt; font-family:'Verdana'; font-size: 0.90em }
+.Quote { margin-top:7.5pt; margin-left:17pt; margin-bottom:0pt; t-i:0pt; line-height:12pt; font-size: 0.90em }
+.R1 { margin-top:41pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:19.5pt; font-family:'Verdana'; font-size: 1.05em }
+.R2 { margin-top:30pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:17pt; font-family:'Verdana'; font-size: 1.00em }
+.R3 { margin-top:18pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:15pt; font-family:'Verdana'; font-size: 0.90em; font-weight:bold }
+.Rubrik1numrerat { margin-top:41pt; margin-left:0pt; margin-bottom:0pt; t-i:0pt; page-break-inside:auto; page-break-after:avoid; line-height:19.5pt; font-family:'Verdana'; font-size: 1.05em }
+.Rubrik2numrerat { margin-top:30pt; margin-left:0pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:17pt; font-family:'Verdana'; font-size: 1.00em }
+.Rubrik3numrerat { margin-top:18pt; margin-left:0pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:15pt; font-family:'Verdana'; font-size: 0.90em; font-weight:bold }
+.Rubrik4numrerat { margin-top:18pt; margin-left:0pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:15pt; font-family:'Verdana'; font-size: 0.90em; font-weight:normal; font-style:italic }
+.RubrikFrslagTIllRiksdagsbeslut { margin-top:41pt; margin-bottom:15pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:19.5pt; font-family:'Verdana'; font-size: 1.05em }
+.RubrikInnehllsf { margin-top:41pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:19.5pt; font-family:'Verdana'; font-size: 1.05em }
+.RubrikSammanf { margin-top:41pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:19.5pt; font-family:'Verdana'; font-size: 1.05em }
+.Salutation { margin-top:41pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:19.5pt; font-family:'Verdana'; font-size: 1.05em }
+.Streckkod { margin-top:12pt; margin-bottom:0pt; t-i:0pt; text-align:center; line-height:normal; font-family:IDAutomationHC39S; font-size: 1.00em }
+.Strecklista, .PunktlistaTankstreck { margin-top:4pt; margin-left:14.2pt; margin-bottom:0pt; t-i:-14.2pt; line-height:15pt; font-size: 0.90em }
+.Subtitle { margin-top:4pt; margin-bottom:0pt; t-i:0pt; line-height:15pt; font-family:'Verdana'; font-size: 0.90em; font-weight:bold }
+.TOC1 { margin-top:4pt; margin-bottom:0pt; t-i:0pt; line-height:15pt; font-size: 0.90em }
+.TOC2 { margin-top:4pt; margin-left:14.2pt; margin-bottom:0pt; t-i:0pt; line-height:15pt; font-size: 0.90em }
+.TOC3 { margin-top:4pt; margin-left:28.35pt; margin-bottom:0pt; t-i:0pt; line-height:15pt; font-size: 0.90em }
+.TOC4 { margin-top:4pt; margin-left:42.55pt; margin-bottom:0pt; t-i:0pt; line-height:15pt; font-size: 0.90em }
+.TOC5 { margin-top:4pt; margin-left:56.7pt; margin-bottom:0pt; t-i:0pt; line-height:15pt; font-size: 0.90em }
+.TOC6 { margin-top:4pt; margin-left:56.7pt; margin-bottom:0pt; t-i:0pt; line-height:15pt; font-size: 0.90em }
+.TOC7 { margin-top:15pt; margin-left:56.7pt; margin-bottom:0pt; t-i:14.2pt; page-break-inside:avoid; page-break-after:avoid; line-height:normal; font-family:'Verdana'; font-size: 0.90em; font-weight:normal; font-style:italic }
+.TOC8 { margin-top:15pt; margin-left:56.7pt; margin-bottom:0pt; t-i:14.2pt; page-break-inside:avoid; page-break-after:avoid; line-height:normal; font-family:'Verdana'; font-size: 0.90em; font-weight:normal; font-style:italic }
+.TOC9 { margin-top:15pt; margin-left:56.7pt; margin-bottom:0pt; t-i:14.2pt; page-break-inside:avoid; page-break-after:avoid; line-height:normal; font-family:'Verdana'; font-size: 0.90em; font-weight:normal; font-style:italic }
+.TOCHeading { margin-top:41pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:19.5pt; font-family:'Verdana'; font-size: 1.05em }
+.Tabellunderrubrik { margin-top:0pt; margin-bottom:0pt; t-i:0pt; page-break-after:avoid; line-height:15pt; font-size: 0.90em; font-weight:normal; font-style:italic }
+.Tabellrubrik { margin-top:7.5pt; margin-bottom:0pt; t-i:0pt; page-break-after:avoid; line-height:15pt; font-size: 0.90em; font-weight:bold }
+.Title { margin-top:41pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:19.5pt; font-family:'Verdana'; font-size: 1.05em }
+.Underskriftdatum { margin-top:24pt; margin-bottom:3pt; t-i:0pt; page-break-inside:avoid; line-height:15pt; font-size: 0.90em; font-style:normal }
+.Underskrifter { margin-top:15pt; margin-bottom:3pt; t-i:0pt; page-break-inside:avoid; line-height:15pt; font-size: 0.90em; font-style:italic }
+.Yrkandehnv, .Frslagspunkthnv { margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; font-size: 0.90em }
+span.BallongtextChar { font-family:'Segoe UI'; font-size: 0.90em }
+span.BeteckningChar { font-size:19.5pt }
+span.CommentReference { font-size:8pt }
+span.FSHRub2Char, span.Rubrik1A4Char { font-size:24pt }
+span.FotnotstextChar { font-size:10pt }
+span.Hyperlink { text-decoration:underline; color:#0563c1; -aw-style-name:hyperlink }
+span.InledningChar { font-family:'Verdana'; font-size: 1.00em; font-weight:bold }
+span.IntenseReference { font-weight:normal; font-style:normal; font-variant:normal; text-decoration:none; text-transform:none; letter-spacing:0pt; vertical-align:0pt; color:#000000; display:inline }
+span.KommentarerChar { font-size:10pt }
+span.KommentarsmneChar { font-size:10pt; font-weight:bold }
+span.MotionTIllRiksdagenChar { font-size:19.5pt }
+span.OformateradtextChar { font-family:'Verdana'; font-size: 0.90em }
+span.PlaceholderText { color:#f4b083 }
+span.Rubrik1Char { font-family:'Verdana'; font-size: 1.05em }
+span.Rubrik2Char { font-family:'Verdana'; font-size: 1.00em }
+span.Rubrik3Char { font-family:'Verdana'; font-size: 0.90em; font-weight:bold }
+span.Rubrik4Char { font-family:'Verdana'; font-size: 0.90em; font-style:italic }
+span.Rubrik5Char { font-family:'Verdana'; font-weight:bold }
+span.Rubrik6Char { font-family:'Verdana'; font-style:italic }
+span.Rubrik7Char { font-family:'Verdana'; font-size: 0.90em; font-weight:bold }
+span.Rubrik8Char { font-family:'Verdana'; font-size: 0.90em; font-weight:bold }
+span.Rubrik9Char { font-family:'Verdana'; font-size: 0.90em; font-weight:bold }
+span.RubrikChar { font-family:'Verdana'; font-size: 1.00em; font-weight:bold }
+span.SidfotChar { font-size:11.5pt }
+span.UnderrubrikChar { font-family:'Verdana'; font-size: 0.90em; font-weight:bold }
+.TableGrid {  }
+
+.pconf{width: 450px;margin-left:5px;overflow:visable;font-family:Verdana, Geneva, sans-serif;} 
+ .sidhuvud_publikation, .sidhuvud_beteckning{font-size:133%}
+.MotionarLista {font-size:122%}
+
+--></style><div class="pconf"><span class="sidhuvud_publikation">Motion till riksdagen</span><br/>
+<span class="sidhuvud_beteckning">2024/25:3111</span><br/>
+<span class="MotionarLista">av Teresa Carvalho m.fl. (S)</span><br/>
+<h1>Utgiftsområde 4 Rättsväsendet</h1>
+<hr class="sidhuvud_linje"/>
+
+
+		<div class="Section1">
+			<p class="RubrikFrslagTIllRiksdagsbeslut">
+				<a name="_Toc106800475"></a><a name="_Toc106801300"><span style="-aw-sdt-tag:'CC_Boilerplate_4'; -aw-sdt-title:'CC_Boilerplate_4'"><span>Förslag till riksdagsbeslut</span></span><span style="-aw-bookmark-end:_Toc106800475"></span></a>
+			</p>
+			<div style="-aw-sdt-tag:'93f79279-a282-4f32-a5f3-00587b580838'; -aw-sdt-title:'Yrkande 1'">
+				<ol type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-left:14pt; t-i:0pt; padding-left:10.95pt">
+						<span>Riksdagen anvisar anslagen för 2025 inom utgiftsområde 4 Rättsväsendet enligt förslaget i tabellen i motionen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'ccd659f5-2f58-4917-84a0-20b1d58e584e'; -aw-sdt-title:'Yrkande 2'">
+				<ol start="2" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; margin-left:14pt; t-i:0pt; padding-left:10.95pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att kriminalpolitiken ska vara effektiv och rättssäker och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'f2542a3f-70b4-41ca-9dbd-10561d9edc36'; -aw-sdt-title:'Yrkande 3'">
+				<ol start="3" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; margin-left:14pt; t-i:0pt; padding-left:10.95pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om vikten av att bryta nyrekryteringen och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'288c3291-1b8f-4026-96b4-549635607efc'; -aw-sdt-title:'Yrkande 4'">
+				<ol start="4" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; margin-left:14pt; t-i:0pt; padding-left:10.95pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att för varje krona som satsas på polisen ska minst lika mycket satsas på förebyggande arbete och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'be36f495-5dde-4d84-8cf5-cd6b82c7c3ac'; -aw-sdt-title:'Yrkande 5'">
+				<ol start="5" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; margin-left:14pt; t-i:0pt; padding-left:10.95pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om behovet av samverkan mellan alla de som har en roll i det brottsförebyggande arbetet och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'b9740096-b590-42c2-b6e2-e09fcc0be145'; -aw-sdt-title:'Yrkande 6'">
+				<ol start="6" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; margin-left:14pt; t-i:0pt; padding-left:10.95pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att ojämlikheten måste bekämpas och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'1b5a4d43-5013-4829-9b8f-2d20df87a4b4'; -aw-sdt-title:'Yrkande 7'">
+				<ol start="7" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; margin-left:14pt; t-i:0pt; padding-left:10.95pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om nollvision för öppna drogscener och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'0b6e5e8a-f316-4ed1-9934-5a3d0599184a'; -aw-sdt-title:'Yrkande 8'">
+				<ol start="8" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; margin-left:14pt; t-i:0pt; padding-left:10.95pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om behovet av ett nytt mål för polistillväxten och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'84a6533a-6c48-4f80-888e-aefdaff7f772'; -aw-sdt-title:'Yrkande 9'">
+				<ol start="9" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; margin-left:14pt; t-i:0pt; padding-left:10.95pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att Polismyndigheten 2032 ska ha 50</span><span>&#xa0;</span><span>000 anställda, varav minst 34</span><span>&#xa0;</span><span>000 ska vara poliser och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'73bce46f-2c55-41ee-b29a-6e2679d24849'; -aw-sdt-title:'Yrkande 10'">
+				<ol start="10" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; margin-left:20pt; t-i:0pt; padding-left:4.95pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om vikten av att polisen är långsiktigt och kontinuerligt närvarande i alla kommuner i Sverige och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'ebe17e1e-0456-4e82-907b-0c9757279e4f'; -aw-sdt-title:'Yrkande 11'">
+				<ol start="11" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; margin-left:20pt; t-i:0pt; padding-left:4.95pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att poliskåren måste återspegla befolkningen avseende kön och etnicitet och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'0b3e55fa-7594-4478-bd7c-ce1736fbee85'; -aw-sdt-title:'Yrkande 12'">
+				<ol start="12" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; margin-left:20pt; t-i:0pt; padding-left:4.95pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om bättre möjligheter att anmäla brott och komma i kontakt med polisen och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'adda7428-2b1e-49a8-9009-ca39f97a4ea5'; -aw-sdt-title:'Yrkande 13'">
+				<ol start="13" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; margin-left:20pt; t-i:0pt; padding-left:4.95pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att Polismyndighetens verksamhet ska präglas av kvalitet, rättssäkerhet och effektivitet och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'33221d4b-e51d-4887-a648-9013eaee3501'; -aw-sdt-title:'Yrkande 14'">
+				<ol start="14" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; margin-left:20pt; t-i:0pt; padding-left:4.95pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om polisiär grundforskning och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'5c02b71a-230f-4151-8ffd-67d7ca5e0743'; -aw-sdt-title:'Yrkande 15'">
+				<ol start="15" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; margin-left:20pt; t-i:0pt; padding-left:4.95pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om behovet av spetskompetens inom Polismyndigheten och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'a2d7f978-9ec9-4d96-bcfd-f5c06300abb2'; -aw-sdt-title:'Yrkande 16'">
+				<ol start="16" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; margin-left:20pt; t-i:0pt; padding-left:4.95pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att polisernas arbetsvillkor ska fortsätta att förbättras och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'612815b8-3830-4f4f-b2ff-cb6cf7752181'; -aw-sdt-title:'Yrkande 17'">
+				<ol start="17" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; margin-left:20pt; t-i:0pt; padding-left:4.95pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att medarbetarskyddet för polisanställda och andra grupper av myndighetspersoner ska förbättras och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'6984b59f-6fa6-416e-8724-d7d3c33011f7'; -aw-sdt-title:'Yrkande 18'">
+				<ol start="18" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; margin-left:20pt; t-i:0pt; padding-left:4.95pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om långsiktig och tillräcklig medelstilldelning till hela rättskedjan och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'617bda0b-d20b-44df-9600-a31c799edfcb'; -aw-sdt-title:'Yrkande 19'">
+				<ol start="19" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; margin-left:20pt; t-i:0pt; padding-left:4.95pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om ett aktivt arbete för att motverka infiltration och korruption och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'e183b169-e7f7-401d-a04c-599c7d891467'; -aw-sdt-title:'Yrkande 20'">
+				<ol start="20" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; margin-left:20pt; t-i:0pt; padding-left:4.95pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om krisen i kriminalvården och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'dd2cc49c-08a5-430b-914a-f423b07c934d'; -aw-sdt-title:'Yrkande 21'">
+				<ol start="21" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; margin-left:20pt; t-i:0pt; padding-left:4.95pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om situationen för kvinnliga interner och på kvinnoanstalterna och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'df829393-c4fa-4511-9639-8c6b6a7339aa'; -aw-sdt-title:'Yrkande 22'">
+				<ol start="22" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; margin-left:20pt; t-i:0pt; padding-left:4.95pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om kriminalvårdens återfallsförebyggande arbete och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'c12d63ac-64d2-4c9a-94cb-502936969ed5'; -aw-sdt-title:'Yrkande 23'">
+				<ol start="23" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; margin-left:20pt; t-i:0pt; padding-left:4.95pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om utbyggnad av kriminalvården och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'bebeb71e-8eb0-41a4-b4a8-19ab852ec4d4'; -aw-sdt-title:'Yrkande 24'">
+				<ol start="24" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; margin-left:20pt; t-i:0pt; padding-left:4.95pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om anstaltsplatser utomlands och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'49320ecd-36e4-4f1b-a2e3-1d2c39193780'; -aw-sdt-title:'Yrkande 25'">
+				<ol start="25" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; margin-left:20pt; t-i:0pt; padding-left:4.95pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om behovet av en plan för utbyggnad av kriminalvården och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'69e9534b-e28b-4f83-921d-334250a4259a'; -aw-sdt-title:'Yrkande 26'">
+				<ol start="26" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; margin-left:20pt; t-i:0pt; padding-left:4.95pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om säkerhet inom kriminalvården och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'ae1d4ca2-74d3-4b5c-ab49-c2490da9fa5b'; -aw-sdt-title:'Yrkande 27'">
+				<ol start="27" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; margin-left:20pt; t-i:0pt; padding-left:4.95pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om vikten av samverkan mellan Kriminalvården och Arbetsförmedlingen och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'b3773f1d-56d1-4695-bde8-6e6118c47a76'; -aw-sdt-title:'Yrkande 28'">
+				<ol start="28" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; margin-left:20pt; t-i:0pt; padding-left:4.95pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om vikten av att arbeta evidensbaserat och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'0656f6e8-6691-41f0-b86f-01c47119d9a4'; -aw-sdt-title:'Yrkande 29'">
+				<ol start="29" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; margin-left:20pt; t-i:0pt; padding-left:4.95pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om samverkan mellan ett flertal myndigheter och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'55a92f6e-02c5-4980-8bab-400a2495853a'; -aw-sdt-title:'Yrkande 30'">
+				<ol start="30" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; margin-left:20pt; t-i:0pt; padding-left:4.95pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om frivården och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'d75b65c0-83cf-4101-8efb-7ef557bae488'; -aw-sdt-title:'Yrkande 31'">
+				<ol start="31" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; margin-left:20pt; t-i:0pt; padding-left:4.95pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om vikten av att strukturella hinder för kriminalvårdens arbete tas bort och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'616e4b71-c7ea-4e39-97d7-02bfc2fbbf0c'; -aw-sdt-title:'Yrkande 32'">
+				<ol start="32" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; margin-left:20pt; t-i:0pt; padding-left:4.95pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att Kriminalvården bör ta över ansvaret för de unga lagöverträdare som begår grova brott och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'87e6b61e-9560-4730-9f99-e1a220543775'; -aw-sdt-title:'Yrkande 33'">
+				<ol start="33" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; margin-left:20pt; t-i:0pt; padding-left:4.95pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om stöd till barn som har en anhörig i fängelse och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'70a7be12-1822-4154-a78e-28aa147f6d2a'; -aw-sdt-title:'Yrkande 34'">
+				<ol start="34" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; margin-left:20pt; t-i:0pt; padding-left:4.95pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att utreda och införa en svensk Rico-lagstiftning och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'f288d9d5-c2c1-443e-b545-686019220660'; -aw-sdt-title:'Yrkande 35'">
+				<ol start="35" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; margin-left:20pt; t-i:0pt; padding-left:4.95pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att EU-kommissionen bör ta fram en handlingsplan för att stoppa nyrekryteringen och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'5ed8d5b6-4706-4af9-ad9f-2a4f73be886e'; -aw-sdt-title:'Yrkande 36'">
+				<ol start="36" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; margin-left:20pt; t-i:0pt; padding-left:4.95pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om strängare straff för köp av narkotika av barn och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'a0ab5fc7-faef-4cc2-bea8-fe3a9838f277'; -aw-sdt-title:'Yrkande 37'">
+				<ol start="37" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; margin-left:20pt; t-i:0pt; padding-left:4.95pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om socialtjänstens behov av resurser och verktyg för att kunna ingripa tidigt och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'cb1d473e-942c-4abe-a71c-990daa5829f5'; -aw-sdt-title:'Yrkande 38'">
+				<ol start="38" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; margin-left:20pt; t-i:0pt; padding-left:4.95pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om införandet av ungdomskriminalitetsnämnder och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'519a962c-8eb4-494a-83ce-133bbb326e77'; -aw-sdt-title:'Yrkande 39'">
+				<ol start="39" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; margin-left:20pt; t-i:0pt; padding-left:4.95pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att punktmarkera unga på väg in i kriminalitet och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'6ee0eefa-a6f1-40a8-b4a0-15a72d5a4e37'; -aw-sdt-title:'Yrkande 40'">
+				<ol start="40" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; margin-left:20pt; t-i:0pt; padding-left:4.95pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att kräva ett större ansvar av sociala medier-företag och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'71a46814-94c9-4465-9be6-04273d0b9c4f'; -aw-sdt-title:'Yrkande 41'">
+				<ol start="41" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; margin-left:20pt; t-i:0pt; padding-left:4.95pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om en fungerande åldersgräns på sociala medier och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'9a18acbb-7369-4ac8-b96d-41e7bc322887'; -aw-sdt-title:'Yrkande 42'">
+				<ol start="42" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; margin-left:20pt; t-i:0pt; padding-left:4.95pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att EU måste växla upp arbetet mot algoritmerna på sociala medier och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'1069d286-63d9-4257-8fed-b4ebd6f4c042'; -aw-sdt-title:'Yrkande 43'">
+				<ol start="43" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; margin-left:20pt; t-i:0pt; padding-left:4.95pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om möjligheten att bötfälla sociala medier-företagen och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'76e7931b-2046-40c6-8e23-06888fef486f'; -aw-sdt-title:'Yrkande 44'">
+				<ol start="44" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; margin-left:20pt; t-i:0pt; padding-left:4.95pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om avhopparverksamhet för unga och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'5eaef653-1ad3-489f-9838-525c55b475dd'; -aw-sdt-title:'Yrkande 45'">
+				<ol start="45" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; margin-left:20pt; t-i:0pt; padding-left:4.95pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att använda Sluta skjut i större omfattning och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'cdd093a5-c8df-4515-9c3c-248cb36423a5'; -aw-sdt-title:'Yrkande 46'">
+				<ol start="46" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; margin-left:20pt; t-i:0pt; padding-left:4.95pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om flickors och unga kvinnors roll i gängkriminaliteten och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'5e60985f-42b7-4579-bd6a-d36875377726'; -aw-sdt-title:'Yrkande 47'">
+				<ol start="47" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; margin-left:20pt; t-i:0pt; padding-left:4.95pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om offentligt drivna HVB-hem och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'a8a74856-a4d5-4a41-8e45-5013353896dd'; -aw-sdt-title:'Yrkande 48'">
+				<ol start="48" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; margin-left:20pt; t-i:0pt; padding-left:4.95pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om nya verktyg till polisen och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'00f491b4-7f9c-4407-aa40-13ff3240db7a'; -aw-sdt-title:'Yrkande 49'">
+				<ol start="49" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; margin-left:20pt; t-i:0pt; padding-left:4.95pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att viss lagstiftning bör vara tidsbegränsad och kontinuerligt utvärderas och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'41b6bfcd-75f9-47d4-9f0a-ce58592e3f1c'; -aw-sdt-title:'Yrkande 50'">
+				<ol start="50" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; margin-left:20pt; t-i:0pt; padding-left:4.95pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om en samlad översyn av samtliga hemliga tvångsmedel och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'33b8fd35-5e27-485f-8554-349b1c88a3b1'; -aw-sdt-title:'Yrkande 51'">
+				<ol start="51" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; margin-left:20pt; t-i:0pt; padding-left:4.95pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om förändrade regler för kroppsvisitation och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'b691e671-4366-4ea7-90fe-539efe7b4530'; -aw-sdt-title:'Yrkande 52'">
+				<ol start="52" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; margin-left:20pt; t-i:0pt; padding-left:4.95pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att utreda ett ”kvittosystem” vid kroppsvisitation och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'7c340699-4830-474f-9084-10067b69a12a'; -aw-sdt-title:'Yrkande 53'">
+				<ol start="53" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; margin-left:20pt; t-i:0pt; padding-left:4.95pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om sekretesshinder och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'bad20814-3b56-4b16-b5f2-7f5a6d218390'; -aw-sdt-title:'Yrkande 54'">
+				<ol start="54" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; margin-left:20pt; t-i:0pt; padding-left:4.95pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att ändra preskriptionstiderna för brott och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'e69246cf-2f72-4dc1-b3ed-7495e8764bca'; -aw-sdt-title:'Yrkande 55'">
+				<ol start="55" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; margin-left:20pt; t-i:0pt; padding-left:4.95pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om flerfaldig brottslighet och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'564414ae-6c9d-4fa4-9034-786fbd3fd0eb'; -aw-sdt-title:'Yrkande 56'">
+				<ol start="56" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; margin-left:20pt; t-i:0pt; padding-left:4.95pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om strängare straff vid återfall i brott och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'c5f4b436-65ad-4db2-bc2b-f64ec178396c'; -aw-sdt-title:'Yrkande 57'">
+				<ol start="57" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; margin-left:20pt; t-i:0pt; padding-left:4.95pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om utökad tillgång för polisen till trafikkameror, kameror för bl.a. trängselskatt och ansiktsigenkänning och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'c9779dbb-ae68-4416-9782-8af206358a29'; -aw-sdt-title:'Yrkande 58'">
+				<ol start="58" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; margin-left:20pt; t-i:0pt; padding-left:4.95pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om rätt för kommunerna att sätta upp kameror utan föregående tillståndsprocess och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'d78ad48f-11d5-4f3a-91de-e71f736a7727'; -aw-sdt-title:'Yrkande 59'">
+				<ol start="59" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; margin-left:20pt; t-i:0pt; padding-left:4.95pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om en översyn av lagen om valfrihetssystem, tillståndsplikt för vissa branscher och svartlistning av oseriösa företag för att bekämpa välfärdskriminaliteten, och detta tillkännager riksdagen för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'085533d3-4ef8-46de-84eb-654162e4fb1f'; -aw-sdt-title:'Yrkande 60'">
+				<ol start="60" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; margin-left:20pt; t-i:0pt; padding-left:4.95pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att bekämpa arbetslivskriminaliteten genom att bl.a. ge Bolagsverket en brottsförebyggande roll och ett tillsynsansvar för att stärka verkets arbete mot ekonomisk brottslighet, återinföra revisionsplikten, se till att fler brott ska kunna leda till näringsförbud och ge Bolagsverket möjlighet att kräva personlig inställelse, och detta tillkännager riksdagen för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'0933a991-0e4b-4304-bc48-afaf70a074b8'; -aw-sdt-title:'Yrkande 61'">
+				<ol start="61" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; margin-left:20pt; t-i:0pt; padding-left:4.95pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om vikten av att det myndighetsgemensamma arbetet mot organiserad brottslighet fortsätter och utvecklas och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'ec54a963-d3be-4230-9caa-19ca6da4680a'; -aw-sdt-title:'Yrkande 62'">
+				<ol start="62" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; margin-left:20pt; t-i:0pt; padding-left:4.95pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om vapenamnesti och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'ea842358-28d0-44a2-a3af-793d34d280b0'; -aw-sdt-title:'Yrkande 63'">
+				<ol start="63" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; margin-left:20pt; t-i:0pt; padding-left:4.95pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om tipspengar för information om vapen och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'3b9a4ff5-797b-46b4-9db4-46b3aa7294ee'; -aw-sdt-title:'Yrkande 64'">
+				<ol start="64" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; margin-left:20pt; t-i:0pt; padding-left:4.95pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om ett europeiskt expertcenter mot narkotika- och vapensmuggling och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'f6676f95-09e3-443a-83ce-f41572fa6eab'; -aw-sdt-title:'Yrkande 65'">
+				<ol start="65" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; margin-left:20pt; t-i:0pt; padding-left:4.95pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att utreda gemensamma upphandlingar för EU-ländernas tullmyndigheter och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'7e2fc9f1-c4d5-4f35-90c0-0ebd5c4aa646'; -aw-sdt-title:'Yrkande 66'">
+				<ol start="66" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; margin-left:20pt; t-i:0pt; padding-left:4.95pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att stärka såväl det bilaterala samarbetet som EU-samarbetet med ursprungs- och transitländer för att stoppa smuggling av vapen och narkotika och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'51de6912-ed1b-47f1-b0da-51f816a3c6dc'; -aw-sdt-title:'Yrkande 67'">
+				<ol start="67" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; margin-left:20pt; t-i:0pt; padding-left:4.95pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om en statlig task force och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'fec4c27d-576b-42f2-90b3-c644e42f44ba'; -aw-sdt-title:'Yrkande 68'">
+				<ol start="68" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; margin-left:20pt; t-i:0pt; padding-left:4.95pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om nollvision för mäns våld mot kvinnor och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'931059cc-8a2d-4457-bbd7-a0952b0fb2c6'; -aw-sdt-title:'Yrkande 69'">
+				<ol start="69" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; margin-left:20pt; t-i:0pt; padding-left:4.95pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om grov kvinnofridskränkning och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'8f96b884-8deb-4bf5-a13e-757ac4b4d082'; -aw-sdt-title:'Yrkande 70'">
+				<ol start="70" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; margin-left:20pt; t-i:0pt; padding-left:4.95pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att kriminalisera psykiskt våld och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'fcfe2162-b96b-4c16-86db-04a62d8c3258'; -aw-sdt-title:'Yrkande 71'">
+				<ol start="71" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; margin-left:20pt; t-i:0pt; padding-left:4.95pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att det bör införas en särskild straffskärpningsgrund för brott med hatbrottsmotiv mot kvinnor och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'29af8e74-12c3-46cc-aa65-83d5ec313736'; -aw-sdt-title:'Yrkande 72'">
+				<ol start="72" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; margin-left:20pt; t-i:0pt; padding-left:4.95pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om tydligare restriktioner efter avtjänat straff och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'b971ae04-8f15-42df-b39c-0dcd7533689a'; -aw-sdt-title:'Yrkande 73'">
+				<ol start="73" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; margin-left:20pt; t-i:0pt; padding-left:4.95pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om kontaktförbud och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'e39a05f1-3d9c-4381-95a4-333d92465d3c'; -aw-sdt-title:'Yrkande 74'">
+				<ol start="74" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; margin-left:20pt; t-i:0pt; padding-left:4.95pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att handlägga brott i nära relation på samma sätt som andra grova brott och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'2b77c5f8-c7c3-4c13-9d49-5d890b7863e8'; -aw-sdt-title:'Yrkande 75'">
+				<ol start="75" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; margin-left:20pt; t-i:0pt; padding-left:4.95pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om vikten av specialiserade poliser och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'bbcdca54-c6a4-4614-9e71-6dcf97b87269'; -aw-sdt-title:'Yrkande 76'">
+				<ol start="76" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; margin-left:20pt; t-i:0pt; padding-left:4.95pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om polisens arbete med särskilt hänsynslösa gärningsmän och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'2740cb7c-cf16-4592-b04d-afc3776ac54e'; -aw-sdt-title:'Yrkande 77'">
+				<ol start="77" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; margin-left:20pt; t-i:0pt; padding-left:4.95pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om lex Lotta och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'8a02c05d-a970-4003-921f-0364d6bd2a30'; -aw-sdt-title:'Yrkande 78'">
+				<ol start="78" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; margin-left:20pt; t-i:0pt; padding-left:4.95pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om kriskommission för att bekämpa mäns våld mot kvinnor och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'86f94122-0c18-4a02-a9a0-604e37fa4d07'; -aw-sdt-title:'Yrkande 79'">
+				<ol start="79" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; margin-left:20pt; t-i:0pt; padding-left:4.95pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om nationellt våldsförebyggande program och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'e2c749c1-2c84-4ec2-91c6-c6c15765ad45'; -aw-sdt-title:'Yrkande 80'">
+				<ol start="80" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; margin-left:20pt; t-i:0pt; padding-left:4.95pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om program för att få män att sluta slå och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'d7a17a9f-89ea-4511-a933-eaab31f09dcc'; -aw-sdt-title:'Yrkande 81'">
+				<ol start="81" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; margin-left:20pt; t-i:0pt; padding-left:4.95pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om stöd till våldsutsatta kvinnor och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'3841a7cc-e4ea-4bc3-94cf-fa392be92f05'; -aw-sdt-title:'Yrkande 82'">
+				<ol start="82" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; margin-left:20pt; t-i:0pt; padding-left:4.95pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om eftervåld och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'5c47a4cc-719a-47cb-841e-16e8a3fb1538'; -aw-sdt-title:'Yrkande 83'">
+				<ol start="83" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; margin-left:20pt; t-i:0pt; padding-left:4.95pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om stöd till kvinnor med skyddade personuppgifter och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'cd96a68b-d677-4eb1-aaa3-77026af3254e'; -aw-sdt-title:'Yrkande 84'">
+				<ol start="84" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; margin-left:20pt; t-i:0pt; padding-left:4.95pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om trygga skyddade boenden och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'0ccf0557-3c51-4273-ae17-716078d791cd'; -aw-sdt-title:'Yrkande 85'">
+				<ol start="85" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; margin-left:20pt; t-i:0pt; padding-left:4.95pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om barnahus i hela landet och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'882e9846-8c0f-4c8b-a145-f4b6ff9582d7'; -aw-sdt-title:'Yrkande 86'">
+				<ol start="86" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; margin-left:20pt; t-i:0pt; padding-left:4.95pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om barns rätt till skydd mot en våldsam förälder och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'2ba1b892-4e5e-4d00-a87e-0aa976f9aba1'; -aw-sdt-title:'Yrkande 87'">
+				<ol start="87" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; margin-left:20pt; t-i:0pt; padding-left:4.95pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om våldsutsatta kvinnors rätt till bostad och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'eaa192be-bf1b-41bb-b9a2-01e5af3bee72'; -aw-sdt-title:'Yrkande 88'">
+				<ol start="88" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; margin-left:20pt; t-i:0pt; padding-left:4.95pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om våld i ungas parrelationer och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'8344eaad-f329-4f10-88d3-5c8bad16bb42'; -aw-sdt-title:'Yrkande 89'">
+				<ol start="89" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; margin-left:20pt; t-i:0pt; padding-left:4.95pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om våld mot äldre kvinnor och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'976a5275-b453-44d2-b881-0079579819ba'; -aw-sdt-title:'Yrkande 90'">
+				<ol start="90" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; margin-left:20pt; t-i:0pt; padding-left:4.95pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om hedersrelaterat våld och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'d98e9bd9-ad07-44fd-bfbf-c71c1563e2b4'; -aw-sdt-title:'Yrkande 91'">
+				<ol start="91" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; margin-left:20pt; t-i:0pt; padding-left:4.95pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om lagstiftning mot oskuldsoperationer, oskuldskontroller och oskuldsintyg och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'7e252634-7e5c-4c98-aebe-08b0eb3c5895'; -aw-sdt-title:'Yrkande 92'">
+				<ol start="92" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; margin-left:20pt; t-i:0pt; padding-left:4.95pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om lagstiftning mot omvändelseterapi och omvändelseförsök och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'532958b6-def7-4b64-a9c3-32447f080b1f'; -aw-sdt-title:'Yrkande 93'">
+				<ol start="93" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; margin-left:20pt; t-i:0pt; padding-left:4.95pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om förbättrat skydd för barn mot sexuellt våld och utsatthet i digitala miljöer och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'51e131e5-8a70-4d5d-931e-1704405c185b'; -aw-sdt-title:'Yrkande 94'">
+				<ol start="94" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; margin-left:20pt; t-i:0pt; padding-left:4.95pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om prostitution och människohandel och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'255905a1-51e0-4d97-8923-df209328a6c9'; -aw-sdt-title:'Yrkande 95'">
+				<ol start="95" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; margin-left:20pt; t-i:0pt; padding-left:4.95pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att ta bort kravet på dubbel straffbarhet vid köp av sexuell tjänst utomlands och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'d36823fd-47b7-4c2f-9de5-a86a30de0b5c'; -aw-sdt-title:'Yrkande 96'">
+				<ol start="96" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; margin-left:20pt; t-i:0pt; padding-left:4.95pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om brottsförebyggande arbete och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'6aae102f-0032-4633-ad82-bcdd9d134cbc'; -aw-sdt-title:'Yrkande 97'">
+				<ol start="97" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; margin-left:20pt; t-i:0pt; padding-left:4.95pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om bankernas ansvar för att bekämpa bedrägerier och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'4febbd44-4266-4fad-917a-6e55ba860f60'; -aw-sdt-title:'Yrkande 98'">
+				<ol start="98" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; margin-left:20pt; t-i:0pt; padding-left:4.95pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om återbetalningsskyldighet för bankerna och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'b2a2f866-3b10-4e89-955e-e8ed5f9258a2'; -aw-sdt-title:'Yrkande 99'">
+				<ol start="99" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; margin-left:20pt; t-i:0pt; padding-left:4.95pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om vikten av kontinuerlig information för att förebygga bedrägerier och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'80a3364a-d84a-463e-b8ff-4e0b450a1815'; -aw-sdt-title:'Yrkande 100'">
+				<ol start="100" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; t-i:0pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om uppdrag till berörd myndighet så att EU:s kommande krav på märkning av AI-genererat innehåll kan implementeras utan dröjsmål och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'8f5587f8-4008-41d7-bea2-6f40c96c0b5d'; -aw-sdt-title:'Yrkande 101'">
+				<ol start="101" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; t-i:0pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att stärka brottsoffrens ställning och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'d275c7ef-0e37-4619-9a5c-d9c0d66b062a'; -aw-sdt-title:'Yrkande 102'">
+				<ol start="102" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; t-i:0pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om samhällets ansvar för stöd till brottsoffer och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'304c3477-afaf-497b-925f-17292ec3651b'; -aw-sdt-title:'Yrkande 103'">
+				<ol start="103" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; t-i:0pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att utreda en särskild brottsofferlag och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'28eb93a1-f475-4817-b752-9a69d724abf3'; -aw-sdt-title:'Yrkande 104'">
+				<ol start="104" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; t-i:0pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om ändamålsenliga regler om ersättning till brottsoffer och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'0905dee7-2294-4ab6-ac5e-0784497824a3'; -aw-sdt-title:'Yrkande 105'">
+				<ol start="105" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; t-i:0pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om ideella organisationers viktiga arbete med stöd till brottsoffer och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'d1980007-563f-4ee5-ad7d-277ab4503715'; -aw-sdt-title:'Yrkande 106'">
+				<ol start="106" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; t-i:0pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om Brottsoffermyndigheten och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'5b02dc00-c558-4291-81d1-2bddbae07454'; -aw-sdt-title:'Yrkande 107'">
+				<ol start="107" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; t-i:0pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om barn som utsätts för brott och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'8113d208-17a5-44d9-9d5f-6622c5ada419'; -aw-sdt-title:'Yrkande 108'">
+				<ol start="108" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; t-i:0pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om behovet av nationell samling mot våldsbejakande extremism och terrorism och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'cfb368ef-faa5-444b-8fe2-f28fb7493c2e'; -aw-sdt-title:'Yrkande 109'">
+				<ol start="109" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; t-i:0pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om en breddad utredning för att komma till rätta med koranbränningarna och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'8f5f0b38-6404-499c-8f90-848e9389818a'; -aw-sdt-title:'Yrkande 110'">
+				<ol start="110" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; t-i:0pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om tillräckliga resurser för att upptäcka, förhindra och bekämpa terrorism och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'9e6f7872-e2ab-4d7e-b06b-77b9ac31d4ab'; -aw-sdt-title:'Yrkande 111'">
+				<ol start="111" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; t-i:0pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om Centrum mot våldsbejakande extremism och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'4c238cd7-46bb-40fd-b800-8de28d963b8f'; -aw-sdt-title:'Yrkande 112'">
+				<ol start="112" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; t-i:0pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om radikalisering inom gamingvärlden och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'78b12195-e5d4-4569-ae97-7087bed38d28'; -aw-sdt-title:'Yrkande 113'">
+				<ol start="113" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; t-i:0pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om vikten av polisiär närvaro online för att bekämpa radikalisering och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'8cb73ed5-eb16-40c7-81bf-b4fcf33027a6'; -aw-sdt-title:'Yrkande 114'">
+				<ol start="114" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; t-i:0pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om hat och hot mot journalister, opinionsbildare, politiker, fackligt förtroendevalda och kulturarbetare och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'8e9873d9-f457-4a56-9eb6-111c72bf8b99'; -aw-sdt-title:'Yrkande 115'">
+				<ol start="115" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; t-i:0pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om en ny strategi mot hot och hat och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'e19c5ba7-1e12-4d02-a328-b52932c93e06'; -aw-sdt-title:'Yrkande 116'">
+				<ol start="116" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; t-i:0pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om en översyn av den lagstiftning som berör hot och hat och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'1a817308-791b-46bd-8284-b6ec4f28208a'; -aw-sdt-title:'Yrkande 117'">
+				<ol start="117" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; t-i:0pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om effektivare bekämpning av vardagsbrottslighet och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'b7c68722-09d7-456c-b4ba-c75a12c4d3af'; -aw-sdt-title:'Yrkande 118'">
+				<ol start="118" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; t-i:0pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om gemensam europeisk stöldskyddsmärkning och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'2a80f16f-5b88-4da7-942b-6c9e8dc82f4c'; -aw-sdt-title:'Yrkande 119'">
+				<ol start="119" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; t-i:0pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om förundersökningsbegränsning, åtalsunderlåtelse och direktavskrivning och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<h1>
+				<a name="_Hlk178948240"></a><a name="MotionsStart"><span style="-aw-bookmark-end:_Hlk178948240"></span></a><span>Motivering</span>
+			</h1>
+			<p class="Tabellrubrik">
+				<span>Tabell Anslagsförslag för 2025 för utgiftsområde 4 Rättsväsendet</span>
+			</p>
+			<p class="Tabellunderrubrik">
+				<span>Tusental kronor</span>
+			</p>
+			<table cellspacing="0" cellpadding="0" style="width:425.25pt; border-collapse:collapse">
+				<tr style="height:8.5pt">
+					<td colspan="2" style="width:14.2pt; border-top-style:solid; border-top-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding:2.85pt 1.4pt 1.4pt; vertical-align:top; background-color:#ffffff">
+						<p style="t-i:0pt; font-size: 0.90em">
+							<span style="font-weight:bold">Anslag</span>
+						</p>
+					</td>
+					<td style="width:68.1pt; border-top-style:solid; border-top-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding:3.4pt 1.4pt 1pt; vertical-align:top; background-color:#ffffff">
+						<p style="t-i:0pt; text-align:right; font-size: 0.90em">
+							<span style="font-weight:bold">Regeringens förslag</span>
+						</p>
+					</td>
+					<td style="width:68.1pt; border-top-style:solid; border-top-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding:2.85pt 1.4pt 1.4pt; vertical-align:top; background-color:#ffffff">
+						<p style="t-i:0pt; text-align:right; font-size: 0.90em">
+							<span style="font-weight:bold">Avvikelse från regeringen</span>
+						</p>
+					</td>
+				</tr>
+				<tr style="height:8.5pt">
+					<td style="width:14.2pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:top; background-color:#ffffff">
+						<p style="t-i:0pt; font-size: 0.90em">
+							<span>1:1</span>
+						</p>
+					</td>
+					<td style="width:187.15pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:middle; background-color:#ffffff">
+						<p style="t-i:0pt; font-size: 0.90em">
+							<span>Polismyndigheten</span>
+						</p>
+					</td>
+					<td style="width:68.1pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:top; background-color:#ffffff">
+						<p style="t-i:0pt; text-align:right; font-size: 0.90em">
+							<span>45</span><span>&#xa0;</span><span>211</span><span>&#xa0;</span><span>735</span>
+						</p>
+					</td>
+					<td style="width:68.1pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:top; background-color:#ffffff">
+						<p style="t-i:0pt; text-align:right; font-size: 0.90em">
+							<span>±0</span>
+						</p>
+					</td>
+				</tr>
+				<tr style="height:8.5pt">
+					<td style="width:14.2pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:top; background-color:#ffffff">
+						<p style="t-i:0pt; font-size: 0.90em">
+							<span>1:2</span>
+						</p>
+					</td>
+					<td style="width:187.15pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:middle; background-color:#ffffff">
+						<p style="t-i:0pt; font-size: 0.90em">
+							<span>Säkerhetspolisen</span>
+						</p>
+					</td>
+					<td style="width:68.1pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:top; background-color:#ffffff">
+						<p style="t-i:0pt; text-align:right; font-size: 0.90em">
+							<span>2</span><span>&#xa0;</span><span>757</span><span>&#xa0;</span><span>388</span>
+						</p>
+					</td>
+					<td style="width:68.1pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:top; background-color:#ffffff">
+						<p style="t-i:0pt; text-align:right; font-size: 0.90em">
+							<span>±0</span>
+						</p>
+					</td>
+				</tr>
+				<tr style="height:8.5pt">
+					<td style="width:14.2pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:top; background-color:#ffffff">
+						<p style="t-i:0pt; font-size: 0.90em">
+							<span>1:3</span>
+						</p>
+					</td>
+					<td style="width:187.15pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:middle; background-color:#ffffff">
+						<p style="t-i:0pt; font-size: 0.90em">
+							<span>Åklagarmyndigheten</span>
+						</p>
+					</td>
+					<td style="width:68.1pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:top; background-color:#ffffff">
+						<p style="t-i:0pt; text-align:right; font-size: 0.90em">
+							<span>2</span><span>&#xa0;</span><span>788</span><span>&#xa0;</span><span>478</span>
+						</p>
+					</td>
+					<td style="width:68.1pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:top; background-color:#ffffff">
+						<p style="t-i:0pt; text-align:right; font-size: 0.90em">
+							<span>±0</span>
+						</p>
+					</td>
+				</tr>
+				<tr style="height:8.5pt">
+					<td style="width:14.2pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:top; background-color:#ffffff">
+						<p style="t-i:0pt; font-size: 0.90em">
+							<span>1:4</span>
+						</p>
+					</td>
+					<td style="width:187.15pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:middle; background-color:#ffffff">
+						<p style="t-i:0pt; font-size: 0.90em">
+							<span>Ekobrottsmyndigheten</span>
+						</p>
+					</td>
+					<td style="width:68.1pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:top; background-color:#ffffff">
+						<p style="t-i:0pt; text-align:right; font-size: 0.90em">
+							<span>1</span><span>&#xa0;</span><span>139</span><span>&#xa0;</span><span>882</span>
+						</p>
+					</td>
+					<td style="width:68.1pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:top; background-color:#ffffff">
+						<p style="t-i:0pt; text-align:right; font-size: 0.90em">
+							<span>±0</span>
+						</p>
+					</td>
+				</tr>
+				<tr style="height:8.5pt">
+					<td style="width:14.2pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:top; background-color:#ffffff">
+						<p style="t-i:0pt; font-size: 0.90em">
+							<span>1:5</span>
+						</p>
+					</td>
+					<td style="width:187.15pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:middle; background-color:#ffffff">
+						<p style="t-i:0pt; font-size: 0.90em">
+							<span>Sveriges Domstolar</span>
+						</p>
+					</td>
+					<td style="width:68.1pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:top; background-color:#ffffff">
+						<p style="t-i:0pt; text-align:right; font-size: 0.90em">
+							<span>8</span><span>&#xa0;</span><span>178</span><span>&#xa0;</span><span>880</span>
+						</p>
+					</td>
+					<td style="width:68.1pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:top; background-color:#ffffff">
+						<p style="t-i:0pt; text-align:right; font-size: 0.90em">
+							<span>±0</span>
+						</p>
+					</td>
+				</tr>
+				<tr style="height:8.5pt">
+					<td style="width:14.2pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:top; background-color:#ffffff">
+						<p style="t-i:0pt; font-size: 0.90em">
+							<span>1:6</span>
+						</p>
+					</td>
+					<td style="width:187.15pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:middle; background-color:#ffffff">
+						<p style="t-i:0pt; font-size: 0.90em">
+							<span>Kriminalvården</span>
+						</p>
+					</td>
+					<td style="width:68.1pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:top; background-color:#ffffff">
+						<p style="t-i:0pt; text-align:right; font-size: 0.90em">
+							<span>20</span><span>&#xa0;</span><span>432</span><span>&#xa0;</span><span>298</span>
+						</p>
+					</td>
+					<td style="width:68.1pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:top; background-color:#ffffff">
+						<p style="t-i:0pt; text-align:right; font-size: 0.90em">
+							<span>±0</span>
+						</p>
+					</td>
+				</tr>
+				<tr style="height:8.5pt">
+					<td style="width:14.2pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:top; background-color:#ffffff">
+						<p style="t-i:0pt; font-size: 0.90em">
+							<span>1:7</span>
+						</p>
+					</td>
+					<td style="width:187.15pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:middle; background-color:#ffffff">
+						<p style="t-i:0pt; font-size: 0.90em">
+							<span>Brottsförebyggande rådet</span>
+						</p>
+					</td>
+					<td style="width:68.1pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:top; background-color:#ffffff">
+						<p style="t-i:0pt; text-align:right; font-size: 0.90em">
+							<span>308</span><span>&#xa0;</span><span>695</span>
+						</p>
+					</td>
+					<td style="width:68.1pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:top; background-color:#ffffff">
+						<p style="t-i:0pt; text-align:right; font-size: 0.90em">
+							<span>40</span><span>&#xa0;</span><span>000</span>
+						</p>
+					</td>
+				</tr>
+				<tr style="height:8.5pt">
+					<td style="width:14.2pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:top; background-color:#ffffff">
+						<p style="t-i:0pt; font-size: 0.90em">
+							<span>1:8</span>
+						</p>
+					</td>
+					<td style="width:187.15pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:middle; background-color:#ffffff">
+						<p style="t-i:0pt; font-size: 0.90em">
+							<span>Rättsmedicinalverket</span>
+						</p>
+					</td>
+					<td style="width:68.1pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:top; background-color:#ffffff">
+						<p style="t-i:0pt; text-align:right; font-size: 0.90em">
+							<span>664</span><span>&#xa0;</span><span>682</span>
+						</p>
+					</td>
+					<td style="width:68.1pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:top; background-color:#ffffff">
+						<p style="t-i:0pt; text-align:right; font-size: 0.90em">
+							<span>±0</span>
+						</p>
+					</td>
+				</tr>
+				<tr style="height:8.5pt">
+					<td style="width:14.2pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:top; background-color:#ffffff">
+						<p style="t-i:0pt; font-size: 0.90em">
+							<span>1:9</span>
+						</p>
+					</td>
+					<td style="width:187.15pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:middle; background-color:#ffffff">
+						<p style="t-i:0pt; font-size: 0.90em">
+							<span>Brottsoffermyndigheten</span>
+						</p>
+					</td>
+					<td style="width:68.1pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:top; background-color:#ffffff">
+						<p style="t-i:0pt; text-align:right; font-size: 0.90em">
+							<span>62</span><span>&#xa0;</span><span>700</span>
+						</p>
+					</td>
+					<td style="width:68.1pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:top; background-color:#ffffff">
+						<p style="t-i:0pt; text-align:right; font-size: 0.90em">
+							<span>±0</span>
+						</p>
+					</td>
+				</tr>
+				<tr style="height:8.5pt">
+					<td style="width:14.2pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:top; background-color:#ffffff">
+						<p style="t-i:0pt; font-size: 0.90em">
+							<span>1:10</span>
+						</p>
+					</td>
+					<td style="width:187.15pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:middle; background-color:#ffffff">
+						<p style="t-i:0pt; font-size: 0.90em">
+							<span>Ersättning för skador på grund av brott</span>
+						</p>
+					</td>
+					<td style="width:68.1pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:top; background-color:#ffffff">
+						<p style="t-i:0pt; text-align:right; font-size: 0.90em">
+							<span>221</span><span>&#xa0;</span><span>953</span>
+						</p>
+					</td>
+					<td style="width:68.1pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:top; background-color:#ffffff">
+						<p style="t-i:0pt; text-align:right; font-size: 0.90em">
+							<span>±0</span>
+						</p>
+					</td>
+				</tr>
+				<tr style="height:8.5pt">
+					<td style="width:14.2pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:top; background-color:#ffffff">
+						<p style="t-i:0pt; font-size: 0.90em">
+							<span>1:11</span>
+						</p>
+					</td>
+					<td style="width:187.15pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:middle; background-color:#ffffff">
+						<p style="t-i:0pt; font-size: 0.90em">
+							<span>Rättsliga biträden m.m.</span>
+						</p>
+					</td>
+					<td style="width:68.1pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:top; background-color:#ffffff">
+						<p style="t-i:0pt; text-align:right; font-size: 0.90em">
+							<span>4</span><span>&#xa0;</span><span>305</span><span>&#xa0;</span><span>857</span>
+						</p>
+					</td>
+					<td style="width:68.1pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:top; background-color:#ffffff">
+						<p style="t-i:0pt; text-align:right; font-size: 0.90em">
+							<span>±0</span>
+						</p>
+					</td>
+				</tr>
+				<tr style="height:8.5pt">
+					<td style="width:14.2pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:top; background-color:#ffffff">
+						<p style="t-i:0pt; font-size: 0.90em">
+							<span>1:12</span>
+						</p>
+					</td>
+					<td style="width:187.15pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:middle; background-color:#ffffff">
+						<p style="t-i:0pt; font-size: 0.90em">
+							<span>Kostnader för vissa skaderegleringar m.m.</span>
+						</p>
+					</td>
+					<td style="width:68.1pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:top; background-color:#ffffff">
+						<p style="t-i:0pt; text-align:right; font-size: 0.90em">
+							<span>90</span><span>&#xa0;</span><span>987</span>
+						</p>
+					</td>
+					<td style="width:68.1pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:top; background-color:#ffffff">
+						<p style="t-i:0pt; text-align:right; font-size: 0.90em">
+							<span>±0</span>
+						</p>
+					</td>
+				</tr>
+				<tr style="height:8.5pt">
+					<td style="width:14.2pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:top; background-color:#ffffff">
+						<p style="t-i:0pt; font-size: 0.90em">
+							<span>1:13</span>
+						</p>
+					</td>
+					<td style="width:187.15pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:middle; background-color:#ffffff">
+						<p style="t-i:0pt; font-size: 0.90em">
+							<span>Avgifter till vissa internationella sammanslutningar</span>
+						</p>
+					</td>
+					<td style="width:68.1pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:top; background-color:#ffffff">
+						<p style="t-i:0pt; text-align:right; font-size: 0.90em">
+							<span>19</span><span>&#xa0;</span><span>174</span>
+						</p>
+					</td>
+					<td style="width:68.1pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:top; background-color:#ffffff">
+						<p style="t-i:0pt; text-align:right; font-size: 0.90em">
+							<span>±0</span>
+						</p>
+					</td>
+				</tr>
+				<tr style="height:8.5pt">
+					<td style="width:14.2pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:top; background-color:#ffffff">
+						<p style="t-i:0pt; font-size: 0.90em">
+							<span>1:14</span>
+						</p>
+					</td>
+					<td style="width:187.15pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:middle; background-color:#ffffff">
+						<p style="t-i:0pt; font-size: 0.90em">
+							<span>Bidrag till brottsförebyggande arbete</span>
+						</p>
+					</td>
+					<td style="width:68.1pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:top; background-color:#ffffff">
+						<p style="t-i:0pt; text-align:right; font-size: 0.90em">
+							<span>138</span><span>&#xa0;</span><span>157</span>
+						</p>
+					</td>
+					<td style="width:68.1pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:top; background-color:#ffffff">
+						<p style="t-i:0pt; text-align:right; font-size: 0.90em">
+							<span>±0</span>
+						</p>
+					</td>
+				</tr>
+				<tr style="height:8.5pt">
+					<td style="width:14.2pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:top; background-color:#ffffff">
+						<p style="t-i:0pt; font-size: 0.90em">
+							<span>1:15</span>
+						</p>
+					</td>
+					<td style="width:187.15pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:middle; background-color:#ffffff">
+						<p style="t-i:0pt; font-size: 0.90em">
+							<span>Säkerhets- och integritetsskyddsnämnden</span>
+						</p>
+					</td>
+					<td style="width:68.1pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:top; background-color:#ffffff">
+						<p style="t-i:0pt; text-align:right; font-size: 0.90em">
+							<span>42</span><span>&#xa0;</span><span>660</span>
+						</p>
+					</td>
+					<td style="width:68.1pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:top; background-color:#ffffff">
+						<p style="t-i:0pt; text-align:right; font-size: 0.90em">
+							<span>±0</span>
+						</p>
+					</td>
+				</tr>
+				<tr style="height:8.5pt">
+					<td style="width:14.2pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:top; background-color:#ffffff">
+						<p style="t-i:0pt; font-size: 0.90em">
+							<span>1:16</span>
+						</p>
+					</td>
+					<td style="width:187.15pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:middle; background-color:#ffffff">
+						<p style="t-i:0pt; font-size: 0.90em">
+							<span>Domarnämnden</span>
+						</p>
+					</td>
+					<td style="width:68.1pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:top; background-color:#ffffff">
+						<p style="t-i:0pt; text-align:right; font-size: 0.90em">
+							<span>12</span><span>&#xa0;</span><span>153</span>
+						</p>
+					</td>
+					<td style="width:68.1pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:top; background-color:#ffffff">
+						<p style="t-i:0pt; text-align:right; font-size: 0.90em">
+							<span>±0</span>
+						</p>
+					</td>
+				</tr>
+				<tr style="height:8.5pt">
+					<td style="width:14.2pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:top; background-color:#ffffff">
+						<p style="t-i:0pt; font-size: 0.90em">
+							<span>1:17</span>
+						</p>
+					</td>
+					<td style="width:187.15pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:middle; background-color:#ffffff">
+						<p style="t-i:0pt; font-size: 0.90em">
+							<span>Från EU-budgeten finansierade insatser avseende EU:s inre säkerhet, gränsförvaltning och visering</span>
+						</p>
+					</td>
+					<td style="width:68.1pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:bottom; background-color:#ffffff">
+						<p style="t-i:0pt; text-align:right; font-size: 0.90em">
+							<span>416</span><span>&#xa0;</span><span>000</span>
+						</p>
+					</td>
+					<td style="width:68.1pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:bottom; background-color:#ffffff">
+						<p style="t-i:0pt; text-align:right; font-size: 0.90em">
+							<span>±0</span>
+						</p>
+					</td>
+				</tr>
+				<tr style="height:8.5pt">
+					<td style="width:14.2pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:top; background-color:#ffffff">
+						<p style="t-i:0pt; font-size: 0.90em">
+							<span>1:18</span>
+						</p>
+					</td>
+					<td style="width:187.15pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:middle; background-color:#ffffff">
+						<p style="t-i:0pt; font-size: 0.90em">
+							<span>Akuta åtgärder vid gängkriminalitet</span>
+						</p>
+					</td>
+					<td style="width:68.1pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:top; background-color:#ffffff">
+						<p style="t-i:0pt; text-align:right; font-size: 0.90em">
+							<span style="-aw-import:ignore">&#xa0;</span>
+						</p>
+					</td>
+					<td style="width:68.1pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:top; background-color:#ffffff">
+						<p style="t-i:0pt; text-align:right; font-size: 0.90em">
+							<span>100 000</span>
+						</p>
+					</td>
+				</tr>
+				<tr style="height:8.5pt">
+					<td style="width:14.2pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:top; background-color:#ffffff">
+						<p style="t-i:0pt; font-size: 0.90em">
+							<span>1:19</span>
+						</p>
+					</td>
+					<td style="width:187.15pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:middle; background-color:#ffffff">
+						<p style="t-i:0pt; font-size: 0.90em">
+							<span>Utred Rico</span>
+						</p>
+					</td>
+					<td style="width:68.1pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:top; background-color:#ffffff">
+						<p style="t-i:0pt; text-align:right; font-size: 0.90em">
+							<span>±0</span>
+						</p>
+					</td>
+					<td style="width:68.1pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:top; background-color:#ffffff">
+						<p style="t-i:0pt; text-align:right; font-size: 0.90em">
+							<span>5</span><span>&#xa0;</span><span>000</span>
+						</p>
+					</td>
+				</tr>
+				<tr style="height:8.5pt">
+					<td colspan="2" style="width:201.3pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding:3.4pt 4.25pt 1pt 1.4pt; vertical-align:middle; background-color:#ffffff">
+						<p style="t-i:0pt; font-size: 0.90em">
+							<span style="font-weight:bold">Summa</span>
+						</p>
+					</td>
+					<td style="width:68.1pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding:3.4pt 1.4pt 1pt; vertical-align:top; background-color:#ffffff">
+						<p style="t-i:0pt; text-align:right; font-size: 0.90em">
+							<span style="font-weight:bold">86</span><span style="font-weight:bold">&#xa0;</span><span style="font-weight:bold">791</span><span style="font-weight:bold">&#xa0;</span><span style="font-weight:bold">679</span>
+						</p>
+					</td>
+					<td style="width:68.1pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding:3.4pt 1.4pt 1pt; vertical-align:top; background-color:#ffffff">
+						<p style="t-i:0pt; text-align:right; font-size: 0.90em">
+							<span style="font-weight:bold">145</span><span style="font-weight:bold">&#xa0;</span><span style="font-weight:bold">000</span>
+						</p>
+					</td>
+				</tr>
+			</table>
+			<h2>
+				<span>Inledning</span>
+			</h2>
+			<p class="Normalutanindragellerluft">
+				<span>Sedan mitten på 2000-talet har vi en växande gängkriminalitet där våldet blivit allt grövre, uppklaringen allt lägre och de kriminella allt yngre. Den här utvecklingen skiljer sig från övrig brottslighet i samhället som inte ökat utan har legat still eller minskat. Bakom ungdomsgängen finns en växande organiserad brottslighet som blivit mer etablerad och också förgrenat sig in i samhällsviktiga institutioner. Den gängkriminella kulturen har normaliserats och i vissa miljöer glorifierats. Den här utvecklingen sätter skräck i Sverige. Vi har nu en situation där barn mördar barn och där oskyldiga hamnar i skottlinjen. Hela städer och bostadsområden får tillvaron och tryggheten slagen i spillror. Att gängen framförallt består av andra generationens invandrare från utsatta områden ger också rädslan en etnisk dimension där även oskyldiga ungdomar stämplas. Med otryggheten växer misstänksamheten och rasismen.</span>
+			</p>
+			<p>
+				<span>Grundproblemet med gängkriminalitetens utveckling har pågått under snart 20 år utan tecken på förbättring. Att politiken inte har klarat av att vända utvecklingen på så lång tid visar på allvarliga systemfel. Staten och det offentliga Sverige har inte klarat sitt kärnuppdrag vad gäller människors trygghet och säkerhet. På den här punkten har även vi socialdemokrater anledning till självkritik. När människor tappar hoppet om att sam</span><span>&#xad;</span><span>hället kan vända utvecklingen väljer man istället individuella lösningar. Svaret blir att hitta nya levnadsvanor, flytta, skaffa gallergrindar och privata överfallslarm.</span>
+			</p>
+			<p>
+				<span>De här rädslorna måste tas på största allvar. Många är idag livrädda för brottsutveck</span><span>&#xad;</span><span>lingen och gängkriminalitet skadar tilliten mellan människor och urholkar förutsätt</span><span>&#xad;</span><span>ningarna för vår samhällsmodell. Istället för tillit och samhällsgemenskap får vi misstro och polarisering. Den här utvecklingen måste bekämpas.</span>
+			</p>
+			<p>
+				<span>Den socialdemokratiska kriminalpolitiken bygger på effektivitet och rättssäkerhet. Den har två huvudsakliga prioriteringar – att knäcka gängkriminaliteten och att stoppa mäns våld mot kvinnor. Tusentals flickor och kvinnor utsätts varje år för trakasserier, våld och sexualbrott. Varje månad dödas minst en kvinna av en man som hon har eller haft en relation med. Långt fler utsätts för fysiskt, psykiskt och ekonomiskt våld under lång tid. Ofta finns barn inblandade. Det är oacceptabelt. Våldet orsakar stort lidande och livslånga konsekvenser.</span>
+			</p>
+			<p>
+				<span>Våldet påverkar också folkhälsan och finns med både i de svenska folkhälsomålen och i Agenda 2030. Fysiskt, psykiskt och sexuellt våld, liksom hot om våld, bidrar till otrygghet och ohälsa. Det kan leda till depression, posttraumatiskt stressyndrom (PTSD) och ökad dödlighet, också för de som förlorar ett barn, ett syskon eller en vän på grund av våldet. Samhället måste bli mycket bättre på att stötta även de som indirekt utsätts för våld.</span>
+			</p>
+			<p>
+				<span>Trots omfattande löften från Tidöpartierna i valrörelsen 2022 fortsätter våldet och dödandet. Den socialdemokratiska regeringen inledde paradigmskiftet inom krimina</span><span>&#xad;</span><span>lpolitiken genom att skärpa ett 80-tal straff, nykriminalisera ett 30-tal gärningar och se till att vi nu har fler poliser än någonsin. Detta arbete måste fortsätta med ytterligare straffhöjningar och fler poliser med bättre verktyg. För att komma till rätta med kriminaliteten krävs dock många olika åtgärder på en mängd områden. Kriminal</span><span>&#xad;</span><span>politiken kan aldrig bära hela lösningen. Det handlar om både brottsförebyggande och brottsbekämpande åtgärder – hårdare straff och fler poliser såväl som en bättre skola, fler socialsekreterare, utvecklad psykiatri inom primärvården och ungdomspsykiatrin, och åtgärder för att snabbt fånga upp barn och unga som riskerar att bli kriminella. Det räcker inte med att bekämpa brotten. Vi måste också bekämpa brottens orsaker. Därför krävs en utbildningspolitik för en skola som lyfter alla barn, arbetsmarknadspolitik med sikte på att alla som kan jobba ska jobba, kultur- och idrottspolitik för hela landet och socialpolitik som bygger trygghet lika för alla. </span><a name="_Hlk178840560"><span>Ett av våra viktigaste vallöften var att för varje krona vi satsar på polisen ska minst lika mycket satsas på att stoppa nyrekryte</span><span>&#xad;</span><span>ringen. Men regeringen gör tvärt om. </span></a><a name="_Hlk178840242"><span>Istället för att se till att kommuner och regioner har tillräckliga resurser riskerar vi nu ytterligare neddragningar inom skolan och socialtjänsten, och annat förebyggande arbete.</span></a><span> I Socialdemokraternas budgetmotion för 2025 görs bland annat satsningar på punktmarkering av unga, en mer rättvis skola och en satsning riktad till utsatta förskolor. Totalt vill vi socialdemokrater satsa nästan sex miljarder kronor mer än regeringen på att bryta nyrekryteringen.</span>
+			</p>
+			<p>
+				<span style="-aw-bookmark-end:_Hlk178840560"></span><span>Situationen i socialt utsatta områden kräver särskild uppmärksamhet. Segregation, fattigdom och social utsatthet präglar dessa områden och det tar sig uttryck i trång</span><span>&#xad;</span><span>boddhet, hög arbetslöshet, försämrade skolresultat och ökad ohälsa. Till detta ska läggas otrygghet och problem med brottslighet. Det är inte värdigt ett välfärdssamhälle som vårt. Ojämlikheten måste bekämpas. Alla har rätt att känna sig trygga i sitt hem och i sitt bostadsområde. Vi vill se en nollvision för öppna drogscener. Målet måste vara att inget område ska vara eftersatt – samhället ska finnas där för alla, oavsett var du bor.</span>
+			</p>
+			<p>
+				<span>Närmare redogörelser för vår syn på och våra förslag för att bryta nyrekryteringen finns att läsa i de socialdemokratiska motionerna på andra utgiftsområden.</span>
+			</p>
+			<h3>
+				<span>Det behövs fler poliser i hela landet</span>
+			</h3>
+			<p class="Normalutanindragellerluft">
+				<span>Polisens arbete är en avgörande faktor i arbetet med att bekämpa kriminaliteten. Därför satte Socialdemokraterna målet att Polismyndigheten skulle ha 10</span><span>&#xa0;</span><span>000 fler anställda till 2024. Polisens budget har i det närmaste fördubblats och vi har fler poliser än någonsin. Men för att polisen ska kunna utföra sitt uppdrag med full kraft behöver polistillväxten fortsätta. Socialdemokraterna har därför satt upp ett nytt mål. År 2032 vill vi att Polis</span><span>&#xad;</span><span>myndigheten har 50</span><span>&#xa0;</span><span>000 anställda, varav minst 34</span><span>&#xa0;</span><span>000 poliser.</span>
+			</p>
+			<p>
+				<span>Det måste finnas tillräckligt många poliser, men det är inte bara antalet som avgör hur framgångsrik Polismyndigheten är. För att klara upp brott, men också för det brottsförebyggande arbetet, krävs långsiktig och kontinuerlig närvaro. På så sätt skapar man förtroende och bryter den tystnadskultur som breder ut sig. När vi fortsätter bygga ut polisen så behöver vi förstärka i storstäderna med ordinarie personal men vi måste också se till att utbyggnaden sker i hela landet. Ökad polisnärvaro är nödvändig för att polisen ska vara en del av samhället, identifiera problemområden och arbeta proaktivt för att förhindra brott. Personkännedom och relationer är en viktig del i det polisiära arbetet och måste prioriteras högt. En central fråga för polisens legitimitet är att personalens sammansättning speglar befolkningen avseende kön och etnicitet. Trots att vissa insatser har gjorts ser vi inte en önskvärd utveckling i detta avseende. Polis</span><span>&#xad;</span><span>myndigheten och pliktverket behöver således intensifiera detta arbete. En bred rekryte</span><span>&#xad;</span><span>ringsbas ger bättre möjligheter för att polisen ska ha rätt kompetens avseende kulturell och språklig förståelse med de förbättrade förmågor detta ger i såväl brottsbekämpande som förebyggande arbete.</span>
+			</p>
+			<p>
+				<span>Många personer som utsätts för brott i de underprivilegierade områdena beskriver att de inte känner till vart man skall vända sig när man utsätts för eller bevittnar brott. I kombination med de långa svarstiderna på polisens kontaktcentrum kan man med visst fog befara att mängder av information inte når fram till polisen. Information som många gånger kan vara avgörande för att skapa ett tryggare lokalsamhälle för laglydiga invånare. Förutom att förstärka den lokala närvaron med fler områdespoliser måste polisen se till att möjligheterna att på plats få hjälp att upprätta anmälan eller ge infor</span><span>&#xad;</span><span>mation förbättras betydligt. Detta kan ske med hjälp av mobila team, men i särskilt utsatta områden är en lokal polisstation att föredra.</span>
+			</p>
+			<p>
+				<span>Polismyndighetens verksamhet ska präglas av kvalitet, rättssäkerhet och effektivitet. Svensk polisiär grundforskning är i ett internationellt perspektiv eftersatt. Det finns på vissa lärosäten goda intentioner och inte minst på våra polisutbildningar har en lovvärd forskningsmiljö börjat växa fram. Vi tror dock att ett helhetsgrepp behöver tas för att skapa den stabila akademiska grund vilken ett evidensbaserat polisarbete kan vila på. Att förlänga polisutbildningen och ge den akademisk status skulle ge bättre förutsätt</span><span>&#xad;</span><span>ningar för forskning såväl som att bättre förbereda studenterna för vad yrket i praktiken kräver.</span>
+			</p>
+			<p>
+				<span>För den som utsätts för brott är ofta polisen den första kontakten. Spetskompetens inom ett antal områden är nödvändig för att kunna klara upp brott. Vi ser med oro på att polisen nu avslutar riktade projekt mot brott i nära relation, då man vet att erfarenhet och särskild kompetens är avgörande för att rädda liv.</span>
+			</p>
+			<p>
+				<span>Polisen måste också ha rätt förutsättningar för att kunna utföra sitt arbete. Arbets</span><span>&#xad;</span><span>villkoren måste fortsätta att utvecklas, bland annat genom ännu fler kollegor, bättre utrustning och vidareutbildning. Polisanställda och andra grupper av myndighets</span><span>&#xad;</span><span>personer ska kunna utföra sitt arbete utan att vara oroliga för sin trygghet. Ett stärkt medarbetarskydd måste fortsatt vara i fokus.</span>
+			</p>
+			<h3>
+				<span>Förstärk hela rättskedjan</span>
+			</h3>
+			<p class="Normalutanindragellerluft">
+				<span>Vårt mål är att Polismyndigheten år 2032 ska ha 50</span><span>&#xa0;</span><span>000 anställda, varav minst 34</span><span>&#xa0;</span><span>000 poliser. Men för att bekämpa brott måste alla delar av rättskedjan fungera. Oberoende och väl fungerande domstolar, med allmänhetens förtroende, är fundamentala för vårt samhälle och våra demokratiska värderingar. Domstolarna och Åklagarmyndigheten måste vara en trygg garant för rättssäkerheten, särskilt i oroliga tider. I tider där antalet ärenden, inte minst de resurskrävande, ökar och utredningar blir allt mer komplexa höjs trycket på rättskedjan. För att Åklagarmyndigheten och domstolarna ska kunna fullgöra sina viktiga uppgifter att följa och tillämpa lagstiftningen samt tillgodose medborgarnas rätt till effektiva rättsmedel, krävs långsiktig och tillräcklig medelstilldelning. Om resurserna inte är tillräckliga riskerar domstolarna att bli en bromskloss för övriga satsningar inom rättsväsendet. Därför måste regeringen säkerställa att de får de förut</span><span>&#xad;</span><span>sättningar som behövs för att upprätthålla rättssäkerheten och minska risken för negativa konsekvenser för enskilda.</span>
+			</p>
+			<p>
+				<span>Människors tilltro till rättsväsendet är avgörande för att kunna klara upp brott. Människor måste våga vittna. Både Åklagarmyndigheten och domstolarna arbetar på olika sätt för att underlätta för målsägande eller vittnen. Under de gångna åren har ett antal beslut fattats för att på ett bättre sätt skydda målsägande och vittnen. Det handlar till exempel om möjligheten att vittna via video och utökat fotoförbud i domstolarna. Det arbete som görs av brottsofferjourerna och andra ideella organisationer har stor betydelse för att underlätta för människor att vittna om brott.</span>
+			</p>
+			<p>
+				<span>Enligt en rapport från Brottsförebyggande rådet är personer som utnyttjar sin anställ</span><span>&#xad;</span><span>ning för att hjälpa kriminella nätverk mycket eftertraktade av den grova organiserade brottsligheten. Dessa så kallade möjliggörare kan få allvarliga konsekvenser för både verksamheten och samhället i stort. Den information som en möjliggörare bidrar med behöver inte vara hemlig, utan det är den sammantagna informationen och kunskapen från insidan som är användbar för den grova organiserade brottsligheten. Personen behöver inte heller vara medveten om den roll hen spelar för gängen. Brås studie visar att det är svårt för arbetsgivarna att upptäcka och utreda möjliggörare. Misstankar är ofta svåra att bevisa, och det är sällan som de blir tillräckligt utredda. Inte minst de rättsvårdande myndigheterna måste aktivt arbeta för att motverka infiltration och korruption.</span>
+			</p>
+			<h3>
+				<span>En utbyggd kriminalvård med bibehållen kvalitet</span>
+			</h3>
+			<p class="Normalutanindragellerluft">
+				<span>Kriminalvården har varit en av våra bäst fungerande myndigheter med högt förtroende hos allmänheten och har varit en populär arbetsgivare. De har jobbat systematiskt med säkerhet, arbetsmiljö, sysselsättning och evidensbaserade behandlingsprogram. Svensk kriminalvård har länge varit ett föredöme för andra länder på grund av förmågan att arbeta utifrån två viktiga principer: att brottsoffer ska få upprättelse för brott som begås och att förövaren straffas. Och vidare att tiden på anstalt används för att förhindra åter</span><span>&#xad;</span><span>fall i brott. Alltså komma bättre ut. Svensk kriminalvård har lyckats bättre än många andra länder med låga återfallsgrader.</span>
+			</p>
+			<p>
+				<span>Men kriminalvården har under flera år haft platsbrist och läget är nu så allvarsamt att man har gått upp i stabsläge. Man har tidigare fattat beslut om att alla bostadsrum som kan dubbelbeläggas ska dubbelbeläggas. Två tredjedelar av besöksrummen på anstalter i säkerhetsklass</span><span>&#xa0;</span><span>1 och</span><span>&#xa0;</span><span>2 görs om till bostadsrum för klienter. På flera anstalter beskrivs stora utmaningar med att bedriva det återfallsförebyggande arbetet och hur klienterna inte alltid kan erbjudas meningsfull sysselsättning i tillräcklig utsträckning. Det är kö till både häkte och anstalt och många häktade blir kvar i polisarrester. Det är en stor utma</span><span>&#xad;</span><span>ning att rekrytera personal i tillräcklig takt, personalomsättningen är hög och det råder en obalans mellan andelen erfarna och nyanställda medarbetare. Såväl fackförbunden Seko och ST som Akavia larmar om allt mer hot och otillåten påverkan mot med</span><span>&#xad;</span><span>arbetare.</span>
+			</p>
+			<p>
+				<span>Vi socialdemokrater vill rikta särskild uppmärksamhet kring kvinnoanstalter och kvinnliga återfallsförbrytare. En påtaglig problematik framträder på kvinnoanstalterna, där beläggningsgraden på de fasta platserna, som tidigare låg runt 70 procent, har ökat markant och där beläggningsgraden på de sex kvinnoanstalterna många gånger ligger långt över 100 procent. Anställda på kvinnoanstalter påpekar dessutom att det har skett ett skifte när det gäller klienternas brottsbakgrund. Tidigare dömdes kvinnor främst för narkotikarelaterade brott, medan de nu allt oftare är inblandade i gängkriminalitet, vilket gör det svårt för kriminalvården att få ihop bra sammansättningar ute på avdelningarna. Dessutom är, enligt uppgift från kriminalvårdsmedarbetare, de kvinnliga klienterna i generellt sämre psykiskt skick när verkställigheten i anstalt startar. Det är inte ovanligt att de i grunden är brottsoffer, som tidigare i livet blivit utsatta för fruktansvärda över</span><span>&#xad;</span><span>grepp, och de har också generellt lyckats gå under rättssamhällets radar en längre tid innan kriminalitet upptäcks och straff utfärdas.</span>
+			</p>
+			<p>
+				<span>Riksrevisionens granskning Verktyg för förändring – Kriminalvårdens behandlings</span><span>&#xad;</span><span>verksamhet visar att målsättningen att 75 procent av klienterna som har behov av behandlingsprogram ska få del av dem inte alls följs. Enbart 22 procent på anstalt och 13 procent av klienterna inom frivården med behov av behandling fullföljde ett behand</span><span>&#xad;</span><span>lingsprogram under 2023.</span>
+			</p>
+			<p>
+				<span>En underdimensionerad verksamhet med kapacitetsbrist vad gäller både lokaler och personal är främsta orsaken till att inte fler klienter får ta del av återfallsförebyggande behandlingsprogram.</span>
+			</p>
+			<p>
+				<span>Riksrevisionen påtalar vidare att överbeläggningar och brist på personal gör att Kriminalvården har svårt att upprätthålla den stödjande miljön i anstalterna som klienter behöver för att fullt ut kunna tillgodogöra sig behandlingsprogrammen.</span>
+			</p>
+			<p>
+				<span>Alla prognoser visar att platsbristen kommer att förvärras. Verkställs hela Tidöavtalet beräknas behov av en dubblering av antalet häktesplatser och en fyrdubbling av antalet anstaltsplatser fram till 2033.</span>
+			</p>
+			<p>
+				<span>Vi är mycket oroade över en utveckling där kriminalvården riskerar att förändras till att bara handla om förvaring, likt ett straffverk – en plats där destruktiva machonormer, antidemokratiska åsikter och radikalisering kan spridas.</span>
+			</p>
+			<p>
+				<span>Utbyggnaden av kriminalvården måste fortsätta ske i hög takt. Samtidigt får det framgångsrika återfallsförebyggande arbetet inte riskeras. Det måste fortsätta och utvecklas. Köp av anstaltsplatser utomlands skulle få en negativ effekt på det återfalls</span><span>&#xad;</span><span>förebyggande arbetet, och vara dyrt och ineffektivt. Det visar inte minst erfarenheterna från andra länder, som Norge och Danmark. Frivården, som bland annat övervakar personer som är villkorligt frigivna, är föremål för ungdomsövervakning eller har fotboja, måste också ha tillräcklig kapacitet för att kunna utföra sin del i det återfalls</span><span>&#xad;</span><span>förebyggande arbetet.</span>
+			</p>
+			<p>
+				<span>Att bygga ut en verksamhet i enlighet med Tidöpartiernas förslag tar tid och därför måste regeringen ge de långsiktiga förutsättningar som krävs. Kriminalvården har kommit med flera rapporter om det framtida behovet av platser och vad det kommer att innebära för verksamheten.</span>
+			</p>
+			<p>
+				<span>Regeringen måste snarast ta fram en plan för hur Kriminalvården ska klara av det som de kommande förändringarna kommer att innebära. Privatisering är inte lösningen, en marknadisering av kriminalvården skulle vara kontraproduktiv. En framgångsfaktor är en engagerad och välutbildad personal. En annan framgångsfaktor är att program</span><span>&#xad;</span><span>arbetet vilar på vetenskaplig grund.</span>
+			</p>
+			<p>
+				<span>Säkerheten i anstalt och häkten måste vara fortsatt hög och i takt med att brottslig</span><span>&#xad;</span><span>heten förändras måste också säkerhetsarbetet följa med. Planen måste utgå från att den framgångsrika återfallsförebyggande verksamheten inte minskas ner utan snarare kan fortsätta att utvecklas. En framgångsrik kriminalvård innebär att människor inte fortsätter att begå brott när de har avtjänat straffet.</span>
+			</p>
+			<p>
+				<span>För Socialdemokraterna är arbetet grunden för människans frihet och välfärd. Del</span><span>&#xad;</span><span>tagande i arbetslivet bidrar till såväl personlig utveckling som gemenskap. Social</span><span>&#xad;</span><span>demokratin hävdar att människors vilja</span><span>              </span><span style="-aw-import:spaces">&#xa0;</span><span>till arbete är samhällets viktigaste tillgång. Varje människa har rätt och skyldighet att efter förmåga delta i arbetslivet. Alla har rätt till ett meningsfullt arbete. En stärkt samverkan mellan Kriminalvården och Arbetsförmed</span><span>&#xad;</span><span>lingen är enligt oss avgörande för att fler kriminalvårdsklienter ska kunna slussas in i samhället och kunna skapa sig ett gott liv fritt från kriminalitet.</span>
+			</p>
+			<p>
+				<span>Vikten av utbildning och arbete är för oss socialdemokrater särskilt tydlig när det gäller unga lagöverträdare. Det är angeläget inte bara för individen utan också för samhället och allas vår trygghet att de här unga männen (som det oftast handlar om) har en sysselsättning och kan bidra till samhället och också efter verkställighet försörja sig själva. Detta för att minska risken att en återgång till den kriminella livsstilen ska upp</span><span>&#xad;</span><span>levas som ett alternativ för individen. Alla som kan jobba ska jobba, det ingår i vårt samhällskontrakt, och här behöver samhället vara tydligt gentemot den unga med såväl ramar som stöd.</span>
+			</p>
+			<p>
+				<span>Genom att stärka kopplingen mellan kriminalvården och arbetsmarknaden samt implementera strukturerade arbetsmarknadsåtgärder kan vi förbättra möjligheterna för kriminalvårdsklienter att etablera sig i arbetslivet och minska risken för återfall i brott.</span>
+			</p>
+			<p>
+				<span>Unga lagöverträdare återfaller i hög grad i brott. Särskilda insatser krävs vad gäller både ökat stöd och ökad kontroll. Kriminalvården bör ta över ansvaret för de som begår de grövsta brotten. Kriminalvården har stor erfarenhet av hög säkerhet och behandling med forskningsbaserade behandlingsprogram.</span>
+			</p>
+			<p>
+				<span>Att vårda barn och ungdomar ställer särskilda krav bland annat när det gäller högre personaltäthet och fungerande skolverksamhet. Det måste säkras att verksamheten anpassas till barns och ungas behov. Givetvis ska det finnas särskilda avdelningar för barn och ungdomar så att de inte möter vuxna kriminella.</span>
+			</p>
+			<p>
+				<span>Kriminalvårdens rapport visar att insatser med terapeutisk karaktär där syftet var att ändra både beteende och tankesätt var mest effektiva, medan bestraffning, övervakning utan innehåll och avskräckning inte ansågs ha någon eller endast liten effekt. Ytterligare en slutsats var att insatser ska ges till unga klienter som löper medelhög till hög risk att återfalla i brott. Regeringens agerande och propositioner framåt gällande unga lagöver</span><span>&#xad;</span><span>trädare måste ha förankring i evidens och vad som faktiskt kan ge goda resultat i arbetet med att bryta våldsspiralen och den organiserade brottsligheten bland unga, som är oerhört destruktiv för hela vårt samhälle.</span>
+			</p>
+			<p>
+				<span>Ansvaret för det återfallsförebyggande arbetet kan inte enbart ligga hos Kriminal</span><span>&#xad;</span><span>vården. Hela samhällets samlade resurser krävs dels för att vända den fruktansvärda våldsspiralen med gängkriminalitet som plågar hela vårt samhälle och dels för att få ett stopp på mäns våld mot kvinnor som orsakar stort lidande för så många kvinnor och barn och där 2024 hittills varit ett becksvart rekordår gällande antal dödsoffer.</span>
+			</p>
+			<p>
+				<span>Samverkan mellan alla betydelsefulla aktörer som till exempel Kriminalvården, polisen, socialtjänsten, hälso- och sjukvården och Arbetsförmedlingen måste stärkas och alla behöver ta sin del av ansvaret. Informationsutbytet behöver öka där det är relevant, exempelvis från kriminalvård till polis och socialtjänst gällande frigivningsdag för klienter som dömts för grovt kvinnofridsbrott eller grova sexualbrott.</span>
+			</p>
+			<p>
+				<span>Den återfallsförebyggande hälso- och sjukvården behöver stärkas och vården måste vara sammanhängande från verkställighetens start i anstalt till frivård och inslussning och vidare i det fria livet i samhället. Om orsaken till brotten kan anses vara beroende</span><span>&#xad;</span><span>sjukdom, neuropsykiatriskt tillstånd eller samsjuklighet behöver klienten kunna garanteras en sammanhållen vårdkedja.</span>
+			</p>
+			<p>
+				<span>För att det livsviktiga återfallsförebyggande arbetet ska kunna bedrivas ändamåls</span><span>&#xad;</span><span>enligt, effektivt i samverkan och likvärdigt över landet krävs att regeringen ser och tar tag i de strukturella hinder som försvårar arbetet – som krisen i kriminalvården och de stora underskotten och demografiska utmaningarna våra regioner och kommuner befinner sig mitt i.</span>
+			</p>
+			<p>
+				<span>Om Kriminalvården och övriga samhället, som socialtjänsten, regionerna och Arbetsförmedlingen, inte ges tillräckliga förutsättningar att arbeta med att stoppa kriminella från att återfalla i brott så kommer vi inte heller lyckas knäcka gängen och stoppa våldet. Det återfallsförebyggande arbetet måste prioriteras högt.</span>
+			</p>
+			<p>
+				<span>Barn som har en anhörig i fängelse kan behöva särskilt stöd. Frivilligorganisationen Buff gör ett viktigt och bra arbete. Men även Kriminalvården har jobbat aktivt med frågor om bemötande av barn, till exempel när man ska hälsa på en anhörig, och infor</span><span>&#xad;</span><span>mation på Kriminalvårdens webbplats.</span>
+			</p>
+			<h2>
+				<span>Gängkriminaliteten och den organiserade brottsligheten ska knäckas </span>
+			</h2>
+			<p class="Normalutanindragellerluft">
+				<span>Den grova organiserade brottsligheten har varit ett problem i Sverige under många år. Trots SD-regeringens löften om att det snabbt skulle gå att komma tillrätta med våldet fortsätter våldsvågen. Nya gränser passeras återkommande.</span>
+			</p>
+			<p>
+				<span>Den grova organiserade brottsligheten ägnar sig åt allt ifrån rån, människohandel, narkotikaförsäljning och utpressning till smuggling, arbetslivskriminalitet och välfärds</span><span>&#xad;</span><span>brottslighet. Den bygger ofta på ett starkt våldskapital men vi ser också att organiserad brottslighet infiltrerar och påverkar vårt samhälle mer subtilt. Det sker till exempel genom att utnyttja våra välfärdssystem på olika sätt, men också genom försök att påverka myndighetspersoner för egen vinning.</span>
+			</p>
+			<p>
+				<span>I regeringsställning lade Socialdemokraterna om svensk kriminalpolitik och på</span><span>&#xad;</span><span>började ett paradigmskifte med åtgärder på både kort och lång sikt. Vi genomförde ett 80-tal straffskärpningar, framför allt när det gäller grova våldsbrott och brott som begås av gängkriminella. Dessutom kriminaliserade vi ett 30-tal gärningar som dessförinnan varit straffria. Den historiska utbyggnaden av polisen, ökade resurser till övriga rätts</span><span>&#xad;</span><span>väsendet och nya och skarpare verktyg är viktiga åtgärder för att knäcka gängen. Social</span><span>&#xad;</span><span>demokraterna tillsatte också ett flertal utredningar som SD-regeringen har kunnat ta vidare för beslut i riksdagen.</span>
+			</p>
+			<p>
+				<span>Att vända dagens utveckling kräver både beslutsamhet och uthållighet. Steg för steg ska den kriminalitet som hotar vår samhällsgemenskap tryckas tillbaka. För att lyckas krävs att de åtgärder som sätts in är såväl rättssäkra som effektiva.</span>
+			</p>
+			<p>
+				<span>Den grova gängkriminaliteten gör Sverige farligare och den organiserade brottslig</span><span>&#xad;</span><span>heten flyttar fram positionerna och nästlar sig in i vår välfärd och breddar sin verksam</span><span>&#xad;</span><span>het. Vi riskerar att se alltmer av en maffialiknande brottslighet som äter sig in i flera delar av samhället. Om vi inte pressar tillbaka detta kommer hela vår samhällsgemen</span><span>&#xad;</span><span>skap att hotas. Vi behöver tänka nytt och agera innan det är försent. Vi vill därför införa en svensk Rico-lagstiftning för att bekämpa den organiserade brottsligheten, beslagta deras tillgångar och gripa och lagföra ledarna. Ett samlat och nytt angreppssätt där befintliga lagar används, men kanske på helt nya sätt och där lagstiftning justeras och nya grepp införs. Vi ska dra lärdomar av USA:s, och även Italiens, kamp mot den organiserade brottsligheten och skapa en svensk modell utifrån svenska förhållanden. Där det tas ett samlat grepp för att bekämpa organiserad brottslighet som bedrägerier, arbetslivskriminalitet, välfärdsbrottslighet, narkotikahandel och utpressning. I vårt budgetförslag avsätter vi 5</span><span>&#xa0;</span><span>miljoner kronor för att utreda en sådan lagstiftning.</span>
+			</p>
+			<h3>
+				<span>Stoppa nyrekryteringen</span>
+			</h3>
+			<p class="Normalutanindragellerluft">
+				<span>För varje gängledare som sätts i fängelse finns unga personer som är beredda att ta hans plats. Samhället kan inte se på när barn och unga lockas in i grov organiserad brottslig</span><span>&#xad;</span><span>het och utnyttjas för att begå grova brott. Avgörande för att bryta nyrekryteringen är det viktiga brottsförebyggande arbete som personal inom skola, socialtjänst och civil</span><span>&#xad;</span><span>samhälle utför varje dag. Alla barn ska ha goda förebilder – inte omges av kriminella. Varenda ung person på glid ska punktmarkeras, om nödvändigt med fotboja, för att inte dras in i kriminalitet. Därför avsätter vi 1,5 miljarder kronor för sådana insatser. För varje krona vi satsar på polisen kommer vi att satsa minst lika mycket på att bryta nyrekryteringen. Det är en tydlig markering av hur viktigt det arbetet är. Gängkrimina</span><span>&#xad;</span><span>liteten är internationell och EU-kommissionen bör ta fram en handlingsplan för att stärka arbetet med att stoppa nyrekryteringen till gängen.</span>
+			</p>
+			<p>
+				<span>Idag utnyttjas barn hänsynslöst av kriminella gäng, där narkotikaförsäljningen ofta är en inkörsport. På senare tid har det också kommit fram uppgifter om att utländska gäng utnyttjar svenska barn för att utföra grova våldsdåd. Det här är en samhällsutveckling som måste stoppas. Efter ett socialdemokratiskt initiativ är det nu straffbart att involvera personer under 18 år i brottslig verksamhet. Vi vill också att den som köper narkotika av barn ska riskera fängelsestraff. På så sätt blir det svårare för gängen att använda sig av barn för narkotikaförsäljning. Socialtjänsten måste ha både resurser och verktyg för att kunna ingripa tidigt. Man måste också ha kompetens för att skapa förtroende att sam</span><span>&#xad;</span><span>verka med hela familjen runt den kriminella för att i ett tidigt skede kunna bryta ett destruktivt beteende. Socialtjänsten måste också ha verktyg för att ingripa även när föräldrarna motsätter sig insatser. Samhällets reaktion på att barn och unga involveras i brottslighet behöver bli tydligare och kraftigare. Utredningen om ungdomskriminalitets</span><span>&#xad;</span><span>nämnder har föreslagit en ordning för brottsförebyggande insatser för barn och ung</span><span>&#xad;</span><span>domar som riskerar att dras in i allvarlig brottslighet. Utredningens förslag innebär att staten får ansvar för att gripa in, besluta om och följa upp brottsförebyggande åtgärder för den här målgruppen. Regeringen bör snarast återkomma till riksdagen med förslag om ungdomskriminalitetsnämnder.</span>
+			</p>
+			<p>
+				<span>Sociala medier används för att rekrytera barn. Det är oacceptabelt och här krävs att sociala medier-företagen tar sitt ansvar. Vi vill bland annat införa en fungerande åldersgräns på sociala medier och att EU växlar upp arbetet mot algoritmerna för att stoppa desinformation, extremism, gängvåld och hat på sociala medier. Det måste kosta för techjättar som inte sätter stopp för den här typen av innehåll. Det borde leda till stora, kännbara böter för de sociala medier-företag som låter gängen använda deras plattformar för att dra in barn och unga i grov gängkriminalitet.</span>
+			</p>
+			<p>
+				<span>Många av de barn och ungdomar som finns i eller i närheten av gängen har själva blivit utsatta för våld. Våldsförebyggande program i skolan är ett viktigt verktyg för att stoppa nyrekryteringen.</span>
+			</p>
+			<p>
+				<span>Den som vill hoppa av gängen måste snabbt få stöd och hjälp att göra det. Vi vill även att dagens avhopparverksamhet anpassas efter en situation där det är barn som begår våldsdåden. Ofta krävs mycket omfattande insatser och därför måste samverkan mellan alla inblandade aktörer fungera. Den evidensbaserade metoden Sluta skjut har visat sig vara en framgångsrik metod som bör användas i större utsträckning än idag.</span>
+			</p>
+			<p>
+				<span>Flickor och unga kvinnor är en grupp som alltför sällan uppmärksammas i samband med gängkriminaliteten. Vittnesmålen om tjejerna i gängen handlar både om kvinnor som glorifierar kriminaliteten och om kvinnor som utnyttjas som rena handelsvaror där en våldtäkt kan betala en skuld. Kvinnor går under polisens radar och gömmer och transporterar vapen och narkotika, ibland frivilligt men ofta under hot. Tjejernas situa</span><span>&#xad;</span><span>tion måste få mycket mer uppmärksamhet, inte minst för att de ska få stöd och hjälp att lämna gängen och destruktiva relationer. Även tjejer och unga kvinnor måste få till</span><span>&#xad;</span><span>räckliga insatser för att inte dras in i gängen.</span>
+			</p>
+			<p>
+				<span>De unga som vårdas på HVB-hem ska få stöd och hjälp att lämna kriminaliteten. Men idag är det i själva verket tvärtom då vård på hemmen riskerar att leda till ökad kriminalitet. Unga rekryteras till kriminella gäng och att utföra grova brott på själva hemmen. Det rapporteras att vapen och knark förekommer utan att personalen ser eller gör något åt det. Samhället behöver kliva fram och ta kontroll över hur vi hanterar unga kriminella. Droger och vapen måste bort från hemmen. Kvaliteten behöver stärkas. Personalens befogenheter behöver öka. Socialdemokraterna föreslår därför att det offentliga ska ta över all HVB-hemsvård av unga kriminella som idag sker i privat regi och att personalen ska få ökade befogenheter. De utökade befogenheterna handlar exempelvis om möjlighet för personalen att genomsöka rum, samt restriktioner av elektronisk kommunikation och vistelse utanför hemmen.</span>
+			</p>
+			<p>
+				<span>På en marknad där åtta av tio hem är privata finns för många oseriösa aktörer som inte agerar utifrån samhällets bästa. Det finns exempel på hur gängkriminella startar och driver privata HVB-hem. Inspektionen för vård och omsorg (Ivo) har konstaterat stora brister hos många hem och att utvecklingen går i fel riktning då oseriösa aktörer vinner mark. Staten har svårt att hålla jämna steg med en marknad som alltid hittar nya vägar, antingen för att spara pengar på kvaliteten eller i de värsta fallen använda verksamheten för att sko sig på ett olagligt vis.</span>
+			</p>
+			<p>
+				<span>Ytterligare åtgärder för att stoppa nyrekryteringen finns i motioner i bland annat socialutskottet, utbildningsutskottet, arbetsmarknadsutskottet och kulturutskottet.</span>
+			</p>
+			<h3>
+				<span>Fler och skarpare verktyg i brottsbekämpningen</span>
+			</h3>
+			<p class="Normalutanindragellerluft">
+				<span>Polisen måste ha rätt och effektiva verktyg för att bekämpa gängkriminaliteten, och under de gångna åren har allt fler och skarpare verktyg införts. Genom till exempel möjligheter till hemlig avlyssning, kameraövervakning och tillgång till de kriminella gängens krypterade information som Encrochat har polisen bättre kunnat ta sig in i och bekämpa de kriminella miljöerna och klara upp ett stort antal brott. Att polisen och hela rättsväsendet ligger i framkant med sina verktyg är helt centralt för att få stopp på gängens skjutningar, rån och andra grova brott, och för att slå ut öppna drogscener i samhället.</span>
+			</p>
+			<p>
+				<span>Under förhållandevis kort tid har omfattande utökningar genomförts vad gäller polisens möjlighet att använda olika former av tvångsmedel. Det handlar bland annat om att i betydligt större omfattning än idag kunna använda tvångsmedel preventivt, alltså utan att det finns någon konkret brottsmisstanke. Syftet är att upptäcka och för</span><span>&#xad;</span><span>hindra allvarlig brottslighet. Hemliga tvångsmedel ska också i större utsträckning än idag få användas vid fler och mindre allvarliga brott. Dessutom ska den överskotts</span><span>&#xad;</span><span>information som framkommer i samband med till exempel avlyssning, också få användas. Det här är verktyg som är efterfrågade av polisen och som kommer att göra stor skillnad för möjligheten att förebygga och klara upp brott. Samtidigt innebär den omfattande utvidgningen stora integritetsinskränkningar. Därför bör den här typen av lagstiftning vara tidsbegränsad, och dessutom behöver den kontinuerligt utvärderas för att se om lagstiftningens syfte verkligen uppnås, och proportionerlig i förhållande till integritetsinskränkningen. Med tanke på de omfattande förändringar som har gjorts under förhållandevis kort tid behövs också en sammanhållen utvärdering av samtliga hemliga tvångsmedel.</span>
+			</p>
+			<p>
+				<span>Kroppsvisitation är ett annat viktigt verktyg. Det är helt avgörande för att plocka bort farliga individer från gatan, ta fler vapen och komma åt sprängmedel innan brott begås. Som bland annat Justitieombudsmannen visat uppfattas dagens lagstiftning som svår att tillämpa. Situationen blev inte enklare när regeringen, trots skarp kritik, valde att införa särskilda regler som periodvis ska gälla i vissa geografiskt avgränsade områden. Istället vill vi utvidga visitationsmöjligheten i förebyggande syfte genom att förtydliga polis</span><span>&#xad;</span><span>lagen så att det klart framgår att en person som rör sig i eller som genom attribut eller misstanke om delaktighet i gängkopplad brottslighet får visiteras. Detta alldeles oavsett i vilket geografiskt område personen befinner sig. Parallellt med att vi utvidgar möjlig</span><span>&#xad;</span><span>heten att visitera måste vi också stärka rättssäkerheten för de som visiteras. Det är viktigt för att våra medborgare ska känna förtroende för såväl polisen som rättsstaten. Därför vill vi också utreda ett ”kvittosystem” som innebär att man efter att man blivit visiterad får ett ”kvitto” där det framgår vilket lagstöd polisen använt sig av när man beslutat om visitationen.</span>
+			</p>
+			<p>
+				<span>Sekretesshindren i brottsbekämpningen ska tas bort. För att öka möjligheterna att bekämpa brott krävs utökade möjligheter till informationsdelning mellan polisen, andra myndigheter och kommuner. Samtidigt måste hänsyn tas till den personliga integriteten.</span>
+			</p>
+			<p class="Normalutanindragellerluft">
+				<span>De tekniska framsteg som gjorts under senare år, och som har ökat möjligheten att klara upp brott även efter lång tid, gör att preskriptionstiderna för brott behöver ändras. För</span><span>&#xad;</span><span>slag finns i den utredning som Socialdemokraterna tillsatte i regeringsställning. Trots att utredningen varit klar länge, och trots uttalanden från justitieministern om att snabba på, har några förslag inte lagts fram.</span>
+			</p>
+			<p>
+				<span>Straffet för den som döms för flera brott ska skärpas. Nya regler måste ta hänsyn till brottsoffrets behov av att få brott utredda och gärningsmannen lagförd, samtidigt som straff som utdöms måste stå i proportion till brottets allvar, särskilt i jämförelse med andra brott. Den som återfaller i brott ska få ett högre straff än idag. Den som dömts för allvarlig och upprepad brottslighet ska i vissa fall avtjäna hela sitt straff på anstalt och inte beviljas villkorlig frigivning på samma sätt som idag.</span>
+			</p>
+			<p>
+				<span>Polisen måste kunna använda kamerabevakning och ansiktsigenkänning på ett till</span><span>&#xad;</span><span>räckligt effektivt sätt. Polisen bör också få större tillgång till trafikkameror, kameror som används för trängselskatt och liknande, även i realtid. För att öka både känslan av trygghet och möjligheten att klara upp brott ska kommunerna kunna sätta upp kameror utan krav på tillstånd. Utredningar på det här området har presenterat sina förslag och vi förutsätter att regeringen utan dröjsmål lägger förslag som ytterligare förbättrar situa</span><span>&#xad;</span><span>tionen.</span>
+			</p>
+			<p>
+				<span>Den verksamhet som bedrivs av Nationellt forensiskt centrum är ofta helt avgörande för polisens möjlighet att klara upp brott. NFC måste ha tillräckligt med resurser, och en långsiktig finansiering.</span>
+			</p>
+			<h3>
+				<span>Kriminalitet ska aldrig löna sig</span>
+			</h3>
+			<p class="Normalutanindragellerluft">
+				<span>Den grova organiserade brottsligheten omsätter stora summor varje år, beräkningar visar att det kan röra sig om 100 till 150 miljarder kronor. Pengar ger både status och inkomster som kan användas till att begå nya brott. Det handlar om narkotikaförsälj</span><span>&#xad;</span><span>ning, rån, bedrägerier, handel med kryptovaluta och stölder.</span>
+			</p>
+			<p>
+				<span>Ytterligare ett sätt för kriminella att tillskansa sig pengar är att mjölka våra välfärds</span><span>&#xad;</span><span>system. Det är pengar som borde ha gått till sjuka eller arbetslösa människor, som är i stort behov av dem. Men det räcker inte med det, kriminella driver också vårdcentraler och HVB-hem. Det handlar om skattebetalarnas surt förvärvade pengar, som så väl behövs inom skolan, sjukvården och omsorgen. Vi vill göra en översyn av lagen om valfrihetssystem (LOV), införa tillståndsplikt för fler branscher och införa ett system med svartlistning av oseriösa företag.</span>
+			</p>
+			<p>
+				<span>Arbetslivs- och näringslivskriminalitet, där företag används som brottsverktyg, och utsatta människor utnyttjas under slavlika förhållanden, är ett annat sätt för kriminella att tillskansa sig pengar. Den här kriminaliteten drar inte bara undan skattepengar som skulle kunna användas till något bättre. I en rapport från Stockholms Handelskammare pekar man på att den organiserade brottsligheten inte bara är ett problem för rätts</span><span>&#xad;</span><span>väsendet utan också för hela samhället, inklusive näringslivet. Den ökade förekomsten av organiserad brottslighet i företagsvärlden leder till ökade kostnader, både direkt och indirekt, för företagen och har en negativ inverkan på den allmänna ekonomiska stabiliteten. Detta sträcker sig från snedvriden konkurrens till underminerat förtroende för finansiella system och strukturer. Enligt samma undersökning säger 55 procent av de tillfrågade företagsledarna från Stockholm och Uppsala att de är oroliga över företags</span><span>&#xad;</span><span>kapningar. Fyra av tio företag uppger att de utsatts för brott de senaste fem åren. Av rapporten framgår också att var tredje person inom den organiserade brottsligheten har haft en företagskoppling. Så här kan vi inte ha det. Vi vill bland annat ge Bolagsverket en brottsförebyggande roll och ett tillsynsansvar för att stärka verkets arbete mot ekono</span><span>&#xad;</span><span>misk brottslighet, återinföra revisionsplikten för fler aktiebolag, se till att fler brott ska kunna leda till näringsförbud och ge Bolagsverket möjlighet att kräva personlig instäl</span><span>&#xad;</span><span>lelse så att inte gängkriminella kan använda sig av stulna eller falska identiteter. Social</span><span>&#xad;</span><span>demokraternas politik mot arbetslivs- och näringslivskriminalitet utvecklas närmare i motioner i bland annat arbetsmarknadsutskottet, näringsutskottet och civilutskottet.</span>
+			</p>
+			<p>
+				<span>Det ska inte löna sig att begå brott. Därför ska man inte få behålla vinster man gjort genom att begå brott. Det framgångsrika myndighetsgemensamma arbetet mot organi</span><span>&#xad;</span><span>serad brottslighet måste fortsätta. När ett stort antal myndigheter, inklusive kommuner och regioner, går samman och gör tillslag, var och en med sin kompetens, beslagtas stora tillgångar. På Socialdemokraternas initiativ har reglerna ändrats så att kriminellas statusprylar och annan egendom kan beslagtas även om den inte kan kopplas till ett specifikt brott.</span>
+			</p>
+			<p>
+				<span>För att kunna bekämpa den grova organiserade brottsligheten måste vi hjälpas åt. Även den som köper tjänster som uppenbart inte är vita, eller som använder narkotika i festsammanhang, bidrar till att göda gängkriminaliteten.</span>
+			</p>
+			<h3>
+				<span>Tillgången till vapen och sprängmedel ska strypas</span>
+			</h3>
+			<p class="Normalutanindragellerluft">
+				<span>De senaste årens skjutningar påverkar oss alla. Varje människa som mister sitt liv är en tragedi. Föräldrar, syskon och vänner drabbas hårt. Rädslan i samhället ökar. För att få stopp på skjutningarna och sprängningarna måste de kriminella gängens tillgång till vapen och sprängmedel strypas. En stor tillgång på skjutvapen innebär i sig självt en stegring av det dödliga våldet mellan gängkriminella. Det ökar även gängens vålds</span><span>&#xad;</span><span>kapital i förhållande till samhället i stort. Det är därför av yttersta vikt att mer resurser läggs på att lagföra de som förser gängmedlemmar med skjutvapen, och strypa till</span><span>&#xad;</span><span>förseln. Risken med vådaskjutningar kan även minskas med färre skjutvapen på gatorna. Det är av stor vikt att befintliga skjutvapen som cirkulerar i dessa kretsar kan omhänder</span><span>&#xad;</span><span>tas och lämnas in genom till exempel en vapenamnesti. Det borde också införas ett system med tipspengar för den som tipsar om var det finns vapen.</span>
+			</p>
+			<p>
+				<span>Smugglingen av vapen måste stoppas. Här har tullen en central roll. Kontrollerna vid EU:s yttre gräns bör skärpas genom att inrätta ett europeiskt expertcenter mot narkotika- och vapensmuggling. Möjligheterna att få ytterligare stordriftsfördelar genom sam</span><span>&#xad;</span><span>ordnade upphandlingar mellan olika EU-länders tullmyndigheter ska utredas. Det handlar till exempel om röntgenapparater och vapen- och sprängämneshundar för att stoppa införsel av vapen och narkotika. Det rättsliga samarbetet och polissamarbetet i EU fungerar väl men behöver ytterligare utvecklas och förstärkas. Artificiell intelligens och maskininlärning möjliggör nya brottsupplägg men ger också nya möjligheter för tullen och polisen. Det kan till exempel handla om att analysera stora mängder data för att identifiera mönster som kan tyda på smuggling. Det bästa är förstås om vapnen kan stoppas redan innan de kommer till Sveriges gräns. Därför vill vi stärka samarbetet med ursprungs- och transitländer, både det bilaterala samarbetet och det arbete som sker via EU. Socialdemokraternas politik för att stoppa vapen och narkotika vid gränsen finns närmare beskriven i motioner i skatteutskottet.</span>
+			</p>
+			<p>
+				<a name="_Hlk178588113"><span>Varje nytt sprängdåd skapar stort lidande och ökad oro. Hela hus och kvarter drabbas och sätter skräck i invånarna. Människors hem i hyreshus eller radhuslängor har blivit obeboeliga och alltför ofta upplever de drabbade att de står helt ensamma, utan informa</span><span>&#xad;</span><span>tion, stöd eller trygghet. Samhället måste stå på de drabbades sida. De som drabbas av gängens sprängdåd måste få akut hjälp. Därför måste en skyddsmekanism införas, som träder in så fort det skett ett våldsdåd i ett bostadsområde. En sådan task force ska ha till uppgift att vara en sammanhållande länk för de som drabbas och säkerställa att till exempel kommunen och brottsofferjouren och berörda försäkringsbolag snabbt kopplas in. Vi satsar 100 miljoner på ett sådant arbete. Det finns en befogad kritik mot för</span><span>&#xad;</span><span>säkringsbolagen vad gäller såväl handläggningstider som ersättningsnivåer.</span></a>
+			</p>
+			<h2>
+				<span style="-aw-bookmark-end:_Hlk178588113"></span><span>Mäns våld mot kvinnor ska upphöra</span>
+			</h2>
+			<p class="Normalutanindragellerluft">
+				<span>Varje dag utsätts flickor och kvinnor för trakasserier, våld och sexualbrott. Inte sällan av en man de har eller har haft en relation med. Var 20:e minut anmäls en kvinnomiss</span><span>&#xad;</span><span>handel, dygnet runt. För mer än en kvinna i månaden slutar ett förhållande med en man med mord, ofta i samband med att hon vill lämna gärningsmannen. Våldet orsakar stort lidande, det kränker och begränsar våldsutsattas grundläggande fri- och rättigheter och ger livslånga konsekvenser.</span>
+			</p>
+			<p>
+				<span>Mäns våld mot kvinnor drabbar barn som tvingas bevittna våld och övergrepp. Att barn faller offer för våld i hemmet kan också leda till att de i vuxen ålder utsätter andra eller själv blir utsatta. Förövarna finns i alla samhällsgrupper, med alla bakgrunder. Varje form av våld eller hot om våld mot kvinnor begränsar även tryggheten och friheten för de kvinnor som inte utsätts direkt.</span>
+			</p>
+			<p>
+				<span>Så länge en enda kvinna skadas av sin partner eller före detta partner har vi inte gjort tillräckligt. För Socialdemokraterna har arbetet för att få slut på mäns våld mot kvinnor sedan länge varit en högt prioriterad fråga. Vi kommer att fortsätta vända på varje sten för att få slut på mäns våld mot kvinnor.</span>
+			</p>
+			<h3>
+				<span>Nollvision för mäns våld mot kvinnor</span>
+			</h3>
+			<p class="Normalutanindragellerluft">
+				<span>Under många år har Socialdemokraterna steg för steg sett till att vi fått fler poliser, med bättre verktyg och strängare straff på kvinnofridsområdet. Samtyckeslagen, som gör det än tydligare att sex som inte är frivilligt är förbjudet, utgör en av milstolparna och ett paradigmskifte i synen på våldtäkt. Det nya brottet oaktsam våldtäkt har inneburit att fler kunnat fällas för sex som inte är frivilligt. I regeringsställning skärpte vi straffen för flera sexualbrott, liksom för misshandel, grov kvinnofridskränkning och överträdelse av kontaktförbud. Det är numer straffbart att utsätta ett barn för att se och höra våldsbrott i en nära relation. Reglerna har ändrats så att polisen kan komma åt viktiga bevis i form av till exempel sms mellan makar. Tjej- och kvinnojourerna fick ökat stöd, liksom Nationellt centrum för kvinnofrid, som driver den nationella stödlinjen Kvinnofrids</span><span>&#xad;</span><span>linjen. Men det räcker inte. Socialdemokraterna vill att det ska finnas en nollvision för mäns våld mot kvinnor.</span>
+			</p>
+			<h3>
+				<span>Skärpta straff</span>
+			</h3>
+			<p class="Normalutanindragellerluft">
+				<span>Rättssamhället ska reagera kraftfullt mot brottslighet och den som begår ett brott ska räkna med kännbara straff. I regeringsställning tillsatte Socialdemokraterna en utredning som sett över om bland annat straffen för grov kvinnofridskränkning behöver förändras. Utredningen är klar och vi förutsätter att regeringen återkommer till riksdagen med förslag om förbättringar. För att skydda kvinnor från andra typer av kränkningar än de som är fysiska, och från kontrollerande beteende, vill vi kriminalisera psykiskt våld. Brottet tar sikte på den som upprepat utsätter en annan person för nedvärderande, för</span><span>&#xad;</span><span>olämpande eller på annat sätt kränkande gärningar genom att begränsa den personliga handlingsfriheten. Den utredning vi tillsatte i regeringsställning har legat klar i mer än två år. Trots löften från justitieministern har några förslag inte kommit till riksdagen. Regeringen bör snarast lägga fram en proposition om denna angelägna lagstiftning. Vi anser också att det bör införas en särskild straffskärpningsgrund för brott med hatbrotts</span><span>&#xad;</span><span>motiv mot kvinnor.</span>
+			</p>
+			<p>
+				<span>Restriktionerna för män som dömts måste bli tydligare även efter avtjänat straff. Reglerna för villkorlig frigivning bör ändras. Prövotiden, oftast den tid som återstår av straffet, bör förlängas så att till exempel vistelseförbud förenat med fotboja kan före</span><span>&#xad;</span><span>komma under längre tid. Den som dömts för allvarlig och upprepad brottslighet ska i vissa fall avtjäna hela sitt straff på anstalt och inte beviljas villkorlig frigivning på samma sätt som idag.</span>
+			</p>
+			<p>
+				<span>Kontaktförbud, alltså förbud mot att till exempel skicka sms, närma sig kvinnan fysiskt eller befinna sig i närheten av kvinnans bostad eller arbetsplats, har stor bety</span><span>&#xad;</span><span>delse för utsatta kvinnor. I regeringsställning tillsatte vi en utredning som ska utvärdera tillämpningen av lagen om kontaktförbud, ta ställning till om lagen är modernt och ändamålsenligt utformad och utreda om möjligheterna att meddela kontaktförbud bör utvidgas, bland annat när det gäller det geografiska området. Utredningen har redovisat sina förslag och vi förutsätter att regeringen utan fördröjning återkommer till riksdagen med förslag som förbättrar kontaktförbuden.</span>
+			</p>
+			<h3>
+				<span>Satsningar på polis och rättsväsende</span>
+			</h3>
+			<p class="Normalutanindragellerluft">
+				<span>Satsningarna på polisen och övriga rättsväsendet måste fortsätta. Polisen måste hand</span><span>&#xad;</span><span>lägga mäns våld mot kvinnor på samma sätt som andra grova brott. Särskilt fokus ska sättas på gärningsmannen, även om brottsoffret självklart även fortsättningsvis ska få det stöd som behövs. Vi ser med oro på att polisens arbete mot synnerligen hänsynslösa gärningsmän som utövar våld i nära relationer eller genom människohandel har ned</span><span>&#xad;</span><span>prioriterats. De fredade specialistgrupperna i polisregionerna har, med något enstaka undantag, försvunnit under de senaste åren. Att lägga in denna verksamhet i ”linjen” eller under kortare eller längre tid prioritera andra viktiga insatser innebär ofta att kompetens och arbetssätt försvinner – förmågor som är svåra att bygga upp igen. Även de nödvändiga samverkansprocesserna omöjliggörs när inte en kontinuerlig motpart finns. Det är de människor som blir utsatta för grovt våld i nära relation eller hänsynslös människohandel som får betala priset.</span>
+			</p>
+			<h3>
+				<span>Lex Lotta och kriskommission för att bekämpa mäns våld mot kvinnor</span>
+			</h3>
+			<p class="Normalutanindragellerluft">
+				<span>Många kvinnor som söker hjälp vittnar om att samhället i alltför stor utsträckning arbetar i stuprör, vilket gör att kvinnorna hamnar mellan stolarna. Samarbetet behöver bli betydligt bättre. Kunskapen måste öka så att fler myndigheter, vårdgivare och arbetsgivare vågar fråga om våld, och vet vilka tecken man ska vara uppmärksam på. Vi vill därför införa ”lex Lotta”. När en kvinna har blivit mördad av en man, trots att hon i kontakt med myndigheter uttryckt ett behov av hjälp pga. en psykiskt eller fysiskt våldsam relation, ska den berörda myndigheten lex Lotta-anmäla sig själv. Syftet med anmälan är att uppmärksamma myndighetens brister i bemötande och stöd till vålds</span><span>&#xad;</span><span>utsatta kvinnor. Vi måste skyndsamt öka medvetenheten om mäns våld mot kvinnor i hela samhället och åtgärda de brister som gör att kvinnor faller mellan stolarna.</span>
+			</p>
+			<p>
+				<span>För att intensifiera arbetet anser Socialdemokraterna även att regeringen bör tillsätta en kriskommission för att bekämpa mäns våld mot kvinnor. Tillsammans med relevanta myndigheter och kvinnojourer bör man systematiskt gå igenom vilka åtgärder som skulle kunnat förhindra mord och misshandel.</span>
+			</p>
+			<h3>
+				<span>Nationellt våldsförebyggande program – för att förhindra våldet</span>
+			</h3>
+			<p class="Normalutanindragellerluft">
+				<span>Socialdemokraterna har presenterat ett nationellt våldsförebyggande program som samlar en rad olika insatser inom olika delar av samhället för att hindra att våldet uppstår från första början. Det handlar om tidiga insatser mot våld som riktar sig till barn och unga, till dem som har förhöjd risk att utöva våld och åtgärder mot dem som utsatt en närstående för våld. De förebyggande åtgärderna måste fortsätta.</span>
+			</p>
+			<p>
+				<span>Många av de män som dödar sin partner har tidigare varit i kontakt med psykiatrin. Ett program för att män ska sluta slå, med metoden Sluta skjut som förebild, bör tas fram och implementeras i hela landet.</span>
+			</p>
+			<h3>
+				<span>Bättre stöd till våldsutsatta kvinnor</span>
+			</h3>
+			<p class="Normalutanindragellerluft">
+				<span>Kvinnor som utsätts för våld ska få den hjälp de behöver. Det finns en betydande risk att alltför mycket ansvar läggs på den våldsutsatta kvinnan. Hon ska våga lämna, hon ska samla bevis och anmäla, hon ska skydda sina barn och hon ska leva gömd. Samarbetet mellan inblandade myndigheter måste bli mycket bättre. Den sociala och fysiska trygg</span><span>&#xad;</span><span>heten för de som anmäler brotten måste stärkas – samhället ska finnas med hela vägen.</span>
+			</p>
+			<p>
+				<span>För många kvinnor fortsätter våldet även efter en separation. Det kan handla om återkommande vårdnadstvister, försök att fördröja bodelningen eller att gärningsmannen lämnat kvinnan med stora skulder. Detta så kallade eftervåld, alltså det våld som fort</span><span>&#xad;</span><span>sätter även sedan relationen tagit slut, måste uppmärksammas och lagföras.</span>
+			</p>
+			<h3>
+				<span>Bättre stöd till kvinnor som lever med skyddade personuppgifter</span>
+			</h3>
+			<p class="Normalutanindragellerluft">
+				<span>Tusentals kvinnor lever med skyddade personuppgifter i Sverige till följd av hot, misshandel och trakasserier från sina tidigare män. Många av dem har barn. Samhällets stöd till de här familjerna brister, det kan många kvinnor vittna om. Det handlar om allt från att socialtjänsten bokar in möten på ett sätt som gör att kvinnans adress röjs, till att inte kunna besöka läkare eller skaffa ett telefonabonnemang för att de inte kan lämna ut sitt personnummer. Alla inblandade aktörer måste samverka på ett sådant sätt att de utsatta kvinnorna får det skydd som krävs.</span>
+			</p>
+			<h3>
+				<span>Ett tryggt skyddat boende</span>
+			</h3>
+			<p class="Normalutanindragellerluft">
+				<span>Att tvingas fly från sitt eget hem kan sätta djupa spår, inte minst hos barnen. Den trygghet som hemmet utgör rycks undan. De kvinnor och barn som tvingas söka skydd från en våldsam partner och pappa har rätt till ett tryggt boende, med en verksamhet av hög kvalitet, där man tas emot av människor som förstår vad man är utsatt för. Skyddat boende måste finnas i tillräckligt hög omfattning, innehåll och kvalitet behöver garan</span><span>&#xad;</span><span>teras och finansieringen måste vara stabil och långsiktig. Barnrättsperspektivet måste stärkas.</span>
+			</p>
+			<p>
+				<span>Riksdagen har nyligen fattat beslut om skärpta regler för skyddade boenden, som innebär en viktig och nödvändig modernisering, särskilt i synen på barn och barns rättigheter. Det ställs också högre krav på de aktörer som bedriver skyddade boenden, bland annat vad gäller tillstånd. Samtidigt finns det en oro för att förändringarna på sikt kan innebära risker för kvinnojourernas unika verksamhet. De senaste decenniernas utveckling, där allt strängare krav har ställts på kommunerna vad gäller konkurrens</span><span>&#xad;</span><span>utsättning enligt lagen om offentlig upphandling (LOU), har lett till en förskjutning mot principen om ”lägsta pris” där de vinstdrivande företagen gynnats. Det har i vissa fall lett till att kommuner, trots motsatta politiska ambitioner, tvingats anlita vinstdrivande framför ideellt drivna skyddade boenden.</span>
+			</p>
+			<p>
+				<span>Kvinnojourerna och det civila samhället har under flera decennier gjort ovärderliga insatser för att skydda kvinnor och barn från våldsamma män. Deras unika kunskap och erfarenheter måste värnas samtidigt som vi vidtar åtgärder för att stänga ute oseriösa aktörer. Vinstsyftet lämpar sig inte när det handlar om skyddade boenden och Social</span><span>&#xad;</span><span>demokraterna anser att all upphandlad drift av skyddade boenden ska reserveras för idéburna organisationer. Då skulle kvinnojourernas och civilsamhällets verksamhet värnas och skyddet för de kvinnor som placeras säkerställas.</span>
+			</p>
+			<h3>
+				<span>Barnahus i hela landet</span>
+			</h3>
+			<p class="Normalutanindragellerluft">
+				<span>Barn som har utsatts för övergrepp och kränkningar måste tas om hand på bästa sätt och bli lyssnade på. I flera kommuner finns särskilda barnahus som samlar den kompetens som kan behövas på ett och samma ställe och underlättar barns möte med rättsväsendet. Barn ska inte behöva slussas runt och tvingas berätta vad som hänt om och om igen. Tillgång till barnahus bör finnas i hela landet.</span>
+			</p>
+			<h3>
+				<span>Barns rätt till skydd från umgänge med en våldsam förälder</span>
+			</h3>
+			<p class="Normalutanindragellerluft">
+				<span>Barn behöver ett bättre skydd från umgänge med en våldsam förälder. När frågor om vårdnad och umgänge avgörs måste utgångspunkten vara vad som är bäst för barnet. En förälder som mördar den andre föräldern ska som huvudregel förlora vårdnaden om barnen.</span>
+			</p>
+			<h3>
+				<span>Våldsutsatta kvinnors rätt till bostad</span>
+			</h3>
+			<p class="Normalutanindragellerluft">
+				<span>Kvinnor som blir utsatta för våld men som inte behöver ett skyddat boende, ska inte riskera att behöva lämna sitt boende. Den som blivit utsatt för våld i sitt eget hem ska ha rätt att bo kvar i bostaden. Det är gärningsmannen som måste flytta på sig. Den gemen</span><span>&#xad;</span><span>samma lägenheten ska kunna överlåtas till brottsoffret.</span>
+			</p>
+			<p>
+				<span>Socialdemokraterna tillsatte i regeringsställning en utredning för att underlätta för våldsutsatta kvinnor att kunna få bo kvar i sin bostad. Det är positivt att regeringen fortsatt det arbete vi startade och har lagt fram ett förslag om att underlätta för vålds</span><span>&#xad;</span><span>utsatta kvinnor att kunna få bo kvar i sin hyresrätt. Socialdemokraterna anser dock att denna rätt bör gälla alla våldsutsatta kvinnor oavsett boendeform.</span>
+			</p>
+			<p>
+				<span>Kommunernas ansvar för att kvinnor och barn som utsätts för våld ska få en trygg bostad behöver förtydligas. Våldsutsatta bör få förtur till allmännyttiga bostäder i alla kommuner.</span>
+			</p>
+			<h3>
+				<span>Våld i ungas parrelationer</span>
+			</h3>
+			<p class="Normalutanindragellerluft">
+				<span>Ett område som inte uppmärksammas i tillräckligt hög utsträckning är våld i ungas parrelationer, framförallt killars våld mot tjejer. Ungefär var fjärde ung tjej har utsatts för våld i en parrelation. Det är därför oerhört viktigt att det förebyggande arbetet för</span><span>&#xad;</span><span>stärks och även riktas till yngre barn. När det våldsförebyggande arbetet bland yngre barn stärks kan även risken för våld i nära i relationer i högre åldrar minska.</span>
+			</p>
+			<h3>
+				<span>Våld mot äldre kvinnor måste uppmärksammas</span>
+			</h3>
+			<p class="Normalutanindragellerluft">
+				<span>En annan grupp som uppmärksammas alltför sällan är äldre kvinnor som utsätts för våld. Samtidigt kan äldre kvinnor som utsätts för våld befinna sig i en särskilt sårbar situation. De kan till exempel i större utsträckning än yngre kvinnor ha socialiserats till att se våld från en partner som något man inte bör tala med utomstående om. Bristande kunskap eller stereotypa föreställningar om att äldre kvinnor inte utsätts för våld riskerar att leda till att kvinnorna inte blir trodda när de försöker berätta om sin situation. Granskningar har återkommande pekat på att det finns en bristande kunskap om våld i nära relationer inom äldreomsorgen och att äldreomsorgen sällan ingår i kommuners interna samverkan kring våld i nära relationer. Yrkesverksamma, inte minst inom hälso- och sjukvården och hemtjänsten, måste regelmässigt uppmärksamma och fråga om våld.</span>
+			</p>
+			<h3>
+				<span>Sätt stopp för hedersrelaterat våld och förtryck</span>
+			</h3>
+			<p class="Normalutanindragellerluft">
+				<span>Hedersrelaterat våld och förtryck innebär att främst flickor och kvinnor, men även pojkar, män och hbtqi-personer, begränsas i sina liv och utsätts för påtryckningar och våld som syftar till att upprätthålla familjens kontroll över individen. Det heders</span><span>&#xad;</span><span>relaterade våldet och förtrycket måste upphöra och samhället måste reagera kraftfullt mot alla former av hedersrelaterat våld och förtryck.</span>
+			</p>
+			<p>
+				<span>Under de två senaste mandatperioderna har ett flertal viktiga steg tagits när det gäller såväl straffskärpningar som förebyggande arbete. Bland annat har hedersmotiv gjorts till en försvårande omständighet när domstolen bestämmer straffet för ett brott och ett nytt brott om hedersförtryck har införts.</span>
+			</p>
+			<p>
+				<span>Ett sätt att kontrollera flickors sexualitet är oskuldskontroller, oskuldsoperationer och oskuldsintyg. Det får inte förekomma. Därför tillsatte vi i regeringsställning en utred</span><span>&#xad;</span><span>ning med uppgift att inhämta kunskap om förekomsten av oskuldskontroller, utfärdande av oskuldsintyg, hymenoperationer och liknande, och att ta ställning till hur skyddet mot denna form av otillbörlig kontroll av flickors och kvinnors sexualitet kan stärkas. Utredningen har presenterat sina förslag och vi förutsätter att regeringen snarast åter</span><span>&#xad;</span><span>kommer med förslag till nödvändig lagstiftning.</span>
+			</p>
+			<p>
+				<span>Samma utredning hade till uppgift att analysera och redogöra för vilket straffansvar som i dag finns när det gäller så kallad omvändelseterapi eller omvändelseförsök. Omvändelseterapi ska inte få förekomma och vi förväntar oss även här att regeringen återkommer med nödvändig lagstiftning.</span>
+			</p>
+			<h3>
+				<span>Sexuellt våld och utsatthet i digitala miljöer</span>
+			</h3>
+			<p class="Normalutanindragellerluft">
+				<span>Barn tillbringar en allt större del av sin tid på nätet, vilket ökar risken för att utsättas för grooming eller att dras in i sexuell exploatering via sociala medier och andra plattformar på nätet. Likaså innebär den snabbt accelererande AI-utvecklingen nya risker för flickor att utnyttjas för sexuell exploatering och i pornografiska syften. Socialdemokraterna tillsatte flera viktiga utredningar på området för att bland annat öka skyddet för barn som utsätts i pornografi. Detta arbete måste fortsätta. Skyddet för barn på nätet måste förbättras. Sociala medier-företagen bör ta ett mycket större ansvar för sina plattformar och lagstiftningen måste uppdateras i takt med den nya tekniken.</span>
+			</p>
+			<h3>
+				<span>Ingen har rätt att köpa en annan människas kropp</span>
+			</h3>
+			<p class="Normalutanindragellerluft">
+				<span>Ingen ska kunna ta sig rätten att köpa en annan människas kropp. Den som är offer för prostitution befinner sig i en mycket utsatt situation. Hon kommer ofta från ett annat land, talar inte språket och känner inte till sina rättigheter. De människor som sysslar med den här formen av människohandel ska självklart straffas och kvinnorna ges det stöd som behövs. Såväl polisen som ideella organisationer har en avgörande roll för att lagföra förövarna och stötta kvinnorna. Den förhållandevis nya lagstiftningen om oakt</span><span>&#xad;</span><span>sam våldtäkt kan användas i en del fall. Nyligen har böter tagits bort ur straffskalan för köp av sexuell tjänst för att avspegla allvaret i brottet. För att inte svenska sexköpare ska komma undan ansvar vill vi ta bort kravet på dubbel straffbarhet så att även sexköp utomlands blir straffbart. Prostitution och annan typ av människohandel är dessutom en av inkomstkällorna för grov organiserad brottslighet och den som köper sex bidrar därmed till den organiserade brottsligheten.</span>
+			</p>
+			<h2>
+				<span>Det bästa är om inga brott begås – brottsförebyggande verksamhet</span>
+			</h2>
+			<p class="Normalutanindragellerluft">
+				<span>Det finns ett stort behov av att utveckla samhällets insatser för att förebygga brott, inte bara i rättsväsendet utan också hos andra berörda aktörer. I regeringsställning tog Socialdemokraterna därför fram det första brottsförebyggande programmet på 20 år. Ett effektivt brottsförebyggande arbete måste ske strukturerat, vara långsiktigt och baseras på kunskap. Samverkan är ett nyckelbegrepp och helt nödvändigt för att brottsföre</span><span>&#xad;</span><span>byggande arbete ska bli framgångsrikt.</span>
+			</p>
+			<p>
+				<span>Tidiga insatser mot ungas brottslighet lönar sig på många sätt. Om barn och unga som bryter mot sociala normer och regler får stöd så tidigt som möjligt minskar risken för allvarlig problematik eller kriminell karriär senare i livet. Barns villkor under de första levnadsåren spelar stor roll för hela livet. I de länder där den socioekonomiska ojämlikheten är stor är både tilliten människor emellan och människors tillit till sam</span><span>&#xad;</span><span>hällets institutioner lägre, samtidigt som kriminaliteten är högre. Därför är kampen mot stora klyftor också brottsförebyggande. Föräldrastöd och förebyggande arbete inom mödra- och barnhälsovård, förskola och skola gör att riskfaktorer kan upptäckas tidigt. Även tillgången till fritidsverksamhet och något meningsfullt att sysselsätta sig med är betydelsefull. Åtgärder som syftar till att upptäcka risker för eller förekomst av till exempel våld eller missbruk utgör också viktiga delar i ett brottsförebyggande arbete. Under uppväxtåren formas de värderingar och beteenden som präglar livet, och under skoltiden förmedlas och förankras respekt för de mänskliga rättigheterna och de grund</span><span>&#xad;</span><span>läggande demokratiska värderingar som vårt samhälle vilar på. Under ungdomsåren är risken att begå och att utsättas för brott som störst. Det är därför nödvändigt att särskilt uppmärksamma skyddsfaktorer runt unga och identifiera riskgrupper och riskbeteenden. Här spelar inte minst socialtjänsten en viktig roll. Barn- och ungdomspsykiatrin likaså, och regionernas delaktighet i brottsförebyggande samverkan behöver stärkas.</span>
+			</p>
+			<p>
+				<a name="_Hlk178840418"><span>I budgetpropositionen skär regeringen ner på de generella statsbidragen till kommu</span><span>&#xad;</span><span>ner och regioner. Det kommer med stor sannolikhet att påverka det brottsförebyggande arbetet negativt. I den socialdemokratiska budgeten skjuter vi till sex miljarder i generella statsbidrag till kommuner och regioner.</span></a>
+			</p>
+			<p>
+				<span style="-aw-bookmark-end:_Hlk178840418"></span><span>Polismyndigheten, inte minst kommun- och områdespoliserna, ska ha goda förutsätt</span><span>&#xad;</span><span>ningar att utföra även den brottsförebyggande delen av arbetet. Att bygga relationer med människorna som finns i det område man arbetar i är dessutom viktigt för att kunna klara upp brott. Vårt mål om 50</span><span>&#xa0;</span><span>000 polisanställda kommer att vara ett viktigt bidrag för att polisen ska kunna klara sitt arbete.</span>
+			</p>
+			<p>
+				<span>För att ytterligare förbättra det brottsförebyggande arbetet har kommunerna fått ett lagstadgat brottsförebyggande uppdrag. En av de avgörande faktorerna för att det uppdraget ska kunna genomföras på ett bra sätt är att kommunerna får tillräckliga resurser så att de inte tvingas skära ner den brottsförebyggande verksamheten.</span>
+			</p>
+			<p>
+				<span>Närmare om Socialdemokraternas syn på och förslag om det brottsförebyggande arbetet finns att läsa i motioner på flera andra utskottsområden.</span>
+			</p>
+			<h2>
+				<span>Stoppa bedrägerierna</span>
+			</h2>
+			<p class="Normalutanindragellerluft">
+				<span>Förra året anmäldes nästan 250</span><span>&#xa0;</span><span>000 bedrägerier, en ökning med över 20 procent, och det är därmed den brottstyp som ökade mest. För många människor, inte minst äldre, får bedrägerierna stora konsekvenser. Självklart ekonomiska men många beskriver också den otrygghet som följer på att ha blivit utsatt för den här typen av brott. Många känner också skam för att ha blivit lurade, trots att de som begår bedrägerierna är experter på att få människor att tro på dem.</span>
+			</p>
+			<p>
+				<span>Bedrägeribrott är en av den organiserade brottslighetens största inkomstkällor. Under 2023 ökade brottsvinsterna med drygt 20 procent till 7,5 miljarder kronor. Utifrån undersökningar och bedömningar som bland annat Europol och Svenskt Näringsliv gjort kan mörkertalet för bedrägerier ligga mellan 2</span><span>&#xa0;</span><span>och 2,9 gånger högre än för de brott som faktiskt anmäldes. Det skulle innebära brottsvinster på 15,3 till 21,4 miljarder kronor för 2023.</span>
+			</p>
+			<p>
+				<span>Nätbedrägerier är ofta svåra att klara upp och därför blir det breda förebyggande arbetet än viktigare. Krav på tvåfaktorsautentisering vid köp på nätet är bara ett exempel på viktiga förebyggande åtgärder. Bankerna har en särskilt viktig roll att fylla och måste bli än bättre på att ta sin del av ansvaret för att stoppa bedrägerierna. Bankföreningen har presenterat ett antal åtgärder, bland annat fördröjda betalningar och beloppsgränser för utbetalningar. Det är bra men det räcker inte. För att ytterligare sätta press på bankerna att bygga säkrare system vill vi bland annat göra bankerna återbetalnings</span><span>&#xad;</span><span>skyldiga i högre grad än idag när deras kunder blir lurade att föra över pengar till bedra</span><span>&#xad;</span><span>gare. De informationskampanjer som riktas mot enskilda, för att förstärka skyddet mot att bli utsatt för bedrägeri, behöver fortsätta och intensifieras.</span>
+			</p>
+			<p>
+				<span>Med den snabba utvecklingen av AI finns stora risker att bedrägerierna kommer att bli än mer hänsynslösa. Arbetet med att bekämpa bedrägerier måste fortsätta med full kraft, både i Sverige och internationellt. De kommande EU-kraven på märkning av AI-genererat innehåll måste implementeras snabbt och därför bör ansvarig myndighet redan nu få i uppdrag att förbereda en punktbevakning av införandet, för att minska risken för förseningar eller slarv från de stora sociala medier-plattformarna.</span>
+			</p>
+			<h2>
+				<span>Bättre skydd för brottsoffer</span>
+			</h2>
+			<p class="Normalutanindragellerluft">
+				<span>Det bästa sättet att skydda brottsoffer är att stoppa brotten. Bryt nyrekryteringen till gängen och arbeta förebyggande mot destruktiva maskulinitetsnormer och för ökad jämlikhet och jämställdhet. Så kan vi förebygga såväl gängkriminalitet som mäns våld mot kvinnor.</span>
+			</p>
+			<p>
+				<span>Vi socialdemokrater vet att samhället är som bäst när vi håller ihop. Alltför ofta känner brottsoffer ensamhet och att samhället inte står tillräckligt på deras sida. Brotts</span><span>&#xad;</span><span>offrets ställning och rättigheter måste stärkas. </span>
+			</p>
+			<p>
+				<span>Om vi ska kunna öka tilliten och samanhållningen i Sverige måste samhället finnas där för brottsoffer. I många undersökningar visas hur viktigt det är för brottsoffer att känna att det finns ett starkt system runt den drabbade som säkerställer rätten till stöd och information. Det krävs ett helt nytt angreppssätt. Här och nu måste regeringen agera och styra myndigheterna bättre.</span>
+			</p>
+			<p>
+				<span>Att utsättas för brott är en kränkning som kan sätta djupa spår. För många är nog det allra viktigaste att brottet klaras upp. Brottsoffer måste kunna känna förtroende för rätts</span><span>&#xad;</span><span>väsendet, och såväl brottsoffer som vittnen och anhöriga ska känna trygghet under hela rättsprocessen. Då krävs att alla aktörer som möter brottsoffer och vittnen har kunskap om brottsoffrens rättigheter och vilket skydd och stöd samhället kan erbjuda. Polis</span><span>&#xad;</span><span>myndigheten är ofta den första verksamhet som ett brottsoffer kommer i kontakt med och det är därför extra viktigt att den kontakten fungerar. Kommuner och regioner har ett stort ansvar för att med sina särskilda ansvarsområden och kompetenser se till att den som utsatts för brott får den hjälp och det stöd som behövs.</span>
+			</p>
+			<p>
+				<span>Det saknas en lag som samlar brottsoffers rättigheter, som rätt till skydd, stöd och information. Det gör det svårt att orientera sig bland lagar, regler och olika aktörer för att kräva sin rätt. Dessutom finns det oacceptabelt stora geografiska ojämlikheter gällande stöd. En ny brottsofferlag skulle kunna samla och förstärka brottsoffers rättigheter. Den behöver också peka ut kunskaper och kompetens kring bemötande av särskilt utsatta brottsoffer. Till exempel när brottsoffret är funktionsnedsatt eller ett barn eller när det rör våld i hederskontext. Brottsoffrets behov måste stå i centrum. Ända</span><span>&#xad;</span><span>målsenliga regler om ersättning till brottsoffer är också viktigt för att stärka brottsoffers ställning och minska skadeverkningarna av brott.</span>
+			</p>
+			<p>
+				<span>Hela samhällets samlade resurser måste finnas där för den utsatta. För oss social</span><span>&#xad;</span><span>demokrater är det en fråga om upprättelse, respekt och rättvisa.</span>
+			</p>
+			<p>
+				<span>Många brottsoffer kan vittna om vilket viktigt stöd ideella organisationer som Brotts</span><span>&#xad;</span><span>offerjouren, tjej- och kvinnojourer och vittnesstödet hos domstolarna kan ge. Det finns en särskild kraft i civilsamhället och de behövs för att erbjuda stöd till den enskilda, för att engagera och folkbilda och för att vara en viktig röst i samhällsdebatten. Civilsam</span><span>&#xad;</span><span>hället är en viktig del av vår grundläggande demokrati – men de behöver långsiktig och trygg finansiering.</span>
+			</p>
+			<p>
+				<span>Brottsoffermyndigheten ger, förutom stöd till ideella organisationer, även direkt information till brottsoffer och vittnen om deras rättigheter, bland annat genom en lätt</span><span>&#xad;</span><span>illgänglig webbaserad brottsofferguide. Även detta arbete måste fortsätta och utvecklas.</span>
+			</p>
+			<p>
+				<span>Brottsoffrets skydd måste öka. Därför ska kontroll, stöd- och övervakningsåtgärder byggas ut till exempel genom kontakt- eller vistelseförbud för den som avtjänat fullt straff. Sådana åtgärder, tillsammans med Kriminalvårdens behandlingsprogram, kan dessutom bidra till att minska risken för återfall i brott. Reaktionerna vid misskötsamhet under avtjänande av straff bör skärpas.</span>
+			</p>
+			<p>
+				<span>När barn utsätts för allvarliga brott måste rätt resurser och kompetenser snabbt finnas på plats och stödet måste vara likvärdigt över hela landet. Det gäller inte minst barn</span><span>&#xad;</span><span>förhörsledare. Enligt lag ska polis och åklagare utreda allvarliga brott mot barn inom 90 dagar. Men många barn får vänta betydligt längre än så. En rapport från Rädda Barnen visar att mer än vart tredje barn har fått vänta mer än 90 dagar på beslut om åtal. Det här får allvarliga konsekvenser för barnen. Långa utredningstider har stått i vägen för den hjälp som stödsamtal och traumabehandling från barn- och ungdomspsykiatrin som barnet behöver och har rätt till. Barnen kan tvingas vänta på insatser från socialtjänst vilket i sin tur kan innebära att hemmiljön blir direkt farlig, om den misstänkte för</span><span>&#xad;</span><span>övaren exempelvis är en förälder barnet bor hos. I de fall där förövaren är en närstående till barnet är risken för ångest särskilt stor. Suicidrisken är förhöjd. Regeringen måste säkerställa att rättsväsendet följer de regler som finns när barn utsätts för allvarliga brott. Regeringen måste också se till att barnen får det stöd de behöver.</span>
+			</p>
+			<h2>
+				<span>Förebygg terrorismen</span>
+			</h2>
+			<p class="Normalutanindragellerluft">
+				<span>Terrorism och våldsbejakande extremism fortsätter att vara ett överhängande hot mot vårt land och vårt sätt att leva. Sverige har gått från att betraktas som ett legitimt mål för terrorattentat till att betraktas som ett prioriterat mål. I en tid där Sverige för varje dag blir farligare och fattigare krävs handlingskraft för att öka svensk säkerhet. Det behövs en nationell samling mot våldsbejakande extremism och terrorism.</span>
+			</p>
+			<p>
+				<span>Den socialdemokratiska regeringen tog initiativ till en ny nationell strategi mot terrorism. Sedan hösten 2014 överlämnade vi utifrån denna 28 propositioner med lag</span><span>&#xad;</span><span>förslag specifikt riktade mot terrorism och våldsbejakande extremism. Strategin lade sedan grunden för två blocköverskridande överenskommelser om kampen mot terrorism. Att dessa kom till stånd var ett styrkebesked för vårt land och det möjlig</span><span>&#xad;</span><span>gjorde en lång rad åtgärder med brett politiskt stöd. Det är välkommet att regeringen har fortsatt det arbetet så att det nu till exempel är straffbart att delta i en terroristorganisa</span><span>&#xad;</span><span>tion. Det är också välkommet att regeringen arbetar med en uppdaterad strategi. Social</span><span>&#xad;</span><span>demokraterna kommer självklart att konstruktivt delta i det arbetet, om regeringen är intresserade av ett sådant samarbete.</span>
+			</p>
+			<p>
+				<span>Ett fundamentalt problem är dock att Sverige idag har ett regeringsunderlag som omöjliggör det helhetsgrepp i kampen mot terrorism och våldsbejakande extremism som krävs. Att uppmana till bokbål och på andra sätt understödja hatet mot muslimer har fått direkta konsekvenser för vårt lands säkerhet och ökat otryggheten för många svenska medborgare. Nationellt centrum för terrorhotbedömning har konstaterat att våldsbejakande islamism och våldsbevakande högerextremism nu göder varandra och att man ser tecken på en växelverkan mellan gruppernas propaganda. Båda sidor av extremismen tjänar därmed i längden på ökade motsättningar, hat och minskande sam</span><span>&#xad;</span><span>hällsgemenskap. I detta nya landskap behöver både regering och myndigheter agera kraftfullt. Regeringen har valt att enbart utreda förändringar i ordningslagen för att kunna sätta stopp för koranbränningarna. Det är en alltför smal utredning. Regeringen borde också utreda om lagen om hets mot folkgrupp är ändamålsenligt utformad och om det finns andra regler som skulle kunna utformas på ett annat sätt.</span>
+			</p>
+			<p>
+				<span>Tydliga straffskärpningar, åtgärder mot extremismen på nätet och fler poliser med de allra bästa verktyg som går att få är avgörande i kampen – men samtidigt krävs mer. Vi måste också klara av att angripa roten till hatet, hotet mot demokratin och den minsk</span><span>&#xad;</span><span>ande samhällsgemenskapen och tilliten. När den svenska nynazismen växte sig stark på 90-talet, med ökat gatuvåld och mord, bemöttes det just med hela samhällets samlade kraft. Polis och underrättelsetjänst agerade, men dessutom togs ett antal andra initiativ såväl av regeringen som av civilsamhället. Det är dags för en ny sådan nationell samling mot extremismen och för demokratin och tilliten i vårt land.</span>
+			</p>
+			<p>
+				<span>Säkerhetspolisen måste ha tillräckliga resurser och de allra bästa verktygen för att kunna upptäcka, förhindra och bekämpa terrorismen. Centrum mot våldsbejakande extremism, CVE, har ansvaret för att utveckla det förebyggande arbetet på nationell, regional och lokal nivå. CVE arbetar bland annat med att utveckla metodstöd, samarbete med kommunerna, en stödlinje för yrkesverksamma och ett mobilt stödteam. I tider när extremism ökar blir CVE:s arbete än mer angeläget. Vi avsätter därför ytterligare 40 miljoner kronor för säkerställa att CVE har tillräckliga resurser och kan agera för att hindra till exempel unga på väg in i extremism och som stöd vid till exempel skolattacker.</span>
+			</p>
+			<p>
+				<span>Expo har kartlagt ungas radikalisering inom gamingvärlden i ett projekt med stöd av Myndigheten för ungdoms- och civilsamhällesfrågor (MUCF). De visar att den gaming</span><span>&#xad;</span><span>värld där en överväldigande del av Sveriges barn och unga spenderar mycket av sitt sociala liv riskerar att bli en grogrund för våldsbejakande högerextremism. De konsta</span><span>&#xad;</span><span>terar att ”högerextremister har dokumenterats trakassera andra användare, sprida och normalisera sin ideologi bland barn och unga samt uppvigla till antidemokratisk aktivism, våldsbrott och terrordåd”. I Expos årliga kartläggning av den högerextrema miljön i Sverige pekar man på att extremister är oerhört framgångsrika med påverkans</span><span>&#xad;</span><span>kampanjer och rekryteringsinsatser online, särskilt i sociala medier. Utöver klassisk organisering och kampanjer i onlinemiljöer har högerextrema runt om i världen och även här i Sverige ökat sin aktivitet i särskilda klubbar där man tränar fysiskt till</span><span>&#xad;</span><span>sammans, så kallade aktivklubbar. Polisen, socialtjänsten och andra expertmyndigheter måste ges resurser att följa och utveckla sin närvaro och kunskap. Exempel från EU och polisen i Nederländerna visar att polisiär närvaro i gamingmiljöer och online är av</span><span>&#xad;</span><span>görande. Utöver rena hatbrott, ökad terrorrisk eller radikalisering ligger Sverige efter när det gäller att lösa brott i spelmiljöer. En granskning i SVT 2023 visar att det endast finns 27 fällande domar de senaste sex åren och detta trots att vi vet att många spelar spel och utsätts för brott samt att branschen omsätter tiotals miljarder varje år. Samman</span><span>&#xad;</span><span>taget måste polisen ges resurser för att utveckla det digitala arbetet och särskilt för att bekämpa brott som begås mot barn och unga och med extrema förtecken.</span>
+			</p>
+			<h2>
+				<a name="_Hlk178156581"><span>Hat och hot – ett hot mot vår demokrati</span></a>
+			</h2>
+			<p class="Normalutanindragellerluft">
+				<span>Hot och hat mot journalister, opinionsbildare, politiker, fackligt förtroendevalda och kulturarbetare är ett kraftigt och snabbt växande hot mot vår demokrati. Fyra av tio journalister uppgav i en undersökning från 2019 att de avstått från att rapportera om ett ämne för att undvika att utsättas för hat och hot. Vi ser nu journalister som lämnar yrket på grund av hatet och hoten. Liknande tendenser kan ses hos politiskt engagerade, kulturarbetare och företrädare för det civila samhället. Utvecklingen påverkar med säkerhet allmänhetens vilja att engagera sig och fullt ut nyttja sin yttrandefrihet. Politiska krafter i Sverige – inte minst trollfabriker och propagandacentraler på den extrema högerkanten – underblåser den här utvecklingen. Även utländska stater och ett riksdagsparti verkar driva den här typen av trollfabriker. Unga flickor utsätts för kränk</span><span>&#xad;</span><span>ningar när bilder och filmer sprids på nätet, både för att människor ska tjäna pengar och som ren mobbning. Det här måste få ett slut. Det är ett hot mot vår demokrati när män</span><span>&#xad;</span><span>niskor tystnar och inte vågar eller orkar uttrycka sin åsikt. Socialdemokraterna anser att en ny strategi mot hot och hat behöver tas fram. Men det är också uppenbart att även om lagstiftningen har skärpts, räcker den inte till. Vi vill därför se över hela den lagstiftning som berör hat och hot, särskilt på nätet.</span>
+			</p>
+			<p>
+				<span>De stora digitala plattformarna med användargenererat innehåll har blivit viktiga förmedlare av det fria ordet och en del av det demokratiska samtalet. Samtidigt tjänar företagen bakom plattformarna stora pengar på det hat och hot som riskerar att bryta sönder våra demokratiska normer. Vi måste ställa krav på, och kunna bötfälla, företagen så att deras plattformar inte blir frizoner för hat, hot och påverkansoperationer.</span>
+			</p>
+			<h2>
+				<span style="-aw-bookmark-end:_Hlk178156581"></span><span>Stölder, inbrott, skadegörelse och annan vardagsbrottslighet</span>
+			</h2>
+			<p class="Normalutanindragellerluft">
+				<span>Även om den allvarliga gängkriminaliteten ofta står i fokus i den offentliga debatten utgör det man brukar kalla vardagsbrottslighet över 80 procent av de anmälda brotten. Det handlar till exempel om stöld, skadegörelse, bedrägeri och misshandel. Mängdbrott kan tillfoga dem som utsätts allvarlig skada. Att komma hem och upptäcka att någon varit inne i bostaden innebär en kränkning av den personliga integriteten och att inte kunna känna sig trygg i sitt eget hem riskerar att påverka livet på flera olika sätt. Mängdbrottsligheten leder också till ekonomiska förluster för alla företag som drabbas. Dessutom kan mängdbrott ha starka samband med grov organiserad brottslighet. Det är viktigt att polisen bekämpar mängdbrottsligheten på ett effektivt sätt.</span>
+			</p>
+			<p>
+				<span>Riksrevisionen har i en rapport visat att uppklaringen av mängdbrotten har blivit sämre, trots stora anslagsökningar, fler poliser och omorganisering av mängdbrotts</span><span>&#xad;</span><span>verksamheten. Sammanfattningsvis menar Riksrevisionen att arbetet inte sker på ett effektivt sätt. Det beror enlig rapporten bland annat på att lokalpolisområdena inte är tillräckligt bemannade och att nödvändig kompetensutveckling inte genomförs. Riks</span><span>&#xad;</span><span>revisionen kommer med ett antal rekommendationer och regeringen bör snarast se till att arbetet med mängdbrottsligheten förbättras. Den butiksägare som gång på gång får uppleva att människor genomför stölder i butiken måste kunna lita på att rättsväsendet gör sitt yttersta för att klara upp brotten.</span>
+			</p>
+			<p>
+				<span>Grannsamverkan och andra trygghetsskapande åtgärder kan ha stor betydelse för att sätta stopp för denna typ av brottslighet. En gemensam europeisk standard för stöld</span><span>&#xad;</span><span>skyddsmärkning bör införas.</span>
+			</p>
+			<p>
+				<span>Under vår tid i regeringsställning tillsatte vi en utredning om den så kallade mängd</span><span>&#xad;</span><span>rabatten, förundersökningsbegränsning, åtalsunderlåtelse och direktavskrivning. Utredningen har legat klar i Regeringskansliet sedan januari 2023. Regeringen bör snarast återkomma med förslag till ändrade regler.</span>
+			</p>
+			<div style="-aw-sdt-tag:'CC_Underskrifter'; -aw-sdt-title:'CC_Underskrifter'">
+				<p>
+					<span style="-aw-import:ignore">&#xa0;</span>
+				</p>
+				<p>
+					<span style="-aw-import:ignore">&#xa0;</span>
+				</p>
+			</div>
+			<table cellspacing="0" cellpadding="0" style="width:100%; border-collapse:collapse">
+				<tr style="page-break-inside:avoid">
+					<td style="width:1%; padding-right:5.4pt; padding-left:5.4pt; vertical-align:bottom">
+						<p class="Underskrifter" style="margin-bottom:0pt">
+							<span>Teresa Carvalho (S)</span>
+						</p>
+					</td>
+					<td style="width:1%; padding-right:5.4pt; padding-left:5.4pt; vertical-align:bottom">
+						<p class="Underskrifter" style="margin-bottom:0pt">
+							<span style="-aw-import:ignore">&#xa0;</span>
+						</p>
+					</td>
+				</tr>
+				<tr style="page-break-inside:avoid">
+					<td style="width:1%; padding-right:5.4pt; padding-left:5.4pt; vertical-align:bottom">
+						<p class="Underskrifter" style="margin-bottom:0pt">
+							<span>Annika Strandhäll (S)</span>
+						</p>
+					</td>
+					<td style="width:1%; padding-right:5.4pt; padding-left:5.4pt; vertical-align:bottom">
+						<p class="Underskrifter" style="margin-bottom:0pt">
+							<span>Petter Löberg (S)</span>
+						</p>
+					</td>
+				</tr>
+				<tr style="page-break-inside:avoid">
+					<td style="width:1%; padding-right:5.4pt; padding-left:5.4pt; vertical-align:bottom">
+						<p class="Underskrifter" style="margin-bottom:0pt">
+							<span>Anna Wallentheim (S)</span>
+						</p>
+					</td>
+					<td style="width:1%; padding-right:5.4pt; padding-left:5.4pt; vertical-align:bottom">
+						<p class="Underskrifter" style="margin-bottom:0pt">
+							<span>Mattias Vepsä (S)</span>
+						</p>
+					</td>
+				</tr>
+				<tr style="page-break-inside:avoid">
+					<td style="width:1%; padding-right:5.4pt; padding-left:5.4pt; vertical-align:bottom">
+						<p class="Underskrifter" style="margin-bottom:0pt">
+							<span>Sanna Backeskog (S)</span>
+						</p>
+					</td>
+					<td style="width:1%; padding-right:5.4pt; padding-left:5.4pt; vertical-align:bottom">
+						<p class="Underskrifter" style="margin-bottom:0pt">
+							<span>Lars Isacsson (S)</span>
+						</p>
+					</td>
+				</tr>
+			</table>
+			<p>
+				<span style="-aw-import:ignore">&#xa0;</span>
+			</p>
+		</div>
+	</div>

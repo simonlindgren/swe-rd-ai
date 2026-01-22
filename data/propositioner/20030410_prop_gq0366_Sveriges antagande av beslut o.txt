@@ -1,0 +1,2369 @@
+SEARCH TERM: AI
+DOCUMENT ID: gq0366
+TITLE: Sveriges antagande av beslut om ändring av artikel 40.1 och 40.7 i Schengenkonventionen samt ändring i lagen om (2000:343) om internationellt polisiärt samarbete
+TYPE: prop
+SUBTYPE: prop
+DATE: 2003-04-10
+PARLIAMENTARY YEAR: 2002/03
+ORGANISATION: JU
+STATUS: hämtad_2
+DOWNLOADED: 2026-01-22 10:29:07
+================================================================================
+
+<div style="margin:3px;">
+<STYLE type="text/css">
+
+body {margin-top: 0px;margin-left: 0px;}
+
+#page_1 {position:relative; overflow: hidden;z:b;margin:19px 0px 18px 10px ;padding: 0px;border: none;width: 947px;}
+
+
+
+
+
+#page_2 {position:relative; overflow: hidden;z:b;margin:18px 0px 0px 10px ;padding: 0px;border: none;width: 1082px;}
+
+
+
+
+
+#page_3 {position:relative; overflow: hidden;z:b;margin:19px 0px 18px 10px ;padding: 0px;border: none;width: 947px;}
+
+
+
+
+
+#page_4 {position:relative; overflow: hidden;z:b;margin:19px 0px 18px 10px ;padding: 0px;border: none;width: 856px;}
+#page_4 #id_1 {border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 811px;overflow: hidden;}
+#page_4 #id_2 {border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 721px;overflow: hidden;}
+#page_4 #id_2 #id_2_1 {float:left;border:none;z:b;margin:39px 0px 0px 10px ;padding: 0px;border:none;width: 315px;overflow: hidden;}
+#page_4 #id_2 #id_2_2 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 496px;overflow: hidden;}
+
+
+
+
+
+#page_5 {position:relative; overflow: hidden;z:b;margin:19px 0px 18px 10px ;padding: 0px;border: none;width: 947px;}
+#page_5 #id_1 {border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 721px;overflow: hidden;}
+#page_5 #id_1 #id_1_1 {float:left;border:none;z:b;margin:1px 0px 0px 10px ;padding: 0px;border:none;width: 315px;overflow: hidden;}
+#page_5 #id_1 #id_1_2 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 496px;overflow: hidden;}
+#page_5 #id_2 {border:none;z:b;margin:13px 0px 0px 10px ;padding: 0px;border:none;width: 902px;overflow: hidden;}
+
+#page_5 #dimg1z{position:absolute;top:556px;left:63px;z-index:-1;width:154px;height:1px;font-size: 1px !important;l-h:nHeight;}
+#page_5 #dimg1 #img1  {width:154px;height:1px;}
+
+
+
+
+#page_6 {position:relative; overflow: hidden;z:b;margin:19px 0px 18px 10px ;padding: 0px;border: none;width: 947px;}
+
+
+
+
+
+#page_7 {position:relative; overflow: hidden;z:b;margin:18px 0px 18px 10px ;padding: 0px;border: none;width: 947px;}
+
+
+
+
+
+#page_8 {position:relative; overflow: hidden;z:b;margin:19px 0px 18px 10px ;padding: 0px;border: none;width: 766px;}
+
+
+
+
+
+#page_9 {position:relative; overflow: hidden;z:b;margin:19px 0px 18px 10px ;padding: 0px;border: none;width: 947px;}
+
+
+
+
+
+#page_10 {position:relative; overflow: hidden;z:b;margin:18px 0px 18px 10px ;padding: 0px;border: none;width: 766px;}
+
+
+
+
+
+#page_11 {position:relative; overflow: hidden;z:b;margin:19px 0px 18px 10px ;padding: 0px;border: none;width: 856px;}
+
+
+
+
+
+#page_12 {position:relative; overflow: hidden;z:b;margin:19px 0px 18px 10px ;padding: 0px;border: none;width: 947px;}
+
+#page_12 #dimg1z{position:absolute;top:38px;left:63px;z-index:-1;width:488px;height:61px;}
+#page_12 #dimg1 #img1  {width:488px;height:61px;}
+
+
+
+
+#page_13 {position:relative; overflow: hidden;z:b;margin:19px 0px 18px 10px ;padding: 0px;border: none;width: 766px;}
+
+
+
+
+
+#page_14 {position:relative; overflow: hidden;z:b;margin:19px 0px 18px 10px ;padding: 0px;border: none;width: 856px;}
+#page_14 #id_1 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 541px;overflow: hidden;}
+#page_14 #id_2 {float:left;border:none;z:b;margin:1px 0px 0px 10px ;padding: 0px;border:none;width: 315px;overflow: hidden;}
+
+
+
+
+
+#page_15 {position:relative; overflow: hidden;z:b;margin:19px 0px 18px 10px ;padding: 0px;border: none;width: 947px;}
+
+#page_15 #dimg1z{position:absolute;top:574px;left:63px;z-index:-1;width:488px;height:62px;}
+#page_15 #dimg1 #img1  {width:488px;height:62px;}
+
+
+
+
+#page_16 {position:relative; overflow: hidden;z:b;margin:19px 0px 18px 10px ;padding: 0px;border: none;width: 856px;}
+
+
+
+
+
+#page_17 {position:relative; overflow: hidden;z:b;margin:19px 0px 18px 10px ;padding: 0px;border: none;width: 856px;}
+
+
+
+
+
+#page_18 {position:relative; overflow: hidden;z:b;margin:19px 0px 16px 10px ;padding: 0px;border: none;width: 856px;}
+#page_18 #id_1 {border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 811px;overflow: hidden;}
+#page_18 #id_1 #id_1_1 {float:left;border:none;z:b;margin:2px 0px 0px 10px ;padding: 0px;border:none;width: 586px;overflow: hidden;}
+#page_18 #id_1 #id_1_2 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 270px;overflow: hidden;}
+#page_18 #id_2 {border:none;z:b;margin:38px 0px 0px 10px ;padding: 0px;border:none;width: 811px;overflow: hidden;}
+
+#page_18 #dimg1z{position:absolute;top:125px;left:0px;z-index:-1;width:668px;height:819px;}
+#page_18 #dimg1 #img1  {width:668px;height:819px;}
+
+
+
+
+#page_19 {position:relative; overflow: hidden;z:b;margin:18px 0px 16px 10px ;padding: 0px;border: none;width: 766px;}
+
+#page_19 #dimg1z{position:absolute;top:949px;left:0px;z-index:-1;width:471px;height:1px;font-size: 1px !important;l-h:nHeight;}
+#page_19 #dimg1 #img1  {width:471px;height:1px;}
+
+
+
+
+#page_20 {position:relative; overflow: hidden;z:b;margin:18px 0px 16px 10px ;padding: 0px;border: none;width: 856px;}
+#page_20 #id_1 {border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 811px;overflow: hidden;}
+#page_20 #id_2 {border:none;z:b;margin:63px 0px 0px 10px ;padding: 0px;border:none;width: 315px;overflow: hidden;}
+#page_20 #id_2 #id_2_1 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 90px;overflow: hidden;}
+#page_20 #id_2 #id_2_2 {float:left;border:none;z:b;margin:1px 0px 0px 10px ;padding: 0px;border:none;width: 180px;overflow: hidden;}
+#page_20 #id_3 {border:none;z:b;margin:7px 0px 0px 10px ;padding: 0px;border:none;width: 676px;overflow: hidden;}
+
+#page_20 #dimg1z{position:absolute;top:948px;left:0px;z-index:-1;width:471px;height:1px;font-size: 1px !important;l-h:nHeight;}
+#page_20 #dimg1 #img1  {width:471px;height:1px;}
+
+
+
+
+#page_21 {position:relative; overflow: hidden;z:b;margin:18px 0px 16px 10px ;padding: 0px;border: none;width: 856px;}
+
+#page_21 #dimg1z{position:absolute;top:948px;left:0px;z-index:-1;width:471px;height:1px;font-size: 1px !important;l-h:nHeight;}
+#page_21 #dimg1 #img1  {width:471px;height:1px;}
+
+
+
+
+#page_22 {position:relative; overflow: hidden;z:b;margin:18px 0px 16px 10px ;padding: 0px;border: none;width: 856px;}
+
+#page_22 #dimg1z{position:absolute;top:948px;left:0px;z-index:-1;width:471px;height:1px;font-size: 1px !important;l-h:nHeight;}
+#page_22 #dimg1 #img1  {width:471px;height:1px;}
+
+
+
+
+#page_23 {position:relative; overflow: hidden;z:b;margin:18px 0px 16px 10px ;padding: 0px;border: none;width: 856px;}
+
+#page_23 #dimg1z{position:absolute;top:563px;left:0px;z-index:-1;width:471px;height:387px;}
+#page_23 #dimg1 #img1  {width:471px;height:387px;}
+
+
+
+
+#page_24 {position:relative; overflow: hidden;z:b;margin:19px 0px 18px 10px ;padding: 0px;border: none;width: 856px;}
+#page_24 #id_1 {float:left;border:none;z:b;margin:2px 0px 0px 10px ;padding: 0px;border:none;width: 586px;overflow: hidden;}
+#page_24 #id_1 #id_1_1 {border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 586px;overflow: hidden;}
+#page_24 #id_1 #id_1_2 {border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 541px;overflow: hidden;}
+#page_24 #id_1 #id_1_2 #id_1_2_1 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 315px;overflow: hidden;}
+#page_24 #id_1 #id_1_2 #id_1_2_2 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 315px;overflow: hidden;}
+#page_24 #id_2 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 270px;overflow: hidden;}
+
+
+
+
+
+#page_25 {position:relative; overflow: hidden;z:b;margin:18px 0px 18px 10px ;padding: 0px;border: none;width: 947px;}
+
+#page_25 #dimg1z{position:absolute;top:426px;left:63px;z-index:-1;width:154px;height:1px;font-size: 1px !important;l-h:nHeight;}
+#page_25 #dimg1 #img1  {width:154px;height:1px;}
+
+
+
+
+#page_26 {position:relative; overflow: hidden;z:b;margin:18px 0px 18px 10px ;padding: 0px;border: none;width: 856px;}
+
+
+
+
+
+#page_27 {position:relative; overflow: hidden;z:b;margin:18px 0px 18px 10px ;padding: 0px;border: none;width: 856px;}
+#page_27 #id_1 {border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 811px;overflow: hidden;}
+#page_27 #id_2 {border:none;z:b;margin:1px 0px 0px 10px ;padding: 0px;border:none;width: 586px;overflow: hidden;}
+#page_27 #id_2 #id_2_1 {float:left;border:none;z:b;margin:39px 0px 0px 10px ;padding: 0px;border:none;width: 315px;overflow: hidden;}
+#page_27 #id_2 #id_2_2 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 315px;overflow: hidden;}
+#page_27 #id_3 {border:none;z:b;margin:3px 0px 0px 10px ;padding: 0px;border:none;width: 90px;overflow: hidden;}
+
+
+
+
+
+#page_28 {position:relative; overflow: hidden;z:b;margin:19px 0px 18px 10px ;padding: 0px;border: none;width: 947px;}
+#page_28 #id_1 {border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 721px;overflow: hidden;}
+#page_28 #id_1 #id_1_1 {float:left;border:none;z:b;margin:1px 0px 0px 10px ;padding: 0px;border:none;width: 315px;overflow: hidden;}
+#page_28 #id_1 #id_1_2 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 496px;overflow: hidden;}
+#page_28 #id_2 {border:none;z:b;margin:13px 0px 0px 10px ;padding: 0px;border:none;width: 902px;overflow: hidden;}
+
+#page_28 #dimg1z{position:absolute;top:575px;left:63px;z-index:-1;width:154px;height:1px;font-size: 1px !important;l-h:nHeight;}
+#page_28 #dimg1 #img1  {width:154px;height:1px;}
+
+
+
+
+#page_29 {position:relative; overflow: hidden;z:b;margin:19px 0px 18px 10px ;padding: 0px;border: none;width: 947px;}
+#page_29 #id_1 {border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 811px;overflow: hidden;}
+#page_29 #id_1 #id_1_1 {float:left;border:none;z:b;margin:2px 0px 0px 10px ;padding: 0px;border:none;width: 586px;overflow: hidden;}
+#page_29 #id_1 #id_1_2 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 270px;overflow: hidden;}
+#page_29 #id_2 {border:none;z:b;margin:27px 0px 0px 10px ;padding: 0px;border:none;width: 902px;overflow: hidden;}
+
+
+
+
+
+#page_30 {position:relative; overflow: hidden;z:b;margin:18px 0px 18px 10px ;padding: 0px;border: none;width: 856px;}
+#page_30 #id_1 {border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 811px;overflow: hidden;}
+#page_30 #id_1 #id_1_1 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 541px;overflow: hidden;}
+#page_30 #id_1 #id_1_2 {float:left;border:none;z:b;margin:3px 0px 0px 10px ;padding: 0px;border:none;width: 270px;overflow: hidden;}
+#page_30 #id_2 {border:none;z:b;margin:74px 0px 0px 10px ;padding: 0px;border:none;width: 90px;overflow: hidden;}
+
+
+
+
+
+#page_31 {position:relative; overflow: hidden;z:b;margin:18px 0px 18px 10px ;padding: 0px;border: none;width: 856px;}
+
+#page_31 #dimg1z{position:absolute;top:246px;left:63px;z-index:-1;width:151px;height:1px;font-size: 1px !important;l-h:nHeight;}
+#page_31 #dimg1 #img1  {width:151px;height:1px;}
+
+
+
+
+.ft0{font:  20px 'Verdana' !important;l-h: 40px;}
+.ft1{font:  16px 'Verdana' !important;l-h: 26px;}
+.ft2{font:  10px 'Verdana' !important;l-h: 1px;}
+.ft3{font:  14px 'Verdana' !important;l-h: 19px;}
+.ft4{font: italic  14px 'Verdana' !important;l-h: 19px;}
+.ft5{font:  14px 'Verdana' !important;l-h: 19px;}
+.ft6{font:  10px 'Verdana' !important;l-h: 2px;}
+.ft7{font:  10px 'Verdana' !important;l-h: 0px;}
+.ft8{font:  14px 'Verdana' !important;l-h: 0px;}
+.ft9{font:  14px 'Verdana' !important;margin-left: 110px;l-h: 0px;}
+.ft10{font:  10px 'Verdana' !important;l-h: 0px;}
+.ft11{font:  14px 'Verdana' !important;l-h: 5px;}
+.ft12{font:  14px 'Verdana' !important;margin-left: 6px;l-h: 19px;}
+.ft13{font:  14px 'Verdana' !important;margin-left: 6px;l-h: 21px;}
+.ft14{font:  14px 'Verdana' !important;l-h: 21px;}
+.ft15{font:  14px 'Verdana' !important;l-h: 21px;}
+.ft16{font:  14px 'Verdana' !important;margin-left: 51px;l-h: 25px;}
+.ft17{font:  14px 'Verdana' !important;l-h: 25px;}
+.ft18{font: italic  14px 'Verdana' !important;l-h: 19px;}
+.ft19{font:  10px 'Verdana' !important;l-h: 5px;}
+.ft20{font: italic  14px 'Verdana' !important;l-h: 20px;}
+.ft21{font:  14px 'Verdana' !important;l-h: 20px;}
+.ft22{font:  14px 'Verdana' !important;margin-left: 51px;l-h: 21px;}
+.ft23{font:  14px 'Verdana' !important;l-h: 24px;}
+.ft24{font:  10px 'Verdana' !important;l-h: 8px;}
+.ft25{font: bold  14px 'Verdana' !important;l-h: 19px;}
+.ft26{font: bold  14px 'Verdana' !important;l-h: 19px;}
+.ft27{font: bold  14px 'Verdana' !important;margin-left: 42px;l-h: 19px;}
+.ft28{font: bold  14px 'Verdana' !important;l-h: 20px;}
+.ft29{font:  10px 'Verdana' !important;l-h: 12px;}
+.ft30{font:  10px 'Verdana' !important;l-h: 6px;}
+.ft31{font:  16px 'Verdana' !important;margin-left: 64px;l-h: 26px;}
+.ft32{font: bold  14px 'Verdana' !important;l-h: 21px;}
+.ft33{font: bold  14px 'Verdana' !important;l-h: 20px;}
+.ft34{font:  14px 'Verdana' !important;l-h: 20px;}
+.ft35{font:  14px 'Verdana' !important;l-h: 19px;position: relative; bottom: 5px;}
+.ft36{font:  10px 'Verdana' !important;l-h: 18px;}
+.ft37{font:  14px 'Verdana' !important;l-h: 18px;}
+.ft38{font: bold  16px 'Verdana' !important;l-h: 26px;}
+.ft39{font:  14px 'Verdana' !important;margin-left: 18px;l-h: 19px;}
+.ft40{font:  12px 'Verdana' !important;l-h: 14px;position: relative; bottom: 7px;}
+.ft41{font:  12px 'Verdana' !important;l-h: 16px;position: relative; bottom: 7px;}
+.ft42{font:  12px 'Verdana' !important;l-h: 15px;position: relative; bottom: 7px;}
+.ft43{font:  10px 'Verdana' !important;l-h: 12px;}
+.ft44{font:  12px 'Verdana' !important;l-h: 16px;}
+.ft45{font:  14px 'Verdana' !important;margin-left: 74px;l-h: 19px;}
+.ft46{font:  14px 'Verdana' !important;margin-left: 25px;l-h: 21px;}
+.ft47{font:  14px 'Verdana' !important;margin-left: 24px;l-h: 20px;}
+.ft48{font:  14px 'Verdana' !important;margin-left: 25px;l-h: 19px;}
+.ft49{font:  14px 'Verdana' !important;margin-left: 30px;l-h: 19px;}
+.ft50{font:  14px 'Verdana' !important;margin-left: 30px;l-h: 20px;}
+.ft51{font:  14px 'Verdana' !important;margin-left: 30px;l-h: 21px;}
+.ft52{font:  14px 'Verdana' !important;margin-left: 75px;l-h: 21px;}
+.ft53{font:  14px 'Verdana' !important;l-h: 18px;}
+.ft54{font: bold  14px 'Verdana' !important;l-h: 28px;}
+.ft55{font:  14px 'Verdana' !important;l-h: 27px;}
+.ft56{font:  14px 'Verdana' !important;text-decoration: underline;l-h: 18px;}
+.ft57{font: italic  14px 'Verdana' !important;l-h: 27px;}
+.ft58{font: italic  14px 'Verdana' !important;l-h: 28px;}
+.ft59{font:  10px 'Verdana' !important;l-h: 11px;}
+
+.p0{text-align: left;padding-left: 0px;padding-right: 546px;margin-top: 0px;margin-bottom: 0px !important;}
+.p1{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p2{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p3{text-align: left;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p4{text-align: left;padding-left: 0px;margin-top: 22px;margin-bottom: 0px !important;}
+.p5{text-align: left;padding-left: 0px;margin-top: 20px;margin-bottom: 0px !important;}
+.p6{text-align: left;padding-left: 0px;margin-top: 40px;margin-bottom: 0px !important;}
+.p7{text-align: left;padding-left: 220px;margin-top: 24px;margin-bottom: 0px !important;}
+.p8{text-align: left;padding-left: 220px;margin-top: 1px;margin-bottom: 0px !important;}
+.p9{text-align: left;padding-left: 0px;margin-top: 62px;margin-bottom: 0px !important;}
+.p10{text-align: left;padding-left: 0px;padding-right: 294px;margin-top: 17px;margin-bottom: 0px !important;}
+.p11{text-align: right;padding-right: 84px;margin-top: 174px;margin-bottom: 0px !important;}
+.p12{text-align: right;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p13{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p14{text-align: right;padding-right: 126px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p15{text-align: right;padding-right: 1px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p16{text-align: right;padding-right: 42px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p17{text-align: left;margin-top: 0px;margin-bottom: 0px !important;}
+.p18{text-align: right;padding-right: 189px;margin-top: 0px;margin-bottom: 0px !important;}
+.p19{text-align: right;padding-right: 21px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p20{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p21{text-align: left;padding-left: 0px;margin-top: 11px;margin-bottom: 0px !important;}
+.p22{text-align: left;padding-left: 0px;padding-right: 294px;margin-top: 18px;margin-bottom: 0px !important;text-indent: 15px;}
+.p23{text-align: left;padding-left: 0px;padding-right: 294px;margin-top: 1px;margin-bottom: 0px !important;text-indent: 15px;}
+.p24{text-align: right;padding-right: 84px;margin-top: 770px;margin-bottom: 0px !important;}
+.p25{text-align: left;margin-top: 11px;margin-bottom: 0px !important;}
+.p26{text-align: left;padding-left: 0px;padding-right: 336px;margin-top: 38px;margin-bottom: 0px !important;text-indent: 0.75px;}
+.p27{text-align: left;padding-right: 294px;margin-top: 8px;margin-bottom: 0px !important;text-indent: 15px;}
+.p28{text-align: left;padding-left: 220px;margin-top: 13px;margin-bottom: 0px !important;}
+.p29{text-align: left;padding-right: 294px;margin-top: 0px;margin-bottom: 0px !important;text-indent: 15px;}
+.p30{text-align: left;margin-top: 0px;margin-bottom: 0px !important;text-indent: 15px;}
+.p31{text-align: right;padding-right: 63px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p32{text-align: center;padding-right: 9px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p33{text-align: center;padding-right: 7px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p34{text-align: left;margin-top: 288px;margin-bottom: 0px !important;text-indent: 15px;}
+.p35{text-align: left;margin-top: 0px;margin-bottom: 0px !important;}
+.p36{text-align: left;padding-right: 126px;margin-top: 0px;margin-bottom: 0px !important;}
+.p37{text-align: left;padding-right: 126px;margin-top: 2px;margin-bottom: 0px !important;text-indent: 15px;}
+.p38{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;}
+.p39{text-align: right;padding-right: 84px;margin-top: 374px;margin-bottom: 0px !important;}
+.p40{text-align: left;padding-left: 0px;padding-right: 294px;margin-top: 10px;margin-bottom: 0px !important;}
+.p41{text-align: left;padding-left: 0px;padding-right: 294px;margin-top: 0px;margin-bottom: 0px !important;text-indent: 15px;}
+.p42{text-align: left;padding-left: 0px;padding-right: 294px;margin-top: 2px;margin-bottom: 0px !important;text-indent: 15px;}
+.p43{text-align: left;padding-left: 0px;margin-top: 37px;margin-bottom: 0px !important;}
+.p44{text-align: left;padding-left: 0px;padding-right: 315px;margin-top: 11px;margin-bottom: 0px !important;}
+.p45{text-align: right;padding-right: 84px;margin-top: 169px;margin-bottom: 0px !important;}
+.p46{text-align: left;padding-left: 0px;margin-top: 12px;margin-bottom: 0px !important;}
+.p47{text-align: left;padding-left: 0px;padding-right: 294px;margin-top: 13px;margin-bottom: 0px !important;}
+.p48{text-align: left;padding-left: 0px;padding-right: 294px;margin-top: 0px;margin-bottom: 0px !important;text-indent: 15px;}
+.p49{text-align: left;padding-left: 0px;padding-right: 294px;margin-top: 4px;margin-bottom: 0px !important;text-indent: 15px;}
+.p50{text-align: right;padding-right: 84px;margin-top: 0px;margin-bottom: 0px !important;}
+.p51{text-align: left;padding-right: 0px;margin-top: 0px;margin-bottom: 0px !important;}
+.p52{text-align: left;padding-right: 147px;margin-top: 0px;margin-bottom: 0px !important;}
+.p53{text-align: left;padding-right: 147px;margin-top: 0px;margin-bottom: 0px !important;text-indent: 15px;}
+.p54{text-align: left;padding-right: 126px;margin-top: 2px;margin-bottom: 0px !important;text-indent: 15px;}
+.p55{text-align: left;padding-left: 0px;padding-right: 273px;margin-top: 41px;margin-bottom: 0px !important;text-indent: 0.75px;}
+.p56{text-align: right;padding-right: 21px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p57{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p58{text-align: left;padding-left: 0px;padding-right: 294px;margin-top: 6px;margin-bottom: 0px !important;}
+.p59{text-align: left;padding-left: 0px;margin-top: 42px;margin-bottom: 0px !important;}
+.p60{text-align: left;padding-left: 0px;padding-right: 294px;margin-top: 33px;margin-bottom: 0px !important;}
+.p61{text-align: left;padding-left: 0px;padding-right: 294px;margin-top: 9px;margin-bottom: 0px !important;}
+.p62{text-align: left;padding-left: 0px;padding-right: 294px;margin-top: 1px;margin-bottom: 0px !important;text-indent: 15px;}
+.p63{text-align: right;padding-right: 84px;margin-top: 3px;margin-bottom: 0px !important;}
+.p64{text-align: right;padding-right: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p65{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p66{text-align: left;padding-left: 0px;padding-right: 0px;margin-top: 0px;margin-bottom: 0px !important;}
+.p67{text-align: left;padding-left: 0px;padding-right: 147px;margin-top: 0px;margin-bottom: 0px !important;}
+.p68{text-align: left;padding-left: 0px;padding-right: 147px;margin-top: 0px;margin-bottom: 0px !important;text-indent: 15px;}
+.p69{text-align: left;padding-left: 0px;padding-right: 147px;margin-top: 2px;margin-bottom: 0px !important;text-indent: 15px;}
+.p70{text-align: right;margin-top: 109px;margin-bottom: 0px !important;}
+.p71{text-align: right;padding-right: 21px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p72{text-align: left;padding-left: 0px;padding-right: 315px;margin-top: 10px;margin-bottom: 0px !important;}
+.p73{text-align: left;padding-left: 0px;padding-right: 294px;margin-top: 17px;margin-bottom: 0px !important;}
+.p74{text-align: left;padding-left: 0px;padding-right: 294px;margin-top: 0px;margin-bottom: 0px !important;}
+.p75{text-align: left;padding-left: 0px;padding-right: 294px;margin-top: 3px;margin-bottom: 0px !important;text-indent: 15px;}
+.p76{text-align: left;padding-left: 0px;margin-top: 31px;margin-bottom: 0px !important;}
+.p77{text-align: left;padding-left: 0px;padding-right: 294px;margin-top: 11px;margin-bottom: 0px !important;}
+.p78{text-align: right;padding-right: 63px;margin-top: 3px;margin-bottom: 0px !important;}
+.p79{text-align: left;padding-right: 0px;margin-top: 0px;margin-bottom: 0px !important;}
+.p80{text-align: left;padding-right: 147px;margin-top: 0px;margin-bottom: 0px !important;}
+.p81{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p82{text-align: center;padding-right: 1px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p83{text-align: center;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p84{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p85{text-align: center;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p86{text-align: center;padding-right: 63px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p87{text-align: center;padding-right: 63px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p88{text-align: left;padding-right: 1px;margin-top: 0px;margin-bottom: 0px !important;}
+.p89{text-align: left;padding-right: 1px;margin-top: 0px;margin-bottom: 0px !important;text-indent: 15px;}
+.p90{text-align: left;padding-right: 1px;margin-top: 1px;margin-bottom: 0px !important;text-indent: 15px;}
+.p91{text-align: left;margin-top: 3px;margin-bottom: 0px !important;text-indent: 15px;}
+.p92{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;}
+.p93{text-align: right;padding-right: 63px;margin-top: 949px;margin-bottom: 0px !important;}
+.p94{text-align: left;padding-left: 0px;padding-right: 84px;margin-top: 0px;margin-bottom: 0px !important;}
+.p95{text-align: left;padding-left: 0px;margin-top: 53px;margin-bottom: 0px !important;}
+.p96{text-align: left;padding-left: 0px;padding-right: 315px;margin-top: 18px;margin-bottom: 0px !important;}
+.p97{text-align: left;padding-left: 0px;padding-right: 399px;margin-top: 16px;margin-bottom: 0px !important;}
+.p98{text-align: right;padding-right: 63px;margin-top: 104px;margin-bottom: 0px !important;}
+.p99{text-align: left;padding-right: 294px;margin-top: 17px;margin-bottom: 0px !important;}
+.p100{text-align: right;margin-top: 868px;margin-bottom: 0px !important;}
+.p101{text-align: right;padding-right: 42px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p102{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p103{text-align: left;padding-left: 340px;margin-top: 77px;margin-bottom: 0px !important;}
+.p104{text-align: left;padding-left: 340px;margin-top: 0px;margin-bottom: 0px !important;}
+.p105{text-align: left;padding-left: 0px;margin-top: 121px;margin-bottom: 0px !important;}
+.p106{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p107{text-align: right;padding-right: 483px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p108{text-align: right;padding-right: 84px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p109{text-align: center;padding-right: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p110{text-align: center;padding-right: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p111{text-align: left;padding-left: 0px;padding-right: 315px;margin-top: 0px;margin-bottom: 0px !important;}
+.p112{text-align: left;padding-left: 0px;padding-right: 315px;margin-top: 18px;margin-bottom: 0px !important;text-indent: 0.37px;}
+.p113{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;}
+.p114{text-align: left;padding-left: 0px;padding-right: 336px;margin-top: 1px;margin-bottom: 0px !important;}
+.p115{text-align: left;padding-left: 0px;padding-right: 315px;margin-top: 14px;margin-bottom: 0px !important;text-indent: 0.37px;}
+.p116{text-align: left;padding-left: 0px;padding-right: 336px;margin-top: 3px;margin-bottom: 0px !important;}
+.p117{text-align: left;margin-top: 3px;margin-bottom: 0px !important;}
+.p118{text-align: left;margin-top: 4px;margin-bottom: 0px !important;}
+.p119{text-align: left;padding-left: 180px;margin-top: 15px;margin-bottom: 0px !important;}
+.p120{text-align: left;padding-left: 0px;padding-right: 315px;margin-top: 19px;margin-bottom: 0px !important;}
+.p121{text-align: left;padding-left: 0px;margin-top: 17px;margin-bottom: 0px !important;}
+.p122{text-align: left;padding-left: 0px;padding-right: 294px;margin-top: 19px;margin-bottom: 0px !important;}
+.p123{text-align: right;padding-right: 21px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p124{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p125{text-align: left;padding-left: 0px;padding-right: 315px;margin-top: 5px;margin-bottom: 0px !important;text-indent: 0.38px;}
+.p126{text-align: left;padding-left: 0px;padding-right: 294px;margin-top: 16px;margin-bottom: 0px !important;text-indent: 0.38px;}
+.p127{text-align: left;padding-left: 0px;margin-top: 17px;margin-bottom: 0px !important;}
+.p128{text-align: left;padding-left: 0px;margin-top: 19px;margin-bottom: 0px !important;}
+.p129{text-align: left;padding-left: 0px;margin-top: 19px;margin-bottom: 0px !important;}
+.p130{text-align: left;padding-left: 0px;margin-top: 20px;margin-bottom: 0px !important;}
+.p131{text-align: left;padding-left: 0px;padding-right: 399px;margin-top: 18px;margin-bottom: 0px !important;text-indent: 0.38px;}
+.p132{text-align: left;padding-left: 0px;padding-right: 294px;margin-top: 0px;margin-bottom: 0px !important;}
+.p133{text-align: left;padding-left: 0px;padding-right: 336px;margin-top: 16px;margin-bottom: 0px !important;text-indent: 0.38px;}
+.p134{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;}
+.p135{text-align: left;padding-left: 0px;padding-right: 336px;margin-top: 19px;margin-bottom: 0px !important;}
+.p136{text-align: left;padding-left: 180px;margin-top: 16px;margin-bottom: 0px !important;}
+.p137{text-align: left;padding-left: 0px;margin-top: 17px;margin-bottom: 0px !important;}
+.p138{text-align: left;padding-left: 0px;margin-top: 38px;margin-bottom: 0px !important;}
+.p139{text-align: left;padding-left: 0px;margin-top: 68px;margin-bottom: 0px !important;}
+.p140{text-align: left;padding-left: 360px;padding-right: 294px;margin-top: 0px;margin-bottom: 0px !important;text-indent: 0.13px;}
+.p141{text-align: left;padding-right: 0px;margin-top: 17px;margin-bottom: 0px !important;text-indent: 15px;}
+.p142{text-align: left;padding-left: 220px;margin-top: 15px;margin-bottom: 0px !important;}
+.p143{text-align: left;margin-top: 174px;margin-bottom: 0px !important;text-indent: 15px;}
+.p144{text-align: right;padding-right: 63px;margin-top: 930px;margin-bottom: 0px !important;}
+.p145{text-align: right;padding-right: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p146{text-align: left;padding-left: 300px;padding-right: 294px;margin-top: 0px;margin-bottom: 0px !important;}
+.p147{text-align: left;padding-left: 0px;margin-top: 55px;margin-bottom: 0px !important;}
+.p148{text-align: right;padding-right: 63px;margin-top: 508px;margin-bottom: 0px !important;}
+.p149{text-align: right;margin-top: 802px;margin-bottom: 0px !important;}
+.p150{text-align: left;padding-right: 315px;margin-top: 43px;margin-bottom: 0px !important;}
+.p151{text-align: left;margin-top: 307px;margin-bottom: 0px !important;text-indent: 15px;}
+.p152{text-align: left;padding-right: 126px;margin-top: 1px;margin-bottom: 0px !important;text-indent: 15px;}
+.p153{text-align: right;padding-right: 63px;margin-top: 355px;margin-bottom: 0px !important;}
+.p154{text-align: left;padding-left: 0px;padding-right: 294px;margin-top: 37px;margin-bottom: 0px !important;}
+.p155{text-align: left;padding-left: 0px;padding-right: 315px;margin-top: 23px;margin-bottom: 0px !important;}
+.p156{text-align: left;padding-left: 0px;margin-top: 35px;margin-bottom: 0px !important;}
+.p157{text-align: left;padding-left: 0px;margin-top: 10px;margin-bottom: 0px !important;}
+.p158{text-align: left;padding-left: 0px;margin-top: 37px;margin-bottom: 0px !important;}
+.p159{text-align: left;padding-left: 0px;padding-right: 294px;margin-top: 32px;margin-bottom: 0px !important;}
+.p160{text-align: left;padding-left: 0px;padding-right: 294px;margin-top: 30px;margin-bottom: 0px !important;}
+.p161{text-align: right;padding-right: 63px;margin-top: 50px;margin-bottom: 0px !important;}
+.p162{text-align: left;padding-right: 2px;margin-top: 0px;margin-bottom: 0px !important;}
+.p163{text-align: left;padding-right: 21px;margin-top: 7px;margin-bottom: 0px !important;}
+.p164{text-align: left;margin-top: 23px;margin-bottom: 0px !important;}
+.p165{text-align: left;padding-right: 6px;margin-top: 10px;margin-bottom: 0px !important;}
+.p166{text-align: left;padding-left: 0px;padding-right: 168px;margin-top: 74px;margin-bottom: 0px !important;}
+.p167{text-align: right;margin-top: 631px;margin-bottom: 0px !important;}
+
+.td0{padding: 0px;margin: 0px;width: 514px;vertical-align: bottom;}
+.td1{padding: 0px;margin: 0px;width: 145px;vertical-align: bottom;}
+.td2{border-bottom: #000000 1px solid;padding: 0px;margin: 0px;width: 514px;vertical-align: bottom;}
+.td3{border-bottom: #000000 1px solid;padding: 0px;margin: 0px;width: 145px;vertical-align: bottom;}
+.td4{padding: 0px;margin: 0px;width: 506px;vertical-align: bottom;}
+.td5{padding: 0px;margin: 0px;width: 148px;vertical-align: bottom;}
+.td6{padding: 0px;margin: 0px;width: 8px;vertical-align: bottom;}
+.td7{padding: 0px;margin: 0px;width: 497px;vertical-align: bottom;}
+.td8{padding: 0px;margin: 0px;width: 496px;vertical-align: bottom;}
+.td9{padding: 0px;margin: 0px;width: 1px;vertical-align: bottom;}
+.td10{padding: 0px;margin: 0px;width: 170px;vertical-align: bottom;}
+.td11{padding: 0px;margin: 0px;width: 319px;vertical-align: bottom;}
+.td12{padding: 0px;margin: 0px;width: 17px;vertical-align: bottom;}
+.td13{padding: 0px;margin: 0px;width: 70px;vertical-align: bottom;}
+.td14{padding: 0px;margin: 0px;width: 418px;vertical-align: bottom;}
+.td15{padding: 0px;margin: 0px;width: 99px;vertical-align: bottom;}
+.td16{padding: 0px;margin: 0px;width: 489px;vertical-align: bottom;}
+.td17{padding: 0px;margin: 0px;width: 78px;vertical-align: bottom;}
+.td18{padding: 0px;margin: 0px;width: 45px;vertical-align: bottom;}
+.td19{padding: 0px;margin: 0px;width: 488px;vertical-align: bottom;}
+.td20{padding: 0px;margin: 0px;width: 120px;vertical-align: bottom;}
+.td21{padding: 0px;margin: 0px;width: 268px;vertical-align: bottom;}
+.td22{padding: 0px;margin: 0px;width: 133px;vertical-align: bottom;}
+.td23{padding: 0px;margin: 0px;width: 317px;vertical-align: bottom;}
+.td24{padding: 0px;margin: 0px;width: 42px;vertical-align: bottom;}
+.td25{padding: 0px;margin: 0px;width: 113px;vertical-align: bottom;}
+.td26{padding: 0px;margin: 0px;width: 161px;vertical-align: bottom;}
+.td27{padding: 0px;margin: 0px;width: 275px;vertical-align: bottom;}
+.td28{padding: 0px;margin: 0px;width: 585px;vertical-align: bottom;}
+.td29{padding: 0px;margin: 0px;width: 56px;vertical-align: bottom;}
+.td30{padding: 0px;margin: 0px;width: 476px;vertical-align: bottom;}
+.td31{padding: 0px;margin: 0px;width: 533px;vertical-align: bottom;}
+.td32{padding: 0px;margin: 0px;width: 139px;vertical-align: bottom;}
+.td33{padding: 0px;margin: 0px;width: 51px;vertical-align: bottom;}
+.td34{padding: 0px;margin: 0px;width: 481px;vertical-align: bottom;}
+.td35{padding: 0px;margin: 0px;width: 13px;vertical-align: bottom;}
+.td36{padding: 0px;margin: 0px;width: 572px;vertical-align: bottom;}
+.td37{padding: 0px;margin: 0px;width: 87px;vertical-align: bottom;}
+.td38{padding: 0px;margin: 0px;width: 2px;vertical-align: bottom;}
+.td39{padding: 0px;margin: 0px;width: 512px;vertical-align: bottom;}
+.td40{padding: 0px;margin: 0px;width: 71px;vertical-align: bottom;}
+.td41{border-right: #000000 1px solid;padding: 0px;margin: 0px;width: 1px;vertical-align: bottom;}
+.td42{border-right: #000000 1px solid;border-top: #000000 1px solid;padding: 0px;margin: 0px;width: 511px;vertical-align: bottom;}
+.td43{border-right: #000000 1px solid;padding: 0px;margin: 0px;width: 511px;vertical-align: bottom;}
+.td44{padding: 0px;margin: 0px;width: 11px;vertical-align: bottom;}
+.td45{border-right: #000000 1px solid;padding: 0px;margin: 0px;width: 499px;vertical-align: bottom;}
+.td46{border-right: #000000 1px solid;border-bottom: #000000 1px solid;padding: 0px;margin: 0px;width: 511px;vertical-align: bottom;}
+.td47{padding: 0px;margin: 0px;width: 500px;vertical-align: bottom;}
+.td48{padding: 0px;margin: 0px;width: 189px;vertical-align: bottom;}
+.td49{padding: 0px;margin: 0px;width: 234px;vertical-align: bottom;}
+.td50{padding: 0px;margin: 0px;width: 535px;vertical-align: bottom;}
+.td51{border-bottom: #000000 1px solid;padding: 0px;margin: 0px;width: 139px;vertical-align: bottom;}
+.td52{border-bottom: #000000 1px solid;padding: 0px;margin: 0px;width: 535px;vertical-align: bottom;}
+.td53{padding: 0px;margin: 0px;width: 436px;vertical-align: bottom;}
+.td54{padding: 0px;margin: 0px;width: 108px;vertical-align: bottom;}
+.td55{padding: 0px;margin: 0px;width: 89px;vertical-align: bottom;}
+.td56{padding: 0px;margin: 0px;width: 306px;vertical-align: bottom;}
+.td57{padding: 0px;margin: 0px;width: 264px;vertical-align: bottom;}
+.td58{padding: 0px;margin: 0px;width: 85px;vertical-align: bottom;}
+.td59{padding: 0px;margin: 0px;width: 179px;vertical-align: bottom;}
+.td60{padding: 0px;margin: 0px;width: 0px;vertical-align: bottom;}
+.td61{padding: 0px;margin: 0px;width: 14px;vertical-align: bottom;}
+.td62{padding: 0px;margin: 0px;width: 518px;vertical-align: bottom;}
+
+.tr0{heightzzz: 36px;}
+.tr1{heightzzz: 27px;}
+.tr2{heightzzz: 26px;}
+.tr3{heightzzz: 39px;}
+.tr4{heightzzz: 42px;}
+.tr5{heightzzz: 948px;}
+.tr6{heightzzz: 0px;}
+.tr7{heightzzz: 855px;}
+.tr8{heightzzz: 32px;}
+.tr9{heightzzz: 25px;}
+.tr10{heightzzz: 22px;}
+.tr11{heightzzz: 19px;}
+.tr12{heightzzz: 20px;}
+.tr13{heightzzz: 21px;}
+.tr14{heightzzz: 5px;}
+.tr15{heightzzz: 35px;}
+.tr16{heightzzz: 29px;}
+.tr17{heightzzz: 8px;}
+.tr18{heightzzz: 24px;}
+.tr19{heightzzz: 51px;}
+.tr20{heightzzz: 30px;}
+.tr21{heightzzz: 23px;}
+.tr22{heightzzz: 28px;}
+.tr23{heightzzz: 40px;}
+.tr24{heightzzz: 12px;}
+.tr25{heightzzz: 37px;}
+.tr26{heightzzz: 6px;}
+.tr27{heightzzz: 31px;}
+.tr28{heightzzz: 52px;}
+.tr29{heightzzz: 54px;}
+.tr30{heightzzz: 18px;}
+.tr31{heightzzz: 56px;}
+.tr32{heightzzz: 14px;}
+.tr33{heightzzz: 11px;}
+
+.t0{width: 691px;margin-leftZ: 75px;margin-top: 6px;f:23px 'Verdana' !important;}
+.t1{width: 685px;margin-leftZ: 76px;f:17px 'Verdana' !important;}
+.t2{width: 792px;margin-leftZ: 76px;f:17px 'Verdana' !important;}
+.t3{width: 685px;margin-leftZ: 76px;f:23px 'Verdana' !important;}
+.t4{width: 685px;f:23px 'Verdana' !important;}
+.t5{width: 421px;margin-top: 15px;f:italic 17px 'Verdana' !important;}
+.t6{width: 414px;f:italic 17px 'Verdana' !important;}
+.t7{width: 696px;margin-top: 5px;f:17px 'Verdana' !important;}
+.t8{width: 685px;margin-leftZ: 76px;f:bold 16px 'Verdana' !important;}
+.t9{width: 705px;f:17px 'Verdana' !important;}
+.t10{width: 685px;margin-leftZ: 76px;f:19px 'Verdana' !important;}
+.t11{width: 705px;margin-top: 43px;f:17px 'Verdana' !important;}
+.t12{width: 705px;margin-top: 42px;f:17px 'Verdana' !important;}
+.t13{width: 443px;margin-leftZ: 142px;f:bold 16px 'Verdana' !important;}
+.t14{width: 707px;f:16px 'Verdana' !important;}
+.t15{width: 664px;margin-leftZ: 1px;margin-top: 249px;f:17px 'Verdana' !important;}
+.t16{width: 685px;margin-leftZ: 2px;f:17px 'Verdana' !important;}
+.t17{width: 664px;margin-leftZ: 2px;margin-top: 594px;f:17px 'Verdana' !important;}
+.t18{width: 685px;f:17px 'Verdana' !important;}
+.t19{width: 664px;f:17px 'Verdana' !important;}
+.t20{width: 664px;margin-leftZ: 2px;margin-top: 541px;f:17px 'Verdana' !important;}
+.t21{width: 685px;margin-leftZ: 2px;f:16px 'Verdana' !important;}
+.t22{width: 664px;margin-leftZ: 2px;margin-top: 411px;f:17px 'Verdana' !important;}
+.t23{width: 447px;margin-leftZ: 218px;f:italic 17px 'Verdana' !important;}
+.t24{width: 664px;margin-leftZ: 2px;margin-top: 449px;f:17px 'Verdana' !important;}
+.t25{width: 403px;margin-leftZ: 332px;f:italic 17px 'Verdana' !important;}
+.t26{width: 685px;f:16px 'Verdana' !important;}
+.t27{width: 421px;margin-top: 16px;f:italic 17px 'Verdana' !important;}
+
+</STYLE>
+
+
+
+<DIV id="page_1">
+
+
+<P class="p0 ft0">Regeringens proposition 2002/03:66</P>
+<TABLE cellpadding=0 cellspacing=0 class="t0">
+<TR>
+	<TD class="tr0 td0"><SPAN class="p1 ft1">Sveriges antagande av beslut om ändring av artikel</SPAN> </TD>
+	<TD class="tr0 td1"><SPAN class="p2 ft1">Prop.</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr1 td0"><SPAN class="p1 ft1">40.1 och 40.7 i Schengenkonventionen samt ändring</SPAN> </TD>
+	<TD class="tr1 td1"><SPAN class="p2 ft1">2002/03:66</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr2 td0"><SPAN class="p1 ft1">i lagen (2000:343) om internationellt polisiärt sam-</SPAN> </TD>
+	<TD class="tr2 td1"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr1 td2"><SPAN class="p1 ft1">arbete</SPAN> </TD>
+	<TD class="tr1 td3"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+</TABLE>
+<P class="p4 ft3">Regeringen överlämnar denna proposition till riksdagen.</P>
+<P class="p5 ft3">Stockholm den 10 april 2003</P>
+<P class="p6 ft4">Göran Persson</P>
+<P class="p7 ft4">Thomas Bodström</P>
+<P class="p8 ft3">(Justitiedepartementet)</P>
+<P class="p9 ft1">Propositionens huvudsakliga innehåll</P>
+<P class="p10 ft3">I propositionen föreslås att riksdagen godkänner det inom Europeiska unionen upprättade utkastet till beslut om ändring av artikel 40.1 och 40.7 i Schengenkonventionen. För att Sverige fullt ut skall uppfylla de krav som föranleds av beslutet krävs vissa ändringar i 4 § lagen (2000:343) om internationellt polisiärt samarbete, som reglerar gränsöverskridande övervakning. Det föreslås därför att sådan gränsöverskridande övervakning som i dag endast kan ske av en person som är misstänkt för brott som kan föranleda utlämning, skall utvidgas till att även omfatta andra personer, om det är nödvändigt för den pågående brottsutredningen och det finns starka skäl att anta att åtgärden kan medverka till att identifiera eller spåra en misstänkt gärningsman. Därutöver föreslås en utvidgning av listan över de brott för vilka gränsöverskridande övervakning av en misstänkt gärningsman i brådskande fall får ske utan samtycke. Lagändringarna föreslås träda i kraft den dag regeringen bestämmer.</P>
+<P class="p11 ft3">1</P>
+</DIV>
+<DIV id="page_2">
+
+
+<TABLE cellpadding=0 cellspacing=0 class="t1">
+<TR>
+	<TD colspan=3 class="tr3 td4"><SPAN class="p3 ft1">Innehållsförteckning</SPAN> </TD>
+	<TD class="tr3 td5"><SPAN class="p12 ft3">Prop. 2002/03:66</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr4 td6"><SPAN class="p3 ft5">1</SPAN> </TD>
+	<TD colspan=2 class="tr4 td7"><SPAN class="p13 ft3">Förslag till riksdagsbeslut..................................................................</SPAN> </TD>
+	<TD class="tr4 td5"><SPAN class="p14 ft3">3</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr2 td6"><SPAN class="p3 ft5">2</SPAN> </TD>
+	<TD class="tr2 td8"><SPAN class="p13 ft3">Lagtext</SPAN> </TD>
+	<TD class="tr2 td9"><SPAN class="p15 ft6">...............................................................................................</SPAN> </TD>
+	<TD class="tr2 td5"><SPAN class="p14 ft3">4</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr5 td6"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr5 td8"><SPAN class="p13 ft3">2.1</SPAN> </TD>
+	<TD class="tr5 td9"><SPAN class="p16 ft7">Förslag till lag om ändring i lagen (2000:343) om</SPAN> </TD>
+	<TD class="tr5 td5"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr6 td6"><SPAN class="p3 ft7">&nbsp;</SPAN> </TD>
+	<TD class="tr6 td8"><SPAN class="p3 ft7">&nbsp;</SPAN> </TD>
+	<TD class="tr6 td9"><SPAN class="p15 ft7">internationellt polisiärt samarbete .......................................</SPAN> </TD>
+	<TD class="tr6 td5"><SPAN class="p14 ft7">4</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr6 td6"><SPAN class="p3 ft8">3</SPAN> </TD>
+	<TD colspan=2 class="tr6 td7"><SPAN class="p3 ft8">Ärendet ...............................................................och dess beredning</SPAN> </TD>
+	<TD class="tr6 td5"><SPAN class="p14 ft7">6</SPAN> </TD>
+</TR>
+</TABLE>
+<P class="p17 ft8"><SPAN class="ft7">4</SPAN><SPAN class="ft9">Utkastet till beslut om ändring av bestämmelserna i artikel 40.1</SPAN></P>
+<TABLE cellpadding=0 cellspacing=0 class="t2">
+<TR>
+	<TD class="tr7 td6"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD colspan=2 class="tr7 td10"><SPAN class="p3 ft10">och 40.7 .............................................................................................</SPAN> </TD>
+	<TD class="tr7 td11"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr7 td12"><SPAN class="p12 ft7">7</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr6 td6"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr6 td13"><SPAN class="p3 ft8">4.1</SPAN> </TD>
+	<TD colspan=2 class="tr6 td14"><SPAN class="p3 ft8">Nuvarande innehåll i artikel 40...........................................</SPAN> </TD>
+	<TD class="tr6 td12"><SPAN class="p12 ft7">7</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr6 td6"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr6 td13"><SPAN class="p3 ft8">4.2</SPAN> </TD>
+	<TD colspan=2 class="tr6 td14"><SPAN class="p3 ft8">Innehållet i utkastet till beslut om ändring av artikel 40....</SPAN> </TD>
+	<TD class="tr6 td12"><SPAN class="p12 ft7">8</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr6 td6"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr6 td13"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr6 td15"><SPAN class="p3 ft8">4.2.1</SPAN> </TD>
+	<TD class="tr6 td11"><SPAN class="p3 ft8">Ändringen av punkten 1....................................</SPAN> </TD>
+	<TD class="tr6 td12"><SPAN class="p12 ft7">9</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr6 td6"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr6 td13"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr6 td15"><SPAN class="p3 ft8">4.2.2</SPAN> </TD>
+	<TD class="tr6 td11"><SPAN class="p3 ft8">Ändringen av punkten 7....................................</SPAN> </TD>
+	<TD class="tr6 td12"><SPAN class="p12 ft7">9</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr6 td6"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr6 td13"><SPAN class="p3 ft8">4.3</SPAN> </TD>
+	<TD colspan=2 class="tr6 td14"><SPAN class="p3 ft8">Antagande av beslutet .......................................................</SPAN> </TD>
+	<TD class="tr6 td12"><SPAN class="p12 ft7">12</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr6 td6"><SPAN class="p3 ft8">5</SPAN> </TD>
+	<TD colspan=3 class="tr6 td16"><SPAN class="p3 ft8">Behovet av författningsändringar....................................................</SPAN> </TD>
+	<TD class="tr6 td12"><SPAN class="p12 ft7">13</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr6 td6"><SPAN class="p3 ft8">6</SPAN> </TD>
+	<TD colspan=2 class="tr6 td10"><SPAN class="p3 ft10">Ikraftträdande ..................................................................................</SPAN> </TD>
+	<TD class="tr6 td11"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr6 td12"><SPAN class="p12 ft7">15</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr6 td6"><SPAN class="p3 ft8">7</SPAN> </TD>
+	<TD colspan=3 class="tr6 td16"><SPAN class="p3 ft8">Ekonomiska konsekvenser ..............................................................</SPAN> </TD>
+	<TD class="tr6 td12"><SPAN class="p12 ft7">16</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr6 td6"><SPAN class="p3 ft8">8</SPAN> </TD>
+	<TD colspan=3 class="tr6 td16"><SPAN class="p3 ft8">Författningskommentar ...................................................................</SPAN> </TD>
+	<TD class="tr6 td12"><SPAN class="p12 ft7">16</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=4 class="tr6 td7"><SPAN class="p3 ft8">Bilaga 1 Utkast till rådets beslut ..........................................................</SPAN> </TD>
+	<TD class="tr6 td12"><SPAN class="p12 ft7">18</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=2 class="tr6 td17"><SPAN class="p3 ft8">Bilaga 2</SPAN> </TD>
+	<TD colspan=2 class="tr6 td14"><SPAN class="p3 ft8">Promemorians lagförslag.......................................................</SPAN> </TD>
+	<TD class="tr6 td12"><SPAN class="p12 ft7">24</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=4 class="tr6 td7"><SPAN class="p3 ft8">Bilaga 3 Förteckning över remissinstanserna ......................................</SPAN> </TD>
+	<TD class="tr6 td12"><SPAN class="p12 ft7">26</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=2 class="tr6 td17"><SPAN class="p3 ft8">Bilaga 4</SPAN> </TD>
+	<TD colspan=2 class="tr6 td14"><SPAN class="p3 ft8">Lagrådsremissens lagförslag .................................................</SPAN> </TD>
+	<TD class="tr6 td12"><SPAN class="p12 ft7">27</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=2 class="tr6 td17"><SPAN class="p3 ft8">Bilaga 5</SPAN> </TD>
+	<TD colspan=2 class="tr6 td14"><SPAN class="p3 ft8">Lagrådets yttrande .................................................................</SPAN> </TD>
+	<TD class="tr6 td12"><SPAN class="p12 ft7">29</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=4 class="tr6 td7"><SPAN class="p3 ft8">Utdrag ur protokoll vid regeringssammanträde den 10 april 2003..........</SPAN> </TD>
+	<TD class="tr6 td12"><SPAN class="p12 ft7">31</SPAN> </TD>
+</TR>
+</TABLE>
+<P class="p18 ft11">2</P>
+</DIV>
+<DIV id="page_3">
+
+
+<TABLE cellpadding=0 cellspacing=0 class="t3">
+<TR>
+	<TD class="tr8 td18"><SPAN class="p19 ft1">1</SPAN> </TD>
+	<TD class="tr8 td19"><SPAN class="p20 ft1">Förslag till riksdagsbeslut</SPAN> </TD>
+	<TD class="tr8 td20"><SPAN class="p3 ft5">Prop. 2002/03:66</SPAN> </TD>
+</TR>
+</TABLE>
+<P class="p21 ft3">Regeringen föreslår att riksdagen</P>
+<P class="p22 ft3"><SPAN class="ft5">1.</SPAN><SPAN class="ft12">godkänner det inom Europeiska unionen upprättade utkastet till beslut om ändring i artikel 40.1 och 40.7 i konventionen om tillämpning av Schengenavtalet av den 14 juni 1985 om gradvis avskaffande av kontroller vid de gemensamma gränserna,</SPAN></P>
+<P class="p23 ft14"><SPAN class="ft5">2.</SPAN><SPAN class="ft13">antar regeringens förslag till lag om ändring i lagen (2000:343) om internationellt polisiärt samarbete.</SPAN></P>
+<P class="p24 ft3">3</P>
+</DIV>
+<DIV id="page_4">
+
+
+<DIV id="id_1">
+<TABLE cellpadding=0 cellspacing=0 class="t4">
+<TR>
+	<TD class="tr8 td18"><SPAN class="p19 ft1">2</SPAN> </TD>
+	<TD class="tr8 td19"><SPAN class="p20 ft1">Lagtext</SPAN> </TD>
+	<TD class="tr8 td20"><SPAN class="p3 ft5">Prop. 2002/03:66</SPAN> </TD>
+</TR>
+</TABLE>
+<P class="p25 ft3">Regeringen har följande förslag till lagtext.</P>
+<P class="p26 ft17"><SPAN class="ft15">2.1</SPAN><SPAN class="ft16">Förslag till lag om ändring i lagen (2000:343) om internationellt polisiärt samarbete</SPAN></P>
+<P class="p27 ft14">Härigenom föreskrivs att 4 § lagen (2000:343) om internationellt polisiärt samarbete skall ha följande lydelse.</P>
+<TABLE cellpadding=0 cellspacing=0 class="t5">
+<TR>
+	<TD class="tr9 td21"><SPAN class="p3 ft4">Nuvarande lydelse</SPAN> </TD>
+	<TD class="tr9 td22"><SPAN class="p3 ft18">Föreslagen lydelse</SPAN> </TD>
+</TR>
+</TABLE>
+<P class="p28 ft3">4 §</P>
+<P class="p29 ft3">Om det i en stat som avses med bestämmelsen i 1 § första stycket pågår en utredning om ett brott som kan föranleda utlämning, får utländska tjänstemän fortsätta en i sin stat påbörjad övervakning av en misstänkt gärningsman in på svenskt territorium, om en behörig svensk myndighet samtycker till det.</P>
+</DIV>
+<DIV id="id_2">
+<DIV id="id_2_1">
+<P class="p30 ft3">Övervakningen får ske utan föregående samtycke, om saken är så brådskande att samtycke inte kan inhämtas i förväg och den utländska utredningen avser misstanke om sådana brott som sägs i artikel 40.7 i Schengenkonventionen, nämligen mord, dråp, <SPAN class="ft4">våldtäkt</SPAN>, mordbrand, penningförfalskning, grov stöld <SPAN class="ft4">och </SPAN>grovt häleri, utpressning, människorov och tagande av gisslan, olaglig människohandel, olaglig handel med narkotika och psykotropa ämnen, brott mot lagbestämmelser angående vapen och sprängämnen, ödeläggelse genom användande av sprängämnen <SPAN class="ft4">samt </SPAN>olaglig transport av giftigt och skadligt avfall. För att övervakningen skall få ske utan föregående samtycke krävs också att överskridandet av grän-</P>
+</DIV>
+<DIV id="id_2_2">
+<TABLE cellpadding=0 cellspacing=0 class="t6">
+<TR>
+	<TD colspan=3 class="tr10 td23"><SPAN class="p31 ft4">Under de förutsättningar som</SPAN> </TD>
+	<TD class="tr10 td17"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=3 class="tr11 td23"><SPAN class="p31 ft4">anges i första stycket får sådan</SPAN> </TD>
+	<TD class="tr11 td17"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=3 class="tr12 td23"><SPAN class="p31 ft18">fortsatt övervakning även ske be-</SPAN> </TD>
+	<TD class="tr12 td17"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=3 class="tr11 td23"><SPAN class="p31 ft4">träffande en annan person än en</SPAN> </TD>
+	<TD class="tr11 td17"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=3 class="tr11 td23"><SPAN class="p31 ft18">misstänkt gärningsman, om det är</SPAN> </TD>
+	<TD class="tr11 td17"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=3 class="tr11 td23"><SPAN class="p31 ft4">nödvändigt för den pågående ut-</SPAN> </TD>
+	<TD class="tr11 td17"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=3 class="tr11 td23"><SPAN class="p31 ft18">redningen och det finns starka skäl</SPAN> </TD>
+	<TD class="tr11 td17"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=3 class="tr11 td23"><SPAN class="p31 ft4">att anta att åtgärden kan med-</SPAN> </TD>
+	<TD class="tr11 td17"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=3 class="tr12 td23"><SPAN class="p31 ft18">verka till att identifiera eller spåra</SPAN> </TD>
+	<TD class="tr12 td17"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=3 class="tr11 td23"><SPAN class="p3 ft4">en misstänkt gärningsman.</SPAN> </TD>
+	<TD class="tr11 td17"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=3 class="tr11 td23"><SPAN class="p31 ft4"><SPAN class="ft3">Övervakningen </SPAN>av en misstänkt</SPAN> </TD>
+	<TD class="tr11 td17"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=3 class="tr11 td23"><SPAN class="p31 ft3"><SPAN class="ft4">gärningsman </SPAN>får ske utan föregå-</SPAN> </TD>
+	<TD class="tr11 td17"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=3 class="tr11 td23"><SPAN class="p31 ft3">ende samtycke, om saken är så</SPAN> </TD>
+	<TD class="tr11 td17"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=3 class="tr12 td23"><SPAN class="p31 ft3">brådskande att samtycke inte kan</SPAN> </TD>
+	<TD class="tr12 td17"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=3 class="tr11 td23"><SPAN class="p31 ft3">inhämtas i förväg och den ut-</SPAN> </TD>
+	<TD class="tr11 td17"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=3 class="tr11 td23"><SPAN class="p31 ft3">ländska utredningen avser miss-</SPAN> </TD>
+	<TD class="tr11 td17"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=3 class="tr11 td23"><SPAN class="p31 ft3">tanke om sådana brott som sägs i</SPAN> </TD>
+	<TD class="tr11 td17"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=3 class="tr11 td23"><SPAN class="p31 ft3">artikel 40.7 i Schengenkonventio-</SPAN> </TD>
+	<TD class="tr11 td17"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=3 class="tr11 td23"><SPAN class="p31 ft3">nen, nämligen mord, dråp, <SPAN class="ft4">grovt</SPAN></SPAN> </TD>
+	<TD class="tr11 td17"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=3 class="tr11 td23"><SPAN class="p31 ft3"><SPAN class="ft4">sexualbrott</SPAN>, mordbrand, penning-</SPAN> </TD>
+	<TD class="tr11 td17"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=3 class="tr12 td23"><SPAN class="p31 ft4"><SPAN class="ft3">förfalskning </SPAN>och förfalskning av</SPAN> </TD>
+	<TD class="tr12 td17"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=3 class="tr11 td23"><SPAN class="p31 ft18">betalningsmedel<SPAN class="ft5">, grov stöld</SPAN>, <SPAN class="ft5">grovt</SPAN></SPAN> </TD>
+	<TD class="tr11 td17"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=3 class="tr11 td23"><SPAN class="p31 ft4"><SPAN class="ft3">häleri, </SPAN>penningtvätt<SPAN class="ft3">, </SPAN>grovt bedrä-</SPAN> </TD>
+	<TD class="tr11 td17"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr11 td24"><SPAN class="p3 ft4">geri<SPAN class="ft3">,</SPAN></SPAN> </TD>
+	<TD class="tr11 td25"><SPAN class="p32 ft5">utpressning,</SPAN> </TD>
+	<TD class="tr11 td26"><SPAN class="p31 ft3">människorov</SPAN> </TD>
+	<TD class="tr11 td17"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=3 class="tr11 td23"><SPAN class="p31 ft3">och tagande av gisslan, olaglig</SPAN> </TD>
+	<TD class="tr11 td17"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=3 class="tr11 td23"><SPAN class="p31 ft5">människohandel, <SPAN class="ft18">människosmugg-</SPAN></SPAN> </TD>
+	<TD class="tr11 td17"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=3 class="tr12 td23"><SPAN class="p31 ft3"><SPAN class="ft4">ling</SPAN>, olaglig handel med narkotika</SPAN> </TD>
+	<TD class="tr12 td17"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=3 class="tr11 td23"><SPAN class="p31 ft3">och psykotropa ämnen, brott mot</SPAN> </TD>
+	<TD class="tr11 td17"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=3 class="tr11 td23"><SPAN class="p31 ft3">lagbestämmelser angående vapen</SPAN> </TD>
+	<TD class="tr11 td17"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr11 td24"><SPAN class="p3 ft3">och</SPAN> </TD>
+	<TD class="tr11 td25"><SPAN class="p33 ft3">sprängämnen,</SPAN> </TD>
+	<TD class="tr11 td26"><SPAN class="p31 ft3">ödeläggelse</SPAN> </TD>
+	<TD class="tr11 td17"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=3 class="tr11 td23"><SPAN class="p31 ft3">genom användande av sprängäm-</SPAN> </TD>
+	<TD class="tr11 td17"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr13 td24"><SPAN class="p3 ft3">nen<SPAN class="ft4">,</SPAN></SPAN> </TD>
+	<TD colspan=2 class="tr13 td27"><SPAN class="p31 ft3">olaglig transport av giftigt</SPAN> </TD>
+	<TD rowspan=2 class="tr2 td17"><SPAN class="p12 ft3">4</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr14 td24"><SPAN class="p3 ft19">&nbsp;</SPAN> </TD>
+	<TD class="tr14 td25"><SPAN class="p3 ft19">&nbsp;</SPAN> </TD>
+	<TD class="tr14 td26"><SPAN class="p3 ft19">&nbsp;</SPAN> </TD>
+</TR>
+</TABLE>
+</DIV>
+</DIV>
+</DIV>
+<DIV id="page_5">
+<DIV id="dimg1">
+<INGENBILD zsrc="GQ03665x1.jpg/" id="img1">
+</DIV>
+
+
+<DIV id="id_1">
+<DIV id="id_1_1">
+<P class="p17 ft3">sen i samband med övervakningen anmäls till en behörig svensk myndighet så snart det kan ske, och att den utländska myndigheten utan dröjsmål begär bistånd i utredningen.</P>
+<P class="p34 ft3">Övervakningen skall genast upphöra om en behörig svensk myndighet begär det. Övervakning som sägs i <SPAN class="ft4">andra </SPAN>stycket skall även upphöra om samtycke inte har lämnats inom fem timmar från gränsöverskridandet.</P>
+</DIV>
+<DIV id="id_1_2">
+<P class="p35 ft21">och skadligt avfall, <SPAN class="ft20">olaglig handel </SPAN>Prop. 2002/03:66 <SPAN class="ft20">med nukleära och radioaktiva äm-</SPAN></P>
+<P class="p36 ft4">nen, sådan brottslighet som avses i rådets gemensamma åtgärd 98/733/RIF av den 21 december 1998 om att göra deltagande i en kriminell organisation i Europeiska unionens medlemsstater till ett brott samt terroristbrott enligt rådets rambeslut 2002/475/RIF av den 13 juni 2002 om bekämpande av terrorism<SPAN class="ft3">. För att övervakningen skall få ske utan föregående samtycke krävs också att överskridandet av gränsen i samband med övervakningen anmäls till en behörig svensk myndighet så snart det kan ske, och att den utländska myndigheten utan dröjsmål begär bistånd i utredningen.</SPAN></P>
+<P class="p37 ft3">Övervakningen skall genast upphöra om en behörig svensk myndighet begär det. Övervakning som sägs i <SPAN class="ft4">tredje </SPAN>stycket skall även upphöra om samtycke inte har lämnats inom fem timmar från gränsöverskridandet.</P>
+</DIV>
+</DIV>
+<DIV id="id_2">
+<P class="p38 ft3">Denna lag träder i kraft den dag regeringen bestämmer.</P>
+<P class="p39 ft3">5</P>
+</DIV>
+</DIV>
+<DIV id="page_6">
+
+
+<TABLE cellpadding=0 cellspacing=0 class="t3">
+<TR>
+	<TD class="tr8 td18"><SPAN class="p19 ft1">3</SPAN> </TD>
+	<TD class="tr8 td19"><SPAN class="p20 ft1">Ärendet och dess beredning</SPAN> </TD>
+	<TD class="tr8 td20"><SPAN class="p3 ft5">Prop. 2002/03:66</SPAN> </TD>
+</TR>
+</TABLE>
+<P class="p40 ft3">Den 5 juli 2001 tog Belgien, Spanien och Frankrike ett initiativ till förslag till beslut om ändring av artikel 40.1 och 40.7 i konventionen av den 19 juni 1990 om tillämpning av Schengenavtalet av den 14 juni 1985 om gradvis avskaffande av kontroller vid de gemensamma gränserna (Schengenkonventionen).</P>
+<P class="p41 ft3">Ministerrådet för rättsliga och inrikes frågor uppnådde vid sitt möte den 13 juni 2002 en politisk överenskommelse om innehållet i beslutet. Sverige och fyra andra medlemsstater anmälde att beslutet förutsätter godkännande av dess parlament (parlamentsreservation) och beslutet kunde därför inte antas vid detta tillfälle. Beslutet kan antas först när parlamentsreservationerna har hävts.</P>
+<P class="p23 ft3">Europaparlamentet har yttrat sig över förslaget <NOBR>(A5-0078/2002).</NOBR> Ut- kastet till beslut i senaste svensk version är fogad till denna lagrådsremiss som <SPAN class="ft4">bilaga 1</SPAN>. Det bör därvid påpekas att artikel 3 i förslaget till rådsbeslut kommer att ändras med avseende på de tidsangivelser som anges för beslutets ikraftträdande.</P>
+<P class="p42 ft3">Inom Justitiedepartementet har utarbetats en promemoria, Sveriges antagande av beslut om ändring av artikel 40.1 och 40.7 i Schengenkonventionen och ändring i lagen (2000:343) om internationellt polisiärt samarbete. Promemorian innehåller förslag till att riksdagen godkänner utkastet till beslut om ändring av artikel 40.1 och 40.7 i Schengenkonventionen. Utkastet till beslut innebär dels att den personkrets som kan bli föremål för gränsöverskridande övervakning enligt artikel 40.1 utökas, dels en utvidgning av den lista på brott som enligt artikel 40.7 kan föranleda fortsatt övervakning av en misstänkt gärningsman över gräns utan att ett förhandsgodkännande från den berörda staten hunnit inhämtats. I promemorian lämnas förslag till de ändringar i lagen (2000:343) om internationellt polisiärt samarbete som föranleds av utkastet till beslut. Promemorian har remissbehandlats. Promemorians lagförslag finns i <SPAN class="ft4">bilaga 2 </SPAN>och en förteckning över remissinstanserna i <SPAN class="ft4">bilaga 3</SPAN>. En sammanställning av remissyttrandena finns tillgänglig i Justitiedepartementet (Ju2002/9203/PÅ).</P>
+<P class="p43 ft18">Lagrådet</P>
+<P class="p44 ft21">Regeringen beslutade den 20 mars 2003 att inhämta Lagrådets yttrande över de lagförslag som finns i <SPAN class="ft20">bilaga 4</SPAN>. Lagrådet har haft vissa synpunkter på lagtextens utformning. Lagrådets yttrande finns i <SPAN class="ft20">bilaga 5</SPAN>. Regeringen har följt Lagrådets förslag.</P>
+<P class="p45 ft3">6</P>
+</DIV>
+<DIV id="page_7">
+
+
+<TABLE cellpadding=0 cellspacing=0 class="t3">
+<TR>
+	<TD class="tr15 td18"><SPAN class="p19 ft1">4</SPAN> </TD>
+	<TD class="tr15 td19"><SPAN class="p20 ft1">Utkastet till beslut om ändring av</SPAN> </TD>
+	<TD class="tr15 td20"><SPAN class="p3 ft5">Prop. 2002/03:66</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr16 td18"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr16 td19"><SPAN class="p20 ft1">bestämmelserna i artikel 40.1 och 40.7</SPAN> </TD>
+	<TD class="tr16 td20"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+</TABLE>
+<P class="p46 ft15"><SPAN class="ft15">4.1</SPAN><SPAN class="ft22">Nuvarande innehåll i artikel 40</SPAN></P>
+<P class="p47 ft3">Schengensamarbetet syftar till att förverkliga den fria rörligheten för personer vilket, tillsammans med den fria rörligheten för varor, tjänster och kapital, är en av grundstenarna i EG:s regelverk. Den fria rörligheten förverkligas genom att personkontrollen vid nationsgränserna mellan Schengenstaterna har upphört. För att den fria rörligheten för personer inte, som en oönskad bieffekt, skall bli till hjälp för den internationella brottsligheten, innefattar Schengensamarbetet ett antal olika s.k. kompensatoriska åtgärder i form av yttre gränskontroll samt polisiärt och rättsligt samarbete. Den gränsöverskridande övervakningen i enlighet med artikel 40 i Schengenkonventionen är en del av det polisiära och rättsliga samarbetet.</P>
+<P class="p42 ft3">Artikel 40 i Schengenkonventionen reglerar frågan om fortsatt övervakning över gräns <SPAN class="ft4">(gränsöverskridande övervakning)</SPAN>. Den situationen som avses är att polisen eller annan behörig myndighet i en Schengenstat som ett led i en pågående brottsutredning övervakar (skuggar) en person som är misstänkt för ett brott som kan föranleda utlämning och den personen beger sig in på en annan Schengenstats (mottagande stat) territorium.</P>
+<P class="p23 ft3">Enligt <SPAN class="ft4">artikel 40.1 </SPAN>är huvudregeln vid fortsatt övervakning att samtycke till övervakning in på den mottagande statens territorium skall inhämtas i förväg, innan gränsen överskrids. Begäran skall ställas till en av varje land särskilt utsedd centralmyndighet. Det brott som föranlett den fortsatta övervakningen skall vara ett brott som kan föranleda utlämning.</P>
+<P class="p23 ft3">Gränsöverskridande övervakning med föregående samtycke från den mottagande staten får ske utan begränsning i tiden eller till något geografiskt område. Den mottagande staten kan dock när som helst begära att övervakningen skall upphöra.</P>
+<P class="p48 ft3">Vid synnerlig brådska kan enligt <SPAN class="ft4">artikel 40.2 </SPAN>övervakningen fortsätta över gränsen till mottagande stat utan samtycke. I sådana fall skall den mottagande staten kontaktas senast i samband med gränsöverskridandet. Om tillstånd till övervakningen inte ges inom fem timmar skall övervakningen avbrytas. Gränsöverskridande övervakning utan föregående samtycke är emellertid endast tillåten i samband med utredning av vissa särskilt grova brott, som finns uppräknade i <SPAN class="ft4">artikel 40.7</SPAN>. De brott som anges är mord, dråp, våldtäkt, mordbrand, penningförfalskning, grov stöld och grovt häleri, utpressning, människorov och tagande av gisslan, olaglig människohandel, olaglig handel med narkotika och psykotropa ämnen, brott mot lagbestämmelser angående vapen och sprängämnen, ödeläggelse genom användande av sprängämnen samt olaglig transport av giftigt och skadligt avfall. Såvitt avser människohandel bör understrykas att det den 1 juli 2002 införts en ny paragraf i brottsbalken, 4 kap. 1 a §, som kriminaliserar alla former av människohandel för sexuella ändamål.</P>
+<P class="p49 ft21">Dessutom gäller enligt <SPAN class="ft20">artikel 40.3 </SPAN>en rad särskilda förutsättningar under vilka fortsatt övervakning får ske på den mottagande statens territorium. Den mottagande staten har rätt att meddela instruktioner som de</P>
+<P class="p50 ft3">7</P>
+</DIV>
+<DIV id="page_8">
+
+
+<P class="p51 ft21">övervakande polismännen skall rätta sig efter. All övervakning in på ett Prop. 2002/03:66 annat lands territorium skall ske med iakttagande av den mottagande</P>
+<P class="p52 ft3">statens lagar och de övriga villkor som mottagande stats myndigheter ställer upp. Övervakande polismän skall kunna legitimera sig och i princip kunna styrka att de har tillstånd till operationen. Övervakning får inte medföra att bostäder eller enskilt utrymme beträds av de övervakande polismännen. Tjänstevapen får medföras om inte den mottagande staten förbjudit detta, men vapnen får endast användas i nödvärn. Det är inte tillåtet för de övervakande polismännen att gripa eller omhänderta den övervakade eller utsätta denne för identitetskontroll på den mottagande statens område. Slutligen skall verksamheten rapporteras till myndigheterna i den mottagande staten och övervakande polismän kan åläggas att inställa sig personligen.</P>
+<P class="p53 ft3">Den svenska polisens befogenheter att i Sverige genomföra övervakning samt att använda tvångsmedel regleras i lag, huvudsakligen i rättegångsbalken och polislagen (1984:387). I rättegångsbalken finns regler om polisens brottsutredande verksamhet i samband med förundersökning. I 24 kap. 7 § finns regler om polisens rätt att gripa personer som är misstänkta för brott, i 27 kap. 4 § finns regler om beslag och i 28 kap. 11 § finns regler om kroppsvisitation. När det inte pågår en förundersökning är vissa allmänna regler i polislagen tillämpliga. I 2 § 3 anges bl.a. att polisen skall bedriva spaning och utredning i fråga om brott som hör under allmänt åtal. Den övervakning som avses i nuvarande artikel 40 i Schengenkonventionen förutsätter att det föreligger misstanke om ett konkret brott och att det är den misstänkte gärningsmannen som övervakas. Utredningen befinner sig då enligt svenskt synsätt på förundersökningsstadiet. Om spaningen bedrivs på ett tidigare stadium än förundersökning är polislagen tillämplig.</P>
+<P class="p54 ft3">Lagen (2000:343) om internationellt polisiärt samarbete innehåller de huvudsakliga författningsbestämmelser som var nödvändiga för att genomföra artikel 40 i Schengenkonventionen i svensk rätt. I 4 § ges bestämmelser om gränsöverskridande övervakning. Enligt 15 § är det Rikspolisstyrelsen, eller den polismyndighet som Rikspolisstyrelsen i det enskilda fallet bestämmer, som beslutar om gränsöverskridande övervakning in på svenskt territorium. Rikspolisstyrelsen får i ett enskilt fall överlämna ett sådant ärende till Kustbevakningen. Framställning från en utländsk myndighet om gränsöverskridande övervakning in på svenskt territorium skall göras hos Rikspolisstyrelsen. Andra kontakter med anledning av gränsöverskridande övervakning in på svenskt territorium skall ske direkt mellan de utländska tjänstemännen och berörda svenska polismyndigheter. När ärendet har överlämnats till Kustbevakningen ansvarar den för de kontakter som föranleds i anledning av ärendet.</P>
+<P class="p55 ft23">4.2 Innehållet i utkastet till beslut om ändring av artikel 40</P>
+<TABLE cellpadding=0 cellspacing=0 class="t7">
+<TR>
+	<TD class="tr9 td28"><SPAN class="p3 ft3">Utkastet till beslut innebär en utveckling av artikel 40 i Schengenkon-</SPAN> </TD>
+	<TD class="tr9 td17"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr11 td28"><SPAN class="p3 ft3">ventionen. Syftet med förslaget är dels att förbättra möjligheten att utreda</SPAN> </TD>
+	<TD class="tr11 td17"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr12 td28"><SPAN class="p3 ft3">gränsöverskridande organiserad brottslighet, dels att anpassa regelverket</SPAN> </TD>
+	<TD class="tr12 td17"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr13 td28"><SPAN class="p3 ft3">till hur denna brottslighet har utvecklats.</SPAN> </TD>
+	<TD rowspan=2 class="tr16 td17"><SPAN class="p12 ft3">8</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr17 td28"><SPAN class="p3 ft24">&nbsp;</SPAN> </TD>
+</TR>
+</TABLE>
+</DIV>
+<DIV id="page_9">
+
+
+<TABLE cellpadding=0 cellspacing=0 class="t8">
+<TR>
+	<TD class="tr18 td29"><SPAN class="p56 ft25">4.2.1</SPAN> </TD>
+	<TD class="tr18 td30"><SPAN class="p57 ft26">Ändringen av punkten 1</SPAN> </TD>
+	<TD class="tr18 td20"><SPAN class="p3 ft5">Prop. 2002/03:66</SPAN> </TD>
+</TR>
+</TABLE>
+<P class="p58 ft3">Punkten 1 innebär att personkretsen, som för närvarande endast omfattar personer misstänkta för brott som kan medföra utlämning, utökas till att omfatta även andra personer som det finns betydande skäl att anta kan medverka till att identifiera eller spåra en person som är misstänkt för brott som kan medföra utlämning om övervakningen utgör en nödvändig del i en förundersökning. Vilka kategorier av personer som omfattas av den föreslagna utvidgningen är inte närmare definierat i beslutet. Med hänsyn till att det skall vara fråga om personer som skall kunna medverka till att identifiera eller spåra misstänkta gärningsmän torde begreppet få anses omfatta närstående och bekanta eller andra personer med anknytning till den som är misstänkt för brott.</P>
+<P class="p59 ft26"><SPAN class="ft25">4.2.2</SPAN><SPAN class="ft27">Ändringen av punkten 7</SPAN></P>
+<P class="p40 ft3">Punkten 7 innebär en utökning av listan över straffbara handlingar som ger möjlighet till fortsatt övervakning över gräns utan att ett förhandsgodkännande från den berörda staten har hunnit inhämtats. De ytterligare straffbara gärningar som föreslås omfattas är grovt bedrägeri, människosmuggling, penningtvätt, olaglig handel med nukleära och radioaktiva ämnen, deltagande i kriminell organisation enligt bestämmelserna i rådets gemensamma åtgärd 98/733/RIF av den 21 december 1998 om att göra deltagande i en kriminell organisation i Europeiska unionens medlemsstater till ett brott samt terroristbrott enligt rådets rambeslut 2002/475/RIF av den 13 juni 2002 om bekämpande av terrorism.</P>
+<P class="p42 ft21">Därutöver föreslås att vissa brottbenämningar i listan ändras. “Våldtäkt” ersätts med “grovt sexualbrott” och “penningförfalskning” ersätts med “penningförfalskning och förfalskning av betalningsmedel”.</P>
+<P class="p41 ft3">I de fall då det föreligger synnerlig brådska får listan över straffbara handlingar endast åberopas gentemot personer som själva är misstänkta för brott. Detta framgår av artikel 40.2. Förslaget att utvidga personkretsen i punkten 1 påverkar således inte detta förhållande. Även fortsättningsvis får alltså gränsöverskridande övervakning utan föregående samtycke endast ske av en misstänkt gärningsman då saken är så brådskande att samtycke inte kan inhämtas i förväg.</P>
+<P class="p60 ft18">Brott som omfattas av den gemensamma åtgärden om deltagande i kriminell organisation</P>
+<P class="p61 ft3">Den gemensamma åtgärden antogs av EU:s ministerråd den 21 december 1998 (EGT L 351, 29.12.1998, s. 1). I ingressen till den gemensamma åtgärden uttalar rådet att det allvarliga i och utvecklingen av vissa former av den organiserade brottsligheten kräver att samarbetet inom EU stärks.</P>
+<P class="p62 ft3">Den gemensamma åtgärden ålägger medlemsstaterna att på visst sätt göra deltagande i en kriminell organisation brottsligt. Med kriminell organisation avses en strukturerad sammanslutning, inrättad för en begränsad tid av mer än två personer som handlar i samförstånd för att begå brott som bestraffas med frihetsberövande eller en frihetsberövande säkerhetsåtgärd på upp till minst fyra år eller ett strängare straff oavsett om</P>
+<P class="p63 ft3">9</P>
+</DIV>
+<DIV id="page_10">
+
+
+<TABLE cellpadding=0 cellspacing=0 class="t9">
+<TR>
+	<TD class="tr9 td31"><SPAN class="p3 ft3">brottet är ett mål i sig själv eller ett medel att erhålla materiella fördelar</SPAN> </TD>
+	<TD class="tr9 td32"><SPAN class="p64 ft5">Prop. 2002/03:66</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr11 td31"><SPAN class="p3 ft3">och i förekommande fall ett sätt att otillbörligt påverka offentliga myn-</SPAN> </TD>
+	<TD class="tr11 td32"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr11 td31"><SPAN class="p3 ft3">digheters verksamhet.</SPAN> </TD>
+	<TD class="tr11 td32"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr11 td31"><SPAN class="p65 ft3">Enligt artikel 2 i den gemensamma åtgärden skall kriminaliseringen av</SPAN> </TD>
+	<TD class="tr11 td32"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr12 td31"><SPAN class="p3 ft3">deltagande i kriminell organisation ske genom att varje medlemsstat åtar</SPAN> </TD>
+	<TD class="tr12 td32"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr11 td31"><SPAN class="p3 ft3">sig att se till att de handlingar som beskrivs i den artikeln bestraffas med</SPAN> </TD>
+	<TD class="tr11 td32"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr11 td31"><SPAN class="p3 ft3">effektiva, proportionerliga och avskräckande straffrättsliga sanktioner.</SPAN> </TD>
+	<TD class="tr11 td32"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr11 td31"><SPAN class="p3 ft3">Medlemsstaterna har därvid möjlighet att uppfylla kriminaliseringen ge-</SPAN> </TD>
+	<TD class="tr11 td32"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr11 td31"><SPAN class="p3 ft3">nom endera av två olika alternativ. Enligt punkten a kan kriminalise-</SPAN> </TD>
+	<TD class="tr11 td32"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr11 td31"><SPAN class="p3 ft3">ringen uppfyllas genom att det handlande varigenom den person som</SPAN> </TD>
+	<TD class="tr11 td32"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr12 td31"><SPAN class="p3 ft3">avsiktligen och med kännedom om antingen organisationens syfte och</SPAN> </TD>
+	<TD class="tr12 td32"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr11 td31"><SPAN class="p3 ft3">allmänna kriminella aktiviteter eller organisationens avsikt att begå</SPAN> </TD>
+	<TD class="tr11 td32"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr11 td31"><SPAN class="p3 ft3">brotten, aktivt deltar i en kriminell organisations aktiviteter som avses i</SPAN> </TD>
+	<TD class="tr11 td32"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr11 td31"><SPAN class="p3 ft3">artikel 1, även om den personen inte deltar i det egentliga utförandet av</SPAN> </TD>
+	<TD class="tr11 td32"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr11 td31"><SPAN class="p3 ft3">brotten i fråga och, med förbehåll för allmänna principer i den berörda</SPAN> </TD>
+	<TD class="tr11 td32"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr11 td31"><SPAN class="p3 ft3">medlemsstatens straffrätt, även om brotten i fråga inte begås, eller att</SPAN> </TD>
+	<TD class="tr11 td32"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr12 td31"><SPAN class="p3 ft3">personen deltar i annan av organisationens aktiviteter och dessutom har</SPAN> </TD>
+	<TD class="tr12 td32"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr11 td31"><SPAN class="p3 ft3">kännedom om att deltagandet bidrar till fullgörandet av den kriminella</SPAN> </TD>
+	<TD class="tr11 td32"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr11 td31"><SPAN class="p3 ft3">organisationens aktiviteter enligt artikel 1. Vid antagandet av den gemen-</SPAN> </TD>
+	<TD class="tr11 td32"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr11 td31"><SPAN class="p3 ft3">samma åtgärden gjorde regeringen bedömningen att det inte skulle krä-</SPAN> </TD>
+	<TD class="tr11 td32"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr11 td31"><SPAN class="p3 ft3">vas några lagstiftningsåtgärder för att Sverige skulle leva upp till åtagan-</SPAN> </TD>
+	<TD class="tr11 td32"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr11 td31"><SPAN class="p3 ft3">dena. Denna ståndpunkt redovisas också i regeringens berättelse om</SPAN> </TD>
+	<TD class="tr11 td32"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr12 td31"><SPAN class="p3 ft3">verksamheten i EU 1998 (skr. 1998/99:60 s. 265). Svensk lagstiftning har</SPAN> </TD>
+	<TD class="tr12 td32"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr11 td31"><SPAN class="p3 ft3">genom en tillämpning av framför allt bestämmelserna i 23 kap. 2 och</SPAN> </TD>
+	<TD class="tr11 td32"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr11 td31"><SPAN class="p3 ft3">4 §§ brottsbalken om förberedelse och medverkan till brott ansetts upp-</SPAN> </TD>
+	<TD class="tr11 td32"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr11 td31"><SPAN class="p3 ft3">fylla de krav den gemensamma åtgärden ställer.</SPAN> </TD>
+	<TD class="tr11 td32"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr11 td31"><SPAN class="p65 ft3">Motsvarande bedömning har även gjorts av Kommittén om straffan-</SPAN> </TD>
+	<TD class="tr11 td32"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr11 td31"><SPAN class="p3 ft3">svar för organiserad brottslighet, m.m. I sitt betänkande Organiserad</SPAN> </TD>
+	<TD class="tr11 td32"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr12 td31"><SPAN class="p3 ft3">brottslighet, hets mot folkgrupp, hets mot homosexuella m.m. – straffan-</SPAN> </TD>
+	<TD class="tr12 td32"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr11 td31"><SPAN class="p3 ft3">svarets räckvidd – (SOU 2000:88) anför kommittén, i vilken represen-</SPAN> </TD>
+	<TD class="tr11 td32"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr11 td31"><SPAN class="p3 ft3">tanter för samtliga riksdagspartier medverkade, att även den gör bedöm-</SPAN> </TD>
+	<TD class="tr11 td32"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr11 td31"><SPAN class="p3 ft3">ningen att den nuvarande svenska lagstiftningen i och för sig är tillräcklig</SPAN> </TD>
+	<TD class="tr11 td32"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr11 td31"><SPAN class="p3 ft3">för att Sverige skall uppfylla de åtaganden som följer av den gemen-</SPAN> </TD>
+	<TD class="tr11 td32"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr10 td31"><SPAN class="p3 ft3">samma åtgärden (a.a. s 173 f.).</SPAN> </TD>
+	<TD class="tr10 td32"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr19 td31"><SPAN class="p3 ft18">Terroristbrott enligt rambeslutet om bekämpande av terrorism</SPAN> </TD>
+	<TD class="tr19 td32"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr20 td31"><SPAN class="p3 ft3">Rambeslutet är den första internationella överenskommelse som inne-</SPAN> </TD>
+	<TD class="tr20 td32"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr11 td31"><SPAN class="p3 ft3">håller en definition av terroristbrott. Rambeslutet föreskriver nämligen</SPAN> </TD>
+	<TD class="tr11 td32"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr11 td31"><SPAN class="p3 ft3">vilka handlingar som, enligt brottsbeskrivningen i nationell lagstiftning,</SPAN> </TD>
+	<TD class="tr11 td32"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr11 td31"><SPAN class="p3 ft3">skall betraktas som terroristbrott.</SPAN> </TD>
+	<TD class="tr11 td32"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr11 td31"><SPAN class="p65 ft3">Riksdagen godkände rambeslutet den 29 maj 2002 (prop. 2001/02:135,</SPAN> </TD>
+	<TD class="tr11 td32"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr11 td31"><SPAN class="p3 ft3">bet. 2001/02:JuU22, rskr. 2001/02:267) och det antogs vid ministerrådet</SPAN> </TD>
+	<TD class="tr11 td32"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr12 td31"><SPAN class="p3 ft3">för rättsliga och inrikes frågor den 13 juni 2002 (EGT L 164, 22.6.2002,</SPAN> </TD>
+	<TD class="tr12 td32"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr11 td31"><SPAN class="p3 ft3">s. 3).</SPAN> </TD>
+	<TD class="tr11 td32"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr11 td31"><SPAN class="p65 ft3">Regeringen beslutade den 13 februari 2003 proposition 2002/03:38</SPAN> </TD>
+	<TD class="tr11 td32"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr11 td31"><SPAN class="p3 ft3">Straffansvar för terroristbrott. Propositionen innehåller de lagändringar</SPAN> </TD>
+	<TD class="tr11 td32"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr11 td31"><SPAN class="p3 ft3">som krävs för att svensk rätt skall uppfylla rambeslutets krav. Enligt för-</SPAN> </TD>
+	<TD class="tr11 td32"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr11 td31"><SPAN class="p3 ft3">slaget skall lagändringarna träda i kraft den 1 juli 2003.</SPAN> </TD>
+	<TD class="tr11 td32"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr12 td31"><SPAN class="p65 ft3">För att handlingar enligt rambeslutet skall kunna betraktas som terro-</SPAN> </TD>
+	<TD class="tr12 td32"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr21 td31"><SPAN class="p3 ft3">ristbrott måste vissa rekvisit vara uppfyllda. För det första måste hand-</SPAN> </TD>
+	<TD class="tr21 td32"><SPAN class="p12 ft3">10</SPAN> </TD>
+</TR>
+</TABLE>
+</DIV>
+<DIV id="page_11">
+
+
+<P class="p66 ft21">lingen ha begåtts uppsåtligen och genom sin art eller sitt sammanhang Prop. 2002/03:66 kunna allvarligt skada ett land eller en internationell organisation. Men</P>
+<P class="p67 ft3">det är inte tillräckligt. Det måste dessutom vara styrkt att gärningsmannen begått handlingen i syfte att injaga allvarlig fruktan hos en befolkning, otillbörligen tvinga offentliga organ eller en internationell organisation att utföra eller att avstå från att utföra en viss handling, eller allvarligt destabilisera eller förstöra de grundläggande politiska, konstitutionella, ekonomiska eller sociala strukturerna i en stat eller i en internationell organisation.</P>
+<P class="p68 ft3">De handlingar som skall betraktas som terroristbrott om dessa rekvisit är uppfyllda är a) angrepp mot en persons liv som kan leda till döden, b) allvarliga angrepp på en persons fysiska integritet, c) människorov eller tagande av gisslan, d) förorsakande av omfattande förstörelse av en regeringsanläggning eller offentlig anläggning, transportsystem, infrastruktur, inklusive datasystem, en fast plattform belägen på kontinentalsockeln, en offentlig plats eller privat egendom, som kan komma att utsätta människoliv för fara eller förorsaka betydande ekonomiska förluster, e) kapning av luftfartyg och fartyg eller andra kollektiva transportmedel eller godstransportmedel, f) tillverkning, innehav, förvärv, transport, tillhandahållande eller användning av skjutvapen, sprängämnen eller kärnvapen, av biologiska eller kemiska vapen, samt, när det gäller biologiska och kemiska vapen, forskning och utveckling, g) utsläpp av farliga ämnen eller orsakande av brand, översvämningar eller explosioner vilka utsätter människoliv för fara, h) att störa eller avbryta försörjningen av vatten, elkraft eller andra grundläggande naturresurser när detta utsätter människoliv för fara, i) hot om att utföra någon av de handlingar som räknas upp ovan.</P>
+<P class="p69 ft3">Samtliga dessa handlingar är straffbelagda enligt svensk rätt. För att uppfylla rambeslutets krav på att de skall betraktas som terroristbrott då de kvalificerande rekvisiten är uppfyllda, har det emellertid bedömts nödvändigt att vidta lagstiftningsåtgärder. Regeringen har därför bl.a. föreslagit att det skall införas en ny lag om straff för terroristbrott. Förslaget innebär att den skall dömas för terroristbrott som begår en gärning som i svensk rätt motsvaras av de handlingar som räknas upp i artikel 1.1 i rambeslutet, om gärningen kan allvarligt skada en stat eller en mellanstatlig organisation och avsikten med gärningen är att 1. injaga allvarlig fruktan hos en befolkning eller en befolkningsgrupp, 2. otillbörligen tvinga offentliga organ eller en mellanstatlig organisation att vidta eller avstå från att vidta en åtgärd, eller 3. allvarligt destabilisera eller förstöra grundläggande politiska, konstitutionella, ekonomiska eller sociala strukturer i en stat eller i en mellanstatlig organisation. Försök, förberedelse och stämpling till samt underlåtenhet att avslöja terroristbrott föreslås också bli straffbart. För en närmare redogörelse av de lagstiftningsåtgärder som bedömts nödvändiga hänvisas till regeringens proposition 2002/03:38 Straffansvar för terroristbrott.</P>
+<P class="p70 ft3">11</P>
+</DIV>
+<DIV id="page_12">
+<DIV id="dimg1">
+<INGENBILD zsrc="GQ036612x1.jpg/" id="img1">
+</DIV>
+
+
+<TABLE cellpadding=0 cellspacing=0 class="t10">
+<TR>
+	<TD class="tr22 td33"><SPAN class="p71 ft15">4.3</SPAN> </TD>
+	<TD class="tr22 td34"><SPAN class="p13 ft15">Antagande av beslutet</SPAN> </TD>
+	<TD class="tr22 td20"><SPAN class="p3 ft5">Prop. 2002/03:66</SPAN> </TD>
+</TR>
+</TABLE>
+<P class="p72 ft21"><SPAN class="ft28">Regeringens förslag: </SPAN>Riksdagen godkänner det inom Europeiska unionen upprättade utkastet till beslut om ändring av artikel 40.1 och 40.7 i Schengenkonventionen.</P>
+<P class="p73 ft21"><SPAN class="ft28">Promemorians förslag </SPAN>överensstämmer med regeringens. <SPAN class="ft28">Remissinstanserna </SPAN>tillstyrker eller har ingen erinran mot förslaget. <SPAN class="ft28">Skälen för regeringens förslag: </SPAN>Syftet med förslaget är att förbättra</P>
+<P class="p74 ft3">möjligheten att utreda gränsöverskridande brottslighet. Ändringen i artikel 40.1 innebär att personkretsen som kan bli föremål för gränsöverskridande övervakning utökas. Övervakningen kan, om den är en nödvändig del i en förundersökning, även omfatta andra personer än en misstänkt gärningsman, om det finns betydande skäl att anta att personen kan medverka till att identifiera eller spåra en person som är misstänkt för brott som kan leda till utlämning. Denna möjlighet förbättrar polisens möjlighet att bedriva förundersökningar avseende brott som har förgreningar utanför det egna landets gränser och likställer på ett ändamålsenligt sätt nationella utredningar med internationella när det gäller arbetsmetoder. En sådan möjlighet till utvidgad övervakning ökar också polisens förmåga att skaffa tillräcklig information för att förstärka misstankar om brott eller att kunna avföra personer från utredningen. Sammantaget ger förslaget ett operativt mervärde för polisen i dess brottsbekämpande arbete som väl motiverar den relativt begränsade integritetskränkning som ligger i att metoden kan användas inte enbart i nationella utan också i gränsöverskridande utredningar.</P>
+<P class="p23 ft3">Ändringen i artikel 40.7 innebär en komplettering av listan över straffbara handlingar som ger möjlighet till fortsatt övervakning över gräns utan att ett förhandsgodkännande från den berörda staten har hunnit inhämtas. De brott som tillfogas listan får anses vara så grova att det framstår som motiverat att utländsk myndighet inte skall behöva avbryta en övervakning av en person vid brådskande fall och förhandsgodkännande inte hinner inhämtas. Det bör här understrykas att i de fall då fara i dröjsmål föreligger får listan över straffbara handlingar för vilka förhandsgodkännande inte behöver inhämtas endast åberopas gentemot personer misstänkta för brott. Förslaget att utvidga personkretsen i artikel 40.1 påverkar således inte detta förhållande. Dessutom kan övervakningen alltid avbrytas om en behörig svensk myndighet begär det. Övervakningen skall dessutom alltid upphöra om samtycke inte har lämnats inom fem timmar från gränsöverskridandet.</P>
+<P class="p75 ft14">Sammanfattningsvis anser således regeringen att Sverige bör verka för att beslutet antas.</P>
+<P class="p76 ft18">Riksdagens beslut</P>
+<P class="p77 ft3">I samband med det lagstiftningsarbete som föregick införandet av lagen om internationellt polisiärt samarbete (prop. 1999/2000:64) behandlade regeringen utförligt frågan om gränsöverskridande övervakning kan anses innefatta myndighetsutövning. Regeringen anförde därvid att gränsöverskridande övervakning sker inom ramen för en brottsutredning som</P>
+<P class="p78 ft3">12</P>
+</DIV>
+<DIV id="page_13">
+
+
+<P class="p79 ft21">pågår i den främmande staten och riktar sig mot den som misstänks för Prop. 2002/03:66 delaktighet i brott som utredningen avser. Regeringen ansåg därför att</P>
+<P class="p80 ft3">övervakningen kan ses som åtminstone ett utflöde av myndighetsutövning. Regeringen konstaterade därför att övervägande skäl talar för att gränsöverskridande övervakning kan komma att innefatta myndighetsutövning (a. prop. s <NOBR>93–94).</NOBR> Det nu aktuella utkastet till beslut innebär således att myndighetsutövning överlämnas till främmande stat, varför riksdagens beslut bör fattas med iakttagande av 10 kap. 5 § fjärde stycket regeringsformen.</P>
+<TABLE cellpadding=0 cellspacing=0 class="t11">
+<TR>
+	<TD colspan=2 class="tr23 td35"><SPAN class="p3 ft1">5</SPAN> </TD>
+	<TD colspan=2 class="tr23 td36"><SPAN class="p81 ft1">Behovet av författningsändringar</SPAN> </TD>
+	<TD class="tr23 td37"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr24 td38"><SPAN class="p3 ft29">&nbsp;</SPAN> </TD>
+	<TD colspan=2 class="tr24 td39"><SPAN class="p3 ft29">&nbsp;</SPAN> </TD>
+	<TD class="tr24 td40"><SPAN class="p3 ft29">&nbsp;</SPAN> </TD>
+	<TD class="tr24 td37"><SPAN class="p3 ft29">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr13 td41"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD colspan=2 class="tr12 td42"><SPAN class="p82 ft5"><SPAN class="ft25">Regeringens förslag: </SPAN>I 4 § lagen (2000:343) om internationellt polisi-</SPAN> </TD>
+	<TD class="tr13 td40"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr13 td37"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr11 td41"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD colspan=2 class="tr11 td43"><SPAN class="p82 ft3">ärt samarbete införs ett nytt andra stycke som innebär att personkret-</SPAN> </TD>
+	<TD class="tr11 td40"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr11 td37"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr11 td41"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD colspan=2 class="tr11 td43"><SPAN class="p82 ft3">sen som kan bli föremål för gränsöverskridande övervakning utökas.</SPAN> </TD>
+	<TD class="tr11 td40"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr11 td37"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr11 td41"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD colspan=2 class="tr11 td43"><SPAN class="p82 ft3">Den utökade personkretsen avser personer som inte är misstänkta för</SPAN> </TD>
+	<TD class="tr11 td40"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr11 td37"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr11 td41"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD colspan=2 class="tr11 td43"><SPAN class="p82 ft3">brott som kan leda till utlämning, när övervakning av en sådan person</SPAN> </TD>
+	<TD class="tr11 td40"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr11 td37"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr11 td41"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD colspan=2 class="tr11 td43"><SPAN class="p82 ft3">är en nödvändig del i en utredning och det finns starka skäl att anta att</SPAN> </TD>
+	<TD class="tr11 td40"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr11 td37"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr12 td41"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD colspan=2 class="tr12 td43"><SPAN class="p83 ft3">åtgärden kan medverka till att identifiera eller spåra en misstänkt gär-</SPAN> </TD>
+	<TD class="tr12 td40"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr12 td37"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr11 td41"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD colspan=2 class="tr11 td43"><SPAN class="p84 ft3">ningsman.</SPAN> </TD>
+	<TD class="tr11 td40"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr11 td37"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr11 td41"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr11 td44"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr11 td45"><SPAN class="p85 ft3">Brottskatalogen utvidgas i fråga om gränsöverskridande övervak-</SPAN> </TD>
+	<TD class="tr11 td40"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr11 td37"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr11 td41"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD colspan=2 class="tr11 td43"><SPAN class="p82 ft3">ning utan föregående samtycke, om saken är så brådskande att sam-</SPAN> </TD>
+	<TD class="tr11 td40"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr11 td37"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr11 td41"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD colspan=2 class="tr11 td43"><SPAN class="p82 ft5">tycke inte kan inhämtas i förväg, och vissa brottsrubriceringar ändras i</SPAN> </TD>
+	<TD class="tr11 td40"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr11 td37"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr11 td41"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD colspan=2 class="tr11 td43"><SPAN class="p83 ft3">enlighet med utkastet till beslut om ändring av artikel 40.7 i Scheng-</SPAN> </TD>
+	<TD class="tr11 td40"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr11 td37"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr11 td41"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD colspan=2 class="tr11 td43"><SPAN class="p82 ft3">enkonventionen. Vidare skall det uttryckligen anges att gränsöverskri-</SPAN> </TD>
+	<TD class="tr11 td40"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr11 td37"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr12 td41"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD colspan=2 class="tr12 td43"><SPAN class="p82 ft3">dande övervakning utan föregående samtycke endast får ske beträf-</SPAN> </TD>
+	<TD class="tr12 td40"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr12 td37"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr10 td41"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD colspan=2 class="tr13 td46"><SPAN class="p84 ft3">fande en misstänkt gärningsman.</SPAN> </TD>
+	<TD class="tr10 td40"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr10 td37"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr25 td38"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr25 td44"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD colspan=2 class="tr25 td36"><SPAN class="p86 ft5"><SPAN class="ft25">Promemorians förslag </SPAN>överensstämmer i allt väsentligt med regering-</SPAN> </TD>
+	<TD class="tr25 td37"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=4 class="tr11 td28"><SPAN class="p87 ft5">ens. I promemorian föreslogs emellertid att gränsöverskridande övervak-</SPAN> </TD>
+	<TD class="tr11 td37"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=4 class="tr12 td28"><SPAN class="p87 ft3">ning av annan än misstänkt gärningsman skall kunna ske om det skäligen</SPAN> </TD>
+	<TD class="tr12 td37"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=4 class="tr11 td28"><SPAN class="p87 ft3">kan antas att åtgärden medverkar till att identifiera eller spåra en miss-</SPAN> </TD>
+	<TD class="tr11 td37"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=4 class="tr11 td28"><SPAN class="p3 ft3">tänkt gärningsman.</SPAN> </TD>
+	<TD class="tr11 td37"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr11 td38"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr11 td44"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD colspan=2 class="tr11 td36"><SPAN class="p86 ft18"><SPAN class="ft25">Remissinstanserna: </SPAN>Justitieombudsmannen <SPAN class="ft5">och </SPAN>Justitiekanslern <SPAN class="ft5">har</SPAN></SPAN> </TD>
+	<TD class="tr11 td37"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=4 class="tr11 td28"><SPAN class="p87 ft3">lämnat förslagen utan erinran. <SPAN class="ft4">Tullverket </SPAN>stöder förslaget och bedömer</SPAN> </TD>
+	<TD class="tr11 td37"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=4 class="tr11 td28"><SPAN class="p87 ft3">det positivt från brottsbekämpningssynpunkt. <SPAN class="ft4">Kustbevakningen </SPAN>ansluter</SPAN> </TD>
+	<TD class="tr11 td37"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=4 class="tr11 td28"><SPAN class="p87 ft3">sig till förslaget men anför att en utvidgning av personkretsen kan ifråga-</SPAN> </TD>
+	<TD class="tr11 td37"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=4 class="tr12 td28"><SPAN class="p87 ft3">sättas ur integritetssynpunkt. Kustbevakningen framhåller emellertid att</SPAN> </TD>
+	<TD class="tr12 td37"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=4 class="tr11 td28"><SPAN class="p87 ft3">spaningsmetoden är allmänt tillämpad och accepterad inrikes. Det är</SPAN> </TD>
+	<TD class="tr11 td37"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=4 class="tr11 td28"><SPAN class="p87 ft3">därmed inte någon principiell skillnad att på samma sätt tillåta övervak-</SPAN> </TD>
+	<TD class="tr11 td37"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=4 class="tr11 td28"><SPAN class="p87 ft5">ning i det internationella polisiära samarbetet, vilket också får anses nöd-</SPAN> </TD>
+	<TD class="tr11 td37"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=4 class="tr11 td28"><SPAN class="p87 ft3">vändigt för att komma till rätta med grövre, gränsöverskridande krimina-</SPAN> </TD>
+	<TD class="tr11 td37"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=4 class="tr11 td28"><SPAN class="p87 ft3">litet. <SPAN class="ft4">Rikspolisstyrelsen </SPAN>tillstyrker förslaget och anser att det bör ge ut-</SPAN> </TD>
+	<TD class="tr11 td37"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=4 class="tr11 td28"><SPAN class="p87 ft3">ökade möjligheter att bedriva det internationella polisiära samarbetet på</SPAN> </TD>
+	<TD class="tr11 td37"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=4 class="tr12 td28"><SPAN class="p87 ft5">ett ändamålsenligt och rationellt sätt. <SPAN class="ft18">Riksåklagaren </SPAN>tillstyrker förslaget</SPAN> </TD>
+	<TD class="tr12 td37"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=4 class="tr11 td28"><SPAN class="p87 ft3">och är allmänt positiv till åtgärder som förbättrar möjligheterna till en</SPAN> </TD>
+	<TD class="tr11 td37"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=4 class="tr11 td28"><SPAN class="p87 ft3">effektiv bekämpning av brott över gränserna samt anför att förslaget inte</SPAN> </TD>
+	<TD class="tr11 td37"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=4 class="tr11 td28"><SPAN class="p87 ft3">torde medföra någon drastisk förändring i förhållande till vad som gäller</SPAN> </TD>
+	<TD class="tr11 td37"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=4 class="tr10 td28"><SPAN class="p87 ft3">idag. Riksåklagaren framhåller emellertid vikten av en helhetssyn i frå-</SPAN> </TD>
+	<TD rowspan=2 class="tr22 td37"><SPAN class="p12 ft3">13</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr26 td38"><SPAN class="p3 ft30">&nbsp;</SPAN> </TD>
+	<TD class="tr26 td44"><SPAN class="p3 ft30">&nbsp;</SPAN> </TD>
+	<TD class="tr26 td47"><SPAN class="p3 ft30">&nbsp;</SPAN> </TD>
+	<TD class="tr26 td40"><SPAN class="p3 ft30">&nbsp;</SPAN> </TD>
+</TR>
+</TABLE>
+</DIV>
+<DIV id="page_14">
+
+
+<DIV>
+<DIV id="id_1">
+<P class="p88 ft3">gan och pekar på att förändringsarbetet i EU:s tredje pelare är inne i en expansiv period och att flera mindre förändringar inte ter sig särskilt ingripande var för sig men att dessa kan få en annan tyngd om de kombineras med ytterligare förändringar.</P>
+<P class="p89 ft28">Skälen för regeringens förslag: <SPAN class="ft21">4 § lagen (2000:343) om internationellt polisiärt samarbete reglerar gränsöverskridande övervakning inom ramen för Schengensamarbetet.</SPAN></P>
+<P class="p89 ft3">Artikel 40 i Schengenkonventionen säkerställer att polisen skall kunna fortsätta att använda sina arbetsmetoder utan hinder av en annan Schengenstats gräns. Den föreslagna utvidgningen av personkretsen innebär utökade möjligheter att utreda grov och gränsöverskridande brottslighet. Förslaget innebär emellertid inte att det införs en ny arbetsmetod för polisen. Innehållet i utkastet till beslut överensstämmer således med de arbetsmetoder som såväl svensk som utländsk polis tillämpar för att utreda grov brottslighet. I flertalet större brottsutredningar förekommer omfattande spaning mot både misstänkta och andra personer som är av intresse i utredningen. Detta innebär att polisen “skuggar” eller på annat sätt iakttar även andra än den misstänkte för att kunna fastställa kontakter med exempelvis misstänkta personer eller för att kartlägga den misstänktes brottsliga verksamhet.</P>
+<P class="p89 ft3">Möjligheten till att bedriva gränsöverskridande övervakning även avseende andra personer än misstänkta förbättrar således polisens möjlighet att bedriva förundersökningar avseende brott som har förgreningar utanför det egna landets gränser och likställer på ett väl avvägt sätt nationella utredningar med internationella när det gäller arbetsmetoder. En sådan möjlighet till utvidgad gränsöverskridande övervakning ökar polisens förmåga att förstärka misstankar om brott eller att avföra personer från utredningen.</P>
+<P class="p90 ft3">Regeringen anser därför att starka skäl talar för att sådan gränsöverskridande övervakning som i dag får utföras mot en misstänkt gärningsman även, under de förutsättningar som anges i utkastet till rådsbeslut, bör kunna utföras mot en annan person än en misstänkt gärningsman. Regeringen menar därför att den personkrets som kan bli föremål för gränsöverskridande övervakning, under vissa särskilt och noga avgränsade förutsättningar, bör utökas till att även omfatta personer som själva inte är misstänkta för brott. Lagrådet har anfört att man finner uttrycket ”betydande skäl” främmande för svenskt lagspråk. Lagrådet menar att en genomgång av de uttryck som används i andra språkversioner av utkastet till beslut, ger vid handen att ett lämpligt uttryck i den svenska lagen skulle vara ”starka skäl”. Dessutom bör, enligt Lagrådet, ordet ”medverkar” lämpligen bytas ut mot ”kan medverka”. Regeringen delar Lagrådets uppfattning och föreslår därför att lagtexten utformas i enlighet med Lagrådets förslag.</P>
+<P class="p91 ft5">Den personkrets som det kan bli fråga om att övervaka är närstående eller bekanta eller andra personer med anknytning till den misstänkte. Rikspolisstyrelsen anser att personkretsen även får anses omfatta även andra personer, bl.a. brottsoffer. Enligt Rikspolisstyrelsen kan det också finnas fall när det är nödvändigt att övervaka t.ex. offer för människosmuggling eller människohandel för att på så sätt identifiera och gripa organisatörerna av den brottsliga verksamheten. Rikspolisstyrelsen anser vidare att även en anhörig eller tredje person som skall överlämna en</P>
+</DIV>
+<DIV id="id_2">
+<P class="p92 ft3">Prop. 2002/03:66</P>
+<P class="p93 ft3">14</P>
+</DIV>
+</DIV>
+</DIV>
+<DIV id="page_15">
+<DIV id="dimg1">
+<INGENBILD zsrc="GQ036615x1.jpg/" id="img1">
+</DIV>
+
+
+<P class="p94 ft21">lösensumma i ett ärende om människorov kan bli föremål för övervak- Prop. 2002/03:66 ning.</P>
+<P class="p48 ft3">Som angetts i avsnitt 4.2.1 innehåller inte beslutet någon närmare definition av vilka personer som skall omfattas av förslaget. Det som krävs är att personen är en annan än den misstänkte och att övervakning skall vara nödvändig för den pågående utredningen och det finns betydande skäl att anta att den övervakade personen kan medverka till att identifiera eller spåra en misstänkt person. De personkategorier som Rikspolisstyrelsen omnämner får således anses innefattas i detta begrepp.</P>
+<P class="p41 ft3">Ändringen av brottskatalogen innebär en komplettering av listan över straffbara handlingar som ger möjlighet till fortsatt övervakning över gräns utan att ett förhandsgodkännande från den berörda staten hunnit inhämtats. De brott som tillfogas listan är typiskt sett brott av en sådan svårhetsgrad och av en sådan gränsöverskridande karaktär att det är motiverat att polisen inte skall behöva avbryta en övervakning av en misstänkt gärningsman om saken är så brådskande att samtycke inte kan inhämtas i förväg.</P>
+<P class="p41 ft3">I lagrådsremissen föreslogs att ordet ”våldtäkt” skulle behållas och att orden ”eller annat grovt sexualbrott” skulle läggas till efter ordet ”våldtäkt”. Enligt Lagrådets mening finns det inte skäl att avvika från formuleringen i rådsbeslutet, så mycket mer som det i paragrafen direkt anges att de där uppräknade brotten är sådana som sägs i artikel 40.7 i konventionen. Regeringen delar Lagrådets bedömning och föreslår därför att ordet ”våldtäkt” i den nuvarande lydelsen ersätts med orden ”grovt sexualbrott”.</P>
+<P class="p95 ft1"><SPAN class="ft1">6</SPAN><SPAN class="ft31">Ikraftträdande</SPAN></P>
+<P class="p96 ft14"><SPAN class="ft32">Regeringens förslag: </SPAN>De föreslagna ändringarna i lagen (2000:343) om internationellt polisiärt samarbete skall träda i kraft den dag som regeringen bestämmer.</P>
+<P class="p97 ft34"><SPAN class="ft33">Promemorians förslag </SPAN>överensstämmer med regeringens. <SPAN class="ft33">Remissinstanserna </SPAN>har ingen erinran mot förslaget.</P>
+<P class="p41 ft26">Skälen till regeringens förslag: <SPAN class="ft3">Sverige och för närvarande ytterligare två medlemsstater har förklarat att ett antagande av beslutet förutsätter godkännande av dess parlament. Det är för närvarande inte möjligt att bedöma när samtliga medlemsstaters parlament har godkänt beslutet och det är därför inte heller möjligt att närmare ange när beslutet kan antas av ministerrådet och när ändringen av den svenska lagstiftningen skall träda ikraft. Av denna anledning föreslår regeringen att de föreslagna ändringarna i lagen (2000:343) om internationellt polisiärt samarbete skall träda i kraft den dag regeringen bestämmer.</SPAN></P>
+<P class="p98 ft3">15</P>
+</DIV>
+<DIV id="page_16">
+
+
+<P class="p35 ft1">7 Ekonomiska konsekvenser <SPAN class="ft35">Prop. 2002/03:66</SPAN></P>
+<P class="p99 ft21">Regeringen gör bedömningen att förslagen inte kommer att innebära ökade kostnader för staten.</P>
+<TABLE cellpadding=0 cellspacing=0 class="t12">
+<TR>
+	<TD class="tr3 td35"><SPAN class="p3 ft1">8</SPAN> </TD>
+	<TD class="tr3 td36"><SPAN class="p81 ft1">Författningskommentar</SPAN> </TD>
+	<TD class="tr3 td37"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=2 class="tr27 td28"><SPAN class="p3 ft25">4 § lagen (2000:343) om internationellt polisiärt samarbete</SPAN> </TD>
+	<TD class="tr27 td37"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=2 class="tr20 td28"><SPAN class="p3 ft3">Ändringarna, som behandlas i avsnitt 5, föranleds av utkastet till beslut</SPAN> </TD>
+	<TD class="tr20 td37"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=2 class="tr13 td28"><SPAN class="p3 ft3">om ändring av artikel 40.1 och 40.7 i Schengenkonventionen.</SPAN> </TD>
+	<TD class="tr13 td37"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=2 class="tr28 td28"><SPAN class="p3 ft18">Andra stycket</SPAN> </TD>
+	<TD class="tr28 td37"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=2 class="tr16 td28"><SPAN class="p3 ft3">Stycket, som är nytt, innebär att utländska tjänstemän under vissa förut-</SPAN> </TD>
+	<TD class="tr16 td37"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=2 class="tr11 td28"><SPAN class="p3 ft3">sättningar får fortsätta en i sin stat påbörjad övervakning av en person</SPAN> </TD>
+	<TD class="tr11 td37"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=2 class="tr11 td28"><SPAN class="p3 ft3">som inte är misstänkt för brott in på svenskt territorium. Det krävs, så-</SPAN> </TD>
+	<TD class="tr11 td37"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=2 class="tr12 td28"><SPAN class="p3 ft3">som är fallet med gränsöverskridande övervakning av misstänkta gär-</SPAN> </TD>
+	<TD class="tr12 td37"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=2 class="tr11 td28"><SPAN class="p3 ft3">ningsmän enligt första stycket, att det i den främmande staten pågår en</SPAN> </TD>
+	<TD class="tr11 td37"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=2 class="tr11 td28"><SPAN class="p3 ft3">utredning om brott som kan föranleda utlämning. Dessutom krävs att</SPAN> </TD>
+	<TD class="tr11 td37"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=2 class="tr11 td28"><SPAN class="p3 ft3">övervakningen är nödvändig för den pågående utredningen och att det</SPAN> </TD>
+	<TD class="tr11 td37"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=2 class="tr11 td28"><SPAN class="p3 ft3">finns starka skäl att anta att åtgärden kan medverka till att identifiera</SPAN> </TD>
+	<TD class="tr11 td37"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=2 class="tr11 td28"><SPAN class="p3 ft3">eller spåra en misstänkt gärningsman. Uttrycket ”starka skäl att anta”</SPAN> </TD>
+	<TD class="tr11 td37"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=2 class="tr12 td28"><SPAN class="p3 ft3">innebär att det inte är tillräckligt att det kan antas att åtgärden kan med-</SPAN> </TD>
+	<TD class="tr12 td37"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=2 class="tr11 td28"><SPAN class="p3 ft3">verka till att identifiera eller spåra en misstänkt gärningsman. För att</SPAN> </TD>
+	<TD class="tr11 td37"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=2 class="tr11 td28"><SPAN class="p3 ft3">gränsöverskridande övervakning skall få ske krävs således att det därut-</SPAN> </TD>
+	<TD class="tr11 td37"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=2 class="tr11 td28"><SPAN class="p3 ft3">över finns andra mer konkreta omständigheter som medför att det finns</SPAN> </TD>
+	<TD class="tr11 td37"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=2 class="tr11 td28"><SPAN class="p3 ft3">starka skäl att anta att övervakningen kan leda till det önskade resultatet.</SPAN> </TD>
+	<TD class="tr11 td37"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr11 td35"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr11 td36"><SPAN class="p1 ft3">De personer som omfattas är närstående och bekanta eller andra perso-</SPAN> </TD>
+	<TD class="tr11 td37"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=2 class="tr12 td28"><SPAN class="p3 ft3">ner med anknytning till den misstänkte, som på sätt som sker i svenska</SPAN> </TD>
+	<TD class="tr12 td37"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=2 class="tr11 td28"><SPAN class="p3 ft3">brottsutredningar övervakas i syfte att utreda misstänkt brottslighet. Änd-</SPAN> </TD>
+	<TD class="tr11 td37"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=2 class="tr11 td28"><SPAN class="p3 ft3">ringen innebär att utländska tjänstemän på svenskt territorium kan fort-</SPAN> </TD>
+	<TD class="tr11 td37"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=2 class="tr11 td28"><SPAN class="p3 ft3">sätta en övervakning som påbörjats i den utländska staten, dvs. “skugga”</SPAN> </TD>
+	<TD class="tr11 td37"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=2 class="tr11 td28"><SPAN class="p3 ft3">eller på annat sätt iaktta även andra än sådana som är misstänkta för brott</SPAN> </TD>
+	<TD class="tr11 td37"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=2 class="tr10 td28"><SPAN class="p3 ft3">för att kunna identifiera eller spåra en misstänkt gärningsman.</SPAN> </TD>
+	<TD class="tr10 td37"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=2 class="tr19 td28"><SPAN class="p3 ft18">Tredje stycket</SPAN> </TD>
+	<TD class="tr19 td37"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=2 class="tr16 td28"><SPAN class="p3 ft3">Tredje stycket, som är nytt, motsvarar i stor utsträckning innehållet i nu-</SPAN> </TD>
+	<TD class="tr16 td37"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=2 class="tr12 td28"><SPAN class="p3 ft3">varande andra stycket. Ändringen innebär en utvidgning av listan över</SPAN> </TD>
+	<TD class="tr12 td37"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=2 class="tr11 td28"><SPAN class="p3 ft3">straffbara handlingar som ger möjlighet till fortsatt övervakning över</SPAN> </TD>
+	<TD class="tr11 td37"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=2 class="tr11 td28"><SPAN class="p3 ft3">gräns utan att ett förhandsgodkännande från den berörda staten hunnit</SPAN> </TD>
+	<TD class="tr11 td37"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=2 class="tr11 td28"><SPAN class="p3 ft3">inhämtats. Bestämmelsen omfattar endast övervakning av den som är</SPAN> </TD>
+	<TD class="tr11 td37"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=2 class="tr11 td28"><SPAN class="p3 ft3">misstänkt för brott.</SPAN> </TD>
+	<TD class="tr11 td37"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr12 td35"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr12 td36"><SPAN class="p1 ft3">Ordet ”våldtäkt” har utgått ur lagtexten och ersatts av uttrycket ”grova</SPAN> </TD>
+	<TD class="tr12 td37"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=2 class="tr11 td28"><SPAN class="p3 ft3">sexualbrott”. De övriga nya straffbara handlingar som omfattas av be-</SPAN> </TD>
+	<TD class="tr11 td37"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=2 class="tr11 td28"><SPAN class="p3 ft3">stämmelsen är förfalskning av betalningsmedel, penningtvätt, grovt</SPAN> </TD>
+	<TD class="tr11 td37"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=2 class="tr11 td28"><SPAN class="p3 ft3">bedrägeri, människosmuggling, olaglig handel med nukleära och radio-</SPAN> </TD>
+	<TD class="tr11 td37"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=2 class="tr18 td28"><SPAN class="p3 ft3">aktiva ämnen, sådan brottslighet som avses i rådets gemensamma åtgärd</SPAN> </TD>
+	<TD class="tr18 td37"><SPAN class="p12 ft3">16</SPAN> </TD>
+</TR>
+</TABLE>
+</DIV>
+<DIV id="page_17">
+
+
+<P class="p66 ft21">av den 21 december 1998 om att göra deltagande i en kriminell organi- Prop. 2002/03:66 sation i EU till ett brott samt terroristbrott enligt rådets rambeslut av den</P>
+<P class="p67 ft21">13 juni 2002 om bekämpande av terrorism. I avsnitt 4.2 ges en utförlig redogörelse för de straffbara handlingar som omfattas av den gemensamma åtgärden och rambeslutet.</P>
+<P class="p100 ft3">17</P>
+</DIV>
+<DIV id="page_18">
+<DIV id="dimg1">
+<INGENBILD zsrc="GQ036618x1.jpg/" id="img1">
+</DIV>
+
+
+<DIV id="id_1">
+<DIV id="id_1_1">
+<P class="p35 ft1">Utkast till rådets beslut</P>
+</DIV>
+<DIV id="id_1_2">
+<P class="p35 ft3">Prop. 2002/03:66</P>
+<P class="p35 ft3">Bilaga 1</P>
+</DIV>
+</DIV>
+<DIV id="id_2">
+<TABLE cellpadding=0 cellspacing=0 class="t13">
+<TR>
+	<TD class="tr18 td48"><SPAN class="p101 ft25">EUROPEISKA</SPAN> </TD>
+	<TD class="tr18 td49"><SPAN class="p102 ft25">Bryssel den 11 juni 2002</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr10 td48"><SPAN class="p101 ft25">UNIONENS RÅD</SPAN> </TD>
+	<TD class="tr10 td49"><SPAN class="p102 ft25">(OR. en)</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr29 td48"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr29 td49"><SPAN class="p102 ft25">9429/02</SPAN> </TD>
+</TR>
+</TABLE>
+<P class="p103 ft25">ENFOPOL 78</P>
+<P class="p104 ft25">COPEN 33</P>
+<P class="p104 ft25">COMIX 373</P>
+<P class="p105 ft25">RÄTTSAKTER OCH ANDRA INSTRUMENT</P>
+<TABLE cellpadding=0 cellspacing=0 class="t14">
+<TR>
+	<TD class="tr10 td32"><SPAN class="p106 ft5">Ärende:</SPAN> </TD>
+	<TD class="tr10 td50"><SPAN class="p106 ft5">Initiativ från Konungariket Belgien, Konungariket Spanien och</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr11 td32"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr11 td50"><SPAN class="p3 ft5">Republiken Frankrike inför antagandet av rådets beslut om ändring av</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr30 td32"><SPAN class="p3 ft36">&nbsp;</SPAN> </TD>
+	<TD class="tr30 td50"><SPAN class="p3 ft37">bestämmelserna i artikel 40.1 och 40.7 i konventionen om tillämpning av</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr30 td32"><SPAN class="p3 ft36">&nbsp;</SPAN> </TD>
+	<TD class="tr30 td50"><SPAN class="p3 ft37">Schengenavtalet av den 14 juni 1985 om gradvis avskaffande av kontroller</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr12 td51"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr12 td52"><SPAN class="p3 ft5">vid de gemensamma gränserna</SPAN> </TD>
+</TR>
+</TABLE>
+<TABLE cellpadding=0 cellspacing=0 class="t15">
+<TR>
+	<TD class="tr21 td53"><SPAN class="p107 ft5">9429/02</SPAN> </TD>
+	<TD class="tr21 td54"><SPAN class="p3 ft3">IR/cs</SPAN> </TD>
+	<TD class="tr21 td55"><SPAN class="p12 ft3">18</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr8 td53"><SPAN class="p108 ft3">DG H II</SPAN> </TD>
+	<TD class="tr8 td54"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr8 td55"><SPAN class="p12 ft38">SV</SPAN> </TD>
+</TR>
+</TABLE>
+</DIV>
+</DIV>
+<DIV id="page_19">
+<DIV id="dimg1">
+<INGENBILD zsrc="GQ036619x1.jpg/" id="img1">
+</DIV>
+
+
+<TABLE cellpadding=0 cellspacing=0 class="t16">
+<TR>
+	<TD class="tr2 td31"><SPAN class="p109 ft26">RÅDETS BESLUT 2002/.../RIF</SPAN> </TD>
+	<TD class="tr2 td20"><SPAN class="p3 ft5">Prop. 2002/03:66</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr10 td31"><SPAN class="p109 ft26">av den</SPAN> </TD>
+	<TD class="tr10 td20"><SPAN class="p3 ft3">Bilaga 1</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr15 td31"><SPAN class="p106 ft3">om ändring av bestämmelserna i artikel 40.1 och 40.7 i konventionen om</SPAN> </TD>
+	<TD class="tr15 td20"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr12 td31"><SPAN class="p110 ft3">tillämpning</SPAN> </TD>
+	<TD class="tr12 td20"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr11 td31"><SPAN class="p110 ft3">av Schengenavtalet av den 14 juni 1985 om gradvis avskaffande</SPAN> </TD>
+	<TD class="tr11 td20"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr10 td31"><SPAN class="p109 ft3">av kontroller vid de gemensamma gränserna</SPAN> </TD>
+	<TD class="tr10 td20"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr31 td31"><SPAN class="p3 ft3">EUROPEISKA UNIONENS RÅD HAR BESLUTAT FÖLJANDE</SPAN> </TD>
+	<TD class="tr31 td20"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr25 td31"><SPAN class="p3 ft3">med beaktande av Fördraget om Europeiska unionen, särskilt artikel 32</SPAN> </TD>
+	<TD class="tr25 td20"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr13 td31"><SPAN class="p3 ft3">och artikel 34.2 c i detta,</SPAN> </TD>
+	<TD class="tr13 td20"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr0 td31"><SPAN class="p3 ft3">med beaktande av Konungariket Belgiens, Konungariket Spaniens och</SPAN> </TD>
+	<TD class="tr0 td20"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr10 td31"><SPAN class="p3 ft3">Republiken Frankrikes initiativ,</SPAN> </TD>
+	<TD class="tr10 td20"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr25 td31"><SPAN class="p3 ft3">med beaktande av Europaparlamentets yttrande, och</SPAN> </TD>
+	<TD class="tr25 td20"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+</TABLE>
+<TABLE cellpadding=0 cellspacing=0 class="t17">
+<TR>
+	<TD class="tr21 td53"><SPAN class="p107 ft5">9429/02</SPAN> </TD>
+	<TD class="tr21 td54"><SPAN class="p3 ft3">IR/cs</SPAN> </TD>
+	<TD class="tr21 td55"><SPAN class="p12 ft3">19</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr8 td53"><SPAN class="p108 ft3">DG H II</SPAN> </TD>
+	<TD class="tr8 td54"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr8 td55"><SPAN class="p12 ft38">SV</SPAN> </TD>
+</TR>
+</TABLE>
+</DIV>
+<DIV id="page_20">
+<DIV id="dimg1">
+<INGENBILD zsrc="GQ036620x1.jpg/" id="img1">
+</DIV>
+
+
+<DIV id="id_1">
+<TABLE cellpadding=0 cellspacing=0 class="t18">
+<TR>
+	<TD class="tr9 td31"><SPAN class="p3 ft3">av följande skäl:</SPAN> </TD>
+	<TD class="tr9 td20"><SPAN class="p3 ft5">Prop. 2002/03:66</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr12 td31"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr12 td20"><SPAN class="p3 ft3">Bilaga 1</SPAN> </TD>
+</TR>
+</TABLE>
+<P class="p17 ft3"><SPAN class="ft5">(1)</SPAN><SPAN class="ft39">Bestämmelserna i konventionen om tillämpning av Schengenavtalet</SPAN></P>
+<P class="p111 ft3">av den 14 juni 1985 om gradvis avskaffande av kontroller vid de gemensamma gränserna<SPAN class="ft40">1 </SPAN>bör ändras vad gäller övervakning över gränser, och tillämpningsområdet bör utvidgas så att resultatet av förundersökningar förbättras, i synnerhet när det gäller gärningar i samband med organiserad brottslighet.</P>
+<P class="p112 ft3"><SPAN class="ft5">(2)</SPAN><SPAN class="ft39">Förenade kungariket deltar i detta beslut i enlighet med artikel 5 i det protokoll om införlivande av Schengenregelverket inom Europeiska unionens ramar som är fogat till Fördraget om Europeiska unionen och Fördraget om upprättandet av Europeiska gemenskapen, och artikel 8.2 i rådets beslut 2000/365/EG av</SPAN></P>
+<P class="p113 ft3">den 29 maj 2000 om en begäran från Förenade konungariket Stor-</P>
+<P class="p114 ft14">britannien och Nordirland om att få delta i vissa bestämmelser i Schengenregelverket.<SPAN class="ft41">2</SPAN></P>
+<P class="p115 ft3"><SPAN class="ft5">(3)</SPAN><SPAN class="ft39">Vad gäller Island och Norge utgör detta beslut en utveckling, i enlighet med det avtal som har ingåtts mellan Europeiska unionens råd och Republiken Island och Konungariket Norge om dessa båda staters associering till genomförandet, tillämpningen och utvecklingen av Schengenregelverket, av de bestämmelser i Schengenregelverket som omfattas av artikel 1 H i rådets</SPAN></P>
+<P class="p116 ft21">beslut 1999/437/EG av den 17 maj 1999 om vissa tillämpningsföreskrifter för det avtalet.<SPAN class="ft42">3</SPAN></P>
+</DIV>
+<DIV id="id_2">
+<DIV id="id_2_1">
+<P class="p35 ft43">1</P>
+<P class="p117 ft43">2</P>
+<P class="p118 ft43">3</P>
+</DIV>
+<DIV id="id_2_2">
+<P class="p17 ft44">EGT L 239, 22.9.2000, s. 19. EGT L 131, 1.6.2000, s. 43. EGT L 176, 10.7.1999, s. 31.</P>
+</DIV>
+</DIV>
+<DIV id="id_3">
+<TABLE cellpadding=0 cellspacing=0 class="t19">
+<TR>
+	<TD class="tr21 td53"><SPAN class="p107 ft5">9429/02</SPAN> </TD>
+	<TD class="tr21 td54"><SPAN class="p3 ft3">IR/cs</SPAN> </TD>
+	<TD class="tr21 td55"><SPAN class="p12 ft3">20</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr8 td53"><SPAN class="p108 ft3">DG H II</SPAN> </TD>
+	<TD class="tr8 td54"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr8 td55"><SPAN class="p12 ft38">SV</SPAN> </TD>
+</TR>
+</TABLE>
+</DIV>
+</DIV>
+<DIV id="page_21">
+<DIV id="dimg1">
+<INGENBILD zsrc="GQ036621x1.jpg/" id="img1">
+</DIV>
+
+
+<TABLE cellpadding=0 cellspacing=0 class="t16">
+<TR>
+	<TD class="tr9 td31"><SPAN class="p3 ft3">HÄRIGENOM FÖRESKRIVS FÖLJANDE.</SPAN> </TD>
+	<TD class="tr9 td20"><SPAN class="p3 ft5">Prop. 2002/03:66</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr10 td31"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr10 td20"><SPAN class="p3 ft3">Bilaga 1</SPAN> </TD>
+</TR>
+</TABLE>
+<P class="p119 ft4">Artikel 1</P>
+<P class="p120 ft21">Bestämmelserna i artikel 40 i konventionen om tillämpning av Schengenavtalet av den 14 juni 1985 om gradvis avskaffande av kontroller vid de gemensamma gränserna skall ändras på följande sätt:</P>
+<P class="p121 ft3"><SPAN class="ft5">1.</SPAN><SPAN class="ft45">Punkt 1 första stycket skall ersättas med följande:</SPAN></P>
+<P class="p122 ft3">"1. Polismän i den ena medlemsstaten vilka, inom ramen för en förundersökning, i sitt eget land håller en person under uppsikt som misstänks för delaktighet i ett brott som kan medföra utlämning eller, som en nödvändig del av en förundersökning, eftersom det finns betydande skäl att anta att personen kan medverka till att identifiera eller spåra en sådan person, får fortsätta sin övervakning på den andra medlemsstatens territorium om denna samtyckt till övervakning över gränsen på grundval av en i förväg gjord framställning om bistånd med underbyggda skäl. Samtycket får vara förenat med vissa villkor."</P>
+<TABLE cellpadding=0 cellspacing=0 class="t20">
+<TR>
+	<TD class="tr21 td53"><SPAN class="p107 ft5">9429/02</SPAN> </TD>
+	<TD class="tr21 td54"><SPAN class="p3 ft3">IR/cs</SPAN> </TD>
+	<TD class="tr21 td55"><SPAN class="p12 ft3">21</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr8 td53"><SPAN class="p108 ft3">DG H II</SPAN> </TD>
+	<TD class="tr8 td54"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr8 td55"><SPAN class="p12 ft38">SV</SPAN> </TD>
+</TR>
+</TABLE>
+</DIV>
+<DIV id="page_22">
+<DIV id="dimg1">
+<INGENBILD zsrc="GQ036622x1.jpg/" id="img1">
+</DIV>
+
+
+<TABLE cellpadding=0 cellspacing=0 class="t21">
+<TR>
+	<TD class="tr9 td33"><SPAN class="p123 ft5">2.</SPAN> </TD>
+	<TD class="tr9 td34"><SPAN class="p124 ft3">Punkt 7 skall ändras på följande sätt:</SPAN> </TD>
+	<TD class="tr9 td20"><SPAN class="p3 ft5">Prop. 2002/03:66</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr10 td33"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr10 td34"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr10 td20"><SPAN class="p3 ft3">Bilaga 1</SPAN> </TD>
+</TR>
+</TABLE>
+<P class="p125 ft14"><SPAN class="ft3">a)</SPAN><SPAN class="ft46">I tredje strecksatsen skall ordet "Våldtäkt" ersättas med orden "Grovt sexualbrott".</SPAN></P>
+<P class="p126 ft21"><SPAN class="ft3">b)</SPAN><SPAN class="ft47">I femte strecksatsen skall ordet "penningförfalskning" ersättas med "penningförfalskning och förfalskning av betalningsmedel".</SPAN></P>
+<P class="p127 ft3"><SPAN class="ft5">c)</SPAN><SPAN class="ft48">Följande strecksatser skall läggas till:</SPAN></P>
+<P class="p128 ft3">"– Grovt bedrägeri.</P>
+<P class="p129 ft3"><SPAN class="ft5">–</SPAN><SPAN class="ft49">Människosmuggling.</SPAN></P>
+<P class="p129 ft3"><SPAN class="ft5">–</SPAN><SPAN class="ft49">Penningtvätt.</SPAN></P>
+<P class="p130 ft3"><SPAN class="ft5">–</SPAN><SPAN class="ft49">Olaglig handel med nukleära och radioaktiva ämnen.</SPAN></P>
+<P class="p131 ft21"><SPAN class="ft5">–</SPAN><SPAN class="ft50">Deltagande i en kriminell organisation enligt bestämmelserna i rådets gemensamma</SPAN></P>
+<P class="p132 ft21">åtgärd 98/733/RIF av den 21 december 1998 om att göra deltagande i en kriminell organisation i Europeiska unionens medlemsstater till ett brott.</P>
+<P class="p133 ft14"><SPAN class="ft5">–</SPAN><SPAN class="ft51">Terroristbrott enligt rådets rambeslut 2002/.../RIF av den ... om bekämpande av terrorism".</SPAN></P>
+<TABLE cellpadding=0 cellspacing=0 class="t22">
+<TR>
+	<TD class="tr21 td53"><SPAN class="p107 ft5">9429/02</SPAN> </TD>
+	<TD class="tr21 td54"><SPAN class="p3 ft3">IR/cs</SPAN> </TD>
+	<TD class="tr21 td55"><SPAN class="p12 ft3">22</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr8 td53"><SPAN class="p108 ft3">DG H II</SPAN> </TD>
+	<TD class="tr8 td54"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr8 td55"><SPAN class="p12 ft38">SV</SPAN> </TD>
+</TR>
+</TABLE>
+</DIV>
+<DIV id="page_23">
+<DIV id="dimg1">
+<INGENBILD zsrc="GQ036623x1.jpg/" id="img1">
+</DIV>
+
+
+<TABLE cellpadding=0 cellspacing=0 class="t23">
+<TR>
+	<TD class="tr2 td56"><SPAN class="p3 ft4">Artikel 2</SPAN> </TD>
+	<TD class="tr2 td20"><SPAN class="p3 ft5">Prop. 2002/03:66</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr12 td56"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr12 td20"><SPAN class="p3 ft3">Bilaga 1</SPAN> </TD>
+</TR>
+</TABLE>
+<P class="p134 ft3"><SPAN class="ft5">1.</SPAN><SPAN class="ft45">Detta beslut är inte bindande för Irland.</SPAN></P>
+<P class="p121 ft3"><SPAN class="ft5">2.</SPAN><SPAN class="ft45">Detta beslut skall inte tillämpas på Gibraltar.</SPAN></P>
+<P class="p135 ft14"><SPAN class="ft5">3.</SPAN><SPAN class="ft52">Detta beslut skall tillämpas på Kanalöarna endast om inte annat följer av artikel 5.1 i rådets beslut 2000/365/EG.</SPAN></P>
+<P class="p136 ft4">Artikel 3</P>
+<P class="p120 ft21">Med undantag av artikel 1.2 c sjätte strecksatsen får detta beslut verkan samma dag som det offentliggörs i Europeiska gemenskapernas officiella tidning.</P>
+<P class="p137 ft3">Artikel 1.2 c femte strecksatsen får verkan för Norge den 1 april 2003.</P>
+<P class="p138 ft3">Artikel 1.2 c sjätte strecksatsen får verkan den 1 januari 2003.</P>
+<P class="p139 ft3">Utfärdat i ... den ...</P>
+<P class="p140 ft14">På rådets vägnar Ordförande</P>
+<TABLE cellpadding=0 cellspacing=0 class="t24">
+<TR>
+	<TD class="tr21 td53"><SPAN class="p107 ft5">9429/02</SPAN> </TD>
+	<TD class="tr21 td54"><SPAN class="p3 ft3">IR/cs</SPAN> </TD>
+	<TD class="tr21 td55"><SPAN class="p12 ft3">23</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr8 td53"><SPAN class="p108 ft3">DG H II</SPAN> </TD>
+	<TD class="tr8 td54"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr8 td55"><SPAN class="p12 ft38">SV</SPAN> </TD>
+</TR>
+</TABLE>
+</DIV>
+<DIV id="page_24">
+
+
+<DIV>
+<DIV id="id_1">
+<DIV id="id_1_1">
+<P class="p35 ft1">Promemorians lagförslag</P>
+<P class="p141 ft14">Härigenom föreskrivs att 4 § lagen (2000:343) om internationellt polisiärt samarbete skall ha följande lydelse.</P>
+<TABLE cellpadding=0 cellspacing=0 class="t5">
+<TR>
+	<TD class="tr18 td21"><SPAN class="p3 ft4">Nuvarande lydelse</SPAN> </TD>
+	<TD class="tr18 td22"><SPAN class="p3 ft18">Föreslagen lydelse</SPAN> </TD>
+</TR>
+</TABLE>
+<P class="p142 ft3">4 §</P>
+</DIV>
+<DIV id="id_1_2">
+<DIV id="id_1_2_1">
+<P class="p30 ft3">Om det i en stat som avses med bestämmelsen i 1 § första stycket pågår en utredning om ett brott som kan föranleda utlämning, får utländsk tjänsteman fortsätta en i sin stat påbörjad övervakning av en misstänkt gärningsman in på svenskt territorium, om en behörig svensk myndighet samtycker till det.</P>
+<P class="p143 ft3">Övervakning får ske utan föregående samtycke, om saken är så brådskande att samtycke inte kan inhämtas i förväg och den utländska utredningen avser misstanke om sådana brott som sägs i artikel 40.7 i Schengenkonventionen, nämligen mord, dråp, <SPAN class="ft4">våldtäkt</SPAN>, mordbrand, penningförfalskning, grov stöld och grovt häleri, utpressning, människorov och tagande av gisslan, olaglig människohandel, olaglig handel med narkotika och psykotropa ämnen, brott mot lagbestämmelser angående vapen och sprängämnen, ödeläggelse genom användande av sprängämnen samt olaglig transport av giftigt och skadligt avfall.</P>
+</DIV>
+<DIV id="id_1_2_2">
+<P class="p89 ft3">Om det i en stat som avses med bestämmelsen i 1 § första stycket pågår en utredning om ett brott som kan föranleda utlämning, får utländsk tjänsteman fortsätta i sin stat påbörjad övervakning av en misstänkt gärningsman in på svenskt territorium, om en behörig svensk myndighet samtycker till det.</P>
+<P class="p30 ft18">Under samma förutsättningar får fortsatt övervakning ske även beträffande en annan person än den misstänkte gärningsmannen om det är nödvändigt för den pågående utredningen och det skäligen kan antas att åtgärden medverkar till att identifiera eller spåra en misstänkt gärningsman.</P>
+<P class="p91 ft18"><SPAN class="ft5">Övervakning </SPAN>av misstänkt gärningsman <SPAN class="ft5">får ske utan föregående samtycke, om saken är så brådskande att samtycke inte kan inhämtas i förväg och den utländska utredningen avser misstanke om sådana brott som sägs i artikel 40.7 i Schengenkonventionen, nämligen mord, dråp, </SPAN>grovt sexualbrott<SPAN class="ft5">, mordbrand, penningförfalskning </SPAN>och förfalskning av betalningsmedel<SPAN class="ft5">, grov stöld och grovt häleri, utpressning, människorov och tagande av gisslan, olaglig människohandel, olaglig handel med narkotika och psykotropa ämnen, brott mot lagbestämmelser angående vapen och sprängämnen, ödeläggelse genom användande av sprängämnen, olaglig transport av giftigt och skadligt avfall, </SPAN>grovt bedrägeri, människosmuggling, penningtvätt,</P>
+</DIV>
+</DIV>
+</DIV>
+<DIV id="id_2">
+<P class="p35 ft3">Prop. 2002/03:66</P>
+<P class="p35 ft3">Bilaga 2</P>
+<P class="p144 ft3">24</P>
+</DIV>
+</DIV>
+</DIV>
+<DIV id="page_25">
+<DIV id="dimg1">
+<INGENBILD zsrc="GQ036625x1.jpg/" id="img1">
+</DIV>
+
+
+<TABLE cellpadding=0 cellspacing=0 class="t25">
+<TR>
+	<TD colspan=2 class="tr2 td57"><SPAN class="p3 ft4">olaglig handel med nukleära och</SPAN> </TD>
+	<TD class="tr2 td20"><SPAN class="p3 ft5">Prop. 2002/03:66</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr11 td58"><SPAN class="p3 ft18">radioaktiva</SPAN> </TD>
+	<TD class="tr11 td59"><SPAN class="p145 ft4">ämnen, deltagande i</SPAN> </TD>
+	<TD class="tr11 td20"><SPAN class="p3 ft3">Bilaga 2</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=2 class="tr11 td57"><SPAN class="p3 ft4">kriminell organisation enligt be-</SPAN> </TD>
+	<TD class="tr11 td20"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=2 class="tr11 td57"><SPAN class="p3 ft4">stämmelserna i rådets gemen-</SPAN> </TD>
+	<TD class="tr11 td20"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=2 class="tr12 td57"><SPAN class="p3 ft4">samma åtgärd 98/733/RIF av den</SPAN> </TD>
+	<TD class="tr12 td20"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=2 class="tr11 td57"><SPAN class="p3 ft4">21 december 1998 om att göra</SPAN> </TD>
+	<TD class="tr11 td20"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=2 class="tr11 td57"><SPAN class="p3 ft4">deltagande i en kriminell organi-</SPAN> </TD>
+	<TD class="tr11 td20"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr12 td58"><SPAN class="p3 ft4">sation i</SPAN> </TD>
+	<TD class="tr12 td59"><SPAN class="p145 ft4">Europeiska unionens</SPAN> </TD>
+	<TD class="tr12 td20"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+</TABLE>
+<P class="p146 ft4">medlemsstater till ett brott samt terroristbrott enligt rådets rambeslut 2002/475/RIF av den 13 juni 2002 om bekämpande av terrorism.</P>
+<P class="p41 ft3">För att övervakningen skall få ske utan föregående samtycke krävs också att överskridandet av gränsen i samband med övervakningen anmäls till en behörig svensk myndighet så snart det kan ske, och att den utländska myndigheten utan dröjsmål begär bistånd i utredningen.</P>
+<P class="p41 ft21">Övervakningen skall genast upphöra om en behörig svensk myndighet begär det. Övervakning som sägs i andra stycket skall även upphöra om samtycke inte har lämnats inom fem timmar från gränsöverskridandet.</P>
+<P class="p147 ft3">Denna lag träder i kraft den dag regeringen bestämmer.</P>
+<P class="p148 ft3">25</P>
+</DIV>
+<DIV id="page_26">
+
+
+<TABLE cellpadding=0 cellspacing=0 class="t1">
+<TR>
+	<TD class="tr9 td60"></TD>
+	<TD colspan=2 rowspan=2 class="tr3 td31"><SPAN class="p3 ft1">Förteckning över remissinstanserna</SPAN> </TD>
+	<TD class="tr9 td20"><SPAN class="p3 ft5">Prop. 2002/03:66</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr32 td60"></TD>
+	<TD rowspan=2 class="tr10 td20"><SPAN class="p3 ft3">Bilaga 3</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr17 td60"></TD>
+	<TD class="tr17 td61"><SPAN class="p3 ft24">&nbsp;</SPAN> </TD>
+	<TD class="tr17 td62"><SPAN class="p3 ft24">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr9 td60"></TD>
+	<TD class="tr9 td61"><SPAN class="p3 ft3">1.</SPAN> </TD>
+	<TD class="tr9 td62"><SPAN class="p1 ft3">Riksdagens ombudsmän</SPAN> </TD>
+	<TD class="tr9 td20"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr12 td60"></TD>
+	<TD class="tr12 td61"><SPAN class="p3 ft3">2.</SPAN> </TD>
+	<TD class="tr12 td62"><SPAN class="p1 ft3">Justitiekanslern</SPAN> </TD>
+	<TD class="tr12 td20"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr11 td60"></TD>
+	<TD class="tr11 td61"><SPAN class="p3 ft3">3.</SPAN> </TD>
+	<TD class="tr11 td62"><SPAN class="p1 ft3">Rikspolisstyrelsen</SPAN> </TD>
+	<TD class="tr11 td20"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr11 td60"></TD>
+	<TD class="tr11 td61"><SPAN class="p3 ft3">4.</SPAN> </TD>
+	<TD class="tr11 td62"><SPAN class="p1 ft3">Riksåklagaren</SPAN> </TD>
+	<TD class="tr11 td20"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr11 td60"></TD>
+	<TD class="tr11 td61"><SPAN class="p3 ft3">5.</SPAN> </TD>
+	<TD class="tr11 td62"><SPAN class="p1 ft3">Tullverket</SPAN> </TD>
+	<TD class="tr11 td20"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr10 td60"></TD>
+	<TD class="tr10 td61"><SPAN class="p3 ft3">6.</SPAN> </TD>
+	<TD class="tr10 td62"><SPAN class="p1 ft3">Kustbevakningen</SPAN> </TD>
+	<TD class="tr10 td20"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+</TABLE>
+<P class="p149 ft3">26</P>
+</DIV>
+<DIV id="page_27">
+
+
+<DIV id="id_1">
+<TABLE cellpadding=0 cellspacing=0 class="t26">
+<TR>
+	<TD class="tr9 td60"></TD>
+	<TD rowspan=2 class="tr3 td31"><SPAN class="p3 ft1">Lagrådsremissens lagförslag</SPAN> </TD>
+	<TD class="tr9 td20"><SPAN class="p3 ft5">Prop. 2002/03:66</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr32 td60"></TD>
+	<TD rowspan=2 class="tr10 td20"><SPAN class="p3 ft3">Bilaga 4</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr17 td60"></TD>
+	<TD class="tr17 td31"><SPAN class="p3 ft24">&nbsp;</SPAN> </TD>
+</TR>
+</TABLE>
+<P class="p150 ft17">Lag om ändring i lagen (2000:343) om internationellt polisiärt samarbete</P>
+<P class="p27 ft14">Härigenom föreskrivs att 4 § lagen (2000:343) om internationellt polisiärt samarbete skall ha följande lydelse.</P>
+<TABLE cellpadding=0 cellspacing=0 class="t27">
+<TR>
+	<TD class="tr18 td21"><SPAN class="p3 ft4">Nuvarande lydelse</SPAN> </TD>
+	<TD class="tr18 td22"><SPAN class="p3 ft18">Föreslagen lydelse</SPAN> </TD>
+</TR>
+</TABLE>
+<P class="p28 ft3">4 §</P>
+<P class="p29 ft3">Om det i en stat som avses med bestämmelsen i 1 § första stycket pågår en utredning om ett brott som kan föranleda utlämning, får utländska tjänstemän fortsätta en i sin stat påbörjad övervakning av en misstänkt gärningsman in på svenskt territorium, om en behörig svensk myndighet samtycker till det.</P>
+</DIV>
+<DIV id="id_2">
+<DIV id="id_2_1">
+<P class="p30 ft3">Övervakningen får ske utan föregående samtycke, om saken är så brådskande att samtycke inte kan inhämtas i förväg och den utländska utredningen avser misstanke om sådana brott som sägs i artikel 40.7 i Schengenkonventionen, nämligen mord, dråp, våldtäkt, mordbrand, penningförfalskning, grov stöld <SPAN class="ft4">och </SPAN>grovt häleri, utpressning, människorov och tagande av gisslan, olaglig människohandel, olaglig handel med narkotika och psykotropa ämnen, brott mot lagbestämmelser angående vapen och sprängämnen, ödeläggelse genom användande av sprängämnen <SPAN class="ft4">samt </SPAN>olaglig transport av giftigt och skadligt avfall. För att övervakningen skall få ske utan föregående samtycke krävs också att överskridandet av grän-</P>
+</DIV>
+<DIV id="id_2_2">
+<P class="p30 ft18">Under de förutsättningar som anges i första stycket får sådan fortsatt övervakning även ske beträffande en annan person än en misstänkt gärningsman, om det är nödvändigt för den pågående utredningen och det finns betydande skäl att anta att åtgärden medverkar till att identifiera eller spåra en misstänkt gärningsman.</P>
+<P class="p17 ft18"><SPAN class="ft5">Övervakningen </SPAN>av en misstänkt gärningsman <SPAN class="ft5">får ske utan föregående samtycke, om saken är så brådskande att samtycke inte kan inhämtas i förväg och den utländska utredningen avser misstanke om sådana brott som sägs i artikel 40.7 i Schengenkonventionen, nämligen mord, dråp, våldtäkt </SPAN>eller annat grovt sexualbrott<SPAN class="ft5">, mordbrand, penningförfalskning </SPAN>och förfalskning av betalningsmedel<SPAN class="ft5">, grov stöld</SPAN>, <SPAN class="ft5">grovt häleri, </SPAN>penningtvätt<SPAN class="ft5">, </SPAN>grovt bedrägeri<SPAN class="ft5">, utpressning, människorov och tagande av gisslan, olaglig människohandel, </SPAN>människosmuggling<SPAN class="ft5">, olaglig handel med narkotika och psykotropa ämnen, brott mot lagbestämmelser angående vapen och sprängämnen, ödeläggelse genom användande av sprängämnen</SPAN>,</P>
+</DIV>
+</DIV>
+<DIV id="id_3">
+<P class="p35 ft3">27</P>
+</DIV>
+</DIV>
+<DIV id="page_28">
+<DIV id="dimg1">
+<INGENBILD zsrc="GQ036628x1.jpg/" id="img1">
+</DIV>
+
+
+<DIV id="id_1">
+<DIV id="id_1_1">
+<P class="p17 ft3">sen i samband med övervakningen anmäls till en behörig svensk myndighet så snart det kan ske, och att den utländska myndigheten utan dröjsmål begär bistånd i utredningen.</P>
+<P class="p151 ft3">Övervakningen skall genast upphöra om en behörig svensk myndighet begär det. Övervakning som sägs i <SPAN class="ft4">andra </SPAN>stycket skall även upphöra om samtycke inte har lämnats inom fem timmar från gränsöverskridandet.</P>
+</DIV>
+<DIV id="id_1_2">
+<P class="p35 ft21">olaglig transport av giftigt och Prop. 2002/03:66 skadligt avfall, <SPAN class="ft20">olaglig handel med </SPAN>Bilaga 4 <SPAN class="ft20">nukleära och radioaktiva ämnen,</SPAN></P>
+<P class="p36 ft4">sådan brottslighet som avses i rådets gemensamma åtgärd 98/733/RIF av den 21 december 1998 om att göra deltagande i en kriminell organisation i Europeiska unionens medlemsstater till ett brott samt terroristbrott enligt rådets rambeslut 2002/475/RIF av den 13 juni 2002 om bekämpande av terrorism<SPAN class="ft3">. För att övervakningen skall få ske utan föregående samtycke krävs också att överskridandet av gränsen i samband med övervakningen anmäls till en behörig svensk myndighet så snart det kan ske, och att den utländska myndigheten utan dröjsmål begär bistånd i utredningen.</SPAN></P>
+<P class="p152 ft3">Övervakningen skall genast upphöra om en behörig svensk myndighet begär det. Övervakning som sägs i <SPAN class="ft4">tredje </SPAN>stycket skall även upphöra om samtycke inte har lämnats inom fem timmar från gränsöverskridandet.</P>
+</DIV>
+</DIV>
+<DIV id="id_2">
+<P class="p38 ft3">Denna lag träder i kraft den dag regeringen bestämmer.</P>
+<P class="p153 ft3">28</P>
+</DIV>
+</DIV>
+<DIV id="page_29">
+
+
+<DIV id="id_1">
+<DIV id="id_1_1">
+<P class="p35 ft1">Lagrådets yttrande</P>
+</DIV>
+<DIV id="id_1_2">
+<P class="p35 ft3">Prop. 2002/03:66</P>
+<P class="p35 ft3">Bilaga 5</P>
+</DIV>
+</DIV>
+<DIV id="id_2">
+<P class="p38 ft53">Utdrag ur protokoll vid sammanträde <NOBR>2003-03-25</NOBR></P>
+<P class="p154 ft55"><SPAN class="ft54">Närvarande: </SPAN>f.d. justitierådet Hans Danelius, regeringsrådet Gustaf Sandström, justitierådet Dag Victor.</P>
+<P class="p155 ft55">Enligt en lagrådsremiss den 20 mars 2003 (Justitiedepartementet) har regeringen beslutat inhämta Lagrådets yttrande över förslag till lag om ändring i lagen (2000:343) om internationellt polisiärt samarbete.</P>
+<P class="p156 ft53">Förslaget har inför Lagrådet föredragits av ämnesrådet Stefan</P>
+<P class="p157 ft53">Johansson och ämnessakkunnige Sören Clerton.</P>
+<P class="p158 ft53">Förslaget föranleder följande yttrande av <SPAN class="ft56">Lagrådet</SPAN>:</P>
+<P class="p158 ft53">4 §</P>
+<P class="p159 ft55">I andra stycket anges om villkor för att övervakning skall få ske av någon som inte är misstänkt för brott bl.a. att det finns betydande skäl att anta att åtgärden medverkar till att identifiera eller spåra en misstänkt gärningsman.</P>
+<P class="p160 ft55">Lagrådet finner uttrycket ”betydande skäl” främmande för svenskt lagspråk. En genomgång av de uttryck som används i andra språkversioner av det beslut av Rådet som föranlett förslaget (<SPAN class="ft57">”serious reason to believe”, ”de sérieuses raisons de penser”, ernsthaft anzunehmen ist”, ”en stærk formodning”, ”een ernstig vermoeden bestaat”, ”una seria presunción”, ”fondati motivi”</SPAN>) ger vid handen att</P>
+<P class="p161 ft3">29</P>
+</DIV>
+</DIV>
+<DIV id="page_30">
+
+
+<DIV id="id_1">
+<DIV id="id_1_1">
+<P class="p162 ft55">ett lämpligt uttryck i den svenska lagen skulle vara ”starka skäl”. Dessutom bör enligt Lagrådets mening i den föreslagna texten ”medverkar” lämpligen utbytas mot ”kan medverka”, en justering som också har stöd i andra språkversioner (<SPAN class="ft57">”can assist”, ”peut conduire”, ”führen kann”, ”kan bidrage”, ”kan bijdragen”, ”pueda contribuir”,</SPAN></P>
+<P class="p163 ft55"><SPAN class="ft58">”possa condurre”</SPAN>). Lydelsen bör alltså lämpligen bli ”- - - det finns starka skäl att anta att åtgärden kan medverka till att - - <NOBR>-”.</NOBR></P>
+<P class="p164 ft55">I tredje stycket har orden ”eller annat grovt sexualbrott” tillfogats efter ordet ”våldtäkt”. Bakgrunden är Rådets beslut vari emellertid föreskrivs att bestämmelserna i artikel 40.7 i konventionen om tillämpning av Schengenavtalet skall ändras bl.a. på så sätt att ordet ”Våldtäkt” ersätts med orden ”Grovt sexualbrott”. Det finns enligt Lagrådets mening inte skäl att här avvika från formuleringen i Rådets beslut, så mycket mer som det i paragrafen direkt anges att de där uppräknade brotten är sådana som sägs i artikel 40.7 i konventionen.</P>
+<P class="p165 ft55">Lagrådet föreslår därför att ordet ”våldtäkt” i den nuvarande lydelsen ersätts med orden ”grovt sexualbrott”.</P>
+</DIV>
+<DIV id="id_1_2">
+<P class="p35 ft3">Prop. 2002/03:66</P>
+<P class="p35 ft3">Bilaga 5</P>
+</DIV>
+</DIV>
+<DIV id="id_2">
+<P class="p35 ft3">30</P>
+</DIV>
+</DIV>
+<DIV id="page_31">
+<DIV id="dimg1">
+<INGENBILD zsrc="GQ036631x1.jpg/" id="img1">
+</DIV>
+
+
+<TABLE cellpadding=0 cellspacing=0 class="t1">
+<TR>
+	<TD rowspan=2 class="tr3 td31"><SPAN class="p3 ft1">Justitiedepartementet</SPAN> </TD>
+	<TD class="tr22 td20"><SPAN class="p3 ft5">Prop. 2002/03:66</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr33 td20"><SPAN class="p3 ft59">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr15 td31"><SPAN class="p3 ft3">Utdrag ur protokoll vid regeringssammanträde den 10 april 2003</SPAN> </TD>
+	<TD class="tr15 td20"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr25 td31"><SPAN class="p3 ft3">Närvarande: statsministern Persson, ordförande, och statsråden Winberg,</SPAN> </TD>
+	<TD class="tr25 td20"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr11 td31"><SPAN class="p3 ft3">Ulvskog, Lindh, Sahlin, Pagrotsky, Östros, Messing, Engqvist, Lövdén,</SPAN> </TD>
+	<TD class="tr11 td20"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr11 td31"><SPAN class="p3 ft3">Ringholm, Bodström, Karlsson J. O., Sommestad, Karlsson H., Nykvist,</SPAN> </TD>
+	<TD class="tr11 td20"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr10 td31"><SPAN class="p3 ft3">Andnor, Nuder, Johansson, Hallengren, Björklund</SPAN> </TD>
+	<TD class="tr10 td20"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr25 td31"><SPAN class="p3 ft3">Föredragande: Thomas Bodström</SPAN> </TD>
+	<TD class="tr25 td20"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+</TABLE>
+<P class="p166 ft21">Regeringen beslutar proposition Sveriges antagande av beslut om ändring av artikel 40.1 och 40.7 i Schengenkonventionen samt ändring i lagen (2000:343) om internationellt polisiärt samarbete</P>
+<P class="p167 ft3">31</P>
+</DIV>
+
+</div><style>
+
+
+TD,TD.p2h {
+zzzfont-size:90%;
+zzzmargin-right:2px;
+zzzoverflow:visable;
+zzzword-wrap: break-word;
+}
+
+P {
+zdisplay:block;
+}
+
+.divbreak {
+clear:both;
+display:block;
+zwidth: 100%;
+zheight: 1px;
+zword-wrap: break-word;
+}
+
+
+.xecp {
+  display:block;
+  margin: 0px !important;
+  padding: 0px !important;
+  
+}
+
+.ec {
+  border-style:solid;
+  border-width:1px;
+  display:block;
+  margin: 0px !important;
+  padding: 0px !important;
+}
+
+.TOPS {
+  overflow:visable;
+  margin:2px;
+  width:690px !important;
+}
+
+</style>

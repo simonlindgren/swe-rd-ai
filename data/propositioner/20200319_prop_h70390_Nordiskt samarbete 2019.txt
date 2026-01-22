@@ -1,0 +1,1486 @@
+SEARCH TERM: artificiell intelligens
+DOCUMENT ID: h70390
+TITLE: Nordiskt samarbete 2019
+TYPE: prop
+SUBTYPE: skr
+DATE: 2020-03-19
+PARLIAMENTARY YEAR: 2019/20
+ORGANISATION: Utrikesdepartementet
+STATUS: Hänvisad
+DOWNLOADED: 2026-01-22 10:26:09
+================================================================================
+
+<div style="margin:3px;">
+<STYLE type="text/css">
+
+body {margin-top: 0px;margin-left: 0px;}
+
+#page_1 {position:relative; overflow: hidden;z:b;margin:10px 0px 21px 10px ;padding: 0px;border: none;width: 766px;}
+
+#page_1 #p1dimg1 {position:absolute;top:0px;left:546px;z-index:-1;width:54px;height:97px;}
+#page_1 #p1dimg1 #p1img1 {width:54px;height:97px;}
+
+
+
+
+#page_2 {position:relative; overflow: hidden;z:b;margin:15px 0px 21px 10px ;padding: 0px;border: none;width: 676px;}
+#page_2 #id_1 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 90px;overflow: hidden;}
+#page_2 #id_2 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 541px;overflow: hidden;}
+
+
+
+
+
+#page_3 {position:relative; overflow: hidden;z:b;margin:15px 0px 21px 10px ;padding: 0px;border: none;width: 676px;}
+
+
+
+
+
+#page_4 {position:relative; overflow: hidden;z:b;margin:15px 0px 21px 10px ;padding: 0px;border: none;width: 676px;}
+
+
+
+
+
+#page_5 {position:relative; overflow: hidden;z:b;margin:15px 0px 21px 10px ;padding: 0px;border: none;width: 766px;}
+
+
+
+
+
+#page_6 {position:relative; overflow: hidden;z:b;margin:15px 0px 21px 10px ;padding: 0px;border: none;width: 676px;}
+
+
+
+
+
+#page_7 {position:relative; overflow: hidden;z:b;margin:15px 0px 21px 10px ;padding: 0px;border: none;width: 766px;}
+
+
+
+
+
+#page_8 {position:relative; overflow: hidden;z:b;margin:15px 0px 21px 10px ;padding: 0px;border: none;width: 676px;}
+#page_8 #id_1 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 90px;overflow: hidden;}
+#page_8 #id_2 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 541px;overflow: hidden;}
+
+
+
+
+
+#page_9 {position:relative; overflow: hidden;z:b;margin:15px 0px 21px 10px ;padding: 0px;border: none;width: 766px;}
+
+
+
+
+
+#page_10 {position:relative; overflow: hidden;z:b;margin:15px 0px 21px 10px ;padding: 0px;border: none;width: 721px;}
+#page_10 #id_1 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 135px;overflow: hidden;}
+#page_10 #id_2 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 541px;overflow: hidden;}
+
+
+
+
+
+#page_11 {position:relative; overflow: hidden;z:b;margin:15px 0px 21px 10px ;padding: 0px;border: none;width: 766px;}
+
+
+
+
+
+#page_12 {position:relative; overflow: hidden;z:b;margin:15px 0px 21px 10px ;padding: 0px;border: none;width: 631px;}
+
+
+
+
+
+#page_13 {position:relative; overflow: hidden;z:b;margin:15px 0px 21px 10px ;padding: 0px;border: none;width: 766px;}
+
+
+
+
+
+#page_14 {position:relative; overflow: hidden;z:b;margin:15px 0px 21px 10px ;padding: 0px;border: none;width: 721px;}
+#page_14 #id_1 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 135px;overflow: hidden;}
+#page_14 #id_2 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 541px;overflow: hidden;}
+
+
+
+
+
+#page_15 {position:relative; overflow: hidden;z:b;margin:15px 0px 21px 10px ;padding: 0px;border: none;width: 766px;}
+
+
+
+
+
+#page_16 {position:relative; overflow: hidden;z:b;margin:15px 0px 21px 10px ;padding: 0px;border: none;width: 721px;}
+
+
+
+
+
+#page_17 {position:relative; overflow: hidden;z:b;margin:15px 0px 21px 10px ;padding: 0px;border: none;width: 766px;}
+
+
+
+
+
+#page_18 {position:relative; overflow: hidden;z:b;margin:14px 0px 21px 10px ;padding: 0px;border: none;width: 721px;}
+
+
+
+
+
+#page_19 {position:relative; overflow: hidden;z:b;margin:14px 0px 21px 10px ;padding: 0px;border: none;width: 676px;}
+
+
+
+
+
+#page_20 {position:relative; overflow: hidden;z:b;margin:15px 0px 21px 10px ;padding: 0px;border: none;width: 721px;}
+
+
+
+
+
+#page_21 {position:relative; overflow: hidden;z:b;margin:15px 0px 21px 10px ;padding: 0px;border: none;width: 766px;}
+
+
+
+
+
+#page_22 {position:relative; overflow: hidden;z:b;margin:15px 0px 21px 10px ;padding: 0px;border: none;width: 721px;}
+
+
+
+
+
+#page_23 {position:relative; overflow: hidden;z:b;margin:15px 0px 21px 10px ;padding: 0px;border: none;width: 676px;}
+
+
+
+
+
+#page_24 {position:relative; overflow: hidden;z:b;margin:15px 0px 21px 10px ;padding: 0px;border: none;width: 721px;}
+#page_24 #id_1 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 135px;overflow: hidden;}
+#page_24 #id_2 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 541px;overflow: hidden;}
+
+
+
+
+
+#page_25 {position:relative; overflow: hidden;z:b;margin:15px 0px 21px 10px ;padding: 0px;border: none;width: 766px;}
+
+#page_25 #p25dimg1 {position:absolute;top:237px;left:63px;z-index:-1;width:112px;height:1px;font-size: 1px !important;l-h:nHeight;}
+#page_25 #p25dimg1 #p25img1 {width:112px;height:1px;}
+
+
+
+
+.dclr {clear:both;float:none;height:1px;margin:0px;padding:0px;overflow:hidden;}
+
+.ft0{font:  18px 'Verdana' !important;l-h: 32px;}
+.ft1{font:  14px 'Verdana' !important;l-h: 22px;}
+.ft2{font:  10px 'Verdana' !important;l-h: 1px;}
+.ft3{font:  12px 'Verdana' !important;l-h: 15px;}
+.ft4{font: italic  12px 'Verdana' !important;l-h: 15px;}
+.ft5{font:  12px 'Verdana' !important;l-h: 17px;}
+.ft6{font: italic  12px 'Verdana' !important;l-h: 17px;}
+.ft7{font:  10px 'Verdana' !important;l-h: 14px;}
+.ft8{font:  12px 'Verdana' !important;l-h: 14px;}
+.ft9{font:  12px 'Verdana' !important;margin-left: 32px;l-h: 15px;}
+.ft10{font:  12px 'Verdana' !important;margin-left: 13px;l-h: 16px;}
+.ft11{font:  12px 'Verdana' !important;l-h: 16px;}
+.ft12{font:  12px 'Verdana' !important;margin-left: 13px;l-h: 15px;}
+.ft13{font:  12px 'Verdana' !important;margin-left: 12px;l-h: 16px;}
+.ft14{font:  12px 'Verdana' !important;margin-left: 12px;l-h: 15px;}
+.ft15{font:  14px 'Verdana' !important;l-h: 19px;}
+.ft16{font:  12px 'Verdana' !important;color: #222222;l-h: 15px;}
+.ft17{font:  14px 'Verdana' !important;l-h: 19px;}
+.ft18{font:  14px 'Verdana' !important;margin-left: 39px;l-h: 19px;}
+.ft19{font:  12px 'Verdana' !important;l-h: 15px;}
+.ft20{font:  14px 'Verdana' !important;margin-left: 38px;l-h: 19px;}
+.ft21{font:  14px 'Verdana' !important;margin-left: 30px;l-h: 19px;}
+.ft22{font:  14px 'Verdana' !important;l-h: 22px;}
+.ft23{font:  10px 'Verdana' !important;l-h: 8px;}
+.ft24{font:  10px 'Verdana' !important;l-h: 4px;}
+
+.p0{text-align: left;padding-left: 0px;padding-right: 441px;margin-top: 22px;margin-bottom: 0px !important;}
+.p1{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p2{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p3{text-align: left;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p4{text-align: left;padding-left: 0px;margin-top: 18px;margin-bottom: 0px !important;}
+.p5{text-align: left;padding-left: 0px;margin-top: 15px;margin-bottom: 0px !important;}
+.p6{text-align: left;padding-left: 0px;margin-top: 32px;margin-bottom: 0px !important;}
+.p7{text-align: left;padding-left: 180px;padding-right: 378px;margin-top: 20px;margin-bottom: 0px !important;}
+.p8{text-align: left;padding-left: 0px;margin-top: 47px;margin-bottom: 0px !important;}
+.p9{text-align: left;padding-left: 0px;padding-right: 168px;margin-top: 28px;margin-bottom: 0px !important;}
+.p10{text-align: right;padding-right: 42px;margin-top: 332px;margin-bottom: 0px !important;}
+.p11{text-align: left;margin-top: 0px;margin-bottom: 0px !important;}
+.p12{text-align: left;margin-top: 752px;margin-bottom: 0px !important;}
+.p13{text-align: right;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p14{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p15{text-align: right;padding-right: 1px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p16{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p17{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;}
+.p18{text-align: right;padding-right: 21px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p19{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p20{text-align: left;padding-right: 168px;margin-top: 10px;margin-bottom: 0px !important;}
+.p21{text-align: left;padding-right: 168px;margin-top: 4px;margin-bottom: 0px !important;text-indent: 11px;}
+.p22{text-align: left;padding-left: 0px;padding-right: 168px;margin-top: 3px;margin-bottom: 0px !important;text-indent: 0.19px;}
+.p23{text-align: left;padding-right: 168px;margin-top: 1px;margin-bottom: 0px !important;text-indent: 11px;}
+.p24{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p25{text-align: left;padding-left: 0px;padding-right: 63px;margin-top: 0px;margin-bottom: 0px !important;text-indent: 0.112px;}
+.p26{text-align: left;padding-left: 0px;padding-right: 63px;margin-top: 3px;margin-bottom: 0px !important;text-indent: 0.18px;}
+.p27{text-align: left;padding-left: 0px;padding-right: 63px;margin-top: 0px;margin-bottom: 0px !important;text-indent: 0.18px;}
+.p28{text-align: left;padding-left: 0px;padding-right: 63px;margin-top: 0px;margin-bottom: 0px !important;text-indent: 0.10px;}
+.p29{text-align: left;padding-left: 0px;padding-right: 63px;margin-top: 0px;margin-bottom: 0px !important;}
+.p30{text-align: left;padding-left: 0px;padding-right: 63px;margin-top: 2px;margin-bottom: 0px !important;text-indent: 11px;}
+.p31{text-align: left;padding-left: 0px;margin-top: 44px;margin-bottom: 0px !important;}
+.p32{text-align: left;padding-left: 0px;padding-right: 63px;margin-top: 14px;margin-bottom: 0px !important;}
+.p33{text-align: left;padding-left: 0px;margin-top: 3px;margin-bottom: 0px !important;}
+.p34{text-align: left;padding-left: 0px;padding-right: 63px;margin-top: 1px;margin-bottom: 0px !important;text-indent: 11px;}
+.p35{text-align: left;margin-top: 15px;margin-bottom: 0px !important;}
+.p36{text-align: right;padding-right: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p37{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p38{text-align: left;padding-left: 0px;padding-right: 168px;margin-top: 4px;margin-bottom: 0px !important;}
+.p39{text-align: left;padding-left: 0px;padding-right: 168px;margin-top: 6px;margin-bottom: 0px !important;text-indent: 11px;}
+.p40{text-align: left;padding-left: 0px;margin-top: 11px;margin-bottom: 0px !important;}
+.p41{text-align: left;padding-left: 0px;padding-right: 168px;margin-top: 3px;margin-bottom: 0px !important;}
+.p42{text-align: left;padding-left: 0px;padding-right: 168px;margin-top: 3px;margin-bottom: 0px !important;text-indent: 11px;}
+.p43{text-align: left;padding-left: 0px;padding-right: 168px;margin-top: 0px;margin-bottom: 0px !important;text-indent: 11px;}
+.p44{text-align: right;padding-right: 42px;margin-top: 2px;margin-bottom: 0px !important;}
+.p45{text-align: left;padding-left: 0px;padding-right: 63px;margin-top: 0px;margin-bottom: 0px !important;text-indent: 0.112px;}
+.p46{text-align: left;padding-left: 0px;margin-top: 12px;margin-bottom: 0px !important;}
+.p47{text-align: left;padding-left: 0px;padding-right: 63px;margin-top: 2px;margin-bottom: 0px !important;}
+.p48{text-align: left;padding-left: 0px;padding-right: 63px;margin-top: 4px;margin-bottom: 0px !important;text-indent: 11px;}
+.p49{text-align: left;padding-left: 0px;padding-right: 63px;margin-top: 5px;margin-bottom: 0px !important;text-indent: 11px;}
+.p50{text-align: left;padding-left: 0px;margin-top: 10px;margin-bottom: 0px !important;}
+.p51{text-align: left;padding-left: 0px;padding-right: 63px;margin-top: 3px;margin-bottom: 0px !important;}
+.p52{text-align: left;padding-left: 0px;padding-right: 63px;margin-top: 0px;margin-bottom: 0px !important;text-indent: 11px;}
+.p53{text-align: left;padding-left: 0px;padding-right: 63px;margin-top: 3px;margin-bottom: 0px !important;text-indent: 11px;}
+.p54{text-align: left;margin-top: 4px;margin-bottom: 0px !important;}
+.p55{text-align: left;padding-left: 0px;padding-right: 63px;margin-top: 0px;margin-bottom: 0px !important;text-indent: 11px;}
+.p56{text-align: left;padding-left: 0px;padding-right: 168px;margin-top: 0px;margin-bottom: 0px !important;}
+.p57{text-align: left;padding-left: 0px;padding-right: 168px;margin-top: 4px;margin-bottom: 0px !important;text-indent: 11px;}
+.p58{text-align: right;padding-right: 42px;margin-top: 70px;margin-bottom: 0px !important;}
+.p59{text-align: left;padding-right: 63px;margin-top: 9px;margin-bottom: 0px !important;}
+.p60{text-align: left;padding-right: 63px;margin-top: 0px;margin-bottom: 0px !important;text-indent: 11px;}
+.p61{text-align: left;padding-right: 63px;margin-top: 4px;margin-bottom: 0px !important;text-indent: 11px;}
+.p62{text-align: left;margin-top: 34px;margin-bottom: 0px !important;}
+.p63{text-align: left;padding-right: 63px;margin-top: 3px;margin-bottom: 0px !important;text-indent: 11px;}
+.p64{text-align: left;padding-right: 63px;margin-top: 2px;margin-bottom: 0px !important;text-indent: 11px;}
+.p65{text-align: left;padding-right: 63px;margin-top: 0px;margin-bottom: 0px !important;text-indent: 11px;}
+.p66{text-align: left;padding-left: 0px;padding-right: 63px;margin-top: 0px;margin-bottom: 0px !important;}
+.p67{text-align: left;padding-left: 0px;padding-right: 168px;margin-top: 10px;margin-bottom: 0px !important;}
+.p68{text-align: left;padding-left: 0px;margin-top: 34px;margin-bottom: 0px !important;}
+.p69{text-align: left;padding-left: 0px;padding-right: 168px;margin-top: 12px;margin-bottom: 0px !important;}
+.p70{text-align: right;padding-right: 42px;margin-top: 25px;margin-bottom: 0px !important;}
+.p71{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;}
+.p72{text-align: left;padding-right: 63px;margin-top: 3px;margin-bottom: 0px !important;}
+.p73{text-align: left;padding-right: 63px;margin-top: 6px;margin-bottom: 0px !important;text-indent: 11px;}
+.p74{text-align: left;margin-top: 11px;margin-bottom: 0px !important;}
+.p75{text-align: left;padding-right: 63px;margin-top: 3px;margin-bottom: 0px !important;}
+.p76{text-align: left;padding-right: 63px;margin-top: 3px;margin-bottom: 0px !important;text-indent: 11px;}
+.p77{text-align: left;padding-left: 0px;padding-right: 168px;margin-top: 5px;margin-bottom: 0px !important;text-indent: 11px;}
+.p78{text-align: left;padding-left: 0px;margin-top: 29px;margin-bottom: 0px !important;}
+.p79{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;text-indent: 0.112px;}
+.p80{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;text-indent: 11px;}
+.p81{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p82{text-align: left;padding-left: 0px;padding-right: 168px;margin-top: 1px;margin-bottom: 0px !important;text-indent: 11px;}
+.p83{text-align: left;padding-left: 0px;padding-right: 147px;margin-top: 3px;margin-bottom: 0px !important;}
+.p84{text-align: left;padding-left: 0px;padding-right: 147px;margin-top: 3px;margin-bottom: 0px !important;text-indent: 11px;}
+.p85{text-align: left;padding-left: 0px;padding-right: 168px;margin-top: 5px;margin-bottom: 0px !important;}
+.p86{text-align: right;padding-right: 42px;margin-top: 56px;margin-bottom: 0px !important;}
+.p87{text-align: left;padding-right: 63px;margin-top: 1px;margin-bottom: 0px !important;text-indent: 11px;}
+.p88{text-align: left;padding-right: 63px;margin-top: 5px;margin-bottom: 0px !important;text-indent: 11px;}
+.p89{text-align: left;margin-top: 29px;margin-bottom: 0px !important;}
+.p90{text-align: left;padding-right: 63px;margin-top: 10px;margin-bottom: 0px !important;}
+.p91{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;}
+.p92{text-align: left;padding-left: 0px;padding-right: 168px;margin-top: 1px;margin-bottom: 0px !important;}
+.p93{text-align: left;padding-left: 0px;padding-right: 168px;margin-top: 2px;margin-bottom: 0px !important;text-indent: 11px;}
+.p94{text-align: left;padding-left: 0px;margin-top: 28px;margin-bottom: 0px !important;}
+.p95{text-align: right;padding-right: 42px;margin-top: 12px;margin-bottom: 0px !important;}
+.p96{text-align: left;padding-left: 0px;padding-right: 63px;margin-top: 0px;margin-bottom: 0px !important;text-indent: 0.112px;}
+.p97{text-align: left;padding-left: 0px;padding-right: 63px;margin-top: 0px;margin-bottom: 0px !important;text-indent: 11px;}
+.p98{text-align: left;padding-left: 0px;padding-right: 63px;margin-top: 2px;margin-bottom: 0px !important;text-indent: 11px;}
+.p99{text-align: left;padding-left: 0px;margin-top: 28px;margin-bottom: 0px !important;}
+.p100{text-align: left;padding-left: 0px;padding-right: 63px;margin-top: 9px;margin-bottom: 0px !important;}
+.p101{text-align: left;padding-left: 0px;padding-right: 63px;margin-top: 3px;margin-bottom: 0px !important;text-indent: 11px;}
+.p102{text-align: left;padding-left: 0px;padding-right: 63px;margin-top: 5px;margin-bottom: 0px !important;text-indent: 11px;}
+.p103{text-align: left;margin-top: 58px;margin-bottom: 0px !important;}
+.p104{text-align: right;padding-right: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p105{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p106{text-align: left;padding-left: 0px;padding-right: 168px;margin-top: 18px;margin-bottom: 0px !important;text-indent: 11px;}
+.p107{text-align: right;padding-right: 42px;margin-top: 135px;margin-bottom: 0px !important;}
+.p108{text-align: left;padding-left: 0px;padding-right: 63px;margin-top: 8px;margin-bottom: 0px !important;}
+.p109{text-align: left;padding-left: 0px;padding-right: 63px;margin-top: 4px;margin-bottom: 0px !important;text-indent: 11px;}
+.p110{text-align: left;padding-left: 0px;padding-right: 63px;margin-top: 0px;margin-bottom: 0px !important;text-indent: 11px;}
+.p111{text-align: left;margin-top: 72px;margin-bottom: 0px !important;}
+.p112{text-align: left;margin-top: 26px;margin-bottom: 0px !important;}
+.p113{text-align: left;padding-right: 147px;margin-top: 9px;margin-bottom: 0px !important;}
+.p114{text-align: left;padding-right: 168px;margin-top: 2px;margin-bottom: 0px !important;}
+.p115{text-align: left;padding-right: 168px;margin-top: 0px;margin-bottom: 0px !important;text-indent: 11px;}
+.p116{text-align: left;padding-left: 0px;padding-right: 336px;margin-top: 29px;margin-bottom: 0px !important;text-indent: 0.59px;}
+.p117{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p118{text-align: left;padding-left: 0px;margin-top: 43px;margin-bottom: 0px !important;}
+.p119{text-align: left;padding-left: 0px;margin-top: 33px;margin-bottom: 0px !important;}
+.p120{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p121{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p122{text-align: right;padding-right: 42px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p123{text-align: left;padding-left: 0px;margin-top: 27px;margin-bottom: 0px !important;}
+.p124{text-align: left;padding-left: 0px;padding-right: 168px;margin-top: 8px;margin-bottom: 0px !important;}
+.p125{text-align: right;padding-right: 42px;margin-top: 5px;margin-bottom: 0px !important;}
+.p126{text-align: left;padding-left: 0px;padding-right: 63px;margin-top: 5px;margin-bottom: 0px !important;text-indent: 11px;}
+.p127{text-align: left;padding-left: 0px;margin-top: 34px;margin-bottom: 0px !important;}
+.p128{text-align: left;padding-left: 0px;margin-top: 10px;margin-bottom: 0px !important;}
+.p129{text-align: left;padding-left: 0px;padding-right: 63px;margin-top: 1px;margin-bottom: 0px !important;text-indent: 11px;}
+.p130{text-align: left;padding-left: 0px;margin-top: 44px;margin-bottom: 0px !important;}
+.p131{text-align: left;padding-left: 0px;padding-right: 0px;margin-top: 0px;margin-bottom: 0px !important;}
+.p132{text-align: left;padding-left: 0px;padding-right: 105px;margin-top: 0px;margin-bottom: 0px !important;}
+.p133{text-align: left;padding-left: 0px;padding-right: 105px;margin-top: 1px;margin-bottom: 0px !important;text-indent: 11px;}
+.p134{text-align: left;padding-left: 0px;padding-right: 105px;margin-top: 2px;margin-bottom: 0px !important;text-indent: 11px;}
+.p135{text-align: left;padding-left: 0px;padding-right: 105px;margin-top: 4px;margin-bottom: 0px !important;text-indent: 11px;}
+.p136{text-align: left;padding-left: 0px;padding-right: 105px;margin-top: 0px;margin-bottom: 0px !important;text-indent: 11px;}
+.p137{text-align: right;margin-top: 72px;margin-bottom: 0px !important;}
+.p138{text-align: left;padding-right: 63px;margin-top: 2px;margin-bottom: 0px !important;text-indent: 11px;}
+.p139{text-align: left;padding-left: 440px;margin-top: 0px;margin-bottom: 0px !important;}
+.p140{text-align: left;padding-left: 0px;padding-right: 168px;margin-top: 15px;margin-bottom: 0px !important;}
+.p141{text-align: left;padding-left: 0px;margin-top: 13px;margin-bottom: 0px !important;}
+.p142{text-align: left;padding-left: 0px;margin-top: 76px;margin-bottom: 0px !important;}
+.p143{text-align: right;padding-right: 42px;margin-top: 470px;margin-bottom: 0px !important;}
+
+.td0{padding: 0px;margin: 0px;width: 315px;vertical-align: bottom;}
+.td1{padding: 0px;margin: 0px;width: 212px;vertical-align: bottom;}
+.td2{border-bottom: #000000 1px solid;padding: 0px;margin: 0px;width: 315px;vertical-align: bottom;}
+.td3{border-bottom: #000000 1px solid;padding: 0px;margin: 0px;width: 212px;vertical-align: bottom;}
+.td4{padding: 0px;margin: 0px;width: 6px;vertical-align: bottom;}
+.td5{padding: 0px;margin: 0px;width: 390px;vertical-align: bottom;}
+.td6{padding: 0px;margin: 0px;width: 14px;vertical-align: bottom;}
+.td7{padding: 0px;margin: 0px;width: 55px;vertical-align: bottom;}
+.td8{padding: 0px;margin: 0px;width: 334px;vertical-align: bottom;}
+.td9{padding: 0px;margin: 0px;width: 58px;vertical-align: bottom;}
+.td10{padding: 0px;margin: 0px;width: 331px;vertical-align: bottom;}
+.td11{padding: 0px;margin: 0px;width: 396px;vertical-align: bottom;}
+.td12{padding: 0px;margin: 0px;width: 36px;vertical-align: bottom;}
+.td13{padding: 0px;margin: 0px;width: 389px;vertical-align: bottom;}
+.td14{padding: 0px;margin: 0px;width: 90px;vertical-align: bottom;}
+.td15{padding: 0px;margin: 0px;width: 11px;vertical-align: bottom;}
+.td16{padding: 0px;margin: 0px;width: 456px;vertical-align: bottom;}
+.td17{padding: 0px;margin: 0px;width: 61px;vertical-align: bottom;}
+.td18{padding: 0px;margin: 0px;width: 468px;vertical-align: bottom;}
+.td19{padding: 0px;margin: 0px;width: 43px;vertical-align: bottom;}
+.td20{padding: 0px;margin: 0px;width: 383px;vertical-align: bottom;}
+.td21{padding: 0px;margin: 0px;width: 426px;vertical-align: bottom;}
+.td22{padding: 0px;margin: 0px;width: 13px;vertical-align: bottom;}
+.td23{padding: 0px;margin: 0px;width: 155px;vertical-align: bottom;}
+.td24{padding: 0px;margin: 0px;width: 369px;vertical-align: bottom;}
+.td25{padding: 0px;margin: 0px;width: 525px;vertical-align: bottom;}
+.td26{padding: 0px;margin: 0px;width: 47px;vertical-align: bottom;}
+.td27{padding: 0px;margin: 0px;width: 379px;vertical-align: bottom;}
+.td28{padding: 0px;margin: 0px;width: 105px;vertical-align: bottom;}
+.td29{padding: 0px;margin: 0px;width: 51px;vertical-align: bottom;}
+.td30{padding: 0px;margin: 0px;width: 357px;vertical-align: bottom;}
+.td31{padding: 0px;margin: 0px;width: 465px;vertical-align: bottom;}
+.td32{padding: 0px;margin: 0px;width: 65px;vertical-align: bottom;}
+.td33{padding: 0px;margin: 0px;width: 69px;vertical-align: bottom;}
+.td34{padding: 0px;margin: 0px;width: 469px;vertical-align: bottom;}
+.td35{padding: 0px;margin: 0px;width: 108px;vertical-align: bottom;}
+.td36{padding: 0px;margin: 0px;width: 100px;vertical-align: bottom;}
+.td37{padding: 0px;margin: 0px;width: 45px;vertical-align: bottom;}
+.td38{padding: 0px;margin: 0px;width: 18px;vertical-align: bottom;}
+.td39{padding: 0px;margin: 0px;width: 96px;vertical-align: bottom;}
+.td40{padding: 0px;margin: 0px;width: 409px;vertical-align: bottom;}
+.td41{padding: 0px;margin: 0px;width: 428px;vertical-align: bottom;}
+.td42{padding: 0px;margin: 0px;width: 263px;vertical-align: bottom;}
+
+.tr0{heightzzz: 31px;}
+.tr1{heightzzz: 23px;}
+.tr2{heightzzz: 21px;}
+.tr3{heightzzz: 22px;}
+.tr4{heightzzz: 15px;}
+.tr5{heightzzz: 16px;}
+.tr6{heightzzz: 14px;}
+.tr7{heightzzz: 17px;}
+.tr8{heightzzz: 18px;}
+.tr9{heightzzz: 19px;}
+.tr10{heightzzz: 20px;}
+.tr11{heightzzz: 27px;}
+.tr12{heightzzz: 28px;}
+.tr13{heightzzz: 24px;}
+.tr14{heightzzz: 29px;}
+.tr15{heightzzz: 25px;}
+.tr16{heightzzz: 8px;}
+.tr17{heightzzz: 4px;}
+
+.t0{width: 552px;margin-leftZ: 69px;margin-top: 5px;f:20px 'Verdana' !important;}
+.t1{width: 431px;margin-top: 17px;f:13px 'Verdana' !important;}
+.t2{width: 431px;f:13px 'Verdana' !important;}
+.t3{width: 541px;f:20px 'Verdana' !important;}
+.t4{width: 555px;margin-top: 36px;f:13px 'Verdana' !important;}
+.t5{width: 541px;margin-leftZ: 68px;f:17px 'Verdana' !important;}
+.t6{width: 541px;margin-leftZ: 68px;f:italic 13px 'Verdana' !important;}
+.t7{width: 564px;margin-top: 24px;f:13px 'Verdana' !important;}
+.t8{width: 541px;margin-leftZ: 68px;f:13px 'Verdana' !important;}
+.t9{width: 537px;margin-leftZ: 6px;f:20px 'Verdana' !important;}
+.t10{width: 555px;margin-top: 3px;f:13px 'Verdana' !important;}
+.t11{width: 564px;margin-top: 9px;f:13px 'Verdana' !important;}
+.t12{width: 564px;margin-top: 28px;f:13px 'Verdana' !important;}
+
+</STYLE>
+
+
+
+<DIV id="page_1">
+<DIV id="p1dimg1">
+<INGENBILD zsrc="H703901x1.jpg/" id="p1img1">
+</DIV>
+
+
+<DIV class="dclr"></DIV>
+<P class="p0 ft0">Regeringens skrivelse 2019/20:90</P>
+<TABLE cellpadding=0 cellspacing=0 class="t0">
+<TR>
+	<TD class="tr0 td0"><SPAN class="p1 ft1">Nordiskt samarbete 2019</SPAN> </TD>
+	<TD class="tr0 td1"><SPAN class="p2 ft1">Skr.</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr1 td2"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr1 td3"><SPAN class="p2 ft1">2019/20:90</SPAN> </TD>
+</TR>
+</TABLE>
+<P class="p4 ft3">Regeringen överlämnar denna skrivelse till riksdagen.</P>
+<P class="p5 ft3">Stockholm den 19 mars 2020</P>
+<P class="p6 ft4">Stefan Löfven</P>
+<P class="p7 ft6">Anna Hallberg <SPAN class="ft5">(Utrikesdepartementet)</SPAN></P>
+<P class="p8 ft1">Skrivelsens huvudsakliga innehåll</P>
+<P class="p9 ft5">I skrivelsen redogör regeringen för samarbetet mellan de nordiska ländernas regeringar under 2019, med huvudsaklig inriktning på verksamheten i Nordiska ministerrådet.</P>
+<P class="p10 ft3">1</P>
+</DIV>
+<DIV id="page_2">
+
+
+<DIV>
+<DIV id="id_1">
+<P class="p11 ft3">Skr. 2019/20:90</P>
+<P class="p12 ft3">2</P>
+</DIV>
+<DIV id="id_2">
+<P class="p11 ft1">Innehållsförteckning</P>
+<TABLE cellpadding=0 cellspacing=0 class="t1">
+<TR>
+	<TD class="tr2 td4"><SPAN class="p13 ft3"><A href="#page_3">1</A></SPAN> </TD>
+	<TD colspan=2 class="tr2 td5"><SPAN class="p14 ft3"><A href="#page_3">Inledning ...........................................................................................</A></SPAN> </TD>
+	<TD class="tr2 td6"><SPAN class="p15 ft3"><A href="#page_3">3</A></SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr3 td4"><SPAN class="p13 ft3"><A href="#page_3">2</A></SPAN> </TD>
+	<TD colspan=2 class="tr3 td5"><SPAN class="p14 ft3"><A href="#page_3">Norden ska bli världens mest hållbara och integrerade region..........</A></SPAN> </TD>
+	<TD class="tr3 td6"><SPAN class="p15 ft3"><A href="#page_3">3</A></SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr2 td4"><SPAN class="p13 ft3"><A href="#page_4">3</A></SPAN> </TD>
+	<TD colspan=2 class="tr2 td5"><SPAN class="p14 ft3"><A href="#page_4">Nordiska ministerrådet......................................................................</A></SPAN> </TD>
+	<TD class="tr2 td6"><SPAN class="p15 ft3"><A href="#page_4">4</A></SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr4 td4"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr4 td7"><SPAN class="p14 ft3"><A href="#page_5">3.1</A></SPAN> </TD>
+	<TD class="tr4 td8"><SPAN class="p16 ft3"><A href="#page_5">Verksamhet under samarbetsministrarna............................</A></SPAN> </TD>
+	<TD class="tr4 td6"><SPAN class="p15 ft3"><A href="#page_5">5</A></SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr5 td4"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr5 td7"><SPAN class="p14 ft3"><A href="#page_8">3.2</A></SPAN> </TD>
+	<TD class="tr5 td8"><SPAN class="p16 ft3"><A href="#page_8">Gränshinderarbetet .............................................................</A></SPAN> </TD>
+	<TD class="tr5 td6"><SPAN class="p15 ft3"><A href="#page_8">8</A></SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr4 td4"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr4 td7"><SPAN class="p14 ft3"><A href="#page_8">3.3</A></SPAN> </TD>
+	<TD class="tr4 td8"><SPAN class="p16 ft3"><A href="#page_8">Ministerrådet för utbildning och forskning ........................</A></SPAN> </TD>
+	<TD class="tr4 td6"><SPAN class="p15 ft3"><A href="#page_8">8</A></SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr4 td4"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr4 td7"><SPAN class="p14 ft3"><A href="#page_9">3.4</A></SPAN> </TD>
+	<TD class="tr4 td8"><SPAN class="p16 ft3"><A href="#page_9">Ministerrådet för kultur ......................................................</A></SPAN> </TD>
+	<TD class="tr4 td6"><SPAN class="p15 ft3"><A href="#page_9">9</A></SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr5 td4"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr5 td7"><SPAN class="p14 ft3"><A href="#page_9">3.5</A></SPAN> </TD>
+	<TD class="tr5 td8"><SPAN class="p16 ft3"><A href="#page_9">Ministerrådet för hållbar tillväxt ........................................</A></SPAN> </TD>
+	<TD class="tr5 td6"><SPAN class="p15 ft3"><A href="#page_9">9</A></SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr6 td4"><SPAN class="p3 ft7">&nbsp;</SPAN> </TD>
+	<TD class="tr6 td7"><SPAN class="p14 ft8"><A href="#page_11">3.6</A></SPAN> </TD>
+	<TD class="tr6 td8"><SPAN class="p16 ft8"><A href="#page_11">Ministerrådet för miljö och klimat ...................................</A></SPAN> </TD>
+	<TD class="tr6 td6"><SPAN class="p13 ft8"><A href="#page_11">11</A></SPAN> </TD>
+</TR>
+</TABLE>
+<P class="p17 ft3"><SPAN class="ft3">3.7</SPAN><A href="#page_12"><SPAN class="ft9">Ministerrådet för fiskeri och vattenbruk, jordbruk,</SPAN></A></P>
+<TABLE cellpadding=0 cellspacing=0 class="t2">
+<TR>
+	<TD class="tr7 td4"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr7 td9"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr7 td10"><SPAN class="p13 ft3"><A href="#page_12">livsmedel och skogsbruk ..................................................</A></SPAN> </TD>
+	<TD class="tr7 td6"><SPAN class="p13 ft3"><A href="#page_12">12</A></SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr4 td4"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr4 td9"><SPAN class="p14 ft3"><A href="#page_14">3.8</A></SPAN> </TD>
+	<TD class="tr4 td10"><SPAN class="p13 ft3"><A href="#page_14">Ministerrådet för social- och hälsopolitik.........................</A></SPAN> </TD>
+	<TD class="tr4 td6"><SPAN class="p13 ft3"><A href="#page_14">14</A></SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr4 td4"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr4 td9"><SPAN class="p14 ft3"><A href="#page_14">3.9</A></SPAN> </TD>
+	<TD class="tr4 td10"><SPAN class="p13 ft3"><A href="#page_14">Ministerrådet för arbetsliv ................................................</A></SPAN> </TD>
+	<TD class="tr4 td6"><SPAN class="p13 ft3"><A href="#page_14">14</A></SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr5 td4"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr5 td9"><SPAN class="p14 ft3"><A href="#page_15">3.10</A></SPAN> </TD>
+	<TD class="tr5 td10"><SPAN class="p13 ft3"><A href="#page_15">Ministerrådet för jämställdhet ..........................................</A></SPAN> </TD>
+	<TD class="tr5 td6"><SPAN class="p13 ft3"><A href="#page_15">15</A></SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr4 td4"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr4 td9"><SPAN class="p14 ft3"><A href="#page_16">3.11</A></SPAN> </TD>
+	<TD class="tr4 td10"><SPAN class="p13 ft3"><A href="#page_16">Ministerrådet för digitalisering.........................................</A></SPAN> </TD>
+	<TD class="tr4 td6"><SPAN class="p13 ft3"><A href="#page_16">16</A></SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr4 td4"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr4 td9"><SPAN class="p14 ft3"><A href="#page_17">3.12</A></SPAN> </TD>
+	<TD class="tr4 td10"><SPAN class="p13 ft3"><A href="#page_17">Ministerrådet för ekonomi- och finanspolitik...................</A></SPAN> </TD>
+	<TD class="tr4 td6"><SPAN class="p13 ft3"><A href="#page_17">17</A></SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr8 td4"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr8 td9"><SPAN class="p14 ft3"><A href="#page_17">3.13</A></SPAN> </TD>
+	<TD class="tr8 td10"><SPAN class="p13 ft3"><A href="#page_17">Ministerrådet för lagstiftningsfrågor ................................</A></SPAN> </TD>
+	<TD class="tr8 td6"><SPAN class="p13 ft3"><A href="#page_17">17</A></SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=3 class="tr2 td11"><SPAN class="p13 ft3"><A href="#page_18">4 Nordiskt utrikes- och säkerhetspolitiskt samarbete.........................</A></SPAN> </TD>
+	<TD class="tr2 td6"><SPAN class="p13 ft3"><A href="#page_18">18</A></SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=3 class="tr2 td11"><SPAN class="p13 ft3"><A href="#page_19">5 Nordiskt samarbete inom försvar och krisberedskap ......................</A></SPAN> </TD>
+	<TD class="tr2 td6"><SPAN class="p13 ft3"><A href="#page_19">19</A></SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr4 td4"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr4 td9"><SPAN class="p14 ft3"><A href="#page_19">5.1</A></SPAN> </TD>
+	<TD class="tr4 td10"><SPAN class="p13 ft3"><A href="#page_19">Nordiskt försvarssamarbete..............................................</A></SPAN> </TD>
+	<TD class="tr4 td6"><SPAN class="p13 ft3"><A href="#page_19">19</A></SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr8 td4"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr8 td9"><SPAN class="p14 ft3"><A href="#page_19">5.2</A></SPAN> </TD>
+	<TD class="tr8 td10"><SPAN class="p13 ft3"><A href="#page_19">Nordiskt samarbete om samhällets krisberedskap............</A></SPAN> </TD>
+	<TD class="tr8 td6"><SPAN class="p13 ft3"><A href="#page_19">19</A></SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr9 td4"><SPAN class="p13 ft3"><A href="#page_20">6</A></SPAN> </TD>
+	<TD colspan=2 class="tr9 td5"><SPAN class="p13 ft3"><A href="#page_20">Bilateralt nordiskt samarbete ..........................................................</A></SPAN> </TD>
+	<TD class="tr9 td6"><SPAN class="p13 ft3"><A href="#page_20">20</A></SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr5 td4"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr5 td9"><SPAN class="p14 ft3"><A href="#page_20">6.1</A></SPAN> </TD>
+	<TD class="tr5 td10"><SPAN class="p13 ft3"><A href="#page_20">Finland..............................................................................</A></SPAN> </TD>
+	<TD class="tr5 td6"><SPAN class="p13 ft3"><A href="#page_20">20</A></SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr4 td4"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr4 td9"><SPAN class="p14 ft3"><A href="#page_21">6.2</A></SPAN> </TD>
+	<TD class="tr4 td10"><SPAN class="p13 ft3"><A href="#page_21">Norge................................................................................</A></SPAN> </TD>
+	<TD class="tr4 td6"><SPAN class="p13 ft3"><A href="#page_21">21</A></SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr4 td4"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr4 td9"><SPAN class="p14 ft3"><A href="#page_21">6.3</A></SPAN> </TD>
+	<TD class="tr4 td10"><SPAN class="p13 ft3"><A href="#page_21">Danmark...........................................................................</A></SPAN> </TD>
+	<TD class="tr4 td6"><SPAN class="p13 ft3"><A href="#page_21">21</A></SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr8 td4"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr8 td9"><SPAN class="p14 ft3"><A href="#page_22">6.4</A></SPAN> </TD>
+	<TD class="tr8 td10"><SPAN class="p13 ft3"><A href="#page_22">Island................................................................................</A></SPAN> </TD>
+	<TD class="tr8 td6"><SPAN class="p13 ft3"><A href="#page_22">22</A></SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr10 td4"><SPAN class="p13 ft3"><A href="#page_22">7</A></SPAN> </TD>
+	<TD colspan=2 class="tr10 td5"><SPAN class="p13 ft3"><A href="#page_22">Nordområdessamarbetet .................................................................</A></SPAN> </TD>
+	<TD class="tr10 td6"><SPAN class="p13 ft3"><A href="#page_22">22</A></SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr4 td4"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr4 td9"><SPAN class="p14 ft3"><A href="#page_22">7.1</A></SPAN> </TD>
+	<TD class="tr4 td10"><SPAN class="p13 ft3"><A href="#page_22">Arktis................................................................................</A></SPAN> </TD>
+	<TD class="tr4 td6"><SPAN class="p13 ft3"><A href="#page_22">22</A></SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr8 td4"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr8 td9"><SPAN class="p14 ft3"><A href="#page_24">7.2</A></SPAN> </TD>
+	<TD class="tr8 td10"><SPAN class="p13 ft3"><A href="#page_24">Barents..............................................................................</A></SPAN> </TD>
+	<TD class="tr8 td6"><SPAN class="p13 ft3"><A href="#page_24">24</A></SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=3 class="tr2 td11"><SPAN class="p13 ft3"><A href="#page_25">Utdrag ur protokoll vid regeringssammanträde den 19 mars 2020.........</A></SPAN> </TD>
+	<TD class="tr2 td6"><SPAN class="p13 ft3"><A href="#page_25">25</A></SPAN> </TD>
+</TR>
+</TABLE>
+</DIV>
+</DIV>
+</DIV>
+<DIV id="page_3">
+
+
+<TABLE cellpadding=0 cellspacing=0 class="t3">
+<TR>
+	<TD class="tr11 td12"><SPAN class="p18 ft1">1</SPAN> </TD>
+	<TD class="tr11 td13"><SPAN class="p19 ft1">Inledning</SPAN> </TD>
+	<TD class="tr11 td14"><SPAN class="p3 ft3">Skr. 2019/20:90</SPAN> </TD>
+</TR>
+</TABLE>
+<P class="p20 ft3">Ett brett och djupt samarbete med våra grannar är viktigt för Sverige. De nordiska länderna står inför flera utmaningar som vi kan lösa bättre tillsammans än var och en för sig. Regeringen fortsätter därför att prioritera det nordiska samarbetet. Det återspeglas inte minst i den ambitiösa nya vision som statsministrarna antog för det nordiska samarbetet vid sitt möte i Reykjavik den 20 augusti 2019: Norden ska vara världens mest hållbara och integrerade region år 2030.</P>
+<P class="p21 ft3">En viktig prioritering för regeringen är att göra det lättare att bo, studera, arbeta och driva företag i andra nordiska länder. Norden ska knytas ännu tätare samman genom att gränshinder undanröjs, den fria rörligheten ökar och samarbetet i våra gränsregioner stärks. Som ett led i detta arbete trädde Nordiska ministerrådets nya handlingsplan för mobilitet i kraft under 2019. Handlingsplanen lyfter bland annat fram tre stora frågor som särskilt viktiga att lösa:</P>
+<P class="p22 ft11"><SPAN class="ft3">•</SPAN><SPAN class="ft10">ömsesidigt erkännande av elektronisk identifiering </SPAN><NOBR>(e-id)</NOBR> över nordiska gränser,</P>
+<P class="p11 ft3"><SPAN class="ft3">•</SPAN><SPAN class="ft12">harmonisering av nordiska byggstandarder, och</SPAN></P>
+<P class="p11 ft3"><SPAN class="ft3">•</SPAN><SPAN class="ft12">ömsesidigt erkännande av yrkeskvalifikationer.</SPAN></P>
+<P class="p23 ft3">I denna skrivelse redogörs för det nordiska regeringssamarbetet under 2019, med huvudsakligt fokus på verksamheten i Nordiska ministerrådet. Först beskrivs verksamheten under de nordiska samarbetsministrarna, som på uppdrag av statsministrarna samordnar arbetet i Nordiska ministerrådet. Därefter följer redogörelser för viktiga resultat inom de sakområden som faller under övriga elva ministerråds ansvar.</P>
+<P class="p21 ft11">Det nordiska <NOBR>utrikes-,</NOBR> försvars- och säkerhetspolitiska samarbetet, som ligger utanför Nordiska ministerrådets mandat, beskrivs kort. Årets skrivelse innehåller också en något längre beskrivning av nordområdessamarbetet, vilket inkluderar arbetet i Barentsrådet och Arktiska rådet. Slutligen ger skrivelsen en översiktlig bild av Sveriges bilaterala relationer med de nordiska grannländerna. Samarbetet inom Östersjöstaternas råd faller utanför ramarna för denna skrivelse.</P>
+<TABLE cellpadding=0 cellspacing=0 class="t4">
+<TR>
+	<TD class="tr0 td15"><SPAN class="p3 ft1">2</SPAN> </TD>
+	<TD class="tr0 td16"><SPAN class="p24 ft1">Norden ska bli världens mest hållbara</SPAN> </TD>
+	<TD class="tr0 td17"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr11 td15"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr11 td16"><SPAN class="p24 ft1">och integrerade region</SPAN> </TD>
+	<TD class="tr11 td17"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=2 class="tr12 td18"><SPAN class="p3 ft3">Det nordiska samarbetet befinner sig i en kursändring. En ny vision för</SPAN> </TD>
+	<TD class="tr12 td17"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=2 class="tr4 td18"><SPAN class="p3 ft3">2030, antagen av statsministrarna, ska styra verksamheten och budgeten i</SPAN> </TD>
+	<TD class="tr4 td17"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=2 class="tr4 td18"><SPAN class="p3 ft3">Nordiska ministerrådet framöver. ”Vår vision 2030: Norden ska bli</SPAN> </TD>
+	<TD class="tr4 td17"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=2 class="tr5 td18"><SPAN class="p3 ft3">världens mest hållbara och integrerade region.”</SPAN> </TD>
+	<TD class="tr5 td17"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr4 td15"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr4 td16"><SPAN class="p3 ft3">Avsikten är att tydligare prioriteringar inom det nordiska samarbetet ska</SPAN> </TD>
+	<TD class="tr4 td17"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=2 class="tr4 td18"><SPAN class="p3 ft3">leda till åtgärder som bättre svarar mot gemensamma utmaningar i en</SPAN> </TD>
+	<TD class="tr4 td17"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=2 class="tr5 td18"><SPAN class="p3 ft3">föränderlig omvärld och de höga förväntningar nordborna har på</SPAN> </TD>
+	<TD class="tr5 td17"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=2 class="tr4 td18"><SPAN class="p3 ft3">samarbetet.</SPAN> </TD>
+	<TD class="tr4 td17"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr4 td15"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr4 td16"><SPAN class="p3 ft3">Processen med att ta fram en övergripande vision initierades under</SPAN> </TD>
+	<TD class="tr4 td17"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=2 class="tr9 td18"><SPAN class="p3 ft3">Sveriges ordförandeskap 2018. Under våren 2019 möttes de nordiska</SPAN> </TD>
+	<TD class="tr9 td17"><SPAN class="p13 ft3">3</SPAN> </TD>
+</TR>
+</TABLE>
+</DIV>
+<DIV id="page_4">
+
+
+<P class="p25 ft3">Skr. 2019/20:90 samarbetsministrarna vid flera tillfällen för konstruktiva diskussioner där svenska ståndpunkter fick stort genomslag. Vid sitt möte i Reykjavik den 20 augusti 2019 konstaterade statsministrarna att nordborna, framförallt de unga, förväntar sig ett ökat fokus på klimatet och att tiden är inne för att leverera konkreta resultat. Vid mötet antog statsministrarna visionen för det nordiska samarbetet och slog fast att särskilt fokus ska läggas på följande strategiska prioriteringar:</P>
+<P class="p26 ft11"><SPAN class="ft3">•</SPAN><SPAN class="ft13">Ett grönt Norden – Tillsammans ska vi främja en grön omställning av våra samhällen och arbeta för koldioxidneutralitet och en hållbar cirkulär och biobaserad ekonomi.</SPAN></P>
+<P class="p27 ft11"><SPAN class="ft3">•</SPAN><SPAN class="ft13">Ett konkurrenskraftigt Norden – Tillsammans ska vi främja grön tillväxt i Norden baserad på kunskap, innovation, mobilitet och digital integration.</SPAN></P>
+<P class="p27 ft3"><SPAN class="ft3">•</SPAN><SPAN class="ft14">Ett socialt hållbart Norden – Tillsammans ska vi främja en inkluderande, jämställd och sammanhängande region med gemensamma värderingar och stärkt kulturutbyte och välfärd.</SPAN></P>
+<P class="p28 ft11">Satsningen på de strategiska prioriteringarna sträcker sig fram till 2024. Alla ministerråd och institutioner ska bidra med konkreta insatser för att</P>
+<P class="p29 ft3">tillsammans förverkliga visionen. Under hösten 2019 kom synpunkter och idéer in från Nordiska ministerrådets olika sektorer, från parlamentariker i Nordiska rådet och från dialogmöten med civilsamhälle och näringsliv runt om i Norden. Utifrån dessa synpunkter och idéer, liksom den verksamhet som redan bedrivs, ska handlingsplaner utarbetas under var och en av de strategiska prioriteringarna.</P>
+<P class="p30 ft11">Tydliga mål för arbetet är viktigt, och lika viktigt är det att följa upp resultaten. Regeringen sätter stort värde på den nya visionen och kommer att vara drivande för att den ska förverkligas. De nordiska samarbetsministrarna ska rapportera till statsministrarna om hur arbetet fortskrider under hösten 2022.</P>
+<P class="p31 ft1">3 Nordiska ministerrådet</P>
+<P class="p32 ft3">Nordiska ministerrådet är de nordiska regeringarnas officiella samarbetsorgan. Nordiska ministerrådet arbetar för gemensamma nordiska lösningar inom områden där de nordiska länderna kan uppnå bättre resultat genom att samarbeta än genom att lösa uppgifterna var för sig. Under 2019 tillträdde Paula Lehtomäki som ny generalsekreterare för Nordiska ministerrådet.</P>
+<P class="p33 ft3">Under 2019 ledde Island arbetet inom Nordiska ministerrådet. Det</P>
+<P class="p29 ft11">isländska ordförandeskapskapsprogrammet har haft tre huvudprioriteringar: unga, hållbar turism och havsmiljön.</P>
+<P class="p34 ft11">Under året löpte de ordförandeskapsprojekt som Sverige lanserade under 2018 på enligt plan. Projekten tar sikte på lösningar för vård och omsorg på distans, insatser för att nå socioekonomiskt utsatta unga, klimatsmart mobilitet i städer samt byggande i trä och hållbar design. Projekten avslutas under 2020.</P>
+<P class="p35 ft3">4</P>
+</DIV>
+<DIV id="page_5">
+
+
+<TABLE cellpadding=0 cellspacing=0 class="t5">
+<TR>
+	<TD class="tr13 td19"><SPAN class="p36 ft15">3.1</SPAN> </TD>
+	<TD class="tr13 td20"><SPAN class="p37 ft15">Verksamhet under samarbetsministrarna</SPAN> </TD>
+	<TD class="tr13 td14"><SPAN class="p3 ft3">Skr. 2019/20:90</SPAN> </TD>
+</TR>
+</TABLE>
+<P class="p38 ft3">De nordiska statsministrarna har uppdragit åt samarbetsministrarna (MR- SAM) att leda det nordiska regeringssamarbetet inom Nordiska ministerrådet. <NOBR>MR-SAM</NOBR> ansvarar för övergripande politiska prioriteringar, budgetfördelning och det internationella samarbetet. MR- SAM ansvarar också för några viktiga frågor av tvärgående karaktär: bland annat det nordiska programmet till stöd för genomförande av Agenda 2030, statsministerinitiativet till nordiska lösningar på globala utmaningar, internationell profilering av Norden och barn- och ungdomsfrågor genom Nordiska barn- och ungdomskommittén (Nordbuk).</P>
+<P class="p39 ft11">Under 2019 låg <NOBR>MR-SAM:s</NOBR> fokus på arbetet med Vår vision 2030. MR- SAM möttes fem gånger under året: i Reykjavik den 7 februari, i Köpenhamn den 24 april, i Hella den 19 juni, i Edinburgh den 3 september och i Stockholm den 29 oktober. Det sistnämnda mötet ägde rum under den årliga sessionsveckan för det parlamentariska samarbetet inom Nordiska rådet, där Sverige hade ordförandeskapet 2019. Hösten 2019 tillträdde Anna Hallberg som nordisk samarbetsminister i Sverige.</P>
+<P class="p40 ft4">Nordiskt program för genomförande av Agenda 2030</P>
+<P class="p41 ft3"><NOBR>MR-SAM</NOBR> antog i september 2017 ett treårigt program för att stödja genomförandet av Agenda 2030 i Norden med en sammanlagd budget på 18 miljoner kronor. Programmet, som har fått namnet Generation 2030, tar sin utgångspunkt i FN:s 17 globala hållbarhetsmål och i Nordiska ministerrådets hållbarhetsstrategi från 2015. Det sträcker sig inledningsvis över perioden <NOBR>2017–2020</NOBR> och fokuserar på mål 12, hållbar konsumtion och produktion, men även andra mål berörs. Särskild tonvikt läggs vid ungdomar.</P>
+<P class="p42 ft3">Under det isländska ordförandeskapet 2019 intensifierades arbetet med ungdomar som förändringsagenter. Greta Thunbergs klimatstrejk inspirerade många ungdomar i Norden, men även runt om i världen. Generation 2030 finansierade under 2019 en studie om vilka hållbarhetsutmaningar som ungdomar i Norden är särskilt bekymrade över, hur de engagerar sig för att tackla dessa utmaningar, vad som inspirerar dem till handling, vilka hinder de ser samt rekommendationer till förändring. Studien heter Nordic Youth as Sustainable Changemakers: In Transition to Sustainable Consumption and Production.</P>
+<P class="p42 ft3">Ett dialogmöte med ungdomar anordnades i Reykjavik i april för att få inspel till studien och det fortsatta genomförandet av Generation 2030. I samband med FN:s politiska högnivåforum för hållbar utveckling i juli 2019 i New York anordnades ett evenemang där studien presenterades. Islands statsminister Katrín Jakobsdóttir inledde evenemanget följt av en ungdomspanel. I augusti anordnades för andra året i rad ett toppmöte för ungdomar i Norden och Östersjöregionen i Mariehamn inom ramen för <NOBR>Re-Generation</NOBR> 2030. Mötet fokuserade på klimat och hållbar konsumtion.</P>
+<P class="p43 ft3">En viktig del av Generation 2030 handlar om att integrera hållbarhet och genomförandet av Agenda 2030 tvärgående inom Nordiska ministerrådets arbete. Detta integrationsarbete gjorde tydligt avtryck i den vision som de nordiska statsministrarna enades om i augusti 2019: ”Norden ska bli världens mest hållbara och integrerade region”. Under senare delen av</P>
+<P class="p44 ft3">5</P>
+</DIV>
+<DIV id="page_6">
+
+
+<P class="p45 ft5">Skr. 2019/20:90 2019 fokuserade expertgruppen för hållbar utveckling på operationaliseringen av denna vision.</P>
+<P class="p46 ft4">Statsministerinitiativet Nordiska lösningar på globala utmaningar</P>
+<P class="p47 ft3">I maj 2017 lanserade de nordiska statsministrarna initiativet Nordiska lösningar på globala utmaningar i syfte att sprida existerande nordiska lösningar till andra delar av världen som ett led i genomförandet av Agenda 2030. Initiativet bedrivs i sex underliggande flaggskeppsprojekt: Nordic Sustainable Cities, Nordic Climate Solutions, Nordic Energy Solutions, Nordic Food Policy Lab, Nordic Welfare Solutions och The Nordic Gender Effect at Work.</P>
+<P class="p30 ft3">Under 2019 anordnades flera aktiviteter inom flaggskeppsprojekten. Inom ramen för The Nordic Gender Effect at Work förmedlades erfarenheter och exempel från jämställdhetspolitiken genom en kunskapsbank med publikationer om föräldraledighet, barnomsorg och föräldravänliga arbetsplatser. Inom Nordic Energy Solutions anordnades i november ett seminarium i Addis Abeba, med fokus på hur hållbar nordisk energiteknik kan bidra till att lösa Etiopiens omfattande energiproblem. Inom Nordic Climate Solutions presenterades i oktober rapporten Nordic Green to Scale for Cities and Communities, som belyser potentialen i befintliga lågkoldioxidlösningar i nordiska samhällen. Satsningen på avveckling av fossilbränslesubventioner återupptogs också inom ramen för initiativet<SPAN class="ft16">.</SPAN></P>
+<P class="p48 ft3">En utvärdering av statsministerinitiativet presenterades under våren 2019. Utvärderingen gav gott betyg åt såväl inriktning som genomförande. Bedömningen var att tillfredsställande resultat hade uppnåtts med en relativt låg budget. Utvärderingen visade också att flaggskeppsprojekten haft ett positivt inflytande på de länder och organisationer där aktiviteter genomförts och att de stärkt varumärket Norden.</P>
+<P class="p49 ft5">Samarbetsministrarna beslutade den 19 juni 2019 att förlänga delar av initiativet med ett år. Nordic Welfare Solutions och Nordic Energy Solutions avslutades under 2019 i enlighet med tidigare beslutad strategi.</P>
+<P class="p50 ft4">Internationell profilering av Norden</P>
+<P class="p51 ft11">Under 2019 har den uppdaterade strategin för <NOBR>2019–2021</NOBR> för internationell profilering och positionering av Norden börjat genomföras. Strategin innebär förenklade ansökningsprocesser, tydliggörande av kriterier och ytterligare tematiskt material.</P>
+<P class="p52 ft3">Nordiska ministerrådets referensgrupp för profilering tillämpade under året en ny modell som gör det lättare för nordiska utlandsmyndigheter att ansöka om medel för nordiska samarbetsprojekt. Modellen utgör ett snabbspår för nordiska ambassader utanför Norden, och syftar till att uppmuntra och underlätta samarbete. Projektet lanserades under hösten och har redan gett stöd till flera nordiska ambassader. Under året fortsatte öppna utlysningar inom satsningen Traces of North där 17, av sammanlagt 80, ansökningar beviljades medel för nordiska profileringsprojekt.</P>
+<P class="p53 ft11">En ny webbplats (thenordics.com) utvecklades för att erbjuda en modern plattform för att lyfta tydliga budskap på områden där Norden går i bräschen: innovation, jämställdhet, hållbarhet, tillit och öppenhet.</P>
+<P class="p54 ft3">6</P>
+</DIV>
+<DIV id="page_7">
+
+
+<P class="p55 ft11">Vid slutet av året introducerades Nordic Talks, ett öppet dialogformat Skr. 2019/20:90 som djupdyker i olika nordiska profileringsfrågor. Lanseringen skedde i</P>
+<P class="p56 ft3">samarbete med University of California i Berkeley. I samband med klimattoppmötet i Madrid (COP 25) arrangerade Nordiska ministerrådet en mötesplats på Norrsken House i Stockholm, Nordic Climate Action Weeks, där allmänheten hade möjlighet att ta del av förhandlingarna i Madrid på distans. Under dagarna i Stockholm hölls också flera evenemang, däribland ett Nordic Talk med flera namnkunniga deltagare.</P>
+<P class="p57 ft11">Under året påbörjades också diskussioner om gemensamma nordiska satsningar under världsutställningen Expo 2020 i Dubai, tillsammans med respektive lands exposekretariat. Dessutom kommer den nordiska designsatsningen Sustainable Chairs att vara en del av den svenska expopaviljongen.</P>
+<P class="p40 ft4">Nordiska barn- och ungdomskommittén</P>
+<P class="p38 ft3">Under 2019 fortsatte Nordiska barn- och ungdomskommittén (Nordbuk) att genomföra den tvärsektoriella strategin för barn och unga i Norden <NOBR>2016–2022,</NOBR> med målet att Norden ska vara den bästa platsen i världen för barn och unga. Under året genomfördes en undersökning som visade att Nordiska ministerrådet, sedan den tvärsektoriella strategin antogs, har fått en ökad medvetenhet om hur barn och unga påverkas av arbetet. Ministerrådet genomförde ett betydligt högre integreringsarbete i sina strategiska processer samt inrapporterade väsentligt fler projekt som berör barn och unga. Dessutom ökade antalet projekt där barn och unga var medbeslutande och hade ägandeskap i utformningen.</P>
+<P class="p42 ft3">Klimat och hållbar utveckling genomsyrade Nordbuks verksamhet under året. Det isländska ordförandeskapet höll en konferens om hur ungdomar spelar en ledande roll för en hållbar produktion och konsumtion genom att leva hållbara livsstilar. Nordbuk samarbetade även med sektorn för hållbar utveckling om genomförandet av Nordiska ministerrådets program för Agenda 2030. Nordbuk utsåg även två ungdomsrepresentanter till expertgruppen för hållbar utveckling och stöttade ungdomstoppmötet <NOBR>Re-Generation</NOBR> 2030 på Åland. Vidare arrangerades ett dialogmöte på temat klimat mellan de nordiska statsministrarna och nordiska ungdomsrepresentanter i samband med Nordiska rådets session i Stockholm i oktober.</P>
+<P class="p42 ft3">Under 2019 beviljades totalt 28 projekt stöd inom Nordbuks stödprogram. Cirka 4 miljoner danska kronor fördelades till olika nordiska projekt med syfte att stärka barns och ungas egen organisering, eget inflytande och deltagande i politiska processer, att stärka en nordisk identitet bland barn och unga samt till arbetet med Agenda 2030.</P>
+<P class="p57 ft11">Under året har det svenska ordförandeskapsprojektet Nabo fortsatt att ta fram, sprida och förankra resultat och kunskap om ungas sociala inkludering i Norden. Projektet leds av Myndigheten för ungdoms- och civilsamhällesfrågor.</P>
+<P class="p58 ft3">7</P>
+</DIV>
+<DIV id="page_8">
+
+
+<DIV>
+<DIV id="id_1">
+<P class="p11 ft3">Skr. 2019/20:90</P>
+<P class="p12 ft3">8</P>
+</DIV>
+<DIV id="id_2">
+<P class="p11 ft15"><SPAN class="ft17">3.2</SPAN><SPAN class="ft18">Gränshinderarbetet</SPAN></P>
+<P class="p59 ft11">Gränshinderrådet fortsatte sitt arbete i linje med sitt mandat från samarbetsministrarna för perioden <NOBR>2018–2021</NOBR> med målsättningen att bidra till att lösa <NOBR>8–12</NOBR> gränshinder per år.</P>
+<P class="p60 ft3">Under 2019 bidrog gränshinderrådet till att åtta hinder hanterades: fem blev helt eller delvis lösta och tre avskrevs. Bland annat löstes hinder gällande dokumentationskrav för folkbokföring i Norge och lägre ersättning vid föräldraledighet till följd av studiestöd från ett annat land. Frågan om rätt till tjänstledighet för politiska uppdrag för en person som bor i ett nordiskt land och arbetar i ett annat löstes i Norge och fortsätter att vara ett prioriterat hinder att lösa i övriga länder.</P>
+<P class="p61 ft3">Under 2019 började också Nordiska ministerrådets nya handlingsplan för mobilitet att gälla, vilket innebar att tre centrala frågekomplex som prioriterats av gränshinderrådet – godkännande av <NOBR>e-id</NOBR> över nordiska gränser, harmonisering av byggstandarder och erkännande av yrkeskvalifikationer – lyftes till politisk nivå för fortsatt hantering. Handlingsplanen för mobilitet innebär också att stödet till de gränsregionala informationstjänsterna, som är centrala aktörer i arbetet med att identifiera och informera om gränshinder, stärktes under året.</P>
+<P class="p62 ft15"><SPAN class="ft17">3.3</SPAN><SPAN class="ft18">Ministerrådet för utbildning och forskning</SPAN></P>
+<P class="p59 ft3">Under 2019 antog Ministerrådet för utbildning och forskning <NOBR>(MR-U)</NOBR> ett nytt samarbetsprogram för perioden november <NOBR>2019–november</NOBR> 2023. Samarbetsprogrammet är styrande för sektorns verksamhet på områdena utbildning, forskning och språk. Målet med det nordiska samarbetet om utbildning och forskning är att Norden även i framtiden ska vara en ledande region för kunskap och välfärd.</P>
+<P class="p63 ft3">På det forskningspolitiska området enades ministrarna om att fasa ut den nordiska finansieringen för fyra samarbetsorgan under <NOBR>MR-U</NOBR> (Nordiskt institut för teoretisk fysik, Nordisk institutt for sjørett, Nordisk institut for Asienstudier och Nordisk vulkanologisk institut). Beslutet innebär att den direkta finansieringen till samarbetsorganen avvecklas gradvis för att medlen ska kunna överföras till Nordforsk, den nordiska institutionen med ansvar för samarbetet inom forskning och forskarutbildning, där de bedöms kunna användas mer flexibelt och ändamålsenligt.</P>
+<P class="p64 ft11">Under året påbörjades arbetet med att revidera den nordiska språkdeklarationen, liksom arbetet på insatsområdet ”små språk”. På ministernivå fördes diskussioner om nordiska språk i ljuset av ny teknik och påverkan från engelska.</P>
+<P class="p65 ft19">Diskussioner om det framtida nordiska utbildningspolitiska samarbetet, som förts under de norska och svenska ordförandeskapen, togs vidare. Fokus låg bland annat på att stärka lärarnas roll och status i Norden. Beslut fattades också om att tillsammans med arbetslivssektorn medfinansiera samarbetet i det <NOBR>nordisk-baltiska</NOBR> <NOBR>PIAAC-nätverket</NOBR> (OECD:s Programme for the International Assessment of Adult Competencies). Arbetet med <NOBR>DIS-nätverket</NOBR> (demokrati, inkludering och säkerhet) fortsatte under 2019 med bland annat en nordisk pilot av Dembra, som är en norsk metod för</P>
+</DIV>
+</DIV>
+</DIV>
+<DIV id="page_9">
+
+
+<P class="p66 ft3">skolutveckling i demokratifrågor, tryggt skolklimat och aktivt Skr. 2019/20:90 medborgarskap.</P>
+<P class="p8 ft15"><SPAN class="ft15">3.4</SPAN><SPAN class="ft20">Ministerrådet för kultur</SPAN></P>
+<P class="p67 ft3">Ministerrådet för kultur <NOBR>(MR-K)</NOBR> fortsatte under 2019 sitt arbete med att förmedla nordiska värden och ta vara på omvärldens intresse för nordisk konst och kultur. I maj beslutade <NOBR>MR-K</NOBR> om en gemensam nordisk kultursatsning i Kanada år 2021. Arrangören Harbourfront Centre har valt att inrikta satsningen på urfolksfrågor, konstnärlig innovation, inkludering och hållbarhet samt att stärka de nordiska relationerna på flera olika platser i Kanada. Därutöver beslutade kulturministrarna att stödja satsningen Printemps Nordique vid Centre for Fine Arts Bozar i Bryssel under 2019. Stöd gavs också till närvaro vid Arctic Arts Summit i Rovaniemi, som samlade kulturaktörer i den arktiska regionen.</P>
+<P class="p57 ft3">Vid sitt möte i Stockholm i oktober antog de nordiska kulturministrarna en deklaration om kulturarvet som en förutsättning för trygg och fredlig utveckling i världen och betydelsen av att förhindra olaglig handel med kulturföremål.</P>
+<P class="p43 ft3">Barn och unga har en central plats i det nordiska kultursamarbetet. Under året beslutades att förlänga kultur- och språkprogrammet Volt, som främjar nordiska möten och samarbete genom kultur och ska bidra till ökad språkförståelse i Norden. Programmet stöder projekt där ungas eget kulturella och konstnärliga skapande och delaktighet står i fokus och bedömdes bidra väl till att nå de uppsatta målen. Under året inleddes det treåriga isländska ordförandeskapsprojektet Gátt. Gátt är ett forum som kopplar ihop några av Nordens ledande kulturfestivaler. Det syftar till att ge unga konstnärer i regionen möjligheter att bilda nätverk och nå ut med sin konst.</P>
+<P class="p39 ft3">Kultursamarbetet ska främja hållbar utveckling och verka för ett jämställt kulturliv. Arbetet mot sexuella trakasserier i kultursektorn fortsatte under året. En nordisk turné arrangerades med panelsamtal om kultursektorns utmaningar med sexuella trakasserier. Målet var att bidra till större medvetenhet om lagstiftning, kunskapsutbyte och attitydförändring samt att skapa nya nätverk och plattformar för diskussion. Erfarenheterna från arrangemangen förmedlades på en internationell konferens om metoo i Island i september 2019.</P>
+<P class="p68 ft15"><SPAN class="ft15">3.5</SPAN><SPAN class="ft20">Ministerrådet för hållbar tillväxt</SPAN></P>
+<P class="p69 ft11">Ministerrådet för hållbar tillväxt höll sina årliga ministermöten <NOBR>27–28</NOBR> juni i Reykjavik. Ministermötena arrangerades i samverkan mellan närings- och <NOBR>innovations-,</NOBR> energisamt regionalministrarna, där mötena för de tre ministerrådskonstellationerna lades i anslutning till varandra och Sveriges regering representerades av energi- och digitaliseringsminister Anders Ygeman.</P>
+<P class="p70 ft3">9</P>
+</DIV>
+<DIV id="page_10">
+
+
+<DIV>
+<DIV id="id_1">
+<P class="p71 ft3">Skr. 2019/20:90</P>
+<P class="p12 ft3">10</P>
+</DIV>
+<DIV id="id_2">
+<P class="p11 ft4">Närings- och innovationspolitik</P>
+<P class="p72 ft3">Under det isländska ordförandeskapet i Nordiska ministerrådets sektor för närings- och innovationspolitik låg fokus på hållbar turism och blå tillväxt, dvs. hållbar tillväxt inom verksamheter som utgår från hav och vatten. På ministermötet i Reykjavik den 27 juni fattades bland annat beslut om ett nordiskt datacenter, en nordisk turismplan för <NOBR>2019–2023</NOBR> och lansering av programmet Nordic Health. Artificiell intelligens och tillgång till data diskuterades också och Nordic Innovation uppdrogs att arbeta vidare med frågan. Ämbetsmannakommittén för näringspolitik hade fyra möten under året och diskuterade bland annat de isländska ordförandeskapsprojekten inom turism och naturskydd, digitalisering av turistbranschen och lokal mat i turistbranschen samt projektet Nordic Smart Government.</P>
+<P class="p63 ft3">Bygg- och bostadsministersamarbetet, som initierades under svenskt ordförandeskap, höll sitt andra möte den 10 oktober 2019 i Reykjavik. Vid mötet antogs en deklaration för att minska koldioxidutsläppen från boende och byggande samt bidra till att Norden blir en föregångare i utvecklingen av koldioxidsnåla och cirkulära bygglösningar. Vidare diskuterades hur de nordiska länderna kan stärka sitt samarbete för att underlätta byggande av bostäder i glesbygder och främja tillgången till bostäder för ungdomar och marginaliserade grupper. I samband med ministermötet hölls även ett rundabordssamtal tillsammans med den nordiska byggbranschen om lösningar för att möjliggöra byggande av billigare bostäder i Norden.</P>
+<P class="p73 ft11">Nordic Innovation är en gemensam nordisk institution med uppdrag att främja entreprenörskap, innovation och konkurrenskraft inom nordiskt företagande. Under <NOBR>2018–2021</NOBR> arbetar Nordic Innovation med tre omfattande tematiska program: Nordic Smart Mobility and Connectivity, Nordic Sustainable Business transformation och Health, Demography and Quality of Life. Arbetet fortskred väl under 2019.</P>
+<P class="p74 ft4">Regionalpolitik</P>
+<P class="p75 ft3">Det regionalpolitiska arbetets övergripande mål är att bidra till hållbar tillväxt och ökad konkurrenskraft i samtliga nordiska regioner, samt skapa ett effektivt samarbete i gemensamma regionala frågor. Under 2019 fortsatte genomförandet av samarbetsprogrammet inom regionalsektorn för åren <NOBR>2017–2020</NOBR> med hjälp av tre arbetsgrupper utifrån huvudtemana Hållbar landsbygdsutveckling, Innovativa och resilienta regioner samt Hållbara städer och stadsutveckling. Arbetsgrupperna arbetar i nära samarbete med Nordregio.</P>
+<P class="p76 ft11">Vid ministermötet i Island den 27 juni antogs den nordatlantiska utvecklingsstrategin Naust. Ämbetsmannakommittén för regionalpolitik hade fyra ordinarie möten där de diskuterade bland annat den nordiska institutionen Nora, Vestnordenfonden och gränskommittéernas arbete.</P>
+<P class="p60 ft11">Nordregio forum är en årligen återkommande mötesplats för kunskaps- och erfarenhetsutbyte mellan tjänstemän, politiker och forskare i de nordiska länderna i frågor som rör hållbar regional tillväxt och utveckling. 2019 års forum ägde rum i Reykjavik med temat innovativa och resilienta regioner.</P>
+</DIV>
+</DIV>
+</DIV>
+<DIV id="page_11">
+
+
+<TABLE cellpadding=0 cellspacing=0 class="t6">
+<TR>
+	<TD class="tr3 td21"><SPAN class="p3 ft4">Energi</SPAN> </TD>
+	<TD class="tr3 td14"><SPAN class="p3 ft3">Skr. 2019/20:90</SPAN> </TD>
+</TR>
+</TABLE>
+<P class="p56 ft3">Den gemensamma nordiska elmarknaden, energiforskning, förnybar energi och energieffektivisering är huvudsakliga fokusområden i det fyraåriga samarbetsprogram som styr det nordiska energisamarbetet under perioden <NOBR>2018–2021.</NOBR></P>
+<P class="p43 ft3">Vid det nordiska energiministermötet i Reykjavik i juni 2019 beslutade ministrarna om en ny vision för den nordiska elmarknaden: ”År 2030 ska Norden ha världens mest konkurrenskraftiga, innovativa och konsumentorienterade elmarknad, som bidrar till att nå de ambitiösa nordiska klimatmålen”. I november 2019 anordnades ett andra nordiskt elmarknadsforum för aktörerna på den nordiska elmarknaden. Vid forumet diskuterades olika förslag för fortsatt utveckling av elmarknaden, som kommer att analyseras vidare i de olika arbetsgrupper som bildats inom ramen för forumet.</P>
+<P class="p42 ft3">Den samnordiska institutionen Nordisk Energiforskning fortsatte sitt arbete med att stärka det nordiska energiforskningssamarbetet genom att etablera nya nordiska forskningsprogram i samverkan med andra forskningsfinansiärer. Programmen berör bland annat integrering av hållbar energi i energisystemet, förstärkt koppling mellan de nordiska ländernas energimarknader, energi i transportsektorn samt minskade utsläpp av klimatgaser.</P>
+<P class="p42 ft3">Arbetsgruppen för förnybar energi samarbetar fortsatt om <NOBR>EU-direktiv</NOBR> om förnybar energi och om stödsystem till förnybar energi. Under 2019 publicerades en studie om distribuerad förnybar elproduktion och egenproduktion av förnybar energi. Myndighetsarbetsgruppen Nordsyn fortsatte sitt samarbete om marknadskontroll och policyer kring krav på ekodesign och energimärkning. Gruppen initierade projekt om funktions- och kapacitetstest av bland annat värmepumpar samt effektberäkningar av ekodesign och energimärkning samt marknadskontroller.</P>
+<P class="p77 ft11">En ny nätverksgrupp för samarbete om koldioxidlagring startades under året. Gruppens arbete inriktas på kunskaps- och erfarenhetsutbyte mellan länderna.</P>
+<P class="p78 ft15"><SPAN class="ft15">3.6</SPAN><SPAN class="ft20">Ministerrådet för miljö och klimat</SPAN></P>
+<P class="p67 ft3">Under 2019 höll ministerrådet för miljö och klimat <NOBR>(MR-MK)</NOBR> två möten. Vårens möte hölls i Reykjavik den 10 april. Ministrarna diskuterade bland annat hur de nordiska länderna bäst kan bidra till att utveckla nya globala mål för biologisk mångfald efter 2020 och beslutade att skicka ett gemensamt brev till sekretariatet för konventionen för biologisk mångfald (CBD) om vikten av en hög ambition. Ett gemensamt projekt med Nordiska rådet för att stärka ungdomars deltagande i det globala biodiversitetsarbetet genomfördes också under året. Ministrarna antog dessutom en deklaration om behovet av en global överenskommelse för att motverka nedskräpning av plast och mikroplast i haven.</P>
+<P class="p43 ft3">Höstens möte, som hölls i Stockholm den 30 oktober, hade stort fokus på en höjd nordisk klimatambition, bland annat som ett led i genomförandet av Vår vision 2030 och deklarationen om nordisk koldioxidneutralitet (Nordic Carbon Neutrality) som antogs av de nordiska</P>
+<P class="p44 ft3">11</P>
+</DIV>
+<DIV id="page_12">
+
+
+<P class="p79 ft11">Skr. 2019/20:90 statsministrarna den 25 januari 2019. Nordisk synlighet under klimattoppmötet i Madrid (COP 25) diskuterades och en ministerdeklaration om hav och klimat antogs. Möjligheter och hinder för en ökad cirkulär ekonomi diskuterades också.</P>
+<P class="p80 ft3">Miljö- och klimatsektorn ledde arbetet med att genomföra deklarationen om nordisk koldioxidneutralitet. En utredning startades för att undersöka hur ländernas neutralitetsmål är utformade och för att identifiera potentialer för ökat samarbete.</P>
+<P class="p80 ft3">Arbetet med att genomföra det nya samarbetsprogrammet för miljö och klimat <NOBR>2019–2024</NOBR> inleddes. Merparten av arbetet sker i sex fasta arbetsgrupper med myndighetsrepresentanter samt i en ad <NOBR>hoc-grupp</NOBR> om hållbara städer och en särskild grupp om hav och klimat.</P>
+<P class="p80 ft11">Under året fortsatte det svenska ordförandeskapsprojektet, Hållbara nordiska städer med fokus på klimatsmart mobilitet, att stödja omställningen till fossilfria och hållbara transporter. Projektet leds av Energimyndigheten och Trafikverket.</P>
+<P class="p80 ft11">Miljömärkningen Svanen fyllde 30 år. Fler produkter fick sin första märkning, bland annat utegym, skolor och produkter för giftfria förskolor. Produktgruppen bostäder fortsatte att växa. Satsningar gjordes på hållbar upphandling och samarbeten mellan näringsliv och studenter.</P>
+<TABLE cellpadding=0 cellspacing=0 class="t7">
+<TR>
+	<TD class="tr11 td22"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr11 td23"><SPAN class="p81 ft15">3.7</SPAN> </TD>
+	<TD class="tr11 td24"><SPAN class="p37 ft15">Ministerrådet för fiskeri och vattenbruk,</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr1 td22"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr1 td23"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr1 td24"><SPAN class="p37 ft15">jordbruk, livsmedel och skogsbruk</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr1 td22"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD colspan=2 class="tr1 td25"><SPAN class="p81 ft3">Ministerrådet för fiskeri och vattenbruk, jordbruk, livsmedel och</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr4 td22"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD colspan=2 class="tr4 td25"><SPAN class="p81 ft3">skogsbruk fortsatte under 2019 sitt arbete utifrån gällande</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr4 td22"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD colspan=2 class="tr4 td25"><SPAN class="p81 ft3">samarbetsprogram, framför allt med inriktning på hållbara</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr5 td22"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD colspan=2 class="tr5 td25"><SPAN class="p81 ft3">livsmedelssystem och utvecklande av blå och grön bioekonomi. Arbete</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr4 td22"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD colspan=2 class="tr4 td25"><SPAN class="p81 ft3">inleddes också med att utarbeta ett nytt samarbetsprogram från 2021,</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr4 td22"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD colspan=2 class="tr4 td25"><SPAN class="p81 ft3">utifrån den nya visionen för Nordiska ministerrådet. Det årliga</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr5 td22"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD colspan=2 class="tr5 td25"><SPAN class="p81 ft3">ministermötet ägde rum i augusti i Reykjavik. Fokus var klimatfrågor och</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr4 td22"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD colspan=2 class="tr4 td25"><SPAN class="p81 ft3">utvecklandet av hållbara livsmedelssystem, samt den blå bioekonomin,</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr8 td22"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD colspan=2 class="tr8 td25"><SPAN class="p81 ft3">dvs. användande av biologiska resurser från hav, sjöar och vattendrag.</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr14 td22"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD colspan=2 class="tr14 td25"><SPAN class="p81 ft4">Fiskeri och vattenbruk</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr9 td22"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD colspan=2 class="tr9 td25"><SPAN class="p81 ft3">Under det isländska ordförandeskapet fortsatte samarbetet om fiskeri och</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr4 td22"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD colspan=2 class="tr4 td25"><SPAN class="p81 ft3">vattenbruk i linje med tidigare år, med fokus på utvecklingen av</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr5 td22"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD colspan=2 class="tr5 td25"><SPAN class="p81 ft3">fiskerinäringen och den blå bioekonomin. Tre marina områden hade</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr4 td22"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD colspan=2 class="tr4 td25"><SPAN class="p81 ft3">särskilt fokus under det isländska ordförandeskapet: hamnar, plast och</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr4 td22"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD colspan=2 class="tr4 td25"><SPAN class="p81 ft3">bioraffinaderier. Havets betydelse som kolsänka och ett ökat fokus på</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr5 td22"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD colspan=2 class="tr5 td25"><SPAN class="p81 ft3">förlorade redskap var några områden inom fiskerinäringen som</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr7 td22"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD colspan=2 class="tr7 td25"><SPAN class="p81 ft3">diskuterades under ministermötet i Reykjavik.</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr14 td22"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD colspan=2 class="tr14 td25"><SPAN class="p81 ft4">Jord- och skogsbruk</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr10 td22"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD colspan=2 class="tr10 td25"><SPAN class="p81 ft3">Jord- och skogsbrukssamarbetet fokuserade sitt arbete på olika områden</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr4 td22"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD colspan=2 class="tr4 td25"><SPAN class="p81 ft3">kopplade till klimat. Två arbetsgrupper följde upp 2018 års torka och</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr4 td22"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD colspan=2 class="tr4 td25"><SPAN class="p81 ft3">skogsbränder på jordbruksrespektive skogsområdet. Avrapportering</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr5 td22"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD colspan=2 class="tr5 td25"><SPAN class="p81 ft3">skedde på ministermötet och samarbetet kommer att utvecklas för att öka</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr7 td22"><SPAN class="p13 ft3">12</SPAN> </TD>
+	<TD colspan=2 class="tr7 td25"><SPAN class="p81 ft3">de gröna näringarnas motståndskraft mot kommande klimatförändringar.</SPAN> </TD>
+</TR>
+</TABLE>
+</DIV>
+<DIV id="page_13">
+
+
+<P class="p66 ft11">Arbetet fortsatte även för att stärka ländernas samarbete om kolinlagring i Skr. 2019/20:90 jordbruksmark.</P>
+<P class="p82 ft11">Samnordisk skogsforskning (SNS) och Nordiskt Kontaktorgan for Jordbruksforskning (NKJ) arbetade intensivt med brådskande frågor inom klimat och miljö, bland annat med anledning av det extrema vädret. SNS och NKJ arbetade också med digitalisering och matchmaking mellan unga forskare för att lära och inspireras av varandra. SNS bistod även och gav stöd till en studie och kartläggning av jämställdheten i den nordiska skogssektorn.</P>
+<P class="p40 ft4">Livsmedel</P>
+<P class="p83 ft11">Det isländska ordförandeskapet arrangerade i oktober ett symposium om energidrycker. Syftet var att samla specialister inom forskning, kontrollmyndigheter, skolor och barnomsorg för att tillsammans diskutera de möjliga negativa hälsoeffekterna av energidrycker och koffein för unga.</P>
+<P class="p43 ft3">Under året påbörjades arbete med att uppdatera de nordiska näringsrekommendationerna (NNR). Arbetet bedrivs i projektform under ledning av Norge. Uppdateringen ska vara klar 2022 och ambitionen är att även miljöaspekter ska inkluderas.</P>
+<P class="p43 ft3">Samarbetet om antibiotikaresistens fortsatte under 2019. I juni anordnades ett gemensamt möte i expert- och strategigrupperna för antibiotikaresistens i Island där förnyade mandat för båda grupperna diskuterades. Ett nytt mandat för strategigruppen godkändes sedan i oktober.</P>
+<P class="p84 ft3">Programmet Ny nordisk mat bidrar till gemensamma nordiska satsningar där måltidsupplevelser och de nordiska värderingarna är en viktig del av profileringen. Under 2019 fick projekt om bland annat hållbar måltidsturism i landsbygder, främjande av odling och kommersialisering av gamla frösorter ekonomiskt stöd genom programmet. Under det isländska ordförandeskapet genomfördes också för andra gången tävlingen EMBLA – Nordic Food Awards med deltagare från samtliga nordiska länder samt Färöarna, Grönland och Åland. Priset instiftades 2017 på initiativ av Ny nordisk mat för att stärka kunskapen om nordisk mat och de innovativa företagarna bakom den framgångsrika utvecklingen.</P>
+<P class="p4 ft4">Nordiskt genresurscenter</P>
+<P class="p85 ft3">Nordiskt genresurscenter (NordGen) är de nordiska ländernas gemensamma institution för bevarande av växt- och djurgenetiska resurser med huvudkontor i Alnarp. Under 2018 inleddes en process för att bygga nya lokaler, tillsammans med Akademiska hus. Under 2019 fortskred arbetet med att ta fram ett förslag på nytt hus för verksamheten. Det finns en arbetsplan för hur NordGen ska komma till rätta med eftersläpningen av arbetsuppgifter som funnits. Samarbetsministrarna sköt också till extra medel för detta under en femårsperiod. Arbetet med att byta datasystem löper på enligt plan och en ny strategi för NordGens arbete antogs under året.</P>
+<P class="p86 ft3">13</P>
+</DIV>
+<DIV id="page_14">
+
+
+<DIV>
+<DIV id="id_1">
+<P class="p71 ft3">Skr. 2019/20:90</P>
+<P class="p12 ft3">14</P>
+</DIV>
+<DIV id="id_2">
+<P class="p11 ft15"><SPAN class="ft17">3.8</SPAN><SPAN class="ft18">Ministerrådet för social- och hälsopolitik</SPAN></P>
+<P class="p59 ft11">Under 2019 deltog Ministerrådet för social- och hälsopolitik <NOBR>(MR-S)</NOBR> i arbetet med att ta fram Nordiska ministerrådets vision och strategiska prioriteringar för <NOBR>2021–2024.</NOBR></P>
+<P class="p60 ft3">Under året fortsatte arbetet inom det svenska ordförandeskapsprojektet Vård och omsorg på distans, som syftar till att utveckla innovativa lösningar för vård och omsorg på distans samt möjliggöra utbytande av e- recept över gränserna. I september publicerades en publikation med de 24 mest betydelsefulla digitala lösningarna inom vård och omsorg i de fem nordiska länderna. Rapporten vänder sig i första hand till beslutsfattare på olika nivåer men den kan även läsas av alla som är intresserade av vilka digitala lösningar som ger effekt inom vård och omsorg.</P>
+<P class="p87 ft3">Flera initiativ togs för att genomföra förslagen i den genomlysning som den tidigare isländske socialministern Árni Pall Árnason gjort av det nordiska samarbetet på det sociala området på beställning av <NOBR>MR-S.</NOBR> MR- S beslutade i mars 2019 att gå vidare med förslagen att se över mandaten för institutionen Nordens välfärdscenter och för kommittéerna för nordisk social- och hälsostatistik, Nososko och Nomesko.</P>
+<P class="p88 ft11"><NOBR>MR-S</NOBR> beslutade även att gå vidare med ett förslag om de utmaningar som finns i glest befolkade områden. I de fall det är relevant ska erfarenheter från det svenska ordförandeskapsprojektet Vård och omsorg på distans tas tillvara.</P>
+<P class="p89 ft15"><SPAN class="ft17">3.9</SPAN><SPAN class="ft18">Ministerrådet för arbetsliv</SPAN></P>
+<P class="p90 ft3">Det årliga mötet i Ministerrådet för arbetsliv <NOBR>(MR-A)</NOBR> genomfördes i Reykjavik den 4 april 2019. Arbetsmarknadsminister Ylva Johansson deltog. På ministermötet diskuterades utmaningar och lösningar i det nordiska arbetslivet utifrån en rapport från Internationella arbetsorganisationens (ILO) Global Commission on the Future of Work, där statsminister Stefan Löfven har varit medordförande. På mötet togs även beslut om att de nordiska arbetsmarknadsministrarna senare skulle skicka ett brev till den nytillträdda <NOBR>EU-kommissionären</NOBR> för sysselsättning där ett gemensamt synsätt på framtidens arbetsmarknad skulle lyftas fram. I anknytning till mötet ratificerade Sverige och Island även ILO:s konvention nr. 189 om anständiga arbetsvillkor för hushållsarbete.</P>
+<P class="p76 ft3">I samband med ministermötet arrangerades också en konferens om framtidens arbetsmarknad tillsammans med Ministerrådet för jämställdhet <NOBR>(MR-JÄM).</NOBR> I fokus stod frågor som hur den snabbt föränderliga arbetsmarknaden påverkar de nordiska länderna och deras arbetsmarknadsmodeller samt vad som krävs för att Norden ska nå jämställdhet och hållbarhet i arbetslivet. ILO:s generaldirektör Guy Ryder och arbetsmarknadens parter deltog på konferensen och ministermötet. Konferensen i Reykjavik utgjorde den sista delen i ett flerårigt projekt som fokuserat på de framtida utmaningarna på arbetsmarknaden och blev det nordiska bidraget till ILO:s hundraårsjubileum 2019.</P>
+<P class="p73 ft5">I april lanserades en uppmärksammad studie av introduktionsprogrammen för nyanlända i Danmark, Norge och Sverige.</P>
+</DIV>
+</DIV>
+</DIV>
+<DIV id="page_15">
+
+
+<P class="p91 ft3">Studien genomfördes av en nordisk forskargrupp på uppdrag av Nordiska Skr. 2019/20:90</P>
+<P class="p92 ft3">ministerrådets arbetsmarknadsutskott och det Nordiska samarbetsprogrammet för integration. Studien visade olika etableringsresultat för länderna beroende på när uppföljningen skedde. Sverige uppvisade bäst resultat på lång sikt, medan Danmark och Norge uppvisade bättre etableringsresultat på kort sikt.</P>
+<P class="p93 ft3">I oktober samlades för första gången medlemmar i såväl ämbetsmannakommittén för arbetsliv som de nordiska <NOBR>arbetsmarknads-,</NOBR> <NOBR>arbetsmiljö-,</NOBR> och arbetsrättsutskotten. De möten som anordnades samlade ett <NOBR>60-tal</NOBR> personer och en gemensam workshop anordnades med representanter från det pågående treåriga nordiska forskningsprojektet om framtidens arbetsliv som leds av den norska forskningsstiftelsen Fafo.</P>
+<P class="p93 ft3">I november genomfördes den nordiska konferensen ”The Working Conditions of Tomorrow” i Reykjavik. Konferensen var en uppföljning av seminariet om ordning och reda på arbetsmarknaden som Sverige arrangerade under det svenska ordförandeskapet i Nordiska ministerrådet 2018.</P>
+<P class="p57 ft11">I slutet av året förnyades överenskommelsen mellan Finland, Norge och Sverige om stiftelsen Utbildning nord, ett samarbete som anordnar och utvecklar utbildningar för arbetsmarknadens behov i de nordligaste delarna av Finland, Norge och Sverige.</P>
+<P class="p94 ft15"><SPAN class="ft17">3.10</SPAN><SPAN class="ft21">Ministerrådet för jämställdhet</SPAN></P>
+<P class="p67 ft11">Ministerrådet för jämställdhet <NOBR>(MR-JÄM)</NOBR> prioriterade under året arbetet med mäns våld mot kvinnor, konsekvenser av <NOBR>metoo-rörelsen,</NOBR> jämställdhet i arbetslivet, män och jämställdhet samt jämställdhet i Västnorden och Arktis.</P>
+<P class="p43 ft3">Island ansvarade för de nordiska ordförandeskapsaktiviteterna vid FN:s kvinnokommissions, Commission on the Status for Women (CSW), årliga möte. Bland annat anordnades ett sidoevenemang med de nordiska jämställdhetsministrarna i samarbete med UN Women och The Nordic Gender Effect at Work samt ett expertseminarium om sociala försäkringssystem. Dessutom undertecknade de nordiska jämställdhetsministrarna en deklaration om att främja jämställdhet globalt, för att uppnå det globala hållbarhetsmålet 5 om jämställdhet, som överlämnades till UN Womens generalsekreterare Phumzile Mlambo- Ngcuka.</P>
+<P class="p43 ft3">Det årliga mötet i <NOBR>MR-JÄM</NOBR> hölls i Reykjavik i september och där deltog Åsa Lindhagen, jämställdhetsminister och minister med ansvar för arbetet mot diskriminering och segregation. På mötet beslutade de nordiska ministrarna att verka för lika rättigheter, behandling och möjligheter för <NOBR>hbtqi-personer</NOBR> i Norden. Beslut fattades även om en nordisk forskningssatsning om sexuella trakasserier i arbetslivet.</P>
+<P class="p77 ft11">I samband med mötet arrangerades också, tillsammans med andra ministerråd, en internationell konferens om <NOBR>metoo-rörelsen.</NOBR> I fokus stod frågor som anledningen till metoo, varför rörelsen sett olika ut i olika länder samt hur rörelsen fortgått under de senaste två åren.</P>
+<P class="p95 ft3">15</P>
+</DIV>
+<DIV id="page_16">
+
+
+<P class="p96 ft11">Skr. 2019/20:90 <NOBR>MR-JÄM</NOBR> anordnade under året en konferens om framtidens arbetsmarknad tillsammans med ministerrådet för arbetsliv. I samband med konferensen arrangerades också ett internationellt seminarium om likalön tillsammans med Epic (Equal Pay International Coalition).</P>
+<P class="p97 ft3">I november lanserades rapporten State of Nordic Fathers som <NOBR>MR-JÄM</NOBR> låtit ta fram. Nordiska pappor använder i dag <NOBR>10–30</NOBR> procent av den totala föräldraledigheten. Rapporten undersöker varför och identifierar möjliga sätt att öka pappors andel av föräldraledigheten.</P>
+<P class="p98 ft11">Inom ramen för prioriteringen Jämställdhet i Västnorden och Arktis arrangerades en konferens om män och jämställdhet, föräldraledighet och omsorg på Färöarna i juni. Vid Arctic Circle i Reykjavik i oktober genomfördes också en paneldebatt på temat jämställdhet i Arktis.</P>
+<P class="p99 ft15"><SPAN class="ft17">3.11</SPAN><SPAN class="ft21">Ministerrådet för digitalisering</SPAN></P>
+<P class="p100 ft11">Ministerrådet för digitalisering <NOBR>(MR-Digital)</NOBR> är ett så kallat ad hocministerråd, med ett tillfälligt mandat <NOBR>2018–2020,</NOBR> som även inkluderar de baltiska länderna.</P>
+<P class="p97 ft3">Vid digitaliseringsministrarnas möte den 14 maj i Reykjavik utbyttes erfarenheter om bland annat strategier och initiativ för att digitalisera offentlig sektor och hur samarbetet om gränsöverskridande digitala tjänster skulle kunna stärkas. Generalsekreteraren informerade också om statusen för genomförandet av ministerdeklarationen Digital North 2018– 2020. Avslutningsvis ägde en politisk dialog med Nordiska rådet om införande av nordiska <NOBR>e-id</NOBR> rum. Dialogen föranleddes av att Nordiska rådet ställt två rekommendationer till <NOBR>MR-Digital</NOBR> (rek. <NOBR>21-2017</NOBR> och rek. 22- 2017).</P>
+<P class="p98 ft3">Vid digitaliseringsministrarnas möte den 27 november i Riga godkändes föreslagna prioriteringar och mål för <NOBR>MR-Digital</NOBR> under <NOBR>2021–2024</NOBR> och det danska inkommande ordförandeskapet presenterade planerna på att en ny ministerdeklaration, Digital North 2.0 ska undertecknas under hösten. Vidare diskuterades mål och prioriteringar för samarbetet om gränsöverskridande digitala tjänster, liksom samarbetet för att främja 5G- utvecklingen inom den <NOBR>nordisk-baltiska</NOBR> regionen. Sverige representerades vid mötet av energi- och digitaliseringsminister Anders Ygeman.</P>
+<P class="p101 ft3">Under 2019 gick <NOBR>MR-Digital</NOBR> vidare med genomförandet av de nordiska statsministrarnas deklaration om 5G, bland annat genom att anordna ett seminarium om 5G i Stockholm med deltagare från mobiloperatörer, utrustningsleverantörer, regleringsmyndigheter och testbäddar. Med utgångspunkt i en kartläggning av befintliga 4G- och <NOBR>5G-testbäddar</NOBR> i Norden och Baltikum diskuterades möjligheter att främja <NOBR>5G-utvecklingen</NOBR> inom regionen.</P>
+<P class="p102 ft11">Inom <NOBR>MR-Digital</NOBR> pågår även projektet <NOBR>Nordic-Baltic</NOBR> Electronic Identification (Nobid) som ska utveckla funktioner för gränsöverskridande elektronisk identifiering i Norden och Baltikum.</P>
+<P class="p103 ft3">16</P>
+</DIV>
+<DIV id="page_17">
+
+
+<TABLE cellpadding=0 cellspacing=0 class="t8">
+<TR>
+	<TD class="tr13 td26"><SPAN class="p104 ft17">3.12</SPAN> </TD>
+	<TD class="tr13 td27"><SPAN class="p105 ft15">Ministerrådet för ekonomi- och finanspolitik</SPAN> </TD>
+	<TD class="tr13 td14"><SPAN class="p3 ft3">Skr. 2019/20:90</SPAN> </TD>
+</TR>
+</TABLE>
+<P class="p85 ft3">Under våren 2019 lanserades årets upplaga av Nordic Economic Policy Review (NEPR) på temat klimatpolitik i Norden. Tidskriften ges ut årligen på initiativ av de nordiska finansministrarna i syfte att göra aktuell <NOBR>ekonomisk-politisk</NOBR> forskning mer tillgänglig för beslutsfattare och för att uppmuntra en bredare diskussion om gemensamma <NOBR>ekonomisk-politiska</NOBR> frågor. I samband med lanseringen av rapporten anordnades seminarier i Köpenhamn och Stockholm. I december anordnades också ett seminarium i Helsingfors där artiklar för NEPR 2020 på temat finansmarknadsreglering och makroekonomisk stabilitet i Norden presenterades.</P>
+<P class="p106 ft11">Under våren färdigställdes även rapporten Integrating immigrants into the Nordic labour markets som ger en översikt över befintliga åtgärder och tillvägagångssätt för att integrera invandrare på de nordiska arbetsmarknaderna.</P>
+<P class="p43 ft3">Under året sammanställdes även den årliga nordiska konjunkturrapporten Nordic Economic Outlook, som beskriver den makroekonomiska utvecklingen i de fem nordiska länderna utifrån tillväxtutveckling, konjunkturcykler och offentliga finanser.</P>
+<P class="p93 ft11">I oktober hölls ett nordiskt ministerrådsmöte i Washington där huvudtemat var penningtvätt och terrorismfinansiering. På mötet diskuterades dessutom klimatfrågor, brexit och hur integrationen av invandrare på den nordiska arbetsmarknaden kan underlättas.</P>
+<P class="p94 ft15"><SPAN class="ft17">3.13</SPAN><SPAN class="ft21">Ministerrådet för lagstiftningsfrågor</SPAN></P>
+<P class="p67 ft3">Inom ministerrådet för lagstiftningsfrågor hölls den 2 september ett möte mellan de nordiska ländernas justitieministrar i Reykjavik. Vid mötet antogs en deklaration om samarbete i förhållande till utländska terroriststridande och en deklaration gällande fortsatt förstärkning och utveckling av samarbetet mot sexualbrott mot barn på internet. Diskussioner fördes om åtgärder mot korruption i gränsöverskridande situationer och erfarenheter av våldsbejakande högerextrema rörelser utbyttes. Beslut fattades om att arbeta vidare med frågorna. I december hölls en konferens om att bekämpa sexuella övergrepp mot barn på internet.</P>
+<P class="p39 ft11">Vartannat år hålls ministermöten kring rättsliga frågor inom ramen för det nordiska samarbetet med Baltikum. Sverige kommer att stå värd när de nordiska och baltiska justitieministrarna träffas 2020.</P>
+<P class="p107 ft3">17</P>
+</DIV>
+<DIV id="page_18">
+
+
+<TABLE cellpadding=0 cellspacing=0 class="t9">
+<TR>
+	<TD class="tr0 td28"><SPAN class="p3 ft3">Skr. 2019/20:90</SPAN> </TD>
+	<TD class="tr0 td29"><SPAN class="p18 ft1">4</SPAN> </TD>
+	<TD class="tr0 td30"><SPAN class="p19 ft1">Nordiskt utrikes- och säkerhetspolitiskt</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr11 td28"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr11 td29"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr11 td30"><SPAN class="p19 ft1">samarbete</SPAN> </TD>
+</TR>
+</TABLE>
+<P class="p108 ft11">Under 2019 samordnade Island det informella nordiska (N5) och nordiskbaltiska (NB8) utrikes- och säkerhetspolitiska samarbetet. Island prioriterade under sitt ordförandeskap frågor som rör säkerhetspolitik, mänskliga rättigheter och havsrätt.</P>
+<P class="p97 ft3"><NOBR>N5-samarbetet</NOBR> fortsatte under 2019 att fokusera på närområdesfrågorna men inkluderade även samverkan i internationella frågor och utmaningar. Samarbetena inom ramen för det informella nordiska utrikespolitiska samarbetet och det <NOBR>nordisk-baltiska</NOBR> samarbetet är fortsatt högt prioriterade, inte minst i ljuset av den säkerhetspolitiska utvecklingen i närområdet.</P>
+<P class="p97 ft3">Under Nordiska rådets sessionsvecka möttes de nordiska statsministrarna, respektive utrikesministrarna, biståndsministrarna och de nordiska samarbetsministrarna. Den 30 oktober var statsminister Stefan Löfven värd för ett möte mellan de nordiska statsministrarna och företrädarna för de tre nordiska självstyrande områdena Färöarna, Grönland och Åland samt generalsekreteraren för Nordiska ministerrådet. Fokus för mötet var det nordiska samarbetet inom klimat och miljö. Samma dag var utrikesminister Ann Linde värd för ett informellt möte mellan de nordiska utrikesministrarna. Vid mötet diskuterades bland annat ett fördjupat nordiskt utrikes- och säkerhetspolitiskt samarbete och utvecklingen i Syrien och Ryssland.</P>
+<P class="p109 ft3">Den 11 september deltog utrikesminister Linde vid ett informellt nordiskt utrikesministermöte i Borgarnes, Island. Dagen därpå, den 12 september, deltog utrikesminister Linde vid ett <NOBR>nordiskt-baltiskt</NOBR> utrikesministermöte i Borgarnes. Fokus för både det nordiska och det <NOBR>nordisk-baltiska</NOBR> mötet var närområdet, transatlantiskt samarbete, demokratifrågor, Arktis, Ryssland och Ukraina.</P>
+<P class="p98 ft3">Den 1 april anordnades ett utrikesministermöte mellan <NOBR>NB8-länderna</NOBR> och <NOBR>Visegrad-kretsen</NOBR> (Polen, Tjeckien, Slovakien och Ungern) i Palanga, Litauen. De deltagande ministrarna diskuterade gemensamma säkerhets- och utrikespolitiska utmaningar, globala trender och frågor på den europeiska agendan.</P>
+<P class="p98 ft11">Det nordiska <NOBR>FN-samarbetet</NOBR> på det utrikespolitiska området är omfattande och tätt. Det finns ett starkt nordiskt stöd till Norges säkerhetsrådskandidatur <NOBR>2021–2022.</NOBR></P>
+<P class="p110 ft11">I samband med Nordiska rådets session i Stockholm i oktober enades de nordiska utrikesministrarna om att be särskilde utredaren Björn Bjarnasson, tidigare isländsk justitieminister, att ta fram en ny rapport om fördjupat nordiskt utrikes- och säkerhetspolitiskt samarbete, som en uppföljning på den så kallade <NOBR>Stoltenberg-rapporten</NOBR> som publicerades 2009.</P>
+<P class="p111 ft3">18</P>
+</DIV>
+<DIV id="page_19">
+
+
+<TABLE cellpadding=0 cellspacing=0 class="t3">
+<TR>
+	<TD class="tr0 td12"><SPAN class="p18 ft1">5</SPAN> </TD>
+	<TD class="tr0 td13"><SPAN class="p19 ft1">Nordiskt samarbete inom försvar och</SPAN> </TD>
+	<TD class="tr0 td14"><SPAN class="p3 ft3">Skr. 2019/20:90</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr11 td12"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr11 td13"><SPAN class="p19 ft1">krisberedskap</SPAN> </TD>
+	<TD class="tr11 td14"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+</TABLE>
+<P class="p112 ft15"><SPAN class="ft15">5.1</SPAN><SPAN class="ft20">Nordiskt försvarssamarbete</SPAN></P>
+<P class="p113 ft3">Försvarssamarbetet mellan de nordiska länderna vidareutvecklades under 2019 inom Nordic Defence Cooperation (Nordefco) i linje med det strategiska styrdokumentet Vision 2025. I januari 2019 tog Sverige över det roterande ordförandeskapet i Nordefco och var under året värd för regelbundna möten på såväl politisk som militär nivå. Under det svenska ordförandeskapet enades de nordiska försvarsministrarna om en mekanism</P>
+<P class="p114 ft11">för kriskonsultationer och informationsutbyte mellan försvarsdepartementen som kan användas i händelse av kris eller konflikt. Som Försvarsberedningen konstaterat bidrar det nordiska försvarssamarbetet till förutsägbarhet, främjar fredlig utveckling och höjer tröskeln för militära incidenter och konflikter.</P>
+<P class="p115 ft3">Under året ingicks ett avtal mellan de fem nordiska länderna om samarbete om alternativa landningsbaser, vilket även omfattar bestyckade stridsflygplan. Danmark, Finland, Norge och Sverige undertecknade även ett underavtal om försörjningstrygghet inom materielområdet.</P>
+<P class="p115 ft3">Under svensk ledning genomfördes flygövningen Arctic Challenge Exercise för första gången på så kallad flaggnivå i <NOBR>maj–juni</NOBR> 2019. Vidare har initiativ tagits för att identifiera möjliga samarbetsprojekt inom de militära delarna av området Totalförsvar. Sverige och Finland bidrog även inom ramen för <NOBR>Nordefco-projektet</NOBR> Nordic Mobile Training Teams till FN:s insats Minusma genom en utbildningsinsats i syfte att höja soldaters grundläggande soldatfärdigheter.</P>
+<P class="p21 ft11">Under hösten 2019 var Sverige också ordförande i det försvarspolitiska forumet Norra gruppen som utöver de nordiska och baltiska länderna omfattar Storbritannien, Polen, Tyskland och Nederländerna.</P>
+<P class="p116 ft22">5.2 Nordiskt samarbete om samhällets krisberedskap</P>
+<TABLE cellpadding=0 cellspacing=0 class="t10">
+<TR>
+	<TD class="tr2 td31"><SPAN class="p3 ft3">Det nordiska krisberedskapssamarbetet fortsatte under 2019 i enlighet med</SPAN> </TD>
+	<TD class="tr2 td32"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr4 td31"><SPAN class="p3 ft3">de så kallade Hagadeklarationerna. Samarbetet syftar till att stärka de</SPAN> </TD>
+	<TD class="tr4 td32"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr4 td31"><SPAN class="p3 ft3">nordiska ländernas förmåga att motstå och hantera allvarliga olyckor och</SPAN> </TD>
+	<TD class="tr4 td32"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr5 td31"><SPAN class="p3 ft3">kriser som kan drabba ett eller flera länder i Norden. Hagasamarbetet</SPAN> </TD>
+	<TD class="tr5 td32"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr4 td31"><SPAN class="p3 ft3">firade under året <NOBR>10-årsjubileum.</NOBR></SPAN> </TD>
+	<TD class="tr4 td32"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr5 td31"><SPAN class="p117 ft3">Ett ministermöte genomfördes den 15 oktober 2019 i Oslo där ministrar</SPAN> </TD>
+	<TD class="tr5 td32"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr4 td31"><SPAN class="p3 ft3">med ansvar för krisberedskapsfrågor antog Hagadeklarationernas</SPAN> </TD>
+	<TD class="tr4 td32"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr4 td31"><SPAN class="p3 ft3">utvecklingsmål för <NOBR>2019–2021</NOBR> och Oslokonklusioner. Innebörden var att</SPAN> </TD>
+	<TD class="tr4 td32"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr4 td31"><SPAN class="p3 ft3">ministrarna enades om en fortsatt utveckling av det nordiska samarbetet</SPAN> </TD>
+	<TD class="tr4 td32"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr5 td31"><SPAN class="p3 ft3">om hantering av skogsbränder, nödkommunikation och arbetet med att</SPAN> </TD>
+	<TD class="tr5 td32"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr4 td31"><SPAN class="p3 ft3">förebygga och hantera olyckor och kriser med kemiska, biologiska,</SPAN> </TD>
+	<TD class="tr4 td32"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr5 td31"><SPAN class="p3 ft3">radiologiska eller nukleära ämnen. Klimatförändringarna och deras</SPAN> </TD>
+	<TD class="tr5 td32"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr7 td31"><SPAN class="p3 ft3">konsekvenser för beredskapsarbetet lyftes också upp som viktiga att</SPAN> </TD>
+	<TD rowspan=2 class="tr15 td32"><SPAN class="p13 ft3">19</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr16 td31"><SPAN class="p3 ft23">&nbsp;</SPAN> </TD>
+</TR>
+</TABLE>
+</DIV>
+<DIV id="page_20">
+
+
+<P class="p96 ft11">Skr. 2019/20:90 beakta. Ministrarna såg också framtida behov av att utveckla <NOBR>civil-militär</NOBR> samverkan, öka kunskapen om hybrida aktiviteter och att i större utsträckning uppmärksamma Nordområdena. En målsättning med Hagasamarbetet är att åstadkomma kostnadseffektiva lösningar, bland annat genom att de nordiska länderna ser över vilka resurser man kan dela vid en nödsituation.</P>
+<P class="p118 ft1">6 Bilateralt nordiskt samarbete</P>
+<P class="p119 ft15">6.1 Finland</P>
+<TABLE cellpadding=0 cellspacing=0 class="t11">
+<TR>
+	<TD class="tr10 td33"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr10 td34"><SPAN class="p120 ft3">Samarbetet mellan Sverige och Finland är omfattande och relationen är</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr4 td33"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr4 td34"><SPAN class="p120 ft3">mycket god. Detta avspeglas i det nära bilaterala samarbetet i <NOBR>utrikes-,</NOBR></SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr5 td33"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr5 td34"><SPAN class="p120 ft3">säkerhets- och försvarspolitiska frågor, <NOBR>EU-frågor,</NOBR> <NOBR>FN-frågor</NOBR> samt handel</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr4 td33"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr4 td34"><SPAN class="p120 ft3">och investeringar. Besöksutbytet fortsatte vara omfattande på alla nivåer</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr4 td33"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr4 td34"><SPAN class="p120 ft3">under året och ett stort antal svenska ministrar och statssekreterare hade</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr5 td33"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr5 td34"><SPAN class="p120 ft3">överläggningar med sina finländska kollegor. Finland var under hösten</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr4 td33"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr4 td34"><SPAN class="p120 ft3">2019 ordförande i EU. Det finländska ordförandeskapet bidrog till ett</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr4 td33"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr4 td34"><SPAN class="p120 ft3">intensivt besöksutbyte mellan länderna.</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr5 td33"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr5 td34"><SPAN class="p121 ft3">Statsminister Stefan Löfven gjorde sitt första utlandsbesök under sin</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr4 td33"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr4 td34"><SPAN class="p120 ft3">andra mandatperiod som statsminister till Helsingfors den 28 januari 2019.</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr4 td33"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr4 td34"><SPAN class="p120 ft3">Besöket fokuserade på framtida möjligheter till fördjupat bilateralt</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr5 td33"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr5 td34"><SPAN class="p120 ft3">samarbete och dialog inom EU- och utrikespolitiken. Den 1 februari 2019</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr4 td33"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr4 td34"><SPAN class="p120 ft3">deltog utrikesminister Margot Wallström vid högnivådialogen Hanalys i</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr4 td33"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr4 td34"><SPAN class="p120 ft3">Finland tillsammans med Finlands utrikesminister Timo Soini. Under</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr5 td33"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr5 td34"><SPAN class="p120 ft3">mötet diskuterades bland annat det utrikes- och säkerhetspolitiska</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr4 td33"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr4 td34"><SPAN class="p120 ft3">samarbetet, arktiska frågor, de transatlantiska relationerna och aktuella</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr4 td33"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr4 td34"><SPAN class="p120 ft3"><NOBR>EU-ärenden.</NOBR></SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr5 td33"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr5 td34"><SPAN class="p121 ft3">Finlands statsminister Antti Rinne besökte Stockholm den 18 juni, kort</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr4 td33"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr4 td34"><SPAN class="p120 ft3">efter att den nya finländska regeringen tillträdde. Utrikesminister Pekka</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr4 td33"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr4 td34"><SPAN class="p120 ft3">Haavisto besökte Stockholm den 11 juni. Utrikesminister Ann Lindes</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr5 td33"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr5 td34"><SPAN class="p120 ft3">första bilaterala besök utomlands gick enligt tradition till Finland. Den 13</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr4 td33"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr4 td34"><SPAN class="p120 ft3">september besökte utrikesminister Linde Helsingfors för överläggningar</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr4 td33"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr4 td34"><SPAN class="p120 ft3">med utrikesminister Haavisto. Samtalen kretsade kring det fördjupade</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr5 td33"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr5 td34"><SPAN class="p120 ft3"><NOBR>svensk-finska</NOBR> utrikes- och säkerhetspolitiska samarbetet, säkerhetsläget i</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr4 td33"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr4 td34"><SPAN class="p120 ft3">vårt närområde, Ryssland, EU, FN och kärnvapennedrustning.</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr4 td33"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr4 td34"><SPAN class="p121 ft3">Försvarssamarbetet mellan Sverige och Finland är det mest långtgående</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr5 td33"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr5 td34"><SPAN class="p120 ft3">och intar i det avseendet en särställning. Det fördjupade</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr4 td33"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr4 td34"><SPAN class="p120 ft3">försvarssamarbetet syftar till att stärka Sveriges och Finlands nationella</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr5 td33"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr5 td34"><SPAN class="p120 ft3">försvar och ländernas förmåga att agera militärt tillsammans. Samarbetet</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr4 td33"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr4 td34"><SPAN class="p120 ft3">omfattar operationsplanering och förberedelser för gemensamt operativt</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr4 td33"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr4 td34"><SPAN class="p120 ft3">användande av civila och militära resurser i olika scenarier, t.ex. i händelse</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr4 td33"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr4 td34"><SPAN class="p120 ft3">av territoriella kränkningar och väpnade angrepp. Genomförandet av det</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr5 td33"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr5 td34"><SPAN class="p120 ft3">fördjupade försvarssamarbetet fortsatte under 2019 i enlighet med det</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr4 td33"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr4 td34"><SPAN class="p120 ft3">bilaterala samförståndsavtalet från 2018. Bland annat genomfördes i</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr4 td33"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr4 td34"><SPAN class="p120 ft3">november en scenariobaserad övning på ministernivå, en så kallad Table</SPAN> </TD>
+</TR>
+<TR>
+	<TD rowspan=2 class="tr2 td33"><SPAN class="p122 ft3">20</SPAN> </TD>
+	<TD class="tr7 td34"><SPAN class="p120 ft3">Top Exercise. Övningen baserades på ett fiktivt scenario med en konflikt</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr17 td34"><SPAN class="p3 ft24">&nbsp;</SPAN> </TD>
+</TR>
+</TABLE>
+</DIV>
+<DIV id="page_21">
+
+
+<P class="p66 ft11">i Östersjöregionen. Bland annat diskuterades möjligheter för gemensamt Skr. 2019/20:90 militärt agerande och former för politiskt beslutsfattande i händelse av en</P>
+<P class="p91 ft3">konflikt.</P>
+<P class="p93 ft11">Regeringen fortsatte stödja nordiskt samarbete för <NOBR>finsk-svenska</NOBR> projekt med medel, bland annat Stiftelsen Finlands kulturinstitut i Sverige, samt projektet Svenska nu i Finland, som syftar till att stärka svenskundervisningen i finskspråkiga skolor.</P>
+<P class="p78 ft15"><SPAN class="ft15">6.2</SPAN><SPAN class="ft20">Norge</SPAN></P>
+<P class="p67 ft3">Sverige och Norge har ett mycket gott och nära samarbete. Under 2019 fortsatte det intensiva besöksutbytet mellan Sverige och Norge på alla politiska nivåer. Den 11 februari besökte utrikesminister Margot Wallström Oslo för överläggningar med utrikesminister Ine Eriksen Søreide. Den 5 september besökte utrikesminister Wallström Oslo för att hålla en föreläsning på Universitetet i Oslo och inviga den svenska ambassadens nya lokaler. Ett möte hölls också med utrikesminister Eriksen Søreide. Samtalen inkluderade <NOBR>svensk-norska</NOBR> relationer, närområdet, freds- och konfliktmedling och aktuella <NOBR>FN-frågor.</NOBR></P>
+<P class="p42 ft11">Under 2019 gav Sverige stöd för den norska kandidaturen till FN:s säkerhetsråd för perioden <NOBR>2021–2022.</NOBR></P>
+<P class="p43 ft3">Norge är fortsatt, vid sidan av Tyskland, Sveriges viktigaste handelspartner. Den totala handeln med Norge är emellertid större än vad både export- och importsiffrorna för varor visar. Till detta kommer gränshandeln som årligen bedöms uppgå till omkring 15 miljarder svenska kronor. En arbetsgrupp med representanter från respektive regeringskansli träffades i september i Oslo för att diskutera gränshinder och handelshinder.</P>
+<P class="p82 ft11">Försvarssamarbetet mellan Sverige och Norge har stärkts. Pågående verksamhet innefattar bland annat säkerhetspolitiska diskussioner liksom erfarenhetsutbyte, om till exempel totalförsvar och personalförsörjning.</P>
+<P class="p43 ft11">Regeringen fortsatte stödja <NOBR>norsk-svenska</NOBR> projekt med medel för nordiskt samarbete. Stöd gavs bland annat till Voksenåsen vars programverksamhet syftar till att främja det <NOBR>svensk-norska</NOBR> samarbetet och öka kunskaperna om ländernas samhällsliv, språk och kultur. Kurs- och konferensanläggningen Voksenåsen är Norges nationalgåva till Sverige som tack för den humanitära hjälpen under andra världskriget.</P>
+<P class="p123 ft15"><SPAN class="ft15">6.3</SPAN><SPAN class="ft20">Danmark</SPAN></P>
+<P class="p124 ft3">De mycket goda förbindelserna mellan Sverige och Danmark kännetecknas av vår gemensamma historia, den geografiska närheten och det omfattande handelsutbytet. Efter det danska Folketingsvalet den 5 juni 2019 intensifierades besöksutbytet på regeringsnivå mellan Sverige och Danmark under hösten. Danmarks statsminister Mette Frederiksen, utrikesminister Jeppe Kofod, försvarsminister Trine Bramsen och biståndsminister Rasmus Prehn besökte Stockholm för möten med sina svenska kollegor. Utrikesminister Ann Linde, <NOBR>EU-minister</NOBR> Hans</P>
+<P class="p125 ft3">21</P>
+</DIV>
+<DIV id="page_22">
+
+
+<P class="p96 ft3">Skr. 2019/20:90 Dahlgren, landsbygdsminister Jennie Nilsson och socialförsäkringsminister Ardalan Shekarabi besökte under hösten Köpenhamn för möten med sina danska motparter. Den <NOBR>16–18</NOBR> september 2019 besökte Kronprinsessparet Danmark, tillsammans med en företagsdelegation med drygt 20 företag. Fokus låg på främjande av grön omställning, infrastruktur och välfärdsteknologi. Från regeringens sida deltog socialminister Lena Hallengren.</P>
+<P class="p126 ft3">Den integrationsprocess som har vuxit fram i Öresundsregionen sedan Öresundsbron öppnande år 2000 är fortsatt mycket viktig för de svenskdanska förbindelserna. År 2020 uppmärksammas Öresundsbrons 20- årsjubileum. Arbetet med att undanröja gränshinder inom regionen fortsatte under året i samarbete med regionala och nationella aktörer. Regeringen fattade under året nya beslut om gränskontroll vid inre gränser som gäller till och med den 11 maj 2020. Den 12 november återinförde Danmark gränskontroller vid den inre gränsen mot Sverige.</P>
+<P class="p127 ft15"><SPAN class="ft17">6.4</SPAN><SPAN class="ft18">Island</SPAN></P>
+<P class="p128 ft3">Förbindelserna mellan Sverige och Island är mycket goda.</P>
+<P class="p97 ft3">Under 2019 präglades det politiska utbytet av det isländska ordförandeskapet i Nordiska ministerrådet och landets samordningsansvar för de nordiska och <NOBR>nordisk-baltiska</NOBR> utrikes- och säkerhetspolitiska samarbetena. Totalt besökte 14 svenska ministrar Island under året och i samband med möten i nordiskt format förekom det ofta möten mellan svenska och isländska företrädare, till exempel mellan statsministrarna den 19 augusti.</P>
+<P class="p101 ft11">HKH Kronprinsessan besökte Island <NOBR>10–11</NOBR> oktober för att delta i den isländska Arktiskonferensen Arctic Circle.</P>
+<P class="p129 ft5">Det isländska Alltingets talman Steingrímur J. Sigfússon med delegation besökte Sverige <NOBR>14–16</NOBR> maj.</P>
+<P class="p130 ft1">7 Nordområdessamarbetet</P>
+<TABLE cellpadding=0 cellspacing=0 class="t12">
+<TR>
+	<TD class="tr12 td22"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr12 td23"><SPAN class="p81 ft15">7.1</SPAN> </TD>
+	<TD class="tr12 td35"><SPAN class="p37 ft15">Arktis</SPAN> </TD>
+	<TD class="tr12 td36"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr12 td37"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr12 td38"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr12 td39"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr15 td22"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD colspan=6 class="tr15 td25"><SPAN class="p81 ft3">En stor del av de nordiska land- och havsområdena ligger i den arktiska</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr4 td22"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD colspan=6 class="tr4 td25"><SPAN class="p81 ft3">regionen och Arktis är en viktig komponent i de nordiska ländernas nära</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr4 td22"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD colspan=6 class="tr4 td25"><SPAN class="p81 ft3">samarbete. De nordiska ländernas politiska företrädare möts regelbundet</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr5 td22"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD colspan=6 class="tr5 td25"><SPAN class="p81 ft3">och diskuterar ofta frågor som rör Arktis, inklusive utrikes- och</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr4 td22"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD colspan=6 class="tr4 td25"><SPAN class="p81 ft3">säkerhetspolitiska aspekter samt klimat och miljö. En sådan diskussion</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr4 td22"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD colspan=6 class="tr4 td25"><SPAN class="p81 ft3">ägde rum i samband med Nordiska rådets session i Stockholm i oktober. I</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr5 td22"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD colspan=6 class="tr5 td25"><SPAN class="p81 ft3">anslutning genomfördes också en nordisk paneldiskussion om Arktis på</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr4 td22"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD colspan=4 class="tr4 td40"><SPAN class="p81 ft3">ministernivå på Nordiska museet i Stockholm.</SPAN> </TD>
+	<TD class="tr4 td38"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr4 td39"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr4 td22"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD colspan=6 class="tr4 td25"><SPAN class="p13 ft3">Nordiska ministerrådets samarbetsprogram Partnerskap för Arktis utgör</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr5 td22"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD colspan=5 class="tr5 td41"><SPAN class="p81 ft3">ramen för projekten och aktiviteterna i Arktis. Det</SPAN> </TD>
+	<TD class="tr5 td39"><SPAN class="p13 ft3">fyråriga arktiska</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr9 td22"><SPAN class="p13 ft3">22</SPAN> </TD>
+	<TD colspan=2 class="tr9 td42"><SPAN class="p81 ft3">samarbetsprogrammet</SPAN> </TD>
+	<TD class="tr9 td36"><SPAN class="p3 ft3"><NOBR>(2018–2021)</NOBR></SPAN> </TD>
+	<TD class="tr9 td37"><SPAN class="p3 ft3">har</SPAN> </TD>
+	<TD class="tr9 td38"><SPAN class="p3 ft3">ett</SPAN> </TD>
+	<TD class="tr9 td39"><SPAN class="p13 ft3">övergripande</SPAN> </TD>
+</TR>
+</TABLE>
+</DIV>
+<DIV id="page_23">
+
+
+<P class="p131 ft11">hållbarhetsperspektiv baserat på Agenda 2030 med fyra huvudteman Skr. 2019/20:90 (people, planet, prosperity och partnership). Under 2019 omslöt</P>
+<P class="p132 ft3">programmet totalt ca 9 miljoner danska kronor, inklusive de politiskt prioriterade projekten. Även inom andra delar av samarbetet inom Nordiska ministerrådet pågår projekt med arktiskt fokus – särskilt inom ramen för miljö- och klimatsektorn, men även vad gäller hållbar turism.</P>
+<P class="p133 ft3">Det parlamentariska samarbetet inom Nordiska rådet om Arktis och Barentsregionen sker bland annat genom den permanenta arktiska parlamentarikerkommittén (SCPAR) som vartannat år arrangerar arktiska parlamentarikerkonferenser. 2019 var ett mellanår utan arktiska parlamentarikerkonferenser, men ett <NOBR>SCPAR-kommittémöte</NOBR> hölls i Murmansk i mars.</P>
+<P class="p134 ft3">Arktiska rådets arbete under 2019 präglades av utrikesministermötet i Rovaniemi i maj. För första gången sedan rådets tillkomst kunde man inte enas om en gemensam ministerdeklaration, främst på grund av oenighet om behovet av referenser till klimatutvecklingen i regionen. Ministrarna kunde dock anta en rapport med bland annat arbetsplaner för rådets arbetsgrupper inför nästa tvåårsperiod samt mandat för nya politiskt prioriterade projekt. Exempel på viktiga aktiviteter för svensk del är lanseringen av ett projekt om marin nedskräpning och ett annat om våtmarker och biologisk mångfald. I samband med utrikesministermötet lämnade Finland över ordförandeskapet till Island för perioden 2019– 2021.</P>
+<P class="p135 ft3">Under året belystes vikten av en aktiv <NOBR>EU-roll</NOBR> i Arktisfrågor ytterligare i olika sammanhang, bland annat i samband med att EU och Sverige gemensamt var värd för högnivåkonferensen EU Arctic Forum i Umeå i oktober. Konferensen samlade regeringsföreträdare, lokala och regionala myndigheter, urfolksrepresentanter, experter och andra intressenter från ett <NOBR>30-tal</NOBR> länder. Programmet fokuserade på frågor som internationell samverkan i Arktis, klimatförändringar, miljöpåverkan och hållbar ekonomisk utveckling i regionen. En särskild urfolksdialog riktade uppmärksamhet på urfolkens traditionella kunskaper och bidrag till utvecklingen i Arktis.</P>
+<P class="p134 ft11">Vid ministerrådets möte i december antog EU:s utrikesministrar rådslutsatser som tar fasta på vikten av ett fortsatt starkt <NOBR>EU-engagemang</NOBR> för Arktis och förespråkar en uppdatering av det gemensamma meddelandet om en integrerad <NOBR>EU-politik</NOBR> för Arktis från 2016.</P>
+<P class="p136 ft11">Arbetet med att ta fram en förnyad svensk strategi för den arktiska regionen påbörjades under slutet av året och kommer att färdigställas under första halvåret 2020. Det sker mot bakgrund av ett Arktis i snabb förändring. Viktiga drivkrafter för denna utveckling är den globala uppvärmningen och det ökande geopolitiska intresset, vilket får implikationer för miljö och klimat, ekonomisk aktivitet, levnadsvillkor och den säkerhetspolitiska miljön i regionen. Övriga nordiska länder står också i begrepp att ta fram förnyade Arktisstrategier.</P>
+<P class="p137 ft3">23</P>
+</DIV>
+<DIV id="page_24">
+
+
+<DIV>
+<DIV id="id_1">
+<P class="p71 ft3">Skr. 2019/20:90</P>
+<P class="p12 ft3">24</P>
+</DIV>
+<DIV id="id_2">
+<P class="p11 ft15"><SPAN class="ft17">7.2</SPAN><SPAN class="ft18">Barents</SPAN></P>
+<P class="p59 ft3">I Barentsrådet ingår Norge, Sverige, Finland, Ryssland, Island, Danmark och EU. Samarbetet bedrivs på både nationell och regional nivå. Ordförandeskapet är tvåårigt och roterar mellan de fyra förstnämnda länderna. Sveriges nationella ordförandeskap avslutades i oktober. Mellanfolkliga kontakter, inte minst mellan ungdomar, jämställdhet och hållbar utveckling, stod i centrum under ordförandeperioden. Resultat nåddes bland annat inom miljö och klimat, bioekonomi, turism, transport, krisberedskap, räddningstjänst och kultur.</P>
+<P class="p61 ft3">Under 2019 hölls flera stora möten och evenemang i regionen, bland annat urfolkskongress och urfolkstoppmöte, transportministermöte, parlamentarikerkonferens, Barents Rescue och Barents Forest Forum. Genom ett framgångsrikt arbete under året minskade antalet särskilt förorenade områden i nordvästra Ryssland, reviderades den gemensamma transportplanen och antogs en deklaration om hållbara transporter. Förberedelser inleddes också inför miljöministermötet i Luleå <NOBR>4–5</NOBR> februari 2020.</P>
+<P class="p138 ft19">Sveriges nationella ordförandeskap avslutades vid utrikesministermötet i Umeå den 3 oktober, då en framåtblickande deklaration antogs. Ungdomsrekommendationer välkomnades också, med syfte att lyfta ungdomsperspektivet inom samtliga samarbetsområden. Dagen innan hade Västerbotten övertagit det regionala ordförandeskapet, något som ger kontinuitet åt samarbetet och bidrar till att de kärnområden som varit i fokus för det nationella ordförandeskapet följs upp på ett betryggande sätt.</P>
+<P class="p88 ft11">I november tog Sverige tillsammans med Karelen över ordförandeskapet i arbetsgruppen för hälsa och sociala frågor. Prioriterade områden är förbättrad hälsa, bättre förutsättningar för barn och ungdomars utveckling samt ökad tillgång till hälsovård i glesbygden.</P>
+</DIV>
+</DIV>
+</DIV>
+<DIV id="page_25">
+<DIV id="p25dimg1">
+<INGENBILD zsrc="H7039025x1.jpg/" id="p25img1">
+</DIV>
+
+
+<P class="p139 ft3">Skr. 2019/20:90</P>
+<P class="p6 ft1">Utrikesdepartementet</P>
+<P class="p5 ft3">Utdrag ur protokoll vid regeringssammanträde den 19 mars 2020</P>
+<P class="p140 ft11">Närvarande: statsminister Löfven, ordförande, och statsråden Lövin, Johansson, Baylan, Hallengren, Hultqvist, Andersson, Bolund, Damberg, Shekarabi, Eriksson, Linde, Ekström, Eneroth, Nilsson, Ernkrans, Lindhagen, Lind, Hallberg, Nordmark, Micko</P>
+<P class="p141 ft3">Föredragande: statsrådet Hallberg</P>
+<P class="p142 ft3">Regeringen beslutar skrivelse Nordiskt samarbete 2019</P>
+<P class="p143 ft3">25</P>
+</DIV>
+
+</div><style>
+
+
+TD,TD.p2h {
+zzzfont-size:90%;
+zzzmargin-right:2px;
+zzzoverflow:visable;
+zzzword-wrap: break-word;
+}
+
+P {
+zdisplay:block;
+}
+
+.divbreak {
+clear:both;
+display:block;
+zwidth: 100%;
+zheight: 1px;
+zword-wrap: break-word;
+}
+
+
+.xecp {
+  display:block;
+  margin: 0px !important;
+  padding: 0px !important;
+  
+}
+
+.ec {
+  border-style:solid;
+  border-width:1px;
+  display:block;
+  margin: 0px !important;
+  padding: 0px !important;
+}
+
+.TOPS {
+  overflow:visable;
+  margin:2px;
+  width:690px !important;
+}
+
+</style>

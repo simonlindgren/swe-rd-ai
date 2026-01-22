@@ -1,0 +1,561 @@
+SEARCH TERM: AI
+DOCUMENT ID: gi03118
+TITLE: Lagstiftning med anledning av Sveriges anslutning till Europeiska atomenergigemenskapen
+TYPE: prop
+SUBTYPE: prop
+DATE: 1995-01-19
+PARLIAMENTARY YEAR: 1994/95
+ORGANISATION: Miljödepartementet
+STATUS: digitaliserad
+DOWNLOADED: 2026-01-22 10:29:17
+================================================================================
+
+<h1><a name="caption1"></a>Regeringens proposition<br>1994/95:118</h1>
+<h2>Lagstiftning med anledning av Sveriges<br>anslutning till Europeiska<br>atomenergigemenskapen</h2><img src="https://data.riksdagen.se/fil/GI03118/prop_199495__118-1.png" style="width:39pt;height:48pt;"/>
+<p>Prop.</p>
+<p>1994/95:118</p>
+<p>Regeringen överlämnar denna proposition till riksdagen.</p>
+<p>Stockholm den 19 januari 1995</p>
+<p>Ingvar Carlsson</p>
+<p>Anna Lindh</p>
+<p>(Miljödepartementet)</p>
+<h3>Propositionens huvudsakliga innehåll</h3>
+<p>I propositionen föreslås vissa lagändringar som en följd av att Sverige vid<br>ett medlemskap i EU ansluter sig till den Europeiska atomenergigemen-<br>skapen (Euratom).</p>
+<p>Anslutningen till Euratom föranleder endast mindre ändringar i de<br>svenska reglerna. När det gäller transporter av radioaktivt avfall föreslås<br>att strålskyddslagens (1988:220) tillämpningsområde utvidgas till att<br>omfatta tillståndsprövning vid export av radioaktivt avfall. Vidare bör<br>vissa grundläggande begränsningar i rätten till export tas in i lagen.<br>Samma regler kommer att gälla vid tillämpningen av kämtekniklagen<br>(1984:3) och lagen (1991:341) om strategiska produkter.</p>
+<p>Dessutom föreslås att det gällande förbudet mot slutförvaring i Sverige<br>av kärnavfall från utlandet utvidgas till att gälla mellanlagring i avvaktan<br>på slutförvaring.</p>
+<p>Euratomreglema om försöijning med kärnbränsle innebär att avtal om<br>leveranser måste godkännas av Euratoms forsöijningsbyrå. I proposi-<br>tionen föreslås ett bemyndigande i kämtekniklagen för regeringen att<br>meddela föreskrifter i syfte att säkerställa att reglerna följs på detta<br>område.</p>
+<p>Slutligen föreslås två tillägg till kämtekniklagen för att säkerställa att<br>de skyldigheter fullgörs som krävs enligt Euratoms regler om säker-<br>hetskontroll, dvs. åtgärder i syfte att förhindra spridning av kärnvapen.</p>
+<p>Lagstiftningen föreslås träda i kraft den 1 juli 1995.</p>
+<p>1 Riksdagen 1994/95. 1 saml. Nr 118</p>
+<h3>Innehållsförteckning</h3>
+<p>Prop. 1994/95:118</p>
+<p>1 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Förslag till riksdagsbeslut ..................... 3</p>
+<p>2 &nbsp;&nbsp;&nbsp;&nbsp;Lagtext ................................. 4</p>
+<p>2.1 &nbsp;&nbsp;Förslag till lag om ändring i strålskyddslagen</p>
+<p>(1988:220) &nbsp;.......................... 4</p>
+<p>2.2 &nbsp;&nbsp;Förslag till lag om ändring i lagen (1984:3) om kärn-<br>teknisk verksamhet...................... 6</p>
+<p>2.3 &nbsp;&nbsp;Förslag till lag om ändring i lagen (1991:341) om</p>
+<p>strategiska produkter .................... 8</p>
+<p>3 &nbsp;&nbsp;&nbsp;Ärendet och dess beredning .................... 9</p>
+<p>4 &nbsp;&nbsp;&nbsp;&nbsp;Allmänt om lagstiftningsbehovet ................. 9</p>
+<p>5 &nbsp;&nbsp;&nbsp;&nbsp;Informationsspridning ........................ 11</p>
+<p>6 &nbsp;&nbsp;&nbsp;&nbsp;Strålskydd och avfallstransporter ................. 14</p>
+<p>7 &nbsp;&nbsp;&nbsp;&nbsp;Mellanlagring av utländskt använt kärnbränsle och kärnav-</p>
+<p>fall ................................... 17</p>
+<p>8 &nbsp;&nbsp;&nbsp;&nbsp;Försörjning med kärnbränsle ................... 19</p>
+<p>9 &nbsp;&nbsp;&nbsp;&nbsp;Säkerhetskontroll av klyvbart material ..............22</p>
+<p>10 &nbsp;&nbsp;Författningskommentar .......................26</p>
+<p>10.1 &nbsp;Förslaget till lag om ändring i strålskyddslagen</p>
+<p>(1988:220)........................... 26</p>
+<p>10.2 &nbsp;Förslaget till lag om ändring i lagen (1984:3) om</p>
+<p>kärnteknisk verksamhet...................26</p>
+<p>10.3 &nbsp;Förslaget till lag om ändring i lagen (1991:341) om</p>
+<p>strategiska produkter ....................27</p>
+<p>Bilaga 1 &nbsp;&nbsp;&nbsp;&nbsp;Promemorians lagförslag ..................28</p>
+<p>Bilaga 2 &nbsp;&nbsp;&nbsp;Sammanställning av remissyttranden...........32</p>
+<p>Bilaga 3 &nbsp;&nbsp;&nbsp;&nbsp;Lagrådsremissens lagförslag ................36</p>
+<p>Bilaga 4 &nbsp;&nbsp;&nbsp;&nbsp;Lagrådets yttrande ......................41</p>
+<p>Utdrag ur protokoll vid regeringssammanträde .............42</p>
+<p>Rättsdatablad..................................43</p>
+<h3>1 Förslag till riksdagsbeslut</h3>
+<p>Prop. 1994/95:118</p>
+<p>Regeringen föreslår att riksdagen</p>
+<p>antar regeringens förslag till</p>
+<p>1. lag om ändring i strålskyddslagen (1988:220),</p>
+<p>2. lag om ändring i lagen (1984:3) om kärnteknisk verksamhet,</p>
+<p>3. lag om ändring i lagen (1991:341) om strategiska produkter.</p>
+<p>1* Riksdagen 1994/95. 1 saml. Nr 118</p>
+<h3>2 Lagtext</h3>
+<p>Regeringen har följande förslag till lagtext.</p>
+<p>Prop. 1994/95:118</p>
+<h4>2.1 Förslag till lag om ändring i strålskyddslagen<br>(1988:220)</h4>
+<p>Härigenom föreskrivs i fråga om strålskyddslagen (1988:220)</p>
+<p>dels att 5, 20 och 24 §§ skall ha följande lydelse,</p>
+<p>dels att det i lagen skall införas en ny paragraf, 20 a §, av följande<br>lydelse.</p>
+<p>Nuvarande lydelse &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Föreslagen lydelse</p>
+<p>5 §</p>
+<p>Med verksamhet med strålning avses i denna lag</p>
+<p>1. tillverkning, införsel, trans-<br>port, saluförande, överlåtelse,<br>upplåtelse, förvärv, innehav och<br>användning av eller annan därmed<br>jämförlig befattning med radioakti-<br>va ämnen,</p>
+<p>1. tillverkning, införsel, utför-<br>sel, transport, saluförande, över-<br>låtelse, upplåtelse, förvärv, in-<br>nehav och användning av eller<br>annan därmed jämförlig befattning<br>med radioaktiva ämnen,</p>
+<p>2. användning av eller annan därmed jämförlig befattning med tekniska<br>anordningar som kan alstra strålning.</p>
+<p>20 §</p>
+<p>Tillstånd krävs for att</p>
+<p>1. tillverka, till landet införa, transportera, saluföra, överlåta, upplåta,<br>förvärva, inneha eller använda ett radioaktivt ämne,</p>
+<p>2. tillverka, till landet införa, saluföra, överlåta, upplåta, förvärva,<br>inneha, använda, installera eller underhålla en teknisk anordning som kan<br>och är avsedd att sända ut joniserande strålning eller sådan del av<br>anordningen som är av väsentlig betydelse från strålningssynpunkt,</p>
+<p>3. tillverka, till landet införa,<br>saluföra, överlåta, upplåta, för-<br>värva, inneha, använda, installera<br>eller underhålla andra tekniska<br>anordningar än sådana som avses i<br>2 och som kan alstra joniserande<br>strålning och för vilka regeringen<br>eller den myndighet som regering-<br>en bestämmer föreskrivit krav på<br>tillstånd.</p>
+<p>3. tillverka, till landet infora,<br>saluföra, överlåta, upplåta, för-<br>värva, inneha, använda, installera<br>eller underhålla andra tekniska<br>anordningar än sådana som avses i<br>2 och som kan alstra joniserande<br>strålning och för vilka regeringen<br>eller den myndighet som regering-<br>en bestämmer föreskrivit krav på<br>tillstånd,</p>
+<p>4. frän landet utföra radioaktivt<br>avfall.</p>
+<p>20 a §</p>
+<p>Prop. 1994/95:118</p>
+<p>Tillstånd till utförsel av radio-<br>aktivt avfall får inte avse utförsel<br>till</p>
+<p>1. området söder om 60 grader<br>sydlig bredd,</p>
+<p>2. en stat utanför Europeiska<br>unionen som är part i den fjärde<br>ACP/EEG-konventionen av den 15<br>december 1989,</p>
+<p>3. en stat som förbjudit import<br>av radioaktivt avfall eller som kan<br>antas sakna förmåga att ta hand<br>om sådant avfall på ett säkert sätt.</p>
+<p>24 §</p>
+<p>Ett tillstånd får begränsas till att Ett tillstånd får begränsas till att<br>avse viss tid. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;avse viss tid. Tillstånd till införsel</p>
+<p>eller utförsel av radioaktivt avfall<br>skall begränsas till en tid av högst<br>tre år.</p>
+<p>Denna lag träder i kraft den 1 juli 1995.</p>
+<h4>2.2 Förslag till lag om ändring i lagen (1984:3) om käm- Prop. 1994/95:118<br>teknisk verksamhet</h4>
+<p>Härigenom föreskrivs i fråga om lagen (1984:3) om kärnteknisk<br>verksamhet</p>
+<p>dels att 5 a, 18 och 27 §§ skall ha följande lydelse,</p>
+<p>dels att det i lagen skall införas en ny paragraf, 8 a §, av följande<br>lydelse.</p>
+<p>Nuvarande lydelse &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Föreslagen lydelse</p>
+<p>5a§</p>
+<p>Tillstånd att uppföra en kämkraftsreaktor får inte meddelas.</p>
+<p>Det är förbjudet att utan särskilt<br>tillstånd här i riket slutförvara<br>använt kärnbränsle eller kärnavfall<br>från en kärnteknisk anläggning<br>eller en annan kärnteknisk verk-<br>samhet i ett annat land. Tillstånd<br>får medges endast om det finns<br>synnerliga skäl och genomförandet<br>av det program som avses i 12 §<br>inte försvåras.</p>
+<p>Det är förbjudet att utan särskilt<br>tillstånd här i riket slutförvara<br>använt kärnbränsle eller kärnavfall<br>från en kärnteknisk anläggning<br>eller en annan kärnteknisk verk-<br>samhet i ett annat land. Detsamma<br>gäller sådan lagring som sker i<br>avvaktan på slutförvaring (mellan-<br>lagring). Tillstånd får medges<br>endast om det finns synnerliga skäl<br>och genomförandet av det program<br>som avses i 12 § inte försvåras.</p>
+<p>/ fråga om tillstånd till införsel<br>eller utförsel av kärnavfall gäller<br>de begränsningar som anges i 20 a<br>och 24 §§ strålskyddslagen<br>(1988:220).</p>
+<p>8a §</p>
+<p>Regeringen får föreskriva att<br>tillstånd till kärnteknisk verksamhet<br>skall förenas med de villkor som<br>behövs för att säkerställa tillämp-<br>ningen av de krav i fråga om för-<br>sörjning med malmer, råmaterial<br>och speciella klyvbara material<br>som följer av bestämmelserna i<br>fördraget den 25 mars 1957 om<br>upprättandet av Europeiska atom-<br>energigemenskapen.</p>
+<p>18 § &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Prop. 1994/95:118</p>
+<p>Tillsynsmyndigheten får besluta om de åtgärder som behövs samt<br>meddela tillståndshavaren de förelägganden och förbud som behövs i<br>enskilda fall för att denna lag eller föreskrifter eller villkor som har<br>meddelats med stöd av lagen skall följas.</p>
+<p>Tillsynsmyndigheten får även<br>besluta om verkställandet av sank-<br>tioner enligt artikel 83.1 i fördra-<br>get den 25 mars 1957 om upprät-<br>tandet av Europeiska atomenergi-<br>gemenskapen.</p>
+<p>Om någon inte vidtar en åtgärd som åligger honom enligt denna lag<br>eller enligt föreskrifter eller villkor som har meddelats med stöd av lagen<br>eller enligt tillsynsmyndighetens föreläggande, får myndigheten låta vidta<br>åtgärden på hans bekostnad.</p>
+<p>27 §</p>
+<p>Den som inte fullgör vad tillsynsmyndigheten begär eller beslutar med<br>stöd av 17 eller 18 § eller vad den lokala säkerhetsnämnden begär med<br>stöd av 21 § eller som uppsåtligen eller av grov oaktsamhet lämnar<br>myndigheten eller nämnden oriktiga uppgifter, döms till böter eller<br>fängelse i högst sex månader.</p>
+<p>Till ansvar enligt första stycket<br>döms också den som inte fullgör<br>sin uppgiftsskyldighet enligt kom-<br>missionens förordning (Euratom) nr<br>3227/76 av den 19 oktober 1976<br>om tillämpning av bestämmelserna<br>om säkerhetskontroll i Euratom<br>eller som vid uppgiftslämnandet<br>uppsåtligen eller av grov oaktsam-<br>het lämnar oriktiga uppgifter till<br>kommissionen.</p>
+<p>Denna lag träder i kraft den 1 juli 1995.</p>
+<p>1** Riksdagen 1994/95. 1 saml. Nr 118</p>
+<h4>2.3 Förslag till lag om ändring i lagen (1991:341) om<br>strategiska produkter</h4>
+<p>Prop. 1994/95:118</p>
+<p>Härigenom föreskrivs att det i lagen (1991:341) om strategiska pro-<br>dukter skall inforas en ny paragraf, 4 §, av följande lydelse.</p>
+<table border="1">
+<tr><td>
+<p>Nuvarande lydelse</p></td><td>
+<p>Föreslagen lydelse</p>
+<p>4§</p>
+<p>I fråga om tillstånd till utförsel<br>av använt kärnbränsle gäller de<br>begränsningar som anges i 20 a<br>och 24 §§ strålskyddslagen<br>(1988:220).</p></td></tr>
+</table>
+<p>Denna lag träder i kraft den 1 juli 1995.</p>
+<h3>3 &nbsp;&nbsp;Ärendet och dess beredning</h3>
+<p>Ett medlemskap i EU innebär att Sverige ansluter sig till Europeiska<br>atomenergigemenskapen (Euratom). Regeringen har i prop. 1994/95:19<br>om Sveriges medlemskap i Europeiska unionen föreslagit att Euratom-<br>fördraget och de rättsakter m.m. som beslutats med stöd av detta fördrag<br>skall gälla i Sverige. I propositionen lämnas en översiktlig redogörelse<br>för innehållet i fördraget och rättsakterna. Vidare sägs i propositionen att<br>regeringen kommer att återkomma till riksdagen med förslag till de<br>lagändringar som behövs.</p>
+<p>Förslag till sådana kompletteringar har lämnats i promemorian Änd-<br>ringar i lagstiftningen om kärnsäkerhet och strålskydd med anledning av<br>anslutningen till den Europeiska atomenergigemenskapen (Ds 1994:124).<br>Promemorian har upprättats inom Miljödepartementet. Lagförslagen i<br>promemorian finns i bilaga 1.</p>
+<p>Miljödepartementet har inbjudit berörda myndigheter, företag och<br>organisationer till ett möte i oktober 1994 for att inhämta synpunkter på<br>förslagen i promemorian. Dessa har också lämnat skriftliga yttranden. En<br>förteckning över inbjudna till och närvarande vid mötet och en samman-<br>ställning av remissynpunkterna finns i bilaga 2.</p>
+<p>Lagrådet</p>
+<p>Regeringen beslöt den 8 december 1994 att inhämta Lagrådets yttrande<br>över de lagförslag som finns i bilaga 3. Lagrådet lämnade förslagen utan<br>erinran. Lagrådets yttrande finns i bilaga 4. Vissa redaktionella ändringar<br>har gjorts i lagtexten jämfört med de lagförslag som remitterades till<br>Lagrådet.</p>
+<h3>4 &nbsp;&nbsp;Allmänt om lagstiftningsbehovet</h3>
+<p>Prop. 1994/95:118</p>
+<p>Regeringens bedömning: Behovet av nationell lagstiftning som<br>komplettering till Euratom-fordraget bör bedömas med utgångs-<br>punkt från hur fördraget har kommit att tillämpas i praktiken.<br>Lagstiftning krävs därför bara i begränsad utsträckning.</p>
+<p>Promemorians bedömning: Överensstämmer med regeringens.</p>
+<p>Remissinstanserna: Ingen invändning framförs mot slutsatserna i pro-<br>memorian i denna del. Naturskyddsföreningen anser att beslutsunderlaget<br>och remissförfarandet är otillräckligt samt att ett beslut bör grundas på<br>en offentliggjord och remissgranskad, systematisk genomgång av<br>Unionens gällande rättsakter på området. Liknande synpunkter framförs<br>av Greenpeace.</p>
+<p>Skälen för regeringens bedömning: Euratom är en av de tre<br>ursprungliga Europeiska gemenskaperna och fördraget om Euratom<br>undertecknades liksom Romfördraget år 1957. Euratoms centrala uppgift<br>är enligt Euratom-fordraget att skapa de förutsättningar som behövs för<br></p>
+<p>en snabb organisation och tillväxt av kämenergiindustriema och Prop. 1994/95:118<br>därigenom bidra till en höjning av levnadsstandarden i medlemsstaterna<br>och till utvecklingen av förbindelserna med övriga länder. Innehållet i<br>fördraget bör bedömas i ljuset av det politiska läget under 1950-talet. Det<br>fredsbevarande syftet, att ställa en potentiellt farlig verksamhet under<br>gemensam kontroll, var därvid väsentligt. Samtidigt ville man med hjälp<br>av atomenergin göra Europa energimässigt oberoende av omvärlden. Det<br>gällde att skapa goda betingelser för en fortsatt snabb utbyggnad av<br>industrin och att rättvist fördela det uran som man vid den tidpunkten<br>antog skulle förbli en bristvara i världen.</p>
+<p>Förhållandena är sedan länge helt annorlunda än de som fanns då<br>Euratom-fordraget undertecknades. Kämkraftindustrin har varit verksam<br>under lång tid och behovet av forskning och utveckling har ändrats sedan<br>1957. Synen på kärnkraften är dessutom en annan. Det råder överskott<br>av uran på världsmarknaden och denna situation kan i stort sett förväntas<br>bestå.</p>
+<p>Detta har sammantaget lett till att fördraget i stora delar är föråldrat.<br>Delar av fördraget tillämpas inte enligt sin lydelse utan enligt en succes-<br>sivt utvecklad praxis. Av politiska skäl har det emellertid inte varit aktu-<br>ellt att omförhandla och ändra fördraget i dessa delar. Andra delar av<br>fördraget behandlar dock frågor som fortfarande är aktuella, dvs. där<br>spelar fördraget och de underliggande rättsakterna en viktig roll. Ex-<br>empel härpå är skapandet av en gemensam basnivå för strålskydd samt<br>kontrollen för att garantera att kämmaterial inte används for andra ända-<br>mål än dem för vilka de är avsedda (s.k. safeguards).</p>
+<p>Behovet av kompletterande svenska regler</p>
+<p>Efter anslutningen till EU gäller Euratom-fordraget i Sverige i enlighet<br>med lagen (1994:1500) med anledning av Sveriges anslutning till<br>Europeiska unionen. De förordningar som beslutats med stöd av<br>fördraget gäller också direkt i Sverige.</p>
+<p>Nationella regler krävs dock för att genomföra bestämmelserna i<br>direktiven under Euratom, eftersom sådana rättsakter inte är direkt<br>tillämpliga i Sverige. I vissa fall ställer Euratom-fordraget vidare krav på<br>att åtgärder vidtas av medlemsstaten för att säkerställa att kommissionen<br>och andra organ skall kunna fullgöra sina uppgifter. Vidare gäller som<br>en allmän princip att medlemsstaterna skall se till att de skyldigheter<br>fullgörs som åläggs enskilda enligt direkt tillämpliga rättsakter, främst<br>förordningar.</p>
+<p>Regeringen anser att behovet av lagstiftning skall bedömas mot bak-<br>grund av den praxis som har utvecklats vid tillämpningen av fördraget.<br>Som nämnts stämmer ofta inte fördragets ordalydelse och praxis överens.<br>Främst gäller detta Euratom-fördragets komplicerade system för att<br>säkerställa tillgången på kärnbränsle inom gemenskapen.</p>
+<p>I fråga om regler om strålskydd och s.k. safeguards finns det däremot<br>stora likheter mellan EU:s och Sveriges sätt att arbeta. Reglerna i för-<br>draget och i rättsakterna kan på ett enkelt sätt samordnas med det gäl-<br>lande svenska systemet. I allmänhet finns redan i den svenska lagstift-<br></p>
+<p>10</p>
+<p>ningen bemyndiganden för regeringen eller myndigheterna att besluta om Prop. 1994/95:118<br>de föreskrifter som behövs.</p>
+<p>När det gäller de synpunkter på ärendets beredning som framförts av<br>bl.a. Naturskyddsföreningen om behovet av en genomgång av Euratoms<br>rättsakter vill regeringen anföra följande. Förhandlingsresultatet på Eura-<br>tom-området samt innehållet i fördraget och i rättsakterna under Euratom<br>redovisas i propositionen om EU-medlemskap. Förhandlingarna om<br>medlemskap har bl.a. resulterat i en gemensam förklaring om tillämp-<br>ningen av fördraget, där vissa grundläggande frågor om fördragets<br>tillämpning klarläggs. Propositionen föregicks av en departementspro-<br>memoria om Sveriges medlemskap i den Europeiska unionen (Ds<br>1994:48). Promemorian har remissbehandlats. En mer utförlig genom-<br>gång av Euratom-fordraget och de sekundära rättsakterna på området<br>faller utanför ramen för detta lagstiftningsärende. De förslag som lämnas<br>i detta sammanhang avser främst att ändra lagstiftningen i de fall det be-<br>hövs för att komplettera de direkt verkande Euratomreglema.</p>
+<p>Den svenska lagstiftning som berörs finns främst i lagen (1984:3) om<br>kärnteknisk verksamhet (kämtekniklagen) och i strålskyddslagen<br>(1988:220). Av intresse i detta lagstiftningsärende är bestämmelserna i<br>avdelning II i Euratom, närmare bestämt reglerna om informationssprid-<br>ning (kap. 2), hälsoskydd (kap. 3), försöijning och egendomsordning<br>(kap. 6 och 8) samt säkerhetskontroll (kap. 7).</p>
+<p>De ändringar i lagstiftningen som föreslås innebär bl.a. nya regler om<br>tillståndsprövning vid utförsel av radioaktivt avfall. Förslagen medför<br>inte något behov av ökade resurser för de ansvariga myndigheterna.</p>
+<h3>5 Informationsspridning</h3>
+<p>Regeringens bedömning: Reglerna om gemensamt utnyttjande av<br>forskningsresultat på kämenergiområdet i kapitel 2 i Euratom-<br>fordraget tillämpas inte i praktiken. Det begränsande uppgiftsläm-<br>nande till kommissionen som sker på detta område kan fullgöras<br>utan särskild lagstiftning. Bestämmelserna om sekretess och tyst-<br>nadsplikt i samma kapitel och i artikel 194 i fördraget kräver inte<br>heller någon lagstiftning.</p>
+<p>Promemorians bedömning: Överensstämmer med regeringens.</p>
+<p>Remissinstanserna: Slutsatserna i promemorian om bestämmelserna<br>om sekretess och tystnadsplikt ifrågasätts av Naturskyddsföreningen och<br>Greenpeace. I övrigt kommenteras inte de överväganden som görs i<br>promemorian.</p>
+<p>Skälen för regeringens bedömning: Euratom-fördragets bestämmelser<br>om informationsspridning (kap. 2, artikel 12-29) syftar till att säkerställa<br>att patent, forskningsresultat m.m. snabbt skall bli tillgängliga för samt-<br>liga medlemsländer. Det finns enligt artikel 12 en skyldighet för kom-<br>missionen att till medlemsstater, personer och företag upplåta rätt till<br></p>
+<p>11</p>
+<p>icke-exklusiva licenser till sådana patent, provisoriska uppfinningsskydd, Prop. 1994/95:118<br>nyttighetsmodeller eller patentansökningar som gemenskapen innehar<br>under förutsättning att dessa kan effektivt utnyttja de uppfinningar som<br>licenserna avser.</p>
+<p>Det finns även en skyldighet för en medlemsstat att informera kom-<br>missionen om ansökningar om patent eller nyttighetsmodeller som an-<br>knyter till kämenergiområdet och som lämnas in i medlemsstaten. Om<br>sökanden samtycker, skall information om innehållet i ansökan lämnas<br>till kommissionen inom en bestämd tid. Om sökanden vägrar att ge sitt<br>samtycke, kan kommissionen ändå kräva att information om innehållet<br>i en ansökan lämnas (artikel 16). Fördraget innehåller vidare regler om<br>hur licenser till uppfinningar skall upplåtas till kommissionen för att<br>kunna utnyttjas i medlemsstaterna. I de fall en frivillig uppgörelse med<br>sökanden inte kan uppnås finns särskilda regler om skiljedom och tving-<br>ande beslut (artikel 17-23).</p>
+<p>Bestämmelserna har i allt väsentligt inte längre någon praktisk be-<br>tydelse. Medlemsländerna lämnar som en ren formalitet information till<br>kommissionen om de patentansökningar på området som lämnas in till<br>respektive medlemsstats patentmyndighet. Kommissionen sammanställer<br>den information om ansökningar som medlemsländerna lämnar in, men<br>man begär inte att få ta del av innehållet i ansökningarna.</p>
+<p>Reglerna om informationsspridning har kompletterats med vissa sekre-<br>tessbestämmelser. Enligt artikel 24 skall sådan information som Eura-<br>tomgemenskapen får när den genomför sitt forskningsprogram och vars<br>röjande är ägnat att skada en eller flera medlemsstaters försvarsintressen<br>vara sekretessbelagd i enlighet med vissa i fördraget angivna villkor. Om<br>kommissionen finner att röjandet av viss information är ägnat att skada<br>en eller flera medlemsländers försvarsintressen skall kommissionen tills<br>vidare tillämpa den sekretessgrad som anges i en av rådet antagen<br>sekretessförordning (Rådets förordning nr 3 av den 31 juli 1958 om<br>tillämpningen av artikel 24 i Euratom-fordraget).</p>
+<p>Kommissionen skall omedelbart lämna informationen till medlemssta-<br>terna som i sin tur skall säkerställa sekretessen på samma sätt. Medlems-<br>staterna skall inom tre månader underrätta kommissionen om de önskar<br>bibehålla den provisoriskt tillämpade sekretessgraden, ersätta den med en<br>annan eller häva sekretessen. Efter utgången av denna tid skall den<br>strängaste av de begärda sekretessgradema tillämpas. Kommissionen skall<br>underrätta medlemsstaterna om detta.</p>
+<p>Vidare kan en medlemsstat som informerar om förekomsten av eller<br>innehållet i en ansökan om patent eller nyttighetsmodell upplysa om<br>eventuella behov av sekretess på grund av försvarshänsyn. Kommissionen<br>och övriga medlemsstater skall därefter vidta de åtgärder som enligt<br>säkerhetsforordningen krävs för den sekretessgrad som medlemsstaten<br>begärt (artikel 25).</p>
+<p>Bestämmelser om sekretess och tystnadsplikt finns också i artikel 194<br>i fördraget. Enligt punkt 1 i denna artikel gäller bl.a. att medlemmarna<br>av gemenskapens kommittéer samt alla andra personer, som antingen i<br>tjänsten eller genom sina offentliga eller privata förbindelser med ge- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;12</p>
+<p>menskapens institutioner eller anläggningar eller med de gemensamma<br></p>
+<p>företagen skaffar sig eller får vetskap om sådana faktiska förhållanden, Prop. 1994/95:118<br>upplysningar, kunskaper, dokument eller föremål vilka är sekretessbe-<br>lagda med stöd av bestämmelser som utfärdats av en medlemsstat eller<br>någon av gemenskapens institutioner, är skyldiga att även efter det att<br>deras tjänst eller förbindelser har upphört, bevara sekretessen gentemot<br>alla obehöriga personer liksom allmänheten. Vaije medlemsstat skall<br>betrakta ett åsidosättande av denna skyldighet som ett brott mot landets<br>sekretessregler; staten skall därvid både i sakligt hänseende och när det<br>gäller behörigheten tillämpa sina rättsregler om brott mot statens säkerhet<br>eller om brott mot tystnadsplikt. Staten skall på begäran av varje berörd<br>medlemsstat eller kommissionen väcka talan mot var och en under dess<br>jurisdiktion som begår ett sådant brott.</p>
+<p>Enligt punkt 4 i samma artikel gäller, att om ett bemyndigande att<br>inhämta uppgifter om sådana faktiska förhållanden, upplysningar, doku-<br>ment eller föremål som omfattas av fördraget och som är sekretessbe-<br>lagda har lämnats av någon av gemenskapens institutioner eller av en<br>medlemsstat till en person som utövar sin verksamhet inom tillämp-<br>ningsområdet för fördraget, skall bemyndigandet godtas av vaije annan<br>institution och vaije annan medlemsstat.</p>
+<p>Behovet av ändrade regler</p>
+<p>Med hänsyn till det mycket begränsade informationslämnande som sker<br>i praktiken enligt artikel 16 krävs inte några kompletterande regler i<br>svensk lagstiftning. Information om patentansökningar kan för Sveriges<br>del lämnas av Patent- och registreringsverket.</p>
+<p>När det gäller bestämmelserna om sekretess och tystnadsplikt kan<br>följande överväganden göras.</p>
+<p>I sekretesslagen (1980:100) finns bl.a. bestämmelser i 2 kap. om<br>sekretess med hänsyn främst till rikets säkerhet och dess förhållande till<br>annan stat eller mellanfolklig organisation. Av 7 kap. 3 och 5 §§ tryck-<br>frihetsförordningen samt 5 kap. 1 och 3 §§ yttrandefrihetsgrundlagen<br>framgår att friheten enligt dessa grundlagar att meddela och offentliggöra<br>uppgifter i vissa fall är begränsad. Det gäller bl.a fall av uppsåtligt<br>åsidosättande av tystnadsplikt. I 16 kap. sekretesslagen anges i vilka fall<br>dessa friheter i övrigt är begränsade vid uppsåtligt åsidosättande av<br>tystnadsplikt. 1 20 kap. 3 § brottsbalken finns bestämmelser om straff vid<br>brott mot tystnadsplikt.</p>
+<p>Frågan om förhållandet mellan sekretessregler i gemenskapens rätt-<br>sakter och de svenska reglerna om sekretess och meddelarfrihet har<br>behandlats i samband med att beslut lättades om en ökad öppenhet när<br>det gäller uppgifter som omfattas av utrikessekretess (prop. 1994/95:112,<br>bet. 1994/95:KU8, rskr. 1994/95:128). I propositionen redovisade<br>regeringen sin syn på den svenska offentlighetsprincipens ställning vid ett<br>svenskt EU-medlemskap. Regeringens bedömning, som delades av<br>riksdagen, var att det inte krävs någon ändring i de svenska reglerna så<br>länge de intressen som skall skyddas enligt gemenskapsreglema överens-<br>stämmer med de intressen som skyddas enligt sekretesslagen. Vidare<br>konstaterades att straffbestämmelsen i 20 kap. 3 § brottsbalken inte kan<br></p>
+<p>anses omfatta gemenskapsrättsliga tystnadsplikter, men att någon ändring<br>av bestämmelsen inte behöver göras eftersom de gemenskapsrättsliga<br>tystnadsplikterna har sin motsvarighet i sekretesslagens föreskrifter.</p>
+<p>De överväganden och slutsatser som redovisats i den nyssnämnda<br>propositionen gäller även bestämmelserna om sekretess och tystnadsplikt<br>i Euratom-fordraget och de sekundära rättsakterna under fördraget. Det<br>finns dock skäl att här särskilt nämna artikel 194 i Euratom-fordraget,<br>som enligt sin ordalydelse innehåller mycket långtgående föreskrifter om<br>tystnadsplikt. I betänkandet Utrikessekretessen (SOU 1994:49), som legat<br>till grund för den nyssnämnda propositionen om utrikessekretess,<br>kommenteras den bestämmelsen. Därvid konstateras att det kan ifrågasät-<br>tas om detta stadgande är förenligt med vår meddelarfrihet, de svenska<br>åtalsreglema och bestämmelserna i 2 kap. 13 § regeringsformen.</p>
+<p>Med hänsyn till den praxis som utbildats inom Euratom och att artikel<br>194 såvitt bekant aldrig har tillämpats i praktiken anser regeringen dock<br>att det saknas anledning att föreslå någon ändring av de svenska reglerna.</p>
+<h3>6 Strålskydd och avfallstransporter</h3>
+<p>Regeringens förslag: Lagstiftningen om kärnsäkerhet och strål-<br>skydd kompletteras med anledning av bestämmelserna i direktivet<br>om transporter av radioaktivt avfall. Strålskyddslagens tillämp-<br>ningsområde utvidgas till att omfatta utförsel av radioaktiva ämnen.<br>Tillståndsplikt införs för utförsel av radioaktivt avfall. I lagen<br>anges vissa fall då tillstånd till utförsel inte får ges. Tillstånd får<br>gälla i högst tre år. Samma regler kommer att tillämpas vid<br>tillståndsprövning när det gäller utförsel av material som faller<br>under kämtekniklagen och lagen om strategiska produkter.</p>
+<p>1 övrigt föranleder inte Euratoms regler om strålskydd någon<br>lagstiftning.</p>
+<p>Promemorians förslag: Överensstämmer med regeringens.</p>
+<p>Remissinstanserna: Förslagen tillstyrks. Statens strålskyddsinstitut<br>anser att tillståndsplikten skall omfatta utförsel av alla radioaktiva ämnen<br>och även transitering genom landet av sådana ämnen. Greenpeace anser<br>att utförsel till icke OECD-länder bör vara förbjuden.</p>
+<p>Skälen för regeringens förslag:</p>
+<p>Bakgrund</p>
+<p>Enligt reglerna om hälsoskydd i fördraget (kap. 3, artikel 30 - 39) skall<br>gemensamma normer beslutas för strålskyddet. Sådana regler finns i en<br>omfattande sekundärlagstiftning på området i form av förordningar och<br>direktiv. En redogörelse för dessa regler och för de övergångsbe-<br>stämmelser som gäller enligt anslutningsavtalet har lämnats i prop.<br>1994/95:19. Som konstateras i propositionen finns det i strålskyddslagen<br></p>
+<p>Prop. 1994/95:118</p>
+<p>14</p>
+<p>(1988:220) och i livsmedelslagen (1971:511) de bemyndiganden som Prop. 1994/95:118<br>behövs for att regeringen eller de ansvariga myndigheterna skall kunna<br>besluta om nödvändiga föreskrifter på grund av de sekundära rättsakter-<br>na. De regler om uppgiftslämnande som finns i artikel 34, 36 och 37 kan<br>fullgöras av de ansvariga myndigheterna eller av regeringen i samband<br>med behandlingen av tillståndsansökningar m.m. utan att någon särskild<br>lagstiftning behövs. I fråga om ett direktiv som grundas på strålskydds-<br>reglema i fördraget krävs dock lagstiftning.</p>
+<p>Rådets direktiv 92/3/Euratom av den 3 februari 1992 om övervakning<br>och kontroll av transporter av avfall mellan medlemsstater samt till och<br>från gemenskapen innehåller bestämmelser om ett tillståndsfÖrfarande vid<br>transporter av radioaktivt avfäll samt begränsningar i rätten till export till<br>länder utanför gemenskapen.</p>
+<p>Med radioaktivt avfall avses enligt direktivet alla ämnen som innehåller<br>eller är förorenade med radionuklider och för vilka det inte finns någon<br>användning (artikel 2).</p>
+<p>Enligt direktivet krävs tillstånd för transport av radioaktivt avfall från<br>ett EU-land till ett annat (artikel 4). För att transporten skall få genom-<br>föras måste det land som skall ta emot avfallet ge sitt godkännande.<br>Detsamma gäller beträffande eventuella transitländer. Mottagar- eller<br>transitlandet kan också ställa villkor for transporten. Villkoren får inte<br>vara strängare än de som normalt tillämpas för transporter inom landet<br>i fråga (artikel 6). Transporten måste dock minst uppfylla de krav som<br>gäller enligt nationella regler, gemenskapsbestämmelser och internatio-<br>nella överenskommelser om transport av radioaktiva ämnen (artikel 3).</p>
+<p>Direktivets regler avseende stater utanför EU är utformade på ett något<br>annorlunda sätt men innebär också att tillstånd krävs för import till<br>respektive export från en medlemsstat vad avser radioaktivt avfall.<br>Tillstånd får inte ges för export till antarktiska fastlandet, till stat utanför<br>EU som undertecknat den fjärde ACP/EEG-konventionen (vissa stater i<br>Afrika, Karibien och Stilla havet) eller till stat som saknar tekniska,<br>rättsliga eller administrativa resurser att hantera radioaktivt avfall på ett<br>säkert sätt (artikel 11).</p>
+<p>Direktivet omfattar inte s.k. förseglade källor som återsänds av an-<br>vändaren till den som tillhandahållit källan, utom i fall då källan<br>innehåller klyvbart material. Direktivet inskränker inte rätten att skicka<br>tillbaka avfall till ursprungslandet, om avfallet mottagits for behandling.<br>Slutligen finns regler som skall säkerställa att avfallet tas tillbaka av av-<br>sändaren om transporten inte kan genomföras på avsett sätt.</p>
+<p>I kommissionens beslut 93/552/Euratom av den 1 oktober 1993 finns<br>de standarddokument för övervakning och kontroll av transporter av<br>radioaktivt avfall som avses i direktivet.</p>
+<p>Tillstånd till utförsel av radioaktivt avfall</p>
+<p>De svenska reglerna om radioaktivt avfall finns i kämtekniklagen och<br>strålskyddslagen. Enligt 1 § kämtekniklagen gäller att utförsel av kärn-<br>avfall är tillståndspliktig kärnteknisk verksamhet. Bestämmelserna i<br>kämtekniklagen syftar enligt 3 § till att upprätthålla säkerheten, dvs.</p>
+<p>1*** Riksdagen 1994/95. 1 saml. Nr 118<br></p>
+<p>undvika olyckor, och till att uppfylla Sveriges överenskommelser om att Prop. 1994/95:118<br>förhindra spridning av kärnvapen och obehörig befattning med kärnämne<br>och sådant kärnavfall som utgörs av använt kärnbränsle. Den som<br>bedriver kärnteknisk verksamhet ansvarar bl.a. for att det kärnavfall<br>omhändertas som härrör från verksamheten. Frågor om tillstånd till<br>utförsel av kärnavfall prövas enligt 19 § förordningen (1984:14) om<br>kärnteknisk verksamhet av Statens strålskyddsinstitut (SSI) eller, om det<br>rör sig om högaktivt avfall från upparbetning, av regeringen.</p>
+<p>Utförsel av kärnämne är tillståndspliktig enligt lagen (1991:341) om<br>strategiska produkter. Med kärnämne avses vid tillämpningen av lagen<br>även använt kärnbränsle som inte har placerats i slutförvar. Till-<br>ståndsprövningen enligt lagen omfattar således även material som avses<br>i direktivet 92/3/Euratom.</p>
+<p>Frågor om strålskydd regleras i strålskyddslagen, som också innehåller<br>vissa bestämmelser om ansvaret för radioaktivt avfåll som uppkommit i<br>verksamhet med strålning (13 och 14 §§). Utförsel ur landet av radioak-<br>tivt avfall omfattas dock inte av tillämpningsområdet för lagen och ingår<br>inte i begreppet verksamhet med strålning enligt 5 §. Bestämmelser om<br>tillståndsplikt finns i 20 och 21 §§. Av 23 § följer att tillstånd enligt<br>strålskyddslagen normalt inte behövs om tillstånd meddelats enligt<br>kämtekniklagen. I sådana fall meddelas i stället strålskyddsvillkor enligt<br>27 § strålskyddslagen.</p>
+<p>För att uppfylla direktivets krav behöver strålskyddslagen kompletteras,<br>så att utförsel av radioaktivt avfall blir tillståndspliktig även i de fall<br>tillståndskrav inte gäller enligt kämtekniklagen och lagen om strategiska<br>produkter. Statens strålskyddsinstitut föreslår i sitt yttrande att ett<br>tillståndskrav för utförsel införs for alla typer av radioaktiva ämnen och<br>inte bara för avfall. Regeringen anser att även om det kan finnas skäl for<br>en sådan utvidgning bör den frågan beredas särskilt och behandlas i ett<br>annat sammanhang. En särskild regel om transitering torde inte behövas<br>när såväl införsel, transport och - i fråga om avfåll - utförsel är till-<br>ståndspliktig.</p>
+<p>En bestämmelse om tillståndsplikt bör tas in i 20 §. Utförsel av radio-<br>aktiva ämnen bör ingå i begreppet verksamhet med strålning enligt 5 §.<br>Dessutom bör det i en ny 20 a § anges att utförsel inte får ske till An-<br>tarktisområdet, till en stat utanför EU som är part i den fjärde<br>ACP/EEG-konventionen eller till en stat som har förbjudit sådan införsel<br>eller som kan antas sakna förmåga att ta hand om avfållet på ett säkert<br>sätt.</p>
+<p>Föreskrifter om undantag från dessa regler i vissa fåll, t.ex. i fråga om<br>utförsel av avfåll som mottagits av Sverige och som skall återsändas efter<br>behandling, kan beslutas av regeringen eller en myndighet med stöd av<br>3 § strålskyddslagen. Den bestämmelsen kan också tillämpas för att<br>undanta material i de fåll utförselprövningen skall ske enligt lagen om<br>strategiska produkter. Ytterligare regler om förbud mot utförsel av avfåll<br>till vissa länder behövs inte mot bakgrund av dessa bestämmelser.</p>
+<p>Vid utförsel av material som fåller under kämtekniklagen sker till-<br>ståndsprövningen enligt den lagen. 5 a § bör därför kompletteras med en &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;16</p>
+<p>hänvisning till de nya reglerna i strålskyddslagen. En motsvarande<br></p>
+<p>komplettering bör göras i lagen om strategiska produkter såvitt gäller Prop. 1994/95:118<br>använt kärnbränsle.</p>
+<p>Slutligen bör 24 § strålskyddslagen kompletteras med en bestämmelse<br>av vilken framgår att tillstånd till införsel eller utförsel av avfall får gälla<br>i högst tre år. Direktivets regler om hanteringen av tillståndsärenden<br>kräver inte lagstiftning.</p>
+<h3>7 Mellanlagring av utländskt använt kärnbränsle<br>och kärnavfall</h3>
+<p>Regeringens förslag: Förbudet mot slutförvaring av utländskt<br>använt kärnbränsle eller kärnavfall utvidgas till att omfatta mel-<br>lanlagring.</p>
+<p>Promemorians förslag: Överensstämmer med regeringens.<br>Remissinstanserna: Förslaget tillstyrks eller lämnas utan invändningar.<br>Skälen för regeringens förslag:</p>
+<p>Bakgrund</p>
+<p>Enligt 5 a § kämtekniklagen är det förbjudet att utan tillstånd slutförvara<br>utländskt använt kärnbränsle eller kärnavfall i Sverige. I förarbetena till<br>den svenska bestämmelsen (prop. 1992/93:98) framhålls att ett förbud av<br>denna art inte strider mot Euratom-fördraget. Detta bekräftades också vid<br>Sveriges anslutningsförhandlingar med EU. I den gemensamma förklaring<br>beträffande tillämpningen som EU:s medlemsländer och Sverige kom<br>överens om sägs att vaije medlemsstat avgör vilken politik den skall fora<br>när det gäller slutstegen i kämbränslecykeln.</p>
+<p>Det svenska programmet för slutligt omhändertagande av det använda<br>kärnbränslet utarbetas av reaktorinnehavama och redovisas vart tredje år<br>till regeringen enligt 12 § kämtekniklagen. Den metod som avses<br>tillämpas i Sverige för omhändertagandet är direktdeponering. Med denna<br>metod kan slutstegen i kämbränslecykeln sägas omfatta tre delar:<br>mellanlagring av använt kärnbränsle, inkapsling samt slutförvaring genom<br>deponering i ett djupförvar.</p>
+<p>Mellanlagringen utgör det första steget i den slutliga hanteringen av<br>det använda kärnbränslet. I mellanlagret förvaras materialet i cirka 40 år<br>- i vissa fall upp till 60 år - för att sedan kapslas in och deponeras i ett<br>slutförvar. Under mellanlagringen minskar bränslets aktivitetsinnehåll och<br>resteffekt med ca 90 %. Värmeavgivningen minskar avsevärt. Därmed<br>underlättas hanteringen infor slutlig deponering.</p>
+<p>I Sverige mellanlagras det använda kärnbränslet i det s.k. centrala<br>mellanlagret for använt kärnbränsle, CLAB, som ligger intill OKG AB:s<br>kärnkraftverk i Oskarshamn. CLAB togs i drift 1985 och avlastade då<br>lagringsbehovet vid kärnkraftverken. CLAB består av en mottag-<br>ningsbyggnad ovan jord och ett förvaringsutrymme i bergrum. Kärn-<br>bränslet hanteras och förvaras nedsänkt i vatten i rostfria bassänger.</p>
+<p>17</p>
+<p>Låg- och medelaktivt avfall från drift av kämkraftreaktorer och annan Prop. 1994/95:118<br>kärnteknisk verksamhet deponeras i slutförvaret för reaktoravfäll</p>
+<p>(SFR-1), som är beläget intill Forsmarks kärnkraftverk.</p>
+<p>Förbud mot mellanlagring</p>
+<p>Att varje land skall ta fullt ansvar i alla led för det använda kärnbränsle<br>och kärnavfall som uppkommer i landet har vid flera tillfallen slagits fast<br>av riksdagen som en grundläggande princip för Sveriges handlande.<br>Denna princip har kommit till uttryck i kämtekniklagen genom förbudet<br>mot slutförvaring i Sverige av använt kärnbränsle och kärnavfall från en<br>kärnteknisk anläggning i ett annat land. Med slutförvaring avses enligt<br>2 § 1 c lagen sådan förvaring som avses bli bestående. Förbudet avser<br>således inte mellanlagring av använt kärnbränsle och kärnavfall med hög<br>aktivitet. Teoretiskt skulle alltså ett tillstånd till införsel och mellanlag-<br>ring av sådant avfall kunna ges enligt kämtekniklagen.</p>
+<p>Som nämnts utgör mellanlagringen ett led i det slutliga omhändertagan-<br>det av avfallet. Den är ett av slutstegen i kämbränslecykeln. Principen<br>att vaije stat skall ta fullt ansvar för sitt avfall måste därför gälla även for<br>mellanlagring. Införsel och mellanlagring av utländskt material i Sverige<br>som senare skall slutförvaras utomlands är dessutom olämplig av princi-<br>piella skäl mot bakgrund av den långa tid som mellanlagringen avser. Det<br>svenska programmet för slutligt omhändertagande av använt kärnbränsle<br>och kärnavfall är inte heller utformat för en sådan hantering.</p>
+<p>Regeringen anser därför att det svenska förbudet mot slutförvaring av<br>utländskt använt kärnbränsle och kärnavfall bör utvidgas till att även<br>omfatta mellanlagring av material med utländskt ursprung. När det gäller<br>frågan om ett sådant förbud skulle komma i konflikt med EU:s regler kan<br>konstateras att de överväganden som regeringen gjorde inför beslutet om<br>förbud mot slutförvaring (prop. 1992/93:98 sid. 29 ff) även är tillämpliga<br>på mellanlagring. Ett förbud mot mellanlagring strider inte mot Euratom-<br>fordraget eller mot andra EU-regler. Att slutsatserna i den propositionen<br>är riktiga stöds också av den nyssnämnda gemensamma deklarationen.</p>
+<p>Förbudet bör endast avse mellanlagring som sker i avvaktan på slutför-<br>varing. Det bör inte omfatta lagring i Sverige av utländskt använt kärn-<br>bränsle eller kärnavfall under en begränsad period för andra syften, t.ex.<br>då materialet är föremål för undersökningar av olika slag. Inte heller<br>lagring som utgör ett led i en behandlingsprocess bör omfattas. Därmed<br>avses en process som avser att förändra avfallets egenskaper med<br>avseende på volym, form, aktivitetsinnehåll och kemiska egenskaper<br>m.m. I dessa fall är det inte fråga om åtgärder som kan ses som ett led<br>i det slutliga omhändertagandet av använt kärnbränsle eller kärnavfall.</p>
+<p>Det nya regeln om förbud mot mellanlagring bör tas in i 5 a § andra<br>stycket kämtekniklagen.</p>
+<p>Det slutliga omhändertagandet av det använda kärnbränslet planeras bli<br>utfört i två huvudfaser, demonstrationsdeponering och slutförvaring.<br>Demonstrationsdeponering infördes första gången som ett begrepp i det<br>tredje programmet för forskning m.m. angående kärnavfallets behandling<br>och slutförvaring. Programmet överlämnades till regeringen den 31 mars<br></p>
+<p>18</p>
+<p>1993. Demonstrationsdeponeringen planeras omfatta 5-10 % av den Prop. 1994/95:118<br>totala mängden använt bränsle. Det deponerade bränslet skall kunna<br>återtas under demonstrationsskedet.</p>
+<p>Det kan diskuteras om definitionen av begreppet slutförvaring i 2 § 1 c<br>kämtekniklagen behöver kompletteras för att förtydliga att även<br>demonstrationsdeponering omfettas. Slutförvaring är enligt lagen för-<br>varing som avses bli bestående. När det gäller demonstrationsdeponering<br>torde det inte råda någon tvekan om att avsikten i och för sig är att<br>förvaringen skall bli bestående. Skillnaden jämfört med den slutgiltiga<br>deponeringen är endast att materialet kan återtas utan svårigheter, om<br>detta skulle visa sig nödvändigt. Det står därför klart att även en de-<br>monstrationsdeponering skall ses som slutförvaring i kämtekniklagens<br>mening och att den omfettas av förbudet mot slutförvaring av utländskt<br>använt kärnbränsle och kämavfell i 5 a § andra stycket kämtekniklagen.<br>Någon komplettering av lagstiftningen på denna punkt är därför inte<br>nödvändig.</p>
+<h3>8 Försörjning med kärnbränsle</h3>
+<p>Regeringens förslag: Bestämmelserna i Euratom-fördraget om<br>försörjning med kärnbränsle tillämpas i praktiken inte enligt sin<br>ordalydelse och kräver därför inte någon ändring i de svenska<br>reglerna. Regeringen ges dock ett bemyndigande att meddela<br>föreskrifter för att säkerställa att de begränsade krav som ställs<br>enligt det s.k. förenklade förfarandet uppfylls av dem som bedriver<br>kärnteknisk verksamhet. Av praktiska skäl tas regeln in i käm-<br>tekniklagen.</p>
+<p>Promemorians förslag: Som villkor for tillstånd till kärnteknisk verk-<br>samhet skall gälla att Euratom-fördragets krav beträffande försörjning<br>med kärnämnen m.m. är uppfyllda.</p>
+<p>Remissinstanserna: Statens kämkraftinspektion anser att förslaget kan<br>medföra oklarheter om i vilken omfettning fördraget gäller för en enskild<br>tillståndshavare och föreslår att nödvändiga föreskrifter i stället meddelas<br>av regeringen eller en myndighet. Ett bemyndigande föreslås i 3 §<br>kämtekniklagen för regeringen eller en myndighet att utfärda föreskrifter.<br>Svensk Kämbränslehantering AB, Sydkraft AB och Mittenfall AB<br>motsätter sig förslaget med hänvisning till att fördraget inte tillämpas<br>enligt sin ordalydelse.</p>
+<p>Skälen för regeringens förslag:</p>
+<p>Bestämmelser i fordraget</p>
+<p>Bestämmelserna i kapitel 6 i Euratom-fördraget om försörjning (artikel<br>52-76) syftar till att genom en gemensam försöijningspolitik tillförsäkra<br>medlemsländerna lika tillgång till malmer, råmaterial och speciella<br>klyvbara material (anrikat uran och plutonium).</p>
+<p>19</p>
+<p>En särskild byrå (Euratoms forsörjningsbyrå, EFB) skall ha optionsrätt Prop. 1994/95:118<br>till malmer, råmaterial och särskilt klyvbart material som produceras<br>inom medlemsländerna. Byrån skall ha ensamrätt att ingå avtal om<br>leverans av malmer, råmaterial eller speciella klyvbara material från<br>länder inom eller utom gemenskapen (artikel 52). Medlemsstaterna skall<br>garantera att EFB fritt får utöva sin verksamhet inom deras områden<br>(artikel 56).</p>
+<p>Enligt artikel 57-63 skall EFB ingå avtal med producenterna om<br>leveranser. Byrån skall sedan fordela materialet till förbrukarna inom<br>gemenskapen. Även export utanför gemenskapen är i vissa fall möjlig.<br>Byrån är inte skyldig att utöva sin optionsrätt enligt dessa bestämmelser.</p>
+<p>Enligt artikel 64-66 skall byrån också svara för inköp av material från<br>producenter utanför gemenskapen. Enskilda medlemsstater kan dock<br>enligt artikel 66 ges rätt att själva träffa avtal om sådana leveranser.</p>
+<p>Artikel 67-69 innehåller regler om prissättning. De priser som bestäms<br>genom att balansera tillgång och efterfrågan får medlemsstaterna inte<br>åsidosätta genom nationella föreskrifter. Likaså är prissättning som<br>tillförsäkrar vissa förbrukare en priviligierad ställning förbjuden. Kom-<br>missionen får i sådana fall justera priserna till en nivå som överensstäm-<br>mer med principen om lika tillgång. Rådet kan på förslag av kommis-<br>sionen genom enhälligt beslut fastställa priser.</p>
+<p>Artikel 70-72 behandlar prospektering och utnyttjande av mineral-<br>fyndigheter. Kommissionen kan lämna rekommendationer till medlems-<br>staterna om hur fyndigheter skall utnyttjas. En medlemsstat som inte<br>utnyttjar tillgängliga resurser kan i vissa fall efter beslut av rådet i sista<br>hand fråntas rätten till lika tillgång till övriga resurser inom gemenska-<br>pen.</p>
+<p>Dessa bestämmelser kompletteras av bestämmelserna i artikel 86 - 91<br>om egendomsordning, där det bl.a. sägs att de speciella klyvbara mate-<br>rialen skall vara gemenskapens egendom. Medlemsstaten, personen eller<br>företaget äger dock obegränsad rätt att använda och förbruka materialen.</p>
+<p>Vissa särskilda bestämmelser for tillämpningen av försöijningsreglema<br>har beslutats. I rådets förordning nr 9 av den 2 februari 1960 om<br>fastställandet av malmhalter enligt artikel 197.4 i fördraget om upp-<br>rättandet av Europeiska atomenergigemenskapen har rådet beslutat om<br>hur den genomsnittliga halten i malmer skall definieras vid tillämpningen<br>av artikel 197.4. Med stöd av artikel 74 har kommissionen beslutat om<br>förordningen (Euratom) nr 17/66 av den 29 november 1966 om undantag<br>för överföring av små mängder malmer, råvaror och särskilda termiskt<br>klyvbara material från bestämmelserna i kapitlet om försöijning. Denna<br>förordning har ändrats genom kommissionens förordning (Euratom) nr<br>3137/74.</p>
+<p>Den praktiska tillämpningen</p>
+<p>De ovan redovisade reglerna om EFB:s optionsrätt är utformade för en<br>situation med brist på uran, där användarna skall tillförsäkras en lika<br>tillgång till kärnbränsle i enlighet med fördragets syften. Någon sådan<br>brist på uran har aldrig rått på världsmarknaden. Bestämmelserna har<br></p>
+<p>20</p>
+<p>därför aldrig kommit att tillämpas enligt sin ordalydelse. I stället tilläm- Prop. 1994/95:118<br>pas ett s.k. förenklat förfarande, som framgår av de regler som fästställts<br>för byråns arbete (bestämmelser för byrån beslutade den 5 maj 1960,<br>som ändrats genom EFB:s förordning av den 15 juli 1975). Det<br>förenklade förfarandet innebär att EFB kan ange allmänna villkor om vad<br>som skall ingå i anskaffiningsavtalen. Användarna får själva förhandla<br>med leverantörerna om leverans och sluta avtal. När enighet om leverans<br>nåtts underställs kontraktet EFB för godkännande och undertecknande.<br>Vaije kontrakt undertecknas således av tre parter: användare, leverantör<br>och EFB. EFB skall fatta sitt beslut inom 10 dagar. Beslutet kan<br>överprövas av kommissionen.</p>
+<p>Bestämmelserna om byråns ensamrätt att ingå avtal med leverantörer<br>utanför gemenskapen har sedan länge tillämpats relativt automatiskt och<br>problemfritt genom reglerna om förenklat förfarande. På senare tid har<br>dock byrån i något fall ingripit genom att begränsa möjligheterna att köpa<br>uran från Ryssland och andra OSS-stater.</p>
+<p>Transporter av små kvantiteter uran har som framgått ovan helt un-<br>dantagits från reglerna om försörjning.</p>
+<p>I fördragets artikel 91 anges att egendomsordningen i fråga om före-<br>mål, material och tillgångar, som inte omfattas av gemenskapens ägan-<br>derätt enligt kapitel 8, skall bestämmas genom lagstiftningen i vaije<br>medlemsstat. I formell mening omfattar äganderättsreglema och options-<br>rätten även använt kärnbränsle. Sverige har därför i förhandlingarna<br>säkerställt att denna formella äganderätt och optionsrätt inte skall påverka<br>det svenska slutförvarsprogrammet. Detta har skett genom den gemen-<br>samma förklaring om tillämpning av Euratom-fördraget, som ingår i<br>slutakten till Sveriges anslutningsfördrag. I förklaringen anges att vaije<br>medlemsstat avgör vilken politik den skall fora när det gäller slutstegen<br>i kämbränslecykeln. I samband med förhandlingarna mottog den svenska<br>regeringen en skrivelse från kommissionen om tillämpningen av reglerna<br>om optionsrätt. Av skrivelsen framgår att optionsrätten aldrig var avsedd<br>att tillämpas beträffande använt kärnbränsle.</p>
+<p>Särskilda villkor om försörjningsreglema</p>
+<p>Reglerna om gemenskapens optionsrätt till klyvbart material för att<br>säkerställa försöijningen har aldrig kommit att tillämpas. Reglerna i<br>kapitel 8 om gemenskapens äganderätt till särskilt klyvbart material<br>medför heller inte några praktiska konsekvenser för Sverige eller svenska<br>kraftföretag. Det finns därför enligt regeringens mening inte något behov<br>av någon allmän kompletterande lagstiftning med anledning av reglerna<br>om optionsrätt och gemenskapens äganderätt. Reglema om förenklat<br>förfarande har utfärdats i form av förordningar och blir därför - liksom<br>Euratom-fördraget - direkt gällande i Sverige.</p>
+<p>Det finns dock en allmän skyldighet enligt artikel 56 i fördraget att<br>säkerställa att EFB fritt kan utöva sin verksamhet inom landet, vilket<br>förutsätter nationella kompletterande regler. Remissinstanserna är ense<br>om att promemorians förslag till komplettering i kämtekniklagen (1984:3)<br>är alltför långtgående och kan skapa oklarhet om vilka krav som ställs på<br></p>
+<p>de svenska företagen. Förslaget bör därför inte genomföras. I stället bör<br>regeringen bemyndigas att meddela de föreskrifter som behövs för att<br>säkerställa att de begränsade skyldigheter fullgörs som i praktiken åligger<br>kämkraftföretagen. Regeringen kan i förordning närmare avgränsa<br>omfattningen av dessa skyldigheter, så att oklarheter kan undvikas och<br>bestämmelserna utformas med hänsyn till den praktiska tillämpningen av<br>försöijningsreglema.</p>
+<p>Regler om forsöijning med kärnbränsle faller egentligen utanför<br>kämtekniklagens tillämpningsområde. Eftersom de transaktioner som<br>omfattas av byråns verksamhet ändå är tillståndspliktiga enligt kämtek-<br>niklagen är den enklaste lösningen dock att anknyta till den lagen. Ett<br>allmänt bemyndigande att meddela föreskrifter om tillämpning av Eura-<br>toms försöijningsregler synes inte behövligt. I stället bör regeringen<br>kunna föreskriva att tillstånd till kärnteknisk verksamhet skall förenas<br>med sådana villkor som behövs för att de begränsade skyldigheter skall<br>uppfyllas som följer av försöijningsreglema. Bestämmelsen bör tas in<br>som en ny 8 a § i kämtekniklagen.</p>
+<h3>9 Säkerhetskontroll av klyvbart material</h3>
+<p>Regeringens förslag: Euratom-fördragets regler om säkerhetskon-<br>troll (safeguards) motsvaras av de svenska bestämmelserna i<br>kämtekniklagen. De föreskrifter som kan behövas kan beslutas med<br>stöd av de bemyndiganden som redan finns i den lagen. För att<br>säkerställa att sanktioner enligt artikel 83 i Euratom-fördraget kan<br>genomföras och att uppgifter lämnas enligt reglerna i förordningen<br>(Euratom) nr 3227/76 görs dock tillägg till 18 och 27 §§ käm-<br>tekniklagen.</p>
+<p>Promemorians förslag: Överensstämmer med regeringens.</p>
+<p>Remissinstanserna: Statens kämkraftinspektion tillstyrker ändringen<br>i 18 § och anför att skyldigheten att lämna uppgifter kan säkerställas<br>genom ett allmänt bemyndigande att meddela föreskrifter om fullgörandet<br>av förpliktelser enligt Euratom. Svensk Kämbränslehantering AB,<br>Sydkraft AB och Vattenfall AB motsätter sig ändringarna i kämteknikla-<br>gen och anför bl.a. att det finns andra direkt verkande sanktionsregler<br>enligt fördraget och att vilka uppgifter som i praktiken lämnas enligt för-<br>ordningen 3227/76 varierar för olika företag.</p>
+<p>Skälen för regeringens förslag:</p>
+<p>Bakgrund</p>
+<p>Enligt bestämmelserna i kapitel 7 i Euratom-fördraget (artikel 77-85) om<br>säkerhetskontroll - eller safeguards, som är en internationellt använd<br>benämning på denna kontrollverksamhet - skall kommissionen försäkra<br>sig om att malmer, råmaterial och speciella klyvbara material inte an-<br>vänds inom medlemsstaterna för andra ändamål än som uppgetts av<br></p>
+<p>Prop. 1994/95:118</p>
+<p>22</p>
+<p>förbrukarna samt att föreskrifterna om forsöijning iakttas, liksom alla Prop. 1994/95:118<br>särskilda kontrollförpliktelser som gemenskapen har avtalat om med ett<br>tredje land eller en internationell organisation. Uppgiften fullgörs av en<br>särskild avdelning inom kommissionen - Euratoms Safeguardinspektion.<br>Kontrollen omfattar inte kärnteknisk utrustning; sådan kontroll är en<br>nationell angelägenhet.</p>
+<p>Innehavaren av en kärnteknisk anläggning är skyldig att uppge anlägg-<br>ningens grundläggande tekniska data till kommissionen samt att upprätta<br>och tillhandahålla driftrapporter for att möjliggöra bokföring av kärnäm-<br>nen m.m. Det sistnämnda skall gälla även för transport av råmaterial och<br>särskilda klyvbara material. Reglerna innebär att det är operatören i<br>medlemsstaten som ansvarar direkt mot kommissionen i fråga om<br>safeguards. Euratom-inspektörema har direktkontakt med operatören utan<br>att medlemsstatens myndigheter behöver delta.</p>
+<p>Närmare bestämmelser om rapporteringskraven finns i kommissionens<br>förordning (Euratom) nr 3227/76 av den 19 oktober 1976 om tillämp-<br>ningen av bestämmelserna om säkerhetskontroll i Euratom, som ändrats<br>genom förordningarna nr 220/90 och nr 2130/93. Förordningen<br>innehåller omfattande förteckningar över de uppgifter som skall lämnas.<br>Kommissionen skall for anläggningarna besluta om särskilda kontrollbe-<br>stämmelser, som närmare anger hur kontrollförfarandet samt den fortsatta<br>rapporteringen skall gå till.</p>
+<p>Kommissionen har rätt att sända inspektörer till medlemsstaterna. När<br>en ny inspektör besöker en medlemsstat för första gången skall samråd<br>ske med medlemsstaten. Om en medlemsstat begär det, skall kommissio-<br>nens representant åtföljas av representanter för medlemsstatens myndig-<br>het. Inspektörerna skall få tillgång till de uppgifter som behövs och<br>tillträde till alla platser och hos alla personer som i sitt yrke befattar sig<br>med material, utrustningar eller anläggningar som är föremål för kon-<br>trollen. Om genomförandet av kontrollen hindras, kan kommissionen<br>utverka ett beslut från EU-domstolen om genomförandet. De nationella<br>myndigheterna skall säkerställa att beslutet kan genomföras (artikel 81).</p>
+<p>Inspektörerna granskar bokföringen avseende klyvbart material m.m.<br>Om överträdelser konstateras i fråga om bokföringen, kan kommissionen<br>ålägga medlemsstaten att vidta de åtgärder som behövs för att över-<br>trädelsen skall upphöra (artikel 82).</p>
+<p>Artikel 83 innehåller regler om sanktioner om förpliktelserna om<br>safeguards åsidosätts. De sanktioner som kan bli aktuella är följande:</p>
+<p>a) &nbsp;varning,</p>
+<p>b) &nbsp;indragning av särskilda förmåner, som finansiellt eller tekniskt<br>bistånd,</p>
+<p>c) &nbsp;företaget ställs under förvaltning för en tid av högst fyra månader<br>av en person eller grupp av personer som utsetts genom överenskom-<br>melse mellan kommissionen och den stat där företaget hör hemma,</p>
+<p>d) &nbsp;återtagande, helt eller delvis, av råvaror och speciella klyvbara<br>material.</p>
+<p>Om kommissionens beslut om sanktioner innebär att material skall<br>överlämnas, skall beslutet kunna verkställas enligt artikel 164. Med- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;23</p>
+<p>lemsstatema skall även i övrigt säkerställa att sanktionerna verkställs och<br></p>
+<p>att rättelse vid behov sker med anledning av överträdelsen.</p>
+<p>Det nationella ansvaret</p>
+<p>Kommissionen ombesörjer för medlemsstaterna räkning delar av den<br>rapportering till IAEA som medlemsstaterna åtagit sig att göra enligt det<br>s.k. icke spridningsavtalet (Treaty on the Non-Proliferation of Nuclear<br>Weapons, NPT) och det anslutande kontrollavtalet mellan Euratom och<br>IAEA. Sverige har under förhandlingarna hävdat det nationella ansvaret<br>i icke-spridningsfrågor. Det har fått till följd att en gemensam förklaring<br>om icke-spridning har fogats till anslutningsfördraget. Förklaringen har<br>följande lydelse:</p>
+<p>”De avtalsslutande parterna understryker vikten av att massförstörelse-<br>vapen inte sprids och av att de fortsätter att stödja fordraget om för-<br>hindrande av spridning av kärnvapen (NPT).</p>
+<p>De bekräftar att det också i fortsättningen skall vara ett nationellt<br>ansvar att uppfylla förpliktelserna enligt NPT, utan att detta påverkar<br>IAEA:s ansvar och det ansvar som Europeiska atomenergigemenskapen<br>har i samband med tillämpningen av artikel III. 1 och III.4 i NPT.</p>
+<p>De avser att följa de riktlinjer som den särskilda grupp av kämtekni-<br>kexporterande stater (Nuclear Suppliers’ Group) fastställt och att säker-<br>ställa att kärnämne och sådan utrustning som har särskilt konstruerats<br>eller iordningställts för bearbetning, användning eller framställning av<br>kärnämne exporteras till länder som inte har kärnvapen endast på villkor<br>att heltäckande IAEA-kontroll tillämpas.</p>
+<p>Utan att det påverkar Sveriges åtagande enligt Euratom-fördraget<br>bekräftar Sverige att landet för att uppfylla sina åtaganden enligt NPT<br>kommer att ha ett nära samarbete med IAEA som medlem i den organi-<br>sationen och också att samarbeta inom ramen för det avtal som har<br>publicerats i IAEA:s skriftserie INFdRC/193”.</p>
+<p>Det närmare samarbetet mellan den svenska tillsynsmyndigheten Statens<br>kämkraftinspektion (SKI), IAEA och Euratoms safeguard-inspektorat be-<br>träffande den internationella safeguard-verksamheten har behandlats i en<br>skrivelse från kommissionen till den svenska regeringen.</p>
+<p>Sanktionsregler m.m.</p>
+<p>Euratom-fördraget och den ovan nämnda förordningen medför direkt<br>verkande förpliktelser för den enskilde att lämna vissa bestämda uppgifter<br>till kommissionen. När det gäller rätten till tillträde till anläggningar och<br>tillgång till uppgifter enligt artikel 81 krävs dock ett särskilt beslut av<br>domstolen för att tvångsåtgärder skall kunna vidtas. Den behöriga<br>myndigheten i medlemsstaten skall säkerställa att inspektörerna får<br>tillträde till de platser som anges i beslutet. Medlemsstaterna skall också<br>svara for att sanktioner enligt artikel 83 verkställs.</p>
+<p>Tillämpningsområdet för bestämmelserna i artikel 77 - 85 motsvarar<br>det som gäller for kämtekniklagen (1984:3). Även om definitionen av de<br>material som omfattas av fördragets regler är utformad på ett något<br></p>
+<p>Prop. 1994/95:118</p>
+<p>24</p>
+<p>annorlunda sätt än i kämtekniklagen, kommer de verksamheter i Sverige Prop. 1994/95:118<br>som faller under fördragets regler att utgöra kärnteknisk verksamhet<br>enligt vår lagstiftning.</p>
+<p>Kämtekniklagens tillsy nsbestämmelser i 16 - 18 §§ innehåller regler<br>om uppgiftslämnande och tillträde till anläggningar m.m. som motsvarar<br>de krav som ställs i Euratom-fördraget. Enligt 17 § andra stycket skall<br>tillståndshavarens skyldigheter i detta avseende även gälla gentemot den<br>som utsetts som övervakare av att de förpliktelser uppfylls som följer av<br>Sveriges överenskommelser i syfte att förhindra spridning av kärnvapen.<br>Denna bestämmelse har införts med hänsyn till de rättigheter som<br>tillkommer LAEA:s inspektörer enligt icke-spridningsavtalet. Den är dock<br>enligt sin ordalydelse tillämplig även på inspektörer från Euratoms<br>safeguard inspektion.</p>
+<p>Enligt 3 § kämtekniklagen skall kärnteknisk verksamhet bedrivas på<br>sådant sätt att kraven på säkerhet tillgodoses och de förpliktelser uppfylls<br>som följer av Sveriges överenskommelser i syfte att förhindra spridning<br>av kärnvapen och obehörig befattning med kärnämne och sådant<br>kärnavfall som utgörs av använt kärnbränsle. Enligt 3 § andra stycket får<br>regeringen eller den myndighet som regeringen bestämmer meddela de<br>föreskrifter som behövs för att sådana förpliktelser skall uppfyllas som<br>ingår i överenskommelser som avses i första stycket. Detta bemyndigan-<br>de omfattar bestämmelser om safeguards i Euratom-fördraget och de<br>särskilda rättsakterna.</p>
+<p>På några punkter finns det dock skäl att komplettera kämtekniklagen<br>med hänsyn till Euratoms regler om safeguards. I 27 § kämtekniklagen<br>finns en bestämmelse om straff vid underlåtelse att lämna uppgifter till<br>tillsynsmyndigheten eller om felaktiga uppgifter lämnas. Bestämmelsen<br>bör även gälla uppgiftslämnande till kommissionen enligt reglerna i<br>förordningen (Euratom) nr 3227/76. Det måste anses följa av allmänna<br>principer att Sverige som part i fördraget är skyldigt att säkerställa att<br>uppgiftslämnandet direkt till kommissionen enligt dessa regler fullgörs.<br>Med anledning av de synpunkter som framförts av kämkraftindustrin bör<br>framhållas att straffbestämmelsen inte blir tillämplig om uppgifts-<br>skyldigheten fullgörs i enlighet med de särskilda kontrollbestämmelser<br>som skall upprättas för vaije anläggning enligt artikel 7 i förordningen.</p>
+<p>Rätten till tillträde till anläggningar enligt artikel 81 kan säkerställas<br>med stöd av bestämmelserna i 17 och 18 §§ kämtekniklagen. De sank-<br>tioner som kan beslutas av kommissionen med stöd artikel 83 innefattar<br>dock långtgående åtgärder, som avviker från de tillsynsåtgärder som<br>normalt beslutas enligt kämtekniklagen. Sanktionerna kan direkt verk-<br>ställas enligt artikel 164 i fördraget endast till den del de avser överläm-<br>nande av material. Skyldigheten enligt artikel 83.4 att säkerställa att<br>sanktionerna verkställs, som bör ankomma på tillsynsmyndigheten, bör<br>därför anges särskilt i 18 § kämtekniklagen.</p>
+<p>25</p>
+<h3>10 Författningskommentar &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Prop. 1994/95:118</h3>
+<h4>10.1 Förslaget till lag om ändring i strålskyddslagen<br>(1988:220)</h4>
+<p>5 §<br>Ändringen i punkten 1 medför att utförsel av ett radioaktivt ämne utgör<br>verksamhet med strålning som omfattas av lagens tillämpningsområde.</p>
+<p>20 §</p>
+<p>Genom den nya fjärde punkten införs tillståndsplikt för utförsel av<br>radioaktivt avfall. Begreppet radioaktivt avfall används i strålskyddslagen<br>även i 13 §. Det definieras inte särskilt i lagen. I artikel 2 i direktiv<br>92/3Euratom sägs att radioaktivt avfall skall omfatta ämnen som<br>innehåller eller är förorenade med radionuklider och för vilka det inte<br>finns någon användning. En motsvarande definition i strålskyddslagen<br>synes obehövlig.</p>
+<p>20 a §</p>
+<p>De förbud mot utförsel av radioaktivt avfäll som anges i den nya para-<br>grafen följer av artikel 11 i direktiv 92/3/Euratom. Dessutom anges att<br>utförsel inte får ske till stat som förbjudit import av radioaktivt avfall.</p>
+<p>24 §</p>
+<p>Den nya regeln om en begränsning av giltighetstiden for ett tillstånd till<br>införsel eller utförsel följer av artikel 5.2 i direktiv 92/3/Euratom. På<br>grund av bestämmelsen måste giltighetstiden för ett beslut om utförsel av<br>radioaktivt avfäll alltid begränsas.</p>
+<h4>10.2 Förslaget till lag om ändring i lagen (1984:3) om kärn-<br>teknisk verksamhet</h4>
+<p>5 a §</p>
+<p>Genom ändringen i andra stycket kompletteras det existerande förbudet<br>mot slutförvaring av använt kärnbränsle eller kämavfäll med utländskt<br>ursprung, så att även sådan mellanlagring som sker i avvaktan på<br>slutförvaring omfättas. Bakgrunden till förslaget och innebörden av<br>begreppet mellanlagring har redovisats i avsnitt 7. Som framgår av detta<br>avsnitt omfättas inte lagring som sker under en begränsad period för<br>andra syften, t.ex. då materialet skall undersökas eller behandlas här. Om<br>ett syfte med lagringen är att radioaktiviteten skall minska och materialet<br>kylas inför en slutförvaring, blir dock bestämmelsen tillämplig även om<br>det också finns andra skäl for lagringen i Sverige. För att man i<br>praktiken skall kunna tala om mellanlagring i avvaktan på slutförvaring<br>måste lagringen avse en relativt lång tidsperiod.</p>
+<p>I det tredje stycket har tagits in en hänvisning till de begränsningar i<br>rätten till utförsel av radioaktivt avfäll och den regel om tillstånds giltig-<br></p>
+<p>26</p>
+<p>het som föreslås i 20 a resp. 24 §§ strålskyddslagen. Bestämmelsen har Prop. 1994/95:118<br>sin bakgrund i att tillståndsprövningen vid in- och utförsel av radioaktivt<br>avfall som utgör kärnavfall skall ske enligt kämtekniklagen och inte<br>enligt strålskyddslagen.</p>
+<p>8 a §</p>
+<p>Enligt paragrafen, som är ny, kan regeringen föreskriva att tillstånd till<br>kärnteknisk verksamhet skall förenas med villkor som behövs för att<br>säkerställa tillämpningen av krav i fråga om forsöijning med malmer,<br>råmaterial och speciella klyvbara material enligt Euratom. Som framgår<br>av avsnitt 8 innebär dessa krav i praktiken att godkännande till leverans-<br>avtal måste inhämtas från Euratoms forsötjningsbyrå. Brott mot villkor<br>som meddelas enligt paragrafen kan inte läggas till grund för återkallelse<br>av tillstånd enligt 15 § kämtekniklagen.</p>
+<p>18 §</p>
+<p>Bakgrunden till den nya bestämmelsen i andra stycket framgår av avsnitt</p>
+<p>9.</p>
+<p>27 §</p>
+<p>Paragrafen innehåller bestämmelser om straffansvar när en uppgiftsskyl-<br>dighet inte fullgörs eller oriktiga uppgifter lämnas. Genom det nya andra<br>stycket kommer samma straffansvar att gälla i förhållande till uppgifts-<br>skyldigheten enligt Euratoms regler i förordningen 3227/76. Som framgår<br>av den allmänna motiveringen (avsnitt 9) blir ansvaret tillämpligt om<br>uppgiftsskyldigheten inte fullgörs enligt de särskilda kontrollbestämmelser<br>som beslutas för vaije anläggning.</p>
+<h4>10.3 Förslaget till lag om ändring i lagen (1991:341) om<br>strategiska produkter</h4>
+<p>4 §</p>
+<p>I paragrafen har tagits in en hänvisning till de begränsningar i rätten till<br>utförsel av radioaktivt avfall som föreslås i 20 a och 24 §§ strålskydds-<br>lagen. Bestämmelsen har sin bakgrund i att utförselprövning i fråga om<br>använt kärnbränsle skall ske enligt lagen om strategiska produkter och<br>inte enligt strålskyddslagen.</p>
+<p>27</p>
+<h3>Promemorians lagförslag</h3>
+<h4>Förslag till lag om ändring i strålskyddslagen (1988:20)</h4>
+<p>Härigenom föreskrivs i fråga om strålskyddslagen (1988:220)<br>dels att 5, 20 och 24 §§ skall ha följande lydelse,<br>dels att det i lagen skall införas en ny paragraf, 15 a §, av följande<br>lydelse.</p>
+<p>Nuvarande lydelse</p>
+<p>Föreslagen lydelse</p>
+<p>Med verksamhet med strålning<br>avses i denna lag</p>
+<p>1. tillverkning, införsel, trans-<br>port, saluförande, överlåtelse,<br>upplåtelse, förvärv, innehav och<br>användning av eller annan där-<br>med jämförlig befattning med<br>radioaktiva ämnen,</p>
+<p>2. användning av eller annan<br>därmed jämförlig befattning med<br>tekniska anordningar som kan<br>alstra strålning.</p>
+<p>Med verksamhet med strålning<br>avses i denna lag</p>
+<p>1. tillverkning, införsel, utför-<br>sel, transport, saluförande, över-<br>låtelse, upplåtelse, förvärv,<br>innehav och användning av eller<br>annan därmed jämförlig befatt-<br>ning med radioaktiva ämnen,</p>
+<p>2. användning av eller annan<br>därmed jämförlig befattning med<br>tekniska anordningar som kan<br>alstra strålning.</p>
+<p>15 a §</p>
+<p>Utförsel av radioaktivt avfall<br>får inte ske</p>
+<p>1. till området söder om 60<br>grader sydlig bredd,</p>
+<p>2. till stater utanför den Europe-<br>iska unionen som är parter i den<br>fjärde ACP/EEG-konventionen.</p>
+<p>Utförsel får inte heller ske till<br>en stat som i sin lagstiftning<br>förbjudit import av radioaktivt<br>avfall eller som saknar förmåga<br>att ta hand om sådant avfall på<br>ett säkert sätt.</p>
+<p>Regeringen eller den myndighet<br>som regeringen bestämmer med-<br>delar de ytterligare föreskrifter<br>om förbud mot utförsel som<br>behövs med hänsyn till strålskyd-<br>det.</p>
+<p>Prop. 1994/95:118</p>
+<p>Bilaga 1</p>
+<p>28</p>
+<p>20 § &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Prop. 1994/95:118</p>
+<p>Tillstånd krävs for att &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Bilaga 1</p>
+<p>1. tillverka, till landet infora, transportera, saluföra, överlåta, upplåta,<br>förvärva, inneha eller använda ett radioaktivt ämne,</p>
+<p>2. tillverka, till landet införa, saluföra, överlåta, upplåta, förvärva,<br>inneha, använda, installera eller underhålla en teknisk anordning som kan<br>och är avsedd att sända ut joniserande strålning eller sådan del av<br>anordningen som är av väsentlig betydelse från strålningssynpunkt,</p>
+<table border="1">
+<tr><td>
+<p>3. tillverka, till landet infora,<br>saluföra, överlåta, upplåta,<br>förvärva, inneha, använda,<br>installera eller underhålla andra<br>tekniska anordningar än sådana<br>som avses i 2 och som kan alstra<br>joniserande strålning och for<br>vilka regeringen eller den myn-<br>dighet som regeringen bestäm-<br>mer föreskrivit krav på tillstånd.</p></td><td>
+<p>3. tillverka, till landet införa,<br>saluföra, överlåta, upplåta,<br>förvärva, inneha, använda,<br>installera eller underhålla andra<br>tekniska anordningar än sådana<br>som avses i 2 och som kan alstra<br>joniserande strålning och för<br>vilka regeringen eller den myn-<br>dighet som regeringen bestäm-<br>mer föreskrivit krav på tillstånd,</p>
+<p>4. från landet utföra radioaktivt<br>avfall.</p></td></tr>
+</table>
+<p>24 §</p>
+<table border="1">
+<tr><td>
+<p>Ett tillstånd får begränsas till<br>att avse viss tid.</p></td><td>
+<p>Ett tillstånd får begränsas till att<br>avse viss. Tdlstånd till utförsel<br>av radioaktivt avfall får gälla<br>högst tre år.</p></td></tr>
+</table>
+<p>Denna lag träder i kraft den 1 januari 1995.</p>
+<p>29</p>
+<h4>Förslag till lag om ändring i lagen (1984:3) om kärnteknisk Prop. 1994/95:118<br>verksamhet &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Bilaga 1</h4>
+<p>Härigenom föreskrivs i fråga om lagen (1988:220) om kärnteknisk<br>verksamhet</p>
+<p>dels att 3, 5 a, 18 och 27 §§ skall ha följande lydelse,<br>dels att det i lagen skall införas en ny paragraf, 8 a §, av följande<br>lydelse.</p>
+<p>Nuvarande lydelse &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Föreslagen lydelse</p>
+<p>3 §</p>
+<p>Kärnteknisk verksamhet skall bedrivas på sådant sätt att kraven på<br>säkerhet tillgodoses och de förpliktelser uppfylls som följer av Sveriges<br>överenskommelser i syfte att förhindra spridning av kärnvapen och<br>obehörig befattning med kärnämne och sådant kärnavfall som utgörs av<br>använt kärnbränsle.</p>
+<p>Regeringen eller den myndighet som regeringen bestämmer får med-<br>dela de föreskrifter som behövs för att sådana förpliktelser skall uppfyllas<br>som ingår i överenskommelser som avses i första stycket.</p>
+<p>Särskilda bestämmelser i frågor<br>som avses i första stycket samt i<br>fråga om försörjning med kär-<br>nämnen finns i fördraget den 25<br>mars 1957 om upprättandet av<br>Europeiska atomenergigemen-<br>skapen, som enligt lagen<br>(1994:000) med anledning av<br>Sveriges anslutning till Europe-<br>iska unionen gäller här i landet,<br>samt i de rättsakter som beslutats<br>med stöd av fördraget.</p>
+<p>Bestämmelser om strålskydd finns i strålskyddslagen (1988:220).</p>
+<p>5 a §</p>
+<p>Tillstånd att uppföra en kämkraftsreaktor får inte meddelas.</p>
+<p>Det är förbjudet att utan särskilt tillstånd här i riket slutförvara använt<br>kärnbränsle eller kärnavfall från en kärnteknisk anläggning eller en annan<br>kärnteknisk verksamhet i ett annat land. Tillstånd får medges endast om<br>det finns synnerliga skäl och genomförandet av det program som avses<br>i 12 § inte försvåras.</p>
+<p>Förbud enligt andra stycket<br>gäller även sådan mellanlagring<br>av använt kärnbränsle eller<br>kärnavfall som sker i avvaktan<br>pä slutförvaring.</p>
+<p>I fråga om tillstånd till utförsel<br>av kärnavfall gäller de begräns-<br>ningar som följer av 15 a §<br></p>
+<p>30</p>
+<p>strålskyddslagen (1988:220).</p>
+<p>8 ai</p>
+<p>Som villkor för tillstånd skall<br>gälla att de krav är uppfyllda i<br>fråga om försörjning med mal-<br>mer, råmaterial och speciella<br>klyvbara material som följer av<br>bestämmelserna i fördraget den<br>25 mars 1957 om upprättandet<br>av Europeiska atomenergige-<br>menskapen.</p>
+<p>18 §</p>
+<p>Tillsynsmyndigheten får besluta om de åtgärder som behövs samt<br>meddela tillståndshavaren de förelägganden och förbud som behövs i<br>enskilda fall för att denna lag eller föreskrifter eller villkor som ha r<br>meddelats med stöd av lagen skall följas.</p>
+<p>Beslut enligt första stycket får<br>även avse verkställandet av<br>sanktioner enligt artikel 83.4 i<br>fördraget den 25 mars 1957 om<br>upprättandet av Europeiska<br>atomenergigemenskapen.</p>
+<p>Om någon inte vidtar en åtgärd som åligger honom enligt denna lag<br>eller enligt föreskrifter eller villkor som har meddelats med stöd av lagen<br>eller enligt tillsynsmyndighetens föreläggande, får myndigheten låta vidta<br>åtgärden på hans bekostnad.</p>
+<p>27 §</p>
+<p>Den som inte fullgör vad tillsynsmyndigheten begär eller beslutar med<br>stöd av 17 eller 18 § eller vad den lokala säkerhetsnämnden begär med<br>stöd av 21 § eller som uppsåtligen eller av grov oaktsamhet lämnar<br>myndigheten eller nämnden oriktiga uppgifter, döms till böter eller<br>fängelse i högst sex månader.</p>
+<p>Till ansvar enligt första stycket<br>döms också den som inte fullgör<br>sin uppgiftsskyldighet enligt<br>kommissionens förordning (Eu-<br>ratom) Nr 3227/76 om tillämp-<br>ning av bestämmelserna om<br>säkerhetskontroll i Euratom eller<br>som vid uppgiftslämnandet upp-<br>såtligen eller av grov oaktsamhet<br>lämnar oriktiga uppgifter till<br>kommissionen.</p>
+<p>Denna lag träder i kraft den 1 januari 1995.</p>
+<p>Prop. 1994/95:118</p>
+<p>Bilaga 1</p>
+<p>31</p>
+<p>Sammanställning av remissyttranden över promemo- Prop. 1994/95:118<br>rian (Ds 1994:124) Ändringar i lagstiftningen om Bilaga 2<br>kärnsäkerhet och strålskydd med anledning av an-<br>slutningen till den europeiska atomenergigemenska-<br>pen.</p>
+<h4>1 Remissinstanserna</h4>
+<p>Efter remiss har yttranden över promemorian avgetts av Statens strål-<br>skyddsinstitut (SSI), Statens kämkraftinspektion (SKI), Folkkampanjen<br>mot kärnkraft-kärnvapen, Greenpeace, Naturskyddsföreningen, Svensk<br>kämbränslehantering AB (SKB), Sydkraft AB och Vattenfall AB.</p>
+<p>Den 28 oktober 1994 hölls ett möte med remissinstanserna där tillfälle<br>gavs att även muntligen redovisa synpunkter. Samtliga remissinstanser<br>utom Greenpeace var närvarande vid mötet. De synpunkter som fram-<br>fördes vid mötet utöver de skriftliga remissyttrandena redovisas också i<br>den följande sammanställningen.</p>
+<h4>2 Allmänna synpunkter</h4>
+<p>Folkkampanjen mot kärnkraft-kärnvapen, Greenpeace och Naturskydds-<br>föreningen invänder mot den korta remisstiden och anför att det är<br>tveksamt om förfaringssättet uppfyller regeringsformens beredningskrav.<br>De framhåller att betänkandet är bristfälligt i sin analys av vilka<br>konsekvenser Euratom-fördraget kan få beträffande svensk lagstiftning.<br>Betänkandet är otillräckligt som grund för en proposition till riksdagen.</p>
+<p>Naturskyddsföreningen anser att förslagen i betänkandet medför att<br>Euratom-fördragets regler inte fullt ut och på ett konsekvent sätt införs<br>i svensk lagstiftning. Gällande EU-rätt kommer då att vara en annan eller<br>motsägas av den rätt som återges i den svenska lagstiftningen. Natur-<br>skyddsföreningen framhåller också att föreskrifter som utfärdas av<br>svenska myndigheter skall grundas på ett bemyndigande av riksdagen och<br>inte direkt av de regler som följer av Euratom-fördraget. Utredningen har<br>enligt Naturskyddsföreningen inte beaktat detta i sina förslag.</p>
+<p>Greenpeace anser att riksdagen bör lagfästa de principer som utgör<br>grunden för utövandet av kärnteknisk verksamhet i Sverige innan na-<br>tionen blir medlem i EU. Efter inträdet i unionen torde lagstiftningsåt-<br>gärder på detta område komma att vara förenade med praktiska genom-<br>förande problem av ett slag som inte finns i dag.</p>
+<p>Folkkampanjen mot Kärnkraft-Kärnvapen anser att Euratom-fördraget<br>är helt oförenligt med svensk lagstiftning och praxis. Fördraget kommer<br>att gälla som svensk rätt. Folkkampanjen anser därför inte att det är<br>relevant att diskutera några lagändringar.</p>
+<p>SKI framhåller att genom anslutningen till Euratom kommer Euratom-<br>fördragets text och förordningar som utfärdats med stöd av denna bli<br>gällande rätt i Sverige utan att omsättas i svensk lag eller förordning. SKI &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;32</p>
+<p>föreslår därför 3 § kämtekniklagen kompletteras med ett nytt stycke Prop. 1994/95:118<br>enligt följande: ”kärnteknisk verksamhet skall också bedrivas på sådant Bilaga 2<br>sätt att de förpliktelser uppfylls som följer av Sveriges anslutning till den<br>Europeiska atomenergigemenskapen.”</p>
+<p>Mittenfall anser att de föreslagna förändringarna i kämtekniklagen inte<br>kan motiveras av fördragets praktiska tillämpning. Lagstiftningen har inte<br>heller utformats på ett sätt som tar hänsyn till att fördragets ordalydelse<br>avviker från dess praktiska tillämpning.</p>
+<h4>3 Informationsspridning</h4>
+<p>Greenpeace anser att Euratom-fördragets artikel 194, punkt 1, torde<br>komma i konflikt med den svenska meddelarrätten. Greenpeace finner det<br>därför häpnadsväckande att det i betänkandet påstås att de svenska<br>reglerna om sekretess och meddelarffihet uppfyller Euratoms krav.</p>
+<p>Naturskyddsföreningen framhåller att Euratom-fördragets artikel 194<br>står i motsatsställning till den grundlagsskyddade meddelarfrihet som<br>finns i Sverige. Naturskyddsföreningen finner det vara oacceptabelt att<br>man låter bli att lösa denna motsatsställning.</p>
+<h4>4 Hälsoskydd</h4>
+<p>Ingen av remissinstanserna framför några erinringar mot övervägandena</p>
+<p>i promemorian.</p>
+<h4>5 Transporter av radioaktivt avfall</h4>
+<p>SSI har inget att invända mot sakinnehållet i promemorians lagförslag</p>
+<p>men föreslår följande bestämmelser i strålskyddslagen:</p>
+<p>” 5 § Med verksamhet med strålning avses i denna lag</p>
+<p>1. tillverkning, införsel, utförsel, transitering genom landet, transport,<br>saluförande, överlåtelse, upplåtelse, förvärv, innehav och användning av<br>eller annan därmed jämförlig befattning med radioaktiva ämnen.</p>
+<p>20 § Tillstånd krävs för att</p>
+<p>1. tillverka, till landet införa, från landet föra ut, genom landet tran-<br>sitera, transportera, saluföra, överlåta, upplåta, förvärva, inneha eller<br>använda ett radioaktivt ämne.</p>
+<p>Tillstånd till utförsel av radioaktivt avfall får. inte meddelas:</p>
+<p>a) Om detta avses att bli lagrat eller förvarat inom ett område av<br>jordytan som ligger söder om 60 grader sydlig bredd.</p>
+<p>b) Om detta avses att bli transporterat till en stat som inte kan antas<br>kunna ta hand om det på ett säkert sätt.</p>
+<p>Regeringen eller den myndighet som regeringen bestämmer får med-<br>dela ytterligare föreskrifter om vissa förutsättningar för tillstånd till<br>utförsel av radioaktivt ämne.</p>
+<p>24 § Ett tillstånd får inte begränsas till att avse viss tid. Tillstånd till<br>införsel, utförsel och transitering genom landet av radioaktivt avfall får &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;33</p>
+<p>gälla i högst tre är. &quot;</p>
+<p>Greenpeace anser att utöver förslagen i promemorian bör export för- Prop. 1994/95:118<br>bjudas till icke OECD-länder. Det bör dessutom tydligt framgå av 24 § Bilaga 2<br>strålskyddslagen att tillstånd till utförsel av radioaktivt avfall endast får<br>ges separat för vaije enskilt exporttillfälle.</p>
+<h4>6 Mellanlagring av utländskt kärnavfall m.m.</h4>
+<p>SKI tillstyrker den föreslagna ändringen i kämtekniklagen. SKI anser<br>dock att begreppet ”avfall” i den föreslagna lagtexten bör klargöras med<br>avseende på tillämpningen for använt kärnbränsle och kärnavfall.</p>
+<p>Även Naturskyddsföreningen anser att begreppet avfall bör preciseras.</p>
+<p>SSI föreslår att 5 a § kämtekniklagen får en annan utformning än den<br>föreslagna, nämligen följande: ”Tillstånd att uppföra en kämkraftreaktor<br>får inte meddelas.</p>
+<p>Det är förbjudet att utan särskilt tillstånd här i riket slutförvara eller,<br>i avvaktan på slutförvaring, mellanlagra använt kärnbränsle eller kär-<br>navfall från en kärnteknisk anläggning eller en kärnteknisk verksamhet<br>i ett annat land. Tillstånd får medges endast om det finns synnerliga skäl<br>och genomförandet av det program som avses i 12 § inte försvåras.</p>
+<p>/ fråga om tillstånd till utförsel av kärnavfall gäller de begränsningar<br>som följer av 20 § lp. och 24 § strålskyddslagen (1988:220). &quot;</p>
+<p>Greenpeace välkomnar förslaget om förbud mot mellanlagring av<br>utländskt kärnbränsle och kärnavfall. Förbudet bör dock vara ovillkorligt<br>i den bemärkelsen att det inte bör finnas någon dispensmöjlighet.</p>
+<p>SKB och Sydkraft AB har inget att erinra mot förslaget.</p>
+<h4>7 Försörjning med uran och egendomsordning</h4>
+<p>SKI anser att den föreslagna 8 a § kämtekniklagen är så formulerad att<br>det kan uppstå oklarhet om i vilken omfattning bestämmelsen är<br>tillämplig för en enskild tillståndshavare. Inspektionen föreslår som alter-<br>nativ att det i 3 § kämtekniklagen uttrycks ett generellt krav rörande upp-<br>fyllelse av de förpliktelser som följer av Sveriges anslutning till den<br>europeiska atomenergigemenskapen i enligt med vad SKI föreslagit.<br>Regeringen eller SKI skulle med stöd av detta bemyndigande kunna med-<br>dela de närmare föreskrifter som erfordras.</p>
+<p>SKB framhåller att de bestämmelser i Euratom-fördraget som 8 a §<br>kämtekniklagen refererar till inte tillämpas enligt bokstaven utan enligt<br>en successivt utvecklad praxis. Den föreslagna 8 a § kämtekniklagen<br>skulle mot denna bakgrund leda till orimliga konsekvenser. Genom att<br>knyta an regeln som ett villkor för tillstånd enligt kämtekniklagen skulle<br>föreskriften kunna leda till att alla sådana tillstånd skulle kunna komma<br>att dras in. Med hänsyn till den oklarhet både i formellt och materiellt<br>hänseende som råder beträffande avsnitt II, kapitel VI, i fördraget anser<br>SKB det oacceptabelt att i svensk lagstiftning som villkor för tillstånd<br>införa ett materiellt krav enligt bestämmelserna i denna del av fördraget.</p>
+<p>Sydkraft AB och Mittenfall AB anför liknande synpunkter.</p>
+<p>34</p>
+<h4>8 Säkerhetskontroll av klyvbart material</h4>
+<p>SKI framhåller att om 3 § kärntekniklagen kompletteras på det sätt som<br>SKI föreslagit som kommer tillståndshavare enligt kämtekniklagen att<br>vara skyldig att följa såväl svenska bestämmelser som de som följer av<br>Euratom-fördraget. Efterlevnaden av dessa bestämmelser kommer att<br>ingå i SKI:s tillsynsverksamhet. SKI anser att det föreslagna tillägget till<br>27 § kämtekniklagen i ett sådant fall inte erfordras.</p>
+<p>\tmenfall AB anser att de föreslagna ändringarna i 18 och 27 §§<br>kämtekniklagen är onödiga och omotiverade. Verkställighet av sanktioner<br>kan ske med stöd av Euratom-fördraget. Vidare skapar det betänkligheter<br>ur rättsäkerhetssynpunkt att införa straffansvar för brott mot en för-<br>ordning som inte tillämpas enligt sin ordalydelse och sina ursprungliga<br>intentioner. SKB och Sydkraft AB anför liknande synpunkter. De senare<br>framhåller också att sanktioner mot brott mot Euratom-fördragets kapitel<br>om kontroll av kärnämne finns i fördragets artikel 83. Dessa kan auto-<br>matiskt verkställas i Sverige enligt fördragets artikel 164. De föreslagna<br>ändringarna i 18 och 27 §§ skulle kunna innebära dubbel bestraffning<br>vilket inte är acceptabelt.</p>
+<p>Prop. 1994/95:118</p>
+<p>Bilaga 2</p>
+<p>35</p>
+<h3>Lagrådsremissens lagförslag &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Prop. 1994/95:118</h3>
+<p>Bilaga 3</p>
+<h4>1 Förslag till lag om ändring i strålskyddslagen (1988:220)</h4>
+<p>Härigenom föreskrivs i fråga om strålskyddslagen (1988:220)<br>dels att 5, 20 och 24 §§ skall ha följande lydelse,</p>
+<p>dels att det i lagen skall införas en ny paragraf, 20 a §, av följande<br>lydelse.</p>
+<p>Nuvarande lydelse &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Föreslagen lydelse</p>
+<p><sup>5 §</sup></p>
+<p>Med verksamhet med strålning avses i denna lag</p>
+<p>1. tillverkning, införsel, trans-<br>port, saluförande, överlåtelse,<br>upplåtelse, förvärv, innehav och<br>användning av eller annan därmed<br>jämförlig befattning med radioakti-<br>va ämnen,</p>
+<p>1. tillverkning, införsel, utför-<br>sel, transport, saluförande, över-<br>låtelse, upplåtelse, förvärv, in-<br>nehav och användning av eller<br>annan därmed jämförlig befattning<br>med radioaktiva ämnen,</p>
+<p>2. användning av eller annan därmed jämförlig befattning med tekniska<br>anordningar som kan alstra strålning.</p>
+<p>20 §</p>
+<p>Tillstånd krävs för att</p>
+<p>1. tillverka, till landet införa, transportera, saluföra, överlåta, upplåta,<br>förvärva, inneha eller använda ett radioaktivt ämne,</p>
+<p>2. tillverka, till landet införa, saluföra, överlåta, upplåta, förvärva,<br>inneha, använda, installera eller underhålla en teknisk anordning som kan<br>och är avsedd att sända ut joniserande strålning eller sådan del av<br>anordningen som är av väsentlig betydelse från strålningssynpunkt,</p>
+<p>3. tillverka, till landet införa,<br>saluföra, överlåta, upplåta, för-<br>värva, inneha, använda, installera<br>eller underhålla andra tekniska<br>anordningar än sådana som avses i<br>2 och som kan alstra joniserande<br>strålning och för vilka regeringen<br>eller den myndighet som regering-<br>en bestämmer föreskrivit krav på<br>tillstånd.</p>
+<p>3. tillverka, till landet infora,<br>saluföra, överlåta, upplåta, för-<br>värva, inneha, använda, installera<br>eller underhålla andra tekniska<br>anordningar än sådana som avses i<br>2 och som kan alstra joniserande<br>strålning och för vilka regeringen<br>eller den myndighet som regering-<br>en bestämmer föreskrivit krav på<br>tillstånd,</p>
+<p>4. från landet utföra radioaktivt<br>avfall.</p>
+<p>36</p>
+<table border="1">
+<tr><td></td><td>
+<p>20 a § &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Prop. 1994/95:118</p>
+<p>Vid prövning av tillstånd till Bilaga 3<br>utförsel av radioaktivt avfall gäller<br>att utförsel inte får ske</p>
+<p>1. till området söder om 60</p>
+<p>grader sydlig bredd,</p>
+<p>2. till en stat utanför Europeiska<br>unionen som är part i den fjärde<br>ACP/EEG-konventionen av den 15<br>december 1989,</p>
+<p>3. &nbsp;till en stat som förbjudit<br>import av radioaktivt avfall eller<br>som kan antas sakna förmåga att ta<br>hand om sådant avfall på ett säkert<br>sätt.</p></td></tr>
+</table>
+<p>24 §</p>
+<p>Ett tillstånd får begränsas till att Ett tillstånd får begränsas till att</p>
+<table border="1">
+<tr><td>
+<p>avse viss tid.</p></td><td>
+<p>avse viss tid. Tillstånd till införsel<br>eller utförsel av radioaktivt avfall<br>får gälla högst tre år.</p></td></tr>
+</table>
+<p>Denna lag träder i kraft den 1 juli 1995.</p>
+<p>37</p>
+<h4>2 Förslag till lag om ändring i lagen (1984:3) om kärnteknisk<br>verksamhet</h4>
+<p>Härigenom föreskrivs i fråga om lagen (1984:3) om kärnteknisk<br>verksamhet</p>
+<p>dels att 5 a, 18 och 27 §§ skall ha följande lydelse,</p>
+<p>dels att det i lagen skall införas en ny paragraf, 8 a §, av följande<br>lydelse.</p>
+<p>Prop. 1994/95:118</p>
+<p>Bilaga 3</p>
+<p>Nuvarande lydelse</p>
+<p>Föreslagen lydelse</p>
+<p>5a§</p>
+<p>Tillstånd att uppföra en kämkraftsreaktor får inte meddelas.</p>
+<p>Det är förbjudet att utan särskilt<br>tillstånd här i riket slutförvara<br>använt kärnbränsle eller kärnavfall<br>från en kärnteknisk anläggning<br>eller en annan kärnteknisk verk-<br>samhet i ett annat land. Tillstånd<br>får medges endast om det finns<br>synnerliga skäl och genomförandet<br>av det program som avses i 12 §<br>inte försvåras.</p>
+<p>Det är förbjudet att utan särskilt<br>tillstånd här i riket slutförvara<br>använt kärnbränsle eller kärnavfall<br>från en kärnteknisk anläggning<br>eller en annan kärnteknisk verk-<br>samhet i ett annat land. Detsamma<br>gäller sådan mellanlagring som<br>sker i avvaktan på slutförvaring.<br>Tillstånd får medges endast om det<br>finns synnerliga skäl och genomfö-<br>randet av det program som avses i<br>12 § inte försvåras.</p>
+<p>Vid prövning av tillstånd till<br>införsel eller utförsel av kärnavfall<br>gäller de begränsningar som följer<br>av 20 a och 24 §§ strålskyddsla-<br>gen (1988:220).</p>
+<p>8a§</p>
+<p>Regeringen för föreskriva att<br>tillstånd till kärnteknisk verksamhet<br>skall förenas med de villkor som<br>behövs för att säkerställa tillämp-<br>ningen av de krav i fråga om för-<br>sörjning med malmer, råmaterial<br>och speciella klyvbara material<br>som följer av bestämmelserna i<br>fördraget den 25 mars 1957 om<br>upprättandet av Europeiska atom-<br>energigemenskapen.</p>
+<p>18 §</p>
+<p>Tillsynsmyndigheten får besluta om de åtgärder som behövs samt</p>
+<p>38</p>
+<p>meddela tillståndshavaren de förelägganden och förbud som behövs i<br>enskilda fall för att denna lag eller föreskrifter eller villkor som har<br>meddelats med stöd av lagen skall följas.</p>
+<p>Beslut enligt första stycket för<br>även avse verkställandet av sank-<br>tioner enligt artikel 83.1 i fördra-<br>get den 25 mars 1957 om upprät-<br>tandet av Europeiska atomenergi-<br>gemenskapen.</p>
+<p>Prop. 1994/95:118</p>
+<p>Bilaga 3</p>
+<p>Om någon inte vidtar en åtgärd som åligger honom enligt denna lag<br>eller enligt föreskrifter eller villkor som har meddelats med stöd av lagen<br>eller enligt tillsynsmyndighetens föreläggande, får myndigheten låta vidta<br>åtgärden på hans bekostnad.</p>
+<p>27 §</p>
+<p>Den som inte fullgör vad tillsynsmyndigheten begär eller beslutar med<br>stöd av 17 eller 18 § eller vad den lokala säkerhetsnämnden begär med<br>stöd av 21 § eller som uppsåtligen eller av grov oaktsamhet lämnar<br>myndigheten eller nämnden oriktiga uppgifter, döms till böter eller<br>fängelse i högst sex månader.</p>
+<p>77// ansvar enligt första stycket<br>döms också den som inte fullgör<br>sin uppgifisskyldighet enligt kom-<br>missionens förordning (Euratom) nr<br>3227/76 av den 19 oktober 1976<br>om tillämpning av bestämmelserna<br>om säkerhetskontroll i Euratom<br>eller som vid upp gifts lämnandet<br>uppsåtligen eller av grov oaktsam-<br>het lämnar oriktiga uppgifter till<br>kommissionen.</p>
+<p>Denna lag träder i kraft den 1 juli 1995.</p>
+<p>39</p>
+<h4>Prop. 1994/95:118</h4>
+<h4>Förslag till lag om ändring i lagen (1991:341) om strategiska Bilaga 3<br>produkter</h4>
+<p>Härigenom föreskrivs att det i lagen (1991:341) om strategiska pro-<br>dukter<sup>2</sup> skall införas en ny paragraf, 4 §, av följande lydelse.</p>
+<table border="1">
+<tr><td>
+<p>Nuvarande lydelse</p></td><td>
+<p>Föreslagen lydelse</p>
+<p>41</p>
+<p>Vid prövning av tillstånd till<br>utförsel av använt kärnbränsle<br>gäller de begränsningar som följer<br>av 20 a och 24 §§ strålskyddsla-<br>gen (1988:220).</p></td></tr>
+</table>
+<p>Denna lag träder i kraft den 1 juli 1995.</p>
+<p><sup>2</sup> Senaste lydelse av lagens rubrik 1994:718.</p>
+<p>40</p>
+<h3>LAGRÅDET</h3>
+<p>Utdrag ur protokoll vid sammanträde 1994-12-15</p>
+<p>Prop. 1994/95:118</p>
+<p>Bilaga 4</p>
+<p>Närvarande: justitierådet Torkel Gregow, justitierådet Lars Å. Beckman,<br>regeringsrådet Sigvard Holstad.</p>
+<p>Enligt en lagrådsremiss den 8 december 1994 (Miljö- och naturresurs-<br>departementet) har regeringen beslutat inhämta Lagrådets yttrande över<br>förslag till</p>
+<p>1. lag om ändring i strålskyddslagen (1988:220),</p>
+<p>2. lag om ändring i lagen (1984:3) om kärnteknisk verksamhet,</p>
+<p>3. lag om ändring i lagen (1991:341) om strategiska produkter.</p>
+<p>Förslagen har inför Lagrådet föredragits av kammarrättsassessorn Per<br>Bergman.</p>
+<p>Lagrådet lämnar förslagen utan erinran.</p>
+<p>41</p>
+<h3>M i lj ödepartementet</h3>
+<p>Utdrag ur protokoll vid regeringssammanträde den 19 januari 1995</p>
+<p>Prop. 1994/95:118</p>
+<p>Närvarande: statsministern Carlsson, ordförande, och statsråden<br>Sahlin, Hjelm-Wallén, Peterson, Hellström, Thalén, Freivalds, Wall-<br>ström, Persson, Schori, Blomberg, Heckscher, Hedborg, Andersson,<br>Winberg, Uusmann, Ulvskog, Sundström, Lindh, Johansson</p>
+<p>Föredragande: statsrådet Lindh</p>
+<p>Regeringen beslutar proposition 1994/95:118 Lagstiftning med an-<br>ledning av Sveriges anslutning till Europeiska atomenergigemenska-<br>pen.</p>
+<p>42</p>
+<h3>Rättsdatablad</h3>
+<p>Prop. 1994/95:118</p>
+<table border="1">
+<tr><td>
+<p>Författningsrubrik</p></td><td>
+<p>Bestämmelser som<br>inför, ändrar, upp-<br>häver eller upprepar<br>ett normgivningsbe-<br>myndigande</p></td><td>
+<p>Celexnummer för<br>bakomliggande EG-<br>regler</p></td></tr>
+<tr><td>
+<p>Strålskyddslagen</p>
+<p>(1988:220)</p></td><td></td><td>
+<p>392L0003</p></td></tr>
+<tr><td>
+<p>Lagen (1984:3) om</p></td><td>
+<p>8 a §</p></td><td>
+<p>392L0003</p></td></tr>
+<tr><td>
+<p>kärnteknisk verksamhet</p></td><td></td><td>
+<p>376R3227</p></td></tr>
+<tr><td>
+<p>Lagen (1991:341) om<br>strategiska produkter</p></td><td></td><td>
+<p>392L0003</p></td></tr>
+</table>
+<p>43</p>
+<p>gotab 47572, Stockholm 1995</p>

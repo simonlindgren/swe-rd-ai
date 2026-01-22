@@ -1,0 +1,478 @@
+SEARCH TERM: artificiell intelligens
+DOCUMENT ID: hc022617
+TITLE: Främjande av kulturella och kreativa branscher
+TYPE: mot
+SUBTYPE: Kommittémotion
+DATE: 2024-10-03
+PARLIAMENTARY YEAR: 2024/25
+ORGANISATION: KrU
+STATUS: Klar
+DOWNLOADED: 2026-01-22 10:24:40
+================================================================================
+
+<style><!-- 
+ @page Section1 { size:595.3pt 841.9pt; margin:35.45pt 85.05pt 56.7pt }
+div.Section1 { page:Section1 }
+div.pconf body { t-i:14.2pt; line-height:15pt; font-family:'Verdana'; font-size: 0.90em }
+div.pconf h1, h2, h3, h4, h5, h6, p { margin:0pt }
+div.pconf li, table { margin-top:0pt; margin-bottom:0pt }
+div.pconf h1 { margin-top:41pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:19.5pt; font-family:'Verdana'; font-size: 1.05em; font-weight:normal; color:#000000 }
+div.pconf h2 { margin-top:30pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:17pt; font-family:'Verdana'; font-size: 1.00em; font-weight:normal; color:#000000 }
+div.pconf h3 { margin-top:18pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:15pt; font-family:'Verdana'; font-size: 0.90em; font-weight:bold; color:#000000 }
+div.pconf h4 { margin-top:18pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:15pt; font-family:'Verdana'; font-size: 0.90em; font-weight:normal; font-style:italic; color:#000000 }
+div.pconf h5 { margin-top:15pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:15pt; font-family:'Verdana'; font-size: 0.90em; font-weight:bold; font-style:normal; color:#000000 }
+div.pconf h6 { margin-top:15pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:15pt; font-family:'Verdana'; font-size: 0.90em; font-weight:normal; font-style:italic; color:#000000 }
+.Heading7 { margin-top:15pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:15pt; font-family:'Verdana'; font-size: 0.90em; font-weight:normal; font-style:italic; color:#000000; -aw-style-name:heading7 }
+.Heading8 { margin-top:15pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:15pt; font-family:'Verdana'; font-size: 0.90em; font-weight:normal; font-style:italic; color:#000000; -aw-style-name:heading8 }
+.Heading9 { margin-top:0pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:15pt; font-family:'Verdana'; font-size: 0.90em; font-weight:normal; font-style:italic; color:#000000; -aw-style-name:heading9 }
+.BalloonText { margin-bottom:0pt; t-i:14.2pt; line-height:normal; font-family:'Segoe UI'; font-size: 0.90em }
+.Beteckning { margin-top:18pt; margin-bottom:0pt; t-i:14.2pt; page-break-inside:auto; page-break-after:auto; line-height:19.5pt; font-size: 1.05em }
+.BlockText, .Inramatstycke { margin-right:56.7pt; margin-left:56.7pt; margin-bottom:0pt; t-i:0pt; text-align:nojustify; line-height:15pt; border:0.75pt solid #000000; padding:10pt; font-size: 0.90em; font-style:italic; -aw-border:0.25pt single }
+.Citaticitat { margin-top:7.5pt; margin-left:34pt; margin-bottom:0pt; t-i:0pt; line-height:12pt; font-size: 0.90em }
+.Citaticitatmedindrag { margin-top:0pt; margin-left:34pt; margin-bottom:7.5pt; t-i:17pt; line-height:12pt; font-size: 0.90em }
+.Citatmedindrag { margin-top:0pt; margin-left:17pt; margin-bottom:0pt; t-i:17pt; line-height:12pt; font-size: 0.90em }
+.CommentSubject { margin-bottom:0pt; t-i:14.2pt; line-height:normal; font-size: 0.90em; font-weight:bold }
+.CommentText { margin-bottom:0pt; t-i:14.2pt; line-height:normal; font-size: 0.90em }
+.FSHLogo { margin-top:4pt; margin-bottom:0pt; t-i:0pt; line-height:normal; font-size: 0.90em }
+.FSHNormL { margin-top:4pt; margin-bottom:0pt; t-i:0pt; line-height:15pt; border-top:1.5pt solid #000000; padding-top:3pt; font-size: 0.90em }
+.FSHNormal { margin-top:4pt; margin-bottom:0pt; t-i:0pt; line-height:15pt; font-size: 0.90em }
+.FSHNormalS5 { margin-top:11.5pt; margin-bottom:26pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-size: 0.95em; font-weight:bold }
+.FSHRub1, .Rubrik1S5 { margin-top:135pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:16pt; font-size: 1.00em }
+.FSHRub2, .Rubrik1A4 { margin-top:50pt; margin-bottom:5pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:24pt; font-size: 1.05em }
+.FSHTitel, .Dokumentrubrik { margin-top:4pt; margin-bottom:4pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:20pt; border-bottom:0.75pt solid #000000; padding-bottom:3pt; font-size: 1.05em; -aw-border-bottom:0.5pt single }
+.Footer { margin-top:4pt; margin-bottom:0pt; t-i:0pt; text-align:center; line-height:normal; font-size: 0.90em }
+.FootnoteText { margin-top:0pt; margin-bottom:0pt; t-i:0pt; line-height:12pt; font-size: 0.90em }
+.Frslagsrubrik { margin-top:41pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:19.5pt; font-family:'Verdana'; font-size: 1.05em }
+.Frslagstext, .Hemstlatt, .Yrkande { margin-top:4pt; margin-left:19.85pt; margin-bottom:0pt; t-i:-19.85pt; line-height:15pt; font-size: 0.90em }
+.Header { margin-top:4pt; margin-bottom:0pt; t-i:0pt; line-height:normal; font-size: 0.90em }
+.KantRubrikS5H { margin-top:6pt; margin-right:2.85pt; margin-bottom:0pt; t-i:0pt; text-align:right; line-height:8pt; font-size: 0.90em }
+.KantRubrikS5Hrad2 { margin-top:0pt; margin-right:2.85pt; margin-bottom:0pt; t-i:0pt; text-align:right; line-height:10pt; font-size: 0.90em }
+.KantRubrikS5V { margin-top:6pt; margin-right:0pt; margin-bottom:0pt; t-i:0pt; text-align:left; line-height:8pt; font-size: 0.90em }
+.KantRubrikS5Vrad2 { margin-top:0pt; margin-right:0pt; margin-bottom:0pt; t-i:0pt; text-align:left; line-height:10pt; font-size: 0.90em }
+.KantrubrikH { margin-top:4pt; margin-right:-82.2pt; margin-bottom:0pt; t-i:0pt; text-align:right; line-height:15pt; font-size: 0.90em }
+.KantrubrikV { margin-top:4pt; margin-left:-85.05pt; margin-bottom:0pt; t-i:0pt; line-height:normal; font-size: 0.90em }
+.Klla { margin-top:0pt; margin-bottom:0pt; t-i:0pt; line-height:12pt; font-size: 0.90em }
+.Lagtext { margin-top:4pt; margin-bottom:0pt; t-i:0pt; line-height:normal; font-size: 0.90em }
+.Lagtextindrag { margin-top:4pt; margin-bottom:0pt; t-i:14.2pt; line-height:normal; font-size: 0.90em }
+.Lagtextrubrik { margin-top:4pt; margin-bottom:0pt; t-i:0pt; line-height:normal; font-size: 0.90em; font-style:italic; letter-spacing:1pt }
+.List { margin-top:7.5pt; margin-left:17pt; margin-bottom:7.5pt; t-i:-17pt; line-height:15pt; font-size: 0.90em }
+.ListBullet, .PunktlistaBomb { margin-top:4pt; margin-left:14.2pt; margin-bottom:0pt; t-i:-14.2pt; line-height:15pt; font-size: 0.90em }
+.ListNumber, .PunktlistaNummer { margin-top:4pt; margin-left:14.2pt; margin-bottom:0pt; t-i:-14.2pt; line-height:15pt; font-size: 0.90em }
+.ListParagraph { margin-left:36pt; margin-bottom:0pt; t-i:14.2pt; line-height:15pt; font-size: 0.90em }
+.ListaGemener { margin-top:7.5pt; margin-left:17pt; margin-bottom:7.5pt; t-i:-17pt; line-height:15pt; font-size: 0.90em }
+.ListaLinje { margin-top:7.5pt; margin-left:17pt; margin-bottom:7.5pt; t-i:-17pt; line-height:15pt; font-size: 0.90em }
+.ListaNummer { margin-top:7.5pt; margin-left:17pt; margin-bottom:7.5pt; t-i:-17pt; line-height:15pt; font-size: 0.90em }
+.ListaPunkt { margin-top:7.5pt; margin-left:17pt; margin-bottom:7.5pt; t-i:-17pt; line-height:15pt; font-size: 0.90em }
+.MotionTIllRiksdagen { margin-top:18pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:19.5pt; font-size: 1.05em }
+.Motionr { margin-top:14pt; margin-bottom:31.5pt; t-i:0pt; page-break-inside:avoid; line-height:15pt; font-size: 1.00em; font-weight:bold; font-style:normal }
+.Motiveringrubrik2numrerat1 { margin-top:30pt; margin-left:0pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:17pt; font-family:'Verdana'; font-size: 1.00em }
+.Motiveringrubrik3numrerat1 { margin-top:18pt; margin-left:0pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:15pt; font-family:'Verdana'; font-size: 0.90em; font-weight:bold }
+.Motiveringrubrik3numrerat11 { margin-top:18pt; margin-left:0pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:15pt; font-family:'Verdana'; font-size: 0.90em; font-weight:bold }
+.Motiveringrubrik4numrerat11 { margin-top:18pt; margin-left:0pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:15pt; font-family:'Verdana'; font-size: 0.90em; font-weight:normal; font-style:italic }
+.NormalWeb { margin-bottom:0pt; t-i:14.2pt; line-height:15pt; font-family:'Verdana'; font-size: 0.90em }
+.NormalIndent { margin-left:65.2pt; margin-bottom:0pt; t-i:14.2pt; line-height:15pt; font-size: 0.90em }
+.Normalutanindragellerluft { margin-top:4pt; margin-bottom:0pt; t-i:0pt; line-height:15pt; font-size: 0.90em }
+.Normal00 { margin-top:4pt; margin-bottom:0pt; t-i:0pt; line-height:normal; font-size: 0.90em }
+.NormalA4fot { margin-top:12pt; margin-bottom:0pt; t-i:0pt; text-align:center; line-height:normal; font-size: 0.90em }
+.NormalA4sidnr { margin-top:4pt; margin-bottom:12pt; t-i:0pt; text-align:center; line-height:normal; font-size: 0.90em }
+.NormalS5sidnrH { margin-top:4pt; margin-right:2.85pt; margin-bottom:0pt; t-i:0pt; text-align:right; line-height:normal; font-size: 0.90em }
+.NormalS5sidnrV { margin-top:4pt; margin-right:0pt; margin-bottom:0pt; t-i:0pt; text-align:left; line-height:normal; font-size: 0.90em }
+.PlainText { margin-bottom:0pt; t-i:0pt; line-height:12pt; font-family:'Verdana'; font-size: 0.90em }
+.Quote { margin-top:7.5pt; margin-left:17pt; margin-bottom:0pt; t-i:0pt; line-height:12pt; font-size: 0.90em }
+.R1 { margin-top:41pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:19.5pt; font-family:'Verdana'; font-size: 1.05em }
+.R2 { margin-top:30pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:17pt; font-family:'Verdana'; font-size: 1.00em }
+.R3 { margin-top:18pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:15pt; font-family:'Verdana'; font-size: 0.90em; font-weight:bold }
+.Rubrik1numrerat { margin-top:41pt; margin-left:0pt; margin-bottom:0pt; t-i:0pt; page-break-inside:auto; page-break-after:avoid; line-height:19.5pt; font-family:'Verdana'; font-size: 1.05em }
+.Rubrik2numrerat { margin-top:30pt; margin-left:0pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:17pt; font-family:'Verdana'; font-size: 1.00em }
+.Rubrik3numrerat { margin-top:18pt; margin-left:0pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:15pt; font-family:'Verdana'; font-size: 0.90em; font-weight:bold }
+.Rubrik4numrerat { margin-top:18pt; margin-left:0pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:15pt; font-family:'Verdana'; font-size: 0.90em; font-weight:normal; font-style:italic }
+.RubrikFrslagTIllRiksdagsbeslut { margin-top:41pt; margin-bottom:15pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:19.5pt; font-family:'Verdana'; font-size: 1.05em }
+.RubrikInnehllsf { margin-top:41pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:19.5pt; font-family:'Verdana'; font-size: 1.05em }
+.RubrikSammanf { margin-top:41pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:19.5pt; font-family:'Verdana'; font-size: 1.05em }
+.Salutation { margin-top:41pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:19.5pt; font-family:'Verdana'; font-size: 1.05em }
+.Streckkod { margin-top:12pt; margin-bottom:0pt; t-i:0pt; text-align:center; line-height:normal; font-family:IDAutomationHC39S; font-size: 1.00em }
+.Strecklista, .PunktlistaTankstreck { margin-top:4pt; margin-left:14.2pt; margin-bottom:0pt; t-i:-14.2pt; line-height:15pt; font-size: 0.90em }
+.Subtitle { margin-top:4pt; margin-bottom:0pt; t-i:0pt; line-height:15pt; font-family:'Verdana'; font-size: 0.90em; font-weight:bold }
+.TOC1 { margin-top:4pt; margin-bottom:0pt; t-i:0pt; line-height:15pt; font-size: 0.90em }
+.TOC2 { margin-top:4pt; margin-left:14.2pt; margin-bottom:0pt; t-i:0pt; line-height:15pt; font-size: 0.90em }
+.TOC3 { margin-top:4pt; margin-left:28.35pt; margin-bottom:0pt; t-i:0pt; line-height:15pt; font-size: 0.90em }
+.TOC4 { margin-top:4pt; margin-left:42.55pt; margin-bottom:0pt; t-i:0pt; line-height:15pt; font-size: 0.90em }
+.TOC5 { margin-top:4pt; margin-left:56.7pt; margin-bottom:0pt; t-i:0pt; line-height:15pt; font-size: 0.90em }
+.TOC6 { margin-top:4pt; margin-left:56.7pt; margin-bottom:0pt; t-i:0pt; line-height:15pt; font-size: 0.90em }
+.TOC7 { margin-top:15pt; margin-left:56.7pt; margin-bottom:0pt; t-i:14.2pt; page-break-inside:avoid; page-break-after:avoid; line-height:normal; font-family:'Verdana'; font-size: 0.90em; font-weight:normal; font-style:italic }
+.TOC8 { margin-top:15pt; margin-left:56.7pt; margin-bottom:0pt; t-i:14.2pt; page-break-inside:avoid; page-break-after:avoid; line-height:normal; font-family:'Verdana'; font-size: 0.90em; font-weight:normal; font-style:italic }
+.TOC9 { margin-top:15pt; margin-left:56.7pt; margin-bottom:0pt; t-i:14.2pt; page-break-inside:avoid; page-break-after:avoid; line-height:normal; font-family:'Verdana'; font-size: 0.90em; font-weight:normal; font-style:italic }
+.TOCHeading { margin-top:41pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:19.5pt; font-family:'Verdana'; font-size: 1.05em }
+.Tabellunderrubrik { margin-top:0pt; margin-bottom:0pt; t-i:0pt; page-break-after:avoid; line-height:15pt; font-size: 0.90em; font-weight:normal; font-style:italic }
+.Tabellrubrik { margin-top:7.5pt; margin-bottom:0pt; t-i:0pt; page-break-after:avoid; line-height:15pt; font-size: 0.90em; font-weight:bold }
+.Title { margin-top:41pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:19.5pt; font-family:'Verdana'; font-size: 1.05em }
+.Underskriftdatum { margin-top:24pt; margin-bottom:3pt; t-i:0pt; page-break-inside:avoid; line-height:15pt; font-size: 0.90em; font-style:normal }
+.Underskrifter { margin-top:15pt; margin-bottom:3pt; t-i:0pt; page-break-inside:avoid; line-height:15pt; font-size: 0.90em; font-style:italic }
+.Yrkandehnv, .Frslagspunkthnv { margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; font-size: 0.90em }
+span.BallongtextChar { font-family:'Segoe UI'; font-size: 0.90em }
+span.BeteckningChar { font-size:19.5pt }
+span.CommentReference { font-size:8pt }
+span.FSHRub2Char, span.Rubrik1A4Char { font-size:24pt }
+span.FotnotstextChar { font-size:10pt }
+span.Hyperlink { text-decoration:underline; color:#0563c1; -aw-style-name:hyperlink }
+span.InledningChar { font-family:'Verdana'; font-size: 1.00em; font-weight:bold }
+span.IntenseReference { font-weight:normal; font-style:normal; font-variant:normal; text-decoration:none; text-transform:none; letter-spacing:0pt; vertical-align:0pt; color:#000000; display:inline }
+span.KommentarerChar { font-size:10pt }
+span.KommentarsmneChar { font-size:10pt; font-weight:bold }
+span.MotionTIllRiksdagenChar { font-size:19.5pt }
+span.OformateradtextChar { font-family:'Verdana'; font-size: 0.90em }
+span.PlaceholderText { color:#f4b083 }
+span.Rubrik1Char { font-family:'Verdana'; font-size: 1.05em }
+span.Rubrik2Char { font-family:'Verdana'; font-size: 1.00em }
+span.Rubrik3Char { font-family:'Verdana'; font-size: 0.90em; font-weight:bold }
+span.Rubrik4Char { font-family:'Verdana'; font-size: 0.90em; font-style:italic }
+span.Rubrik5Char { font-family:'Verdana'; font-weight:bold }
+span.Rubrik6Char { font-family:'Verdana'; font-style:italic }
+span.Rubrik7Char { font-family:'Verdana'; font-size: 0.90em; font-weight:bold }
+span.Rubrik8Char { font-family:'Verdana'; font-size: 0.90em; font-weight:bold }
+span.Rubrik9Char { font-family:'Verdana'; font-size: 0.90em; font-weight:bold }
+span.RubrikChar { font-family:'Verdana'; font-size: 1.00em; font-weight:bold }
+span.SidfotChar { font-size:11.5pt }
+span.UnderrubrikChar { font-family:'Verdana'; font-size: 0.90em; font-weight:bold }
+.TableGrid {  }
+
+.pconf{width: 450px;margin-left:5px;overflow:visable;font-family:Verdana, Geneva, sans-serif;} 
+ .sidhuvud_publikation, .sidhuvud_beteckning{font-size:133%}
+.MotionarLista {font-size:122%}
+
+--></style><div class="pconf"><span class="sidhuvud_publikation">Motion till riksdagen</span><br/>
+<span class="sidhuvud_beteckning">2024/25:2617</span><br/>
+<span class="MotionarLista">av Elin Söderberg m.fl. (MP)</span><br/>
+<h1>Främjande av kulturella och kreativa branscher</h1>
+<hr class="sidhuvud_linje"/>
+
+
+		<div class="Section1">
+			<p class="RubrikFrslagTIllRiksdagsbeslut">
+				<a name="_Toc106800475"></a><a name="_Toc106801300"><span style="-aw-sdt-tag:'CC_Boilerplate_4'; -aw-sdt-title:'CC_Boilerplate_4'"><span>Förslag till riksdagsbeslut</span></span><span style="-aw-bookmark-end:_Toc106800475"></span></a>
+			</p>
+			<div style="-aw-sdt-tag:'98cd03f3-72d4-44b5-8689-d6a623a1c962'; -aw-sdt-title:'Yrkande 1'">
+				<ol type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-left:14pt; t-i:0pt; padding-left:5.85pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att regeringen skyndsamt ska återkomma till riksdagen med en uppdaterad strategi för kulturella och kreativa branscher som tydligt stärker näringarnas och kulturskaparnas utveckling, exportfrämjande och trygghet på arbetsmarknaden, och detta tillkännager riksdagen för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'f83646a0-f8fb-4858-b848-0b4074a3f4b0'; -aw-sdt-title:'Yrkande 2'">
+				<ol start="2" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; margin-left:14pt; t-i:0pt; padding-left:5.85pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att regeringen ska höja sin ambitionsnivå när det gäller både reformer och finansiering för de kulturella och kreativa branschernas fortsatta utveckling och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'3916dd0b-5e32-481d-a259-c99007af6f50'; -aw-sdt-title:'Yrkande 3'">
+				<ol start="3" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; margin-left:14pt; t-i:0pt; padding-left:5.85pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att utreda förutsättningarna för att inrätta ett institut för kulturella och kreativa näringar, för främjande av spel, musik, film samt andra kulturella och kreativa branscher, och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'0acd416f-5e99-4925-a8ec-16e9c773edec'; -aw-sdt-title:'Yrkande 4'">
+				<ol start="4" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; margin-left:14pt; t-i:0pt; padding-left:5.85pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att förbättra de sociala skyddsnäten för människor med olika sysselsättningsformer, såsom kombinatörer, gigarbetare och enskilda firmor, och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'020e9588-6cb4-4fcb-8c81-93c8489ccc16'; -aw-sdt-title:'Yrkande 5'">
+				<ol start="5" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; margin-left:14pt; t-i:0pt; padding-left:5.85pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att stärka konstnärsperspektivet samt konstnärlig frihet i den nationella strategin för kulturella och kreativa branscher och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'73c0024b-8560-414e-8909-ab2c16a39cdf'; -aw-sdt-title:'Yrkande 6'">
+				<ol start="6" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; margin-left:14pt; t-i:0pt; padding-left:5.85pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att omgående tillsätta en utredning i syfte att säkra upphovspersonernas och de utövande konstnärernas rättigheter i ljuset av AI-utvecklingen och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'e5f84568-3ddb-4707-8531-29e606e3ecaf'; -aw-sdt-title:'Yrkande 7'">
+				<ol start="7" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; margin-left:14pt; t-i:0pt; padding-left:5.85pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att agera pådrivande inom EU för en översyn av upphovsrättslagstiftningen och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'6add1808-8d3c-4feb-b1a9-7fdb9c12aa81'; -aw-sdt-title:'Yrkande 8'">
+				<ol start="8" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; margin-left:14pt; t-i:0pt; padding-left:5.85pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att arbetet med stärkt medie- och informationskunnighet i fråga om AI måste intensifieras och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'964d8c89-189b-4749-a445-88680bfbe529'; -aw-sdt-title:'Yrkande 9'">
+				<ol start="9" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; margin-left:14pt; t-i:0pt; padding-left:5.85pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att ta fram en nationell strategi för dataspel och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'a30d645d-826e-4fb3-acad-1c2937485bfc'; -aw-sdt-title:'Yrkande 10'">
+				<ol start="10" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; t-i:0pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att spel ska ha samma möjlighet som andra kulturformer att söka offentliga medel och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'d3ebf9ee-82c6-4f7f-8885-a4f941598dc6'; -aw-sdt-title:'Yrkande 11'">
+				<ol start="11" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; t-i:0pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att utveckla stödsystemen för spel och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'3785c811-2ee1-4c76-86d7-1d8e22b9fdf6'; -aw-sdt-title:'Yrkande 12'">
+				<ol start="12" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; t-i:0pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om kompetensförsörjning och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'045cd064-223d-4d7f-83a3-286f9c69785f'; -aw-sdt-title:'Yrkande 13'">
+				<ol start="13" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; t-i:0pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att reglera vilseledande metoder i spel och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'6b33a72f-95f9-4cb8-8ec5-9782a792e6d6'; -aw-sdt-title:'Yrkande 14'">
+				<ol start="14" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; t-i:0pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att stödja initiativ för en mer jämställd och öppen spelkultur och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'57b0c729-3b07-4a4c-899d-238612776357'; -aw-sdt-title:'Yrkande 15'">
+				<ol start="15" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; t-i:0pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att e</span><span>&#x2011;</span><span>sporten ska ges samma juridiska förutsättningar som övrig sport och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'ddc18f42-7fde-4ecd-aaa6-cf97aab28ca2'; -aw-sdt-title:'Yrkande 16'">
+				<ol start="16" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; t-i:0pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att statliga kulturinstitutioner ska verka för kultur i hela landet och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'0e7085c6-7395-4280-a7b2-9e9e16070873'; -aw-sdt-title:'Yrkande 17'">
+				<ol start="17" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; t-i:0pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att det statliga anslaget till regionala kulturverksamheter ska öka och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'e97a6ad4-0b05-427f-94cd-803ac6d8ec78'; -aw-sdt-title:'Yrkande 18'">
+				<ol start="18" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; t-i:0pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att stärka civilsamhället och dess samverkan med offentliga verksamheter och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'CC_Motivering_Rubrik'; -aw-sdt-title:'CC_Motivering_Rubrik'">
+				<h1>
+					<a name="MotionsStart"></a><a name="_Toc106801301"></a><a name="_Toc106800476"><span>Motivering</span></a>
+				</h1>
+			</div>
+			<span style="-aw-bookmark-end:_Toc106801301">
+			</span>
+			<p class="Normalutanindragellerluft">
+				<span style="-aw-bookmark-end:_Toc106800476"></span><span>Kulturella och kreativa näringar är viktiga för vår livskvalitet, näringslivsutveckling och svensk export. Sverige är ett framgångsrikt land, med många innovationer, starka varu</span><span>&#xad;</span><span>märken och en musik</span><span>&#x2011;</span><span>, design</span><span>&#x2011;</span><span>, dataspels- och modeindustri i världsklass. Vi vill flytta fram positionerna, både för kulturens skull, för vårt näringsliv och för exporten. De kulturella och kreativa näringarna bidrar starkt till Sverigebilden och gynnar därmed svensk konkurrenskraft.</span>
+			</p>
+			<p>
+				<span>Miljöpartiet tillsatte i regering utredningen Kreativa Sverige (SOU 2022:44) som skulle lämna förslag till en samlad nationell strategi med syftet att främja långsiktig och hållbar utveckling av de kulturella och kreativa näringarna i hela landet. Vi hade velat se en strategi för de kulturella och kreativa branscherna med konkreta steg för att stärka villkoren och samordningen för de kulturella och kreativa branscherna. Regeringens skrivelse 2023/24:111 Strategi för företag i kulturella och kreativa branscher lämnade tyvärr mycket att önska.</span>
+			</p>
+			<p>
+				<span>Internationellt utbyte, samverkan och export är viktigt både för den konstnärliga utvecklingen och kvaliteten och för svenska konstnärers möjlighet att verka på en inter</span><span>&#xad;</span><span>nationell marknad. Pandemin har påverkat arbetet med kulturens internationalisering negativt. Återstartsutredningen föreslår särskilda satsningar på både internationellt utbyte och export, och dem vill vi gå vidare med.</span>
+			</p>
+			<p>
+				<span>Regeringens strategi säger ytterst lite om hur de avser att adressera de hinder som identifierats, eller åtgärder för att nå de prioriteringar och mål som sätts upp. Inom området kompetensförsörjning presenterar regeringen snarare en redogörelse över vilka utbildningssystem som finns i dag än någon typ av riktning, reformer eller prioritering framåt. Det saknas också nya medel för genomförandet av strategin. Vi ser en stor risk i att omprioriteringar för att genomföra strategin tas från den redan ansträngda kultur</span><span>&#xad;</span><span>budgeten.</span><span>&#xa0;</span>
+			</p>
+			<p>
+				<span>Miljöpartiet anser att de kulturella och kreativa branschernas bidrag till kreativt tänkande, innovation, idéutveckling och därmed hela samhällets utveckling måste framhållas. Kulturen är en omistlig del av människors liv; genom kulturupplevelser vidgas och fördjupas vår förståelse av oss själva och andra. Konsten, kulturen, de kulturella och kreativa branscherna är avgörande i ett demokratiskt samhälle. De kulturella och kreativa branscherna bidrar även starkt till Sveriges ekonomi, Sverige</span><span>&#xad;</span><span>bilden och förutsättningarna för svensk export och investeringar i Sverige. Miljöpartiet anser att alla de värden som de kulturella och kreativa branscherna tillför landet tydligt bör framgå av politiken i stort och av den nationella strategin för kulturella och kreativa branscher i synnerhet.</span>
+			</p>
+			<p>
+				<span>Miljöpartiet anser att konstnärsperspektivet bör förtydligas och stärkas i strategin. Vi avvisar användandet av begreppet ”råvara” som ett sätt att beskriva det konstnärliga och kreativa skapandet. Överlag saknas skrivningar om vikten av en offensiv konstnärs</span><span>&#xad;</span><span>politik och konkreta förslag för att stärka densamma. Vi vill också se att kulturskapar- och branschorganisationerna tydligt inkluderas i genomförandet och uppföljningen av strategin.</span>
+			</p>
+			<p>
+				<span>Vi menar att stycket om konstnärlig frihet i strategin bör utvecklas och förtydligas. Den konstnärliga friheten utgår från en vidsträckt yttrandefrihet och är en utgångspunkt för de kulturpolitiska målen. Att bredda finansieringen till kulturen är vi positiva till. Men stärkta möjligheter till näringsverksamhet ska inte ställas emot en stark offentlig finansiering, som värnar bredden, mångfalden och det fria skapandet. Det är också viktigt att se att den konstnärliga friheten kan begränsas av olika saker, även av kommersiell anpasslighet.</span><span>&#xa0;</span><span>&#xa0;</span>
+			</p>
+			<p>
+				<span>Vi förordar att stycket om upphovsrätt utvecklas så att det tydligare framgår att staten bör stå redo att stärka upphovsrätten för att värna och säkra upphovspersonernas och de utövande konstnärernas rättigheter.</span><span>&#xa0;</span>
+			</p>
+			<h1>
+				<span>Stärkt främjande av kulturella och kreativa näringar</span>
+			</h1>
+			<p class="Normalutanindragellerluft">
+				<span>Kulturella och kreativa näringar är viktiga för vår livskvalitet, näringslivsutveckling och svensk export. Vi vill stärka främjandet av dessa branscher där också spelbranschen är central. En nationell strategi för kulturella och kreativa branscher är under framtagande efter den utredning vi tillsatte i regering. Ett annat steg vi vill ta är att utreda förutsätt</span><span>&#xad;</span><span>ningarna för att inrätta ett institut för kulturella och kreativa näringar för främjande av spel, musik, film samt andra kulturella och kreativa branscher. Förutsättningarna för att inrätta ett institut för kulturella och kreativa näringar för främjande av spel, musik, film samt andra kulturella och kreativa branscher bör därför utredas.</span>
+			</p>
+			<h2>
+				<span>Stärk de sociala skyddsnäten</span>
+			</h2>
+			<p class="Normalutanindragellerluft">
+				<span>Utredningen Kreativa Sverige (SOU 2022:44) framhåller flera saker som vi anser att </span><span style="letter-spacing:-0.05pt">regeringen inte har omhändertagit i strategin, bland annat behovet av att stärka trygghets</span><span style="letter-spacing:-0.05pt">&#xad;</span><span style="letter-spacing:-0.05pt">systemen</span><span> för alla kombinatörer och gigarbetare inom de kulturella och kreativa bransch</span><span>&#xad;</span><span>erna. Utredningen framhåller att personer med enskild firma faller mellan stolarna i trygghetssystemen. I strategin nämner regeringen att man avser att reformera arbetslös</span><span>&#xad;</span><span>hets</span><span>&#xad;</span><span>försäkringen och utredningen om ett nytt regelverk för sjukpenning</span><span>&#xad;</span><span>grundande inkomst (SOU 2023:30). Miljöpartiet anser att detta inte tillmötesgår de behov som branschen lyfter fram i utredningen.</span>
+			</p>
+			<p>
+				<span>De sociala skyddsnäten såsom a</span><span>&#x2011;</span><span>kassa och SGI är i dag i stor utsträckning anpassade till heltidsanställningar, och inte till den variation av sysselsättningsformer som finns i dag. De sociala skyddsnäten måste utgå från de faktiska förutsättningar under vilka människor i de kulturella och kreativa branscherna arbetar. Vi vill förbättra de sociala skyddsnäten för olika sysselsättningsformer såsom kombinatörer, gigarbetare och personer med enskild firma.</span>
+			</p>
+			<h2>
+				<span>Säkra upphovsrätten i ljuset av AI</span>
+			</h2>
+			<p class="Normalutanindragellerluft">
+				<span>AI, artificiell intelligens, har utvecklats snabbt de senaste åren. Nya webbtjänster, som Chat GPT, ger en ännu större tillgänglighet till AI-tekniken. Detta innebär och kommer att innebära enorma förändringar och utmaningar, inte minst för kultursektorn. Texter, bilder och musik skapade av AI går ofta inte att skilja från mänskligt skapade verk, och utvecklingen lär fortsätta. Dessutom finns det stora pengar på detta område.</span>
+			</p>
+			<p>
+				<span>Förutom olika slags frågor kring kulturens värde och funktion, konstnärlig kvalitet, etik och autenticitet, är frågor kring upphovsrättslagstiftningen helt centrala. AI tränas i dag på stora mängder befintligt material och det är svårt, för att inte säga omöjligt, för upphovsrättsinnehavare att hävda sina rättigheter till materialet. Det handlar om författare, bildkonstnärer, kompositörer, musiker, skådespelare och filmskapare vars verk och prestationer utnyttjas utan att de gett sitt medgivande, och utan att de eventuella ekonomiska värden som skapas av de AI-genererade verken tillfaller dem.</span>
+			</p>
+			<p>
+				<span>En intensiv diskussion pågår nu inom kulturområdet världen över om hur upphovs</span><span>&#xad;</span><span>rätten bör anpassas till rådande läge. Vissa länder, som Frankrike, har redan tagit steg. Svenska Tecknare har undersökt hur den nya, generativa AI-tekniken förhåller sig till nuvarande upphovsrättslagstiftning. Enligt deras bedömning ger upphovsrättslagen inte stöd för att man får använda upphovsrättsskyddade verk eller andra skyddade alster som träningsdata för att utveckla generativ AI utan att först inhämta rättighetshavarnas </span><span style="letter-spacing:-0.1pt">tillstånd och erlägga skälig ersättning för användningen. Det finns förvisso inskränknings</span><span style="letter-spacing:-0.1pt">&#xad;</span><span style="letter-spacing:-0.1pt">bestämmelser,</span><span> men rättigheterna får bara inskränkas när nyttan för allmänheten väger tyngre än skadan för rättighetshavarna, såsom inom forskning eller vård. De lyfter fram att all generativ AI-träning ska ske på ett etiskt och lagenligt sätt, där generativ AI enbart bör tränas på material där rättighetshavarna uttryckligen gett sin tillåtelse. De anser även att rättighetshavarna ska ersättas retroaktivt för det material som redan olovligen använts och att lagstiftningen måste ses över för att åstadkomma ett tydligare regelverk som kan både hantera och komma till rätta med de problem som uppstått till följd av den ökade utvecklingen och användningen av generativ AI inom detta område. Flera kulturskaparorganisationer, däribland Sveriges Författarförbund, står bakom den hållning som Svenska Tecknare tagit fram.</span>
+			</p>
+			<p>
+				<span>Sverige behöver agera. Kulturministern har inrättat en sektorsövergripande AI-enhet på sitt departement. Det är bra, men lagstiftningen behöver ses över för att säkra upphovspersonernas och de utövande konstnärernas rättigheter i ljuset av AI, och en utredning bör omgående tillsättas i detta syfte. Arbetet inom EU behöver också påskyndas och här bör Sverige agera pådrivande. Detta arbete behöver ske mycket skyndsamt.</span>
+			</p>
+			<p>
+				<span>Dessutom behöver förståelsen för hur AI fungerar utvecklas. Falska foton, des</span><span>&#xad;</span><span>information och fördomar riskerar att reproduceras. Mer kunskap behövs och det bör ske inom ramen för det samlade medie- och informationskunnighetsarbetet (MIK).</span>
+			</p>
+			<p>
+				<span>Vi måste uppmärksamma och skydda det fundamentala värdet av det mänskliga skapandet och säkra förutsättningarna för bildkonstnärer, författare, musiker, skåde</span><span>&#xad;</span><span>spelare och filmskapare i Sverige och världen över. AI innebär många möjligheter, men utmaningarna måste tas på allvar. Sverige har inte råd att vänta och se, utan bör vara aktivt i att söka lösningar i en ny tid med utgångspunkt i upphovsrätten och värnandet av det kulturella skapandet.</span>
+			</p>
+			<h1>
+				<span>Levla upp spelpolitiken</span>
+			</h1>
+			<p class="Normalutanindragellerluft">
+				<span>Bland de kulturella och kreativa branscherna ser vi att spelbranschen vuxit mycket starkt i Sverige. Politiken för denna bransch är dock eftersatt. Spelkultur är ett brett samlingsbegrepp för olika kulturformer kopplat till olika sorters spel (både analoga och digitala), rollspel, lajv, cosplay och fantastik (en genre som bl.a. innefattar science fiction, historisk fiktion och sagor). Spel spelas av en anledning. Det inbjuder till upplevelser och medskapande och erbjuder sociala sammanhang, främjande av kreativitet, problemlösning och självutveckling. Spel är både en del av människors vardag och fritid, en konstform, ett fritt kulturuttryck och en växande del av de kulturella och kreativa näringarna.</span>
+			</p>
+			<p>
+				<span>Trots detta har spel och spelkulturen inte alltid getts samma status som andra kultur</span><span>&#xad;</span><span>former och inte heller varit föremål för politiska åtgärder i tillräcklig utsträckning. Det är helt enkelt dags att levla upp spelpolitiken!</span>
+			</p>
+			<p>
+				<span>Miljöpartiet vill ge spelkulturen goda förutsättningar att blomstra. Olika delar av spelområdet behöver olika slags insatser från det gemensamma. Det civila samhället, det konstnärliga skapandet, e</span><span>&#x2011;</span><span>sporten och dataspelsbranschen är alla delar av spel</span><span>&#xad;</span><span>kulturen med olika utmaningar och luckor att fylla.</span>
+			</p>
+			<h2>
+				<span>Ta fram en nationell strategi för dataspel</span>
+			</h2>
+			<p class="Normalutanindragellerluft">
+				<span>”Sverige brukar räknas till ett av världens tio främsta länder inom spelutveckling. Men spelindustrin har växt upp som en maskros genom asfalten utan någon nationell strategi eller större offentliga satsningar.” Så beskrivs Sverige i rapporten Kraftsamling Dataspelsbranschen, utgiven av Rise i januari 2023.</span>
+			</p>
+			<p>
+				<span>Dataspelsbranschen omsätter stora summor pengar – över 27 miljarder kronor i Sverige, i samma storlek som exporten av järnmalm. Branschen sysselsätter över 8</span><span>&#xa0;</span><span>000 personer och det finns över 800 spelföretag, de flesta småföretag. Svenska spel som Minecraft vinner mark världen över. Dataspelsbranschen beskriver det samtidigt som att Sverige nu halkar efter. Andra länder lanserar strategier och satsar stort på olika slags stödsystem. Sverige bör vårda det guldägg man har och ta fram en nationell strategi för dataspel.</span>
+			</p>
+			<p>
+				<span>Norge lanserade 2019 en dataspelsstrategi som nu är under revidering, och som kan utgöra inspiration. Inom ramen för en svensk nationell strategi kan frågor som stöd</span><span>&#xad;</span><span>system, kompetensförsörjning, tillgänglighetsfrågor, breddat deltagande samt möjlighet för barn och unga att komma i kontakt med spelskapande hanteras.</span>
+			</p>
+			<h2>
+				<span>Utveckla stödsystemen för spel</span>
+			</h2>
+			<p class="Normalutanindragellerluft">
+				<span>Situationen ser väldigt olika ut för spelindustrins förutsättningar i olika länder när det gäller möjlighet till finansiella stöd. En del länder, som Frankrike och Tyskland, har stöttat spelbranschen på flera sätt under många år, medan andra länder alldeles nyligen har påbörjat sina stödprogram, som Spanien och Italien. De stöd som lämnas är såväl offentliga stöd från respektive kulturdepartement som via investeringsfonder. Därtill finns ofta möjlighet till lån. Skatteavdrag är en modell som används bl.a. i Frankrike. Sverige är ett av få länder i Västeuropa med svagt offentligt stödsystem för spel. Finland har stöttat sin spelbransch sedan 90-talet, och Norge och Danmark ger stöd bl.a. via sina nationella filminstitut. Detta innebär en konkurrensnackdel för Sverige.</span>
+			</p>
+			<p>
+				<span>På samma sätt som inom andra delar av kulturområdet finns det uttryck som har en kommersiell bärkraft och andra som befinner sig mer i det utforskande, smala fältet. I Sverige skapas digitala spel nästan uteslutande utifrån en kommersiell grund. Samtidigt behöver även andra delar av spelområdet ges möjlighet att växa, för allt från talang</span><span>&#xad;</span><span>utveckling och innovation till samverkan mellan olika kulturformer och ökad mångfald.</span>
+			</p>
+			<p>
+				<span>Ett annat område är spel för de yngre barnen. Utvecklingen av svenska spel för de yngre barnen har, enligt dataspelsbranschen, minskat kraftigt de senaste åren på grund av att det inte är marknadsmässigt lönsamt.</span>
+			</p>
+			<p>
+				<span>Kulturbryggan är en instans som ger bidrag till spel med konstnärlig ansats. Men ofta faller spel utanför befintliga kulturstöd. Spel behöver helt enkelt ha bättre möjlighet att söka offentliga medel. Medlen genom såväl Kulturrådet som kultursamverkansmodellen bör öppnas tydligare för spel som kulturuttryck. Kulturrådet bör ges ett uppdrag att främja spelkulturen. Därtill bör mer näringsinriktade stödsystem utredas.</span>
+			</p>
+			<h2>
+				<span>Reglera vilseledande metoder inom spel</span>
+			</h2>
+			<p class="Normalutanindragellerluft">
+				<span>Inom vissa typer av spel förekommer allt oftare hasardliknande moment eller aggressiv marknadsföring som ibland kan vara vilseledande. Det kan bland annat handla om spel som marknadsförs som gratis att spela, men där köp av tillägg eller annan form av betalning så småningom kan krävas. Användning av vilseledande metoder för att driva försäljning är allvarligt, särskilt när det riktas mot barn. Marknadsföringslagen är tydlig </span><span style="letter-spacing:-0.05pt">med att vilseledande metoder inte är tillåtna, och det finns goda initiativ i självreglerande</span><span> system som PEGI på marknaden. Men det är tydligt som marknaden utvecklas att det kan finnas behov av att se över lagstiftning och reglering för att säkerställa att det inte finns kryphål i lagen som möjliggör vilseledande metoder. Vi menar att regeringen bör agera för att regleringen av marknadsföring och köp i spel ses över.</span><span>&#xa0;</span>
+			</p>
+			<h2>
+				<span>Spel som fritidssysselsättning och del av det civila samhället</span><span>&#xa0;</span>
+			</h2>
+			<p class="Normalutanindragellerluft">
+				<span>Spelkultur innefattar ett kreativt skapande. Till exempel är skapandet av digitala spel en komplex kombination av ingenjörskonst, bildkonst, berättarkonst, teater, musik och film – allkonstverk som inbjuder till upplevelser och medskapande. Spelkultur innefattar också civilsamhället kring själva spelhobbyn – en av Sveriges mest populära fritids</span><span>&#xad;</span><span>sysselsättningar. Och det innefattar upplevelserna och de kreativa näringar som vuxit upp runt detta med festivaler och konvent, streamade kanaler och konst samt musik och kommunikation. Vi vill stärka ungdomsorganisationerna vilket ger Sverok bättre förutsättningar. Vi menar också att det är viktigt att det offentliga stödjer initiativ för en mer jämställd och öppen spelkultur.</span><span>&#xa0;</span>
+			</p>
+			<h2>
+				<span>E-sportens förutsättningar</span><span>&#xa0;</span>
+			</h2>
+			<p class="Normalutanindragellerluft">
+				<span>Vi vill att e-sport, digitala spel som åskådarsport, ska ha samma förutsättningar som annan sport. Nu har E</span><span>&#x2011;</span><span>sportförbundet upptagits som medlem av Riksidrottsförbundet; det är positivt och skapar möjlighet till ledarutveckling och arbetet med att inkludera </span><span style="letter-spacing:-0.1pt">fler grupper i e</span><span style="letter-spacing:-0.1pt">&#x2011;</span><span style="letter-spacing:-0.1pt">sport. Samtidigt kvarstår att e</span><span style="letter-spacing:-0.1pt">&#x2011;</span><span style="letter-spacing:-0.1pt">sporten ges samma juridiska förutsättningar</span><span> som övrig sport, till exempel när det gäller inreseregler.</span><span>&#xa0;</span>
+			</p>
+			<p>
+				<span>Det är dags för Sverige att ta spel på allvar – både för Sveriges konkurrenskraft som spelnation och för spelkulturens utveckling till en öppen, jämställd och välkomnande folkrörelse. Miljöpartiet driver en kulturpolitik för frihet och föränderlighet, och i det är spelkulturen en självklar del.</span><span>&#xa0;</span>
+			</p>
+			<h1>
+				<span>Levande kultur och civilsamhälle på lands- och glesbygd</span>
+			</h1>
+			<p class="Normalutanindragellerluft">
+				<span>De kulturella och kreativa branschernas förutsättningar påverkas av närvaron av och tillgången till kulturverksamheter i hela landet. Såväl nuvarande som framtida aktörer inom de kulturella och kreativa branscherna kan växa och utvecklas av tillgången till och deltagandet i kulturverksamheter. Det är därför viktigt att verka för en levande kultur och civilsamhälle även på lands- och glesbygd. I syfte att tillgängliggöra kultur för fler i hela landet bör statliga kulturinstitutioner verka för kultur i hela landet och det statliga anslaget till regionala kulturverksamheter öka.</span>
+			</p>
+			<p>
+				<span>Föreningsliv och kultur är en central del av samhällsutvecklingen. Det lokala kulturlivet kan vara rikligt och inkluderande genom amatörteater, körer och en aktiv kulturskola, ofta med hjälp av ideella krafter. Det krävs trygga och långsiktiga villkor för idéburna organisationer för att säkerställa utveckling. Detta kan ske via exempelvis idéburna offentliga partnerskap. För likvärdiga möjligheter i hela landet behöver även civilsamhället och dess samverkan med offentliga verksamheter stärkas.</span>
+			</p>
+			<div style="-aw-sdt-tag:'CC_Underskrifter'; -aw-sdt-title:'CC_Underskrifter'">
+				<p>
+					<span style="-aw-import:ignore">&#xa0;</span>
+				</p>
+				<p>
+					<span style="-aw-import:ignore">&#xa0;</span>
+				</p>
+			</div>
+			<table cellspacing="0" cellpadding="0" style="width:100%; border-collapse:collapse">
+				<tr style="page-break-inside:avoid">
+					<td style="width:1%; padding-right:5.4pt; padding-left:5.4pt; vertical-align:bottom">
+						<p class="Underskrifter" style="margin-bottom:0pt">
+							<span>Elin Söderberg (MP)</span>
+						</p>
+					</td>
+					<td style="width:1%; padding-right:5.4pt; padding-left:5.4pt; vertical-align:bottom">
+						<p class="Underskrifter" style="margin-bottom:0pt">
+							<span style="-aw-import:ignore">&#xa0;</span>
+						</p>
+					</td>
+				</tr>
+				<tr style="page-break-inside:avoid">
+					<td style="width:1%; padding-right:5.4pt; padding-left:5.4pt; vertical-align:bottom">
+						<p class="Underskrifter" style="margin-bottom:0pt">
+							<span>Märta Stenevi (MP)</span>
+						</p>
+					</td>
+					<td style="width:1%; padding-right:5.4pt; padding-left:5.4pt; vertical-align:bottom">
+						<p class="Underskrifter" style="margin-bottom:0pt">
+							<span>Mats Berglund (MP)</span>
+						</p>
+					</td>
+				</tr>
+				<tr style="page-break-inside:avoid">
+					<td style="width:1%; padding-right:5.4pt; padding-left:5.4pt; vertical-align:bottom">
+						<p class="Underskrifter" style="margin-bottom:0pt">
+							<span>Ulrika Westerlund (MP)</span>
+						</p>
+					</td>
+					<td style="width:1%; padding-right:5.4pt; padding-left:5.4pt; vertical-align:bottom">
+						<p class="Underskrifter" style="margin-bottom:0pt">
+							<span>Jacob Risberg (MP)</span>
+						</p>
+					</td>
+				</tr>
+				<tr style="page-break-inside:avoid">
+					<td style="width:1%; padding-right:5.4pt; padding-left:5.4pt; vertical-align:bottom">
+						<p class="Underskrifter" style="margin-bottom:0pt">
+							<span>Jan Riise (MP)</span>
+						</p>
+					</td>
+					<td style="width:1%; padding-right:5.4pt; padding-left:5.4pt; vertical-align:bottom">
+						<p class="Underskrifter" style="margin-bottom:0pt">
+							<span style="-aw-import:ignore">&#xa0;</span>
+						</p>
+					</td>
+				</tr>
+			</table>
+			<p>
+				<span style="-aw-import:ignore">&#xa0;</span>
+			</p>
+		</div>
+	</div>

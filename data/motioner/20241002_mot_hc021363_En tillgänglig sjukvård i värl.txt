@@ -1,0 +1,578 @@
+SEARCH TERM: AI
+DOCUMENT ID: hc021363
+TITLE: En tillgänglig sjukvård i världsklass
+TYPE: mot
+SUBTYPE: Kommittémotion
+DATE: 2024-10-02
+PARLIAMENTARY YEAR: 2024/25
+ORGANISATION: SoU
+STATUS: Klar
+DOWNLOADED: 2026-01-22 10:25:10
+================================================================================
+
+<style><!-- 
+ @page Section1 { size:595.3pt 841.9pt; margin:35.45pt 85.05pt }
+div.Section1 { page:Section1 }
+div.pconf body { t-i:14.2pt; line-height:15pt; font-family:'Verdana'; font-size: 0.90em }
+div.pconf h1, h2, h3, h4, h5, h6, p { margin:0pt }
+div.pconf li, table { margin-top:0pt; margin-bottom:0pt }
+div.pconf h1 { margin-top:41pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:19.5pt; font-family:'Verdana'; font-size: 1.05em; font-weight:normal; color:#000000 }
+div.pconf h2 { margin-top:30pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:17pt; font-family:'Verdana'; font-size: 1.00em; font-weight:normal; color:#000000 }
+div.pconf h3 { margin-top:18pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:15pt; font-family:'Verdana'; font-size: 0.90em; font-weight:bold; color:#000000 }
+div.pconf h4 { margin-top:18pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:15pt; font-family:'Verdana'; font-size: 0.90em; font-weight:normal; font-style:italic; color:#000000 }
+div.pconf h5 { margin-top:15pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:15pt; font-family:'Verdana'; font-size: 0.90em; font-weight:bold; font-style:normal; color:#000000 }
+div.pconf h6 { margin-top:15pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:15pt; font-family:'Verdana'; font-size: 0.90em; font-weight:normal; font-style:italic; color:#000000 }
+.Heading7 { margin-top:15pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:15pt; font-family:'Verdana'; font-size: 0.90em; font-weight:normal; font-style:italic; color:#000000; -aw-style-name:heading7 }
+.Heading8 { margin-top:15pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:15pt; font-family:'Verdana'; font-size: 0.90em; font-weight:normal; font-style:italic; color:#000000; -aw-style-name:heading8 }
+.Heading9 { margin-top:0pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:15pt; font-family:'Verdana'; font-size: 0.90em; font-weight:normal; font-style:italic; color:#000000; -aw-style-name:heading9 }
+.BalloonText { margin-bottom:0pt; t-i:14.2pt; line-height:normal; font-family:'Segoe UI'; font-size: 0.90em }
+.Beteckning { margin-top:18pt; margin-bottom:0pt; t-i:14.2pt; page-break-inside:auto; page-break-after:auto; line-height:19.5pt; font-size: 1.05em }
+.BlockText, .Inramatstycke { margin-right:56.7pt; margin-left:56.7pt; margin-bottom:0pt; t-i:0pt; text-align:nojustify; line-height:15pt; border:0.75pt solid #000000; padding:10pt; font-size: 0.90em; font-style:italic; -aw-border:0.25pt single }
+.Citaticitat { margin-top:7.5pt; margin-left:34pt; margin-bottom:0pt; t-i:0pt; line-height:12pt; font-size: 0.90em }
+.Citaticitatmedindrag { margin-top:0pt; margin-left:34pt; margin-bottom:7.5pt; t-i:17pt; line-height:12pt; font-size: 0.90em }
+.Citatmedindrag { margin-top:0pt; margin-left:17pt; margin-bottom:0pt; t-i:17pt; line-height:12pt; font-size: 0.90em }
+.CommentSubject { margin-bottom:0pt; t-i:14.2pt; line-height:normal; font-size: 0.90em; font-weight:bold }
+.CommentText { margin-bottom:0pt; t-i:14.2pt; line-height:normal; font-size: 0.90em }
+.FSHLogo { margin-top:4pt; margin-bottom:0pt; t-i:0pt; line-height:normal; font-size: 0.90em }
+.FSHNormL { margin-top:4pt; margin-bottom:0pt; t-i:0pt; line-height:15pt; border-top:1.5pt solid #000000; padding-top:3pt; font-size: 0.90em }
+.FSHNormal { margin-top:4pt; margin-bottom:0pt; t-i:0pt; line-height:15pt; font-size: 0.90em }
+.FSHNormalS5 { margin-top:11.5pt; margin-bottom:26pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-size: 0.95em; font-weight:bold }
+.FSHRub1, .Rubrik1S5 { margin-top:135pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:16pt; font-size: 1.00em }
+.FSHRub2, .Rubrik1A4 { margin-top:50pt; margin-bottom:5pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:24pt; font-size: 1.05em }
+.FSHTitel, .Dokumentrubrik { margin-top:4pt; margin-bottom:4pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:20pt; border-bottom:0.75pt solid #000000; padding-bottom:3pt; font-size: 1.05em; -aw-border-bottom:0.5pt single }
+.Footer { margin-top:4pt; margin-bottom:0pt; t-i:0pt; text-align:center; line-height:normal; font-size: 0.90em }
+.FootnoteText { margin-top:0pt; margin-bottom:0pt; t-i:0pt; line-height:12pt; font-size: 0.90em }
+.Frslagsrubrik { margin-top:41pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:19.5pt; font-family:'Verdana'; font-size: 1.05em }
+.Frslagstext, .Hemstlatt, .Yrkande { margin-top:4pt; margin-left:19.85pt; margin-bottom:0pt; t-i:-19.85pt; line-height:15pt; font-size: 0.90em }
+.Header { margin-top:4pt; margin-bottom:0pt; t-i:0pt; line-height:normal; font-size: 0.90em }
+.KantRubrikS5H { margin-top:6pt; margin-right:2.85pt; margin-bottom:0pt; t-i:0pt; text-align:right; line-height:8pt; font-size: 0.90em }
+.KantRubrikS5Hrad2 { margin-top:0pt; margin-right:2.85pt; margin-bottom:0pt; t-i:0pt; text-align:right; line-height:10pt; font-size: 0.90em }
+.KantRubrikS5V { margin-top:6pt; margin-right:0pt; margin-bottom:0pt; t-i:0pt; text-align:left; line-height:8pt; font-size: 0.90em }
+.KantRubrikS5Vrad2 { margin-top:0pt; margin-right:0pt; margin-bottom:0pt; t-i:0pt; text-align:left; line-height:10pt; font-size: 0.90em }
+.KantrubrikH { margin-top:4pt; margin-right:-82.2pt; margin-bottom:0pt; t-i:0pt; text-align:right; line-height:15pt; font-size: 0.90em }
+.KantrubrikV { margin-top:4pt; margin-left:-85.05pt; margin-bottom:0pt; t-i:0pt; line-height:normal; font-size: 0.90em }
+.Klla { margin-top:0pt; margin-bottom:0pt; t-i:0pt; line-height:12pt; font-size: 0.90em }
+.Lagtext { margin-top:4pt; margin-bottom:0pt; t-i:0pt; line-height:normal; font-size: 0.90em }
+.Lagtextindrag { margin-top:4pt; margin-bottom:0pt; t-i:14.2pt; line-height:normal; font-size: 0.90em }
+.Lagtextrubrik { margin-top:4pt; margin-bottom:0pt; t-i:0pt; line-height:normal; font-size: 0.90em; font-style:italic; letter-spacing:1pt }
+.List { margin-top:7.5pt; margin-left:17pt; margin-bottom:7.5pt; t-i:-17pt; line-height:15pt; font-size: 0.90em }
+.ListBullet, .PunktlistaBomb { margin-top:4pt; margin-left:14.2pt; margin-bottom:0pt; t-i:-14.2pt; line-height:15pt; font-size: 0.90em }
+.ListNumber, .PunktlistaNummer { margin-top:4pt; margin-left:14.2pt; margin-bottom:0pt; t-i:-14.2pt; line-height:15pt; font-size: 0.90em }
+.ListParagraph { margin-left:36pt; margin-bottom:0pt; t-i:14.2pt; line-height:15pt; font-size: 0.90em }
+.ListaGemener { margin-top:7.5pt; margin-left:17pt; margin-bottom:7.5pt; t-i:-17pt; line-height:15pt; font-size: 0.90em }
+.ListaLinje { margin-top:7.5pt; margin-left:17pt; margin-bottom:7.5pt; t-i:-17pt; line-height:15pt; font-size: 0.90em }
+.ListaNummer { margin-top:7.5pt; margin-left:17pt; margin-bottom:7.5pt; t-i:-17pt; line-height:15pt; font-size: 0.90em }
+.ListaPunkt { margin-top:7.5pt; margin-left:17pt; margin-bottom:7.5pt; t-i:-17pt; line-height:15pt; font-size: 0.90em }
+.MotionTIllRiksdagen { margin-top:18pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:19.5pt; font-size: 1.05em }
+.Motionr { margin-top:14pt; margin-bottom:31.5pt; t-i:0pt; page-break-inside:avoid; line-height:15pt; font-size: 1.00em; font-weight:bold; font-style:normal }
+.Motiveringrubrik2numrerat1 { margin-top:30pt; margin-left:0pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:17pt; font-family:'Verdana'; font-size: 1.00em }
+.Motiveringrubrik3numrerat1 { margin-top:18pt; margin-left:0pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:15pt; font-family:'Verdana'; font-size: 0.90em; font-weight:bold }
+.Motiveringrubrik3numrerat11 { margin-top:18pt; margin-left:0pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:15pt; font-family:'Verdana'; font-size: 0.90em; font-weight:bold }
+.Motiveringrubrik4numrerat11 { margin-top:18pt; margin-left:0pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:15pt; font-family:'Verdana'; font-size: 0.90em; font-weight:normal; font-style:italic }
+.NormalWeb { margin-bottom:0pt; t-i:14.2pt; line-height:15pt; font-family:'Verdana'; font-size: 0.90em }
+.NormalIndent { margin-left:65.2pt; margin-bottom:0pt; t-i:14.2pt; line-height:15pt; font-size: 0.90em }
+.Normalutanindragellerluft { margin-top:4pt; margin-bottom:0pt; t-i:0pt; line-height:15pt; font-size: 0.90em }
+.Normal00 { margin-top:4pt; margin-bottom:0pt; t-i:0pt; line-height:normal; font-size: 0.90em }
+.NormalA4fot { margin-top:12pt; margin-bottom:0pt; t-i:0pt; text-align:center; line-height:normal; font-size: 0.90em }
+.NormalA4sidnr { margin-top:4pt; margin-bottom:12pt; t-i:0pt; text-align:center; line-height:normal; font-size: 0.90em }
+.NormalS5sidnrH { margin-top:4pt; margin-right:2.85pt; margin-bottom:0pt; t-i:0pt; text-align:right; line-height:normal; font-size: 0.90em }
+.NormalS5sidnrV { margin-top:4pt; margin-right:0pt; margin-bottom:0pt; t-i:0pt; text-align:left; line-height:normal; font-size: 0.90em }
+.PlainText { margin-bottom:0pt; t-i:0pt; line-height:12pt; font-family:'Verdana'; font-size: 0.90em }
+.Quote { margin-top:7.5pt; margin-left:17pt; margin-bottom:0pt; t-i:0pt; line-height:12pt; font-size: 0.90em }
+.R1 { margin-top:41pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:19.5pt; font-family:'Verdana'; font-size: 1.05em }
+.R2 { margin-top:30pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:17pt; font-family:'Verdana'; font-size: 1.00em }
+.R3 { margin-top:18pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:15pt; font-family:'Verdana'; font-size: 0.90em; font-weight:bold }
+.Revision { margin-bottom:0pt; t-i:0pt; font-size: 0.90em }
+.Rubrik1numrerat { margin-top:41pt; margin-left:0pt; margin-bottom:0pt; t-i:0pt; page-break-inside:auto; page-break-after:avoid; line-height:19.5pt; font-family:'Verdana'; font-size: 1.05em }
+.Rubrik2numrerat { margin-top:30pt; margin-left:0pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:17pt; font-family:'Verdana'; font-size: 1.00em }
+.Rubrik3numrerat { margin-top:18pt; margin-left:0pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:15pt; font-family:'Verdana'; font-size: 0.90em; font-weight:bold }
+.Rubrik4numrerat { margin-top:18pt; margin-left:0pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:15pt; font-family:'Verdana'; font-size: 0.90em; font-weight:normal; font-style:italic }
+.RubrikFrslagTIllRiksdagsbeslut { margin-top:41pt; margin-bottom:15pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:19.5pt; font-family:'Verdana'; font-size: 1.05em }
+.RubrikInnehllsf { margin-top:41pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:19.5pt; font-family:'Verdana'; font-size: 1.05em }
+.RubrikSammanf { margin-top:41pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:19.5pt; font-family:'Verdana'; font-size: 1.05em }
+.Salutation { margin-top:41pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:19.5pt; font-family:'Verdana'; font-size: 1.05em }
+.Streckkod { margin-top:12pt; margin-bottom:0pt; t-i:0pt; text-align:center; line-height:normal; font-family:IDAutomationHC39S; font-size: 1.00em }
+.Strecklista, .PunktlistaTankstreck { margin-top:4pt; margin-left:14.2pt; margin-bottom:0pt; t-i:-14.2pt; line-height:15pt; font-size: 0.90em }
+.Subtitle { margin-top:4pt; margin-bottom:0pt; t-i:0pt; line-height:15pt; font-family:'Verdana'; font-size: 0.90em; font-weight:bold }
+.TOC1 { margin-top:4pt; margin-bottom:0pt; t-i:0pt; line-height:15pt; font-size: 0.90em }
+.TOC2 { margin-top:4pt; margin-left:14.2pt; margin-bottom:0pt; t-i:0pt; line-height:15pt; font-size: 0.90em }
+.TOC3 { margin-top:4pt; margin-left:28.35pt; margin-bottom:0pt; t-i:0pt; line-height:15pt; font-size: 0.90em }
+.TOC4 { margin-top:4pt; margin-left:42.55pt; margin-bottom:0pt; t-i:0pt; line-height:15pt; font-size: 0.90em }
+.TOC5 { margin-top:4pt; margin-left:56.7pt; margin-bottom:0pt; t-i:0pt; line-height:15pt; font-size: 0.90em }
+.TOC6 { margin-top:4pt; margin-left:56.7pt; margin-bottom:0pt; t-i:0pt; line-height:15pt; font-size: 0.90em }
+.TOC7 { margin-top:15pt; margin-left:56.7pt; margin-bottom:0pt; t-i:14.2pt; page-break-inside:avoid; page-break-after:avoid; line-height:normal; font-family:'Verdana'; font-size: 0.90em; font-weight:normal; font-style:italic }
+.TOC8 { margin-top:15pt; margin-left:56.7pt; margin-bottom:0pt; t-i:14.2pt; page-break-inside:avoid; page-break-after:avoid; line-height:normal; font-family:'Verdana'; font-size: 0.90em; font-weight:normal; font-style:italic }
+.TOC9 { margin-top:15pt; margin-left:56.7pt; margin-bottom:0pt; t-i:14.2pt; page-break-inside:avoid; page-break-after:avoid; line-height:normal; font-family:'Verdana'; font-size: 0.90em; font-weight:normal; font-style:italic }
+.TOCHeading { margin-top:41pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:19.5pt; font-family:'Verdana'; font-size: 1.05em }
+.Tabellunderrubrik { margin-top:0pt; margin-bottom:0pt; t-i:0pt; page-break-after:avoid; line-height:15pt; font-size: 0.90em; font-weight:normal; font-style:italic }
+.Tabellrubrik { margin-top:7.5pt; margin-bottom:0pt; t-i:0pt; page-break-after:avoid; line-height:15pt; font-size: 0.90em; font-weight:bold }
+.Title { margin-top:41pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:19.5pt; font-family:'Verdana'; font-size: 1.05em }
+.Underskriftdatum { margin-top:24pt; margin-bottom:3pt; t-i:0pt; page-break-inside:avoid; line-height:15pt; font-size: 0.90em; font-style:normal }
+.Underskrifter { margin-top:15pt; margin-bottom:3pt; t-i:0pt; page-break-inside:avoid; line-height:15pt; font-size: 0.90em; font-style:italic }
+.Yrkandehnv, .Frslagspunkthnv { margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; font-size: 0.90em }
+span.BallongtextChar { font-family:'Segoe UI'; font-size: 0.90em }
+span.BeteckningChar { font-size:19.5pt }
+span.CommentReference { font-size:8pt }
+span.FSHRub2Char, span.Rubrik1A4Char { font-size:24pt }
+span.FotnotstextChar { font-size:10pt }
+span.Hyperlink { text-decoration:underline; color:#0563c1; -aw-style-name:hyperlink }
+span.InledningChar { font-family:'Verdana'; font-size: 1.05em }
+span.IntenseReference { font-weight:normal; font-style:normal; font-variant:normal; text-decoration:none; text-transform:none; letter-spacing:0pt; vertical-align:0pt; color:#000000; display:inline }
+span.KommentarerChar { font-size:10pt }
+span.KommentarsmneChar { font-size:10pt; font-weight:bold }
+span.MotionTIllRiksdagenChar { font-size:19.5pt }
+span.OformateradtextChar { font-family:'Verdana'; font-size: 0.90em }
+span.PlaceholderText { color:#f4b083 }
+span.Rubrik1Char { font-family:'Verdana'; font-size: 1.05em }
+span.Rubrik2Char { font-family:'Verdana'; font-size: 1.00em }
+span.Rubrik3Char { font-family:'Verdana'; font-size: 0.90em; font-weight:bold }
+span.Rubrik4Char { font-family:'Verdana'; font-size: 0.90em; font-style:italic }
+span.Rubrik5Char { font-family:'Verdana'; font-weight:bold }
+span.Rubrik6Char { font-family:'Verdana'; font-style:italic }
+span.Rubrik7Char { font-family:'Verdana'; font-style:italic }
+span.Rubrik8Char { font-family:'Verdana'; font-style:italic }
+span.Rubrik9Char { font-family:'Verdana'; font-style:italic }
+span.RubrikChar { font-family:'Verdana'; font-size: 1.05em }
+span.SidfotChar { font-size:11.5pt }
+span.UnderrubrikChar { font-family:'Verdana'; font-size: 0.90em; font-weight:bold }
+span.UnresolvedMention { color:#605e5c; background-color:#e1dfdd }
+.TableGrid {  }
+
+.pconf{width: 450px;margin-left:5px;overflow:visable;font-family:Verdana, Geneva, sans-serif;} 
+ .sidhuvud_publikation, .sidhuvud_beteckning{font-size:133%}
+.MotionarLista {font-size:122%}
+
+--></style><div class="pconf"><span class="sidhuvud_publikation">Motion till riksdagen</span><br/>
+<span class="sidhuvud_beteckning">2024/25:1363</span><br/>
+<span class="MotionarLista">av Carina Ståhl Herrstedt m.fl. (SD)</span><br/>
+<h1>En tillgänglig sjukvård i världsklass</h1>
+<hr class="sidhuvud_linje"/>
+
+
+		<div class="Section1">
+			<div style="-aw-sdt-tag:'CC_Boilerplate_4'; -aw-sdt-title:'CC_Boilerplate_4'">
+				<h1 style="margin-bottom:15pt">
+					<a name="_Toc106801300"></a><a name="_Toc106800475"><span>Förslag till riksdagsbeslut</span></a>
+				</h1>
+			</div>
+			<div style="-aw-sdt-tag:'741a6c88-cf1e-4989-865a-a8a322644683'; -aw-sdt-title:'Yrkande 1'">
+				<ol type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-left:14pt; t-i:0pt; padding-left:5.85pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att förbjuda icke-medicinsk omskärelse av omyndiga pojkar och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'07c974f6-baca-4e44-8466-46751f050200'; -aw-sdt-title:'Yrkande 2'">
+				<ol start="2" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; margin-left:14pt; t-i:0pt; padding-left:5.85pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att regeringen bör vidta åtgärder för att avveckla det oönskade skiftarbetet och de delade turerna inom hälso- och sjukvården och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'f4599f0f-f53a-426f-87b5-915c5ef3cb58'; -aw-sdt-title:'Yrkande 3'">
+				<ol start="3" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; margin-left:14pt; t-i:0pt; padding-left:5.85pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att regeringen bör se över möjligheten att införa säkerhetsklassade vårdplatser för riskpatienter och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'c3795fc0-2a5a-49e6-b2aa-5be889646fd4'; -aw-sdt-title:'Yrkande 4'">
+				<ol start="4" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; margin-left:14pt; t-i:0pt; padding-left:5.85pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att regeringen bör verka för förbättrade förutsättningar genom reducering av studieskulder för läkare och sjuksköterskor i glesbygden och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'19d7a344-7025-450a-a853-03b49d14106f'; -aw-sdt-title:'Yrkande 5'">
+				<ol start="5" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; margin-left:14pt; t-i:0pt; padding-left:5.85pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att regeringen bör överväga att utöka lagen om registerkontroll så att den omfattar anställda, praktiserande och studerande inom sjukvården och äldreomsorgen och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'55ca8c48-9f49-41bb-b206-34d913960919'; -aw-sdt-title:'Yrkande 6'">
+				<ol start="6" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; margin-left:14pt; t-i:0pt; padding-left:5.85pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att regeringen bör överväga att utöka lagen om registerkontroll så att den omfattar möjligheten för kontinuerliga registerutdrag för anställda inom yrken och verksamheter med lagkrav på registerkontroll samt anställda inom sjukvården och äldreomsorgen och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'240f5096-dafd-41c4-9d03-b7d6f3feb8d9'; -aw-sdt-title:'Yrkande 7'">
+				<ol start="7" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; margin-left:14pt; t-i:0pt; padding-left:5.85pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att regeringen bör överväga ett samlat vaccinationsregister som ska inkludera både nationella program, resevaccinationer, kompletterande vaccinationer och riskgruppsvaccinationer och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'0b84f563-5bde-4183-beb2-48756c09a34c'; -aw-sdt-title:'Yrkande 8'">
+				<ol start="8" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; margin-left:14pt; t-i:0pt; padding-left:5.85pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att se över möjligheten till en nationell plattform för lättillgänglig information om kvalitet och bemötande i vården och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'8cc60e83-e510-455d-ab8f-851489d06ad0'; -aw-sdt-title:'Yrkande 9'">
+				<ol start="9" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; margin-left:14pt; t-i:0pt; padding-left:5.85pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att utreda möjligheten att införa en nationell plattform för lättillgänglig information om tillgång och kostnader för hjälpmedel och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'efb73bb0-cf41-42f1-b419-184646701d45'; -aw-sdt-title:'Yrkande 10'">
+				<ol start="10" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; t-i:0pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att utreda förutsättningarna för att använda infrastrukturen för e</span><span>&#x2011;</span><span>recept för förskrivning av hjälpmedel och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'36b59bf3-6a34-40e5-865b-326209cb8f9d'; -aw-sdt-title:'Yrkande 11'">
+				<ol start="11" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; t-i:0pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att fortsatt stödja en positiv utveckling av den digitala vården och utreda möjligheten att kunna stärka regionernas investeringsförmåga i patientnära teknik till stöd för en bredare omställning mot nära vård och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'108b26c2-ad21-4f46-a1e6-c08de51b9fbf'; -aw-sdt-title:'Yrkande 12'">
+				<ol start="12" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; t-i:0pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att regeringen ska verka för att genomföra krav om tillgänglighet för ambulanser och mål för hur skadade eller svårt sjuka patienter ska nås inom en viss tid och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'f8043a05-eb02-4f28-bb25-ac8cc062d624'; -aw-sdt-title:'Yrkande 13'">
+				<ol start="13" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; t-i:0pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att regeringen bör se över frågan om att förstärka den palliativa vården för barn och unga och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'5c3a6e53-52cc-4ec4-9902-1b20f8c157ba'; -aw-sdt-title:'Yrkande 14'">
+				<ol start="14" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; t-i:0pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att regeringen bör verka för att regionerna skyndsamt fullt ut implementerar det nationella vårdprogrammet för palliativ vård av barn och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'21cb40c2-0c6d-40dd-9b84-b7969de7b543'; -aw-sdt-title:'Yrkande 15'">
+				<ol start="15" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; t-i:0pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att regeringen bör utreda och verka för att införa en nationell hjärtstrategi för att minska de regionala skillnaderna i hjärtsjukvården och säkerställa jämlik vård över hela landet och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'3d463ae1-44b5-4e71-b0a1-38e39666475b'; -aw-sdt-title:'Yrkande 16'">
+				<ol start="16" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; t-i:0pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att regeringen bör se över att vidta åtgärder för att förbättra samordningen och utjämna vårdkvaliteten mellan olika sjukhus gällande behandling av hjärt-kärlsjukdomar och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'63204751-4c48-42c3-9484-92c46a264853'; -aw-sdt-title:'Yrkande 17'">
+				<ol start="17" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; t-i:0pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att regeringen bör verka för att säkerställa att resurser för avancerad hjärtsjukvård är tillgängliga i hela landet och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'807f02e3-4360-49c4-bade-93ae48ab46a8'; -aw-sdt-title:'Yrkande 18'">
+				<ol start="18" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; t-i:0pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att regeringen bör verka för att säkerställa att fler hjärtstartare placeras ut på platser som är tillgängliga dygnet runt och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'487ecec0-9ecf-4356-9f60-0ed77d85612f'; -aw-sdt-title:'Yrkande 19'">
+				<ol start="19" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; t-i:0pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att regeringen bör ta fram nationella riktlinjer för egenvårdsrådgivning och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<span style="-aw-bookmark-end:_Toc106801300">
+			</span>
+			<div style="-aw-sdt-tag:'CC_Motivering_Rubrik'; -aw-sdt-title:'CC_Motivering_Rubrik'">
+				<h1>
+					<span style="-aw-bookmark-end:_Toc106800475"></span><a name="MotionsStart"></a><a name="_Toc106801301"></a><a name="_Toc106800476"><span>Motivering</span></a>
+				</h1>
+			</div>
+			<span style="-aw-bookmark-end:_Toc106801301">
+			</span>
+			<p class="Normalutanindragellerluft">
+				<span style="-aw-bookmark-end:_Toc106800476"></span><span>Sverige står inför en stor demografisk utmaning. Enligt SCB förväntas antalet 80-åringar och äldre öka med 76 procent till år 2040. Det innebär att allt fler kommer behöva vård och omsorg. </span>
+			</p>
+			<p>
+				<span>Vi behöver därför redan nu börja tänka nytt om framtidens vård. Regeringen har en viktig roll att fylla i att stödja och visa vägen i regionernas och kommunernas omställning. En nyckel i omställningen är att ha individens behov som ledstjärna i vårdens genomförande och investera i digitalisering för att åstadkomma automatisering och nyttiggörandet av vårddata. </span>
+			</p>
+			<p>
+				<span>Ur regeringens perspektiv behöver arbetet med teknikintensifieringen inledas snarast. Med stöd av ny teknik och AI ska vi säkerställa att alla individer och patienter erbjuds individanpassade möjligheter till egenvård och sjukvård baserat på de senaste kunskaperna och beprövade och avancerade behandlingsmetoder. Genom teknik</span><span>&#xad;</span><span>intensifiering som stärker individens egen förmåga frigörs tid för patienter med de största behoven. </span>
+			</p>
+			<p>
+				<span>Svensk vård ska vara världsledande på att vara jämlik och tillgänglig och den ska fortsätta skapa jämlika resultat i världsklass genom att bota, lindra och förebygga sjukdom och ohälsa oavsett var i landet du bor. Jämlik vård innebär inte lika vård för alla, det handlar om att anpassa och skräddarsy vården efter individens unika behov. Genom att skapa anpassade vårdmöjligheter kommer allt fler kunna åtnjuta de bästa möjliga resultaten. Samtidigt ska vi stärka förmågan att identifiera och undanröja omotiverade skillnader i vårdens utfall, genomförande och bemötande. Det handlar om att ge individen det bästa möjliga stödet genom livets alla skeenden, från födelse till en värdig död. Den som behöver vård ska få rätt vård, i rätt tid, på rätt plats utifrån sina särskilda behov.</span>
+			</p>
+			<p>
+				<span>Goda och jämlika utfall för patienter, oavsett var man bor, ska följas upp för att säkerställa lärande och utveckling liksom ansvarsutkrävande för en god och jämlik vård. </span>
+			</p>
+			<p>
+				<span>Det är avgörande för den skattefinansierade sjukvårdens legitimitet att den lever upp till hälso- och sjukvårdslagens ambitioner. Det är därför viktigt att alla regioner upp</span><span>&#xad;</span><span>fyller den lagstadgade vårdgarantin liksom att cancervården infriar de tidsgränser som anges i de standardiserade vårdförloppen.</span>
+			</p>
+			<p>
+				<span>Svensk sjukvård rankas högt i internationella jämförelser. Det ska vi vara stolta över. Men framtidens utmaningar kräver mer av oss om vi vill fortsätta ha en sjukvård i världsklass. Vi behöver särskilt beakta att tillgängligheten och jämlikheten säkras över hela landet. En sammanhållen och kvalitativ vård bidrar till ett starkt förtroende för vården och ökar hälso- och sjukvårdens samlade legitimitet hos befolkningen.</span>
+			</p>
+			<h2>
+				<span>Tidöavtalet</span>
+			</h2>
+			<p class="Normalutanindragellerluft">
+				<span>Sverigedemokraterna har i samarbete med regeringspartierna gemensamt förhandlat fram Tidöavtalet. Det rymmer ett ambitiöst avsnitt om den svenska hälso- och sjuk</span><span>&#xad;</span><span>vården, där vi också ser flera av Sverigedemokraternas sedan länge presenterade åtgärder och förslag för att förbättra för den enskildes behov utav vård men också incitament för sjukvårdens organisering, strävan mot jämlikhet och inte minst den oacceptabelt långa väntan på vård.</span>
+			</p>
+			<p>
+				<span>En av de större reformerna berör hälso- och sjukvårdens organisering. Sverige</span><span>&#xad;</span><span>demokraterna har länge förespråkat en ökad statlig styrning för att åstadkomma en mer jämlik och effektiv vård över hela landet. Vårdansvarskommittén, som regeringen beslutade att inrätta den 1 juni 2023, där Sverigedemokraterna har två representanter, utreder för närvarande frågan om att införa ett helt eller delvis statligt huvudmannaskap för svensk sjukvård. Det är något som vi drivit tidigare och vi har i motioner lyft fram att det främst är specialistvården som vi ser som mest angelägen att staten tar ansvar för. </span>
+			</p>
+			<p>
+				<span>Andra frågor där staten behöver ta ett tydligt ansvar handlar om infrastrukturer för digitalisering och hantering av data liksom att säkerställa en god och jämlik tillgång på hjälpmedel i hela landet. Vi ser stora utmaningar i dagens styrning av den svenska hälso- och sjukvården och en bred utredning är nödvändig för att ta ställning i denna stora och avgörande fråga för den framtida hälso- och sjukvården. Vi framförde 2018 följande:</span>
+			</p>
+			<p class="Quote">
+				<span>År 1862 delades Sverige in i landsting som en del i en genomgripande decentraliserings- och demokratiseringsreform. Det är också på denna regionala nivå som ansvar för hälso- och sjukvården har fördelats. Dessvärre riskeras vårdens jämlikhet, då tillgänglighet och behandlingsresultat skiftar alltför mycket mellan regionerna. För att säkerställa en jämlik, tillgänglig sjukvård av hög kvalitet anser Sverigedemokraterna att staten bör ha ett tydligt ansvar för styrning och finansiering. Landstingens och regionernas historiska roll som beställare och finansiär avseende vård bör i hög grad ligga på statlig nivå. Samtidigt bör varje ansvarsmodell vara väl förankrad och sträva efter rätt balans mellan nödvändig nationell samordning och lokal anpassning. Inget system ska vara låst, men varje förändring kräver försiktighet och noggranna utredningar med respekt för den komplexitet som gäller när en hel vårdkedja ska hålla samman.</span>
+			</p>
+			<p class="Normalutanindragellerluft">
+				<span>I Tidöavtalet lyfts även frågan om en nationell vårdförmedling. Sverigedemokraterna har tidigare kallat detta för vårdgarantikansli. Frågan har vi drivit sedan 2018 och då framfört att Sverige behöver en nationell funktion som får det övergripande sam</span><span>&#xad;</span><span>ordningsansvaret för att tillgängliggöra ledig vårdkapacitet över hela landet så att patienterna ges möjligheter till snabbare vård och så att de samlade vårdresurserna nyttjas optimalt. Förslaget har utvecklats och finns nu som en del i avtalet och är sedan hösten 2021 påbörjat genom det gemensamma budgetförslaget som kom från SD, M</span><span>&#xa0;</span><span>KD och</span><span>&#xa0;</span><span>L. </span>
+			</p>
+			<p>
+				<span>Likaså behöver vi se en strategi för att skapa fler lediga vårdplatser. Strategin behöver både bidra till fler vårdplatser och öka möjligheterna att bedriva avancerad vård i hemmet samt tillvarata potentialerna i nya behandlingsmetoder som kan korta patienternas tid på sjukhuset. </span>
+			</p>
+			<p>
+				<span>Ytterligare ett område som är prioriterat i avtalet är sjukvårdens kompetens</span><span>&#xad;</span><span>försörjning. Det är angeläget att komma tillrätta med kompetensförsörjningen och inte minst personalens arbetsmiljö är avhängig detta. Personalens välmående är i någon mening grundbulten i hela vården och grundläggande för att Sverige ska kunna leverera såväl vård och omsorg som forskning och kvalitetsutveckling. Överenskommelsen pekar på framtagandet av en nationell plan och styrning av kompetensförsörjningen men också på att behovet av medicinskt utbildad personal kartläggs nationellt. Här vill vi också se att en tydlig ansvarsfördelning för personalfrågor mellan huvudman och staten fastslås.</span>
+			</p>
+			<p>
+				<span>I valrörelsen lyfte Sverigedemokraterna behovet av en ny tandvårdsreform. Även den är presenterad i Tidöavtalet. Sverigedemokraterna vill se att tandvården mer efterliknar hälso- och sjukvårdens högkostnadsskydd vilket skulle göra tandvården mer jämlik och tillgänglig, där även äldre med låg inkomst har möjlighet att göra besök hos tand</span><span>&#xad;</span><span>läkaren. I samband med reformen lyfte vi också frågan om att ta bort särreglerna för asylsökandes avgifter, den så kallade 50-lappen. </span>
+			</p>
+			<p>
+				<span>Ett första steg har nu tagits, och från och med 1</span><span>&#xa0;</span><span>januari 2026 kommer personer som är 67 år och äldre att omfattas av ett högkostnadsskydd för tandvård. Syftet är att minska de ekonomiska bördorna för de äldre som har den sämsta munhälsan. Vi inväntar också den utredning som ska vara klar i oktober 2024, som behandlar de övriga delarna i tandvårdsreformen. Vi kommer noggrant bevaka den frågan.</span>
+			</p>
+			<h3>
+				<span>Förbjud icke-medicinsk omskärelse av omyndiga pojkar</span>
+			</h3>
+			<p class="Normalutanindragellerluft">
+				<span>Omskärelse av pojkar legaliserades 2001 i Sverige, och som en följd av detta rekommenderar Socialstyrelsen landets regioner att erbjuda tjänsten som en service för de vårdnadshavare som önskar se sina barn omskurna. I och med att Sverige förbundit sig till barnkonventionen har man också förbundit sig att ”vidta alla effektiva och lämpliga åtgärder i syfte att avskaffa traditionella sedvänjor som är skadliga för barns hälsa”. Alla barn bör ha rätt till sin egen kropp och likhet inför lagen, och därför anser Sverigedemokraterna att regeringen bör förbjuda icke-medicinsk omskärelse av omyndiga pojkar.</span>
+			</p>
+			<h3>
+				<span>Inflytande över schemat och nej tack till ofrivilligt delade turer</span>
+			</h3>
+			<p class="Normalutanindragellerluft">
+				<span>Varje vårdanställd har sina unika förutsättningar och ett eget livspussel att få ihop. Att i alltför hög grad tvingas anpassa sina arbetstider efter arbetsgivarens behov sliter på både kropp och sinne. Detsamma gäller den som inte får arbeta i tillräckligt hög utsträckning eller som saknar rätt att gå ner i arbetstid. Det kan förefalla praktiskt för arbetsgivaren att fritt få schemalägga sin personal, men i slutändan blir hela organisationen lidande om anställda säger upp sig och unga människor undviker att över huvud taget arbeta inom vården. Anställda inom offentlig sektor ska ha stort inflytande över arbetstider, med rätt till såväl heltid som deltid. Vårdpersonal ska slippa ofrivilligt delade turer och oönskat skiftarbete, vilket ofta är både fysiskt och psykiskt påfrestande. Därutöver bör vårdpersonal inte omfattas av karensdagar vid sjukskrivning för att på så sätt motverka smittspridning. Det är viktigt att de som är sjuka har råd att stanna hemma.</span>
+			</p>
+			<h3>
+				<span>Personalens säkerhet</span>
+			</h3>
+			<p class="Normalutanindragellerluft">
+				<span>Sjukhus och andra vårdinstitutioner är inte bara platser där sjuka får vård utan också arbetsplatser för några av samhällets största hjältar. Såväl patienters som anställdas trygghet måste garanteras. Om personal, patienter eller anhöriga drabbas av våld och aggression ska det bemötas med full kraft. Samtidigt är det viktigt att vård möjliggörs även för kriminella och aggressiva patienter. Jämte de ordinarie vårdplatserna anser Sverigedemokraterna att regeringen bör se över möjligheten att införa särskilda säkerhetsklassade vårdplatser dit riskpatienter och aggressiva besökare snabbt kan avskiljas. Det kräver anpassning av lokaler och utrustning, specialutbildad personal och nationella riktlinjer för hur sådana patienter ska tas om hand, från ankomst till utskrivning.</span>
+			</p>
+			<h3>
+				<span>Förbättrade förutsättningar för läkare och sjuksköterskor i glesbygd genom reducering av studieskulder</span>
+			</h3>
+			<p class="Normalutanindragellerluft">
+				<span>På landsbygden eller i glesbygd är det ofta svårt att rekrytera läkare och sjuksköterskor, vilket hotar såväl vårdens kvalitet som patientsäkerheten. Att locka läkare till lands</span><span>&#xad;</span><span>bygden är inte en utmaning bara i Sverige utan även i andra delar av världen. I lands</span><span>&#xad;</span><span>bygdsområden i USA finns ett system, där läkare kan förbinda sig att arbeta ett antal år, varefter de som bonus får sina studieskulder reducerade. Systemet är intressant, och bör föregås av en kostnadskalkyl och utredas för svenska förhållanden. Man kan även tänka sig att applicera motsvarande system på sjuksköterskor, för att de ska vilja söka sig till mindre attraktiva orter och till glesbygden.</span>
+			</p>
+			<h3>
+				<span>Utdrag ur belastningsregister</span>
+			</h3>
+			<p class="Normalutanindragellerluft">
+				<span>Under de senaste åren har det i medier framkommit uppgifter om att vårdsökande, dementa och personer med psykiska eller fysiska funktionshinder har utsatts för sexuella övergrepp, misshandel och kränkande behandling av personal som jobbat i verksamheten. Det är inte rimligt att personer som begått grova våldsbrott, misshandel, rån eller sexuella övergrepp jobbar i verksamhet med människor som befinner sig i en utsatt situation. </span>
+			</p>
+			<p>
+				<span>Lagen om registerkontroll bör utökas så att den omfattar anställda, praktiserande och studerande inom sjukvård, </span><a name="_Hlk177122409"><span>äldreomsorg och psykiatrin och inom särskilda boenden för funktionshindrade</span></a><span>. Vidare bör lagen utökas för möjlighet till kontinuerliga utdrag ur belastningsregistret. Den främsta fördelen är att det skulle skapa en ökad trygghet och säkerhet inom känsliga yrkesområden som skola, vård och omsorg, där arbetsgivaren har ett ansvar för att skydda sårbara grupper. </span>
+			</p>
+			<h3>
+				<span>Nationellt vaccinationsregister och program för äldre</span>
+			</h3>
+			<p class="Normalutanindragellerluft">
+				<span>Vaccination är en av de viktigaste förebyggande åtgärderna mot infektionssjukdomar. Befolkningen vaccinerar sig inom barnhälsovården, elevhälsan, primärvården, företags</span><span>&#xad;</span><span>hälsovården, sjukhusvården och hos privata vaccinatörer under olika skeden i livet. </span>
+			</p>
+			<p>
+				<span>Det går i dag inte att få en samlad bild av vilka vacciner individen fått, och det är stora problem att få vaccinationsstatistik på befolkningsnivå. Det går inte heller att få fram vaccinationsdata på individnivå, eftersom man använder olika journalsystem för registrering hos olika privata och offentliga vaccinatörer (även inom samma län) och systemen inte kommunicerar med varandra. Därför behöver det vidtas åtgärder för att ta fram de it-lösningar som krävs för att åstadkomma en väl fungerande vaccinationsregistrering. </span>
+			</p>
+			<p>
+				<span>En nyligen genomförd utredning om vaccinationsprogram för äldre har föreslagit att ett nationellt vaccinationsprogram bör införas för att bättre skydda äldre mot sjukdomar som influensa, pneumokocker och bältros. Utredningen, som överlämnades i januari 2024, betonar vikten av att skapa ett ”livsloppsperspektiv” i vaccinationsprogrammen, vilket innebär att vaccinationer ska erbjudas genom hela livet, inte bara till barn och unga. Detta skulle säkerställa ett mer enhetligt och jämlikt skydd för den äldre befolkningen i Sverige, där stora skillnader i tillgången till vaccinationer finns beroende på region.</span>
+			</p>
+			<p>
+				<span>Utredningen föreslår även att det nuvarande systemet med separata allmänna och särskilda vaccinationsprogram ska slås ihop till ett enda nationellt vaccinationsprogram för att förbättra samordningen och effektiviteten. </span><span style="-aw-import:spaces">&#xa0; </span>
+			</p>
+			<p>
+				<span>Sverigedemokraterna har varit drivande i frågan om ett nationellt vaccinations</span><span>&#xad;</span><span>program för äldre och kommer att följa upp utredningens framsteg och fortsätta arbeta för att säkerställa att förslagen genomförs och att programmet implementeras nationellt för att skapa ett jämlikt skydd för alla äldre i Sverige.</span>
+			</p>
+			<h3>
+				<span>Nationell plattform för lättillgänglig information om kvalité och bemötande i vården</span>
+			</h3>
+			<p class="Normalutanindragellerluft">
+				<span>Patienten måste ges bättre möjligheter att jämföra kvaliteten i vården hos olika vård</span><span>&#xad;</span><span>givare. Patienter har idag nästan ingen information om vårdgivarnas kvalitet och resultat. Utifrån plattformen bör patienter kunna ta del av såväl information om medicinska resultat som väntetider, kvalitet och patientnöjdhet, för att nämna några angelägna områden. Regeringen bör ge lämplig myndighet i uppdrag att titta på utformningen av en sådan plattform samt lämna förslag på en genomförandeplan. Liknande har tidigare tillkännagivits från riksdagen.</span>
+			</p>
+			<p>
+				<span>Vidare skulle exempelvis patientjournalen 1177 kunna utgöra en sådan plattform eller vara en länk till en sådan, för att samla information i en redan etablerad funktion.</span>
+			</p>
+			<p style="t-i:0pt">
+				<span>Plattformen skulle lämpligen också kunna sammankopplas med den nationella vårdförmedlingen som ryms inom Tidöavtalet.</span>
+			</p>
+			<h3>
+				<a name="_Hlk177134531"></a><a name="_Hlk177133149"><span>Nationell plattform för lättillgänglig information om tillgång till och kostnader för hjälpmedel </span><span style="-aw-bookmark-end:_Hlk177134531"></span><span>samt möjligheter att förskriva hjälpmedel nationellt i samma system som recept</span></a>
+			</h3>
+			<p class="Normalutanindragellerluft">
+				<span style="-aw-bookmark-end:_Hlk177133149"></span><span>Tillgången till hjälpmedel är avgörande för att stärka individens autonomi och förmåga att klara sig på egen hand. Hjälpmedel kan vara allt ifrån rollatorer till mer avancerade hjälpmedel såsom kognitiva hjälpmedel. I dagsläget finns ingen organisation över landet för hantering av hjälpmedel. Situationen leder till att olika hjälpmedel finns tillgängliga och att individens kostnad för hjälpmedel varierar beroende på var man bor. I praktiken innebär detta att ett hjälpmedel som är gratis i en kommun kan kosta pengar i grann</span><span>&#xad;</span><span>kommunen, om ens det hjälpmedlet tillhandahålls. Genom detta skapas ojämlika förutsättningar att klara sig själv i livet.</span>
+			</p>
+			<p>
+				<span>För att stärka individen och skapa transparens kring problematiken anser vi att regeringen bör uppdra till lämplig myndighet att skapa en hjälpmedelsdatabas där var och en kan se vilka produkter som finns tillgängliga till vilket pris över hela landet. Genom denna transparens ökar trycket på kommuner och regioner att harmonisera och bredda pris och utbud på området.</span>
+			</p>
+			<p>
+				<span>I tillägg till detta menar vi att ett uppdrag bör ges till E</span><span>&#x2011;</span><span>hälsomyndigheten att utreda förutsättningarna att använda infrastrukturen för e</span><span>&#x2011;</span><span>recept för förskrivning av hjälp</span><span>&#xad;</span><span>medel. Genom detta kommer den nationella statistiken att förbättras liksom möjlig</span><span>&#xad;</span><span>heterna att utvärdera effekter av olika hjälpmedel. I förlängningen kan dessa två initiativ sammantaget vara ett första steg mot en möjlighet att erbjuda individen tillgång till alla marknadens tillgängliga hjälpmedel oavsett var i landet dessa tillhandahålls. Detta ökar drastiskt möjligheterna att skräddarsy valet av hjälpmedel efter individens behov.</span>
+			</p>
+			<h3>
+				<span>Fortsatt utveckling av digitaliserad vård</span>
+			</h3>
+			<p class="Normalutanindragellerluft">
+				<span>De senaste åren har vi sett en snabb utveckling av digitala vårdkontakter, vilket har lett till en mer tillgänglig, effektiv och jämlik vård. Det var främst privata aktörer som med sin innovation tog steget att erbjuda digital vård, och allt fler vårdgivare inom det offentliga erbjuder idag digitala kontakter på olika sätt.</span><span style="-aw-import:spaces">&#xa0; </span>
+			</p>
+			<p>
+				<span>Vi ser det som angeläget att Sverige fortsätter att utveckla arbetssätt och stimulerar digitala vårdkontakter för att möta patienternas behov av vård på distans.</span>
+			</p>
+			<p style="t-i:0pt">
+				<span>I och med utvecklingen mot en god och nära vård liksom att mer avancerad sjukhusvård flyttar till patientens hem förstärks behoven av både egenmonitorering och distans</span><span>&#xad;</span><span>monitorering. Detta har visat sig vara viktiga hjälpmedel som både stödjer individen i egenvården liksom effektiviserar vården så att resurser kan läggas på patienter med störst behov. </span>
+			</p>
+			<p>
+				<span>Av flera anledningar har regionerna en ansträngd ekonomi. Det handlar både om inflation och ränteläge. Det kan därför finnas behov av att tillfälligt stödja regionerna att göra nödvändiga investeringar i de tekniker som krävs för att flytta hem vården. </span>
+			</p>
+			<p style="t-i:0pt">
+				<span>För att skapa förutsättningar för nödvändig utveckling bör regeringen därför utreda möjligheten till instiftandet av en fond eller annat sätt att under en tid kunna stärka regionernas investeringsförmåga i patientnära teknik till stöd för en bredare omställning mot nära vård. En liknande satsning gjordes av den danska regeringen i slutet av 2023.</span>
+			</p>
+			<p style="t-i:0pt">
+				<span>Digitalisering är ett viktigt verktyg för att automatisera och avlasta vården och för att stärka individens autonomi och därigenom öka effektiviteten, tillgängligheten och de långsiktiga förutsättningarna för en god vård trots de demografiska utmaningarna. Regeringen bör i sitt arbete med att öka tillgängligheten i vården verka för en fortsatt positiv utveckling av den digitaliserade vården.</span><span style="-aw-import:spaces">&#xa0; </span>
+			</p>
+			<h3>
+				<span>Tillgänglighetskrav för ambulanser</span>
+			</h3>
+			<p class="Normalutanindragellerluft">
+				<span>Ambulanssjukvården har en oerhört viktig roll i omhändertagandet av akut sjuka och skadade patienter. Överlevnadsmöjligheterna är direkt relaterade till tiden från skada till att patienten kommer under kvalificerad vård. De senaste åren har tiden från larm till dess att ambulans kommer ökat. Det är inte acceptabelt att svårt sjuka och skadade patienter ska behöva vänta länge på en ambulans och därmed riskera livet. I ett flertal länder finns det lagstadgade tillgänglighetskrav och mål för hur skadade eller svårt sjuka patienter ska nås inom en viss tid. </span>
+			</p>
+			<p>
+				<span>I Sverige finns inte några tydliga mål om eller krav på hur hög tillgängligheten till ambulanser ska vara. Sverigedemokraterna vill införa motsvarande lagstadgade till</span><span>&#xad;</span><span>gänglighetskrav även i Sverige.</span>
+			</p>
+			<h3>
+				<span>Palliativ vård för barn och unga</span>
+			</h3>
+			<p class="Normalutanindragellerluft">
+				<span>Alla som har behov av palliativ vård, alltså vård i livets slutskede, ska kunna få det av kompetent och välutbildad personal, oberoende av bostadsort. Vården vid livets slut ska präglas av värdighet, omtanke och respekt för patienten. Rätten till fullgod smärt</span><span>&#xad;</span><span>behandling och frånvaro av ångest ska vara en självklarhet, liksom psykologiskt, socialt och andligt eller existentiellt stöd för patienter och närstående.</span>
+			</p>
+			<p>
+				<span>Mellan 400 och 500 barn och ungdomar dör årligen av olika sjukdomar. Många familjer önskar att deras svårt sjuka barn vårdas hemma så långt det är möjligt. Det är då av vikt att det finns tillgång till palliativa hemsjukvårdsteam, oavsett var i landet man </span><span style="letter-spacing:-0.1pt">bor, så att barn och föräldrar kan känna sig trygga med den medicinska behandlingen men</span><span> också kan få psykologiskt stöd och råd i den extremt svåra situation de befinner sig i. </span>
+			</p>
+			<p>
+				<span>Alla familjer vill dock inte att deras svårt sjuka barn ska vårdas hemma. Det är då viktigt att respektera det önskemålet och se till att andra möjligheter finns. I dag finns det bara ett enda hospis för svårt sjuka och döende barn i hela landet, med totalt fem vårdplatser. Detta är en tydlig brist inom den palliativa vården i Sverige, och det finns ett stort behov av fler liknande enheter i andra delar av landet. Det är alltför lite för att täcka de behov som finns. Många familjer måste resa långt för att få tillgång till specialiserad vård, och det finns ett behov av en mer jämlik tillgång till palliativ vård för barn över hela landet. Föräldrar som befinner sig i denna oerhört svåra situation, med all den oro det innebär, ska mötas av en fullgod palliativ vård som är särskilt anpassad för att möta barn. </span>
+			</p>
+			<p>
+				<span>Det nationella vårdprogrammet för palliativ vård av barn är ännu inte fullt ut implementerat i alla regioner, vilket skapar ojämlikhet i den vård som erbjuds barn och unga i livets slutskede. Att programmet implementeras i hela landet är avgörande för att säkerställa att alla barn och deras familjer får tillgång till den specialiserade vård och det stöd de behöver, oavsett var de bor. En fullständig implementering skulle bidra till en mer enhetlig vård och bättre livskvalitet för barn i palliativ fas.</span>
+			</p>
+			<p style="t-i:0pt">
+				<span>Regeringen bör se över frågan om att förstärka den palliativa vården för barn och unga.</span>
+			</p>
+			<h3>
+				<span>En nationell hjärtstrategi och förbättrad tillgång till hjärtstartare</span>
+			</h3>
+			<p class="Normalutanindragellerluft">
+				<span>I Sverige lever över 2 miljoner människor med hjärt-kärlsjukdom och cirka 30</span><span>&#xa0;</span><span>000 svenskar dör av hjärt-kärlsjukdom, vilket är den främsta dödsorsaken i Sverige. </span>
+			</p>
+			<p style="t-i:0pt">
+				<span>En av tre som får hjärtinfarkt är 20–69 år, samma siffra för de som drabbas av plötsligt hjärtstopp.</span>
+			</p>
+			<p>
+				<span>Under de senaste åren har det blivit tydligt att vården vid hjärtsjukdom behöver vara mer sammanhållen och enhetlig. Målet är att skapa en obruten vårdkedja från det akuta omhändertagandet till eftervård, för att säkerställa bästa möjliga vård för patienter när en hjärthändelse inträffar. </span>
+			</p>
+			<p>
+				<span>Trots Sveriges framstående hjärtsjukvård finns det stora skillnader i vårdkvaliteten mellan olika sjukhus och regioner, vilket är oacceptabelt. Dessa skillnader har dokumenterats i Swedeheartregistret, som tydligt visar att vissa sjukhus ger sämre insatser längs hela vårdkedjan, från akut omhändertagande till rehabilitering.</span>
+			</p>
+			<p>
+				<span>En nationell hjärtstrategi skulle ge en övergripande plan för att samordna hjärtsjuk</span><span>&#xad;</span><span>vården i hela landet och säkerställa en mer jämlik och effektiv vård. En strategi skulle o</span><span style="letter-spacing:-0.1pt">ckså kunna inkludera forskning, utbildning och utveckling för att förbättra behandlingen </span><span>och kompetensförsörjningen i hela vårdkedjan. Det är också avgörande att primär</span><span>&#xad;</span><span>vårdens insatser kring hjärtsjukdom inkluderas och stärks, något som i dagsläget saknar ett kvalitetsregister för uppföljning.</span>
+			</p>
+			<p>
+				<span>En sådan strategi skulle hjälpa till att angripa de regionala skillnader som finns inom prevention, upptäckt och behandling av hjärtsjukdomar och sätta tydligt fokus på att förbättra vården på alla nivåer.</span>
+			</p>
+			<p>
+				<span>Sammanfattningsvis, för att säkerställa jämlik vård för patienter med hjärtsjukdomar och minska skillnaderna mellan sjukhus och regioner, föreslår vi att regeringen inför en nationell hjärtstrategi. Strategin ska fokusera på en sammanhållen vårdkedja från akut omhändertagande till eftervård och stärka hela vårdsystemet genom ökad samordning och resursfördelning. </span>
+			</p>
+			<p>
+				<span>Plötsliga hjärtstopp drabbar årligen cirka 10</span><span>&#xa0;</span><span>000 personer utanför sjukhus i Sverige. För varje minut som går utan att livräddande insatser påbörjas, minskar chansen till överlevnad med 10</span><span>&#xa0;</span><span>procent. Hjärtstartare är ett viktigt verktyg för att rädda liv vid hjärtstopp, men tillgången till dessa är ojämn och begränsad, särskilt under dygnets mörka timmar och i områden där de flesta hjärtstopp sker, i bostäder.</span>
+			</p>
+			<p>
+				<span>Antalet registrerade hjärtstartare i Sverige har ökat kraftigt de senaste tio åren, från drygt 9</span><span>&#xa0;</span><span>000 till över 24</span><span>&#xa0;</span><span>000. Trots denna utveckling finns det fortfarande stora områden i landet där hjärtstartare saknas. Det är avgörande att insatser sker snabbt vid hjärtstopp. Dock är en majoritet av hjärtstartarna placerade på platser som endast är tillgängliga under kontorstid, och endast omkring 20 procent är tillgängliga dygnet runt.</span>
+			</p>
+			<p>
+				<span>Genom att installera fler hjärtstartare på strategiska platser, särskilt i bostadsområden och offentliga utrymmen, samt göra dem tillgängliga dygnet runt, skulle fler människor ha möjlighet att agera snabbt i händelse av ett hjärtstopp. </span>
+			</p>
+			<p>
+				<span>Regeringen bör verka för framtagandet av en nationell hjärtstrategi och förbättrad tillgång till hjärtstartare.</span>
+			</p>
+			<h3>
+				<span>Nationella riktlinjer för egenvård</span>
+			</h3>
+			<p class="Normalutanindragellerluft">
+				<span>Egenvårdsrådgivning har blivit allt viktigare för att avlasta sjukvården och möjliggöra för individer att hantera enklare hälsoproblem på egen hand. Genom tydliga och enhetliga råd kan patienter förebygga och behandla enklare åkommor, vilket inte bara stärker individens förmåga att ta hand om sin egen hälsa utan också frigör resurser i vården för mer akuta och komplexa sjukdomstillstånd. </span>
+			</p>
+			<p>
+				<span>I dag finns dock stora variationer i hur vårdgivare ger egenvårdsråd, vilket riskerar att leda till ojämlik vård och i vissa fall även osäker hantering av hälsoproblem.</span>
+			</p>
+			<p>
+				<span>För att säkerställa en hög och jämn kvalitet på egenvårdsrådgivningen över hela landet behövs nationella riktlinjer. Dessa riktlinjer skulle bidra till att vårdpersonal, oavsett var de arbetar, kan ge enhetliga och korrekta rekommendationer till patienter. Det skulle minska risken för felaktiga eller inkonsekventa råd, vilket förbättrar patient</span><span>&#xad;</span><span>säkerheten, främjar likvärdig vård för alla patienter över hela landet och skapar en tryggare och säkrare vård.</span>
+			</p>
+			<p>
+				<span>Slutligen främjar nationella riktlinjer ett ökat personligt ansvar för hälsan och före</span><span>&#xad;</span><span>bygger allvarligare hälsoproblem.</span>
+			</p>
+			<p>
+				<span>Vi menar att för att säkerställa en högkvalitativ och jämlik vård över hela landet är det avgörande att regeringen tar fram nationella riktlinjer för egenvårdsrådgivning. Dessa riktlinjer kommer inte bara att bidra till ökad patientsäkerhet utan även avlasta vården och stärka individens förmåga att ta hand om sin egen hälsa. Regeringen bör verka för att ta fram nationella riktlinjer.</span>
+			</p>
+			<div style="-aw-sdt-tag:'CC_Underskrifter'; -aw-sdt-title:'CC_Underskrifter'">
+				<p>
+					<span style="-aw-import:ignore">&#xa0;</span>
+				</p>
+				<p>
+					<span style="-aw-import:ignore">&#xa0;</span>
+				</p>
+			</div>
+			<table cellspacing="0" cellpadding="0" style="width:100%; border-collapse:collapse">
+				<tr style="page-break-inside:avoid">
+					<td style="width:1%; padding-right:5.4pt; padding-left:5.4pt; vertical-align:bottom">
+						<p class="Underskrifter" style="margin-bottom:0pt">
+							<span>Carina Ståhl Herrstedt (SD)</span>
+						</p>
+					</td>
+					<td style="width:1%; padding-right:5.4pt; padding-left:5.4pt; vertical-align:bottom">
+						<p class="Underskrifter" style="margin-bottom:0pt">
+							<span style="-aw-import:ignore">&#xa0;</span>
+						</p>
+					</td>
+				</tr>
+				<tr style="page-break-inside:avoid">
+					<td style="width:1%; padding-right:5.4pt; padding-left:5.4pt; vertical-align:bottom">
+						<p class="Underskrifter" style="margin-bottom:0pt">
+							<span>Carita Boulwén (SD)</span>
+						</p>
+					</td>
+					<td style="width:1%; padding-right:5.4pt; padding-left:5.4pt; vertical-align:bottom">
+						<p class="Underskrifter" style="margin-bottom:0pt">
+							<span>Mona Olin (SD)</span>
+						</p>
+					</td>
+				</tr>
+				<tr style="page-break-inside:avoid">
+					<td style="width:1%; padding-right:5.4pt; padding-left:5.4pt; vertical-align:bottom">
+						<p class="Underskrifter" style="margin-bottom:0pt">
+							<span>Leonid Yurkovskiy (SD)</span>
+						</p>
+					</td>
+					<td style="width:1%; padding-right:5.4pt; padding-left:5.4pt; vertical-align:bottom">
+						<p class="Underskrifter" style="margin-bottom:0pt">
+							<span>Christian Lindefjärd (SD)</span>
+						</p>
+					</td>
+				</tr>
+			</table>
+			<p>
+				<span style="-aw-import:ignore">&#xa0;</span>
+			</p>
+		</div>
+	</div>

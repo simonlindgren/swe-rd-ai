@@ -1,0 +1,424 @@
+SEARCH TERM: AI
+DOCUMENT ID: ha02359
+TITLE: För ett tryggare Malmö och Sverige
+TYPE: mot
+SUBTYPE: Enskild motion
+DATE: 2022-11-17
+PARLIAMENTARY YEAR: 2022/23
+ORGANISATION: JuU
+STATUS: Klar
+DOWNLOADED: 2026-01-22 10:25:16
+================================================================================
+
+<style><!-- 
+ @page Section1 { size:595.3pt 841.9pt; margin:35.45pt 85.05pt }
+div.Section1 { page:Section1 }
+div.pconf body { t-i:17pt; line-height:15pt; font-family:'Verdana'; font-size: 0.90em }
+div.pconf h1, h2, h3, h4, h5, h6, p { margin:0pt }
+div.pconf li, table { margin-top:0pt; margin-bottom:0pt }
+div.pconf h1 { margin-top:41pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:19.5pt; font-family:'Verdana'; font-size: 1.05em; font-weight:normal; color:#000000 }
+div.pconf h2 { margin-top:30pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:17pt; font-family:'Verdana'; font-size: 1.00em; font-weight:normal; color:#000000 }
+div.pconf h3 { margin-top:18pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:17pt; font-family:'Verdana'; font-size: 0.90em; font-weight:bold; color:#000000 }
+div.pconf h4 { margin-top:18pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:17pt; font-family:'Verdana'; font-size: 0.90em; font-weight:normal; font-style:italic; color:#000000 }
+div.pconf h5 { margin-top:15pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:17pt; font-family:'Verdana'; font-size: 0.90em; font-weight:bold; font-style:normal; color:#000000 }
+div.pconf h6 { margin-top:15pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:17pt; font-family:'Verdana'; font-size: 0.90em; font-weight:normal; font-style:italic; color:#000000 }
+.Heading7 { margin-top:15pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:17pt; font-family:'Verdana'; font-size: 0.90em; font-weight:normal; font-style:italic; color:#000000; -aw-style-name:heading7 }
+.Heading8 { margin-top:15pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:17pt; font-family:'Verdana'; font-size: 0.90em; font-weight:normal; font-style:italic; color:#000000; -aw-style-name:heading8 }
+.Heading9 { margin-top:0pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:17pt; font-family:'Verdana'; font-size: 0.90em; font-weight:normal; font-style:italic; color:#000000; -aw-style-name:heading9 }
+.BalloonText { margin-bottom:0pt; t-i:17pt; line-height:normal; font-family:'Segoe UI'; font-size: 0.90em }
+.Beteckning { margin-top:18pt; margin-bottom:0pt; t-i:14.2pt; page-break-inside:auto; page-break-after:auto; line-height:19.5pt; font-size: 1.05em }
+.BlockText, .Inramatstycke { margin-right:56.7pt; margin-left:56.7pt; margin-bottom:0pt; t-i:0pt; text-align:nojustify; line-height:15pt; border:0.75pt solid #000000; padding:10pt; font-size: 0.90em; font-style:italic; -aw-border:0.25pt single }
+.Citaticitat { margin-top:7.5pt; margin-left:34pt; margin-bottom:0pt; t-i:0pt; line-height:12pt; font-size: 0.90em }
+.Citaticitatmedindrag { margin-top:0pt; margin-left:34pt; margin-bottom:7.5pt; t-i:17pt; line-height:12pt; font-size: 0.90em }
+.Citatmedindrag { margin-top:0pt; margin-left:17pt; margin-bottom:0pt; t-i:17pt; line-height:12pt; font-size: 0.90em }
+.CommentSubject { margin-bottom:0pt; t-i:17pt; line-height:normal; font-size: 0.90em; font-weight:bold }
+.CommentText { margin-bottom:0pt; t-i:17pt; line-height:normal; font-size: 0.90em }
+.FSHLogo { margin-top:4pt; margin-bottom:0pt; t-i:0pt; line-height:normal; font-size: 0.90em }
+.FSHNormL { margin-top:4pt; margin-bottom:0pt; t-i:0pt; line-height:15pt; border-top:1.5pt solid #000000; padding-top:3pt; font-size: 0.90em }
+.FSHNormal { margin-top:4pt; margin-bottom:0pt; t-i:0pt; line-height:15pt; font-size: 0.90em }
+.FSHNormalS5 { margin-top:11.5pt; margin-bottom:26pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-size: 0.95em; font-weight:bold }
+.FSHRub1, .Rubrik1S5 { margin-top:135pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:16pt; font-size: 1.00em }
+.FSHRub2, .Rubrik1A4 { margin-top:50pt; margin-bottom:5pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:24pt; font-size: 1.05em }
+.FSHTitel, .Dokumentrubrik { margin-top:4pt; margin-bottom:4pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:20pt; border-bottom:0.75pt solid #000000; padding-bottom:3pt; font-size: 1.05em; -aw-border-bottom:0.5pt single }
+.Footer { margin-top:4pt; margin-bottom:0pt; t-i:0pt; text-align:center; line-height:normal; font-size: 0.90em }
+.FootnoteText { margin-top:0pt; margin-bottom:0pt; t-i:0pt; line-height:12pt; font-size: 0.90em }
+.Frslagsrubrik { margin-top:41pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:19.5pt; font-family:'Verdana'; font-size: 1.05em }
+.Frslagstext, .Hemstlatt, .Yrkande { margin-top:4pt; margin-left:19.85pt; margin-bottom:0pt; t-i:-19.85pt; line-height:15pt; font-size: 0.90em }
+.Header { margin-top:4pt; margin-bottom:0pt; t-i:0pt; line-height:normal; font-size: 0.90em }
+.KantRubrikS5H { margin-top:6pt; margin-right:2.85pt; margin-bottom:0pt; t-i:0pt; text-align:right; line-height:8pt; font-size: 0.90em }
+.KantRubrikS5Hrad2 { margin-top:0pt; margin-right:2.85pt; margin-bottom:0pt; t-i:0pt; text-align:right; line-height:10pt; font-size: 0.90em }
+.KantRubrikS5V { margin-top:6pt; margin-right:0pt; margin-bottom:0pt; t-i:0pt; text-align:left; line-height:8pt; font-size: 0.90em }
+.KantRubrikS5Vrad2 { margin-top:0pt; margin-right:0pt; margin-bottom:0pt; t-i:0pt; text-align:left; line-height:10pt; font-size: 0.90em }
+.KantrubrikH { margin-top:4pt; margin-right:-82.2pt; margin-bottom:0pt; t-i:0pt; text-align:right; line-height:15pt; font-size: 0.90em }
+.KantrubrikV { margin-top:4pt; margin-left:-85.05pt; margin-bottom:0pt; t-i:0pt; line-height:normal; font-size: 0.90em }
+.Klla { margin-top:0pt; margin-bottom:0pt; t-i:0pt; line-height:12pt; font-size: 0.90em }
+.Lagtext { margin-top:4pt; margin-bottom:0pt; t-i:0pt; line-height:normal; font-size: 0.90em }
+.Lagtextindrag { margin-top:4pt; margin-bottom:0pt; t-i:14.2pt; line-height:normal; font-size: 0.90em }
+.Lagtextrubrik { margin-top:4pt; margin-bottom:0pt; t-i:0pt; line-height:normal; font-size: 0.90em; font-style:italic; letter-spacing:1pt }
+.List { margin-top:7.5pt; margin-left:17pt; margin-bottom:7.5pt; t-i:-17pt; line-height:15pt; font-size: 0.90em }
+.ListBullet, .PunktlistaBomb { margin-top:4pt; margin-left:14.2pt; margin-bottom:0pt; t-i:-14.2pt; line-height:15pt; font-size: 0.90em }
+.ListNumber, .PunktlistaNummer { margin-top:4pt; margin-left:14.2pt; margin-bottom:0pt; t-i:-14.2pt; line-height:15pt; font-size: 0.90em }
+.ListParagraph { margin-left:36pt; margin-bottom:0pt; t-i:17pt; line-height:15pt; font-size: 0.90em }
+.ListaGemener { margin-top:7.5pt; margin-left:17pt; margin-bottom:7.5pt; t-i:-17pt; line-height:15pt; font-size: 0.90em }
+.ListaLinje { margin-top:7.5pt; margin-left:19pt; margin-bottom:7.5pt; t-i:-19pt; line-height:15pt; font-size: 0.90em }
+.ListaNummer { margin-top:7.5pt; margin-left:17pt; margin-bottom:7.5pt; t-i:-17pt; line-height:15pt; font-size: 0.90em }
+.ListaPunkt { margin-top:7.5pt; margin-left:17pt; margin-bottom:7.5pt; t-i:-17pt; line-height:15pt; font-size: 0.90em }
+.MotionTIllRiksdagen { margin-top:18pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:19.5pt; font-size: 1.05em }
+.Motionr { margin-top:14pt; margin-bottom:31.5pt; t-i:0pt; page-break-inside:avoid; line-height:15pt; font-size: 1.00em; font-weight:bold; font-style:normal }
+.NormalIndent { margin-left:65.2pt; margin-bottom:0pt; t-i:17pt; line-height:15pt; font-size: 0.90em }
+.Normalutanindragellerluft { margin-top:4pt; margin-bottom:0pt; t-i:0pt; line-height:15pt; font-size: 0.90em }
+.Normal00 { margin-top:4pt; margin-bottom:0pt; t-i:0pt; line-height:normal; font-size: 0.90em }
+.NormalA4fot { margin-top:12pt; margin-bottom:0pt; t-i:0pt; text-align:center; line-height:normal; font-size: 0.90em }
+.NormalA4sidnr { margin-top:4pt; margin-bottom:12pt; t-i:0pt; text-align:center; line-height:normal; font-size: 0.90em }
+.NormalS5sidnrH { margin-top:4pt; margin-right:2.85pt; margin-bottom:0pt; t-i:0pt; text-align:right; line-height:normal; font-size: 0.90em }
+.NormalS5sidnrV { margin-top:4pt; margin-right:0pt; margin-bottom:0pt; t-i:0pt; text-align:left; line-height:normal; font-size: 0.90em }
+.PlainText { margin-bottom:0pt; t-i:0pt; line-height:12pt; font-family:'Verdana'; font-size: 0.90em }
+.Quote { margin-top:7.5pt; margin-left:17pt; margin-bottom:0pt; t-i:0pt; line-height:12pt; font-size: 0.90em }
+.R1 { margin-top:41pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:19.5pt; font-family:'Verdana'; font-size: 1.05em }
+.R2 { margin-top:30pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:17pt; font-family:'Verdana'; font-size: 1.00em }
+.R3 { margin-top:18pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:17pt; font-family:'Verdana'; font-size: 0.90em; font-weight:bold }
+.Rubrik1numrerat { margin-top:41pt; margin-left:0pt; margin-bottom:0pt; t-i:0pt; page-break-inside:auto; page-break-after:avoid; line-height:19.5pt; font-family:'Verdana'; font-size: 1.05em }
+.Rubrik2numrerat { margin-top:30pt; margin-left:0pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:17pt; font-family:'Verdana'; font-size: 1.00em }
+.Rubrik3numrerat { margin-top:18pt; margin-left:0pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:17pt; font-family:'Verdana'; font-size: 0.90em; font-weight:bold }
+.Rubrik4numrerat { margin-top:18pt; margin-left:0pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:17pt; font-family:'Verdana'; font-size: 0.90em; font-weight:normal; font-style:italic }
+.RubrikFrslagTIllRiksdagsbeslut { margin-top:41pt; margin-bottom:15pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:19.5pt; font-family:'Verdana'; font-size: 1.05em }
+.RubrikInnehllsf { margin-top:41pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:19.5pt; font-family:'Verdana'; font-size: 1.05em }
+.RubrikSammanf { margin-top:41pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:19.5pt; font-family:'Verdana'; font-size: 1.05em }
+.Salutation { margin-top:41pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:19.5pt; font-family:'Verdana'; font-size: 1.05em }
+.Streckkod { margin-top:12pt; margin-bottom:0pt; t-i:0pt; text-align:center; line-height:normal; font-family:IDAutomationHC39S; font-size: 1.00em }
+.Strecklista, .PunktlistaTankstreck { margin-top:4pt; margin-left:14.2pt; margin-bottom:0pt; t-i:-14.2pt; line-height:15pt; font-size: 0.90em }
+.Subtitle { margin-top:4pt; margin-bottom:0pt; t-i:0pt; line-height:15pt; font-family:'Verdana'; font-size: 0.90em; font-weight:bold }
+.TOC1 { margin-top:4pt; margin-bottom:0pt; t-i:0pt; line-height:15pt; font-size: 0.90em }
+.TOC2 { margin-top:4pt; margin-left:14.2pt; margin-bottom:0pt; t-i:0pt; line-height:15pt; font-size: 0.90em }
+.TOC3 { margin-top:4pt; margin-left:28.35pt; margin-bottom:0pt; t-i:0pt; line-height:15pt; font-size: 0.90em }
+.TOC4 { margin-top:4pt; margin-left:42.55pt; margin-bottom:0pt; t-i:0pt; line-height:15pt; font-size: 0.90em }
+.TOC5 { margin-top:4pt; margin-left:56.7pt; margin-bottom:0pt; t-i:0pt; line-height:15pt; font-size: 0.90em }
+.TOC6 { margin-top:4pt; margin-left:56.7pt; margin-bottom:0pt; t-i:0pt; line-height:15pt; font-size: 0.90em }
+.TOC7 { margin-top:15pt; margin-left:56.7pt; margin-bottom:0pt; t-i:14.2pt; page-break-inside:avoid; page-break-after:avoid; line-height:normal; font-family:'Verdana'; font-size: 0.90em; font-weight:normal; font-style:italic }
+.TOC8 { margin-top:15pt; margin-left:56.7pt; margin-bottom:0pt; t-i:14.2pt; page-break-inside:avoid; page-break-after:avoid; line-height:normal; font-family:'Verdana'; font-size: 0.90em; font-weight:normal; font-style:italic }
+.TOC9 { margin-top:15pt; margin-left:56.7pt; margin-bottom:0pt; t-i:14.2pt; page-break-inside:avoid; page-break-after:avoid; line-height:normal; font-family:'Verdana'; font-size: 0.90em; font-weight:normal; font-style:italic }
+.TOCHeading { margin-top:41pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:19.5pt; font-family:'Verdana'; font-size: 1.05em }
+.Tabellunderrubrik { margin-top:0pt; margin-bottom:0pt; t-i:0pt; page-break-after:avoid; line-height:15pt; font-size: 0.90em; font-weight:normal; font-style:italic }
+.Tabellrubrik { margin-top:7.5pt; margin-bottom:0pt; t-i:0pt; page-break-after:avoid; line-height:15pt; font-size: 0.90em; font-weight:bold }
+.Title { margin-top:41pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:19.5pt; font-family:'Verdana'; font-size: 1.05em }
+.Underskriftdatum { margin-top:24pt; margin-bottom:3pt; t-i:0pt; page-break-inside:avoid; line-height:15pt; font-size: 0.90em; font-style:normal }
+.Underskrifter { margin-top:15pt; margin-bottom:3pt; t-i:0pt; page-break-inside:avoid; line-height:15pt; font-size: 0.90em; font-style:italic }
+.Yrkandehnv, .Frslagspunkthnv { margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; font-size: 0.90em }
+span.BallongtextChar { font-family:'Segoe UI'; font-size: 0.90em }
+span.BeteckningChar { font-size:19.5pt }
+span.CommentReference { font-size:8pt }
+span.FSHRub2Char, span.Rubrik1A4Char { font-size:24pt }
+span.FotnotstextChar { font-size:10pt }
+span.Hyperlink { text-decoration:underline; color:#0563c1; -aw-style-name:hyperlink }
+span.InledningChar { font-family:'Verdana'; font-size: 1.00em; font-weight:bold }
+span.IntenseReference { font-weight:normal; font-style:normal; font-variant:normal; text-decoration:none; text-transform:none; letter-spacing:0pt; vertical-align:0pt; color:#000000; display:inline }
+span.KommentarerChar { font-size:10pt }
+span.KommentarsmneChar { font-size:10pt; font-weight:bold }
+span.MotionTIllRiksdagenChar { font-size:19.5pt }
+span.OformateradtextChar { font-family:'Verdana'; font-size: 0.90em }
+span.PlaceholderText { color:#f4b083 }
+span.Rubrik1Char { font-family:'Verdana'; font-size: 1.05em }
+span.Rubrik2Char { font-family:'Verdana'; font-size: 1.00em }
+span.Rubrik3Char { font-family:'Verdana'; font-size: 0.90em; font-weight:bold }
+span.Rubrik4Char { font-family:'Verdana'; font-size: 0.90em; font-style:italic }
+span.Rubrik5Char { font-family:'Verdana'; font-weight:bold }
+span.Rubrik6Char { font-family:'Verdana'; font-style:italic }
+span.Rubrik7Char { font-family:'Verdana'; font-size: 0.90em; font-weight:bold }
+span.Rubrik8Char { font-family:'Verdana'; font-size: 0.90em; font-weight:bold }
+span.Rubrik9Char { font-family:'Verdana'; font-size: 0.90em; font-weight:bold }
+span.RubrikChar { font-family:'Verdana'; font-size: 1.00em; font-weight:bold }
+span.SidfotChar { font-size:11.5pt }
+span.UnderrubrikChar { font-family:'Verdana'; font-size: 0.90em; font-weight:bold }
+.TableGrid {  }
+
+.pconf{width: 450px;margin-left:5px;overflow:visable;font-family:Verdana, Geneva, sans-serif;} 
+ .sidhuvud_publikation, .sidhuvud_beteckning{font-size:133%}
+.MotionarLista {font-size:122%}
+
+--></style><div class="pconf"><span class="sidhuvud_publikation">Motion till riksdagen</span><br/>
+<span class="sidhuvud_beteckning">2022/23:359</span><br/>
+<span class="MotionarLista">av Niels Paarup-Petersen (C)</span><br/>
+<h1>För ett tryggare Malmö och Sverige</h1>
+<hr class="sidhuvud_linje"/>
+
+
+		<div class="Section1">
+			<div style="-aw-sdt-tag:'CC_Boilerplate_4'; -aw-sdt-title:'CC_Boilerplate_4'">
+				<h1 style="margin-bottom:15pt">
+					<a name="_Toc106801300"></a><a name="_Toc106800475"><span>Förslag till riksdagsbeslut</span></a>
+				</h1>
+			</div>
+			<div style="-aw-sdt-tag:'c78e0a66-0b02-4d2f-a2e2-2e98a2eeb2ab'; -aw-sdt-title:'Yrkande 1'">
+				<ol type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-left:14pt; t-i:0pt; padding-left:5.85pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att kunna stoppa bilmålvaktsbilar under färd och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'bbad4d31-f73e-4ce8-a255-5369fe0f288a'; -aw-sdt-title:'Yrkande 2'">
+				<ol start="2" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; margin-left:14pt; t-i:0pt; padding-left:5.85pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att begränsa antalet bilar man kan äga utan särskild prövning och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'b91ed5bb-8b03-4d81-8ec5-eb49624a3706'; -aw-sdt-title:'Yrkande 3'">
+				<ol start="3" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; margin-left:14pt; t-i:0pt; padding-left:5.85pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att utreda möjligheten att tvångsskriva ägarskap på brukare av bilar och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'8f6d49c2-0c85-48d1-ad0e-e0893db67c4e'; -aw-sdt-title:'Yrkande 4'">
+				<ol start="4" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; margin-left:14pt; t-i:0pt; padding-left:5.85pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om säker identifiering av personers identitet vid ägarbyte av bil och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'41c4b68e-2e3f-48ba-862a-65f485390caf'; -aw-sdt-title:'Yrkande 5'">
+				<ol start="5" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; margin-left:14pt; t-i:0pt; padding-left:5.85pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att stärka statliga myndigheters insatser mot organiserad kriminalitet och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'3e9590cb-f052-4749-a593-019b69ca888f'; -aw-sdt-title:'Yrkande 6'">
+				<ol start="6" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; margin-left:14pt; t-i:0pt; padding-left:5.85pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att Skatteverket inte ska invänta deklarationen innan det ageras mot svartjobb och fusk gentemot Försäkringskassan och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'058ed468-03e1-4006-ba00-ed36639c9782'; -aw-sdt-title:'Yrkande 7'">
+				<ol start="7" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; margin-left:14pt; t-i:0pt; padding-left:5.85pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att förenkla informationsutbytet mellan offentliga myndigheter och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'546f7e7d-4229-4b06-9d30-6d485666fcfb'; -aw-sdt-title:'Yrkande 8'">
+				<ol start="8" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; margin-left:14pt; t-i:0pt; padding-left:5.85pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att se över aktiebolagslagens bestämmelser och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'b53b328c-2aff-4b16-abee-87eb4832e1e7'; -aw-sdt-title:'Yrkande 9'">
+				<ol start="9" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; margin-left:14pt; t-i:0pt; padding-left:5.85pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att utreda ökat statligt stöd till kommunernas arbete mot organiserad kriminalitet och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'bd6e2fca-9fb7-45d5-9531-9c6a6fa55c3b'; -aw-sdt-title:'Yrkande 10'">
+				<ol start="10" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; t-i:0pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att se över ett förtydligande av ansvar för avhopparprogram samt statligt stöd till samma arbete i kommunerna och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'1c129018-dd78-46ed-a3cd-72b205f35eae'; -aw-sdt-title:'Yrkande 11'">
+				<ol start="11" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; t-i:0pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att stärka samarbetet mellan statliga och kommunala myndigheter kring tillsyn och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'598097da-fd70-458e-9741-6d8d8ff47312'; -aw-sdt-title:'Yrkande 12'">
+				<ol start="12" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; t-i:0pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att utreda möjligheten att införa fler insatsnivåer i socialtjänstlagen och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'56ce7ccf-d16e-44eb-b701-4dfea5ac5ca6'; -aw-sdt-title:'Yrkande 13'">
+				<ol start="13" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; t-i:0pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att se över möjligheten att förordna ordningsvakter i hela kommunen och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'ceeb1a53-199a-47b8-8d18-d587512f1b76'; -aw-sdt-title:'Yrkande 14'">
+				<ol start="14" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; t-i:0pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att se över möjligheten till ersättning till kommunerna för ordningsvakter och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'c9642ada-c777-4122-8554-52ce9ededb0e'; -aw-sdt-title:'Yrkande 15'">
+				<ol start="15" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; t-i:0pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om ändringar i plan- och bygglagen och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'6e8552ec-4b2b-45ea-942b-1db233158a85'; -aw-sdt-title:'Yrkande 16'">
+				<ol start="16" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; t-i:0pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om 20</span><span>&#xa0;</span><span>a</span><span>&#xa0;</span><span>§ polislagen och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'2f84473d-841f-4495-8492-da41f44f1147'; -aw-sdt-title:'Yrkande 17'">
+				<ol start="17" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; t-i:0pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om ändringar av reglerna för vittnesskydd och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'b4ff7461-c120-4147-9466-4cbac95627c9'; -aw-sdt-title:'Yrkande 18'">
+				<ol start="18" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; t-i:0pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att stärka skyddet för brottsoffer och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'875efd42-ce0e-46e9-bfac-eefad3c5d723'; -aw-sdt-title:'Yrkande 19'">
+				<ol start="19" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; t-i:0pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att utreda ett nytt förfarande för offentlighetsprincipen i fråga om förundersökningar och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<span style="-aw-bookmark-end:_Toc106801300">
+			</span>
+			<div style="-aw-sdt-tag:'CC_Motivering_Rubrik'; -aw-sdt-title:'CC_Motivering_Rubrik'">
+				<h1>
+					<span style="-aw-bookmark-end:_Toc106800475"></span><a name="MotionsStart"></a><a name="_Toc106801301"></a><a name="_Toc106800476"><span>Motivering</span></a>
+				</h1>
+			</div>
+			<span style="-aw-bookmark-end:_Toc106801301">
+			</span>
+			<p class="Normalutanindragellerluft">
+				<span style="-aw-bookmark-end:_Toc106800476"></span><span>Det finns ingen lätt lösning på det skoningslösa våldet på gatorna i Malmö och på andra platser i Sverige. Utanförskap, låga skolresultat och framtidsutsikter samt disrespekt för rättssystemet samverkar med gängens livsfarliga dynamik. Resultatet ser vi på sjuk</span><span>&#xad;</span><span>husen, på kyrkogårdarna och i de svarta nyhetsrubrikerna.</span><span style="-aw-import:spaces">&#xa0; </span>
+			</p>
+			<p>
+				<span>Medan det finns en stor efterfrågan på högre straff kan det konstateras att ett högre straff inte får en människa att spara en annans liv. Inte när allt först har blandats till en explosiv cocktail. Insatser mot gängens våld måste därför fokusera på en bredare insats som inkluderar skolan, sociala myndigheter och alla statens relevanta myndigheter. Det är dock relevant att se över mängdrabatten samt relevansen i att ge högre straff vid brott kopplat till organiserad kriminalitet.</span>
+			</p>
+			<p>
+				<span>Det behövs absolut också en satsning på polisen och tullen. Glädjande nog händer mycket på det området nu. Även resten av rättssystemet måste förstärkas, t</span><span>&#xa0;</span><span>ex åklagar</span><span>&#xad;</span><span>myndighet, domstolar och kriminalvård – vilket också skett i senaste budgeten. </span>
+			</p>
+			<p>
+				<span>Att människor utan uppehållstillstånd eller som har ej genomförda utvisningsbeslut är en del av problemet med en ökad känsla av otrygghet i större städer måste också adresseras. Kunskapen om och insatserna kring dessa personer måste öka. </span>
+			</p>
+			<p>
+				<span>Men det behövs först och främst en insikt på alla nivåer av samhället om att det demokratiska systemet har förlorat slaget om delar av vårt land. </span><span style="letter-spacing:-0.05pt">Utan den insikten kommer det aldrig satsas, prioriteras och samordnas tillräckligt för att vinna över gängen.</span><span> </span>
+			</p>
+			<p>
+				<span>Vi har områden i våra städer där varenda butiksägare måste betala till gängen för att kunna hålla öppet. Områden där den enklaste vägen till egen inkomst för många är en kriminell inkomst. Områden där rättskipning inte sker i domstolen utan inom familjer och andra konstellationer. Områden där lagen helt enkelt inte styr. Det kan inte få fortsätta. </span>
+			</p>
+			<h2>
+				<span>Stoppa bilmålvakterna</span>
+			</h2>
+			<p class="Normalutanindragellerluft">
+				<span>Problemet med bilmålvakter har varit känt i åratal. För drygt fyra år sedan infördes ny lagstiftning som skulle göra det svårare att vara bilmålvakt. Men både antalet bilar som bilmålvakterna äger och deras skulder till samhället har ökat. En enskild bilmålvakt i Malmö äger knappt 4</span><span>&#xa0;</span><span>000 bilar. Totalt är bilmålvakter skyldiga staten miljardbelopp. </span>
+			</p>
+			<p>
+				<span>Bilmålvakterna och gängen hör ihop. Både utländska ligor och inhemska gäng använder bilar från bilmålvakter. </span>
+			</p>
+			<p>
+				<span>Idag har polisen tillgång till Transportstyrelsens register över fordonsrelaterade skulder. Det är en bra början. Men fler förändringar behövs. </span>
+			</p>
+			<p>
+				<span>Det bör bli möjligt att stoppa bilmålvaktsbilar under färd och inte bara när de är parkerade. Antalet bilar man kan äga utan särskild prövning bör begränsas. Det bör utredas om det kan bli möjligt att tvångsskriva ägarskap på brukare av bilar som ägs av misstänkta bilmålvakter. Även digitalt ägarbyte via bank-id eller liknande lösning för säker identifiering bör införas för att säkra att identiteten är korrekt samt att det inte går att använda bortförklaringar om att papper med ägarbyte har försvunnit hos posten. Det skulle även lösa problemet med att falska utländska identiteter används. </span>
+			</p>
+			<h2>
+				<span>Insatser mot gängens intäkter och arbetssätt</span>
+			</h2>
+			<p class="Normalutanindragellerluft">
+				<span>När gängen skapar rubriker är det på grund av mord, skjutningar och sprängningar. Men </span><span style="letter-spacing:-0.05pt">deras verksamhet handlar inte bara – eller ens primärt – om det spektakulära. Det handlar</span><span> om löpande intäkter från välfärdsbrott, svartkrogar, utpressning, narkotikahandel och mycket mer. För att slå ut gängen bör deras intäktsströmmar attackeras hårt och brett. </span>
+			</p>
+			<p>
+				<span>Det görs många bra insatser idag. Ekobrottsmyndigheten arbetar med AI för att hitta mönster. Kronofogden ger polisen möjlighet till insatser de annars inte skulle kunna göra. Och mycket mer. Men dessa myndigheter behöver bättre resurser för att ligga före i kapplöpningen mot gängen. </span>
+			</p>
+			<p>
+				<span>Försäkringskassans bedrägerienhet bör utökas. Kronofogden bör få ökade resurser till insatser mot gängen. Skatteverkets enhet för skattebrott samt Ekobrottsmyndigheten bör stärkas och en sammanläggning bör utredas för att säkra ett effektivt arbete. Även internt inom Skatteverket bör det bli enklare att flagga för misstankar och få möjlighet att agera på dessa. Om en person som får pengar från Försäkringskassan ertappas med svarta intäkter agerar Skatteverket först för att få åter pengarna när deklarationen lämnas in. Till dess kan personen fortsätta få felaktiga utbetalningar. Pengar som oftast inte går att få igen. </span>
+			</p>
+			<p>
+				<span>Alla relevanta myndigheters regleringsbrev bör ses över för att stärka uppdraget mot organiserad kriminalitet. </span>
+			</p>
+			<p>
+				<span style="letter-spacing:-0.05pt">Samarbetet och informationsutbytet mellan statens myndigheter måste förenklas. </span><span style="letter-spacing:-0.1pt">Detsamma gäller mellan kommuner, inom kommuner och mellan stat och kommun. </span><span>Sekretesslagstiftningen</span><span style="letter-spacing:-0.1pt"> hindrar idag ett effektivt arbete mot den organiserade krimina</span><span style="letter-spacing:-0.1pt">&#xad;</span><span style="letter-spacing:-0.1pt">liteten. Ökat – men fortsatt restriktivt och på individnivå väldefinierat – informations</span><span style="letter-spacing:-0.1pt">&#xad;</span><span style="letter-spacing:-0.1pt">utbyte bör möjliggöras. </span>
+			</p>
+			<p>
+				<span>Aktiebolagslagens enkla möjligheter att skapa företag gör att aktiebolag skapas med det enda syftet att utföra bedrägerier. Ofta mot offentlig verksamhet. Att nya bolag har blivit enklare och billigare att skapa är positivt på många sätt. Men dagens missbruk är allvarligt och skapar misstroende mot hela näringslivet. Det bör utredas hur fortsatt enkla regler för skapande av bolag kan kombineras med ökad kontroll, till exempel genom att införa revisionsplikt för att kunna utföra vissa typer av affärer. </span>
+			</p>
+			<h2>
+				<span>Ökat stöd till kommunernas insatser mot gängen</span>
+			</h2>
+			<p class="Normalutanindragellerluft">
+				<span>En stor del av arbetet mot den organiserade kriminaliteten utförs av kommunerna. Men kommunerna har inte fullt ut uppgiften att göra det nödvändiga arbetet och inte heller de nödvändiga musklerna och förutsättningarna att lyckas.</span><span style="-aw-import:spaces">&#xa0; </span>
+			</p>
+			<p>
+				<span>Det behövs särskild statlig hjälp till de kommuner som har störst problem med orga</span><span>&#xad;</span><span>niserad kriminalitet. </span>
+			</p>
+			<p>
+				<span>I dag saknas till exempel lagreglering av vem som ansvarar för de kriminella som vill hoppa av sin destruktiva livsstil. Här behövs lagstiftning och stöd till socialtjänstens uppdrag. Program för avhopp från gängen måste finansieras och kompetensutvecklas med hjälp av staten för att säkra uthållighet och fler möjligheter till boende på annan ort. </span>
+			</p>
+			<p>
+				<span>Staten bör ge ekonomisk förstärkning genom utökade statsbidrag till socialtjänst som arbetar med att förebygga kriminalitet.</span>
+			</p>
+			<p>
+				<span>Skatteverket borde i förstärkningen av arbetet mot den organiserade kriminalitetens inkomster också prioritera gemensam tillsyn med kommunerna mycket högre samt bidra till finansieringen av densamma. </span>
+			</p>
+			<p>
+				<span>När socialtjänsten ska agera mot individer och familjer på glid baseras det på </span><span style="letter-spacing:-0.1pt">fri</span><span style="letter-spacing:-0.1pt">&#xad;</span><span style="letter-spacing:-0.1pt">villighet från de berördas sida. Bara om problemet är så stort att det kan föranleda tvångs</span><span style="letter-spacing:-0.1pt">&#xad;</span><span style="letter-spacing:-0.1pt">omhändertagande</span><span> kan tvingande medel användas. Det finns dock många lägen där behovet av insatser är stort men de berörda vägrar delta. Det borde därför finnas en möjlighet att eskalera från frivilliga insatser utan att det måste leda till tvångsomhänder</span><span>&#xad;</span><span>tagande, som ju är ett mycket hårt ingripande i individens liv från det offentligas sida. Regeringen bör utreda möjligheten att införa fler insatsnivåer i socialtjänstlagen för att ge socialtjänsten bättre verktyg att hjälpa ungdomar och barn på glid. </span>
+			</p>
+			<p>
+				<span>Många kommuner har börjat använda ordningsvakter då polisen inte kan tillhanda</span><span>&#xad;</span><span>hålla tillräckliga resurser för att täcka behovet av bevakning i våra städer. Ordnings</span><span>&#xad;</span><span>vakternas förordnande samordnas med polisen och gäller begränsade utpekade platser. Det skapar problem för ett effektivt utnyttjande av ordningsvakter då de inte kan flyttas till nya ställen där ett behov plötsligt uppstår. Därför bör kommunala ordningsvakter kunna få ett förordnande för en hel kommun. Insatserna bör självklart fortfarande styras av och samordnas med polisen. Det innebär också att kommunala ordningsvakter, för att frigöra polisresurser, kan användas till att, eventuellt tillsammans med polisen, tjänstgöra för att bevaka avspärrade områden där till exempel skjutningar ägt rum. </span>
+			</p>
+			<p>
+				<span>Då de kommunala ordningsvakterna är en nödvändighet som skapats av att staten inte lyckas upprätthålla våldsmonopolet bör staten även se över möjligheten att ersätta kommuner för införande av kommunala ordningsvakter. </span>
+			</p>
+			<p>
+				<span>Flera kommuner har infört samordnad tillsyn hos företag tillsammans med statliga myndigheter. Det är ett mycket lyckat samarbete. Men finansieringen är svår. Här borde statens myndigheter bidra i större omfattning med både analyser, personer och finansi</span><span>&#xad;</span><span>ella resurser. </span>
+			</p>
+			<p>
+				<span>”Broken Windows” ska tas på allvar. Studier visar att om inte skadegörelse eller exempelvis klotter åtgärdas omedelbart och målmedvetet, så förfaller en plats och kriminaliteten på platsen ökar. Men det finns idag inget regelverk som säger att kommunerna ska agera på denna etablerade kunskap. Plan- och bygglagen inkluderar nämligen inte brottsförebyggande åtgärder. Om lagen skärps vad gäller brottsförebyg</span><span>&#xad;</span><span>gande åtgärder som en del av fastighetsskötseln skulle kommunen kunna agera i sin roll som tillsyns</span><span>&#xad;</span><span>myndighet. </span>
+			</p>
+			<h2>
+				<span>Förbättrade regelverk i rättsprocessen</span>
+			</h2>
+			<p class="Normalutanindragellerluft">
+				<span>En avgörande pusselbit i kampen mot den organiserade kriminaliteten är att förbättra regelverken för myndigheter som agerar mot gängen. Ett flertal förändringar efterfrågas av polis och ansvariga på myndigheter. </span>
+			</p>
+			<p>
+				<span>Det är idag möjligt att söka efter vapen utan husrannsakan i båtar och bilar. Denna rätt i polislagens 20</span><span>&#xa0;</span><span>a</span><span>&#xa0;</span><span>§ att söka efter vapen som är ägnade att användas vid brott mot liv eller hälsa, bör utökas till att omfatta förråd, garage och liknande. Bostaden bör inte inkluderas av integritetsskäl. </span>
+			</p>
+			<p>
+				<span>Det behövs ett bättre vittnesskydd för att bryta tystnaden kring den organiserade kriminalitetens och gängens illdåd. Det är oftast en förutsättning för att få personer från den organiserade kriminaliteten dömda. Idag är det alldeles för höga krav för att ingå i vittnesskyddet. T.ex. krävs drogfrihet, vilket är kontraproduktivt när en stor andel av de som ingår i gäng eller runt dessa tar droger.</span>
+			</p>
+			<p>
+				<span>I förlängning av vittnesskyddet bör det även ske en bättre samordning av skyddet för brottsoffer för att även öka andelen brottsoffer som vågar vittna.</span>
+			</p>
+			<p>
+				<span>Ett ytterligare problem är att förundersökningar omedelbart blir offentligt tillgänglig information. Det innebär att även kriminella kan begära ut dessa och få tillgång till värdefull information om utredningen i det aktuella fallet samt information om eventu</span><span>&#xad;</span><span>ella vittnen. I många av de länder vi i vanliga fall jämför oss med, som t.ex. Danmark och Holland, finns ingen sådan allmän tillgång till förundersökningar. Regeringen bör skyndsamt utreda ett nytt förfarande för offentlighetsprincipen för förundersökningar. </span>
+			</p>
+			<div style="-aw-sdt-tag:'CC_Underskrifter'; -aw-sdt-title:'CC_Underskrifter'">
+				<p>
+					<span style="-aw-import:ignore">&#xa0;</span>
+				</p>
+				<p>
+					<span style="-aw-import:ignore">&#xa0;</span>
+				</p>
+			</div>
+			<table cellspacing="0" cellpadding="0" style="width:100%; border-collapse:collapse">
+				<tr style="page-break-inside:avoid">
+					<td style="width:1%; padding-right:5.4pt; padding-left:5.4pt; vertical-align:bottom">
+						<p class="Underskrifter">
+							<span>Niels Paarup-Petersen (C)</span>
+						</p>
+					</td>
+					<td style="width:1%; padding-right:5.4pt; padding-left:5.4pt; vertical-align:bottom">
+						<p class="Underskrifter">
+							<span style="-aw-import:ignore">&#xa0;</span>
+						</p>
+					</td>
+				</tr>
+			</table>
+			<p>
+				<span style="-aw-import:ignore">&#xa0;</span>
+			</p>
+		</div>
+	</div>

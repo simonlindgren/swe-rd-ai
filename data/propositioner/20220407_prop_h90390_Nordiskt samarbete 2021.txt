@@ -1,0 +1,1190 @@
+SEARCH TERM: AI
+DOCUMENT ID: h90390
+TITLE: Nordiskt samarbete 2021
+TYPE: prop
+SUBTYPE: skr
+DATE: 2022-04-07
+PARLIAMENTARY YEAR: 2021/22
+ORGANISATION: Utrikesdepartementet
+STATUS: Klar
+DOWNLOADED: 2026-01-22 10:26:42
+================================================================================
+
+<div style="margin:3px;">
+<STYLE type="text/css">
+
+body {margin-top: 0px;margin-left: 0px;}
+
+#page_1 {position:relative; overflow: hidden;z:b;margin:10px 0px 21px 10px ;padding: 0px;border: none;width: 766px;}
+
+#page_1 #p1dimg1 {position:absolute;top:0px;left:546px;z-index:-1;width:54px;height:97px;}
+#page_1 #p1dimg1 #p1img1 {width:54px;height:97px;}
+
+
+
+
+#page_2 {position:relative; overflow: hidden;z:b;margin:14px 0px 21px 10px ;padding: 0px;border: none;width: 676px;}
+
+
+
+
+
+#page_3 {position:relative; overflow: hidden;z:b;margin:15px 0px 21px 10px ;padding: 0px;border: none;width: 676px;}
+
+
+
+
+
+#page_4 {position:relative; overflow: hidden;z:b;margin:15px 0px 22px 10px ;padding: 0px;border: none;width: 676px;}
+
+
+
+
+
+#page_5 {position:relative; overflow: hidden;z:b;margin:15px 0px 21px 10px ;padding: 0px;border: none;width: 676px;}
+#page_5 #id_1 {border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 631px;overflow: hidden;}
+#page_5 #id_2 {border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 631px;overflow: hidden;}
+#page_5 #id_2 #id_2_1 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 586px;overflow: hidden;}
+#page_5 #id_2 #id_2_2 {float:left;border:none;z:b;margin:4px 0px 0px 10px ;padding: 0px;border:none;width: 45px;overflow: hidden;}
+
+
+
+
+
+#page_6 {position:relative; overflow: hidden;z:b;margin:15px 0px 21px 10px ;padding: 0px;border: none;width: 676px;}
+
+
+
+
+
+#page_7 {position:relative; overflow: hidden;z:b;margin:15px 0px 21px 10px ;padding: 0px;border: none;width: 766px;}
+
+
+
+
+
+#page_8 {position:relative; overflow: hidden;z:b;margin:15px 0px 21px 10px ;padding: 0px;border: none;width: 676px;}
+
+
+
+
+
+#page_9 {position:relative; overflow: hidden;z:b;margin:15px 0px 21px 10px ;padding: 0px;border: none;width: 766px;}
+
+
+
+
+
+#page_10 {position:relative; overflow: hidden;z:b;margin:15px 0px 21px 10px ;padding: 0px;border: none;width: 721px;}
+#page_10 #id_1 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 135px;overflow: hidden;}
+#page_10 #id_2 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 541px;overflow: hidden;}
+
+
+
+
+
+#page_11 {position:relative; overflow: hidden;z:b;margin:15px 0px 21px 10px ;padding: 0px;border: none;width: 766px;}
+
+
+
+
+
+#page_12 {position:relative; overflow: hidden;z:b;margin:15px 0px 21px 10px ;padding: 0px;border: none;width: 721px;}
+
+
+
+
+
+#page_13 {position:relative; overflow: hidden;z:b;margin:15px 0px 21px 10px ;padding: 0px;border: none;width: 676px;}
+
+
+
+
+
+#page_14 {position:relative; overflow: hidden;z:b;margin:15px 0px 21px 10px ;padding: 0px;border: none;width: 721px;}
+#page_14 #id_1 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 135px;overflow: hidden;}
+#page_14 #id_2 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 541px;overflow: hidden;}
+
+
+
+
+
+#page_15 {position:relative; overflow: hidden;z:b;margin:15px 0px 21px 10px ;padding: 0px;border: none;width: 766px;}
+
+
+
+
+
+#page_16 {position:relative; overflow: hidden;z:b;margin:15px 0px 21px 10px ;padding: 0px;border: none;width: 721px;}
+
+
+
+
+
+#page_17 {position:relative; overflow: hidden;z:b;margin:15px 0px 21px 10px ;padding: 0px;border: none;width: 766px;}
+
+
+
+
+
+#page_18 {position:relative; overflow: hidden;z:b;margin:15px 0px 21px 10px ;padding: 0px;border: none;width: 721px;}
+
+
+
+
+
+#page_19 {position:relative; overflow: hidden;z:b;margin:15px 0px 21px 10px ;padding: 0px;border: none;width: 766px;}
+
+
+
+
+
+#page_20 {position:relative; overflow: hidden;z:b;margin:15px 0px 21px 10px ;padding: 0px;border: none;width: 721px;}
+
+
+
+
+
+#page_21 {position:relative; overflow: hidden;z:b;margin:15px 0px 21px 10px ;padding: 0px;border: none;width: 676px;}
+
+
+
+
+
+#page_22 {position:relative; overflow: hidden;z:b;margin:15px 0px 21px 10px ;padding: 0px;border: none;width: 721px;}
+
+
+
+
+
+#page_23 {position:relative; overflow: hidden;z:b;margin:15px 0px 21px 10px ;padding: 0px;border: none;width: 766px;}
+
+
+
+
+
+#page_24 {position:relative; overflow: hidden;z:b;margin:15px 0px 21px 10px ;padding: 0px;border: none;width: 721px;}
+
+
+
+
+
+#page_25 {position:relative; overflow: hidden;z:b;margin:15px 0px 21px 10px ;padding: 0px;border: none;width: 766px;}
+
+
+
+
+
+#page_26 {position:relative; overflow: hidden;z:b;margin:15px 0px 21px 10px ;padding: 0px;border: none;width: 721px;}
+
+
+
+
+
+#page_27 {position:relative; overflow: hidden;z:b;margin:15px 0px 21px 10px ;padding: 0px;border: none;width: 766px;}
+
+#page_27 #p27dimg1 {position:absolute;top:237px;left:63px;z-index:-1;width:112px;height:1px;font-size: 1px !important;l-h:nHeight;}
+#page_27 #p27dimg1 #p27img1 {width:112px;height:1px;}
+
+
+
+
+.dclr {clear:both;float:none;height:1px;margin:0px;padding:0px;overflow:hidden;}
+
+.ft0{font:  18px 'Verdana' !important;l-h: 32px;}
+.ft1{font:  14px 'Verdana' !important;l-h: 22px;}
+.ft2{font:  10px 'Verdana' !important;l-h: 1px;}
+.ft3{font:  12px 'Verdana' !important;l-h: 15px;}
+.ft4{font: italic  12px 'Verdana' !important;l-h: 15px;}
+.ft5{font:  12px 'Verdana' !important;l-h: 17px;}
+.ft6{font: italic  12px 'Verdana' !important;l-h: 17px;}
+.ft7{font:  14px 'Verdana' !important;l-h: 20px;}
+.ft8{font:  12px 'Verdana' !important;l-h: 16px;}
+.ft9{font:  14px 'Verdana' !important;margin-left: 50px;l-h: 26px;}
+.ft10{font:  14px 'Verdana' !important;l-h: 26px;}
+.ft11{font:  12px 'Verdana' !important;l-h: 15px;}
+.ft12{font:  12px 'Verdana' !important;l-h: 15px;position: relative; bottom: -4px;}
+.ft13{font:  14px 'Verdana' !important;l-h: 19px;}
+.ft14{font: bold  14px 'Verdana' !important;l-h: 17px;}
+.ft15{font:  12px 'Verdana' !important;color: #454547;l-h: 16px;}
+.ft16{font:  14px 'Verdana' !important;margin-left: 38px;l-h: 19px;}
+.ft17{font:  14px 'Verdana' !important;l-h: 19px;}
+.ft18{font:  14px 'Verdana' !important;margin-left: 39px;l-h: 19px;}
+.ft19{font:  14px 'Verdana' !important;margin-left: 39px;l-h: 22px;}
+.ft20{font:  14px 'Verdana' !important;l-h: 22px;}
+.ft21{font:  12px 'Verdana' !important;margin-left: 5px;l-h: 17px;}
+.ft22{font:  14px 'Verdana' !important;margin-left: 30px;l-h: 19px;}
+.ft23{font:  10px 'Verdana' !important;l-h: 6px;}
+.ft24{font:  10px 'Verdana' !important;l-h: 4px;}
+
+.p0{text-align: left;padding-left: 0px;padding-right: 441px;margin-top: 23px;margin-bottom: 0px !important;}
+.p1{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p2{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p3{text-align: left;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p4{text-align: left;padding-left: 0px;margin-top: 18px;margin-bottom: 0px !important;}
+.p5{text-align: left;padding-left: 0px;margin-top: 15px;margin-bottom: 0px !important;}
+.p6{text-align: left;padding-left: 0px;margin-top: 32px;margin-bottom: 0px !important;}
+.p7{text-align: left;padding-left: 180px;padding-right: 378px;margin-top: 20px;margin-bottom: 0px !important;}
+.p8{text-align: left;padding-left: 0px;margin-top: 46px;margin-bottom: 0px !important;}
+.p9{text-align: left;padding-left: 0px;padding-right: 168px;margin-top: 29px;margin-bottom: 0px !important;}
+.p10{text-align: right;padding-right: 42px;margin-top: 203px;margin-bottom: 0px !important;}
+.p11{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p12{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p13{text-align: right;padding-right: 1px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p14{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p15{text-align: right;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p16{text-align: left;padding-left: 0px;margin-top: 60px;margin-bottom: 0px !important;}
+.p17{text-align: left;margin-top: 84px;margin-bottom: 0px !important;}
+.p18{text-align: right;padding-right: 21px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p19{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p20{text-align: left;padding-left: 0px;padding-right: 105px;margin-top: 11px;margin-bottom: 0px !important;}
+.p21{text-align: left;padding-left: 0px;padding-right: 105px;margin-top: 0px;margin-bottom: 0px !important;text-indent: 11px;}
+.p22{text-align: left;padding-left: 0px;padding-right: 105px;margin-top: 4px;margin-bottom: 0px !important;text-indent: 11px;}
+.p23{text-align: left;padding-left: 0px;padding-right: 147px;margin-top: 44px;margin-bottom: 0px !important;text-indent: 0.60px;}
+.p24{text-align: left;padding-left: 0px;padding-right: 105px;margin-top: 8px;margin-bottom: 0px !important;}
+.p25{text-align: left;padding-left: 0px;padding-right: 105px;margin-top: 5px;margin-bottom: 0px !important;text-indent: 11px;}
+.p26{text-align: right;margin-top: 0px;margin-bottom: 0px !important;}
+.p27{text-align: left;padding-left: 0px;padding-right: 63px;margin-top: 0px;margin-bottom: 0px !important;text-indent: 0.112px;}
+.p28{text-align: left;padding-left: 0px;padding-right: 63px;margin-top: 18px;margin-bottom: 0px !important;text-indent: 11px;}
+.p29{text-align: left;padding-left: 0px;padding-right: 63px;margin-top: 5px;margin-bottom: 0px !important;text-indent: 11px;}
+.p30{text-align: left;padding-left: 0px;margin-top: 51px;margin-bottom: 0px !important;}
+.p31{text-align: left;padding-left: 0px;padding-right: 63px;margin-top: 15px;margin-bottom: 0px !important;}
+.p32{text-align: left;padding-left: 0px;padding-right: 63px;margin-top: 0px;margin-bottom: 0px !important;text-indent: 11px;}
+.p33{text-align: left;padding-left: 0px;padding-right: 63px;margin-top: 1px;margin-bottom: 0px !important;text-indent: 11px;}
+.p34{text-align: left;margin-top: 1px;margin-bottom: 0px !important;}
+.p35{text-align: right;padding-right: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p36{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p37{text-align: left;padding-right: 168px;margin-top: 7px;margin-bottom: 0px !important;}
+.p38{text-align: left;margin-top: 24px;margin-bottom: 0px !important;}
+.p39{text-align: left;padding-right: 168px;margin-top: 6px;margin-bottom: 0px !important;}
+.p40{text-align: left;padding-right: 168px;margin-top: 0px;margin-bottom: 0px !important;text-indent: 11px;}
+.p41{text-align: left;padding-right: 147px;margin-top: 1px;margin-bottom: 0px !important;text-indent: 11px;}
+.p42{text-align: left;padding-right: 168px;margin-top: 4px;margin-bottom: 0px !important;text-indent: 11px;}
+.p43{text-align: left;padding-right: 168px;margin-top: 4px;margin-bottom: 0px !important;text-indent: 11px;}
+.p44{text-align: left;margin-top: 0px;margin-bottom: 0px !important;}
+.p45{text-align: left;padding-left: 0px;padding-right: 63px;margin-top: 0px;margin-bottom: 0px !important;text-indent: 0.112px;}
+.p46{text-align: left;padding-left: 0px;padding-right: 63px;margin-top: 6px;margin-bottom: 0px !important;text-indent: 11px;}
+.p47{text-align: left;padding-left: 0px;margin-top: 31px;margin-bottom: 0px !important;}
+.p48{text-align: left;padding-left: 0px;padding-right: 63px;margin-top: 9px;margin-bottom: 0px !important;}
+.p49{text-align: left;margin-top: 5px;margin-bottom: 0px !important;}
+.p50{text-align: left;padding-left: 0px;padding-right: 63px;margin-top: 0px;margin-bottom: 0px !important;}
+.p51{text-align: left;padding-left: 0px;padding-right: 168px;margin-top: 0px;margin-bottom: 0px !important;text-indent: 11px;}
+.p52{text-align: left;padding-left: 0px;padding-right: 168px;margin-top: 4px;margin-bottom: 0px !important;text-indent: 11px;}
+.p53{text-align: left;padding-left: 0px;margin-top: 28px;margin-bottom: 0px !important;}
+.p54{text-align: left;padding-left: 0px;padding-right: 168px;margin-top: 6px;margin-bottom: 0px !important;}
+.p55{text-align: left;padding-left: 0px;padding-right: 168px;margin-top: 3px;margin-bottom: 0px !important;text-indent: 11px;}
+.p56{text-align: left;padding-left: 0px;padding-right: 168px;margin-top: 1px;margin-bottom: 0px !important;text-indent: 11px;}
+.p57{text-align: right;padding-right: 42px;margin-top: 0px;margin-bottom: 0px !important;}
+.p58{text-align: left;padding-left: 0px;padding-right: 63px;margin-top: 0px;margin-bottom: 0px !important;text-indent: 0.112px;}
+.p59{text-align: left;padding-left: 0px;margin-top: 23px;margin-bottom: 0px !important;}
+.p60{text-align: left;padding-left: 0px;padding-right: 63px;margin-top: 6px;margin-bottom: 0px !important;}
+.p61{text-align: left;padding-left: 0px;padding-right: 63px;margin-top: 2px;margin-bottom: 0px !important;text-indent: 11px;}
+.p62{text-align: left;padding-left: 0px;padding-right: 63px;margin-top: 3px;margin-bottom: 0px !important;text-indent: 11px;}
+.p63{text-align: left;padding-left: 0px;padding-right: 63px;margin-top: 6px;margin-bottom: 0px !important;text-indent: 11px;}
+.p64{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p65{text-align: right;padding-right: 42px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p66{text-align: left;padding-left: 0px;padding-right: 168px;margin-top: 1px;margin-bottom: 0px !important;}
+.p67{text-align: left;padding-left: 0px;margin-top: 27px;margin-bottom: 0px !important;}
+.p68{text-align: left;padding-left: 0px;padding-right: 168px;margin-top: 9px;margin-bottom: 0px !important;}
+.p69{text-align: left;padding-left: 0px;padding-right: 168px;margin-top: 2px;margin-bottom: 0px !important;text-indent: 11px;}
+.p70{text-align: right;padding-right: 42px;margin-top: 63px;margin-bottom: 0px !important;}
+.p71{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;}
+.p72{text-align: left;margin-top: 752px;margin-bottom: 0px !important;}
+.p73{text-align: left;padding-right: 63px;margin-top: 9px;margin-bottom: 0px !important;}
+.p74{text-align: left;padding-right: 63px;margin-top: 4px;margin-bottom: 0px !important;text-indent: 11px;}
+.p75{text-align: left;padding-right: 63px;margin-top: 1px;margin-bottom: 0px !important;text-indent: 11px;}
+.p76{text-align: left;padding-right: 63px;margin-top: 0px;margin-bottom: 0px !important;text-indent: 11px;}
+.p77{text-align: left;margin-top: 35px;margin-bottom: 0px !important;}
+.p78{text-align: left;padding-right: 63px;margin-top: 10px;margin-bottom: 0px !important;}
+.p79{text-align: left;padding-left: 0px;padding-right: 168px;margin-top: 0px;margin-bottom: 0px !important;}
+.p80{text-align: left;padding-left: 0px;margin-top: 35px;margin-bottom: 0px !important;}
+.p81{text-align: left;padding-left: 0px;margin-top: 12px;margin-bottom: 0px !important;}
+.p82{text-align: left;padding-left: 0px;margin-top: 21px;margin-bottom: 0px !important;}
+.p83{text-align: right;padding-right: 42px;margin-top: 4px;margin-bottom: 0px !important;}
+.p84{text-align: left;padding-left: 0px;padding-right: 63px;margin-top: 0px;margin-bottom: 0px !important;text-indent: 0.112px;}
+.p85{text-align: left;padding-left: 0px;padding-right: 63px;margin-top: 0px;margin-bottom: 0px !important;text-indent: 11px;}
+.p86{text-align: left;padding-left: 0px;padding-right: 63px;margin-top: 4px;margin-bottom: 0px !important;text-indent: 11px;}
+.p87{text-align: left;padding-left: 0px;margin-top: 23px;margin-bottom: 0px !important;}
+.p88{text-align: left;padding-left: 0px;padding-right: 63px;margin-top: 6px;margin-bottom: 0px !important;}
+.p89{text-align: left;padding-left: 0px;padding-right: 63px;margin-top: 1px;margin-bottom: 0px !important;text-indent: 11px;}
+.p90{text-align: left;padding-left: 0px;padding-right: 63px;margin-top: 2px;margin-bottom: 0px !important;text-indent: 11px;}
+.p91{text-align: left;padding-left: 0px;padding-right: 63px;margin-top: 5px;margin-bottom: 0px !important;text-indent: 11px;}
+.p92{text-align: left;margin-top: 7px;margin-bottom: 0px !important;}
+.p93{text-align: left;padding-left: 0px;padding-right: 105px;margin-top: 4px;margin-bottom: 0px !important;}
+.p94{text-align: left;padding-left: 0px;padding-right: 105px;margin-top: 3px;margin-bottom: 0px !important;text-indent: 11px;}
+.p95{text-align: right;margin-top: 111px;margin-bottom: 0px !important;}
+.p96{text-align: left;padding-left: 0px;padding-right: 126px;margin-top: 0px;margin-bottom: 0px !important;text-indent: 0.60px;}
+.p97{text-align: left;padding-right: 63px;margin-top: 5px;margin-bottom: 0px !important;}
+.p98{text-align: left;padding-right: 63px;margin-top: 3px;margin-bottom: 0px !important;text-indent: 11px;}
+.p99{text-align: left;margin-top: 23px;margin-bottom: 0px !important;}
+.p100{text-align: left;margin-top: 20px;margin-bottom: 0px !important;}
+.p101{text-align: left;padding-right: 63px;margin-top: 8px;margin-bottom: 0px !important;}
+.p102{text-align: left;padding-left: 0px;margin-top: 24px;margin-bottom: 0px !important;}
+.p103{text-align: left;padding-left: 0px;padding-right: 168px;margin-top: 6px;margin-bottom: 0px !important;text-indent: 11px;}
+.p104{text-align: right;padding-right: 42px;margin-top: 5px;margin-bottom: 0px !important;}
+.p105{text-align: left;padding-left: 0px;padding-right: 63px;margin-top: 16px;margin-bottom: 0px !important;text-indent: 11px;}
+.p106{text-align: left;padding-left: 0px;padding-right: 63px;margin-top: 3px;margin-bottom: 0px !important;text-indent: 11px;}
+.p107{text-align: left;padding-left: 0px;padding-right: 63px;margin-top: 2px;margin-bottom: 0px !important;text-indent: 11px;}
+.p108{text-align: left;padding-left: 0px;padding-right: 63px;margin-top: 1px;margin-bottom: 0px !important;text-indent: 11px;}
+.p109{text-align: left;padding-left: 0px;padding-right: 63px;margin-top: 5px;margin-bottom: 0px !important;text-indent: 11px;}
+.p110{text-align: left;padding-left: 0px;margin-top: 28px;margin-bottom: 0px !important;}
+.p111{text-align: left;padding-left: 0px;padding-right: 63px;margin-top: 10px;margin-bottom: 0px !important;}
+.p112{text-align: left;margin-top: 4px;margin-bottom: 0px !important;}
+.p113{text-align: left;padding-left: 0px;padding-right: 63px;margin-top: 0px;margin-bottom: 0px !important;text-indent: 11px;}
+.p114{text-align: left;padding-left: 0px;margin-top: 29px;margin-bottom: 0px !important;}
+.p115{text-align: left;padding-left: 0px;padding-right: 168px;margin-top: 10px;margin-bottom: 0px !important;}
+.p116{text-align: left;padding-left: 0px;padding-right: 63px;margin-top: 0px;margin-bottom: 0px !important;text-indent: 0.112px;}
+.p117{text-align: left;padding-left: 0px;padding-right: 63px;margin-top: 9px;margin-bottom: 0px !important;}
+.p118{text-align: left;padding-left: 0px;margin-top: 35px;margin-bottom: 0px !important;}
+.p119{text-align: left;padding-left: 0px;padding-right: 63px;margin-top: 12px;margin-bottom: 0px !important;}
+.p120{text-align: left;margin-top: 10px;margin-bottom: 0px !important;}
+.p121{text-align: left;padding-left: 0px;padding-right: 294px;margin-top: 44px;margin-bottom: 0px !important;text-indent: 0.60px;}
+.p122{text-align: left;padding-left: 0px;padding-right: 168px;margin-top: 8px;margin-bottom: 0px !important;}
+.p123{text-align: left;padding-left: 0px;padding-right: 63px;margin-top: 0px;margin-bottom: 0px !important;text-indent: 0.112px;}
+.p124{text-align: left;padding-left: 160px;padding-right: 84px;margin-top: 64px;margin-bottom: 0px !important;text-indent: 0.60px;}
+.p125{text-align: left;padding-left: 0px;padding-right: 63px;margin-top: 8px;margin-bottom: 0px !important;}
+.p126{text-align: left;padding-left: 0px;padding-right: 63px;margin-top: 3px;margin-bottom: 0px !important;text-indent: 11px;}
+.p127{text-align: left;padding-left: 0px;padding-right: 63px;margin-top: 4px;margin-bottom: 0px !important;text-indent: 11px;}
+.p128{text-align: left;margin-top: 15px;margin-bottom: 0px !important;}
+.p129{text-align: left;padding-right: 63px;margin-top: 0px;margin-bottom: 0px !important;}
+.p130{text-align: left;padding-left: 0px;padding-right: 189px;margin-top: 44px;margin-bottom: 0px !important;text-indent: 0.60px;}
+.p131{text-align: left;padding-right: 168px;margin-top: 10px;margin-bottom: 0px !important;}
+.p132{text-align: left;padding-right: 168px;margin-top: 9px;margin-bottom: 0px !important;text-indent: 11px;}
+.p133{text-align: left;padding-left: 0px;padding-right: 336px;margin-top: 35px;margin-bottom: 0px !important;text-indent: 0.59px;}
+.p134{text-align: left;padding-left: 0px;margin-top: 44px;margin-bottom: 0px !important;}
+.p135{text-align: left;padding-left: 0px;margin-top: 17px;margin-bottom: 0px !important;}
+.p136{text-align: left;padding-left: 0px;padding-right: 168px;margin-top: 5px;margin-bottom: 0px !important;text-indent: 11px;}
+.p137{text-align: left;padding-left: 0px;margin-top: 26px;margin-bottom: 0px !important;}
+.p138{text-align: left;padding-left: 0px;padding-right: 147px;margin-top: 9px;margin-bottom: 0px !important;}
+.p139{text-align: right;padding-right: 42px;margin-top: 3px;margin-bottom: 0px !important;}
+.p140{text-align: left;padding-left: 0px;margin-top: 27px;margin-bottom: 0px !important;}
+.p141{text-align: left;padding-left: 0px;margin-top: 44px;margin-bottom: 0px !important;}
+.p142{text-align: left;padding-left: 0px;margin-top: 16px;margin-bottom: 0px !important;}
+.p143{text-align: right;padding-right: 42px;margin-top: 9px;margin-bottom: 0px !important;}
+.p144{text-align: left;margin-top: 6px;margin-bottom: 0px !important;}
+.p145{text-align: left;padding-left: 440px;margin-top: 0px;margin-bottom: 0px !important;}
+.p146{text-align: left;padding-left: 0px;padding-right: 168px;margin-top: 15px;margin-bottom: 0px !important;}
+.p147{text-align: left;padding-left: 0px;margin-top: 13px;margin-bottom: 0px !important;}
+.p148{text-align: left;padding-left: 0px;margin-top: 76px;margin-bottom: 0px !important;}
+.p149{text-align: right;padding-right: 42px;margin-top: 470px;margin-bottom: 0px !important;}
+
+.td0{padding: 0px;margin: 0px;width: 315px;vertical-align: bottom;}
+.td1{padding: 0px;margin: 0px;width: 212px;vertical-align: bottom;}
+.td2{border-bottom: #000000 1px solid;padding: 0px;margin: 0px;width: 315px;vertical-align: bottom;}
+.td3{border-bottom: #000000 1px solid;padding: 0px;margin: 0px;width: 212px;vertical-align: bottom;}
+.td4{padding: 0px;margin: 0px;width: 105px;vertical-align: bottom;}
+.td5{padding: 0px;margin: 0px;width: 411px;vertical-align: bottom;}
+.td6{padding: 0px;margin: 0px;width: 14px;vertical-align: bottom;}
+.td7{padding: 0px;margin: 0px;width: 21px;vertical-align: bottom;}
+.td8{padding: 0px;margin: 0px;width: 390px;vertical-align: bottom;}
+.td9{padding: 0px;margin: 0px;width: 58px;vertical-align: bottom;}
+.td10{padding: 0px;margin: 0px;width: 331px;vertical-align: bottom;}
+.td11{padding: 0px;margin: 0px;width: 36px;vertical-align: bottom;}
+.td12{padding: 0px;margin: 0px;width: 389px;vertical-align: bottom;}
+.td13{padding: 0px;margin: 0px;width: 90px;vertical-align: bottom;}
+.td14{padding: 0px;margin: 0px;width: 43px;vertical-align: bottom;}
+.td15{padding: 0px;margin: 0px;width: 383px;vertical-align: bottom;}
+.td16{padding: 0px;margin: 0px;width: 63px;vertical-align: bottom;}
+.td17{padding: 0px;margin: 0px;width: 469px;vertical-align: bottom;}
+.td18{padding: 0px;margin: 0px;width: 464px;vertical-align: bottom;}
+.td19{padding: 0px;margin: 0px;width: 66px;vertical-align: bottom;}
+.td20{padding: 0px;margin: 0px;width: 69px;vertical-align: bottom;}
+
+.tr0{heightzzz: 31px;}
+.tr1{heightzzz: 23px;}
+.tr2{heightzzz: 30px;}
+.tr3{heightzzz: 33px;}
+.tr4{heightzzz: 22px;}
+.tr5{heightzzz: 21px;}
+.tr6{heightzzz: 15px;}
+.tr7{heightzzz: 16px;}
+.tr8{heightzzz: 18px;}
+.tr9{heightzzz: 19px;}
+.tr10{heightzzz: 20px;}
+.tr11{heightzzz: 27px;}
+.tr12{heightzzz: 24px;}
+.tr13{heightzzz: 25px;}
+.tr14{heightzzz: 6px;}
+.tr15{heightzzz: 4px;}
+
+.t0{width: 552px;margin-leftZ: 69px;margin-top: 5px;f:20px 'Verdana' !important;}
+.t1{width: 556px;f:13px 'Verdana' !important;}
+.t2{width: 541px;margin-leftZ: 68px;f:20px 'Verdana' !important;}
+.t3{width: 541px;f:17px 'Verdana' !important;}
+.t4{width: 557px;margin-top: 15px;f:13px 'Verdana' !important;}
+.t5{width: 541px;margin-leftZ: 68px;f:17px 'Verdana' !important;}
+.t6{width: 555px;margin-top: 3px;f:13px 'Verdana' !important;}
+.t7{width: 564px;margin-top: 8px;f:13px 'Verdana' !important;}
+
+</STYLE>
+
+
+
+<DIV id="page_1">
+<DIV id="p1dimg1">
+<INGENBILD zsrc="H903901x1.jpg/" id="p1img1">
+</DIV>
+
+
+<DIV class="dclr"></DIV>
+<P class="p0 ft0">Regeringens skrivelse 2021/22:90</P>
+<TABLE cellpadding=0 cellspacing=0 class="t0">
+<TR>
+	<TD class="tr0 td0"><SPAN class="p1 ft1">Nordiskt samarbete 2021</SPAN> </TD>
+	<TD class="tr0 td1"><SPAN class="p2 ft1">Skr.</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr1 td2"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr1 td3"><SPAN class="p2 ft1">2021/22:90</SPAN> </TD>
+</TR>
+</TABLE>
+<P class="p4 ft3">Regeringen överlämnar denna skrivelse till riksdagen.</P>
+<P class="p5 ft3">Stockholm den 7 april 2022</P>
+<P class="p6 ft4">Magdalena Andersson</P>
+<P class="p7 ft6">Anna Hallberg <SPAN class="ft5">(Utrikesdepartementet)</SPAN></P>
+<P class="p8 ft1">Skrivelsens huvudsakliga innehåll</P>
+<P class="p9 ft3">I skrivelsen redogör regeringen för samarbetet mellan de nordiska ländernas regeringar under 2021, med huvudsakligt fokus på verksamheten i Nordiska ministerrådet. Skrivelsen inleds med en översiktlig bild av det nordiska samarbetet under <NOBR>covid-19-pandemin.</NOBR> Sedan beskrivs verksamheten under de nordiska samarbetsministrarna, följt av verksamheten under resterande elva ministerråd. Även det nordiska samarbetet inom transportrespektive infrastrukturområdena omnämns. Det nordiska <NOBR>utrikes-,</NOBR> försvars- och säkerhetspolitiska samarbetet ligger utanför Nordiska ministerrådets mandat och beskrivs kort i skrivelsen. Även Sveriges bilaterala relationer med de nordiska grannländerna beskrivs kort. Slutligen ger skrivelsen en översiktlig bild av arbetet i Barentsrådet och Arktiska rådet.</P>
+<P class="p10 ft3">1</P>
+</DIV>
+<DIV id="page_2">
+
+
+<TABLE cellpadding=0 cellspacing=0 class="t1">
+<TR>
+	<TD class="tr2 td4"><SPAN class="p3 ft3">Skr. 2021/22:90</SPAN> </TD>
+	<TD colspan=3 class="tr2 td5"><SPAN class="p11 ft7">Innehållsförteckning</SPAN> </TD>
+	<TD class="tr2 td6"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr3 td4"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr3 td7"><SPAN class="p11 ft3"><A href="#page_3">1</A></SPAN> </TD>
+	<TD colspan=2 class="tr3 td8"><SPAN class="p12 ft3"><A href="#page_3">Inledning ...........................................................................................</A></SPAN> </TD>
+	<TD class="tr3 td6"><SPAN class="p13 ft3"><A href="#page_3">3</A></SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr4 td4"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr4 td7"><SPAN class="p11 ft3"><A href="#page_3">2</A></SPAN> </TD>
+	<TD colspan=2 class="tr4 td8"><SPAN class="p12 ft3"><A href="#page_3">Nordiskt samarbete under </A><NOBR><A href="#page_3">covid-19-pandemin .................................</A></NOBR></SPAN> </TD>
+	<TD class="tr4 td6"><SPAN class="p13 ft3"><A href="#page_3">3</A></SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr5 td4"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr5 td7"><SPAN class="p11 ft3"><A href="#page_4">3</A></SPAN> </TD>
+	<TD colspan=2 class="tr5 td8"><SPAN class="p12 ft3"><A href="#page_4">Nordiska ministerrådet......................................................................</A></SPAN> </TD>
+	<TD class="tr5 td6"><SPAN class="p13 ft3"><A href="#page_4">4</A></SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr6 td4"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr6 td7"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr6 td9"><SPAN class="p12 ft3"><A href="#page_5">3.1</A></SPAN> </TD>
+	<TD class="tr6 td10"><SPAN class="p14 ft3"><A href="#page_5">Verksamhet under samarbetsministrarna............................</A></SPAN> </TD>
+	<TD class="tr6 td6"><SPAN class="p13 ft3"><A href="#page_5">5</A></SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr6 td4"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr6 td7"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr6 td9"><SPAN class="p12 ft3"><A href="#page_9">3.2</A></SPAN> </TD>
+	<TD class="tr6 td10"><SPAN class="p14 ft3"><A href="#page_9">Gränshinderrådet ................................................................</A></SPAN> </TD>
+	<TD class="tr6 td6"><SPAN class="p13 ft3"><A href="#page_9">9</A></SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr7 td4"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr7 td7"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr7 td9"><SPAN class="p12 ft3"><A href="#page_10">3.3</A></SPAN> </TD>
+	<TD class="tr7 td10"><SPAN class="p14 ft3"><A href="#page_10">Ministerrådet för forskning och utbildning ......................</A></SPAN> </TD>
+	<TD class="tr7 td6"><SPAN class="p15 ft3"><A href="#page_10">10</A></SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr6 td4"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr6 td7"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr6 td9"><SPAN class="p12 ft3"><A href="#page_10">3.4</A></SPAN> </TD>
+	<TD class="tr6 td10"><SPAN class="p14 ft3"><A href="#page_10">Ministerrådet för kultur ....................................................</A></SPAN> </TD>
+	<TD class="tr6 td6"><SPAN class="p15 ft3"><A href="#page_10">10</A></SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr6 td4"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr6 td7"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr6 td9"><SPAN class="p12 ft3"><A href="#page_11">3.5</A></SPAN> </TD>
+	<TD class="tr6 td10"><SPAN class="p14 ft3"><A href="#page_11">Ministerrådet för hållbar tillväxt ......................................</A></SPAN> </TD>
+	<TD class="tr6 td6"><SPAN class="p15 ft3"><A href="#page_11">11</A></SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr7 td4"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr7 td7"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr7 td9"><SPAN class="p12 ft3"><A href="#page_13">3.6</A></SPAN> </TD>
+	<TD class="tr7 td10"><SPAN class="p14 ft3"><A href="#page_13">Ministerrådet för miljö och klimat ...................................</A></SPAN> </TD>
+	<TD class="tr7 td6"><SPAN class="p15 ft3"><A href="#page_13">13</A></SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr6 td4"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr6 td7"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr6 td9"><SPAN class="p12 ft3"><A href="#page_14">3.7</A></SPAN> </TD>
+	<TD class="tr6 td10"><SPAN class="p14 ft3"><A href="#page_14">Ministerrådet för fiskeri och vattenbruk, jordbruk,</A></SPAN> </TD>
+	<TD class="tr6 td6"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr6 td4"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr6 td7"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr6 td9"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr6 td10"><SPAN class="p14 ft3"><A href="#page_14">livsmedel och skogsbruk ..................................................</A></SPAN> </TD>
+	<TD class="tr6 td6"><SPAN class="p15 ft3"><A href="#page_14">14</A></SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr7 td4"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr7 td7"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr7 td9"><SPAN class="p12 ft3"><A href="#page_15">3.8</A></SPAN> </TD>
+	<TD class="tr7 td10"><SPAN class="p14 ft3"><A href="#page_15">Ministerrådet för social- och hälsopolitik.........................</A></SPAN> </TD>
+	<TD class="tr7 td6"><SPAN class="p15 ft3"><A href="#page_15">15</A></SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr6 td4"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr6 td7"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr6 td9"><SPAN class="p12 ft3"><A href="#page_16">3.9</A></SPAN> </TD>
+	<TD class="tr6 td10"><SPAN class="p14 ft3"><A href="#page_16">Ministerrådet för arbetsliv ................................................</A></SPAN> </TD>
+	<TD class="tr6 td6"><SPAN class="p15 ft3"><A href="#page_16">16</A></SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr6 td4"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr6 td7"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr6 td9"><SPAN class="p12 ft3"><A href="#page_17">3.10</A></SPAN> </TD>
+	<TD class="tr6 td10"><SPAN class="p14 ft3"><A href="#page_17">Ministerrådet för jämställdhet och LGBTI.......................</A></SPAN> </TD>
+	<TD class="tr6 td6"><SPAN class="p15 ft3"><A href="#page_17">17</A></SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr7 td4"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr7 td7"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr7 td9"><SPAN class="p12 ft3"><A href="#page_18">3.11</A></SPAN> </TD>
+	<TD class="tr7 td10"><SPAN class="p14 ft3"><A href="#page_18">Ministerrådet för digitalisering.........................................</A></SPAN> </TD>
+	<TD class="tr7 td6"><SPAN class="p15 ft3"><A href="#page_18">18</A></SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr6 td4"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr6 td7"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr6 td9"><SPAN class="p12 ft3"><A href="#page_18">3.12</A></SPAN> </TD>
+	<TD class="tr6 td10"><SPAN class="p14 ft3"><A href="#page_18">Ministerrådet för ekonomi- och finanspolitik...................</A></SPAN> </TD>
+	<TD class="tr6 td6"><SPAN class="p15 ft3"><A href="#page_18">18</A></SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr8 td4"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr8 td7"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr8 td9"><SPAN class="p12 ft3"><A href="#page_19">3.13</A></SPAN> </TD>
+	<TD class="tr8 td10"><SPAN class="p14 ft3"><A href="#page_19">Ministerrådet för justitiefrågor .........................................</A></SPAN> </TD>
+	<TD class="tr8 td6"><SPAN class="p15 ft3"><A href="#page_19">19</A></SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr9 td4"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr9 td7"><SPAN class="p11 ft3"><A href="#page_19">4</A></SPAN> </TD>
+	<TD colspan=2 class="tr9 td8"><SPAN class="p12 ft3"><A href="#page_19">Nordiskt samarbete på transportrespektive</A></SPAN> </TD>
+	<TD class="tr9 td6"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr8 td4"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr8 td7"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD colspan=2 class="tr8 td8"><SPAN class="p12 ft3"><A href="#page_19">infrastrukturområdena.....................................................................</A></SPAN> </TD>
+	<TD class="tr8 td6"><SPAN class="p15 ft3"><A href="#page_19">19</A></SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr5 td4"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr5 td7"><SPAN class="p11 ft3"><A href="#page_20">5</A></SPAN> </TD>
+	<TD colspan=2 class="tr5 td8"><SPAN class="p12 ft3"><A href="#page_20">Nordiskt utrikes- och säkerhetspolitiskt samarbete.........................</A></SPAN> </TD>
+	<TD class="tr5 td6"><SPAN class="p15 ft3"><A href="#page_20">20</A></SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr5 td4"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr5 td7"><SPAN class="p11 ft3"><A href="#page_21">6</A></SPAN> </TD>
+	<TD colspan=2 class="tr5 td8"><SPAN class="p12 ft3"><A href="#page_21">Nordiskt samarbete inom försvar och samhällets</A></SPAN> </TD>
+	<TD class="tr5 td6"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr6 td4"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr6 td7"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD colspan=2 class="tr6 td8"><SPAN class="p12 ft3"><A href="#page_21">krisberedskap ..................................................................................</A></SPAN> </TD>
+	<TD class="tr6 td6"><SPAN class="p15 ft3"><A href="#page_21">21</A></SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr6 td4"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr6 td7"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr6 td9"><SPAN class="p12 ft3"><A href="#page_21">6.1</A></SPAN> </TD>
+	<TD class="tr6 td10"><SPAN class="p14 ft3"><A href="#page_21">Nordiskt försvarssamarbete..............................................</A></SPAN> </TD>
+	<TD class="tr6 td6"><SPAN class="p15 ft3"><A href="#page_21">21</A></SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr8 td4"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr8 td7"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr8 td9"><SPAN class="p12 ft3"><A href="#page_21">6.2</A></SPAN> </TD>
+	<TD class="tr8 td10"><SPAN class="p14 ft3"><A href="#page_21">Nordiskt samarbete om samhällets krisberedskap............</A></SPAN> </TD>
+	<TD class="tr8 td6"><SPAN class="p15 ft3"><A href="#page_21">21</A></SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr10 td4"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr10 td7"><SPAN class="p11 ft3"><A href="#page_22">7</A></SPAN> </TD>
+	<TD colspan=2 class="tr10 td8"><SPAN class="p12 ft3"><A href="#page_22">Bilateralt nordiskt samarbete ..........................................................</A></SPAN> </TD>
+	<TD class="tr10 td6"><SPAN class="p15 ft3"><A href="#page_22">22</A></SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr6 td4"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr6 td7"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr6 td9"><SPAN class="p12 ft3"><A href="#page_22">7.1</A></SPAN> </TD>
+	<TD class="tr6 td10"><SPAN class="p14 ft3"><A href="#page_22">Finland..............................................................................</A></SPAN> </TD>
+	<TD class="tr6 td6"><SPAN class="p15 ft3"><A href="#page_22">22</A></SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr6 td4"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr6 td7"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr6 td9"><SPAN class="p12 ft3"><A href="#page_23">7.2</A></SPAN> </TD>
+	<TD class="tr6 td10"><SPAN class="p14 ft3"><A href="#page_23">Norge................................................................................</A></SPAN> </TD>
+	<TD class="tr6 td6"><SPAN class="p15 ft3"><A href="#page_23">23</A></SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr7 td4"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr7 td7"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr7 td9"><SPAN class="p12 ft3"><A href="#page_24">7.3</A></SPAN> </TD>
+	<TD class="tr7 td10"><SPAN class="p14 ft3"><A href="#page_24">Danmark...........................................................................</A></SPAN> </TD>
+	<TD class="tr7 td6"><SPAN class="p15 ft3"><A href="#page_24">24</A></SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr8 td4"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr8 td7"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr8 td9"><SPAN class="p12 ft3"><A href="#page_25">7.4</A></SPAN> </TD>
+	<TD class="tr8 td10"><SPAN class="p14 ft3"><A href="#page_25">Island................................................................................</A></SPAN> </TD>
+	<TD class="tr8 td6"><SPAN class="p15 ft3"><A href="#page_25">25</A></SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr9 td4"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr9 td7"><SPAN class="p11 ft3"><A href="#page_25">8</A></SPAN> </TD>
+	<TD colspan=2 class="tr9 td8"><SPAN class="p12 ft3"><A href="#page_25">Nordområdessamarbetet .................................................................</A></SPAN> </TD>
+	<TD class="tr9 td6"><SPAN class="p15 ft3"><A href="#page_25">25</A></SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr6 td4"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr6 td7"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr6 td9"><SPAN class="p12 ft3"><A href="#page_25">8.1</A></SPAN> </TD>
+	<TD class="tr6 td10"><SPAN class="p14 ft3"><A href="#page_25">Arktis................................................................................</A></SPAN> </TD>
+	<TD class="tr6 td6"><SPAN class="p15 ft3"><A href="#page_25">25</A></SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr8 td4"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr8 td7"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr8 td9"><SPAN class="p12 ft3"><A href="#page_26">8.2</A></SPAN> </TD>
+	<TD class="tr8 td10"><SPAN class="p14 ft3"><A href="#page_26">Barents..............................................................................</A></SPAN> </TD>
+	<TD class="tr8 td6"><SPAN class="p15 ft3"><A href="#page_26">26</A></SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr5 td4"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD colspan=3 class="tr5 td5"><SPAN class="p11 ft3"><A href="#page_27">Utdrag ur protokoll vid regeringssammanträde den 7 april 2022 ...........</A></SPAN> </TD>
+	<TD class="tr5 td6"><SPAN class="p15 ft3"><A href="#page_27">27</A></SPAN> </TD>
+</TR>
+</TABLE>
+<P class="p16 ft1">1</P>
+<P class="p17 ft3">2</P>
+</DIV>
+<DIV id="page_3">
+
+
+<TABLE cellpadding=0 cellspacing=0 class="t2">
+<TR>
+	<TD class="tr11 td11"><SPAN class="p18 ft1">2</SPAN> </TD>
+	<TD class="tr11 td12"><SPAN class="p19 ft1">Inledning</SPAN> </TD>
+	<TD class="tr11 td13"><SPAN class="p3 ft3">Skr. 2021/22:90</SPAN> </TD>
+</TR>
+</TABLE>
+<P class="p20 ft8">Under 2021 fortsatte regeringen att prioritera det nordiska samarbetet högt. <NOBR>Covid-19-pandemin</NOBR> har visat att det nordiska samarbetet fortsätter vara angeläget, men också att samarbetet behöver stärkas på vissa områden.</P>
+<P class="p21 ft3">Att försöka minimera pandemins negativa konsekvenser i gränsregionerna fortsatte att vara en viktig fråga för regeringen under 2021. Sverige tog en aktiv roll i arbetet för ett stärkt samarbete i frågor som påverkar mobiliteten i de nordiska gränsregionerna, även i kristider. Målet är att det ska bli lättare att flytta, pendla, studera, arbeta och driva företag över de nordiska gränserna.</P>
+<P class="p21 ft3">De nordiska ländernas officiella samarbete styrs av en gemensam vision som kallas Vår vision 2030 och som antogs av de nordiska statsministrarna 2019. Visionen slår fast att Norden ska vara världens mest hållbara och integrerade region år 2030. Under perioden <NOBR>2021–2024</NOBR> är visionsarbetet inriktat på satsningar under de tre strategiska prioriteringarna om ett grönt, konkurrenskraftigt och socialt hållbart Norden. Satsningarna stakas ut i en gemensam handlingsplan.</P>
+<P class="p22 ft5">Skrivelsen omfattar verksamhet för helåret 2021 och beaktar händelser fram till 31 december 2021.</P>
+<P class="p23 ft10"><SPAN class="ft1">3</SPAN><SPAN class="ft9">Nordiskt samarbete under </SPAN><NOBR>covid-19-</NOBR> pandemin</P>
+<P class="p24 ft8">Under 2021, liksom föregående år, präglades de nordiska samhällena och samarbetet av <NOBR>covid-19-pandemin.</NOBR> Den fria rörligheten i de nordiska gränsregionerna påverkades av de åtgärder som vidtogs för att bromsa smittspridningen.</P>
+<P class="p21 ft3">I början av året hade samtliga nordiska länder infört inreserestriktioner i någon form och rapportering från de gränsregionala informationstjänsterna visade på flera störningar i den fria rörligheten. Under årets första månader rådde stundtals stora svårigheter för människor och företag som lever och verkar över de nordiska gränserna. Under våren och sommaren minskade restriktionerna i takt med den ökande vaccinationsgraden. Regeringen prioriterade att underlätta för resande inom Norden. Den 31 maj lyftes då gällande inreserestriktioner mot de nordiska länderna. I slutet av året spreds <NOBR>Omikron-varianten</NOBR> snabbt. Den 21 december återinförde regeringen inreserestriktioner, med resultatet att resenärer från Danmark, Finland, Island och Norge till Sverige omfattades av samma krav som inresande från övriga <NOBR>EES-stater.</NOBR> Den 28 december infördes testkrav. Regeringen beslutade också om vissa undantag i syfte att underlätta för gränsregionerna, bl.a. som ett resultat av dialog mellan samarbetsministrarna.</P>
+<P class="p25 ft5">Under 2021 fortsatte Sverige att verka för ett stärkt samarbete i syfte att förebygga och mildra negativa konsekvenser av kriser, inte minst för dem som delar sin vardag mellan nordiska länder.</P>
+<P class="p26 ft3">3</P>
+</DIV>
+<DIV id="page_4">
+
+
+<P class="p27 ft11">Skr. 2021/22:90 <NOBR>Covid-19-pandemin</NOBR> är inte över, men de nordiska länderna är överens om att det redan nu finns flera viktiga lärdomar att dra. Pandemin har varit en påminnelse om de nordiska ländernas ömsesidiga beroende och vikten av nära samarbete, även under kristider. En gemensam målsättning är att de nordiska länderna ska stå bättre rustade inför nästa kris. Under året inleddes därför ett brett utredningsarbete för att identifiera hur det nordiska samarbetet bör stärkas. Hur det nordiska samarbetet har påverkats av inreserestriktioner och hur samarbetet i kristider kan stärkas har granskats i särskilda utredningar som beskrivs närmare under avsnitt 3.1.</P>
+<P class="p28 ft3">De nordiska statsministrarna tog initiativ till närmare samarbete inom försörjningstrygghet och beredskap, ett område som stod i fokus under det finländska ordförandeskapet i Nordiska ministerrådet. Vid det nordiska statsministermötet i Köpenhamn i början av november antogs en gemensam deklaration som betonar vikten av att fördjupa samarbetet inom försörjningstrygghet och beredskap. En kartläggning av det nordiska samarbetet inom försörjningstrygghet- och beredskapsområdet väntas bli färdigställd under 2022. Kartläggningen ska även utreda potential för framtida samarbete.</P>
+<P class="p29 ft3">Under året har Anna Hallberg, minister med ansvar för Nordiska frågor, haft många samtal och möten med företrädare för gränsregionerna som på olika sätt påverkats av restriktionerna och deltagit i flera debatter och panelsamtal om både gränshinder och mer långsiktiga konsekvenser som <NOBR>covid-19-pandemin</NOBR> kan få för det nordiska samarbetet. Anna Hallberg deltog den 16 mars vid en särskild debatt om gränshinder i riksdagen och den 30 juni vid Nordiska rådets temasession som fokuserade på hanteringen av <NOBR>covid-19-pandemin.</NOBR> Statsråden Anna Hallberg, som även ersatte statsministern, och Per Bolund deltog också vid Nordiska rådets session i Köpenhamn den <NOBR>1–4</NOBR> november. Temat för årets session var: vad kan Norden lära av <NOBR>covid-19-krisen</NOBR> och hur kan samarbetet stärkas framöver?</P>
+<P class="p30 ft1">4 Nordiska ministerrådet</P>
+<P class="p31 ft8">Nordiska ministerrådet är de nordiska regeringarnas officiella samarbetsorgan. Under 2021 firade Nordiska ministerrådet 50- årsjubileum, vilket uppmärksammades genom fem digitala debatter på Nordens dag den 23 mars.</P>
+<P class="p32 ft3">Ordförandeskapet i Nordiska ministerrådet roterar mellan de fem nordiska länderna. Under 2021 var Finland ordförande. Finlands ordförandeskapsprogram tog avstamp i visionen om att Norden ska vara världens mest hållbara och integrerade region 2030. Programmet fokuserade på att skapa ett grönare, mer konkurrenskraftigt och socialt hållbart Norden. I ljuset av de utmaningar Norden har ställts inför under <NOBR>covid-19-pandemin</NOBR> prioriterade det finländska ordförandeskapet också samarbete inom försörjningstrygghet- och beredskap.</P>
+<P class="p33 ft8">Vid klimattoppmötet i Glasgow (COP26) anordnade Nordiska ministerrådet en nordisk paviljong, med flera uppmärksammade</P>
+<P class="p34 ft3"><SPAN class="ft12">4</SPAN><SPAN style="padding-left:106px;">arrangemang.</SPAN></P>
+</DIV>
+<DIV id="page_5">
+
+
+<DIV id="id_1">
+<TABLE cellpadding=0 cellspacing=0 class="t3">
+<TR>
+	<TD class="tr12 td14"><SPAN class="p35 ft13">4.1</SPAN> </TD>
+	<TD class="tr12 td15"><SPAN class="p36 ft13">Verksamhet under samarbetsministrarna</SPAN> </TD>
+	<TD class="tr12 td13"><SPAN class="p3 ft3">Skr. 2021/22:90</SPAN> </TD>
+</TR>
+</TABLE>
+<P class="p37 ft8">De nordiska samarbetsministrarna leder arbetet inom Nordiska ministerrådet på uppdrag av statsministrarna. Samarbetsministrarna ansvarar för övergripande politiska prioriteringar, budgetfördelning och några andra viktiga frågor som beskrivs i det här avsnittet.</P>
+<P class="p38 ft14">Samarbetsministrarnas verksamhetsår</P>
+<P class="p39 ft8">Samarbetsministrarna möttes fem gånger under året: digitalt den 11 februari och 29 april, genom hybridmöten i Borgå den 22 juni och i Mariehamn den <NOBR>13–14</NOBR> september samt fysiskt den 1 november under Nordiska rådets sessionsvecka i Köpenhamn.</P>
+<P class="p40 ft3">Nordiskt samarbete i krissituationer var en återkommande punkt på dagordningen vid samarbetsministrarnas möten. Samarbetsministrarna fortsatte att ta emot information om störningar i den fria rörligheten som uppkommit på grund av <NOBR>covid-19</NOBR> och diskuterade hur det nordiska samarbetet kan värnas bättre i kristider. Sverige prioriterade det gränsregionala perspektivet och drev, som regeringen gjort sedan inledningen av pandemin, på för bättre koordinering vid beslut som påverkar rörligheten över de nordiska gränserna. Sverige arbetade också fortsatt för att tydliggöra samarbetsministrarnas ansvar och roll att värna det nordiska perspektivet när nationella beslut som påverka gränsregioner fattas.</P>
+<P class="p41 ft3">Ett av de finländska ordförandeskapsprojekten under året var ett projekt där Utrikespolitiska institutet i Finland fick i uppdrag att undersöka konsekvenserna av de reserestriktioner som införts under pandemin. Forskningsprojektets slutrapport publicerades den 30 november. Samarbetsministrarna tillsatte även en strategisk genomlysning för att tillvarata lärdomar av <NOBR>covid-19-pandemin,</NOBR> stärka samverkan under kristider och värna integrationen i Norden. Utredningen, som genomfördes av den finländske politikern <NOBR>Jan-Erik</NOBR> Enestam, publicerades den 15 november. Under året beslutade samarbetsministrarna även att finansiera en av ordförandeskapet initierad kartläggning av det nordiska samarbetet vad gäller krisberedskap och försörjningstrygghet och hur detta samarbete kan stärkas. Kartläggningen kommer att presenteras under våren 2022.</P>
+<P class="p42 ft3">Visionen att Norden ska vara världens mest hållbara och integrerade region 2030 ligger fast och samarbetsministrarna har under året fortsatt sitt uppdrag från statsministrarna att leda arbetet och med att förverkliga visionen och styra Nordiska ministerrådets verksamhet mot visionen. Utmaningarna under pandemin har tydliggjort hur viktigt det är att ta konkreta steg och göra prioriteringar för att kunna leverera på visionen och dess tre strategiska prioriteringar – ett grönt, ett konkurrenskraftigt och ett socialt hållbart Norden. Detta behövs även för att svara upp mot nordbornas förväntningar på det nordiska samarbetet.</P>
+<P class="p43 ft8">Under året beslutades om en fortsatt omfördelning av Nordiska ministerrådets budget inför 2022 i syfte att styra verksamheten mot visionen och uppnå en jämnare fördelning mellan aktiviteter som hänför sig visionens tre strategiska prioriteringar. Detta innebär att satsningar</P>
+</DIV>
+<DIV id="id_2">
+<DIV id="id_2_1">
+<P class="p44 ft3">under prioriteringen ”ett grönt Norden” kommer att tilldelas mer medel än</P>
+</DIV>
+<DIV id="id_2_2">
+<P class="p44 ft3">5</P>
+</DIV>
+</DIV>
+</DIV>
+<DIV id="page_6">
+
+
+<P class="p45 ft8">Skr. 2021/22:90 tidigare. Ministerrådet för miljö och klimat, tillsammans med flera andra sektorer som arbetar med gröna satsningar är i gång med projekt i linje med handlingsplanen för visionen för <NOBR>2021–2024.</NOBR></P>
+<P class="p32 ft3">För Sverige är det prioriterat att säkerställa att arbetet med visionen leder till önskade resultat och för detta krävs att fortsatta steg tas för att styra Nordiska ministerrådets verksamhet och budget mot visionen. En halvtidsutvärdering av handlingsplanen för att nå visionen kommer att äga rum under 2022.</P>
+<P class="p32 ft3">Under året genomfördes en organisationsöversyn av sekretariatet, med syfte att optimera arbetet med visionen för det nordiska samarbetet och handlingsplanen för perioden <NOBR>2021–24.</NOBR> En rapport från en självständig arbetsgrupp, vars medlemmar har lång erfarenhet från det nordiska samarbetet, presenterades i slutet av augusti. Förslag från rapporten, bl.a. inrättande av tematiska tvärsektoriella arbetsgrupper för att effektivisera visionsarbetet och organisatoriska åtgärder för att stärka ledningsstrukturen, kommer att genomföras under 2022.</P>
+<P class="p33 ft3">Nordiska ministerrådets samverkan med civilsamhället stärktes under 2021 genom tre initiativ från samarbetsministrarna. I syfte att säkerställa målinriktad och koordinerad delaktighet av civilsamhället lanserades ett civilsamhällesnätverk med ett <NOBR>40-tal</NOBR> deltagande organisationer från hela Norden. I syfte att ge en öppen möjlighet för civilsamhället, näringsliv och andra aktörer i Norden att yttra sig kring Nordiska ministerrådets arbete lanserades en digital portal för offentliga konsultationer. Slutligen lanserades stödprogram som ska ge civilsamhällets aktörer möjlighet att söka medel för att mötas över gränserna.</P>
+<P class="p46 ft3">Under året vidtogs åtgärder för att komma till rätta med problem i Nordiska ministerrådets ekonomihantering. Att säkerställa en korrekt ekonomihantering är en grundläggande förutsättning för verksamheten och därmed högt prioriterat för Sverige. Samarbetsministrarna ställde flera krav på sekretariatet, bl.a. på nyanställningar, ett tillfälligt stopp för nya kontrakt och förbättrade interna rutiner, och bjöd också återkommande in den danska Rigsrevisionen, som granskar ministerrådets sekretariat i Köpenhamn, till sina möten för att få deras bedömning av utvecklingen. De krav som ställdes uppfylldes under årets gång och danska Rigsrevisionen kunde konstatera att framsteg gjorts. Arbetet med att förbättra ekonomiadministrationen är dock långsiktigt. I slutet av året upprättades en handlingsplan för att svara upp mot de kritikpunkter danska Rigsrevisionen haft i sin revidering av Nordiska ministerrådets årsräkenskaper för 2020.</P>
+<P class="p47 ft14">Nordiskt genomförande av Agenda 2030</P>
+<P class="p48 ft8">Statsministrarnas vision om att Norden ska vara världens mest hållbara och integrerade region år 2030 är den nordiska samarbetsramen för arbetet med hållbar utveckling. Arbetet med visionen bidrar till genomförandet av Förenta nationernas (FN) Agenda 2030 och de globala målen för hållbar utveckling. Agendan omfattar samtliga tre dimensioner av hållbar utveckling: den ekonomiska, den sociala och den miljömässiga. Den nordiska expertgruppen för hållbar utveckling ska säkerställa en tydlig</P>
+<P class="p49 ft3">6</P>
+</DIV>
+<DIV id="page_7">
+
+
+<P class="p50 ft8">koppling mellan arbetet med hållbar utveckling i Norden samt Agenda Skr. 2021/22:90 2030 och de globala målen för hållbar utveckling.</P>
+<P class="p51 ft3">Den nordiska expertgruppen för hållbar utveckling fokuserade under året på att dela lärdomar och erfarenheter från respektive lands arbete med att genomföra Agenda 2030. Under året fortsatte expertgruppen även att bidra till arbetet med visionen och handlingsplanen. I handlingsplanen finns en tydlig koppling till Agenda 2030 och de globala målen för hållbar utveckling.</P>
+<P class="p52 ft3">Expertgruppen tog fram rekommendationer för att stärka Nordiska ministerrådets arbete med visionen baserat på en utgångslägesrapport för Vår vision 2030. Expertgruppen fungerade som referensgrupp för det tvärsektoriella projektet ”Not Just a Green Transition” och en representant från expertgruppen var ordförande i programmet ”hållbara livsstilar i Norden”. Expertgruppen hade även ett nära samarbete med ungdomsrepresentanter som deltog i gruppens arbete under året.</P>
+<P class="p53 ft14">Internationellt samarbete och profilering av Norden</P>
+<P class="p54 ft8">Under 2021 fortsatte arbetet med att genomföra den uppdaterade strategin för <NOBR>2019–2021</NOBR> för internationell profilering och positionering av Norden. Strategin är en del av en långsiktig satsning på att systematisera och säkra en konsekvent profilering av Norden.</P>
+<P class="p51 ft3">Den huvudsakliga delen av profileringsarbetet sker inom ramen för podcasten Nordic Talks som syftar till att stödja visionen för det nordiska samarbetet. Nordic Talks har fått ökad relevans under pandemin, eftersom formatet lämpar sig väl att genomföra digitalt. Sedan starten 2020 har över 100 Nordic Talks events genomförts i 44 olika länder, med deltagande av 80 nordiska ambassader och fler än 200 andra nordiska aktörer.</P>
+<P class="p51 ft3">Under 2021 inkom totalt 99 ansökningar från utlandsmyndigheter och andra aktörer runt om i världen varav 23 beviljades stöd att genomföra ett Nordic Talk. Profileringsprojektet har också genomfört Nordic Talks med andra aktörer, exempelvis genomfördes 8 Nordic talks vid COP26 i Glasgow. För att öka räckvidden ytterligare finns Nordic Talks numera också tillgängliga som podcasts.</P>
+<P class="p55 ft3">Nordiska ministerrådets internationella samarbete i närområdet bedrivs i stor utsträckning genom kontoren i Estland, Lettland och Litauen. Kontoren arbetar bl.a. med att arrangera aktiviteter, administrera stödprogram och identifiera nya möjligheter för samarbete<SPAN class="ft15">. </SPAN>Kontoren fungerar också som företrädare och förespråkare för det nordiska samarbetet och visionen för det nordiska samarbetet.</P>
+<P class="p56 ft3">Nordiska ministerrådet ger också stöd till nordiska utlandsmyndigheter utanför Norden för att genomföra gemensamma projekt som främjar visionen och dess tre strategiska prioriteringar. Under 2021 utökades resurserna för detta ändamål och det inrättades en särskild budgetpost för samarbetet med utlandsmyndigheterna. Utställningen Sustainable chairs som togs fram av Nordiska ministerrådet under 2018 har från november 2021 visats upp på Sveriges paviljong på Expo 2020 i Dubai.</P>
+<P class="p51 ft3">Vid sitt möte den 22 juni beslutade de nordiska samarbetsministrarna att inrätta ett stödprogram med öppna ansökningsrundor för finansiering av <NOBR>Belarus-relaterade</NOBR> projekt som främjar en demokratisk utveckling i landet</P>
+<P class="p57 ft3">7</P>
+</DIV>
+<DIV id="page_8">
+
+
+<P class="p58 ft5">Skr. 2021/22:90 samt stöttar civilsamhället och oberoende media. Samarbetsministrarna beslutade att avsätta 1 miljon danska kronor till projektet.</P>
+<P class="p59 ft14">Nordiska barn- och ungdomskommittén</P>
+<P class="p60 ft3">Nordiska barn- och ungdomskommittén (Nordbuk) har under året fortsatt att prioritera genomförandet av den tvärsektoriella strategin för barn och unga i Norden <NOBR>2016–2022.</NOBR> För att stärka barnperspektivet i verksamheten kommer barnkonsekvensanalyser göras i ärenden som berör barn när de behandlas inom ministerrådet.</P>
+<P class="p61 ft3">Sverige har i Nordbuk representerats av generaldirektören för Myndigheten för ungdoms- och civilsamhällesfrågor, tillsammans med en ungdomsrepresentant utsedd av Landsrådet för Sveriges ungdomsorganisationer och en representant från Regeringskansliet. Nordbuk har beslutat att förstärka sin ungdomsrepresentation i kommittén och ändrat stadgarna så att även Färöarna, Grönland och Åland representeras av var sin ungdomsrepresentant.</P>
+<P class="p62 ft3">Kommittén har under året låtit ta fram barn- och ungdomsindikatorer för att kunna samla in och sprida kunskap om barns och ungas levnadsvillkor i Norden. Indikatorerna har under året fastställts och systemet består av 22 tematiska indikatorer och gör det möjligt att jämföra de olika ländernas levnadsvillkor.</P>
+<P class="p33 ft3">Nordbuks stödprogram Norden <NOBR>0–30</NOBR> riktar sig till barn och unga upp till 30 år och fördelar stöd till projekt, initiativ och nätverk av politisk, social eller kulturell karaktär, där de ungas engagemang står i fokus. Under året gjordes en analys gjorts av programmets tillgänglighet för målgruppen som visade att programmet fortfarande är relativt okänt för målgruppen. Nordbuks ambition är att det ska vara lätt att söka ifrån programmet och kännedomen om programmet behöver därför öka. Under 2021 har tre ansökningsomgångar hanterats och 47 ansökningar har inkommit. Totalt beviljades 23 projekt den sammanlagda summan på 593 891 euro. Sannolikt har antalet sökande begränsats av att pandemin gjort det svårt att träffas och planera projekt.</P>
+<P class="p63 ft8"><NOBR>Covid-19-pandemin</NOBR> har på många sätt påverkat barn och unga även i Norden. Under stora delar av pandemin fattades flera beslut i de nordiska länderna som i hög grad påverkade barn och ungas vardag. För att få en bild av hur det har fungerat och för att lära för framtiden har kommittén beslutat att finansiera ett projekt som i nära kommunikation med barn och unga kartlägger <NOBR>covid-19-pandemins</NOBR> konsekvenser. Projektet ska även analysera vilka lärdomar som göras avseende hur beslutsfattare bör kommunicera med barn och unga för att göra dem mer delaktiga. Projektet pågår till sommaren 2022.</P>
+<TABLE cellpadding=0 cellspacing=0 class="t4">
+<TR>
+	<TD class="tr13 td16"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr13 td17"><SPAN class="p64 ft14">Samarbetsprogrammet för integration av flyktingar och</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr5 td16"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr5 td17"><SPAN class="p64 ft14">invandrare</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr10 td16"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr10 td17"><SPAN class="p64 ft3">I december anordnade det finländska ordförandeskapet ett informellt möte</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr6 td16"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr6 td17"><SPAN class="p64 ft3">mellan nordiska ministrar med ansvar för integration. Senast ett informellt</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr6 td16"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr6 td17"><SPAN class="p64 ft3">ministermöte hölls i samma krets var 2017. Ett nytt samarbetsprogram för</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr8 td16"><SPAN class="p65 ft3">8</SPAN> </TD>
+	<TD class="tr8 td17"><SPAN class="p64 ft3">integration av flyktingar och invandrare togs fram under året. Programmet</SPAN> </TD>
+</TR>
+</TABLE>
+</DIV>
+<DIV id="page_9">
+
+
+<P class="p50 ft8">är anpassat för att bidra till uppfyllandet av visionen för det nordiska Skr. 2021/22:90 samarbetet och gäller för perioden <NOBR>2022–2024.</NOBR> Pandemins påverkan på</P>
+<P class="p66 ft5">integrationen på den nordiska arbetsmarknaden diskuterades vid två digitala tjänstepersonskonferenser, arrangerade av Sverige respektive Finland.</P>
+<P class="p67 ft13"><SPAN class="ft13">4.2</SPAN><SPAN class="ft16">Gränshinderrådet</SPAN></P>
+<P class="p68 ft8">Gränshinderrådet fortsatte sitt arbete i linje med mandatet från samarbetsministrarna för perioden <NOBR>2018–2021,</NOBR> med tillägg om att därutöver också stödja arbetet för att Norden ska bli världens mest hållbara och integrerade region år 2030.</P>
+<P class="p51 ft3">Liksom under 2020 kom dock gränshinderarbetet under inledningen av 2021 att i hög grad präglas av <NOBR>covid-19-pandemin.</NOBR> I nära samarbete med de gränsregionala informationstjänsterna lades mycket kraft på arbetet med att fortlöpande identifiera och uppmärksamma <NOBR>covid-19-relaterade</NOBR> störningar i den fria rörligheten till följd av de restriktioner som införts i de nordiska länderna. Drygt hälften av det <NOBR>100-tal</NOBR> <NOBR>covid-19-relaterade</NOBR> störningar som uppstått kunde lösas genom samverkan mellan myndigheter och departement på nordisk nivå, exempelvis frågor kopplade till socialförsäkring- och <NOBR>a-kassetillhörighet.</NOBR> En fråga som särskilt uppmärksammats och som även framöver kommer att vara en prioriterad fråga i gränshinderrådet är önskemålet om en modernisering av skatteavtalen mellan de nordiska länderna, inte minst vad gäller ökad flexibilitet vid hemarbete i Öresundavtalet. I takt med den allt högre vaccineringsgraden och färre nationella restriktioner kunde också många störningar lösas ut.</P>
+<P class="p55 ft3">Under 2021 bidrog gränshinderrådet till att 12 hinder hanterades: åtta blev helt eller delvis lösta och 4 avskrevs. Bland annat kan numera utländska fritidshusägare i Sverige ansöka om samordningsnummer. Flertalet av de avskrivna ärendena har koppling till socialförsäkringsfrågor som regleras genom <NOBR>EU-rätten.</NOBR></P>
+<P class="p69 ft8">Under året deltog företrädare för Gränshinderrådet i två möten med samarbetsministrarna för diskussion om bl.a. hur samarbetet mellan Gränshinderrådet och den politiska nivån kan stärkas och om viktiga ingångsvärden för det nya mandatet för Gränshinderrådet <NOBR>2022–2024.</NOBR></P>
+<P class="p51 ft3">Samarbetsministrarna fastställde i december 2021 Gränshinderrådets nya mandat som gäller <NOBR>2022–24</NOBR> och i samband med detta nominerade länderna också sina representanter. Sveriges representant är fortsatt tidigare riksdagsledamoten och landsbygdsministern <NOBR>Sven-Erik</NOBR> Bucht. Det nya mandatet innehåller bl.a. en tydligare koppling till visionen för det nordiska samarbetet och Gränshinderrådets roll i en krissituation. I kristider ska Gränshinderrådet på kort varsel samla information och uppmärksamma regeringarna på möjliga mobilitetsproblem som uppstår samt föreslå lösningar.</P>
+<P class="p70 ft3">9</P>
+</DIV>
+<DIV id="page_10">
+
+
+<DIV>
+<DIV id="id_1">
+<P class="p71 ft3">Skr. 2021/22:90</P>
+<P class="p72 ft3">10</P>
+</DIV>
+<DIV id="id_2">
+<P class="p44 ft13"><SPAN class="ft17">4.3</SPAN><SPAN class="ft18">Ministerrådet för forskning och utbildning</SPAN></P>
+<P class="p73 ft3">Ministerrådet för utbildning och forskning fokuserade under 2021 på arbetet med visionen för det nordiska samarbetet också i förhållande till de nedskärningar som ska göras inom sektorn fram till 2024. I enlighet med ministerrådets samarbetsprogram från 2019 fortsatte arbetet med att ta fram en ny språkdeklaration som planeras vara klar 2022. En reviderad version av Reykjavikdeklarationen togs fram och ska antas i början av 2022. Deklarationen handlar i korthet om att kvalifikationer för högre utbildning från ett nordiskt land erkänns i de andra nordiska länderna.</P>
+<P class="p74 ft3">Liksom i övriga sektorer innebar <NOBR>covid-19</NOBR> att en del möten fortsatt anordnades digitalt under början av året. Under hösten hölls både ministermöten och möten på tjänstepersonsnivå fysiskt. Flera av de projekt som fick skjutas på framtiden under 2020 kunde genomföras 2021, men några fick förlängas ytterligare.</P>
+<P class="p75 ft8">På ministernivå diskuterades social hållbarhet och hur forskningssamarbetet i Norden kan stärkas. På tjänstepersonsnivå beslutades att tillsätta en ad <NOBR>hoc-grupp</NOBR> som ska arbeta vidare med frågorna under 2022.</P>
+<P class="p76 ft3">Under 2021 presenterades också en utvärdering av Nordplus, som är ett utbytesprogram för elever, studenter och verksamma inom utbildningsväsendet i de nordiska och baltiska länderna. Utvärderingen konstaterade att Nordplusprogrammet fungerar väl och att det bidrar till stärkt samverkan och kunskapsutbyte inom Norden/Baltikum. Utvärderingen gav även förslag på tre olika strategier för framtiden som tar hänsyn till de aviserade budgetnedskärningarna och till hur programmet kan förhålla sig till <NOBR>Erasmus+-programmet.</NOBR> Utvärderingen kommer att användas som utgångspunkt för förberedelserna inför nästa programperiod för Nordplus som börjar 2023.</P>
+<P class="p77 ft13"><SPAN class="ft17">4.4</SPAN><SPAN class="ft18">Ministerrådet för kultur</SPAN></P>
+<P class="p78 ft3">Under 2021 blev pandemins effekter på det nordiska kultursamarbetet allt tydligare. Utbyten över gränserna är kännetecknande för kultursektorn och de nordiska ländernas reserestriktioner påverkade aktörerna negativt. Därtill innebar andra åtgärder för att bromsa smittspridningen att deltagande och utövande av kultur i respektive land begränsades kraftigt.</P>
+<P class="p74 ft3">Nordicom och Kulturanalys Norden, nordiska kunskapscentrum för medie- och kommunikationsområdet respektive kulturpolitik, presenterade under våren de uppdrag som Ministerrådet för kultur gett om pandemins konsekvenser. Nordicoms rapport visade bl.a. att intresset för mediernas innehåll ökat bland de nordiska medborgarna. De nordiska länderna ligger i framkant gällande digitaliseringen av nyhetsmedierna och denna utveckling stärktes ytterligare under pandemin. Samtidigt ökade dock ägarkoncentrationen av nyhetsmedierna, vilket riskerar att begränsa mångfalden i medieutbudet och det demokratiska samtalet. Kulturanalys Norden bekräftar bilden av att kultursektorn drabbades hårt av pandemin, i synnerhet de publiknära verksamheterna som rör musik och scenkonst. Effekterna på kulturlivet och åtgärderna såg liknande ut i de nordiska</P>
+</DIV>
+</DIV>
+</DIV>
+<DIV id="page_11">
+
+
+<P class="p50 ft8">länderna. Trots omfattande nationella stöd under pandemin finns en stor Skr. 2021/22:90 osäkerhet inför framtida arbetsmöjligheter och inkomstkällor i sektorn.</P>
+<P class="p79 ft8">Uppföljning av pandemins konsekvenser kommer att vara en prioriterad fråga även under 2022.</P>
+<P class="p51 ft3">Planeringen av den samnordiska kultursatsningen i Kanada 2022, Nordic Bridges, fortsatte under året. Fokusområden är konstnärlig innovation, tillgänglighet och inkludering, urfolksperspektivet samt resiliens och hållbarhet. Satsningen omfattar ett brett utbud av konst och kultur, festivaler, samtal och ett särskilt journalistikprojekt kopplat till miljö- och klimatfrågor. Under ledning av det finländska ordförandeskapet genomfördes under 2021 tre digitala dialoger mellan Norden och Kanada för tjänstepersoner och experter på tema kultur och hållbar utveckling, mångfald i digitalt innehåll samt kulturella och kreativa näringar/kulturexport.</P>
+<P class="p80 ft13"><SPAN class="ft13">4.5</SPAN><SPAN class="ft16">Ministerrådet för hållbar tillväxt</SPAN></P>
+<P class="p81 ft14">Närings- och innovationspolitik</P>
+<P class="p54 ft3">Det näringspolitiska arbetets övergripande mål är att bidra till hållbar tillväxt och ökad konkurrenskraft i samtliga nordiska regioner och att skapa ett effektivt samarbete i gemensamma näringspolitiska frågor. Under 2021 fortsatte genomförandet av visionsprojekten inom näringssektorn för åren <NOBR>2021–2024</NOBR> genom åtta handlingsplaner och referensgrupper. Arbetet tar sikte på att Norden ska vara ledande inom hållbar mineralproduktion, hållbar och konkurrenskraftig bygg- och bostadssektor, grön transport, cirkulära och hållbara affärsmodeller, digitalisering, AI och ansvarsfull användning av data, Life Science och hälsoteknik samt hållbar maritim ekonomi. Referensgrupperna arbetar i nära samarbete med den nordiska institutionen Nordic Innovation.</P>
+<P class="p55 ft5">Ett digitalt ministermöte ägde rum den 16 september 2021 med hållbar mineralproduktion och hållbar turism som huvudteman.</P>
+<P class="p51 ft8">Under 2021 stod Finland värd för ett nordiskt bostadsministermöte. Vid mötet diskuterades möjligheter för nordisk samverkan inom initiativet New European Bauhaus och andra <NOBR>EU-initiativ</NOBR> relaterade till bygg- och bostadsområdet. Vidare beslutades att arbetet mot en mer integrerad nordisk byggmarknad ska inriktas mot tre fokusområden under de kommande åren; klimatdeklarationer och livscykelanalys, cirkulärt byggande och digitalisering.</P>
+<P class="p82 ft14">Regionalpolitik</P>
+<P class="p54 ft3">Det regionalpolitiska arbetets övergripande mål är att bidra till hållbar tillväxt och ökad konkurrenskraft i samtliga nordiska regioner och att skapa ett effektivt samarbete i gemensamma regionala frågor. Under 2021 fortsatte genomförande av samarbetsprogrammet inom regionalsektorn för åren <NOBR>2021–2024</NOBR> med hjälp av tre arbetsgrupper utifrån huvudteman: Grön och inkluderande landsbygdsutveckling, grön och inkluderande stadsutveckling samt gröna, innovativa och resilienta regioner.</P>
+<P class="p83 ft3">11</P>
+</DIV>
+<DIV id="page_12">
+
+
+<P class="p84 ft8">Skr. 2021/22:90 Arbetsgrupperna arbetar i nära samarbete med den nordiska institutionen Nordregio.</P>
+<P class="p85 ft3">Ett digitalt ministermöte ägde rum den 16 september 2021 med multilokalitet som tema. Under året har det regionalpolitiska arbetet fokuserat på genomförande av sektorns inspel till handlingsplanen för att nå visionen för det nordiska samarbetet, det nya samarbetsprogrammet, gränskommittéernas arbete, den nordiska institutionen Nora, tvärsektoriella projekt, Nordregios strategi <NOBR>2021–2024</NOBR> och Vestnordenfonden.</P>
+<P class="p86 ft8">Nordregio forum är en årligen återkommande mötesplats för kunskaps- och erfarenhetsutbyte mellan tjänstepersoner, politiker och forskare i de nordiska länderna i frågor som rör hållbar regional tillväxt och utveckling. 2021 års forum ägde rum digitalt med den gröna omställningen och konsekvenserna av distansarbete som tema.</P>
+<P class="p87 ft14">Energi</P>
+<P class="p88 ft8">Den gemensamma nordiska elmarknaden samt energiforskning, förnybar energi och energieffektivisering utgjorde huvudsakliga fokusområden i samarbetsprogrammet för det nordiska energisamarbetet under perioden <NOBR>2018–2021.</NOBR></P>
+<P class="p85 ft3">Under 2021 antogs ett samarbetsprogram för åren <NOBR>2022–2024.</NOBR> Arbetet tog utgångspunkt i det hållbara energisystemets särskilda betydelse för grön omställning i Norden, vilket underströks av de nordiska energiministrarna vid det senaste ministermötet år 2020. På grund av pandemin hölls inget nordiskt energiministermöte under 2021.</P>
+<P class="p85 ft3">Det nordiska elmarknadssamarbetet fortsatte under året med inriktning på att uppfylla den vision som har fastställts för den nordiska elmarknaden: ”År 2030 ska Norden ha världens mest konkurrenskraftiga, innovativa och konsumentorienterade elmarknad, som bidrar till att nå de ambitiösa nordiska klimatmålen”. Elmarknadsforum, för dialog med elmarknadens aktörer, genomfördes som två digitala möten under 2021.</P>
+<P class="p89 ft3">Den samnordiska institutionen Nordisk Energiforskning fortsatte under 2021 sitt arbete med att ytterligare stärka det nordiska energiforskningssamarbetet genom att etablera nya nordiska forskningsprogram i samverkan med andra forskningsfinansiärer. Programmen berör bl.a. integrering av förnybar energi i energisystemet, förstärkt koppling mellan de nordiska ländernas energimarknader samt energi i transportsektorn.</P>
+<P class="p90 ft3">Arbetsgruppen för förnybar energi arbetade vidare med dialog mellan länderna om genomförande av <NOBR>EU-direktiv</NOBR> om förnybar energi och om stödsystem till förnybar energi. Nätverksgruppen för samarbete om teknik för koldioxidlagring arbetade under året med inriktning på vidareutvecklat kunskaps- och erfarenhetsutbyte mellan de nordiska länderna inom detta område.</P>
+<P class="p91 ft8">Myndighetsarbetsgruppen Nordsyn, där Sverige representeras av Energimyndigheten, fortsatte att utveckla sitt samarbete med inriktning på ekodesign (design för ökad energieffektivisering) och energimärkning avseende produkters energiförbrukning.</P>
+<P class="p92 ft3">12</P>
+</DIV>
+<DIV id="page_13">
+
+
+<TABLE cellpadding=0 cellspacing=0 class="t5">
+<TR>
+	<TD class="tr12 td14"><SPAN class="p35 ft13">4.6</SPAN> </TD>
+	<TD class="tr12 td15"><SPAN class="p36 ft13">Ministerrådet för miljö och klimat</SPAN> </TD>
+	<TD class="tr12 td13"><SPAN class="p3 ft3">Skr. 2021/22:90</SPAN> </TD>
+</TR>
+</TABLE>
+<P class="p93 ft3">Visionen att Norden ska vara världens mest hållbara och integrerade region år 2030 innebär ett ökat fokus på miljö och klimat som i sin tur ger ökade medel till Ministerrådet för miljö och klimat under perioden 2021– 2024. Under året arbetade sektorn med att starta upp och genomföra visionsprojekt om bland annat naturbaserade lösningar, marint skräp, textilier, offentlig upphandling och klimatomställning i Norden. Sverige leder samarbetet kring accelererad elektrifiering och hållbara godstransporter samt ett projekt om klimatomställning i näringslivet.</P>
+<P class="p94 ft3">Biologisk mångfald och höjda klimatambitioner stod i fokus på vårens miljö- och klimatministermöte som arrangerades digitalt den 12 maj. Ministrarna antog en deklaration om kopplingen mellan hav, klimat och biologisk mångfald och ett uttalande om höjd ambition inför klimatförhandlingarna i Glasgow (COP26). Ungdomsrepresentanter informerade om samarbete för att involvera unga i <NOBR>FN-förhandlingarna</NOBR> om biologisk mångfald. Ministrarna diskuterade också fortsatt samarbete för att främja en global överenskommelse för att minska plastnedskräpningen i havet.</P>
+<P class="p22 ft3">Höstens ministermöte hölls i Köpenhamn den 3 november. Ministrarna diskuterade bland annat hur de nordiska länderna gemensamt kunde driva på för ett ambitiöst utfall från COP26 och nordiskt samarbete om hållbart byggande. En deklaration antogs om vikten av ett globalt avtal om plastnedskräpning och ambitioner inför UNEA 5.2. Sverige informerade också om planerna för att involvera ungdomar i det <NOBR>FN-möte</NOBR> om miljö som hålls i Stockholm i juni 2022 (Stockholm +50), där Nordiska ministerrådet är en viktig partner. Sedvanligt hölls ett samrådsmöte med Nordiska rådets utskott för ett hållbart Norden där utskottet önskade diskutera dels sitt förslag om att inrätta en fond för ungdomars arbete med klimat och biologisk mångfald, dels klimatmål och höjda klimatambitioner.</P>
+<P class="p22 ft8">Arbetet med att genomföra samarbetsprogrammet för miljö och klimat <NOBR>2019–2024</NOBR> fortsatte också under 2021 inom ramen för sex fasta arbetsgrupper med myndighetsrepresentanter.</P>
+<P class="p21 ft3">Miljömärkningen Svanen hade under året stort fokus på cirkulära och klimatsmarta krav i sin kriterieutveckling, t.ex. för möbler, leksaker, utemiljö, tryckerier och trycksaker. Svanenmärkt byggande fortsätter att öka, antalet Svanenmärkta hus har tredubblats på tre år. I dag finns närmare 50 000 sådana lägenheter, hus, skolor och förskolor i Norden, varav merparten i Sverige. Allt fler inköp sker på nätet och klimatutsläppen från transporterna ökar. Svanen utvecklar nu krav för Svanenmärkta <NOBR>e-handelstransporter.</NOBR> Översynen av Svanens organisation och styrning fortsätter och beslut om reviderade riktlinjer planeras till våren 2022.</P>
+<P class="p95 ft3">13</P>
+</DIV>
+<DIV id="page_14">
+
+
+<DIV>
+<DIV id="id_1">
+<P class="p71 ft3">Skr. 2021/22:90</P>
+<P class="p72 ft3">14</P>
+</DIV>
+<DIV id="id_2">
+<P class="p96 ft20"><SPAN class="ft17">4.7</SPAN><SPAN class="ft19">Ministerrådet för fiskeri och vattenbruk, jordbruk, livsmedel och skogsbruk</SPAN></P>
+<P class="p97 ft3">Ministerrådet för fiskeri och vattenbruk, jordbruk, livsmedel och skogsbruk inledde under 2021 sitt arbete utifrån ett nytt samarbetsprogram. Samarbetsprogrammet fokuserar framför allt på hållbara livsmedelssystem, utvecklande av blå och grön bioekonomi och visionen för det nordiska samarbetet. Liksom tidigare genomfördes mycket arbete horisontellt mellan ministerrådets sektorer, t.ex. vad gäller bioekonomi. Det årliga ministermötet, där en huvudpunkt var förberedelserna inför FN:s möte om hållbara livsmedelssystem, fick mot bakgrund av <NOBR>covid-19-pandemin</NOBR> hållas digitalt, liksom samtliga möten på tjänstepersonsnivå.</P>
+<P class="p98 ft3">Byggnationen av nya lokaler till den nordiska institutionen NordGen i Alnarp har löpt på utan problem under året. Inflyttningen är dock försenad till februari/mars 2022. Trots utmaningar på grund av <NOBR>covid-19</NOBR> har arbetet med att minska den s.k. <NOBR>back-log</NOBR> i form av frödonationer i behov av vitalisering i stort gått enligt plan.</P>
+<P class="p74 ft8">Samarbetet om insatser för utvecklingen av rennäringen har fortsatt i linje med tidigare år. Förutom att följa effekterna av <NOBR>covid-19</NOBR> har projekt inom handlingsplanen fortsatt följts upp och diskuterats. Ett matchningsevent har också genomförts. Sverige har under året fortsatt gett stöd åt den vetenskapliga tidskriften Rangifer.</P>
+<P class="p99 ft14">Fiskeri och vattenbruk</P>
+<P class="p73 ft8">Samarbetet om insatser för utvecklingen av fiskeri och vattenbruk fortsatte i linje med tidigare år. Utgångpunkten för arbetet var fiskerinäringarnas utveckling och den blå bioekonomins bidrag till visionen. En stor del av fiskeriarbetet handlade om att följa effekterna av <NOBR>covid-19</NOBR> samt utvärderingen av organisationen av det nordiska fiskerisamarbetet. Inom ramen för handlingsplanen för att nå visionen fortsatte arbetet med att utveckla tvärsektoriella projekt mellan berörda ministerråd, t.ex. projekt för hälsosamma och hållbara livsmedelssystem och bioekonomi som drivkraft för tillväxt.</P>
+<P class="p100 ft14">Jord- och skogsbruk</P>
+<P class="p101 ft3"><NOBR>Covid-19-pandemins</NOBR> påverkan stod återkommande på dagordningen inom jord- och skogsbrukssamarbetet under 2021. Samarbetet fortsatte vad gäller att öka de gröna näringarnas motståndskraft mot kommande klimatförändringar. Visionen för det nordiska samarbetet och inspel till projekten som omfattas av handlingsplanen för genomförande av visionen var också en del av agendan.</P>
+<P class="p74 ft8">De nordiska samarbetsorganen Samnordisk skogsforskning och Nordiskt kontaktorgan for jordbruksforskning arbetade fortsatt intensivt med frågor inom klimat, miljö, digitalisering och jämställdhet. Nordiska samarbets- och nätverksprojekt mellan forskare påverkades av <NOBR>covid-19-</NOBR> pandemin, eftersom resor och fysiska möten inte kunnat utföras eller fått</P>
+</DIV>
+</DIV>
+</DIV>
+<DIV id="page_15">
+
+
+<P class="p50 ft8">ske digitalt. Under 2021 gjordes dock nya utlysningar till kortare och Skr. 2021/22:90 längre nätverksprojekt inom flera olika områden av nordiskt jord- och</P>
+<P class="p66 ft8">skogsbruk. En digital seminarie- och workshopserie om kolinlagring i jordbruks- och skogsmark utfördes. Serien publicerades även som korta informationsvideor. En större rapport om vildsvinen i Norden publicerades också.</P>
+<P class="p102 ft14">Livsmedel</P>
+<P class="p54 ft3">I juni arrangerade det finländska ordförandeskapet i Nordiska ministerrådet en nordisk dialog som förberedelse inför FN:s toppmöte om hållbara livsmedelssystem i september. Dialogen var digital och samlade drygt 90 deltagare från de nordiska länderna och de självstyrande områdena. Sex olika dialoger hölls, där nordiska lösningar utifrån olika perspektiv diskuterades: matsvinn, hållbar livsmedelskonsumtion, antibiotikaresistens och one health, hållbar användning av naturresurser, sociala aspekter och morgondagens perspektiv. Som en uppföljning på dialogen höll jordbruksministrarna under sitt nordiska ministermöte en politisk diskussion för att lyfta fram och stärka de nordiska ländernas gemensamma synpunkter inför toppmötet. Ministrarna gav sin syn på de nordiska livsmedelsystemens styrkor och utmaningar och på hur Norden genom att dela med sig av egna erfarenheter och visa upp nordiska lösningar kan stödja andra länder i deras arbete mot mer hållbara livsmedelssystem.</P>
+<P class="p103 ft8">Med hjälp av länderna arrangerade Nordiska ministerrådets sekretariat ett seminarium vid sidan av FN:s toppmöte om hållbara livsmedelssystem</P>
+<P class="p66 ft5"><SPAN class="ft3">–</SPAN><SPAN class="ft21">From science and guidelines to food system transformation – för att uppmärksamma hur vi i Norden arbetar och samarbetar kring dessa frågor.</SPAN></P>
+<P class="p53 ft13"><SPAN class="ft13">4.8</SPAN><SPAN class="ft16">Ministerrådet för social- och hälsopolitik</SPAN></P>
+<P class="p68 ft8">Under 2021 utarbetade Ministerrådet för social- och hälsopolitik ett nytt samarbetsprogram för <NOBR>2022–2024.</NOBR> Samarbetsprogrammet konkretiserar den tidigare framtagna handlingsplanen för att förverkliga visionen om att Norden ska vara världens mest hållbara och integrerade region år 2030.</P>
+<P class="p51 ft3">Sektorn för social- och hälsopolitik har deltagit i arbetet med att förverkliga visionen för det nordiska samarbetet och de strategiska prioriteringarna. Arbetet inom det svenska ordförandeskapsprojektet – Vård och omsorg på distans (VOPD) – avslutades under året. Projektet har fått stor uppmärksamhet och ett flertal nordiska ministrar deltog i en avslutande konferens för projektet. Projektet har bidragit till att utveckla innovativa lösningar för vård och omsorg på distans samt möjliggöra utbyte av <NOBR>e-recept</NOBR> över gränserna.</P>
+<P class="p55 ft8">Under året fattade de nordiska socialministrarna beslut om ett nytt uppföljande projekt om Integrerad vård och omsorg på distans som löper fram till 2024. Projektet bygger vidare på erfarenheterna från VOPD och bidrar till ökad tillgänglighet till välfärdstjänster i de nordiska länderna och självstyrande områdena, med särskilt fokus på glesbygdsområden. I</P>
+<P class="p104 ft3">15</P>
+</DIV>
+<DIV id="page_16">
+
+
+<P class="p84 ft3">Skr. 2021/22:90 projektet finns ett perspektiv om lärdomar från <NOBR>covid-19-pandemin</NOBR> inkluderat.</P>
+<P class="p105 ft3">Under året fortsatte arbetet med att starta upp förslagen i den genomlysning som gjorts av det nordiska samarbetet på det sociala området. Arbetet fokuserade bl.a. på brukarmedverkan och systematiskt samarbete om kunskap samt insatser som fungerar. Under hösten beslutades om ett tvärsektoriellt projekt i syfte att öka kunskapen i Norden om hur individer som vårdats för skadligt bruk eller beroendeproblematik framgångsrikt kan integreras på arbetsmarknaden.</P>
+<P class="p106 ft3">Under året beslutades om ett nytt mandat för Folkhälsoarenan 2021– 2023. År 2021 fokuserade arenan särskilt på att utbyta information, erfarenheter och lärande exempel inom området <NOBR>icke-smittsamma</NOBR> sjukdomar och hur dessa kan förebyggas, exempelvis genom fysisk aktivitet och hälsosamma matvanor.</P>
+<P class="p107 ft3">Den nordiska socialförsäkringsgruppen har under året haft kontakt i ett flertal socialförsäkringsfrågor som är av gemensamt intresse för de nordiska länderna. Syftet med arbetet är att underlätta rörligheten för migrerande personer och effektivt samordna socialförsäkringsskyddet. Aktuella frågor under året var uppdateringar i avtalet till den Nordiska konventionen om socialförsäkringar, garantipensioner, förhandlingarna i EU om förordning 883/2004 om samordning av de nationella trygghetssystemen för socialförsäkringar, erfarenhetsutbyte efter brexit, gränshinder och planerade åtgärder med anledning av pandemin.</P>
+<P class="p107 ft3">Den Nordiska medicinalstatistiska kommittén och Nordiska socialstatistikkommittén reformerade under året, under svenskt initiativ och projektledarskap, sina arbetssätt vad gäller insamling, bearbetning och publicering av jämförbar nordisk hälso- och socialstatistik. En ny webbplats för kommittéerna togs också fram.</P>
+<P class="p108 ft3">Initiativ togs för ett närmare samarbete med de baltiska länderna. Ett möte med högre tjänstepersoner inom hälso- och den sociala sektorn i de nordiska och baltiska länderna genomfördes under hösten. Syftet var att utvärdera tidigare samarbeten och diskutera nya samarbetsområden och projekt för de kommande åren. Mötet var en fortsättning på initiativ som togs under det svenska ordförandeskapet 2018.</P>
+<P class="p109 ft8">Statsrådet Lena Hallengren deltog vid två ministermöten i den nordiska kretsen som främst behandlade <NOBR>covid-19-pandemin,</NOBR> olika åtgärder i de nordiska länderna och erfarenheter av pandemin på hälso- och det sociala området. Statsrådet Ardalan Shekarabi deltog i det årliga nordiska ministermötet och talade på temat välfärdsekonomi</P>
+<P class="p110 ft13"><SPAN class="ft17">4.9</SPAN><SPAN class="ft18">Ministerrådet för arbetsliv</SPAN></P>
+<P class="p111 ft3">Under 2021 avslutades det fleråriga och omfattande forskningsprojektet om framtidens arbete som till stora delar finansierades av Ministerrådet för arbetsliv. Den 2 juni deltog de nordiska arbetsmarknadsministrarna i ett informellt virtuellt ministermöte där huvudkonklusionerna från projektet diskuterades tillsammans med rapportförfattarna. Under Nordiska rådets session i Köpenhamn redovisade Ministerrådet för arbetsliv resultatet från projektet.</P>
+<P class="p112 ft3">16</P>
+</DIV>
+<DIV id="page_17">
+
+
+<P class="p113 ft8">Den 23 november anordnades ett ministermöte i Helsingfors där Skr. 2021/22:90 arbetsmarknadsministrarna tillsammans med ILO:s generaldirektör Guy</P>
+<P class="p79 ft8">Ryder och representanter från arbetsmarknadens parter diskuterade plattformsarbete, psykisk hälsa i arbetslivet samt utmaningar på arbetsmarknaden under återhämtningsfasen av pandemin.</P>
+<P class="p51 ft3">Under 2021 antogs ett nytt samarbetsprogram för åren <NOBR>2022–2024.</NOBR> Det nya samarbetsprogrammet har anpassats för att bättre kunna bidra till uppfyllandet av visionen att Norden ska bli världens mest hållbara och integrerade region 2030.</P>
+<P class="p56 ft8">Under Finlands ordförandeskap i Nordiska ministerrådet anordnades flera hybridkonferenser med fokus på lönebildning och minimilöner, framtidens arbete kopplat till grön omställning samt möjligheter på arbetsmarknaden för personer med funktionsnedsättning.</P>
+<P class="p114 ft13"><SPAN class="ft17">4.10</SPAN><SPAN class="ft22">Ministerrådet för jämställdhet och LGBTI</SPAN></P>
+<P class="p115 ft8">Ministerrådet för jämställdhet och LGBTI fortsatte att under 2021 utveckla arbetet på såväl jämställdhetssom <NOBR>LBGTI-området.</NOBR> Den engelska förkortningen LGBTI används i nordiska sammanhang.</P>
+<P class="p51 ft3">På jämställdhetsområdet prioriterades frågor om hat, hot och trakasserier ur ett jämställdhetsperspektiv, pappor och föräldraledighet och jämställdhet i förskolan. Under temat våld mot kvinnor, med särskilt fokus på <NOBR>covid-19</NOBR> pandemin, samlades framför allt civilsamhällets organisationer vid en internationell konferens i Reykjavik. Vid det årliga mötet vid FN:s kvinnokommission lyfte de nordiska jämställdhetsministrarna särskilt fram frågan om ungas inflytande och mötte chefen för FN:s enhet för kvinnors rättigheter och egenmakt (UN Women). Ministerrådet för jämställdhet och LGBTI medverkade också i det tvärsektoriella projektet hållbarhet, livsstil och konsumtion med genusperspektiv.</P>
+<P class="p56 ft3">Det nordiska samarbetsorganet Nordisk information för kunskap om kön (NIKK) arbetade under 2021 bl.a. med en flerårig forskningssatsning om sexuella trakasserier i arbetslivet samt hållbarhet och jämställdhet inom framtidens högteknologiska arbetsliv. NIKK har i uppdrag att förmedla medel från Nordiska jämställdhetsfonden till nordiska samarbeten på jämställdhetsområdet. Under 2021 förmedlades för första gången även medel till samarbeten på <NOBR>LGBTI-området.</NOBR></P>
+<P class="p69 ft8">I likhet med 2020 tog de fem nordiska ministrarna med ansvar för jämställdhet- och <NOBR>LGBTI-rättigheter</NOBR> fram artiklar om utmaningar och rättigheter inom området. Under 2021 publicerade ministrarna två gemensamma artiklar i nordiska dagstidningar.</P>
+<P class="p51 ft3">På WorldPride i Köpenhamn i augusti medverkade de fem nordiska ministrarna på programpunkten Human Rights Forum och diskuterade unga <NOBR>LGBTI-personers</NOBR> livsvillkor i en nordisk debatt. Två rapporter publicerades om <NOBR>LGBTI-personers</NOBR> situation i Norden, närmare bestämt om livsvillkor bland unga <NOBR>LGBTI-personer</NOBR> respektive hatbrott.</P>
+<P class="p51 ft8">Under 2021 hölls två ministermöten. Ministrarna beslutade bl.a. om en treårig nordisk forskningssatsning om äldre <NOBR>LGBTI-personers</NOBR> livsvillkor, som ska genomföras i samverkan med Ministerrådet för social- och</P>
+<P class="p57 ft3">17</P>
+</DIV>
+<DIV id="page_18">
+
+
+<P class="p116 ft8">Skr. 2021/22:90 hälsopolitik. Därutöver beslutades om ett nordiskt åtagande att främja jämställdhet och miljö inom ramen för FN:s globala kampanj för att främja jämställdhet, Generation Equality. Ett arbete för att ta fram en handlingsplan för att motverka det växande internationella motståndet mot jämställdhet, <NOBR>LGBTI-personers</NOBR> och kvinnors rättigheter, inleddes också.</P>
+<P class="p110 ft13"><SPAN class="ft17">4.11</SPAN><SPAN class="ft22">Ministerrådet för digitalisering</SPAN></P>
+<P class="p117 ft3">Under 2021 fortsatte arbetet med att genomföra och implementera ministerdeklarationen Digital North 2.0, och i början av året antogs deklarationens färdplan för perioden <NOBR>2021–2024.</NOBR> Deklarationens syfte är att bidra till genomförandet av visionen för det nordiska samarbetet genom att bl.a. öka rörligheten och integrationen genom gemensamma gränsöverskridande digitala tjänster samt genom främjandet av grön ekonomisk tillväxt. Under 2021 fortsatte även arbetet med programmet för gränsöverskridande digitala tjänster <NOBR>(Cross-Border</NOBR> Digital Service Programme), där beslut kring en ny finansieringsmekanismen togs under hösten. Den s.k. öppna finansieringsmekanismen avser att stötta nya innovativa digitala samarbetsprojekt i den <NOBR>nordisk-baltiska</NOBR> regionen. Inom området för digital elektronisk kommunikation beslutades att mandatet för <NOBR>NOBID-projektet</NOBR> (Nordic Baltic Electronic Identification) ska utökas. Målsättningen med ett utökat mandat är att NOBID ska kunna agera plattform för samarbete och utbyte av goda exempel i ländernas arbete med EU:s förslag kring en digital plånbok.</P>
+<P class="p109 ft8">Under 2021 presenterades en slutrapport om gränsöverskridande dataflöden mellan de nordiska och baltiska länderna. En studie om digital inkludering initierades under hösten. Studien kommer att lägga grunden för utvecklingen av gemensamma insatser med syfte att stärka den digitala inkluderingen under de kommande fyra åren.</P>
+<P class="p85 ft3">Under året ägde två ministermöten rum: den 16 mars och den 26 november. Vid ministermötet i mars diskuterade regionens digitaliseringsministrar potentialen för ökat samarbete kring grön digital omställning. Diskussionen följdes upp vid ministermötet i november och digitaliseringsministrarna enades då om att <NOBR>Norden-Baltikum</NOBR> ska fokusera sitt arbete mot inrättandet av ett gemensamt datautrymme (Common Data Space) med syfte att stötta en grön digital omställning i regionen. Vid ministermötet den 26 november antog ministrarna även ett gemensamt uttalande om vikten av att främja digital inkludering som en central del i regionens digitala omställning.</P>
+<P class="p118 ft13"><SPAN class="ft17">4.12</SPAN><SPAN class="ft22">Ministerrådet för ekonomi- och finanspolitik</SPAN></P>
+<P class="p119 ft8">Under sommaren 2021 lanserades årets upplaga av tidskriften Nordic Economic Policy Review på temat bostadsmarknader och bostadspolitik i Norden, med artiklar om t.ex. husprisbubblor och beskattning av bostäder. Tidskriften ges ut årligen på initiativ av de nordiska finansministrarna i syfte att göra aktuell <NOBR>ekonomisk-politisk</NOBR> forskning mer tillgänglig för</P>
+<P class="p120 ft3">18</P>
+</DIV>
+<DIV id="page_19">
+
+
+<P class="p50 ft8">beslutsfattare och för att uppmuntra en bredare diskussion om Skr. 2021/22:90 gemensamma <NOBR>ekonomisk-politiska</NOBR> frågor.</P>
+<P class="p56 ft3">Inom ramen för arbetet med visionen för det nordiska samarbetet fortsätter Ministerrådet för ekonomi- och finanspolitik sitt arbete med ett fyraårigt tvärsektoriellt projekt om inkluderande ekonomisk tillväxt i den gröna omställningen. Insatsen fokuserar på hur en hållbar grön omställning till en klimatneutral ekonomi kan genomföras samtidigt som en inkluderande ekonomisk tillväxt kan åstadkommas utan ökande klyftor, bl.a. mellan stad och land. I december tog Ministerrådet för ekonomi- och finanspolitik även initiativ till ett projekt för erfarenhetsbyte i de nordiska länderna gällande att förbättra integrering av klimataspekter i ekonomiska modeller.</P>
+<P class="p80 ft13"><SPAN class="ft17">4.13</SPAN><SPAN class="ft22">Ministerrådet för justitiefrågor</SPAN></P>
+<P class="p68 ft3">De nordiska justitieministrarna samarbetar bl.a. för att motverka brottslighet och terrorism. Inom Ministerrådet för justitiefrågor hölls i juni ett möte mellan de nordiska ländernas justitieministrar. Det övergripande temat för årets möte var människohandel. Under mötet redogjorde EU- kommissionär Ylva Johansson för EU:s nya strategi mot människohandel. Ministrarna diskuterade även utmaningar i samband med lagstiftningsfrågor under <NOBR>covid-19-pandemin,</NOBR> svårigheter vid överförande av straffverkställighet till länder utanför Norden och EU, det nordiska polissamarbetet och arbetet mot sexuella övergrepp mot barn på internet.</P>
+<P class="p52 ft8">Inom Ministerrådet för justitiefrågor finansieras flera projekt bl.a. om familjer efter separation, högerextremism i Norden, överförande av straffverkställighet och bekämpande av människohandel.</P>
+<P class="p56 ft8">Vartannat år hålls vanligtvis ministermöten om rättsliga frågor inom ramen för det nordiska samarbetet med Baltikum. Sverige skulle ha stått värd för ett sådant möte under 2021, men på grund av utvecklingen av <NOBR>covid-19-pandemin</NOBR> ställdes mötet in.</P>
+<P class="p121 ft10"><SPAN class="ft1">5</SPAN><SPAN class="ft9">Nordiskt samarbete på transportrespektive infrastrukturområdena</SPAN></P>
+<P class="p122 ft3">Gränsöverskridande transporter har en stor betydelse både för tillväxt och tillgänglighet i de nordiska länderna. De gränsöverskridande transporterna mellan länderna gör det attraktivt att bo och arbeta över landsgränserna, och ska göra det möjligt att på ett hållbart sätt resa och transportera varor mellan våra länder. De nordiska transportministrarna har ett gott samarbete och möts i en rad olika sammanhang, bilateralt och i gemensamma projekt. Regeringen värnar det goda informella samarbetet.</P>
+<P class="p51 ft8">Under 2021 deltog infrastrukturminister Tomas Eneroth i bilaterala samtal om aktuella frågor med statsrådskollegor i Finland, Danmark och Norge. Statssekreterare Malin Cederfeldt Östberg hade samtal om gränsöverskridande transporter med sina norska respektive danska</P>
+<P class="p57 ft3">19</P>
+</DIV>
+<DIV id="page_20">
+
+
+<P class="p123 ft3">Skr. 2021/22:90 kollegor. I oktober deltog infrastrukturministern i ett möte mellan de nordiska transportministrarna om transportsektorns klimatomställning inför COP26. På Sveriges initiativ pågår också projekt mellan svenska myndigheter och andra nordiska aktörer om bl.a. accelererad elektrifiering av vägtransporter i Norden samt samverkan kring hållbara godstransporter.</P>
+<P class="p124 ft10"><SPAN class="ft1">6</SPAN><SPAN class="ft9">Nordiskt utrikes- och säkerhetspolitiskt samarbete</SPAN></P>
+<P class="p125 ft3">Under 2021 samordnade Finland det informella nordiska utrikes- och säkerhetspolitiska samarbetet som leds av de nordiska utrikesministrarna (N5). Förutom aktuella utrikes- och säkerhetspolitiska frågor prioriterade Finland under sitt ordförandeskap frågor som rörde klimat och miljö. Finland inledde sitt ordförandeskap med ett digitalt seminarium den 10 februari med klimat som huvudämne. Samtliga nordiska utrikesministrar deltog.</P>
+<P class="p106 ft3">Under våren hölls tre digitala <NOBR>N5-möten</NOBR> på utrikesministernivå: den 5 mars, den 11 mars och den 3 maj. Storbritanniens utrikesminister Dominic Raab deltog vid <NOBR>N5-mötet</NOBR> den 11 mars. Under hösten hölls digitala N5- möten den 6 september och den 20 december. Årets enda fysiska <NOBR>N5-möte</NOBR> hölls i Köpenhamn den 2 november i samband med Nordiska rådets session. Nyttjandet av virtuella möten har medfört att de nordiska utrikesministrarna samtalar oftare än tidigare, även om det har varit svårt att anordna fysiska möten.</P>
+<P class="p106 ft3">2021 års <NOBR>N5-möten</NOBR> fokuserade på aktuella utrikes- och säkerhetspolitiska frågor, inklusive utvecklingen i Afghanistan, Ryssland och Etiopien, Sveriges ordförandeskap i Organisationen för säkerhet och samarbete i Europa (OSSE) och <NOBR>FN-frågor.</NOBR> Utrikesministrarna diskuterade även uppföljningen av rapporten Nordic Foreign and Security Policy från 2020, som tagits fram av den isländska politikern Björn Bjarnason. Rapporten inkluderade förslag om hur det nordiska utrikes- och säkerhetspolitiska samarbetet kan vidareutvecklas.</P>
+<P class="p126 ft3">Det nordiska utrikespolitiska samarbetet är högt prioriterat av regeringen, inte minst i ljuset av den säkerhetspolitiska utvecklingen i närområdet och det fortsatta behovet av att vidta åtgärder för att hantera pandemin. De nordiska utrikesministrarna stod i nära kontakt under året för att dela information om smittspridning, restriktioner och situationen för gränsregionerna.</P>
+<P class="p127 ft3">Det fanns ett starkt nordiskt stöd för Sveriges ordförandeskap i OSSE under 2021. Samtliga nordiska utrikesministrar deltog vid OSSE:s ministermöte i Stockholm i december. Det nordiska <NOBR>FN-samarbetet</NOBR> är omfattande och har präglats av Norges plats i FN:s säkerhetsråd 2021– 2022. Evakueringen från Afghanistan utgjorde ett konkret exempel på det nordiska samarbetet. De nordiska länderna arbetade tillsammans på flygfältet i Kabul och hade löpande kontakt mellan huvudstäderna. Det</P>
+<P class="p128 ft3">20</P>
+</DIV>
+<DIV id="page_21">
+
+
+<P class="p129 ft5">nordiska samarbetet var av stor vikt för genomförandet av den svenska Skr. 2021/22:90 evakueringen.</P>
+<P class="p130 ft10"><SPAN class="ft1">7</SPAN><SPAN class="ft9">Nordiskt samarbete inom försvar och samhällets krisberedskap</SPAN></P>
+<P class="p120 ft13"><SPAN class="ft13">7.1</SPAN><SPAN class="ft16">Nordiskt försvarssamarbete</SPAN></P>
+<P class="p131 ft3">Det nordiska försvarssamarbetet, Nordic Defence Cooperation (Nordefco), fortsatte under 2021 att vidareutvecklas i enlighet med det strategiska styrdokumentet Vision 2025. Under 2021 innehade Finland det roterande ordförandeskapet. Fokus under året låg i stor utsträckning på att stärka och utveckla samarbetet i fred, kris och konflikt inom överenskomna områden. Bland annat genomfördes en scenariobaserad övning med deltagare från respektive lands försvarsdepartement och försvarsmakter. De nordiska försvarsministrarna nyttjade vid ett antal tillfällen under 2021 den mekanism för kriskonsultationer och informationsutbyte mellan försvarsdepartementen som etablerades 2019, bl.a. för att utbyta information om händelseutvecklingen i Afghanistan och regional säkerhet. Totalförsvar utgjorde ett prioriterat område för det finländska ordförandeskapet och ett första gemensamt möte med representanter från Nordefco och Hagasamarbetet ägde rum. Vid mötet enades länderna om att arbeta vidare med nordiskt <NOBR>civil-militärt</NOBR> samarbete inom CBRNE (Chemical, Biological, Radiological, Nuclear och Explosive) och övningar. Under året diskuterades även pandemins inverkan på militär försörjningstrygghet, liksom hur Europeiska försvarsfonden kan stödja nordisk förmågeutveckling.</P>
+<P class="p132 ft3">I september 2021 undertecknade Danmark, Norge och Sverige en avsiktsförklaring om fördjupat operativt försvarssamarbete. Avsiktsförklaringen beskriver ambitionen att kunna genomföra koordinerade militära operationer i kris och konflikt. Stegvisa åtgärder innefattar diskussioner om gemensamma säkerhetsutmaningar, etablering av planeringsgrupper på departementsnivå och militär nivå samt scenariobaserade övningar. Initialt ligger fokus på de södra delarna av Skandinavien (Kattegatt, Skagerak, Östersjön, Nordsjön och Öresund). Åtgärderna bidrar till att koordinera ländernas nuvarande och framtida nationella operationsplaner. Länderna kommer även att se över möjligheten till gemensam trilateral operationsplanering.</P>
+<P class="p133 ft20">7.2 Nordiskt samarbete om samhällets krisberedskap</P>
+<TABLE cellpadding=0 cellspacing=0 class="t6">
+<TR>
+	<TD class="tr10 td18"><SPAN class="p3 ft3">Det gångna året visade att det finns behov av att ytterligare förstärka de</SPAN> </TD>
+	<TD class="tr10 td19"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr6 td18"><SPAN class="p3 ft3">nordiska ländernas förmåga att förebygga, hantera och följa upp olika</SPAN> </TD>
+	<TD class="tr6 td19"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr7 td18"><SPAN class="p3 ft3">allvarliga kriser och olyckor. <NOBR>Covid-19-pandemin</NOBR> belyste några av</SPAN> </TD>
+	<TD class="tr7 td19"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr8 td18"><SPAN class="p3 ft3">utmaningarna och det ökade behovet av att hitta robusta lösningar. Ett av</SPAN> </TD>
+	<TD rowspan=2 class="tr12 td19"><SPAN class="p15 ft3">21</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr14 td18"><SPAN class="p3 ft23">&nbsp;</SPAN> </TD>
+</TR>
+</TABLE>
+</DIV>
+<DIV id="page_22">
+
+
+<P class="p123 ft3">Skr. 2021/22:90 de nya utvecklingsmålen för <NOBR>2022–2024</NOBR> inom det nordiska krisberedskapssamarbetet Haga är därför ”Åtgärder efter lärdomar av <NOBR>covid-19</NOBR> pandemin”. Det handlar om att analysera erfarenheter, lära av varandra och vidta relevanta åtgärder för att kunna vara bättre förberedda inför nästa kris.</P>
+<P class="p107 ft3">Hagasamarbetet är ett politiskt initierat samarbete med syfte att främja nordiskt samarbete kring beredskapsfrågor. Samarbetet inleddes 2009. Under det finländska ordförandeskapet 2021 arbetade berörda myndigheter i länderna vidare i enlighet med utvecklingsmål om nödkommunikation, beredskap för skogsbrand och händelser med kemiska, biologiska, radiologiska och nukleära ämnen. Det handlar exempelvis om informationsutbyte, operativa aktiviteter och övningar. Under året intensifierades samarbetet med berörda myndigheter och förberedelser gjordes för kommande utvecklingsmål.</P>
+<P class="p106 ft3">Under ministermötet den 14 december 2021 beslutades om följande nya utvecklingsmål för <NOBR>2022–2024:</NOBR> 1) åtgärder efter lärdomar av <NOBR>covid-19-</NOBR> pandemin, 2) hantering av händelser på grund av klimatförändringar och 3) värdlandsstöd.</P>
+<P class="p108 ft3">Klimatförändringar är en av vår tids största utmaningar. Under de kommande åren kommer förhållandena i Norden att leda till mer extrema och oförutsägbara väderförhållanden med allvarliga och utmanande väderrelaterade händelser som resultat. Det kommer att påverka arbetet för att skydda våra samhällen.</P>
+<P class="p108 ft3">Värdlandsstöd handlar om att de nordiska länderna ska kunna ge och ta emot stöd av varandra när de nationella resurserna inte räcker till. Praktiska förutsättningar för värdlandsstöd har tidigare analyserats inom ramen för Hagasamarbetet och under året gjordes en översyn som lägger grunden för fortsatt arbete de kommande åren.</P>
+<P class="p86 ft8">Det finländska ordförandeskapet fokuserade även på ökad <NOBR>civil-militär</NOBR> samverkan. Det resulterade bl.a. i att möten genomfördes på olika nivåer mellan Haga och Nordefco och att en <NOBR>civil-militär</NOBR> arbetsgrupp bildades för att arbeta vidare med händelser orsakade av kemiska, biologiska, radiologiska, nukleära eller explosiva ämnen samt övningar.</P>
+<P class="p134 ft1">8 Bilateralt nordiskt samarbete</P>
+<P class="p135 ft13">8.1 Finland</P>
+<TABLE cellpadding=0 cellspacing=0 class="t7">
+<TR>
+	<TD class="tr10 td20"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr10 td17"><SPAN class="p64 ft3">Samarbetet mellan Sverige och Finland är omfattande och relationen är</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr7 td20"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr7 td17"><SPAN class="p64 ft3">mycket god. Det nära och utmärkta bilaterala samarbetet omfattar</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr6 td20"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr6 td17"><SPAN class="p64 ft3"><NOBR>utrikes-,</NOBR> säkerhets- och försvarspolitiska frågor. Därutöver är relationerna</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr6 td20"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr6 td17"><SPAN class="p64 ft3">särskilt goda inom handels- och industrifrågor, andra <NOBR>EU-frågor</NOBR> och FN-</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr7 td20"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr7 td17"><SPAN class="p64 ft3">frågor. Den bilaterala dialogen under 2021 har även inkluderat samarbete</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr6 td20"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr6 td17"><SPAN class="p64 ft3">inom innovation, grön omställning och näringsliv. Förbindelserna mellan</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr6 td20"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr6 td17"><SPAN class="p64 ft3">Sverige och Finland är många och utbyte sker på alla nivåer. På grund av</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr7 td20"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr7 td17"><SPAN class="p64 ft3">utvecklingen i pandemin har det traditionellt omfattande besöksutbytet</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr6 td20"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr6 td17"><SPAN class="p64 ft3">minskat något och ersatts av digitala möten. Samtidigt har flera besök</SPAN> </TD>
+</TR>
+<TR>
+	<TD rowspan=2 class="tr4 td20"><SPAN class="p65 ft3">22</SPAN> </TD>
+	<TD class="tr8 td17"><SPAN class="p64 ft11">kunnat genomföras av svenska och finländska statsråd under hösten 2021.</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr15 td17"><SPAN class="p3 ft24">&nbsp;</SPAN> </TD>
+</TR>
+</TABLE>
+</DIV>
+<DIV id="page_23">
+
+
+<P class="p113 ft8">Statsminister Magdalena Andersson genomförde sitt första utlandsbesök Skr. 2021/22:90 till Helsingfors för överläggningar med president Sauli Niinistö och</P>
+<P class="p79 ft3">statsminister Sanna Marin den 8 december. Utrikesminister Ann Linde besökte Finland den <NOBR>14–15</NOBR> september för att delta vid ett <NOBR>nordisk-baltiskt</NOBR> möte (NB8). Utrikeshandelsminister med ansvar för nordiskt samarbete Anna Hallberg besökte Finland den <NOBR>14–15</NOBR> september för möte med Finlands handelsminister Ville Skinnari. I oktober undertecknade inrikesminister Mikael Damberg och hans finländska kollega ett bilateralt polissamarbetsavtal i Torneå. Därutöver besökte flera svenska statsråd Finland under hösten för att delta vid möten i nordisk krets.</P>
+<P class="p56 ft3">President Sauli Niinistö besökte Sverige för att delta vid Malmö internationella forum för hågkomst av Förintelsen den 13 oktober. President Niinistö besökte även Stockholm den 12 november och hade ett bilateralt möte med statsminister Stefan Löfven. Därutöver har flera finländska statsråd besökt Sverige under hösten för överläggningar med sina svenska motparter.</P>
+<P class="p69 ft3">Sverige och Finland har haft en tät dialog med anledning av <NOBR>covid-19-</NOBR> pandemin och de utmaningar som inreserestriktioner har inburit för gränsregionerna och gränspendlare. Ett särskilt fokus har legat på gränsregionerna Tornedalen och Åland/Norrtälje. Företrädare för de svenska och finska regeringarna har haft nära kontakt för att dela information om smittspridning och restriktioner.</P>
+<P class="p136 ft8">Samarbetet med Finland är det mest långtgående av Sveriges försvarssamarbeten och intar i det avseendet en särställning. Under 2021 utvecklades samarbetet med Finland i enlighet med regeringens proposition Totalförsvaret <NOBR>2021–2025</NOBR> (prop. 2020/21:30) och de överenskomna målsättningar som följer av det samförståndsavtal om bilateralt försvarssamarbete som ingicks 2018. Under året låg fokus vid åtgärder för att stärka förmågan till gemensamt eller koordinerat militärt operativt agerande i fred, kris och krig. Ett antal möten på försvarsminister- och statssekreterarnivå genomfördes under året.</P>
+<P class="p137 ft13"><SPAN class="ft13">8.2</SPAN><SPAN class="ft16">Norge</SPAN></P>
+<P class="p138 ft8">Sverige och Norge har en mycket god och nära relation och etablerade samarbeten inom de flesta områden. Under 2021 fortsatte det intensiva besöksutbytet på regeringsnivå, men på grund av utvecklingen i pandemin fick flera planerade besök ställas in eller ställas om till digitala plattformar.</P>
+<P class="p51 ft3">Pandemihanteringen och frågan om inreserestriktionernas effekter i gränsregionerna var särskilt prioriterad i dialogen mellan Sverige och Norge under året. Restriktionerna introducerades 2020 och kvarstod och ändrades många gånger under 2021. Under årets första hälft fortsatte både Norges och Sveriges restriktioner att skapa många problem för boende i de <NOBR>norsk-svenska</NOBR> gränsregionerna, särskilt för gränspendlare. Sverige efterfrågade införande av kompensation från norska myndigheter till de svenskboende gränspendlare som på grund av de norska inreserestriktionerna inte kunde ta sig till arbetet och därmed förlorade sin inkomst. Bilaterala kontakter om denna fråga togs bl.a. mellan arbetsmarknadsministrarna, samarbetsministrarna och även på</P>
+<P class="p139 ft3">23</P>
+</DIV>
+<DIV id="page_24">
+
+
+<P class="p123 ft8">Skr. 2021/22:90 statsministernivå. Norge införde en sådan kompensationsordning för svenskboende gränspendlare i april 2021. Sverige efterfrågade också tydligare hänsyn i de norska reglerna till personer som återkommande behöver korsa gränsen.</P>
+<P class="p85 ft3">Den successiva tillämpningen av <NOBR>EU-gemensamma</NOBR> digitala <NOBR>covid-intyg</NOBR> under sommaren ledde till att Norge undantog fullvaccinerade personer från inreserestriktionerna, vilket minskade omfattningen av problemen i de <NOBR>svensk-norska</NOBR> regionerna. I de inreserestriktioner som Norge införde under hösten och vintern 2021 fanns tydliga undantag för gränspendlare.</P>
+<P class="p85 ft3">Andra frågor som särskilt prioriterades i dialogen med Norge var att lära av den gemensamma hanteringen i pandemin samt att stärka samarbetet inom innovation, grön omställning, frågor relaterade till infrastruktur och näringslivssamarbete. I juli besökte statsminister Stefan Löfven Oslo för att delta i en minnesceremoni för offren för terrordåden 2011 i Oslo och på Utöya.</P>
+<P class="p108 ft8">Norge var under 2021 Sveriges största exportmarknad och en av Sveriges viktigaste handelspartner. På grund av pandemin drabbades fortsatt gränshandeln mot Norge hårt och gränshandeln har inte återhämtat sig till de nivåerna den hade innan pandemin.</P>
+<P class="p85 ft8">Mot bakgrund av bland annat de geografiska och militärstrategiska förhållandena i närområdet understryker regeringen behovet av ett fördjupat försvarssamarbete med Norge. Fokus för försvarssamarbetet med Norge har under 2021 legat vid de trilaterala nordiska avsiktsförklaringarna rörande operativt försvarssamarbete som ingicks 2020 och 2021. Under året genomfördes ett antal möten mellan försvarsministrarna.</P>
+<P class="p140 ft13"><SPAN class="ft17">8.3</SPAN><SPAN class="ft18">Danmark</SPAN></P>
+<P class="p111 ft3">Sverige och Danmark har en mycket god relation och ett omfattande handelsutbyte. Samarbetet är nära och inom många områden. På grund av pandemin har de flesta bilaterala möten mellan Danmark och Sverige skett digitalt, men under sommaren och tidiga höst tillät smittläget i båda länderna fysiska möten.</P>
+<P class="p108 ft3">Den 16 augusti besökte utrikesminister Ann Linde Köpenhamn för möte med Danmarks utrikesminister Jeppe Kofod och för att invigningstala på konferens om mänskliga rättigheter i anslutning till World Pride. Samma dag deltog jämställdhetsminister Märta Stenevi i World Pride i Köpenhamn.</P>
+<P class="p107 ft3">Den 31 augusti till 1 september besökte utrikeshandelsminister med ansvar för nordiskt samarbete Anna Hallberg Köpenhamn för möte med sin danska motpart Flemming Møller Mortensen. Sr Hallberg och minister Møller Mortensen genomförde även ett gemensamt besök till Malmö. Besöket och överläggningarna fokuserade på integrationen av Öresundsregionen. Arbetet med att stärka Öresundssamarbetet är ett prioriterat område för regeringen i den bilaterala relationen med Danmark.</P>
+<P class="p106 ft8">Pandemihanteringen och frågan om inreserestriktionernas effekter i Öresundsregionen var särskilt prioriterad i den bilaterala dialogen under året. Regionen har många gränspendlare, inklusive personer som</P>
+<P class="p44 ft3">24</P>
+</DIV>
+<DIV id="page_25">
+
+
+<P class="p50 ft8">dagspendlar över Öresund för att ta sig till arbetet och hemmet. Danmark Skr. 2021/22:90 har infört undantag för boende i gränsregionerna och gränspendlare.</P>
+<P class="p56 ft8">I enlighet med proposition Totalförsvaret <NOBR>2021–2025</NOBR> (prop. 2020/21:30) har regeringen under 2021 verkat för ett fördjupat försvarssamarbete med Danmark med särskilt fokus på södra Östersjön, Östersjöinloppen och i Västerhavet. Denna inriktning har främst manifesterats genom den trilaterala avsiktsförklaring som rör fördjupat operativt försvarssamarbete som undertecknades av Danmarks, Norges och Sveriges försvarsministrar i september 2021. Under året genomfördes ett antal möten mellan försvarsministrarna.</P>
+<P class="p67 ft13"><SPAN class="ft13">8.4</SPAN><SPAN class="ft16">Island</SPAN></P>
+<P class="p115 ft3">Samarbetet och relationerna med Island är mycket goda. På grund av pandemin var dock besöksutbytet på politisk nivå begränsat. Utrikeshandelsminister Anna Hallberg medverkade digitalt på Business Icelands årsmöte den 28 april, då ett nytt samarbetsavtal mellan Business Sweden och Business Iceland lanserades. Utrikesminister Ann Linde hade en nära kontakt under året med Islands utrikesminister Guðlaugur Þór Þórðarson för att diskutera bland annat pandemins konsekvenser och arktiska frågor. Den <NOBR>19–20</NOBR> maj deltog utrikesminister Ann Linde i Arktiska rådets årsmöte i Reykjavik.</P>
+<P class="p136 ft8">Under 2021 undertecknade Sverige och Island en gemensam deklaration om stärkt bilateralt försvarssamarbete inom bland annat cybersäkerhet, motståndskraft mot hybridhot, strategisk kommunikation och gemensamma projekt för genomförande av FN:s säkerhetsrådsresolution 1325 om kvinnor, fred och säkerhet.</P>
+<P class="p141 ft1">9 Nordområdessamarbetet</P>
+<P class="p142 ft13"><SPAN class="ft13">9.1</SPAN><SPAN class="ft16">Arktis</SPAN></P>
+<P class="p68 ft8">Arktis är en viktig komponent i de nordiska ländernas samarbete och politiska utbyte. Arktissamarbetet präglades fortsatt av <NOBR>covid-19-</NOBR> pandemin, företrädesvis under årets första halva.</P>
+<P class="p56 ft3">Vid de nordiska samarbetsministrarnas möte den <NOBR>13–14</NOBR> september beslutades om ett nytt arktiskt samarbetsprogram för Nordiska ministerrådet under perioden <NOBR>2022–2024.</NOBR> Liksom i det tidigare samarbetsprogrammet är utgångspunkten ett hållbarhetsperspektiv baserat på Agenda 2030 med fyra huvudteman (People, Planet, Prosperity och Partnership). Under 2021 fördelades totalt 9 miljoner danska kronor till projekt inom ramen för programmet. Vid de nordiska samarbetsministrarnas möte beslutades även att förvaltningen av det arktiska samarbetsprogrammet skulle överföras till Nordens institut i Nuuk (NAPA) och Grönlands universitet för gemensam förvaltning fr.o.m. 2022. Arktisfrågor berördes vid de nordiska utrikesministrarnas</P>
+<P class="p143 ft3">25</P>
+</DIV>
+<DIV id="page_26">
+
+
+<P class="p84 ft8">Skr. 2021/22:90 gemensamma möte med Nordiska rådets presidium i Köpenhamn den 2 november.</P>
+<P class="p85 ft3">Arktiska rådet genomförde under isländskt ordförandeskap <NOBR>(2019–2021)</NOBR> ett framgångsrikt ministermöte i Reykjavik den 20 maj. Vid mötet antogs en ministerdeklaration och en första strategisk plan samtidigt som Ryssland övertog det tvååriga ordförandeskapet för Arktiska rådet.</P>
+<P class="p106 ft8">Under 2021 förnyade Finland och Island sina respektive nationella Arktisstrategier. Det nya gemensamma meddelandet om EU:s strategi för Arktis presenterades den 13 oktober. Uppdateringen av EU:s Arktispolitik har bland annat drivits på genom gemensamma ansträngningar från de nordiska <NOBR>EU-medlemmarnas</NOBR> sida.</P>
+<P class="p110 ft13"><SPAN class="ft17">9.2</SPAN><SPAN class="ft18">Barents</SPAN></P>
+<P class="p117 ft3">Barentssamarbetet kännetecknas av långvariga och starka mellanfolkliga kontakter mellan de deltagande länderna. Verksamheten leds av medlemsländerna och berörda regioner. Den bedrivs konkret och medborgarnära. Ungdomar har en central plats i samarbetet. I oktober tog Finland över ordförandeskapet i Barentsrådet från Norge och leder arbetet i rådet fram till hösten 2023. Västerbottens län lämnade vid samma tidpunkt över ordförandeskapet i Barents regionråd till regionen Nenets i Ryssland, som leder regionrådet under samma tidsperiod. Arbetet fortsatte under året att präglas av <NOBR>covid-19-pandemin.</NOBR> Arrangemangen fortsatte att huvudsakligen genomföras digitalt.</P>
+<P class="p86 ft3">Under året avslutades arbetet med en uppdatering av Barents klimathandlingsplan, ett arbete som engagerade samtliga arbetsgrupper. Planen godkändes av miljöministrarna och antogs av utrikesministrarna. Sverige deltog aktivt i ett projekt om biologisk mångfald i skog i Barentsregionen som Finland initierat som en del av sitt ordförandeskap i både Nordiska ministerrådet och Barentsrådets miljösamarbete. Inom transportområdet hölls flera digitala arrangemang för att stärka samverkan om gröna transporter. I oktober fattades beslut om att från 2022 inrätta en projektfond för att stärka de projektorienterade inslagen i samarbetet.</P>
+<P class="p86 ft3">Under Västerbottens läns ordförandeskap i regionrådet genomfördes flera digitala arrangemang med fokus på bl.a. rovdjursfrågor, jämställdhet, ungdomar och hälsa. Sverige var tillsammans med ryska Karelen ordförande i arbetsgruppen för hälsa och sociala frågor fram till hösten 2021. Prioriterade områden var förbättrad hälsa, bättre förutsättningar för barn och ungdomars utveckling samt ökad tillgång till hälsovård i glesbygden. Under 2020 inleddes ett internt ambitionshöjande och resurskoncentrerande arbete i Sverige med fokus på områden där Barentssamarbetet har ett särskilt mervärde. Dessa områden är klimat och miljö, civil krisberedskap och stärkt mellanfolkligt samarbete, med särskild tonvikt på ungdomar. Ambitionshöjningen ledde under 2021 bl.a. till att klimat och miljö samt ungdomsfrågor nu genomsyrar arbetet i samtliga arbetsgrupper. Ungdomar fick under året också en mer framträdande roll i det civila krisberedskapsarbetet. Den inrättade projektfonden förväntas under kommande år bidra till flera konkreta resultat inom dessa viktiga områden.</P>
+<P class="p144 ft3">26</P>
+</DIV>
+<DIV id="page_27">
+<DIV id="p27dimg1">
+<INGENBILD zsrc="H9039027x1.jpg/" id="p27img1">
+</DIV>
+
+
+<P class="p145 ft3">Skr. 2021/22:90</P>
+<P class="p6 ft1">Utrikesdepartementet</P>
+<P class="p5 ft3">Utdrag ur protokoll vid regeringssammanträde den 7 april 2022</P>
+<P class="p146 ft8">Närvarande: statsminister Andersson, ordförande, och statsråden Hallengren, Shekarabi, Ygeman, Ekström, Strandhäll, Eneroth, Dahlgren, Ernkrans, Hallberg, Nordmark, Sätherberg, Thorwaldsson, Gustafsdotter, Axelsson Kihlblom, Elger, Farmanbar, Danielsson, Karkiainen</P>
+<P class="p147 ft3">Föredragande: statsrådet Hallberg</P>
+<P class="p148 ft3">Regeringen beslutar skrivelse Nordiskt samarbete 2021</P>
+<P class="p149 ft3">27</P>
+</DIV>
+
+</div><style>
+
+
+TD,TD.p2h {
+zzzfont-size:90%;
+zzzmargin-right:2px;
+zzzoverflow:visable;
+zzzword-wrap: break-word;
+}
+
+P {
+zdisplay:block;
+}
+
+.divbreak {
+clear:both;
+display:block;
+zwidth: 100%;
+zheight: 1px;
+zword-wrap: break-word;
+}
+
+
+.xecp {
+  display:block;
+  margin: 0px !important;
+  padding: 0px !important;
+  
+}
+
+.ec {
+  border-style:solid;
+  border-width:1px;
+  display:block;
+  margin: 0px !important;
+  padding: 0px !important;
+}
+
+.TOPS {
+  overflow:visable;
+  margin:2px;
+  width:690px !important;
+}
+
+</style>

@@ -1,0 +1,1721 @@
+SEARCH TERM: AI
+DOCUMENT ID: h703161
+TITLE: Ändrade övergångsbestämmelser när det gäller medicintekniska produkter
+TYPE: prop
+SUBTYPE: prop
+DATE: 2020-04-30
+PARLIAMENTARY YEAR: 2019/20
+ORGANISATION: Socialdepartementet
+STATUS: Klar
+DOWNLOADED: 2026-01-22 10:26:57
+================================================================================
+
+<div style="margin:3px;">
+<STYLE type="text/css">
+
+body {margin-top: 0px;margin-left: 0px;}
+
+#page_1 {position:relative; overflow: hidden;z:b;margin:10px 0px 21px 10px ;padding: 0px;border: none;width: 766px;}
+
+#page_1 #p1dimg1 {position:absolute;top:0px;left:546px;z-index:-1;width:54px;height:97px;}
+#page_1 #p1dimg1 #p1img1 {width:54px;height:97px;}
+
+
+
+
+#page_2 {position:relative; overflow: hidden;z:b;margin:15px 0px 21px 10px ;padding: 0px;border: none;width: 676px;}
+#page_2 #id_1 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 90px;overflow: hidden;}
+#page_2 #id_2 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 541px;overflow: hidden;}
+
+
+
+
+
+#page_3 {position:relative; overflow: hidden;z:b;margin:15px 0px 21px 10px ;padding: 0px;border: none;width: 766px;}
+
+
+
+
+
+#page_4 {position:relative; overflow: hidden;z:b;margin:15px 0px 21px 10px ;padding: 0px;border: none;width: 676px;}
+
+#page_4 #p4dimg1 {position:absolute;top:491px;left:105px;z-index:-1;width:123px;height:1px;font-size: 1px !important;l-h:nHeight;}
+#page_4 #p4dimg1 #p4img1 {width:123px;height:1px;}
+
+
+
+
+#page_5 {position:relative; overflow: hidden;z:b;margin:14px 0px 21px 10px ;padding: 0px;border: none;width: 766px;}
+#page_5 #id_1 {border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 586px;overflow: hidden;}
+#page_5 #id_2 {border:none;z:b;margin:5px 0px 0px 10px ;padding: 0px;border:none;width: 631px;overflow: hidden;}
+#page_5 #id_2 #id_2_1 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 270px;overflow: hidden;}
+#page_5 #id_2 #id_2_2 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 496px;overflow: hidden;}
+#page_5 #id_3 {border:none;z:b;margin:12px 0px 0px 10px ;padding: 0px;border:none;width: 721px;overflow: hidden;}
+
+#page_5 #p5dimg1 {position:absolute;top:409px;left:63px;z-index:-1;width:123px;height:1px;font-size: 1px !important;l-h:nHeight;}
+#page_5 #p5dimg1 #p5img1 {width:123px;height:1px;}
+
+
+
+
+#page_6 {position:relative; overflow: hidden;z:b;margin:14px 0px 21px 10px ;padding: 0px;border: none;width: 586px;}
+
+
+
+
+
+#page_7 {position:relative; overflow: hidden;z:b;margin:15px 0px 21px 10px ;padding: 0px;border: none;width: 676px;}
+
+#page_7 #p7dimg1 {position:absolute;top:651px;left:0px;z-index:-1;width:393px;height:115px;}
+#page_7 #p7dimg1 #p7img1 {width:393px;height:115px;}
+
+
+
+
+#page_8 {position:relative; overflow: hidden;z:b;margin:15px 0px 21px 10px ;padding: 0px;border: none;width: 676px;}
+
+
+
+
+
+#page_9 {position:relative; overflow: hidden;z:b;margin:15px 0px 21px 10px ;padding: 0px;border: none;width: 676px;}
+#page_9 #id_1 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 451px;overflow: hidden;}
+#page_9 #id_2 {float:left;border:none;z:b;margin:2px 0px 0px 10px ;padding: 0px;border:none;width: 135px;overflow: hidden;}
+
+
+
+
+
+#page_10 {position:relative; overflow: hidden;z:b;margin:15px 0px 21px 10px ;padding: 0px;border: none;width: 721px;}
+#page_10 #id_1 {border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 676px;overflow: hidden;}
+#page_10 #id_2 {border:none;z:b;margin:3px 0px 0px 10px ;padding: 0px;border:none;width: 586px;overflow: hidden;}
+#page_10 #id_2 #id_2_1 {float:left;border:none;z:b;margin:13px 0px 0px 10px ;padding: 0px;border:none;width: 135px;overflow: hidden;}
+#page_10 #id_2 #id_2_2 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 451px;overflow: hidden;}
+
+#page_10 #p10dimg1 {position:absolute;top:134px;left:105px;z-index:-1;width:394px;height:54px;}
+#page_10 #p10dimg1 #p10img1 {width:394px;height:54px;}
+
+
+
+
+#page_11 {position:relative; overflow: hidden;z:b;margin:15px 0px 21px 10px ;padding: 0px;border: none;width: 676px;}
+
+
+
+
+
+#page_12 {position:relative; overflow: hidden;z:b;margin:15px 0px 21px 10px ;padding: 0px;border: none;width: 676px;}
+#page_12 #id_1 {border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 631px;overflow: hidden;}
+#page_12 #id_2 {border:none;z:b;margin:9px 0px 0px 10px ;padding: 0px;border:none;width: 631px;overflow: hidden;}
+
+#page_12 #p12dimg1 {position:absolute;top:45px;left:21px;z-index:-1;width:65px;height:631px;}
+#page_12 #p12dimg1 #p12img1 {width:65px;height:631px;}
+
+
+
+
+#page_13 {position:relative; overflow: hidden;z:b;margin:15px 0px 21px 10px ;padding: 0px;border: none;width: 766px;}
+#page_13 #id_1 {border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 721px;overflow: hidden;}
+#page_13 #id_2 {border:none;z:b;margin:7px 0px 0px 10px ;padding: 0px;border:none;width: 45px;overflow: hidden;}
+
+#page_13 #p13dimg1 {position:absolute;top:45px;left:147px;z-index:-1;width:25px;height:13px;font-size: 1px !important;l-h:nHeight;}
+#page_13 #p13dimg1 #p13img1 {width:25px;height:13px;}
+
+
+
+
+#page_14 {position:relative; overflow: hidden;z:b;margin:15px 0px 21px 10px ;padding: 0px;border: none;width: 676px;}
+#page_14 #id_1 {border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 631px;overflow: hidden;}
+#page_14 #id_2 {border:none;z:b;margin:12px 0px 0px 10px ;padding: 0px;border:none;width: 631px;overflow: hidden;}
+
+#page_14 #p14dimg1 {position:absolute;top:45px;left:63px;z-index:-1;width:25px;height:13px;font-size: 1px !important;l-h:nHeight;}
+#page_14 #p14dimg1 #p14img1 {width:25px;height:13px;}
+
+
+
+
+#page_15 {position:relative; overflow: hidden;z:b;margin:15px 0px 21px 10px ;padding: 0px;border: none;width: 766px;}
+#page_15 #id_1 {border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 721px;overflow: hidden;}
+#page_15 #id_2 {border:none;z:b;margin:8px 0px 0px 10px ;padding: 0px;border:none;width: 45px;overflow: hidden;}
+
+#page_15 #p15dimg1 {position:absolute;top:45px;left:147px;z-index:-1;width:25px;height:13px;font-size: 1px !important;l-h:nHeight;}
+#page_15 #p15dimg1 #p15img1 {width:25px;height:13px;}
+
+
+
+
+#page_16 {position:relative; overflow: hidden;z:b;margin:15px 0px 21px 10px ;padding: 0px;border: none;width: 676px;}
+#page_16 #id_1 {border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 631px;overflow: hidden;}
+#page_16 #id_2 {border:none;z:b;margin:72px 0px 0px 10px ;padding: 0px;border:none;width: 631px;overflow: hidden;}
+
+#page_16 #p16dimg1 {position:absolute;top:45px;left:63px;z-index:-1;width:25px;height:13px;font-size: 1px !important;l-h:nHeight;}
+#page_16 #p16dimg1 #p16img1 {width:25px;height:13px;}
+
+
+
+
+#page_17 {position:relative; overflow: hidden;z:b;margin:15px 0px 21px 10px ;padding: 0px;border: none;width: 676px;}
+#page_17 #id_1 {float:left;border:none;z:b;margin:1px 0px 0px 10px ;padding: 0px;border:none;width: 451px;overflow: hidden;}
+#page_17 #id_2 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 135px;overflow: hidden;}
+
+
+
+
+
+#page_18 {position:relative; overflow: hidden;z:b;margin:14px 0px 21px 10px ;padding: 0px;border: none;width: 766px;}
+#page_18 #id_1 {border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 586px;overflow: hidden;}
+#page_18 #id_2 {border:none;z:b;margin:5px 0px 0px 10px ;padding: 0px;border:none;width: 541px;overflow: hidden;}
+#page_18 #id_2 #id_2_1 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 270px;overflow: hidden;}
+#page_18 #id_2 #id_2_2 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 360px;overflow: hidden;}
+#page_18 #id_3 {border:none;z:b;margin:12px 0px 0px 10px ;padding: 0px;border:none;width: 721px;overflow: hidden;}
+
+#page_18 #p18dimg1 {position:absolute;top:449px;left:168px;z-index:-1;width:123px;height:1px;font-size: 1px !important;l-h:nHeight;}
+#page_18 #p18dimg1 #p18img1 {width:123px;height:1px;}
+
+
+
+
+#page_19 {position:relative; overflow: hidden;z:b;margin:15px 0px 21px 10px ;padding: 0px;border: none;width: 766px;}
+#page_19 #id_1 {border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 631px;overflow: hidden;}
+#page_19 #id_1 #id_1_1 {float:left;border:none;z:b;margin:1px 0px 0px 10px ;padding: 0px;border:none;width: 451px;overflow: hidden;}
+#page_19 #id_1 #id_1_2 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 135px;overflow: hidden;}
+#page_19 #id_2 {border:none;z:b;margin:5px 0px 0px 10px ;padding: 0px;border:none;width: 631px;overflow: hidden;}
+#page_19 #id_2 #id_2_1 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 270px;overflow: hidden;}
+#page_19 #id_2 #id_2_2 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 496px;overflow: hidden;}
+#page_19 #id_3 {border:none;z:b;margin:12px 0px 0px 10px ;padding: 0px;border:none;width: 721px;overflow: hidden;}
+
+#page_19 #p19dimg1 {position:absolute;top:406px;left:63px;z-index:-1;width:123px;height:1px;font-size: 1px !important;l-h:nHeight;}
+#page_19 #p19dimg1 #p19img1 {width:123px;height:1px;}
+
+
+
+
+#page_20 {position:relative; overflow: hidden;z:b;margin:14px 0px 21px 10px ;padding: 0px;border: none;width: 721px;}
+
+
+
+
+
+#page_21 {position:relative; overflow: hidden;z:b;margin:15px 0px 21px 10px ;padding: 0px;border: none;width: 676px;}
+#page_21 #id_1 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 451px;overflow: hidden;}
+#page_21 #id_2 {float:left;border:none;z:b;margin:1px 0px 0px 10px ;padding: 0px;border:none;width: 135px;overflow: hidden;}
+
+#page_21 #p21dimg1 {position:absolute;top:190px;left:0px;z-index:-1;width:112px;height:1px;font-size: 1px !important;l-h:nHeight;}
+#page_21 #p21dimg1 #p21img1 {width:112px;height:1px;}
+
+
+
+
+#page_22 {position:relative; overflow: hidden;z:b;margin:118px 0px 0px 10px ;padding: 0px;border: none;width: 0px;height: 0px;}
+
+
+
+
+
+.dclr {clear:both;float:none;height:1px;margin:0px;padding:0px;overflow:hidden;}
+
+.ft0{font:  18px 'Verdana' !important;l-h: 32px;}
+.ft1{font:  14px 'Verdana' !important;l-h: 22px;}
+.ft2{font:  12px 'Verdana' !important;l-h: 15px;}
+.ft3{font: italic  12px 'Verdana' !important;l-h: 15px;}
+.ft4{font:  12px 'Verdana' !important;l-h: 17px;}
+.ft5{font: italic  12px 'Verdana' !important;l-h: 17px;}
+.ft6{font:  12px 'Verdana' !important;l-h: 16px;}
+.ft7{font:  10px 'Verdana' !important;l-h: 1px;}
+.ft8{font:  12px 'Verdana' !important;margin-left: 32px;l-h: 15px;}
+.ft9{font:  10px 'Verdana' !important;l-h: 14px;}
+.ft10{font:  12px 'Verdana' !important;l-h: 14px;}
+.ft11{font:  12px 'Verdana' !important;margin-left: 12px;l-h: 16px;}
+.ft12{font:  14px 'Verdana' !important;l-h: 19px;}
+.ft13{font:  14px 'Verdana' !important;margin-left: 39px;l-h: 22px;}
+.ft14{font:  14px 'Verdana' !important;l-h: 22px;}
+.ft15{font: italic  12px 'Verdana' !important;l-h: 15px;}
+.ft16{font:  12px 'Verdana' !important;l-h: 15px;}
+.ft17{font:  14px 'Verdana' !important;l-h: 19px;}
+.ft18{font:  12px 'Verdana' !important;margin-left: 4px;l-h: 15px;}
+.ft19{font: bold  12px 'Verdana' !important;l-h: 16px;}
+.ft20{font: bold  14px 'Verdana' !important;l-h: 17px;}
+.ft21{font:  12px 'Verdana' !important;margin-left: 5px;l-h: 15px;}
+.ft22{font:  10px 'Verdana' !important;l-h: 5px;}
+.ft23{font:  12px 'Verdana' !important;l-h: 16px;}
+.ft24{font:  12px 'Verdana' !important;margin-left: 5px;l-h: 16px;}
+.ft25{font: bold  12px 'Verdana' !important;l-h: 17px;}
+.ft26{font: bold  12px 'Verdana' !important;l-h: 15px;}
+.ft27{font:  14px 'Verdana' !important;margin-left: 38px;l-h: 22px;}
+.ft28{font:  12px 'Verdana' !important;l-h: 14px;}
+.ft29{font:  12px 'Verdana' !important;margin-left: 3px;l-h: 14px;}
+.ft30{font: italic  12px 'Verdana' !important;l-h: 14px;}
+.ft31{font:  12px 'Verdana' !important;margin-left: 3px;l-h: 15px;}
+.ft32{font:  10px 'Verdana' !important;color: #141414;l-h: 11px;}
+.ft33{font:  10px 'Verdana' !important;color: #141414;l-h: 10px;}
+.ft34{font:  10px 'Verdana' !important;l-h: 3px;}
+.ft35{font: bold  10px 'Verdana' !important;color: #141414;l-h: 11px;}
+.ft36{font: bold  10px 'Verdana' !important;color: #141414;l-h: 10px;}
+.ft37{font:  10px 'Verdana' !important;color: #141414;l-h: 12px;}
+.ft38{font:  10px 'Verdana' !important;color: #141414;l-h: 6px;}
+.ft39{font:  10px 'Verdana' !important;color: #141414;l-h: 7px;}
+.ft40{font:  10px 'Verdana' !important;color: #141414;margin-left: 15px;l-h: 10px;}
+.ft41{font:  10px 'Verdana' !important;color: #141414;l-h: 5px;}
+.ft42{font:  10px 'Verdana' !important;l-h: 1px;}
+.ft43{font:  10px 'Verdana' !important;color: #141414;l-h: 9px;}
+.ft44{font:  10px 'Verdana' !important;color: #141414;margin-left: 14px;l-h: 10px;}
+.ft45{font:  10px 'Verdana' !important;color: #141414;margin-left: 14px;l-h: 11px;}
+.ft46{font:  10px 'Verdana' !important;color: #141414;margin-left: 9px;l-h: 10px;}
+.ft47{font:  10px 'Verdana' !important;color: #141414;margin-left: 10px;l-h: 12px;}
+.ft48{font:  10px 'Verdana' !important;color: #141414;margin-left: 5px;l-h: 12px;}
+.ft49{font:  10px 'Verdana' !important;color: #141414;margin-left: 6px;l-h: 12px;}
+.ft50{font:  10px 'Verdana' !important;color: #141414;margin-left: 7px;l-h: 12px;}
+.ft51{font:  10px 'Verdana' !important;color: #141414;margin-left: 8px;l-h: 12px;}
+.ft52{font:  10px 'Verdana' !important;color: #141414;l-h: 6px;}
+.ft53{font:  14px 'Verdana' !important;l-h: 25px;}
+.ft54{font:  14px 'Verdana' !important;margin-left: 4px;l-h: 22px;}
+
+.p0{text-align: left;padding-left: 0px;padding-right: 420px;margin-top: 22px;margin-bottom: 0px !important;}
+.p1{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p2{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p3{text-align: left;padding-left: 0px;margin-top: 17px;margin-bottom: 0px !important;}
+.p4{text-align: left;padding-left: 0px;margin-top: 16px;margin-bottom: 0px !important;}
+.p5{text-align: left;padding-left: 0px;margin-top: 32px;margin-bottom: 0px !important;}
+.p6{text-align: left;padding-left: 180px;padding-right: 399px;margin-top: 19px;margin-bottom: 0px !important;}
+.p7{text-align: left;padding-left: 0px;margin-top: 47px;margin-bottom: 0px !important;}
+.p8{text-align: left;padding-left: 0px;padding-right: 168px;margin-top: 27px;margin-bottom: 0px !important;}
+.p9{text-align: left;padding-left: 0px;padding-right: 168px;margin-top: 1px;margin-bottom: 0px !important;text-indent: 11px;}
+.p10{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;}
+.p11{text-align: right;padding-right: 42px;margin-top: 259px;margin-bottom: 0px !important;}
+.p12{text-align: left;margin-top: 0px;margin-bottom: 0px !important;}
+.p13{text-align: left;margin-top: 752px;margin-bottom: 0px !important;}
+.p14{text-align: right;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p15{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p16{text-align: left;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p17{text-align: right;padding-right: 105px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p18{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;}
+.p19{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p20{text-align: right;padding-right: 1px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p21{text-align: right;padding-right: 21px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p22{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p23{text-align: left;padding-left: 0px;margin-top: 10px;margin-bottom: 0px !important;}
+.p24{text-align: left;padding-left: 0px;padding-right: 168px;margin-top: 1px;margin-bottom: 0px !important;text-indent: 0.19px;}
+.p25{text-align: left;padding-left: 0px;padding-right: 168px;margin-top: 0px;margin-bottom: 0px !important;text-indent: 0.19px;}
+.p26{text-align: right;padding-right: 42px;margin-top: 636px;margin-bottom: 0px !important;}
+.p27{text-align: left;padding-left: 0px;margin-top: 13px;margin-bottom: 0px !important;}
+.p28{text-align: left;padding-left: 140px;padding-right: 126px;margin-top: 32px;margin-bottom: 0px !important;text-indent: 0.60px;}
+.p29{text-align: left;padding-left: 0px;padding-right: 63px;margin-top: 7px;margin-bottom: 0px !important;}
+.p30{text-align: right;padding-right: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p31{text-align: center;padding-right: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p32{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p33{text-align: center;padding-right: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p34{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p35{text-align: center;padding-right: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p36{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p37{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p38{text-align: left;padding-left: 0px;margin-top: 27px;margin-bottom: 0px !important;}
+.p39{text-align: left;margin-top: 247px;margin-bottom: 0px !important;}
+.p40{text-align: right;padding-right: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p41{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p42{text-align: left;padding-right: 105px;margin-top: 6px;margin-bottom: 0px !important;}
+.p43{text-align: left;padding-right: 0px;margin-top: 15px;margin-bottom: 0px !important;text-indent: 11px;}
+.p44{text-align: left;padding-right: 168px;margin-top: 15px;margin-bottom: 0px !important;text-indent: 11px;}
+.p45{text-align: right;padding-right: 42px;margin-top: 333px;margin-bottom: 0px !important;}
+.p46{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p47{text-align: left;padding-right: 42px;margin-top: 0px;margin-bottom: 0px !important;}
+.p48{text-align: left;margin-top: 44px;margin-bottom: 0px !important;}
+.p49{text-align: left;padding-right: 168px;margin-top: 16px;margin-bottom: 0px !important;}
+.p50{text-align: left;padding-right: 168px;margin-top: 1px;margin-bottom: 0px !important;text-indent: 11px;}
+.p51{text-align: left;padding-right: 168px;margin-top: 4px;margin-bottom: 0px !important;text-indent: 11px;}
+.p52{text-align: left;padding-right: 168px;margin-top: 5px;margin-bottom: 0px !important;text-indent: 11px;}
+.p53{text-align: left;margin-top: 42px;margin-bottom: 0px !important;}
+.p54{text-align: left;padding-left: 0px;padding-right: 168px;margin-top: 21px;margin-bottom: 0px !important;}
+.p55{text-align: left;padding-left: 460px;margin-top: 3px;margin-bottom: 0px !important;}
+.p56{text-align: left;padding-left: 0px;padding-right: 63px;margin-top: 0px;margin-bottom: 0px !important;text-indent: 0.112px;}
+.p57{text-align: left;padding-left: 0px;margin-top: 24px;margin-bottom: 0px !important;}
+.p58{text-align: left;padding-left: 0px;margin-top: 8px;margin-bottom: 0px !important;}
+.p59{text-align: left;padding-left: 0px;padding-right: 63px;margin-top: 6px;margin-bottom: 0px !important;}
+.p60{text-align: left;padding-left: 0px;margin-top: 17px;margin-bottom: 0px !important;}
+.p61{text-align: left;padding-left: 0px;padding-right: 63px;margin-top: 5px;margin-bottom: 0px !important;}
+.p62{text-align: left;padding-left: 0px;margin-top: 18px;margin-bottom: 0px !important;}
+.p63{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p64{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p65{text-align: right;padding-right: 42px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p66{text-align: left;padding-right: 0px;margin-top: 0px;margin-bottom: 0px !important;}
+.p67{text-align: left;padding-right: 0px;margin-top: 0px;margin-bottom: 0px !important;}
+.p68{text-align: left;padding-right: 0px;margin-top: 4px;margin-bottom: 0px !important;}
+.p69{text-align: left;margin-top: 12px;margin-bottom: 0px !important;}
+.p70{text-align: left;padding-right: 0px;margin-top: 3px;margin-bottom: 0px !important;}
+.p71{text-align: left;padding-right: 0px;margin-top: 0px;margin-bottom: 0px !important;text-indent: 11px;}
+.p72{text-align: left;padding-right: 0px;margin-top: 3px;margin-bottom: 0px !important;text-indent: 11px;}
+.p73{text-align: left;padding-right: 0px;margin-top: 5px;margin-bottom: 0px !important;}
+.p74{text-align: left;padding-left: 0px;margin-top: 752px;margin-bottom: 0px !important;}
+.p75{text-align: left;padding-left: 0px;padding-right: 63px;margin-top: 0px;margin-bottom: 0px !important;text-indent: 0.112px;}
+.p76{text-align: left;padding-left: 0px;margin-top: 45px;margin-bottom: 0px !important;}
+.p77{text-align: left;padding-left: 0px;padding-right: 63px;margin-top: 21px;margin-bottom: 0px !important;}
+.p78{text-align: left;padding-left: 0px;padding-right: 63px;margin-top: 4px;margin-bottom: 0px !important;}
+.p79{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;}
+.p80{text-align: left;padding-left: 0px;padding-right: 63px;margin-top: 1px;margin-bottom: 0px !important;text-indent: 11px;}
+.p81{text-align: left;padding-left: 0px;margin-top: 52px;margin-bottom: 0px !important;}
+.p82{text-align: left;padding-left: 0px;padding-right: 63px;margin-top: 16px;margin-bottom: 0px !important;}
+.p83{text-align: left;margin-top: 0px;margin-bottom: 0px !important;text-indent: 11px;}
+.p84{text-align: left;padding-right: 42px;margin-top: 0px;margin-bottom: 0px !important;text-indent: 11px;}
+.p85{text-align: left;padding-left: 0px;padding-right: 168px;margin-top: 17px;margin-bottom: 0px !important;text-indent: 0.60px;}
+.p86{text-align: left;margin-top: 6px;margin-bottom: 0px !important;}
+.p87{text-align: left;padding-right: 168px;margin-top: 4px;margin-bottom: 0px !important;}
+.p88{text-align: left;padding-right: 168px;margin-top: 15px;margin-bottom: 0px !important;}
+.p89{text-align: left;padding-left: 0px;padding-right: 168px;margin-top: 29px;margin-bottom: 0px !important;text-indent: 0.60px;}
+.p90{text-align: left;margin-top: 16px;margin-bottom: 0px !important;}
+.p91{text-align: left;padding-right: 168px;margin-top: 6px;margin-bottom: 0px !important;}
+.p92{text-align: left;padding-right: 168px;margin-top: 18px;margin-bottom: 0px !important;}
+.p93{text-align: left;padding-left: 460px;margin-top: 60px;margin-bottom: 0px !important;}
+.p94{text-align: left;margin-top: 3px;margin-bottom: 0px !important;}
+.p95{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p96{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p97{text-align: left;padding-left: 0px;margin-top: 21px;margin-bottom: 0px !important;}
+.p98{text-align: left;padding-left: 180px;margin-top: 5px;margin-bottom: 0px !important;}
+.p99{text-align: left;padding-left: 0px;margin-top: 4px;margin-bottom: 0px !important;}
+.p100{text-align: left;padding-left: 140px;margin-top: 0px;margin-bottom: 0px !important;}
+.p101{text-align: left;padding-left: 160px;margin-top: 12px;margin-bottom: 0px !important;}
+.p102{text-align: left;padding-left: 0px;margin-top: 26px;margin-bottom: 0px !important;}
+.p103{text-align: left;padding-left: 0px;margin-top: 12px;margin-bottom: 0px !important;}
+.p104{text-align: left;padding-left: 0px;margin-top: 11px;margin-bottom: 0px !important;}
+.p105{text-align: left;padding-left: 0px;padding-right: 105px;margin-top: 11px;margin-bottom: 0px !important;text-indent: 0.24px;}
+.p106{text-align: left;padding-left: 0px;padding-right: 105px;margin-top: 24px;margin-bottom: 0px !important;text-indent: 0.24px;}
+.p107{text-align: left;padding-left: 0px;padding-right: 105px;margin-top: 23px;margin-bottom: 0px !important;text-indent: 0.24px;}
+.p108{text-align: left;padding-left: 0px;padding-right: 105px;margin-top: 13px;margin-bottom: 0px !important;text-indent: 0.24px;}
+.p109{text-align: right;padding-right: 3px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p110{text-align: right;padding-right: 42px;margin-top: 0px;margin-bottom: 0px !important;}
+.p111{text-align: left;padding-left: 440px;margin-top: 3px;margin-bottom: 0px !important;}
+.p112{text-align: right;padding-right: 21px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p113{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p114{text-align: left;padding-left: 0px;padding-right: 84px;margin-top: 21px;margin-bottom: 0px !important;text-indent: 0.23px;}
+.p115{text-align: left;padding-left: 0px;padding-right: 84px;margin-top: 26px;margin-bottom: 0px !important;text-indent: 0.24px;}
+.p116{text-align: left;padding-left: 0px;padding-right: 84px;margin-top: 26px;margin-bottom: 0px !important;text-indent: 0.23px;}
+.p117{text-align: left;padding-left: 0px;padding-right: 84px;margin-top: 34px;margin-bottom: 0px !important;text-indent: 0.23px;}
+.p118{text-align: left;padding-left: 0px;margin-top: 22px;margin-bottom: 0px !important;}
+.p119{text-align: left;padding-left: 0px;padding-right: 84px;margin-top: 1px;margin-bottom: 0px !important;}
+.p120{text-align: left;padding-left: 0px;padding-right: 84px;margin-top: 36px;margin-bottom: 0px !important;text-indent: 0.23px;}
+.p121{text-align: left;padding-left: 0px;padding-right: 84px;margin-top: 26px;margin-bottom: 0px !important;text-indent: 0.24px;}
+.p122{text-align: left;padding-left: 0px;margin-top: 21px;margin-bottom: 0px !important;}
+.p123{text-align: left;padding-left: 200px;margin-top: 26px;margin-bottom: 0px !important;}
+.p124{text-align: left;padding-left: 0px;margin-top: 4px;margin-bottom: 0px !important;}
+.p125{text-align: left;padding-left: 0px;margin-top: 5px;margin-bottom: 0px !important;}
+.p126{text-align: left;padding-left: 0px;margin-top: 5px;margin-bottom: 0px !important;}
+.p127{text-align: left;padding-left: 0px;margin-top: 5px;margin-bottom: 0px !important;}
+.p128{text-align: left;padding-left: 0px;padding-right: 105px;margin-top: 5px;margin-bottom: 0px !important;text-indent: 3px;}
+.p129{text-align: left;padding-left: 0px;margin-top: 17px;margin-bottom: 0px !important;}
+.p130{text-align: left;padding-left: 0px;padding-right: 105px;margin-top: 5px;margin-bottom: 0px !important;}
+.p131{text-align: left;padding-left: 0px;margin-top: 7px;margin-bottom: 0px !important;}
+.p132{text-align: left;padding-left: 0px;padding-right: 105px;margin-top: 5px;margin-bottom: 0px !important;}
+.p133{text-align: left;padding-left: 0px;margin-top: 7px;margin-bottom: 0px !important;}
+.p134{text-align: left;padding-left: 0px;margin-top: 4px;margin-bottom: 0px !important;}
+.p135{text-align: left;padding-left: 0px;margin-top: 21px;margin-bottom: 0px !important;}
+.p136{text-align: left;padding-left: 0px;padding-right: 84px;margin-top: 12px;margin-bottom: 0px !important;}
+.p137{text-align: left;padding-left: 0px;margin-top: 15px;margin-bottom: 0px !important;}
+.p138{text-align: left;padding-left: 0px;margin-top: 12px;margin-bottom: 0px !important;}
+.p139{text-align: left;padding-left: 0px;padding-right: 84px;margin-top: 13px;margin-bottom: 0px !important;}
+.p140{text-align: left;padding-left: 0px;margin-top: 14px;margin-bottom: 0px !important;}
+.p141{text-align: left;padding-left: 0px;margin-top: 13px;margin-bottom: 0px !important;}
+.p142{text-align: left;padding-left: 0px;margin-top: 12px;margin-bottom: 0px !important;}
+.p143{text-align: left;padding-left: 0px;margin-top: 12px;margin-bottom: 0px !important;}
+.p144{text-align: left;padding-left: 0px;margin-top: 13px;margin-bottom: 0px !important;}
+.p145{text-align: left;padding-left: 140px;padding-right: 84px;margin-top: 12px;margin-bottom: 0px !important;text-indent: 0.14px;}
+.p146{text-align: left;padding-left: 140px;margin-top: 11px;margin-bottom: 0px !important;}
+.p147{text-align: left;padding-left: 140px;margin-top: 12px;margin-bottom: 0px !important;}
+.p148{text-align: left;padding-left: 0px;margin-top: 21px;margin-bottom: 0px !important;}
+.p149{text-align: left;padding-left: 0px;margin-top: 3px;margin-bottom: 0px !important;}
+.p150{text-align: left;padding-left: 0px;margin-top: 3px;margin-bottom: 0px !important;}
+.p151{text-align: left;padding-left: 200px;margin-top: 18px;margin-bottom: 0px !important;}
+.p152{text-align: left;padding-left: 0px;margin-top: 28px;margin-bottom: 0px !important;}
+.p153{text-align: center;padding-right: 63px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p154{text-align: center;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p155{text-align: center;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p156{text-align: left;padding-right: 0px;margin-top: 0px;margin-bottom: 0px !important;}
+.p157{text-align: left;padding-right: 0px;margin-top: 8px;margin-bottom: 0px !important;}
+.p158{text-align: left;padding-left: 0px;margin-top: 1px;margin-bottom: 0px !important;}
+.p159{text-align: left;padding-left: 0px;margin-top: 737px;margin-bottom: 0px !important;}
+.p160{text-align: left;padding-right: 0px;margin-top: 15px;margin-bottom: 0px !important;text-indent: 11px;}
+.p161{text-align: left;padding-right: 63px;margin-top: 15px;margin-bottom: 0px !important;text-indent: 12px;}
+.p162{text-align: right;padding-right: 294px;margin-top: 0px;margin-bottom: 0px !important;}
+.p163{text-align: left;padding-left: 0px;margin-top: 294px;margin-bottom: 0px !important;}
+.p164{text-align: left;padding-right: 0px;margin-top: 0px;margin-bottom: 0px !important;}
+.p165{text-align: left;margin-top: 7px;margin-bottom: 0px !important;}
+.p166{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p167{text-align: left;margin-top: 663px;margin-bottom: 0px !important;}
+.p168{text-align: left;margin-top: 15px;margin-bottom: 0px !important;}
+.p169{text-align: left;padding-right: 0px;margin-top: 15px;margin-bottom: 0px !important;}
+.p170{text-align: left;margin-top: 13px;margin-bottom: 0px !important;}
+.p171{text-align: left;padding-right: 42px;margin-top: 76px;margin-bottom: 0px !important;}
+.p172{text-align: left;padding-left: 0px;margin-top: 752px;margin-bottom: 0px !important;}
+
+.td0{padding: 0px;margin: 0px;width: 406px;vertical-align: bottom;}
+.td1{padding: 0px;margin: 0px;width: 120px;vertical-align: bottom;}
+.td2{border-bottom: #000000 1px solid;padding: 0px;margin: 0px;width: 406px;vertical-align: bottom;}
+.td3{border-bottom: #000000 1px solid;padding: 0px;margin: 0px;width: 120px;vertical-align: bottom;}
+.td4{padding: 0px;margin: 0px;width: 6px;vertical-align: bottom;}
+.td5{padding: 0px;margin: 0px;width: 397px;vertical-align: bottom;}
+.td6{padding: 0px;margin: 0px;width: 65px;vertical-align: bottom;}
+.td7{padding: 0px;margin: 0px;width: 332px;vertical-align: bottom;}
+.td8{padding: 0px;margin: 0px;width: 55px;vertical-align: bottom;}
+.td9{padding: 0px;margin: 0px;width: 334px;vertical-align: bottom;}
+.td10{padding: 0px;margin: 0px;width: 14px;vertical-align: bottom;}
+.td11{padding: 0px;margin: 0px;width: 390px;vertical-align: bottom;}
+.td12{padding: 0px;margin: 0px;width: 78px;vertical-align: bottom;}
+.td13{padding: 0px;margin: 0px;width: 318px;vertical-align: bottom;}
+.td14{padding: 0px;margin: 0px;width: 396px;vertical-align: bottom;}
+.td15{padding: 0px;margin: 0px;width: 36px;vertical-align: bottom;}
+.td16{padding: 0px;margin: 0px;width: 389px;vertical-align: bottom;}
+.td17{padding: 0px;margin: 0px;width: 103px;vertical-align: bottom;}
+.td18{padding: 0px;margin: 0px;width: 182px;vertical-align: bottom;}
+.td19{padding: 0px;margin: 0px;width: 64px;vertical-align: bottom;}
+.td20{padding: 0px;margin: 0px;width: 144px;vertical-align: bottom;}
+.td21{padding: 0px;margin: 0px;width: 69px;vertical-align: bottom;}
+.td22{padding: 0px;margin: 0px;width: 145px;vertical-align: bottom;}
+.td23{padding: 0px;margin: 0px;width: 52px;vertical-align: bottom;}
+.td24{padding: 0px;margin: 0px;width: 214px;vertical-align: bottom;}
+.td25{padding: 0px;margin: 0px;width: 198px;vertical-align: bottom;}
+.td26{padding: 0px;margin: 0px;width: 46px;vertical-align: bottom;}
+.td27{padding: 0px;margin: 0px;width: 43px;vertical-align: bottom;}
+.td28{padding: 0px;margin: 0px;width: 56px;vertical-align: bottom;}
+.td29{padding: 0px;margin: 0px;width: 45px;vertical-align: bottom;}
+.td30{padding: 0px;margin: 0px;width: 44px;vertical-align: bottom;}
+.td31{padding: 0px;margin: 0px;width: 101px;vertical-align: bottom;}
+.td32{padding: 0px;margin: 0px;width: 383px;vertical-align: bottom;}
+.td33{padding: 0px;margin: 0px;width: 111px;vertical-align: bottom;}
+.td34{padding: 0px;margin: 0px;width: 18px;vertical-align: bottom;}
+.td35{padding: 0px;margin: 0px;width: 402px;vertical-align: bottom;}
+.td36{padding: 0px;margin: 0px;width: 421px;vertical-align: bottom;}
+.td37{padding: 0px;margin: 0px;width: 63px;vertical-align: bottom;}
+.td38{padding: 0px;margin: 0px;width: 469px;vertical-align: bottom;}
+.td39{border-top: #141414 1px solid;border-bottom: #141414 1px solid;padding: 0px;margin: 0px;width: 23px;vertical-align: bottom;}
+.td40{padding: 0px;margin: 0px;width: 299px;vertical-align: bottom;}
+.td41{padding: 0px;margin: 0px;width: 110px;vertical-align: bottom;}
+.td42{border-bottom: #141414 1px solid;padding: 0px;margin: 0px;width: 69px;vertical-align: bottom;}
+.td43{border-bottom: #141414 1px solid;padding: 0px;margin: 0px;width: 23px;vertical-align: bottom;}
+.td44{border-bottom: #141414 1px solid;padding: 0px;margin: 0px;width: 299px;vertical-align: bottom;}
+.td45{border-bottom: #141414 1px solid;padding: 0px;margin: 0px;width: 110px;vertical-align: bottom;}
+.td46{padding: 0px;margin: 0px;width: 9px;vertical-align: bottom;}
+.td47{padding: 0px;margin: 0px;width: 442px;vertical-align: bottom;}
+.td48{border-bottom: #141414 1px solid;padding: 0px;margin: 0px;width: 1px;vertical-align: bottom;}
+.td49{padding: 0px;margin: 0px;width: 372px;vertical-align: bottom;}
+.td50{padding: 0px;margin: 0px;width: 35px;vertical-align: bottom;}
+.td51{border-bottom: #141414 1px solid;padding: 0px;margin: 0px;width: 372px;vertical-align: bottom;}
+.td52{border-bottom: #141414 1px solid;padding: 0px;margin: 0px;width: 35px;vertical-align: bottom;}
+.td53{padding: 0px;margin: 0px;width: 33px;vertical-align: bottom;}
+.td54{padding: 0px;margin: 0px;width: 392px;vertical-align: bottom;}
+.td55{padding: 0px;margin: 0px;width: 224px;vertical-align: bottom;}
+.td56{padding: 0px;margin: 0px;width: 87px;vertical-align: bottom;}
+.td57{padding: 0px;margin: 0px;width: 126px;vertical-align: bottom;}
+.td58{border-bottom: #141414 1px solid;padding: 0px;margin: 0px;width: 98px;vertical-align: bottom;}
+.td59{padding: 0px;margin: 0px;width: 119px;vertical-align: bottom;}
+.td60{padding: 0px;margin: 0px;width: 412px;vertical-align: bottom;}
+
+.tr0{heightzzz: 31px;}
+.tr1{heightzzz: 25px;}
+.tr2{heightzzz: 21px;}
+.tr3{heightzzz: 15px;}
+.tr4{heightzzz: 18px;}
+.tr5{heightzzz: 22px;}
+.tr6{heightzzz: 20px;}
+.tr7{heightzzz: 16px;}
+.tr8{heightzzz: 14px;}
+.tr9{heightzzz: 19px;}
+.tr10{heightzzz: 27px;}
+.tr11{heightzzz: 28px;}
+.tr12{heightzzz: 23px;}
+.tr13{heightzzz: 33px;}
+.tr14{heightzzz: 29px;}
+.tr15{heightzzz: 5px;}
+.tr16{heightzzz: 12px;}
+.tr17{heightzzz: 10px;}
+.tr18{heightzzz: 3px;}
+.tr19{heightzzz: 11px;}
+.tr20{heightzzz: 9px;}
+.tr21{heightzzz: 13px;}
+.tr22{heightzzz: 26px;}
+
+.t0{width: 552px;margin-leftZ: 69px;margin-top: 5px;f:20px 'Verdana' !important;}
+.t1{width: 430px;margin-top: 17px;f:13px 'Verdana' !important;}
+.t2{width: 431px;f:13px 'Verdana' !important;}
+.t3{width: 555px;margin-leftZ: 68px;f:20px 'Verdana' !important;}
+.t4{width: 258px;f:20px 'Verdana' !important;}
+.t5{width: 432px;margin-leftZ: 114px;margin-top: 9px;f:italic 13px 'Verdana' !important;}
+.t6{width: 555px;f:17px 'Verdana' !important;}
+.t7{width: 557px;f:13px 'Verdana' !important;}
+.t8{width: 557px;margin-top: 15px;f:italic 13px 'Verdana' !important;}
+.t9{width: 525px;margin-leftZ: 3px;margin-top: 13px;f:9px 'Verdana' !important;color: #141414;}
+.t10{width: 473px;margin-leftZ: 27px;margin-top: 11px;f:7px 'Verdana' !important;color: #141414;}
+.t11{width: 525px;margin-leftZ: 84px;margin-top: 13px;f:8px 'Verdana' !important;color: #141414;}
+.t12{width: 446px;margin-leftZ: 132px;margin-top: 10px;f:9px 'Verdana' !important;color: #141414;}
+.t13{width: 326px;margin-leftZ: 75px;margin-top: 14px;f:6px 'Verdana' !important;color: #141414;}
+.t14{width: 557px;margin-leftZ: 6px;f:13px 'Verdana' !important;}
+
+</STYLE>
+
+
+
+<DIV id="page_1">
+<DIV id="p1dimg1">
+<INGENBILD zsrc="H7031611x1.jpg/" id="p1img1">
+</DIV>
+
+
+<DIV class="dclr"></DIV>
+<P class="p0 ft0">Regeringens proposition 2019/20:161</P>
+<TABLE cellpadding=0 cellspacing=0 class="t0">
+<TR>
+	<TD class="tr0 td0"><SPAN class="p1 ft1">Ändrade övergångsbestämmelser när det gäller</SPAN> </TD>
+	<TD class="tr0 td1"><SPAN class="p2 ft1">Prop.</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr1 td2"><SPAN class="p1 ft1">medicintekniska produkter</SPAN> </TD>
+	<TD class="tr1 td3"><SPAN class="p2 ft1">2019/20:161</SPAN> </TD>
+</TR>
+</TABLE>
+<P class="p3 ft2">Regeringen överlämnar denna proposition till riksdagen.</P>
+<P class="p4 ft2">Stockholm den 30 april 2020</P>
+<P class="p5 ft3">Stefan Löfven</P>
+<P class="p6 ft5">Lena Hallengren <SPAN class="ft4">(Socialdepartementet)</SPAN></P>
+<P class="p7 ft1">Propositionens huvudsakliga innehåll</P>
+<P class="p8 ft2">Europaparlamentet och rådet har beslutat att skjuta fram den dag som förordningen (EU) 2017/745 om medicintekniska produkter ska börja tillämpas med ett år. Förordningen ska således börja tillämpas den 26 maj 2021 i stället för den 26 maj 2020.</P>
+<P class="p9 ft6">I denna proposition föreslås det därför att övergångsbestämmelserna till lagen om medicintekniska produkter och lagen om ackreditering och teknisk kontroll ska ändras.</P>
+<P class="p10 ft2">Lagförslagen föreslås träda i kraft den 26 maj 2020.</P>
+<P class="p11 ft2">1</P>
+</DIV>
+<DIV id="page_2">
+
+
+<DIV>
+<DIV id="id_1">
+<P class="p12 ft2">Prop. 2019/20:161</P>
+<P class="p13 ft2">2</P>
+</DIV>
+<DIV id="id_2">
+<P class="p12 ft1">Innehållsförteckning</P>
+<TABLE cellpadding=0 cellspacing=0 class="t1">
+<TR>
+	<TD class="tr2 td4"><SPAN class="p14 ft2"><A href="#page_3">1</A></SPAN> </TD>
+	<TD colspan=2 class="tr2 td5"><SPAN class="p15 ft2"><A href="#page_3">Förslag till riksdagsbeslut .................................................................</A></SPAN> </TD>
+	<TD class="tr2 td4"><SPAN class="p14 ft2"><A href="#page_3">3</A></SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr2 td4"><SPAN class="p14 ft2"><A href="#page_4">2</A></SPAN> </TD>
+	<TD class="tr2 td6"><SPAN class="p15 ft2"><A href="#page_4">Lagtext</A></SPAN> </TD>
+	<TD class="tr2 td7"><SPAN class="p14 ft2"><A href="#page_4">..............................................................................................</A></SPAN> </TD>
+	<TD class="tr2 td4"><SPAN class="p14 ft2"><A href="#page_4">4</A></SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr3 td4"><SPAN class="p16 ft7">&nbsp;</SPAN> </TD>
+	<TD class="tr3 td6"><SPAN class="p15 ft2"><A href="#page_4">2.1</A></SPAN> </TD>
+	<TD class="tr3 td7"><SPAN class="p17 ft2"><A href="#page_4">Lag om ändring i lagen (1993:584) om</A></SPAN> </TD>
+	<TD class="tr3 td4"><SPAN class="p16 ft7">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr3 td4"><SPAN class="p16 ft7">&nbsp;</SPAN> </TD>
+	<TD class="tr3 td6"><SPAN class="p16 ft7">&nbsp;</SPAN> </TD>
+	<TD class="tr3 td7"><SPAN class="p14 ft2"><A href="#page_4">medicintekniska produkter .................................................</A></SPAN> </TD>
+	<TD class="tr3 td4"><SPAN class="p14 ft2"><A href="#page_4">4</A></SPAN> </TD>
+</TR>
+</TABLE>
+<P class="p18 ft2"><SPAN class="ft2">2.2</SPAN><A href="#page_5"><SPAN class="ft8">Lag om ändring i lagen (2011:791) om ackreditering</SPAN></A></P>
+<TABLE cellpadding=0 cellspacing=0 class="t2">
+<TR>
+	<TD class="tr4 td4"><SPAN class="p16 ft7">&nbsp;</SPAN> </TD>
+	<TD class="tr4 td8"><SPAN class="p16 ft7">&nbsp;</SPAN> </TD>
+	<TD class="tr4 td9"><SPAN class="p19 ft2"><A href="#page_5">och teknisk kontroll............................................................</A></SPAN> </TD>
+	<TD class="tr4 td10"><SPAN class="p20 ft2"><A href="#page_5">5</A></SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr5 td4"><SPAN class="p14 ft2"><A href="#page_6">3</A></SPAN> </TD>
+	<TD colspan=2 class="tr5 td11"><SPAN class="p15 ft2"><A href="#page_6">Ärendet och dess beredning ..............................................................</A></SPAN> </TD>
+	<TD class="tr5 td10"><SPAN class="p20 ft2"><A href="#page_6">6</A></SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr5 td4"><SPAN class="p14 ft2"><A href="#page_7">4</A></SPAN> </TD>
+	<TD colspan=2 class="tr5 td11"><SPAN class="p15 ft2"><A href="#page_7">Bakgrund...........................................................................................</A></SPAN> </TD>
+	<TD class="tr5 td10"><SPAN class="p20 ft2"><A href="#page_7">7</A></SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr5 td4"><SPAN class="p14 ft2"><A href="#page_7">5</A></SPAN> </TD>
+	<TD colspan=2 class="tr5 td11"><SPAN class="p15 ft2"><A href="#page_7">Ändrade övergångsbestämmelser......................................................</A></SPAN> </TD>
+	<TD class="tr5 td10"><SPAN class="p20 ft2"><A href="#page_7">7</A></SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr5 td4"><SPAN class="p14 ft2"><A href="#page_10">6</A></SPAN> </TD>
+	<TD colspan=2 class="tr5 td11"><SPAN class="p15 ft2"><A href="#page_10">Ikraftträdandebestämmelser............................................................</A></SPAN> </TD>
+	<TD class="tr5 td10"><SPAN class="p14 ft2"><A href="#page_10">10</A></SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr5 td4"><SPAN class="p14 ft2"><A href="#page_10">7</A></SPAN> </TD>
+	<TD colspan=2 class="tr5 td11"><SPAN class="p15 ft2"><A href="#page_10">Konsekvenser..................................................................................</A></SPAN> </TD>
+	<TD class="tr5 td10"><SPAN class="p14 ft2"><A href="#page_10">10</A></SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr6 td4"><SPAN class="p14 ft2"><A href="#page_11">8</A></SPAN> </TD>
+	<TD colspan=2 class="tr6 td11"><SPAN class="p15 ft2"><A href="#page_11">Författningskommentar...................................................................</A></SPAN> </TD>
+	<TD class="tr6 td10"><SPAN class="p14 ft2"><A href="#page_11">11</A></SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr7 td4"><SPAN class="p16 ft7">&nbsp;</SPAN> </TD>
+	<TD class="tr7 td8"><SPAN class="p15 ft2"><A href="#page_11">8.1</A></SPAN> </TD>
+	<TD class="tr7 td9"><SPAN class="p19 ft2"><A href="#page_11">Förslaget till lag om ändring i lagen (1993:584) om</A></SPAN> </TD>
+	<TD class="tr7 td10"><SPAN class="p16 ft7">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr8 td4"><SPAN class="p16 ft9">&nbsp;</SPAN> </TD>
+	<TD class="tr8 td8"><SPAN class="p16 ft9">&nbsp;</SPAN> </TD>
+	<TD class="tr8 td9"><SPAN class="p19 ft10"><A href="#page_11">medicintekniska produkter ...............................................</A></SPAN> </TD>
+	<TD class="tr8 td10"><SPAN class="p14 ft10"><A href="#page_11">11</A></SPAN> </TD>
+</TR>
+</TABLE>
+<P class="p18 ft2"><SPAN class="ft2">8.2</SPAN><A href="#page_11"><SPAN class="ft8">Förslaget till lag om ändring i lagen (2011:791) om</SPAN></A></P>
+<TABLE cellpadding=0 cellspacing=0 class="t2">
+<TR>
+	<TD class="tr4 td12"><SPAN class="p16 ft7">&nbsp;</SPAN> </TD>
+	<TD class="tr4 td13"><SPAN class="p16 ft2"><A href="#page_11">ackreditering och teknisk kontroll ....................................</A></SPAN> </TD>
+	<TD class="tr4 td10"><SPAN class="p14 ft2"><A href="#page_11">11</A></SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr2 td12"><SPAN class="p16 ft2">Bilaga 1</SPAN> </TD>
+	<TD class="tr2 td13"><SPAN class="p16 ft2"><A href="#page_12">Europaparlamentets och rådets förordning (EU)</A></SPAN> </TD>
+	<TD class="tr2 td10"><SPAN class="p16 ft7">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr3 td12"><SPAN class="p16 ft7">&nbsp;</SPAN> </TD>
+	<TD class="tr3 td13"><SPAN class="p16 ft2"><A href="#page_12">2020/561 av den 23 april 2020 om ändring av</A></SPAN> </TD>
+	<TD class="tr3 td10"><SPAN class="p16 ft7">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr3 td12"><SPAN class="p16 ft7">&nbsp;</SPAN> </TD>
+	<TD class="tr3 td13"><SPAN class="p16 ft2"><A href="#page_12">förordning (EU) 2017/745 om medicintekniska</A></SPAN> </TD>
+	<TD class="tr3 td10"><SPAN class="p16 ft7">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr7 td12"><SPAN class="p16 ft7">&nbsp;</SPAN> </TD>
+	<TD class="tr7 td13"><SPAN class="p16 ft2"><A href="#page_12">produkter vad gäller tillämpningsdatum för vissa</A></SPAN> </TD>
+	<TD class="tr7 td10"><SPAN class="p16 ft7">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr4 td12"><SPAN class="p16 ft7">&nbsp;</SPAN> </TD>
+	<TD class="tr4 td13"><SPAN class="p16 ft2"><A href="#page_12">bestämmelser....................................................................</A></SPAN> </TD>
+	<TD class="tr4 td10"><SPAN class="p14 ft2"><A href="#page_12">12</A></SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr9 td12"><SPAN class="p16 ft2">Bilaga 2</SPAN> </TD>
+	<TD class="tr9 td13"><SPAN class="p16 ft2"><A href="#page_17">Sammanfattning av promemorian Utkast till</A></SPAN> </TD>
+	<TD class="tr9 td10"><SPAN class="p16 ft7">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr3 td12"><SPAN class="p16 ft7">&nbsp;</SPAN> </TD>
+	<TD class="tr3 td13"><SPAN class="p16 ft2"><A href="#page_17">proposition Ändrade övergångsbestämmelser när det</A></SPAN> </TD>
+	<TD class="tr3 td10"><SPAN class="p16 ft7">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr4 td12"><SPAN class="p16 ft7">&nbsp;</SPAN> </TD>
+	<TD class="tr4 td13"><SPAN class="p16 ft2"><A href="#page_17">gäller medicintekniska produkter .....................................</A></SPAN> </TD>
+	<TD class="tr4 td10"><SPAN class="p14 ft2"><A href="#page_17">17</A></SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr2 td12"><SPAN class="p16 ft2">Bilaga 3</SPAN> </TD>
+	<TD class="tr2 td13"><SPAN class="p16 ft2"><A href="#page_18">Lagförslaget i promemorian .............................................</A></SPAN> </TD>
+	<TD class="tr2 td10"><SPAN class="p14 ft2"><A href="#page_18">18</A></SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr5 td12"><SPAN class="p16 ft2">Bilaga 4</SPAN> </TD>
+	<TD class="tr5 td13"><SPAN class="p16 ft2"><A href="#page_20">Förteckning över remissinstanserna .................................</A></SPAN> </TD>
+	<TD class="tr5 td10"><SPAN class="p14 ft2"><A href="#page_20">20</A></SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=2 class="tr5 td14"><SPAN class="p16 ft2"><A href="#page_21">Utdrag ur protokoll vid regeringssammanträde den 30 april 2020 .........</A></SPAN> </TD>
+	<TD class="tr5 td10"><SPAN class="p14 ft2"><A href="#page_21">21</A></SPAN> </TD>
+</TR>
+</TABLE>
+</DIV>
+</DIV>
+</DIV>
+<DIV id="page_3">
+
+
+<TABLE cellpadding=0 cellspacing=0 class="t3">
+<TR>
+	<TD class="tr10 td15"><SPAN class="p21 ft1">1</SPAN> </TD>
+	<TD class="tr10 td16"><SPAN class="p22 ft1">Förslag till riksdagsbeslut</SPAN> </TD>
+	<TD class="tr10 td17"><SPAN class="p16 ft2">Prop. 2019/20:161</SPAN> </TD>
+</TR>
+</TABLE>
+<P class="p23 ft2">Regeringens förslag:</P>
+<P class="p24 ft6"><SPAN class="ft2">1</SPAN><SPAN class="ft11">Riksdagen antar regeringens förslag till lag om ändring i lagen (1993:584) om medicintekniska produkter.</SPAN></P>
+<P class="p25 ft6"><SPAN class="ft2">2</SPAN><SPAN class="ft11">Riksdagen antar regeringens förslag till lag om ändring i lagen (2011:791) om ackreditering och teknisk kontroll.</SPAN></P>
+<P class="p10 ft2">Riksdagen beslutar att förkorta motionstiden till fyra dagar.</P>
+<P class="p26 ft2">3</P>
+</DIV>
+<DIV id="page_4">
+<DIV id="p4dimg1">
+<INGENBILD zsrc="H7031614x1.jpg/" id="p4img1">
+</DIV>
+
+
+<TABLE cellpadding=0 cellspacing=0 class="t4">
+<TR>
+	<TD class="tr11 td18"><SPAN class="p16 ft2">Prop. 2019/20:161 <SPAN class="ft1">2</SPAN></SPAN> </TD>
+	<TD class="tr11 td19"><SPAN class="p16 ft1">Lagtext</SPAN> </TD>
+</TR>
+</TABLE>
+<P class="p27 ft2">Regeringen har följande förslag till lagtext.</P>
+<P class="p28 ft14"><SPAN class="ft12">2.1</SPAN><SPAN class="ft13">Lag om ändring i lagen (1993:584) om medicintekniska produkter</SPAN></P>
+<P class="p29 ft6">Härigenom föreskrivs i fråga om lagen (1993:584) om medicintekniska produkter att punkt 2 i ikraftträdande- och övergångsbestämmelserna till lagen (2017:930) om ändring i den lagen ska ha följande lydelse.</P>
+<TABLE cellpadding=0 cellspacing=0 class="t5">
+<TR>
+	<TD colspan=3 class="tr12 td20"><SPAN class="p16 ft3">Nuvarande lydelse</SPAN> </TD>
+	<TD class="tr12 td21"><SPAN class="p16 ft7">&nbsp;</SPAN> </TD>
+	<TD colspan=3 class="tr12 td22"><SPAN class="p16 ft3">Föreslagen lydelse</SPAN> </TD>
+	<TD class="tr12 td23"><SPAN class="p16 ft7">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=4 class="tr11 td24"><SPAN class="p30 ft2">2. Äldre föreskrifter gäller fort-</SPAN> </TD>
+	<TD colspan=4 class="tr11 td25"><SPAN class="p14 ft2">2. Äldre föreskrifter gäller fort-</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=4 class="tr7 td24"><SPAN class="p16 ft2">farande för organ för bedömning av</SPAN> </TD>
+	<TD colspan=4 class="tr7 td25"><SPAN class="p16 ft2">farande för organ för bedömning av</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=3 class="tr3 td20"><SPAN class="p16 ft2">överensstämmelse som</SPAN> </TD>
+	<TD class="tr3 td21"><SPAN class="p30 ft2">fram till</SPAN> </TD>
+	<TD colspan=3 class="tr3 td22"><SPAN class="p16 ft2">överensstämmelse som</SPAN> </TD>
+	<TD class="tr3 td23"><SPAN class="p14 ft2">fram till</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=4 class="tr3 td24"><SPAN class="p16 ft2">och med den 25 maj <SPAN class="ft3">2020 </SPAN>utses och</SPAN> </TD>
+	<TD colspan=4 class="tr3 td25"><SPAN class="p16 ft16">och med den 25 maj <SPAN class="ft15">2021 </SPAN>utses och</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr7 td8"><SPAN class="p16 ft2">anmäls</SPAN> </TD>
+	<TD class="tr7 td26"><SPAN class="p31 ft2">enligt</SPAN> </TD>
+	<TD class="tr7 td27"><SPAN class="p32 ft2">rådets</SPAN> </TD>
+	<TD class="tr7 td21"><SPAN class="p30 ft2">direktiv</SPAN> </TD>
+	<TD class="tr7 td28"><SPAN class="p16 ft2">anmäls</SPAN> </TD>
+	<TD class="tr7 td29"><SPAN class="p33 ft2">enligt</SPAN> </TD>
+	<TD class="tr7 td30"><SPAN class="p34 ft2">rådets</SPAN> </TD>
+	<TD class="tr7 td23"><SPAN class="p14 ft2">direktiv</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=4 class="tr3 td24"><SPAN class="p16 ft2">90/385/EEG av den 20 juni 1990</SPAN> </TD>
+	<TD colspan=4 class="tr3 td25"><SPAN class="p16 ft2">90/385/EEG av den 20 juni 1990</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=4 class="tr3 td24"><SPAN class="p16 ft2">om tillnärmning av medlemsstater-</SPAN> </TD>
+	<TD colspan=4 class="tr3 td25"><SPAN class="p16 ft2">om tillnärmning av medlemsstater-</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=4 class="tr7 td24"><SPAN class="p16 ft2">nas lagstiftning om aktiva medicin-</SPAN> </TD>
+	<TD colspan=4 class="tr7 td25"><SPAN class="p16 ft2">nas lagstiftning om aktiva medicin-</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=4 class="tr3 td24"><SPAN class="p16 ft2">tekniska produkter för implanta-</SPAN> </TD>
+	<TD colspan=4 class="tr3 td25"><SPAN class="p16 ft2">tekniska produkter för implanta-</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=4 class="tr3 td24"><SPAN class="p16 ft2">tion, i lydelsen enligt Europaparla-</SPAN> </TD>
+	<TD colspan=4 class="tr3 td25"><SPAN class="p16 ft2">tion, i lydelsen enligt Europaparla-</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr7 td8"><SPAN class="p16 ft2">mentets</SPAN> </TD>
+	<TD class="tr7 td26"><SPAN class="p33 ft16">och</SPAN> </TD>
+	<TD class="tr7 td27"><SPAN class="p16 ft2">rådets</SPAN> </TD>
+	<TD class="tr7 td21"><SPAN class="p30 ft2">direktiv</SPAN> </TD>
+	<TD class="tr7 td28"><SPAN class="p16 ft2">mentets</SPAN> </TD>
+	<TD class="tr7 td29"><SPAN class="p35 ft16">och</SPAN> </TD>
+	<TD class="tr7 td30"><SPAN class="p16 ft2">rådets</SPAN> </TD>
+	<TD class="tr7 td23"><SPAN class="p14 ft2">direktiv</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=2 class="tr3 td31"><SPAN class="p16 ft2">2007/47/EG och</SPAN> </TD>
+	<TD class="tr3 td27"><SPAN class="p36 ft2">rådets</SPAN> </TD>
+	<TD class="tr3 td21"><SPAN class="p30 ft2">direktiv</SPAN> </TD>
+	<TD colspan=2 class="tr3 td31"><SPAN class="p16 ft2">2007/47/EG och</SPAN> </TD>
+	<TD class="tr3 td30"><SPAN class="p37 ft2">rådets</SPAN> </TD>
+	<TD class="tr3 td23"><SPAN class="p14 ft2">direktiv</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=4 class="tr3 td24"><SPAN class="p16 ft2">93/42/EEG av den 14 juni 1993 om</SPAN> </TD>
+	<TD colspan=4 class="tr3 td25"><SPAN class="p16 ft2">93/42/EEG av den 14 juni 1993 om</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=4 class="tr7 td24"><SPAN class="p16 ft2">medicintekniska produkter, i lydel-</SPAN> </TD>
+	<TD colspan=4 class="tr7 td25"><SPAN class="p16 ft2">medicintekniska produkter, i lydel-</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=4 class="tr3 td24"><SPAN class="p16 ft2">sen enligt Europaparlamentets och</SPAN> </TD>
+	<TD colspan=4 class="tr3 td25"><SPAN class="p16 ft2">sen enligt Europaparlamentets och</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=4 class="tr4 td24"><SPAN class="p16 ft2">rådets direktiv 2007/47/EG.</SPAN> </TD>
+	<TD colspan=4 class="tr4 td25"><SPAN class="p16 ft2">rådets direktiv 2007/47/EG.</SPAN> </TD>
+</TR>
+</TABLE>
+<P class="p38 ft2">Denna lag träder i kraft den 26 maj 2020.</P>
+<P class="p39 ft2">4</P>
+</DIV>
+<DIV id="page_5">
+<DIV id="p5dimg1">
+<INGENBILD zsrc="H7031615x1.jpg/" id="p5img1">
+</DIV>
+
+
+<DIV id="id_1">
+<TABLE cellpadding=0 cellspacing=0 class="t6">
+<TR>
+	<TD class="tr10 td27"><SPAN class="p40 ft17">2.2</SPAN> </TD>
+	<TD class="tr10 td32"><SPAN class="p41 ft17">Lag om ändring i lagen (2011:791) om</SPAN> </TD>
+	<TD class="tr10 td17"><SPAN class="p16 ft2">Prop. 2019/20:161</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr12 td27"><SPAN class="p16 ft7">&nbsp;</SPAN> </TD>
+	<TD class="tr12 td32"><SPAN class="p41 ft17">ackreditering och teknisk kontroll</SPAN> </TD>
+	<TD class="tr12 td17"><SPAN class="p16 ft7">&nbsp;</SPAN> </TD>
+</TR>
+</TABLE>
+<P class="p42 ft4">Härigenom föreskrivs i fråga om lagen (2011:791) om ackreditering och teknisk kontroll att punkt 2 i ikraftträdande- och övergångsbestämmelserna till lagen (2017:931) om ändring i den lagen ska ha följande lydelse.</P>
+</DIV>
+<DIV id="id_2">
+<DIV id="id_2_1">
+<P class="p12 ft3">Nuvarande lydelse</P>
+<P class="p43 ft2"><SPAN class="ft2">2.</SPAN><SPAN class="ft18">Äldre föreskrifter gäller fortfarande för organ för bedömning av överensstämmelse som fram till och med den 25 maj </SPAN><SPAN class="ft3">2020 </SPAN>utses och anmäls enligt rådets direktiv 90/385/EEG av den 20 juni 1990 om tillnärmning av medlemsstaternas lagstiftning om aktiva medicintekniska produkter för implantation, i lydelsen enligt Europaparlamentets och rådets direktiv 2007/47/EG och rådets direktiv 93/42/EEG av den 14 juni 1993 om medicintekniska produkter, i lydelsen enligt Europaparlamentets och rådets direktiv 2007/47/EG.</P>
+</DIV>
+<DIV id="id_2_2">
+<P class="p12 ft3">Föreslagen lydelse</P>
+<P class="p44 ft2"><SPAN class="ft2">2.</SPAN><SPAN class="ft18">Äldre föreskrifter gäller fortfarande för organ för bedömning av överensstämmelse som fram till och med den 25 maj </SPAN><SPAN class="ft3">2021 </SPAN>utses och anmäls enligt rådets direktiv 90/385/EEG av den 20 juni 1990 om tillnärmning av medlemsstaternas lagstiftning om aktiva medicintekniska produkter för implantation, i lydelsen enligt Europaparlamentets och rådets direktiv 2007/47/EG och rådets direktiv 93/42/EEG av den 14 juni 1993 om medicintekniska produkter, i lydelsen enligt Europaparlamentets och rådets direktiv 2007/47/EG.</P>
+</DIV>
+</DIV>
+<DIV id="id_3">
+<P class="p10 ft2">Denna lag träder i kraft den 26 maj 2020.</P>
+<P class="p45 ft2">5</P>
+</DIV>
+</DIV>
+<DIV id="page_6">
+
+
+<TABLE cellpadding=0 cellspacing=0 class="t7">
+<TR>
+	<TD class="tr13 td33"><SPAN class="p16 ft2">Prop. 2019/20:161</SPAN> </TD>
+	<TD class="tr13 td34"><SPAN class="p37 ft1">3</SPAN> </TD>
+	<TD class="tr13 td35"><SPAN class="p46 ft1">Ärendet och dess beredning</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr14 td33"><SPAN class="p16 ft7">&nbsp;</SPAN> </TD>
+	<TD colspan=2 class="tr14 td36"><SPAN class="p37 ft2">Den 5 april 2017 beslutades Europaparlamentets och rådets förordning</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr7 td33"><SPAN class="p16 ft7">&nbsp;</SPAN> </TD>
+	<TD colspan=2 class="tr7 td36"><SPAN class="p37 ft2">(EU) 2017/745 om medicintekniska produkter, om ändring av direktiv</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr3 td33"><SPAN class="p16 ft7">&nbsp;</SPAN> </TD>
+	<TD colspan=2 class="tr3 td36"><SPAN class="p37 ft2">2001/83/EG, förordning (EG) nr 178/2002 och förordning (EG) nr</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr3 td33"><SPAN class="p16 ft7">&nbsp;</SPAN> </TD>
+	<TD colspan=2 class="tr3 td36"><SPAN class="p37 ft2">1223/2009 och om upphävande av rådets direktiv 90/385/EEG och</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr7 td33"><SPAN class="p16 ft7">&nbsp;</SPAN> </TD>
+	<TD colspan=2 class="tr7 td36"><SPAN class="p37 ft2">93/42/EEG. Samma datum beslutades även Europaparlamentets och rådets</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr3 td33"><SPAN class="p16 ft7">&nbsp;</SPAN> </TD>
+	<TD colspan=2 class="tr3 td36"><SPAN class="p37 ft2">förordning (EU) 2017/746 om medicintekniska produkter för in vitro-</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr3 td33"><SPAN class="p16 ft7">&nbsp;</SPAN> </TD>
+	<TD colspan=2 class="tr3 td36"><SPAN class="p37 ft2">diagnostik och om upphävande av direktiv 98/79/EG och kommissionens</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr7 td33"><SPAN class="p16 ft7">&nbsp;</SPAN> </TD>
+	<TD colspan=2 class="tr7 td36"><SPAN class="p37 ft2">beslut 2010/227/EU. I det följande hänvisas till <NOBR>EU-förordningarna</NOBR> med</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr3 td33"><SPAN class="p16 ft7">&nbsp;</SPAN> </TD>
+	<TD colspan=2 class="tr3 td36"><SPAN class="p37 ft2">hjälp av de engelska förkortningarna, dvs. <NOBR>MDR-förordningen</NOBR> (Medical</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr7 td33"><SPAN class="p16 ft7">&nbsp;</SPAN> </TD>
+	<TD colspan=2 class="tr7 td36"><SPAN class="p37 ft2">Devices Regulation) och <NOBR>IVDR-förordningen</NOBR> (In Vitro Diagnostic Regula-</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr3 td33"><SPAN class="p16 ft7">&nbsp;</SPAN> </TD>
+	<TD colspan=2 class="tr3 td36"><SPAN class="p37 ft2">tion).</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr3 td33"><SPAN class="p16 ft7">&nbsp;</SPAN> </TD>
+	<TD class="tr3 td34"><SPAN class="p16 ft7">&nbsp;</SPAN> </TD>
+	<TD class="tr3 td35"><SPAN class="p1 ft2">Förordningarna trädde i kraft den 25 maj 2017. De ska börja tillämpas</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr3 td33"><SPAN class="p16 ft7">&nbsp;</SPAN> </TD>
+	<TD colspan=2 class="tr3 td36"><SPAN class="p37 ft2">tre respektive fem år efter ikraftträdandet. <NOBR>MDR-förordningen</NOBR> ska således</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr7 td33"><SPAN class="p16 ft7">&nbsp;</SPAN> </TD>
+	<TD colspan=2 class="tr7 td36"><SPAN class="p37 ft2">börja tillämpas den 26 maj 2020 och <NOBR>IVDR-förordningen</NOBR> den 26 maj 2022.</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr3 td33"><SPAN class="p16 ft7">&nbsp;</SPAN> </TD>
+	<TD colspan=2 class="tr3 td36"><SPAN class="p37 ft2">Vissa delar av förordningarna som rör bl.a. anmälda organ och ansvarig</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr7 td33"><SPAN class="p16 ft7">&nbsp;</SPAN> </TD>
+	<TD colspan=2 class="tr7 td36"><SPAN class="p37 ft2">myndighet för anmälda organ började dock att tillämpas redan sex månad-</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr3 td33"><SPAN class="p16 ft7">&nbsp;</SPAN> </TD>
+	<TD colspan=2 class="tr3 td36"><SPAN class="p37 ft2">er efter ikraftträdandet, dvs. den 26 november 2017.</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr3 td33"><SPAN class="p16 ft7">&nbsp;</SPAN> </TD>
+	<TD class="tr3 td34"><SPAN class="p16 ft7">&nbsp;</SPAN> </TD>
+	<TD class="tr3 td35"><SPAN class="p1 ft2">Regeringen lämnade i juni 2017 en proposition till riksdagen (Anpass-</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr3 td33"><SPAN class="p16 ft7">&nbsp;</SPAN> </TD>
+	<TD colspan=2 class="tr3 td36"><SPAN class="p37 ft2">ningar till EU:s nya förordningar om medicinteknik – del 1, prop.</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr7 td33"><SPAN class="p16 ft7">&nbsp;</SPAN> </TD>
+	<TD colspan=2 class="tr7 td36"><SPAN class="p37 ft2">2016/17:197) avseende de delar av <NOBR>EU-förordningarna</NOBR> som skulle börja</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr3 td33"><SPAN class="p16 ft7">&nbsp;</SPAN> </TD>
+	<TD colspan=2 class="tr3 td36"><SPAN class="p37 ft2">tillämpas efter sex månader. Propositionen innehöll främst förslag som</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr7 td33"><SPAN class="p16 ft7">&nbsp;</SPAN> </TD>
+	<TD colspan=2 class="tr7 td36"><SPAN class="p37 ft2">gällde anmälda organ och ansvarig myndighet för anmälda organ. Riks-</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr3 td33"><SPAN class="p16 ft7">&nbsp;</SPAN> </TD>
+	<TD colspan=2 class="tr3 td36"><SPAN class="p37 ft2">dagen biföll förslagen i propositionen den 18 oktober 2017.</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr3 td33"><SPAN class="p16 ft7">&nbsp;</SPAN> </TD>
+	<TD class="tr3 td34"><SPAN class="p16 ft7">&nbsp;</SPAN> </TD>
+	<TD class="tr3 td35"><SPAN class="p1 ft2">Den 23 april 2020 beslutades Europaparlamentets och rådets förordning</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr3 td33"><SPAN class="p16 ft7">&nbsp;</SPAN> </TD>
+	<TD colspan=2 class="tr3 td36"><SPAN class="p37 ft2">(EU) 2020/561 om ändring av förordning (EU) 2017/745 om medicintek-</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr7 td33"><SPAN class="p16 ft7">&nbsp;</SPAN> </TD>
+	<TD colspan=2 class="tr7 td36"><SPAN class="p37 ft2">niska produkter vad gäller tillämpningsdatum för vissa bestämmelser. För-</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr3 td33"><SPAN class="p16 ft7">&nbsp;</SPAN> </TD>
+	<TD colspan=2 class="tr3 td36"><SPAN class="p37 ft2">ordningen finns i <SPAN class="ft3">bilaga 1</SPAN>. Genom den förordningen flyttas den dag som</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr7 td33"><SPAN class="p16 ft7">&nbsp;</SPAN> </TD>
+	<TD colspan=2 class="tr7 td36"><SPAN class="p37 ft2"><NOBR>MDR-förordningen</NOBR> ska börja tillämpas fram. I stället för den 26 maj 2020</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr3 td33"><SPAN class="p16 ft7">&nbsp;</SPAN> </TD>
+	<TD colspan=2 class="tr3 td36"><SPAN class="p37 ft2">ska <NOBR>MDR-förordningen</NOBR> börja tillämpas den 26 maj 2021. Detta leder till</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr3 td33"><SPAN class="p16 ft7">&nbsp;</SPAN> </TD>
+	<TD colspan=2 class="tr3 td36"><SPAN class="p37 ft16">att två övergångsbestämmelser måste ändras. Denna proposition innehåll-</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr7 td33"><SPAN class="p16 ft7">&nbsp;</SPAN> </TD>
+	<TD colspan=2 class="tr7 td36"><SPAN class="p37 ft2">er förslag till dessa ändringar.</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr3 td33"><SPAN class="p16 ft7">&nbsp;</SPAN> </TD>
+	<TD class="tr3 td34"><SPAN class="p16 ft7">&nbsp;</SPAN> </TD>
+	<TD class="tr3 td35"><SPAN class="p1 ft2">Ett utkast till proposition om ändrade övergångsbestämmelser när det</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr3 td33"><SPAN class="p16 ft7">&nbsp;</SPAN> </TD>
+	<TD colspan=2 class="tr3 td36"><SPAN class="p37 ft2">gäller medicintekniska produkter har tagits fram inom Regeringskansliet</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr7 td33"><SPAN class="p16 ft7">&nbsp;</SPAN> </TD>
+	<TD colspan=2 class="tr7 td36"><SPAN class="p37 ft2">(Socialdepartementet). En sammanfattning av utkastet finns i <SPAN class="ft3">bilaga 2</SPAN>.</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr3 td33"><SPAN class="p16 ft7">&nbsp;</SPAN> </TD>
+	<TD colspan=2 class="tr3 td36"><SPAN class="p37 ft16">Lagförslagen i utkastet finns i <SPAN class="ft15">bilaga 3</SPAN>. Utkastet har remissbehandlats. En</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr3 td33"><SPAN class="p16 ft7">&nbsp;</SPAN> </TD>
+	<TD colspan=2 class="tr3 td36"><SPAN class="p37 ft2">förteckning över remissinstanserna finns i <SPAN class="ft3">bilaga 4</SPAN>. Remissyttrandena</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr7 td33"><SPAN class="p16 ft7">&nbsp;</SPAN> </TD>
+	<TD colspan=2 class="tr7 td36"><SPAN class="p37 ft2">finns tillgängliga i Socialdepartementet (dnr S2020/03633/FS).</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr3 td33"><SPAN class="p16 ft7">&nbsp;</SPAN> </TD>
+	<TD class="tr3 td34"><SPAN class="p16 ft7">&nbsp;</SPAN> </TD>
+	<TD class="tr3 td35"><SPAN class="p1 ft2">Inom Socialdepartementet har det även utarbetats en departementspro-</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr3 td33"><SPAN class="p16 ft7">&nbsp;</SPAN> </TD>
+	<TD colspan=2 class="tr3 td36"><SPAN class="p37 ft2">memoria, Anpassningar till EU:s förordningar om medicintekniska pro-</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr7 td33"><SPAN class="p16 ft7">&nbsp;</SPAN> </TD>
+	<TD colspan=2 class="tr7 td36"><SPAN class="p37 ft2">dukter (Ds 2019:32). I departementspromemorian föreslås de lag- och för-</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr3 td33"><SPAN class="p16 ft7">&nbsp;</SPAN> </TD>
+	<TD colspan=2 class="tr3 td36"><SPAN class="p37 ft16">ordningsändringar som bedöms nödvändiga för att anpassa svensk rätt till</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr3 td33"><SPAN class="p16 ft7">&nbsp;</SPAN> </TD>
+	<TD colspan=2 class="tr3 td36"><SPAN class="p37 ft2"><NOBR>EU-förordningarna.</NOBR> Departementspromemorian har remitterats och reger-</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr4 td33"><SPAN class="p16 ft7">&nbsp;</SPAN> </TD>
+	<TD colspan=2 class="tr4 td36"><SPAN class="p37 ft2">ingen fortsätter arbetet med den lagstiftningen.</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr14 td33"><SPAN class="p16 ft7">&nbsp;</SPAN> </TD>
+	<TD colspan=2 class="tr14 td36"><SPAN class="p37 ft3">Lagrådet</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr9 td33"><SPAN class="p16 ft7">&nbsp;</SPAN> </TD>
+	<TD colspan=2 class="tr9 td36"><SPAN class="p37 ft2">De lagförslag som läggs fram i propositionen, som innebär att äldre be-</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr7 td33"><SPAN class="p16 ft7">&nbsp;</SPAN> </TD>
+	<TD colspan=2 class="tr7 td36"><SPAN class="p37 ft16">stämmelser för organ för bedömning av överensstämmelse ska fortsätta att</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr4 td33"><SPAN class="p16 ft2">6</SPAN> </TD>
+	<TD colspan=2 class="tr4 td36"><SPAN class="p37 ft2">gälla ytterligare ett år, är författningstekniskt och även i övrigt av sådan</SPAN> </TD>
+</TR>
+</TABLE>
+</DIV>
+<DIV id="page_7">
+<DIV id="p7dimg1">
+<INGENBILD zsrc="H7031617x1.jpg/" id="p7img1">
+</DIV>
+
+
+<P class="p47 ft4">beskaffenhet att Lagrådets hörande skulle sakna betydelse. Lagrådets ytt- Prop. 2019/20:161 rande har därför inte inhämtats.</P>
+<P class="p48 ft1">4 Bakgrund</P>
+<P class="p49 ft2"><NOBR>MDR-förordningen</NOBR> skulle börja tillämpas i medlemsstaterna den 26 maj 2020. Samtidigt skulle direktiv 90/385/EEG om aktiva medicintekniska produkter för implantation och direktiv 93/42/EEG om medicintekniska produkter upphävas, dock med vissa övergångsbestämmelser.</P>
+<P class="p50 ft2">Utbrottet av sjukdomen <NOBR>covid-19</NOBR> som orsakas av det nya coronaviruset har lett till en folkhälsokris som utgör en mycket stor utmaning för medlemsstaterna och innebär en enorm börda för nationella myndigheter, hälsoinstitutioner, <NOBR>EU-medborgare</NOBR> och ekonomiska aktörer. Europaparlamentet och rådet har pekat på att krisen har skapat extraordinära omständigheter som ställer krav på avsevärda ytterligare resurser, liksom ökad tillgång till ytterst viktiga medicintekniska produkter, vilket inte rimligen kunde ha förutsetts vid antagandet av <NOBR>MDR-förordningen.</NOBR> Parlamentet och rådet finner att dessa extraordinära omständigheter har betydande konsekvenser för olika områden som omfattas av MDR- förordningen och att det är mycket sannolikt att medlemsstater, hälso- och sjukvårdsinstitutioner, ekonomiska aktörer och andra relevanta parter inte kommer att vara i stånd att genomföra och tillämpa förordningen från och med den 26 maj 2020.</P>
+<P class="p51 ft2">För att säkerställa att den inre marknaden fungerar smidigt, för att säkerställa en hög skyddsnivå för folkhälsan och patientsäkerheten, för att ge rättssäkerhet och för att undvika eventuella störningar på marknaden har parlamentet och rådet funnit det nödvändigt att skjuta upp tillämpningen av vissa bestämmelser i <NOBR>MDR-förordningen</NOBR> med ett år. Samtidigt har dagen för upphävande av direktiv 90/385/EEG och 93/42/EEG ändrats. På detta sätt säkerställs det att det finns ett fungerande regelverk för medicintekniska produkter från den 26 maj 2020.</P>
+<P class="p52 ft4">Till följd av att tillämpningen av <NOBR>MDR-förordningen</NOBR> skjuts upp behöver två övergångsbestämmelser i svensk lagstiftning ändras. Detta behandlas i avsnitt 5.</P>
+<P class="p53 ft1">5 Ändrade övergångsbestämmelser</P>
+<P class="p54 ft6"><SPAN class="ft19">Regeringens förslag: </SPAN>Övergångsbestämmelsen till lagen om medicintekniska produkter och övergångsbestämmelsen till lagen om ackreditering och teknisk kontroll ska ändras så att äldre föreskrifter fortfarande ska gälla fram till och med den 25 maj 2021 för de organ för bedömning av överensstämmelse som väljer att ansöka om att utses enligt direktiven, respektive för de anmälda organ som sedan tidigare har utsetts enligt direktiven.</P>
+<P class="p55 ft2">7</P>
+</DIV>
+<DIV id="page_8">
+
+
+<P class="p56 ft6">Prop. 2019/20:161 <SPAN class="ft19">Förslaget i utkastet till proposition </SPAN>överensstämmer med regeringens. <SPAN class="ft19">Remissinstanser: </SPAN>Remissinstanserna tillstyrker eller har inga synpunkter på förslaget.</P>
+<P class="p57 ft20">Skälen för regeringens förslag</P>
+<P class="p58 ft3">Anmälda organ</P>
+<P class="p59 ft2">Anmälda organ är organ för bedömning av överensstämmelse som har utsetts och anmälts till Europeiska kommissionen. Dessa organ bedömer om en produkt uppfyller alla de krav som uppställs i lagstiftningen, exempelvis genom kalibrering, provning, certifiering och kontroll. Ett anmält organ utför tredjepartsbedömningar, dvs. det är utsett av en myndighet och det bedömer överensstämmelsen av produkter på uppdrag av exempelvis en tillverkare av produkten.</P>
+<P class="p60 ft3">Anmälda organ enligt direktiven</P>
+<P class="p61 ft2">I enlighet med den lagstiftning som grundar sig på direktiv 90/385/EEG om aktiva medicintekniska produkter för implantation och direktiv 93/42/EEG om medicintekniska produkter har anmälda organ utsetts och anmälts till kommissionen av Styrelsen för ackreditering och teknisk kontroll (Swedac). Med ackreditering avses förenklat en kompetensbedömning av organet i fråga, t.ex. vad gäller dess kompetens i fråga om regelverket om medicinteknik. Swedac utför denna verksamhet i enlighet med lagen (2011:791) om ackreditering och teknisk kontroll.</P>
+<P class="p62 ft3">Anmälda organ enligt <NOBR>MDR-förordningen</NOBR> och <NOBR>IVDR-förordningen</NOBR></P>
+<P class="p61 ft2"><SPAN class="ft2">I</SPAN><NOBR><SPAN class="ft21">MDR-förordningen</SPAN></NOBR> och <NOBR>IVDR-förordningen</NOBR> regleras kraven på ansvariga myndigheter och anmälda organ i kapitel IV i respektive <NOBR>EU-förord-</NOBR> ning. Av artikel 35 i <NOBR>MDR-förordningen</NOBR> och artikel 31 i <NOBR>IVDR-förordning-</NOBR> en framgår att ansvarig myndighet ska vara ansvarig för att bedöma, utse och anmäla organ för bedömning av överensstämmelse och för att övervaka anmälda organ, inklusive underentreprenörer och dotterbolag till dessa. I Sverige har Läkemedelsverket utsetts till ansvarig myndighet för anmälda organ, jämför 30 § förordningen (2020:57) med instruktion för Läkemedelsverket. Det är därmed Läkemedelsverket som utser anmälda organ i Sverige enligt <NOBR>EU-förordningarna</NOBR> och anmäler dessa organ till kommissionen.</P>
+<TABLE cellpadding=0 cellspacing=0 class="t8">
+<TR>
+	<TD class="tr5 td37"><SPAN class="p16 ft7">&nbsp;</SPAN> </TD>
+	<TD class="tr5 td38"><SPAN class="p63 ft3">Övergångsbestämmelserna i <NOBR>MDR-förordningen</NOBR> och <NOBR>IVDR-förordningen</NOBR></SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr9 td37"><SPAN class="p16 ft7">&nbsp;</SPAN> </TD>
+	<TD class="tr9 td38"><SPAN class="p63 ft2"><NOBR>EU-förordningarnas</NOBR> regler om anmälda organ började tillämpas den</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr3 td37"><SPAN class="p16 ft7">&nbsp;</SPAN> </TD>
+	<TD class="tr3 td38"><SPAN class="p63 ft2">26 november 2017, men det finns ett viktigt undantag i artikel 123.3 a i</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr3 td37"><SPAN class="p16 ft7">&nbsp;</SPAN> </TD>
+	<TD class="tr3 td38"><SPAN class="p63 ft2"><NOBR>MDR-förordningen</NOBR> och artikel 113.3 b i <NOBR>IVDR-förordningen.</NOBR> Av dessa</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr7 td37"><SPAN class="p16 ft7">&nbsp;</SPAN> </TD>
+	<TD class="tr7 td38"><SPAN class="p64 ft2">bestämmelser framgår det att de anmälda organens skyldigheter enligt</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr3 td37"><SPAN class="p16 ft7">&nbsp;</SPAN> </TD>
+	<TD class="tr3 td38"><SPAN class="p64 ft2"><NOBR>MDR-förordningen</NOBR> och <NOBR>IVDR-förordningen</NOBR> under en övergångstid</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr7 td37"><SPAN class="p16 ft7">&nbsp;</SPAN> </TD>
+	<TD class="tr7 td38"><SPAN class="p64 ft2">mellan den 26 november 2017 och den 26 maj 2020 respektive 26 maj</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr3 td37"><SPAN class="p16 ft7">&nbsp;</SPAN> </TD>
+	<TD class="tr3 td38"><SPAN class="p64 ft16">2022 endast gäller de organ som lämnar en ansökan om att bli anmält organ</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr3 td37"><SPAN class="p16 ft7">&nbsp;</SPAN> </TD>
+	<TD class="tr3 td38"><SPAN class="p64 ft2">enligt förordningarna. Denna reglering får två huvudsakliga konsekvenser</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr3 td37"><SPAN class="p16 ft7">&nbsp;</SPAN> </TD>
+	<TD class="tr3 td38"><SPAN class="p64 ft2">för de anmälda organen. Den första är att anmälda organ som redan har</SPAN> </TD>
+</TR>
+<TR>
+	<TD rowspan=2 class="tr12 td37"><SPAN class="p65 ft2">8</SPAN> </TD>
+	<TD class="tr4 td38"><SPAN class="p64 ft2">utsetts och anmälts i enlighet med rådets direktiv 90/385/EEG och</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr15 td38"><SPAN class="p16 ft22">&nbsp;</SPAN> </TD>
+</TR>
+</TABLE>
+</DIV>
+<DIV id="page_9">
+
+
+<DIV>
+<DIV id="id_1">
+<P class="p66 ft23">93/42/EEG eller rådets direktiv 98/79/EG under övergångstiden inte behöver utses på nytt om de inte själva vill det. Den andra är att organ kan välja om de vill ansöka om att bli utsedda enligt <NOBR>EU-förordningarna</NOBR> eller enligt direktiven. Slutpunkten för denna möjlighet framgår av artikel 120.1</P>
+<P class="p67 ft2"><SPAN class="ft2">i</SPAN><NOBR><SPAN class="ft21">MDR-förordningen</SPAN></NOBR> och av artikel 110.1 i <NOBR>IVDR-förordningen.</NOBR> Enligt dessa artiklar gäller att varje publicering av ett anmält organ enligt direktiv 90/385/EEG och direktiv 93/42/EEG blir ogiltig från och med den 26 maj 2020 när hela <NOBR>MDR-förordningen</NOBR> börjar tillämpas. För <NOBR>IVDR-förord-</NOBR> ningen gäller i stället att publicering av ett anmält organ enligt direktiv 98/79/EG blir ogiltig från och med den 26 maj 2022 när den förordningen börjar tillämpas. Anmälda organ som väljer att ansöka om att utses enligt <NOBR>EU-förordningarna</NOBR> får genomföra överensstämmelsebedömningar och utfärda intyg i enlighet med förordningarna (se artikel 120.6 i MDR- förordningen och artikel 110.6 i <NOBR>IVDR-förordningen).</NOBR> Det framgår vidare av skälen till <NOBR>EU-förordningarna</NOBR> (skäl 95 i <NOBR>MDR-förordningen</NOBR> och skäl 95</P>
+<P class="p68 ft6"><SPAN class="ft2">i</SPAN><NOBR><SPAN class="ft24">IVDR-förordningen)</SPAN></NOBR> att ett anmält organ som utsetts enligt direktiven och som väljer att ansöka om att utses även enligt <NOBR>EU-förordningarna,</NOBR> under övergångstiden fortfarande kan utfärda giltiga intyg enligt direktiven. Med andra ord kan anmälda organ under övergångstiden utfärda intyg för tillverkare enligt två olika regelverk.</P>
+<P class="p69 ft3">Ansvarig myndighet i Sverige under övergångstiden</P>
+<P class="p70 ft6">Under övergångstiden finns således två tillämpliga regelverk avseende anmälda organ, dels <NOBR>EU-förordningarna,</NOBR> dels direktiven.</P>
+<P class="p71 ft2">Som nämns ovan är Swedac ansvarig myndighet för att utse anmälda organ samt för bedömning, övervakning och tillsyn av dessa enligt direktiven. Samtidigt är Läkemedelsverket den ansvariga myndigheten för anmälda organ enligt <NOBR>MDR-förordningen</NOBR> och <NOBR>IVDR-förordningen.</NOBR> Läkemedelsverket är således den myndighet som utser anmälda organ och som bedömer, övervakar och utövar tillsyn av dessa enligt <NOBR>EU-förordningarna.</NOBR></P>
+<P class="p72 ft6">Under övergångstiden är Swedac således ansvarig myndighet för den verksamhet som det anmälda organet bedriver enligt direktiven, och Läkemedelsverket ansvarar för den verksamhet som det anmälda organet bedriver enligt <NOBR>MDR-förordningen</NOBR> eller <NOBR>IVDR-förordningen.</NOBR></P>
+<P class="p69 ft3">Övergångsbestämmelser</P>
+<P class="p73 ft2"><NOBR>MDR-förordningens</NOBR> övergångsregler när det gäller anmälda organ är genomförda genom de övergångsbestämmelser som infördes i lagen om medicintekniska produkter och lagen om ackreditering och teknisk kontroll. Av punkt 2 i övergångsbestämmelserna framgår det att äldre föreskrifter fortfarande ska tillämpas för de organ för bedömning av överensstämmelse som väljer att ansöka om att utses enligt direktiven, respektive för de anmälda organ som sedan tidigare har utsetts enligt direktiven och som under en övergångstid inte behöver utses på nytt enligt <NOBR>EU-förord-</NOBR> ningarna. Detta gäller fram till och med den 25 maj 2020 för de organ som omfattas av <NOBR>MDR-förordningen.</NOBR> Vidare gäller övergångsbestämmelserna för anmälda organ som bedriver verksamhet enligt direktiven. Till följd av att den dag som <NOBR>MDR-förordningen</NOBR> ska börja tillämpas skjuts upp ett år (jämför artikel 1.6 a och 1.8 b ii i ändringsförordningen), så behöver punkt 2 i övergångsbestämmelserna ändras. Det ska därmed framgå att äldre</P>
+</DIV>
+<DIV id="id_2">
+<P class="p12 ft2">Prop. 2019/20:161</P>
+<P class="p74 ft2">9</P>
+</DIV>
+</DIV>
+</DIV>
+<DIV id="page_10">
+<DIV id="p10dimg1">
+<INGENBILD zsrc="H70316110x1.jpg/" id="p10img1">
+</DIV>
+
+
+<DIV id="id_1">
+<P class="p75 ft6">Prop. 2019/20:161 föreskrifter fortfarande gäller för organ för bedömning av överensstämmelse som fram till och med den 25 maj 2021 utses och anmäls enligt direktiv 90/385/EEG och 93/42/EEG.</P>
+<P class="p76 ft1">6 Ikraftträdandebestämmelser</P>
+<P class="p77 ft4"><SPAN class="ft25">Regeringens förslag: </SPAN>Ändringarna i övergångsbestämmelserna till lagen om medicintekniska produkter och till lagen om ackreditering och teknisk kontroll ska träda i kraft den 26 maj 2020.</P>
+<P class="p78 ft19">Förslagen i utkastet till proposition <SPAN class="ft6">överensstämmer med regeringens. </SPAN>Remissinstanser: <SPAN class="ft6">Remissinstanserna tillstyrker eller har inga synpunkt-</SPAN></P>
+<P class="p79 ft2">er på förslaget.</P>
+<P class="p80 ft26">Skälen för regeringens förslag: <NOBR><SPAN class="ft2">EU-förordningen</SPAN></NOBR><SPAN class="ft2"> om ändring av </SPAN><NOBR><SPAN class="ft2">MDR-förordningen</SPAN></NOBR><SPAN class="ft2"> vad gäller tillämpningsdatum för vissa bestämmelser offentliggjordes den 24 april 2020 i Europeiska unionens officiella tidning. Samma dag trädde förordningen i kraft, jämför artikel 2. Enligt övergångsbestämmelser till lagen om medicintekniska produkter och till lagen om ackreditering och teknisk kontroll ska äldre föreskrifter fortfarande gälla fram till och med den 25 maj 2020 för de organ för bedömning av överensstämmelse som väljer att ansöka om att utses enligt direktiven, respektive för de anmälda organ som sedan tidigare har utsetts enligt direktiven. Eftersom tillämpningen av </SPAN><NOBR><SPAN class="ft2">MDR-förordningen</SPAN></NOBR><SPAN class="ft2"> nu skjuts fram ett år så ska äldre föreskrifter i stället gälla till och med den 25 maj 2021. Eftersom äldre föreskrifter endast gäller fram till och med den 25 maj 2020 enligt övergångsbestämmelsernas nuvarande lydelse behöver ändringarna träda i kraft den 26 maj 2020.</SPAN></P>
+<P class="p81 ft1">7 Konsekvenser</P>
+<P class="p82 ft2">Ändringarna i övergångsbestämmelserna är en följd av ändringen i MDR- förordningen. Det är således ändringarna i <NOBR>MDR-förordningen</NOBR> som leder till att den förordningen ska börja tillämpas först den 26 maj 2021. Övergångstiden då två regelverk avseende anmälda organ är tillämpliga, dels <NOBR>EU-förordningarna,</NOBR> dels direktiven, förlängs därmed med ett år. Konsekvenserna är begränsade eftersom ändringen inte handlar om att ett byte från ett regelverk till ett annat skjuts upp, utan om en förlängd övergångstid då båda regelverken är tillämpliga. Det innebär att Swedac ytterligare ett år kommer att vara ansvarig myndighet för den verksamhet som ett anmält organ bedriver enligt direktiven, vilket myndigheten har varit sedan 1993. Läkemedelsverket berörs inte nämnvärt av att Swedac fortsätter att vara ansvarig myndighet för anmälda organ enligt direktiven.</P>
+</DIV>
+<DIV id="id_2">
+<DIV id="id_2_1">
+<P class="p12 ft2">10</P>
+</DIV>
+<DIV id="id_2_2">
+<P class="p83 ft6">Vidare berörs de företag som är anmälda organ. Dessa är Research Institutes of Sweden (RISE, tidigare SP Sveriges Tekniska Forskningsinstitut AB) och Intertek Semko AB.</P>
+</DIV>
+</DIV>
+</DIV>
+<DIV id="page_11">
+
+
+<P class="p84 ft4">Ändringarna i övergångsbestämmelserna bedöms inte påverka den eko- Prop. 2019/20:161 nomiska jämställdheten.</P>
+<P class="p48 ft1">8 Författningskommentar</P>
+<P class="p85 ft14"><SPAN class="ft17">8.1</SPAN><SPAN class="ft27">Förslaget till lag om ändring i lagen (1993:584) om medicintekniska produkter</SPAN></P>
+<P class="p86 ft26">Ikraftträdande- och övergångsbestämmelser</P>
+<P class="p87 ft28"><SPAN class="ft28">2.</SPAN><SPAN class="ft29">Äldre föreskrifter gäller fortfarande för organ för bedömning av överensstämmelse som fram till och med den 25 maj </SPAN><SPAN class="ft30">2021 </SPAN>utses och anmäls enligt rådets direktiv 90/385/EEG av den 20 juni 1990 om tillnärmning av medlemsstaternas lagstiftning om aktiva medicintekniska produkter för implantation, i lydelsen enligt Europaparlamentets och rådets direktiv 2007/47/EG och rådets direktiv 93/42/EEG av den 14 juni 1993 om medicintekniska produkter, i lydelsen enligt Europaparlamentets och rådets direktiv 2007/47/EG.</P>
+<P class="p88 ft6">Ändringen i punkt 2 innebär att äldre föreskrifter kommer att fortsätta att gälla till och med den 25 maj 2021 för organ för bedömning av överensstämmelse som dels väljer att ansöka om att bli utsedda till anmälda organ, dels har utsetts till anmälda organ i enlighet direktiv 90/385/EEG och direktiv 93/42/EEG.</P>
+<P class="p89 ft14"><SPAN class="ft17">8.2</SPAN><SPAN class="ft27">Förslaget till lag om ändring i lagen (2011:791) om ackreditering och teknisk kontroll</SPAN></P>
+<P class="p90 ft26">Ikraftträdande- och övergångsbestämmelser</P>
+<P class="p91 ft2"><SPAN class="ft2">2.</SPAN><SPAN class="ft31">Äldre föreskrifter gäller fortfarande för organ för bedömning av överensstämmelse som fram till och med den 25 maj </SPAN><SPAN class="ft3">2021 </SPAN>utses och anmäls enligt rådets direktiv 90/385/EEG av den 20 juni 1990 om tillnärmning av medlemsstaternas lagstiftning om aktiva medicintekniska produkter för implantation, i lydelsen enligt Europaparlamentets och rådets direktiv 2007/47/EG och rådets direktiv 93/42/EEG av den 14 juni 1993 om medicintekniska produkter, i lydelsen enligt Europaparlamentets och rådets direktiv 2007/47/EG.</P>
+<P class="p92 ft6">Ändringen i punkt 2 innebär att äldre föreskrifter kommer att fortsätta att gälla till och med den 25 maj 2021 för organ för bedömning av överensstämmelse som dels väljer att ansöka om att bli utsedda till anmälda organ, dels har utsetts till anmälda organ i enlighet direktiv 90/385/EEG och direktiv 93/42/EEG.</P>
+<P class="p93 ft2">11</P>
+</DIV>
+<DIV id="page_12">
+<DIV id="p12dimg1">
+<INGENBILD zsrc="H70316112x1.jpg/" id="p12img1">
+</DIV>
+
+
+<DIV id="id_1">
+<P class="p12 ft2">Prop. 2019/20:161</P>
+<P class="p94 ft2">Bilaga 1</P>
+<TABLE cellpadding=0 cellspacing=0 class="t9">
+<TR>
+	<TD class="tr16 td21"><SPAN class="p16 ft32">L 130/18</SPAN> </TD>
+	<TD class="tr17 td39"><SPAN class="p95 ft33">SV</SPAN> </TD>
+	<TD class="tr16 td40"><SPAN class="p96 ft32">Europeiska unionens officiella tidning</SPAN> </TD>
+	<TD class="tr16 td41"><SPAN class="p14 ft32">24.4.2020</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr18 td42"><SPAN class="p16 ft34">&nbsp;</SPAN> </TD>
+	<TD class="tr18 td43"><SPAN class="p16 ft34">&nbsp;</SPAN> </TD>
+	<TD class="tr18 td44"><SPAN class="p16 ft34">&nbsp;</SPAN> </TD>
+	<TD class="tr18 td45"><SPAN class="p16 ft34">&nbsp;</SPAN> </TD>
+</TR>
+</TABLE>
+<P class="p97 ft35">EUROPAPARLAMENTETS OCH RÅDETS FÖRORDNING (EU) 2020/561</P>
+<P class="p98 ft35">av den 23 april 2020</P>
+<P class="p99 ft35">om ändring av förordning (EU) 2017/745 om medicintekniska produkter vad gäller</P>
+<P class="p100 ft35">tillämpningsdatum för vissa bestämmelser</P>
+<P class="p101 ft36">(Text av betydelse för EES)</P>
+<P class="p102 ft33">EUROPAPARLAMENTET OCH EUROPEISKA UNIONENS RÅD HAR ANTAGIT DENNA FÖRORDNING</P>
+<P class="p103 ft37">med beaktande av fördraget om Europeiska unionens funktionssätt, särskilt artiklarna 114 och 168.4 c,</P>
+<P class="p104 ft37">med beaktande av Europeiska kommissionens förslag,</P>
+<P class="p104 ft37">efter översändande av utkastet till lagstiftningsakt till de nationella parlamenten,</P>
+<P class="p104 ft37">efter att ha hört Europeiska ekonomiska och sociala kommittén,</P>
+<P class="p103 ft37">efter att ha hört Regionkommittén,</P>
+<P class="p104 ft37">i enlighet med det ordinarie lagstiftningsförfarandet (<SPAN class="ft38">1</SPAN>), och</P>
+<P class="p104 ft37">av följande skäl:</P>
+<P class="p105 ft33"><SPAN class="ft39">(1)</SPAN><SPAN class="ft40">Genom Europaparlamentets och rådets förordning (EU) 2017/745 (</SPAN><SPAN class="ft41">2</SPAN>) fastställs ett nytt regelverk för att säkerställa att den inre marknaden för de medicintekniska produkter som omfattas av den förordningen fungerar smidigt, med utgångspunkt i en hög hälsoskyddsnivå för patienter och användare och med beaktande av små och medelstora företag som är verksamma inom denna sektor. För att undanröja vanliga betänkligheter när det gäller medicintekniska produkters säkerhet ställs det i förordning (EU) 2017/745 också höga kvalitets- och säkerhetskrav på sådana produkter. Förordning (EU) 2017/745 stärker dessutom avsevärt de viktigaste delarna av den befintliga regleringen i rådets direktiv 90/385/EEG (<SPAN class="ft41">3</SPAN>) och 93/42/EEG (<SPAN class="ft41">4</SPAN>), t.ex. övervakning av anmälda organ, förfaranden för bedömning av överensstämmelse, kliniska prövningar och klinisk utvärdering, säkerhetsövervakning och marknadskontroll, och för att förbättra hälsa och säkerhet införs bestämmelser som säkerställer öppenhet och spårbarhet beträffande medicintekniska produkter.</P>
+<P class="p106 ft33"><SPAN class="ft39">(2)</SPAN><NOBR><SPAN class="ft40">Covid-19-utbrottet</SPAN></NOBR> och den därmed förknippade folkhälsokrisen är en utmaning utan motstycke för medlemsstaterna och utgör en enorm börda för nationella myndigheter, hälso- och sjukvårdsinstitutioner, unionsmedborgare och ekonomiska aktörer. Folkhälsokrisen har lett till extraordinära omständigheter som ställer krav på betydande ytterligare resurser, liksom ökad tillgång till ytterst viktiga medicintekniska produkter, som inte rimligen kunde ha förutsetts när förordning (EU) 2017/745 antogs. Dessa extraordinära omständigheter har betydande konsekvenser för olika områden som omfattas av förordning (EU) 2017/745, t.ex. utseendet av anmälda organ, det arbete som de organen utför samt utsläppandet på marknaden och tillhandahållandet på marknaden av medicintekniska produkter i unionen.</P>
+<P class="p107 ft33"><SPAN class="ft39">(3)</SPAN><SPAN class="ft40">Medicintekniska produkter, t.ex. handskar, operationsmunskydd, intensivvårdsutrustning och annan medicinsk utrustning, spelar med anledning av </SPAN><NOBR>covid-19-utbrottet</NOBR> och den därmed förknippade folkhälsokrisen en avgörande roll för att säkerställa unionsmedborgarnas hälsa och säkerhet och för att medlemsstaterna snabbt ska kunna ge nödvändig medicinsk behandling till de patienter som är i akut behov av sådan behandling.</P>
+<P class="p108 ft33"><SPAN class="ft39">(4)</SPAN><SPAN class="ft40">Med tanke på att omfattningen av de nuvarande utmaningarna saknar motstycke och med hänsyn till att förordning (EU) 2017/745 är komplex är det mycket sannolikt att medlemsstaterna, hälso- och sjukvårdsinstitutionerna, de ekonomiska aktörerna och andra berörda parter inte kommer att vara i stånd att genomföra och tillämpa den förordningen på ett korrekt sätt från och med den 26 maj 2020 som föreskrivs däri.</SPAN></P>
+<TABLE cellpadding=0 cellspacing=0 class="t10">
+<TR>
+	<TD class="tr19 td46"><SPAN class="p109 ft39">(<SPAN class="ft41">1</SPAN>)</SPAN> </TD>
+	<TD class="tr19 td47"><SPAN class="p34 ft33">Europaparlamentets ståndpunkt av den 17 april 2020 (ännu inte offentliggjord i EUT) och rådets beslut av den 22 april 2020.</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr20 td46"><SPAN class="p109 ft39">(<SPAN class="ft41">2</SPAN>)</SPAN> </TD>
+	<TD class="tr20 td47"><SPAN class="p34 ft39">Europaparlamentets och rådets förordning (EU) 2017/745 av den 5 april 2017 om medicintekniska produkter, om ändring av direktiv</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr20 td46"><SPAN class="p16 ft42">&nbsp;</SPAN> </TD>
+	<TD class="tr20 td47"><SPAN class="p34 ft39">2001/83/EG, förordning (EG) nr 178/2002 och förordning (EG) nr 1223/2009 och om upphävande av rådets direktiv 90/385/EEG</SPAN> </TD>
+</TR>
+<TR>
+	<TD rowspan=2 class="tr4 td46"><SPAN class="p109 ft39">(<SPAN class="ft41">3</SPAN>)</SPAN> </TD>
+	<TD class="tr20 td47"><SPAN class="p32 ft43">och 93/42/EEG (EUT L 117, 5.5.2017, s. 1).</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr20 td47"><SPAN class="p34 ft43">Rådets direktiv 90/385/EEG av den 20 juni 1990 om tillnärmning av medlemsstaternas lagstiftning om aktiva medicintekniska</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr17 td46"><SPAN class="p16 ft42">&nbsp;</SPAN> </TD>
+	<TD class="tr17 td47"><SPAN class="p34 ft33">produkter för implantation (EGT L 189, 20.7.1990, s. 17).</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr17 td46"><SPAN class="p109 ft39">(<SPAN class="ft41">4</SPAN>)</SPAN> </TD>
+	<TD class="tr17 td47"><SPAN class="p34 ft33">Rådets direktiv 93/42/EEG av den 14 juni 1993 om medicintekniska produkter (EGT L 169, 12.7.1993, s. 1).</SPAN> </TD>
+</TR>
+</TABLE>
+</DIV>
+<DIV id="id_2">
+<P class="p12 ft2">12</P>
+</DIV>
+</DIV>
+<DIV id="page_13">
+<DIV id="p13dimg1">
+<INGENBILD zsrc="H70316113x1.jpg/" id="p13img1">
+</DIV>
+
+
+<DIV id="id_1">
+<P class="p110 ft2">Prop. 2019/20:161</P>
+<P class="p111 ft2">Bilaga 1</P>
+<TABLE cellpadding=0 cellspacing=0 class="t11">
+<TR>
+	<TD class="tr16 td21"><SPAN class="p112 ft33">24.4.2020</SPAN> </TD>
+	<TD class="tr17 td39"><SPAN class="p95 ft33">SV</SPAN> </TD>
+	<TD class="tr19 td48"><SPAN class="p16 ft42">&nbsp;</SPAN> </TD>
+	<TD class="tr16 td49"><SPAN class="p113 ft32">Europeiska unionens officiella tidning</SPAN> </TD>
+	<TD class="tr16 td50"><SPAN class="p16 ft33">L 130/19</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr18 td42"><SPAN class="p16 ft34">&nbsp;</SPAN> </TD>
+	<TD class="tr18 td43"><SPAN class="p16 ft34">&nbsp;</SPAN> </TD>
+	<TD class="tr18 td48"><SPAN class="p16 ft34">&nbsp;</SPAN> </TD>
+	<TD class="tr18 td51"><SPAN class="p16 ft34">&nbsp;</SPAN> </TD>
+	<TD class="tr18 td52"><SPAN class="p16 ft34">&nbsp;</SPAN> </TD>
+</TR>
+</TABLE>
+<P class="p114 ft33"><SPAN class="ft39">(5)</SPAN><SPAN class="ft44">För att säkerställa att den inre marknaden fungerar smidigt och en hög skyddsnivå för folkhälsa och patientsäkerhet, skapa rättslig säkerhet och undvika eventuella marknadsstörningar är det nödvändigt att senarelägga tillämpningen av vissa bestämmelser i förordning (EU) 2017/745. Med beaktande av </SPAN><NOBR>covid-19-utbrottet</NOBR> och den därmed förknippade folkhälsokrisen, den epidemiologiska utvecklingen samt de ytterligare resurser som medlemsstaterna, hälso- och sjukvårdsinstitutionerna, de ekonomiska aktörerna och andra berörda parter har behov av, är det lämpligt att senarelägga tillämpningen av dessa bestämmelser i förordning (EU) 2017/745 med ett år.</P>
+<P class="p115 ft33"><SPAN class="ft39">(6)</SPAN><SPAN class="ft40">Tillämpningen bör senareläggas när det gäller de bestämmelser i förordning (EU) 2017/745 som annars skulle börja tillämpas från och med den 26 maj 2020. För att säkerställa kontinuerlig tillgång till medicintekniska produkter på unionsmarknaden, däribland medicintekniska produkter som är ytterst viktiga med anledning av </SPAN><NOBR>covid-19-utbrottet</NOBR> och den därmed förknippade folkhälsokrisen, är det också nödvändigt att anpassa vissa övergångsbestämmelser i förordning (EU) 2017/745 som i annat fall inte längre skulle tillämpas.</P>
+<P class="p116 ft33"><SPAN class="ft39">(7)</SPAN><SPAN class="ft44">Såväl direktiven 90/385/EEG och 93/42/EEG som förordning (EU) 2017/745 ger de nationella behöriga myndigheterna befogenhet att på en vederbörligen motiverad begäran tillåta att medicintekniska produkter släpps ut på marknaden trots att det tillämpliga förfarandet för bedömning av överensstämmelse inte har genomförts, om användningen av produkten skyddar hälsa eller är befogad av skäl som rör folkhälsan eller patienters säkerhet eller hälsa (nationellt undantag). Förordning (EU) 2017/745 gör det också möjligt för kommissionen att i undantagsfall besluta att ett nationellt undantag under en begränsad tid ska gälla på hela unionens territorium (unionstäckande undantag). Med beaktande av </SPAN><NOBR>covid-19-utbrottet</NOBR> och den därmed förknippade folkhälsokrisen bör kommissionen som svar på nationella undantag kunna anta unionstäckande undantag för att på ett effektivt sätt hantera eventuella brister i hela unionen på ytterst viktiga medicintekniska produkter. Av den anledningen är det lämpligt att den berörda bestämmelsen i förordning (EU) 2017/745 tillämpas så snart som möjligt, och de motsvarande bestämmelserna i direktiven 90/385/EEG och 93/42/EEG upphör att gälla från och med den dagen. Med hänsyn till att kommissionen under en övergångsperiod ska ges möjlighet att anta unionstäckande undantag i samband med nationella undantag från direktiven 90/385/EEG och 93/42/EEG, måste vissa ändringar göras av de berörda bestämmelserna i förordning (EU) 2017/745.</P>
+<P class="p117 ft32"><SPAN class="ft39">(8)</SPAN><SPAN class="ft45">För att täcka eventuella nationella undantag som medlemsstater med anledning av </SPAN><NOBR>covid-19-utbrottet</NOBR> beviljat i enlighet med direktiv 90/385/EEG eller 93/42/EEG före den här förordningens ikraftträdande, måste medlemsstaterna ges möjlighet att anmäla dessa nationella undantag och kommissionen ges möjlighet att besluta att de ska gälla på hela unionens territorium.</P>
+<P class="p118 ft32"><SPAN class="ft39">(9)</SPAN><SPAN class="ft45">För att säkerställa ett kontinuerligt fungerande och effektivt regelverk för medicintekniska produkter är det</SPAN></P>
+<P class="p119 ft37">nödvändigt att senarelägga tillämpningen av den bestämmelse som upphäver direktiven 90/385/EEG och 93/42/EEG.</P>
+<P class="p114 ft33"><SPAN class="ft33">(10)</SPAN><SPAN class="ft46">Eftersom målen för denna förordning, nämligen att senarelägga tillämpningen av vissa bestämmelser i förordning (EU) 2017/745 och göra det möjligt att låta nationella undantag som beviljats enligt direktiv 90/385/EEG eller 93/42/EEG gälla på hela unionens territorium, inte i tillräcklig utsträckning kan uppnås av medlemsstaterna utan snarare, på grund av deras omfattning och verkningar, kan uppnås bättre på unionsnivå, kan unionen vidta åtgärder i enlighet med subsidiaritetsprincipen i artikel 5 i fördraget om Europeiska unionen </SPAN><NOBR>(EU-fördraget).</NOBR> I enlighet med proportionalitetsprincipen i samma artikel går denna förordning inte utöver vad som är nödvändigt för att uppnå dessa mål.</P>
+<P class="p120 ft33"><SPAN class="ft33">(11)</SPAN><SPAN class="ft46">Den här förordningen antas under exceptionella omständigheter till följd av </SPAN><NOBR>covid-19-utbrottet</NOBR> och den därmed förknippade folkhälsokrisen. För att ändringen av förordning (EU) 2017/745 vad gäller tillämpningsdatum för vissa bestämmelser ska få avsedd verkan måste den här förordningen träda i kraft före den 26 maj 2020. Därför har det ansetts lämpligt att föreskriva ett undantag från den åttaveckorsperiod som avses i artikel 4 i protokoll nr 1 om de nationella parlamentens roll i Europeiska unionen, fogat till <NOBR>EU-fördraget,</NOBR> fördraget om Europeiska unionens funktionssätt och fördraget om upprättandet av Europeiska atomenergigemenskapen.</P>
+<P class="p121 ft37"><SPAN class="ft33">(12)</SPAN><SPAN class="ft47">Mot bakgrund av att det är absolut nödvändigt att omedelbart lösa den folkhälsokris som är förknippad med </SPAN><NOBR>covid-19-utbrottet</NOBR> bör denna förordning av brådskande skäl träda i kraft samma dag som den offentliggörs i Europeiska unionens officiella tidning.</P>
+</DIV>
+<DIV id="id_2">
+<P class="p12 ft2">13</P>
+</DIV>
+</DIV>
+<DIV id="page_14">
+<DIV id="p14dimg1">
+<INGENBILD zsrc="H70316114x1.jpg/" id="p14img1">
+</DIV>
+
+
+<DIV id="id_1">
+<P class="p12 ft2">Prop. 2019/20:161</P>
+<P class="p94 ft2">Bilaga 1</P>
+<TABLE cellpadding=0 cellspacing=0 class="t9">
+<TR>
+	<TD class="tr16 td21"><SPAN class="p16 ft32">L 130/20</SPAN> </TD>
+	<TD class="tr17 td39"><SPAN class="p95 ft33">SV</SPAN> </TD>
+	<TD class="tr16 td40"><SPAN class="p96 ft32">Europeiska unionens officiella tidning</SPAN> </TD>
+	<TD class="tr16 td41"><SPAN class="p14 ft32">24.4.2020</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr18 td42"><SPAN class="p16 ft34">&nbsp;</SPAN> </TD>
+	<TD class="tr18 td43"><SPAN class="p16 ft34">&nbsp;</SPAN> </TD>
+	<TD class="tr18 td44"><SPAN class="p16 ft34">&nbsp;</SPAN> </TD>
+	<TD class="tr18 td45"><SPAN class="p16 ft34">&nbsp;</SPAN> </TD>
+</TR>
+</TABLE>
+<P class="p122 ft37"><SPAN class="ft33">(13)</SPAN><SPAN class="ft47">Förordning (EU) 2017/745 bör därför ändras i enlighet med detta.</SPAN></P>
+<P class="p102 ft33">HÄRIGENOM FÖRESKRIVS FÖLJANDE.</P>
+<P class="p123 ft37">Artikel 1</P>
+<P class="p104 ft37">Förordning (EU) 2017/745 ska ändras på följande sätt:</P>
+<P class="p124 ft37"><SPAN class="ft33">1.</SPAN><SPAN class="ft48">I artikel 1.2 ska andra stycket ändras på följande sätt:</SPAN></P>
+<P class="p125 ft37"><SPAN class="ft39">a)</SPAN><SPAN class="ft49">I första meningen ska datumet ”den 26 maj 2020” ersättas med ”den 26 maj 2021”.</SPAN></P>
+<P class="p125 ft37"><SPAN class="ft33">b)</SPAN><SPAN class="ft48">I andra meningen ska datumet ”den 26 maj 2020” ersättas med ”den 26 maj 2021”.</SPAN></P>
+<P class="p126 ft37"><SPAN class="ft33">2.</SPAN><SPAN class="ft48">Artikel 17 ska ändras på följande sätt:</SPAN></P>
+<P class="p125 ft37"><SPAN class="ft39">a)</SPAN><SPAN class="ft49">Punkt 5 ska ändras på följande sätt:</SPAN></P>
+<P class="p127 ft37"><SPAN class="ft37">i)</SPAN><SPAN class="ft50">I första meningen ska datumet ”den 26 maj 2020” ersättas med ”den 26 maj 2021”.</SPAN></P>
+<P class="p127 ft37"><SPAN class="ft37">ii)</SPAN><SPAN class="ft48">I tredje meningen ska datumet ”den 26 maj 2020” ersättas med ”den 26 maj 2021”.</SPAN></P>
+<P class="p125 ft37"><SPAN class="ft33">b)</SPAN><SPAN class="ft48">I punkt 6 ska datumet ”den 26 maj 2020” ersättas med ”den 26 maj 2021”.</SPAN></P>
+<P class="p126 ft37"><SPAN class="ft33">3.</SPAN><SPAN class="ft48">I artikel 34.1 ska datumet ”den 25 mars 2020” ersättas med ”den 25 mars 2021”.</SPAN></P>
+<P class="p124 ft37"><SPAN class="ft33">4.</SPAN><SPAN class="ft48">Artikel 59 ska ändras på följande sätt:</SPAN></P>
+<P class="p125 ft37"><SPAN class="ft39">a)</SPAN><SPAN class="ft49">Punkt 1 ska ersättas med följande:</SPAN></P>
+<P class="p128 ft33">”1. Genom undantag från artikel 52 i denna förordning eller, från och med den 24 april 2020 till och med den 25 maj 2021, genom undantag från artikel 9.1 och 9.2 i direktiv 90/385/EEG eller från artikel <NOBR>11.1–11.6</NOBR> i direktiv 93/42/EEG, får en behörig myndighet på en vederbörligen motiverad begäran tillåta att en specifik produkt släpps ut på marknaden eller tas i bruk på den berörda medlemsstatens territorium, trots att de förfaranden som avses i de artiklarna inte har genomförts, om användningen av produkten är befogad av skäl som rör folkhälsan eller patienters säkerhet eller hälsa.”</P>
+<P class="p129 ft37"><SPAN class="ft33">b)</SPAN><SPAN class="ft48">I punkt 2 ska följande stycke läggas till:</SPAN></P>
+<P class="p130 ft33">”Medlemsstaten får underrätta kommissionen och de andra medlemsstaterna om ett godkännande som beviljats i enlighet med artikel 9.9 i direktiv 90/385/EEG eller artikel 11.13 i direktiv 93/42/EEG före den 24 april 2020.”</P>
+<P class="p131 ft37"><SPAN class="ft39">c)</SPAN><SPAN class="ft49">I punkt 3 ska första stycket ersättas med följande:</SPAN></P>
+<P class="p132 ft33">”Efter en underrättelse enligt punkt 2 i denna artikel får kommissionen i undantagsfall som rör folkhälsan eller patienters säkerhet eller hälsa genom genomförandeakter besluta att giltigheten för ett godkännande som en medlemsstat beviljat i enlighet med punkt 1 i denna artikel eller, när godkännandet beviljats före den 24 april 2020, i enlighet med artikel 9.9 i direktiv 90/385/EEG eller artikel 11.13 i direktiv 93/42/EEG under en begränsad tid ska gälla på hela unionens territorium och fastställa villkoren för att släppa ut produkten på marknaden eller ta den i bruk. Dessa genomförandeakter ska antas i enlighet med det granskningsförfarande som avses i artikel 114.3.”</P>
+<P class="p133 ft37"><SPAN class="ft33">5.</SPAN><SPAN class="ft48">I artikel 113 ska datumet ”den 25 februari 2020” ersättas med ”den 25 februari 2021”.</SPAN></P>
+<P class="p126 ft37"><SPAN class="ft33">6.</SPAN><SPAN class="ft48">Artikel 120 ska ändras på följande sätt:</SPAN></P>
+<P class="p125 ft37"><SPAN class="ft39">a)</SPAN><SPAN class="ft49">I punkt 1 ska datumet ”den 26 maj 2020” ersättas med ”den 26 maj 2021”.</SPAN></P>
+<P class="p134 ft37"><SPAN class="ft33">b)</SPAN><SPAN class="ft48">I punkt 3 ska det första stycket ersättas med följande:</SPAN></P>
+<P class="p128 ft33">”3. Med avvikelse från artikel 5 i denna förordning får en produkt som är en produkt i klass I enligt direktiv 93/42/EEG, för vilken försäkran om överensstämmelse upprättats före den 26 maj 2021 och för vilken förfarandet för bedömning av överensstämmelse enligt denna förordning kräver medverkan av ett anmält organ, eller som har ett intyg som utfärdats i enlighet med direktiv 90/385/EEG eller direktiv 93/42/EEG och som är giltigt i enlighet med punkt 2 i den här artikeln, släppas ut på marknaden eller tas i bruk till och med den 26 maj 2024 under förutsättning att den, från och med den 26 maj 2021, fortsätter att uppfylla kraven i något av de direktiven, och under förutsättning att det inte har gjorts några väsentliga ändringar i produktens konstruktion och avsedda ändamål. Kraven i denna förordning med avseende på övervakning av produkter som släppts ut på marknaden, marknadskontroll, säkerhetsövervakning, registrering av ekonomiska aktörer och av produkter ska dock tillämpas i stället för de motsvarande kraven i de direktiven.”</P>
+</DIV>
+<DIV id="id_2">
+<P class="p12 ft2">14</P>
+</DIV>
+</DIV>
+<DIV id="page_15">
+<DIV id="p15dimg1">
+<INGENBILD zsrc="H70316115x1.jpg/" id="p15img1">
+</DIV>
+
+
+<DIV id="id_1">
+<P class="p110 ft2">Prop. 2019/20:161</P>
+<P class="p111 ft2">Bilaga 1</P>
+<TABLE cellpadding=0 cellspacing=0 class="t11">
+<TR>
+	<TD class="tr16 td21"><SPAN class="p112 ft33">24.4.2020</SPAN> </TD>
+	<TD class="tr17 td39"><SPAN class="p95 ft33">SV</SPAN> </TD>
+	<TD class="tr19 td48"><SPAN class="p16 ft42">&nbsp;</SPAN> </TD>
+	<TD class="tr16 td49"><SPAN class="p113 ft32">Europeiska unionens officiella tidning</SPAN> </TD>
+	<TD class="tr16 td50"><SPAN class="p16 ft33">L 130/21</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr18 td42"><SPAN class="p16 ft34">&nbsp;</SPAN> </TD>
+	<TD class="tr18 td43"><SPAN class="p16 ft34">&nbsp;</SPAN> </TD>
+	<TD class="tr18 td48"><SPAN class="p16 ft34">&nbsp;</SPAN> </TD>
+	<TD class="tr18 td51"><SPAN class="p16 ft34">&nbsp;</SPAN> </TD>
+	<TD class="tr18 td52"><SPAN class="p16 ft34">&nbsp;</SPAN> </TD>
+</TR>
+</TABLE>
+<P class="p135 ft37"><SPAN class="ft39">c)</SPAN><SPAN class="ft49">Punkt 4 ska ersättas med följande:</SPAN></P>
+<P class="p136 ft33">”4. Produkter som lagligen släppts ut på marknaden enligt direktiven 90/385/EEG och 93/42/EEG före den 26 maj 2021, och produkter som släppts ut på marknaden från och med den 26 maj 2021 enligt punkt 3 i denna artikel, får fortsätta att tillhandahållas på marknaden eller tas i bruk till och med den 26 maj 2025.”</P>
+<P class="p137 ft37"><SPAN class="ft39">d)</SPAN><SPAN class="ft49">I punkt 5 ska datumet ”den 26 maj 2020” ersättas med ”den 26 maj 2021”.</SPAN></P>
+<P class="p138 ft37"><SPAN class="ft39">e)</SPAN><SPAN class="ft49">Punkt 6 ska ersättas med följande:</SPAN></P>
+<P class="p139 ft33">”6. Med avvikelse från direktiven 90/385/EEG och 93/42/EEG får organ för bedömning av överensstämmelse som uppfyller kraven i denna förordning utses och anmälas före den 26 maj 2021. De anmälda organ som utses och anmäls i enlighet med denna förordning får tillämpa de förfaranden för bedömning av överensstämmelse som anges i denna förordning och utfärda intyg i enlighet med denna förordning före den 26 maj 2021.”</P>
+<P class="p140 ft37"><SPAN class="ft33">f)</SPAN><SPAN class="ft50">Punkt 10 ska ersättas med följande:</SPAN></P>
+<P class="p139 ft33">”10. Produkter som omfattas av tillämpningsområdet för denna förordning i enlighet med artikel 1.6 g och som i enlighet med gällande bestämmelser i medlemsstaterna lagligen har släppts ut på marknaden eller tagits i bruk före den 26 maj 2021 får även i fortsättningen släppas ut på marknaden och tas i bruk i de berörda medlemsstaterna.”</P>
+<P class="p140 ft37"><SPAN class="ft39">g)</SPAN><SPAN class="ft49">Punkt 11 ska ändras på följande sätt:</SPAN></P>
+<P class="p141 ft37"><SPAN class="ft39">i)</SPAN><SPAN class="ft51">I första meningen ska datumet ”den 26 maj 2020” ersättas med ”den 26 maj 2021”.</SPAN></P>
+<P class="p142 ft37"><SPAN class="ft37">ii)</SPAN><SPAN class="ft48">I andra meningen ska datumet ”den 26 maj 2020” ersättas med ”den 26 maj 2021”.</SPAN></P>
+<P class="p143 ft37"><SPAN class="ft33">7.</SPAN><SPAN class="ft49">I artikel 122 ska första stycket ändras på följande sätt:</SPAN></P>
+<P class="p144 ft37"><SPAN class="ft39">a)</SPAN><SPAN class="ft49">I inledningen ska datumet ”den 26 maj 2020” ersättas med ”den 26 maj 2021”.</SPAN></P>
+<P class="p138 ft37"><SPAN class="ft33">b)</SPAN><SPAN class="ft48">Följande strecksats ska läggas till:</SPAN></P>
+<TABLE cellpadding=0 cellspacing=0 class="t12">
+<TR>
+	<TD class="tr21 td53"><SPAN class="p16 ft37">”—</SPAN> </TD>
+	<TD class="tr21 td54"><SPAN class="p16 ft33">artikel 9.9 i direktiv 90/385/EEG och artikel 11.13 i direktiv 93/42/EEG som ska upphöra att gälla med</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr16 td53"><SPAN class="p16 ft42">&nbsp;</SPAN> </TD>
+	<TD class="tr16 td54"><SPAN class="p16 ft37">verkan från och med den 24 april 2020.”</SPAN> </TD>
+</TR>
+</TABLE>
+<P class="p143 ft37"><SPAN class="ft33">8.</SPAN><SPAN class="ft49">Artikel 123 ska ändras på följande sätt:</SPAN></P>
+<P class="p138 ft37"><SPAN class="ft39">a)</SPAN><SPAN class="ft49">I punkt 2 ska datumet ”den 26 maj 2020” ersättas med ”den 26 maj 2021”.</SPAN></P>
+<P class="p144 ft37"><SPAN class="ft39">b)</SPAN><SPAN class="ft49">Punkt 3 ska ändras på följande sätt:</SPAN></P>
+<P class="p142 ft37"><SPAN class="ft39">i)</SPAN><SPAN class="ft47">I led a ska datumet ”den 26 maj 2020” ersättas med ”den 26 maj 2021”.</SPAN></P>
+<P class="p142 ft37"><SPAN class="ft37">ii)</SPAN><SPAN class="ft50">I första meningen i led d ska datumet ”den 26 maj 2020” ersättas med ”den 26 maj 2021”.</SPAN></P>
+<P class="p141 ft37"><SPAN class="ft37">iii)</SPAN><SPAN class="ft48">Led g ska ersättas med följande:</SPAN></P>
+<P class="p145 ft37">”g) För produkter som går att återanvända och ska förses med <NOBR>UDI-bäraren</NOBR> på själva produkten ska artikel 27.4 tillämpas på</P>
+<P class="p146 ft37"><SPAN class="ft39">i)</SPAN><SPAN class="ft47">implantat och produkter i klass III från och med den 26 maj 2023,</SPAN></P>
+<P class="p147 ft37"><SPAN class="ft37">ii)</SPAN><SPAN class="ft50">produkter i klass IIa och klass IIb från och med den 26 maj 2025,</SPAN></P>
+<P class="p147 ft37"><SPAN class="ft37">iii)</SPAN><SPAN class="ft48">produkter i klass I från och med den 26 maj 2027.”</SPAN></P>
+</DIV>
+<DIV id="id_2">
+<P class="p12 ft2">15</P>
+</DIV>
+</DIV>
+<DIV id="page_16">
+<DIV id="p16dimg1">
+<INGENBILD zsrc="H70316116x1.jpg/" id="p16img1">
+</DIV>
+
+
+<DIV id="id_1">
+<P class="p12 ft2">Prop. 2019/20:161</P>
+<P class="p94 ft2">Bilaga 1</P>
+<TABLE cellpadding=0 cellspacing=0 class="t9">
+<TR>
+	<TD class="tr16 td21"><SPAN class="p16 ft32">L 130/22</SPAN> </TD>
+	<TD class="tr17 td39"><SPAN class="p95 ft33">SV</SPAN> </TD>
+	<TD class="tr16 td40"><SPAN class="p96 ft32">Europeiska unionens officiella tidning</SPAN> </TD>
+	<TD class="tr16 td41"><SPAN class="p14 ft32">24.4.2020</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr18 td42"><SPAN class="p16 ft34">&nbsp;</SPAN> </TD>
+	<TD class="tr18 td43"><SPAN class="p16 ft34">&nbsp;</SPAN> </TD>
+	<TD class="tr18 td44"><SPAN class="p16 ft34">&nbsp;</SPAN> </TD>
+	<TD class="tr18 td45"><SPAN class="p16 ft34">&nbsp;</SPAN> </TD>
+</TR>
+</TABLE>
+<P class="p148 ft37"><SPAN class="ft33">iv)</SPAN><SPAN class="ft48">Följande led ska läggas till:</SPAN></P>
+<P class="p149 ft37">”j) Artikel 59 ska tillämpas från och med den 24 april 2020.”</P>
+<P class="p150 ft37"><SPAN class="ft33">9.</SPAN><SPAN class="ft48">I bilaga IX avsnitt 5.1 led h ska datumet ”den 26 maj 2020” ersättas med ”den 26 maj 2021”.</SPAN></P>
+<P class="p151 ft37">Artikel 2</P>
+<P class="p133 ft37">Denna förordning träder i kraft samma dag som den offentliggörs i Europeiska unionens officiella tidning.</P>
+<P class="p152 ft37">Denna förordning är till alla delar bindande och direkt tillämplig i alla medlemsstater.</P>
+<TABLE cellpadding=0 cellspacing=0 class="t13">
+<TR>
+	<TD colspan=2 class="tr21 td55"><SPAN class="p16 ft37">Utfärdad i Bryssel den 23 april 2020.</SPAN> </TD>
+	<TD class="tr21 td56"><SPAN class="p16 ft42">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=2 class="tr6 td55"><SPAN class="p153 ft52">På Europaparlamentets vägnar</SPAN> </TD>
+	<TD class="tr6 td56"><SPAN class="p154 ft52">På rådets vägnar</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=2 class="tr16 td55"><SPAN class="p153 ft52">D.M. SASSOLI</SPAN> </TD>
+	<TD class="tr16 td56"><SPAN class="p155 ft39">G. GRLIĆ RADMAN</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=2 class="tr21 td55"><SPAN class="p153 ft39">Ordförande</SPAN> </TD>
+	<TD class="tr21 td56"><SPAN class="p155 ft39">Ordförande</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr22 td57"><SPAN class="p16 ft42">&nbsp;</SPAN> </TD>
+	<TD class="tr1 td58"><SPAN class="p16 ft42">&nbsp;</SPAN> </TD>
+	<TD class="tr22 td56"><SPAN class="p16 ft42">&nbsp;</SPAN> </TD>
+</TR>
+</TABLE>
+</DIV>
+<DIV id="id_2">
+<P class="p12 ft2">16</P>
+</DIV>
+</DIV>
+<DIV id="page_17">
+
+
+<DIV>
+<DIV id="id_1">
+<P class="p156 ft53">Sammanfattning av promemorian Utkast till proposition Ändrade övergångsbestämmelser när det gäller medicintekniska produkter</P>
+<P class="p157 ft6">Europeiska parlamentet och rådet har beslutat att skjuta fram den dag som förordningen (EU) 2017/745 om medicintekniska produkter ska börja tillämpas med ett år. Förordningen ska således börja tillämpas den 26 maj 2021, i stället för den 26 maj 2020.</P>
+<P class="p71 ft2">I detta utkast till proposition föreslås det därför att övergångsbestämmelserna till lagen om medicintekniska produkter och lagen om ackreditering och teknisk kontroll ska ändras.</P>
+<P class="p158 ft2">Lagförslagen föreslås träda i kraft den 26 maj 2020.</P>
+</DIV>
+<DIV id="id_2">
+<P class="p12 ft2">Prop. 2019/20:161</P>
+<P class="p94 ft2">Bilaga 2</P>
+<P class="p159 ft2">17</P>
+</DIV>
+</DIV>
+</DIV>
+<DIV id="page_18">
+<DIV id="p18dimg1">
+<INGENBILD zsrc="H70316118x1.jpg/" id="p18img1">
+</DIV>
+
+
+<DIV id="id_1">
+<TABLE cellpadding=0 cellspacing=0 class="t7">
+<TR>
+	<TD class="tr10 td59"><SPAN class="p16 ft2">Prop. 2019/20:161</SPAN> </TD>
+	<TD class="tr10 td60"><SPAN class="p16 ft1">Lagförslaget i promemorian</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr3 td59"><SPAN class="p16 ft2">Bilaga 3</SPAN> </TD>
+	<TD class="tr3 td60"><SPAN class="p16 ft7">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr1 td59"><SPAN class="p16 ft7">&nbsp;</SPAN> </TD>
+	<TD class="tr1 td60"><SPAN class="p16 ft17">1. Lag om ändring i lagen (1993:584) om</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr12 td59"><SPAN class="p16 ft7">&nbsp;</SPAN> </TD>
+	<TD class="tr12 td60"><SPAN class="p16 ft17">medicintekniska produkter</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr12 td59"><SPAN class="p16 ft7">&nbsp;</SPAN> </TD>
+	<TD class="tr12 td60"><SPAN class="p16 ft2">Härigenom föreskrivs i fråga om lagen (1993:584) om medicintekniska</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr3 td59"><SPAN class="p16 ft7">&nbsp;</SPAN> </TD>
+	<TD class="tr3 td60"><SPAN class="p16 ft2">produkter att punkt 2 i ikraftträdande- och övergångsbestämmelserna till</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr4 td59"><SPAN class="p16 ft7">&nbsp;</SPAN> </TD>
+	<TD class="tr4 td60"><SPAN class="p16 ft2">lagen (2017:930) om ändring i den lagen ska ha följande lydelse.</SPAN> </TD>
+</TR>
+</TABLE>
+</DIV>
+<DIV id="id_2">
+<DIV id="id_2_1">
+<P class="p12 ft3">Nuvarande lydelse</P>
+<P class="p160 ft2"><SPAN class="ft2">2.</SPAN><SPAN class="ft18">Äldre föreskrifter gäller fortfarande för organ för bedömning av överensstämmelse som fram till och med den 25 maj </SPAN><SPAN class="ft3">2020 </SPAN>utses och anmäls enligt rådets direktiv 90/385/EEG av den 20 juni 1990 om tillnärmning av medlemsstaternas lagstiftning om aktiva medicintekniska produkter för implantation, i lydelsen enligt Europaparlamentets och rådets direktiv 2007/47/EG och rådets direktiv 93/42/EEG av den 14 juni 1993 om medicintekniska produkter, i lydelsen enligt Europaparlamentets och rådets direktiv 2007/47/EG.</P>
+</DIV>
+<DIV id="id_2_2">
+<P class="p12 ft3">Föreslagen lydelse</P>
+<P class="p161 ft2"><SPAN class="ft2">2.</SPAN><SPAN class="ft31">Äldre föreskrifter gäller fortfarande för organ för bedömning av överensstämmelse som fram till och med den 25 maj </SPAN><SPAN class="ft3">2021 </SPAN>utses och anmäls enligt rådets direktiv 90/385/EEG av den 20 juni 1990 om tillnärmning av medlemsstaternas lagstiftning om aktiva medicintekniska produkter för implantation, i lydelsen enligt Europaparlamentets och rådets direktiv 2007/47/EG och rådets direktiv 93/42/EEG av den 14 juni 1993 om medicintekniska produkter, i lydelsen enligt Europaparlamentets och rådets direktiv 2007/47/EG.</P>
+</DIV>
+</DIV>
+<DIV id="id_3">
+<P class="p162 ft2">Denna lag träder i kraft den 26 maj 2020.</P>
+<P class="p163 ft2">18</P>
+</DIV>
+</DIV>
+<DIV id="page_19">
+<DIV id="p19dimg1">
+<INGENBILD zsrc="H70316119x1.jpg/" id="p19img1">
+</DIV>
+
+
+<DIV id="id_1">
+<DIV id="id_1_1">
+<P class="p164 ft14"><SPAN class="ft17">2.</SPAN><SPAN class="ft54">Lag om ändring i lagen (2011:791) om ackreditering och teknisk kontroll</SPAN></P>
+<P class="p165 ft4">Härigenom föreskrivs i fråga om lagen (2011:791) om ackreditering och teknisk kontroll att punkt 2 i ikraftträdande- och övergångsbestämmelserna till lagen (2017:931) om ändring i den lagen ska ha följande lydelse.</P>
+</DIV>
+<DIV id="id_1_2">
+<P class="p12 ft2">Prop. 2019/20:161</P>
+<P class="p94 ft2">Bilaga 3</P>
+</DIV>
+</DIV>
+<DIV id="id_2">
+<DIV id="id_2_1">
+<P class="p12 ft3">Nuvarande lydelse</P>
+<P class="p43 ft2"><SPAN class="ft2">2.</SPAN><SPAN class="ft18">Äldre föreskrifter gäller fortfarande för organ för bedömning av överensstämmelse som fram till och med den 25 maj </SPAN><SPAN class="ft3">2020 </SPAN>utses och anmäls enligt rådets direktiv 90/385/EEG av den 20 juni 1990 om tillnärmning av medlemsstaternas lagstiftning om aktiva medicintekniska produkter för implantation, i lydelsen enligt Europaparlamentets och rådets direktiv 2007/47/EG och rådets direktiv 93/42/EEG av den 14 juni 1993 om medicintekniska produkter, i lydelsen enligt Europaparlamentets och rådets direktiv 2007/47/EG.</P>
+</DIV>
+<DIV id="id_2_2">
+<P class="p12 ft3">Föreslagen lydelse</P>
+<P class="p44 ft2"><SPAN class="ft2">2.</SPAN><SPAN class="ft18">Äldre föreskrifter gäller fortfarande för organ för bedömning av överensstämmelse som fram till och med den 25 maj </SPAN><SPAN class="ft3">2021 </SPAN>utses och anmäls enligt rådets direktiv 90/385/EEG av den 20 juni 1990 om tillnärmning av medlemsstaternas lagstiftning om aktiva medicintekniska produkter för implantation, i lydelsen enligt Europaparlamentets och rådets direktiv 2007/47/EG och rådets direktiv 93/42/EEG av den 14 juni 1993 om medicintekniska produkter, i lydelsen enligt Europaparlamentets och rådets direktiv 2007/47/EG.</P>
+</DIV>
+</DIV>
+<DIV id="id_3">
+<P class="p10 ft2">Denna lag träder i kraft den 26 maj 2020.</P>
+<P class="p45 ft2">19</P>
+</DIV>
+</DIV>
+<DIV id="page_20">
+
+
+<TABLE cellpadding=0 cellspacing=0 class="t14">
+<TR>
+	<TD class="tr10 td59"><SPAN class="p16 ft2">Prop. 2019/20:161</SPAN> </TD>
+	<TD class="tr10 td60"><SPAN class="p16 ft1">Förteckning över remissinstanserna</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr3 td59"><SPAN class="p16 ft2">Bilaga 4</SPAN> </TD>
+	<TD class="tr3 td60"><SPAN class="p16 ft7">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr6 td59"><SPAN class="p16 ft7">&nbsp;</SPAN> </TD>
+	<TD class="tr6 td60"><SPAN class="p16 ft2">Remissvar har lämnats av Intertek Semko AB, Läkemedelsverket,</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr7 td59"><SPAN class="p16 ft7">&nbsp;</SPAN> </TD>
+	<TD class="tr7 td60"><SPAN class="p16 ft2">Research Institutes of Sweden (RISE), Styrelsen för ackreditering och</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr3 td59"><SPAN class="p16 ft7">&nbsp;</SPAN> </TD>
+	<TD class="tr3 td60"><SPAN class="p16 ft2">teknisk kontroll (Swedac) och Swedish Medtech.</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr4 td59"><SPAN class="p16 ft7">&nbsp;</SPAN> </TD>
+	<TD class="tr4 td60"><SPAN class="p166 ft2">Synpunkter har även lämnats av Intertek Medical Notified Body AB.</SPAN> </TD>
+</TR>
+</TABLE>
+<P class="p167 ft2">20</P>
+</DIV>
+<DIV id="page_21">
+<DIV id="p21dimg1">
+<INGENBILD zsrc="H70316121x1.jpg/" id="p21img1">
+</DIV>
+
+
+<DIV>
+<DIV id="id_1">
+<P class="p12 ft1">Socialdepartementet</P>
+<P class="p168 ft2">Utdrag ur protokoll vid regeringssammanträde den 30 april 2020</P>
+<P class="p169 ft6">Närvarande: statsminister Löfven, ordförande, och statsråden Johansson, Baylan, Hallengren, Hultqvist, Andersson, Bolund, Damberg, Shekarabi, Ygeman, Linde, Ekström, Eneroth, Nilsson, Lindhagen, Lind, Hallberg, Nordmark, Micko</P>
+<P class="p170 ft2">Föredragande: statsrådet Hallengren</P>
+<P class="p171 ft4">Regeringen beslutar proposition 2019/20:161 Ändrade övergångsbestämmelser när det gäller medicintekniska produkter</P>
+</DIV>
+<DIV id="id_2">
+<P class="p12 ft2">Prop. 2019/20:161</P>
+<P class="p172 ft2">21</P>
+</DIV>
+</DIV>
+</DIV>
+<DIV id="page_22">
+
+
+</DIV>
+
+</div><style>
+
+
+TD,TD.p2h {
+zzzfont-size:90%;
+zzzmargin-right:2px;
+zzzoverflow:visable;
+zzzword-wrap: break-word;
+}
+
+P {
+zdisplay:block;
+}
+
+.divbreak {
+clear:both;
+display:block;
+zwidth: 100%;
+zheight: 1px;
+zword-wrap: break-word;
+}
+
+
+.xecp {
+  display:block;
+  margin: 0px !important;
+  padding: 0px !important;
+  
+}
+
+.ec {
+  border-style:solid;
+  border-width:1px;
+  display:block;
+  margin: 0px !important;
+  padding: 0px !important;
+}
+
+.TOPS {
+  overflow:visable;
+  margin:2px;
+  width:690px !important;
+}
+
+</style>

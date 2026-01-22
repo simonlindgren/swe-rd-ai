@@ -1,0 +1,1585 @@
+SEARCH TERM: artificiell intelligens
+DOCUMENT ID: h503259
+TITLE: En strategi för svensk rymdverksamhet
+TYPE: prop
+SUBTYPE: skr
+DATE: 2018-05-09
+PARLIAMENTARY YEAR: 2017/18
+ORGANISATION: Utbildningsdepartementet
+STATUS: Hänvisad
+DOWNLOADED: 2026-01-22 10:26:15
+================================================================================
+
+<div style="margin:3px;">
+<STYLE type="text/css">
+
+body {margin-top: 0px;margin-left: 0px;}
+
+#page_1 {position:relative; overflow: hidden;z:b;margin:10px 0px 21px 10px ;padding: 0px;border: none;width: 766px;}
+
+#page_1 #dimg1z{position:absolute;top:0px;left:546px;z-index:-1;width:54px;height:97px;}
+#page_1 #dimg1 #img1  {width:54px;height:97px;}
+
+
+
+
+#page_2 {position:relative; overflow: hidden;z:b;margin:15px 0px 21px 10px ;padding: 0px;border: none;width: 676px;}
+
+
+
+
+
+#page_3 {position:relative; overflow: hidden;z:b;margin:14px 0px 21px 10px ;padding: 0px;border: none;width: 766px;}
+
+
+
+
+
+#page_4 {position:relative; overflow: hidden;z:b;margin:15px 0px 21px 10px ;padding: 0px;border: none;width: 676px;}
+
+
+
+
+
+#page_5 {position:relative; overflow: hidden;z:b;margin:15px 0px 21px 10px ;padding: 0px;border: none;width: 676px;}
+
+#page_5 #dimg1z{position:absolute;top:647px;left:2px;z-index:-1;width:384px;height:140px;}
+#page_5 #dimg1 #img1  {width:384px;height:140px;}
+
+
+
+
+#page_6 {position:relative; overflow: hidden;z:b;margin:15px 0px 21px 10px ;padding: 0px;border: none;width: 676px;}
+
+#page_6 #dimg1z{position:absolute;top:1px;left:105px;z-index:-1;width:384px;height:186px;}
+#page_6 #dimg1 #img1  {width:384px;height:186px;}
+
+
+
+
+#page_7 {position:relative; overflow: hidden;z:b;margin:15px 0px 21px 10px ;padding: 0px;border: none;width: 766px;}
+
+
+
+
+
+#page_8 {position:relative; overflow: hidden;z:b;margin:15px 0px 20px 10px ;padding: 0px;border: none;width: 676px;}
+
+#page_8 #dimg1z{position:absolute;top:358px;left:105px;z-index:-1;width:394px;height:341px;}
+#page_8 #dimg1 #img1  {width:394px;height:341px;}
+
+
+
+
+#page_9 {position:relative; overflow: hidden;z:b;margin:15px 0px 21px 10px ;padding: 0px;border: none;width: 586px;}
+
+
+
+
+
+#page_10 {position:relative; overflow: hidden;z:b;margin:15px 0px 21px 10px ;padding: 0px;border: none;width: 721px;}
+
+
+
+
+
+#page_11 {position:relative; overflow: hidden;z:b;margin:15px 0px 21px 10px ;padding: 0px;border: none;width: 766px;}
+
+#page_11 #dimg1z{position:absolute;top:33px;left:63px;z-index:-1;width:384px;height:157px;}
+#page_11 #dimg1 #img1  {width:384px;height:157px;}
+
+
+
+
+#page_12 {position:relative; overflow: hidden;z:b;margin:15px 0px 21px 10px ;padding: 0px;border: none;width: 631px;}
+
+
+
+
+
+#page_13 {position:relative; overflow: hidden;z:b;margin:15px 0px 21px 10px ;padding: 0px;border: none;width: 676px;}
+#page_13 #id_1 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 451px;overflow: hidden;}
+#page_13 #id_2 {float:left;border:none;z:b;margin:1px 0px 0px 10px ;padding: 0px;border:none;width: 180px;overflow: hidden;}
+
+
+
+
+
+#page_14 {position:relative; overflow: hidden;z:b;margin:14px 0px 21px 10px ;padding: 0px;border: none;width: 766px;}
+
+#page_14 #dimg1z{position:absolute;top:39px;left:168px;z-index:-1;width:384px;height:219px;}
+#page_14 #dimg1 #img1  {width:384px;height:219px;}
+
+
+
+
+#page_15 {position:relative; overflow: hidden;z:b;margin:15px 0px 21px 10px ;padding: 0px;border: none;width: 766px;}
+
+#page_15 #dimg1z{position:absolute;top:209px;left:63px;z-index:-1;width:384px;height:127px;}
+#page_15 #dimg1 #img1  {width:384px;height:127px;}
+
+
+
+
+#page_16 {position:relative; overflow: hidden;z:b;margin:15px 0px 21px 10px ;padding: 0px;border: none;width: 721px;}
+#page_16 #id_1 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 135px;overflow: hidden;}
+#page_16 #id_2 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 541px;overflow: hidden;}
+
+
+
+
+
+#page_17 {position:relative; overflow: hidden;z:b;margin:15px 0px 21px 10px ;padding: 0px;border: none;width: 676px;}
+#page_17 #id_1 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 451px;overflow: hidden;}
+#page_17 #id_2 {float:left;border:none;z:b;margin:2px 0px 0px 10px ;padding: 0px;border:none;width: 180px;overflow: hidden;}
+
+
+
+
+
+#page_18 {position:relative; overflow: hidden;z:b;margin:15px 0px 21px 10px ;padding: 0px;border: none;width: 721px;}
+#page_18 #id_1 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 135px;overflow: hidden;}
+#page_18 #id_2 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 541px;overflow: hidden;}
+
+#page_18 #dimg1z{position:absolute;top:53px;left:126px;z-index:-1;width:394px;height:356px;}
+#page_18 #dimg1 #img1  {width:394px;height:356px;}
+
+
+
+
+#page_19 {position:relative; overflow: hidden;z:b;margin:15px 0px 21px 10px ;padding: 0px;border: none;width: 676px;}
+#page_19 #id_1 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 451px;overflow: hidden;}
+#page_19 #id_2 {float:left;border:none;z:b;margin:2px 0px 0px 10px ;padding: 0px;border:none;width: 180px;overflow: hidden;}
+
+
+
+
+
+#page_20 {position:relative; overflow: hidden;z:b;margin:15px 0px 21px 10px ;padding: 0px;border: none;width: 721px;}
+#page_20 #id_1 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 135px;overflow: hidden;}
+#page_20 #id_2 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 541px;overflow: hidden;}
+
+#page_20 #dimg1z{position:absolute;top:53px;left:126px;z-index:-1;width:384px;height:172px;}
+#page_20 #dimg1 #img1  {width:384px;height:172px;}
+
+
+
+
+#page_21 {position:relative; overflow: hidden;z:b;margin:14px 0px 21px 10px ;padding: 0px;border: none;width: 766px;}
+
+#page_21 #dimg1z{position:absolute;top:637px;left:63px;z-index:-1;width:384px;height:140px;}
+#page_21 #dimg1 #img1  {width:384px;height:140px;}
+
+
+
+
+#page_22 {position:relative; overflow: hidden;z:b;margin:15px 0px 21px 10px ;padding: 0px;border: none;width: 721px;}
+#page_22 #id_1 {float:left;border:none;z:b;margin:1px 0px 0px 10px ;padding: 0px;border:none;width: 135px;overflow: hidden;}
+#page_22 #id_2 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 541px;overflow: hidden;}
+
+#page_22 #dimg1z{position:absolute;top:4px;left:126px;z-index:-1;width:384px;height:125px;}
+#page_22 #dimg1 #img1  {width:384px;height:125px;}
+
+
+
+
+#page_23 {position:relative; overflow: hidden;z:b;margin:15px 0px 21px 10px ;padding: 0px;border: none;width: 766px;}
+
+#page_23 #dimg1z{position:absolute;top:577px;left:63px;z-index:-1;width:384px;height:186px;}
+#page_23 #dimg1 #img1  {width:384px;height:186px;}
+
+
+
+
+#page_24 {position:relative; overflow: hidden;z:b;margin:15px 0px 21px 10px ;padding: 0px;border: none;width: 721px;}
+
+#page_24 #dimg1z{position:absolute;top:1px;left:126px;z-index:-1;width:384px;height:94px;}
+#page_24 #dimg1 #img1  {width:384px;height:94px;}
+
+
+
+
+#page_25 {position:relative; overflow: hidden;z:b;margin:15px 0px 21px 10px ;padding: 0px;border: none;width: 766px;}
+
+
+
+
+
+#page_26 {position:relative; overflow: hidden;z:b;margin:14px 0px 21px 10px ;padding: 0px;border: none;width: 721px;}
+
+#page_26 #dimg1z{position:absolute;top:71px;left:126px;z-index:-1;width:384px;height:234px;}
+#page_26 #dimg1 #img1  {width:384px;height:234px;}
+
+
+
+
+#page_27 {position:relative; overflow: hidden;z:b;margin:15px 0px 21px 10px ;padding: 0px;border: none;width: 676px;}
+#page_27 #id_1 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 451px;overflow: hidden;}
+#page_27 #id_2 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 180px;overflow: hidden;}
+
+
+
+
+
+#page_28 {position:relative; overflow: hidden;z:b;margin:15px 0px 21px 10px ;padding: 0px;border: none;width: 721px;}
+#page_28 #id_1 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 135px;overflow: hidden;}
+#page_28 #id_2 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 541px;overflow: hidden;}
+
+#page_28 #dimg1z{position:absolute;top:190px;left:126px;z-index:-1;width:112px;height:1px;font-size: 1px !important;l-h:nHeight;}
+#page_28 #dimg1 #img1  {width:112px;height:1px;}
+
+
+
+
+.dclr {clear:both;float:none;height:1px;margin:0px;padding:0px;overflow:hidden;}
+
+.ft0{font:  18px 'Verdana' !important;l-h: 32px;}
+.ft1{font:  14px 'Verdana' !important;l-h: 22px;}
+.ft2{font:  10px 'Verdana' !important;l-h: 1px;}
+.ft3{font:  12px 'Verdana' !important;l-h: 15px;}
+.ft4{font: italic  12px 'Verdana' !important;l-h: 15px;}
+.ft5{font:  10px 'Verdana' !important;l-h: 2px;}
+.ft6{font:  10px 'Verdana' !important;l-h: 14px;}
+.ft7{font:  12px 'Verdana' !important;l-h: 14px;}
+.ft8{font:  10px 'Verdana' !important;l-h: 6px;}
+.ft9{font:  12px 'Verdana' !important;margin-left: 32px;l-h: 15px;}
+.ft10{font: bold  12px 'Verdana' !important;l-h: 15px;}
+.ft11{font:  12px 'Verdana' !important;l-h: 16px;}
+.ft12{font:  12px 'Verdana' !important;l-h: 13px;}
+.ft13{font:  14px 'Verdana' !important;margin-left: 50px;l-h: 25px;}
+.ft14{font:  14px 'Verdana' !important;l-h: 25px;}
+.ft15{font:  14px 'Verdana' !important;l-h: 19px;}
+.ft16{font:  14px 'Verdana' !important;margin-left: 38px;l-h: 22px;}
+.ft17{font:  14px 'Verdana' !important;l-h: 22px;}
+.ft18{font:  12px 'Verdana' !important;margin-left: 4px;l-h: 15px;}
+.ft19{font:  12px 'Verdana' !important;margin-left: 3px;l-h: 16px;}
+.ft20{font:  14px 'Verdana' !important;margin-left: 38px;l-h: 19px;}
+.ft21{font:  12px 'Verdana' !important;l-h: 15px;}
+.ft22{font:  14px 'Verdana' !important;l-h: 19px;}
+.ft23{font:  14px 'Verdana' !important;margin-left: 39px;l-h: 19px;}
+.ft24{font:  12px 'Verdana' !important;margin-left: 3px;l-h: 15px;}
+.ft25{font:  12px 'Verdana' !important;l-h: 18px;}
+.ft26{font: bold  12px 'Verdana' !important;l-h: 16px;}
+.ft27{font:  10px 'Verdana' !important;l-h: 8px;}
+.ft28{font:  14px 'Verdana' !important;l-h: 19px;position: relative; bottom: -3px;}
+.ft29{font:  12px 'Verdana' !important;margin-left: 3px;l-h: 17px;}
+.ft30{font:  12px 'Verdana' !important;l-h: 17px;}
+.ft31{font:  12px 'Verdana' !important;margin-left: 3px;l-h: 18px;}
+.ft32{font:  14px 'Verdana' !important;margin-left: 39px;l-h: 22px;}
+.ft33{font:  14px 'Verdana' !important;margin-left: 50px;l-h: 26px;}
+.ft34{font:  14px 'Verdana' !important;l-h: 26px;}
+.ft35{font: bold  12px 'Verdana' !important;l-h: 17px;}
+.ft36{font:  14px 'Verdana' !important;l-h: 22px;position: relative; bottom: -6px;}
+.ft37{font:  12px 'Verdana' !important;margin-left: 5px;l-h: 16px;}
+
+.p0{text-align: left;padding-left: 0px;padding-right: 441px;margin-top: 22px;margin-bottom: 0px !important;}
+.p1{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p2{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p3{text-align: left;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p4{text-align: left;padding-left: 0px;margin-top: 18px;margin-bottom: 0px !important;}
+.p5{text-align: left;padding-left: 0px;margin-top: 15px;margin-bottom: 0px !important;}
+.p6{text-align: left;padding-left: 0px;margin-top: 32px;margin-bottom: 0px !important;}
+.p7{text-align: left;padding-left: 180px;margin-top: 18px;margin-bottom: 0px !important;}
+.p8{text-align: left;padding-left: 180px;margin-top: 2px;margin-bottom: 0px !important;}
+.p9{text-align: left;padding-left: 0px;margin-top: 51px;margin-bottom: 0px !important;}
+.p10{text-align: left;padding-left: 0px;padding-right: 168px;margin-top: 28px;margin-bottom: 0px !important;}
+.p11{text-align: right;padding-right: 42px;margin-top: 38px;margin-bottom: 0px !important;}
+.p12{text-align: left;margin-top: 0px;margin-bottom: 0px !important;}
+.p13{text-align: left;padding-left: 0px;margin-top: 2px;margin-bottom: 0px !important;}
+.p14{text-align: right;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p15{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p16{text-align: right;padding-right: 1px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p17{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p18{text-align: left;padding-left: 160px;padding-right: 105px;margin-top: 0px;margin-bottom: 0px !important;text-indent: 0.49px;}
+.p19{text-align: right;padding-right: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p20{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;}
+.p21{text-align: right;padding-right: 21px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p22{text-align: left;margin-top: 303px;margin-bottom: 0px !important;}
+.p23{text-align: right;padding-right: 21px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p24{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p25{text-align: left;padding-left: 0px;margin-top: 9px;margin-bottom: 0px !important;}
+.p26{text-align: left;padding-left: 0px;padding-right: 168px;margin-top: 3px;margin-bottom: 0px !important;}
+.p27{text-align: left;padding-left: 0px;padding-right: 168px;margin-top: 5px;margin-bottom: 0px !important;text-indent: 11px;}
+.p28{text-align: left;padding-left: 0px;padding-right: 168px;margin-top: 3px;margin-bottom: 0px !important;text-indent: 11px;}
+.p29{text-align: left;padding-left: 0px;padding-right: 168px;margin-top: 2px;margin-bottom: 0px !important;text-indent: 11px;}
+.p30{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;}
+.p31{text-align: right;padding-right: 42px;margin-top: 0px;margin-bottom: 0px !important;}
+.p32{text-align: left;padding-left: 0px;padding-right: 63px;margin-top: 0px;margin-bottom: 0px !important;text-indent: 0.112px;}
+.p33{text-align: left;padding-left: 0px;padding-right: 63px;margin-top: 3px;margin-bottom: 0px !important;text-indent: 11px;}
+.p34{text-align: left;padding-left: 0px;padding-right: 63px;margin-top: 5px;margin-bottom: 0px !important;text-indent: 11px;}
+.p35{text-align: left;padding-left: 0px;padding-right: 63px;margin-top: 2px;margin-bottom: 0px !important;text-indent: 11px;}
+.p36{text-align: left;padding-left: 0px;padding-right: 63px;margin-top: 5px;margin-bottom: 0px !important;text-indent: 11px;}
+.p37{text-align: left;margin-top: 50px;margin-bottom: 0px !important;}
+.p38{text-align: left;padding-right: 168px;margin-top: 1px;margin-bottom: 0px !important;}
+.p39{text-align: left;margin-top: 25px;margin-bottom: 0px !important;}
+.p40{text-align: left;padding-right: 168px;margin-top: 6px;margin-bottom: 0px !important;}
+.p41{text-align: left;padding-left: 0px;padding-right: 189px;margin-top: 51px;margin-bottom: 0px !important;text-indent: 0.60px;}
+.p42{text-align: left;padding-left: 0px;padding-right: 189px;margin-top: 10px;margin-bottom: 0px !important;text-indent: 0.60px;}
+.p43{text-align: left;padding-left: 0px;margin-top: 6px;margin-bottom: 0px !important;}
+.p44{text-align: left;padding-left: 0px;margin-top: 1px;margin-bottom: 0px !important;}
+.p45{text-align: left;padding-left: 0px;padding-right: 168px;margin-top: 0px;margin-bottom: 0px !important;}
+.p46{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;}
+.p47{text-align: left;padding-left: 0px;padding-right: 84px;margin-top: 0px;margin-bottom: 0px !important;text-indent: 0.122px;}
+.p48{text-align: left;padding-left: 0px;margin-top: 28px;margin-bottom: 0px !important;}
+.p49{text-align: left;padding-left: 0px;padding-right: 84px;margin-top: 1px;margin-bottom: 0px !important;}
+.p50{text-align: left;padding-left: 0px;padding-right: 84px;margin-top: 4px;margin-bottom: 0px !important;}
+.p51{text-align: left;padding-left: 0px;padding-right: 63px;margin-top: 13px;margin-bottom: 0px !important;}
+.p52{text-align: left;padding-left: 0px;padding-right: 63px;margin-top: 4px;margin-bottom: 0px !important;text-indent: 11px;}
+.p53{text-align: left;margin-top: 16px;margin-bottom: 0px !important;}
+.p54{text-align: left;padding-left: 0px;padding-right: 42px;margin-top: 0px;margin-bottom: 0px !important;text-indent: 11px;}
+.p55{text-align: left;padding-left: 0px;padding-right: 168px;margin-top: 0px;margin-bottom: 0px !important;}
+.p56{text-align: left;padding-left: 0px;padding-right: 168px;margin-top: 1px;margin-bottom: 0px !important;text-indent: 11px;}
+.p57{text-align: left;padding-left: 0px;padding-right: 168px;margin-top: 19px;margin-bottom: 0px !important;text-indent: 11px;}
+.p58{text-align: left;padding-left: 0px;padding-right: 168px;margin-top: 7px;margin-bottom: 0px !important;text-indent: 11px;}
+.p59{text-align: left;padding-left: 0px;margin-top: 29px;margin-bottom: 0px !important;}
+.p60{text-align: left;padding-left: 0px;padding-right: 168px;margin-top: 9px;margin-bottom: 0px !important;}
+.p61{text-align: left;padding-left: 0px;margin-top: 3px;margin-bottom: 0px !important;}
+.p62{text-align: right;padding-right: 42px;margin-top: 2px;margin-bottom: 0px !important;}
+.p63{text-align: left;padding-left: 0px;padding-right: 63px;margin-top: 0px;margin-bottom: 0px !important;text-indent: 0.112px;}
+.p64{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;}
+.p65{text-align: left;padding-left: 0px;margin-top: 1px;margin-bottom: 0px !important;}
+.p66{text-align: left;padding-left: 0px;padding-right: 63px;margin-top: 0px;margin-bottom: 0px !important;}
+.p67{text-align: left;padding-left: 0px;padding-right: 63px;margin-top: 4px;margin-bottom: 0px !important;text-indent: 11px;}
+.p68{text-align: left;padding-left: 0px;margin-top: 34px;margin-bottom: 0px !important;}
+.p69{text-align: left;padding-left: 0px;margin-top: 11px;margin-bottom: 0px !important;}
+.p70{text-align: left;padding-left: 0px;padding-right: 63px;margin-top: 1px;margin-bottom: 0px !important;}
+.p71{text-align: left;padding-left: 0px;padding-right: 63px;margin-top: 0px;margin-bottom: 0px !important;}
+.p72{text-align: left;padding-left: 0px;margin-top: 7px;margin-bottom: 0px !important;}
+.p73{text-align: left;padding-left: 0px;padding-right: 63px;margin-top: 2px;margin-bottom: 0px !important;}
+.p74{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;}
+.p75{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;}
+.p76{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p77{text-align: right;padding-right: 42px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p78{text-align: left;padding-right: 6px;margin-top: 0px;margin-bottom: 0px !important;}
+.p79{text-align: left;padding-right: 105px;margin-top: 1px;margin-bottom: 0px !important;}
+.p80{text-align: left;padding-right: 126px;margin-top: 25px;margin-bottom: 0px !important;}
+.p81{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p82{text-align: left;padding-left: 0px;padding-right: 63px;margin-top: 0px;margin-bottom: 0px !important;text-indent: 0.112px;}
+.p83{text-align: left;padding-left: 0px;padding-right: 63px;margin-top: 0px;margin-bottom: 0px !important;text-indent: 11px;}
+.p84{text-align: left;padding-left: 0px;margin-top: 17px;margin-bottom: 0px !important;}
+.p85{text-align: left;padding-left: 0px;padding-right: 63px;margin-top: 5px;margin-bottom: 0px !important;}
+.p86{text-align: left;padding-left: 0px;margin-top: 19px;margin-bottom: 0px !important;}
+.p87{text-align: left;padding-left: 0px;padding-right: 63px;margin-top: 6px;margin-bottom: 0px !important;}
+.p88{text-align: left;margin-top: 55px;margin-bottom: 0px !important;}
+.p89{text-align: right;padding-right: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p90{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p91{text-align: left;padding-left: 0px;margin-top: 7px;margin-bottom: 0px !important;}
+.p92{text-align: left;padding-left: 0px;padding-right: 168px;margin-top: 3px;margin-bottom: 0px !important;}
+.p93{text-align: left;padding-left: 0px;margin-top: 10px;margin-bottom: 0px !important;}
+.p94{text-align: left;padding-left: 0px;padding-right: 168px;margin-top: 13px;margin-bottom: 0px !important;}
+.p95{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;text-indent: 0.112px;}
+.p96{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p97{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p98{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p99{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p100{text-align: left;margin-top: 0px;margin-bottom: 0px !important;}
+.p101{text-align: left;margin-top: 2px;margin-bottom: 0px !important;text-indent: 11px;}
+.p102{text-align: left;margin-top: 5px;margin-bottom: 0px !important;text-indent: 11px;}
+.p103{text-align: left;margin-top: 6px;margin-bottom: 0px !important;text-indent: 11px;}
+.p104{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;}
+.p105{text-align: right;padding-right: 42px;margin-top: 752px;margin-bottom: 0px !important;}
+.p106{text-align: left;padding-left: 140px;margin-top: 0px;margin-bottom: 0px !important;}
+.p107{text-align: left;padding-left: 140px;padding-right: 84px;margin-top: 0px;margin-bottom: 0px !important;}
+.p108{text-align: left;padding-left: 140px;padding-right: 84px;margin-top: 1px;margin-bottom: 0px !important;}
+.p109{text-align: left;padding-left: 140px;margin-top: 8px;margin-bottom: 0px !important;}
+.p110{text-align: left;padding-left: 140px;padding-right: 84px;margin-top: 0px;margin-bottom: 0px !important;}
+.p111{text-align: left;padding-left: 140px;padding-right: 63px;margin-top: 9px;margin-bottom: 0px !important;}
+.p112{text-align: left;padding-left: 140px;padding-right: 63px;margin-top: 2px;margin-bottom: 0px !important;text-indent: 11px;}
+.p113{text-align: left;padding-left: 140px;padding-right: 63px;margin-top: 0px;margin-bottom: 0px !important;text-indent: 11px;}
+.p114{text-align: right;padding-right: 63px;margin-top: 19px;margin-bottom: 0px !important;}
+.p115{text-align: left;padding-left: 140px;margin-top: 0px;margin-bottom: 0px !important;}
+.p116{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;}
+.p117{text-align: left;padding-left: 0px;padding-right: 42px;margin-top: 0px;margin-bottom: 0px !important;}
+.p118{text-align: left;padding-left: 0px;padding-right: 168px;margin-top: 1px;margin-bottom: 0px !important;}
+.p119{text-align: left;padding-left: 0px;padding-right: 189px;margin-top: 28px;margin-bottom: 0px !important;text-indent: 0.60px;}
+.p120{text-align: left;padding-left: 0px;margin-top: 6px;margin-bottom: 0px !important;}
+.p121{text-align: left;padding-left: 0px;margin-top: 8px;margin-bottom: 0px !important;}
+.p122{text-align: left;padding-left: 0px;margin-top: 19px;margin-bottom: 0px !important;}
+.p123{text-align: left;padding-left: 0px;padding-right: 168px;margin-top: 2px;margin-bottom: 0px !important;}
+.p124{text-align: right;padding-right: 42px;margin-top: 78px;margin-bottom: 0px !important;}
+.p125{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;}
+.p126{text-align: left;margin-top: 752px;margin-bottom: 0px !important;}
+.p127{text-align: left;padding-right: 63px;margin-top: 15px;margin-bottom: 0px !important;}
+.p128{text-align: left;padding-right: 63px;margin-top: 3px;margin-bottom: 0px !important;text-indent: 11px;}
+.p129{text-align: left;padding-right: 63px;margin-top: 7px;margin-bottom: 0px !important;text-indent: 11px;}
+.p130{text-align: left;padding-right: 63px;margin-top: 5px;margin-bottom: 0px !important;text-indent: 11px;}
+.p131{text-align: left;margin-top: 0px;margin-bottom: 0px !important;text-indent: 11px;}
+.p132{text-align: left;margin-top: 4px;margin-bottom: 0px !important;text-indent: 11px;}
+.p133{text-align: left;margin-top: 19px;margin-bottom: 0px !important;text-indent: 11px;}
+.p134{text-align: left;padding-left: 0px;padding-right: 126px;margin-top: 0px;margin-bottom: 0px !important;}
+.p135{text-align: left;padding-left: 0px;margin-top: 7px;margin-bottom: 0px !important;}
+.p136{text-align: left;padding-left: 0px;padding-right: 63px;margin-top: 0px;margin-bottom: 0px !important;}
+.p137{text-align: left;padding-left: 0px;padding-right: 63px;margin-top: 0px;margin-bottom: 0px !important;}
+.p138{text-align: left;padding-left: 0px;margin-top: 8px;margin-bottom: 0px !important;}
+.p139{text-align: left;padding-left: 0px;padding-right: 63px;margin-top: 2px;margin-bottom: 0px !important;}
+.p140{text-align: left;padding-right: 84px;margin-top: 19px;margin-bottom: 0px !important;}
+.p141{text-align: left;padding-right: 63px;margin-top: 3px;margin-bottom: 0px !important;}
+.p142{text-align: left;margin-top: 3px;margin-bottom: 0px !important;text-indent: 11px;}
+.p143{text-align: left;padding-left: 0px;padding-right: 84px;margin-top: 0px;margin-bottom: 0px !important;text-indent: 0.60px;}
+.p144{text-align: left;padding-left: 0px;padding-right: 84px;margin-top: 3px;margin-bottom: 0px !important;}
+.p145{text-align: left;margin-top: 19px;margin-bottom: 0px !important;}
+.p146{text-align: left;padding-right: 63px;margin-top: 7px;margin-bottom: 0px !important;text-indent: 11px;}
+.p147{text-align: left;padding-right: 63px;margin-top: 6px;margin-bottom: 0px !important;text-indent: 11px;}
+.p148{text-align: left;padding-left: 0px;margin-top: 22px;margin-bottom: 0px !important;}
+.p149{text-align: left;padding-left: 0px;padding-right: 168px;margin-top: 6px;margin-bottom: 0px !important;}
+.p150{text-align: left;padding-left: 0px;padding-right: 273px;margin-top: 43px;margin-bottom: 0px !important;text-indent: 0.60px;}
+.p151{text-align: left;padding-left: 0px;margin-top: 9px;margin-bottom: 0px !important;}
+.p152{text-align: left;padding-left: 0px;padding-right: 168px;margin-top: 2px;margin-bottom: 0px !important;}
+.p153{text-align: left;padding-left: 0px;padding-right: 168px;margin-top: 0px;margin-bottom: 0px !important;}
+.p154{text-align: left;padding-left: 0px;padding-right: 168px;margin-top: 16px;margin-bottom: 0px !important;}
+.p155{text-align: right;padding-right: 42px;margin-top: 26px;margin-bottom: 0px !important;}
+.p156{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;}
+.p157{text-align: left;padding-left: 0px;padding-right: 84px;margin-top: 0px;margin-bottom: 0px !important;}
+.p158{text-align: left;padding-left: 0px;padding-right: 84px;margin-top: 1px;margin-bottom: 0px !important;}
+.p159{text-align: left;padding-right: 63px;margin-top: 4px;margin-bottom: 0px !important;text-indent: 11px;}
+.p160{text-align: left;padding-right: 84px;margin-top: 23px;margin-bottom: 0px !important;}
+.p161{text-align: left;padding-right: 63px;margin-top: 1px;margin-bottom: 0px !important;}
+.p162{text-align: left;padding-left: 0px;padding-right: 189px;margin-top: 27px;margin-bottom: 0px !important;text-indent: 0.60px;}
+.p163{text-align: left;padding-left: 0px;padding-right: 168px;margin-top: 3px;margin-bottom: 0px !important;}
+.p164{text-align: right;padding-right: 42px;margin-top: 5px;margin-bottom: 0px !important;}
+.p165{text-align: left;padding-left: 0px;padding-right: 84px;margin-top: 0px;margin-bottom: 0px !important;text-indent: 0.122px;}
+.p166{text-align: left;padding-left: 0px;margin-top: 18px;margin-bottom: 0px !important;}
+.p167{text-align: left;padding-left: 0px;padding-right: 63px;margin-top: 3px;margin-bottom: 0px !important;}
+.p168{text-align: left;padding-left: 0px;padding-right: 63px;margin-top: 2px;margin-bottom: 0px !important;text-indent: 11px;}
+.p169{text-align: left;padding-left: 0px;padding-right: 63px;margin-top: 4px;margin-bottom: 0px !important;text-indent: 11px;}
+.p170{text-align: left;padding-left: 0px;padding-right: 63px;margin-top: 6px;margin-bottom: 0px !important;text-indent: 11px;}
+.p171{text-align: left;margin-top: 11px;margin-bottom: 0px !important;}
+.p172{text-align: left;padding-left: 0px;margin-top: 16px;margin-bottom: 0px !important;}
+.p173{text-align: left;padding-left: 0px;padding-right: 168px;margin-top: 24px;margin-bottom: 0px !important;}
+.p174{text-align: left;padding-left: 0px;padding-right: 168px;margin-top: 0px;margin-bottom: 0px !important;text-indent: 11px;}
+.p175{text-align: left;padding-left: 0px;padding-right: 168px;margin-top: 4px;margin-bottom: 0px !important;text-indent: 11px;}
+.p176{text-align: left;padding-left: 0px;margin-top: 1px;margin-bottom: 0px !important;}
+.p177{text-align: right;padding-right: 42px;margin-top: 1px;margin-bottom: 0px !important;}
+.p178{text-align: left;padding-left: 0px;margin-top: 10px;margin-bottom: 0px !important;}
+.p179{text-align: left;padding-left: 0px;padding-right: 84px;margin-top: 0px;margin-bottom: 0px !important;}
+.p180{text-align: left;padding-left: 0px;padding-right: 84px;margin-top: 14px;margin-bottom: 0px !important;}
+.p181{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;}
+.p182{text-align: left;padding-left: 0px;margin-top: 1px;margin-bottom: 0px !important;}
+.p183{text-align: left;padding-left: 0px;margin-top: 14px;margin-bottom: 0px !important;}
+.p184{text-align: left;padding-left: 0px;padding-right: 84px;margin-top: 3px;margin-bottom: 0px !important;}
+.p185{text-align: left;padding-left: 0px;padding-right: 63px;margin-top: 11px;margin-bottom: 0px !important;}
+.p186{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;}
+.p187{text-align: left;margin-top: 1px;margin-bottom: 0px !important;}
+.p188{text-align: left;margin-top: 15px;margin-bottom: 0px !important;}
+.p189{text-align: left;padding-right: 63px;margin-top: 15px;margin-bottom: 0px !important;}
+.p190{text-align: left;margin-top: 13px;margin-bottom: 0px !important;}
+.p191{text-align: left;margin-top: 76px;margin-bottom: 0px !important;}
+
+.td0{padding: 0px;margin: 0px;width: 373px;vertical-align: bottom;}
+.td1{padding: 0px;margin: 0px;width: 153px;vertical-align: bottom;}
+.td2{border-bottom: #000000 1px solid;padding: 0px;margin: 0px;width: 373px;vertical-align: bottom;}
+.td3{border-bottom: #000000 1px solid;padding: 0px;margin: 0px;width: 153px;vertical-align: bottom;}
+.td4{padding: 0px;margin: 0px;width: 6px;vertical-align: bottom;}
+.td5{padding: 0px;margin: 0px;width: 397px;vertical-align: bottom;}
+.td6{padding: 0px;margin: 0px;width: 7px;vertical-align: bottom;}
+.td7{padding: 0px;margin: 0px;width: 55px;vertical-align: bottom;}
+.td8{padding: 0px;margin: 0px;width: 342px;vertical-align: bottom;}
+.td9{padding: 0px;margin: 0px;width: 34px;vertical-align: bottom;}
+.td10{padding: 0px;margin: 0px;width: 334px;vertical-align: bottom;}
+.td11{padding: 0px;margin: 0px;width: 14px;vertical-align: bottom;}
+.td12{padding: 0px;margin: 0px;width: 396px;vertical-align: bottom;}
+.td13{padding: 0px;margin: 0px;width: 318px;vertical-align: bottom;}
+.td14{padding: 0px;margin: 0px;width: 46px;vertical-align: bottom;}
+.td15{padding: 0px;margin: 0px;width: 344px;vertical-align: bottom;}
+.td16{padding: 0px;margin: 0px;width: 390px;vertical-align: bottom;}
+.td17{padding: 0px;margin: 0px;width: 36px;vertical-align: bottom;}
+.td18{padding: 0px;margin: 0px;width: 389px;vertical-align: bottom;}
+.td19{padding: 0px;margin: 0px;width: 97px;vertical-align: bottom;}
+.td20{padding: 0px;margin: 0px;width: 426px;vertical-align: bottom;}
+.td21{padding: 0px;margin: 0px;width: 290px;vertical-align: bottom;}
+.td22{padding: 0px;margin: 0px;width: 229px;vertical-align: bottom;}
+.td23{padding: 0px;margin: 0px;width: 63px;vertical-align: bottom;}
+.td24{padding: 0px;margin: 0px;width: 469px;vertical-align: bottom;}
+.td25{padding: 0px;margin: 0px;width: 468px;vertical-align: bottom;}
+.td26{padding: 0px;margin: 0px;width: 61px;vertical-align: bottom;}
+.td27{padding: 0px;margin: 0px;width: 43px;vertical-align: bottom;}
+.td28{padding: 0px;margin: 0px;width: 383px;vertical-align: bottom;}
+.td29{padding: 0px;margin: 0px;width: 13px;vertical-align: bottom;}
+.td30{padding: 0px;margin: 0px;width: 175px;vertical-align: bottom;}
+.td31{padding: 0px;margin: 0px;width: 349px;vertical-align: bottom;}
+.td32{padding: 0px;margin: 0px;width: 114px;vertical-align: bottom;}
+.td33{padding: 0px;margin: 0px;width: 60px;vertical-align: bottom;}
+.td34{padding: 0px;margin: 0px;width: 403px;vertical-align: bottom;}
+.td35{border-right: #000000 1px solid;padding: 0px;margin: 0px;width: 113px;vertical-align: bottom;}
+.td36{border-right: #000000 1px solid;border-top: #000000 1px solid;padding: 0px;margin: 0px;width: 402px;vertical-align: bottom;}
+.td37{border-right: #000000 1px solid;padding: 0px;margin: 0px;width: 402px;vertical-align: bottom;}
+.td38{border-bottom: #000000 1px solid;padding: 0px;margin: 0px;width: 60px;vertical-align: bottom;}
+.td39{border-right: #000000 1px solid;border-bottom: #000000 1px solid;padding: 0px;margin: 0px;width: 341px;vertical-align: bottom;}
+.td40{padding: 0px;margin: 0px;width: 525px;vertical-align: bottom;}
+.td41{padding: 0px;margin: 0px;width: 410px;vertical-align: bottom;}
+.td42{padding: 0px;margin: 0px;width: 182px;vertical-align: bottom;}
+.td43{padding: 0px;margin: 0px;width: 348px;vertical-align: bottom;}
+
+.tr0{heightzzz: 31px;}
+.tr1{heightzzz: 23px;}
+.tr2{heightzzz: 22px;}
+.tr3{heightzzz: 20px;}
+.tr4{heightzzz: 16px;}
+.tr5{heightzzz: 15px;}
+.tr6{heightzzz: 14px;}
+.tr7{heightzzz: 17px;}
+.tr8{heightzzz: 19px;}
+.tr9{heightzzz: 18px;}
+.tr10{heightzzz: 21px;}
+.tr11{heightzzz: 27px;}
+.tr12{heightzzz: 29px;}
+.tr13{heightzzz: 24px;}
+.tr14{heightzzz: 26px;}
+.tr15{heightzzz: 8px;}
+.tr16{heightzzz: 30px;}
+.tr17{heightzzz: 39px;}
+.tr18{heightzzz: 32px;}
+
+.t0{width: 552px;margin-leftZ: 69px;margin-top: 5px;f:20px 'Verdana' !important;}
+.t1{width: 431px;margin-leftZ: 114px;margin-top: 5px;f:13px 'Verdana' !important;}
+.t2{width: 402px;margin-leftZ: 140px;f:13px 'Verdana' !important;}
+.t3{width: 431px;margin-leftZ: 114px;f:13px 'Verdana' !important;}
+.t4{width: 348px;margin-leftZ: 189px;f:13px 'Verdana' !important;}
+.t5{width: 548px;margin-leftZ: 68px;f:20px 'Verdana' !important;}
+.t6{width: 548px;f:bold 13px 'Verdana' !important;}
+.t7{width: 545px;margin-leftZ: 9px;f:13px 'Verdana' !important;}
+.t8{width: 557px;margin-top: 14px;f:13px 'Verdana' !important;}
+.t9{width: 555px;f:13px 'Verdana' !important;}
+.t10{width: 548px;margin-leftZ: 68px;f:17px 'Verdana' !important;}
+.t11{width: 564px;margin-top: 25px;f:13px 'Verdana' !important;}
+.t12{width: 542px;margin-leftZ: 49px;f:17px 'Verdana' !important;}
+.t13{width: 548px;margin-leftZ: 68px;f:bold 13px 'Verdana' !important;}
+.t14{width: 556px;margin-leftZ: 6px;f:20px 'Verdana' !important;}
+
+</STYLE>
+
+
+
+<DIV id="page_1">
+<DIV id="dimg1">
+<INGENBILD zsrc="H5032591x1.jpg/" id="img1">
+</DIV>
+
+
+<DIV class="dclr"></DIV>
+<P class="p0 ft0">Regeringens skrivelse 2017/18:259</P>
+<TABLE cellpadding=0 cellspacing=0 class="t0">
+<TR>
+	<TD class="tr0 td0"><SPAN class="p1 ft1">En strategi för svensk rymdverksamhet</SPAN> </TD>
+	<TD class="tr0 td1"><SPAN class="p2 ft1">Skr.</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr1 td2"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr1 td3"><SPAN class="p2 ft1">2017/18:259</SPAN> </TD>
+</TR>
+</TABLE>
+<P class="p4 ft3">Regeringen överlämnar denna skrivelse till riksdagen.</P>
+<P class="p5 ft3">Stockholm den 9 maj 2018</P>
+<P class="p6 ft4">Stefan Löfven</P>
+<P class="p7 ft4">Helene Hellmark Knutsson</P>
+<P class="p8 ft3">(Utbildningsdepartementet)</P>
+<P class="p9 ft1">Skrivelsens huvudsakliga innehåll</P>
+<P class="p10 ft3">I skrivelsen presenterar regeringen en nationell strategi för svensk rymdverksamhet med långsiktiga strategiska mål för att stärka denna och de insatser som regeringen avser göra för att arbeta mot målen. Rymdverksamhet bör bedrivas utifrån ett helhetsperspektiv där nyttan för samhället står i centrum samtidigt som Sveriges säkerhet säkerställs. Verksamheten bör baseras på en stark rymdindustri och rymdforskning av hög kvalitet så att Sverige kan fortsätta vara en stark rymdnation. En insats som bör genomföras är ökad samverkan mellan forskningsfinansiärerna för att ge effektivare användning av resurserna. Vidare bör svenskt deltagande i internationella samarbeten vara förutsägbart på lång sikt. Resultat från det Europeiska rymdorganets (ESA) och EU:s rymdprogram såsom data från satellitnavigering och jordobservationer, bör i högre utsträckning göras tillgängliga för svenska användare. Svensk rymdverksamhet bör bedrivas på ett långsiktigt hållbart sätt och rymden bör hållas fri från konflikter. Detta bör bidra till att svensk tillgång till rymden säkras. Vi- dare bör rymdverksamhetens möjligheter att bidra till arbetet med Agenda 2030 och de globala målen främjas. Synergier mellan civil och militär rymdverksamhet bör utnyttjas och utövare av rymdverksamhet måste ta hänsyn till försvars- och säkerhetsaspekter. Andelen kvinnor och män bland forskare och anställda inom svensk rymdverksamhet bör bli jämställd. Intresset för att satsa på utbildningar inom naturvetenskap och teknik bör stimuleras genom att finansiärerna i samverkan med lärosätena sprider information om rymdverksamhet.</P>
+<P class="p11 ft3">1</P>
+</DIV>
+<DIV id="page_2">
+
+
+<P class="p12 ft3">Skr. 2017/18:259</P>
+<P class="p13 ft1">Innehållsförteckning</P>
+<TABLE cellpadding=0 cellspacing=0 class="t1">
+<TR>
+	<TD class="tr2 td4"><SPAN class="p14 ft3"><A href="#page_3">1</A></SPAN> </TD>
+	<TD colspan=2 class="tr2 td5"><SPAN class="p15 ft3"><A href="#page_3">Det behövs en rymdstrategi där samhällsnyttan står i centrum</A></SPAN> </TD>
+	<TD class="tr2 td6"><SPAN class="p16 ft5">.........<A href="#page_3">3</A></SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr3 td4"><SPAN class="p14 ft3"><A href="#page_5">2</A></SPAN> </TD>
+	<TD colspan=2 class="tr3 td5"><SPAN class="p15 ft3"><A href="#page_5">Rymdverksamhet binder samman världen och gör</A></SPAN> </TD>
+	<TD class="tr3 td6"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr4 td4"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD colspan=2 class="tr4 td5"><SPAN class="p15 ft3"><A href="#page_5">internationell samverkan nödvändig .................................................</A></SPAN> </TD>
+	<TD class="tr4 td6"><SPAN class="p16 ft3"><A href="#page_5">5</A></SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr5 td4"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr5 td7"><SPAN class="p15 ft3"><A href="#page_5">2.1</A></SPAN> </TD>
+	<TD class="tr5 td8"><SPAN class="p17 ft3"><A href="#page_5">Internationell samverkan för ett fredligt och hållbart</A></SPAN> </TD>
+	<TD class="tr5 td6"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr5 td4"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr5 td7"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr5 td8"><SPAN class="p17 ft3"><A href="#page_5">nyttjande av rymden ...........................................................</A></SPAN> </TD>
+	<TD class="tr5 td6"><SPAN class="p16 ft3"><A href="#page_5">5</A></SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr4 td4"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr4 td7"><SPAN class="p15 ft3"><A href="#page_7">2.2</A></SPAN> </TD>
+	<TD class="tr4 td8"><SPAN class="p17 ft3"><A href="#page_7">EU:s rymdstrategi...............................................................</A></SPAN> </TD>
+	<TD class="tr4 td6"><SPAN class="p16 ft3"><A href="#page_7">7</A></SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr5 td4"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr5 td7"><SPAN class="p15 ft3"><A href="#page_8">2.3</A></SPAN> </TD>
+	<TD class="tr5 td8"><SPAN class="p17 ft3"><A href="#page_8">Rymddata används i hela samhället ...................................</A></SPAN> </TD>
+	<TD class="tr5 td6"><SPAN class="p16 ft3"><A href="#page_8">8</A></SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr6 td4"><SPAN class="p3 ft6">&nbsp;</SPAN> </TD>
+	<TD class="tr6 td7"><SPAN class="p15 ft7"><A href="#page_11">2.4</A></SPAN> </TD>
+	<TD class="tr6 td8"><SPAN class="p17 ft7"><A href="#page_11">Agenda 2030 och de globala målen..................................</A></SPAN> </TD>
+	<TD class="tr6 td6"><SPAN class="p14 ft8"><A href="#page_11">11</A></SPAN> </TD>
+</TR>
+</TABLE>
+<P class="p18 ft3"><SPAN class="ft3">2.5</SPAN><A href="#page_12"><SPAN class="ft9">Sveriges säkerhet och andra </SPAN></A><NOBR><A href="#page_12">utrikes-,</A></NOBR><A href="#page_12"> säkerhets- och försvarspolitiska intressen måste beaktas i</A></P>
+<TABLE cellpadding=0 cellspacing=0 class="t2">
+<TR>
+	<TD class="tr7 td9"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr7 td10"><SPAN class="p17 ft3"><A href="#page_12">rymdverksamhet ...............................................................</A></SPAN> </TD>
+	<TD class="tr7 td11"><SPAN class="p14 ft3"><A href="#page_12">12</A></SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr6 td9"><SPAN class="p19 ft7"><A href="#page_14">2.6</A></SPAN> </TD>
+	<TD class="tr6 td10"><SPAN class="p17 ft7"><A href="#page_14">Samhällskritisk infrastruktur behöver skyddas.................</A></SPAN> </TD>
+	<TD class="tr6 td11"><SPAN class="p14 ft7"><A href="#page_14">14</A></SPAN> </TD>
+</TR>
+</TABLE>
+<P class="p20 ft3"><SPAN class="ft3">2.7</SPAN><A href="#page_15"><SPAN class="ft9">Svensk rymdlagstiftning ska vara ett stöd för svensk</SPAN></A></P>
+<TABLE cellpadding=0 cellspacing=0 class="t3">
+<TR>
+	<TD class="tr8 td12"><SPAN class="p14 ft3"><A href="#page_15">rymdverksamhet ...............................................................</A></SPAN> </TD>
+	<TD class="tr8 td11"><SPAN class="p14 ft3"><A href="#page_15">15</A></SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr8 td12"><SPAN class="p14 ft3"><A href="#page_16">3 Rymdindustrin gör rymden tillgänglig............................................</A></SPAN> </TD>
+	<TD class="tr8 td11"><SPAN class="p14 ft3"><A href="#page_16">16</A></SPAN> </TD>
+</TR>
+</TABLE>
+<P class="p20 ft3"><SPAN class="ft3">3.1</SPAN><A href="#page_18"><SPAN class="ft9">En stark rymdindustri bidrar till svensk</SPAN></A></P>
+<TABLE cellpadding=0 cellspacing=0 class="t4">
+<TR>
+	<TD class="tr4 td13"><SPAN class="p3 ft3"><A href="#page_18">konkurrenskraft ................................................................</A></SPAN> </TD>
+	<TD class="tr4 td11"><SPAN class="p14 ft3"><A href="#page_18">18</A></SPAN> </TD>
+</TR>
+</TABLE>
+<P class="p20 ft3"><SPAN class="ft3">3.2</SPAN><A href="#page_20"><SPAN class="ft9">Verksamheten på Esrange bör fortsätta drivas och</SPAN></A></P>
+<TABLE cellpadding=0 cellspacing=0 class="t3">
+<TR>
+	<TD class="tr9 td4"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr9 td14"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr9 td15"><SPAN class="p14 ft3"><A href="#page_20">utvecklas...........................................................................</A></SPAN> </TD>
+	<TD class="tr9 td11"><SPAN class="p14 ft3"><A href="#page_20">20</A></SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr10 td4"><SPAN class="p14 ft3"><A href="#page_21">4</A></SPAN> </TD>
+	<TD colspan=2 class="tr10 td16"><SPAN class="p14 ft3"><A href="#page_21">Rymdforskning hjälper oss att förstå jorden ...................................</A></SPAN> </TD>
+	<TD class="tr10 td11"><SPAN class="p14 ft3"><A href="#page_21">21</A></SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr5 td4"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr5 td14"><SPAN class="p15 ft3"><A href="#page_23">4.1</A></SPAN> </TD>
+	<TD class="tr5 td15"><SPAN class="p21 ft3"><A href="#page_23">Rymdforskare behöver ha tillgång till infrastruktur</A></SPAN> </TD>
+	<TD class="tr5 td11"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr9 td4"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr9 td14"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr9 td15"><SPAN class="p14 ft3"><A href="#page_23">för sin forskning ...............................................................</A></SPAN> </TD>
+	<TD class="tr9 td11"><SPAN class="p14 ft3"><A href="#page_23">23</A></SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr8 td4"><SPAN class="p14 ft3"><A href="#page_26">5</A></SPAN> </TD>
+	<TD colspan=2 class="tr8 td16"><SPAN class="p15 ft3"><A href="#page_26">Rymdverksamhet öppnar karriärvägar för både kvinnor och</A></SPAN> </TD>
+	<TD class="tr8 td11"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr9 td4"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr9 td14"><SPAN class="p15 ft3"><A href="#page_26">män</A></SPAN> </TD>
+	<TD class="tr9 td15"><SPAN class="p14 ft3"><A href="#page_26">.................................................................................................</A></SPAN> </TD>
+	<TD class="tr9 td11"><SPAN class="p14 ft3"><A href="#page_26">26</A></SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=3 class="tr10 td12"><SPAN class="p14 ft3"><A href="#page_28">Utdrag ur protokoll vid regeringssammanträde den 9 maj 2018.............</A></SPAN> </TD>
+	<TD class="tr10 td11"><SPAN class="p14 ft3"><A href="#page_28">28</A></SPAN> </TD>
+</TR>
+</TABLE>
+<P class="p22 ft3">2</P>
+</DIV>
+<DIV id="page_3">
+
+
+<TABLE cellpadding=0 cellspacing=0 class="t5">
+<TR>
+	<TD class="tr0 td17"><SPAN class="p23 ft1">1</SPAN> </TD>
+	<TD class="tr0 td18"><SPAN class="p24 ft1">Det behövs en rymdstrategi där</SPAN> </TD>
+	<TD class="tr0 td19"><SPAN class="p3 ft3">Skr. 2017/18:259</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr11 td17"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr11 td18"><SPAN class="p24 ft1">samhällsnyttan står i centrum</SPAN> </TD>
+	<TD class="tr11 td19"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+</TABLE>
+<P class="p25 ft10">Utgångspunkter för svensk rymdverksamhet</P>
+<P class="p26 ft3">Rymden är en global allmänning. Det innebär att den ska vara tillgänglig för alla stater och att dessa har samma rätt att utforska och använda rymden för fredliga ändamål. Genom den snabba teknikutvecklingen har rymden blivit åtkomlig för allt fler stater och för både offentliga och privata aktörer. Tillgången till rymden har därmed ökat och kostnaderna har sänkts vilket bl.a. har fått till följd att antalet satelliter stadigt har ökat. Samhället har samtidigt blivit allt mer beroende av de tjänster och funktioner som satelliterna tillhandahåller. Det har därför blivit allt viktigare att vi skyddar rymdmiljön och att rymden hålls fri från konflikter för att säkerställa tillgången till den och de infrastrukturer i rymden som samhället är beroende av. Detta är ett kollektivt ansvar för alla nationer och aktörer.</P>
+<P class="p27 ft3">Svensk rymdverksamhet är en strategisk tillgång för utveckling av kunskapssamhället. Det är viktigt att den bedrivs på ett sätt som främjar forskning, utveckling och innovation och bidrar till att skapa högteknologiska arbetstillfällen och st ärka svensk konkurrenskraft. Rymdverksamhetens betydelse för olika samhällsfunktioner växer bl.a. genom samhällets beroende av satellitdata för telekommunikation, navigation, tillhandahållande av exakt tid, väderleksprognoser, finanstransaktioner, observation av skogs- och jordbruk, klimatövervakning och jordobservation. Därmed måste rymdverksamhet bedrivas med nyttan för samhället i fokus samt i ett internationellt perspektiv, där bl.a. möjligheterna att bidra till Agenda 2030 tas till vara. De strategiska behov som samhället har av rymdtjänster och relaterad teknik behöver identifieras. Utifrån det kan den långsiktigt hållbara nyttan garanteras.</P>
+<P class="p27 ft3">Inom ramen för denna skrivelse avses med rymdverksamhet samhällsverksamhet som har koppling till rymden och som innefattar bl.a. rymdforskning, rymdindustri, satelliter och verksamheter som möjliggör nyttjande av rymdens infrastruktur och data. Rymdmiljö är de förhållanden som råder i rymden genom påverkan av solens strålning, jordens magnetfält och mänsklig aktivitet. Rymdsystem är ett samlingsnamn för instrument, utrustningar och satelliter som placeras i rymden för att utföra tjänster för användare på jorden. Detta inkluderar den markbaserade infrastruktur som används för att styra och kommunicera med satelliter. Genom jordobservation kan förhållanden såsom miljö- och klimatförändringar på jorden, i atmosfären, på land och i haven följas och rymddata genereras.</P>
+<P class="p28 ft3">Svensk rymdverksamhet är i en styrkeposition med högkvalitativ forskning och framgångsrik rymdindustri. Denna position har byggts upp genom en stabil och långsiktig offentlig finansiering. En fortsatt svensk styrkeposition är önskvärd, men den är inte självklar eller ohotad och är beroende av fortsatt stabila villkor för svensk rymdverksamhet.</P>
+<P class="p29 ft11">Flera högteknologiska produkter och tjänster för samhället baseras på upptäckter inom rymdforskningen och har sedan utvecklats i samverkan</P>
+<P class="p30 ft12">med näringslivet. Ett exempel är satellitbaserad navigationsutrustning,</P>
+<P class="p31 ft3">3</P>
+</DIV>
+<DIV id="page_4">
+
+
+<P class="p32 ft3">Skr. 2017/18:259 som underlättar vardagen för många och har gett upphov till en rad nya innovationer inom andra områden. Med fler satelliter, fler tjänster och ett ökat beroende av rymdsystem i vardagen, både civilt och militärt, ökar kraven på informationssäkerhet och att tjänsterna fungerar utan störningar. Samhället blir effektivare och säkrare genom dessa tjänster, men också mer sårbart. Det blir därmed viktigare att arbeta för att minimera och förebygga risker med detta beroende.</P>
+<P class="p33 ft3">Eftersom rymdverksamhet kan vara kostsam är det i vissa fall nödvändigt att bedriva den i samarbete med andra länder. Att delta i EU:s rymdprogram, i Europeiska rymdorganets (ESA) program och i övrigt internationellt samarbete är därför en nödvändig förutsättning för svensk rymdverksamhet. Deltagandet i EU:s rymdprogram ger Sverige tillgång till de satelliter som drivs av EU och de data som genereras från dessa. Svenska forskare och företag har genom Sveriges medlemskap i ESA fått tillträde till forskningsinstrument och data som annars inte varit tillgängliga. Deltagandet i ESA:s program ger möjligheter för företag med produktion i Sverige att medverka i teknikutveckling och leverans av utrustning och tjänster som använder den utrustning som placerats i rymden. Denna teknikutveckling påverkar även utveckling av andra produkter riktade till fler kunder än enbart ESA och bidrar därmed till företagens konkurrenskraft i fler sektorer än inom rymdområdet.</P>
+<P class="p34 ft3">Samarbeten med <NOBR>icke-europeiska</NOBR> rymdnationer och aktörer är av naturliga skäl underrepresenterade i svenska rymdsatsningar eftersom svensk rymdverksamhet huvudsakligen inriktas mot EU:s och ESA:s program. Det finns emellertid skäl att väga olika samarbetens potential mot varandra, eftersom svenska prioriteringar måste utgå från bästa samhällsnytta för det svenska samhället.</P>
+<P class="p35 ft3">Rymdverksamhet har vidare alltid haft <NOBR>utrikes-,</NOBR> säkerhets- och försvarspolitiska dimensioner. Dessa har förstärkts när allt fler aktörer engagerar sig i rymdverksamhet. På grund av detta och den strategiska betydelse som rymdverksamhet har för Sveriges säkerhet krävs en ökad medvetenhet hos alla aktörer om de <NOBR>utrikes-,</NOBR> säkerhets- och försvarspolitiska konsekvenser som rymdverksamhet har. Det krävs grundliga analyser av vilka skyddsvärden som är förknippade med rymdverksamhet och vilka internationella samarbeten som är lämpliga utifrån Sveriges säkerhet.</P>
+<P class="p36 ft3">Svensk rymdforskning är framgångsrik och utgör en hörnsten i en strategi för svensk rymdverksamhet. I rymden placerade teleskop för studier av fjärran himlakroppar ger bättre data för astronomisk forskning än teleskop som är placerade på jorden och rymdplacerade teleskop ger i många fall också helt nya data. Rymdverksamheten har således också en viktig roll för att människan bättre ska förstå rymden och få inspiration för fortsatt utforskande. Detta bidrar till att skapa ett större intresse för naturvetenskap och teknik såväl för kvinnor som för män och kan få fler personer att välja studier inom dessa ämnen. Ökat intresse för rymden kan därför också bidra till en ökad jämställdhet inom utbildning och forskning i naturvetenskap och teknik. En satsning på rymden är ytterst en satsning på jorden.</P>
+<P class="p37 ft3">4</P>
+</DIV>
+<DIV id="page_5">
+<DIV id="dimg1">
+<INGENBILD zsrc="H5032595x1.jpg/" id="img1">
+</DIV>
+
+
+<TABLE cellpadding=0 cellspacing=0 class="t6">
+<TR>
+	<TD class="tr2 td20"><SPAN class="p3 ft10">Rymdforskning är en del av regeringens forskningspolitik</SPAN> </TD>
+	<TD class="tr2 td19"><SPAN class="p3 ft3">Skr. 2017/18:259</SPAN> </TD>
+</TR>
+</TABLE>
+<P class="p38 ft3">Regeringen presenterade i november 2016 propositionen Kunskap i samverkan – för samhällets utmaningar och stärkt konkurrenskraft (prop. 2016/17:50, bet 2016/17:UbU12, rskr. 2016/17:208). Den beskriver regeringens forskningspolitik ur ett tioårigt perspektiv. Förutom en höjning av anslagen till forskning och utbildning på forskarnivå till universitet och högskolor presenterades flera forsknings- och innovationssatsningar inriktade på utmaningar för samhället. Satsningar gjordes bl.a. på fem samverkansprogram och sju tioåriga forskningsprogram, där flera har koppling till rymdverksamhet, t.ex. samverkansprogrammen om smarta städer och om cirkulär och biobaserad ekonomi, där data från satelliter används för övervakning och styrning. Ett av de tioåriga forskningsprogrammen avser klimat där jordobservationsdata ger viktiga bidrag. Utöver dessa presenterades ytterligare satsningar varav en avser rymdverksamhet.</P>
+<P class="p39 ft10">En nationell rymdstrategi</P>
+<P class="p40 ft3">Mot bakgrund av det stora antal aktörer som är involverade i rymdverksamheten, de många olika aspekter som behöver beaktas och den vikt rymdverksamheten har för utveckling av olika delar av samhället, behövs det en samlad nationell rymdstrategi. Regeringena avsikt med den strategi som presenteras i denna skrivelse är att skapa en plattform för Sveriges långsiktiga arbete med rymdverksamhet och möta framtida behov och möjligheter. Strategin anger vilka övergripande områden som regeringen prioriterar och målen för respektive område. Strategin kan följas av specifika uppdrag till berörda myndigheter och andra styrande åtgärder för att målen ska kunna nås. Strategin måste vara tillräckligt flexibel för att kunna anpassas till snabba omvärldsförändringar och den kommer att uppdateras när behov uppstår.</P>
+<P class="p41 ft14"><SPAN class="ft1">2</SPAN><SPAN class="ft13">Rymdverksamhet binder samman världen och gör internationell samverkan nödvändig</SPAN></P>
+<P class="p42 ft17"><SPAN class="ft15">2.1</SPAN><SPAN class="ft16">Internationell samverkan för ett fredligt och hållbart nyttjande av rymden</SPAN></P>
+<P class="p43 ft10">Strategiska mål bör vara att:</P>
+<P class="p44 ft3"><SPAN class="ft3">–</SPAN><SPAN class="ft18">säkerställa svensk handlingsfrihet i och tillgång till rymden,</SPAN></P>
+<P class="p45 ft11"><SPAN class="ft3">–</SPAN><SPAN class="ft19">förhindra utplacering av vapen i rymden och motverka att den blir en arena för konflikter,</SPAN></P>
+<P class="p45 ft11"><SPAN class="ft3">–</SPAN><SPAN class="ft19">rymden och rymdtjänster används för fredliga ändamål på ett sätt som gynnar mänsklig välfärd och hållbar utveckling,</SPAN></P>
+<P class="p46 ft3"><SPAN class="ft3">–</SPAN><SPAN class="ft18">rymdverksamhet präglas av transparens och öppenhet,</SPAN></P>
+<P class="p46 ft3"><SPAN class="ft3">–</SPAN><SPAN class="ft18">bidra till utvecklingen av internationella regelverk för rymdverk-</SPAN></P>
+<TABLE cellpadding=0 cellspacing=0 class="t7">
+<TR>
+	<TD class="tr8 td21"><SPAN class="p3 ft3">samhet, och</SPAN> </TD>
+	<TD class="tr8 td22"><SPAN class="p14 ft3">5</SPAN> </TD>
+</TR>
+</TABLE>
+</DIV>
+<DIV id="page_6">
+<DIV id="dimg1">
+<INGENBILD zsrc="H5032596x1.jpg/" id="img1">
+</DIV>
+
+
+<P class="p47 ft3">Skr. 2017/18:259 bidra till internationellt arbete för att hantera problem med rymdskrot.</P>
+<P class="p48 ft10">Insatser som bör göras är att:</P>
+<P class="p49 ft3">– Sverige ska arbeta aktivt i internationella organ, framför allt inom FN, ESA och EU, och fortsatt prioritera medverkan i internationella samarbeten som pågår för att ta fram relevanta styrande dokument och andra överenskommelser som syftar till att rymden hålls tillgänglig för alla och fri från vapen, och</P>
+<P class="p50 ft11">– Sverige ska delta i internationella samarbeten för framtagande av och uppdateringar av en rymdlägesbild med beaktande av försvars- och säkerhetsaspekter.</P>
+<P class="p51 ft3">Rymden är en gemensam resurs som alla länder har samma rätt att nyttja och utforska i fredliga syften. Detta är grunden för all rymdverksamhet, vilket blir ännu viktigare att betona när rymden blir tillgänglig för allt fler. Genom att bidra till ett långsiktigt hållbart nyttjande av rymden där rymdmiljön hålls säker och förutsägbar kan Sveriges handlingsfrihet i och tillgång till rymden stärkas. Att säkerställa detta bör därför vara ett strategiskt mål.</P>
+<P class="p33 ft3">Rymdverksamheten utvecklas snabbt och blir alltmer komplex. Aktörerna kommer från allt fler områden och både nyttan och beroendet av rymdinfrastruktur för samhället växer. Rymdinfrastruktur utgör också i allt högre grad en viktig del av enskilda länders försvars- och säkerhetspolitik. Gränsdragningen mellan civil och militär infrastruktur är ofta otydlig eftersom satelliter i många fall har dubbla användningsområden och kan användas både civilt och militärt. Internationella regelverk som reglerar rymdområdet måste fortlöpande ses över och utvecklas för att tydliggöra länders ansvar och för att konflikter och utplacering av vapen ska kunna undvikas och därigenom underlätta fredligt utnyttjande av rymden. Ett andra strategiskt mål bör således vara att förhindra utplacering av vapen i rymden och motverka att den blir en arena för konflikter. Detta är kopplat till ett tredje och ett fjärde mål: att rymden och rymdtjänster används för fredliga ändamål på ett sätt som gynnar mänsklig välfärd och hållbar utveckling samt att rymdverksamhet sker transparent och öppet.</P>
+<P class="p34 ft3">Öppenhet och samverkan i rymdverksamhet förutsätter normbildande överenskommelser, såväl juridiskt bindande avtal och regelverk som frivilliga riktlinjer. Ett femte mål bör därför vara att Sverige genom sitt deltagande i internationella förhandlingar bidrar till utvecklingen av internationella regelverk för rymdverksamhet.</P>
+<P class="p52 ft3">Den ökade användningen av rymden gör att vi behöver en förbättrad överblick av vad som sker i rymden och dess miljö samt av rymdfart, dvs. en rymdlägesbild. Detta behandlas även i avsnitt 2.5, där en insats för att koordinera den svenska hanteringen av en rymdlägesbild ur ett säkerhets- och försvarsperspektiv beskrivs. En mer heltäckande rymdlägesbild ökar den globala säkerheten genom en ökad transparens i staters rymdverksamhet. Därmed bidrar en rymdlägesbild till de ovan nämnda målen.</P>
+<P class="p53 ft3">6</P>
+</DIV>
+<DIV id="page_7">
+
+
+<P class="p54 ft11">I en rymdlägesbild ingår att observera och följa satelliter och dess ba- Skr. 2017/18:259 nor. Mängden användbara satellitbanor runt jorden är i praktiken begrän-</P>
+<P class="p55 ft3">sad och den nära rymdmiljön utgör därför en ändlig tillgång, där allt fler aktörer ska samsas och fler satelliter få plats. Detsamma gäller för radiofrekvenser som används för kommunikation till och från satelliter. An- vändningen av dem är därför föremål för internationella förhandlingar.</P>
+<P class="p56 ft3">Rymdskrot utgör det enskilt största mänskligt skapade hotet mot rymdmiljön. Rymdskrot består huvudsakligen av uttjänta satelliter, lösa föremål eller delar av satelliter som lossnat eller bildats genom kollision mellan föremål som cirklar runt jorden. Mängden skrot ökar stadigt som ett resultat av vardaglig rymdverksamhet. Dessutom kan kollisioner och i värsta fall även medvetna attacker mot satelliter leda till att stora mängder nytt skrot bildas. Detta innebär att om inga åtgärder vidtas kommer mängden rymdskrot fortsätta växa och till slut göra rymdmiljön och satellitbanorna obrukbara, eftersom skrot som cirkulerar i banorna riskerar kollidera med fungerande satelliter. För att hantera problemet kommer det att krävas en kombination av ökad förståelse för fenomenet, tekniska lösningar samt nya regelverk. För att betona vikten av detta bör ett sjätte mål vara att Sverige genom sitt deltagande i internationella förhandlingar bidrar till internationellt arbete för att hantera problemen med rymdskrot.</P>
+<P class="p57 ft3">Insatser för att arbeta mot de strategiska målen bör vara att Sverige ska fortsätta prioritera och aktivt bidra i de internationella forum där det diskuteras hur rymden hålls tillgänglig för alla och fri från vapen. Vidare bör Sverige delta i internationella samarbeten för att ta fram och uppdatera en rymdlägesbild med beaktande av försvars- och säkerhetsaspekter. Arbetet i internationella forum, som sker framförallt inom FN, EU och ESA, syftar till att ta fram relevanta styrande dokument och andra överenskommelser för en rymd som används för fredliga ändamål på ett sätt som gynnar mänsklig välfärd och hållbar utveckling, utan vapen eller situationer som på andra sätt orsakar konflikter. Deltagande i sådana forum bidrar till att främja transparens och öppenhet. Det svenska deltagandet bör utgå från ett nationellt helhetsperspektiv, där svenska intressen inom alla berörda sakområden beaktas.</P>
+<P class="p58 ft11">Internationella forum för förhandlingar om rymdforskning är t ex ESA och det Europeiska sydobservatoriet (ESO) där långsiktiga planer tas fram, både för forskningens inriktning och för de investeringar som krävs för att genomföra forskningen.</P>
+<P class="p59 ft15"><SPAN class="ft15">2.2</SPAN><SPAN class="ft20">EU:s rymdstrategi</SPAN></P>
+<P class="p60 ft3">EU:s rymdstrategi En rymdstrategi för Europa (KOM [2016] 705) beskriver den globala utvecklingen och hur ny teknik och kommersialisering inom rymdverksamhet har tagit ett stort steg framåt till nytta för samhället. Strategin ger tydliga inriktningar och mål för EU på rymdområdet. Bakgrunden är den snabba utveckling som pågår inom internationell rymdverksamhet och som har gjort samhället beroende av tjänster som rymdverksamhet möjliggör.</P>
+<P class="p61 ft3">I rymdstrategin anger kommissionen fyra strategiska mål:</P>
+<P class="p62 ft3">7</P>
+</DIV>
+<DIV id="page_8">
+<DIV id="dimg1">
+<INGENBILD zsrc="H5032598x1.jpg/" id="img1">
+</DIV>
+
+
+<P class="p63 ft11">Skr. 2017/18:259 – att optimera samhällsnyttan och den ekonomiska nyttan av rymdverksamhetens fördelar,</P>
+<P class="p64 ft3"><SPAN class="ft21">–</SPAN><SPAN class="ft18">att stärka den europeiska rymdindustrin,</SPAN></P>
+<P class="p64 ft3"><SPAN class="ft21">–</SPAN><SPAN class="ft18">att stärka Europas autonomi när det gäller tillgång till rymden, och</SPAN></P>
+<P class="p64 ft3"><SPAN class="ft21">–</SPAN><SPAN class="ft18">att stärka Europas roll som en global aktör.</SPAN></P>
+<P class="p65 ft3">I strategin läggs vikt vid att rymdverksamheten ska bidra till ekono-</P>
+<P class="p66 ft3">misk tillväxt, konkurrenskraft och sysselsättning. Rymdverksamhet ska bidra till att förbättra excellens i forskning, innovation och teknologi liksom till att inspirera och utbilda den europeiska allmänheten, särskilt de unga. Den ska även ta hänsyn till EU:s och ESA:s medlemsstaters <NOBR>utrikes-,</NOBR> försvars- och säkerhetspolitiska intressen.</P>
+<P class="p67 ft3">Regeringen ser huvudsakligen positivt på EU:s strategi och avser att verka för att den förverkligas. Särskild vikt bör läggas vid säkerställandet av tillgång till data för applikationer och tjänster för ökad samhällsnytta. Regeringen anser vidare att det svenska samhället bör dra nytta av EU:s satellitprogram dels genom att använda öppen information och skapa mervärde av denna, dels för teknikutveckling. Därför är det också viktigt att svenska användare inom berörda samhällssektorer deltar och ställer krav på de program och tjänster som utvecklas inom EU.</P>
+<P class="p68 ft15"><SPAN class="ft22">2.3</SPAN><SPAN class="ft23">Rymddata används i hela samhället</SPAN></P>
+<P class="p69 ft10">Strategiska mål bör vara att:</P>
+<P class="p70 ft11"><SPAN class="ft3">–</SPAN><SPAN class="ft19">Sverige drar nytta av deltagandet i EU:s satellitnavigerings- och jordobservationsprogram, och</SPAN></P>
+<P class="p71 ft3"><SPAN class="ft3">–</SPAN><SPAN class="ft24">data från rymdsystem i allmänhet och från EU:s satellitprogram i synnerhet är lätt tillgängliga för utveckling av teknik och tjänster,</SPAN></P>
+<P class="p70 ft25">samtidigt som att Sveriges säkerhet värnas och sekretess, säkerhetsskydd och skyddet för den personliga integriteten upprätthålls.</P>
+<P class="p72 ft10">Insatser som bör göras är att:</P>
+<P class="p73 ft11">– Rymdstyrelsen i samråd med andra berörda myndigheter ska arbeta för att information om och data från satellitnavigering och jordobservationer sprids till svenska användare,</P>
+<P class="p71 ft3"><SPAN class="ft3">–</SPAN><SPAN class="ft24">Rymdstyrelsen ska samråda med berörda myndigheter om utformningen av innovationsfrämjande satsningar för användning av data från satellitnavigering och jordobservationer,</SPAN></P>
+<P class="p74 ft3"><SPAN class="ft3">–</SPAN><SPAN class="ft24">Rymdstyrelsen och andra berörda myndigheter ska kartlägga Sveri-</SPAN></P>
+<P class="p75 ft3">ges behov av satelliter inför utveckling av nya satellitgenerationer, och</P>
+<P class="p70 ft11">– Rymdstyrelsen ska ta initiativ till att berörda svenska myndigheter analyserar och föreslår om och hur Sverige kan använda Galileos offentligt reglerade tjänst (PRS) i enlighet med de krav som EU ställer. Om PRS bedöms vara användbart för svenska behov bör Rymdstyrelsen ansvara för att PRS sprids till svenska användare.</P>
+<TABLE cellpadding=0 cellspacing=0 class="t8">
+<TR>
+	<TD class="tr1 td23"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr1 td24"><SPAN class="p76 ft10">Rymdsystemen påverkar och ingår i allt fler sektorer i samhället</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr8 td23"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr8 td24"><SPAN class="p76 ft3">De flesta samhällssektorer använder numera rymdinfrastruktur och till-</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr4 td23"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr4 td24"><SPAN class="p76 ft3">hörande tjänster. Stora mängder data genereras från de många satelliter</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr9 td23"><SPAN class="p77 ft3">8</SPAN> </TD>
+	<TD class="tr9 td24"><SPAN class="p76 ft3">som placerats i omlopp runt jorden för observation av förhållanden på</SPAN> </TD>
+</TR>
+</TABLE>
+</DIV>
+<DIV id="page_9">
+
+
+<P class="p78 ft11">jorden. Dessa kan användas för många fler ändamål än det primära syftet. Skr. 2017/18:259 Rymddata kan t.ex. tillsammans med bildanalys och artificiell intelligens</P>
+<P class="p79 ft3">(AI), skapa nya möjligheter till innovation och därmed öppna upp för helt nya användningsområden. I arbetet för att rymddata i högre grad ska bidra till ökad innovation sätter regeringen upp två långsiktiga strategiska mål. Målen bör vara att Sverige drar nytta av deltagandet i EU:s satellitnavigerings- och jordobservationsprogram samt att data från rymdsystem i allmänhet och från EU:s satellitprogram i synnerhet är lätt tillgängliga för utveckling av teknik och tjänster. I dessa sammanhang bör Sveriges säkerhet värnas samt sekretess, säkerhetsskydd och skyddet för den personliga integriteten upprätthållas. Målen ligger även i linje med vad som anges i regeringens digitaliseringsstrategi (N2017/03643/D) om att öka fokus på datadriven och digitalt driven innovation och forskning som kan bidra till mätbart ökad samhällsnytta, kostnadseffektivitet i offentliga verksamheter och stärkt konkurrenskraft för industrin.</P>
+<P class="p80 ft26">EU:s satellitnavigeringsprogram Galileo och jordobservationsprogram Copernicus ger många möjligheter</P>
+<P class="p79 ft3">EU satsar nu på satellitnavigering och jordobservation i två program under benämningarna European Global Navigation Satellite System (EGNSS eller European GNSS) och Copernicus som är EU:s flaggskeppsprogram inom rymdområdet. För att dra nytta av dessa investeringar är det viktigt att potentiella användare informeras om de möjligheter som systemen ger. För att uppnå de strategiska målen anser regeringen att fyra insatser behöver göras.</P>
+<TABLE cellpadding=0 cellspacing=0 class="t9">
+<TR>
+	<TD class="tr3 td25"><SPAN class="p81 ft3">En insats bör vara att Rymdstyrelsen i samråd med andra berörda myn-</SPAN> </TD>
+	<TD class="tr3 td26"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr4 td25"><SPAN class="p3 ft3">digheter arbetar för att information om och data från satellitnavigering</SPAN> </TD>
+	<TD class="tr4 td26"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr5 td25"><SPAN class="p3 ft3">och jordobservationer sprids till svenska användare. Kostnadsfri, lättill-</SPAN> </TD>
+	<TD class="tr5 td26"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr4 td25"><SPAN class="p3 ft3">gänglig, full och öppen tillgång till rymddata främjar framväxten av</SPAN> </TD>
+	<TD class="tr4 td26"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr5 td25"><SPAN class="p3 ft3">innovativa företag och kan även bidra till utveckling av tjänster för</SPAN> </TD>
+	<TD class="tr5 td26"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr5 td25"><SPAN class="p3 ft3">offentlig sektor.</SPAN> </TD>
+	<TD class="tr5 td26"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr5 td25"><SPAN class="p81 ft3">För att dra nytta av dessa möjligheter bör en andra insats vara att</SPAN> </TD>
+	<TD class="tr5 td26"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr4 td25"><SPAN class="p3 ft3">Rymdstyrelsen samråder med berörda myndigheter om hur innovations-</SPAN> </TD>
+	<TD class="tr4 td26"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr5 td25"><SPAN class="p3 ft3">främjande satsningar för användning av data från satellitnavigering och</SPAN> </TD>
+	<TD class="tr5 td26"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr4 td25"><SPAN class="p3 ft3">jordobservationer kan utformas.</SPAN> </TD>
+	<TD class="tr4 td26"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr5 td25"><SPAN class="p81 ft3">En tredje insats bör vara att Rymdstyrelsen och andra berörda myndig-</SPAN> </TD>
+	<TD class="tr5 td26"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr5 td25"><SPAN class="p3 ft3">heter tar fram en svensk behovsbild för utveckling av kommande genera-</SPAN> </TD>
+	<TD class="tr5 td26"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr4 td25"><SPAN class="p3 ft3">tioners satellitprogram. En sådan behovsbild blir en lämplig utgångs-</SPAN> </TD>
+	<TD class="tr4 td26"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr5 td25"><SPAN class="p3 ft3">punkt för vidare diskussioner om vilka möjligheter systemen ger. Baserat</SPAN> </TD>
+	<TD class="tr5 td26"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr5 td25"><SPAN class="p3 ft3">på denna behovsbild kan berörda myndigheter arbeta för att öka Sveriges</SPAN> </TD>
+	<TD class="tr5 td26"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr9 td25"><SPAN class="p3 ft3">deltagande i EU:s satellitnavigerings- och jordobservationssystem.</SPAN> </TD>
+	<TD class="tr9 td26"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr12 td25"><SPAN class="p3 ft4">EGNSS (European GNSS)</SPAN> </TD>
+	<TD class="tr12 td26"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr8 td25"><SPAN class="p3 ft3">Genom Galileo och EGNOS har Europa ett eget globalt satellit-</SPAN> </TD>
+	<TD class="tr8 td26"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr4 td25"><SPAN class="p3 ft3">navigeringssystem (GNSS). Det har minskat Europas tekniska beroende</SPAN> </TD>
+	<TD class="tr4 td26"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr5 td25"><SPAN class="p3 ft3">av andra system, såsom det amerikanska Global Positioning System</SPAN> </TD>
+	<TD class="tr5 td26"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr5 td25"><SPAN class="p3 ft3">(GPS). Galileosystemet kan bl.a. användas för styrning och annan opti-</SPAN> </TD>
+	<TD class="tr5 td26"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr4 td25"><SPAN class="p3 ft3">mering av transporter på vägar, järnvägar och till sjöss, för utveckling av</SPAN> </TD>
+	<TD class="tr4 td26"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr5 td25"><SPAN class="p3 ft3">uppkopplade och automatiserade transportsystem, inom skogs- och jord-</SPAN> </TD>
+	<TD class="tr5 td26"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr8 td25"><SPAN class="p3 ft3">bruk och för räddningsoperationer och gränsövervakning. Svenska före-</SPAN> </TD>
+	<TD class="tr8 td26"><SPAN class="p14 ft3">9</SPAN> </TD>
+</TR>
+</TABLE>
+</DIV>
+<DIV id="page_10">
+
+
+<P class="p82 ft11">Skr. 2017/18:259 tag bidrar till utvecklingen av Galileo, bl.a. genom styr- och kommunikationsdatorer i satellitsystemet och till den operativa driften av systemet.</P>
+<P class="p83 ft3">Galileo erbjuder fyra navigeringstjänster bl.a. den offentligt reglerade tjänsten PRS, vilken erbjuder säker krypterad positionering och tid och är mer robust mot störning och vilseledning än de öppna systemen. Galileo är världens enda civila GNSS och PRS är avsedd för de s.k. blåljusmyndigheterna (t.ex. polisen, ambulanssjukvården och räddningstjänster) och annan samhällskritisk infrastruktur, men kan naturligtvis också användas för militära tillämpningar.</P>
+<P class="p83 ft11">Rymdstyrelsen är ansvarig för nationell samordning av jordobservationsdata och har genom det arbetet erfarenhet och upparbetade kanaler för hur sådana data bör spridas. Rymdstyrelsen är på motsvarande sätt mottagare av data från Galileosatelliterna.</P>
+<P class="p83 ft3">En fjärde insats bör vara att Rymdstyrelsen tar initiativ till att berörda myndigheter gemensamt ska analysera och föreslå om och hur Sverige kan nyttja PRS i enlighet med de krav som EU ställer. Om PRS bedöms vara användbart för svenska behov bör Rymdstyrelsen ansvara för att PRS sprids till svenska användare. I detta arbete kan myndigheterna även samråda om hur innovationsfrämjande satsningar för användning av data från satellitnavigering och jordobservationer kan utformas.</P>
+<P class="p84 ft4">Copernicus</P>
+<P class="p85 ft3">Copernicus byggs för att vara ett jordobservationsprogram för global övervakning av miljö och säkerhet genom insamling, förmedling och användning av information från satelliter. Copernicus gör det t.ex. möjligt att följa havens temperatur, sammansättning och föroreningar. Det är bl.a. möjligt att observera mängden plast och avfall i haven och se hur de följer strömmarna och därmed bedöma omfattningen av sådana föroreningar. Svenska företag bidrar bl.a. med elektronikenheter, antenner, avancerade marktjänster för datanedtagning, operativ satellitkontroll, datalagring och struktur för nationell informationsanvändning i Copernicussatelliterna. Data från dessa jordobservationer stödjer Europas miljö- och säkerhetsarbete. Rymdstyrelsen ansvarar för nationell samordning av jordobservation och för att data blir lätt tillgängliga.</P>
+<P class="p86 ft4">Eumetsat</P>
+<P class="p87 ft3">Svensk medverkan i det europeiska vädersatellitsamarbetet European Organisation for the Exploitation of Meteorological Satellites (Eumetsat) motsvarar ca 6 procent av Sveriges bidrag till rymdverksamhet. Eumetsat ansvarar för beställning av utveckling av satelliter och driver sedan operativt ett antal satelliter som ger betydelsefulla jordobservationer för väderprognoser, men också för klimat- och miljöövervakning. Flertalet av satelliterna har utvecklats i nära samarbete med ESA. Svensk industri bidrar bl.a. med datanedtagning. Sveriges meteorologiska och hydrologiska institut (SMHI) företräder Sverige i Eumetsat.</P>
+<P class="p88 ft3">10</P>
+</DIV>
+<DIV id="page_11">
+<DIV id="dimg1">
+<INGENBILD zsrc="H50325911x1.jpg/" id="img1">
+</DIV>
+
+
+<TABLE cellpadding=0 cellspacing=0 class="t10">
+<TR>
+	<TD class="tr13 td27"><SPAN class="p89 ft15">2.4</SPAN> </TD>
+	<TD class="tr13 td28"><SPAN class="p90 ft15">Agenda 2030 och de globala målen</SPAN> </TD>
+	<TD class="tr13 td19"><SPAN class="p3 ft3">Skr. 2017/18:259</SPAN> </TD>
+</TR>
+</TABLE>
+<P class="p91 ft10">Strategiskt mål bör vara att:</P>
+<P class="p92 ft11">– svensk rymdforskning och rymdindustri bidrar till det globala miljö- och klimatövervakningsarbetet och genomförandet av Agenda 2030 och de globala målen.</P>
+<P class="p93 ft10">Insatsen som bör göras är att:</P>
+<P class="p92 ft11">– Sverige ska ta initiativ till och delta i internationell samverkan inom rymdverksamhet som stödjer det globala miljö- och klimatövervakningsarbetet och genomförandet av Agenda 2030 och de globala målen.</P>
+<P class="p94 ft3">Agenda 2030 syftar till att utrota fattigdom och hunger, förverkliga de mänskliga rättigheterna för alla, uppnå jämställdhet och egenmakt för alla kvinnor och flickor samt säkerställa ett varaktigt skydd för jorden och dess naturresurser. Agendan är universell och inrymmer de globala målen för utveckling, vilken ofta benämns Agenda 2030 och de globala målen. Genom internationella samarbeten där forskning och industri ingår kan Sverige med sin rymdverksamhet bidra till arbetet med Agenda 2030 och de globala målen. Det är regeringens ambition att Sverige ska vara ledande i genomförandet av Agenda 2030 – nationellt och internationellt. Agenda 2030 ska följas upp på regional, nationell och global nivå. Globala indikatorer har tagits fram och fortsätter att utvecklas för att mäta, övervaka och rapportera utvecklingen. Regeringen tar därför regelbundet fram en nationell plan för hur Sverige bidrar till Agenda 2030 och de globala målen.</P>
+<P class="p27 ft3">Agenda 2030 och Addis Ababa Action Agenda om utvecklingsfinansiering betonar bl.a. vikten av att på ett transparent och ansvarsfullt sätt använda <NOBR>privat-offentliga</NOBR> samarbeten för att dra nytta av jordobservation och geografisk information som, utöver longitud och latitud, även inkluderar höjd dvs. geospatial information.</P>
+<P class="p29 ft3">Data från bl.a. Copernicussatelliterna kan bidra till arbetet med Agenda 2030 genom insamling, bearbetning och förmedling av tillförlitliga data och information om bl.a. miljö och klimat som är tillgänglig och kostnadsfri för användare från hela världen. Dessa system kan användas för övervakning och för att följa utveckling och framsteg i svårtillgängliga områden. Rätt tillämpad kan sådan verksamhet bidra till att stärka mänskliga rättigheter, jämställdhet och demokrati.</P>
+<P class="p29 ft3">Svensk rymdindustri bidrar med teknik och kunskap inom bl.a. mikrovågsobservationer, dvs. astronomiska observationer i mikrovågsspektrumet, och vädersatellitsystem. Med vädersatellitsystem görs väder- och klimatprognoser, mätningar av ozonskiktet och andra klimatpåverkande faktorer i atmosfären. Gjorda över längre tid ger de viktiga bidrag till forskarnas klimatmodeller och den globala miljö- och klimatövervakningen.</P>
+<P class="p56 ft11">Svensk klimatforskning är framstående och med de satsningar som beskrevs i den senaste forskningspropositionen kan Sverige spela en viktig roll inom detta område. Ett strategiskt mål bör således vara att svensk rymdforskning och rymdindustri ska bidra till det globala miljö- och</P>
+<P class="p30 ft12">klimatövervakningsarbetet och genomförandet av Agenda 2030 och de</P>
+<P class="p31 ft3">11</P>
+</DIV>
+<DIV id="page_12">
+
+
+<P class="p95 ft11">Skr. 2017/18:259 globala målen. En insats i arbetet mot målet bör vara att Sverige ska ta initiativ till och delta i internationell samverkan inom rymdverksamhet som stödjer detta.</P>
+<TABLE cellpadding=0 cellspacing=0 class="t11">
+<TR>
+	<TD class="tr14 td29"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD colspan=2 class="tr14 td30"><SPAN class="p96 ft15">2.5</SPAN> </TD>
+	<TD colspan=2 class="tr14 td31"><SPAN class="p3 ft15">Sveriges säkerhet och andra <NOBR>utrikes-,</NOBR> säkerhets-</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr3 td29"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr3 td32"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr3 td33"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD colspan=2 class="tr3 td31"><SPAN class="p3 ft15">och försvarspolitiska intressen måste beaktas i</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr1 td29"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr1 td32"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr1 td33"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD colspan=2 class="tr1 td31"><SPAN class="p3 ft15">rymdverksamhet</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr15 td29"><SPAN class="p3 ft27">&nbsp;</SPAN> </TD>
+	<TD class="tr15 td32"><SPAN class="p3 ft27">&nbsp;</SPAN> </TD>
+	<TD colspan=2 class="tr15 td34"><SPAN class="p3 ft27">&nbsp;</SPAN> </TD>
+	<TD class="tr15 td6"><SPAN class="p3 ft27">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr7 td29"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr7 td35"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD colspan=2 class="tr4 td36"><SPAN class="p97 ft10">Strategiskt mål bör vara att:</SPAN> </TD>
+	<TD class="tr7 td6"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr5 td29"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr5 td35"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD colspan=2 class="tr5 td37"><SPAN class="p97 ft3">– statlig rymdverksamhet bidrar till att öka Sveriges säkerhet genom</SPAN> </TD>
+	<TD class="tr5 td6"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr4 td29"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr4 td35"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD colspan=2 class="tr4 td37"><SPAN class="p97 ft3">att bidra till att Sveriges <NOBR>utrikes-,</NOBR> säkerhets- och försvarspolitiska</SPAN> </TD>
+	<TD class="tr4 td6"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr7 td29"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr7 td35"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD colspan=2 class="tr7 td37"><SPAN class="p97 ft3">intressen uppfylls och att den nationella militära förmågan stärks.</SPAN> </TD>
+	<TD class="tr7 td6"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr12 td29"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr12 td35"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD colspan=2 class="tr12 td37"><SPAN class="p97 ft10">Insatser som bör göras är att:</SPAN> </TD>
+	<TD class="tr12 td6"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr5 td29"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr5 td35"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD colspan=2 class="tr5 td37"><SPAN class="p97 ft3">– statlig rymdverksamhet ska hanteras på ett strukturerat och sam-</SPAN> </TD>
+	<TD class="tr5 td6"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr5 td29"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr5 td35"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD colspan=2 class="tr5 td37"><SPAN class="p97 ft3">ordnat sätt så att medvetenheten om rymdverksamhetens inverkan på</SPAN> </TD>
+	<TD class="tr5 td6"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr4 td29"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr4 td35"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD colspan=2 class="tr4 td37"><SPAN class="p97 ft3">Sveriges säkerhet och övriga <NOBR>utrikes-,</NOBR> säkerhets- och försvars-</SPAN> </TD>
+	<TD class="tr4 td6"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr5 td29"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr5 td35"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD colspan=2 class="tr5 td37"><SPAN class="p97 ft3">politiska intressen ökar,</SPAN> </TD>
+	<TD class="tr5 td6"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr5 td29"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr5 td35"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD colspan=2 class="tr5 td37"><SPAN class="p97 ft3">– statliga aktörer ska verka för att alla svenska aktörer inom rymd-</SPAN> </TD>
+	<TD class="tr5 td6"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr4 td29"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr4 td35"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD colspan=2 class="tr4 td37"><SPAN class="p97 ft3">området ska beakta Sveriges säkerhet och övriga <NOBR>utrikes-,</NOBR> säkerhets-</SPAN> </TD>
+	<TD class="tr4 td6"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr5 td29"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr5 td35"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD colspan=2 class="tr5 td37"><SPAN class="p97 ft3">och försvarspolitiska intressen,</SPAN> </TD>
+	<TD class="tr5 td6"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr5 td29"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr5 td35"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD colspan=2 class="tr5 td37"><SPAN class="p97 ft3">– civila och militära aktörer ska samverka om forskning och utveck-</SPAN> </TD>
+	<TD class="tr5 td6"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr4 td29"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr4 td35"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD colspan=2 class="tr4 td37"><SPAN class="p97 ft3">ling och användning av rymdsystem så att synergierna mellan civil</SPAN> </TD>
+	<TD class="tr4 td6"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr5 td29"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr5 td35"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD colspan=2 class="tr5 td37"><SPAN class="p97 ft3">och militär rymdverksamhet tas till vara, och</SPAN> </TD>
+	<TD class="tr5 td6"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr5 td29"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr5 td35"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD colspan=2 class="tr5 td37"><SPAN class="p97 ft3">– Rymdstyrelsen ska ha ett samordnande ansvar att initiera en na-</SPAN> </TD>
+	<TD class="tr5 td6"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr4 td29"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr4 td35"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD colspan=2 class="tr4 td37"><SPAN class="p97 ft3">tionell operationell rymdlägesbild i samverkan mellan berörda myn-</SPAN> </TD>
+	<TD class="tr4 td6"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr9 td29"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr9 td35"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr7 td38"><SPAN class="p97 ft3">digheter.</SPAN> </TD>
+	<TD class="tr7 td39"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr9 td6"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr16 td29"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD colspan=4 class="tr16 td40"><SPAN class="p96 ft3">Rymdverksamhet har <NOBR>utrikes-,</NOBR> säkerhets- och försvarspolitiska dimen-</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr5 td29"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD colspan=4 class="tr5 td40"><SPAN class="p96 ft3">sioner, vilket blir mer påtagligt när allt fler aktörer engagerar sig i rym-</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr5 td29"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD colspan=4 class="tr5 td40"><SPAN class="p96 ft3">den. Förmågan att verka i rymden och att använda rymdtjänster medför</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr5 td29"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD colspan=4 class="tr5 td40"><SPAN class="p96 ft3">militärstrategiska och säkerhetspolitiska fördelar. Den säkerhetspolitiska</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr4 td29"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD colspan=4 class="tr4 td40"><SPAN class="p96 ft3">utvecklingen internationellt, och i synnerhet i Sveriges närområde, måste</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr5 td29"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD colspan=4 class="tr5 td40"><SPAN class="p96 ft3">beaktas vid Sveriges internationella samarbeten samt vid beslut om och</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr4 td29"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD colspan=4 class="tr4 td40"><SPAN class="p96 ft3">prioriteringar av svensk rymdverksamhet. Ett strategiskt mål bör vara att</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr5 td29"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD colspan=4 class="tr5 td40"><SPAN class="p96 ft3">statlig rymdverksamhet bidrar till att öka Sveriges säkerhet genom att</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr5 td29"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD colspan=4 class="tr5 td40"><SPAN class="p96 ft3">bidra till att Sveriges <NOBR>utrikes-,</NOBR> säkerhets- och försvarspolitiska intressen</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr4 td29"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD colspan=4 class="tr4 td40"><SPAN class="p96 ft3">tillgodoses och att den nationella militära förmågan stärks.</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr5 td29"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr5 td32"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD colspan=3 class="tr5 td41"><SPAN class="p98 ft3">Kontinuerlig omvärldsbevakning och analys ökar kunskapen om rymd-</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr5 td29"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD colspan=4 class="tr5 td40"><SPAN class="p96 ft3">verksamhetens inverkan på <NOBR>utrikes-,</NOBR> säkerhets- och försvarspolitiken och</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr4 td29"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD colspan=4 class="tr4 td40"><SPAN class="p96 ft3">är nödvändig för att tillhandahålla beslutsunderlag åt berörda aktörer.</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr5 td29"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD colspan=4 class="tr5 td40"><SPAN class="p96 ft3">Detta förutsätter en nära samverkan mellan berörda myndigheter och</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr5 td29"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD colspan=4 class="tr5 td40"><SPAN class="p96 ft3">statliga bolag. Det är viktigt att statliga aktörer även verkar för att andra</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr4 td29"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD colspan=4 class="tr4 td40"><SPAN class="p96 ft3">sektorer i samhället som arbetar med rymdverksamhet får en ökad med-</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr5 td29"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD colspan=4 class="tr5 td40"><SPAN class="p96 ft3">vetenhet om rymdverksamhetens inverkan på <NOBR>utrikes-,</NOBR> säkerhets- och</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr5 td29"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD colspan=4 class="tr5 td40"><SPAN class="p96 ft3">försvarspolitiken.</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr4 td29"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr4 td32"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD colspan=3 class="tr4 td41"><SPAN class="p98 ft3">I syfte att uppnå målet anser regeringen att fyra insatser behöver göras.</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr5 td29"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD colspan=4 class="tr5 td40"><SPAN class="p96 ft3">Den första bör vara att statlig rymdverksamhet ska hanteras på ett struk-</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr9 td29"><SPAN class="p14 ft3">12</SPAN> </TD>
+	<TD colspan=4 class="tr9 td40"><SPAN class="p99 ft3">turerat och samordnat sätt så att medvetenheten om rymdverksamhetens</SPAN> </TD>
+</TR>
+</TABLE>
+</DIV>
+<DIV id="page_13">
+
+
+<DIV>
+<DIV id="id_1">
+<P class="p100 ft3">inverkan på Sveriges säkerhet och övriga <NOBR>utrikes-,</NOBR> säkerhets- och försvarspolitiska intressen ökar. Detta bör knytas till en andra insats som innebär att statliga aktörer ska verka för att alla svenska aktörer inom rymdområdet beaktar Sveriges säkerhet och övriga <NOBR>utrikes-,</NOBR> säkerhets- och försvarspolitiska intressen.</P>
+<P class="p101 ft3">Eftersom tjänsterna från rymdbaserade system i många fall är desamma för civila och militära användare finns det goda förutsättningar för samarbete om att använda denna infrastruktur. Skillnaderna handlar om vad man använder tekniken till och vilka tjänster man prioriterar, inte infrastrukturen som sådan. Det finns därför en stor potential i att koordinera svensk försvars- och säkerhetsrelaterad användning av rymdtjänster med civil eftersom båda kan dra nytta av varandras infrastruktur, kunskap och resultat. En välutvecklad samverkan mellan civila och militära aktörer om såväl rymdforskning och teknikutveckling som rutinanvändning av rymdsystem kan leda till ett mera effektivt resursutnyttjande för alla parter. Rymdverksamhet kan på detta sätt även fortsättningsvis bidra till samhällets säkerhet och förstärkt nationell militär förmåga. En tredje insats bör således vara att civila och militära aktörer ska samverka om forskning och utveckling och användning av rymdsystem så att synergierna mellan civil och militär rymdverksamhet tas till vara.</P>
+<P class="p102 ft3">Det finns ett nationellt behov av en förbättrad rymdlägesbild (se även avsnitt 2.1). En utvecklad rymdlägesbild skapar förutsättningar för att minska risken för konflikter i rymden, mängden och skador av rymdskrot samt påverkan från extremt rymdväder så som solstormar. En solstorm är ett utbrott av strålning och laddade partiklar som slungas ut från solen. När solstormar riktas mot jorden kan de påverka satelliter och störa ut radiovågor och satellitsignaler som färdas i atmosfären. Solstormar kan även framkalla elektriska fält i jordskorpan som i sin tur kan orsaka störningar bland annat i elnätet. De flesta solstormar är hanterbara och olika aktörer kan skydda sin utrustning från påverkan av dessa. Extrema solstormar kan dock utgöra ett stort hot mot elnät, radiokommunikation och satellitsystem.</P>
+<P class="p103 ft3">Ur ett militärt perspektiv kan en rymdlägesbild bidra till att värna skyddsvärd verksamhet. En korrekt och ostörd militär rymdlägesbild är viktig och ibland en avgörande faktor för att kunna genomföra militära operationer. De civila och militära grundbehoven är ibland desamma och möjliga att samordna. En rymdlägesbild spelar också en viktig roll i internationella sammanhang vad gäller ökad transparens och kan därmed stödja utrikespolitiska strategiska mål. En fjärde insats, som även refereras till i avsnitt 2.1 bör därför vara att Rymdstyrelsen ges ett samordnande ansvar för att initiera en nationell operationell rymdlägesbild i samverkan med berörda myndigheter. I Rymdstyrelsens samordning ingår även att överväga svenskt aktivt deltagande i de internationella forum där en gemensam rymdlägesbild diskuteras.</P>
+</DIV>
+<DIV id="id_2">
+<P class="p104 ft3">Skr. 2017/18:259</P>
+<P class="p105 ft3">13</P>
+</DIV>
+</DIV>
+</DIV>
+<DIV id="page_14">
+<DIV id="dimg1">
+<INGENBILD zsrc="H50325914x1.jpg/" id="img1">
+</DIV>
+
+
+<TABLE cellpadding=0 cellspacing=0 class="t12">
+<TR>
+	<TD class="tr17 td42"><SPAN class="p3 ft3">Skr. 2017/18:259 <SPAN class="ft28">2.6</SPAN></SPAN> </TD>
+	<TD class="tr17 td10"><SPAN class="p3 ft15">Samhällskritisk infrastruktur behöver skyddas</SPAN> </TD>
+</TR>
+</TABLE>
+<P class="p106 ft10">Strategiska mål bör vara att:</P>
+<P class="p107 ft3"><SPAN class="ft3">–</SPAN><SPAN class="ft24">rymdverksamhet bidrar till att begränsa riskerna med samhällets beroende av enskilda rymdtjänster, och</SPAN></P>
+<P class="p108 ft30"><SPAN class="ft3">–</SPAN><SPAN class="ft29">infrastruktur som är viktig för samhället har god motståndskraft mot extrema solstormar och avsiktliga störningar, genom samordning mellan berörda aktörer.</SPAN></P>
+<P class="p109 ft10">Insatser som bör göras är att:</P>
+<P class="p107 ft11"><SPAN class="ft3">–</SPAN><SPAN class="ft19">berörda myndigheter ska ha en dialog om hur de ska hantera riskerna med beroendet av enskilda rymdtjänster samt identifiera och föreslå skyddsåtgärder för rymdinfrastruktur som är betydelsefull för samhällsviktiga funktioner, och</SPAN></P>
+<P class="p110 ft25"><SPAN class="ft3">–</SPAN><SPAN class="ft31">berörda myndigheter ska undersöka möjligheten att använda PRS för skydd av kritisk infrastruktur.</SPAN></P>
+<P class="p111 ft3">Samhället är idag beroende av rymdtjänster för kommunikation, navigering, väderprognoser och många andra funktioner. Kritiska beroenden mellan viktiga verksamheter och över nationsgränser gör att avbrott och störningar som exemplifieras ovan (avsnitt 2.5) kan få stora konsekvenser. Med beroende följer sårbarhet vid störningar i tillgången till rymdtjänsterna.</P>
+<P class="p112 ft11">Tillgång till globala satellitnavigeringssystem (GNSS) har i dag blivit verksamhetskritiskt för många funktioner i vårt samhälle. Det är därför viktigt att säkerställa ersättningstjänster och funktioner för positionering eller navigering. Därigenom undviks beroende av en enskild tjänst från en viss leverantör eller funktion.</P>
+<P class="p113 ft3">Rymdtjänster kan påverkas av både antagonistiska, dvs. avsiktliga, och naturliga hot. Avsiktliga hot kan t.ex. vara hot mot internetsäkerhet, s.k. cyberhot. Naturliga hot kan t.ex. vara elektriska och elektromagnetiska hot som bl.a. kan orsakas av solstormar. För att skapa ett samhälle som bättre kan motstå och återhämta sig från allvarliga sådana störningar behöver berörda myndigheter samarbeta för att begränsa riskerna och genom god samordning öka samhällets motståndskraft mot de effekter som t.ex. en kraftig solstorm eller en avsiktlig störning kan ha på samhället. Vikten av att skydda samhällskritisk infrastruktur medför att de strategiska målen bör vara dels att rymdverksamhet bidrar till att begränsa riskerna med samhällets beroenden av enskilda rymdtjänster, dels att infrastruktur som är viktig för samhället har god motståndskraft mot extrema solstormar och avsiktliga störningar genom samordning mellan berörda aktörer. Ett exempel på beroende av enskilda rymdtjänster är satellitnavigering för transporter och trafik. För att inte vara beroende av andra länders system har flera länder utvecklat egna satellitnavigeringssystem. USA driver GPS, Ryssland driver systemet Glonass, Europa driver EGNSS och Kina driver BeiDou. En fördel med detta har varit att systemen kan samverka och därmed ge bättre upplösning även i skymda lägen på jorden.</P>
+<P class="p114 ft3">För att uppnå ovanstående mål bör en första insats vara att berörda</P>
+<P class="p115 ft3">myndigheter ska ha en dialog om hur de ska hantera riskerna med</P>
+<P class="p116 ft3">14</P>
+</DIV>
+<DIV id="page_15">
+<DIV id="dimg1">
+<INGENBILD zsrc="H50325915x1.jpg/" id="img1">
+</DIV>
+
+
+<P class="p117 ft11">beroendet av enskilda rymdtjänster från en leverantör eller tjänst samt Skr. 2017/18:259 gemensamt identifiera och föreslå skyddsåtgärder för rymdinfrastruktur</P>
+<P class="p118 ft11">som är betydelsefull för samhällsviktiga funktioner. En andra insats bör vara att berörda myndigheter ska undersöka möjligheten att använda Galileosatelliternas offentligt reglerade navigeringstjänst (PRS) för skydd av kritisk infrastruktur vilket beskrivs i avsnitt 2.3. För att använda PRS måste troligen även vissa stödjande tjänster utvecklas som inte bygger på rymdinfrastruktur.</P>
+<P class="p119 ft17"><SPAN class="ft15">2.7</SPAN><SPAN class="ft16">Svensk rymdlagstiftning ska vara ett stöd för svensk rymdverksamhet</SPAN></P>
+<P class="p120 ft10">Strategiskt mål bör vara att:</P>
+<P class="p92 ft30">– svensk rymdlagstiftning dels utgör ett stöd för rymdverksamhet i Sverige och säkerställer att internationella åtaganden efterlevs, dels möjliggör privata investeringar i svensk rymdverksamhet.</P>
+<P class="p121 ft10">Insatsen som bör göras är att:</P>
+<P class="p92 ft30">– en översyn av rymdlagen genomförs för att stärka fortsatt svensk rymdverksamhet.</P>
+<P class="p122 ft10">Översyn av rymdlagen</P>
+<P class="p123 ft3">Den svenska rymdregleringen utgörs av två författningar, lagen (1982:963) om rymdverksamhet och förordningen (1982:1069) om rymdverksamhet. Regleringen innefattar bestämmelser om svensk jurisdiktion över rymdverksamhet, tillstånd för <NOBR>icke-statlig</NOBR> rymdverksamhet, skadeståndsansvar, tillsyn över rymdverksamhet samt registrering av föremål för vilka Sverige är att anse som utsändande stat.</P>
+<P class="p27 ft3">För en ökad svensk närvaro i rymden krävs att de regleringar som rör rymdverksamhet är anpassade till behoven. Ett strategiskt mål bör vara att svensk rymdlagstiftning dels utgör ett stöd för rymdverksamhet i Sverige och säkerställer att internationella åtaganden efterlevs, dels möjliggör privata investeringar i svensk rymdverksamhet. Rymdlagen trädde i kraft den 1 januari 1983. Mycket har hänt sedan dess. Regeringen anser därför att det bör göras en översyn av rymdlagen för att säkerställa att den tar hänsyn till dagens behov och framtida möjligheter. Vid översynen bör hänsyn tas till internationell normutveckling. Rymdlagen bör göra det möjligt för industrin att i större utsträckning och i snabbare takt attrahera privat kapital till svensk rymdverksamhet. Om europeiska länders översyn och uppdateringar av sina respektive nationella rymdlagar skapar konkurrensnackdelar för Sverige behöver hänsyn tas till det. I samband med översynen bör ställning tas till om bestämmelser om kommersiell bemannad rymdfart ska inkluderas i översynen.</P>
+<P class="p124 ft3">15</P>
+</DIV>
+<DIV id="page_16">
+
+
+<DIV>
+<DIV id="id_1">
+<P class="p125 ft3">Skr. 2017/18:259</P>
+<P class="p126 ft3">16</P>
+</DIV>
+<DIV id="id_2">
+<P class="p12 ft1">3 Rymdindustrin gör rymden tillgänglig</P>
+<P class="p127 ft3">Svensk rymdindustri består idag främst av det som brukar betecknas som uppströms verksamhet, dvs. utveckling och tillverkning av raketer, raketdelar, satelliter och avancerade rymdtjänster. Svensk rymdindustri inom detta område är mycket framgångsrik och dess utveckling av rymdteknik bidrar med kompetens och kunskap som även stärker andra sektorer i svensk industri, såsom flyg- och fordonsindustri och vice versa. De höga kostnaderna för rymdsystemens infrastruktur motiverar att investeringar i uppströms verksamhet och användning av resultaten i stor utsträckning görs i internationella samarbeten. Rymdsystem avser i det här sammanhanget de instrument, utrustningar och satelliter som placeras i rymden för att utföra tjänster för användare på jorden.</P>
+<P class="p128 ft3">De höga kraven på rymdindustrins produkter att fungera i en extrem omgivning pressar gränserna för vad som kan tillverkas och konstrueras. Detta ger kunskap som även kan användas inom andra områden, och bidrar därmed till stärkt konkurrenskraft även utanför rymdindustrin. Teknik utvecklad för rymdsystem används inom många andra områden, såsom flyg- och fordonsindustrin, digitalisering, automatisering, avancerad produktions- och materialteknik och mikrovågsteknik. Rymdsystem kan t.ex. användas för en breddning av digitaliseringens möjligheter där satelliter används för distribution av TV, datakommunikation och för internet. Sådan distribution är speciellt lämplig för landsbygd och svårtillgängliga områden. Detta kan även främja en mer demokratisk utveckling globalt. Andra exempel finns inom mikrovågsteknik, dvs. teknik som använder kortvågiga radiosignaler för detektering av föremål eller överföring av information, radarsystem och ledningssystem för styrning av satelliter. Ytterligare exempel finns inom cirkulära system, dvs. slutna system där allt avfall tas om hand och beståndsdelarna återanvänds, vilket kan främja en hållbar utveckling.</P>
+<P class="p129 ft3">De stora synergieffekterna mellan teknikutveckling för rymdsystem och svensk industri, samt de många användningsområden för rymdsystem utanför rymdverksamhet är en orsak till att de statliga satsningarna till ESA på rymdverksamhet är så omfattande. Satsningar på rymden görs dessutom även genom EU:s satellitprogram och rymdforskningsdelar i ramprogrammet för forskning och innovation. Ramprogrammens finansiering av rymdverksamhet kommer sannolikt att få en större betydelse i framtiden.</P>
+<P class="p130 ft3">Rymdstyrelsens stöd till rymdverksamhet ger företagen möjlighet att utveckla produkter och tjänster inom områden som har kommersiell potential på den internationella rymdmarknaden. Detta ger ökat mervärde till satsningarna som i sin tur ökat företagens intresse av att delta i ESA:s program. Ett exempel där detta skett är i de nationella satellitprojekt som pågått sedan mitten av <NOBR>1980-talet.</NOBR> Med nationella satellitprojekt avses konstruktion och drift av svenskinitierade satelliter. Dessa har gett fördelar både för forskningen och för industrin. Det senaste exemplet är den svenska Odinsatelliten som har varit i funktion sedan 2001 och gett viktig kunskap om hur solaktivitetens variation påverkar klimatet. Samtidigt har kunskap från utvecklingen av dessa satelliter gett svenska företag möjligheter att leverera satellitdelar även till andra satellitprojekt.</P>
+</DIV>
+</DIV>
+</DIV>
+<DIV id="page_17">
+
+
+<DIV>
+<DIV id="id_1">
+<P class="p131 ft3">Utvecklingen inom rymdverksamhet går mot en ökad andel satsningar av privata aktörer för att utveckla rymdsystem, både som leverantörer till offentliga program för rymden och för att bedriva rent kommersiell verksamhet, ofta i konkurrens med de program som drivs av offentliga aktörer. Kommersiella satsningar påverkar därmed de offentliga satsningarna och har även fungerat som en prispress på dessa program. Detta har påverkat arbetet med både den amerikanska raketen Space Launch System (SLS) som utvecklas av den amerikanska rymdmyndigheten National Aeronautics and Space Administration (NASA) och Ariane 6 som utvecklas av ESA.</P>
+<P class="p132 ft3">En effekt av att allt fler länder och företag utvecklar system som ger dem tillträde till rymden är att det kan bli vanligare att enskilda personer deltar i rymdfärder. Sådana kommersiellt bemannade rymdfärder, eller rymdturism, blir åtkomliga för endast ett fåtal som är beredda att betala de höga kostnader som sådant deltagande medför. Det finns en större marknad för andra aktiviteter kopplade till rymdverksamhet, såsom forskningsturism. Rymdrelaterad upplevelseindustri bidrar inte bara till möjligheter för besöksnäringen, utan har potential att även bidra till att stärka intresset för teknikvetenskap bland barn och unga. Svensk besöksnäring, rymdindustri och lärosäten som bedriver utbildning och forskning inom rymdområdet har möjlighet att tillsammans ta fram upplevelser som attraherar turister och skapar intresse för rymden hos unga.</P>
+<P class="p133 ft3">För att underlätta för mindre företag att tillvarata de möjligheter som rymdverksamhet ger för utveckling av nya produkter och tjänster har ESA startat en inkubatorsatsning. En företagsinkubator hjälper nystartade företag med rådgivning och kontakter med partnerföretag, investerare, myndigheter och kunder. ESA Business Incubator Centre <NOBR>(ESA-BIC) ,</NOBR> finns på tre platser i Sverige: Luleå, Trollhättan och Uppsala. Genom <NOBR>ESA-BIC</NOBR> kan svenska innovativa småföretag som utvecklar lösningar för rymdindustrin eller som använder rymdinfrastruktur få stöd för att förverkliga sina affärsidéer. <NOBR>ESA-BIC</NOBR> kan även ge stöd till företag som använder teknik och koncept från rymdverksamhet för helt andra sektorer.</P>
+<P class="p103 ft3">I och med den ökade tillgängligheten till rymdsystemen ses nu en ökning av verksamheter som exploaterar de möjligheter rymdsystemen ger nedströms, dvs. system och tjänster baserade på de kommunikationsmöjligheter och de data som fås från infrastruktur som placerats i rymden utvceklas. De möjligheter som användning av dessa rymddata ger beskrivs närmare i avsnitt 2.3. I detta avsnitt beskrivs ytterligare tillämpningar av rymddata inom andra sektorer än de direkt rymdrelaterade. Potentialen för nedströms rymdverksamhet att bidra till innovation, tillväxt och nya sätt att hantera nationella och globala samhällsutmaningar är stor, men till största delen fortfarande outnyttjad. Satsningar på tjänster och produkter som baseras på rymddata nedströms förutsätter även satsningar på infrastruktur uppströms som raketdelar, satelliter och utrustning. Detta ger affärsmöjligheter även för svensk rymdindustri inom uppströms verksamhet. De civila nationella system som finns täcker även behov inom försvars- och säkerhetsområdena. Ett utökat samarbete mellan civila och militära aktörer kan således ge en effektivare resursanvändning.</P>
+</DIV>
+<DIV id="id_2">
+<P class="p104 ft3">Skr. 2017/18:259</P>
+<P class="p105 ft3">17</P>
+</DIV>
+</DIV>
+</DIV>
+<DIV id="page_18">
+<DIV id="dimg1">
+<INGENBILD zsrc="H50325918x1.jpg/" id="img1">
+</DIV>
+
+
+<DIV class="dclr"></DIV>
+<DIV>
+<DIV id="id_1">
+<P class="p125 ft3">Skr. 2017/18:259</P>
+<P class="p126 ft3">18</P>
+</DIV>
+<DIV id="id_2">
+<P class="p134 ft17">3.1 En stark rymdindustri bidrar till svensk konkurrenskraft</P>
+<P class="p135 ft10">Strategiska mål bör vara att:</P>
+<P class="p136 ft11"><SPAN class="ft3">–</SPAN><SPAN class="ft19">statens stöd till teknikutveckling för rymdverksamhet leder till stärkt konkurrenskraft för de deltagande företagen,</SPAN></P>
+<P class="p46 ft3"><SPAN class="ft3">–</SPAN><SPAN class="ft24">Sveriges deltagande i EU:s rymdarbete och andra internationella</SPAN></P>
+<P class="p137 ft11">samarbeten samt Rymdstyrelsens deltagande i ESA:s program är förutsägbart på lång sikt, och</P>
+<P class="p137 ft25">– synergier mellan statens stöd till teknikutveckling för rymdverksamhet och annat stöd till civil och militär verksamhet tillvaratas.</P>
+<P class="p138 ft10">Insatser som bör göras är att:</P>
+<P class="p136 ft11"><SPAN class="ft3">–</SPAN><SPAN class="ft19">det svenska deltagandet i större internationella rymdprojekt och i ESA:s program ska baseras på näringslivets möjligheter att delta i utveckling och leverans av instrument, styrsystem, satelliter, delar till bärraketer och avancerade rymdtjänster,</SPAN></P>
+<P class="p136 ft3"><SPAN class="ft3">–</SPAN><SPAN class="ft24">Rymdstyrelsen ska ha som utgångspunkt att den privata medfinansieringen bör uppgå till 50 procent vid stöd till teknikutveckling,</SPAN></P>
+<P class="p136 ft3"><SPAN class="ft3">–</SPAN><SPAN class="ft24">Rymdstyrelsens stöd ska riktas mot utveckling av produkter och tjänster inom områden som både stärker det svenska deltagandet i EU, ESA och andra internationella samarbeten och som har kommersiell potential på den internationella rymdmarknaden, och</SPAN></P>
+<P class="p46 ft3"><SPAN class="ft3">–</SPAN><SPAN class="ft24">Rymdstyrelsen ska samråda med relevanta innovations- och forsk-</SPAN></P>
+<P class="p139 ft30">ningsfinansiärer om möjligheten att samordna sina satsningar för att få synergier som stödjer högteknologisk industri.</P>
+<P class="p140 ft26">Satsningar på rymdverksamhet bidrar till rymdindustrins internationella konkurrenskraft</P>
+<P class="p141 ft3">För att underlätta för rymdindustrin att delta i internationella samarbeten och därigenom bidra till att stärka svensk konkurrenskraft sätter regeringen tre långsiktiga strategiska mål. Ett första mål bör vara att statens stöd till teknikutveckling för rymdverksamhet leder till stärkt konkurrenskraft för de deltagande företagen. Svenskt deltagande i ESA:s frivilliga program garanterar att en viss andel används för återköp av produkter från Sverige. Svenskt deltagande i ESA:s program är därför en förutsättning för att svenska företag ska få möjlighet att leverera till europeiska rymdsatsningar. Samtidigt ger det dem möjlighet att utveckla produkter även för andra marknader. Satsningar på ESA:s program ger därför synergi- och spridningseffekter inom andra områden. Eftersom huvuddelen av den teknikutveckling som Sverige deltar i sker i EU:s rymdprogram, ESA:s program och i andra internationella samarbeten bör ett andra mål vara att Sveriges deltagande i dessa program och Rymdstyrelsens deltagande i ESA:s program är förutsägbart på lång sikt. Det svenska bidraget till ESA:s frivilliga program ligger för närvarande på en lägre nivå än tidigare, vilket har försvårat svenska företags deltagande i ESA:s program. Det svenska bidraget till ESA har de senaste åren legat på ca 2,5 procent av ESA:s budget. Detta är en lägre andel än om man skulle beräkna Sveriges andel efter bruttonationalinkomsten (BNI-</P>
+</DIV>
+</DIV>
+</DIV>
+<DIV id="page_19">
+
+
+<DIV>
+<DIV id="id_1">
+<P class="p100 ft11">andelen) som under perioden <NOBR>2018–2020</NOBR> motsvarar 2,71 procent. Det är viktigt att Sveriges bidrag till ESA är förutsägbart på lång sikt så att svenska deltagare har möjlighet att planera sin verksamhet riktad mot ESA:s program.</P>
+<P class="p131 ft3">Ett tredje mål bör vara att synergier mellan statens stöd till teknikutveckling för rymdverksamhet och annat stöd till civil och militär verksamhet tillvaratas. I inledningen till detta avsnitt ges flera exempel på användningsområden på jorden av system utvecklade för rymdverksamhet.</P>
+<P class="p131 ft3">För att nå dessa mål anser regeringen att fyra insatser bör genomföras. En första insats bör vara att svenskt deltagande i större internationella rymdprojekt och i ESA:s program ska bl.a. baseras på näringslivets möjligheter att delta i utveckling och leverans av instrument, styrsystem, satelliter, delar till bärraketer och avancerade rymdtjänster. Rymdstyrelsen behöver göra kontinuerliga avvägningar mellan andelen som satsas på rymdforskning i nationella satsningar och andelen som satsas på teknikutveckling i internationell verksamhet, vilken huvudsakligen består av bidrag till ESA:s program.</P>
+<P class="p101 ft3">En andra insats bör vara att Rymdstyrelsen ska ha som utgångspunkt att den privata medfinansieringen bör uppgå till 50 procent vid stöd till teknikutveckling. När offentliga satsningar på rymdverksamhet bidrar till företagens konkurrenskraft även inom andra områden är det rimligt att företagen medfinansierar gemensamma projekt där Rymdstyrelsen är delfinansiär. För vissa satsningar där risken är hög och synergierna utanför rymdområdet är små, kan det dock finnas orsaker att vara öppen för en större offentlig andel.</P>
+<P class="p142 ft3">Rymdverksamhet kan vara kostsam och det är viktigt att den bedrivs i samarbete med andra länder. Att Sverige deltar i samarbeten inom EU och ESA och i andra internationella samarbeten är en förutsättning för att svensk rymdindustri ska stärka sin konkurrenskraft. En tredje insats bör därför vara att Rymdstyrelsens stöd ska riktas mot utveckling av produkter och tjänster inom områden som både stärker det svenska deltagandet i EU, ESA och andra internationella samarbeten och som har kommersiell potential på den internationella rymdmarknaden.</P>
+<P class="p102 ft3">En fjärde insats bör vara att Rymdstyrelsen ska samråda med relevanta innovations- och forskningsfinansiärer om möjligheten att samordna satsningar för att få synergier som stödjer högteknologisk industri. Om fler finansiärer deltar i programmen kan det stärka synergierna mellan rymdverksamhet och andra statliga näringslivssatsningar. Eftersom det finns stora möjligheter att utveckla innovativa tjänster och produkter som baseras på teknik och koncept från rymdverksamhet kan det samråd som beskrivs i denna insats leda till utveckling av andra innovativa tjänster och produkter som använder rymdinfrastruktur eller teknik och koncept från rymdverksamhet.</P>
+</DIV>
+<DIV id="id_2">
+<P class="p104 ft3">Skr. 2017/18:259</P>
+<P class="p105 ft3">19</P>
+</DIV>
+</DIV>
+</DIV>
+<DIV id="page_20">
+<DIV id="dimg1">
+<INGENBILD zsrc="H50325920x1.jpg/" id="img1">
+</DIV>
+
+
+<DIV class="dclr"></DIV>
+<DIV>
+<DIV id="id_1">
+<P class="p125 ft3">Skr. 2017/18:259</P>
+<P class="p126 ft3">20</P>
+</DIV>
+<DIV id="id_2">
+<P class="p143 ft17"><SPAN class="ft22">3.2</SPAN><SPAN class="ft32">Verksamheten på Esrange bör fortsätta drivas och utvecklas</SPAN></P>
+<P class="p135 ft10">Strategiskt mål bör vara att:</P>
+<P class="p144 ft11">– Svenska rymdaktiebolagets infrastruktur på Esrange ska dimensioneras för att förbli en viktig nationell och europeisk strategisk resurs för nationell och internationell forskning, utveckling, demonstration, testverksamhet och annan rymdrelaterad verksamhet. Internationella samarbeten ska ske med hänsyn tagen till Sveriges ut- <NOBR>rikes-,</NOBR> <NOBR>säkerhets-,</NOBR> och försvarspolitiska intressen.</P>
+<P class="p138 ft10">Insatsen som bör göras är att</P>
+<P class="p144 ft30">– Svenska rymdaktiebolagets verksamhet ska utvecklas så att framtida möjligheter tillvaratas i linje med svenska intressen.</P>
+<P class="p145 ft10">Esrange är en viktig resurs för svensk rymdverksamhet</P>
+<P class="p141 ft3">Svenska rymdaktiebolaget (SSC) har ett samhällsuppdrag från riksdagen som omfattar uppskjutning av sondraketer och uppsändning av ballonger som möjliggör olika typer av forskning och teknikutveckling, samt därtill hörande tjänster. Denna infrastruktur, som har byggts upp under 50 års tid vid European Space and Sounding Rocket Range (Esrange) öster om Kiruna, är en viktig nationell och strategisk resurs för Sverige och Europa. Esrange är en unik civil rymdbas för uppskjutningar av raketer och ballonger. Där finns omfattande infrastruktur, landningsområde och en fungerande testbädd, dvs. en plats för test av prototyper, för ballonger och sondraketer i verklig miljö. Det strategiska målet bör vara att infrastrukturen på Esrange är dimensionerad för att förbli en viktig nationell och europeisk strategisk resurs för nationell och internationell forskning, utveckling, demonstration, testverksamhet och annan rymdrelaterad verksamhet. Den bör vara öppen för internationella samarbeten, givetvis med hänsyn tagen till Sveriges <NOBR>utrikes-,</NOBR> säkerhets- och försvarspolitiska intressen. En uppgradering och modernisering av Esrange pågår nu. Denna ger Esrange möjligheten att i framtiden även användas som en internationell testbädd för teknikutveckling inom ett brett spektrum av områden som driver teknikutvecklingen framåt. Exempel på sådana kan vara Marslandare och återanvändningsbara raketer.</P>
+<P class="p146 ft3">Esranges geografiska läge i Arktis är speciellt lämpligt för nedtagning av data från satelliter i polär bana, vilka kan följas under en stor del av deras passage över Nordpolen. Detta kan också bidra till arbetet med en rymdlägesbild. Detta har gett SSC möjlighet att inom sitt kommersiella uppdrag bygga ut Esrange till en av världens största mottagningsstationer för nedtagning av satellitdata och styrning av ett globalt geografiskt utspritt nätverk av satellitstationer. SSC driver ett av världens största nätverk för sådana data. Ett viktigt kommersiellt uppdrag är t.ex. att övervaka data från EU:s Galileosatelliter och styrning av dessa.</P>
+<P class="p147 ft30">Insatsen bör vara att SSC:s verksamhet ska utvecklas så att framtida möjligheter tillvaratas i linje med svenska intressen.</P>
+</DIV>
+</DIV>
+</DIV>
+<DIV id="page_21">
+<DIV id="dimg1">
+<INGENBILD zsrc="H50325921x1.jpg/" id="img1">
+</DIV>
+
+
+<TABLE cellpadding=0 cellspacing=0 class="t13">
+<TR>
+	<TD class="tr2 td20"><SPAN class="p3 ft10">Möjligheten att sända upp mindre satelliter i omloppsbana från</SPAN> </TD>
+	<TD class="tr2 td19"><SPAN class="p3 ft3">Skr. 2017/18:259</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr9 td20"><SPAN class="p3 ft10">Esrange undersöks</SPAN> </TD>
+	<TD class="tr9 td19"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+</TABLE>
+<P class="p55 ft3">Rymdcentrumet i Kourou i Franska Guyana har under många år använts av ESA för att skicka upp större satelliter i bana. För mindre bärraketer och mindre satelliter finns ännu inte någon europeisk uppskjutningsplats. Eftersom det pågår en utveckling mot mindre satelliter som behöver skjutas upp till specifik bana har behovet av en sådan uppskjutningsplats ökat. I EU:s rymdstrategi är ett av fyra huvudmål för EU:s rymdsatsningar att stärka Europas autonomi när det gäller att ha egna uppskjutningsplatser för att nå rymden.</P>
+<P class="p56 ft3">ESA bedömer att efterfrågan på tjänster för uppskjutning av mindre satelliter redan i dag är större än vad som erbjuds på marknaden och förväntas öka ytterligare. Små satelliter skjuts i dag ofta upp tillsammans med större satelliter och det är då inte möjligt att välja bana och tidpunkt för uppskjutning. ESA:s bedömning är att det finns ett behov av uppskjutningsplatser för bärraketer som skickar upp små satelliter till specifika banor. ESA uppskattar att kostnaderna för etablering av en sådan plats uppgår till mellan en och två miljarder kronor.</P>
+<P class="p27 ft3">Regeringen uppdrog i september 2017 åt Rymdstyrelsen att i samråd med SSC undersöka om det är möjligt att göra uppskjutningar av bärraketer med små satelliter till bana runt jorden med full kostnadstäckning givet att staten finansierar grundläggande infrastruktur utan krav på full kostnadstäckning (U2017/03743/F). Rymdstyrelsen överlämnade den 12 januari 2018 resultatet av undersökningen om detta till regeringen och frågan bereds för närvarande inom Regeringskansliet.</P>
+<P class="p148 ft10">Esrange kan användas som testbädd för raketteknik</P>
+<P class="p149 ft11">Som nämns ovan pågår en uppgradering och modernisering av Esrange. Förutom uppsändningar av sondraketer finns möjligheten att i framtiden även använda anläggningen som testbädd för både avancerad raketteknik och för innovationer t.ex. baserade på rymddata. Esrange kan därmed vidareutvecklas till att fortsätta vara ett internationellt rymdcenter, där bl.a. ESA, EU och deras medlemsländer är viktiga samarbetspartners.</P>
+<P class="p150 ft34"><SPAN class="ft1">4</SPAN><SPAN class="ft33">Rymdforskning hjälper oss att förstå jorden</SPAN></P>
+<P class="p151 ft10">Strategiska mål bör vara att:</P>
+<P class="p152 ft11"><SPAN class="ft3">–</SPAN><SPAN class="ft19">svensk rymdforskning håller hög kvalitet i internationell jämförelse,</SPAN></P>
+<P class="p153 ft3"><SPAN class="ft3">–</SPAN><SPAN class="ft24">svenska rymdforskare kommer väl ut i internationell jämförelse, och</SPAN></P>
+<P class="p154 ft30"><SPAN class="ft3">–</SPAN><SPAN class="ft29">Sverige är en stark partner som deltagare i internationella samarbeten för rymdens utforskning.</SPAN></P>
+<P class="p155 ft3">21</P>
+</DIV>
+<DIV id="page_22">
+<DIV id="dimg1">
+<INGENBILD zsrc="H50325922x1.jpg/" id="img1">
+</DIV>
+
+
+<DIV class="dclr"></DIV>
+<DIV>
+<DIV id="id_1">
+<P class="p125 ft3">Skr. 2017/18:259</P>
+<P class="p126 ft3">22</P>
+</DIV>
+<DIV id="id_2">
+<P class="p156 ft10">Insatser som bör göras är att:</P>
+<P class="p157 ft11"><SPAN class="ft3">–</SPAN><SPAN class="ft19">forskningsfinansiärerna ska samråda om stödet till svensk rymdforskning, miljö- och klimatforskning och för innovationer baserade på rymdverksamhet, och</SPAN></P>
+<P class="p158 ft11"><SPAN class="ft3">–</SPAN><SPAN class="ft19">Rymdstyrelsen ska ingå i den samordningsgrupp i vilken Forskningsrådet för hälsa, arbetsliv och välfärd, Forskningsrådet för miljö, areella näringar och samhällsbyggande, Statens energimyndighet, Verket för innovationssystem och Vetenskapsrådet ingår.</SPAN></P>
+<P class="p145 ft10">Forskning var orsaken till att vi började med rymdverksamhet</P>
+<P class="p141 ft3">Satsningar på rymdverksamhet inleddes med forskning om rymden, andra planeter och stjärnor baserad på den nyfikenhet på rymden som funnits genom mänsklighetens hela historia. Med den tekniska utvecklingen möjliggjordes ett mera systematiskt utforskande av rymden. Under senare delen av 1800- och början av <NOBR>1900-talen</NOBR> byggdes allt större observatorier på jorden för att observera rymden, vilket gjorde att vi kunde blicka allt längre ut i universum. Detta följdes under andra hälften av <NOBR>1900-talet</NOBR> av uppskjutningar av instrument, satelliter och människor för att utforska rymden på plats.</P>
+<P class="p159 ft3">Svensk rymdforskning och forskning inom rymdfysik håller hög kvalitet i internationell jämförelse och citeras oftare än världsgenomsnittet inom de flesta områden som har anknytning till rymden. Svenska lärosäten deltar i flera av ESA:s program och i utveckling av instrument för svenska satelliter, många gånger i samverkan med svensk rymdindustri. Vid Institutet för rymdfysik (IRF) tillverkas satelliter och instrument som har placerats på flera av ESA:s expeditioner till bana runt främmande himlakroppar. Detta har lett till att banbrytande forskningsrön framkommit. I Statskontorets analys Myndighetsanalys av Institutet för rymdfysik (2017:16) betonas institutets roll för svensk rymdverksamhet. Regeringen bedömer att IRF:s viktigaste roll för svensk rymdverksamhet finns inom rymdfysik där institutet är framstående i internationell jämförelse. Rymdfysik är vetenskapen om förhållanden i den övre atmosfären eller den jordnära rymden och som ofta utförs med instrument på plats.</P>
+<P class="p129 ft3">För att Sverige ska fortsätta vara en stark rymdnation med rymdforskning av hög kvalitet sätter regeringen upp tre långsiktiga strategiska mål. De bör vara att svensk rymdforskning håller hög kvalitet i internationell jämförelse, att svenska rymdforskare kommer väl ut i internationell jämförelse och att Sverige är en stark partner som deltagare i internationella samarbeten för rymdens utforskning. Därmed kan rymdverksamhet fortsätta bidra till starka och konkurrenskraftiga forskningsmiljöer i Sverige som ger ökad kunskap om universum, livets ursprung och livsbetingelserna på jorden och att dessa sprider sin kunskap genom samverkan med näringslivet och samhället i övrigt.</P>
+<P class="p160 ft35">Samverkan mellan forskningsfinansiärer ger synergier för statens satsningar</P>
+<P class="p161 ft11">Rymdforskning finansieras från flera källor, huvudsakligen beroende på var de instrument som används för forskningen finns placerade. Forskning som baseras på data från markbaserade instrument finansieras hu-</P>
+</DIV>
+</DIV>
+</DIV>
+<DIV id="page_23">
+<DIV id="dimg1">
+<INGENBILD zsrc="H50325923x1.jpg/" id="img1">
+</DIV>
+
+
+<P class="p117 ft11">vudsakligen av Vetenskapsrådet. Forskning som utgår från instrument Skr. 2017/18:259 placerade i rymden finansieras huvudsakligen av Rymdstyrelsen. Med en</P>
+<P class="p55 ft3">större helhetssyn på vilka rymdsatsningar som görs kan forskning på, i och från rymden bedömas på ett gemensamt sätt. Gemensamma satsningar mellan finansiärer bör utgå från forskningsinriktning snarare än från var instrumenten är placerade. Det ger bättre möjligheter att koncentrera resurserna till de områden där Sverige har bäst förutsättningar att bedriva forskning av hög kvalitet. Genom stärkta synergier mellan olika typer av rymdverksamhet kan Sverige även öka samhällsnyttan och bidra till ökad konkurrenskraft både för näringsliv och forskning. För att uppfylla ovanstående mål bör två insatser genomföras.</P>
+<P class="p29 ft3">En första insats bör vara att finansiärerna ska samråda om stöd till svensk rymdforskning, stöd till miljö- och klimatforskning och stöd för innovationer baserade på rymdverksamhet. Sådant samråd kan åstadkomma ökade synergier mellan statens satsningar inom rymdområdet. Specifikt bör Rymdstyrelsen och Vetenskapsrådet samråda om möjligheten att gemensamt prioritera vilka forskningssatsningar som bör få finansiering. Rymdstyrelsen och Forskningsrådet för miljö, areella näringar och samhällsbyggande bör på motsvarande sätt samråda om rymdverksamhetens användning för miljö- och klimatforskning. Rymdstyrelsen bör samråda med Verket för innovationssystem om gemensamma prioriteringar av stöd för innovationer baserade på rymdverksamhet. Rymdstyrelsen och Försvarsmakten bör samråda om möjligheten att göra gemensamma prioriteringar inom rymdverksamhet. Övriga finansiärer bör inkluderas i de fall där det är motiverat.</P>
+<P class="p58 ft11">Den andra insatsen bör vara att Rymdstyrelsen ska ingå i den samordningsgrupp i vilken Forskningsrådet för hälsa, arbetsliv och välfärd, Forskningsrådet för miljö, areella näringar och samhällsbyggande, Statens energimyndighet, Verket för innovationssystem och Vetenskapsrådet ingår. Rymdstyrelsen kan därmed delta i de diskussioner om gemensamma satsningar på forskning och forskningsinfrastruktur som förs inom denna samordningsgrupp.</P>
+<P class="p162 ft17"><SPAN class="ft15">4.1</SPAN><SPAN class="ft16">Rymdforskare behöver ha tillgång till infrastruktur för sin forskning</SPAN></P>
+<P class="p120 ft10">Strategiskt mål bör vara att:</P>
+<P class="p163 ft30">– Rymdforskare har tillgång till ändamålsenlig infrastruktur för sin forskning.</P>
+<P class="p93 ft10">Insatser som bör göras är att:</P>
+<P class="p153 ft11"><SPAN class="ft3">–</SPAN><SPAN class="ft19">Rymdstyrelsen och Vetenskapsrådet ska samråda om finansiering av forskningsinfrastruktur för rymdforskning,</SPAN></P>
+<P class="p153 ft3"><SPAN class="ft3">–</SPAN><SPAN class="ft24">den pågående uppgraderingen och moderniseringen av Esrange ska genomföras så att rymdbasen även framledes kan vara en strategiskt viktig infrastruktur för rymdforskning,</SPAN></P>
+<P class="p152 ft30"><SPAN class="ft3">–</SPAN><SPAN class="ft29">Rymdstyrelsen ska stödja nationella satellitprojekt utifrån behovet inom rymdforskning och för svensk rymdindustri, och</SPAN></P>
+<P class="p164 ft3">23</P>
+</DIV>
+<DIV id="page_24">
+<DIV id="dimg1">
+<INGENBILD zsrc="H50325924x1.jpg/" id="img1">
+</DIV>
+
+
+<P class="p165 ft11">Skr. 2017/18:259 – Vetenskapsrådet och Verket för innovationssystem ska se över vilka effekter ett deltagande i konstruktion och drift av radioteleskopet Square Kilometre Array (SKA) kan ge för svensk forskning och svenska företag. Om effekterna är samhällsekonomiskt fördelaktiga samt kostnadseffektiva ska Vetenskapsrådet överväga att finansiera ett svenskt deltagande i SKA.</P>
+<P class="p166 ft10">För forskning av hög kvalitet behövs utrustning av hög kvalitet</P>
+<P class="p167 ft3">Ett strategiskt mål bör vara att rymdforskare har tillgång till ändamålsenlig infrastruktur för sin forskning. Med infrastruktur för rymdforskning menas större instrument som används för mätningar inom rymdforskning, antingen placerade i rymden eller på jorden. Vetenskapsrådet har ett övergripande ansvar för att svenska forskare har tillgång till nödvändig forskningsinfrastruktur. När det gäller infrastruktur för rymdforskning finansieras den av både Vetenskapsrådet och Rymdstyrelsen.</P>
+<P class="p168 ft3">Vetenskapsrådet finansierar huvudsakligen infrastruktur för jordbaserad astronomi och för rymdfysik. I Sverige finns vid flera lärosäten astronomiska observatorier, och på nationell nivå finns även den nationella anläggningen Onsala rymdobservatorium. Den vetenskapliga utvecklingen har lett till att allt större observatorier behövs för att se allt längre ut i universum. Det europeiska sydobservatoriet (ESO) med anläggningar i Chile är en viktig sådan infrastruktur för jordbaserade studier av rymden. Observationer inom astronomisk forskning som förr alltid utgick från markbaserade teleskop har under senare år fått ny och viktig information från de teleskop som placerats i rymden.</P>
+<P class="p169 ft3">Rymdstyrelsen finansierar, huvudsakligen via medlemskapet i ESA, instrument som placeras i rymden. Inom astronomiområdet finns Hubbleteleskopet som ger astronomer bilder med avsevärt bättre upplösning, dvs. förmåga att visa eller registrera små detaljer, och därmed ge bättre bilder av fjärran himlakroppar än vad som varit möjligt från jorden. Dess efterföljare James Webbteleskopet, som mäter i det infraröda spektrumet, kommer att kunna se tillbaka till hur det såg ut i universum vid tiden strax efter universums första ljus. Rymdbaserade mätningar kompletterar de som görs från jorden och är i de flesta fall överlägsna jordbaserade studier. Sannolikt medför den tekniska utvecklingen att en ökad andel av astronomiska observationer i framtiden kommer att ske från rymden.</P>
+<P class="p170 ft11">För att säkerställa att rymdforskarna har tillgång till ändamålsenlig infrastruktur bör en insats vara att Rymdstyrelsen och Vetenskapsrådet ska samråda om finansiering av forskningsinfrastruktur för rymdforskning.</P>
+<P class="p166 ft10">Esrange är en strategiskt viktig infrastruktur för forskning</P>
+<P class="p87 ft3">Som beskrivs i avsnitt 3.2 är Esrange en viktig nationell och strategisk resurs för svensk rymdforskning, med omfattande infrastruktur, landningsområde och luftrestriktionsområde för uppskjutningar av raketer och ballonger. Anläggningen används av såväl svenska som internationella forskare. Vid Esrange pågår en uppgradering och modernisering som kan möjliggöra ökat antal uppsändningar av ballonger och sondraketer. Insatsen bör vara att uppgraderingen och moderniseringen ska</P>
+<P class="p171 ft3">24</P>
+</DIV>
+<DIV id="page_25">
+
+
+<P class="p117 ft30">genomföras så att Esrange även framledes kan vara en strategiskt viktig Skr. 2017/18:259 infrastruktur för rymdforskning.</P>
+<P class="p172 ft10">Nationella satellitprojekt ger fördelar för forskning och industri</P>
+<P class="p149 ft3">Sverige har drivit nationella satellitprojekt sedan mitten av <NOBR>1980-talet.</NOBR> Dessa satelliter har varit en viktig infrastruktur för svensk rymdforskning. Svenska satellitprojekt har gett fördelar för forskningen genom att de har byggts utifrån de behov som svensk forskning haft. Projekten har också gett fördelar för industrin som utvecklat satelliterna. Industrin har därigenom utvecklat kompetens som även har kunnat användas för andra projekt. Nationella satellitprojekt är viktiga både för svensk rymdforskning och för svenska rymdföretag. Därför bör Rymdstyrelsen stödja nationella satellitprojekt utifrån behoven inom rymdforskning och utifrån möjligheterna för svensk rymdindustri att bygga dessa satelliter. Det är också viktigt att satellitprojekt är kostnadseffektiva och prövas i jämförelse med andra satsningar.</P>
+<P class="p173 ft26">Svenskt deltagande i radioteleskopet SKA övervägs och de svenska delarna av Eiscat_3D färdigställs</P>
+<P class="p55 ft11">I dag finns planer för två större internationella projekt för forskningsinfrastruktur inom astronomi och rymdfysik, radioteleskopet Square Kilometre Array (SKA) och radaranläggningen The European Incoherent Scatter Scientific Association (EISCAT).</P>
+<P class="p174 ft3">SKA är ett internationellt samarbete för att bygga världens största radioteleskop. Samarbetet leds av <NOBR>SKA-organisationen</NOBR> med säte vid Jodrell Bankobservatoriet i Storbritannien. SKA är tänkt att byggas i Sydafrika, Australien och Nya Zeeland. Anläggningen ska bestå av tusentals enskilda radiomottagare kombinerade för att tillsammans skapa jordens största radioteleskop, och kommer att ge astronomer nya insikter om hur de första stjärnorna och galaxerna bildades och utvecklades samt vara ett instrument för sökande efter planeter i beboeliga zoner runt andra stjärnor. Sverige deltar i projekteringen genom Onsala rymdobservatorium. Projektet kommer snart till konstruktionsfas och det behöver avgöras om det finns intresse för och ekonomisk möjlighet att gå med i satsningen. Insatsen bör vara att Vetenskapsrådet och Verket för innovationssystem ska se över vilka effekter ett deltagande i konstruktion och drift av SKA kan ge för svensk forskning och svenska företag. Om effekterna är samhällsekonomiskt fördelaktiga och kostnadseffektiva ska Vetenskapsrådet överväga att finansiera ett svenskt deltagande i SKA.</P>
+<P class="p175 ft3">Sverige står som värdland för den internationella forskningsorganisationen EISCAT Scientific Association och dess nya anläggning EISCAT_3D som byggs vid Abisko, i Skibotn i Norge och nära Kaaresuvanto i Finland. Med EISCAT studeras huvudsakligen jordens jonosfär och övre atmosfär, bl.a. för att kunna förstå hur norrsken, solstormar och rymdväder påverkar oss här på jorden. Det anslag som Vetenskapsrådet får är anpassat för att finansiera Sveriges andel av kostnaderna för utbyggnaden av EISCAT_3D i Sverige och för de ökade kostnader som tillkommer för mervärdesskatt i samband med investeringar under kon-</P>
+<P class="p176 ft3">struktionen.</P>
+<P class="p177 ft3">25</P>
+</DIV>
+<DIV id="page_26">
+<DIV id="dimg1">
+<INGENBILD zsrc="H50325926x1.jpg/" id="img1">
+</DIV>
+
+
+<TABLE cellpadding=0 cellspacing=0 class="t14">
+<TR>
+	<TD class="tr18 td42"><SPAN class="p3 ft3">Skr. 2017/18:259 <SPAN class="ft36">5</SPAN></SPAN> </TD>
+	<TD class="tr18 td43"><SPAN class="p3 ft1">Rymdverksamhet öppnar karriärvägar för</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr11 td42"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr11 td43"><SPAN class="p3 ft1">både kvinnor och män</SPAN> </TD>
+</TR>
+</TABLE>
+<P class="p178 ft10">Strategiska mål bör vara att:</P>
+<P class="p179 ft11"><SPAN class="ft3">–</SPAN><SPAN class="ft19">Sverige är ett föregångsland när det gäller likvärdiga möjligheter för både kvinnor och män att satsa på en karriär inom rymdverksamhet,</SPAN></P>
+<P class="p180 ft11"><SPAN class="ft3">–</SPAN><SPAN class="ft37">rymdverksamhet inspirerar både unga kvinnor och unga män att söka tekniska och naturvetenskapliga utbildningar på gymnasienivå och högskolenivå, och</SPAN></P>
+<P class="p181 ft3"><SPAN class="ft3">–</SPAN><SPAN class="ft24">antalet studenter i högskolan som utbildas är tillräckligt högt för</SPAN></P>
+<P class="p182 ft3">att tillgodose behovet av kompetens inom rymdverksamhet.</P>
+<P class="p183 ft10">Insatser som bör göras är att:</P>
+<P class="p184 ft11">– Rymdstyrelsen och Vetenskapsrådet ska samverka om att sprida information om rymdforskning och rymdverksamhet. De ska också samverka med lärosäten som informerar om utbildningar och forskning inom rymdområdet.</P>
+<P class="p185 ft3">Universitet och högskolor ansvarar för att deras respektive utbildningar dimensioneras utifrån studenternas efterfrågan och arbetsmarknadens behov. Det finns ett stort behov av personer utbildade inom natur- och teknikvetenskaper. Trots att könsfördelningen i gymnasieskolan är relativt jämn inom naturvetenskap och att fler kvinnor än män väljer högre utbildning, är det fortfarande fler män som fortsätter med högre utbildning inom naturvetenskap och teknik. Om vi vill öka antalet som väljer att studera naturvetenskap och teknik finns därmed den största oanvända resursen bland kvinnor.</P>
+<P class="p169 ft3">Det är angeläget att fler, både kvinnor och män, söker utbildningar inom naturvetenskap och teknik. Mot denna bakgrund anser regeringen att tre långsiktiga strategiska mål bör sättas upp. Det första målet bör vara att Sverige är ett föregångsland vad gäller likvärdiga möjligheter för både kvinnor och män att satsa på en karriär inom rymdverksamhet. Ett andra mål bör vara att rymdverksamheten insprirerar både unga kvinnor och unga män att söka tekniska och naturvetenskapliga utbildningar på gymnasienivå och högskolenivå. Ett tredje mål bör vara att antalet studenter i högskolan som utbildas inom dessa områden är tillräckligt högt för att tillgodose behovet av kompetens inom rymdverksamhet.</P>
+<P class="p169 ft3">Rymden är ett område inom natur- och teknikvetenskaperna som väcker extra stort intresse hos både kvinnor och män. Ökad information om rymdforskning och om dess många tillämpningsområden inom industrin och samhället kan bidra till att intressera såväl kvinnor som män för naturvetenskap och teknik. Ett ökat intresse för rymden kan bidra till att både kvinnor och män ser rymdverksamhet som en möjlig och attraktiv karriärväg och att könsfördelningen inom området blir jämställd. En insats som kan bidra till att förverkliga de strategiska målen bör därför vara att Rymdstyrelsen och Vetenskapsrådet ska samverka om att sprida information om rymdforskning och rymdverksamhet. I högskolornas</P>
+<P class="p186 ft3">uppgift att bedriva utbildning och forskning ingår att samverka med det</P>
+<P class="p187 ft3">26</P>
+</DIV>
+<DIV id="page_27">
+
+
+<DIV>
+<DIV id="id_1">
+<P class="p100 ft3">omgivande samhället och informera om sin verksamhet samt verka för att deras forskningsresultat kommer till nytta. Rymdstyrelsen och Vetenskapsrådet bör därför även samverka med lärosäten som informerar om utbildning och forskning inom rymdområdet. Vetenskapsrådet har inom ramen för sitt uppdrag ett övergripande ansvar för samordning av kommunikation om forskning och forskningsresultat. Det är därför naturligt att Vetenskapsrådet följer upp om Rymdstyrelsens och Vetenskapsrådets informationsinsatser får avsedd effekt.</P>
+</DIV>
+<DIV id="id_2">
+<P class="p104 ft3">Skr. 2017/18:259</P>
+<P class="p105 ft3">27</P>
+</DIV>
+</DIV>
+</DIV>
+<DIV id="page_28">
+<DIV id="dimg1">
+<INGENBILD zsrc="H50325928x1.jpg/" id="img1">
+</DIV>
+
+
+<DIV class="dclr"></DIV>
+<DIV>
+<DIV id="id_1">
+<P class="p125 ft3">Skr. 2017/18:259</P>
+<P class="p126 ft3">28</P>
+</DIV>
+<DIV id="id_2">
+<P class="p12 ft1">Utbildningsdepartementet</P>
+<P class="p188 ft3">Utdrag ur protokoll vid regeringssammanträde den 9 maj 2018</P>
+<P class="p189 ft11">Närvarande: statsminister Löfven, ordförande, och statsråden Y Johansson, M Johansson, Baylan, Hallengren, Bucht, Hellmark Knutsson, Bolund, Strandhäll, Fridolin, Eriksson, Linde, Skog, Ekström, Eneroth</P>
+<P class="p190 ft3">Föredragande: statsrådet Helene Hellmark Knutsson</P>
+<P class="p191 ft3">Regeringen beslutar skrivelse En strategi för svensk rymdverksamhet</P>
+</DIV>
+</DIV>
+</DIV>
+
+</div><style>
+
+
+TD,TD.p2h {
+zzzfont-size:90%;
+zzzmargin-right:2px;
+zzzoverflow:visable;
+zzzword-wrap: break-word;
+}
+
+P {
+zdisplay:block;
+}
+
+.divbreak {
+clear:both;
+display:block;
+zwidth: 100%;
+zheight: 1px;
+zword-wrap: break-word;
+}
+
+
+.xecp {
+  display:block;
+  margin: 0px !important;
+  padding: 0px !important;
+  
+}
+
+.ec {
+  border-style:solid;
+  border-width:1px;
+  display:block;
+  margin: 0px !important;
+  padding: 0px !important;
+}
+
+.TOPS {
+  overflow:visable;
+  margin:2px;
+  width:690px !important;
+}
+
+</style>

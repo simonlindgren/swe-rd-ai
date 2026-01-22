@@ -1,0 +1,498 @@
+SEARCH TERM: AI
+DOCUMENT ID: hc023435
+TITLE: med anledning av prop. 2024/25:166 En lag om public service och riktlinjer för verksamheten 2026–2033
+TYPE: mot
+SUBTYPE: Kommittémotion
+DATE: 2025-06-12
+PARLIAMENTARY YEAR: 2024/25
+ORGANISATION: KrU
+STATUS: Klar
+DOWNLOADED: 2026-01-22 10:25:07
+================================================================================
+
+<style><!-- 
+ @page Section1 { size:595.3pt 841.9pt; margin:35.45pt 85.05pt 56.7pt }
+div.Section1 { page:Section1 }
+div.pconf body { t-i:14.2pt; line-height:15pt; font-family:'Verdana'; font-size: 0.90em }
+div.pconf h1, h2, h3, h4, h5, h6, p { margin:0pt }
+div.pconf li, table { margin-top:0pt; margin-bottom:0pt }
+div.pconf h1 { margin-top:41pt; margin-left:21.6pt; margin-bottom:0pt; t-i:-21.6pt; page-break-inside:avoid; page-break-after:avoid; line-height:19.5pt; font-family:'Verdana'; font-size: 1.05em; font-weight:normal; color:#000000 }
+div.pconf h2 { margin-top:30pt; margin-left:28.8pt; margin-bottom:0pt; t-i:-28.8pt; page-break-inside:avoid; page-break-after:avoid; line-height:17pt; font-family:'Verdana'; font-size: 1.00em; font-weight:normal; color:#000000 }
+div.pconf h3 { margin-top:18pt; margin-left:36pt; margin-bottom:0pt; t-i:-36pt; page-break-inside:avoid; page-break-after:avoid; line-height:15pt; font-family:'Verdana'; font-size: 0.90em; font-weight:bold; color:#000000 }
+div.pconf h4 { margin-top:18pt; margin-left:43.2pt; margin-bottom:0pt; t-i:-43.2pt; page-break-inside:avoid; page-break-after:avoid; line-height:15pt; font-family:'Verdana'; font-size: 0.90em; font-weight:normal; font-style:italic; color:#000000 }
+div.pconf h5 { margin-top:15pt; margin-left:50.4pt; margin-bottom:0pt; t-i:-50.4pt; page-break-inside:avoid; page-break-after:avoid; line-height:15pt; font-family:'Verdana'; font-size: 0.90em; font-weight:bold; font-style:normal; color:#000000 }
+div.pconf h6 { margin-top:15pt; margin-left:57.6pt; margin-bottom:0pt; t-i:-57.6pt; page-break-inside:avoid; page-break-after:avoid; line-height:15pt; font-family:'Verdana'; font-size: 0.90em; font-weight:normal; font-style:italic; color:#000000 }
+.Heading7 { margin-top:15pt; margin-left:64.8pt; margin-bottom:0pt; t-i:-64.8pt; page-break-inside:avoid; page-break-after:avoid; line-height:15pt; font-family:'Verdana'; font-size: 0.90em; font-weight:normal; font-style:italic; color:#000000; -aw-style-name:heading7 }
+.Heading8 { margin-top:15pt; margin-left:72pt; margin-bottom:0pt; t-i:-72pt; page-break-inside:avoid; page-break-after:avoid; line-height:15pt; font-family:'Verdana'; font-size: 0.90em; font-weight:normal; font-style:italic; color:#000000; -aw-style-name:heading8 }
+.Heading9 { margin-top:0pt; margin-left:79.2pt; margin-bottom:0pt; t-i:-79.2pt; page-break-inside:avoid; page-break-after:avoid; line-height:15pt; font-family:'Verdana'; font-size: 0.90em; font-weight:normal; font-style:italic; color:#000000; -aw-style-name:heading9 }
+.BalloonText { margin-bottom:0pt; t-i:14.2pt; line-height:normal; font-family:'Segoe UI'; font-size: 0.90em }
+.Beteckning { margin-top:18pt; margin-bottom:0pt; t-i:14.2pt; page-break-inside:auto; page-break-after:auto; line-height:19.5pt; font-size: 1.05em }
+.BlockText, .Inramatstycke { margin-right:56.7pt; margin-left:56.7pt; margin-bottom:0pt; t-i:0pt; text-align:nojustify; line-height:15pt; border:0.75pt solid #000000; padding:10pt; font-size: 0.90em; font-style:italic; -aw-border:0.25pt single }
+.Citaticitat { margin-top:7.5pt; margin-left:34pt; margin-bottom:0pt; t-i:0pt; line-height:12pt; font-size: 0.90em }
+.Citaticitatmedindrag { margin-top:0pt; margin-left:34pt; margin-bottom:7.5pt; t-i:17pt; line-height:12pt; font-size: 0.90em }
+.Citatmedindrag { margin-top:0pt; margin-left:17pt; margin-bottom:0pt; t-i:17pt; line-height:12pt; font-size: 0.90em }
+.CommentSubject { margin-bottom:0pt; t-i:14.2pt; line-height:normal; font-size: 0.90em; font-weight:bold }
+.CommentText { margin-bottom:0pt; t-i:14.2pt; line-height:normal; font-size: 0.90em }
+.FSHLogo { margin-top:4pt; margin-bottom:0pt; t-i:0pt; line-height:normal; font-size: 0.90em }
+.FSHNormL { margin-top:4pt; margin-bottom:0pt; t-i:0pt; line-height:15pt; border-top:1.5pt solid #000000; padding-top:3pt; font-size: 0.90em }
+.FSHNormal { margin-top:4pt; margin-bottom:0pt; t-i:0pt; line-height:15pt; font-size: 0.90em }
+.FSHNormalS5 { margin-top:11.5pt; margin-bottom:26pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-size: 0.95em; font-weight:bold }
+.FSHRub1, .Rubrik1S5 { margin-top:135pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:16pt; font-size: 1.00em }
+.FSHRub2, .Rubrik1A4 { margin-top:50pt; margin-bottom:5pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:24pt; font-size: 1.05em }
+.FSHTitel, .Dokumentrubrik { margin-top:4pt; margin-bottom:4pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:20pt; border-bottom:0.75pt solid #000000; padding-bottom:3pt; font-size: 1.05em; -aw-border-bottom:0.5pt single }
+.Footer { margin-top:4pt; margin-bottom:0pt; t-i:0pt; text-align:center; line-height:normal; font-size: 0.90em }
+.FootnoteText { margin-top:0pt; margin-bottom:0pt; t-i:0pt; line-height:12pt; font-size: 0.90em }
+.Frslagsrubrik { margin-top:41pt; margin-left:21.6pt; margin-bottom:0pt; t-i:-21.6pt; page-break-inside:avoid; page-break-after:avoid; line-height:19.5pt; font-family:'Verdana'; font-size: 1.05em }
+.Frslagstext, .Hemstlatt, .Yrkande { margin-top:4pt; margin-left:19.85pt; margin-bottom:0pt; t-i:-19.85pt; line-height:15pt; font-size: 0.90em }
+.Header { margin-top:4pt; margin-bottom:0pt; t-i:0pt; line-height:normal; font-size: 0.90em }
+.KantRubrikS5H { margin-top:6pt; margin-right:2.85pt; margin-bottom:0pt; t-i:0pt; text-align:right; line-height:8pt; font-size: 0.90em }
+.KantRubrikS5Hrad2 { margin-top:0pt; margin-right:2.85pt; margin-bottom:0pt; t-i:0pt; text-align:right; line-height:10pt; font-size: 0.90em }
+.KantRubrikS5V { margin-top:6pt; margin-right:0pt; margin-bottom:0pt; t-i:0pt; text-align:left; line-height:8pt; font-size: 0.90em }
+.KantRubrikS5Vrad2 { margin-top:0pt; margin-right:0pt; margin-bottom:0pt; t-i:0pt; text-align:left; line-height:10pt; font-size: 0.90em }
+.KantrubrikH { margin-top:4pt; margin-right:-82.2pt; margin-bottom:0pt; t-i:0pt; text-align:right; line-height:15pt; font-size: 0.90em }
+.KantrubrikV { margin-top:4pt; margin-left:-85.05pt; margin-bottom:0pt; t-i:0pt; line-height:normal; font-size: 0.90em }
+.Klla { margin-top:0pt; margin-bottom:0pt; t-i:0pt; line-height:12pt; font-size: 0.90em }
+.Lagtext { margin-top:4pt; margin-bottom:0pt; t-i:0pt; line-height:normal; font-size: 0.90em }
+.Lagtextindrag { margin-top:4pt; margin-bottom:0pt; t-i:14.2pt; line-height:normal; font-size: 0.90em }
+.Lagtextrubrik { margin-top:4pt; margin-bottom:0pt; t-i:0pt; line-height:normal; font-size: 0.90em; font-style:italic; letter-spacing:1pt }
+.List { margin-top:7.5pt; margin-left:17pt; margin-bottom:7.5pt; t-i:-17pt; line-height:15pt; font-size: 0.90em }
+.ListBullet, .PunktlistaBomb { margin-top:4pt; margin-left:14.2pt; margin-bottom:0pt; t-i:-14.2pt; line-height:15pt; font-size: 0.90em }
+.ListNumber, .PunktlistaNummer { margin-top:4pt; margin-left:14.2pt; margin-bottom:0pt; t-i:-14.2pt; line-height:15pt; font-size: 0.90em }
+.ListParagraph { margin-left:36pt; margin-bottom:0pt; t-i:14.2pt; line-height:15pt; font-size: 0.90em }
+.ListaGemener { margin-top:7.5pt; margin-left:17pt; margin-bottom:7.5pt; t-i:-17pt; line-height:15pt; font-size: 0.90em }
+.ListaLinje { margin-top:7.5pt; margin-left:17pt; margin-bottom:7.5pt; t-i:-17pt; line-height:15pt; font-size: 0.90em }
+.ListaNummer { margin-top:7.5pt; margin-left:17pt; margin-bottom:7.5pt; t-i:-17pt; line-height:15pt; font-size: 0.90em }
+.ListaPunkt { margin-top:7.5pt; margin-left:17pt; margin-bottom:7.5pt; t-i:-17pt; line-height:15pt; font-size: 0.90em }
+.MotionTIllRiksdagen { margin-top:18pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:19.5pt; font-size: 1.05em }
+.Motionr { margin-top:14pt; margin-bottom:31.5pt; t-i:0pt; page-break-inside:avoid; line-height:15pt; font-size: 1.00em; font-weight:bold; font-style:normal }
+.Motiveringrubrik2numrerat1 { margin-top:30pt; margin-left:0pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:17pt; font-family:'Verdana'; font-size: 1.00em }
+.Motiveringrubrik3numrerat1 { margin-top:18pt; margin-left:0pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:15pt; font-family:'Verdana'; font-size: 0.90em; font-weight:bold }
+.Motiveringrubrik3numrerat11 { margin-top:18pt; margin-left:0pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:15pt; font-family:'Verdana'; font-size: 0.90em; font-weight:bold }
+.Motiveringrubrik4numrerat11 { margin-top:18pt; margin-left:0pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:15pt; font-family:'Verdana'; font-size: 0.90em; font-weight:normal; font-style:italic }
+.NormalWeb { margin-bottom:0pt; t-i:14.2pt; line-height:15pt; font-family:'Verdana'; font-size: 0.90em }
+.NormalIndent { margin-left:65.2pt; margin-bottom:0pt; t-i:14.2pt; line-height:15pt; font-size: 0.90em }
+.Normalutanindragellerluft { margin-top:4pt; margin-bottom:0pt; t-i:0pt; line-height:15pt; font-size: 0.90em }
+.Normal00 { margin-top:4pt; margin-bottom:0pt; t-i:0pt; line-height:normal; font-size: 0.90em }
+.NormalA4fot { margin-top:12pt; margin-bottom:0pt; t-i:0pt; text-align:center; line-height:normal; font-size: 0.90em }
+.NormalA4sidnr { margin-top:4pt; margin-bottom:12pt; t-i:0pt; text-align:center; line-height:normal; font-size: 0.90em }
+.NormalS5sidnrH { margin-top:4pt; margin-right:2.85pt; margin-bottom:0pt; t-i:0pt; text-align:right; line-height:normal; font-size: 0.90em }
+.NormalS5sidnrV { margin-top:4pt; margin-right:0pt; margin-bottom:0pt; t-i:0pt; text-align:left; line-height:normal; font-size: 0.90em }
+.PlainText { margin-bottom:0pt; t-i:0pt; line-height:12pt; font-family:'Verdana'; font-size: 0.90em }
+.Quote { margin-top:7.5pt; margin-left:17pt; margin-bottom:0pt; t-i:0pt; line-height:12pt; font-size: 0.90em }
+.R1 { margin-top:41pt; margin-left:21.6pt; margin-bottom:0pt; t-i:-21.6pt; page-break-inside:avoid; page-break-after:avoid; line-height:19.5pt; font-family:'Verdana'; font-size: 1.05em }
+.R2 { margin-top:30pt; margin-left:28.8pt; margin-bottom:0pt; t-i:-28.8pt; page-break-inside:avoid; page-break-after:avoid; line-height:17pt; font-family:'Verdana'; font-size: 1.00em }
+.R3 { margin-top:18pt; margin-left:36pt; margin-bottom:0pt; t-i:-36pt; page-break-inside:avoid; page-break-after:avoid; line-height:15pt; font-family:'Verdana'; font-size: 0.90em; font-weight:bold }
+.Rubrik1numrerat { margin-top:41pt; margin-left:0pt; margin-bottom:0pt; t-i:0pt; page-break-inside:auto; page-break-after:avoid; line-height:19.5pt; font-family:'Verdana'; font-size: 1.05em }
+.Rubrik2numrerat { margin-top:30pt; margin-left:0pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:17pt; font-family:'Verdana'; font-size: 1.00em }
+.Rubrik3numrerat { margin-top:18pt; margin-left:0pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:15pt; font-family:'Verdana'; font-size: 0.90em; font-weight:bold }
+.Rubrik4numrerat { margin-top:18pt; margin-left:0pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:15pt; font-family:'Verdana'; font-size: 0.90em; font-weight:normal; font-style:italic }
+.RubrikFrslagTIllRiksdagsbeslut { margin-top:41pt; margin-left:21.6pt; margin-bottom:15pt; t-i:-21.6pt; page-break-inside:avoid; page-break-after:avoid; line-height:19.5pt; font-family:'Verdana'; font-size: 1.05em }
+.RubrikInnehllsf { margin-top:41pt; margin-left:21.6pt; margin-bottom:0pt; t-i:-21.6pt; page-break-inside:avoid; page-break-after:avoid; line-height:19.5pt; font-family:'Verdana'; font-size: 1.05em }
+.RubrikSammanf { margin-top:41pt; margin-left:21.6pt; margin-bottom:0pt; t-i:-21.6pt; page-break-inside:avoid; page-break-after:avoid; line-height:19.5pt; font-family:'Verdana'; font-size: 1.05em }
+.Salutation { margin-top:41pt; margin-left:21.6pt; margin-bottom:0pt; t-i:-21.6pt; page-break-inside:avoid; page-break-after:avoid; line-height:19.5pt; font-family:'Verdana'; font-size: 1.05em }
+.Streckkod { margin-top:12pt; margin-bottom:0pt; t-i:0pt; text-align:center; line-height:normal; font-family:IDAutomationHC39S; font-size: 1.00em }
+.Strecklista, .PunktlistaTankstreck { margin-top:4pt; margin-left:14.2pt; margin-bottom:0pt; t-i:-14.2pt; line-height:15pt; font-size: 0.90em }
+.Subtitle { margin-top:4pt; margin-bottom:0pt; t-i:0pt; line-height:15pt; font-family:'Verdana'; font-size: 0.90em; font-weight:bold }
+.TOC1 { margin-top:4pt; margin-bottom:0pt; t-i:0pt; line-height:15pt; font-size: 0.90em }
+.TOC2 { margin-top:4pt; margin-left:14.2pt; margin-bottom:0pt; t-i:0pt; line-height:15pt; font-size: 0.90em }
+.TOC3 { margin-top:4pt; margin-left:28.35pt; margin-bottom:0pt; t-i:0pt; line-height:15pt; font-size: 0.90em }
+.TOC4 { margin-top:4pt; margin-left:42.55pt; margin-bottom:0pt; t-i:0pt; line-height:15pt; font-size: 0.90em }
+.TOC5 { margin-top:4pt; margin-left:56.7pt; margin-bottom:0pt; t-i:0pt; line-height:15pt; font-size: 0.90em }
+.TOC6 { margin-top:4pt; margin-left:56.7pt; margin-bottom:0pt; t-i:0pt; line-height:15pt; font-size: 0.90em }
+.TOC7 { margin-top:15pt; margin-left:56.7pt; margin-bottom:0pt; t-i:14.2pt; page-break-inside:avoid; page-break-after:avoid; line-height:normal; font-family:'Verdana'; font-size: 0.90em; font-weight:normal; font-style:italic }
+.TOC8 { margin-top:15pt; margin-left:56.7pt; margin-bottom:0pt; t-i:14.2pt; page-break-inside:avoid; page-break-after:avoid; line-height:normal; font-family:'Verdana'; font-size: 0.90em; font-weight:normal; font-style:italic }
+.TOC9 { margin-top:15pt; margin-left:56.7pt; margin-bottom:0pt; t-i:14.2pt; page-break-inside:avoid; page-break-after:avoid; line-height:normal; font-family:'Verdana'; font-size: 0.90em; font-weight:normal; font-style:italic }
+.TOCHeading { margin-top:41pt; margin-left:21.6pt; margin-bottom:0pt; t-i:-21.6pt; page-break-inside:avoid; page-break-after:avoid; line-height:19.5pt; font-family:'Verdana'; font-size: 1.05em }
+.Tabellunderrubrik { margin-top:0pt; margin-bottom:0pt; t-i:0pt; page-break-after:avoid; line-height:15pt; font-size: 0.90em; font-weight:normal; font-style:italic }
+.Tabellrubrik { margin-top:7.5pt; margin-bottom:0pt; t-i:0pt; page-break-after:avoid; line-height:15pt; font-size: 0.90em; font-weight:bold }
+.Title { margin-top:41pt; margin-left:21.6pt; margin-bottom:0pt; t-i:-21.6pt; page-break-inside:avoid; page-break-after:avoid; line-height:19.5pt; font-family:'Verdana'; font-size: 1.05em }
+.Underskriftdatum { margin-top:24pt; margin-bottom:3pt; t-i:0pt; page-break-inside:avoid; line-height:15pt; font-size: 0.90em; font-style:normal }
+.Underskrifter { margin-top:15pt; margin-bottom:3pt; t-i:0pt; page-break-inside:avoid; line-height:15pt; font-size: 0.90em; font-style:italic }
+.Yrkandehnv, .Frslagspunkthnv { margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; font-size: 0.90em }
+span.BallongtextChar { font-family:'Segoe UI'; font-size: 0.90em }
+span.BeteckningChar { font-size:19.5pt }
+span.CommentReference { font-size:8pt }
+span.FSHRub2Char, span.Rubrik1A4Char { font-size:24pt }
+span.FotnotstextChar { font-size:10pt }
+span.Hyperlink { text-decoration:underline; color:#0563c1; -aw-style-name:hyperlink }
+span.InledningChar { font-family:'Verdana'; font-size: 1.00em; font-weight:bold }
+span.IntenseReference { font-weight:normal; font-style:normal; font-variant:normal; text-decoration:none; text-transform:none; letter-spacing:0pt; vertical-align:0pt; color:#000000; display:inline }
+span.KommentarerChar { font-size:10pt }
+span.KommentarsmneChar { font-size:10pt; font-weight:bold }
+span.MotionTIllRiksdagenChar { font-size:19.5pt }
+span.OformateradtextChar { font-family:'Verdana'; font-size: 0.90em }
+span.PlaceholderText { color:#f4b083 }
+span.Rubrik1Char { font-family:'Verdana'; font-size: 1.05em }
+span.Rubrik2Char { font-family:'Verdana'; font-size: 1.00em }
+span.Rubrik3Char { font-family:'Verdana'; font-size: 0.90em; font-weight:bold }
+span.Rubrik4Char { font-family:'Verdana'; font-size: 0.90em; font-style:italic }
+span.Rubrik5Char { font-family:'Verdana'; font-weight:bold }
+span.Rubrik6Char { font-family:'Verdana'; font-style:italic }
+span.Rubrik7Char { font-family:'Verdana'; font-size: 0.90em; font-weight:bold }
+span.Rubrik8Char { font-family:'Verdana'; font-size: 0.90em; font-weight:bold }
+span.Rubrik9Char { font-family:'Verdana'; font-size: 0.90em; font-weight:bold }
+span.RubrikChar { font-family:'Verdana'; font-size: 1.00em; font-weight:bold }
+span.SidfotChar { font-size:11.5pt }
+span.UnderrubrikChar { font-family:'Verdana'; font-size: 0.90em; font-weight:bold }
+.TableGrid {  }
+
+.pconf{width: 450px;margin-left:5px;overflow:visable;font-family:Verdana, Geneva, sans-serif;} 
+ .sidhuvud_publikation, .sidhuvud_beteckning{font-size:133%}
+.MotionarLista {font-size:122%}
+
+--></style><div class="pconf"><span class="sidhuvud_publikation">Motion till riksdagen</span><br/>
+<span class="sidhuvud_beteckning">2024/25:3435</span><br/>
+<span class="MotionarLista">av Vasiliki Tsouplaki m.fl. (V)</span><br/>
+<h1>med anledning av prop. 2024/25:166 En lag om public service och riktlinjer för verksamheten 2026–2033</h1>
+<hr class="sidhuvud_linje"/>
+
+
+		<div class="Section1">
+			<div style="-aw-sdt-tag:''">
+				<p class="Rubrik1numrerat" style="-aw-import:list-item; -aw-list-level-number:0; -aw-list-number-format:'%0'; -aw-list-number-styles:'decimal'; -aw-list-number-values:'1'; -aw-list-padding-sml:4.75pt">
+					<a name="_Toc201041561"></a><a name="_Toc106800475"><span style="-aw-import:ignore"><span>1</span><span style="width:4.75pt; font:7pt 'Verdana'; display:inline-block; -aw-import:spaces">&#xa0;&#xa0; </span></span><span>Innehållsförteckning</span><span style="-aw-bookmark-end:_Toc201041561"></span></a>
+				</p>
+				<p class="TOC1">
+					<a href="#_Toc201041562" style="text-decoration:none"><span class="Hyperlink" style="text-decoration:none; color:#000000">2 Förslag till riksdagsbeslut</span></a>
+				</p>
+				<p class="TOC1">
+					<a href="#_Toc201041563" style="text-decoration:none"><span class="Hyperlink" style="text-decoration:none; color:#000000">3 Inledning</span></a>
+				</p>
+				<p class="TOC2">
+					<a href="#_Toc201041564" style="text-decoration:none"><span class="Hyperlink" style="text-decoration:none; color:#000000">3.1 Konkurrens med privata aktörer</span></a>
+				</p>
+				<p class="TOC2">
+					<a href="#_Toc201041565" style="text-decoration:none"><span class="Hyperlink" style="text-decoration:none; color:#000000">3.2 Förhandsprövning av nya tjänster</span></a>
+				</p>
+				<p class="TOC1">
+					<a href="#_Toc201041566" style="text-decoration:none"><span class="Hyperlink" style="text-decoration:none; color:#000000">4 Hur utbudet ska sändas och tillhandahållas</span></a>
+				</p>
+				<p class="TOC2">
+					<a href="#_Toc201041567" style="text-decoration:none"><span class="Hyperlink" style="text-decoration:none; color:#000000">4.1 Antalet programtjänster och sändningarnas omfattning</span></a>
+				</p>
+				<p class="TOC2">
+					<a href="#_Toc201041568" style="text-decoration:none"><span class="Hyperlink" style="text-decoration:none; color:#000000">4.2 Public service-företagens användning av externa internetplattformar</span></a>
+				</p>
+				<p class="TOC1">
+					<a href="#_Toc201041569" style="text-decoration:none"><span class="Hyperlink" style="text-decoration:none; color:#000000">5 Hur innehållsuppdraget ska utformas</span></a>
+				</p>
+				<p class="TOC2">
+					<a href="#_Toc201041570" style="text-decoration:none"><span class="Hyperlink" style="text-decoration:none; color:#000000">5.1 Speglingsuppdraget</span></a>
+				</p>
+				<p class="TOC2">
+					<a href="#_Toc201041571" style="text-decoration:none"><span class="Hyperlink" style="text-decoration:none; color:#000000">5.2 De nationella minoritetsspråken och teckenspråket</span></a>
+				</p>
+				<p class="TOC1">
+					<a href="#_Toc201041572" style="text-decoration:none"><span class="Hyperlink" style="text-decoration:none; color:#000000">6 Uppföljning av public service-uppdraget</span></a>
+				</p>
+				<p class="TOC1">
+					<a href="#_Toc201041573" style="text-decoration:none"><span class="Hyperlink" style="text-decoration:none; color:#000000">7 Ekonomiska konsekvenser</span></a>
+				</p>
+				<p class="Normalutanindragellerluft">
+				</p>
+			</div>
+			<p>
+				<span style="-aw-import:ignore">&#xa0;</span>
+			</p>
+			<p>
+				<span style="-aw-import:ignore">&#xa0;</span>
+			</p>
+			<p style="margin-bottom:12pt; line-height:normal">
+				<br style="page-break-before:always; clear:both">
+			</p>
+			<p class="Rubrik1numrerat" style="margin-bottom:15pt; -aw-import:list-item; -aw-list-level-number:0; -aw-list-number-format:'%0'; -aw-list-number-styles:'decimal'; -aw-list-number-values:'2'; -aw-list-padding-sml:4.75pt">
+				<a name="_Toc201041562"><span style="-aw-import:ignore"><span>2</span><span style="width:4.75pt; font:7pt 'Verdana'; display:inline-block; -aw-import:spaces">&#xa0;&#xa0; </span></span><span style="-aw-sdt-tag:'CC_Boilerplate_4'; -aw-sdt-title:'CC_Boilerplate_4'"><span>Förslag till riksdagsbeslut</span></span><span style="-aw-bookmark-end:_Toc106800475"></span></a>
+			</p>
+			<div style="-aw-sdt-tag:'e96d455c-b68a-4ff8-adab-7feda5cc9bc8'; -aw-sdt-title:'Yrkande 1'">
+				<ol type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-left:14pt; t-i:0pt; padding-left:5.85pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att det av regeringens public service-beslut ska framgå att hänsynstagandet till de privata aktörernas konkurrensförutsättningar ska balanseras mot uppdraget att förse hela befolkningen med nyheter på ett tillgängligt sätt och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'7a4f8c10-31c0-4941-b3cc-3e4e0f1cab28'; -aw-sdt-title:'Yrkande 2'">
+				<ol start="2" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; margin-left:14pt; t-i:0pt; padding-left:5.85pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om en återgång till det gamla systemet då endast public service-företagen själva hade rätt att anmäla tjänster för förhandsprövning och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'81e93b65-d1c8-4833-b9f9-aeab143a1fab'; -aw-sdt-title:'Yrkande 3'">
+				<ol start="3" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; margin-left:14pt; t-i:0pt; padding-left:5.85pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att låta skrivningarna i nuvarande reglering kvarstå under nästa period och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'15dd06d6-9004-4e1c-b4b2-37a8d2207cb0'; -aw-sdt-title:'Yrkande 4'">
+				<ol start="4" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; margin-left:14pt; t-i:0pt; padding-left:5.85pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att public service-företagen inte bör tillämpa en återhållsam strategi på det sätt som regeringen anger vid sin användning av externa plattformar och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'39a4a8c9-7d56-4bfb-85e2-50029c895a84'; -aw-sdt-title:'Yrkande 5'">
+				<ol start="5" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; margin-left:14pt; t-i:0pt; padding-left:5.85pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att villkoret om spegling inte ska ändras och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'9b29525c-a150-45a7-9da2-63ed90e3f509'; -aw-sdt-title:'Yrkande 6'">
+				<ol start="6" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; margin-left:14pt; t-i:0pt; padding-left:5.85pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att villkoret att programverksamheten som helhet ska bedrivas utifrån ett jämställdhets- och mångfaldsperspektiv ska fortsätta att gälla för kommande villkorsperiod och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'63bba419-cec1-4f80-8ce6-fe8af5fa688c'; -aw-sdt-title:'Yrkande 7'">
+				<ol start="7" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; margin-left:14pt; t-i:0pt; padding-left:5.85pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att det samlade utbudet på de olika samiska språken, meänkieli och romani ska öka under kommande avtalsperiod och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'3d85979f-4d5b-48ca-82d5-093d54acb929'; -aw-sdt-title:'Yrkande 8'">
+				<ol start="8" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; margin-left:14pt; t-i:0pt; padding-left:5.85pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att granskningsnämnden ska fortsätta att ansvara för granskning av effektivitet och produktivitet utan att ytterligare aktörer blandas in, och detta tillkännager riksdagen för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'710fd3b9-8b7e-43dd-8bc9-890c20264898'; -aw-sdt-title:'Yrkande 9'">
+				<ol start="9" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; margin-left:14pt; t-i:0pt; padding-left:5.85pt">
+						<span>Riksdagen avslår den del av propositionen där det föreslås att forskare ska se över hur SVT, SR och UR lever upp till kraven på opartiskhet.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'11e4bb43-63d0-4a93-945f-3fe71d1149a8'; -aw-sdt-title:'Yrkande 10'">
+				<ol start="10" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; t-i:0pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om riktade satsningar på beredskap och stärkt digital infrastruktur och de procentsatser för 2026–2032 som framgår av vår motion och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'CC_Motivering_Rubrik'; -aw-sdt-title:'CC_Motivering_Rubrik'">
+				<p class="Rubrik1numrerat" style="-aw-import:list-item; -aw-list-level-number:0; -aw-list-number-format:'%0'; -aw-list-number-styles:'decimal'; -aw-list-number-values:'3'; -aw-list-padding-sml:4.75pt">
+					<a name="MotionsStart"></a><a name="_Toc201041563"></a><a name="_Toc106800476"><span style="-aw-import:ignore"><span>3</span><span style="width:4.75pt; font:7pt 'Verdana'; display:inline-block; -aw-import:spaces">&#xa0;&#xa0; </span></span><span>Inledning</span></a>
+				</p>
+			</div>
+			<span style="-aw-bookmark-end:_Toc201041563">
+			</span>
+			<p class="Normalutanindragellerluft">
+				<span style="-aw-bookmark-end:_Toc106800476"></span><span>Genom propositionen En lag om public service och riktlinjer för verksamheten 2026–2032 föreslås en ny styrningsstruktur för bolagen Sveriges Television (SVT), Sveriges Radio (SR) och Utbildningsradion (UR). Syftet är att få en teknikneutral lagstiftning på plats som kan ligga till grund för regeringens mer detaljerade uppdrag till respektive bolag. I den nya lagen ska även nuvarande lagstiftning för den särskilda skatt som finansierar public service-bolagen ingå. </span>
+			</p>
+			<p>
+				<span>Vänsterpartiet ställer sig bakom principerna i den nya lagen och välkomnar tydlig</span><span>&#xad;</span><span>görandet om att de stora dragen från innevarande villkorsperiod ska fortsätta gälla även de kommande åtta åren. Vi beklagar dock att den parlamentariska kommitté som under ett års tid förberedde det nya regelverket inte haft som fokus att ta sig an hur public service-bolagen ska kunna möta framtida utmaningar och utvecklas för att kunna stå starka när det gäller teknikutvecklingen, den ökade internationella konkurrensen och de ökade säkerhetsutmaningarna. I</span><span>&#xa0;</span><span>stället för diskussioner om vilka public service-tjänster landets invånare och skattebetalare behöver och efterfrågar har Tidöpartierna prioriterat frågor om bolagens påverkan på de privata aktörerna inom tv, radio och press. Det återspeglas nu också i propositionen. Vi befarar att de nya begränsningarna och den otillräckliga finansieringen som föreslås kommer att innebära förlorade år för public service samtidigt som det inte leder till att den privata svenska mediemarknaden kan vinna marknadsandelar. De privata företagen gör sina vägval utifrån sina ägares intressen och kan inte avkrävas ansvar för att säkra att hela Sveriges befolkning har tillgång till nyheter, samhällsinformation, bildning och kultur. Det är vår uppgift som lagstiftare och budgetansvariga i riksdagen att säkra att vi har starka public service-företag som kan tillhandahålla det. </span>
+			</p>
+			<p>
+				<span>Nedan redogör vi för våra huvudsakliga invändningar kring den inriktning för kommande villkorsperiod som regeringen redovisar i propositionen.</span>
+			</p>
+			<p class="Rubrik2numrerat" style="-aw-import:list-item; -aw-list-level-number:1; -aw-list-number-format:'%0.%1'; -aw-list-number-styles:'decimal decimal'; -aw-list-number-values:'3 1'; -aw-list-padding-sml:4pt">
+				<span style="-aw-import:ignore"><span>3.1</span><span style="width:4pt; font:7pt 'Verdana'; display:inline-block; -aw-import:spaces">&#xa0;&#xa0; </span></span><a name="_Toc201041564"><span>Konkurrens med privata aktörer</span></a>
+			</p>
+			<p class="Normalutanindragellerluft">
+				<span>För oss i Vänsterpartiet är en mångfald av medier med olika ideologiska inriktningar, geografisk spridning och en bredd av ägare viktigt att försöka upprätthålla. Det är en grundläggande demokratifråga att många olika perspektiv tar plats i det offentliga. God konkurrens kan ge ökad kvalitet och det är eftersträvansvärt. Inför nuvarande tillstånds</span><span>&#xad;</span><span>period infördes ett villkor om att SR och SVT i sin nyhetsverksamhet ska ta hänsyn till kvalitativa nyhetsmediers konkurrensförutsättningar, i syfte att värna en mångfald av perspektiv på en livskraftig mediemarknad. Det föreslås stå kvar även denna period. </span>
+			</p>
+			<p>
+				<span>Vi menar att det är en väl avvägd formulering men vill påpeka att det också är viktigt att det läggs andra hänsynstaganden i den andra vågskålen. Det behöver betonas att den nyhetsförmedling som SVT och SR ansvarar för är för en stor grupp i vårt land den enda tillgängliga. Det kan bero på en funktionsnedsättning som gör att man inte kan tillgodogöra sig de privata mediernas nyhetstjänster eller en svår ekonomisk situation som gör att man inte har råd med en prenumeration på en dagstidning. SVT och SR har också som enda utpekade aktörer ansvar för att förmedla nyheter på de nationella minoritetsspråken och teckenspråk, och framför allt SR har de senaste åren haft en rad andra språkredaktioner. Man producerar tillsammans med UR också nyhetsförmedlande program på lätt svenska och för barn och unga. Allt detta är en viktig del av att vara public service-företag i allmänhetens tjänst och en viktig pusselbit för en fungerande demokrati. Vi behöver välinformerade invånare och det säkerställs genom en mångfald av medier.</span>
+			</p>
+			<p>
+				<span>Vi ställer oss bakom regeringens förslag om att inte detaljreglera användningen av text hos public service. Det är viktigt inte minst ur ett tillgänglighetsperspektiv att text får komplettera eller tillgängliggöra innehållet i ljud och bild. Vi förstår att Medie</span><span>&#xad;</span><span>myndigheten efterfrågar tydligare mål för att uppföljningen ska bli ändamålsenlig, men ser svårigheter med det. Det räcker enligt oss med de skrivningar som finns om att redovisningen innehåller syften med textanvändningen och vi välkomnar att till</span><span>&#xad;</span><span>gänglighetsaspekten betonas. Vi vill dock markera att vi inte delar regeringens beskrivning av problemen som uppstår hos lokala privata medier på grund av SVT:s nyhetstjänst. Många lokala tidningar får ett större statligt stöd än den lokala SVT-redaktionen samtidigt som man ofta bevakar ett mindre geografiskt område. </span>
+			</p>
+			<p>
+				<span style="-aw-import:spaces">&#xa0;</span><span>För oss har det varit tydligt att det nya mediestödet, som förberetts parallellt med arbete i den parlamentariska public service-kommittén, och villkoren för public service är kommunicerande kärl. Starka public service-företag med lokal närvaro ska balanseras mot bra villkor för lokalpress, nischtidningar och samhällsmagasin. Tyvärr blev det tydligt att man från regeringen och Sverigedemokraterna inte var intresserade av att lyssna in kritiken från de nationella mindre tidningarna och de s.k. andra-tidningarna när förslaget till det nya mediestödet presenterades. Med en högre budget och ett bättre regelverk hade man grundat för att bibehålla och kanske till och med öka mångfalden och förekomsten av kvalitativa nyhetsmedier. I</span><span>&#xa0;</span><span>stället är det alltså en försämring av villkoren för public service man fokuserar på med förhoppningen att det ska gynna de privata bolagen inom radio, tv och press. </span>
+			</p>
+			<p>
+				<span>Det ska av regeringens public service-beslut framgå att hänsynstagandet till de privata aktörernas konkurrensförutsättningar ska balanseras mot uppdraget att förse hela befolkningen med nyheter på ett tillgängligt sätt. Detta bör riksdagen ställa sig bakom och ge regeringen till känna. </span>
+			</p>
+			<p class="Rubrik2numrerat" style="-aw-import:list-item; -aw-list-level-number:1; -aw-list-number-format:'%0.%1'; -aw-list-number-styles:'decimal decimal'; -aw-list-number-values:'3 2'; -aw-list-padding-sml:4pt">
+				<span style="-aw-import:ignore"><span>3.2</span><span style="width:4pt; font:7pt 'Verdana'; display:inline-block; -aw-import:spaces">&#xa0;&#xa0; </span></span><a name="_Toc201041565"><span>Förhandsprövning av nya tjänster</span></a><span> </span>
+			</p>
+			<p class="Normalutanindragellerluft">
+				<span>Inför nuvarande tillståndsperiod föreslogs att andra aktörer än public service-företagen själva ska kunna anmäla tjänster till förhandsprövning. Vänsterpartiet anmälde redan då i en reservation att vi såg att det var mycket problematiskt och ett hot mot public service-företagens oberoende. Det känns därför viktigt att följa upp den frågan även inför kommande period. Konstitutionsutskottet har vid två tillfällen gjort bedömningen att förhandsprövningen i den ursprungliga formen inte stred mot yttrandefrihets</span><span>&#xad;</span><span>grundlagen. Vid båda dessa tillfällen har det faktum att tjänsterna endast kunde anmälas av företagen själva lyfts fram som en faktor till att det är gångbart. Både konstitutions</span><span>&#xad;</span><span>utskottet och regeringen slog tidigare fast att det är kombinationen av att endast nya tjänster prövas samtidigt som endast public service-företagen kan avgöra vad som ska prövas som utgör grunden för bedömningen att förhandsprövningen inte går emot yttrandefrihetsgrundlagen. Modellen som infördes 2020 innebär att man ger kommer</span><span>&#xad;</span><span>siella intressen ett stort inflytande över public service-företagens arbete och utveckling. I och med att medielandskapet förändras snabbt riskerar man att bakbinda företagen. Vid en prövning kan man behöva redovisa idéer och affärsmodeller som i ett privat bolag klassas som affärshemligheter. Vi menar fortfarande för att den teoretiska gränsen mellan att granska innehåll och form inte är så tydlig i praktiken och att man på allvar ska beakta risken att systemet framkallar en sorts självcensur. </span>
+			</p>
+			<p>
+				<span>Vänsterpartiet yrkar på en återgång till det gamla systemet, då endast public service-företagen själva hade rätt att anmäla tjänster för förhandsprövning. </span>
+			</p>
+			<p>
+				<span>Vad som ovan anförs om en återgång till det gamla systemet, då endast public service-företagen själva hade rätt att anmäla tjänster för förhandsprövning, bör riksdagen ställa sig bakom och ge regeringen till känna.</span>
+			</p>
+			<p class="Rubrik1numrerat" style="-aw-import:list-item; -aw-list-level-number:0; -aw-list-number-format:'%0'; -aw-list-number-styles:'decimal'; -aw-list-number-values:'4'; -aw-list-padding-sml:4.75pt">
+				<span style="-aw-import:ignore"><span>4</span><span style="width:4.75pt; font:7pt 'Verdana'; display:inline-block; -aw-import:spaces">&#xa0;&#xa0; </span></span><a name="_Toc201041566"><span>Hur utbudet ska sändas och tillhandahållas</span></a>
+			</p>
+			<p class="Rubrik2numrerat" style="margin-top:22pt; -aw-import:list-item; -aw-list-level-number:1; -aw-list-number-format:'%0.%1'; -aw-list-number-styles:'decimal decimal'; -aw-list-number-values:'4 1'; -aw-list-padding-sml:4pt">
+				<span style="-aw-import:ignore"><span>4.1</span><span style="width:4pt; font:7pt 'Verdana'; display:inline-block; -aw-import:spaces">&#xa0;&#xa0; </span></span><a name="_Toc201041567"><span>Antalet programtjänster och sändningarnas omfattning</span></a><span> </span>
+			</p>
+			<p class="Normalutanindragellerluft">
+				<span>En hög tillgänglighet för public service med ett mångsidigt utbud är en viktig utgångs</span><span>&#xad;</span><span>punkt. Sändningstillstånden för public service-företagen innehåller i</span><span>&#xa0;</span><span>dag krav på att företagen ska sända ett visst antal programtjänster (kanaler). För SVT gäller att före</span><span>&#xad;</span><span>taget ska sända SVT1, SVT2 samt två ytterligare programtjänster i hela landet. För SR gäller att företaget ska sända fyra programtjänster till hela landet, varav ett även ska ha regionalt uppdelat innehåll. Med utgångspunkt i utvecklingen mot en alltmer internet</span><span>&#xad;</span><span>baserad mediekonsumtion har först kommittén och sedan regeringen övervägt ev. justeringar av kravet på antal programtjänster. Vi vill i det här läget inte ställa oss bakom förslaget att lätta på nuvarande krav på antal programtjänster. Marknätet spelar fortsatt en viktig roll för hela befolkningens möjlighet att ta del av public services utbud. Även om en allt större andel av befolkningen tar del av public service digitalt, finns det fortsatt en stor grupp som behöver få bredden i programutbudet tillgängliggjort via marknätet eller genom kabel- eller ip-tv där public service tillgängliggörs via vidaresändningsplikten. Den nya regleringen kommer att innebära ökad flexibilitet för public service-företagen. Vi instämmer i regeringens förslag om att kravet på att innehållsuppdraget i huvudsak ska uppfyllas i marknätet inte längre ska ställas upp, och att det i</span><span>&#xa0;</span><span>stället ska ställas krav på public service-företagen att se till att hela befolk</span><span>&#xad;</span><span>ningen ska ha möjlighet att ta del av ett mångsidigt programutbud. Vi ser dock att det vore fel väg att gå att öppna upp för färre kanaler, då antalet programtjänster fortsatt har en stor betydelse för att hela befolkningen även fortsättningsvis ska kunna ta del av ett mångsidigt programutbud. Vi vill också påminna om att en kanal står för något unikt med ett kurerat utbud som ger publiken oväntade upplevelser på ett annat sätt än en playtjänst. Ur beredskapssynpunkt är det också bra att marknätet fortsatt har en stark ställning och att de linjära sändningarna uppskattas brett. </span>
+			</p>
+			<p>
+				<span>Att lätta på kraven om antal programtjänster i en tid av hög inflation och ett pressat ekonomiskt läge, med en otillräcklig medelstilldelning från regeringen sänder fel signaler om hur vi vill att public service-företagen ska utveckla och anpassa sin verksamhet framåt och riskerar att i praktiken tvinga företagen till nedläggning av kanaler. Företagen behöver anpassa sig till ett förändrat medielandskap och finnas där människor är, men att begränsa bredden genom att lägga ned en kanal med särskild målgrupp och prägel vore att minska utbudet på ett olyckligt vis – tvärs emot ambi</span><span>&#xad;</span><span>tionen för public service som den parlamentariska kommittén enats om. Redan i</span><span>&#xa0;</span><span>dag finns det dessutom möjlighet för public service-företagen att vända sig till riksdag och regering med önskemål om att efter företagens förutsättningar justera antalet kanaler. Men då föranleder det en politisk diskussion och förankring, vilket vi menar borde vara ett krav. </span>
+			</p>
+			<p>
+				<span>Vänsterpartiet vill fortsatt se en bredd i kanal- och programutbud inom public service marknätssändningar och yrkar därför att skrivningarna i nuvarande reglering ska kvarstå under nästa period. </span>
+			</p>
+			<p>
+				<span>Vad som ovan anförs om att skrivningarna i nuvarande reglering ska kvarstå under nästa period bör riksdagen ställa sig bakom och ge regeringen till känna. </span>
+			</p>
+			<p class="Rubrik2numrerat" style="-aw-import:list-item; -aw-list-level-number:1; -aw-list-number-format:'%0.%1'; -aw-list-number-styles:'decimal decimal'; -aw-list-number-values:'4 2'; -aw-list-padding-sml:4pt">
+				<span style="-aw-import:ignore"><span>4.2</span><span style="width:4pt; font:7pt 'Verdana'; display:inline-block; -aw-import:spaces">&#xa0;&#xa0; </span></span><a name="_Toc201041568"><span>Public service-företagens användning av externa internetplattformar</span></a>
+			</p>
+			<p class="Normalutanindragellerluft">
+				<span>Konkurrensen om användarnas tid har ökat och globala medieaktörer har under den nuvarande tillståndsperioden fått en allt större svensk publik. Det handlar förstås om strömningstjänster för film och tv-serier men också om plattformar för poddar och plattformar för användargenererat innehåll som Tiktok och Youtube och sociala medier. Parallellt har också en stor andel av de svenska reklamintäkterna gått till de globala techjättarna. Att public service finns på externa plattformar med sitt innehåll kan förstås bidra till att globala teknik- och mediebolag kan växa sig ännu starkare hos en svensk publik men kan inte ses som en stor orsak. </span>
+			</p>
+			<p>
+				<span>Public service-företagen har egna webbplatser och applikationer som de redan i</span><span>&#xa0;</span><span>dag prioriterar vid distribution på internet. Det är också i huvudsak på de egna plattformarna som deras utbud finns tillgängligt. Sociala medier används främst för att informera om innehållet och föra en dialog med publiken. Vi ser inte att det är ett problem att i kommande reglering säga att företagen ska prioritera de egna plattformarna. Det sker redan i</span><span>&#xa0;</span><span>dag trots att skrivningen är att man bör prioritera så. Alla tre public service-företag har också redan policyer eller riktlinjer för distributionen på externa plattformar. </span>
+			</p>
+			<p>
+				<span>Vi är däremot starkt kritiska till regeringens bedömning som handlar om återhåll</span><span>&#xad;</span><span>samhet och större restriktivitet på externa plattformar inför nästa period. Det resone</span><span>&#xad;</span><span>mang som regeringen anför saknar användarperspektiv och utgår från ett fåtal privata aktörers intressen. I propositionen förklarar man att public service innehåll är så hög</span><span>&#xad;</span><span>kvalitativt att de konkurrerar ut de privata bolagens produkter om de är tillgängliga för publiken på samma distributionsplattformar. Man vill därför gå ifrån det marknadstänk man annars värnar som bygger på tanken att konkurrens är något positivt då det leder till högre kvalitet. I det här fallet vill man i</span><span>&#xa0;</span><span>stället försvåra för lyssnare och tittare att hitta till de bästa programmen. Det kan inte vara regeringens uppgift att försvåra för de som finansierar public services innehåll att hitta de program man varit med och betalat för. Det är också ett resonemang som haltar då en stor del av public service-företagens program produceras av privata aktörer. </span>
+			</p>
+			<p>
+				<span>Vi anser att public service-företagen ska ha fortsatt goda möjligheter att hitta ny publik, framför allt unga, och ha hög synlighet för att informera om sitt utbud och också öka kännedomen om deras egna plattformar. Traditionella medier som tv, radio och tidningar är alltjämt den största källan till nyheter för de som är födda på 1970-talet eller tidigare medan det däremot för åldersgruppen 8–19 år är Tiktok som är den plattform som flest för närvarande använder som nyhetskälla. Vi menar att det därför är av stor vikt att oberoende och sakliga nyhetsmedier inte fråntas möjligheten att väcka intresse för sina program på de externa plattformarna. </span>
+			</p>
+			<p>
+				<span>Det är även viktigt ur ett beredskapsperspektiv att public service-företagen är välkända och har hög trovärdighet hos större delen av befolkningen. Vi ser att under pandemin fungerade alla tre bolagen som viktiga aktörer för att informera allmänheten och ställa om samhället utifrån myndigheternas restriktioner. Det blir därför proble</span><span>&#xad;</span><span>matiskt att den risk- och konsekvensbedömning som ska göras inför distribution på andra plattformar enbart handlar om konkurrensen med de privata aktörerna och inte andra viktiga värden.</span>
+			</p>
+			<p>
+				<span>Som ovan anförs bör inte public service-företagen tillämpa en återhållsam strategi på det sätt regeringen anger vid sin användning av externa plattformar. Detta bör riksdagen ställa sig bakom och ge regeringen till känna. </span>
+			</p>
+			<p class="Rubrik1numrerat" style="-aw-import:list-item; -aw-list-level-number:0; -aw-list-number-format:'%0'; -aw-list-number-styles:'decimal'; -aw-list-number-values:'5'; -aw-list-padding-sml:4.75pt">
+				<span style="-aw-import:ignore"><span>5</span><span style="width:4.75pt; font:7pt 'Verdana'; display:inline-block; -aw-import:spaces">&#xa0;&#xa0; </span></span><a name="_Toc201041569"><span>Hur innehållsuppdraget ska utformas</span></a>
+			</p>
+			<p class="Rubrik2numrerat" style="margin-top:22pt; -aw-import:list-item; -aw-list-level-number:1; -aw-list-number-format:'%0.%1'; -aw-list-number-styles:'decimal decimal'; -aw-list-number-values:'5 1'; -aw-list-padding-sml:4pt">
+				<span style="-aw-import:ignore"><span>5.1</span><span style="width:4pt; font:7pt 'Verdana'; display:inline-block; -aw-import:spaces">&#xa0;&#xa0; </span></span><a name="_Toc201041570"><span>Speglingsuppdraget</span></a><span> </span>
+			</p>
+			<p class="Normalutanindragellerluft">
+				<span>Det finns en samsyn i kommittén om att inte detaljstyra public service-företagen utan åstadkomma en övergripande reglering. Med alltför detaljerade krav som varje år ska redovisas behöver företagen avsätta mycket tid och resurser för att mäta och rapportera till granskningsnämnden och i slutändan kan det gå ut över resurserna som finns för själva programverksamheten. I förslaget som föreligger förändras skrivningen om hur programutbudet ska spegla förhållandena i landet och begreppet ”en variation i befolk</span><span>&#xad;</span><span>ningen” byts ut mot ”hela befolkningen”. Villkoret om att programverksamheten som helhet ska bedrivas utifrån ett jämställdhets- och mångfaldsperspektiv ska inte heller längre ställas upp. Det förs ett resonemang om att den övergripande demokrati</span><span>&#xad;</span><span>bestämmelsen i radio- och tv-lagen och i den nya public service-lagen innebär att företagen fortsatt ska arbeta med fokus på jämställdhet och mångfald även om det inte lyfts fram som enskilda begrepp när det gäller innehållsuppdraget men att man nu ska kunna undvika detaljreglering. Vår uppfattning är att kommittén hade kunnat stå kvar vid de tidigare kraven på public service-företagen, men gjort förtydliganden som hade underlättat redovisningen och därigenom även granskningsnämndens årliga uppföljning av om kraven uppfyllts. För oss är det uppenbart att det även finns ideologiska skillnader i botten när en sådan här förändring föreslås. För att public service ska kunna skapa ett programinnehåll som inger förtroende hos hela befolkningen så är det grundläggande att de olikheter och den variation som finns i befolkningen också kommer till uttryck i hela programverksamheten. Det är inte vår uppgift från politiken att peka ut exakt hur det ska göras, men vi kan konstatera att man genom att på olika sätt visa den mångfald som finns i befolkningen skapar igenkänning hos publiken. Den långa rad av organisationer som vänder sig mot borttagandet av begreppen visar på dess fortsatta relevans. Det handlar bl.a. om representanter för religiösa, språkliga och kulturella minoritetsgrupper. Remissvar för funktionsrättsorganisationer visar på ett stort missnöje med utfallet av dagens reglering och då kan det inte anses rimligt att göra mindre framöver. </span>
+			</p>
+			<p>
+				<span>För att minska risken att viktiga perspektiv går förlorade anser vi att de villkor som finns i nuvarande sändningstillstånd fortsatt ska gälla. </span>
+			</p>
+			<p>
+				<span>Villkoret om spegling ska inte ändras utan det ska fortsatt framgå att programutbudet ska spegla förhållanden i hela landet och den variation som finns i befolkningen. Detta bör riksdagen ställa sig bakom och ge regeringen till känna.</span>
+			</p>
+			<p>
+				<span>Villkoret om att programverksamheten som helhet ska bedrivas utifrån ett jämställdhets- och mångfaldsperspektiv ska också fortsätta gälla för kommande villkorsperiod. Detta bör riksdagen ställa sig bakom och ge regeringen till känna.</span>
+			</p>
+			<p class="Rubrik2numrerat" style="-aw-import:list-item; -aw-list-level-number:1; -aw-list-number-format:'%0.%1'; -aw-list-number-styles:'decimal decimal'; -aw-list-number-values:'5 2'; -aw-list-padding-sml:4pt">
+				<span style="-aw-import:ignore"><span>5.2</span><span style="width:4pt; font:7pt 'Verdana'; display:inline-block; -aw-import:spaces">&#xa0;&#xa0; </span></span><a name="_Toc201041571"><span>De nationella minoritetsspråken och teckenspråket</span></a><span> </span>
+			</p>
+			<p class="Normalutanindragellerluft">
+				<span>Public service har ett tydligt uppdrag att tillhandahålla utbud på de svenska minoritets</span><span>&#xad;</span><span>språken. Detta är helt centralt för att Sverige ska nå upp till sina internationella åtaganden i bl.a. Europarådets ramkonvention om skydd för nationella minoriteter (ramkonventionen, SÖ</span><span>&#xa0;</span><span>2000:2) samt den europeiska stadgan om landsdels- eller minoritetsspråk (språkstadgan, SÖ</span><span>&#xa0;</span><span>2000:3). Av lagen (2009:724) om nationella minoriteter och minoritetsspråk framgår att det allmänna inte bara har ett särskilt ansvar för att skydda utan också för att främja de nationella minoritetsspråken, och även i övrigt främja de nationella minoriteternas möjligheter att behålla och utveckla sin kultur i Sverige. Vi delar regeringens bedömning att det ska ställas krav på att programutbudet ska ha relevans för, samt att en kontinuerlig dialog ska föras med, de berörda grupperna. En generell synpunkt som framförs av alla berörda grupper är betydelsen av att public service bidrar till att synliggöra de nationella minoritetsspråken och teckenspråket för en bredare allmänhet för att öka kunskapen om språken och kulturerna. Detta är i sin tur kopplat till public service-företagens uppdrag att spegla förhållanden i hela landet och den variation som finns i befolkningen. Det handlar därmed inte bara om att fler program ska vara tillgängliga t.ex. för personer med hörselnedsättning, utan företrädare för teckenspråket framförde under kommittéarbetet att fler program endast bör innehålla teckenspråk och att teckenspråkstolk bör användas i programinslag med tal, inte textning. </span>
+			</p>
+			<p>
+				<span>Vad gäller nivån på utbudet menar vi dock att regeringens ambitioner landat för lågt. Man föreslår dels att förstapubliceringarna på vart och ett av de nationella minoritets</span><span>&#xad;</span><span>språken ska öka under tillståndsperioden jämfört med 2025 års nivåer, dels att det samlade utbudet på samtliga minoritetsspråk utöver jiddisch ska uppgå till minst 2025 års nivå. För jiddisch föreslås i</span><span>&#xa0;</span><span>stället, precis som för innevarande period, att det samlade utbudet ska öka. Att stärka utbudet på jiddisch är en viktig prioritering då utbudet i</span><span>&#xa0;</span><span>dag är lågt. Det är även i linje med den nationella strategin för att stärka judiskt liv i Sverige. Vi ser dock ingen anledning till att inte ställa samma krav vad gäller samiska, meänkieli och romani chib. Utbudet för dessa språk är fortsatt lågt. Att fortsatt öka det samlade utbudet har även lyfts fram som en viktig åtgärd av Sannings- och försoningskommissionen för tornedalingar, kväner och lantalaiset (SOU 2023:68). Med den budget som regeringen avsätter skulle en högre ambitionsnivå kunna gå ut över kvaliteten. Med den högre medelstilldelning som vi föreslår är det också möjligt att öka det samlade utbudet.</span>
+			</p>
+			<p>
+				<span>Det samlade utbudet på de olika samiska språken, meänkieli och romani chib ska öka under kommande avtalsperiod. Detta bör riksdagen ställa sig bakom och ge regeringen till känna.</span>
+			</p>
+			<p class="Rubrik1numrerat" style="-aw-import:list-item; -aw-list-level-number:0; -aw-list-number-format:'%0'; -aw-list-number-styles:'decimal'; -aw-list-number-values:'6'; -aw-list-padding-sml:4.75pt">
+				<span style="-aw-import:ignore"><span>6</span><span style="width:4.75pt; font:7pt 'Verdana'; display:inline-block; -aw-import:spaces">&#xa0;&#xa0; </span></span><a name="_Toc201041572"><span>Uppföljning av public service-uppdraget</span></a>
+			</p>
+			<p class="Normalutanindragellerluft">
+				<span>Det är av stor vikt att public service-företagens verksamhet kan följas upp, granskas och utvärderas samt att företagen har ett transparent förhållningssätt till allmänheten. Det finns i</span><span>&#xa0;</span><span>dag en mängd olika verktyg för att följa upp och granska public service-verksam</span><span>&#xad;</span><span>heten: Riksrevisionen, Mediemyndigheten, granskningsnämnden, företagens egna revisorer samt årsredovisningar för att nämna några. </span>
+			</p>
+			<p>
+				<span>I syfte att öka eller bibehålla public service-företagens legitimitet och förtroende är det av stor vikt att public service-företagen tar exempelvis granskningsnämndens beslut på stort allvar, vilket Riksrevisionen i sin rapport bedömer att de gör. Det kommer till uttryck både direkt i företagens publicistiska verksamhet och indirekt genom att den praxis som formas av nämndens beslut utgör en viktig del av företagens interna utbildningar. Regeringens omfattande förslag om utökning av utvärderingsarbete riskerar dock att försätta public service-företagen i ett läge där alltför stora resurser binds upp samtidigt som man kommer stå för omfattande nedskärningar på grund av den låga medelsuppräkningen. Vi har svårt att se att fler granskningsverktyg skulle leda till ökad effektivitet eller stärka legitimiteten eller förtroendet för public service. Det är dock tydligt för oss att alltför mycket tid både inför den innevarande tillståndsperioden och den kommande har ägnats åt konkurrensfrågor. Det är inte en rimlig ordning att det är de privata medieföretagens intressen och frågeställningar som dominerar ett kommittéarbete för public service på det sättet. Vår förhoppning är att den analys av public service-företagens påverkan på mediemarknaden som regeringen föreslår inför kommande period kan sätta punkt för vidare spekulationer från högerpartierna, och vi motsätter oss därför inte det uppdraget.</span>
+			</p>
+			<p>
+				<span>I</span><span>&#xa0;</span><span>dag är det granskningsnämnden som har i uppdrag att bedöma redovisningen av produktivitet och effektivitet. Regeringen föreslår nu att en annan aktör ska få i uppdrag att genomföra en sådan granskning. Det är oklart om det beror på att man inte litar på kompetens hos granskningsnämnden och om det kommer att göras dubbelarbete under den kommande perioden. Vi ser dock inget behov av att ytterligare aktörer blandas in. </span>
+			</p>
+			<p>
+				<span>Granskningsnämnden bör fortsatt ansvara för granskning av effektivitet och produk</span><span>&#xad;</span><span>tivitet. Detta bör riksdagen ställa sig bakom och ge regeringen till känna. </span>
+			</p>
+			<p>
+				<span>Detsamma gäller förslaget om att låta forskare se över hur SVT, SR och UR lever upp till kraven på opartiskhet. Detta gör granskningsnämnden redan i</span><span>&#xa0;</span><span>dag och med förslaget om att genomföra flera djupgående tematiska uppföljningar kan man om behov föreligger göra en extra genomlysning av det kravet. Vi säger därför nej till propositionens förslag i denna del. </span><a name="_Hlk200488234"></a>
+			</p>
+			<p>
+				<span>Den del av propositionen som föreslår att forskare ska se över hur SVT, SR och UR lever upp till kraven om opartiskhet bör avslås. Detta bör riksdagen besluta.</span>
+			</p>
+			<p class="Rubrik1numrerat" style="-aw-import:list-item; -aw-list-level-number:0; -aw-list-number-format:'%0'; -aw-list-number-styles:'decimal'; -aw-list-number-values:'7'; -aw-list-padding-sml:4.75pt">
+				<span style="-aw-import:ignore"><span>7</span><span style="width:4.75pt; font:7pt 'Verdana'; display:inline-block; -aw-import:spaces">&#xa0;&#xa0; </span></span><a name="_Toc201041573"><span style="-aw-bookmark-end:_Hlk200488234"></span><span>Ekonomiska konsekvenser</span></a>
+			</p>
+			<p class="Normalutanindragellerluft">
+				<span>Vi ser att public service-företagen haft tuffa ekonomiska år under den innevarande tillståndsperioden. Den 2-procentiga uppräkningen ger vanligtvis ett visst effektivi</span><span>&#xad;</span><span>seringstryck, men den höga inflationen i kombination med stora investeringar för ökad säkerhet och digital utveckling har tvingat fram större sparpaket och inverkat negativt på programverksamheten. Som enda parti föreslog Vänsterpartiet en högre medels</span><span>&#xad;</span><span>tilldelning för perioden 2020–2025 och vi ser att det var en riktig bedömning från vår sida i det läget. Både SVT och SR har sagt upp personal de senaste åren och upp</span><span>&#xad;</span><span>skattade program och hela redaktioner har avvecklats. SVT, SR och UR har sedan tidigare många viktiga uppdrag och vi kan i deras äskanden inför kommande tillstånds</span><span>&#xad;</span><span>period se välkomna ambitionshöjningar som kräver ökade resurser. Företagen redogör för en rad utmaningar med högre kostnader för befintliga verksamheter, t.ex. höjning av tomträttsavgälden och global konkurrens inom programproduktion med högre ersätt</span><span>&#xad;</span><span>ningar som följd. De redogör också för hur AI och det alltmer spända säkerhetsläget utmanar rutiner inom bl.a. nyhetsförmedlingen och ställer krav på investeringar och förstärkningar. Vår förhoppning har varit att regeringen skulle söka samförstånd över blockgränsen för att hitta en medelstilldelning för åren 2026–2033 som skapar goda möjligheter för public service-företagen att fortsätta skapa högkvalitativa program i en mer turbulent framtid. Vår bedömning är att det budgetförslaget som nu läggs fram är långt ifrån tillräckligt för att hela det uppdraget som propositionen föreslår kan genomföras på ett tillfredsställande sätt. Vi delar inte regeringens bild av att det finns stora möjligheter till effektivisering och samverkan som kan spara pengar samtidigt som kraven kvarstår på att ha ett brett nyskapande utbud med hög kvalitet, folkbildande ambitioner och lokal närvaro. Det finns heller inget i beredningsunderlaget från den parlamentariska kommittén som pekar i den riktningen. Många av remissinstanserna instämmer i den kritiken. Tunga instanser som de tre myndigheterna Ekonomistyrnings</span><span>&#xad;</span><span>verket (ESV), Regelrådet och Statskontoret finner alla brister i utredningens analys av konsekvenser för public service-bolagen med de förslag som läggs fram. Det är också ett stort antal remissinstanser som är oroliga för att medelstilldelningen inte är kompatibel med framtida utmaningar. Försvarsmakten skriver bl.a. att ”medelstilldel</span><span>&#xad;</span><span>ningen är otillräcklig för att täcka kostnadsökningar och behov kopplade till exempelvis beredskapsfrågor och teknikutveckling” och Totalförsvarets forskningsinstitut (FOI) skriver att ”den kommande tillståndsperioden kommer att medföra ökande kostnader för public service, inte minst för de förslag som görs på beredskapsområdet”.</span>
+			</p>
+			<p>
+				<span>Vi anser att public service behöver riktade medel för </span><a name="_Hlk200488171"><span>beredskap och stärkt digital infrastruktur</span></a><span> i enlighet med den anmodan som Försvarsberedningen inkommit med. Vi föreslår därför 200 miljoner kronor till SVT, 100 miljoner kronor till SR och 50 miljoner kronor till UR för det ändamålet. Detta skulle sedan utgöra grund för nivå</span><span>&#xad;</span><span>höjning hela tillståndsperioden och är därmed grund för uppräkning då det handlar om årliga kostnader i likhet med det företagen äskar. För 2026 föreslår vi sedan en upp</span><span>&#xad;</span><span>räkning på 3</span><span>&#xa0;</span><span>procent, under 2027–2030 en uppräkning på 2,6 procent och de tre sista åren, 2031–2033, på 2,3 procent. </span>
+			</p>
+			<p>
+				<span>Vi anser att man riskerar att minska intresset för public services utbud om det försämras de kommande åren. Ska man fortsätta bygga ett starkt förtroende, ökad kännedom och bidra till gemenskap som en enig försvarsberedning uttalat så krävs helt andra ekonomiska muskler än det som nu föreslås. </span>
+			</p>
+			<p>
+				<span>Vi oroar oss också för att kulturuppdraget riskerar att försvagas och framför allt nyproduktion av svenskt drama och film som är väldigt kostsam. Det kommer också påverka många av de privata aktörer som regeringen säger sig vilja värna. Bransch</span><span>&#xad;</span><span>organisationen Film och TV-producenterna påpekar att 60 procent av hela SVT:s programbudget går ut externt och oroar sig för att den föreslagna medelstilldelningen är för låg. Kulturrådet menar att förslaget ”kan minska public service-företagens möjlig</span><span>&#xad;</span><span>heter att stödja svensk kulturproduktion, vilket skulle få negativa konsekvenser för de nationella kulturpolitiska målen”.</span>
+			</p>
+			<p>
+				<span>Det är viktigt att i den här framställningen också belysa det faktum att systemet med en särskild public service-skatt inneburit stora överskott, och i</span><span>&#xa0;</span><span>dag finns över 4</span><span>&#xa0;</span><span>miljarder kronor på det särskilda konto som inte kan användas till andra statliga utgifter. Detta trots att riksdagen varje år sedan den nya skatten infördes har fattat beslut om en sänkning av skatten. Det är alltså inte brist på tillgängliga resurser i systemet som ligger bakom regeringens förslag på medelstilldelning, och siffrorna är såvitt vi kan avgöra varken baserade på företagens framställningar av sina beräknade framtida kostnader eller en egen uppskattning av vad de föreslagna uppdragen man lägger fram kräver för summor.</span>
+			</p>
+			<p>
+				<span>Vi föreslår därför riktade satsningar på beredskap och stärkt digital infrastruktur och procentsatser för åren 2026–2032 i enlighet med vad som framgår av vår motion.</span>
+			</p>
+			<p>
+				<span>Vad som ovan anförs om riktade satsningar på beredskap och stärkt digital infrastruktur och de procentsatser för åren 2026–2032 som framgår av vår motion bör riksdagen ställa sig bakom och ge regeringen till känna.</span>
+			</p>
+			<div style="-aw-sdt-tag:'CC_Underskrifter'; -aw-sdt-title:'CC_Underskrifter'">
+				<p>
+					<span style="-aw-import:ignore">&#xa0;</span>
+				</p>
+				<p>
+					<span style="-aw-import:ignore">&#xa0;</span>
+				</p>
+			</div>
+			<table cellspacing="0" cellpadding="0" style="width:100%; border-collapse:collapse">
+				<tr style="page-break-inside:avoid">
+					<td style="width:1%; padding-right:5.4pt; padding-left:5.4pt; vertical-align:bottom">
+						<p class="Underskrifter" style="margin-bottom:0pt">
+							<span>Vasiliki Tsouplaki (V)</span>
+						</p>
+					</td>
+					<td style="width:1%; padding-right:5.4pt; padding-left:5.4pt; vertical-align:bottom">
+						<p class="Underskrifter" style="margin-bottom:0pt">
+							<span style="-aw-import:ignore">&#xa0;</span>
+						</p>
+					</td>
+				</tr>
+				<tr style="page-break-inside:avoid">
+					<td style="width:1%; padding-right:5.4pt; padding-left:5.4pt; vertical-align:bottom">
+						<p class="Underskrifter" style="margin-bottom:0pt">
+							<span>Nadja Awad (V)</span>
+						</p>
+					</td>
+					<td style="width:1%; padding-right:5.4pt; padding-left:5.4pt; vertical-align:bottom">
+						<p class="Underskrifter" style="margin-bottom:0pt">
+							<span>Malcolm Momodou Jallow (V)</span>
+						</p>
+					</td>
+				</tr>
+				<tr style="page-break-inside:avoid">
+					<td style="width:1%; padding-right:5.4pt; padding-left:5.4pt; vertical-align:bottom">
+						<p class="Underskrifter" style="margin-bottom:0pt">
+							<span>Andreas Lennkvist Manriquez (V)</span>
+						</p>
+					</td>
+					<td style="width:1%; padding-right:5.4pt; padding-left:5.4pt; vertical-align:bottom">
+						<p class="Underskrifter" style="margin-bottom:0pt">
+							<span>Isabell Mixter (V)</span>
+						</p>
+					</td>
+				</tr>
+				<tr style="page-break-inside:avoid">
+					<td style="width:1%; padding-right:5.4pt; padding-left:5.4pt; vertical-align:bottom">
+						<p class="Underskrifter" style="margin-bottom:0pt">
+							<span>Daniel Riazat (V)</span>
+						</p>
+					</td>
+					<td style="width:1%; padding-right:5.4pt; padding-left:5.4pt; vertical-align:bottom">
+						<p class="Underskrifter" style="margin-bottom:0pt">
+							<span>Ciczie Weidby (V)</span>
+						</p>
+					</td>
+				</tr>
+			</table>
+			<p>
+				<span style="-aw-import:ignore">&#xa0;</span>
+			</p>
+		</div>
+	</div>

@@ -1,0 +1,2110 @@
+SEARCH TERM: AI
+DOCUMENT ID: h00388
+TITLE: Informationsutbytesavtal med Panama
+TYPE: prop
+SUBTYPE: prop
+DATE: 2013-03-20
+PARLIAMENTARY YEAR: 2012/13
+ORGANISATION: FI
+STATUS: hämtad_2
+DOWNLOADED: 2026-01-22 10:28:13
+================================================================================
+
+<div style="margin:3px;">
+<STYLE type="text/css">
+
+body {margin-top: 0px;margin-left: 0px;}
+
+#page_1 {position:relative; overflow: hidden;z:b;margin:10px 0px 52px 10px ;padding: 0px;border: none;width: 947px;}
+
+#page_1 #dimg1z{position:absolute;top:0px;left:651px;z-index:-1;width:54px;height:96px;}
+#page_1 #dimg1 #img1  {width:54px;height:96px;}
+
+
+
+
+#page_2 {position:relative; overflow: hidden;z:b;margin:16px 0px 0px 10px ;padding: 0px;border: none;width: 1350px;}
+#page_2 #id_1 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 1037px;overflow: hidden;}
+#page_2 #id_2 {float:left;border:none;z:b;margin:131px 0px 0px 10px ;padding: 0px;border:none;width: 902px;overflow: hidden;}
+
+
+
+
+
+#page_3 {position:relative; overflow: hidden;z:b;margin:15px 0px 52px 10px ;padding: 0px;border: none;width: 947px;}
+
+
+
+
+
+#page_4 {position:relative; overflow: hidden;z:b;margin:15px 0px 52px 10px ;padding: 0px;border: none;width: 947px;}
+
+#page_4 #dimg1z{position:absolute;top:200px;left:126px;z-index:-1;width:123px;height:1px;font-size: 1px !important;l-h:nHeight;}
+#page_4 #dimg1 #img1  {width:123px;height:1px;}
+
+
+
+
+#page_5 {position:relative; overflow: hidden;z:b;margin:15px 0px 52px 10px ;padding: 0px;border: none;width: 766px;}
+#page_5 #id_1 {border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 721px;overflow: hidden;}
+#page_5 #id_1 #id_1_1 {float:left;border:none;z:b;margin:11px 0px 0px 10px ;padding: 0px;border:none;width: 225px;overflow: hidden;}
+#page_5 #id_1 #id_1_2 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 496px;overflow: hidden;}
+#page_5 #id_2 {border:none;z:b;margin:6px 0px 0px 10px ;padding: 0px;border:none;width: 451px;overflow: hidden;}
+#page_5 #id_2 #id_2_1 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 225px;overflow: hidden;}
+#page_5 #id_2 #id_2_2 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 225px;overflow: hidden;}
+#page_5 #id_3 {border:none;z:b;margin:3px 0px 0px 10px ;padding: 0px;border:none;width: 451px;overflow: hidden;}
+#page_5 #id_4 {border:none;z:b;margin:5px 0px 0px 10px ;padding: 0px;border:none;width: 721px;overflow: hidden;}
+#page_5 #id_4 #id_4_1 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 225px;overflow: hidden;}
+#page_5 #id_4 #id_4_2 {float:left;border:none;z:b;margin:1px 0px 0px 10px ;padding: 0px;border:none;width: 496px;overflow: hidden;}
+
+
+
+
+
+#page_6 {position:relative; overflow: hidden;z:b;margin:15px 0px 52px 10px ;padding: 0px;border: none;width: 811px;}
+#page_6 #id_1 {border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 766px;overflow: hidden;}
+#page_6 #id_1 #id_1_1 {float:left;border:none;z:b;margin:2px 0px 0px 10px ;padding: 0px;border:none;width: 225px;overflow: hidden;}
+#page_6 #id_1 #id_1_2 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 496px;overflow: hidden;}
+#page_6 #id_2 {border:none;z:b;margin:4px 0px 0px 10px ;padding: 0px;border:none;width: 360px;overflow: hidden;}
+#page_6 #id_3 {border:none;z:b;margin:6px 0px 0px 10px ;padding: 0px;border:none;width: 451px;overflow: hidden;}
+#page_6 #id_3 #id_3_1 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 225px;overflow: hidden;}
+#page_6 #id_3 #id_3_2 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 225px;overflow: hidden;}
+#page_6 #id_4 {border:none;z:b;margin:3px 0px 0px 10px ;padding: 0px;border:none;width: 360px;overflow: hidden;}
+#page_6 #id_5 {border:none;z:b;margin:5px 0px 0px 10px ;padding: 0px;border:none;width: 451px;overflow: hidden;}
+#page_6 #id_5 #id_5_1 {float:left;border:none;z:b;margin:1px 0px 0px 10px ;padding: 0px;border:none;width: 225px;overflow: hidden;}
+#page_6 #id_5 #id_5_2 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 225px;overflow: hidden;}
+#page_6 #id_6 {border:none;z:b;margin:10px 0px 0px 10px ;padding: 0px;border:none;width: 180px;overflow: hidden;}
+
+
+
+
+
+#page_7 {position:relative; overflow: hidden;z:b;margin:15px 0px 52px 10px ;padding: 0px;border: none;width: 947px;}
+#page_7 #id_1 {border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 766px;overflow: hidden;}
+#page_7 #id_2 {border:none;z:b;margin:5px 0px 0px 10px ;padding: 0px;border:none;width: 721px;overflow: hidden;}
+#page_7 #id_2 #id_2_1 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 270px;overflow: hidden;}
+#page_7 #id_2 #id_2_2 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 496px;overflow: hidden;}
+
+
+
+
+
+#page_8 {position:relative; overflow: hidden;z:b;margin:15px 0px 52px 10px ;padding: 0px;border: none;width: 811px;}
+#page_8 #id_1 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 225px;overflow: hidden;}
+#page_8 #id_2 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 225px;overflow: hidden;}
+#page_8 #id_3 {float:left;border:none;z:b;margin:1px 0px 0px 10px ;padding: 0px;border:none;width: 360px;overflow: hidden;}
+
+
+
+
+
+#page_9 {position:relative; overflow: hidden;z:b;margin:15px 0px 52px 10px ;padding: 0px;border: none;width: 586px;}
+#page_9 #id_1 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 270px;overflow: hidden;}
+#page_9 #id_2 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 405px;overflow: hidden;}
+
+
+
+
+
+#page_10 {position:relative; overflow: hidden;z:b;margin:15px 0px 52px 10px ;padding: 0px;border: none;width: 811px;}
+#page_10 #id_1 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 225px;overflow: hidden;}
+#page_10 #id_2 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 225px;overflow: hidden;}
+#page_10 #id_3 {float:left;border:none;z:b;margin:2px 0px 0px 10px ;padding: 0px;border:none;width: 360px;overflow: hidden;}
+
+
+
+
+
+#page_11 {position:relative; overflow: hidden;z:b;margin:15px 0px 52px 10px ;padding: 0px;border: none;width: 766px;}
+#page_11 #id_1 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 225px;overflow: hidden;}
+#page_11 #id_2 {float:left;border:none;z:b;margin:1px 0px 0px 10px ;padding: 0px;border:none;width: 225px;overflow: hidden;}
+#page_11 #id_3 {float:left;border:none;z:b;margin:1px 0px 0px 10px ;padding: 0px;border:none;width: 315px;overflow: hidden;}
+
+
+
+
+
+#page_12 {position:relative; overflow: hidden;z:b;margin:15px 0px 52px 10px ;padding: 0px;border: none;width: 811px;}
+#page_12 #id_1 {border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 766px;overflow: hidden;}
+#page_12 #id_1 #id_1_1 {float:left;border:none;z:b;margin:1px 0px 0px 10px ;padding: 0px;border:none;width: 270px;overflow: hidden;}
+#page_12 #id_1 #id_1_2 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 496px;overflow: hidden;}
+#page_12 #id_2 {border:none;z:b;margin:6px 0px 0px 10px ;padding: 0px;border:none;width: 496px;overflow: hidden;}
+#page_12 #id_3 {border:none;z:b;margin:4px 0px 0px 10px ;padding: 0px;border:none;width: 586px;overflow: hidden;}
+#page_12 #id_3 #id_3_1 {float:left;border:none;z:b;margin:2px 0px 0px 10px ;padding: 0px;border:none;width: 225px;overflow: hidden;}
+#page_12 #id_3 #id_3_2 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 405px;overflow: hidden;}
+
+
+
+
+
+#page_13 {position:relative; overflow: hidden;z:b;margin:15px 0px 52px 10px ;padding: 0px;border: none;width: 766px;}
+#page_13 #id_1 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 225px;overflow: hidden;}
+#page_13 #id_2 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 225px;overflow: hidden;}
+#page_13 #id_3 {float:left;border:none;z:b;margin:1px 0px 0px 10px ;padding: 0px;border:none;width: 315px;overflow: hidden;}
+
+
+
+
+
+#page_14 {position:relative; overflow: hidden;z:b;margin:15px 0px 52px 10px ;padding: 0px;border: none;width: 586px;}
+#page_14 #id_1 {border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 586px;overflow: hidden;}
+#page_14 #id_1 #id_1_1 {float:left;border:none;z:b;margin:2px 0px 0px 10px ;padding: 0px;border:none;width: 225px;overflow: hidden;}
+#page_14 #id_1 #id_1_2 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 405px;overflow: hidden;}
+#page_14 #id_2 {border:none;z:b;margin:6px 0px 0px 10px ;padding: 0px;border:none;width: 360px;overflow: hidden;}
+#page_14 #id_3 {border:none;z:b;margin:6px 0px 0px 10px ;padding: 0px;border:none;width: 451px;overflow: hidden;}
+#page_14 #id_3 #id_3_1 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 225px;overflow: hidden;}
+#page_14 #id_3 #id_3_2 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 225px;overflow: hidden;}
+#page_14 #id_4 {border:none;z:b;margin:8px 0px 0px 10px ;padding: 0px;border:none;width: 315px;overflow: hidden;}
+#page_14 #id_5 {border:none;z:b;margin:6px 0px 0px 10px ;padding: 0px;border:none;width: 586px;overflow: hidden;}
+#page_14 #id_5 #id_5_1 {float:left;border:none;z:b;margin:1px 0px 0px 10px ;padding: 0px;border:none;width: 225px;overflow: hidden;}
+#page_14 #id_5 #id_5_2 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 405px;overflow: hidden;}
+
+
+
+
+
+#page_15 {position:relative; overflow: hidden;z:b;margin:15px 0px 52px 10px ;padding: 0px;border: none;width: 766px;}
+#page_15 #id_1 {border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 721px;overflow: hidden;}
+#page_15 #id_1 #id_1_1 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 270px;overflow: hidden;}
+#page_15 #id_1 #id_1_2 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 496px;overflow: hidden;}
+#page_15 #id_2 {border:none;z:b;margin:5px 0px 0px 10px ;padding: 0px;border:none;width: 721px;overflow: hidden;}
+#page_15 #id_2 #id_2_1 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 270px;overflow: hidden;}
+#page_15 #id_2 #id_2_2 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 496px;overflow: hidden;}
+
+
+
+
+
+#page_16 {position:relative; overflow: hidden;z:b;margin:15px 0px 52px 10px ;padding: 0px;border: none;width: 811px;}
+#page_16 #id_1 {border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 586px;overflow: hidden;}
+#page_16 #id_1 #id_1_1 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 225px;overflow: hidden;}
+#page_16 #id_1 #id_1_2 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 405px;overflow: hidden;}
+#page_16 #id_2 {border:none;z:b;margin:4px 0px 0px 10px ;padding: 0px;border:none;width: 360px;overflow: hidden;}
+#page_16 #id_3 {border:none;z:b;margin:5px 0px 0px 10px ;padding: 0px;border:none;width: 766px;overflow: hidden;}
+#page_16 #id_3 #id_3_1 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 270px;overflow: hidden;}
+#page_16 #id_3 #id_3_2 {float:left;border:none;z:b;margin:1px 0px 0px 10px ;padding: 0px;border:none;width: 496px;overflow: hidden;}
+
+
+
+
+
+#page_17 {position:relative; overflow: hidden;z:b;margin:15px 0px 52px 10px ;padding: 0px;border: none;width: 947px;}
+
+#page_17 #dimg1z{position:absolute;top:408px;left:147px;z-index:-1;width:394px;height:50px;}
+#page_17 #dimg1 #img1  {width:394px;height:50px;}
+
+
+
+
+#page_18 {position:relative; overflow: hidden;z:b;margin:15px 0px 52px 10px ;padding: 0px;border: none;width: 811px;}
+
+
+
+
+
+#page_19 {position:relative; overflow: hidden;z:b;margin:15px 0px 52px 10px ;padding: 0px;border: none;width: 947px;}
+
+
+
+
+
+#page_20 {position:relative; overflow: hidden;z:b;margin:15px 0px 52px 10px ;padding: 0px;border: none;width: 947px;}
+
+
+
+
+
+#page_21 {position:relative; overflow: hidden;z:b;margin:15px 0px 52px 10px ;padding: 0px;border: none;width: 947px;}
+
+
+
+
+
+#page_22 {position:relative; overflow: hidden;z:b;margin:15px 0px 52px 10px ;padding: 0px;border: none;width: 947px;}
+
+
+
+
+
+#page_23 {position:relative; overflow: hidden;z:b;margin:15px 0px 52px 10px ;padding: 0px;border: none;width: 766px;}
+#page_23 #id_1 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 451px;overflow: hidden;}
+#page_23 #id_2 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 315px;overflow: hidden;}
+
+#page_23 #dimg1z{position:absolute;top:189px;left:0px;z-index:-1;width:110px;height:1px;font-size: 1px !important;l-h:nHeight;}
+#page_23 #dimg1 #img1  {width:110px;height:1px;}
+
+
+
+
+.dclr {clear:both;float:none;height:1px;margin:0px;padding:0px;overflow:hidden;}
+
+.ft0{font:  18px 'Verdana' !important;l-h: 32px;}
+.ft1{font:  14px 'Verdana' !important;l-h: 20px;}
+.ft2{font:  10px 'Verdana' !important;l-h: 1px;}
+.ft3{font:  12px 'Verdana' !important;l-h: 15px;}
+.ft4{font: italic  12px 'Verdana' !important;l-h: 15px;}
+.ft5{font:  12px 'Verdana' !important;l-h: 16px;}
+.ft6{font:  10px 'Verdana' !important;l-h: 2px;}
+.ft7{font:  12px 'Verdana' !important;l-h: 0px;}
+.ft8{font:  10px 'Verdana' !important;l-h: 0px;}
+.ft9{font:  12px 'Verdana' !important;margin-left: 266px;l-h: 0px;}
+.ft10{font:  12px 'Verdana' !important;l-h: 5px;}
+.ft11{font:  12px 'Verdana' !important;margin-left: 9px;l-h: 16px;}
+.ft12{font:  12px 'Verdana' !important;margin-left: 8px;l-h: 16px;}
+.ft13{font:  12px 'Verdana' !important;l-h: 17px;position: relative; bottom: 4px;}
+.ft14{font:  14px 'Verdana' !important;l-h: 22px;}
+.ft15{font:  12px 'Verdana' !important;margin-left: 4px;l-h: 15px;}
+.ft16{font:  12px 'Verdana' !important;margin-left: 5px;l-h: 16px;}
+.ft17{font: bold  12px 'Verdana' !important;l-h: 15px;}
+.ft18{font:  12px 'Verdana' !important;l-h: 14px;}
+.ft19{font: italic  12px 'Verdana' !important;l-h: 15px;}
+.ft20{font:  12px 'Verdana' !important;margin-left: 7px;l-h: 16px;}
+.ft21{font:  12px 'Verdana' !important;margin-left: 5px;l-h: 15px;}
+.ft22{font:  12px 'Verdana' !important;margin-left: 11px;l-h: 16px;}
+.ft23{font:  12px 'Verdana' !important;margin-left: 9px;l-h: 15px;}
+.ft24{font:  12px 'Verdana' !important;margin-left: 10px;l-h: 16px;}
+.ft25{font:  12px 'Verdana' !important;margin-left: 12px;l-h: 15px;}
+.ft26{font:  12px 'Verdana' !important;margin-left: 21px;l-h: 15px;}
+.ft27{font:  12px 'Verdana' !important;margin-left: 6px;l-h: 16px;}
+.ft28{font:  12px 'Verdana' !important;margin-left: 14px;l-h: 16px;}
+.ft29{font:  12px 'Verdana' !important;margin-left: 7px;l-h: 15px;}
+.ft30{font:  12px 'Verdana' !important;margin-left: 7px;l-h: 17px;}
+.ft31{font:  12px 'Verdana' !important;l-h: 17px;}
+.ft32{font:  12px 'Verdana' !important;margin-left: 8px;l-h: 15px;}
+.ft33{font:  12px 'Verdana' !important;margin-left: 10px;l-h: 15px;}
+.ft34{font:  12px 'Verdana' !important;margin-left: 6px;l-h: 15px;}
+.ft35{font:  12px 'Verdana' !important;margin-left: 4px;l-h: 16px;}
+.ft36{font:  12px 'Verdana' !important;margin-left: 11px;l-h: 15px;}
+.ft37{font:  12px 'Verdana' !important;l-h: 15px;}
+.ft38{font: italic  12px 'Verdana' !important;l-h: 17px;}
+.ft39{font:  12px 'Verdana' !important;margin-left: 15px;l-h: 15px;}
+.ft40{font:  12px 'Verdana' !important;margin-left: 3px;l-h: 16px;}
+.ft41{font:  12px 'Verdana' !important;margin-left: 14px;l-h: 15px;}
+.ft42{font:  12px 'Verdana' !important;margin-left: 5px;l-h: 15px;}
+.ft43{font:  12px 'Verdana' !important;margin-left: 3px;l-h: 15px;}
+.ft44{font:  12px 'Verdana' !important;margin-left: 4px;l-h: 16px;}
+.ft45{font:  12px 'Verdana' !important;l-h: 16px;}
+.ft46{font:  12px 'Verdana' !important;margin-left: 13px;l-h: 15px;}
+.ft47{font:  12px 'Verdana' !important;margin-left: 4px;l-h: 17px;}
+.ft48{font:  10px 'Verdana' !important;l-h: 12px;position: relative; bottom: 6px;}
+.ft49{font:  14px 'Verdana' !important;margin-left: 51px;l-h: 23px;}
+.ft50{font:  14px 'Verdana' !important;l-h: 23px;}
+.ft51{font: bold  12px 'Verdana' !important;l-h: 16px;}
+.ft52{font: italic  12px 'Verdana' !important;l-h: 16px;}
+.ft53{font:  14px 'Verdana' !important;l-h: 17px;}
+.ft54{font:  14px 'Verdana' !important;margin-left: 41px;l-h: 17px;}
+.ft55{font:  10px 'Verdana' !important;l-h: 8px;}
+.ft56{font: bold  12px 'Verdana' !important;margin-left: 33px;l-h: 15px;}
+
+.p0{text-align: left;padding-left: 120px;padding-right: 525px;margin-top: 22px;margin-bottom: 0px !important;}
+.p1{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p2{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p3{text-align: left;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p4{text-align: left;padding-left: 120px;margin-top: 19px;margin-bottom: 0px !important;}
+.p5{text-align: left;padding-left: 120px;margin-top: 15px;margin-bottom: 0px !important;}
+.p6{text-align: left;padding-left: 120px;margin-top: 32px;margin-bottom: 0px !important;}
+.p7{text-align: left;padding-left: 260px;margin-top: 17px;margin-bottom: 0px !important;}
+.p8{text-align: left;padding-left: 260px;margin-top: 3px;margin-bottom: 0px !important;}
+.p9{text-align: left;padding-left: 120px;margin-top: 51px;margin-bottom: 0px !important;}
+.p10{text-align: left;padding-left: 120px;padding-right: 336px;margin-top: 26px;margin-bottom: 0px !important;}
+.p11{text-align: left;padding-left: 140px;margin-top: 0px;margin-bottom: 0px !important;}
+.p12{text-align: left;padding-left: 120px;padding-right: 336px;margin-top: 0px;margin-bottom: 0px !important;text-indent: 11px;}
+.p13{text-align: left;padding-left: 140px;margin-top: 2px;margin-bottom: 0px !important;}
+.p14{text-align: right;padding-right: 126px;margin-top: 267px;margin-bottom: 0px !important;}
+.p15{text-align: left;margin-top: 0px;margin-bottom: 0px !important;}
+.p16{text-align: right;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p17{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p18{text-align: right;padding-right: 1px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p19{text-align: left;margin-top: 0px;margin-bottom: 0px !important;}
+.p20{text-align: right;padding-right: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p21{text-align: right;padding-left: 0px;padding-right: 714px;margin-top: 3px;margin-bottom: 0px !important;}
+.p22{text-align: right;padding-right: 21px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p23{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p24{text-align: left;padding-left: 120px;margin-top: 9px;margin-bottom: 0px !important;}
+.p25{text-align: left;padding-left: 120px;padding-right: 336px;margin-top: 1px;margin-bottom: 0px !important;text-indent: 11px;}
+.p26{text-align: right;padding-right: 126px;margin-top: 656px;margin-bottom: 0px !important;}
+.p27{text-align: left;padding-left: 160px;padding-right: 168px;margin-top: 0px;margin-bottom: 0px !important;text-indent: 0.59px;}
+.p28{text-align: left;padding-left: 160px;margin-top: 0px;margin-bottom: 0px !important;}
+.p29{text-align: left;padding-left: 0px;margin-top: 14px;margin-bottom: 0px !important;}
+.p30{text-align: left;padding-left: 0px;padding-right: 357px;margin-top: 16px;margin-bottom: 0px !important;text-indent: 11px;}
+.p31{text-align: left;padding-left: 0px;margin-top: 31px;margin-bottom: 0px !important;}
+.p32{text-align: left;padding-left: 0px;padding-right: 357px;margin-top: 2px;margin-bottom: 0px !important;text-indent: 11px;}
+.p33{text-align: right;padding-right: 147px;margin-top: 459px;margin-bottom: 0px !important;}
+.p34{text-align: left;margin-top: 0px;margin-bottom: 0px !important;}
+.p35{text-align: right;padding-right: 147px;margin-top: 0px;margin-bottom: 0px !important;}
+.p36{text-align: left;padding-left: 0px;margin-top: 16px;margin-bottom: 0px !important;}
+.p37{text-align: left;padding-left: 0px;margin-top: 1px;margin-bottom: 0px !important;}
+.p38{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;}
+.p39{text-align: left;padding-left: 0px;margin-top: 3px;margin-bottom: 0px !important;}
+.p40{text-align: left;margin-top: 0px;margin-bottom: 0px !important;text-indent: 11px;}
+.p41{text-align: left;margin-top: 8px;margin-bottom: 0px !important;text-indent: 11px;}
+.p42{text-align: left;padding-left: 0px;padding-right: 336px;margin-top: 0px;margin-bottom: 0px !important;text-indent: 11px;}
+.p43{text-align: left;padding-left: 0px;padding-right: 336px;margin-top: 34px;margin-bottom: 0px !important;text-indent: 11px;}
+.p44{text-align: left;padding-left: 0px;margin-top: 2px;margin-bottom: 0px !important;}
+.p45{text-align: right;padding-right: 126px;margin-top: 2px;margin-bottom: 0px !important;}
+.p46{text-align: left;margin-top: 13px;margin-bottom: 0px !important;text-indent: 11px;}
+.p47{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p48{text-align: left;padding-right: 357px;margin-top: 0px;margin-bottom: 0px !important;text-indent: 11px;}
+.p49{text-align: left;padding-right: 1px;margin-top: 0px;margin-bottom: 0px !important;text-indent: 11px;}
+.p50{text-align: left;margin-top: 11px;margin-bottom: 0px !important;text-indent: 11px;}
+.p51{text-align: left;padding-right: 1px;margin-top: 6px;margin-bottom: 0px !important;text-indent: 11px;}
+.p52{text-align: left;margin-top: 15px;margin-bottom: 0px !important;text-indent: 11px;}
+.p53{text-align: left;margin-top: 19px;margin-bottom: 0px !important;text-indent: 11px;}
+.p54{text-align: right;margin-top: 0px;margin-bottom: 0px !important;}
+.p55{text-align: left;padding-right: 0px;margin-top: 14px;margin-bottom: 0px !important;text-indent: 11px;}
+.p56{text-align: left;padding-right: 0px;margin-top: 0px;margin-bottom: 0px !important;text-indent: 11px;}
+.p57{text-align: left;padding-right: 0px;margin-top: 18px;margin-bottom: 0px !important;text-indent: 11px;}
+.p58{text-align: left;padding-right: 0px;margin-top: 3px;margin-bottom: 0px !important;text-indent: 11px;}
+.p59{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;}
+.p60{text-align: left;padding-right: 0px;margin-top: 13px;margin-bottom: 0px !important;text-indent: 11px;}
+.p61{text-align: left;padding-right: 0px;margin-top: 4px;margin-bottom: 0px !important;text-indent: 11px;}
+.p62{text-align: left;padding-left: 0px;margin-top: 12px;margin-bottom: 0px !important;}
+.p63{text-align: left;padding-right: 336px;margin-top: 16px;margin-bottom: 0px !important;text-indent: 11px;}
+.p64{text-align: left;padding-right: 336px;margin-top: 12px;margin-bottom: 0px !important;text-indent: 11px;}
+.p65{text-align: left;padding-right: 336px;margin-top: 5px;margin-bottom: 0px !important;text-indent: 11px;}
+.p66{text-align: left;padding-right: 336px;margin-top: 3px;margin-bottom: 0px !important;text-indent: 11px;}
+.p67{text-align: left;padding-right: 336px;margin-top: 0px;margin-bottom: 0px !important;text-indent: 11px;}
+.p68{text-align: left;padding-right: 1px;margin-top: 0px;margin-bottom: 0px !important;}
+.p69{text-align: left;margin-top: 1px;margin-bottom: 0px !important;text-indent: 11px;}
+.p70{text-align: left;padding-right: 1px;margin-top: 13px;margin-bottom: 0px !important;text-indent: 11px;}
+.p71{text-align: left;margin-top: 10px;margin-bottom: 0px !important;text-indent: 11px;}
+.p72{text-align: left;margin-top: 5px;margin-bottom: 0px !important;}
+.p73{text-align: left;padding-right: 1px;margin-top: 2px;margin-bottom: 0px !important;text-indent: 11px;}
+.p74{text-align: left;margin-top: 2px;margin-bottom: 0px !important;text-indent: 11px;}
+.p75{text-align: left;margin-top: 17px;margin-bottom: 0px !important;text-indent: 11px;}
+.p76{text-align: left;margin-top: 3px;margin-bottom: 0px !important;text-indent: 11px;}
+.p77{text-align: left;margin-top: 20px;margin-bottom: 0px !important;text-indent: 11px;}
+.p78{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;}
+.p79{text-align: right;padding-right: 147px;margin-top: 753px;margin-bottom: 0px !important;}
+.p80{text-align: left;padding-right: 0px;margin-top: 0px;margin-bottom: 0px !important;text-indent: 11px;}
+.p81{text-align: left;padding-right: 0px;margin-top: 1px;margin-bottom: 0px !important;text-indent: 11px;}
+.p82{text-align: left;padding-right: 0px;margin-top: 1px;margin-bottom: 0px !important;}
+.p83{text-align: left;margin-top: 20px;margin-bottom: 0px !important;}
+.p84{text-align: left;padding-right: 0px;margin-top: 15px;margin-bottom: 0px !important;}
+.p85{text-align: left;padding-right: 105px;margin-top: 0px;margin-bottom: 0px !important;text-indent: 11px;}
+.p86{text-align: left;padding-right: 105px;margin-top: 3px;margin-bottom: 0px !important;text-indent: 11px;}
+.p87{text-align: left;padding-right: 105px;margin-top: 12px;margin-bottom: 0px !important;text-indent: 11px;}
+.p88{text-align: left;padding-right: 105px;margin-top: 1px;margin-bottom: 0px !important;text-indent: 11px;}
+.p89{text-align: left;padding-right: 105px;margin-top: 4px;margin-bottom: 0px !important;text-indent: 11px;}
+.p90{text-align: right;padding-right: 42px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p91{text-align: left;margin-top: 4px;margin-bottom: 0px !important;text-indent: 11px;}
+.p92{text-align: left;padding-right: 1px;margin-top: 0px;margin-bottom: 0px !important;}
+.p93{text-align: left;padding-right: 1px;margin-top: 4px;margin-bottom: 0px !important;text-indent: 11px;}
+.p94{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;}
+.p95{text-align: left;padding-right: 1px;margin-top: 16px;margin-bottom: 0px !important;text-indent: 11px;}
+.p96{text-align: left;padding-right: 1px;margin-top: 1px;margin-bottom: 0px !important;text-indent: 11px;}
+.p97{text-align: left;margin-top: 12px;margin-bottom: 0px !important;text-indent: 11px;}
+.p98{text-align: left;padding-right: 1px;margin-top: 32px;margin-bottom: 0px !important;text-indent: 11px;}
+.p99{text-align: left;padding-right: 1px;margin-top: 3px;margin-bottom: 0px !important;text-indent: 11px;}
+.p100{text-align: left;padding-right: 1px;margin-top: 15px;margin-bottom: 0px !important;text-indent: 11px;}
+.p101{text-align: right;padding-right: 126px;margin-top: 753px;margin-bottom: 0px !important;}
+.p102{text-align: left;padding-right: 0px;margin-top: 0px;margin-bottom: 0px !important;}
+.p103{text-align: left;padding-right: 0px;margin-top: 2px;margin-bottom: 0px !important;text-indent: 11px;}
+.p104{text-align: left;margin-top: 2px;margin-bottom: 0px !important;}
+.p105{text-align: left;padding-right: 0px;margin-top: 0px;margin-bottom: 0px !important;}
+.p106{text-align: center;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p107{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p108{text-align: center;padding-right: 4px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p109{text-align: center;padding-right: 357px;margin-top: 0px;margin-bottom: 0px !important;}
+.p110{text-align: left;margin-top: 2px;margin-bottom: 0px !important;}
+.p111{text-align: left;padding-right: 357px;margin-top: 29px;margin-bottom: 0px !important;text-indent: 11px;}
+.p112{text-align: left;padding-right: 357px;margin-top: 3px;margin-bottom: 0px !important;text-indent: 11px;}
+.p113{text-align: left;padding-right: 357px;margin-top: 19px;margin-bottom: 0px !important;text-indent: 11px;}
+.p114{text-align: left;margin-top: 0px;margin-bottom: 0px !important;text-indent: 11px;}
+.p115{text-align: right;padding-right: 42px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p116{text-align: left;padding-right: 1px;margin-top: 7px;margin-bottom: 0px !important;text-indent: 11px;}
+.p117{text-align: left;padding-right: 1px;margin-top: 18px;margin-bottom: 0px !important;text-indent: 11px;}
+.p118{text-align: left;padding-right: 1px;margin-top: 5px;margin-bottom: 0px !important;text-indent: 11px;}
+.p119{text-align: left;margin-top: 18px;margin-bottom: 0px !important;text-indent: 11px;}
+.p120{text-align: left;padding-right: 105px;margin-top: 0px;margin-bottom: 0px !important;}
+.p121{text-align: left;padding-left: 0px;padding-right: 105px;margin-top: 0px;margin-bottom: 0px !important;text-indent: 11px;}
+.p122{text-align: left;padding-right: 0px;margin-top: 0px;margin-bottom: 0px !important;}
+.p123{text-align: left;margin-top: 12px;margin-bottom: 0px !important;}
+.p124{text-align: left;padding-right: 0px;margin-top: 16px;margin-bottom: 0px !important;}
+.p125{text-align: left;padding-right: 0px;margin-top: 10px;margin-bottom: 0px !important;text-indent: 11px;}
+.p126{text-align: left;padding-right: 0px;margin-top: 2px;margin-bottom: 0px !important;text-indent: 11px;}
+.p127{text-align: left;padding-right: 147px;margin-top: 0px;margin-bottom: 0px !important;}
+.p128{text-align: left;margin-top: 31px;margin-bottom: 0px !important;}
+.p129{text-align: left;margin-top: 16px;margin-bottom: 0px !important;}
+.p130{text-align: left;padding-right: 336px;margin-top: 29px;margin-bottom: 0px !important;text-indent: 11px;}
+.p131{text-align: left;padding-right: 336px;margin-top: 2px;margin-bottom: 0px !important;text-indent: 11px;}
+.p132{text-align: left;padding-right: 336px;margin-top: 4px;margin-bottom: 0px !important;text-indent: 11px;}
+.p133{text-align: left;padding-right: 0px;margin-top: 15px;margin-bottom: 0px !important;text-indent: 11px;}
+.p134{text-align: left;padding-right: 0px;margin-top: 12px;margin-bottom: 0px !important;text-indent: 11px;}
+.p135{text-align: left;padding-right: 0px;margin-top: 11px;margin-bottom: 0px !important;text-indent: 11px;}
+.p136{text-align: left;padding-right: 336px;margin-top: 13px;margin-bottom: 0px !important;text-indent: 11px;}
+.p137{text-align: left;padding-right: 336px;margin-top: 0px;margin-bottom: 0px !important;text-indent: 11px;}
+.p138{text-align: left;padding-right: 0px;margin-top: 5px;margin-bottom: 0px !important;text-indent: 11px;}
+.p139{text-align: left;padding-right: 0px;margin-top: 28px;margin-bottom: 0px !important;text-indent: 11px;}
+.p140{text-align: left;padding-right: 0px;margin-top: 11px;margin-bottom: 0px !important;}
+.p141{text-align: left;margin-top: 30px;margin-bottom: 0px !important;}
+.p142{text-align: left;padding-right: 357px;margin-top: 20px;margin-bottom: 0px !important;text-indent: 11px;}
+.p143{text-align: left;padding-right: 357px;margin-top: 12px;margin-bottom: 0px !important;text-indent: 11px;}
+.p144{text-align: left;padding-right: 357px;padding-top: 3px;margin-top: 11px;margin-bottom: 0px !important;text-indent: 11px;}
+.p145{text-align: left;margin-top: 14px;margin-bottom: 0px !important;}
+.p146{text-align: left;padding-left: 120px;padding-right: 336px;margin-top: 9px;margin-bottom: 0px !important;}
+.p147{text-align: left;padding-left: 120px;padding-right: 336px;margin-top: 4px;margin-bottom: 0px !important;text-indent: 11px;}
+.p148{text-align: left;padding-left: 120px;margin-top: 36px;margin-bottom: 0px !important;}
+.p149{text-align: left;padding-left: 120px;padding-right: 336px;margin-top: 11px;margin-bottom: 0px !important;}
+.p150{text-align: left;padding-left: 180px;padding-right: 399px;margin-top: 38px;margin-bottom: 0px !important;text-indent: 0.60px;}
+.p151{text-align: left;padding-left: 140px;padding-right: 336px;margin-top: 25px;margin-bottom: 0px !important;}
+.p152{text-align: left;padding-left: 120px;padding-right: 336px;margin-top: 7px;margin-bottom: 0px !important;text-indent: 11px;}
+.p153{text-align: left;padding-left: 120px;margin-top: 27px;margin-bottom: 0px !important;}
+.p154{text-align: right;padding-right: 126px;margin-top: 10px;margin-bottom: 0px !important;}
+.p155{text-align: left;padding-right: 168px;margin-top: 0px;margin-bottom: 0px !important;}
+.p156{text-align: left;margin-top: 27px;margin-bottom: 0px !important;}
+.p157{text-align: left;padding-right: 357px;margin-top: 10px;margin-bottom: 0px !important;}
+.p158{text-align: left;padding-right: 357px;margin-top: 1px;margin-bottom: 0px !important;text-indent: 11px;}
+.p159{text-align: left;padding-right: 357px;margin-top: 5px;margin-bottom: 0px !important;text-indent: 11px;}
+.p160{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p161{text-align: left;padding-left: 120px;padding-right: 147px;margin-top: 0px;margin-bottom: 0px !important;}
+.p162{text-align: left;padding-left: 120px;padding-right: 336px;margin-top: 1px;margin-bottom: 0px !important;}
+.p163{text-align: left;padding-left: 120px;margin-top: 28px;margin-bottom: 0px !important;}
+.p164{text-align: left;padding-left: 120px;margin-top: 30px;margin-bottom: 0px !important;}
+.p165{text-align: left;padding-left: 120px;padding-right: 336px;margin-top: 7px;margin-bottom: 0px !important;}
+.p166{text-align: left;padding-left: 140px;margin-top: 5px;margin-bottom: 0px !important;}
+.p167{text-align: left;padding-left: 120px;margin-top: 0px;margin-bottom: 0px !important;}
+.p168{text-align: right;padding-right: 126px;margin-top: 0px;margin-bottom: 0px !important;}
+.p169{text-align: left;padding-left: 0px;padding-right: 357px;margin-top: 0px;margin-bottom: 0px !important;}
+.p170{text-align: left;padding-left: 0px;margin-top: 28px;margin-bottom: 0px !important;}
+.p171{text-align: left;padding-left: 0px;padding-right: 357px;margin-top: 7px;margin-bottom: 0px !important;}
+.p172{text-align: left;padding-left: 0px;padding-right: 357px;margin-top: 18px;margin-bottom: 0px !important;text-indent: 11px;}
+.p173{text-align: left;padding-left: 0px;padding-right: 357px;margin-top: 3px;margin-bottom: 0px !important;text-indent: 11px;}
+.p174{text-align: left;padding-left: 0px;padding-right: 357px;margin-top: 1px;margin-bottom: 0px !important;text-indent: 11px;}
+.p175{text-align: left;padding-left: 0px;padding-right: 357px;margin-top: 0px;margin-bottom: 0px !important;text-indent: 11px;}
+.p176{text-align: left;padding-left: 0px;margin-top: 35px;margin-bottom: 0px !important;}
+.p177{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;}
+.p178{text-align: right;padding-right: 147px;margin-top: 1px;margin-bottom: 0px !important;}
+.p179{text-align: left;padding-left: 120px;padding-right: 336px;margin-top: 0px;margin-bottom: 0px !important;}
+.p180{text-align: left;padding-left: 120px;padding-right: 336px;margin-top: 9px;margin-bottom: 0px !important;text-indent: 11px;}
+.p181{text-align: left;padding-left: 120px;margin-top: 29px;margin-bottom: 0px !important;}
+.p182{text-align: left;padding-left: 120px;padding-right: 336px;margin-top: 8px;margin-bottom: 0px !important;}
+.p183{text-align: right;padding-right: 126px;margin-top: 4px;margin-bottom: 0px !important;}
+.p184{text-align: left;padding-left: 0px;padding-right: 168px;margin-top: 0px;margin-bottom: 0px !important;}
+.p185{text-align: left;padding-left: 0px;margin-top: 29px;margin-bottom: 0px !important;}
+.p186{text-align: left;padding-left: 0px;margin-top: 9px;margin-bottom: 0px !important;}
+.p187{text-align: left;padding-left: 0px;margin-top: 32px;margin-bottom: 0px !important;}
+.p188{text-align: left;padding-left: 0px;padding-right: 357px;margin-top: 9px;margin-bottom: 0px !important;}
+.p189{text-align: left;padding-left: 0px;margin-top: 44px;margin-bottom: 0px !important;}
+.p190{text-align: left;padding-left: 0px;padding-right: 357px;margin-top: 11px;margin-bottom: 0px !important;}
+.p191{text-align: right;padding-right: 147px;margin-top: 270px;margin-bottom: 0px !important;}
+.p192{text-align: left;padding-right: 0px;margin-top: 16px;margin-bottom: 0px !important;}
+.p193{text-align: left;margin-top: 13px;margin-bottom: 0px !important;}
+.p194{text-align: left;padding-right: 0px;margin-top: 60px;margin-bottom: 0px !important;}
+
+.td0{padding: 0px;margin: 0px;width: 355px;vertical-align: bottom;}
+.td1{padding: 0px;margin: 0px;width: 171px;vertical-align: bottom;}
+.td2{border-bottom: #000000 1px solid;padding: 0px;margin: 0px;width: 355px;vertical-align: bottom;}
+.td3{border-bottom: #000000 1px solid;padding: 0px;margin: 0px;width: 171px;vertical-align: bottom;}
+.td4{padding: 0px;margin: 0px;width: 7px;vertical-align: bottom;}
+.td5{padding: 0px;margin: 0px;width: 390px;vertical-align: bottom;}
+.td6{padding: 0px;margin: 0px;width: 13px;vertical-align: bottom;}
+.td7{padding: 0px;margin: 0px;width: 389px;vertical-align: bottom;}
+.td8{padding: 0px;margin: 0px;width: 1px;vertical-align: bottom;}
+.td9{padding: 0px;margin: 0px;width: 37px;vertical-align: bottom;}
+.td10{padding: 0px;margin: 0px;width: 352px;vertical-align: bottom;}
+.td11{padding: 0px;margin: 0px;width: 351px;vertical-align: bottom;}
+.td12{padding: 0px;margin: 0px;width: 122px;vertical-align: bottom;}
+.td13{padding: 0px;margin: 0px;width: 274px;vertical-align: bottom;}
+.td14{padding: 0px;margin: 0px;width: 14px;vertical-align: bottom;}
+.td15{padding: 0px;margin: 0px;width: 396px;vertical-align: bottom;}
+.td16{padding: 0px;margin: 0px;width: 36px;vertical-align: bottom;}
+.td17{padding: 0px;margin: 0px;width: 96px;vertical-align: bottom;}
+.td18{padding: 0px;margin: 0px;width: 214px;vertical-align: bottom;}
+.td19{padding: 0px;margin: 0px;width: 196px;vertical-align: bottom;}
+.td20{padding: 0px;margin: 0px;width: 48px;vertical-align: bottom;}
+.td21{padding: 0px;margin: 0px;width: 66px;vertical-align: bottom;}
+.td22{padding: 0px;margin: 0px;width: 195px;vertical-align: bottom;}
+.td23{padding: 0px;margin: 0px;width: 309px;vertical-align: bottom;}
+.td24{padding: 0px;margin: 0px;width: 67px;vertical-align: bottom;}
+.td25{padding: 0px;margin: 0px;width: 80px;vertical-align: bottom;}
+.td26{padding: 0px;margin: 0px;width: 51px;vertical-align: bottom;}
+.td27{padding: 0px;margin: 0px;width: 241px;vertical-align: bottom;}
+.td28{padding: 0px;margin: 0px;width: 63px;vertical-align: bottom;}
+.td29{padding: 0px;margin: 0px;width: 212px;vertical-align: bottom;}
+.td30{padding: 0px;margin: 0px;width: 86px;vertical-align: bottom;}
+.td31{padding: 0px;margin: 0px;width: 166px;vertical-align: bottom;}
+.td32{padding: 0px;margin: 0px;width: 253px;vertical-align: bottom;}
+.td33{padding: 0px;margin: 0px;width: 176px;vertical-align: bottom;}
+.td34{padding: 0px;margin: 0px;width: 184px;vertical-align: bottom;}
+.td35{padding: 0px;margin: 0px;width: 249px;vertical-align: bottom;}
+.td36{padding: 0px;margin: 0px;width: 97px;vertical-align: bottom;}
+.td37{padding: 0px;margin: 0px;width: 84px;vertical-align: bottom;}
+.td38{padding: 0px;margin: 0px;width: 248px;vertical-align: bottom;}
+.td39{padding: 0px;margin: 0px;width: 69px;vertical-align: bottom;}
+.td40{padding: 0px;margin: 0px;width: 191px;vertical-align: bottom;}
+.td41{padding: 0px;margin: 0px;width: 124px;vertical-align: bottom;}
+.td42{padding: 0px;margin: 0px;width: 465px;vertical-align: bottom;}
+.td43{padding: 0px;margin: 0px;width: 65px;vertical-align: bottom;}
+.td44{padding: 0px;margin: 0px;width: 329px;vertical-align: bottom;}
+
+.tr0{heightzzz: 27px;}
+.tr1{heightzzz: 21px;}
+.tr2{heightzzz: 18px;}
+.tr3{heightzzz: 15px;}
+.tr4{heightzzz: 16px;}
+.tr5{heightzzz: 881px;}
+.tr6{heightzzz: 0px;}
+.tr7{heightzzz: 775px;}
+.tr8{heightzzz: 5px;}
+.tr9{heightzzz: 23px;}
+.tr10{heightzzz: 22px;}
+.tr11{heightzzz: 29px;}
+.tr12{heightzzz: 17px;}
+.tr13{heightzzz: 20px;}
+.tr14{heightzzz: 14px;}
+.tr15{heightzzz: 30px;}
+.tr16{heightzzz: 19px;}
+.tr17{heightzzz: 28px;}
+.tr18{heightzzz: 25px;}
+.tr19{heightzzz: 8px;}
+
+.t0{width: 552px;margin-leftZ: 152px;margin-top: 7px;f:18px 'Verdana' !important;}
+.t1{width: 980px;margin-top: 16px;f:13px 'Verdana' !important;}
+.t2{width: 431px;f:1px 'Verdana' !important;}
+.t3{width: 547px;margin-leftZ: 153px;f:18px 'Verdana' !important;}
+.t4{width: 430px;f:italic 13px 'Verdana' !important;}
+.t5{width: 324px;f:13px 'Verdana' !important;}
+.t6{width: 294px;f:bold 13px 'Verdana' !important;}
+.t7{width: 309px;f:bold 13px 'Verdana' !important;}
+.t8{width: 278px;margin-leftZ: 153px;margin-top: 3px;f:bold 13px 'Verdana' !important;}
+.t9{width: 319px;margin-leftZ: 11px;margin-top: 4px;f:13px 'Verdana' !important;}
+.t10{width: 323px;f:13px 'Verdana' !important;}
+.t11{width: 331px;margin-top: 46px;f:italic 13px 'Verdana' !important;}
+.t12{width: 418px;f:bold 13px 'Verdana' !important;}
+.t13{width: 331px;f:13px 'Verdana' !important;}
+.t14{width: 312px;f:bold 13px 'Verdana' !important;}
+.t15{width: 278px;f:bold 13px 'Verdana' !important;}
+.t16{width: 331px;margin-top: 3px;f:13px 'Verdana' !important;}
+.t17{width: 297px;f:bold 13px 'Verdana' !important;}
+.t18{width: 331px;margin-top: 15px;f:italic 13px 'Verdana' !important;}
+.t19{width: 555px;margin-top: 5px;f:13px 'Verdana' !important;}
+.t20{width: 548px;margin-leftZ: 134px;f:13px 'Verdana' !important;}
+
+</STYLE>
+<script language="JavaScript">
+function l1lIlIl111Il1l1lI1I111IlI(l111lI1IllIIlllIl1111lIIl)
+{
+	var IlIll1lII1l1Il1l1II1IllIl = document.getElementById(l111lI1IllIIlllIl1111lIIl);
+	for(var lIIIIllI1ll11Il1IIll1l1lI = 0; lIIIIllI1ll11Il1IIll1l1lI < IlIll1lII1l1Il1l1II1IllIl.childNodes.length; ++lIIIIllI1ll11Il1IIll1l1lI)
+	{
+		if(IlIll1lII1l1Il1l1II1IllIl.childNodes[lIIIIllI1ll11Il1IIll1l1lI].tagName == "TBODY")
+		{
+			IlIll1lII1l1Il1l1II1IllIl = IlIll1lII1l1Il1l1II1IllIl.childNodes[lIIIIllI1ll11Il1IIll1l1lI];
+			break;
+		}
+	}
+	return IlIll1lII1l1Il1l1II1IllIl;
+}
+
+function llIl1IllI1llII111111l1I11(I1llI1IlIllI1IIlll11111lI)
+{
+	var IlllI1llII1111l11Il1lIlII = document.createElement("tr");
+	if(I1llI1IlIllI1IIlll11111lI >= 0)
+		IlllI1llII1111l11Il1lIlII.height = I1llI1IlIllI1IIlll11111lI + "px";
+	return IlllI1llII1111l11Il1lIlII;
+}
+
+function l11l1lIlIIl1IIll11IIl1II1(Il11l11lI11IlIlIIIl1Il1Il, lI1II1ll1llIlIIlIIll1lI1l, lI11lIl1IIII1lI111l1Il1Il, IlIl1l11lI1ll1IllI11l11l1)
+{
+	var l11llII1IllIlIll1llllll11 = document.createElement("td");
+	if(Il11l11lI11IlIlIIIl1Il1Il != 1)
+		l11llII1IllIlIll1llllll11.rowSpan = Il11l11lI11IlIlIIIl1Il1Il;
+	if(lI1II1ll1llIlIIlIIll1lI1l != 1)
+		l11llII1IllIlIll1llllll11.colSpan = lI1II1ll1llIlIIlIIll1lI1l;
+	if(lI11lIl1IIII1lI111l1Il1Il != "")
+		l11llII1IllIlIll1llllll11.className = lI11lIl1IIII1lI111l1Il1Il;
+	if(IlIl1l11lI1ll1IllI11l11l1 >= 0)
+		l11llII1IllIlIll1llllll11.width = IlIl1l11lI1ll1IllI11l11l1 + "px";
+	return l11llII1IllIlIll1llllll11;
+}
+
+function I1II1IllI111IlI1I1llll1lI()
+{
+	var l1l1Il111I11llI1llI1III11 = l1lIlIl111Il1l1lI1I111IlI("IlI1I1IlIIIl1IlI1ll11I11l");
+	var llIll111III111ll1I1l1I1II = l1lIlIl111Il1l1lI1I111IlI("II1I1II1IlI1Il1IIlIlI1I1l");
+	var IlIIllIlI1IlII1lIIl111III = l1lIlIl111Il1l1lI1I111IlI("I1Illll11l111Ill1lllIl1l1");
+	var ll1I111I1IlIlII1I1l1I1ll1 = l1lIlIl111Il1l1lI1I111IlI("IlI1I1I1llI1I111IlIl1111l");
+	var lllI1111I1IIll1l1ll11Ill1 = l1lIlIl111Il1l1lI1I111IlI("I1I111I11l11II1I111II11Il");
+	var lI1I11l1111lI1I1l11IIll1l = l1lIlIl111Il1l1lI1I111IlI("IIlllIIlIl1lII1I11Il11II1");
+	var II1IlII1l1I1l11I1lllIl1ll = l1lIlIl111Il1l1lI1I111IlI("I1IllI1lIII11llII1II1l1lI");
+	var llIlIIIIllII1l1IIll11I1ll = l1lIlIl111Il1l1lI1I111IlI("I1llI1II1l11II1llllIlIlII");
+	var lI1IIlIIIII1I1l1IlIlIl1II = l1lIlIl111Il1l1lI1I111IlI("ll1111l1llI1IIl1l1ll1lI1I");
+	var Ill1IlIl1I1Ill1lI1IlIlIll = l1lIlIl111Il1l1lI1I111IlI("lIIll111l1IIlIIlI111lIlI1");
+	var lIllI11ll111lIlI11I1lIIIl = l1lIlIl111Il1l1lI1I111IlI("lIII1IIll1lIl11I1I11lIIII");
+	var lI11I11IIlIlIIIll1Il111ll = l1lIlIl111Il1l1lI1I111IlI("II111I1l11I1I1ll1l1I11Il1");
+	var IlllIl1IIllIIllII1l1lII1I = l1lIlIl111Il1l1lI1I111IlI("l11lI1llllIII1IIIllI11l11");
+	var ll11IlI1ll1l1llIlIlIl1lII = l1lIlIl111Il1l1lI1I111IlI("lI1Il1l1l1I1l11lIl11I11Il");
+	var lll1IllII11Illl11III1lIlI = l1lIlIl111Il1l1lI1I111IlI("IIIl11l1IlII111l11I1lI1l1");
+	var IIlIl1llIlI1l11IlIlI1lI1l = l1lIlIl111Il1l1lI1I111IlI("llll1l1lIl1I11Ill1I1I1ll1");
+	var IIll1IIl1Il11llI1lllll111 = l1lIlIl111Il1l1lI1I111IlI("I11l11I1Il1Il1I1lIllIlI11");
+	var lllIlll1lIIllIlIIIII1lIll = l1lIlIl111Il1l1lI1I111IlI("ll1ll1I111Illl1l1lI11lI11");
+	var lIIl11l1III1IlI11l11lI1l1 = l1lIlIl111Il1l1lI1I111IlI("IlllIIl1Il1l1I11IlI1ll1II");
+	var lllIIIIIl1lIllllI1llIlII1 = l1lIlIl111Il1l1lI1I111IlI("IIlIIIl1IIl1I111lll1l11lI");
+	var Il1l1lll1I1l1Ill1l11lI11l = l1lIlIl111Il1l1lI1I111IlI("lIIIl1lllIllIl11I1ll11llI");
+	var IIIllIllI1Il111I1IlIl11I1 = l1lIlIl111Il1l1lI1I111IlI("llll11111IIllII11I111lIIl");
+	var II1I11lI111lllIll1II1l1l1 = l1lIlIl111Il1l1lI1I111IlI("I11I11l11I1I1lIII11lIll1l");
+	var I1llII1Illlll1IlI1ll1lll1 = l1lIlIl111Il1l1lI1I111IlI("llIl1I1II1IlIl1lIIIIIIlII");
+	var I1ll11lIII11l11111II1IIl1 = l11l1lIlIIl1IIll11IIl1II1(1, 1, "tr15 td25", -1);
+	var IIIlllII11111IIIIIlIIl111 = llIl1IllI1llII111111l1I11(-1);
+	var Il1I1IIlllIl11IIll1l1I11l = llIl1IllI1llII111111l1I11(-1);
+	var lllllIl1IIII11lIlIlIIll11 = l11l1lIlIIl1IIll11IIl1II1(1, 1, "tr10 td24", -1);
+	var IlllIIIIlIl111I1l1llI1Ill = llIl1IllI1llII111111l1I11(-1);
+	var l11IIl1l11ll11lI1llIlll11 = l11l1lIlIIl1IIll11IIl1II1(1, 1, "tr14 td21", -1);
+	var lI11Il11llI11lIlIl1I1l1Il = l11l1lIlIIl1IIll11IIl1II1(1, 1, "tr6 td4", -1);
+	var II1lI1l1l1I1IlIIIIllllllI = llIl1IllI1llII111111l1I11(-1);
+	var llIlIIII1I1lllllIll1l1I1I = l11l1lIlIIl1IIll11IIl1II1(1, 1, "tr10 td18", -1);
+	var Ill1lI1lIllIIII1ll1II111I = llIl1IllI1llII111111l1I11(-1);
+	var I1IIl11lIIlIllllIllII1Il1 = l11l1lIlIIl1IIll11IIl1II1(1, 1, "tr6 td9", -1);
+	var IlllIlIllIIlI1lIIIIlI1lII = l11l1lIlIIl1IIll11IIl1II1(1, 1, "tr3 td42", -1);
+	var IIIll1lIl1lII1l11I1Il1IIl = llIl1IllI1llII111111l1I11(-1);
+	var III111Ill1l1lI1IIlIlIlIl1 = llIl1IllI1llII111111l1I11(-1);
+	var Il1l111IlIl1lI1II11llI1l1 = l11l1lIlIIl1IIll11IIl1II1(1, 1, "tr6 td6", -1);
+	var I1IlI1lII1Ill1l1I1I11lIll = llIl1IllI1llII111111l1I11(-1);
+	var I1lll1II111I1lll111Il11l1 = l11l1lIlIIl1IIll11IIl1II1(1, 1, "tr6 td8", -1);
+	var l1IIIll1l11I1lIIIIlI1l1lI = l11l1lIlIIl1IIll11IIl1II1(1, 1, "tr14 td21", -1);
+	var llllIIIl1l1lIII1I1ll1I111 = llIl1IllI1llII111111l1I11(-1);
+	var lllIIlllIl1lll1lIl1lIlI1l = l11l1lIlIIl1IIll11IIl1II1(1, 1, "tr10 td25", -1);
+	var l111IlIIllI1lIIII1l1lIl11 = l11l1lIlIIl1IIll11IIl1II1(1, 1, "tr2 td6", -1);
+	var lI1111IIlll11l1l1l1IlI1Il = l11l1lIlIIl1IIll11IIl1II1(1, 2, "tr3 td7", -1);
+	var Illl1IllIlI1I1IlIII1llIII = l11l1lIlIIl1IIll11IIl1II1(1, 1, "tr2 td30", -1);
+	var ll1IlI1I1Il11IIIIIII11l1l = llIl1IllI1llII111111l1I11(-1);
+	var ll1I1l1111IIlll1IlII1I111 = l11l1lIlIIl1IIll11IIl1II1(1, 1, "tr3 td42", -1);
+	var III1l1l1IIl1I1llIll11IIll = l11l1lIlIIl1IIll11IIl1II1(1, 1, "tr15 td37", -1);
+	var lIllll11Il1l11I1I1l1I1l11 = l11l1lIlIIl1IIll11IIl1II1(1, 3, "tr1 td5", -1);
+	var Ill1lI1I1lIl1I1Il11l1lllI = l11l1lIlIIl1IIll11IIl1II1(1, 1, "tr13 td21", -1);
+	var ll1I11IIl1Il1I11lII11l1lI = llIl1IllI1llII111111l1I11(-1);
+	var l1lllI11III1111Illl11I111 = l11l1lIlIIl1IIll11IIl1II1(1, 1, "tr8 td14", -1);
+	var II1I11111III1lI1IllIlIIll = l11l1lIlIIl1IIll11IIl1II1(1, 1, "tr1 td4", -1);
+	var lIIlIIll111lIl11lIl1IlI1l = llIl1IllI1llII111111l1I11(-1);
+	var llII1III111lI1I1l1l1lIII1 = l11l1lIlIIl1IIll11IIl1II1(1, 1, "tr10 td37", -1);
+	var IllIII11I1Illl11I1lII11lI = l11l1lIlIIl1IIll11IIl1II1(1, 1, "tr0 td0", -1);
+	var lI1llIlI11111l11lII11l1II = l11l1lIlIIl1IIll11IIl1II1(1, 1, "tr3 td42", -1);
+	var lI1II1l11I111I1IIl11IIl1l = l11l1lIlIIl1IIll11IIl1II1(1, 1, "tr17 td28", -1);
+	var llIl1l1I1l1IlIII11Il1lll1 = l11l1lIlIIl1IIll11IIl1II1(1, 1, "tr1 td6", -1);
+	var lI1III11lI11lIIIlIlIII111 = l11l1lIlIIl1IIll11IIl1II1(1, 1, "tr13 td29", -1);
+	var lIlI1IIl1lIIll1l1II1IIIIl = l11l1lIlIIl1IIll11IIl1II1(1, 1, "tr3 td9", -1);
+	var ll11I111lI1II11l111l1IlII = llIl1IllI1llII111111l1I11(-1);
+	var I111lll11lll1I1llI1IIl1lI = llIl1IllI1llII111111l1I11(-1);
+	var llI11IllIIlII11II11lII1lI = l11l1lIlIIl1IIll11IIl1II1(1, 1, "tr3 td43", -1);
+	var II1Illll11II1I1I11I1I11II = l11l1lIlIIl1IIll11IIl1II1(1, 1, "tr6 td9", -1);
+	var IllllIIl11l1l1l1IllIllIlI = llIl1IllI1llII111111l1I11(-1);
+	var IllI1l1lI11IIlIIl1Illl1II = llIl1IllI1llII111111l1I11(-1);
+	var l111IllIlII1Il1111lllI1lI = l11l1lIlIIl1IIll11IIl1II1(1, 1, "tr5 td11", -1);
+	var lII1lIll1Il1I111lllI1I11I = llIl1IllI1llII111111l1I11(-1);
+	var I1llIl1IllIlI1lIl1l11IllI = llIl1IllI1llII111111l1I11(-1);
+	var IlIIll1lIll11llIl1IlIl1l1 = l11l1lIlIIl1IIll11IIl1II1(1, 1, "tr9 td17", -1);
+	var Il1llIlI1111l11ll1II11llI = l11l1lIlIIl1IIll11IIl1II1(1, 1, "tr4 td43", -1);
+	var I1l1IlIl1I1Il1Il1llllIlII = l11l1lIlIIl1IIll11IIl1II1(1, 1, "tr1 td6", -1);
+	var lI11l1IlI1IlI11IlI1I1llII = llIl1IllI1llII111111l1I11(-1);
+	var llI11Il11lIllIII1I111l1ll = l11l1lIlIIl1IIll11IIl1II1(1, 1, "tr3 td43", -1);
+	var IllIlIIIIIllIIllI1l11IIII = l11l1lIlIIl1IIll11IIl1II1(1, 1, "tr10 td30", -1);
+	var llII11IIII1l11I111IIl1I1l = l11l1lIlIIl1IIll11IIl1II1(1, 1, "tr16 td40", -1);
+	var l1III1l1lI111lIIIIllI11l1 = l11l1lIlIIl1IIll11IIl1II1(1, 1, "tr2 td24", -1);
+	var lI1l1lIlIll1lll1IIl1llllI = llIl1IllI1llII111111l1I11(-1);
+	var lIl1lIII11lI1llII111I11Il = l11l1lIlIIl1IIll11IIl1II1(1, 1, "tr3 td43", -1);
+	var IIIllII11ll111IIl1I111I1I = llIl1IllI1llII111111l1I11(-1);
+	var lll11llII1l1111lI1l111I1I = llIl1IllI1llII111111l1I11(-1);
+	var IIl1l11Il11l11111IIl111l1 = l11l1lIlIIl1IIll11IIl1II1(1, 2, "tr17 td32", -1);
+	var Il1IIl1IIll1Il111l1IIlIlI = llIl1IllI1llII111111l1I11(-1);
+	var I11111IIllII1I1l1IlIlll1l = l11l1lIlIIl1IIll11IIl1II1(1, 2, "tr4 td32", -1);
+	var Il111l1I1IIIlIllI1IIIllI1 = l11l1lIlIIl1IIll11IIl1II1(1, 1, "tr9 td16", -1);
+	var llI111I11ll1l11lIlll1lIIl = l11l1lIlIIl1IIll11IIl1II1(1, 1, "tr10 td26", -1);
+	var IlI1Illllll11IlI1II111II1 = l11l1lIlIIl1IIll11IIl1II1(1, 1, "tr3 td42", -1);
+	var Il111l1ll1111l1IlIIIIlII1 = llIl1IllI1llII111111l1I11(-1);
+	var lIllI1l1I1lI1II1II1I11Il1 = llIl1IllI1llII111111l1I11(-1);
+	var ll1III1l1lII1ll1lll1lI1I1 = l11l1lIlIIl1IIll11IIl1II1(1, 1, "tr4 td43", -1);
+	var I1111l111l1IlI1lIllI111I1 = l11l1lIlIIl1IIll11IIl1II1(2, 1, "tr18 td43", -1);
+	var ll1II1Ill1II1111lIl1IlII1 = l11l1lIlIIl1IIll11IIl1II1(1, 1, "tr4 td4", -1);
+	var III1lllIll1ll1I11IllIIIII = l11l1lIlIIl1IIll11IIl1II1(1, 1, "tr2 td26", -1);
+	var lI1I1l11IlIl1I1I1l1lI11l1 = llIl1IllI1llII111111l1I11(-1);
+	var IlI1llIlIIl1l1I1II111l1II = llIl1IllI1llII111111l1I11(-1);
+	var IlIl111IIllII1I1l11IllIlI = l11l1lIlIIl1IIll11IIl1II1(1, 1, "tr13 td21", -1);
+	var l1II11ll1l1IIllII11l1lI11 = l11l1lIlIIl1IIll11IIl1II1(1, 3, "tr4 td23", -1);
+	var l1lII1ll111lII1II11I1III1 = llIl1IllI1llII111111l1I11(-1);
+	var II1l1IIII1II1lIIIIIlII11l = l11l1lIlIIl1IIll11IIl1II1(1, 1, "tr9 td7", -1);
+	var I1l1IIIIIl1l1IlIl1I11l1II = l11l1lIlIIl1IIll11IIl1II1(1, 3, "tr4 td23", -1);
+	var l1l1I1I111l1I1Il1lI111llI = l11l1lIlIIl1IIll11IIl1II1(1, 1, "tr3 td36", -1);
+	var I11I1IlIl111lll1l11IlIIII = l11l1lIlIIl1IIll11IIl1II1(1, 1, "tr3 td28", -1);
+	var l11l11l1llI1l1lllllllll1I = llIl1IllI1llII111111l1I11(-1);
+	var IlIl11lII111lllIlIIlI1II1 = llIl1IllI1llII111111l1I11(-1);
+	var l1IlI11ll1lI1lllllI11llll = l11l1lIlIIl1IIll11IIl1II1(1, 1, "tr12 td42", -1);
+	var IlII1II1Il1I1II1IllIllI11 = l11l1lIlIIl1IIll11IIl1II1(1, 1, "tr13 td33", -1);
+	var llIIl111lII11llIl1I1111Il = llIl1IllI1llII111111l1I11(-1);
+	var l1I1l1llllll1lIIllIll1I11 = l11l1lIlIIl1IIll11IIl1II1(1, 1, "tr15 td26", -1);
+	var lIlIlIll111l11I11IlIlIIll = l11l1lIlIIl1IIll11IIl1II1(1, 1, "tr9 td7", -1);
+	var lllIlIl111lIlIlIlIlllll1l = l11l1lIlIIl1IIll11IIl1II1(1, 1, "tr1 td6", -1);
+	var I11III11IlII1I11I1l1IIIIl = l11l1lIlIIl1IIll11IIl1II1(1, 1, "tr13 td24", -1);
+	var I11IIIlI1lI11I1lIlll1l1lI = l11l1lIlIIl1IIll11IIl1II1(1, 1, "tr3 td43", -1);
+	var l1I11II11l1111Ill11I1l11l = llIl1IllI1llII111111l1I11(-1);
+	var l1l1II11II1lIIIll111l11lI = l11l1lIlIIl1IIll11IIl1II1(1, 1, "tr4 td43", -1);
+	var l1llIIll1l1ll1lIll11II11I = l11l1lIlIIl1IIll11IIl1II1(1, 1, "tr14 td24", -1);
+	var lllIII1Illl11llll1IllllIl = l11l1lIlIIl1IIll11IIl1II1(1, 1, "tr12 td30", -1);
+	var l111l1I1I1IIIlIIlII1lI11l = l11l1lIlIIl1IIll11IIl1II1(1, 1, "tr1 td4", -1);
+	var lIIllI1lI1Il11lI111IIIll1 = l11l1lIlIIl1IIll11IIl1II1(1, 1, "tr16 td41", -1);
+	var I1I1111l1ll1llII1lIl1lllI = l11l1lIlIIl1IIll11IIl1II1(1, 1, "tr4 td28", -1);
+	var IlIII1lllIl111IIlII1Il1Il = llIl1IllI1llII111111l1I11(-1);
+	var lIlIlIlI1lIlllI111IIIIlll = l11l1lIlIIl1IIll11IIl1II1(1, 1, "tr3 td4", -1);
+	var Illl1IlIlIlI1lIll1llI11I1 = l11l1lIlIIl1IIll11IIl1II1(1, 1, "tr2 td4", -1);
+	var Il1lIIIl11IIl1lI1lIll1I1l = l11l1lIlIIl1IIll11IIl1II1(1, 1, "tr6 td6", -1);
+	var Ill1lI1lI111lIlI1lIIlll11 = l11l1lIlIIl1IIll11IIl1II1(1, 1, "tr2 td28", -1);
+	var IlIlIIl1l1lIl11II11IlIl1I = l11l1lIlIIl1IIll11IIl1II1(1, 1, "tr15 td18", -1);
+	var lIl1l1l1lll1I1111lIll1lll = llIl1IllI1llII111111l1I11(-1);
+	var I1l1l1l1l1lI1l1l1I11l1lll = l11l1lIlIIl1IIll11IIl1II1(1, 1, "tr3 td42", -1);
+	var I1Ill11II1IlI1I1lI1lIIlll = l11l1lIlIIl1IIll11IIl1II1(1, 1, "tr11 td31", -1);
+	var lI11III1II11lIlIlI1II11lI = l11l1lIlIIl1IIll11IIl1II1(1, 1, "tr15 td18", -1);
+	var IIlIIlll111II1ll1l11Illl1 = l11l1lIlIIl1IIll11IIl1II1(1, 1, "tr13 td36", -1);
+	var ll1IllIIIl111llI1IIlII11I = l11l1lIlIIl1IIll11IIl1II1(1, 1, "tr13 td44", -1);
+	var lIIIlIl11Il1I1llIll111Il1 = l11l1lIlIIl1IIll11IIl1II1(1, 1, "tr6 td9", -1);
+	var l1IIl1IlIl1IIIIl1111II1Il = l11l1lIlIIl1IIll11IIl1II1(1, 1, "tr11 td19", -1);
+	var lIIII11II11I1Il1l1IlI1l11 = l11l1lIlIIl1IIll11IIl1II1(1, 1, "tr4 td9", -1);
+	var I1IIIII1lIlI1IllIlIIIlI1I = l11l1lIlIIl1IIll11IIl1II1(1, 1, "tr4 td42", -1);
+	var llI1ll1ll11lllI1111l1lIll = l11l1lIlIIl1IIll11IIl1II1(1, 1, "tr3 td29", -1);
+	var lllllI1IlII111l1l1IIlI1Il = l11l1lIlIIl1IIll11IIl1II1(1, 1, "tr3 td4", -1);
+	var ll11ll1Il11l1I1l1IIIIIIl1 = l11l1lIlIIl1IIll11IIl1II1(1, 1, "tr15 td18", -1);
+	var lIlI11l11ll111l1I11IIIlI1 = llIl1IllI1llII111111l1I11(-1);
+	var l111l1IlI11l1l1IIIIIIlIII = llIl1IllI1llII111111l1I11(-1);
+	var IIlI1ll1l1ll1111I11lIIIl1 = l11l1lIlIIl1IIll11IIl1II1(1, 1, "tr3 td8", -1);
+	var llIll1III11l1IIIll11lI1Il = l11l1lIlIIl1IIll11IIl1II1(1, 2, "tr3 td10", -1);
+	var lIl11IIII1lll1Il11lllIl1I = l11l1lIlIIl1IIll11IIl1II1(1, 1, "tr10 td18", -1);
+	var IlIIIIII1l1Il11lllll1I1Il = l11l1lIlIIl1IIll11IIl1II1(1, 1, "tr3 td42", -1);
+	var Il1I1I1IllI1lIlIl1IlIlIIl = l11l1lIlIIl1IIll11IIl1II1(1, 1, "tr2 td18", -1);
+	var lI1ll1ll11II11IIIllllllIl = l11l1lIlIIl1IIll11IIl1II1(1, 1, "tr3 td43", -1);
+	var l1l1llIl11Ill1l1I1I1lllll = llIl1IllI1llII111111l1I11(-1);
+	var lII1I1II1lIllIlIl11ll1I1l = l11l1lIlIIl1IIll11IIl1II1(1, 1, "tr13 td36", -1);
+	var II1II1ll1IIl1l1Il1Il1ll1l = l11l1lIlIIl1IIll11IIl1II1(1, 1, "tr3 td43", -1);
+	var IllIllll1IIIllIlll1IlIII1 = l11l1lIlIIl1IIll11IIl1II1(1, 1, "tr13 td27", -1);
+	var l1I1Ill11IIllI1IllIIlIlIl = l11l1lIlIIl1IIll11IIl1II1(1, 1, "tr6 td9", -1);
+	var IlIlI11II1ll1IlllIllIIIl1 = l11l1lIlIIl1IIll11IIl1II1(1, 1, "tr14 td22", -1);
+	var lllllIlIll111111IIIIIIlIl = llIl1IllI1llII111111l1I11(-1);
+	var II111l1I111l111IIll1lIl1I = l11l1lIlIIl1IIll11IIl1II1(1, 1, "tr15 td24", -1);
+	var I11I1lllll1111lIlllIIIIII = l11l1lIlIIl1IIll11IIl1II1(1, 1, "tr10 td34", -1);
+	var Ill11llII1lIlI1l11I1lI11I = l11l1lIlIIl1IIll11IIl1II1(1, 1, "tr4 td43", -1);
+	var IIII1lIllI1Il11l1llI1IIl1 = l11l1lIlIIl1IIll11IIl1II1(1, 1, "tr12 td21", -1);
+	var I11l1l11lI11l1lI111lllI11 = l11l1lIlIIl1IIll11IIl1II1(1, 1, "tr6 td8", -1);
+	var l11l111I1lI1Illl1I1I11II1 = l11l1lIlIIl1IIll11IIl1II1(1, 1, "tr9 td17", -1);
+	var lI1l11II1lI1lIIlIIl111III = l11l1lIlIIl1IIll11IIl1II1(1, 1, "tr3 td43", -1);
+	var II1I11IlI111I1I1III1I1lIl = llIl1IllI1llII111111l1I11(-1);
+	var ll1lI1111I1I11lII1l11lll1 = llIl1IllI1llII111111l1I11(-1);
+	var lIlIllIlIIIll1ll111Il111I = l11l1lIlIIl1IIll11IIl1II1(1, 1, "tr6 td6", -1);
+	var II11lI1I111IlllIlIIl1IlI1 = llIl1IllI1llII111111l1I11(-1);
+	var Il1llII111IIlIll111llI1lI = l11l1lIlIIl1IIll11IIl1II1(1, 3, "tr1 td5", -1);
+	var II1IIIIII1IlIlIll1IIIIIll = llIl1IllI1llII111111l1I11(-1);
+	var Il11Illl1llI11111IIll1lI1 = llIl1IllI1llII111111l1I11(-1);
+	var l11lIl1ll1l1I11IllIIl1lll = l11l1lIlIIl1IIll11IIl1II1(1, 2, "tr3 td32", -1);
+	var lI11II1Illl1111lIlIl11lII = l11l1lIlIIl1IIll11IIl1II1(1, 1, "tr6 td8", -1);
+	var llllIl1l1l1I111lII1I1Illl = l11l1lIlIIl1IIll11IIl1II1(1, 1, "tr3 td44", -1);
+	var I1lIll1lIll1l11l1lIlIIl1I = l11l1lIlIIl1IIll11IIl1II1(1, 1, "tr3 td43", -1);
+	var l1Il1lI1ll1l1II1IIl1IIl11 = llIl1IllI1llII111111l1I11(-1);
+	var Il11lllI1IIlIl1Illll1I1II = llIl1IllI1llII111111l1I11(-1);
+	var I1IIIl1I1lI1I1II1lll1llII = llIl1IllI1llII111111l1I11(-1);
+	var l1lllIllIlI1lllII1llIll11 = llIl1IllI1llII111111l1I11(-1);
+	var Il11I11Ill1I11111I1lll111 = llIl1IllI1llII111111l1I11(-1);
+	var l11I1ll1lllIl1ll1lIIIlIII = l11l1lIlIIl1IIll11IIl1II1(1, 1, "tr6 td8", -1);
+	var lIlIIll11IlIIlIIlIll1Il1l = l11l1lIlIIl1IIll11IIl1II1(1, 1, "tr3 td42", -1);
+	var IIlll111Il1l1lIIIIIl1III1 = l11l1lIlIIl1IIll11IIl1II1(1, 1, "tr15 td18", -1);
+	var Il1Il11I111I1IIll1I1l1Il1 = l11l1lIlIIl1IIll11IIl1II1(1, 1, "tr6 td9", -1);
+	var Ill1Il1I11Il1II1IIlIIIlIl = l11l1lIlIIl1IIll11IIl1II1(1, 1, "tr10 td19", -1);
+	var I111l11II111l1l111IlIllII = llIl1IllI1llII111111l1I11(-1);
+	var Il1l11Il1ll1IIIIlIl1ll11l = l11l1lIlIIl1IIll11IIl1II1(1, 1, "tr3 td42", -1);
+	var II1l1lll11lI1l11I111IIllI = llIl1IllI1llII111111l1I11(-1);
+	var I11Il11IIIIl11I1111IlIIl1 = l11l1lIlIIl1IIll11IIl1II1(1, 1, "tr3 td42", -1);
+	var IIIlIlI1IlIlI1I1IlIllI1ll = l11l1lIlIIl1IIll11IIl1II1(1, 1, "tr4 td43", -1);
+	var lIIIIIIIl1Ill11111lIl1lII = l11l1lIlIIl1IIll11IIl1II1(1, 1, "tr1 td4", -1);
+	var I11lIII11lllIl1IlIIllIllI = llIl1IllI1llII111111l1I11(-1);
+	var I11llIll1I1l1lllI111I1III = l11l1lIlIIl1IIll11IIl1II1(1, 1, "tr15 td39", -1);
+	var lI11IIIIIIlI11l1IIllIlIl1 = llIl1IllI1llII111111l1I11(-1);
+	var I1Il11l1I11Il1lI1l1I11lI1 = l11l1lIlIIl1IIll11IIl1II1(1, 1, "tr1 td21", -1);
+	var lI11111Il1llIlIII11lIll1I = l11l1lIlIIl1IIll11IIl1II1(1, 1, "tr4 td42", -1);
+	var lI11IIlllIllIIIl1Il1llIIl = l11l1lIlIIl1IIll11IIl1II1(1, 1, "tr6 td14", -1);
+	var I1lIIlIlIll1lIlI11lI1l1II = l11l1lIlIIl1IIll11IIl1II1(1, 1, "tr10 td18", -1);
+	var l1l1IIIII1lIllII111lI11II = l11l1lIlIIl1IIll11IIl1II1(1, 1, "tr10 td18", -1);
+	var IllI1I11Il11III1I1lllI1II = l11l1lIlIIl1IIll11IIl1II1(1, 1, "tr4 td28", -1);
+	var IIl111lI1lIlIIllll1Il111I = l11l1lIlIIl1IIll11IIl1II1(1, 1, "tr6 td4", -1);
+	var I1I1II1IIII1Il1lI1l11II1l = l11l1lIlIIl1IIll11IIl1II1(1, 1, "tr15 td18", -1);
+	var llIl1IIll11lIl1I1IlIIIII1 = llIl1IllI1llII111111l1I11(-1);
+	var I1I1III1I11IlIllI1l11lIll = llIl1IllI1llII111111l1I11(-1);
+	var llIIlIIll1IIIllIII1II1II1 = l11l1lIlIIl1IIll11IIl1II1(1, 1, "tr2 td38", -1);
+	var IlI1IIIIllI1l111111l111I1 = l11l1lIlIIl1IIll11IIl1II1(1, 1, "tr13 td17", -1);
+	var l1I1l1l1IlIIlI1lI1I1I11l1 = l11l1lIlIIl1IIll11IIl1II1(1, 1, "tr13 td20", -1);
+	var III111lI1l11Il1I1ll1l11ll = l11l1lIlIIl1IIll11IIl1II1(1, 3, "tr2 td5", -1);
+	var IlIll11l1111I111ll1111Il1 = l11l1lIlIIl1IIll11IIl1II1(1, 1, "tr10 td18", -1);
+	var I11l1lllllI11Il1l1lI11I11 = l11l1lIlIIl1IIll11IIl1II1(1, 1, "tr3 td43", -1);
+	var lIlII1IlIl1II1l1IIlIlI1lI = l11l1lIlIIl1IIll11IIl1II1(1, 1, "tr6 td11", -1);
+	var Il11IlIl1III11l1IIl1lIlII = l11l1lIlIIl1IIll11IIl1II1(1, 1, "tr12 td28", -1);
+	var IIlllI1lIll1I11l1111l111I = llIl1IllI1llII111111l1I11(-1);
+	var llll11I1llI1l1ll1l1III1II = l11l1lIlIIl1IIll11IIl1II1(1, 1, "tr10 td31", -1);
+	var l1IIlI1II1lIlll1l1IlIlIIl = llIl1IllI1llII111111l1I11(-1);
+	var Ill1l1lIII1Il1lI1lIlIlI11 = l11l1lIlIIl1IIll11IIl1II1(1, 1, "tr5 td4", -1);
+	var II1IIIIIl1IIl11lII1ll1llI = llIl1IllI1llII111111l1I11(-1);
+	var II1l1I1l11Ill1111IIll1III = llIl1IllI1llII111111l1I11(-1);
+	var l1IlIIll1l11lII11l1l1lIlI = l11l1lIlIIl1IIll11IIl1II1(1, 1, "tr6 td11", -1);
+	var llIlI11IIl1lIII11llIIll1l = l11l1lIlIIl1IIll11IIl1II1(1, 2, "tr4 td10", -1);
+	var I1Ill1lIlllIIlII11lIIl11l = l11l1lIlIIl1IIll11IIl1II1(1, 1, "tr3 td28", -1);
+	var lIIl1lI11l1ll1llIIIllI1Il = l11l1lIlIIl1IIll11IIl1II1(1, 1, "tr9 td16", -1);
+	var I1lIllI1IIlIlII1IlIlIlI11 = l11l1lIlIIl1IIll11IIl1II1(1, 1, "tr5 td9", -1);
+	var I1111I1l1II11Il1lI11l1III = l11l1lIlIIl1IIll11IIl1II1(1, 1, "tr3 td43", -1);
+	var Ill1ll1I11l1I11l1Il1lI1II = l11l1lIlIIl1IIll11IIl1II1(1, 1, "tr11 td28", -1);
+	var l1IIIl11lIIl1III1IlIl1111 = llIl1IllI1llII111111l1I11(-1);
+	var l1Il11I1IIlIIlI11lI1llIII = l11l1lIlIIl1IIll11IIl1II1(1, 1, "tr4 td42", -1);
+	var I1l1lIl1111I111l1I111I1lI = l11l1lIlIIl1IIll11IIl1II1(1, 1, "tr4 td42", -1);
+	var lllIIIIl11l1l1l1lI1l1lI1l = l11l1lIlIIl1IIll11IIl1II1(1, 1, "tr10 td28", -1);
+	var Il11I11ll1lII1Il1l111Il1I = l11l1lIlIIl1IIll11IIl1II1(1, 1, "tr3 td36", -1);
+	var I1l1lI1IIll1lll1III1IllIl = llIl1IllI1llII111111l1I11(-1);
+	var IIlIII1I111Il11IlIIl11lII = l11l1lIlIIl1IIll11IIl1II1(1, 1, "tr11 td30", -1);
+	var IlIIlI1I1I11IIlIlI1IIIll1 = l11l1lIlIIl1IIll11IIl1II1(1, 1, "tr0 td1", -1);
+	var IllIl111I1II11IlIIlI1IllI = l11l1lIlIIl1IIll11IIl1II1(1, 1, "tr3 td43", -1);
+	var I1lII11IlIlIl1I1lllIIlIll = llIl1IllI1llII111111l1I11(-1);
+	var llI1IIll1Il1llllI1lIIlIlI = l11l1lIlIIl1IIll11IIl1II1(1, 1, "tr1 td2", -1);
+	var IlI11l11llIl11111llIIlI1I = llIl1IllI1llII111111l1I11(-1);
+	var I1l1IIIIl1ll1lllII11lI111 = l11l1lIlIIl1IIll11IIl1II1(1, 1, "tr12 td35", -1);
+	var lIIlllllIIlllIIll11I1Il1l = llIl1IllI1llII111111l1I11(-1);
+	var I1II11I1I1lIlIlI1IlII1ll1 = l11l1lIlIIl1IIll11IIl1II1(1, 3, "tr1 td5", -1);
+	var l11II1l1l1111l1Il1llI1111 = l11l1lIlIIl1IIll11IIl1II1(1, 1, "tr1 td6", -1);
+	var I1l1Il1lI1I11II1IlI1II11l = l11l1lIlIIl1IIll11IIl1II1(1, 1, "tr3 td28", -1);
+	var IlIIIlIlllIIl11l1IlIl1Il1 = l11l1lIlIIl1IIll11IIl1II1(1, 1, "tr6 td4", -1);
+	var I1l1lIIllIl1IIllIlII1111I = l11l1lIlIIl1IIll11IIl1II1(1, 1, "tr3 td42", -1);
+	var IIlIIlI1l1l11Ill1IllIllI1 = l11l1lIlIIl1IIll11IIl1II1(1, 1, "tr3 td6", -1);
+	var IlI1lI1lIl11IlI1IlIIlIl1I = llIl1IllI1llII111111l1I11(-1);
+	var l1lIIll1I11IIlIIl1lI11llI = l11l1lIlIIl1IIll11IIl1II1(1, 1, "tr14 td33", -1);
+	var IlllIlIIIlI111l11III1I1I1 = l11l1lIlIIl1IIll11IIl1II1(1, 1, "tr12 td18", -1);
+	var llIIlllIllI11ll1lI1l1l1I1 = l11l1lIlIIl1IIll11IIl1II1(1, 1, "tr4 td43", -1);
+	var Ill11lllIl111IIl11IlIlIll = l11l1lIlIIl1IIll11IIl1II1(1, 1, "tr3 td42", -1);
+	var lIl1lIllIIII11I1lI1lII1Il = l11l1lIlIIl1IIll11IIl1II1(1, 1, "tr19 td42", -1);
+	var I1IIlIl111llIl1I1l11Il1I1 = llIl1IllI1llII111111l1I11(-1);
+	var Il11I1III1II11lIl11I1l1II = l11l1lIlIIl1IIll11IIl1II1(1, 1, "tr7 td14", -1);
+	var IIII1llIl1ll1I11lIlll11lI = l11l1lIlIIl1IIll11IIl1II1(1, 2, "tr6 td15", -1);
+	var lIllII1I1l1ll1I1IIll111lI = l11l1lIlIIl1IIll11IIl1II1(1, 1, "tr3 td43", -1);
+	var I11lIllll1II11IIllllI1II1 = l11l1lIlIIl1IIll11IIl1II1(1, 2, "tr3 td32", -1);
+	var Il1Il11IIIIIl1II1III11lll = l11l1lIlIIl1IIll11IIl1II1(1, 1, "tr3 td42", -1);
+	var IllI1Ill111IIIl1llIIlllll = l11l1lIlIIl1IIll11IIl1II1(1, 1, "tr6 td11", -1);
+	var lII1IIlIl11Il1111l1IlIIII = l11l1lIlIIl1IIll11IIl1II1(1, 1, "tr12 td19", -1);
+	var IIl1l1lI1llI1lI1lII1llll1 = l11l1lIlIIl1IIll11IIl1II1(1, 1, "tr6 td11", -1);
+	var I1I1IlllI11ll1II11llIlI11 = l11l1lIlIIl1IIll11IIl1II1(1, 1, "tr6 td11", -1);
+	var IllI1ll1I1I111I1l1l1l1I1l = l11l1lIlIIl1IIll11IIl1II1(1, 1, "tr10 td18", -1);
+	var ll111llIIlIlI1lI111ll1IlI = l11l1lIlIIl1IIll11IIl1II1(1, 1, "tr3 td6", -1);
+	var Ill11Il1l1l1lII1l11ll1lII = llIl1IllI1llII111111l1I11(-1);
+	var IlllllIllI1lIIl1IIIlll1I1 = llIl1IllI1llII111111l1I11(-1);
+	var lI1I1l111lIIlI1l11lI11l1I = l11l1lIlIIl1IIll11IIl1II1(1, 1, "tr1 td4", -1);
+	var lllI1Illl1lIl11I1IIllllII = llIl1IllI1llII111111l1I11(-1);
+	var IIIlI1lIlll1IlI1lIlllIII1 = l11l1lIlIIl1IIll11IIl1II1(1, 1, "tr1 td3", -1);
+	var I1I11l11IllIIl1I1III1lII1 = llIl1IllI1llII111111l1I11(-1);
+	var lIlI1IIIl1I1Il1I1Ill1lI11 = l11l1lIlIIl1IIll11IIl1II1(1, 1, "tr2 td31", -1);
+	var Ill1lIlllI1lllIlIlI1II1l1 = l11l1lIlIIl1IIll11IIl1II1(1, 3, "tr1 td5", -1);
+	var I1llII1l11llIll1II1llIIIl = llIl1IllI1llII111111l1I11(-1);
+	var lIIIl1III11lIllI1lI1II11I = llIl1IllI1llII111111l1I11(-1);
+	var III11Ill1ll11I11l111IlI1I = l11l1lIlIIl1IIll11IIl1II1(1, 1, "tr5 td6", -1);
+	var lll1l1lllII1lIlIll1Illl1I = l11l1lIlIIl1IIll11IIl1II1(1, 1, "tr6 td6", -1);
+	var l1lIllIlIIlIIIllllllIl111 = llIl1IllI1llII111111l1I11(-1);
+	var l11II1l1II1I1llIIlIIIl1I1 = l11l1lIlIIl1IIll11IIl1II1(1, 1, "tr6 td4", -1);
+	var l1ll1111lIl111I1l1IIIIlIl = l11l1lIlIIl1IIll11IIl1II1(1, 1, "tr10 td18", -1);
+	var I1IlIlI1111l1l1II11lIII11 = l11l1lIlIIl1IIll11IIl1II1(1, 1, "tr3 td42", -1);
+	var l11IllIllI1IlIllll1IlII1l = l11l1lIlIIl1IIll11IIl1II1(1, 1, "tr6 td6", -1);
+	var IIIllll11II11l11l11111l1I = llIl1IllI1llII111111l1I11(-1);
+	var IlI11I1IlIIl1IllIll1IllIl = l11l1lIlIIl1IIll11IIl1II1(1, 1, "tr13 td28", -1);
+	var llIII1ll1IlIIIIIIl1l11II1 = l11l1lIlIIl1IIll11IIl1II1(1, 1, "tr4 td42", -1);
+	var l1IlI1I11lIl1ll1I11lIII1l = l11l1lIlIIl1IIll11IIl1II1(1, 1, "tr1 td43", -1);
+	var Il11IlIIlIIlllI11I1l1l1I1 = l11l1lIlIIl1IIll11IIl1II1(1, 1, "tr10 td39", -1);
+	var ll1lI1llll1l1I1Il11lI1Il1 = llIl1IllI1llII111111l1I11(-1);
+	var llIII11lIlllIIlII1lllI1Il = l11l1lIlIIl1IIll11IIl1II1(1, 1, "tr7 td12", -1);
+	var I11ll1IlI1IllllIlIlllIl11 = l11l1lIlIIl1IIll11IIl1II1(1, 1, "tr15 td18", -1);
+	var II1Il1lIIIlI1IIlll1lIl11l = l11l1lIlIIl1IIll11IIl1II1(1, 1, "tr3 td17", -1);
+	var lI1I11llIll1IlIIlIIIlI1lI = llIl1IllI1llII111111l1I11(-1);
+	var llII1l11IIlll1IllIlIIlIIl = llIl1IllI1llII111111l1I11(-1);
+	var IllI11lIIIIl1lll11llI1l1l = l11l1lIlIIl1IIll11IIl1II1(1, 1, "tr5 td8", -1);
+	var l1IlIIlllIIIl11llIIlI1IIl = l11l1lIlIIl1IIll11IIl1II1(1, 1, "tr3 td42", -1);
+	var I1IlI11IIlI1lIII1l1IlII11 = l11l1lIlIIl1IIll11IIl1II1(1, 1, "tr7 td13", -1);
+	var I11llIlIl1IIl1IIIIlI111I1 = l11l1lIlIIl1IIll11IIl1II1(1, 1, "tr3 td43", -1);
+	var llll1lIIIIl1I11111llI1IlI = l11l1lIlIIl1IIll11IIl1II1(1, 1, "tr1 td42", -1);
+	var Illl11lll1I1llIIl111lllll = l11l1lIlIIl1IIll11IIl1II1(1, 1, "tr6 td4", -1);
+	var I1I1Il1lIl1llllI1IIIlI11l = l11l1lIlIIl1IIll11IIl1II1(1, 1, "tr4 td6", -1);
+	var lIll1111I11lIIlIllllI11Il = llIl1IllI1llII111111l1I11(-1);
+	var l111I11I111I1l11IllI1lII1 = llIl1IllI1llII111111l1I11(-1);
+	var Illl1I11I1llIIl1I1III1lll = llIl1IllI1llII111111l1I11(-1);
+	var llIl1ll11Il1I1lI1l1l11I1l = llIl1IllI1llII111111l1I11(-1);
+	var Il11IIlIIlI1lII11ll111III = l11l1lIlIIl1IIll11IIl1II1(1, 1, "tr4 td42", -1);
+	var I111l1lIIIlI1ll1IIIllIl11 = llIl1IllI1llII111111l1I11(-1);
+	var lII1I1lIIl1l1llIlIl1111Il = l11l1lIlIIl1IIll11IIl1II1(1, 1, "tr3 td42", -1);
+	var l1I11I1llllI111lIll1lIIl1 = llIl1IllI1llII111111l1I11(-1);
+	var llIIl11111II11l1111l1IlII = llIl1IllI1llII111111l1I11(-1);
+	var IlIIl1llll111II1I1lI11Il1 = l11l1lIlIIl1IIll11IIl1II1(1, 1, "tr13 td22", -1);
+	var llI11I1I11lI1l1l1Il1l111I = l11l1lIlIIl1IIll11IIl1II1(1, 1, "tr16 td17", -1);
+	var Illl1lIIl1IIIl1I11I1llIl1 = l11l1lIlIIl1IIll11IIl1II1(1, 1, "tr4 td42", -1);
+	var IllI11I11I1ll1llll1lIll1I = l11l1lIlIIl1IIll11IIl1II1(1, 1, "tr15 td34", -1);
+	var lII1IIII111II11IlIIlIIlII = l11l1lIlIIl1IIll11IIl1II1(1, 2, "tr8 td15", -1);
+	var l1IllIl11llllI111II1llIII = l11l1lIlIIl1IIll11IIl1II1(1, 1, "tr12 td31", -1);
+	var l1II1lII11I1Il1IIIlII1lll = l11l1lIlIIl1IIll11IIl1II1(1, 1, "tr16 td29", -1);
+	var lIIll1lI1lIIl1I11IlIlll1l = l11l1lIlIIl1IIll11IIl1II1(1, 1, "tr3 td43", -1);
+	var I1l1lIlll1IIIl1lIllII11l1 = llIl1IllI1llII111111l1I11(-1);
+	var IlllI1lIIIlIl11l11Il1Il1I = llIl1IllI1llII111111l1I11(-1);
+	var lIlIIlIII11111IIlI111llIl = l11l1lIlIIl1IIll11IIl1II1(1, 1, "tr6 td8", -1);
+	var I1111IIIll1lII11I1lII1l11 = l11l1lIlIIl1IIll11IIl1II1(1, 1, "tr4 td43", -1);
+	var l1IlIllllIl1IlIllI1I11Ill = l11l1lIlIIl1IIll11IIl1II1(1, 1, "tr11 td18", -1);
+	var IIIIl1ll1I11lI11lIIIl1I1l = l11l1lIlIIl1IIll11IIl1II1(1, 1, "tr1 td35", -1);
+	var I1Il1lII1I11l1II1lllIll11 = l11l1lIlIIl1IIll11IIl1II1(1, 1, "tr3 td43", -1);
+	var l1Il1l1II1I11lI1I11I11l1l = l11l1lIlIIl1IIll11IIl1II1(1, 2, "tr3 td32", -1);
+	var lll11lll111lI1II1IIlIlIIl = llIl1IllI1llII111111l1I11(-1);
+	var lI11Il1IIIlllI1IIIIIlll1l = l11l1lIlIIl1IIll11IIl1II1(1, 2, "tr4 td32", -1);
+	var lI11I1IlI1IllIl1l1I11IIl1 = llIl1IllI1llII111111l1I11(-1);
+	var l111Ill1l1lllIl11ll1IllI1 = llIl1IllI1llII111111l1I11(-1);
+	var I111l1I11II1II111l1IIlI11 = l11l1lIlIIl1IIll11IIl1II1(1, 1, "tr14 td20", -1);
+	lI11III1II11lIlIlI1II11lI.innerHTML = "<P class=\"p3 ft4\">Jurisdiktion</P>";
+	I1IIIII1lIlI1IllIlIIIlI1I.innerHTML = "<P class=\"p3 ft3\">den utsträckning de inte otillbörligt hindrar eller fördröjer ett effektivt</P>";
+	IIl1l11Il11l11111IIl111l1.innerHTML = "<P class=\"p90 ft3\">1. The competent authority of</P>";
+	llII1III111lI1I1l1l1lIII1.innerHTML = "<P class=\"p3 ft17\">Article 7</P>";
+	l1IllIl11llllI111II1llIII.innerHTML = "<P class=\"p90 ft3\">being investigated</P>";
+	IlI1IIIIllI1l111111l111I1.innerHTML = "<P class=\"p160 ft3\">Av artikel 5.6</P>";
+	l11II1l1l1111l1Il1llI1111.innerHTML = "<P class=\"p16 ft3\">3</P>";
+	II1Il1lIIIlI1IIlll1lIl11l.innerHTML = "<P class=\"p3 ft3\">parten till den</P>";
+	l1I1l1l1IlIIlI1lI1I1I11l1.innerHTML = "<P class=\"p3 ft3\">remain</P>";
+	lI11Il1IIIlllI1IIIIIlll1l.innerHTML = "<P class=\"p3 ft3\">upon request information for the</P>";
+	lllIII1Illl11llll1IllllIl.innerHTML = "<P class=\"p3 ft3\">the conduct</P>";
+	I11llIll1I1l1lllI111I1III.innerHTML = "<P class=\"p3 ft19\">Termination</P>";
+	I1Il1lII1I11l1II1lllIll11.innerHTML = "<P class=\"p3 ft2\">&nbsp;</P>";
+	IlII1II1Il1I1II1IllIllI11.innerHTML = "<P class=\"p107 ft3\">under the Prop. 2012/13:88</P>";
+	Illl1IlIlIlI1lIll1llI11I1.innerHTML = "<P class=\"p3 ft2\">&nbsp;</P>";
+	lI1I1l111lIIlI1l11lI11l1I.innerHTML = "<P class=\"p16 ft3\">4</P>";
+	Il11IlIl1III11l1IIl1lIlII.innerHTML = "<P class=\"p16 ft3\">9</P>";
+	l11IllIllI1IlIllll1IlII1l.innerHTML = "<P class=\"p16 ft8\">20</P>";
+	l1IlIIll1l11lII11l1l1lIlI.innerHTML = "<P class=\"p16 ft8\">4.2.4 ........................</P>";
+	I1111I1l1II11Il1lI11l1III.innerHTML = "<P class=\"p3 ft2\">&nbsp;</P>";
+	Il1lIIIl11IIl1lI1lIll1I1l.innerHTML = "<P class=\"p16 ft8\">21</P>";
+	IlI1Illllll11IlI1II111II1.innerHTML = "<P class=\"p3 ft3\">avtalsslutande parterna. Av punkt 2 framgår att avtalet ska tillämpas även</P>";
+	lIlI1IIl1lIIll1l1II1IIIIl.innerHTML = "<P class=\"p17 ft3\">4.1</P>";
+	Il1Il11I111I1IIll1I1l1Il1.innerHTML = "<P class=\"p3 ft8\">&nbsp;</P>";
+	llllIl1l1l1I111lII1I1Illl.innerHTML = "<P class=\"p3 ft3\">behöriga myndigheten i den anmodande parten ska</P>";
+	I1lll1II111I1lll111Il11l1.innerHTML = "<P class=\"p3 ft7\">Definitioner</P>";
+	IIl1l1lI1llI1lI1lII1llll1.innerHTML = "<P class=\"p16 ft8\">4.2.3 .................</P>";
+	IlIl111IIllII1I1l11IllIlI.innerHTML = "<P class=\"p106 ft3\">information</P>";
+	l1llIIll1l1ll1lIll11II11I.innerHTML = "<P class=\"p3 ft18\">the normal</P>";
+	IlIlIIl1l1lIl11II11IlIl1I.innerHTML = "<P class=\"p3 ft4\">Sekretess</P>";
+	IllI11lIIIIl1lll11llI1l1l.innerHTML = "<P class=\"p3 ft7\">Avtalets syfte och tillämpningsområde</P>";
+	l1III1l1lI111lIIIIllI11l1.innerHTML = "<P class=\"p16 ft3\">15</P>";
+	III1lllIll1ll1I11IllIIIII.innerHTML = "<P class=\"p3 ft17\">Article 4</P>";
+	l11IIl1l11ll11lI1llIlll11.innerHTML = "<P class=\"p108 ft18\">course of</P>";
+	llIIlllIllI11ll1lI1l1l1I1.innerHTML = "<P class=\"p3 ft2\">&nbsp;</P>";
+	lll1l1lllII1lIlIll1Illl1I.innerHTML = "<P class=\"p16 ft8\">19</P>";
+	lIIII11II11I1Il1l1IlI1l11.innerHTML = "<P class=\"p17 ft3\">4.2</P>";
+	I1IlIlI1111l1l1II11lIII11.innerHTML = "<P class=\"p3 ft3\">vid administration och verkställighet av parternas interna lagstiftning</P>";
+	Ill1l1lIII1Il1lI1lIlIlI11.innerHTML = "<P class=\"p3 ft2\">&nbsp;</P>";
+	l1I1Ill11IIllI1IllIIlIlIl.innerHTML = "<P class=\"p3 ft8\">&nbsp;</P>";
+	I11IIIlI1lI11I1lIlll1l1lI.innerHTML = "<P class=\"p3 ft2\">&nbsp;</P>";
+	Il11IIlIIlI1lII11ll111III.innerHTML = "<P class=\"p3 ft3\">omfattar avtalet skatter av varje slag och beskaffenhet som tas ut i de</P>";
+	IIIlI1lIlll1IlI1lIlllIII1.innerHTML = "<P class=\"p2 ft1\">2012/13:88</P>";
+	lII1IIlIl11Il1111l1IlIIII.innerHTML = "<P class=\"p3 ft2\">&nbsp;</P>";
+	I1l1Il1lI1I11II1IlI1II11l.innerHTML = "<P class=\"p3 ft2\">&nbsp;</P>";
+	III111lI1l11Il1I1ll1l11ll.innerHTML = "<P class=\"p17 ft3\">upplysningar i skatteärenden ............................................................</P>";
+	I1l1IIIIIl1l1IlIl1I11l1II.innerHTML = "<P class=\"p3 ft3\">that they do not unduly prevent or</P>";
+	I1ll11lIII11l11111II1IIl1.innerHTML = "<P class=\"p3 ft4\">Taxes covered</P>";
+	llIlIIII1I1lllllIll1l1I1I.innerHTML = "<P class=\"p3 ft17\">Artikel 2</P>";
+	Il1llII111IIlIll111llI1lI.innerHTML = "<P class=\"p17 ft3\">Ärendet och dess beredning............................................................</P>";
+	l1l1II11II1lIIIll111l11lI.innerHTML = "<P class=\"p3 ft2\">&nbsp;</P>";
+	lIl11IIII1lll1Il11lllIl1I.innerHTML = "<P class=\"p3 ft17\">Artikel 1</P>";
+	l1Il11I1IIlIIlI11lI1llIII.innerHTML = "<P class=\"p160 ft3\">I <SPAN class=\"ft4\">artikel 2 </SPAN>finns en bestämmelse om jurisdiktion, i vilken anges att den</P>";
+	Il11I1III1II11lIl11I1l1II.innerHTML = "<P class=\"p16 ft8\">22</P>";
+	Il11IlIIlIIlllI11I1l1l1I1.innerHTML = "<P class=\"p3 ft17\">Article 11</P>";
+	l111IllIlII1Il1111lllI1lI.innerHTML = "<P class=\"p16 ft3\">4.2.1 ...........</P>";
+	l1ll1111lIl111I1l1IIIIlIl.innerHTML = "<P class=\"p3 ft17\">Artikel 11</P>";
+	I11I1IlIl111lll1l11IlIIII.innerHTML = "<P class=\"p3 ft2\">&nbsp;</P>";
+	llIIlIIll1IIIllIII1II1II1.innerHTML = "<P class=\"p3 ft3\">arising on or after the date on</P>";
+	l11l111I1lI1Illl1I1I11II1.innerHTML = "<P class=\"p3 ft3\">Prop. 2012/13:88</P>";
+	IllI1I11Il11III1I1lllI1II.innerHTML = "<P class=\"p3 ft2\">&nbsp;</P>";
+	lIlI1IIIl1I1Il1I1Ill1lI11.innerHTML = "<P class=\"p3 ft2\">&nbsp;</P>";
+	l1l1IIIII1lIllII111lI11II.innerHTML = "<P class=\"p3 ft17\">Artikel 7</P>";
+	lIlII1IlIl1II1l1IIlIlI1lI.innerHTML = "<P class=\"p16 ft8\">4.2.5 ..........................................................</P>";
+	IllIllll1IIIllIlll1IlIII1.innerHTML = "<P class=\"p3 ft3\">e) the term ”person” includes an</P>";
+	l11II1l1II1I1llIIlIIIl1I1.innerHTML = "<P class=\"p3 ft8\">&nbsp;</P>";
+	l1IlI11ll1lI1lllllI11llll.innerHTML = "<P class=\"p3 ft3\">på skatter av samma eller i huvudsak likartat slag som efter under-</P>";
+	ll111llIIlIlI1lI111ll1IlI.innerHTML = "<P class=\"p16 ft3\">17</P>";
+	IIlI1ll1l1ll1111I11lIIIl1.innerHTML = "<P class=\"p18 ft6\">..................................................................................</P>";
+	IlIIll1lIll11llIl1IlIl1l1.innerHTML = "<P class=\"p3 ft3\">Prop. 2012/13:88</P>";
+	l11I1ll1lllIl1ll1lIIIlIII.innerHTML = "<P class=\"p3 ft7\">Sekretess</P>";
+	lIIIlIl11Il1I1llIll111Il1.innerHTML = "<P class=\"p3 ft8\">&nbsp;</P>";
+	I1111IIIll1lII11I1lII1l11.innerHTML = "<P class=\"p3 ft2\">&nbsp;</P>";
+	I1Il11l1I11Il1lI1l1I11lI1.innerHTML = "<P class=\"p3 ft2\">&nbsp;</P>";
+	IlIll11l1111I111ll1111Il1.innerHTML = "<P class=\"p3 ft17\">Artikel 3</P>";
+	lIllll11Il1l11I1I1l1I1l11.innerHTML = "<P class=\"p17 ft3\">Avtalet mellan Sverige och Panama om utbyte av upplysningar i</P>";
+	l1IIIll1l11I1lIIIIlI1l1lI.innerHTML = "<P class=\"p3 ft18\">effective</P>";
+	lI1llIlI11111l11lII11l1II.innerHTML = "<P class=\"p3 ft3\">att avtalet omfattar utbyte av upplysningar som kan antas vara relevanta</P>";
+	l11lIl1ll1l1I11IllIIl1lll.innerHTML = "<P class=\"p3 ft3\">purposes referred to in Article 1.</P>";
+	I1Ill11II1IlI1I1lI1lIIlll.innerHTML = "<P class=\"p90 ft4\">information upon</P>";
+	I1IlI11IIlI1lIII1l1IlII11.innerHTML = "<P class=\"p16 ft8\">Slutbestämmelser ............................................</P>";
+	llIll1III11l1IIIll11lI1Il.innerHTML = "<P class=\"p18 ft3\">Lagförslaget .....................................................................</P>";
+	I11lIllll1II11IIllllI1II1.innerHTML = "<P class=\"p3 ft3\">the requested Party shall provide</P>";
+	IllI1ll1I1I111I1l1l1l1I1l.innerHTML = "<P class=\"p3 ft17\">Artikel 8</P>";
+	lI1111IIlll11l1l1l1IlI1Il.innerHTML = "<P class=\"p17 ft3\">skatteärenden</P>";
+	Il111l1I1IIIlIllI1IIIllI1.innerHTML = "<P class=\"p22 ft1\">3</P>";
+	lIIl1lI11l1ll1llIIIllI1Il.innerHTML = "<P class=\"p22 ft1\">1</P>";
+	Ill1Il1I11Il1II1IIlIIIlIl.innerHTML = "<P class=\"p3 ft17\">Article 1</P>";
+	I1II11I1I1lIlIlI1IlII1ll1.innerHTML = "<P class=\"p17 ft3\">Förslag till riksdagsbeslut .................................................................</P>";
+	llI111I11ll1l11lIlll1lIIl.innerHTML = "<P class=\"p3 ft17\">Article 8</P>";
+	Il11I11ll1lII1Il1l111Il1I.innerHTML = "<P class=\"p3 ft2\">&nbsp;</P>";
+	l1IIl1IlIl1IIIIl1111II1Il.innerHTML = "<P class=\"p3 ft4\">Object and scope of the Agreement</P>";
+	IlI11I1IlIIl1IllIll1IllIl.innerHTML = "<P class=\"p16 ft3\">7</P>";
+	llIl1l1I1l1IlIII11Il1lll1.innerHTML = "<P class=\"p16 ft3\">17</P>";
+	IlIIIlIlllIIl11l1IlIl1Il1.innerHTML = "<P class=\"p3 ft8\">&nbsp;</P>";
+	Ill1lI1I1lIl1I1Il11l1lllI.innerHTML = "<P class=\"p3 ft3\">applicable</P>";
+	II111l1I111l111IIll1lIl1I.innerHTML = "<P class=\"p3 ft19\">Jurisdiction</P>";
+	I1lIIlIlIll1lIlI11lI1l1II.innerHTML = "<P class=\"p3 ft17\">Artikel 6</P>";
+	llI1IIll1Il1llllI1lIIlIlI.innerHTML = "<P class=\"p3 ft2\">&nbsp;</P>";
+	lllIlIl111lIlIlIlIlllll1l.innerHTML = "<P class=\"p3 ft2\">&nbsp;</P>";
+	lIl1lIllIIII11I1lI1lII1Il.innerHTML = "<P class=\"p3 ft55\">&nbsp;</P>";
+	I1l1IlIl1I1Il1Il1llllIlII.innerHTML = "<P class=\"p3 ft2\">&nbsp;</P>";
+	lI11Il11llI11lIlIl1I1l1Il.innerHTML = "<P class=\"p3 ft8\">&nbsp;</P>";
+	IllIII11I1Illl11I1lII11lI.innerHTML = "<P class=\"p1 ft1\">Informationsutbytesavtal med Panama</P>";
+	lIlIIlIII11111IIlI111llIl.innerHTML = "<P class=\"p3 ft7\">Utbyte av upplysningar på begäran</P>";
+	Illl1IllIlI1I1IlIII1llIII.innerHTML = "<P class=\"p3 ft4\">request</P>";
+	lllIIlllIl1lll1lIl1lIlI1l.innerHTML = "<P class=\"p3 ft17\">Article 3</P>";
+	IIlIIlll111II1ll1l11Illl1.innerHTML = "<P class=\"p3 ft3\">Prop. 2012/13:88</P>";
+	I11III11IlII1I11I1l1IIIIl.innerHTML = "<P class=\"p3 ft3\">obtain the</P>";
+	IlIIIIII1l1Il11lllll1I1Il.innerHTML = "<P class=\"p3 ft3\">utbyte av upplysningar. Punkten överensstämmer med motsvarande</P>";
+	I1l1lIIllIl1IIllIlII1111I.innerHTML = "<P class=\"p3 ft3\">dade partens lagstiftning eller administrativa praxis förblir tillämpliga i</P>";
+	IllIlIIIIIllIIllI1l11IIII.innerHTML = "<P class=\"p3 ft17\">Article 5</P>";
+	II1II1ll1IIl1l1Il1Il1ll1l.innerHTML = "<P class=\"p3 ft2\">&nbsp;</P>";
+	lllllI1IlII111l1l1IIlI1Il.innerHTML = "<P class=\"p3 ft2\">&nbsp;</P>";
+	II1l1IIII1II1lIIIIIlII11l.innerHTML = "<P class=\"p23 ft1\">Ärendet och dess beredning</P>";
+	Il1l11Il1ll1IIIIlIl1ll11l.innerHTML = "<P class=\"p3 ft3\">av sådana skatter, för indrivning och andra exekutiva åtgärder beträf-</P>";
+	II1Illll11II1I1I11I1I11II.innerHTML = "<P class=\"p3 ft8\">&nbsp;</P>";
+	I1Ill1lIlllIIlII11lIIl11l.innerHTML = "<P class=\"p3 ft2\">&nbsp;</P>";
+	ll1I1l1111IIlll1IlII1I111.innerHTML = "<P class=\"p160 ft3\">I <SPAN class=\"ft4\">artikel 3 </SPAN>anges de skatter som omfattas av avtalet. Enligt punkt 1</P>";
+	Il1llIlI1111l11ll1II11llI.innerHTML = "<P class=\"p3 ft2\">&nbsp;</P>";
+	ll1II1Ill1II1111lIl1IlII1.innerHTML = "<P class=\"p3 ft2\">&nbsp;</P>";
+	lI11IIlllIllIIIl1Il1llIIl.innerHTML = "<P class=\"p16 ft8\">22</P>";
+	l1IlI1I11lIl1ll1I11lIII1l.innerHTML = "<P class=\"p3 ft2\">&nbsp;</P>";
+	l111l1I1I1IIIlIIlII1lI11l.innerHTML = "<P class=\"p16 ft3\">3</P>";
+	l1IlIIlllIIIl11llIIlI1IIl.innerHTML = "<P class=\"p3 ft3\">part som har anmodats att lämna upplysningar inte är skyldig att lämna</P>";
+	I11I1lllll1111lIlllIIIIII.innerHTML = "<P class=\"p3 ft17\">Article 6</P>";
+	Ill11llII1lIlI1l11I1lI11I.innerHTML = "<P class=\"p3 ft2\">&nbsp;</P>";
+	IllI1Ill111IIIl1llIIlllll.innerHTML = "<P class=\"p16 ft8\">4.2.6 ........................................................</P>";
+	I11ll1IlI1IllllIlIlllIl11.innerHTML = "<P class=\"p3 ft4\">Kostnader</P>";
+	lI1II1l11I111I1IIl11IIl1l.innerHTML = "<P class=\"p3 ft2\">&nbsp;</P>";
+	lII1I1lIIl1l1llIlIl1111Il.innerHTML = "<P class=\"p3 ft3\">som kan antas vara relevanta för fastställande, beskattning och uppbörd</P>";
+	lIllII1I1l1ll1I1IIll111lI.innerHTML = "<P class=\"p3 ft2\">&nbsp;</P>";
+	ll1IllIIIl111llI1IIlII11I.innerHTML = "<P class=\"p3 ft3\">framgår att den behöriga myndigheten i den anmodade</P>";
+	lIlIlIlI1lIlllI111IIIIlll.innerHTML = "<P class=\"p3 ft2\">&nbsp;</P>";
+	lllllIl1IIII11lIlIlIIll11.innerHTML = "<P class=\"p3 ft17\">Article 2</P>";
+	Ill11lllIl111IIl11IlIlIll.innerHTML = "<P class=\"p3 ft3\">bestämmelser i modellavtalet.</P>";
+	I1lIll1lIll1l11l1lIlIIl1I.innerHTML = "<P class=\"p3 ft2\">&nbsp;</P>";
+	lI1l11II1lI1lIIlIIl111III.innerHTML = "<P class=\"p3 ft2\">&nbsp;</P>";
+	IlIlI11II1ll1IlllIllIIIl1.innerHTML = "<P class=\"p3 ft18\">exchange of</P>";
+	l111IlIIllI1lIIII1l1lIl11.innerHTML = "<P class=\"p16 ft3\">4</P>";
+	I11llIlIl1IIl1IIIIlI111I1.innerHTML = "<P class=\"p3 ft2\">&nbsp;</P>";
+	I1l1IIIIl1ll1lllII11lI111.innerHTML = "<P class=\"p115 ft3\">be required to obtain or provide</P>";
+	lIl1lIII11lI1llII111I11Il.innerHTML = "<P class=\"p3 ft2\">&nbsp;</P>";
+	I1111l111l1IlI1lIllI111I1.innerHTML = "<P class=\"p16 ft3\">18</P>";
+	Il1I1I1IllI1lIlIl1IlIlIIl.innerHTML = "<P class=\"p3 ft17\">Artikel 4</P>";
+	lI1ll1ll11II11IIIllllllIl.innerHTML = "<P class=\"p3 ft2\">&nbsp;</P>";
+	I1lIllI1IIlIlII1IlIlIlI11.innerHTML = "<P class=\"p3 ft2\">&nbsp;</P>";
+	lII1IIII111II11IlIIlIIlII.innerHTML = "<P class=\"p16 ft10\">Utdrag ur protokoll vid regeringssammanträde den 14 mars 2013.........</P>";
+	Illl1lIIl1IIIl1I11I1llIl1.innerHTML = "<P class=\"p3 ft3\">avseende skatter som omfattas av avtalet. Däri inbegrips upplysningar</P>";
+	ll1III1l1lII1ll1lll1lI1I1.innerHTML = "<P class=\"p3 ft2\">&nbsp;</P>";
+	llI1ll1ll11lllI1111l1lIll.innerHTML = "<P class=\"p3 ft3\">of the requesting Party, or any</P>";
+	I111l1I11II1II111l1IIlI11.innerHTML = "<P class=\"p3 ft18\">delay</P>";
+	IllIl111I1II11IlIIlI1IllI.innerHTML = "<P class=\"p3 ft2\">&nbsp;</P>";
+	IlIIl1llll111II1I1lI11Il1.innerHTML = "<P class=\"p47 ft3\">to the extent Prop. 2012/13:88</P>";
+	IIlIII1I111Il11IlIIl11lII.innerHTML = "<P class=\"p3 ft4\">Exchange of</P>";
+	lIlIlIll111l11I11IlIlIIll.innerHTML = "<P class=\"p23 ft1\">Förslag till riksdagsbeslut</P>";
+	IIIlIlI1IlIlI1I1IlIllI1ll.innerHTML = "<P class=\"p3 ft2\">&nbsp;</P>";
+	IlllIlIllIIlI1lIIIIlI1lII.innerHTML = "<P class=\"p3 ft3\">Vidare anges att de rättigheter som tillkommer personer enligt den anmo-</P>";
+	l1Il1l1II1I11lI1I11I11l1l.innerHTML = "<P class=\"p3 ft3\">Such information shall be ex-</P>";
+	llII11IIII1l11I111IIl1I1l.innerHTML = "<P class=\"p3 ft4\">Luis Laguerre</P>";
+	l1II11ll1l1IIllII11l1lI11.innerHTML = "<P class=\"p3 ft3\">laws of the requesting Party or in</P>";
+	I1I1IlllI11ll1II11llIlI11.innerHTML = "<P class=\"p16 ft8\">4.2.2 .....................................................</P>";
+	llIII11lIlllIIlII1lllI1Il.innerHTML = "<P class=\"p20 ft8\">4.2.8</P>";
+	IIII1lIllI1Il11l1llI1IIl1.innerHTML = "<P class=\"p16 ft3\">12</P>";
+	Il1Il11IIIIIl1II1III11lll.innerHTML = "<P class=\"p3 ft3\">med modellavtalet.</P>";
+	II1I11111III1lI1IllIlIIll.innerHTML = "<P class=\"p16 ft3\">2</P>";
+	llI11I1I11lI1l1l1Il1l111I.innerHTML = "<P class=\"p3 ft3\">Prop. 2012/13:88</P>";
+	IlllIlIIIlI111l11III1I1I1.innerHTML = "<P class=\"p3 ft4\">område</P>";
+	l1IlIllllIl1IlIllI1I11Ill.innerHTML = "<P class=\"p3 ft4\">Avtalets syfte och tillämpnings-</P>";
+	lIIll1lI1lIIl1I11IlIlll1l.innerHTML = "<P class=\"p3 ft2\">&nbsp;</P>";
+	llll1lIIIIl1I11111llI1IlI.innerHTML = "<P class=\"p3 ft3\">I <SPAN class=\"ft4\">artikel 1 </SPAN>anges avtalets syfte och tillämpningsområde. Av punkt 1 följer</P>";
+	llI11Il11lIllIII1I111l1ll.innerHTML = "<P class=\"p3 ft2\">&nbsp;</P>";
+	llll11I1llI1l1ll1l1III1II.innerHTML = "<P class=\"p3 ft2\">&nbsp;</P>";
+	llIlI11IIl1lIII11llIIll1l.innerHTML = "<P class=\"p18 ft3\">Informationsutbytesavtalets innehåll................................</P>";
+	IIIIl1ll1I11lI11lIIIl1I1l.innerHTML = "<P class=\"p115 ft3\">1. The requested Party shall not</P>";
+	lII1I1II1lIllIlIl11ll1I1l.innerHTML = "<P class=\"p3 ft3\">Prop. 2012/13:88</P>";
+	ll11ll1Il11l1I1l1IIIIIIl1.innerHTML = "<P class=\"p3 ft4\">Möjlighet att avslå en begäran</P>";
+	I1l1lIl1111I111l1I111I1lI.innerHTML = "<P class=\"p3 ft3\">kontrolleras av person inom dess jurisdiktion. Artikeln överensstämmer</P>";
+	IIl111lI1lIlIIllll1Il111I.innerHTML = "<P class=\"p3 ft8\">&nbsp;</P>";
+	lIIIIIIIl1Ill11111lIl1lII.innerHTML = "<P class=\"p16 ft3\">1</P>";
+	llIII1ll1IlIIIIIIl1l11II1.innerHTML = "<P class=\"p160 ft3\">I punkt 2 anges i förtydligande syfte att avtalet inte ska påverka</P>";
+	lI11II1Illl1111lIlIl11lII.innerHTML = "<P class=\"p3 ft7\">Möjlighet att avslå en begäran</P>";
+	IllI11I11I1ll1llll1lIll1I.innerHTML = "<P class=\"p3 ft19\">Possibility of declining a request</P>";
+	l1lIIll1I11IIlIIl1lI11llI.innerHTML = "<P class=\"p3 ft18\">administra-</P>";
+	I11l1lllllI11Il1l1lI11I11.innerHTML = "<P class=\"p3 ft2\">&nbsp;</P>";
+	lI11111Il1llIlIII11lIll1I.innerHTML = "<P class=\"p3 ft3\">fande skattefordringar eller för utredning eller åtal i skatteärenden.</P>";
+	lI1III11lI11lIIIlIlIII111.innerHTML = "<P class=\"p3 ft3\">enforce a provision of the tax law</P>";
+	I1IIl11lIIlIllllIllII1Il1.innerHTML = "<P class=\"p3 ft8\">&nbsp;</P>";
+	Il1l111IlIl1lI1II11llI1l1.innerHTML = "<P class=\"p16 ft8\">19</P>";
+	Ill1lI1lI111lIlI1lIIlll11.innerHTML = "<P class=\"p3 ft2\">&nbsp;</P>";
+	lIlIllIlIIIll1ll111Il111I.innerHTML = "<P class=\"p16 ft8\">20</P>";
+	l1I1l1llllll1lIIllIll1I11.innerHTML = "<P class=\"p3 ft4\">Costs</P>";
+	III11Ill1ll11I11l111IlI1I.innerHTML = "<P class=\"p16 ft3\">18</P>";
+	I11Il11IIIIl11I1111IlIIl1.innerHTML = "<P class=\"p3 ft3\">ömsesidig rättslig hjälp i brottmål.</P>";
+	llI11IllIIlII11II11lII1lI.innerHTML = "<P class=\"p3 ft2\">&nbsp;</P>";
+	Ill1lIlllI1lllIlIlI1II1l1.innerHTML = "<P class=\"p17 ft3\">Förslag till lag om avtal mellan Sverige och Panama om utbyte av</P>";
+	I1I1Il1lIl1llllI1IIIlI11l.innerHTML = "<P class=\"p16 ft3\">18</P>";
+	IIlIIlI1l1l11Ill1IllIllI1.innerHTML = "<P class=\"p16 ft3\">17</P>";
+	I1I1111l1ll1llII1lIl1lllI.innerHTML = "<P class=\"p3 ft2\">&nbsp;</P>";
+	IIlll111Il1l1lIIIIIl1III1.innerHTML = "<P class=\"p3 ft4\">Upphörande</P>";
+	lIIllI1lI1Il11lI111IIIll1.innerHTML = "<P class=\"p16 ft3\">16</P>";
+	IIII1llIl1ll1I11lIlll11lI.innerHTML = "<P class=\"p16 ft8\">5 Konsekvenser för de offentliga finanserna .....................................</P>";
+	I1I1II1IIII1Il1lI1l11II1l.innerHTML = "<P class=\"p3 ft4\">Skatter som omfattas</P>";
+	Illl11lll1I1llIIl111lllll.innerHTML = "<P class=\"p3 ft8\">&nbsp;</P>";
+	III1l1l1IIl1I1llIll11IIll.innerHTML = "<P class=\"p3 ft19\">Confidentiality</P>";
+	I11l1l11lI11l1lI111lllI11.innerHTML = "<P class=\"p3 ft7\">Kostnader</P>";
+	I1l1l1l1l1lI1l1l1I11l1lll.innerHTML = "<P class=\"p3 ft3\">upplysningar som varken innehas av dess myndigheter eller innehas eller</P>";
+	lIlIIll11IlIIlIIlIll1Il1l.innerHTML = "<P class=\"p3 ft3\">tillämpningen i de avtalsslutande parterna av bestämmelser om</P>";
+	I11111IIllII1I1l1IlIlll1l.innerHTML = "<P class=\"p3 ft3\">changed without regard to whether</P>";
+	l1l1I1I111l1I1Il1lI111llI.innerHTML = "<P class=\"p3 ft2\">&nbsp;</P>";
+	lllIIIIl11l1l1l1lI1l1lI1l.innerHTML = "<P class=\"p3 ft2\">&nbsp;</P>";
+	IlIIlI1I1I11IIlIlI1IIIll1.innerHTML = "<P class=\"p2 ft1\">Prop.</P>";
+	l1lllI11III1111Illl11I111.innerHTML = "<P class=\"p16 ft10\">23</P>";
+	Ill1ll1I11l1I11l1Il1lI1II.innerHTML = "<P class=\"p3 ft2\">&nbsp;</P>";
+	l1II1lII11I1Il1IIIlII1lll.innerHTML = "<P class=\"p3 ft3\">requesting information;</P>";
+	lllllIlIll111111IIIIIIlIl.appendChild(IllIII11I1Illl11I1lII11lI);
+	lllllIlIll111111IIIIIIlIl.appendChild(IlIIlI1I1I11IIlIlI1IIIll1);
+	lI1IIlIIIII1I1l1IlIlIl1II.appendChild(lllllIlIll111111IIIIIIlIl);
+	lIll1111I11lIIlIllllI11Il.appendChild(llI1IIll1Il1llllI1lIIlIlI);
+	lIll1111I11lIIlIllllI11Il.appendChild(IIIlI1lIlll1IlI1lIlllIII1);
+	lI1IIlIIIII1I1l1IlIlIl1II.appendChild(lIll1111I11lIIlIllllI11Il);
+	lll11llII1l1111lI1l111I1I.appendChild(lIIIIIIIl1Ill11111lIl1lII);
+	lll11llII1l1111lI1l111I1I.appendChild(I1II11I1I1lIlIlI1IlII1ll1);
+	lll11llII1l1111lI1l111I1I.appendChild(l11II1l1l1111l1Il1llI1111);
+	II1IlII1l1I1l11I1lllIl1ll.appendChild(lll11llII1l1111lI1l111I1I);
+	II1l1lll11lI1l11I111IIllI.appendChild(II1I11111III1lI1IllIlIIll);
+	II1l1lll11lI1l11I111IIllI.appendChild(Ill1lIlllI1lllIlIlI1II1l1);
+	II1l1lll11lI1l11I111IIllI.appendChild(lllIlIl111lIlIlIlIlllll1l);
+	II1IlII1l1I1l11I1lllIl1ll.appendChild(II1l1lll11lI1l11I111IIllI);
+	lllI1Illl1lIl11I1IIllllII.appendChild(Illl1IlIlIlI1lIll1llI11I1);
+	lllI1Illl1lIl11I1IIllllII.appendChild(III111lI1l11Il1I1ll1l11ll);
+	lllI1Illl1lIl11I1IIllllII.appendChild(l111IlIIllI1lIIII1l1lIl11);
+	II1IlII1l1I1l11I1lllIl1ll.appendChild(lllI1Illl1lIl11I1IIllllII);
+	II1lI1l1l1I1IlIIIIllllllI.appendChild(l111l1I1I1IIIlIIlII1lI11l);
+	II1lI1l1l1I1IlIIIIllllllI.appendChild(Il1llII111IIlIll111llI1lI);
+	II1lI1l1l1I1IlIIIIllllllI.appendChild(llIl1l1I1l1IlIII11Il1lll1);
+	II1IlII1l1I1l11I1lllIl1ll.appendChild(II1lI1l1l1I1IlIIIIllllllI);
+	IlllI1lIIIlIl11l11Il1Il1I.appendChild(lI1I1l111lIIlI1l11lI11l1I);
+	IlllI1lIIIlIl11l11Il1Il1I.appendChild(lIllll11Il1l11I1I1l1I1l11);
+	IlllI1lIIIlIl11l11Il1Il1I.appendChild(I1l1IlIl1I1Il1Il1llllIlII);
+	II1IlII1l1I1l11I1lllIl1ll.appendChild(IlllI1lIIIlIl11l11Il1Il1I);
+	llllIIIl1l1lIII1I1ll1I111.appendChild(lIlIlIlI1lIlllI111IIIIlll);
+	llllIIIl1l1lIII1I1ll1I111.appendChild(lI1111IIlll11l1l1l1IlI1Il);
+	llllIIIl1l1lIII1I1ll1I111.appendChild(IIlI1ll1l1ll1111I11lIIIl1);
+	llllIIIl1l1lIII1I1ll1I111.appendChild(ll111llIIlIlI1lI111ll1IlI);
+	II1IlII1l1I1l11I1lllIl1ll.appendChild(llllIIIl1l1lIII1I1ll1I111);
+	I1IlI1lII1Ill1l1I1I11lIll.appendChild(lllllI1IlII111l1l1IIlI1Il);
+	I1IlI1lII1Ill1l1I1I11lIll.appendChild(lIlI1IIl1lIIll1l1II1IIIIl);
+	I1IlI1lII1Ill1l1I1I11lIll.appendChild(llIll1III11l1IIIll11lI1Il);
+	I1IlI1lII1Ill1l1I1I11lIll.appendChild(IIlIIlI1l1l11Ill1IllIllI1);
+	II1IlII1l1I1l11I1lllIl1ll.appendChild(I1IlI1lII1Ill1l1I1I11lIll);
+	lIIIl1III11lIllI1lI1II11I.appendChild(ll1II1Ill1II1111lIl1IlII1);
+	lIIIl1III11lIllI1lI1II11I.appendChild(lIIII11II11I1Il1l1IlI1l11);
+	lIIIl1III11lIllI1lI1II11I.appendChild(llIlI11IIl1lIII11llIIll1l);
+	lIIIl1III11lIllI1lI1II11I.appendChild(I1I1Il1lIl1llllI1IIIlI11l);
+	II1IlII1l1I1l11I1lllIl1ll.appendChild(lIIIl1III11lIllI1lI1II11I);
+	II1l1I1l11Ill1111IIll1III.appendChild(Ill1l1lIII1Il1lI1lIlIlI11);
+	II1l1I1l11Ill1111IIll1III.appendChild(I1lIllI1IIlIlII1IlIlIlI11);
+	II1l1I1l11Ill1111IIll1III.appendChild(l111IllIlII1Il1111lllI1lI);
+	II1l1I1l11Ill1111IIll1III.appendChild(IllI11lIIIIl1lll11llI1l1l);
+	II1l1I1l11Ill1111IIll1III.appendChild(III11Ill1ll11I11l111IlI1I);
+	II1IlII1l1I1l11I1lllIl1ll.appendChild(II1l1I1l11Ill1111IIll1III);
+	IlI1llIlIIl1l1I1II111l1II.appendChild(lI11Il11llI11lIlIl1I1l1Il);
+	IlI1llIlIIl1l1I1II111l1II.appendChild(I1IIl11lIIlIllllIllII1Il1);
+	IlI1llIlIIl1l1I1II111l1II.appendChild(I1I1IlllI11ll1II11llIlI11);
+	IlI1llIlIIl1l1I1II111l1II.appendChild(I1lll1II111I1lll111Il11l1);
+	IlI1llIlIIl1l1I1II111l1II.appendChild(lll1l1lllII1lIlIll1Illl1I);
+	II1IlII1l1I1l11I1lllIl1ll.appendChild(IlI1llIlIIl1l1I1II111l1II);
+	lIllI1l1I1lI1II1II1I11Il1.appendChild(IlIIIlIlllIIl11l1IlIl1Il1);
+	lIllI1l1I1lI1II1II1I11Il1.appendChild(Il1Il11I111I1IIll1I1l1Il1);
+	lIllI1l1I1lI1II1II1I11Il1.appendChild(IIl1l1lI1llI1lI1lII1llll1);
+	lIllI1l1I1lI1II1II1I11Il1.appendChild(lIlIIlIII11111IIlI111llIl);
+	lIllI1l1I1lI1II1II1I11Il1.appendChild(Il1l111IlIl1lI1II11llI1l1);
+	II1IlII1l1I1l11I1lllIl1ll.appendChild(lIllI1l1I1lI1II1II1I11Il1);
+	IllllIIl11l1l1l1IllIllIlI.appendChild(Illl11lll1I1llIIl111lllll);
+	IllllIIl11l1l1l1IllIllIlI.appendChild(II1Illll11II1I1I11I1I11II);
+	IllllIIl11l1l1l1IllIllIlI.appendChild(l1IlIIll1l11lII11l1l1lIlI);
+	IllllIIl11l1l1l1IllIllIlI.appendChild(lI11II1Illl1111lIlIl11lII);
+	IllllIIl11l1l1l1IllIllIlI.appendChild(l11IllIllI1IlIllll1IlII1l);
+	II1IlII1l1I1l11I1lllIl1ll.appendChild(IllllIIl11l1l1l1IllIllIlI);
+	Il111l1ll1111l1IlIIIIlII1.appendChild(l11II1l1II1I1llIIlIIIl1I1);
+	Il111l1ll1111l1IlIIIIlII1.appendChild(l1I1Ill11IIllI1IllIIlIlIl);
+	Il111l1ll1111l1IlIIIIlII1.appendChild(lIlII1IlIl1II1l1IIlIlI1lI);
+	Il111l1ll1111l1IlIIIIlII1.appendChild(l11I1ll1lllIl1ll1lIIIlIII);
+	Il111l1ll1111l1IlIIIIlII1.appendChild(lIlIllIlIIIll1ll111Il111I);
+	II1IlII1l1I1l11I1lllIl1ll.appendChild(Il111l1ll1111l1IlIIIIlII1);
+	l1lII1ll111lII1II11I1III1.appendChild(IIl111lI1lIlIIllll1Il111I);
+	l1lII1ll111lII1II11I1III1.appendChild(lIIIlIl11Il1I1llIll111Il1);
+	l1lII1ll111lII1II11I1III1.appendChild(IllI1Ill111IIIl1llIIlllll);
+	l1lII1ll111lII1II11I1III1.appendChild(I11l1l11lI11l1lI111lllI11);
+	l1lII1ll111lII1II11I1III1.appendChild(Il1lIIIl11IIl1lI1lIll1I1l);
+	II1IlII1l1I1l11I1lllIl1ll.appendChild(l1lII1ll111lII1II11I1III1);
+	II1IIIIIl1IIl11lII1ll1llI.appendChild(llIII11lIlllIIlII1lllI1Il);
+	II1IIIIIl1IIl11lII1ll1llI.appendChild(I1IlI11IIlI1lIII1l1IlII11);
+	II1IIIIIl1IIl11lII1ll1llI.appendChild(Il11I1III1II11lIl11I1l1II);
+	IIlIl1llIlI1l11IlIlI1lI1l.appendChild(II1IIIIIl1IIl11lII1ll1llI);
+	Ill1lI1lIllIIII1ll1II111I.appendChild(IIII1llIl1ll1I11lIlll11lI);
+	Ill1lI1lIllIIII1ll1II111I.appendChild(lI11IIlllIllIIIl1Il1llIIl);
+	IIlIl1llIlI1l11IlIlI1lI1l.appendChild(Ill1lI1lIllIIII1ll1II111I);
+	Il1I1IIlllIl11IIll1l1I11l.appendChild(lII1IIII111II11IlIIlIIlII);
+	Il1I1IIlllIl11IIll1l1I11l.appendChild(l1lllI11III1111Illl11I111);
+	IIlIl1llIlI1l11IlIlI1lI1l.appendChild(Il1I1IIlllIl11IIll1l1I11l);
+	llIl1IIll11lIl1I1IlIIIII1.appendChild(lIIl1lI11l1ll1llIIIllI1Il);
+	llIl1IIll11lIl1I1IlIIIII1.appendChild(lIlIlIll111l11I11IlIlIIll);
+	llIl1IIll11lIl1I1IlIIIII1.appendChild(l11l111I1lI1Illl1I1I11II1);
+	IlIIllIlI1IlII1lIIl111III.appendChild(llIl1IIll11lIl1I1IlIIIII1);
+	l1IIIl11lIIl1III1IlIl1111.appendChild(lIl11IIII1lll1Il11lllIl1I);
+	l1IIIl11lIIl1III1IlIl1111.appendChild(Ill1Il1I11Il1II1IIlIIIlIl);
+	l1l1Il111I11llI1llI1III11.appendChild(l1IIIl11lIIl1III1IlIl1111);
+	IlI1lI1lIl11IlI1IlIIlIl1I.appendChild(l1IlIllllIl1IlIllI1I11Ill);
+	IlI1lI1lIl11IlI1IlIIlIl1I.appendChild(l1IIl1IlIl1IIIIl1111II1Il);
+	l1l1Il111I11llI1llI1III11.appendChild(IlI1lI1lIl11IlI1IlIIlIl1I);
+	Il11lllI1IIlIl1Illll1I1II.appendChild(IlllIlIIIlI111l11III1I1I1);
+	Il11lllI1IIlIl1Illll1I1II.appendChild(lII1IIlIl11Il1111l1IlIIII);
+	l1l1Il111I11llI1llI1III11.appendChild(Il11lllI1IIlIl1Illll1I1II);
+	l1IIlI1II1lIlll1l1IlIlIIl.appendChild(l1I1l1l1IlIIlI1lI1I1I11l1);
+	l1IIlI1II1lIlll1l1IlIlIIl.appendChild(Ill1lI1I1lIl1I1Il11l1lllI);
+	l1IIlI1II1lIlll1l1IlIlIIl.appendChild(IlIIl1llll111II1I1lI11Il1);
+	ll11IlI1ll1l1llIlIlIl1lII.appendChild(l1IIlI1II1lIlll1l1IlIlIIl);
+	II11lI1I111IlllIlIIl1IlI1.appendChild(I1l1IIIIIl1l1IlIl1I11l1II);
+	ll11IlI1ll1l1llIlIlIl1lII.appendChild(II11lI1I111IlllIlIIl1IlI1);
+	lI1l1lIlIll1lll1IIl1llllI.appendChild(I111l1I11II1II111l1IIlI11);
+	lI1l1lIlIll1lll1IIl1llllI.appendChild(l1IIIll1l11I1lIIIIlI1l1lI);
+	lI1l1lIlIll1lll1IIl1llllI.appendChild(IlIlI11II1ll1IlllIllIIIl1);
+	ll11IlI1ll1l1llIlIlIl1lII.appendChild(lI1l1lIlIll1lll1IIl1llllI);
+	l1I11I1llllI111lIll1lIIl1.appendChild(llIlIIII1I1lllllIll1l1I1I);
+	l1I11I1llllI111lIll1lIIl1.appendChild(lllllIl1IIII11lIlIlIIll11);
+	lIIl11l1III1IlI11l11lI1l1.appendChild(l1I11I1llllI111lIll1lIIl1);
+	I111l1lIIIlI1ll1IIIllIl11.appendChild(lI11III1II11lIlIlI1II11lI);
+	I111l1lIIIlI1ll1IIIllIl11.appendChild(II111l1I111l111IIll1lIl1I);
+	lIIl11l1III1IlI11l11lI1l1.appendChild(I111l1lIIIlI1ll1IIIllIl11);
+	llIIl11111II11l1111l1IlII.appendChild(IlIll11l1111I111ll1111Il1);
+	llIIl11111II11l1111l1IlII.appendChild(lllIIlllIl1lll1lIl1lIlI1l);
+	IIll1IIl1Il11llI1lllll111.appendChild(llIIl11111II11l1111l1IlII);
+	ll1IlI1I1Il11IIIIIII11l1l.appendChild(I1I1II1IIII1Il1lI1l11II1l);
+	ll1IlI1I1Il11IIIIIII11l1l.appendChild(I1ll11lIII11l11111II1IIl1);
+	IIll1IIl1Il11llI1lllll111.appendChild(ll1IlI1I1Il11IIIIIII11l1l);
+	lI1I1l11IlIl1I1I1l1lI11l1.appendChild(Il1I1I1IllI1lIlIl1IlIlIIl);
+	lI1I1l11IlIl1I1I1l1lI11l1.appendChild(III1lllIll1ll1I11IllIIIII);
+	IIIllIllI1Il111I1IlIl11I1.appendChild(lI1I1l11IlIl1I1I1l1lI11l1);
+	lI1I11llIll1IlIIlIIIlI1lI.appendChild(IllIllll1IIIllIlll1IlIII1);
+	lI1I11llIll1IlIIlIIIlI1lI.appendChild(IlI11I1IlIIl1IllIll1IllIl);
+	lllIlll1lIIllIlIIIII1lIll.appendChild(lI1I11llIll1IlIIlIIIlI1lI);
+	l1Il1lI1ll1l1II1IIl1IIl11.appendChild(l1II1lII11I1Il1IIIlII1lll);
+	l1Il1lI1ll1l1II1IIl1IIl11.appendChild(llI11I1I11lI1l1l1Il1l111I);
+	IlllIl1IIllIIllII1l1lII1I.appendChild(l1Il1lI1ll1l1II1IIl1IIl11);
+	Il1IIl1IIll1Il111l1IIlIlI.appendChild(IllIlIIIIIllIIllI1l11IIII);
+	Il1IIl1IIll1Il111l1IIlIlI.appendChild(llll11I1llI1l1ll1l1III1II);
+	Il1IIl1IIll1Il111l1IIlIlI.appendChild(lllIIIIl11l1l1l1lI1l1lI1l);
+	I1llII1Illlll1IlI1ll1lll1.appendChild(Il1IIl1IIll1Il111l1IIlIlI);
+	III111Ill1l1lI1IIlIlIlIl1.appendChild(IIlIII1I111Il11IlIIl11lII);
+	III111Ill1l1lI1IIlIlIlIl1.appendChild(I1Ill11II1IlI1I1lI1lIIlll);
+	III111Ill1l1lI1IIlIlIlIl1.appendChild(Ill1ll1I11l1I11l1Il1lI1II);
+	I1llII1Illlll1IlI1ll1lll1.appendChild(III111Ill1l1lI1IIlIlIlIl1);
+	IlIl11lII111lllIlIIlI1II1.appendChild(Illl1IllIlI1I1IlIII1llIII);
+	IlIl11lII111lllIlIIlI1II1.appendChild(lIlI1IIIl1I1Il1I1Ill1lI11);
+	IlIl11lII111lllIlIIlI1II1.appendChild(Ill1lI1lI111lIlI1lIIlll11);
+	I1llII1Illlll1IlI1ll1lll1.appendChild(IlIl11lII111lllIlIIlI1II1);
+	Ill11Il1l1l1lII1l11ll1lII.appendChild(IIl1l11Il11l11111IIl111l1);
+	Ill11Il1l1l1lII1l11ll1lII.appendChild(lI1II1l11I111I1IIl11IIl1l);
+	I1llII1Illlll1IlI1ll1lll1.appendChild(Ill11Il1l1l1lII1l11ll1lII);
+	l111l1IlI11l1l1IIIIIIlIII.appendChild(I11lIllll1II11IIllllI1II1);
+	l111l1IlI11l1l1IIIIIIlIII.appendChild(I1Ill1lIlllIIlII11lIIl11l);
+	I1llII1Illlll1IlI1ll1lll1.appendChild(l111l1IlI11l1l1IIIIIIlIII);
+	lIlI11l11ll111l1I11IIIlI1.appendChild(lI11Il1IIIlllI1IIIIIlll1l);
+	lIlI11l11ll111l1I11IIIlI1.appendChild(IllI1I11Il11III1I1lllI1II);
+	I1llII1Illlll1IlI1ll1lll1.appendChild(lIlI11l11ll111l1I11IIIlI1);
+	l111I11I111I1l11IllI1lII1.appendChild(l11lIl1ll1l1I11IllIIl1lll);
+	l111I11I111I1l11IllI1lII1.appendChild(I11I1IlIl111lll1l11IlIIII);
+	I1llII1Illlll1IlI1ll1lll1.appendChild(l111I11I111I1l11IllI1lII1);
+	l11l11l1llI1l1lllllllll1I.appendChild(l1Il1l1II1I11lI1I11I11l1l);
+	l11l11l1llI1l1lllllllll1I.appendChild(I1l1Il1lI1I11II1IlI1II11l);
+	I1llII1Illlll1IlI1ll1lll1.appendChild(l11l11l1llI1l1lllllllll1I);
+	I111l11II111l1l111IlIllII.appendChild(I11111IIllII1I1l1IlIlll1l);
+	I111l11II111l1l111IlIllII.appendChild(I1I1111l1ll1llII1lIl1lllI);
+	I1llII1Illlll1IlI1ll1lll1.appendChild(I111l11II111l1l111IlIllII);
+	I1IIIl1I1lI1I1II1lll1llII.appendChild(lllIII1Illl11llll1IllllIl);
+	I1IIIl1I1lI1I1II1lll1llII.appendChild(l1IllIl11llllI111II1llIII);
+	I1IIIl1I1lI1I1II1lll1llII.appendChild(Il11IlIl1III11l1IIl1lIlII);
+	I1llII1Illlll1IlI1ll1lll1.appendChild(I1IIIl1I1lI1I1II1lll1llII);
+	IlI11l11llIl11111llIIlI1I.appendChild(I11III11IlII1I11I1l1IIIIl);
+	IlI11l11llIl11111llIIlI1I.appendChild(IlIl111IIllII1I1l11IllIlI);
+	IlI11l11llIl11111llIIlI1I.appendChild(IlII1II1Il1I1II1IllIllI11);
+	ll1I111I1IlIlII1I1l1I1ll1.appendChild(IlI11l11llIl11111llIIlI1I);
+	IIIllll11II11l11l11111l1I.appendChild(l1II11ll1l1IIllII11l1lI11);
+	ll1I111I1IlIlII1I1l1I1ll1.appendChild(IIIllll11II11l11l11111l1I);
+	IlIII1lllIl111IIlII1Il1Il.appendChild(l1llIIll1l1ll1lIll11II11I);
+	IlIII1lllIl111IIlII1Il1Il.appendChild(l11IIl1l11ll11lI1llIlll11);
+	IlIII1lllIl111IIlII1Il1Il.appendChild(l1lIIll1I11IIlIIl1lI11llI);
+	ll1I111I1IlIlII1I1l1I1ll1.appendChild(IlIII1lllIl111IIlII1Il1Il);
+	l1lllIllIlI1lllII1llIll11.appendChild(I1lIIlIlIll1lIlI11lI1l1II);
+	l1lllIllIlI1lllII1llIll11.appendChild(I11I1lllll1111lIlllIIIIII);
+	lllIIIIIl1lIllllI1llIlII1.appendChild(l1lllIllIlI1lllII1llIll11);
+	ll1lI1111I1I11lII1l11lll1.appendChild(ll11ll1Il11l1I1l1IIIIIIl1);
+	ll1lI1111I1I11lII1l11lll1.appendChild(IllI11I11I1ll1llll1lIll1I);
+	lllIIIIIl1lIllllI1llIlII1.appendChild(ll1lI1111I1I11lII1l11lll1);
+	l111Ill1l1lllIl11ll1IllI1.appendChild(IIIIl1ll1I11lI11lIIIl1I1l);
+	l111Ill1l1lllIl11ll1IllI1.appendChild(I1Il11l1I11Il1lI1l1I11lI1);
+	lI11I11IIlIlIIIll1Il111ll.appendChild(l111Ill1l1lllIl11ll1IllI1);
+	Illl1I11I1llIIl1I1III1lll.appendChild(I1l1IIIIl1ll1lllII11lI111);
+	Illl1I11I1llIIl1I1III1lll.appendChild(IIII1lIllI1Il11l1llI1IIl1);
+	lI11I11IIlIlIIIll1Il111ll.appendChild(Illl1I11I1llIIl1I1III1lll);
+	I1llIl1IllIlI1lIl1l11IllI.appendChild(lI1III11lI11lIIIlIlIII111);
+	I1llIl1IllIlI1lIl1l11IllI.appendChild(IIlIIlll111II1ll1l11Illl1);
+	II1I11lI111lllIll1II1l1l1.appendChild(I1llIl1IllIlI1lIl1l11IllI);
+	IIIll1lIl1lII1l11I1Il1IIl.appendChild(llI1ll1ll11lllI1111l1lIll);
+	IIIll1lIl1lII1l11I1Il1IIl.appendChild(Il11I11ll1lII1Il1l111Il1I);
+	II1I11lI111lllIll1II1l1l1.appendChild(IIIll1lIl1lII1l11I1Il1IIl);
+	lIIlllllIIlllIIll11I1Il1l.appendChild(l1l1IIIII1lIllII111lI11II);
+	lIIlllllIIlllIIll11I1Il1l.appendChild(llII1III111lI1I1l1l1lIII1);
+	lllI1111I1IIll1l1ll11Ill1.appendChild(lIIlllllIIlllIIll11I1Il1l);
+	l1l1llIl11Ill1l1I1I1lllll.appendChild(IlIlIIl1l1lIl11II11IlIl1I);
+	l1l1llIl11Ill1l1I1I1lllll.appendChild(III1l1l1IIl1I1llIll11IIll);
+	lllI1111I1IIll1l1ll11Ill1.appendChild(l1l1llIl11Ill1l1I1I1lllll);
+	II1IIIIII1IlIlIll1IIIIIll.appendChild(IllI1ll1I1I111I1l1l1l1I1l);
+	II1IIIIII1IlIlIll1IIIIIll.appendChild(llI111I11ll1l11lIlll1lIIl);
+	llIll111III111ll1I1l1I1II.appendChild(II1IIIIII1IlIlIll1IIIIIll);
+	I11lIII11lllIl1IlIIllIllI.appendChild(I11ll1IlI1IllllIlIlllIl11);
+	I11lIII11lllIl1IlIIllIllI.appendChild(l1I1l1llllll1lIIllIll1I11);
+	llIll111III111ll1I1l1I1II.appendChild(I11lIII11lllIl1IlIIllIllI);
+	lI11l1IlI1IlI11IlI1I1llII.appendChild(llIIlIIll1IIIllIII1II1II1);
+	lI11l1IlI1IlI11IlI1I1llII.appendChild(l1III1l1lI111lIIIIllI11l1);
+	lI1I11l1111lI1I1l11IIll1l.appendChild(lI11l1IlI1IlI11IlI1I1llII);
+	I1l1lIlll1IIIl1lIllII11l1.appendChild(l1ll1111lIl111I1l1IIIIlIl);
+	I1l1lIlll1IIIl1lIllII11l1.appendChild(Il11IlIIlIIlllI11I1l1l1I1);
+	lIllI11ll111lIlI11I1lIIIl.appendChild(I1l1lIlll1IIIl1lIllII11l1);
+	lII1lIll1Il1I111lllI1I11I.appendChild(IIlll111Il1l1lIIIIIl1III1);
+	lII1lIll1Il1I111lllI1I11I.appendChild(I11llIll1I1l1lllI111I1III);
+	lIllI11ll111lIlI11I1lIIIl.appendChild(lII1lIll1Il1I111lllI1I11I);
+	IIlllI1lIll1I11l1111l111I.appendChild(llII11IIII1l11I111IIl1I1l);
+	IIlllI1lIll1I11l1111l111I.appendChild(lIIllI1lI1Il11lI111IIIll1);
+	llIlIIIIllII1l1IIll11I1ll.appendChild(IIlllI1lIll1I11l1111l111I);
+	I1I1III1I11IlIllI1l11lIll.appendChild(Il111l1I1IIIlIllI1IIIllI1);
+	I1I1III1I11IlIllI1l11lIll.appendChild(II1l1IIII1II1lIIIIIlII11l);
+	I1I1III1I11IlIllI1l11lIll.appendChild(IlIIll1lIll11llIl1IlIl1l1);
+	Il1l1lll1I1l1Ill1l11lI11l.appendChild(I1I1III1I11IlIllI1l11lIll);
+	I1llII1l11llIll1II1llIIIl.appendChild(llll1lIIIIl1I11111llI1IlI);
+	I1llII1l11llIll1II1llIIIl.appendChild(l1IlI1I11lIl1ll1I11lIII1l);
+	lll1IllII11Illl11III1lIlI.appendChild(I1llII1l11llIll1II1llIIIl);
+	llIl1ll11Il1I1lI1l1l11I1l.appendChild(lI1llIlI11111l11lII11l1II);
+	llIl1ll11Il1I1lI1l1l11I1l.appendChild(lI1l11II1lI1lIIlIIl111III);
+	lll1IllII11Illl11III1lIlI.appendChild(llIl1ll11Il1I1lI1l1l11I1l);
+	I1IIlIl111llIl1I1l11Il1I1.appendChild(I1IlIlI1111l1l1II11lIII11);
+	I1IIlIl111llIl1I1l11Il1I1.appendChild(llI11Il11lIllIII1I111l1ll);
+	lll1IllII11Illl11III1lIlI.appendChild(I1IIlIl111llIl1I1l11Il1I1);
+	I1lII11IlIlIl1I1lllIIlIll.appendChild(Illl1lIIl1IIIl1I11I1llIl1);
+	I1lII11IlIlIl1I1lllIIlIll.appendChild(I1111IIIll1lII11I1lII1l11);
+	lll1IllII11Illl11III1lIlI.appendChild(I1lII11IlIlIl1I1lllIIlIll);
+	I111lll11lll1I1llI1IIl1lI.appendChild(lII1I1lIIl1l1llIlIl1111Il);
+	I111lll11lll1I1llI1IIl1lI.appendChild(llI11IllIIlII11II11lII1lI);
+	lll1IllII11Illl11III1lIlI.appendChild(I111lll11lll1I1llI1IIl1lI);
+	Il11Illl1llI11111IIll1lI1.appendChild(Il1l11Il1ll1IIIIlIl1ll11l);
+	Il11Illl1llI11111IIll1lI1.appendChild(II1II1ll1IIl1l1Il1Il1ll1l);
+	lll1IllII11Illl11III1lIlI.appendChild(Il11Illl1llI11111IIll1lI1);
+	ll1lI1llll1l1I1Il11lI1Il1.appendChild(lI11111Il1llIlIII11lIll1I);
+	ll1lI1llll1l1I1Il11lI1Il1.appendChild(ll1III1l1lII1ll1lll1lI1I1);
+	lll1IllII11Illl11III1lIlI.appendChild(ll1lI1llll1l1I1Il11lI1Il1);
+	l1I11II11l1111Ill11I1l11l.appendChild(IlllIlIllIIlI1lIIIIlI1lII);
+	l1I11II11l1111Ill11I1l11l.appendChild(I11l1lllllI11Il1l1lI11I11);
+	lll1IllII11Illl11III1lIlI.appendChild(l1I11II11l1111Ill11I1l11l);
+	lIl1l1l1lll1I1111lIll1lll.appendChild(I1l1lIIllIl1IIllIlII1111I);
+	lIl1l1l1lll1I1111lIll1lll.appendChild(lIIll1lI1lIIl1I11IlIlll1l);
+	lll1IllII11Illl11III1lIlI.appendChild(lIl1l1l1lll1I1111lIll1lll);
+	IlllIIIIlIl111I1l1llI1Ill.appendChild(I1IIIII1lIlI1IllIlIIIlI1I);
+	IlllIIIIlIl111I1l1llI1Ill.appendChild(l1l1II11II1lIIIll111l11lI);
+	lll1IllII11Illl11III1lIlI.appendChild(IlllIIIIlIl111I1l1llI1Ill);
+	llII1l11IIlll1IllIlIIlIIl.appendChild(IlIIIIII1l1Il11lllll1I1Il);
+	llII1l11IIlll1IllIlIIlIIl.appendChild(I1lIll1lIll1l11l1lIlIIl1I);
+	lll1IllII11Illl11III1lIlI.appendChild(llII1l11IIlll1IllIlIIlIIl);
+	IllI1l1lI11IIlIIl1Illl1II.appendChild(Ill11lllIl111IIl11IlIlIll);
+	IllI1l1lI11IIlIIl1Illl1II.appendChild(IllIl111I1II11IlIIlI1IllI);
+	lll1IllII11Illl11III1lIlI.appendChild(IllI1l1lI11IIlIIl1Illl1II);
+	lll11lll111lI1II1IIlIlIIl.appendChild(llIII1ll1IlIIIIIIl1l11II1);
+	lll11lll111lI1II1IIlIlIIl.appendChild(Ill11llII1lIlI1l11I1lI11I);
+	lll1IllII11Illl11III1lIlI.appendChild(lll11lll111lI1II1IIlIlIIl);
+	lI11I1IlI1IllIl1l1I11IIl1.appendChild(lIlIIll11IlIIlIIlIll1Il1l);
+	lI11I1IlI1IllIl1l1I11IIl1.appendChild(I1111I1l1II11Il1lI11l1III);
+	lll1IllII11Illl11III1lIlI.appendChild(lI11I1IlI1IllIl1l1I11IIl1);
+	I1l1lI1IIll1lll1III1IllIl.appendChild(I11Il11IIIIl11I1111IlIIl1);
+	I1l1lI1IIll1lll1III1IllIl.appendChild(lI1ll1ll11II11IIIllllllIl);
+	lll1IllII11Illl11III1lIlI.appendChild(I1l1lI1IIll1lll1III1IllIl);
+	Il11I11Ill1I11111I1lll111.appendChild(l1Il11I1IIlIIlI11lI1llIII);
+	Il11I11Ill1I11111I1lll111.appendChild(Il1llIlI1111l11ll1II11llI);
+	lll1IllII11Illl11III1lIlI.appendChild(Il11I11Ill1I11111I1lll111);
+	lIIlIIll111lIl11lIl1IlI1l.appendChild(l1IlIIlllIIIl11llIIlI1IIl);
+	lIIlIIll111lIl11lIl1IlI1l.appendChild(I11llIlIl1IIl1IIIIlI111I1);
+	lll1IllII11Illl11III1lIlI.appendChild(lIIlIIll111lIl11lIl1IlI1l);
+	ll11I111lI1II11l111l1IlII.appendChild(I1l1l1l1l1lI1l1l1I11l1lll);
+	ll11I111lI1II11l111l1IlII.appendChild(I11IIIlI1lI11I1lIlll1l1lI);
+	lll1IllII11Illl11III1lIlI.appendChild(ll11I111lI1II11l111l1IlII);
+	IIIllII11ll111IIl1I111I1I.appendChild(I1l1lIl1111I111l1I111I1lI);
+	IIIllII11ll111IIl1I111I1I.appendChild(IIIlIlI1IlIlI1I1IlIllI1ll);
+	lll1IllII11Illl11III1lIlI.appendChild(IIIllII11ll111IIl1I111I1I);
+	I1I11l11IllIIl1I1III1lII1.appendChild(Il1Il11IIIIIl1II1III11lll);
+	I1I11l11IllIIl1I1III1lII1.appendChild(lIllII1I1l1ll1I1IIll111lI);
+	lll1IllII11Illl11III1lIlI.appendChild(I1I11l11IllIIl1I1III1lII1);
+	llIIl111lII11llIl1I1111Il.appendChild(ll1I1l1111IIlll1IlII1I111);
+	llIIl111lII11llIl1I1111Il.appendChild(I1Il1lII1I11l1II1lllIll11);
+	lll1IllII11Illl11III1lIlI.appendChild(llIIl111lII11llIl1I1111Il);
+	IlllllIllI1lIIl1IIIlll1I1.appendChild(Il11IIlIIlI1lII11ll111III);
+	IlllllIllI1lIIl1IIIlll1I1.appendChild(llIIlllIllI11ll1lI1l1l1I1);
+	lll1IllII11Illl11III1lIlI.appendChild(IlllllIllI1lIIl1IIIlll1I1);
+	IIIlllII11111IIIIIlIIl111.appendChild(IlI1Illllll11IlI1II111II1);
+	IIIlllII11111IIIIIlIIl111.appendChild(lIl1lIII11lI1llII111I11Il);
+	lll1IllII11Illl11III1lIlI.appendChild(IIIlllII11111IIIIIlIIl111);
+	l1lIllIlIIlIIIllllllIl111.appendChild(l1IlI11ll1lI1lllllI11llll);
+	l1lIllIlIIlIIIllllllIl111.appendChild(I1111l111l1IlI1lIllI111I1);
+	lll1IllII11Illl11III1lIlI.appendChild(l1lIllIlIIlIIIllllllIl111);
+	ll1I11IIl1Il1I11lII11l1lI.appendChild(lIl1lIllIIII11I1lI1lII1Il);
+	lll1IllII11Illl11III1lIlI.appendChild(ll1I11IIl1Il1I11lII11l1lI);
+	II1I11IlI111I1I1III1I1lIl.appendChild(IlI1IIIIllI1l111111l111I1);
+	II1I11IlI111I1I1III1I1lIl.appendChild(ll1IllIIIl111llI1IIlII11I);
+	II1I11IlI111I1I1III1I1lIl.appendChild(lII1I1II1lIllIlIl11ll1I1l);
+	Ill1IlIl1I1Ill1lI1IlIlIll.appendChild(II1I11IlI111I1I1III1I1lIl);
+	lI11IIIIIIlI11l1IIllIlIl1.appendChild(II1Il1lIIIlI1IIlll1lIl11l);
+	lI11IIIIIIlI11l1IIllIlIl1.appendChild(llllIl1l1l1I111lII1I1Illl);
+	lI11IIIIIIlI11l1IIllIlIl1.appendChild(l1l1I1I111l1I1Il1lI111llI);
+	Ill1IlIl1I1Ill1lI1IlIlIll.appendChild(lI11IIIIIIlI11l1IIllIlIl1);
+}
+
+</script>
+
+
+<BODY onload="I1II1IllI111IlI1I1llll1lI()">
+<DIV id="page_1">
+<DIV id="dimg1">
+<INGENBILD zsrc="H003881x1.jpg/" id="img1">
+</DIV>
+
+
+<DIV class="dclr"></DIV>
+<P class="p0 ft0">Regeringens proposition 2012/13:88</P>
+<TABLE id="ll1111l1llI1IIl1l1ll1lI1I" cellpadding=0 cellspacing=0 class="t0"></TABLE>
+<P class="p4 ft3">Regeringen överlämnar denna proposition till riksdagen.</P>
+<P class="p5 ft3">Stockholm den 14 mars 2013</P>
+<P class="p6 ft4">Fredrik Reinfeldt</P>
+<P class="p7 ft4">Anders Borg</P>
+<P class="p8 ft3">(Finansdepartementet)</P>
+<P class="p9 ft1">Propositionens huvudsakliga innehåll</P>
+<P class="p10 ft5">I propositionen föreslås att riksdagen godkänner ett avtal mellan Sverige och Panama om utbyte av upplysningar i skatteärenden.</P>
+<P class="p11 ft3">Det föreslås även att riksdagen antar en lag om detta avtal.</P>
+<P class="p12 ft3">Avtalet om utbyte av upplysningar i skatteärenden, som är ett viktigt medel för en effektiv skattekontroll, utgör ett betydelsefullt steg i regeringens strävan att bidra till en internationell finansiell ordning som grundas på transparens och effektivt informationsutbyte i skatteärenden.</P>
+<P class="p13 ft3">Lagen föreslås träda i kraft den dag regeringen bestämmer.</P>
+<P class="p14 ft3">1</P>
+</DIV>
+<DIV id="page_2">
+
+
+<DIV>
+<DIV id="id_1">
+<P class="p15 ft1">Innehållsförteckning</P>
+<TABLE id="I1IllI1lIII11llII1II1l1lI" cellpadding=0 cellspacing=0 class="t1"></TABLE>
+<P class="p19 ft7"><SPAN class="ft8">4.2.7</SPAN><SPAN class="ft9">Förfarandet vid ömsesidig överenskommelse .22</SPAN></P>
+<TABLE id="llll1l1lIl1I11Ill1I1I1ll1" cellpadding=0 cellspacing=0 class="t2"></TABLE>
+</DIV>
+<DIV id="id_2">
+<P class="p15 ft7">Prop. 2012/13:88</P>
+<P class="p21 ft8">2</P>
+</DIV>
+</DIV>
+</DIV>
+<DIV id="page_3">
+
+
+<TABLE id="I1Illll11l111Ill1lllIl1l1" cellpadding=0 cellspacing=0 class="t3"></TABLE>
+<P class="p24 ft3">Regeringen föreslår att riksdagen</P>
+<P class="p12 ft5"><SPAN class="ft3">1.</SPAN><SPAN class="ft11">godkänner avtalet mellan Sverige och Panama om utbyte av upplysningar i skatteärenden (avsnitt 4),</SPAN></P>
+<P class="p25 ft5"><SPAN class="ft3">2.</SPAN><SPAN class="ft12">antar regeringens förslag till lag om avtal mellan Sverige och Panama om utbyte av upplysningar i skatteärenden.</SPAN></P>
+<P class="p26 ft3">3</P>
+</DIV>
+<DIV id="page_4">
+<DIV id="dimg1">
+<INGENBILD zsrc="H003884x1.jpg/" id="img1">
+</DIV>
+
+
+<P class="p27 ft14">2 Förslag till lag om avtal mellan Sverige och <SPAN class="ft13">Prop. 2012/13:88 </SPAN>Panama om utbyte av upplysningar i</P>
+<P class="p28 ft1">skatteärenden</P>
+<P class="p29 ft3">Härigenom föreskrivs följande.</P>
+<P class="p30 ft3">Det avtal om utbyte av upplysningar i skatteärenden som Konungariket Sveriges regering och Republiken Panamas regering undertecknade den 12 november 2012 ska gälla som lag här i landet. Avtalet är avfattat på svenska, spanska och engelska. Den svenska och engelska texten framgår av bilaga till denna lag.</P>
+<P class="p31 ft3"><SPAN class="ft3">1.</SPAN><SPAN class="ft15">Denna lag träder i kraft den dag regeringen bestämmer.</SPAN></P>
+<P class="p32 ft5"><SPAN class="ft3">2.</SPAN><SPAN class="ft16">Denna lag ska tillämpas för beskattningsår som börjar den dag då lagen träder i kraft eller senare eller, om beskattningsår saknas, på skatt som tas ut den dag då lagen träder i kraft eller senare. I ärenden som utgör skattebrottsärenden enligt avtalet ska lagen dock tillämpas från och med ikraftträdandet.</SPAN></P>
+<P class="p33 ft3">4</P>
+</DIV>
+<DIV id="page_5">
+
+
+<DIV id="id_1">
+<DIV id="id_1_1">
+<P class="p34 ft5">AVTAL MELLAN KONUNGA- RIKET SVERIGES REGERING OCH REPUBLIKEN PANAMAS REGERING OM UTBYTE AV UPPLYSNINGAR I SKATTE- ÄRENDEN</P>
+</DIV>
+<DIV id="id_1_2">
+<P class="p35 ft3"><SPAN class="ft4">Bilaga </SPAN>Prop. 2012/13:88</P>
+<P class="p36 ft3">AGREEMENT BETWEEN THE</P>
+<P class="p37 ft3">GOVERNMENT OF THE</P>
+<P class="p38 ft3">KINGDOM OF SWEDEN AND</P>
+<P class="p38 ft3">THE GOVERNMENT OF THE</P>
+<P class="p37 ft3">REPUBLIC OF PANAMA FOR</P>
+<P class="p38 ft3">THE EXCHANGE OF INFOR-</P>
+<P class="p38 ft3">MATION RELATING TO TAX</P>
+<P class="p39 ft3">MATTERS</P>
+</DIV>
+</DIV>
+<DIV id="id_2">
+<DIV id="id_2_1">
+<P class="p40 ft5">Konungariket Sveriges regering och Republiken Panamas regering, som önskar ingå ett avtal om utbyte av upplysningar i skatteärenden, har kommit överens om följande:</P>
+</DIV>
+<DIV id="id_2_2">
+<P class="p40 ft5">The Government of the Kingdom of Sweden and the Government of the Republic of Panama, desiring to conclude an Agreement for the exchange of information relating to tax matters, have agreed as follows:</P>
+</DIV>
+</DIV>
+<DIV id="id_3">
+<TABLE id="IlI1I1IlIIIl1IlI1ll11I11l" cellpadding=0 cellspacing=0 class="t4"></TABLE>
+</DIV>
+<DIV id="id_4">
+<DIV id="id_4_1">
+<P class="p40 ft3">1. De behöriga myndigheterna i de avtalsslutande parterna ska biträda varandra med handräckning genom utbyte av upplysningar som kan antas vara relevanta vid administration och verkställighet av de avtalsslutande parternas interna lagstiftning avseende skatter som omfattas av detta avtal. Sådana upplysningar inbegriper upplysningar som kan antas vara relevanta för fastställande, beskattning och uppbörd av sådana skatter, för indrivning och andra exekutiva åtgärder beträffande skattefordringar eller för utredning eller åtal i skatteärenden.</P>
+<P class="p41 ft3">Upplysningarna ska utbytas i enlighet med bestämmelserna i detta avtal och ska hållas hemliga på sätt som anges i artikel 7. De rättigheter som tillkommer personer enligt den anmodade partens lagstiftning eller administrativa praxis förblir tillämpliga i den</P>
+</DIV>
+<DIV id="id_4_2">
+<P class="p42 ft3">1. The competent authorities of the Contracting Parties shall provide assistance through exchange of information that is foreseeably relevant to the administration and enforcement of the domestic laws of the Contracting Parties concerning taxes covered by this Agreement. Such information shall include information that is foreseeably relevant to the determination, assessment and collection of such taxes, the recovery and enforcement of tax claims, or the investigation or prosecution of tax matters.</P>
+<P class="p43 ft3">Information shall be exchanged in accordance with the provisions of this Agreement and shall be treated as confidential in the manner provided in Article 7. The rights and safeguards secured to persons by the laws or administra-</P>
+<P class="p44 ft3">tive practice of the requested Party</P>
+<P class="p45 ft3">5</P>
+</DIV>
+</DIV>
+</DIV>
+<DIV id="page_6">
+
+
+<DIV id="id_1">
+<DIV id="id_1_1">
+<P class="p34 ft5">utsträckning de inte otillbörligt hindrar eller fördröjer ett effektivt utbyte av upplysningar.</P>
+<P class="p46 ft5">2. Detta avtal ska inte påverka tillämpningen i de avtalsslutande parterna av bestämmelserna om ömsesidig rättslig hjälp i brottmål.</P>
+</DIV>
+<DIV id="id_1_2">
+<TABLE id="lI1Il1l1l1I1l11lIl11I11Il" cellpadding=0 cellspacing=0 class="t5"></TABLE>
+<P class="p15 ft3">information.</P>
+<P class="p48 ft5">2. This Agreement shall not affect the application in the Contracting Parties of the rules on mutual legal assistance in criminal matters.</P>
+</DIV>
+</DIV>
+<DIV id="id_2">
+<TABLE id="IlllIIl1Il1l1I11IlI1ll1II" cellpadding=0 cellspacing=0 class="t6"></TABLE>
+</DIV>
+<DIV id="id_3">
+<DIV id="id_3_1">
+<P class="p40 ft5">Den anmodade parten är inte skyldig att lämna upplysningar som varken innehas av dess myndigheter eller innehas eller kontrolleras av personer inom dess jurisdiktion.</P>
+</DIV>
+<DIV id="id_3_2">
+<P class="p40 ft5">A Requested Party is not obligated to provide information which is neither held by its authorities nor in the possession or control of persons who are within its territorial jurisdiction.</P>
+</DIV>
+</DIV>
+<DIV id="id_4">
+<TABLE id="I11l11I1Il1Il1I1lIllIlI11" cellpadding=0 cellspacing=0 class="t7"></TABLE>
+</DIV>
+<DIV id="id_5">
+<DIV id="id_5_1">
+<P class="p49 ft5"><SPAN class="ft3">1.</SPAN><SPAN class="ft20">De skatter som omfattas av detta avtal är skatter av varje slag och beskaffenhet som tas ut i de avtalsslutande parterna.</SPAN></P>
+<P class="p50 ft3"><SPAN class="ft3">2.</SPAN><SPAN class="ft21">Detta avtal tillämpas även på skatter av samma eller i huvudsak likartat slag som efter undertecknandet av avtalet tas ut vid sidan av eller i stället för de för närvarande utgående skatterna. De behöriga myndigheterna i de avtalsslutande parterna ska meddela varandra om de väsentliga ändringar som gjorts rörande den skattelagstiftning och de åtgärder för att inhämta upplysningar som omfattas av avtalet.</SPAN></P>
+<P class="p51 ft5"><SPAN class="ft3">3.</SPAN><SPAN class="ft16">Detta avtal ska inte tillämpas på skatter som tas ut i Republiken Panama av kommuner eller andra politiska underavdelningar.</SPAN></P>
+</DIV>
+<DIV id="id_5_2">
+<P class="p40 ft5"><SPAN class="ft3">1.</SPAN><SPAN class="ft22">The taxes which are the subject of this Agreement are taxes of every kind and description imposed in the Contracting Parties.</SPAN></P>
+<P class="p52 ft3"><SPAN class="ft3">2.</SPAN><SPAN class="ft23">This Agreement shall also apply to any identical or substantially similar taxes imposed after the date of signature of the Agreement in addition to or in place of the existing taxes. The competent authorities of the Contracting Parties shall notify each other of any substantial changes to the taxation and related information gathering measures covered by the Agreement.</SPAN></P>
+<P class="p53 ft5"><SPAN class="ft3">3.</SPAN><SPAN class="ft24">This Agreement shall not apply to taxes imposed in the Republic of Panama by municipalities or other political subdivisions.</SPAN></P>
+</DIV>
+</DIV>
+<DIV id="id_6">
+<P class="p15 ft3">6</P>
+</DIV>
+</DIV>
+<DIV id="page_7">
+
+
+<DIV id="id_1">
+<P class="p54 ft3">Prop. 2012/13:88</P>
+<TABLE id="llll11111IIllII11I111lIIl" cellpadding=0 cellspacing=0 class="t8"></TABLE>
+</DIV>
+<DIV id="id_2">
+<DIV id="id_2_1">
+<P class="p15 ft4">Definitioner</P>
+<P class="p55 ft5">1. Om inte annat anges, har vid tillämpningen av detta avtal följande uttryck nedan angiven betydelse:</P>
+<P class="p56 ft3"><SPAN class="ft3">a)</SPAN><SPAN class="ft15">”Panama” avser, när uttrycket används i geografisk betydelse, Republiken Panamas territorium, innefattande inre vatten, luftrum och territorialvatten, samt varje område utanför territorialvattnet inom vilket Republiken Panama, i överensstämmelse med folkrättens regler och vid tillämpning av nationell rätt, utövar, eller i framtiden kan utöva, jurisdiktion eller suveräna rättigheter såvitt avser havsbottnen, dess underlag och vattnet där över, samt dess naturtillgångar,</SPAN></P>
+<P class="p57 ft3"><SPAN class="ft3">b)</SPAN><SPAN class="ft15">”Sverige” avser Konungariket Sverige och innefattar, när uttrycket används i geografisk betydelse, Sveriges territorium, Sveriges territorialvatten och andra havsområden över vilka Sverige, i överensstämmelse med folkrättens regler, utövar suveräna rättigheter eller jurisdiktion,</SPAN></P>
+<P class="p58 ft5"><SPAN class="ft3">c)</SPAN><SPAN class="ft24">”avtalsslutande part” avser Sverige eller Panama beroende på sammanhanget,</SPAN></P>
+<P class="p59 ft3"><SPAN class="ft3">d)</SPAN><SPAN class="ft15">”behörig myndighet” avser</SPAN></P>
+<P class="p60 ft3"><SPAN class="ft3">1)</SPAN><SPAN class="ft25">i Panama, ekonomi- och finansministeriet eller dettas befullmäktigade ombud eller den myndighet åt vilken uppdras att vara behörig myndighet vid tillämpningen av detta avtal,</SPAN></P>
+<P class="p61 ft5"><SPAN class="ft3">2)</SPAN><SPAN class="ft22">i Sverige, finansministern, dennes befullmäktigade ombud eller den myndighet åt vilken uppdras att vara behörig myndighet vid tillämpningen av detta avtal,</SPAN></P>
+<P class="p62 ft3">e) ”person” inbegriper fysisk</P>
+</DIV>
+<DIV id="id_2_2">
+<P class="p15 ft4">Definitions</P>
+<P class="p63 ft5">1. For the purposes of this Agreement, unless otherwise defined:</P>
+<P class="p64 ft3"><SPAN class="ft3">a)</SPAN><SPAN class="ft23">the term ”Panama”, when used in a geographical sense, means the territory of the Republic of Panama, including inland waters, its airspace and the territorial sea, and any area outside the territorial sea within which, in accordance with International Law and on application of its domestic legislation, the Republic of Panama exercises, or may exercise in the future, jurisdiction or sovereign rights with respect to the seabed, its subsoil and superjacent waters, and their natural resources;</SPAN></P>
+<P class="p65 ft3"><SPAN class="ft3">b)</SPAN><SPAN class="ft15">the term ”Sweden” means the Kingdom of Sweden and, when used in a geographical sense, includes the national territory, the territorial sea of Sweden as well as other maritime areas over which Sweden in accordance with international law exercises sovereign rights or jurisdiction;</SPAN></P>
+<P class="p66 ft5"><SPAN class="ft3">c)</SPAN><SPAN class="ft16">the term ”Contracting Party” means Sweden or Panama as the context requires;</SPAN></P>
+<P class="p67 ft3"><SPAN class="ft3">d)</SPAN><SPAN class="ft26">the term ”competent authority” means:</SPAN></P>
+<P class="p67 ft3">(i) in Panama, the Ministry of Economy and Finance or its authorised representative or the authority which is designated as a competent authority for the purposes of this Agreement;</P>
+<P class="p67 ft3">(ii) in Sweden, the Minister of Finance, his authorised representative or the authority which is designated as a competent authority for the purposes of this Agreement;</P>
+<TABLE id="ll1ll1I111Illl1l1lI11lI11" cellpadding=0 cellspacing=0 class="t9"></TABLE>
+</DIV>
+</DIV>
+</DIV>
+<DIV id="page_8">
+
+
+<DIV>
+<DIV id="id_1">
+<P class="p68 ft5">person, bolag och annan personsammanslutning,</P>
+<P class="p69 ft5"><SPAN class="ft3">f)</SPAN><SPAN class="ft27">”bolag” avser juridisk person eller annan som vid beskattningen behandlas såsom juridisk person,</SPAN></P>
+<P class="p50 ft3"><SPAN class="ft3">g)</SPAN><SPAN class="ft21">”bolag vars aktier är föremål för allmän omsättning” avser ett bolag vars viktigaste aktieslag är noterat på en erkänd aktiebörs under förutsättning att dess noterade aktier fritt kan köpas eller säljas av allmänheten. Aktier kan köpas eller säljas ”av allmänheten” om köp eller försäljning av aktier inte underförstått eller uttryckligen begränsats till en avgränsad krets av investerare,</SPAN></P>
+<P class="p51 ft5"><SPAN class="ft3">h)</SPAN><SPAN class="ft12">”viktigaste aktieslag” avser det eller de aktieslag som representerar majoriteten av rösterna i och värdet av bolaget,</SPAN></P>
+<P class="p70 ft5"><SPAN class="ft3">i)</SPAN><SPAN class="ft28">”erkänd aktiebörs” avser sådan börs som de behöriga myndigheterna i de avtalsslutande parterna kommit överens om,</SPAN></P>
+<P class="p71 ft3"><SPAN class="ft3">j)</SPAN><SPAN class="ft25">”kollektiv investeringsfond eller kollektivt investeringssystem” avser alla åtaganden för kollektiva investeringar oavsett juridisk form. ”Publik kollektiv investeringsfond eller publikt kollektivt investeringssystem” avser varje kollektiv investeringsfond eller kollektivt investeringssystem vars andelar, aktier eller andra rättigheter fritt kan köpas, säljas eller lösas in av allmänheten. An- delar, aktier eller andra rättigheter</SPAN></P>
+<P class="p72 ft3"><SPAN class="ft3">i</SPAN><SPAN class="ft29">fonden eller systemet kan fritt köpas, säljas eller lösas in ”av allmänheten” om köp, försäljning eller inlösen inte underförstått eller uttryckligen begränsats till en avgränsad krets av investerare,</SPAN></P>
+<P class="p73 ft5"><SPAN class="ft3">k)</SPAN><SPAN class="ft27">”skatt” avser varje skatt som omfattas av detta avtal,</SPAN></P>
+<P class="p40 ft31"><SPAN class="ft3">l)</SPAN><SPAN class="ft30">”anmodande part” avser den avtalsslutande part som begär</SPAN></P>
+</DIV>
+<DIV id="id_2">
+<P class="p68 ft5">individual, a company and any other body of persons;</P>
+<P class="p40 ft3"><SPAN class="ft3">f)</SPAN><SPAN class="ft32">the term ”company” means any body corporate or any entity that is treated as a body corporate for tax purposes;</SPAN></P>
+<P class="p74 ft3"><SPAN class="ft3">g)</SPAN><SPAN class="ft33">the term ”publicly traded company” means any company whose principal class of shares is listed on a recognised stock exchange provided its listed shares can be readily purchased or sold by the public. Shares can be purchased or sold ”by the public” if the purchase or sale of shares is not implicitly or explicitly restricted to a limited group of investors;</SPAN></P>
+<P class="p75 ft3"><SPAN class="ft3">h)</SPAN><SPAN class="ft34">the term ”principal class of shares” means the class or classes of shares representing a majority of the voting power and value of the company;</SPAN></P>
+<P class="p74 ft3"><SPAN class="ft3">i)</SPAN><SPAN class="ft32">the term ”recognised stock exchange” means any stock exchange agreed upon by the competent authorities of the Contracting Parties;</SPAN></P>
+<P class="p76 ft3"><SPAN class="ft3">j)</SPAN><SPAN class="ft32">the term ”collective investment fund or scheme” means any pooled investment vehicle, irrespective of legal form. The term ”public collective investment fund or scheme” means any collective investment fund or scheme provided the units, shares or other interests in the fund or scheme can be readily purchased, sold or redeemed by the public. Units, shares or other interests in the fund or scheme can be readily purchased, sold or redeemed ”by the public” if the purchase, sale or redemption is not implicitly or explicitly restricted to a limited group of investors;</SPAN></P>
+<P class="p77 ft5"><SPAN class="ft3">k)</SPAN><SPAN class="ft35">the term ”tax” means any tax to which the Agreement applies;</SPAN></P>
+<P class="p40 ft31"><SPAN class="ft3">l)</SPAN><SPAN class="ft30">the term ”requesting Party” means the Contracting Party</SPAN></P>
+</DIV>
+<DIV id="id_3">
+<P class="p78 ft3">Prop. 2012/13:88</P>
+<P class="p79 ft3">8</P>
+</DIV>
+</DIV>
+</DIV>
+<DIV id="page_9">
+
+
+<DIV>
+<DIV id="id_1">
+<P class="p15 ft3">upplysningar,</P>
+<P class="p80 ft5"><SPAN class="ft3">m)</SPAN><SPAN class="ft12">”anmodad part” avser den avtalsslutande part som har anmodats att lämna upplysningar,</SPAN></P>
+<P class="p80 ft3"><SPAN class="ft3">n)</SPAN><SPAN class="ft15">”åtgärder för att inhämta upplysningar” avser lagstiftning och administrativa åtgärder eller domstolsåtgärder vilka möjliggör för en avtalsslutande part att inhämta och lämna begärda upplysningar,</SPAN></P>
+<P class="p81 ft5"><SPAN class="ft3">o)</SPAN><SPAN class="ft24">”upplysningar” avser varje faktauppgift, meddelande, handling eller annan dokumentation oavsett form,</SPAN></P>
+<P class="p80 ft3"><SPAN class="ft3">p)</SPAN><SPAN class="ft36">”skattebrottsärenden” avser skatteärenden som omfattar handlande, vilket enligt strafflagstiftningen i den anmodande parten kan bli föremål för åtal,</SPAN></P>
+<P class="p80 ft3"><SPAN class="ft3">q)</SPAN><SPAN class="ft32">”strafflagstiftning” avser all strafflagstiftning som benämns som sådan i intern lagstiftning oberoende av om den innefattas i</SPAN></P>
+<P class="p82 ft5">skattelagstiftningen, strafflagstiftningen eller andra författningar.</P>
+<P class="p56 ft37">2. Då en avtalsslutande part tillämpar detta avtal vid någon tidpunkt anses, såvida sammanhanget inte föranleder annat, varje uttryck som inte definierats i avtalet ha den betydelse som uttrycket har vid denna tidpunkt enligt den partens lagstiftning och den betydelse som uttrycket har enligt tillämplig skattelagstiftning i denna part äger företräde framför den betydelse som uttrycket har enligt annan lagstiftning i denna part.</P>
+<P class="p83 ft17">Artikel 5</P>
+<P class="p84 ft38">Utbyte av upplysningar på begäran</P>
+<P class="p60 ft3">1. Den behöriga myndigheten i den anmodade parten ska på begäran lämna upplysningar för de ändamål som anges i artikel 1. Sådana upplysningar ska utbytas utan avseende på om det handlande som är föremål för utredning</P>
+</DIV>
+<DIV id="id_2">
+<TABLE id="l11lI1llllIII1IIIllI11l11" cellpadding=0 cellspacing=0 class="t10"></TABLE>
+<P class="p85 ft3"><SPAN class="ft3">m)</SPAN><SPAN class="ft32">the term ”requested Party” means the Contracting Party requested to provide information;</SPAN></P>
+<P class="p85 ft3"><SPAN class="ft3">n)</SPAN><SPAN class="ft21">the term ”information gathering measures” means laws and administrative or judicial procedures that enable a Contracting Party to obtain and provide the requested information;</SPAN></P>
+<P class="p86 ft5"><SPAN class="ft3">o)</SPAN><SPAN class="ft35">the term ”information” means any fact, statement or record in any form whatever;</SPAN></P>
+<P class="p87 ft3"><SPAN class="ft3">p)</SPAN><SPAN class="ft39">the term ”criminal tax matters” means tax matters involving any conduct which is liable to prosecution under the criminal laws of the requesting Party;</SPAN></P>
+<P class="p88 ft3"><SPAN class="ft3">q)</SPAN><SPAN class="ft36">the term ”criminal laws” means all criminal laws designated as such under domestic law irrespective of whether contained in the tax laws, the criminal code or other statutes.</SPAN></P>
+<P class="p89 ft3">2. As regards the application of this Agreement at any time by a Contracting Party, any term not defined therein shall, unless the context otherwise requires, have the meaning that it has at that time under the law of that Party, any meaning under the applicable tax laws of that Party prevailing over a meaning given to the term under other laws of that Party.</P>
+<TABLE id="llIl1I1II1IlIl1lIIIIIIlII" cellpadding=0 cellspacing=0 class="t11"></TABLE>
+</DIV>
+</DIV>
+</DIV>
+<DIV id="page_10">
+
+
+<DIV>
+<DIV id="id_1">
+<P class="p34 ft5">skulle ha utgjort ett brott enligt den anmodade partens lagstiftning om ett sådant handlande utförts i den anmodade parten.</P>
+<P class="p40 ft3"><SPAN class="ft3">2.</SPAN><SPAN class="ft29">Om de upplysningar som är tillgängliga för den behöriga myndigheten i den anmodade parten inte räcker till för att tillmötesgå en begäran om upplysningar, ska den anmodade parten – utan hinder av att den anmodade parten kanske inte har behov av upplysningarna för dess egna beskattningsändamål – vidta alla relevanta åtgärder för att inhämta och lämna de begärda upplysningarna.</SPAN></P>
+<P class="p74 ft3"><SPAN class="ft3">3.</SPAN><SPAN class="ft23">Om den behöriga myndigheten i en anmodande part särskilt begär det, ska den behöriga myndigheten i den anmodade parten – i den utsträckning som detta är tillåtet enligt dess interna lagstiftning – lämna upplysningar enligt denna artikel i form av upptagande av vittnesberättelser och bestyrkta kopior av originalhandlingar.</SPAN></P>
+<P class="p91 ft3"><SPAN class="ft3">4.</SPAN><SPAN class="ft21">Vardera avtalsslutande parten ska säkerställa att den har befogenhet att genom dess behöriga myndigheter på begäran och för de ändamål som anges i artikel 1 i avtalet, inhämta och lämna:</SPAN></P>
+<P class="p73 ft5">a) upplysningar som innehas av banker, andra finansiella institutioner och annan person som agerar</P>
+<P class="p92 ft3"><SPAN class="ft3">i</SPAN><SPAN class="ft32">egenskap av representant eller förvaltare, däri inbegripet ombud och trustförvaltare,</SPAN></P>
+<P class="p69 ft3">b) upplysningar om ägarförhållandena i bolag, handelsbolag, truster, stiftelser, ”Anstalten” och andra personer, däri inbegripet – med de begränsningar som följer av artikel 2 – upplysningar om ägarförhållandena rörande alla sådana personer i en ägarkedja; i fråga om truster, upplysningar om stiftare, förvaltare och förmånstagare; i fråga om stiftelser, upplysningar om stiftare, ledamöter i styrelsen och destinatärer. Detta</P>
+</DIV>
+<DIV id="id_2">
+<P class="p92 ft5">would constitute a crime under the laws of the requested Party if such conduct occurred in the requested Party.</P>
+<P class="p49 ft3"><SPAN class="ft3">2.</SPAN><SPAN class="ft21">If the information in the possession of the competent authority of the requested Party is not sufficient to enable it to comply with the request for information, that Party shall use all relevant information gathering measures to provide the requesting Party with the information requested, notwithstanding that the requested Party may not need such information for its own tax purposes.</SPAN></P>
+<P class="p73 ft3"><SPAN class="ft3">3.</SPAN><SPAN class="ft32">If specifically requested by the competent authority of a requesting Party, the competent authority of the requested Party shall provide information under this Article, to the extent allowable under its domestic laws, in the form of depositions of witnesses and authenticated copies of original records.</SPAN></P>
+<P class="p93 ft3"><SPAN class="ft3">4.</SPAN><SPAN class="ft34">Each Contracting Party shall ensure that its competent authorities for the purposes specified in Article 1 of the Agreement, have the authority to obtain and provide upon request:</SPAN></P>
+<P class="p93 ft3">a) information held by banks, other financial institutions, and any person acting in an agency or fiduciary capacity including nominees and trustees;</P>
+<P class="p75 ft3">b) information regarding the ownership of companies, partnerships, trusts, foundations, ”Anstalten” and other persons, including, within the constraints of Article 2, ownership information on all such persons in an ownership chain; in the case of trusts, information on settlors, trustees, and beneficiaries; and in the case of foundations, information on founders, members of the foundation council, and beneficiaries. Further, this Agree-</P>
+</DIV>
+<DIV id="id_3">
+<P class="p94 ft3">Prop. 2012/13:88</P>
+<P class="p79 ft3">10</P>
+</DIV>
+</DIV>
+</DIV>
+<DIV id="page_11">
+
+
+<DIV>
+<DIV id="id_1">
+<P class="p92 ft3">avtal medför inte skyldighet för de avtalsslutande parterna att inhämta eller lämna upplysningar om ägarförhållanden i bolag vars aktier är föremål för allmän omsättning eller i publika kollektiva investeringsfonder eller publika kollektiva investeringssystem, såvida inte sådana upplysningar kan inhämtas utan att det medför oproportionerligt stora svårigheter.</P>
+<P class="p51 ft3">5. Vid begäran om upplysningar enligt detta avtal ska den behöriga myndigheten i den anmodande parten till den behöriga myndigheten i den anmodade parten lämna följande upplysningar, för att visa att de efterfrågade upplysningarna kan antas vara relevanta:</P>
+<P class="p95 ft5"><SPAN class="ft3">a)</SPAN><SPAN class="ft40">identiteten på den person eller de personer som är föremål för utredning eller undersökning,</SPAN></P>
+<P class="p49 ft3"><SPAN class="ft3">b)</SPAN><SPAN class="ft41">uppgift om de begärda upplysningarna, däri inbegripet deras närmare beskaffenhet och i vilken form som den anmodande parten önskar att få upplysningarna från den anmodade parten,</SPAN></P>
+<P class="p49 ft5"><SPAN class="ft3">c)</SPAN><SPAN class="ft11">de beskattningsperioder för vilka upplysningar begärs,</SPAN></P>
+<P class="p49 ft3"><SPAN class="ft3">d)</SPAN><SPAN class="ft32">det beskattningsändamål för vilket upplysningarna efterfrågas,</SPAN></P>
+<P class="p96 ft5"><SPAN class="ft3">e)</SPAN><SPAN class="ft11">skälen för att anta att de begärda upplysningarna finns i den anmodade parten eller innehas eller kontrolleras av person inom den anmodade partens jurisdiktion,</SPAN></P>
+<P class="p97 ft5"><SPAN class="ft3">f)</SPAN><SPAN class="ft27">såvitt det är känt, namn och adress på person som kan antas inneha de begärda upplysningarna,</SPAN></P>
+<P class="p70 ft3"><SPAN class="ft3">g)</SPAN><SPAN class="ft29">uppgift om att begäran är i överensstämmelse med lagstiftning och administrativ praxis i den anmodande parten och att den behöriga myndigheten i den anmodande parten – om de begärda upplysningarna fanns inom denna parts jurisdiktion – skulle kunna</SPAN></P>
+</DIV>
+<DIV id="id_2">
+<P class="p34 ft3">ment does not create an obligation on the Contracting Parties to obtain or provide ownership information with respect to publicly traded companies or public collective investment funds or schemes unless such information can be obtained without giving rise to disproportionate difficulties.</P>
+<P class="p98 ft3">5. The competent authority of the requesting Party shall provide the following information to the competent authority of the requested Party when making a request for information under the Agreement to demonstrate the foreseeable relevance of the information to the request:</P>
+<P class="p99 ft5"><SPAN class="ft3">a)</SPAN><SPAN class="ft16">the identity of the person or persons under examination or investigation;</SPAN></P>
+<P class="p49 ft3"><SPAN class="ft3">b)</SPAN><SPAN class="ft15">a statement of the information sought including its nature and the form in which the requesting Party wishes to receive the information from the requested Party;</SPAN></P>
+<P class="p100 ft5"><SPAN class="ft3">c)</SPAN><SPAN class="ft16">the taxable periods for which the information is requested;</SPAN></P>
+<P class="p49 ft3"><SPAN class="ft3">d)</SPAN><SPAN class="ft21">the tax purpose for which the information is sought;</SPAN></P>
+<P class="p49 ft3"><SPAN class="ft3">e)</SPAN><SPAN class="ft15">grounds for believing that the information requested is held in the requested Party or is in the possession or control of a person within the jurisdiction of the requested Party;</SPAN></P>
+<P class="p96 ft3"><SPAN class="ft3">f)</SPAN><SPAN class="ft15">to the extent known, the name and address of any person believed to be in possession of the requested information;</SPAN></P>
+<P class="p76 ft37"><SPAN class="ft3">g)</SPAN><SPAN class="ft42">a statement that the request is in conformity with the law and administrative practices of the requesting Party, that if the requested information was within the jurisdiction of the requesting Party then the competent authority of the requesting Party would be able to</SPAN></P>
+</DIV>
+<DIV id="id_3">
+<P class="p78 ft3">Prop. 2012/13:88</P>
+<P class="p101 ft3">11</P>
+</DIV>
+</DIV>
+</DIV>
+<DIV id="page_12">
+
+
+<DIV id="id_1">
+<DIV id="id_1_1">
+<P class="p102 ft3">inhämta upplysningarna enligt lagstiftning eller vedertagen administrativ praxis i den anmodande parten samt att begäran är i överensstämmelse med detta avtal,</P>
+<P class="p103 ft3"><SPAN class="ft3">h)</SPAN><SPAN class="ft32">uppgift om att den anmodande parten har vidtagit alla åtgärder för att inhämta upplysningarna som står till dess förfogande inom dess eget territorium, utom sådana åtgärder som skulle medföra oproportionerligt stora svårigheter.</SPAN></P>
+<P class="p103 ft3">6. Den behöriga myndigheten i den anmodade parten ska snarast möjligt lämna de begärda upplysningarna till den anmodande parten. För att tillgodose ett skyndsamt svar ska den behöriga myndigheten i den anmodade parten:</P>
+<P class="p58 ft3"><SPAN class="ft3">a)</SPAN><SPAN class="ft21">Till den behöriga myndigheten i den anmodande parten skriftligen bekräfta mottagandet av begäran och inom 60 dagar efter mottagandet underrätta den behöriga myndigheten i den anmodande parten om eventuella brister</SPAN></P>
+<P class="p104 ft3"><SPAN class="ft3">i</SPAN><SPAN class="ft43">begäran.</SPAN></P>
+<P class="p56 ft5"><SPAN class="ft3">b)</SPAN><SPAN class="ft12">Om den behöriga myndigheten i den anmodade parten inte har kunnat inhämta och lämna de</SPAN></P>
+<P class="p105 ft3">begärda upplysningarna inom 90 dagar från det att begäran togs emot, däri inbegripet om det föreligger förhinder att tillhandahålla upplysningarna eller om den behöriga myndigheten vägrar att lämna upplysningarna, ska den omedelbart underrätta den anmodande parten om detta och ange skälen för att den inte kunnat inhämta och tillhandahålla upplysningarna, vilka hinder som föreligger eller skälen för dess vägran.</P>
+</DIV>
+<DIV id="id_1_2">
+<TABLE id="IlI1I1I1llI1I111IlIl1111l" cellpadding=0 cellspacing=0 class="t5"></TABLE>
+<P class="p109 ft3">tive practice and that it is in conformity with this Agreement; h) a statement that the requesting Party has pursued all means available in its own territory to obtain the information, except those that would give rise to</P>
+<P class="p110 ft3">disproportionate difficulties.</P>
+<P class="p111 ft3">6. The competent authority of the requested Party shall forward the requested information as promptly as possible to the requesting Party. To ensure a prompt response, the competent authority of the requested Party shall:</P>
+<P class="p112 ft3"><SPAN class="ft3">a)</SPAN><SPAN class="ft21">Confirm receipt of a request in writing to the competent authority of the requesting Party and shall notify the competent authority of the requesting Party of deficiencies in the request, if any, within 60 days of the receipt of the request.</SPAN></P>
+<P class="p113 ft3"><SPAN class="ft3">b)</SPAN><SPAN class="ft21">If the competent authority of the requested Party has been unable to obtain and provide the information within 90 days of receipt of the request, including if it encounters obstacles in furnishing the information or it refuses to furnish the information, it shall immediately inform the requesting Party, explaining the reason for its inability, the nature of the obstacles or the reasons for its refusal.</SPAN></P>
+</DIV>
+</DIV>
+<DIV id="id_2">
+<TABLE id="IIlIIIl1IIl1I111lll1l11lI" cellpadding=0 cellspacing=0 class="t12"></TABLE>
+</DIV>
+<DIV id="id_3">
+<DIV id="id_3_1">
+<P class="p114 ft31">1. Den anmodade parten har inte skyldighet att inhämta eller lämna</P>
+</DIV>
+<DIV id="id_3_2">
+<TABLE id="II111I1l11I1I1ll1l1I11Il1" cellpadding=0 cellspacing=0 class="t13"></TABLE>
+</DIV>
+</DIV>
+</DIV>
+<DIV id="page_13">
+
+
+<DIV>
+<DIV id="id_1">
+<P class="p92 ft3">upplysningar som den anmodande parten inte skulle kunna inhämta enligt dess lagstiftning för administration eller verkställighet av dess egen skattelagstiftning. Den behöriga myndigheten i den anmodade parten får avslå en begäran när begäran inte har gjorts i överensstämmelse med detta avtal.</P>
+<P class="p99 ft3"><SPAN class="ft3">2.</SPAN><SPAN class="ft34">Bestämmelserna i detta avtal ska inte medföra skyldighet för en avtalsslutande part att lämna upplysningar som skulle röja </SPAN><NOBR>handels-,</NOBR> <NOBR>affärs-,</NOBR> industri- eller yrkeshemlighet eller kommersiell hemlighet eller i näringsverksamhet nyttjat förfaringssätt. Utan hinder av detta, ska upplysningar som avses i artikel 5 punkt 4 inte anses som sådana hemligheter eller sådant förfaringssätt endast på grund av att de uppfyller villkoren i nämnda punkt.</P>
+<P class="p116 ft3"><SPAN class="ft3">3.</SPAN><SPAN class="ft34">Bestämmelserna i detta avtal ska inte medföra skyldighet för en avtalsslutande part att inhämta eller lämna upplysningar som skulle röja hemlig kommunikation mellan en klient och dennes advokat eller annat juridiskt ombud, när sådan kommunikation:</SPAN></P>
+<P class="p117 ft5"><SPAN class="ft3">a)</SPAN><SPAN class="ft16">förevarit i syfte att söka eller lämna juridisk rådgivning, eller</SPAN></P>
+<P class="p97 ft5"><SPAN class="ft3">b)</SPAN><SPAN class="ft27">förevarit i syfte att användas under pågående eller förestående rättsliga förfaranden.</SPAN></P>
+<P class="p49 ft3">4. Den anmodade parten får avslå en begäran om upplysningar om lämnandet av upplysningarna skulle strida mot allmänna hänsyn (ordre public).</P>
+<P class="p49 ft3">5. En begäran om upplysningar ska inte avslås på grund av att den skattefordran som föranleder begäran har bestridits.</P>
+<P class="p99 ft5">6. Den anmodade parten får avslå en begäran om upplysningar om den anmodande parten har begärt upplysningarna för admi-</P>
+</DIV>
+<DIV id="id_2">
+<P class="p92 ft3">information that the requesting Party would not be able to obtain under its own laws for purposes of the administration or enforcement of its own tax laws. The competent authority of the requested Party may decline to assist where the request is not made in conformity with this Agreement.</P>
+<P class="p118 ft3"><SPAN class="ft3">2.</SPAN><SPAN class="ft39">The provisions of this Agreement shall not impose on a Contracting Party the obligation to supply information which would disclose any trade, business, industrial, commercial or professional secret or trade process. Notwithstanding the foregoing, information of the type referred to in Article 5, paragraph 4 shall not be treated as such a secret or trade process merely because it meets the criteria in that paragraph.</SPAN></P>
+<P class="p119 ft3"><SPAN class="ft3">3.</SPAN><SPAN class="ft21">The provisions of this Agreement shall not impose on a Contracting Party the obligation to obtain or provide information, which would reveal confidential communications between a client and an attorney, solicitor or other admitted legal representative where such communications are:</SPAN></P>
+<P class="p76 ft5">a) produced for the purposes of seeking or providing legal advice or</P>
+<P class="p49 ft3">b) produced for the purposes of use in existing or contemplated legal proceedings.</P>
+<P class="p49 ft3"><SPAN class="ft3">4.</SPAN><SPAN class="ft36">The requested Party may decline a request for information if the disclosure of the information would be contrary to public policy (ordre public).</SPAN></P>
+<P class="p49 ft5"><SPAN class="ft3">5.</SPAN><SPAN class="ft24">A request for information shall not be refused on the ground that the tax claim giving rise to the request is disputed.</SPAN></P>
+<P class="p49 ft5"><SPAN class="ft3">6.</SPAN><SPAN class="ft22">The requested Party may decline a request for information if the information is requested by the requesting Party to administer or</SPAN></P>
+</DIV>
+<DIV id="id_3">
+<P class="p78 ft3">Prop. 2012/13:88</P>
+<P class="p101 ft3">13</P>
+</DIV>
+</DIV>
+</DIV>
+<DIV id="page_14">
+
+
+<DIV id="id_1">
+<DIV id="id_1_1">
+<P class="p34 ft3">nistration eller verkställighet av en bestämmelse i den anmodande partens skattelagstiftning, eller därmed sammanhängande krav, som under samma förhållanden diskriminerar en medborgare i den anmodade parten i förhållande till en medborgare i den anmodande parten.</P>
+</DIV>
+<DIV id="id_1_2">
+<TABLE id="I11I11l11I1I1lIII11lIll1l" cellpadding=0 cellspacing=0 class="t5"></TABLE>
+<P class="p120 ft5">requirement connected therewith, which discriminates against a national of the requested Party as compared with a national of the requesting Party in the same circumstances.</P>
+</DIV>
+</DIV>
+<DIV id="id_2">
+<TABLE id="I1I111I11l11II1I111II11Il" cellpadding=0 cellspacing=0 class="t14"></TABLE>
+</DIV>
+<DIV id="id_3">
+<DIV id="id_3_1">
+<P class="p40 ft3">Alla upplysningar som tas emot av en avtalsslutande part med stöd av detta avtal ska hållas hemliga på samma sätt som upplysningar som inhämtats med stöd av den interna lagstiftningen i denna part och får yppas endast för personer eller myndigheter (däri inbegripet domstolar och förvaltningsorgan) inom den avtalsslutande partens jurisdiktion som har befattning med beskattning eller uppbörd av, exekutiva åtgärder eller åtal, eller handläggning av överklagande, avseende de skatter som omfattas av detta avtal. Sådana personer eller myndigheter ska använda dessa upplysningar endast för sådana ändamål. De får yppa upplysningarna vid offentliga domstolsförhandlingar eller i domstolsavgöranden. Upplysningarna får inte yppas för annan institution eller myndighet inom den anmodande partens jurisdiktion utan uttryckligt skriftligt medgivande av den behöriga myndigheten i den anmodade parten.</P>
+</DIV>
+<DIV id="id_3_2">
+<P class="p40 ft3">Any information received by a Contracting Party under this Agreement shall be treated as confidential in the same manner as information obtained under the domestic laws of that Party and may be disclosed only to persons or authorities (including courts and administrative bodies) in the jurisdiction of the Contracting Party concerned with the assessment or collection of, the enforcement or prosecution in respect of, or the determination of appeals in relation to, the taxes covered by this Agreement. Such persons or authorities shall use such information only for such purposes. They may disclose the information in public court proceedings or in judicial decisions. The information may not be disclosed to any other entity or authority within the jurisdiction of the requesting Party without the express written consent of the competent authority of the requested Party.</P>
+</DIV>
+</DIV>
+<DIV id="id_4">
+<TABLE id="II1I1II1IlI1Il1IIlIlI1I1l" cellpadding=0 cellspacing=0 class="t15"></TABLE>
+</DIV>
+<DIV id="id_5">
+<DIV id="id_5_1">
+<P class="p40 ft5">De avtalsslutande parternas behöriga myndigheter ska komma överens om fördelningen av</P>
+</DIV>
+<DIV id="id_5_2">
+<P class="p121 ft5">Incidence of costs incurred in providing assistance shall be agreed by the competent</P>
+<P class="p54 ft3">14</P>
+</DIV>
+</DIV>
+</DIV>
+<DIV id="page_15">
+
+
+<DIV id="id_1">
+<DIV id="id_1_1">
+<P class="p122 ft31">uppkomna kostnader för handräckning.</P>
+<P class="p123 ft17">Artikel 9</P>
+<P class="p124 ft38">Förfarandet vid ömsesidig överenskommelse</P>
+<P class="p125 ft3"><SPAN class="ft3">1.</SPAN><SPAN class="ft26">När svårigheter eller tvivelsmål uppkommer mellan de avtalsslutande parterna i fråga om tillämpning eller tolkning av avtalet ska de behöriga myndigheterna söka avgöra saken genom ömsesidig överenskommelse.</SPAN></P>
+<P class="p126 ft3"><SPAN class="ft3">2.</SPAN><SPAN class="ft23">De avtalsslutande parternas behöriga myndigheter får, utöver vad som framgår av punkt 1, ömsesidigt komma överens om förfarandena för tillämpning av artikel 5.</SPAN></P>
+<P class="p61 ft5"><SPAN class="ft3">3.</SPAN><SPAN class="ft11">De avtalsslutande parternas behöriga myndigheter får träda i direkt förbindelse med varandra i syfte att träffa överenskommelse med stöd av denna artikel.</SPAN></P>
+</DIV>
+<DIV id="id_1_2">
+<P class="p127 ft3">authorities of the Contracting Prop. 2012/13:88 Parties.</P>
+<P class="p128 ft17">Article 9</P>
+<P class="p129 ft4">Mutual agreement procedure</P>
+<P class="p130 ft3"><SPAN class="ft3">1.</SPAN><SPAN class="ft29">Where difficulties or doubts arise between the Contracting Parties regarding the implementation or interpretation of the Agreement, the competent authorities shall endeavor to resolve the matter by mutual agreement.</SPAN></P>
+<P class="p131 ft3"><SPAN class="ft3">2.</SPAN><SPAN class="ft21">In addition to the agreements referred to in paragraph 1, the competent authorities of the Contracting Parties may mutually agree on the procedures to be used under Article 5.</SPAN></P>
+<P class="p132 ft5"><SPAN class="ft3">3.</SPAN><SPAN class="ft27">The competent authorities of the Contracting Parties may communicate with each other directly for purposes of reaching agreement under this Article.</SPAN></P>
+</DIV>
+</DIV>
+<DIV id="id_2">
+<DIV id="id_2_1">
+<P class="p15 ft17">Artikel 10</P>
+<P class="p129 ft4">Ikraftträdande</P>
+<P class="p133 ft45"><SPAN class="ft3">1.</SPAN><SPAN class="ft44">De avtalsslutande parterna ska skriftligen underrätta varandra när de åtgärder vidtagits av respektive avtalsslutande part som krävs för att detta avtal ska träda i kraft.</SPAN></P>
+<P class="p134 ft5"><SPAN class="ft3">2.</SPAN><SPAN class="ft24">Avtalet träder i kraft den trettionde dagen efter det att den sista av dessa underrättelser har tagits emot och tillämpas</SPAN></P>
+<P class="p135 ft5"><SPAN class="ft3">a)</SPAN><SPAN class="ft40">i skattebrottsärenden, från och med dagen för ikraftträdandet,</SPAN></P>
+<P class="p81 ft3"><SPAN class="ft3">b)</SPAN><SPAN class="ft33">i alla andra ärenden som omfattas av artikel 1, för beskattningsår som börjar på dagen för ikraftträdandet av avtalet eller senare, eller då något beskattningsår inte föreligger, för skatteanspråk som uppkommer på dagen</SPAN></P>
+</DIV>
+<DIV id="id_2_2">
+<P class="p15 ft17">Article 10</P>
+<P class="p129 ft4">Entry into force</P>
+<P class="p136 ft3"><SPAN class="ft3">1.</SPAN><SPAN class="ft46">Each of the Contracting Parties shall notify the other in writing of the completion of the procedures required by its law for the entry into force of this Agreement.</SPAN></P>
+<P class="p131 ft3"><SPAN class="ft3">2.</SPAN><SPAN class="ft23">The Agreement shall enter into force on the thirtieth day after the receipt of the later of these notifications and shall thereupon have effect</SPAN></P>
+<P class="p131 ft5">a) for criminal tax matters, from the date of entry into force;</P>
+<P class="p137 ft3">b) for all other matters covered in Article 1, for taxable periods beginning on or after the date on which the Agreement enters into force, or where there is no taxable period, for all charges to tax</P>
+<TABLE id="IIlllIIlIl1lII1I11Il11II1" cellpadding=0 cellspacing=0 class="t16"></TABLE>
+</DIV>
+</DIV>
+</DIV>
+<DIV id="page_16">
+
+
+<DIV id="id_1">
+<DIV id="id_1_1">
+<P class="p15 ft31">för ikraftträdandet av avtalet eller senare.</P>
+</DIV>
+<DIV id="id_1_2">
+<P class="p15 ft31">which the Agreement enters into Prop. 2012/13:88 force.</P>
+</DIV>
+</DIV>
+<DIV id="id_2">
+<TABLE id="lIII1IIll1lIl11I1I11lIIII" cellpadding=0 cellspacing=0 class="t17"></TABLE>
+</DIV>
+<DIV id="id_3">
+<DIV id="id_3_1">
+<P class="p56 ft3"><SPAN class="ft3">1.</SPAN><SPAN class="ft34">Detta avtal förblir i kraft till dess att det sägs upp av en avtalsslutande part. Vardera avtalsslutande parten kan på diplomatisk väg skriftligen säga upp avtalet genom underrättelse härom till den andra avtalsslutande parten. I händelse av sådan uppsägning upphör avtalet att gälla den första dagen i den månad som följer närmast efter utgången av den sexmånadersperiod som följer efter den dag då underrättelsen om uppsägning togs emot av den andra avtalsslutande parten.</SPAN></P>
+<P class="p138 ft5"><SPAN class="ft3">2.</SPAN><SPAN class="ft16">I händelse av uppsägning ska de avtalsslutande parterna vara fortsatt bundna av bestämmelserna</SPAN></P>
+<P class="p102 ft31"><SPAN class="ft3">i</SPAN><SPAN class="ft47">artikel 7 i fråga om upplysningar som erhållits med stöd av avtalet.</SPAN></P>
+<P class="p139 ft5">Till bekräftelse härav har undertecknade, därtill vederbörligen bemyndigade, undertecknat detta avtal.</P>
+<P class="p134 ft5">Som skedde i London den 12 november 2012, i två exemplar på svenska, spanska och engelska språken, vilka alla texter är lika giltiga. I händelse av skiljaktigheter mellan texterna, ska den engelska texten ha företräde.</P>
+<P class="p140 ft31">För Konungariket Sveriges regering</P>
+<P class="p123 ft4">Nicola Clase</P>
+<P class="p129 ft3">För Republiken Panamas regering</P>
+<P class="p141 ft4">Luis Laguerre</P>
+</DIV>
+<DIV id="id_3_2">
+<P class="p48 ft3"><SPAN class="ft3">1.</SPAN><SPAN class="ft34">This Agreement shall remain in force until terminated by a Contracting Party. Either Contracting Party may terminate the Agreement, through diplomatic channels, by giving written notice of termination to the other Contracting Party. In such case, the Agreement shall cease to have effect on the first day of the month following the end of the period of six months after the date of receipt of notice of termination by the other Contracting Party.</SPAN></P>
+<P class="p142 ft5"><SPAN class="ft3">2.</SPAN><SPAN class="ft20">In the event of termination, both Contracting Parties shall remain bound by the provisions of Article 7 with respect to any information obtained under the Agreement.</SPAN></P>
+<P class="p143 ft5">In witness whereof the undersigned being duly authorised thereto have signed the Agreement.</P>
+<P class="p144 ft3">Done at London this 12<SPAN class="ft48">th </SPAN>day of November 2012, in duplicate in the Swedish, the Spanish and the English languages, each text being equally authentic. In case of divergence between the texts, the English text shall prevail.</P>
+<P class="p145 ft3">For the Government of the</P>
+<P class="p110 ft3">Kingdom of Sweden</P>
+<P class="p129 ft4">Nicola Clase</P>
+<P class="p145 ft3">For the Government of the</P>
+<P class="p110 ft3">Republic of Panama</P>
+<TABLE id="I1llI1II1l11II1llllIlIlII" cellpadding=0 cellspacing=0 class="t18"></TABLE>
+</DIV>
+</DIV>
+</DIV>
+<DIV id="page_17">
+<DIV id="dimg1">
+<INGENBILD zsrc="H0038817x1.jpg/" id="img1">
+</DIV>
+
+
+<TABLE id="lIIIl1lllIllIl11I1ll11llI" cellpadding=0 cellspacing=0 class="t3"></TABLE>
+<P class="p146 ft3">Förhandlingar om informationsutbytesavtal med Panama har förts under 2012. Ett utkast till avtal färdigställdes i augusti 2012. Utkastet var upprättat på engelska. En svensk och en spansk text har därefter upprättats. Den engelska och den svenska texten har remitterats till Kammarrätten i Stockholm och Skatteverket<SPAN class="ft4">. </SPAN>Avtalet undertecknades i London den 12 november 2012.</P>
+<P class="p147 ft5">Ett förslag till lag om avtal mellan Sverige och Panama om utbyte av upplysningar i skatteärenden har upprättats inom Finansdepartementet.</P>
+<P class="p148 ft19">Lagrådet</P>
+<P class="p149 ft5">Genom den föreslagna lagen införlivas det avtal mellan Sverige och Panama om utbyte av upplysningar i skatteärenden som undertecknades den 12 november 2012 i svensk lagstiftning. Lagförslaget är författningstekniskt och även i övrigt av sådan beskaffenhet att Lagrådets hörande skulle sakna betydelse. Lagrådets yttrande har därför inte inhämtats.</P>
+<P class="p150 ft50"><SPAN class="ft1">4</SPAN><SPAN class="ft49">Avtalet mellan Sverige och Panama om utbyte av upplysningar i skatteärenden</SPAN></P>
+<P class="p151 ft5"><SPAN class="ft51">Regeringens förslag: </SPAN>Riksdagen godkänner avtalet mellan Sverige och Panama om utbyte av upplysningar i skatteärenden och antar regeringens förslag till lag om detta avtal.</P>
+<P class="p152 ft52"><SPAN class="ft51">Remissinstanserna: </SPAN>Kammarrätten i Stockholm <SPAN class="ft5">och </SPAN>Skatteverket <SPAN class="ft5">tillstyrker förslaget till avtal.</SPAN></P>
+<P class="p25 ft5"><SPAN class="ft51">Skälen för regeringens förslag: </SPAN>Sverige har inte något informationsutbytesavtal med Panama. Informationsutbytesavtal är viktiga för en effektiv skattekontroll genom att de möjliggör samarbete mellan skattemyndigheterna i de avtalsslutande parterna. Det är därför angeläget att få till stånd ett informationsutbytesavtal med Panama.</P>
+<P class="p153 ft53"><SPAN class="ft53">4.1</SPAN><SPAN class="ft54">Lagförslaget</SPAN></P>
+<P class="p146 ft5">I förslaget till lag föreskrivs att avtalet ska gälla som lag här i landet. Avtalet är upprättat på engelska, svenska och spanska. Den engelska och den svenska texten framgår av bilagan till lagen. Den spanska texten finns tillgänglig i Utrikesdepartementet.</P>
+<P class="p12 ft5">Enligt artikel 10 i avtalet ska parterna underrätta varandra när de åtgärder vidtagits som krävs för att avtalet ska träda i kraft. Avtalet träder i kraft trettio dagar efter det att den sista av dessa underrättelser har tagits emot. Det är således inte möjligt att nu avgöra vid vilken tidpunkt avtalet</P>
+<P class="p154 ft3">17</P>
+</DIV>
+<DIV id="page_18">
+
+
+<P class="p155 ft31">kommer att träda i kraft. I förslaget till lag har därför föreskrivits att Prop. 2012/13:88 lagen träder i kraft den dag regeringen bestämmer.</P>
+<P class="p156 ft53"><SPAN class="ft53">4.2</SPAN><SPAN class="ft54">Informationsutbytesavtalets innehåll</SPAN></P>
+<P class="p157 ft3">Avtalet ansluter nära till den modell (Agreement on Exchange of Information on Tax Matters; modellavtalet) som Organisationen för ekonomiskt samarbete och utveckling (OECD) utarbetat för bilaterala avtal om informationsutbyte i skatteärenden.</P>
+<P class="p158 ft3">Modellavtalet har utarbetats inom ramen för OECD:s arbete mot skadliga skatteregimer. I OECD:s rapport Harmful Tax Competition: An Emerging Global Issue, 1998, anges avsaknad av effektivt informationsutbyte som ett huvudkriterium för s.k. skadliga skatteregimer. OECD:s Global Forum Working Group on Effective Exchange of Information utarbetade på uppdrag av OECD:s Global Forum on Taxation ett modellavtal för att åstadkomma ett effektivt informationsutbyte. I arbetsgruppen ingick representanter från vissa <NOBR>OECD-länder</NOBR> och från Aruba, Bahrain, Bermuda, Caymanöarna, Cypern, Isle of Man, Malta, Mauritius, Nederländska Antillerna, San Marino och Seychellerna.</P>
+<P class="p159 ft5">Modellavtalet publicerades 2002 och syftar till att genom informationsutbyte främja internationellt samarbete i skatteärenden. Modellavtalet åtföljs av kommentarer till avtalets bestämmelser.</P>
+<P class="p141 ft17">4.2.1 Avtalets syfte och tillämpningsområde</P>
+<TABLE id="IIIl11l1IlII111l11I1lI1l1" cellpadding=0 cellspacing=0 class="t19"></TABLE>
+</DIV>
+<DIV id="page_19">
+
+
+<P class="p161 ft5">tecknandet av avtalet tas ut vid sidan av eller i stället för de skatter som Prop. 2012/13:88 anges i artikel 3.1. Av punkt 3 framgår att avtalet inte ska tillämpas på</P>
+<P class="p162 ft5">skatter som tas ut i Panama av kommuner eller andra politiska underavdelningar. Bestämmelsen, som tillkom på begäran av Panama, medför att den panamanska behöriga myndigheten saknar rätt att från den svenska behöriga myndigheten inhämta upplysningar rörande de aktuella skatterna. Avsikten är inte att någon motsvarande begränsning ska gälla för den svenska behöriga myndigheten.</P>
+<P class="p163 ft17"><SPAN class="ft17">4.2.2</SPAN><SPAN class="ft56">Definitioner</SPAN></P>
+<P class="p146 ft5"><SPAN class="ft52">Artikel 4 </SPAN>innehåller definitioner av vissa uttryck som förekommer i avtalet. Definitionerna överensstämmer i huvudsak med motsvarande definitioner i modellavtalet.</P>
+<P class="p164 ft17"><SPAN class="ft17">4.2.3</SPAN><SPAN class="ft56">Utbyte av upplysningar på begäran</SPAN></P>
+<P class="p165 ft5"><SPAN class="ft52">Artikel 5 </SPAN>innehåller bestämmelser om informationsutbyte på begäran. Bestämmelserna i artikeln överensstämmer i huvudsak med motsvarande bestämmelser i modellavtalet.</P>
+<P class="p12 ft3">I artikel 5.1 finns den allmänna bestämmelsen att den behöriga myndigheten i den anmodade parten på begäran ska lämna upplysningar för de ändamål som anges i artikel 1. Sådana upplysningar ska lämnas utan avseende på om det handlande som är föremål för utredning skulle ha utgjort ett brott enligt den anmodade partens lagstiftning om ett sådant handlande utförts i den anmodade parten.</P>
+<P class="p12 ft3">Av artikel 5.2, som kompletterar artikel 5.1, framgår att den anmodade parten ska vidta alla relevanta åtgärder för att inhämta de begärda upplysningarna. Vad som avses med ”åtgärder för att inhämta upplysningar” definieras i artikel 4.1 n).</P>
+<P class="p25 ft3">Enligt artikel 5.3 ska behörig myndighet i den anmodade parten på begäran, i den utsträckning som detta är tillåtet enligt denna parts interna lagstiftning, lämna upplysningar i form av upptagande av vittnesberättelser och bestyrkta kopior av originalhandlingar.</P>
+<P class="p25 ft3">I artikel 5.4 anges att parterna ska säkerställa att de, för de ändamål som anges i artikel 1, har befogenhet att på begäran inhämta och lämna sådana upplysningar som närmare anges i punkterna a) och b). I punkt a) anges att de behöriga myndigheterna ska ha befogenhet att utbyta upplysningar som innehas av banker, andra finansiella institutioner och annan person som agerar i egenskap av representant eller förvaltare, däri inbegripet ombud och trustförvaltare. Enligt artikel 5.4 b) ska de behöriga myndigheterna vidare ha befogenhet att utbyta upplysningar om ägarförhållandena i bolag, handelsbolag, truster, stiftelser, ”Anstalten” och andra personer, däri inbegripet upplysningar om alla sådana personer i en ägarkedja. I fråga om truster ska upplysningar kunna lämnas om stiftare, förvaltare och förmånstagare. I fråga om stiftelser ska upplysningar kunna lämnas om stiftare, ledamöter i styrelsen och destinatärer.</P>
+<P class="p166 ft3">Artikel 5.5 innehåller en uppräkning av de uppgifter som en begäran</P>
+<P class="p167 ft18">om upplysningar ska innehålla.</P>
+<P class="p168 ft3">19</P>
+</DIV>
+<DIV id="page_20">
+
+
+<TABLE id="lIIll111l1IIlIIlI111lIlI1" cellpadding=0 cellspacing=0 class="t20"></TABLE>
+<P class="p169 ft31">bekräfta mottagandet av en begäran och bemöda sig om att snarast möjligt lämna de begärda upplysningarna till den anmodande parten.</P>
+<P class="p170 ft17"><SPAN class="ft17">4.2.4</SPAN><SPAN class="ft56">Möjlighet att avslå en begäran</SPAN></P>
+<P class="p171 ft3">Bestämmelser om möjlighet för den anmodade parten att avslå en begäran om utbyte av upplysningar finns införda i <SPAN class="ft4">artikel 6</SPAN>. Bestämmelserna i artikeln överensstämmer med motsvarande bestämmelser i modellavtalet. I artikel 6.1 anges att den anmodade parten inte har någon skyldighet att inhämta eller lämna upplysningar som den anmodande parten inte skulle kunna inhämta enligt dess lagstiftning för administration eller verkställighet av dess egen skattelagstiftning. Vidare anges att en begäran får avslås när den inte har gjorts i överensstämmelse med avtalet.</P>
+<P class="p172 ft3">I artikel 6.2 anges att avtalet inte ska medföra skyldighet att lämna upplysningar som skulle röja <NOBR>handels-,</NOBR> <NOBR>affärs-,</NOBR> industri- eller yrkeshemlighet eller kommersiell hemlighet eller i näringsverksamhet nyttjat förfaringssätt. Upplysningar ska dock inte anses som sådana hemligheter eller sådant förfaringssätt endast på grund av att de uppfyller villkoren i artikel 5.4, dvs. att de innehas av finansiella institutioner eller utgör information om ägarförhållanden.</P>
+<P class="p173 ft3">Artikel 6.3 innebär begränsningar i skyldigheten att lämna ut upplysningar som röjer hemlig kommunikation mellan en klient och dennes advokat eller annat juridiskt ombud i samband med juridisk rådgivning.</P>
+<P class="p174 ft5">I artikel 6.4 anges att en begäran får avslås när lämnandet av de begärda upplysningarna skulle strida mot allmänna hänsyn.</P>
+<P class="p175 ft3">I artikel 6.5 anges att en begäran om upplysningar inte ska avslås på grund av att den skattefordran som föranleder begäran har bestridits.</P>
+<P class="p174 ft3">Syftet med artikel 6.6 är att förhindra att avtalet tillämpas på ett sätt som resulterar i diskriminering av medborgare i den anmodade parten. Enligt bestämmelsen får den anmodade parten avslå en begäran om upplysningar om dessa begärs av den anmodande parten för administration eller verkställighet av en bestämmelse i den anmodande partens skattelagstiftning som under samma förhållanden diskriminerar en medborgare i den anmodade parten i förhållande till en medborgare i den anmodande parten.</P>
+<P class="p176 ft17"><SPAN class="ft17">4.2.5</SPAN><SPAN class="ft56">Sekretess</SPAN></P>
+<P class="p171 ft3"><SPAN class="ft4">Artikel 7 </SPAN>innehåller bestämmelser om sekretess. I artikeln anges att alla upplysningar som tas emot av en part med stöd av avtalet ska hållas hemliga på samma sätt som upplysningar som inhämtats med stöd av den interna lagstiftningen i denna part. Vidare anges i artikeln att sådana upplysningar endast får yppas för personer eller myndigheter inom den partens jurisdiktion som har befattning med beskattning eller uppbörd,</P>
+<P class="p177 ft3">exekutiva åtgärder eller åtal, eller handläggning av överklagande</P>
+<P class="p178 ft3">20</P>
+</DIV>
+<DIV id="page_21">
+
+
+<P class="p161 ft5">avseende de skatter som omfattas av avtalet. Av artikeln framgår vidare Prop. 2012/13:88 att uppgifterna endast får användas för angivna ändamål och att uppgif-</P>
+<P class="p179 ft3">terna får yppas vid offentlig domstolsförhandling eller i domstolsavgörande. Av artikeln framgår också att upplysningarna inte får yppas för annan institution eller myndighet inom den anmodande partens jurisdiktion utan uttryckligt skriftligt medgivande av den behöriga myndigheten i den anmodade parten.</P>
+<P class="p12 ft5">Avtalet tar sikte på såväl den situationen att en svensk myndighet lämnar handräckning eller bistånd åt en utländsk myndighet som då en myndighet i den andra parten biträder den svenska myndigheten.</P>
+<P class="p12 ft3">Lagen (1990:314) om ömsesidig handräckning i skatteärenden innehåller bestämmelser om handräckning dels i Sverige åt utländsk myndighet, dels i utlandet åt svensk myndighet. Enligt 24 § samma lag ska villkor, som begränsar möjligheten att utnyttja upplysningar som en svensk myndighet fått från utländsk myndighet i ett skatteärende, följas av svenska myndigheter oavsett vad som annars är föreskrivet i lag eller annan författning.</P>
+<P class="p25 ft3">I 27 kap. 5 § offentlighets- och sekretesslagen (2009:400), OSL, regleras sekretessen i fråga om uppgifter om enskilds personliga eller ekonomiska förhållanden som erhålls eller lämnas vid utbyte av uppgifter på skatteområdet som sker med stöd av internationella avtal. Av bestämmelsens första stycke framgår att sekretess enligt 27 kap. <NOBR>1–4</NOBR> §§ OSL för uppgift om enskilds personliga eller ekonomiska förhållanden gäller, i den utsträckning riksdagen har godkänt ett avtal om detta med en annan stat eller med en mellanfolklig organisation, i ärende om handräckning eller bistånd som en svensk myndighet lämnar åt en myndighet eller något annat organ i den staten eller inom den mellanfolkliga organisationen i verksamhet som motsvarar den som avses i nämnda paragrafer. Sekretess gäller enligt andra stycket samma bestämmelse, i den utsträckning riksdagen har godkänt ett avtal om detta med en annan stat eller med en mellanfolklig organisation, hos en myndighet i verksamhet som avses i 27 kap. <NOBR>1–4</NOBR> §§ OSL för sådan uppgift om en enskilds personliga eller ekonomiska förhållanden som myndigheten förfogar över på grund av avtalet. Om sekretess gäller enligt andra stycket, får enligt bestämmelsens tredje stycke de sekretessbrytande bestämmelserna i 10 kap. <NOBR>15–27</NOBR> §§ och 28 § första stycket OSL inte tillämpas i strid med avtalet. Av bestämmelsens fjärde stycke framgår att för uppgift i en allmän handling gäller sekretessen enligt andra stycket i högst tjugo år.</P>
+<P class="p180 ft5">Regeringen bedömer att all den information som kommer att hanteras inom ramen för denna artikel omfattas av regleringen i 27 kap. 5 § OSL. Detta innebär att avtalets krav på sekretess är förenliga med den svenska offentlighets- och sekretesslagstiftningen och att Sverige kan leva upp till sina avtalsrättsliga åtaganden i detta avseende.</P>
+<P class="p181 ft17"><SPAN class="ft17">4.2.6</SPAN><SPAN class="ft56">Kostnader</SPAN></P>
+<P class="p182 ft31">Enligt <SPAN class="ft38">artikel 8 </SPAN>ska de avtalsslutande parternas behöriga myndigheter komma överens om fördelningen av de kostnader som uppkommer med</P>
+<P class="p183 ft3">21</P>
+</DIV>
+<DIV id="page_22">
+
+
+<P class="p184 ft31">anledning av en begäran om handräckning. Bestämmelsen överensstäm- Prop. 2012/13:88 mer i huvudsak med modellavtalet.</P>
+<P class="p185 ft17"><SPAN class="ft17">4.2.7</SPAN><SPAN class="ft56">Förfarandet vid ömsesidig överenskommelse</SPAN></P>
+<P class="p186 ft3">Förfarandet vid ömsesidig överenskommelse regleras i <SPAN class="ft4">artikel 9</SPAN>.</P>
+<P class="p187 ft17"><SPAN class="ft17">4.2.8</SPAN><SPAN class="ft56">Slutbestämmelser</SPAN></P>
+<P class="p188 ft3"><SPAN class="ft4">Artiklarna 10 och 11 </SPAN>innehåller bestämmelser om ikraftträdande och upphörande. Enligt artikel 10 träder avtalet i kraft den trettionde dagen efter mottagandet av den sista av de skriftliga underrättelser, som parterna ska lämna när de åtgärder vidtagits av respektive avtalsslutande part som krävs för att avtalet ska träda i kraft. I skattebrottsärenden tillämpas avtalet från och med dagen för ikraftträdandet. I alla andra ärenden som omfattas av artikel 1 tillämpas avtalet för beskattningsår som börjar på dagen för ikraftträdandet av avtalet eller senare, eller om beskattningsår saknas, på skatteanspråk som uppkommer dagen för ikraftträdandet av avtalet eller senare.</P>
+<P class="p189 ft1">5 Konsekvenser för de offentliga finanserna</P>
+<P class="p190 ft5">Förslagen i denna proposition förväntas inte ge upphov till någon negativ offentligfinansiell effekt. Förslagen kan i stället komma att motverka ett framtida skattebortfall genom möjligheten till informationsutbyte med Panama.</P>
+<P class="p175 ft31">Inte heller bedöms förslagen ge upphov till några ökade kostnader eller ökad arbetsbörda för Skatteverket eller för de allmänna förvaltningsdomstolarna.</P>
+<P class="p191 ft3">22</P>
+</DIV>
+<DIV id="page_23">
+<DIV id="dimg1">
+<INGENBILD zsrc="H0038823x1.jpg/" id="img1">
+</DIV>
+
+
+<DIV>
+<DIV id="id_1">
+<P class="p15 ft1">Finansdepartementet</P>
+<P class="p129 ft3">Utdrag ur protokoll vid regeringssammanträde den 14 mars 2013.</P>
+<P class="p192 ft5">Närvarande: statsministern Reinfeldt, ordförande, statsråden Bildt, Ask, Larsson, Erlandsson, Hägglund, Carlsson, Borg, Adelsohn Liljeroth, Ohlsson, Norman, Attefall, Engström, Kristersson, <NOBR>Elmsäter-Svärd,</NOBR> Ullenhag, Hatt, Ek, Lööf, Arnholm</P>
+<P class="p193 ft3">Föredragande: statsrådet Borg</P>
+<P class="p194 ft5">Regeringen beslutar proposition 2012/13:88 Informationsutbytesavtal med Panama.</P>
+</DIV>
+<DIV id="id_2">
+<P class="p15 ft3">Prop. 2012/13:88</P>
+<P class="p101 ft3">23</P>
+</DIV>
+</DIV>
+</DIV>
+
+</div><style>
+
+
+TD,TD.p2h {
+zzzfont-size:90%;
+zzzmargin-right:2px;
+zzzoverflow:visable;
+zzzword-wrap: break-word;
+}
+
+P {
+zdisplay:block;
+}
+
+.divbreak {
+clear:both;
+display:block;
+zwidth: 100%;
+zheight: 1px;
+zword-wrap: break-word;
+}
+
+
+.xecp {
+  display:block;
+  margin: 0px !important;
+  padding: 0px !important;
+  
+}
+
+.ec {
+  border-style:solid;
+  border-width:1px;
+  display:block;
+  margin: 0px !important;
+  padding: 0px !important;
+}
+
+.TOPS {
+  overflow:visable;
+  margin:2px;
+  width:690px !important;
+}
+
+</style>

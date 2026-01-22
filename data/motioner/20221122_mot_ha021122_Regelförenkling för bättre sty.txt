@@ -1,0 +1,519 @@
+SEARCH TERM: AI
+DOCUMENT ID: ha021122
+TITLE: Regelförenkling för bättre styrning och service och ökat företagande
+TYPE: mot
+SUBTYPE: Kommittémotion
+DATE: 2022-11-22
+PARLIAMENTARY YEAR: 2022/23
+ORGANISATION: NU
+STATUS: Klar
+DOWNLOADED: 2026-01-22 10:25:16
+================================================================================
+
+<style><!-- 
+ @page Section1 { size:595.3pt 841.9pt; margin:35.45pt 85.05pt }
+div.Section1 { page:Section1 }
+div.pconf body { t-i:17pt; line-height:15pt; font-family:'Verdana'; font-size: 0.90em }
+div.pconf h1, h2, h3, h4, h5, h6, p { margin:0pt }
+div.pconf li, table { margin-top:0pt; margin-bottom:0pt }
+div.pconf h1 { margin-top:41pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:19.5pt; font-family:'Verdana'; font-size: 1.05em; font-weight:normal; color:#000000 }
+div.pconf h2 { margin-top:30pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:17pt; font-family:'Verdana'; font-size: 1.00em; font-weight:normal; color:#000000 }
+div.pconf h3 { margin-top:18pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:17pt; font-family:'Verdana'; font-size: 0.90em; font-weight:bold; color:#000000 }
+div.pconf h4 { margin-top:18pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:17pt; font-family:'Verdana'; font-size: 0.90em; font-weight:normal; font-style:italic; color:#000000 }
+div.pconf h5 { margin-top:15pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:17pt; font-family:'Verdana'; font-size: 0.90em; font-weight:bold; font-style:normal; color:#000000 }
+div.pconf h6 { margin-top:15pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:17pt; font-family:'Verdana'; font-size: 0.90em; font-weight:normal; font-style:italic; color:#000000 }
+.Heading7 { margin-top:15pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:17pt; font-family:'Verdana'; font-size: 0.90em; font-weight:normal; font-style:italic; color:#000000; -aw-style-name:heading7 }
+.Heading8 { margin-top:15pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:17pt; font-family:'Verdana'; font-size: 0.90em; font-weight:normal; font-style:italic; color:#000000; -aw-style-name:heading8 }
+.Heading9 { margin-top:0pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:17pt; font-family:'Verdana'; font-size: 0.90em; font-weight:normal; font-style:italic; color:#000000; -aw-style-name:heading9 }
+.BalloonText { margin-bottom:0pt; t-i:17pt; line-height:normal; font-family:'Segoe UI'; font-size: 0.90em }
+.Beteckning { margin-top:18pt; margin-bottom:0pt; t-i:14.2pt; page-break-inside:auto; page-break-after:auto; line-height:19.5pt; font-size: 1.05em }
+.BlockText, .Inramatstycke { margin-right:56.7pt; margin-left:56.7pt; margin-bottom:0pt; t-i:0pt; text-align:nojustify; line-height:15pt; border:0.75pt solid #000000; padding:10pt; font-size: 0.90em; font-style:italic; -aw-border:0.25pt single }
+.Citaticitat { margin-top:7.5pt; margin-left:34pt; margin-bottom:0pt; t-i:0pt; line-height:12pt; font-size: 0.90em }
+.Citaticitatmedindrag { margin-top:0pt; margin-left:34pt; margin-bottom:7.5pt; t-i:17pt; line-height:12pt; font-size: 0.90em }
+.Citatmedindrag { margin-top:0pt; margin-left:17pt; margin-bottom:0pt; t-i:17pt; line-height:12pt; font-size: 0.90em }
+.CommentSubject { margin-bottom:0pt; t-i:17pt; line-height:normal; font-size: 0.90em; font-weight:bold }
+.CommentText { margin-bottom:0pt; t-i:17pt; line-height:normal; font-size: 0.90em }
+.FSHLogo { margin-top:4pt; margin-bottom:0pt; t-i:0pt; line-height:normal; font-size: 0.90em }
+.FSHNormL { margin-top:4pt; margin-bottom:0pt; t-i:0pt; line-height:15pt; border-top:1.5pt solid #000000; padding-top:3pt; font-size: 0.90em }
+.FSHNormal { margin-top:4pt; margin-bottom:0pt; t-i:0pt; line-height:15pt; font-size: 0.90em }
+.FSHNormalS5 { margin-top:11.5pt; margin-bottom:26pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-size: 0.95em; font-weight:bold }
+.FSHRub1, .Rubrik1S5 { margin-top:135pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:16pt; font-size: 1.00em }
+.FSHRub2, .Rubrik1A4 { margin-top:50pt; margin-bottom:5pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:24pt; font-size: 1.05em }
+.FSHTitel, .Dokumentrubrik { margin-top:4pt; margin-bottom:4pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:20pt; border-bottom:0.75pt solid #000000; padding-bottom:3pt; font-size: 1.05em; -aw-border-bottom:0.5pt single }
+.Footer { margin-top:4pt; margin-bottom:0pt; t-i:0pt; text-align:center; line-height:normal; font-size: 0.90em }
+.FootnoteText { margin-top:0pt; margin-bottom:0pt; t-i:0pt; line-height:12pt; font-size: 0.90em }
+.Frslagsrubrik { margin-top:41pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:19.5pt; font-family:'Verdana'; font-size: 1.05em }
+.Frslagstext, .Hemstlatt, .Yrkande { margin-top:4pt; margin-left:19.85pt; margin-bottom:0pt; t-i:-19.85pt; line-height:15pt; font-size: 0.90em }
+.Header { margin-top:4pt; margin-bottom:0pt; t-i:0pt; line-height:normal; font-size: 0.90em }
+.KantRubrikS5H { margin-top:6pt; margin-right:2.85pt; margin-bottom:0pt; t-i:0pt; text-align:right; line-height:8pt; font-size: 0.90em }
+.KantRubrikS5Hrad2 { margin-top:0pt; margin-right:2.85pt; margin-bottom:0pt; t-i:0pt; text-align:right; line-height:10pt; font-size: 0.90em }
+.KantRubrikS5V { margin-top:6pt; margin-right:0pt; margin-bottom:0pt; t-i:0pt; text-align:left; line-height:8pt; font-size: 0.90em }
+.KantRubrikS5Vrad2 { margin-top:0pt; margin-right:0pt; margin-bottom:0pt; t-i:0pt; text-align:left; line-height:10pt; font-size: 0.90em }
+.KantrubrikH { margin-top:4pt; margin-right:-82.2pt; margin-bottom:0pt; t-i:0pt; text-align:right; line-height:15pt; font-size: 0.90em }
+.KantrubrikV { margin-top:4pt; margin-left:-85.05pt; margin-bottom:0pt; t-i:0pt; line-height:normal; font-size: 0.90em }
+.Klla { margin-top:0pt; margin-bottom:0pt; t-i:0pt; line-height:12pt; font-size: 0.90em }
+.Lagtext { margin-top:4pt; margin-bottom:0pt; t-i:0pt; line-height:normal; font-size: 0.90em }
+.Lagtextindrag { margin-top:4pt; margin-bottom:0pt; t-i:14.2pt; line-height:normal; font-size: 0.90em }
+.Lagtextrubrik { margin-top:4pt; margin-bottom:0pt; t-i:0pt; line-height:normal; font-size: 0.90em; font-style:italic; letter-spacing:1pt }
+.List { margin-top:7.5pt; margin-left:17pt; margin-bottom:7.5pt; t-i:-17pt; line-height:15pt; font-size: 0.90em }
+.ListBullet, .PunktlistaBomb { margin-top:4pt; margin-left:14.2pt; margin-bottom:0pt; t-i:-14.2pt; line-height:15pt; font-size: 0.90em }
+.ListNumber, .PunktlistaNummer { margin-top:4pt; margin-left:14.2pt; margin-bottom:0pt; t-i:-14.2pt; line-height:15pt; font-size: 0.90em }
+.ListParagraph { margin-left:36pt; margin-bottom:0pt; t-i:17pt; line-height:15pt; font-size: 0.90em }
+.ListaGemener { margin-top:7.5pt; margin-left:17pt; margin-bottom:7.5pt; t-i:-17pt; line-height:15pt; font-size: 0.90em }
+.ListaLinje { margin-top:7.5pt; margin-left:19pt; margin-bottom:7.5pt; t-i:-19pt; line-height:15pt; font-size: 0.90em }
+.ListaNummer { margin-top:7.5pt; margin-left:17pt; margin-bottom:7.5pt; t-i:-17pt; line-height:15pt; font-size: 0.90em }
+.ListaPunkt { margin-top:7.5pt; margin-left:17pt; margin-bottom:7.5pt; t-i:-17pt; line-height:15pt; font-size: 0.90em }
+.MotionTIllRiksdagen { margin-top:18pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:19.5pt; font-size: 1.05em }
+.Motionr { margin-top:14pt; margin-bottom:31.5pt; t-i:0pt; page-break-inside:avoid; line-height:15pt; font-size: 1.00em; font-weight:bold; font-style:normal }
+.NormalIndent { margin-left:65.2pt; margin-bottom:0pt; t-i:17pt; line-height:15pt; font-size: 0.90em }
+.Normalutanindragellerluft { margin-top:4pt; margin-bottom:0pt; t-i:0pt; line-height:15pt; font-size: 0.90em }
+.Normal00 { margin-top:4pt; margin-bottom:0pt; t-i:0pt; line-height:normal; font-size: 0.90em }
+.NormalA4fot { margin-top:12pt; margin-bottom:0pt; t-i:0pt; text-align:center; line-height:normal; font-size: 0.90em }
+.NormalA4sidnr { margin-top:4pt; margin-bottom:12pt; t-i:0pt; text-align:center; line-height:normal; font-size: 0.90em }
+.NormalS5sidnrH { margin-top:4pt; margin-right:2.85pt; margin-bottom:0pt; t-i:0pt; text-align:right; line-height:normal; font-size: 0.90em }
+.NormalS5sidnrV { margin-top:4pt; margin-right:0pt; margin-bottom:0pt; t-i:0pt; text-align:left; line-height:normal; font-size: 0.90em }
+.PlainText { margin-bottom:0pt; t-i:0pt; line-height:12pt; font-family:'Verdana'; font-size: 0.90em }
+.Quote { margin-top:7.5pt; margin-left:17pt; margin-bottom:0pt; t-i:0pt; line-height:12pt; font-size: 0.90em }
+.R1 { margin-top:41pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:19.5pt; font-family:'Verdana'; font-size: 1.05em }
+.R2 { margin-top:30pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:17pt; font-family:'Verdana'; font-size: 1.00em }
+.R3 { margin-top:18pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:17pt; font-family:'Verdana'; font-size: 0.90em; font-weight:bold }
+.Rubrik1numrerat { margin-top:41pt; margin-left:0pt; margin-bottom:0pt; t-i:0pt; page-break-inside:auto; page-break-after:avoid; line-height:19.5pt; font-family:'Verdana'; font-size: 1.05em }
+.Rubrik2numrerat { margin-top:30pt; margin-left:0pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:17pt; font-family:'Verdana'; font-size: 1.00em }
+.Rubrik3numrerat { margin-top:18pt; margin-left:0pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:17pt; font-family:'Verdana'; font-size: 0.90em; font-weight:bold }
+.Rubrik4numrerat { margin-top:18pt; margin-left:0pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:17pt; font-family:'Verdana'; font-size: 0.90em; font-weight:normal; font-style:italic }
+.RubrikFrslagTIllRiksdagsbeslut { margin-top:41pt; margin-bottom:15pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:19.5pt; font-family:'Verdana'; font-size: 1.05em }
+.RubrikInnehllsf { margin-top:41pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:19.5pt; font-family:'Verdana'; font-size: 1.05em }
+.RubrikSammanf { margin-top:41pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:19.5pt; font-family:'Verdana'; font-size: 1.05em }
+.Salutation { margin-top:41pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:19.5pt; font-family:'Verdana'; font-size: 1.05em }
+.Streckkod { margin-top:12pt; margin-bottom:0pt; t-i:0pt; text-align:center; line-height:normal; font-family:IDAutomationHC39S; font-size: 1.00em }
+.Strecklista, .PunktlistaTankstreck { margin-top:4pt; margin-left:14.2pt; margin-bottom:0pt; t-i:-14.2pt; line-height:15pt; font-size: 0.90em }
+.Subtitle { margin-top:4pt; margin-bottom:0pt; t-i:0pt; line-height:15pt; font-family:'Verdana'; font-size: 0.90em; font-weight:bold }
+.TOC1 { margin-top:4pt; margin-bottom:0pt; t-i:0pt; line-height:15pt; font-size: 0.90em }
+.TOC2 { margin-top:4pt; margin-left:14.2pt; margin-bottom:0pt; t-i:0pt; line-height:15pt; font-size: 0.90em }
+.TOC3 { margin-top:4pt; margin-left:28.35pt; margin-bottom:0pt; t-i:0pt; line-height:15pt; font-size: 0.90em }
+.TOC4 { margin-top:4pt; margin-left:42.55pt; margin-bottom:0pt; t-i:0pt; line-height:15pt; font-size: 0.90em }
+.TOC5 { margin-top:4pt; margin-left:56.7pt; margin-bottom:0pt; t-i:0pt; line-height:15pt; font-size: 0.90em }
+.TOC6 { margin-top:4pt; margin-left:56.7pt; margin-bottom:0pt; t-i:0pt; line-height:15pt; font-size: 0.90em }
+.TOC7 { margin-top:15pt; margin-left:56.7pt; margin-bottom:0pt; t-i:14.2pt; page-break-inside:avoid; page-break-after:avoid; line-height:normal; font-family:'Verdana'; font-size: 0.90em; font-weight:normal; font-style:italic }
+.TOC8 { margin-top:15pt; margin-left:56.7pt; margin-bottom:0pt; t-i:14.2pt; page-break-inside:avoid; page-break-after:avoid; line-height:normal; font-family:'Verdana'; font-size: 0.90em; font-weight:normal; font-style:italic }
+.TOC9 { margin-top:15pt; margin-left:56.7pt; margin-bottom:0pt; t-i:14.2pt; page-break-inside:avoid; page-break-after:avoid; line-height:normal; font-family:'Verdana'; font-size: 0.90em; font-weight:normal; font-style:italic }
+.TOCHeading { margin-top:41pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:19.5pt; font-family:'Verdana'; font-size: 1.05em }
+.Tabellunderrubrik { margin-top:0pt; margin-bottom:0pt; t-i:0pt; page-break-after:avoid; line-height:15pt; font-size: 0.90em; font-weight:normal; font-style:italic }
+.Tabellrubrik { margin-top:7.5pt; margin-bottom:0pt; t-i:0pt; page-break-after:avoid; line-height:15pt; font-size: 0.90em; font-weight:bold }
+.Title { margin-top:41pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:19.5pt; font-family:'Verdana'; font-size: 1.05em }
+.Underskriftdatum { margin-top:24pt; margin-bottom:3pt; t-i:0pt; page-break-inside:avoid; line-height:15pt; font-size: 0.90em; font-style:normal }
+.Underskrifter { margin-top:15pt; margin-bottom:3pt; t-i:0pt; page-break-inside:avoid; line-height:15pt; font-size: 0.90em; font-style:italic }
+.Yrkandehnv, .Frslagspunkthnv { margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; font-size: 0.90em }
+span.BallongtextChar { font-family:'Segoe UI'; font-size: 0.90em }
+span.BeteckningChar { font-size:19.5pt }
+span.CommentReference { font-size:8pt }
+span.FSHRub2Char, span.Rubrik1A4Char { font-size:24pt }
+span.FotnotstextChar { font-size:10pt }
+span.Hyperlink { text-decoration:underline; color:#0563c1; -aw-style-name:hyperlink }
+span.InledningChar { font-family:'Verdana'; font-size: 1.00em; font-weight:bold }
+span.IntenseReference { font-weight:normal; font-style:normal; font-variant:normal; text-decoration:none; text-transform:none; letter-spacing:0pt; vertical-align:0pt; color:#000000; display:inline }
+span.KommentarerChar { font-size:10pt }
+span.KommentarsmneChar { font-size:10pt; font-weight:bold }
+span.MotionTIllRiksdagenChar { font-size:19.5pt }
+span.OformateradtextChar { font-family:'Verdana'; font-size: 0.90em }
+span.PlaceholderText { color:#f4b083 }
+span.Rubrik1Char { font-family:'Verdana'; font-size: 1.05em }
+span.Rubrik2Char { font-family:'Verdana'; font-size: 1.00em }
+span.Rubrik3Char { font-family:'Verdana'; font-size: 0.90em; font-weight:bold }
+span.Rubrik4Char { font-family:'Verdana'; font-size: 0.90em; font-style:italic }
+span.Rubrik5Char { font-family:'Verdana'; font-weight:bold }
+span.Rubrik6Char { font-family:'Verdana'; font-style:italic }
+span.Rubrik7Char { font-family:'Verdana'; font-size: 0.90em; font-weight:bold }
+span.Rubrik8Char { font-family:'Verdana'; font-size: 0.90em; font-weight:bold }
+span.Rubrik9Char { font-family:'Verdana'; font-size: 0.90em; font-weight:bold }
+span.RubrikChar { font-family:'Verdana'; font-size: 1.00em; font-weight:bold }
+span.SidfotChar { font-size:11.5pt }
+span.UnderrubrikChar { font-family:'Verdana'; font-size: 0.90em; font-weight:bold }
+.TableGrid {  }
+
+.pconf{width: 450px;margin-left:5px;overflow:visable;font-family:Verdana, Geneva, sans-serif;} 
+ .sidhuvud_publikation, .sidhuvud_beteckning{font-size:133%}
+.MotionarLista {font-size:122%}
+
+--></style><div class="pconf"><span class="sidhuvud_publikation">Motion till riksdagen</span><br/>
+<span class="sidhuvud_beteckning">2022/23:1122</span><br/>
+<span class="MotionarLista">av Elisabeth Thand Ringqvist m.fl. (C)</span><br/>
+<h1>Regelförenkling för bättre styrning och service och ökat företagande</h1>
+<hr class="sidhuvud_linje"/>
+
+
+		<div class="Section1">
+			<div style="-aw-sdt-tag:'CC_Boilerplate_4'; -aw-sdt-title:'CC_Boilerplate_4'">
+				<h1 style="margin-bottom:15pt">
+					<a name="_Toc106801300"></a><a name="_Toc106800475"><span>Förslag till riksdagsbeslut</span></a>
+				</h1>
+			</div>
+			<div style="-aw-sdt-tag:'d85c9797-f488-4643-8130-734a8f711c1b'; -aw-sdt-title:'Yrkande 1'">
+				<ol type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-left:14pt; t-i:0pt; padding-left:5.85pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om en mer sammanhållen, transparent regelförenklingsprocess och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'b2fb575a-6b23-41f5-824d-fc5770863397'; -aw-sdt-title:'Yrkande 2'">
+				<ol start="2" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; margin-left:14pt; t-i:0pt; padding-left:5.85pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att se över om Regelrådet ska bli en egen myndighet med mandat att komma in tidigare i lagstiftningsprocessen och ges utökat uppdrag att följa upp både de avgifter som företagen åläggs för olika typer av tillstånd och handläggningstider hos myndigheter och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'fc70ccf9-85fc-4a29-85aa-040faffc4474'; -aw-sdt-title:'Yrkande 3'">
+				<ol start="3" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; margin-left:14pt; t-i:0pt; padding-left:5.85pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att regeringen i sin styrning och ledning av myndigheter bör tydliggöra arbetet med regelförenklingar och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'3e7f4ae4-f03f-40c2-971a-98c62abd6572'; -aw-sdt-title:'Yrkande 4'">
+				<ol start="4" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; margin-left:14pt; t-i:0pt; padding-left:5.85pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att regeringen bör återkomma till riksdagen med en sammanställning av utredda och genomförda regelförenklingar och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'186942c0-c14f-45c2-b56e-b28b7ae5aad7'; -aw-sdt-title:'Yrkande 5'">
+				<ol start="5" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; margin-left:14pt; t-i:0pt; padding-left:5.85pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att fungerande regellättnader som införts under coronapandemin bör permanentas och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'5f140430-8916-41dc-8d88-324210acf196'; -aw-sdt-title:'Yrkande 6'">
+				<ol start="6" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; margin-left:14pt; t-i:0pt; padding-left:5.85pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att säkerställa att det finns kontrollstationer för regelförenklingsarbetet så att systematiska utvärderingar och uppföljningar görs och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'4e5f68e2-5ea5-4ace-809d-1851b2770fdb'; -aw-sdt-title:'Yrkande 7'">
+				<ol start="7" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; margin-left:14pt; t-i:0pt; padding-left:5.85pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att regelbördan för småföretag och mikroföretag bör minskas kraftigt och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'453a398c-afc0-40e4-80d9-d1930421335b'; -aw-sdt-title:'Yrkande 8'">
+				<ol start="8" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; margin-left:14pt; t-i:0pt; padding-left:5.85pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att en översyn av systemet med regelverket kring konsekvensbeskrivningar som infördes år 2008 bör göras och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'91cd445f-59be-4941-81ea-e94fbab9224b'; -aw-sdt-title:'Yrkande 9'">
+				<ol start="9" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; margin-left:14pt; t-i:0pt; padding-left:5.85pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att ta fram index och nyckeltal inspirerat av det arbete SKR gör med kommunerna i syfte att kunna mäta och utvärdera förenklingsarbetet hos myndigheterna och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'ca9315f8-fc11-4191-b2b9-adcd0f52ca1b'; -aw-sdt-title:'Yrkande 10'">
+				<ol start="10" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; t-i:0pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att förenkla och minimera företagens uppgiftslämnande och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'2d9c5fc6-5a27-4fbc-850a-314cab80e1a2'; -aw-sdt-title:'Yrkande 11'">
+				<ol start="11" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; t-i:0pt">
+						<a name="_Hlk138762831"><span>Riksdagen ställer sig bakom det som anförs i motionen om att offentliga handläggningsavgifter bör minska om handläggningen går utöver tidsfristen och tillkännager detta för regeringen.</span></a>
+					</li>
+				</ol>
+			</div>
+			<span style="-aw-bookmark-end:_Hlk138762831">
+			</span>
+			<div style="-aw-sdt-tag:'0562dd9d-adfc-471f-bffd-1cb34c0912d7'; -aw-sdt-title:'Yrkande 12'">
+				<ol start="12" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; t-i:0pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att regeringen ska tillsätta en utredning om att se över hur lagstiftningen kan differentieras utifrån storleken på företaget och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'4271499a-36f8-4c8b-8622-0d7f5d6d0ff7'; -aw-sdt-title:'Yrkande 13'">
+				<ol start="13" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; t-i:0pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att Sverige bör övergå till direktimplementering av EU-direktiv med EU:s miniminivå som standard och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'bfeee72e-da61-40d1-99f3-7fb9f2fdebd3'; -aw-sdt-title:'Yrkande 14'">
+				<ol start="14" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; t-i:0pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att införa en maximal handläggningstid vid överklaganden och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'b2cfaa6e-4b07-4f40-b925-5431aeff8cb5'; -aw-sdt-title:'Yrkande 15'">
+				<ol start="15" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; t-i:0pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att begränsa sakägarkretsen vid överklaganden och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'85109720-d771-4c52-a099-189fd13b9454'; -aw-sdt-title:'Yrkande 16'">
+				<ol start="16" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; t-i:0pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att införa solnedgångsklausuler som syftar till att fasa ut regler om de inte har använts under en viss tidsperiod och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'20d12a5f-09fa-4974-b767-4e83c23209a8'; -aw-sdt-title:'Yrkande 17'">
+				<ol start="17" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; t-i:0pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att riksintressena återkommande bör aktualiseras samt att en solnedgångsklausul för riksintressen bör införas och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'f67bb7c7-2ca6-400e-8d7e-2959daa5dca6'; -aw-sdt-title:'Yrkande 18'">
+				<ol start="18" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; t-i:0pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om minskade kostnader för regelkrångel och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'862e0b38-e9c6-4873-8f7e-9b266c271a5e'; -aw-sdt-title:'Yrkande 19'">
+				<ol start="19" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; t-i:0pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att jämföra Sverige med andra länder avseende regelförenklingsarbetet i syfte att identifiera utvecklingsområden och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<span style="-aw-bookmark-end:_Toc106801300">
+			</span>
+			<div style="-aw-sdt-tag:'CC_Motivering_Rubrik'; -aw-sdt-title:'CC_Motivering_Rubrik'">
+				<h1>
+					<span style="-aw-bookmark-end:_Toc106800475"></span><a name="MotionsStart"></a><a name="_Toc106801301"></a><a name="_Toc106800476"><span>Motivering</span></a>
+				</h1>
+			</div>
+			<span style="-aw-bookmark-end:_Toc106801301">
+			</span>
+			<p class="Normalutanindragellerluft">
+				<span style="-aw-bookmark-end:_Toc106800476"></span><span>Att minska regelbördan för det svenska näringslivet är A och O för Centerpartiet. Servicekulturen hos svenska myndigheter är på många ställen god men måste utvecklas och förbättras. Inställning, bemötande och kundfokus är lika viktigt som regelverk, processer och handläggningsrutiner. Regelförenkling handlar mycket om ledarskap, styrning och tillämpning. Det handlar om att tillämpa lagar och föreskrifter på ett sätt som minskar väntetider. Viktigt är också att se möjligheter i stället för problem i varje ärende och där så är möjligt hantera olika delar i en ansökan parallellt i olika myndig</span><span>&#xad;</span><span>heter, men med ett fungerande samarbete berörda myndigheter emellan så att inte oklar</span><span>&#xad;</span><span>heter uppstår för de berörda företagen. Detta synsätt bör gälla för såväl stora industri</span><span>&#xad;</span><span>investeringar som säsongsberoende tillstånd. </span>
+			</p>
+			<h2>
+				<span>En sammanhållen och transparent regelförenklingsprocess</span>
+			</h2>
+			<p class="Normalutanindragellerluft">
+				<span>Arbetet med regelförenkling är grundläggande för att Sverige ska kunna erbjuda ett gott företagsklimat. Regelrådet ska bli en egen myndighet med mandat att komma in tidigare i lagstiftningsprocessen och ges utökat uppdrag att både följa upp de avgifter som företagen åläggs för olika typer av tillstånd och handläggningstider hos myndigheter.</span>
+			</p>
+			<p>
+				<span>Medborgare och företagare har rätt att kräva att varje myndighet arbetar med servicekulturen och genom ständiga förbättringar anpassar verksamheten till kundens behov. Digitaliseringen är central i regelförenklingsprocessen – dels genom att avlasta handläggare och annan personal, och dels genom att skapa transparens och skapa för</span><span>&#xad;</span><span>troende för verksamheten och de beslut som fattas. Varje myndighet har sina särskilda förutsättningar men det finns också mycket som förenar. Exakt hur regelförenklings</span><span>&#xad;</span><span>arbetet ska bedrivas i respektive organisation lämnas bäst till ledning och styrelse vid myndigheterna. Dock kan regeringen genom sina regleringsbrev få myndigheterna att prioritera en utveckling av servicekulturen i myndigheten – det kan handla om utbild</span><span>&#xad;</span><span>ning, incitament, mätningar, med mera. Det är angeläget att myndigheterna arbetar med ständiga förbättringar i sin verksamhet avseende service och kundfokus. Som regel ska myndigheter ha skrivningar om regelförenkling, särskilt och främst de myndigheter som i sitt arbete hanterar näringslivsfrågor av olika slag. </span>
+			</p>
+			<p>
+				<span>Det har under de senaste 10–15 åren genomförts en rad olika utredningar och kart</span><span>&#xad;</span><span>läggningar angående hur myndigheterna kan regelförenkla. Det saknas dock en över</span><span>&#xad;</span><span>blick av resultaten avseende hur och om de har implementerats och med vilken effekt. En sådan sammanställning skulle behövas och vi anser att regeringen skyndsamt bör återkomma till riksdagen med en sådan. Utifrån en sådan sammanställning skulle man sedan via modern sökteknik – Machine-learning, AI eller motsvarande – kunna identi</span><span>&#xad;</span><span>fiera de olika lager och nivåer av regler som skapar byråkratiska hinder.</span>
+			</p>
+			<p>
+				<span>Tillväxtverket har i rapporten Förenklingsresan – sammanställda, analyserade och konkretiserade förenklingsförslag till regeringen lämnat förslag på steg för ytterligare förenklingar. Det är ett förtjänstfullt arbete med många viktiga och användbara iakttagelser, bland annat angående personalliggare och hotelltillstånd, frågor som Centerpartiet uppmärksammat länge. Vad vi kan se så adresserar dock inte Tillväxt</span><span>&#xad;</span><span>verket frågor som styrning, ledning, ledarskap och regelförenkling som en hållbarhets- och kulturfråga i sin rapport. </span>
+			</p>
+			<h2>
+				<span>Utredningen om regelförenkling måste omsättas i handling</span>
+			</h2>
+			<p class="Normalutanindragellerluft">
+				<span>Inom ramen för JA-samarbetet så var Centerpartiet drivande i att tillsätta en utredning för att belysa hur regelförenklingen kan öka i våra företag. Utredningen ”Enklare regel</span><span>&#xad;</span><span>verk för mikroföretag och en modernisering av bokföringslagen” är nu klar. Den inne</span><span>&#xad;</span><span>håller flera positiva förslag som om de genomförs kan minska regelbördan för mindre företag. En stor del av utredningen tar fasta på behovet av en mer transparent och sam</span><span>&#xad;</span><span>manhållen regelprocess för att skapa förutsättningar för mer kostnadseffektiva regelverk och ett fungerande regelförbättringsarbete. Ska regelbördan minska är det viktigt att regering och riksdag i samverkan med myndigheter tar till sig dessa förslag i syfte att minska regelbördan.</span>
+			</p>
+			<p>
+				<span>Centerpartiet har aktivt bidragit till att göra det lättare att starta företag, startkapitalet för ett aktiebolag behöver i dag bara vara 25</span><span>&#xa0;</span><span>000 kronor. Men det finns delar av lagstift</span><span>&#xad;</span><span>ningen som skulle kunna bättre anpassas till de mindre företagens behov. Det kan handla om frekvens på uppföljning av tillstånd eller utökade möjligheter till schabloner. Det bör utredas och regeringen föreslå hur dessa aspekter, samt andra delar av relevant lagstiftning, bättre kan anpassas till småföretagens behov. </span>
+			</p>
+			<h2>
+				<span>Permanenta fungerande förenklingar som gjorts under pandemin</span>
+			</h2>
+			<p class="Normalutanindragellerluft">
+				<span>Coronapandemin gjorde att det uppstod nya rutiner och samverkansformer mellan enskilda näringsidkare, kommuner och myndigheter. De ”undantagstillstånd” som etablerades – inte minst mellan tillståndsenheter på lokal nivå, mellan företag och kommun – har visat sig vara positivt och pragmatiskt för båda parter. Det är viktigt att man nu i återställningsfasen utvärderar de effektiviserade rutinerna och tar vara på det som varit positivt. Om det krävs ny lagstiftning för detta så ställer sig Centerpartiet positivt till en sådan översyn. Vår grundinställning är att de under pandemin införda regelförenklingarna i normalfallet ska behållas.</span>
+			</p>
+			<h2>
+				<span>Inför kontrollstationer för regelförenklingsarbetet</span>
+			</h2>
+			<p class="Normalutanindragellerluft">
+				<span>Att minska regelbördan handlar både om konkreta förändringsförslag men också om att från lagstiftarens sida, liksom på myndighetsnivå, följa upp vad som fungerar och vad som måste ses över på nytt. Detta kräver överblick, samordning och resurser, samt politisk vilja. Centerpartiet anser att det bör införas kontrollstationer så att systematiska utvärderingar och uppföljningar kring regelförenkling görs. Utredningen ”Enklare regelverk för mikroföretag och en modernisering av bokföringslagen” ger exempel på en del lösningar, men det viktiga är att resurser fördelas dit de gör mest nytta och att styrningsfunktionen blir funktionell. I linje med resonemanget ovan vill därför också Centerpartiet att en översyn görs av det system med regelverket kring konsekvens</span><span>&#xad;</span><span>beskrivningar som infördes år 2008.</span>
+			</p>
+			<h2>
+				<span>Konsekvensutredningar bör föregå nya regler</span>
+			</h2>
+			<p class="Normalutanindragellerluft">
+				<span>Statliga ingripanden, i form av regleringar eller andra åtgärder, sker i syfte att antingen korrigera ett problem, förebygga att problem uppstår eller i syfte att uppnå en, ur ett samhällsperspektiv, önskvärd situation. Men även om en åtgärd medför nytta kan den också innebära en belastning. Regler påverkar olika aktörer och förhållanden i samhället på olika sätt, såväl medborgare, företag, myndigheter och miljön som ekonomin i stort. Regler kan också medföra både direkta och indirekta effekter. Konsekvensutredningen är ett verktyg för att bedöma hur och i vilken omfattning ett förslag påverkar olika aktörer, hälsan, miljön, ekonomin eller samhället i stort.</span>
+			</p>
+			<p>
+				<span>Av förordning (2007:1244) om konsekvensutredning vid regelgivning framgår att lagstiftaren vill att till exempel myndigheter konsekvensprövar beslut som innebär nya regler. Innan en myndighet beslutar om föreskrifter eller allmänna råd, ska myndigheten så tidigt som möjligt: 1. utreda föreskrifternas eller de allmänna rådens kostnadsmässiga och andra konsekvenser i den omfattning som behövs i det enskilda fallet och dokumen</span><span>&#xad;</span><span>tera utredningen i en konsekvensutredning, och 2. ge statliga myndigheter, kommuner, regioner, organisationer, näringslivet och andra som kostnadsmässigt eller på något annat betydande sätt berörs tillfälle att yttra sig i frågan och om konsekvensutredningen.</span>
+			</p>
+			<p>
+				<span>Tillväxtverket har i rapporten ”Förslag och genomförda åtgärder för att </span><span style="letter-spacing:-0.05pt">konsekvens</span><span style="letter-spacing:-0.05pt">&#xad;</span><span style="letter-spacing:-0.05pt">utredningarnas kvalitet ska höjas” konstaterat att kvaliteten på de konsekvensutred</span><span style="letter-spacing:-0.05pt">&#xad;</span><span style="letter-spacing:-0.05pt">ningar</span><span> som medför effekter av betydelse för företag är fortsatt alltför låg. Myndigheten lämnar också förslag på hur dessa kan förbättras bland annat genom att Regelrådet involveras tidigare i processen. </span>
+			</p>
+			<h2>
+				<span>Att skapa jämförelseindex och incitament</span>
+			</h2>
+			<p class="Normalutanindragellerluft">
+				<span>All verksamhet utvecklas om det finns möjlighet att mäta och följa upp arbetet. Det blir också meningsfullare för medarbetare i organisationen om de känner att deras insats blir mätbar och därmed utvecklingsbar. När det gäller regelförenkling så har Sveriges kom</span><span>&#xad;</span><span>muner och regioner (SKR) sedan många år arbetat för att hjälpa kommunsektorn att </span><span style="letter-spacing:-0.1pt">hitta index att mäta servicenivån utifrån. Det handlar om myndighetsområden som brand</span><span style="letter-spacing:-0.1pt">&#xad;</span><span style="letter-spacing:-0.1pt">skydd,</span><span> bygglov, markupplåtelse, miljö- och hälsoskydd, livsmedelskontroll och server</span><span>&#xad;</span><span>ingstillstånd. Kommunerna skickar själva in svar på enkäter som SKR tillhandahåller och sammanställer. Av sammanställningen framgår hur nöjda kommunmedborgarna och företagen i respektive kommun är med bemötande och service från sin kommun. Svaren och sammanställningen är helt öppen och sporrar, enligt SKR, kommunerna att utveckla </span><span style="letter-spacing:-0.1pt">sitt arbete ytterligare. En del av förbättringspotentialen ligger givetvis i olika regel</span><span style="letter-spacing:-0.1pt">&#xad;</span><span style="letter-spacing:-0.1pt">förenk</span><span style="letter-spacing:-0.1pt">&#xad;</span><span style="letter-spacing:-0.1pt">lingsåtgärder.</span>
+			</p>
+			<p>
+				<span>Centerpartiet tror att en liknande metodik skulle kunna tillämpas gentemot myndig</span><span>&#xad;</span><span>heter. Vi ser det som möjligt att hitta index och nyckeltal att mäta utifrån som gör att erfarenheter och kunskap från olika myndigheter blir tillgängliga och att myndigheterna själva kan bedömas enligt kriterier de själva har förtroende för. Här finns också inspira</span><span>&#xad;</span><span>tion att hämta från Svenskt Näringslivs företagsranking som kommunerna noga följer och ger akt på, liksom tidskriften Fokus som varje år utser Årets kommun utifrån en rad olika kriterier.</span>
+			</p>
+			<h2>
+				<span>Regelförenkling avgörande för besöksnäring och företagande</span>
+			</h2>
+			<p class="Normalutanindragellerluft">
+				<span>Att driva företag inom besöksnäringen medför återkommande kontakter med många olika myndigheter och innebär ett omfattande uppgiftslämnande. Att behöva lämna samma uppgifter flera gånger är betungande för företagen. Det tar tid och kostar pengar som i stället skulle kunna läggas på verksamheten. Lagar, regler och myndigheternas verksamheter måste utformas och tillämpas på ett sätt som minimerar företagens admi</span><span>&#xad;</span><span>nistrativa börda och gör det enkelt. Företag ska inte behöva lämna samma uppgifter till myndigheter flera gånger och till flera olika ställen.</span>
+			</p>
+			<p>
+				<span>Överlag finns det stora vinster för besöksnäringen vid omfattande regelförenkling. Det handlar bland annat om att avskaffa dans- och hotelltillstånd, se över lagstiftning kring personalliggare och att tillåta gårdsförsäljning av alkoholhaltiga drycker. </span>
+			</p>
+			<p>
+				<span>Regelförenkling kommer att gynna inte minst små företag och särskilt inom besöks- och servicenäringen. I besöksnäringen arbetar fler kvinnor än män inom områden som turistservice, hotell och resebyråer. Det är fler kvinnor som inom denna sektor får sitt första jobb. Av detta följer att besöksnäringen är viktig för kvinnors sysselsättning. Ett aktivt regelförenklingsarbete på detta område är därmed också viktigt ur ett jämställd</span><span>&#xad;</span><span>hets</span><span>&#xad;</span><span>perspektiv.</span>
+			</p>
+			<h2>
+				<span>Förenkla och minimera företagens uppgiftslämnande</span>
+			</h2>
+			<p class="Normalutanindragellerluft">
+				<span>Det finns idag goda initiativ från myndigheterna för att förenkla för företagen. Ett sådant är Serverat. Syftet med Serverat är att minska och förenkla företagens uppgifts</span><span>&#xad;</span><span>lämnande och förenkla kontakterna med myndigheter. Serverat bidrar även till att hand</span><span>&#xad;</span><span>läggningen av ärenden blir effektivare. Inom Serverat utvecklas digital information, guidning och tjänster som utgår från företagens förutsättningar och behov. Tillstånd och liknande förfaranden där företag måste lämna uppgifter till myndigheter för att kunna starta eller utveckla sin verksamhet är i fokus. På sajten verksamt.se erbjuds dessa digitala tjänster.</span>
+			</p>
+			<p>
+				<span>Företag inom besöksnäringen betalar många olika avgifter till myndigheter i sam</span><span>&#xad;</span><span>band med ansökningar och tillstånd. Exempel på sådana är avgifterna för tillsyn enligt alkohol-, livsmedels- och miljölagstiftningen. Att en avgift ska motsvaras av en mot</span><span>&#xad;</span><span>prestation måste anses vara en självklarhet rent allmänt, men det är också en laglig förutsättning för att avgiften inte ska utgöra en otillåten beskattning. Således måste det också vara huvudregel att myndigheterna tar ut avgifter från berörda företag först när motprestationen – i detta fall tillsynen – faktiskt är utförd. Centerpartiet förespråkar därför en ordning som tillämpas exempelvis inom ramen för ”Tillväxt &amp; tillsyn” eller ”Rättviksmodellen” och anser att det i gällande regelverk bör göras till en tydlig grund</span><span>&#xad;</span><span>princip att tillsynsavgifter ska debiteras företagen i efterhand. Efterhandsbetalning av tillsynsavgifter bör göras till regel och införas av alla myndigheter i Sverige.</span>
+			</p>
+			<p>
+				<span>Centerpartiet anser att också statliga myndigheter bör ta lärdom av denna typ av goda exempel. En normal del i ett ansökningsförfarande är att sökande erlägger en avgift i väntan på myndighetens handläggning. I de fall myndigheten inte klarar av att leverera sitt besked inom utsatt tid anser Centerpartiet att en del av eller hela avgiften ska återbetalas. Detta dels för att myndigheten ska se över sina rutiner och erbjuda och fullfölja den service den kommunicerat till sökanden, dels utgöra ett incitament för myndigheten själv. Detta tangerar den så kallade Rättviksmodell som Centerpartiet redan driver, nämligen att sökanden ska erlägga en avgift hos kommunen när tjänsten redan är utförd. I andra kommuner finns liknande exempel med servicegarantier.</span>
+			</p>
+			<h2>
+				<span>Anpassa regler för små företag</span>
+			</h2>
+			<p class="Normalutanindragellerluft">
+				<span>Lagar och regler behöver anpassas för att fungera för alla typer av företag. Det finns stora skillnader mellan att driva mikro- eller enmansföretag, växande mindre företag, eller stora bolag och koncerner. Regelbördan påverkar inte sällan de små företagen allra tydligast, eftersom de inte har en organisation som är anpassad för att hantera kompli</span><span>&#xad;</span><span>cerade regelverk. Bland annat hindras tillväxten i de mindre företagen när kraven är desamma oavsett om man har en eller 100 anställda. Ett exempel är kravet på att ha en plan för att motverka diskriminering. Med endast en anställd så är det inte rimligt med långtgående, detaljerade planer. Likväl är det ett krav som ställs på företaget. Å andra sidan är den sortens planer fullt relevanta i organisationer med många anställda. Det behövs en utredning av den lagstiftning som berör företagen som gör en differentiering av vilken storlek på företagen som ska beröras av den aktuella lagstiftningen. </span>
+			</p>
+			<h2>
+				<span>Överimplementering ett problem</span>
+			</h2>
+			<p class="Normalutanindragellerluft">
+				<span>Implementeringen av EU-direktiv utgör ofta ett problem för svenska företag – i synner</span><span>&#xad;</span><span>het för små företag med begränsade förutsättningar att hantera invecklad byråkrati. Sverige utmärker sig ofta genom att överimplementera EU:s regelverk. För att minska dessa problem menar vi att Sverige bör övergå till att i normalfallet direktimplementera EU-direktiv. Som regel bör detta ske på miniminivå, och endast när starkt vägande skäl finns bör detta uttryckas i särskild lagstiftning. För att hantera denna problematik har Danmark infört ett implementeringsråd. Det finns skäl för Sverige att ta inspiration av den danska modellen, exempelvis genom att utveckla Regelrådet, som sedan år 2008 arbetat med just regelförenkling. Skäl finns också för ett nära samarbete mellan de nordiska länderna för att på så sätt minimera risken för att nya gränshinder inom Norden uppstår vid implementering av EU-regler.</span>
+			</p>
+			<h2>
+				<span>Se över upphandlingslagstiftningen </span>
+			</h2>
+			<p class="Normalutanindragellerluft">
+				<span>I dag ser vi att det på sina håll är satt i system att överklaga offentliga upphandlingar, vilket leder till friktion och förseningar och fördyringar. För att komma till rätta med denna problematik krävs en bred översyn av upphandlingslagstiftningen som skulle syfta till smidigare och mer förutsägbara processer. Centerpartiet vill därför att systemet ses över för att bli mindre resurskrävande för alla inblandade parter.</span>
+			</p>
+			<h2>
+				<span>Begränsa sakägarkretsen vid överklaganden av byggprojekt</span>
+			</h2>
+			<p class="Normalutanindragellerluft">
+				<span>Centerpartiet vill begränsa okynnesöverklaganden inom byggsektorn. Många och långa överklagandeprocesser leder till att förlänga och försvåra byggprocesserna. Det hindrar företag inom byggbranschen från att utvecklas. Ibland ser vi också hur möjligheten att överklaga missbrukas i syfte att försvåra och försena. När detta sker är risken över</span><span>&#xad;</span><span>hängande att byggherrarna hellre väljer att avstå från att bygga snarare än att invänta och slösa tid och resurser på en utdragen rättsprocess.</span>
+			</p>
+			<p>
+				<span>När det gäller överklaganden bör en maximal handläggningstid införas. Sakägar</span><span>&#xad;</span><span>kretsen vid ett överklagande bör begränsas. Införandet av en avgift för den som över</span><span>&#xad;</span><span>klagar beslut om bygglov och detaljplan bör utredas. </span>
+			</p>
+			<h2>
+				<span>Inrätta solnedgångsklausuler</span>
+			</h2>
+			<p class="Normalutanindragellerluft">
+				<span>En del regler kan fasa ut sig själva, genom att myndigheter tillämpar en så kallad ”solnedgångsklausul” som innebär att regler och föreskrifter som till exempel inte har åberopats under en viss tid helt enkelt försvinner från regelverket. Centerpartiet ser positivt på utarbetande av principer kring detta. </span>
+			</p>
+			<p>
+				<span>Ett exempel på ett område där solnedgångsklausuler skulle vara användbara handlar om byggsektorn. Ungefär halva Sverige är i dag klassat som statligt riksintresse. Ofta är detta skydd befogat, men omfattningen är för stor och ingriper på ett orimligt sätt mot angelägna behov, exempelvis av bostadsbyggande. Det är viktigt att riksintressena återkommande aktualiseras. Centerpartiet har därför bidragit till att krav ställs på detta. Helst vill vi se att detta görs regelbundet, förenat med en solnedgångsklausul som gör att riksintresseanspråket förfaller om så inte sker, eller om marken inte tas i anspråk inom en viss tid. </span>
+			</p>
+			<h2>
+				<span>Minska kostnaderna för regelkrångel</span>
+			</h2>
+			<p class="Normalutanindragellerluft">
+				<span>Regeringen arbetar i dag med regelförbättringsmål. Det är i grunden bra att denna fråga finns på den politiska agendan, men mer måste göras. Några av de mål som finns i dag handlar om att de administrativa kostnaderna för företagen ska minska; det ska vara enklare att lämna uppgifter (förenkling genom digitalisering); servicen ska öka och handläggningstiderna ska minska. Ytterligare mål handlar om bättre konsekvensutred</span><span>&#xad;</span><span>ningar samt förenkling på EU-nivå.</span>
+			</p>
+			<p>
+				<span>Det är i sig inget större fel med regelförenklingsmålen. De har dock inte uppfyllts eftersom det har saknats målstyrning, uppföljning och tydliga uppdrag till relevanta myndigheter. Vi ser det som att det har saknats politisk prioritering. Framgent behövs en tydligare styrning där man kan överväga att sätta till exempel kvantifierade mål när det gäller kostnader för administration, eller tid för handläggning av ett visst slag. Allt detta bygger såklart på att frågan drivs och får resurser och att det utvecklas en trovärdig metod, med mera. Här skulle man sikta på den ökning av regelkostnader som skett de senaste åren i administration och fullgörandekostnader som Tillväxtverket mätt. Detta för att få ner bördan.</span>
+			</p>
+			<h2>
+				<span>Internationell utblick viktigt</span>
+			</h2>
+			<p class="Normalutanindragellerluft">
+				<span>Industri och näringsliv vill gärna se reformer på regelförenklingsområdet och en idé som förs fram är att jämföra Sverige med andra länder. Genom internationell bench</span><span>&#xad;</span><span>marking – till exempel att Sverige ska bli bättre och/eller få en högre ranking i OECD:s Regulatory policy outlook – kan det bli enklare för Sverige att driva igenom nödvändiga förändringar. Överlag delar Centerpartiet bedömningen att framgång i regelförbättrings</span><span>&#xad;</span><span>arbetet kräver bättre politisk styrning och organisation av arbetet.</span>
+			</p>
+			<div style="-aw-sdt-tag:'CC_Underskrifter'; -aw-sdt-title:'CC_Underskrifter'">
+				<p>
+					<span style="-aw-import:ignore">&#xa0;</span>
+				</p>
+				<p>
+					<span style="-aw-import:ignore">&#xa0;</span>
+				</p>
+			</div>
+			<table cellspacing="0" cellpadding="0" style="width:100%; border-collapse:collapse">
+				<tr style="page-break-inside:avoid">
+					<td style="width:1%; padding-right:5.4pt; padding-left:5.4pt; vertical-align:bottom">
+						<p class="Underskrifter">
+							<span>Elisabeth Thand Ringqvist (C)</span>
+						</p>
+					</td>
+					<td style="width:1%; padding-right:5.4pt; padding-left:5.4pt; vertical-align:bottom">
+						<p class="Underskrifter">
+							<span>Rickard Nordin (C)</span>
+						</p>
+					</td>
+				</tr>
+				<tr style="page-break-inside:avoid">
+					<td style="width:1%; padding-right:5.4pt; padding-left:5.4pt; vertical-align:bottom">
+						<p class="Underskrifter">
+							<span>Niels Paarup-Petersen (C)</span>
+						</p>
+					</td>
+					<td style="width:1%; padding-right:5.4pt; padding-left:5.4pt; vertical-align:bottom">
+						<p class="Underskrifter">
+							<span>Martin Ådahl (C)</span>
+						</p>
+					</td>
+				</tr>
+				<tr style="page-break-inside:avoid">
+					<td style="width:1%; padding-right:5.4pt; padding-left:5.4pt; vertical-align:bottom">
+						<p class="Underskrifter">
+							<span>Alireza Akhondi (C)</span>
+						</p>
+					</td>
+					<td style="width:1%; padding-right:5.4pt; padding-left:5.4pt; vertical-align:bottom">
+						<p class="Underskrifter">
+							<span>Ulrika Heie (C)</span>
+						</p>
+					</td>
+				</tr>
+				<tr style="page-break-inside:avoid">
+					<td style="width:1%; padding-right:5.4pt; padding-left:5.4pt; vertical-align:bottom">
+						<p class="Underskrifter">
+							<span>Stina Larsson (C)</span>
+						</p>
+					</td>
+					<td style="width:1%; padding-right:5.4pt; padding-left:5.4pt; vertical-align:bottom">
+						<p class="Underskrifter">
+							<span>Helena Lindahl (C)</span>
+						</p>
+					</td>
+				</tr>
+				<tr style="page-break-inside:avoid">
+					<td style="width:1%; padding-right:5.4pt; padding-left:5.4pt; vertical-align:bottom">
+						<p class="Underskrifter">
+							<span>Daniel Bäckström (C)</span>
+						</p>
+					</td>
+					<td style="width:1%; padding-right:5.4pt; padding-left:5.4pt; vertical-align:bottom">
+						<p class="Underskrifter">
+							<span>Helena Vilhelmsson (C)</span>
+						</p>
+					</td>
+				</tr>
+				<tr style="page-break-inside:avoid">
+					<td style="width:1%; padding-right:5.4pt; padding-left:5.4pt; vertical-align:bottom">
+						<p class="Underskrifter">
+							<span>Anders Ådahl (C)</span>
+						</p>
+					</td>
+					<td style="vertical-align:top">
+					</td>
+				</tr>
+				<tr style="height:0pt">
+					<td style="width:212.6pt">
+					</td>
+					<td style="width:212.6pt">
+					</td>
+				</tr>
+			</table>
+			<p>
+				<span style="-aw-import:ignore">&#xa0;</span>
+			</p>
+		</div>
+	</div>

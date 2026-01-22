@@ -1,0 +1,340 @@
+SEARCH TERM: artificiell intelligens
+DOCUMENT ID: hb021846
+TITLE: En grön och rättvis omställning i Västsverige
+TYPE: mot
+SUBTYPE: Enskild motion
+DATE: 2023-10-04
+PARLIAMENTARY YEAR: 2023/24
+ORGANISATION: TU
+STATUS: Klar
+DOWNLOADED: 2026-01-22 10:24:45
+================================================================================
+
+<style><!-- 
+ @page Section1 { size:595.3pt 841.9pt; margin:35.45pt 85.05pt 56.7pt }
+div.Section1 { page:Section1 }
+div.pconf body { t-i:17pt; line-height:15pt; font-family:'Verdana'; font-size: 0.90em }
+div.pconf h1, h2, h3, h4, h5, h6, p { margin:0pt }
+div.pconf li, table { margin-top:0pt; margin-bottom:0pt }
+div.pconf h1 { margin-top:41pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:19.5pt; font-family:'Verdana'; font-size: 1.05em; font-weight:normal; color:#000000 }
+div.pconf h2 { margin-top:30pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:17pt; font-family:'Verdana'; font-size: 1.00em; font-weight:normal; color:#000000 }
+div.pconf h3 { margin-top:18pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:17pt; font-family:'Verdana'; font-size: 0.90em; font-weight:bold; color:#000000 }
+div.pconf h4 { margin-top:18pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:17pt; font-family:'Verdana'; font-size: 0.90em; font-weight:normal; font-style:italic; color:#000000 }
+div.pconf h5 { margin-top:15pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:17pt; font-family:'Verdana'; font-size: 0.90em; font-weight:bold; font-style:normal; color:#000000 }
+div.pconf h6 { margin-top:15pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:17pt; font-family:'Verdana'; font-size: 0.90em; font-weight:normal; font-style:italic; color:#000000 }
+.Heading7 { margin-top:15pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:17pt; font-family:'Verdana'; font-size: 0.90em; font-weight:normal; font-style:italic; color:#000000; -aw-style-name:heading7 }
+.Heading8 { margin-top:15pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:17pt; font-family:'Verdana'; font-size: 0.90em; font-weight:normal; font-style:italic; color:#000000; -aw-style-name:heading8 }
+.Heading9 { margin-top:0pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:17pt; font-family:'Verdana'; font-size: 0.90em; font-weight:normal; font-style:italic; color:#000000; -aw-style-name:heading9 }
+.BalloonText { margin-bottom:0pt; t-i:17pt; line-height:normal; font-family:'Segoe UI'; font-size: 0.90em }
+.Beteckning { margin-top:18pt; margin-bottom:0pt; t-i:14.2pt; page-break-inside:auto; page-break-after:auto; line-height:19.5pt; font-size: 1.05em }
+.BlockText, .Inramatstycke { margin-right:56.7pt; margin-left:56.7pt; margin-bottom:0pt; t-i:0pt; text-align:nojustify; line-height:15pt; border:0.75pt solid #000000; padding:10pt; font-size: 0.90em; font-style:italic; -aw-border:0.25pt single }
+.Citaticitat { margin-top:7.5pt; margin-left:34pt; margin-bottom:0pt; t-i:0pt; line-height:12pt; font-size: 0.90em }
+.Citaticitatmedindrag { margin-top:0pt; margin-left:34pt; margin-bottom:7.5pt; t-i:17pt; line-height:12pt; font-size: 0.90em }
+.Citatmedindrag { margin-top:0pt; margin-left:17pt; margin-bottom:0pt; t-i:17pt; line-height:12pt; font-size: 0.90em }
+.CommentSubject { margin-bottom:0pt; t-i:17pt; line-height:normal; font-size: 0.90em; font-weight:bold }
+.CommentText { margin-bottom:0pt; t-i:17pt; line-height:normal; font-size: 0.90em }
+.FSHLogo { margin-top:4pt; margin-bottom:0pt; t-i:0pt; line-height:normal; font-size: 0.90em }
+.FSHNormL { margin-top:4pt; margin-bottom:0pt; t-i:0pt; line-height:15pt; border-top:1.5pt solid #000000; padding-top:3pt; font-size: 0.90em }
+.FSHNormal { margin-top:4pt; margin-bottom:0pt; t-i:0pt; line-height:15pt; font-size: 0.90em }
+.FSHNormalS5 { margin-top:11.5pt; margin-bottom:26pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-size: 0.95em; font-weight:bold }
+.FSHRub1, .Rubrik1S5 { margin-top:135pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:16pt; font-size: 1.00em }
+.FSHRub2, .Rubrik1A4 { margin-top:50pt; margin-bottom:5pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:24pt; font-size: 1.05em }
+.FSHTitel, .Dokumentrubrik { margin-top:4pt; margin-bottom:4pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:20pt; border-bottom:0.75pt solid #000000; padding-bottom:3pt; font-size: 1.05em; -aw-border-bottom:0.5pt single }
+.Footer { margin-top:4pt; margin-bottom:0pt; t-i:0pt; text-align:center; line-height:normal; font-size: 0.90em }
+.FootnoteText { margin-top:0pt; margin-bottom:0pt; t-i:0pt; line-height:12pt; font-size: 0.90em }
+.Frslagsrubrik { margin-top:41pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:19.5pt; font-family:'Verdana'; font-size: 1.05em }
+.Frslagstext, .Hemstlatt, .Yrkande { margin-top:4pt; margin-left:19.85pt; margin-bottom:0pt; t-i:-19.85pt; line-height:15pt; font-size: 0.90em }
+.Header { margin-top:4pt; margin-bottom:0pt; t-i:0pt; line-height:normal; font-size: 0.90em }
+.KantRubrikS5H { margin-top:6pt; margin-right:2.85pt; margin-bottom:0pt; t-i:0pt; text-align:right; line-height:8pt; font-size: 0.90em }
+.KantRubrikS5Hrad2 { margin-top:0pt; margin-right:2.85pt; margin-bottom:0pt; t-i:0pt; text-align:right; line-height:10pt; font-size: 0.90em }
+.KantRubrikS5V { margin-top:6pt; margin-right:0pt; margin-bottom:0pt; t-i:0pt; text-align:left; line-height:8pt; font-size: 0.90em }
+.KantRubrikS5Vrad2 { margin-top:0pt; margin-right:0pt; margin-bottom:0pt; t-i:0pt; text-align:left; line-height:10pt; font-size: 0.90em }
+.KantrubrikH { margin-top:4pt; margin-right:-82.2pt; margin-bottom:0pt; t-i:0pt; text-align:right; line-height:15pt; font-size: 0.90em }
+.KantrubrikV { margin-top:4pt; margin-left:-85.05pt; margin-bottom:0pt; t-i:0pt; line-height:normal; font-size: 0.90em }
+.Klla { margin-top:0pt; margin-bottom:0pt; t-i:0pt; line-height:12pt; font-size: 0.90em }
+.Lagtext { margin-top:4pt; margin-bottom:0pt; t-i:0pt; line-height:normal; font-size: 0.90em }
+.Lagtextindrag { margin-top:4pt; margin-bottom:0pt; t-i:14.2pt; line-height:normal; font-size: 0.90em }
+.Lagtextrubrik { margin-top:4pt; margin-bottom:0pt; t-i:0pt; line-height:normal; font-size: 0.90em; font-style:italic; letter-spacing:1pt }
+.List { margin-top:7.5pt; margin-left:17pt; margin-bottom:7.5pt; t-i:-17pt; line-height:15pt; font-size: 0.90em }
+.ListBullet, .PunktlistaBomb { margin-top:4pt; margin-left:14.2pt; margin-bottom:0pt; t-i:-14.2pt; line-height:15pt; font-size: 0.90em }
+.ListNumber, .PunktlistaNummer { margin-top:4pt; margin-left:14.2pt; margin-bottom:0pt; t-i:-14.2pt; line-height:15pt; font-size: 0.90em }
+.ListParagraph { margin-left:36pt; margin-bottom:0pt; t-i:17pt; line-height:15pt; font-size: 0.90em }
+.ListaGemener { margin-top:7.5pt; margin-left:17pt; margin-bottom:7.5pt; t-i:-17pt; line-height:15pt; font-size: 0.90em }
+.ListaLinje { margin-top:7.5pt; margin-left:19pt; margin-bottom:7.5pt; t-i:-19pt; line-height:15pt; font-size: 0.90em }
+.ListaNummer { margin-top:7.5pt; margin-left:17pt; margin-bottom:7.5pt; t-i:-17pt; line-height:15pt; font-size: 0.90em }
+.ListaPunkt { margin-top:7.5pt; margin-left:17pt; margin-bottom:7.5pt; t-i:-17pt; line-height:15pt; font-size: 0.90em }
+.MotionTIllRiksdagen { margin-top:18pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:19.5pt; font-size: 1.05em }
+.Motionr { margin-top:14pt; margin-bottom:31.5pt; t-i:0pt; page-break-inside:avoid; line-height:15pt; font-size: 1.00em; font-weight:bold; font-style:normal }
+.Motiveringrubrik2numrerat1 { margin-top:30pt; margin-left:0pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:17pt; font-family:'Verdana'; font-size: 1.00em }
+.Motiveringrubrik3numrerat1 { margin-top:18pt; margin-left:0pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:17pt; font-family:'Verdana'; font-size: 0.90em; font-weight:bold }
+.Motiveringrubrik3numrerat11 { margin-top:18pt; margin-left:0pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:17pt; font-family:'Verdana'; font-size: 0.90em; font-weight:bold }
+.Motiveringrubrik4numrerat11 { margin-top:18pt; margin-left:0pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:17pt; font-family:'Verdana'; font-size: 0.90em; font-weight:normal; font-style:italic }
+.NormalIndent { margin-left:65.2pt; margin-bottom:0pt; t-i:17pt; line-height:15pt; font-size: 0.90em }
+.Normalutanindragellerluft { margin-top:4pt; margin-bottom:0pt; t-i:0pt; line-height:15pt; font-size: 0.90em }
+.Normal00 { margin-top:4pt; margin-bottom:0pt; t-i:0pt; line-height:normal; font-size: 0.90em }
+.NormalA4fot { margin-top:12pt; margin-bottom:0pt; t-i:0pt; text-align:center; line-height:normal; font-size: 0.90em }
+.NormalA4sidnr { margin-top:4pt; margin-bottom:12pt; t-i:0pt; text-align:center; line-height:normal; font-size: 0.90em }
+.NormalS5sidnrH { margin-top:4pt; margin-right:2.85pt; margin-bottom:0pt; t-i:0pt; text-align:right; line-height:normal; font-size: 0.90em }
+.NormalS5sidnrV { margin-top:4pt; margin-right:0pt; margin-bottom:0pt; t-i:0pt; text-align:left; line-height:normal; font-size: 0.90em }
+.PlainText { margin-bottom:0pt; t-i:0pt; line-height:12pt; font-family:'Verdana'; font-size: 0.90em }
+.Quote { margin-top:7.5pt; margin-left:17pt; margin-bottom:0pt; t-i:0pt; line-height:12pt; font-size: 0.90em }
+.R1 { margin-top:41pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:19.5pt; font-family:'Verdana'; font-size: 1.05em }
+.R2 { margin-top:30pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:17pt; font-family:'Verdana'; font-size: 1.00em }
+.R3 { margin-top:18pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:17pt; font-family:'Verdana'; font-size: 0.90em; font-weight:bold }
+.Rubrik1numrerat { margin-top:41pt; margin-left:0pt; margin-bottom:0pt; t-i:0pt; page-break-inside:auto; page-break-after:avoid; line-height:19.5pt; font-family:'Verdana'; font-size: 1.05em }
+.Rubrik2numrerat { margin-top:30pt; margin-left:0pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:17pt; font-family:'Verdana'; font-size: 1.00em }
+.Rubrik3numrerat { margin-top:18pt; margin-left:0pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:17pt; font-family:'Verdana'; font-size: 0.90em; font-weight:bold }
+.Rubrik4numrerat { margin-top:18pt; margin-left:0pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:17pt; font-family:'Verdana'; font-size: 0.90em; font-weight:normal; font-style:italic }
+.RubrikFrslagTIllRiksdagsbeslut { margin-top:41pt; margin-bottom:15pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:19.5pt; font-family:'Verdana'; font-size: 1.05em }
+.RubrikInnehllsf { margin-top:41pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:19.5pt; font-family:'Verdana'; font-size: 1.05em }
+.RubrikSammanf { margin-top:41pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:19.5pt; font-family:'Verdana'; font-size: 1.05em }
+.Salutation { margin-top:41pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:19.5pt; font-family:'Verdana'; font-size: 1.05em }
+.Streckkod { margin-top:12pt; margin-bottom:0pt; t-i:0pt; text-align:center; line-height:normal; font-family:IDAutomationHC39S; font-size: 1.00em }
+.Strecklista, .PunktlistaTankstreck { margin-top:4pt; margin-left:14.2pt; margin-bottom:0pt; t-i:-14.2pt; line-height:15pt; font-size: 0.90em }
+.Subtitle { margin-top:4pt; margin-bottom:0pt; t-i:0pt; line-height:15pt; font-family:'Verdana'; font-size: 0.90em; font-weight:bold }
+.TOC1 { margin-top:4pt; margin-bottom:0pt; t-i:0pt; line-height:15pt; font-size: 0.90em }
+.TOC2 { margin-top:4pt; margin-left:14.2pt; margin-bottom:0pt; t-i:0pt; line-height:15pt; font-size: 0.90em }
+.TOC3 { margin-top:4pt; margin-left:28.35pt; margin-bottom:0pt; t-i:0pt; line-height:15pt; font-size: 0.90em }
+.TOC4 { margin-top:4pt; margin-left:42.55pt; margin-bottom:0pt; t-i:0pt; line-height:15pt; font-size: 0.90em }
+.TOC5 { margin-top:4pt; margin-left:56.7pt; margin-bottom:0pt; t-i:0pt; line-height:15pt; font-size: 0.90em }
+.TOC6 { margin-top:4pt; margin-left:56.7pt; margin-bottom:0pt; t-i:0pt; line-height:15pt; font-size: 0.90em }
+.TOC7 { margin-top:15pt; margin-left:56.7pt; margin-bottom:0pt; t-i:14.2pt; page-break-inside:avoid; page-break-after:avoid; line-height:normal; font-family:'Verdana'; font-size: 0.90em; font-weight:normal; font-style:italic }
+.TOC8 { margin-top:15pt; margin-left:56.7pt; margin-bottom:0pt; t-i:14.2pt; page-break-inside:avoid; page-break-after:avoid; line-height:normal; font-family:'Verdana'; font-size: 0.90em; font-weight:normal; font-style:italic }
+.TOC9 { margin-top:15pt; margin-left:56.7pt; margin-bottom:0pt; t-i:14.2pt; page-break-inside:avoid; page-break-after:avoid; line-height:normal; font-family:'Verdana'; font-size: 0.90em; font-weight:normal; font-style:italic }
+.TOCHeading { margin-top:41pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:19.5pt; font-family:'Verdana'; font-size: 1.05em }
+.Tabellunderrubrik { margin-top:0pt; margin-bottom:0pt; t-i:0pt; page-break-after:avoid; line-height:15pt; font-size: 0.90em; font-weight:normal; font-style:italic }
+.Tabellrubrik { margin-top:7.5pt; margin-bottom:0pt; t-i:0pt; page-break-after:avoid; line-height:15pt; font-size: 0.90em; font-weight:bold }
+.Title { margin-top:41pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:19.5pt; font-family:'Verdana'; font-size: 1.05em }
+.Underskriftdatum { margin-top:24pt; margin-bottom:3pt; t-i:0pt; page-break-inside:avoid; line-height:15pt; font-size: 0.90em; font-style:normal }
+.Underskrifter { margin-top:15pt; margin-bottom:3pt; t-i:0pt; page-break-inside:avoid; line-height:15pt; font-size: 0.90em; font-style:italic }
+.Yrkandehnv, .Frslagspunkthnv { margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; font-size: 0.90em }
+span.BallongtextChar { font-family:'Segoe UI'; font-size: 0.90em }
+span.BeteckningChar { font-size:19.5pt }
+span.CommentReference { font-size:8pt }
+span.FSHRub2Char, span.Rubrik1A4Char { font-size:24pt }
+span.FotnotstextChar { font-size:10pt }
+span.Hyperlink { text-decoration:underline; color:#0563c1; -aw-style-name:hyperlink }
+span.InledningChar { font-family:'Verdana'; font-size: 1.00em; font-weight:bold }
+span.IntenseReference { font-weight:normal; font-style:normal; font-variant:normal; text-decoration:none; text-transform:none; letter-spacing:0pt; vertical-align:0pt; color:#000000; display:inline }
+span.KommentarerChar { font-size:10pt }
+span.KommentarsmneChar { font-size:10pt; font-weight:bold }
+span.MotionTIllRiksdagenChar { font-size:19.5pt }
+span.OformateradtextChar { font-family:'Verdana'; font-size: 0.90em }
+span.PlaceholderText { color:#f4b083 }
+span.Rubrik1Char { font-family:'Verdana'; font-size: 1.05em }
+span.Rubrik2Char { font-family:'Verdana'; font-size: 1.00em }
+span.Rubrik3Char { font-family:'Verdana'; font-size: 0.90em; font-weight:bold }
+span.Rubrik4Char { font-family:'Verdana'; font-size: 0.90em; font-style:italic }
+span.Rubrik5Char { font-family:'Verdana'; font-weight:bold }
+span.Rubrik6Char { font-family:'Verdana'; font-style:italic }
+span.Rubrik7Char { font-family:'Verdana'; font-size: 0.90em; font-weight:bold }
+span.Rubrik8Char { font-family:'Verdana'; font-size: 0.90em; font-weight:bold }
+span.Rubrik9Char { font-family:'Verdana'; font-size: 0.90em; font-weight:bold }
+span.RubrikChar { font-family:'Verdana'; font-size: 1.00em; font-weight:bold }
+span.SidfotChar { font-size:11.5pt }
+span.UnderrubrikChar { font-family:'Verdana'; font-size: 0.90em; font-weight:bold }
+.TableGrid {  }
+
+.pconf{width: 450px;margin-left:5px;overflow:visable;font-family:Verdana, Geneva, sans-serif;} 
+ .sidhuvud_publikation, .sidhuvud_beteckning{font-size:133%}
+.MotionarLista {font-size:122%}
+
+--></style><div class="pconf"><span class="sidhuvud_publikation">Motion till riksdagen</span><br/>
+<span class="sidhuvud_beteckning">2023/24:1846</span><br/>
+<span class="MotionarLista">av Joakim Järrebring m.fl. (S)</span><br/>
+<h1>En grön och rättvis omställning i Västsverige</h1>
+<hr class="sidhuvud_linje"/>
+
+
+		<div class="Section1">
+			<h1 style="margin-bottom:15pt">
+				<a name="_Toc106800475"></a><a name="_Toc106801300"><span style="-aw-sdt-tag:'CC_Boilerplate_4'; -aw-sdt-title:'CC_Boilerplate_4'"><span>Förslag till riksdagsbeslut</span></span><span style="-aw-bookmark-end:_Toc106800475"></span></a>
+			</h1>
+			<div style="-aw-sdt-tag:'6c57e51d-7cd4-4f23-bf90-d8b86e612fd1'; -aw-sdt-title:'Yrkande 1'">
+				<ol type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-left:14pt; t-i:0pt; padding-left:5.85pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om behovet av el- och energiförsörjning för att klara omställningen i Västsverige och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'4937ec4f-6e54-40a1-9dac-90a9c3e7f516'; -aw-sdt-title:'Yrkande 2'">
+				<ol start="2" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; margin-left:14pt; t-i:0pt; padding-left:5.85pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om behovet av kompetensförsörjning för en världsledande grön industri i Västsverige och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'b7e5f2c8-06df-45c2-aded-6c947c4629fe'; -aw-sdt-title:'Yrkande 3'">
+				<ol start="3" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; margin-left:14pt; t-i:0pt; padding-left:5.85pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om behovet av infrastruktur för en hållbar framtid i Västsverige och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'b50dbf36-dea8-4a2b-8b64-e1b024a44bfe'; -aw-sdt-title:'Yrkande 4'">
+				<ol start="4" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; margin-left:14pt; t-i:0pt; padding-left:5.85pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om AI:s roll i den digitala och gröna omställningen i Västsverige och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'CC_Motivering_Rubrik'; -aw-sdt-title:'CC_Motivering_Rubrik'">
+				<h1>
+					<a name="MotionsStart"></a><a name="_Toc106801301"></a><a name="_Toc106800476"><span>Motivering</span></a>
+				</h1>
+			</div>
+			<span style="-aw-bookmark-end:_Toc106801301">
+			</span>
+			<p class="Normalutanindragellerluft">
+				<span style="-aw-bookmark-end:_Toc106800476"></span><span>Sverige står inför en av de största utmaningarna i vår tid – att ställa om till ett hållbart, grönt och rättvist samhälle. Socialdemokraterna tror på en omställning som inte bara tar hänsyn till miljön, utan också sätter människorna i centrum. Det är därför av yttersta vikt att vi ser till att alla regioner i vårt land är delaktiga i denna omställning. Det gäller inte minst västra Sverige i form av Västra Götalandsregionen, Halland och Värmland. Västsverige utgör en internationell förebild när det kommer till framför allt elektrifi</span><span>&#xad;</span><span>er</span><span>&#xad;</span><span>ingen inom fordonsindustrin. Nu krävs ytterligare krafttag för att Västsverige ska vara en tillväxtregion som tar ledartröjan i den gröna omställningen.</span>
+			</p>
+			<h2>
+				<span>El- och energiförsörjning för att klara omställningen</span>
+			</h2>
+			<p class="Normalutanindragellerluft">
+				<span>När allt fler sektorer ska ställa om är tillgången till el till konkurrenskraftiga och rimliga priser avgörande. Det förutsätter ett robust energisystem med hög leveranssäkerhet och låg miljöpåverkan där investeringar i fossil energi fasas ut. Därför krävs ytterligare investeringar i fossilfri energi för att skapa nya jobb och stärka industrins konkurrens</span><span>&#xad;</span><span>kraft. Genom en fortsatt utbyggnad av förnybar energi, energieffektivisering, energi</span><span>&#xad;</span><span>lagring och ökad flexibilitet i systemet kan vi trygga elförsörjningen i Västsverige och resten av landet.</span>
+			</p>
+			<p>
+				<span>Klimatomställningen innebär en kraftigt ökad efterfrågan på el till år 2045. Enligt de senaste prognoserna förväntas Sveriges elbehov fördubblas redan till år 2035. Om industrins elbehov inte kan mötas på kort sikt riskerar Västsverige att gå miste om viktiga investeringar och arbetstillfällen. Därför har vi socialdemokrater föreslagit ett energipolitiskt mål om ytterligare minst 60</span><span>&#xa0;</span><span>TWh fossilfri el till år 2030. I det tids</span><span>&#xad;</span><span>perspektivet finns det inte något realistiskt alternativ för ökad elproduktion som inte inkluderar mer havs- och landbaserad vindkraft. Vindkraften är helt avgörande för att få ny elproduktion på plats så snabbt som möjligt. Därutöver är det viktigt med solenergi såväl som effekthöjningar i befintliga vatten- och kärnkraftsanläggningar.</span>
+			</p>
+			<p>
+				<span>Vidare behöver de västsvenska hushållen tillgång till låga och stabila elpriser. Vi socialdemokrater har föreslagit ett system med s.k. folkhemsel, som innebär att vi använder statens muskler för att ta tillbaka kontrollen över elmarknaden. Förslaget innebär att staten kan auktionera ut långa kontrakt på el som garanterar elproducenter en stabil intäkt. Den elproducent som vill ha minst betalt för att sälja elen vinner auktionen och därefter förmedlar staten vidare den billiga elen till hushållen. På så sätt kan hus</span><span>&#xad;</span><span>hållen få en stor andel billig el som bottenplatta i sin elförbrukning. Minst 60 procent av ett hushålls normalförbrukning skulle kunna levereras som ”folkhemsel” där ett elpris på ungefär 40</span><span>&#xa0;</span><span>öre/kWh kan vara möjligt att uppnå. Ett sådant system skapar stabila villkor för investeringar samtidigt som det garanterar hushållen stabila och låga elpriser.</span>
+			</p>
+			<p>
+				<span>För att trygga elförsörjningen i Sverige i allmänhet och i Västsverige i synnerhet behöver vi förstärka elnätet i hela landet och fördubbla takten i elnätsutbyggnaden. Den nationella elektrifieringsstrategin, som säkerställer långsiktiga spelregler för att möta det ökade elbehovet, behöver således genomföras. Det är en förutsättning för att röja undan hinder för utbyggnaden av elproduktion och säkerställa att det finns leveranser av el alla timmar på dygnet, årets alla dagar.</span>
+			</p>
+			<p>
+				<span style="letter-spacing:-0.05pt">Vätgas kommer att spela en allt viktigare roll i den gröna omställningen. Med hänsyn</span><span> till den ökade användningen av vätgas i produktion och för lagring av energi krävs ytterligare satsningar på svensk produktion av vätgas. För att effektivt stödja och samordna dessa insatser krävs en nationell plan för vätgasinfrastruktur som samplaneras tillsammans med elinfrastrukturen.</span>
+			</p>
+			<p>
+				<span>Sverige ska ha högt satta miljömål för industriell verksamhet. Långa och oförutsäg</span><span>&#xad;</span><span>bara tillståndsprocesser riskerar dock att äventyra investeringar i utbyggnaden av elnät och elproduktion, inte minst i Västsverige. Därför krävs kortare och mer effektiva tillståndsprocesser. Frågan har varit föremål för ett flertal statliga utredningar och det finns en hel del förslag som är möjliga att genomföra omgående för att öka förutsägbar</span><span>&#xad;</span><span>heten och korta handläggningstiderna. Utöver det krävs en välfungerande samverkan mellan myndigheter, regionala aktörer och berörda branscher i Västsverige.</span>
+			</p>
+			<h2>
+				<span>Kompetensförsörjning för en världsledande grön industri </span>
+			</h2>
+			<p class="Normalutanindragellerluft">
+				<span>Västsverige har en rik industrihistoria och en stark arbetskraft, men den nyindustriali</span><span>&#xad;</span><span>ser</span><span>&#xad;</span><span>ing som genomförs ställer nya krav. Många företag i Västsverige genomgår en snabb utveckling och har svårt att hitta rätt kompetens till de gröna jobb som växer fram. Det är inget storstadsproblem utan gäller också i stor utsträckning företag på mindre orter. Kompetensbristen riskerar att bli ett betydande hinder för de stora investeringar som nu planeras i Västsverige.</span>
+			</p>
+			<p>
+				<span>Installatörsföretagen varnade redan för två år sedan om att det saknades 17</span><span>&#xa0;</span><span>500 elinstallatörer. Enligt en kartläggning från Energiföretagen kommer det att behövas 8</span><span>&#xa0;</span><span>000 fler tekniker och ingenjörer de kommande tre åren. I toppen bland de mest efterfrågade yrkesrollerna i energibranschen finns redan i dag bland annat elkraft</span><span>&#xad;</span><span>ingenjör, data/it-ingenjör och distributionselektriker.</span>
+			</p>
+			<p>
+				<span>Tillgången till rätt kompetens är avgörande för att klara klimat- och energiomställ</span><span>&#xad;</span><span>ningen och för att säkra jobben i Västsverige. Därför föreslog vi socialdemokrater i vårt budgetförslag över en miljard på utbildning och omställning motsvarande över 20</span><span>&#xa0;</span><span>000 utbildningsplatser. Vi vill se en fortsatt utbyggnad av branschskolorna och ytterligare satsningar på vuxenutbildningen. Dessa satsningar bör utformas på ett sätt som tar hänsyn till skillnaderna i lokala och regionala förutsättningar.</span>
+			</p>
+			<p>
+				<span>Därutöver krävs ytterligare satsningar på kompetensutveckling och omskolning. För </span><span style="letter-spacing:-0.05pt">att möta de nya behoven på arbetsmarknaden vill vi se utbildningsformer för kompetens</span><span style="letter-spacing:-0.05pt">&#xad;</span><span style="letter-spacing:-0.05pt">utveckling</span><span> under anställning.</span>
+			</p>
+			<p>
+				<span>Kompetensbristen i Västsverige och övriga landet ställer nya krav på såväl arbets</span><span>&#xad;</span><span>givare som arbetstagare. Partsmodellen är central för genomförandet av en grön omställning som skapar nya jobb med bra villkor. Arbetsgivare behöver prioritera och ta ett större ansvar för kompetensutveckling av anställda, medan arbetstagare ges förut</span><span>&#xad;</span><span>sättningar att ställa om genom det införda omställningsstudiestödet. Omställnings</span><span>&#xad;</span><span>studiestödet är avgörande för att Västsverige och resten av landet fortsatt ska ligga i framkant när det gäller teknisk utveckling, industri och innovation. Därför behöver det säkerställas att CSN (Centrala studiestödsnämnden) får de resurser som krävs för att handlägga stödet och att det finns tillräckligt många utbildningsplatser.</span>
+			</p>
+			<p>
+				<span>Samarbetet med näringslivet i Västsverige är grundläggande för att se till att de insatser som genomförs faktiskt matchar det behov som finns på arbetsmarknaden. Det förutsätter ett starkt partnerskap som kan utveckla lämpliga utbildningsinitiativ och identifiera kommande kompetensbehov inom relevanta branscher.</span>
+			</p>
+			<h2>
+				<span>Infrastruktur för en hållbar framtid</span>
+			</h2>
+			<p class="Normalutanindragellerluft">
+				<span>Infrastrukturen i en region är inte bara fysiska strukturer som vägar, broar och byggnader. Den speglar regionens historia, nuvarande status och framtida riktning. Den är ryggraden som binder samman våra samhällen, stöder arbetsmarknaden och företag och skapar en känsla av samhörighet. Genom att betrakta infrastrukturen kan vi förstå regionens utmaningar och framgångar genom tiderna.</span>
+			</p>
+			<p>
+				<span>Västsverige illustrerar detta perfekt. Regionen, med sina pulserande städer bebodda av hårt arbetande individer, sina industriella nav som genererar jobb och välstånd och en historia som förbinder generationer, är ständigt i rörelse och anpassning. Men för att säkerställa en hållbar tillväxt och en ljus framtid för alla invånare, krävs en robust och samtida infrastruktur.</span>
+			</p>
+			<p>
+				<span>Det handlar inte enbart om att bygga mer, utan om att bygga med eftertanke. Vi behöver en infrastruktur som är framtidssäkrad, som kan svara på de utmaningar vi står inför och som kan dra nytta av de möjligheter som ny teknik medför. En grundförutsättning för att digitaliseringens potential ska kunna realiseras fullt ut är att den digitala infrastrukturen är utbyggd, även där marknaden inte räcker till.</span>
+			</p>
+			<p>
+				<span>Västsveriges unika position vid Sveriges västkust har alltid haft en stark anknytning till vatten. Göta älv, som flyter genom regionen, och knyter ihop Karlstad och Vänern med Göteborgs hamn och världen, har historiskt varit en kritisk transportkanal. Kust</span><span>&#xad;</span><span>städerna, med Göteborg i spetsen, har varit avgörande för Sveriges handel och sjöfart. Denna djupa maritima tradition är inte bara en del av Västsveriges arv, utan också en vägvisare för dess framtid.</span>
+			</p>
+			<p>
+				<span>Göteborgs hamn, Nordens största, är en kritisk knutpunkt för internationell handel. </span><span style="letter-spacing:-0.05pt">Men det finns också andra hamnar i regionen, som Uddevalla och Varberg, som var och en bidrar till det lokala ekosystemet. För att maximera dessa hamnars potential behöver vi göra strategiska investeringar. Detta inkluderar modernisering av hamninfra</span><span style="letter-spacing:-0.05pt">&#xad;</span><span style="letter-spacing:-0.05pt">struk</span><span style="letter-spacing:-0.05pt">&#xad;</span><span style="letter-spacing:-0.05pt">turen,</span><span> investeringar i hållbara transportlösningar och förbättring av anslutningar mellan hamnar och andra transportmedel. Genom dessa initiativ kan vi inte bara förbättra effektiviteten i godstransporter, utan också minska vår miljöpåverkan.</span>
+			</p>
+			<p>
+				<span>Västsveriges vattenvägar, som Trollhätte kanal, erbjuder också enorm potential. Genom att investera i dessa kanaler kan vi skapa alternativa transportvägar som minskar trängsel och miljöpåverkan. Dessa vattenvägar kan också bli en del av en grönare transportlösning, som prioriterar miljövänliga transportmetoder.</span>
+			</p>
+			<p>
+				<span>All denna infrastruktur kommer inte bara stödja Västsveriges ekonomiska tillväxt, utan även Sveriges tillväxt och det kommer också gynna vår planet. I en tid när klimat</span><span>&#xad;</span><span>förändringarna är en av våra mest akuta utmaningar, måste vi bygga på ett hållbart sätt. Detta innebär att vi väljer miljövänliga material, investerar i förnybar energi och ser till att våra städer är i harmoni med naturen. Som socialdemokrater tror vi på att bygga en bättre framtid för alla, och det börjar med en hållbar infrastruktur.</span>
+			</p>
+			<p>
+				<span>Därför är det av största vikt att riksdagen stöder initiativ som främjar en robust och hållbar infrastruktur i regionen.</span>
+			</p>
+			<h2>
+				<span>AI:s roll i den gröna och digitala omställningen</span>
+			</h2>
+			<p class="Normalutanindragellerluft">
+				<span>Artificiell intelligens (AI) är inte bara en teknologisk innovation; den är en katalysator för den gröna och digitala omställning som Sverige står inför. Med sin rika tradition av att anamma teknologiska framsteg har Västsverige en unik möjlighet att integrera AI i sina ansträngningar för att skapa en mer hållbar och digitaliserad framtid.</span>
+			</p>
+			<p>
+				<span>AI kan hjälpa Sverige att effektivisera energianvändningen, optimera resurs</span><span>&#xad;</span><span>förvalt</span><span>&#xad;</span><span>ningen och minska koldioxidavtrycket. Genom att använda AI för att analysera och förutsäga energiförbrukning kan företag och hushåll minska sitt beroende av fossila </span><span style="letter-spacing:-0.1pt">bränslen och övergå till förnybara energikällor. Detta stärker inte bara regionens ekonomi</span><span> utan bidrar också till globala ansträngningar för att bekämpa klimatföränd</span><span>&#xad;</span><span>ringarna.</span>
+			</p>
+			<p>
+				<span>Dessutom kan den digitala omställningen, driven av AI, omforma vårt ekonomiska landskap. Startups och småföretag kan använda AI för att utveckla innovativa lösningar inom områden som smarta städer, digital hälsa och hållbar transport. Dessa AI-drivna innovationer kan positionera Västsverige som en ledare inom den gröna digitala revolutionen.</span>
+			</p>
+			<p>
+				<span>För att stödja denna omställning är det viktigt med investeringar i utbildning och forskning. Västsverige är väl positionerade att introducera specialiserade utbildnings</span><span>&#xad;</span><span>program inom AI och hållbarhet, vilket skulle skapa nya arbetstillfällen och rusta nästa generation för en grönare, mer digitaliserad framtid.</span>
+			</p>
+			<p>
+				<span>För att maximera dessa möjligheter krävs en samordnad strategi. En nationell AI</span><span>&#x2011;</span><span>strategi, med särskilt fokus på den gröna och digitala omställningen, kan säkerställa att Sverige och Västsverige är väl positionerade för att dra nytta av de möjligheter som AI erbjuder.</span>
+			</p>
+			<div style="-aw-sdt-tag:'CC_Underskrifter'; -aw-sdt-title:'CC_Underskrifter'">
+				<p>
+					<span style="-aw-import:ignore">&#xa0;</span>
+				</p>
+				<p>
+					<span style="-aw-import:ignore">&#xa0;</span>
+				</p>
+			</div>
+			<table cellspacing="0" cellpadding="0" style="width:100%; border-collapse:collapse">
+				<tr style="page-break-inside:avoid">
+					<td style="width:1%; padding-right:5.4pt; padding-left:5.4pt; vertical-align:bottom">
+						<p class="Underskrifter" style="margin-bottom:0pt">
+							<span>Joakim Järrebring (S)</span>
+						</p>
+					</td>
+					<td style="width:1%; padding-right:5.4pt; padding-left:5.4pt; vertical-align:bottom">
+						<p class="Underskrifter" style="margin-bottom:0pt">
+							<span style="-aw-import:ignore">&#xa0;</span>
+						</p>
+					</td>
+				</tr>
+				<tr style="page-break-inside:avoid">
+					<td style="width:1%; padding-right:5.4pt; padding-left:5.4pt; vertical-align:bottom">
+						<p class="Underskrifter" style="margin-bottom:0pt">
+							<span>Adnan Dibrani (S)</span>
+						</p>
+					</td>
+					<td style="width:1%; padding-right:5.4pt; padding-left:5.4pt; vertical-align:bottom">
+						<p class="Underskrifter" style="margin-bottom:0pt">
+							<span>Gunilla Carlsson (S)</span>
+						</p>
+					</td>
+				</tr>
+				<tr style="page-break-inside:avoid">
+					<td style="width:1%; padding-right:5.4pt; padding-left:5.4pt; vertical-align:bottom">
+						<p class="Underskrifter" style="margin-bottom:0pt">
+							<span>Ida Ekeroth Clausson (S)</span>
+						</p>
+					</td>
+					<td style="width:1%; padding-right:5.4pt; padding-left:5.4pt; vertical-align:bottom">
+						<p class="Underskrifter" style="margin-bottom:0pt">
+							<span>Jessica Rodén (S)</span>
+						</p>
+					</td>
+				</tr>
+				<tr style="page-break-inside:avoid">
+					<td style="width:1%; padding-right:5.4pt; padding-left:5.4pt; vertical-align:bottom">
+						<p class="Underskrifter" style="margin-bottom:0pt">
+							<span>Lars Mejern Larsson (S)</span>
+						</p>
+					</td>
+					<td style="width:1%; padding-right:5.4pt; padding-left:5.4pt; vertical-align:bottom">
+						<p class="Underskrifter" style="margin-bottom:0pt">
+							<span>Louise Thunström (S)</span>
+						</p>
+					</td>
+				</tr>
+			</table>
+			<p>
+				<span style="-aw-import:ignore">&#xa0;</span>
+			</p>
+		</div>
+	</div>

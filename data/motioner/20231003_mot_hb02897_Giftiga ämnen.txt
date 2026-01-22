@@ -1,0 +1,321 @@
+SEARCH TERM: AI
+DOCUMENT ID: hb02897
+TITLE: Giftiga ämnen
+TYPE: mot
+SUBTYPE: Kommittémotion
+DATE: 2023-10-03
+PARLIAMENTARY YEAR: 2023/24
+ORGANISATION: MJU
+STATUS: Klar
+DOWNLOADED: 2026-01-22 10:25:14
+================================================================================
+
+<style><!-- 
+ @page Section1 { size:595.3pt 841.9pt; margin:35.45pt 85.05pt 56.7pt }
+div.Section1 { page:Section1 }
+div.pconf body { t-i:17pt; line-height:15pt; font-family:'Verdana'; font-size: 0.90em }
+div.pconf h1, h2, h3, h4, h5, h6, p { margin:0pt }
+div.pconf li, table { margin-top:0pt; margin-bottom:0pt }
+div.pconf h1 { margin-top:41pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:19.5pt; font-family:'Verdana'; font-size: 1.05em; font-weight:normal; color:#000000 }
+div.pconf h2 { margin-top:30pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:17pt; font-family:'Verdana'; font-size: 1.00em; font-weight:normal; color:#000000 }
+div.pconf h3 { margin-top:18pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:17pt; font-family:'Verdana'; font-size: 0.90em; font-weight:bold; color:#000000 }
+div.pconf h4 { margin-top:18pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:17pt; font-family:'Verdana'; font-size: 0.90em; font-weight:normal; font-style:italic; color:#000000 }
+div.pconf h5 { margin-top:15pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:17pt; font-family:'Verdana'; font-size: 0.90em; font-weight:bold; font-style:normal; color:#000000 }
+div.pconf h6 { margin-top:15pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:17pt; font-family:'Verdana'; font-size: 0.90em; font-weight:normal; font-style:italic; color:#000000 }
+.Heading7 { margin-top:15pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:17pt; font-family:'Verdana'; font-size: 0.90em; font-weight:normal; font-style:italic; color:#000000; -aw-style-name:heading7 }
+.Heading8 { margin-top:15pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:17pt; font-family:'Verdana'; font-size: 0.90em; font-weight:normal; font-style:italic; color:#000000; -aw-style-name:heading8 }
+.Heading9 { margin-top:0pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:17pt; font-family:'Verdana'; font-size: 0.90em; font-weight:normal; font-style:italic; color:#000000; -aw-style-name:heading9 }
+.BalloonText { margin-bottom:0pt; t-i:17pt; line-height:normal; font-family:'Segoe UI'; font-size: 0.90em }
+.Beteckning { margin-top:18pt; margin-bottom:0pt; t-i:14.2pt; page-break-inside:auto; page-break-after:auto; line-height:19.5pt; font-size: 1.05em }
+.BlockText, .Inramatstycke { margin-right:56.7pt; margin-left:56.7pt; margin-bottom:0pt; t-i:0pt; text-align:nojustify; line-height:15pt; border:0.75pt solid #000000; padding:10pt; font-size: 0.90em; font-style:italic; -aw-border:0.25pt single }
+.Citaticitat { margin-top:7.5pt; margin-left:34pt; margin-bottom:0pt; t-i:0pt; line-height:12pt; font-size: 0.90em }
+.Citaticitatmedindrag { margin-top:0pt; margin-left:34pt; margin-bottom:7.5pt; t-i:17pt; line-height:12pt; font-size: 0.90em }
+.Citatmedindrag { margin-top:0pt; margin-left:17pt; margin-bottom:0pt; t-i:17pt; line-height:12pt; font-size: 0.90em }
+.CommentSubject { margin-bottom:0pt; t-i:17pt; line-height:normal; font-size: 0.90em; font-weight:bold }
+.CommentText { margin-bottom:0pt; t-i:17pt; line-height:normal; font-size: 0.90em }
+.FSHLogo { margin-top:4pt; margin-bottom:0pt; t-i:0pt; line-height:normal; font-size: 0.90em }
+.FSHNormL { margin-top:4pt; margin-bottom:0pt; t-i:0pt; line-height:15pt; border-top:1.5pt solid #000000; padding-top:3pt; font-size: 0.90em }
+.FSHNormal { margin-top:4pt; margin-bottom:0pt; t-i:0pt; line-height:15pt; font-size: 0.90em }
+.FSHNormalS5 { margin-top:11.5pt; margin-bottom:26pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-size: 0.95em; font-weight:bold }
+.FSHRub1, .Rubrik1S5 { margin-top:135pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:16pt; font-size: 1.00em }
+.FSHRub2, .Rubrik1A4 { margin-top:50pt; margin-bottom:5pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:24pt; font-size: 1.05em }
+.FSHTitel, .Dokumentrubrik { margin-top:4pt; margin-bottom:4pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:20pt; border-bottom:0.75pt solid #000000; padding-bottom:3pt; font-size: 1.05em; -aw-border-bottom:0.5pt single }
+.Footer { margin-top:4pt; margin-bottom:0pt; t-i:0pt; text-align:center; line-height:normal; font-size: 0.90em }
+.FootnoteText { margin-top:0pt; margin-bottom:0pt; t-i:0pt; line-height:12pt; font-size: 0.90em }
+.Frslagsrubrik { margin-top:41pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:19.5pt; font-family:'Verdana'; font-size: 1.05em }
+.Frslagstext, .Hemstlatt, .Yrkande { margin-top:4pt; margin-left:19.85pt; margin-bottom:0pt; t-i:-19.85pt; line-height:15pt; font-size: 0.90em }
+.Header { margin-top:4pt; margin-bottom:0pt; t-i:0pt; line-height:normal; font-size: 0.90em }
+.KantRubrikS5H { margin-top:6pt; margin-right:2.85pt; margin-bottom:0pt; t-i:0pt; text-align:right; line-height:8pt; font-size: 0.90em }
+.KantRubrikS5Hrad2 { margin-top:0pt; margin-right:2.85pt; margin-bottom:0pt; t-i:0pt; text-align:right; line-height:10pt; font-size: 0.90em }
+.KantRubrikS5V { margin-top:6pt; margin-right:0pt; margin-bottom:0pt; t-i:0pt; text-align:left; line-height:8pt; font-size: 0.90em }
+.KantRubrikS5Vrad2 { margin-top:0pt; margin-right:0pt; margin-bottom:0pt; t-i:0pt; text-align:left; line-height:10pt; font-size: 0.90em }
+.KantrubrikH { margin-top:4pt; margin-right:-82.2pt; margin-bottom:0pt; t-i:0pt; text-align:right; line-height:15pt; font-size: 0.90em }
+.KantrubrikV { margin-top:4pt; margin-left:-85.05pt; margin-bottom:0pt; t-i:0pt; line-height:normal; font-size: 0.90em }
+.Klla { margin-top:0pt; margin-bottom:0pt; t-i:0pt; line-height:12pt; font-size: 0.90em }
+.Lagtext { margin-top:4pt; margin-bottom:0pt; t-i:0pt; line-height:normal; font-size: 0.90em }
+.Lagtextindrag { margin-top:4pt; margin-bottom:0pt; t-i:14.2pt; line-height:normal; font-size: 0.90em }
+.Lagtextrubrik { margin-top:4pt; margin-bottom:0pt; t-i:0pt; line-height:normal; font-size: 0.90em; font-style:italic; letter-spacing:1pt }
+.List { margin-top:7.5pt; margin-left:17pt; margin-bottom:7.5pt; t-i:-17pt; line-height:15pt; font-size: 0.90em }
+.ListBullet, .PunktlistaBomb { margin-top:4pt; margin-left:14.2pt; margin-bottom:0pt; t-i:-14.2pt; line-height:15pt; font-size: 0.90em }
+.ListNumber, .PunktlistaNummer { margin-top:4pt; margin-left:14.2pt; margin-bottom:0pt; t-i:-14.2pt; line-height:15pt; font-size: 0.90em }
+.ListParagraph { margin-left:36pt; margin-bottom:0pt; t-i:17pt; line-height:15pt; font-size: 0.90em }
+.ListaGemener { margin-top:7.5pt; margin-left:17pt; margin-bottom:7.5pt; t-i:-17pt; line-height:15pt; font-size: 0.90em }
+.ListaLinje { margin-top:7.5pt; margin-left:19pt; margin-bottom:7.5pt; t-i:-19pt; line-height:15pt; font-size: 0.90em }
+.ListaNummer { margin-top:7.5pt; margin-left:17pt; margin-bottom:7.5pt; t-i:-17pt; line-height:15pt; font-size: 0.90em }
+.ListaPunkt { margin-top:7.5pt; margin-left:17pt; margin-bottom:7.5pt; t-i:-17pt; line-height:15pt; font-size: 0.90em }
+.MotionTIllRiksdagen { margin-top:18pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:19.5pt; font-size: 1.05em }
+.Motionr { margin-top:14pt; margin-bottom:31.5pt; t-i:0pt; page-break-inside:avoid; line-height:15pt; font-size: 1.00em; font-weight:bold; font-style:normal }
+.Motiveringrubrik2numrerat1 { margin-top:30pt; margin-left:0pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:17pt; font-family:'Verdana'; font-size: 1.00em }
+.Motiveringrubrik3numrerat1 { margin-top:18pt; margin-left:0pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:17pt; font-family:'Verdana'; font-size: 0.90em; font-weight:bold }
+.Motiveringrubrik3numrerat11 { margin-top:18pt; margin-left:0pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:17pt; font-family:'Verdana'; font-size: 0.90em; font-weight:bold }
+.Motiveringrubrik4numrerat11 { margin-top:18pt; margin-left:0pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:17pt; font-family:'Verdana'; font-size: 0.90em; font-weight:normal; font-style:italic }
+.NormalIndent { margin-left:65.2pt; margin-bottom:0pt; t-i:17pt; line-height:15pt; font-size: 0.90em }
+.Normalutanindragellerluft { margin-top:4pt; margin-bottom:0pt; t-i:0pt; line-height:15pt; font-size: 0.90em }
+.Normal00 { margin-top:4pt; margin-bottom:0pt; t-i:0pt; line-height:normal; font-size: 0.90em }
+.NormalA4fot { margin-top:12pt; margin-bottom:0pt; t-i:0pt; text-align:center; line-height:normal; font-size: 0.90em }
+.NormalA4sidnr { margin-top:4pt; margin-bottom:12pt; t-i:0pt; text-align:center; line-height:normal; font-size: 0.90em }
+.NormalS5sidnrH { margin-top:4pt; margin-right:2.85pt; margin-bottom:0pt; t-i:0pt; text-align:right; line-height:normal; font-size: 0.90em }
+.NormalS5sidnrV { margin-top:4pt; margin-right:0pt; margin-bottom:0pt; t-i:0pt; text-align:left; line-height:normal; font-size: 0.90em }
+.PlainText { margin-bottom:0pt; t-i:0pt; line-height:12pt; font-family:'Verdana'; font-size: 0.90em }
+.Quote { margin-top:7.5pt; margin-left:17pt; margin-bottom:0pt; t-i:0pt; line-height:12pt; font-size: 0.90em }
+.R1 { margin-top:41pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:19.5pt; font-family:'Verdana'; font-size: 1.05em }
+.R2 { margin-top:30pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:17pt; font-family:'Verdana'; font-size: 1.00em }
+.R3 { margin-top:18pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:17pt; font-family:'Verdana'; font-size: 0.90em; font-weight:bold }
+.Rubrik1numrerat { margin-top:41pt; margin-left:0pt; margin-bottom:0pt; t-i:0pt; page-break-inside:auto; page-break-after:avoid; line-height:19.5pt; font-family:'Verdana'; font-size: 1.05em }
+.Rubrik2numrerat { margin-top:30pt; margin-left:0pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:17pt; font-family:'Verdana'; font-size: 1.00em }
+.Rubrik3numrerat { margin-top:18pt; margin-left:0pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:17pt; font-family:'Verdana'; font-size: 0.90em; font-weight:bold }
+.Rubrik4numrerat { margin-top:18pt; margin-left:0pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:17pt; font-family:'Verdana'; font-size: 0.90em; font-weight:normal; font-style:italic }
+.RubrikFrslagTIllRiksdagsbeslut { margin-top:41pt; margin-bottom:15pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:19.5pt; font-family:'Verdana'; font-size: 1.05em }
+.RubrikInnehllsf { margin-top:41pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:19.5pt; font-family:'Verdana'; font-size: 1.05em }
+.RubrikSammanf { margin-top:41pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:19.5pt; font-family:'Verdana'; font-size: 1.05em }
+.Salutation { margin-top:41pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:19.5pt; font-family:'Verdana'; font-size: 1.05em }
+.Streckkod { margin-top:12pt; margin-bottom:0pt; t-i:0pt; text-align:center; line-height:normal; font-family:IDAutomationHC39S; font-size: 1.00em }
+.Strecklista, .PunktlistaTankstreck { margin-top:4pt; margin-left:14.2pt; margin-bottom:0pt; t-i:-14.2pt; line-height:15pt; font-size: 0.90em }
+.Subtitle { margin-top:4pt; margin-bottom:0pt; t-i:0pt; line-height:15pt; font-family:'Verdana'; font-size: 0.90em; font-weight:bold }
+.TOC1 { margin-top:4pt; margin-bottom:0pt; t-i:0pt; line-height:15pt; font-size: 0.90em }
+.TOC2 { margin-top:4pt; margin-left:14.2pt; margin-bottom:0pt; t-i:0pt; line-height:15pt; font-size: 0.90em }
+.TOC3 { margin-top:4pt; margin-left:28.35pt; margin-bottom:0pt; t-i:0pt; line-height:15pt; font-size: 0.90em }
+.TOC4 { margin-top:4pt; margin-left:42.55pt; margin-bottom:0pt; t-i:0pt; line-height:15pt; font-size: 0.90em }
+.TOC5 { margin-top:4pt; margin-left:56.7pt; margin-bottom:0pt; t-i:0pt; line-height:15pt; font-size: 0.90em }
+.TOC6 { margin-top:4pt; margin-left:56.7pt; margin-bottom:0pt; t-i:0pt; line-height:15pt; font-size: 0.90em }
+.TOC7 { margin-top:15pt; margin-left:56.7pt; margin-bottom:0pt; t-i:14.2pt; page-break-inside:avoid; page-break-after:avoid; line-height:normal; font-family:'Verdana'; font-size: 0.90em; font-weight:normal; font-style:italic }
+.TOC8 { margin-top:15pt; margin-left:56.7pt; margin-bottom:0pt; t-i:14.2pt; page-break-inside:avoid; page-break-after:avoid; line-height:normal; font-family:'Verdana'; font-size: 0.90em; font-weight:normal; font-style:italic }
+.TOC9 { margin-top:15pt; margin-left:56.7pt; margin-bottom:0pt; t-i:14.2pt; page-break-inside:avoid; page-break-after:avoid; line-height:normal; font-family:'Verdana'; font-size: 0.90em; font-weight:normal; font-style:italic }
+.TOCHeading { margin-top:41pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:19.5pt; font-family:'Verdana'; font-size: 1.05em }
+.Tabellunderrubrik { margin-top:0pt; margin-bottom:0pt; t-i:0pt; page-break-after:avoid; line-height:15pt; font-size: 0.90em; font-weight:normal; font-style:italic }
+.Tabellrubrik { margin-top:7.5pt; margin-bottom:0pt; t-i:0pt; page-break-after:avoid; line-height:15pt; font-size: 0.90em; font-weight:bold }
+.Title { margin-top:41pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:19.5pt; font-family:'Verdana'; font-size: 1.05em }
+.Underskriftdatum { margin-top:24pt; margin-bottom:3pt; t-i:0pt; page-break-inside:avoid; line-height:15pt; font-size: 0.90em; font-style:normal }
+.Underskrifter { margin-top:15pt; margin-bottom:3pt; t-i:0pt; page-break-inside:avoid; line-height:15pt; font-size: 0.90em; font-style:italic }
+.Yrkandehnv, .Frslagspunkthnv { margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; font-size: 0.90em }
+span.BallongtextChar { font-family:'Segoe UI'; font-size: 0.90em }
+span.BeteckningChar { font-size:19.5pt }
+span.CommentReference { font-size:8pt }
+span.FSHRub2Char, span.Rubrik1A4Char { font-size:24pt }
+span.FotnotstextChar { font-size:10pt }
+span.Hyperlink { text-decoration:underline; color:#0563c1; -aw-style-name:hyperlink }
+span.InledningChar { font-family:'Verdana'; font-size: 1.00em; font-weight:bold }
+span.IntenseReference { font-weight:normal; font-style:normal; font-variant:normal; text-decoration:none; text-transform:none; letter-spacing:0pt; vertical-align:0pt; color:#000000; display:inline }
+span.KommentarerChar { font-size:10pt }
+span.KommentarsmneChar { font-size:10pt; font-weight:bold }
+span.MotionTIllRiksdagenChar { font-size:19.5pt }
+span.OformateradtextChar { font-family:'Verdana'; font-size: 0.90em }
+span.PlaceholderText { color:#f4b083 }
+span.Rubrik1Char { font-family:'Verdana'; font-size: 1.05em }
+span.Rubrik2Char { font-family:'Verdana'; font-size: 1.00em }
+span.Rubrik3Char { font-family:'Verdana'; font-size: 0.90em; font-weight:bold }
+span.Rubrik4Char { font-family:'Verdana'; font-size: 0.90em; font-style:italic }
+span.Rubrik5Char { font-family:'Verdana'; font-weight:bold }
+span.Rubrik6Char { font-family:'Verdana'; font-style:italic }
+span.Rubrik7Char { font-family:'Verdana'; font-size: 0.90em; font-weight:bold }
+span.Rubrik8Char { font-family:'Verdana'; font-size: 0.90em; font-weight:bold }
+span.Rubrik9Char { font-family:'Verdana'; font-size: 0.90em; font-weight:bold }
+span.RubrikChar { font-family:'Verdana'; font-size: 1.00em; font-weight:bold }
+span.SidfotChar { font-size:11.5pt }
+span.UnderrubrikChar { font-family:'Verdana'; font-size: 0.90em; font-weight:bold }
+.TableGrid {  }
+
+.pconf{width: 450px;margin-left:5px;overflow:visable;font-family:Verdana, Geneva, sans-serif;} 
+ .sidhuvud_publikation, .sidhuvud_beteckning{font-size:133%}
+.MotionarLista {font-size:122%}
+
+--></style><div class="pconf"><span class="sidhuvud_publikation">Motion till riksdagen</span><br/>
+<span class="sidhuvud_beteckning">2023/24:897</span><br/>
+<span class="MotionarLista">av Emma Nohrén m.fl. (MP)</span><br/>
+<h1>Giftiga ämnen</h1>
+<hr class="sidhuvud_linje"/>
+
+
+		<div class="Section1">
+			<h1 style="margin-bottom:15pt">
+				<a name="_Toc106800475"></a><a name="_Toc106801300"><span style="-aw-sdt-tag:'CC_Boilerplate_4'; -aw-sdt-title:'CC_Boilerplate_4'"><span>Förslag till riksdagsbeslut</span></span><span style="-aw-bookmark-end:_Toc106800475"></span></a>
+			</h1>
+			<div style="-aw-sdt-tag:'688b299c-9ec6-4461-8703-226db8ab9ae4'; -aw-sdt-title:'Yrkande 1'">
+				<ol type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-left:14pt; t-i:0pt; padding-left:5.85pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att Sverige bör vara starkt pådrivande internationellt för att särskilt farliga ämnen i större utsträckning omfattas av befintliga konventioner eller nya ramverk och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'4adc2dfa-d3dc-485c-9f6c-169871871439'; -aw-sdt-title:'Yrkande 2'">
+				<ol start="2" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; margin-left:14pt; t-i:0pt; padding-left:5.85pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att Sverige ska gå före och driva på EU:s översynsarbete med kemikalielagstiftningen Reach så att regler för en gruppvis reglering och utfasning av samt förbud mot farliga kemikalier utifrån användningsområde och inneboende egenskaper eller kemisk struktur snarast uppfylls, och detta tillkännager riksdagen för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'98bcda19-ede3-4fee-90e7-8a58ca45a20c'; -aw-sdt-title:'Yrkande 3'">
+				<ol start="3" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; margin-left:14pt; t-i:0pt; padding-left:5.85pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att Sverige i EU ska arbeta för att reglera e-handelns negativa effekter och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'282550c8-d6bc-48af-b036-b1f5acc990bf'; -aw-sdt-title:'Yrkande 4'">
+				<ol start="4" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; margin-left:14pt; t-i:0pt; padding-left:5.85pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att Sverige ska verka för att ett substitutionscenter ska införas på europeisk nivå och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'d7af4b5c-cf46-4178-8c1c-a523dba5e1d4'; -aw-sdt-title:'Yrkande 5'">
+				<ol start="5" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; margin-left:14pt; t-i:0pt; padding-left:5.85pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att Sverige, likt Danmark, ska använda sig av artikel</span><span>&#xa0;</span><span>5 i kontaktmaterialförordningen och införa nationella bestämmelser (artikel</span><span>&#xa0;</span><span>6 i kontaktmaterialförordningen) om ett nationellt förbud mot PFAS i material av kartong och papper som kommer i kontakt med livsmedel, och detta tillkännager riksdagen för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'c40e82b4-41ac-4edd-b868-6da2b8f60a8d'; -aw-sdt-title:'Yrkande 6'">
+				<ol start="6" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; margin-left:14pt; t-i:0pt; padding-left:5.85pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att Sverige i EU ska driva gemensamma krav på redovisning av kemikalieinnehåll i byggmaterial och att kemikalieinnehållet ska framgå av innehållsdeklarationen och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'ebe9d59b-1625-4251-9d42-2dc4f1f38dcc'; -aw-sdt-title:'Yrkande 7'">
+				<ol start="7" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; margin-left:14pt; t-i:0pt; padding-left:5.85pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att ge Kemikalieinspektionen i uppdrag att utveckla och utöka arbetet med digitalisering och riskvärderingar med hjälp av AI och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'a4f703e6-e481-4d4e-aa86-daa8420cb42b'; -aw-sdt-title:'Yrkande 8'">
+				<ol start="8" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; margin-left:14pt; t-i:0pt; padding-left:5.85pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att ett miljötillstånd ska kunna hållas öppet så att tillståndsgivaren senare kan lägga till tillståndsvillkor för nya ämnen utifrån ny kunskap, alternativt göra verksamheters miljötillstånd tidsbegränsade så att ny kunskap kan tas i beaktande vid förläggning, och detta tillkännager riksdagen för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'5b0dfde2-bb96-4b80-8ddf-9132bc707f20'; -aw-sdt-title:'Yrkande 9'">
+				<ol start="9" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; margin-left:14pt; t-i:0pt; padding-left:5.85pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att kontinuerligt utvärdera och uppdatera listan med särskilt förorenande ämnen och att senast tillgängliga kunskap bör utgöra grunden vid prövningsbeslut, och detta tillkännager riksdagen för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'CC_Motivering_Rubrik'; -aw-sdt-title:'CC_Motivering_Rubrik'">
+				<h1>
+					<a name="MotionsStart"></a><a name="_Toc106801301"></a><a name="_Toc106800476"><span>Internationellt samarbete</span></a>
+				</h1>
+			</div>
+			<span style="-aw-bookmark-end:_Toc106801301">
+			</span>
+			<p class="Normalutanindragellerluft">
+				<span style="-aw-bookmark-end:_Toc106800476"></span><span>För 50 år sedan tog Sverige initiativ till Stockholmskonferensen, som blev startskottet inte bara för globalt miljösamarbete, utan också ett mer omfattande miljöarbete i Sverige. Internationellt samarbete innebär att vi i Sverige får värdefulla kunskaper från övriga världen som gör att vi också ständigt kan förbättra vårt miljöarbete. Sverige bör vara starkt pådrivande internationellt för att särskilt farliga ämnen i större utsträckning omfattas av befintliga konventioner eller nya ramverk.</span>
+			</p>
+			<p>
+				<span>I dag är mycket av miljöarbetet gemensamt i EU. Det är också ett av skälen till att Miljöpartiet vill att Sverige aktivt ska verka inom EU för att flytta fram positionerna och höja lägstanivån för miljöarbetet på europeisk nivå. På så vis får en progressiv svensk miljöpolitik större effekt. Under de senaste åren har EU:s paket Fit for 55 tagit form och snart är alla bitar på plats. Det är lagstiftning på flera områden som ska se till att EU uppnår sina miljö- och klimatmål. Sveriges ofta progressiva arbete på dessa områden har haft betydelse för att visa att det går att ställa om och den förra regeringens motto att bli världens första fossilfria välfärdsland har inspirerat. Det är viktigt att gå före.</span>
+			</p>
+			<h1>
+				<span>EU-samarbetet</span>
+			</h1>
+			<p class="Normalutanindragellerluft">
+				<span>Även inom EU:s arbete med kemikalier, produkter och avfall har Sverige haft en aktiv roll som nu måste fortsätta. Det behövs en långt bättre samordning av EU:s kemikalie</span><span>&#x2011;</span><span>, produkt- och avfallslagstiftning så att de styr mot giftfria och resurseffektiva kretslopp. Takten i arbetet med en hållbar konsumtion och produktion behöver öka betydligt. För att det ska komma till stånd behövs en tydligare statlig styrning. Hittills har arbetet med Reach gått långsamt och det tillverkas långt fler ämnen som sätts ut på marknaden än vad systemet hinner hantera. Därför måste det bli möjligt att lagstifta om ämnen i grupp utifrån deras likartade kemiska struktur eller användningsområde. Sverige ska gå före och driva på EU:s översynsarbete med kemikalielagstiftningen Reach. Det är viktigt att vi får regler för en gruppvis reglering och utfasning av ämnen samt förbud mot farliga kemikalier utifrån användningsområde och inneboende egenskaper eller kemisk struktur. </span>
+			</p>
+			<h1>
+				<span>PFAS och AI</span>
+			</h1>
+			<p class="Normalutanindragellerluft">
+				<span>Ett mycket aktuellt område är hur Sverige arbetar för att minska PFAS och även här har vi gått före med nationell lagstiftning och 37 myndigheter (däribland Försvarsmakten) och forskningsinstitutioner har undertecknat en gemensam avsiktsförklaring om att samarbeta för att minska riskerna och öka kunskapen om PFAS. Nu krävs också att detta ger fortsatt effekt i det praktiska miljöarbetet och att vi fortsätter att driva på arbetet i EU. Det här är exempel på hur man kan hantera en grupp kemikalier. På samma sätt behöver arbetet inom andra områden utvecklas, både för enskilda ämnen och för cocktaileffekter. Här ser vi också att rätt använt kan AI vara till hjälp med att övervaka, upptäcka och riskutvärdera kemikalier. Vi anser därför att man bör ge Kemikalieinspektionen i uppdrag att utveckla och utöka arbetet med digitalisering och riskvärderingar med hjälp av AI.</span>
+			</p>
+			<h1>
+				<span>Import och e-handel</span>
+			</h1>
+			<p class="Normalutanindragellerluft">
+				<span>Många farliga ämnen och kemikalier kommer idag in till Sverige och EU via import och e</span><span>&#x2011;</span><span>handel. Det ger stora problem för kontroll men också återvinning och avfalls</span><span>&#xad;</span><span>hantering. Utan innehållsdeklaration är det svårt att på rätt sätt ta hand om ett ämne. Sverige bör vara drivande i EU för att få till regleringar av e</span><span>&#x2011;</span><span>handelns och importens negativa delar. Kanske är det dags för ett system liknande CBAM?</span>
+			</p>
+			<h1>
+				<span>Skydda livsmedel – Sverige ska gå före</span>
+			</h1>
+			<p class="Normalutanindragellerluft">
+				<span>Kemikalier kan vandra mellan olika material, t</span><span>&#xa0;</span><span>ex från plast in i ett livsmedel. Regel</span><span>&#xad;</span><span>verket kring livsmedelsförpackningar regleras av kontaktmaterialförordningen. Den riktar sig både till tillverkare av material och produkter och livsmedelsföretagare. Av förordningen framgår att materialet under normala och förutsebara användningsför</span><span>&#xad;</span><span>hållanden inte får överföra ämnen till livsmedlet i sådana mängder att det utgör en fara för människors hälsa, medför en oacceptabel förändring i livsmedlets sammansättning eller medför en försämring av livsmedlets smak- och luktegenskaper. Men trots det finns det ändå frågetecken kring vissa ämnen och möjligheter att göra nationella bestämmelser. I förordningen står att ”om kommissionen inte har beslutat om sådana särskilda åtgärder som avses i artikel</span><span>&#xa0;</span><span>5 i kontaktmaterialförordningen får medlems</span><span>&#xad;</span><span>staterna behålla eller införa nationella bestämmelser (artikel6</span><span>&#xa0;</span><span> i kontaktmaterial</span><span>&#xad;</span><span>förordningen)”. Detta har Danmark använt sig av och har med stöd av denna bestämmelse beslutat om ett nationellt förbud mot PFAS i material av kartong och papper som kommer i kontakt med livsmedel. Vi anser att Sverige bör göra detsamma.</span>
+			</p>
+			<h1>
+				<span>Kemikalier i byggmaterial</span>
+			</h1>
+			<p class="Normalutanindragellerluft">
+				<span>Vi tillbringar en stor del av vår tid i inomhusmiljöer och det är oerhört viktigt att materialen runt omkring oss är säkra. Att uppnå miljömålet Giftfri miljö kräver insatser på alla fronter. Kemikalieinspektionens tidigare regeringsuppdrag Giftfri vardag ökade kunskapen på en rad områden och ledde till förändringar. Men ett material ska inte bara vara säkert nu, det ska också gå att återanvända så att vi kan få en cirkulär ekonomi. För att bygga säkert och för att kunna återanvända mer byggmaterial och kunna hantera det rätt måste man veta vad som finns i. I dag är det svårt då äldre material kan innehålla gifter som man inte vill få ut i naturen igen. Därför kan material ibland destrueras som försiktighetsåtgärd. Sverige ska i EU driva gemensamma krav på redovisning av kemi</span><span>&#xad;</span><span>kalieinnehåll i byggmaterial och att kemikalieinnehållet ska framgå av innehållsdeklara</span><span>&#xad;</span><span>tionen.</span>
+			</p>
+			<h1>
+				<span>Särskilt förorenande ämnen</span>
+			</h1>
+			<p class="Normalutanindragellerluft">
+				<span>För att utsläppsrestriktioner ska få verklig effekt för olika vattenmiljöer krävs att lagstiftningen om industriutsläpp inom EU bättre samordnas med vattendirektivet. Enligt EU:s vattendirektiv ska EU:s medlemsländer identifiera, övervaka och åtgärda föroreningar som är problematiska på nationell nivå, så kallade särskilt förorenande ämnen. I Sverige har i nuläget 32 sådana särskilda förorenande ämnen listats. Men i praktiken har detta liten betydelse för utsläppen av kemikalier från miljöfarlig verk</span><span>&#xad;</span><span>samhet. Domstolen tar sällan hänsyn till dessa ämnen i sina prövningsbeslut, och när ett nytt ämne klassas som särskilt förorenande påverkar det inte de miljöfarliga verksam</span><span>&#xad;</span><span>heter som redan har miljötillstånd då en verksamhets miljötillstånd vanligtvis gäller på obestämd tid. Endast när den som bedriver verksamheten vill förändra den eller utöka den behöver tillståndet omprövas. Det finns länsstyrelser som föreslagit att ett miljö</span><span>&#xad;</span><span>tillstånd ska kunna hållas öppet så att man senare ska kunna lägga till tillståndsvillkor för nya ämnen i framtiden, men hittills har sådana förslag alltid avslagits av domstol. Det vill vi ändra. Listorna måste uppdateras så fort ny kunskap kommer och ny kunskap bör få genomslag i befintliga tillstånd. Antingen genom att tillståndsgivaren kan lägga till nya ämnen i tillstånden utefter ny kunskap eller att miljötillstånden blir tids</span><span>&#xad;</span><span>begränsade och omprövas utefter ny kunskap inom ett visst tidsintervall.</span>
+			</p>
+			<h1>
+				<span>Exportera svenska framgångar</span>
+			</h1>
+			<p class="Normalutanindragellerluft">
+				<span>Sedan 2017 finns Substitutionscentrum som vägleder företag, organisationer och offentlig sektor i arbetet med att identifiera onödigt farliga kemikalier och hitta bättre alternativ, i allt från produkter till processer. Centrumets uppdrag är att vara Sveriges katalysator för substitution av farliga kemiska ämnen och bidra till att Sverige når miljökvalitetsmålet En giftfri miljö och genomförandet av EU:s kemikaliestrategi. Substitutionscentrum samlar och sprider den kunskap som finns inom området kemisk substitution, bland annat i form av vägledning, stödmaterial och utbildningar. Centrumet har blivit mycket uppskattat och de goda exemplen bör växlas upp på EU-nivå. Vi anser därför att Sverige ska ta initiativ till och verka för att det inrättas ett europeiskt substitutionscentrum som ska underlätta för företag att ersätta farliga ämnen med mindre farliga ämnen eller alternativ teknik. </span>
+			</p>
+			<div style="-aw-sdt-tag:'CC_Underskrifter'; -aw-sdt-title:'CC_Underskrifter'">
+				<p>
+					<span style="-aw-import:ignore">&#xa0;</span>
+				</p>
+				<p>
+					<span style="-aw-import:ignore">&#xa0;</span>
+				</p>
+			</div>
+			<table cellspacing="0" cellpadding="0" style="width:100%; border-collapse:collapse">
+				<tr style="page-break-inside:avoid">
+					<td style="width:1%; padding-right:5.4pt; padding-left:5.4pt; vertical-align:bottom">
+						<p class="Underskrifter" style="margin-bottom:0pt">
+							<span>Emma Nohrén (MP)</span>
+						</p>
+					</td>
+					<td style="width:1%; padding-right:5.4pt; padding-left:5.4pt; vertical-align:bottom">
+						<p class="Underskrifter" style="margin-bottom:0pt">
+							<span style="-aw-import:ignore">&#xa0;</span>
+						</p>
+					</td>
+				</tr>
+				<tr style="page-break-inside:avoid">
+					<td style="width:1%; padding-right:5.4pt; padding-left:5.4pt; vertical-align:bottom">
+						<p class="Underskrifter" style="margin-bottom:0pt">
+							<span>Katarina Luhr (MP)</span>
+						</p>
+					</td>
+					<td style="width:1%; padding-right:5.4pt; padding-left:5.4pt; vertical-align:bottom">
+						<p class="Underskrifter" style="margin-bottom:0pt">
+							<span>Daniel Helldén (MP)</span>
+						</p>
+					</td>
+				</tr>
+				<tr style="page-break-inside:avoid">
+					<td style="width:1%; padding-right:5.4pt; padding-left:5.4pt; vertical-align:bottom">
+						<p class="Underskrifter" style="margin-bottom:0pt">
+							<span>Linus Lakso (MP)</span>
+						</p>
+					</td>
+					<td style="width:1%; padding-right:5.4pt; padding-left:5.4pt; vertical-align:bottom">
+						<p class="Underskrifter" style="margin-bottom:0pt">
+							<span>Elin Söderberg (MP)</span>
+						</p>
+					</td>
+				</tr>
+			</table>
+			<p>
+				<span style="-aw-import:ignore">&#xa0;</span>
+			</p>
+		</div>
+	</div>

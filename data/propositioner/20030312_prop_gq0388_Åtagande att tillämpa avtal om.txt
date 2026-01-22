@@ -1,0 +1,1880 @@
+SEARCH TERM: AI
+DOCUMENT ID: gq0388
+TITLE: Åtagande att tillämpa avtal om rättslig ställning för  Västeuropeiska unionen, dess nationella representanter och internationella tjänstemän
+TYPE: prop
+SUBTYPE: prop
+DATE: 2003-03-12
+PARLIAMENTARY YEAR: 2002/03
+ORGANISATION: Fö
+STATUS: hämtad_2
+DOWNLOADED: 2026-01-22 10:29:08
+================================================================================
+
+<div style="margin:3px;">
+<STYLE type="text/css">
+
+body {margin-top: 0px;margin-left: 0px;}
+
+#page_1 {position:relative; overflow: hidden;z:b;margin:19px 0px 18px 10px ;padding: 0px;border: none;width: 947px;}
+
+
+
+
+
+#page_2 {position:relative; overflow: hidden;z:b;margin:18px 0px 18px 10px ;padding: 0px;border: none;width: 947px;}
+
+
+
+
+
+#page_3 {position:relative; overflow: hidden;z:b;margin:19px 0px 18px 10px ;padding: 0px;border: none;width: 856px;}
+#page_3 #id_1 {border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 811px;overflow: hidden;}
+#page_3 #id_2 {border:none;z:b;margin:1px 0px 0px 10px ;padding: 0px;border:none;width: 811px;overflow: hidden;}
+#page_3 #id_2 #id_2_1 {float:left;border:none;z:b;margin:1px 0px 0px 10px ;padding: 0px;border:none;width: 315px;overflow: hidden;}
+#page_3 #id_2 #id_2_2 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 541px;overflow: hidden;}
+#page_3 #id_3 {border:none;z:b;margin:1px 0px 0px 10px ;padding: 0px;border:none;width: 90px;overflow: hidden;}
+
+
+
+
+
+#page_4 {position:relative; overflow: hidden;z:b;margin:19px 0px 18px 10px ;padding: 0px;border: none;width: 947px;}
+#page_4 #id_1 {border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 721px;overflow: hidden;}
+#page_4 #id_1 #id_1_1 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 315px;overflow: hidden;}
+#page_4 #id_1 #id_1_2 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 496px;overflow: hidden;}
+#page_4 #id_2 {border:none;z:b;margin:24px 0px 0px 10px ;padding: 0px;border:none;width: 902px;overflow: hidden;}
+
+#page_4 #dimg1z{position:absolute;top:308px;left:63px;z-index:-1;width:145px;height:1px;font-size: 1px !important;l-h:nHeight;}
+#page_4 #dimg1 #img1  {width:145px;height:1px;}
+
+
+
+
+#page_5 {position:relative; overflow: hidden;z:b;margin:28px 0px 18px 10px ;padding: 0px;border: none;width: 947px;}
+
+
+
+
+
+#page_6 {position:relative; overflow: hidden;z:b;margin:19px 0px 18px 10px ;padding: 0px;border: none;width: 947px;}
+
+
+
+
+
+#page_7 {position:relative; overflow: hidden;z:b;margin:19px 0px 18px 10px ;padding: 0px;border: none;width: 947px;}
+
+
+
+
+
+#page_8 {position:relative; overflow: hidden;z:b;margin:19px 0px 18px 10px ;padding: 0px;border: none;width: 856px;}
+
+
+
+
+
+#page_9 {position:relative; overflow: hidden;z:b;margin:19px 0px 18px 10px ;padding: 0px;border: none;width: 856px;}
+
+#page_9 #dimg1z{position:absolute;top:289px;left:1px;z-index:-1;width:488px;height:196px;}
+#page_9 #dimg1 #img1  {width:488px;height:196px;}
+
+
+
+
+#page_10 {position:relative; overflow: hidden;z:b;margin:19px 0px 18px 10px ;padding: 0px;border: none;width: 947px;}
+
+#page_10 #dimg1z{position:absolute;top:581px;left:63px;z-index:-1;width:488px;height:272px;}
+#page_10 #dimg1 #img1  {width:488px;height:272px;}
+
+
+
+
+#page_11 {position:relative; overflow: hidden;z:b;margin:19px 0px 18px 10px ;padding: 0px;border: none;width: 947px;}
+
+
+
+
+
+#page_12 {position:relative; overflow: hidden;z:b;margin:20px 0px 18px 10px ;padding: 0px;border: none;width: 947px;}
+
+
+
+
+
+#page_13 {position:relative; overflow: hidden;z:b;margin:20px 0px 18px 10px ;padding: 0px;border: none;width: 947px;}
+
+
+
+
+
+#page_14 {position:relative; overflow: hidden;z:b;margin:18px 0px 18px 10px ;padding: 0px;border: none;width: 947px;}
+
+
+
+
+
+#page_15 {position:relative; overflow: hidden;z:b;margin:19px 0px 18px 10px ;padding: 0px;border: none;width: 947px;}
+
+
+
+
+
+#page_16 {position:relative; overflow: hidden;z:b;margin:19px 0px 18px 10px ;padding: 0px;border: none;width: 947px;}
+
+
+
+
+
+#page_17 {position:relative; overflow: hidden;z:b;margin:18px 0px 18px 10px ;padding: 0px;border: none;width: 947px;}
+
+
+
+
+
+#page_18 {position:relative; overflow: hidden;z:b;margin:19px 0px 18px 10px ;padding: 0px;border: none;width: 947px;}
+
+
+
+
+
+#page_19 {position:relative; overflow: hidden;z:b;margin:18px 0px 18px 10px ;padding: 0px;border: none;width: 947px;}
+
+
+
+
+
+#page_20 {position:relative; overflow: hidden;z:b;margin:19px 0px 18px 10px ;padding: 0px;border: none;width: 947px;}
+
+
+
+
+
+#page_21 {position:relative; overflow: hidden;z:b;margin:19px 0px 18px 10px ;padding: 0px;border: none;width: 856px;}
+
+
+
+
+
+#page_22 {position:relative; overflow: hidden;z:b;margin:20px 0px 18px 10px ;padding: 0px;border: none;width: 947px;}
+
+
+
+
+
+#page_23 {position:relative; overflow: hidden;z:b;margin:19px 0px 18px 10px ;padding: 0px;border: none;width: 947px;}
+
+
+
+
+
+#page_24 {position:relative; overflow: hidden;z:b;margin:19px 0px 18px 10px ;padding: 0px;border: none;width: 856px;}
+#page_24 #id_1 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 586px;overflow: hidden;}
+#page_24 #id_2 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 270px;overflow: hidden;}
+
+
+
+
+
+#page_25 {position:relative; overflow: hidden;z:b;margin:19px 0px 18px 10px ;padding: 0px;border: none;width: 947px;}
+
+
+
+
+
+#page_26 {position:relative; overflow: hidden;z:b;margin:19px 0px 18px 10px ;padding: 0px;border: none;width: 947px;}
+
+
+
+
+
+#page_27 {position:relative; overflow: hidden;z:b;margin:19px 0px 18px 10px ;padding: 0px;border: none;width: 947px;}
+
+
+
+
+
+#page_28 {position:relative; overflow: hidden;z:b;margin:19px 0px 18px 10px ;padding: 0px;border: none;width: 856px;}
+#page_28 #id_1 {float:left;border:none;z:b;margin:7px 0px 0px 10px ;padding: 0px;border:none;width: 586px;overflow: hidden;}
+#page_28 #id_2 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 270px;overflow: hidden;}
+
+
+
+
+
+#page_29 {position:relative; overflow: hidden;z:b;margin:19px 0px 18px 10px ;padding: 0px;border: none;width: 947px;}
+
+
+
+
+
+#page_30 {position:relative; overflow: hidden;z:b;margin:20px 0px 18px 10px ;padding: 0px;border: none;width: 947px;}
+
+
+
+
+
+#page_31 {position:relative; overflow: hidden;z:b;margin:19px 0px 18px 10px ;padding: 0px;border: none;width: 947px;}
+
+
+
+
+
+#page_32 {position:relative; overflow: hidden;z:b;margin:19px 0px 18px 10px ;padding: 0px;border: none;width: 856px;}
+#page_32 #id_1 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 586px;overflow: hidden;}
+#page_32 #id_2 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 270px;overflow: hidden;}
+
+
+
+
+
+#page_33 {position:relative; overflow: hidden;z:b;margin:18px 0px 18px 10px ;padding: 0px;border: none;width: 947px;}
+
+
+
+
+
+#page_34 {position:relative; overflow: hidden;z:b;margin:19px 0px 18px 10px ;padding: 0px;border: none;width: 856px;}
+#page_34 #id_1 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 586px;overflow: hidden;}
+#page_34 #id_2 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 270px;overflow: hidden;}
+
+
+
+
+
+#page_35 {position:relative; overflow: hidden;z:b;margin:20px 0px 18px 10px ;padding: 0px;border: none;width: 947px;}
+
+
+
+
+
+#page_36 {position:relative; overflow: hidden;z:b;margin:18px 0px 18px 10px ;padding: 0px;border: none;width: 856px;}
+
+#page_36 #dimg1z{position:absolute;top:246px;left:63px;z-index:-1;width:151px;height:1px;font-size: 1px !important;l-h:nHeight;}
+#page_36 #dimg1 #img1  {width:151px;height:1px;}
+
+
+
+
+.ft0{font:  20px 'Verdana' !important;l-h: 40px;}
+.ft1{font:  16px 'Verdana' !important;l-h: 26px;}
+.ft2{font:  10px 'Verdana' !important;l-h: 1px;}
+.ft3{font:  14px 'Verdana' !important;l-h: 19px;}
+.ft4{font: italic  14px 'Verdana' !important;l-h: 19px;}
+.ft5{font:  14px 'Verdana' !important;l-h: 19px;}
+.ft6{font:  14px 'Verdana' !important;margin-left: 26px;l-h: 19px;}
+.ft7{font:  14px 'Verdana' !important;margin-left: 40px;l-h: 19px;}
+.ft8{font:  14px 'Verdana' !important;margin-left: 5px;l-h: 19px;}
+.ft9{font:  14px 'Verdana' !important;margin-left: 6px;l-h: 21px;}
+.ft10{font:  14px 'Verdana' !important;l-h: 21px;}
+.ft11{font:  16px 'Verdana' !important;margin-left: 64px;l-h: 29px;}
+.ft12{font:  16px 'Verdana' !important;l-h: 29px;}
+.ft13{font: italic  14px 'Verdana' !important;l-h: 19px;}
+.ft14{font:  12px 'Verdana' !important;l-h: 14px;position: relative; bottom: 7px;}
+.ft15{font: italic  14px 'Verdana' !important;margin-left: 5px;l-h: 19px;}
+.ft16{font: italic  14px 'Verdana' !important;margin-left: 27px;l-h: 19px;}
+.ft17{font: italic  14px 'Verdana' !important;margin-left: 26px;l-h: 19px;}
+.ft18{font:  14px 'Verdana' !important;l-h: 20px;}
+.ft19{font: italic  14px 'Verdana' !important;l-h: 20px;}
+.ft20{font: italic  14px 'Verdana' !important;l-h: 17px;}
+.ft21{font:  16px 'Verdana' !important;margin-left: 64px;l-h: 26px;}
+.ft22{font:  14px 'Verdana' !important;l-h: 21px;position: relative; bottom: 5px;}
+.ft23{font:  16px 'Verdana' !important;l-h: 28px;}
+.ft24{font:  14px 'Verdana' !important;l-h: 21px;}
+.ft25{font:  14px 'Verdana' !important;margin-left: 51px;l-h: 21px;}
+.ft26{font:  14px 'Verdana' !important;l-h: 19px;}
+.ft27{font:  14px 'Verdana' !important;l-h: 15px;}
+.ft28{font:  10px 'Verdana' !important;l-h: 8px;}
+.ft29{font:  14px 'Verdana' !important;margin-left: 51px;l-h: 25px;}
+.ft30{font:  14px 'Verdana' !important;l-h: 25px;}
+.ft31{font: bold  14px 'Verdana' !important;l-h: 19px;}
+.ft32{font:  16px 'Verdana' !important;margin-left: 64px;l-h: 28px;}
+.ft33{font: bold  14px 'Verdana' !important;l-h: 20px;}
+.ft34{font:  14px 'Verdana' !important;l-h: 20px;}
+.ft35{font: bold  14px 'Verdana' !important;l-h: 20px;}
+.ft36{font:  16px 'Verdana' !important;l-h: 28px;}
+.ft37{font: bold  14px 'Verdana' !important;l-h: 19px;}
+.ft38{font:  14px 'Verdana' !important;margin-left: 9px;l-h: 20px;}
+.ft39{font:  14px 'Verdana' !important;margin-left: 6px;l-h: 19px;}
+.ft40{font:  14px 'Verdana' !important;margin-left: 7px;l-h: 19px;}
+.ft41{font:  14px 'Verdana' !important;margin-left: 16px;l-h: 21px;}
+.ft42{font:  14px 'Verdana' !important;margin-left: 10px;l-h: 20px;}
+.ft43{font:  14px 'Verdana' !important;margin-left: 10px;l-h: 19px;}
+.ft44{font:  14px 'Verdana' !important;margin-left: 5px;l-h: 20px;}
+.ft45{font:  14px 'Verdana' !important;margin-left: 7px;l-h: 20px;}
+.ft46{font:  14px 'Verdana' !important;margin-left: 13px;l-h: 19px;}
+.ft47{font:  14px 'Verdana' !important;margin-left: 14px;l-h: 21px;}
+.ft48{font:  14px 'Verdana' !important;margin-left: 11px;l-h: 21px;}
+.ft49{font:  14px 'Verdana' !important;margin-left: 6px;l-h: 20px;}
+.ft50{font:  14px 'Verdana' !important;margin-left: 8px;l-h: 19px;}
+.ft51{font:  14px 'Verdana' !important;margin-left: 4px;l-h: 19px;}
+.ft52{font:  14px 'Verdana' !important;margin-left: 4px;l-h: 20px;}
+.ft53{font:  14px 'Verdana' !important;margin-left: 11px;l-h: 19px;}
+.ft54{font:  14px 'Verdana' !important;margin-left: 8px;l-h: 21px;}
+.ft55{font:  14px 'Verdana' !important;margin-left: 14px;l-h: 20px;}
+.ft56{font:  14px 'Verdana' !important;margin-left: 14px;l-h: 19px;}
+.ft57{font:  14px 'Verdana' !important;margin-left: 17px;l-h: 19px;}
+.ft58{font:  14px 'Verdana' !important;margin-left: 8px;l-h: 20px;}
+.ft59{font:  14px 'Verdana' !important;margin-left: 13px;l-h: 21px;}
+.ft60{font:  14px 'Verdana' !important;margin-left: 12px;l-h: 20px;}
+.ft61{font:  14px 'Verdana' !important;l-h: 14px;}
+.ft62{font:  14px 'Verdana' !important;margin-left: 9px;l-h: 21px;}
+.ft63{font: bold  14px 'Verdana' !important;l-h: 21px;}
+.ft64{font:  14px 'Verdana' !important;margin-left: 11px;l-h: 20px;}
+.ft65{font:  14px 'Verdana' !important;margin-left: 7px;l-h: 21px;}
+.ft66{font:  14px 'Verdana' !important;margin-left: 4px;l-h: 21px;}
+.ft67{font: bold  14px 'Verdana' !important;l-h: 22px;}
+.ft68{font:  14px 'Verdana' !important;l-h: 22px;}
+.ft69{font:  14px 'Verdana' !important;l-h: 17px;}
+.ft70{font:  14px 'Verdana' !important;margin-left: 15px;l-h: 20px;}
+.ft71{font:  14px 'Verdana' !important;margin-left: 5px;l-h: 21px;}
+.ft72{font: bold  14px 'Verdana' !important;l-h: 22px;}
+.ft73{font:  10px 'Verdana' !important;l-h: 11px;}
+
+.p0{text-align: left;padding-left: 0px;padding-right: 546px;margin-top: 0px;margin-bottom: 0px !important;}
+.p1{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p2{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p3{text-align: left;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p4{text-align: left;padding-left: 0px;margin-top: 22px;margin-bottom: 0px !important;}
+.p5{text-align: left;padding-left: 0px;margin-top: 20px;margin-bottom: 0px !important;}
+.p6{text-align: left;padding-left: 0px;margin-top: 40px;margin-bottom: 0px !important;}
+.p7{text-align: left;padding-left: 220px;margin-top: 23px;margin-bottom: 0px !important;}
+.p8{text-align: left;padding-left: 220px;margin-top: 2px;margin-bottom: 0px !important;}
+.p9{text-align: left;padding-left: 0px;margin-top: 62px;margin-bottom: 0px !important;}
+.p10{text-align: left;padding-left: 0px;padding-right: 294px;margin-top: 17px;margin-bottom: 0px !important;}
+.p11{text-align: right;padding-right: 84px;margin-top: 352px;margin-bottom: 0px !important;}
+.p12{text-align: right;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p13{text-align: right;padding-right: 126px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p14{text-align: left;padding-left: 0px;margin-top: 4px;margin-bottom: 0px !important;}
+.p15{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p16{text-align: right;padding-right: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p17{text-align: left;padding-left: 0px;margin-top: 6px;margin-bottom: 0px !important;}
+.p18{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p19{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;}
+.p20{text-align: left;padding-left: 0px;margin-top: 16px;margin-bottom: 0px !important;}
+.p21{text-align: right;padding-right: 84px;margin-top: 551px;margin-bottom: 0px !important;}
+.p22{text-align: right;padding-right: 21px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p23{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p24{text-align: left;margin-top: 11px;margin-bottom: 0px !important;}
+.p25{text-align: left;padding-right: 294px;margin-top: 18px;margin-bottom: 0px !important;text-indent: 15px;}
+.p26{text-align: left;padding-right: 294px;margin-top: 2px;margin-bottom: 0px !important;text-indent: 15px;}
+.p27{text-align: left;padding-left: 0px;padding-right: 294px;margin-top: 67px;margin-bottom: 0px !important;text-indent: 0.75px;}
+.p28{text-align: left;padding-right: 294px;margin-top: 30px;margin-bottom: 0px !important;text-indent: 15px;}
+.p29{text-align: left;padding-left: 200px;margin-top: 12px;margin-bottom: 0px !important;}
+.p30{text-align: left;margin-top: 0px;margin-bottom: 0px !important;text-indent: 15px;}
+.p31{text-align: left;padding-right: 294px;margin-top: 0px;margin-bottom: 0px !important;text-indent: 15px;}
+.p32{text-align: left;padding-right: 294px;margin-top: 1px;margin-bottom: 0px !important;text-indent: 15px;}
+.p33{text-align: left;padding-left: 0px;margin-top: 2px;margin-bottom: 0px !important;}
+.p34{text-align: left;margin-top: 0px;margin-bottom: 0px !important;}
+.p35{text-align: left;margin-top: 0px;margin-bottom: 0px !important;}
+.p36{text-align: left;padding-right: 126px;margin-top: 0px;margin-bottom: 0px !important;}
+.p37{text-align: left;padding-right: 126px;margin-top: 0px;margin-bottom: 0px !important;text-indent: 15px;}
+.p38{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;}
+.p39{text-align: left;padding-left: 0px;margin-top: 57px;margin-bottom: 0px !important;}
+.p40{text-align: left;padding-left: 0px;margin-top: 1px;margin-bottom: 0px !important;}
+.p41{text-align: right;padding-right: 84px;margin-top: 526px;margin-bottom: 0px !important;}
+.p42{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;}
+.p43{text-align: left;padding-left: 0px;padding-right: 294px;margin-top: 36px;margin-bottom: 0px !important;text-indent: 15px;}
+.p44{text-align: left;padding-left: 0px;padding-right: 294px;margin-top: 2px;margin-bottom: 0px !important;text-indent: 15px;}
+.p45{text-align: left;padding-left: 0px;padding-right: 294px;margin-top: 1px;margin-bottom: 0px !important;text-indent: 15px;}
+.p46{text-align: left;padding-left: 0px;margin-top: 14px;margin-bottom: 0px !important;}
+.p47{text-align: left;padding-left: 0px;padding-right: 294px;margin-top: 20px;margin-bottom: 0px !important;text-indent: 15px;}
+.p48{text-align: right;padding-right: 84px;margin-top: 166px;margin-bottom: 0px !important;}
+.p49{text-align: left;padding-left: 120px;padding-right: 84px;margin-top: 0px;margin-bottom: 0px !important;text-indent: 0.75px;}
+.p50{text-align: left;padding-left: 120px;margin-top: 0px;margin-bottom: 0px !important;}
+.p51{text-align: left;padding-left: 0px;margin-top: 52px;margin-bottom: 0px !important;}
+.p52{text-align: left;padding-left: 0px;padding-right: 294px;margin-top: 14px;margin-bottom: 0px !important;text-indent: 15px;}
+.p53{text-align: left;padding-left: 0px;padding-right: 294px;margin-top: 5px;margin-bottom: 0px !important;text-indent: 15px;}
+.p54{text-align: right;padding-right: 84px;margin-top: 17px;margin-bottom: 0px !important;}
+.p55{text-align: left;padding-left: 0px;padding-right: 84px;margin-top: 0px;margin-bottom: 0px !important;text-indent: 15px;}
+.p56{text-align: left;padding-left: 0px;padding-right: 294px;margin-top: 0px;margin-bottom: 0px !important;}
+.p57{text-align: left;padding-left: 0px;margin-top: 38px;margin-bottom: 0px !important;}
+.p58{text-align: left;padding-left: 0px;padding-right: 294px;margin-top: 34px;margin-bottom: 0px !important;text-indent: 15px;}
+.p59{text-align: left;padding-left: 0px;margin-top: 34px;margin-bottom: 0px !important;}
+.p60{text-align: left;padding-left: 0px;padding-right: 294px;margin-top: 20px;margin-bottom: 0px !important;text-indent: 15px;}
+.p61{text-align: left;padding-left: 0px;margin-top: 21px;margin-bottom: 0px !important;}
+.p62{text-align: left;padding-left: 0px;padding-right: 294px;margin-top: 19px;margin-bottom: 0px !important;text-indent: 15px;}
+.p63{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;}
+.p64{text-align: right;padding-right: 84px;margin-top: 0px;margin-bottom: 0px !important;}
+.p65{text-align: left;padding-right: 84px;margin-top: 0px;margin-bottom: 0px !important;}
+.p66{text-align: left;padding-left: 0px;margin-top: 36px;margin-bottom: 0px !important;}
+.p67{text-align: left;padding-right: 294px;margin-top: 18px;margin-bottom: 0px !important;text-indent: 15px;}
+.p68{text-align: right;padding-right: 63px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p69{text-align: right;padding-right: 210px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p70{text-align: left;padding-right: 294px;margin-top: 19px;margin-bottom: 0px !important;text-indent: 15px;}
+.p71{text-align: left;padding-left: 0px;padding-right: 378px;margin-top: 33px;margin-bottom: 0px !important;text-indent: 0.75px;}
+.p72{text-align: left;padding-left: 0px;padding-right: 315px;margin-top: 29px;margin-bottom: 0px !important;}
+.p73{text-align: left;padding-left: 0px;padding-right: 84px;margin-top: 0px;margin-bottom: 0px !important;}
+.p74{text-align: left;padding-left: 0px;padding-right: 294px;margin-top: 0px;margin-bottom: 0px !important;}
+.p75{text-align: left;padding-left: 0px;padding-right: 294px;margin-top: 0px;margin-bottom: 0px !important;text-indent: 15px;}
+.p76{text-align: left;padding-left: 120px;padding-right: 336px;margin-top: 53px;margin-bottom: 0px !important;text-indent: 0.75px;}
+.p77{text-align: left;padding-left: 0px;padding-right: 315px;margin-top: 33px;margin-bottom: 0px !important;}
+.p78{text-align: left;padding-left: 0px;padding-right: 315px;margin-top: 2px;margin-bottom: 0px !important;text-indent: 15px;}
+.p79{text-align: left;padding-left: 0px;padding-right: 294px;margin-top: 59px;margin-bottom: 0px !important;}
+.p80{text-align: right;padding-right: 63px;margin-top: 20px;margin-bottom: 0px !important;}
+.p81{text-align: left;padding-left: 0px;margin-top: 17px;margin-bottom: 0px !important;}
+.p82{text-align: right;padding-right: 63px;margin-top: 434px;margin-bottom: 0px !important;}
+.p83{text-align: left;padding-left: 0px;margin-top: 17px;margin-bottom: 0px !important;}
+.p84{text-align: left;padding-left: 0px;margin-top: 19px;margin-bottom: 0px !important;}
+.p85{text-align: left;padding-left: 0px;padding-right: 294px;margin-top: 18px;margin-bottom: 0px !important;}
+.p86{text-align: left;padding-left: 0px;padding-right: 294px;margin-top: 3px;margin-bottom: 0px !important;text-indent: 15px;}
+.p87{text-align: left;padding-left: 0px;margin-top: 15px;margin-bottom: 0px !important;}
+.p88{text-align: left;padding-left: 0px;margin-top: 57px;margin-bottom: 0px !important;}
+.p89{text-align: left;padding-left: 0px;margin-top: 1px;margin-bottom: 0px !important;}
+.p90{text-align: right;padding-right: 63px;margin-top: 423px;margin-bottom: 0px !important;}
+.p91{text-align: left;padding-left: 0px;padding-right: 357px;margin-top: 22px;margin-bottom: 0px !important;}
+.p92{text-align: left;padding-left: 0px;margin-top: 10px;margin-bottom: 0px !important;}
+.p93{text-align: left;padding-left: 0px;padding-right: 294px;margin-top: 10px;margin-bottom: 0px !important;}
+.p94{text-align: left;padding-left: 0px;margin-top: 34px;margin-bottom: 0px !important;}
+.p95{text-align: left;padding-left: 0px;margin-top: 28px;margin-bottom: 0px !important;}
+.p96{text-align: left;padding-left: 0px;padding-right: 294px;margin-top: 11px;margin-bottom: 0px !important;}
+.p97{text-align: right;padding-right: 63px;margin-top: 62px;margin-bottom: 0px !important;}
+.p98{text-align: left;padding-left: 0px;margin-top: 30px;margin-bottom: 0px !important;}
+.p99{text-align: left;padding-left: 0px;padding-right: 294px;margin-top: 14px;margin-bottom: 0px !important;}
+.p100{text-align: left;padding-left: 0px;margin-top: 32px;margin-bottom: 0px !important;}
+.p101{text-align: left;padding-left: 0px;padding-right: 294px;margin-top: 11px;margin-bottom: 0px !important;}
+.p102{text-align: right;padding-right: 63px;margin-top: 11px;margin-bottom: 0px !important;}
+.p103{text-align: left;padding-left: 0px;margin-top: 29px;margin-bottom: 0px !important;}
+.p104{text-align: left;padding-left: 0px;margin-top: 35px;margin-bottom: 0px !important;}
+.p105{text-align: left;padding-left: 0px;padding-right: 294px;margin-top: 16px;margin-bottom: 0px !important;}
+.p106{text-align: left;padding-left: 0px;margin-top: 31px;margin-bottom: 0px !important;}
+.p107{text-align: left;padding-left: 0px;padding-right: 294px;margin-top: 12px;margin-bottom: 0px !important;}
+.p108{text-align: right;padding-right: 63px;margin-top: 39px;margin-bottom: 0px !important;}
+.p109{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;}
+.p110{text-align: left;padding-left: 0px;padding-right: 294px;margin-top: 17px;margin-bottom: 0px !important;}
+.p111{text-align: left;padding-left: 0px;padding-right: 294px;margin-top: 20px;margin-bottom: 0px !important;}
+.p112{text-align: right;padding-right: 63px;margin-top: 0px;margin-bottom: 0px !important;}
+.p113{text-align: left;padding-left: 0px;padding-right: 294px;margin-top: 8px;margin-bottom: 0px !important;}
+.p114{text-align: left;padding-left: 0px;padding-right: 294px;margin-top: 0px;margin-bottom: 0px !important;text-indent: 15px;}
+.p115{text-align: right;padding-right: 63px;margin-top: 1px;margin-bottom: 0px !important;}
+.p116{text-align: right;padding-right: 63px;margin-top: 36px;margin-bottom: 0px !important;}
+.p117{text-align: right;padding-right: 63px;margin-top: 15px;margin-bottom: 0px !important;}
+.p118{text-align: left;padding-left: 0px;margin-top: 11px;margin-bottom: 0px !important;}
+.p119{text-align: right;padding-right: 63px;margin-top: 7px;margin-bottom: 0px !important;}
+.p120{text-align: left;padding-left: 0px;padding-right: 0px;margin-top: 0px;margin-bottom: 0px !important;}
+.p121{text-align: left;padding-left: 0px;padding-right: 147px;margin-top: 0px;margin-bottom: 0px !important;text-indent: 15px;}
+.p122{text-align: right;margin-top: 886px;margin-bottom: 0px !important;}
+.p123{text-align: left;padding-left: 0px;margin-top: 18px;margin-bottom: 0px !important;}
+.p124{text-align: left;padding-left: 0px;padding-right: 294px;margin-top: 19px;margin-bottom: 0px !important;}
+.p125{text-align: left;padding-left: 0px;padding-right: 294px;margin-top: 29px;margin-bottom: 0px !important;}
+.p126{text-align: left;padding-left: 0px;padding-right: 294px;margin-top: 30px;margin-bottom: 0px !important;}
+.p127{text-align: right;padding-right: 63px;margin-top: 33px;margin-bottom: 0px !important;}
+.p128{text-align: left;padding-right: 0px;margin-top: 0px;margin-bottom: 0px !important;}
+.p129{text-align: left;padding-right: 0px;margin-top: 17px;margin-bottom: 0px !important;}
+.p130{text-align: left;margin-top: 31px;margin-bottom: 0px !important;}
+.p131{text-align: left;padding-right: 0px;margin-top: 31px;margin-bottom: 0px !important;}
+.p132{text-align: left;padding-right: 0px;margin-top: 20px;margin-bottom: 0px !important;}
+.p133{text-align: left;padding-right: 0px;margin-top: 21px;margin-bottom: 0px !important;}
+.p134{text-align: left;margin-top: 15px;margin-bottom: 0px !important;}
+.p135{text-align: right;padding-right: 63px;margin-top: 949px;margin-bottom: 0px !important;}
+.p136{text-align: left;padding-left: 0px;padding-right: 294px;margin-top: 25px;margin-bottom: 0px !important;}
+.p137{text-align: left;padding-left: 0px;padding-right: 294px;margin-top: 20px;margin-bottom: 0px !important;}
+.p138{text-align: left;padding-left: 0px;padding-right: 294px;margin-top: 30px;margin-bottom: 0px !important;}
+.p139{text-align: right;padding-right: 63px;margin-top: 13px;margin-bottom: 0px !important;}
+.p140{text-align: left;padding-left: 0px;padding-right: 294px;margin-top: 15px;margin-bottom: 0px !important;}
+.p141{text-align: right;padding-right: 63px;margin-top: 42px;margin-bottom: 0px !important;}
+.p142{text-align: left;padding-left: 0px;margin-top: 18px;margin-bottom: 0px !important;}
+.p143{text-align: left;padding-left: 0px;padding-right: 294px;margin-top: 21px;margin-bottom: 0px !important;}
+.p144{text-align: left;padding-left: 0px;padding-right: 294px;margin-top: 15px;margin-bottom: 0px !important;}
+.p145{text-align: left;padding-left: 0px;padding-right: 294px;margin-top: 29px;margin-bottom: 0px !important;}
+.p146{text-align: left;margin-top: 36px;margin-bottom: 0px !important;}
+.p147{text-align: left;padding-right: 0px;margin-top: 30px;margin-bottom: 0px !important;}
+.p148{text-align: left;padding-right: 0px;margin-top: 29px;margin-bottom: 0px !important;}
+.p149{text-align: left;padding-right: 0px;margin-top: 30px;margin-bottom: 0px !important;}
+.p150{text-align: left;margin-top: 29px;margin-bottom: 0px !important;}
+.p151{text-align: left;padding-left: 0px;padding-right: 588px;margin-top: 49px;margin-bottom: 0px !important;}
+.p152{text-align: left;padding-left: 0px;padding-right: 420px;margin-top: 1px;margin-bottom: 0px !important;}
+.p153{text-align: left;padding-left: 0px;padding-right: 588px;margin-top: 0px;margin-bottom: 0px !important;}
+.p154{text-align: left;padding-left: 0px;padding-right: 525px;margin-top: 0px;margin-bottom: 0px !important;}
+.p155{text-align: left;padding-left: 0px;padding-right: 546px;margin-top: 0px;margin-bottom: 0px !important;}
+.p156{text-align: left;padding-left: 0px;padding-right: 588px;margin-top: 0px;margin-bottom: 0px !important;}
+.p157{text-align: left;padding-left: 0px;padding-right: 588px;margin-top: 0px;margin-bottom: 0px !important;}
+.p158{text-align: right;padding-right: 63px;margin-top: 144px;margin-bottom: 0px !important;}
+.p159{text-align: left;padding-left: 0px;padding-right: 294px;margin-top: 18px;margin-bottom: 0px !important;}
+.p160{text-align: left;padding-left: 0px;margin-top: 21px;margin-bottom: 0px !important;}
+.p161{text-align: center;padding-left: 0px;padding-right: 294px;margin-top: 0px;margin-bottom: 0px !important;}
+.p162{text-align: right;padding-right: 63px;margin-top: 27px;margin-bottom: 0px !important;}
+.p163{text-align: left;padding-right: 0px;margin-top: 16px;margin-bottom: 0px !important;}
+.p164{text-align: left;margin-top: 20px;margin-bottom: 0px !important;}
+.p165{text-align: left;padding-right: 0px;margin-top: 19px;margin-bottom: 0px !important;}
+.p166{text-align: left;padding-right: 21px;margin-top: 15px;margin-bottom: 0px !important;}
+.p167{text-align: left;padding-right: 315px;margin-top: 0px;margin-bottom: 0px !important;}
+.p168{text-align: left;padding-right: 126px;margin-top: 0px;margin-bottom: 0px !important;}
+.p169{text-align: left;padding-right: 294px;margin-top: 0px;margin-bottom: 0px !important;}
+.p170{text-align: left;padding-left: 0px;padding-right: 399px;margin-top: 36px;margin-bottom: 0px !important;}
+.p171{text-align: left;padding-left: 0px;margin-top: 24px;margin-bottom: 0px !important;}
+.p172{text-align: left;margin-top: 17px;margin-bottom: 0px !important;}
+.p173{text-align: left;margin-top: 19px;margin-bottom: 0px !important;}
+.p174{text-align: left;margin-top: 15px;margin-bottom: 0px !important;}
+.p175{text-align: left;margin-top: 21px;margin-bottom: 0px !important;}
+.p176{text-align: left;padding-left: 0px;padding-right: 294px;margin-top: 22px;margin-bottom: 0px !important;}
+.p177{text-align: left;padding-left: 0px;margin-top: 12px;margin-bottom: 0px !important;}
+.p178{text-align: right;padding-right: 63px;margin-top: 646px;margin-bottom: 0px !important;}
+.p179{text-align: left;padding-left: 0px;padding-right: 168px;margin-top: 74px;margin-bottom: 0px !important;}
+.p180{text-align: right;margin-top: 631px;margin-bottom: 0px !important;}
+
+.td0{padding: 0px;margin: 0px;width: 507px;vertical-align: bottom;}
+.td1{padding: 0px;margin: 0px;width: 154px;vertical-align: bottom;}
+.td2{border-bottom: #000000 1px solid;padding: 0px;margin: 0px;width: 507px;vertical-align: bottom;}
+.td3{border-bottom: #000000 1px solid;padding: 0px;margin: 0px;width: 154px;vertical-align: bottom;}
+.td4{padding: 0px;margin: 0px;width: 505px;vertical-align: bottom;}
+.td5{padding: 0px;margin: 0px;width: 149px;vertical-align: bottom;}
+.td6{padding: 0px;margin: 0px;width: 22px;vertical-align: bottom;}
+.td7{padding: 0px;margin: 0px;width: 483px;vertical-align: bottom;}
+.td8{padding: 0px;margin: 0px;width: 10px;vertical-align: bottom;}
+.td9{padding: 0px;margin: 0px;width: 469px;vertical-align: bottom;}
+.td10{padding: 0px;margin: 0px;width: 42px;vertical-align: bottom;}
+.td11{padding: 0px;margin: 0px;width: 427px;vertical-align: bottom;}
+.td12{padding: 0px;margin: 0px;width: 406px;vertical-align: bottom;}
+.td13{padding: 0px;margin: 0px;width: 473px;vertical-align: bottom;}
+.td14{padding: 0px;margin: 0px;width: 19px;vertical-align: bottom;}
+.td15{padding: 0px;margin: 0px;width: 45px;vertical-align: bottom;}
+.td16{padding: 0px;margin: 0px;width: 488px;vertical-align: bottom;}
+.td17{padding: 0px;margin: 0px;width: 120px;vertical-align: bottom;}
+.td18{padding: 0px;margin: 0px;width: 269px;vertical-align: bottom;}
+.td19{padding: 0px;margin: 0px;width: 132px;vertical-align: bottom;}
+.td20{padding: 0px;margin: 0px;width: 585px;vertical-align: bottom;}
+.td21{padding: 0px;margin: 0px;width: 78px;vertical-align: bottom;}
+.td22{padding: 0px;margin: 0px;width: 533px;vertical-align: bottom;}
+
+.tr0{heightzzz: 36px;}
+.tr1{heightzzz: 27px;}
+.tr2{heightzzz: 39px;}
+.tr3{heightzzz: 42px;}
+.tr4{heightzzz: 25px;}
+.tr5{heightzzz: 20px;}
+.tr6{heightzzz: 19px;}
+.tr7{heightzzz: 22px;}
+.tr8{heightzzz: 24px;}
+.tr9{heightzzz: 32px;}
+.tr10{heightzzz: 23px;}
+.tr11{heightzzz: 56px;}
+.tr12{heightzzz: 37px;}
+.tr13{heightzzz: 35px;}
+.tr14{heightzzz: 30px;}
+.tr15{heightzzz: 8px;}
+.tr16{heightzzz: 26px;}
+.tr17{heightzzz: 29px;}
+.tr18{heightzzz: 51px;}
+.tr19{heightzzz: 28px;}
+.tr20{heightzzz: 11px;}
+
+.t0{width: 693px;margin-leftZ: 75px;margin-top: 6px;f:23px 'Verdana' !important;}
+.t1{width: 685px;margin-leftZ: 76px;f:17px 'Verdana' !important;}
+.t2{width: 540px;margin-leftZ: 76px;f:17px 'Verdana' !important;}
+.t3{width: 502px;margin-leftZ: 110px;f:17px 'Verdana' !important;}
+.t4{width: 436px;margin-leftZ: 170px;f:17px 'Verdana' !important;}
+.t5{width: 685px;f:23px 'Verdana' !important;}
+.t6{width: 421px;margin-top: 34px;f:italic 17px 'Verdana' !important;}
+.t7{width: 696px;f:17px 'Verdana' !important;}
+.t8{width: 696px;margin-top: 56px;f:17px 'Verdana' !important;}
+.t9{width: 685px;margin-leftZ: 76px;f:bold 16px 'Verdana' !important;}
+
+</STYLE>
+
+
+
+<DIV id="page_1">
+
+
+<P class="p0 ft0">Regeringens proposition 2002/03:88</P>
+<TABLE cellpadding=0 cellspacing=0 class="t0">
+<TR>
+	<TD class="tr0 td0"><SPAN class="p1 ft1">Åtagande att tillämpa avtal om rättslig ställning för</SPAN> </TD>
+	<TD class="tr0 td1"><SPAN class="p2 ft1">Prop.</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr1 td0"><SPAN class="p1 ft1">Västeuropeiska unionen, dess nationella</SPAN> </TD>
+	<TD class="tr1 td1"><SPAN class="p2 ft1">2002/03:88</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr1 td2"><SPAN class="p1 ft1">representanter och internationella tjänstemän</SPAN> </TD>
+	<TD class="tr1 td3"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+</TABLE>
+<P class="p4 ft3">Regeringen överlämnar denna proposition till riksdagen.</P>
+<P class="p5 ft3">Harpsund den 6 mars 2003</P>
+<P class="p6 ft4">Göran Persson</P>
+<P class="p7 ft4">Leni Björklund</P>
+<P class="p8 ft3">(Försvarsdepartementet)</P>
+<P class="p9 ft1">Propositionens huvudsakliga innehåll</P>
+<P class="p10 ft5">I propositionen redovisas förslag om ändring i lagen (1976:661) om immunitet och privilegier i vissa fall. Anledningen till förslaget är att Sverige, genom att tillträda samförståndsavtalet om deltagande i Västeuropeiska försvarsmaterielorganisationen, på samma sätt som befintliga medlemmar i Västeuropeiska försvarsmaterielgruppen kommer att kunna utnyttja Västeuropeiska försvarsmaterielorganisationen för kontraktering av forsknings- och teknologitjänster.</P>
+<P class="p11 ft3">1</P>
+</DIV>
+<DIV id="page_2">
+
+
+<TABLE cellpadding=0 cellspacing=0 class="t1">
+<TR>
+	<TD class="tr2 td4"><SPAN class="p3 ft1">Innehållsförteckning</SPAN> </TD>
+	<TD class="tr2 td5"><SPAN class="p12 ft3">Prop. 2002/03:88</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr3 td4"><SPAN class="p3 ft3">1 Förslag till riksdagsbeslut .................................................................</SPAN> </TD>
+	<TD class="tr3 td5"><SPAN class="p13 ft3">3</SPAN> </TD>
+</TR>
+</TABLE>
+<P class="p14 ft3"><SPAN class="ft5">2</SPAN><SPAN class="ft6">Förslag till lag om ändring i lagen (1976:661) om immunitet och</SPAN></P>
+<TABLE cellpadding=0 cellspacing=0 class="t2">
+<TR>
+	<TD class="tr4 td6"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr4 td7"><SPAN class="p15 ft3">privilegier i vissa fall ........................................................................</SPAN> </TD>
+	<TD class="tr4 td8"><SPAN class="p12 ft3">3</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr4 td6"><SPAN class="p16 ft5">3</SPAN> </TD>
+	<TD class="tr4 td7"><SPAN class="p15 ft3">Ärendet och dess beredning..............................................................</SPAN> </TD>
+	<TD class="tr4 td8"><SPAN class="p12 ft3">5</SPAN> </TD>
+</TR>
+</TABLE>
+<P class="p17 ft3"><SPAN class="ft5">4</SPAN><SPAN class="ft6">Samförståndsavtalet om deltagande i Västeuropeiska</SPAN></P>
+<TABLE cellpadding=0 cellspacing=0 class="t3">
+<TR>
+	<TD colspan=2 class="tr5 td9"><SPAN class="p3 ft3">försvarsmaterielorganisationen.........................................................</SPAN> </TD>
+	<TD class="tr5 td8"><SPAN class="p12 ft3">6</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr5 td10"><SPAN class="p3 ft3">4.1</SPAN> </TD>
+	<TD class="tr5 td11"><SPAN class="p18 ft3">Bakgrund ............................................................................</SPAN> </TD>
+	<TD class="tr5 td8"><SPAN class="p12 ft3">6</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr6 td10"><SPAN class="p3 ft3">4.2</SPAN> </TD>
+	<TD class="tr6 td11"><SPAN class="p18 ft3">Parisavtalet .........................................................................</SPAN> </TD>
+	<TD class="tr6 td8"><SPAN class="p12 ft3">7</SPAN> </TD>
+</TR>
+</TABLE>
+<P class="p19 ft3"><SPAN class="ft5">4.3</SPAN><SPAN class="ft7">Godkännande av anslutningsdokumentet med anledning av</SPAN></P>
+<TABLE cellpadding=0 cellspacing=0 class="t4">
+<TR>
+	<TD class="tr7 td12"><SPAN class="p3 ft3">samförståndsavtalet ............................................................</SPAN> </TD>
+	<TD class="tr7 td8"><SPAN class="p12 ft3">9</SPAN> </TD>
+</TR>
+</TABLE>
+<P class="p14 ft3"><SPAN class="ft5">5</SPAN><SPAN class="ft6">Ändring i lagen (1976:661) om immunitet och privilegier i vissa</SPAN></P>
+<TABLE cellpadding=0 cellspacing=0 class="t2">
+<TR>
+	<TD class="tr8 td6"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr8 td13"><SPAN class="p15 ft3">fall ...................................................................................................</SPAN> </TD>
+	<TD class="tr8 td14"><SPAN class="p12 ft3">10</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr4 td6"><SPAN class="p16 ft5">6</SPAN> </TD>
+	<TD class="tr4 td13"><SPAN class="p15 ft3">Kostnader ........................................................................................</SPAN> </TD>
+	<TD class="tr4 td14"><SPAN class="p12 ft3">11</SPAN> </TD>
+</TR>
+</TABLE>
+<P class="p20 ft3">Bilagor………………………………………………………… .……. 12</P>
+<P class="p5 ft3">Utdrag ur protokoll vid regeringssammanträde den 6 mars 2003 ….….36</P>
+<P class="p21 ft3">2</P>
+</DIV>
+<DIV id="page_3">
+
+
+<DIV id="id_1">
+<TABLE cellpadding=0 cellspacing=0 class="t5">
+<TR>
+	<TD class="tr9 td15"><SPAN class="p22 ft1">1</SPAN> </TD>
+	<TD class="tr9 td16"><SPAN class="p23 ft1">Förslag till riksdagsbeslut</SPAN> </TD>
+	<TD class="tr9 td17"><SPAN class="p3 ft5">Prop. 2002/03:88</SPAN> </TD>
+</TR>
+</TABLE>
+<P class="p24 ft3">Regeringen föreslår att riksdagen</P>
+<P class="p25 ft3"><SPAN class="ft5">1.</SPAN><SPAN class="ft8">godkänner anslutningsdokumentet av den 6 maj 2002 med anledning av det av Sverige den 16 maj 2002 undertecknade samförståndsavtalet om deltagande i Västeuropeiska försvarsmaterielorganisationen, med den reservationen att bestämmelserna om beskattning i artiklarna 21 och 22 i avtalet om rättslig ställning för Västeuropeiska unionen, nationella ombud och internationella tjänstemän undertecknat i Paris den 11 maj 1955 inte skall tillämpas på svenska medborgare eller på personer som är bosatta i Sverige,</SPAN></P>
+<P class="p26 ft10"><SPAN class="ft5">2.</SPAN><SPAN class="ft9">antar regeringens förslag till lag om ändring i lagen (1976:661) om immunitet och privilegier i vissa fall.</SPAN></P>
+<P class="p27 ft12"><SPAN class="ft1">2</SPAN><SPAN class="ft11">Förslag till lag om ändring i lagen (1976:661) om immunitet och privilegier i vissa fall</SPAN></P>
+<P class="p28 ft10">Härigenom föreskrivs att 2 c § lagen (1976:661) om immunitet och privilegier i vissa fall1 skall få följande lydelse.</P>
+<TABLE cellpadding=0 cellspacing=0 class="t6">
+<TR>
+	<TD class="tr4 td18"><SPAN class="p3 ft4">Nuvarande lydelse</SPAN> </TD>
+	<TD class="tr4 td19"><SPAN class="p3 ft13">Föreslagen lydelse</SPAN> </TD>
+</TR>
+</TABLE>
+<P class="p29 ft3">2 c §<SPAN class="ft14">2</SPAN></P>
+</DIV>
+<DIV id="id_2">
+<DIV id="id_2_1">
+<P class="p30 ft5">Sådan immunitet och sådana privilegier som följer av avtalet den 11 maj 1955 om rättslig ställning för Västeuropeiska unionen, nationella ombud och internationella tjänstemän skall tillämpas på <SPAN class="ft13">dels den verksamhet som följer av avtalet den 16 november 1998 med benämningen Ett system för samarbete om forskning och teknologi i Europa samt anslutningsdokumentet av den 16 november 1998, dels den verksamhet som följer av samförståndsavtalet om europeiska avtal om forskningsorganisation, program och aktiviteter av den 15 maj 2001 samt anslutningsdokumentet av den 7 mars 2002. Bestämmelserna avseende beskattning i artiklarna 21 och 22 i</SPAN></P>
+</DIV>
+<DIV id="id_2_2">
+<P class="p31 ft3">Sådan immunitet och sådana privilegier som följer av avtalet den 11 maj 1955 om rättslig ställning för Västeuropeiska unionen, nationella ombud och internationella tjänstemän skall tillämpas på <SPAN class="ft4">den verksamhet som följer av</SPAN></P>
+<P class="p32 ft4"><SPAN class="ft13">1.</SPAN><SPAN class="ft15">avtalet den 16 november 1998 med benämningen Ett system för samarbete om forskning och teknologi i Europa samt anslutningsdokumentet av den 16 november 1998,</SPAN></P>
+<P class="p32 ft4"><SPAN class="ft13">2.</SPAN><SPAN class="ft16">samförståndsavtalet om europeiska avtal om forskningsorganisation, program och aktiviteter av den 15 maj 2001 samt anslutningsdokumentet av den 7 mars 2002, eller</SPAN></P>
+<P class="p33 ft4"><SPAN class="ft13">3.</SPAN><SPAN class="ft17">samförståndsavtalet om</SPAN></P>
+</DIV>
+</DIV>
+<DIV id="id_3">
+<P class="p34 ft3">3</P>
+</DIV>
+</DIV>
+<DIV id="page_4">
+<DIV id="dimg1">
+<INGENBILD zsrc="GQ03884x1.jpg/" id="img1">
+</DIV>
+
+
+<DIV id="id_1">
+<DIV id="id_1_1">
+<P class="p35 ft13">avtalet den 11 maj 1955 om rättslig ställning för Västeuropeiska unionen, nationella ombud och internationella tjänstemän skall inte tillämpas på svenska medborgare eller på personer som är bosatta i Sverige.</P>
+</DIV>
+<DIV id="id_1_2">
+<P class="p34 ft19">deltagande i Västeuropeiska <SPAN class="ft18">Prop. 2002/03:88 </SPAN>försvarsmaterielorganisationen av</P>
+<P class="p36 ft13">den 16 maj 2002 och anslutningsdokumentet av den 6 maj 2002.</P>
+<P class="p37 ft13"><SPAN class="ft20">B</SPAN>estämmelserna om beskattning i artiklarna 21 och 22 i avtalet den 11 maj 1955 om rättslig ställning för Västeuropeiska unionen, nationella ombud och internationella tjänstemän skall inte tilllämpas på svenska medborgare eller på personer som är bosatta i Sverige.</P>
+</DIV>
+</DIV>
+<DIV id="id_2">
+<P class="p38 ft3">Denna lag träder i kraft den dag regeringen bestämmer.</P>
+<P class="p39 ft3">1 Lagen omtryckt 1994:717.</P>
+<P class="p40 ft3">2 Senaste lydelse 2002:652.</P>
+<P class="p41 ft3">4</P>
+</DIV>
+</DIV>
+<DIV id="page_5">
+
+
+<P class="p42 ft1"><SPAN class="ft1">3</SPAN><SPAN class="ft21">Ärendet och dess beredning</SPAN></P>
+<P class="p43 ft3">Inom ramen för samarbetet i Västeuropeiska försvarsmaterielorganisationen (WEAO) har en ändring i samförståndsavtalet om deltagande i Västeuropeiska försvarsmaterielorganisationen (samförståndsavtalet) förhandlats fram. Ändringen innebär att nya medlemmar i Västeuropeiska försvarsmaterielgruppen (WEAG), däribland Sverige, får en rättsligt adekvat ställning gentemot organisationen och får samma möjligheter som övriga WEAG- medlemmar att använda WEAO vid kontraktering av forsknings- och teknologitjänster. För att Sverige skall kunna delta i <NOBR>WEAO-samarbetet</NOBR> och kontraktera forsknings- och teknologitjänster genom organisationen och dess forskningscell fordras att Sverige förbinder sig att tillämpa det i Paris den 11 maj 1955 undertecknade avtalet om rättslig ställning för Västeuropeiska unionen, nationella ombud och internationella tjänstemän (Parisavtalet). Detta har skett genom en till Västeuropeiska unionens ministerråd avlämnad svensk förklaring i form av ett särskilt anslutningsdokument den 13 maj 2002. Anslutningsdokumentet, Parisavtalet, samförståndsavtalet, ändring 1 i samförståndsavtalet samt utdrag ur stadgan för WEAO finns i bilagorna <NOBR>1-5.</NOBR></P>
+<P class="p44 ft3">Regeringen beslutade den 2 maj 2002 att samförståndsavtalet och anslutningsdokumentet skulle undertecknas. Anslutningsdokumentet undertecknades med förbehåll för ratifikation den 6 maj 2002 och avtalet den 16 maj 2002.</P>
+<P class="p45 ft18">Förslagen i denna proposition bygger på innehållet i en promemoria som upprättats inom Försvarsdepartementet. Försvarsmakten, Försvarets materielverk och Totalförsvarets forskningsinstitut har getts tillfälle att komma in med synpunkter på promemorian. Promemorian och en sammanställning av myndigheternas synpunkter finns tillgängliga i Försvarsdepartementet (Fo2002/2234/MIL).</P>
+<P class="p46 ft4">Lagrådet</P>
+<P class="p47 ft3">Den föreslagna lagändringen innebär att en bestämmelse om immunitet och privilegier kompletteras på så sätt att den också skall tillämpas på verksamhet som följer av det nu aktuella avtalet. Lagförslaget är således av enkel beskaffenhet. Regeringen anser därför att yttrande från Lagrådet inte behöver inhämtas.</P>
+<P class="p48 ft3">5</P>
+</DIV>
+<DIV id="page_6">
+
+
+<P class="p49 ft23">4 Samförståndsavtalet om deltagande i <SPAN class="ft22">Prop. 2002/03:88 </SPAN>Västeuropeiska försvarsmateriel-</P>
+<P class="p50 ft1">organisationen</P>
+<P class="p51 ft24"><SPAN class="ft24">4.1</SPAN><SPAN class="ft25">Bakgrund</SPAN></P>
+<P class="p52 ft3">Västeuropeiska försvarsmaterielgruppen (WEAG) är ett forum för samarbete på försvarsmaterielområdet mellan de tio medlemsländerna i Västeuropeiska unionen (VEU) samt Danmark, Norge, Turkiet, Finland, Polen, Sverige, Tjeckien, Ungern och Österrike. Sverige anslöt sig tillsammans med Finland, Polen, Tjeckien, Ungern och Österrike till WEAG i november 2000. Arbetet i WEAG bedrivs på tre huvudområden i sk. paneler, nämligen panel I <SPAN class="ft26">- </SPAN>gemensam utveckling och upphandling av materiel, panel II <SPAN class="ft26">- </SPAN>forskning och teknologi samt panel III <SPAN class="ft26">- </SPAN>kravspecifikationer och kvalifikationskrav på leverantörer. Samarbetet inom WEAG är inte traktatfäst utan bygger på samförstånd mellan deltagarna. Västeuropeiska försvarsmaterielorganisationen (WEAO) inrättades av ministermötet i Ostende den 19 november 1996 som ett underorgan till Västeuropeiska unionen (VEU) med syfte att främja europeiskt försvarsmaterielsamarbete, stärka den försvarsteknologiska basen och skapa en europeisk marknad för försvarsprodukter. Samarbetet i WEAO är direkt knutet till WEAG. WEAO fick till skillnad från WEAG legal status och kan därmed utgöra ett rättsligt ramverk för delar av forsknings- och utvecklingsarbetet i WEAG. I samband med inrättandet av WEAO överfördes den forskningscell som tidigare var organiserad i panel II (forsknings- och teknologisamarbete) inom WEAG till den nya organisationen och forskningscellen fick befogenheter att på deltagarländernas uppdrag teckna bindande kontrakt för upphandling av tjänster på forsknings- och teknologiområdet. Samarbetet i WEAO omfattar för närvarande de tio medlemsländerna i VEU samt Danmark, Norge och Turkiet. Förutom Sverige har Finland, Polen, Tjeckien, Ungern och Österrike framfört önskemål om att delta i WEAO.</P>
+<P class="p53 ft3">Sverige har tidigare åtagit sig att tillämpa Parisavtalet inom ramen för forskningssamarbete. Det gjordes genom avtalet SOCRATE från november 1998 då Sverige (i likhet med Finland) fick tillträde till forskningsprogrammen European <NOBR>Co-operation</NOBR> for the Long Term in Defence (EUCLID) och Technology Arrangement for Laboratories for Defence European Science (THALES) på samma villkor som de dåvarande medlemsländerna i WEAG och samarbetsländerna i WEAO. Arrangemanget innebar att Sverige kunde utnyttja WEAO och forskningscellen för kontraktering med avseende på dessa forskningsprogram. Åtagandet kom till uttryck i ett särskilt anslutningsdokument (se prop. 1998/99:117, bet. 1999/2000:UU4, rskr. 1999/2000:21). Detsamma gäller för det i maj 2000 undertecknade samförståndsavtalet om europeiska avtal för forskningsorganisation, program och aktiviteter (EUROPA) (se prop. 2001/02:157, 2001/02:UU15, rskr. 2001/02:290).</P>
+<P class="p54 ft3">6</P>
+</DIV>
+<DIV id="page_7">
+
+
+<P class="p55 ft18">Sverige har genom avtalen SOCRATE och EUROPA fått möjlighet att Prop. 2002/03:88 inom ramen för dessa specifika avtal kontraktera forsknings- och</P>
+<P class="p56 ft3">teknologitjänster. Sverige har dock inte haft en generell ställning gentemot WEAO som ger generellt tillträde till organisationens samarbeten. Ändringen i samförståndsavtalet innebär i huvudsak att de nya medlemmarna i WEAG utan att formellt behöva vara medlemmar i WEAO får tillträde till samarbetet som deltagare genom undertecknandet av ändringsförslaget och efter särskilt anmälningsförfarande föranlett av behovet av nationell beredning. Vidare framgår att bestämmelserna enligt de nu gällande samarbetsavtalen mellan medlemsländerna i WEAG skall ha företräde framför motsvarande bestämmelser rörande interna regler och förfaranden som gäller inom WEAO.</P>
+<P class="p57 ft24"><SPAN class="ft24">4.2</SPAN><SPAN class="ft25">Parisavtalet</SPAN></P>
+<P class="p58 ft10">I Parisavtalet regleras frågor om immunitet och privilegier för VEU, dess nationella ombud och internationella tjänstemän.</P>
+<P class="p59 ft4">Avsnitt I - Allmänt (artikel <NOBR>1–2)</NOBR></P>
+<P class="p60 ft3">Inledningsvis definieras organisationen. Denna sägs bestå av rådet, etablerat genom artikel VIII i Brysselfördraget, av rådets underställda organ och av församlingen. Med underställda organ avses varje organ, kommitté eller verksamhet som lyder under rådet. Med församlingen avses den församling som etablerats genom artikel IX i Brysselfördraget. Enligt bestämmelserna har medlemsstaterna skyldighet att samarbeta för att främja en korrekt rättskipning, säkra efterlevnaden av ordningsregler och att hindra varje överträdelse med anknytning till avtalets regler om immunitet och privilegier. Dessutom finns regler om de åtgärder som skall vidtas vid fall av överträdelse mot bestämmelserna om immunitet och privilegier samt en medlemsstats befogenheter i dessa fall.</P>
+<P class="p61 ft4">Avsnitt II - Organisationen (artikel <NOBR>3–10)</NOBR></P>
+<P class="p62 ft18">I denna del regleras frågor om organisationens ställning som självständigt rättssubjekt, dess immunitet med avseende på egendom och tillgångar, okränkbarhet med avseende på lokaler och arkiv, skatte- och tullfrihet, rätt till okränkt korrespondens samt rätt att använda kodade meddelanden.</P>
+<P class="p59 ft4">Avsnitt III - Ständiga ombud vid organisationen (artikel 11)</P>
+<P class="p62 ft3">Här regleras immunitet och privilegier för den som utses av en medlemsstat att vara den statens ständiga ombud hos organisationen på en annan stats territorium. Reglerna omfattar även sådana personer som tillhör det ständiga ombudets medföljande officiella personal i den</P>
+<P class="p63 ft27">omfattning som generalsekreteraren i VEU överenskommer med</P>
+<P class="p64 ft3">7</P>
+</DIV>
+<DIV id="page_8">
+
+
+<P class="p65 ft18">ifrågavarande stater. Immunitet och privilegier skall motsvara dem som Prop. 2002/03:88 åtnjuts av diplomater och dessas officiella personal av motsvarande rang.</P>
+<P class="p66 ft4">Avsnitt IV- Ombud i rådet och dess underställda organ (artikel <NOBR>12–15)</NOBR></P>
+<P class="p67 ft3">Denna del behandlar den immunitet och de privilegier som åtnjuts av medlemsstaternas nationella ombud i rådet eller i något av dess underställda organ, förutsatt att vederbörande vistas på en annan medlemsstats territorium för att fullgöra sina uppgifter i tjänsten. Immunitet och privilegier skall anses omfatta alla ombud, rådgivare och tekniska experter som ingår i staternas delegationer. I viss omfattning skall immunitet och privilegier även tillämpas för sådan officiell kontorspersonal som medföljer en medlemsstats ombud till en annan medlemsstat för att där fullgöra sina tjänsteåligganden.</P>
+<TABLE cellpadding=0 cellspacing=0 class="t7">
+<TR>
+	<TD class="tr10 td20"><SPAN class="p68 ft3">Vidare slås fast att immunitet och privilegier för medlemsstaternas</SPAN> </TD>
+	<TD class="tr10 td21"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr5 td20"><SPAN class="p68 ft3">ombud och deras personal inte har medgivits för att gynna de enskilda</SPAN> </TD>
+	<TD class="tr5 td21"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr6 td20"><SPAN class="p68 ft3">individerna personligen, utan för att garantera att dessa självständigt kan</SPAN> </TD>
+	<TD class="tr6 td21"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr6 td20"><SPAN class="p68 ft3">fullgöra sina uppgifter med anknytning till VEU. Av bestämmelserna</SPAN> </TD>
+	<TD class="tr6 td21"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr6 td20"><SPAN class="p68 ft3">framgår också att en medlemsstat inte bara har rätt, utan även skyldighet,</SPAN> </TD>
+	<TD class="tr6 td21"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr6 td20"><SPAN class="p68 ft3">att avstå från att åberopa immunitet för sina ombud jämte personal i</SPAN> </TD>
+	<TD class="tr6 td21"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr6 td20"><SPAN class="p68 ft3">enskilda fall, om immuniteten, enligt medlemsstaten, skulle hindra</SPAN> </TD>
+	<TD class="tr6 td21"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr5 td20"><SPAN class="p68 ft3">rättvisans gång och detta kan ske utan att inverka menligt på syftet med</SPAN> </TD>
+	<TD class="tr5 td21"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr6 td20"><SPAN class="p68 ft3">immuniteten. Inte heller skall en medlemsstat vara tvingad att tillerkänna</SPAN> </TD>
+	<TD class="tr6 td21"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr6 td20"><SPAN class="p68 ft3">sina medborgare eller någon annan som är den statens ombud, eller som</SPAN> </TD>
+	<TD class="tr6 td21"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr6 td20"><SPAN class="p68 ft5">tillhör ombudets personal den immunitet eller de privilegier som anges i</SPAN> </TD>
+	<TD class="tr6 td21"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr7 td20"><SPAN class="p3 ft3">avsnittet.</SPAN> </TD>
+	<TD class="tr7 td21"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr11 td20"><SPAN class="p69 ft13">Avsnitt V - Ombud till församlingen (artikel <NOBR>16–18)</NOBR></SPAN> </TD>
+	<TD class="tr11 td21"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr12 td20"><SPAN class="p68 ft3">Här behandlas frågor om fri rörlighet, tullfrihet, valutautförsel och om</SPAN> </TD>
+	<TD class="tr12 td21"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr6 td20"><SPAN class="p68 ft3">straffrättslig immunitet och immunitet mot vissa administrativa</SPAN> </TD>
+	<TD class="tr6 td21"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr6 td20"><SPAN class="p68 ft3">ingripanden eller andra förfaranden riktade mot enskild i samband med</SPAN> </TD>
+	<TD class="tr6 td21"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr5 td20"><SPAN class="p68 ft5"><NOBR>VEU-församlingens</NOBR> sessioner. Bestämmelserna gäller medlemsstaternas</SPAN> </TD>
+	<TD class="tr5 td21"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr6 td20"><SPAN class="p68 ft3">ombud till församlingen eller ersättare för dessa och omfattar på vissa</SPAN> </TD>
+	<TD class="tr6 td21"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr6 td20"><SPAN class="p68 ft3">punkter även deltagande i sådana möten som anordnas utanför session i</SPAN> </TD>
+	<TD class="tr6 td21"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr7 td20"><SPAN class="p3 ft3">församlingens kommittéer eller arbetsgrupper.</SPAN> </TD>
+	<TD class="tr7 td21"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr13 td20"><SPAN class="p68 ft4">Avsnitt VI - Internationella tjänstemän och experter med uppdrag för</SPAN> </TD>
+	<TD class="tr13 td21"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr7 td20"><SPAN class="p3 ft4">organisationen (artikel <NOBR>19–25)</NOBR></SPAN> </TD>
+	<TD class="tr7 td21"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr0 td20"><SPAN class="p68 ft3">Bestämmelserna i detta avsnitt tar upp immunitet och privilegier för</SPAN> </TD>
+	<TD class="tr0 td21"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr6 td20"><SPAN class="p68 ft5">personer med uppdrag för organisationen som internationella tjänstemän</SPAN> </TD>
+	<TD class="tr6 td21"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr6 td20"><SPAN class="p68 ft3">eller experter vid vistelse i en annan medlemsstat. Även vissa</SPAN> </TD>
+	<TD class="tr6 td21"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr6 td20"><SPAN class="p68 ft3">medföljande omfattas av bestämmelserna. Av reglerna framgår att</SPAN> </TD>
+	<TD class="tr6 td21"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr6 td20"><SPAN class="p68 ft3">organisationen kan upphäva immunitet som skulle hindra rättvisans gång,</SPAN> </TD>
+	<TD class="tr6 td21"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr5 td20"><SPAN class="p68 ft3">om det kan ske utan att inverka menligt på organisationens intressen.</SPAN> </TD>
+	<TD class="tr5 td21"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr6 td20"><SPAN class="p68 ft3">Vidare kan en medlemsstat inskränka viss immunitet och vissa</SPAN> </TD>
+	<TD class="tr6 td21"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr6 td20"><SPAN class="p68 ft3">privilegier för den statens medborgare. Det finns också regler om</SPAN> </TD>
+	<TD class="tr6 td21"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr7 td20"><SPAN class="p68 ft3">organisationens beskattningsrätt och om befrielse från nationell</SPAN> </TD>
+	<TD rowspan=2 class="tr14 td21"><SPAN class="p12 ft3">8</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr15 td20"><SPAN class="p3 ft28">&nbsp;</SPAN> </TD>
+</TR>
+</TABLE>
+</DIV>
+<DIV id="page_9">
+<DIV id="dimg1">
+<INGENBILD zsrc="GQ03889x1.jpg/" id="img1">
+</DIV>
+
+
+<P class="p65 ft18">beskattning för vad som utbetalas som lön eller andra förmåner till Prop. 2002/03:88 organisationens tjänstemän.</P>
+<P class="p66 ft4">Övriga bestämmelser (artikel <NOBR>26–29)</NOBR></P>
+<P class="p70 ft10">Avtalets avslutande bestämmelser behandlar frågor om tvistlösning, tilläggsöverenskommelser, ratifikation och villkor för uppsägning av avtalet.</P>
+<P class="p71 ft30"><SPAN class="ft24">4.3</SPAN><SPAN class="ft29">Godkännande av anslutningsdokumentet med anledning av samförståndsavtalet</SPAN></P>
+<P class="p72 ft3"><SPAN class="ft31">Regeringens förslag: </SPAN>Riksdagen godkänner anslutningsdokumentet av den 6 maj 2002 med anledning av samförståndsavtalet om deltagande i Västeuropeiska försvarsmaterielorganisationen som undertecknades av Sverige den 16 maj 2002, med den reservationen att bestämmelserna avseende beskattning i artiklarna 21 och 22 i avtalet om rättslig ställning för Västeuropeiska unionen, nationella ombud och internationella tjänstemän undertecknat i Paris den 11 maj 1955 inte skall tillämpas på svenska medborgare eller på personer som är bosatta i Sverige.</P>
+<TABLE cellpadding=0 cellspacing=0 class="t8">
+<TR>
+	<TD class="tr16 td20"><SPAN class="p68 ft3"><SPAN class="ft31">Promemorians förslag</SPAN>: Överensstämmer i huvudsak med regeringens.</SPAN> </TD>
+	<TD class="tr16 td21"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr6 td20"><SPAN class="p68 ft3"><SPAN class="ft31">Remissinstanserna: </SPAN>Har inte haft något att erinra mot promemorians</SPAN> </TD>
+	<TD class="tr6 td21"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr6 td20"><SPAN class="p3 ft3">förslag.</SPAN> </TD>
+	<TD class="tr6 td21"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr6 td20"><SPAN class="p68 ft3"><SPAN class="ft31">Skälen för regeringens förslag</SPAN>: Det är angeläget för Sverige att delta</SPAN> </TD>
+	<TD class="tr6 td21"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr5 td20"><SPAN class="p68 ft5">i de forskningssamarbeten och de utvidgade möjligheter till kontraktering</SPAN> </TD>
+	<TD class="tr5 td21"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr6 td20"><SPAN class="p68 ft3">för upphandling av forsknings- och teknologitjänster som möjliggjorts</SPAN> </TD>
+	<TD class="tr6 td21"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr6 td20"><SPAN class="p68 ft3">genom avtalet. Betydelsen av att genom samverkan stärka den</SPAN> </TD>
+	<TD class="tr6 td21"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr6 td20"><SPAN class="p68 ft3">europeiska forskningsbasen och bättre koordinera olika länders</SPAN> </TD>
+	<TD class="tr6 td21"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr6 td20"><SPAN class="p68 ft3">forskningsinsatser för att undvika duplicering och dela på kostnader har</SPAN> </TD>
+	<TD class="tr6 td21"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr6 td20"><SPAN class="p68 ft3">ökat. Sverige är redan idag ett framstående land inom försvarsrelaterad</SPAN> </TD>
+	<TD class="tr6 td21"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr5 td20"><SPAN class="p68 ft3">forskning och vår position skulle gynnas och stärkas än mer genom den</SPAN> </TD>
+	<TD class="tr5 td21"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr6 td20"><SPAN class="p68 ft3">bredd av samarbeten som deltagande i WEAO erbjuder. Mellan VEU-</SPAN> </TD>
+	<TD class="tr6 td21"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr6 td20"><SPAN class="p68 ft3">länderna gäller ett högkvartersavtal av sedvanligt slag, vilket reglerar</SPAN> </TD>
+	<TD class="tr6 td21"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr6 td20"><SPAN class="p68 ft3">frågor om immunitet och privilegier för organisationen och dess</SPAN> </TD>
+	<TD class="tr6 td21"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr6 td20"><SPAN class="p68 ft5">personkrets. Detta avtal har Sverige åtagit sig att tillämpa inom ramen för</SPAN> </TD>
+	<TD class="tr6 td21"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr6 td20"><SPAN class="p68 ft3">forskningssamarbetena SOCRATE och EUROPA. Sverige bör av dessa</SPAN> </TD>
+	<TD class="tr6 td21"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr6 td20"><SPAN class="p68 ft3">skäl även godkänna anslutningsdokumentet med anledning av</SPAN> </TD>
+	<TD class="tr6 td21"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr5 td20"><SPAN class="p3 ft3">samförståndsavtalet.</SPAN> </TD>
+	<TD class="tr5 td21"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr6 td20"><SPAN class="p68 ft3">VEU är en internationell organisation med fast institutionell struktur</SPAN> </TD>
+	<TD class="tr6 td21"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr6 td20"><SPAN class="p68 ft3">upprättad genom en internationell överenskommelse i skriftlig form.</SPAN> </TD>
+	<TD class="tr6 td21"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr6 td20"><SPAN class="p68 ft3">Internationella organ av sådan karaktär betraktas som folkrättsliga</SPAN> </TD>
+	<TD class="tr6 td21"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr6 td20"><SPAN class="p68 ft3">subjekt och anses tillerkännas rättskapacitet liksom viss immunitet och</SPAN> </TD>
+	<TD class="tr6 td21"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr5 td20"><SPAN class="p68 ft3">vissa andra förmåner för att på ett från medlemsländerna oberoende sätt</SPAN> </TD>
+	<TD class="tr5 td21"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr4 td20"><SPAN class="p68 ft3">kunna fullgöra de uppgifter dessa lämnat organisationen. Som</SPAN> </TD>
+	<TD class="tr4 td21"><SPAN class="p12 ft3">9</SPAN> </TD>
+</TR>
+</TABLE>
+</DIV>
+<DIV id="page_10">
+<DIV id="dimg1">
+<INGENBILD zsrc="GQ038810x1.jpg/" id="img1">
+</DIV>
+
+
+<P class="p73 ft18">underorgan till VEU har WEAO viktiga uppgifter inom ramen för Prop. 2002/03:88 forskningssamarbetet. Dit hör rätten att teckna för medlemsländerna</P>
+<P class="p74 ft3">bindande kontrakt på forsknings- och teknologiområdet samt uppgifter av administrativ natur för samarbetets bedrivande. Ett svenskt deltagande i WEAO innebär också att Sverige får en plats i dess styrelse och att anställning i WEAO kommer att vara öppen även för svenska tjänstemän. Deltagandet innebär emellertid inte att Sverige blir medlem i WEAO. Som deltagare i samarbetet får Sverige ett rättsligt adekvat förhållande till organisationen och möjlighet att på samma villkor som medlemmar delta fullt ut i samarbetet.</P>
+<P class="p75 ft3">Sveriges åtagande att tillämpa Parisavtalet motiveras av att organisationen och dess personkrets på ett oberoende sätt skall kunna fullgöra de uppgifter på forskningsområdet som deltagarländerna lagt på organisationen. Genom bestämmelserna i Parisavtalet får organisationen och dess personkrets beträffande den verksamhet som bedrivs inom ramen för det aktuella forskningssamarbetet immunitet och privilegier motsvarande vad som gäller för andra internationella organisationer av liknande karaktär. På samma sätt som för forskningssamarbetena SOCRATE och EUROPA gäller för samarbetet inom samförståndsavtalet att bestämmelserna avseende beskattning i artiklarna 21 och 22 i Parisavtalet inte skall tillämpas på svenska medborgare eller på personer som är bosatta i Sverige. Sverige skall i samband med deponeringen av ratifikationsinstrumentet avge reservation med denna innebörd.</P>
+<P class="p76 ft23"><SPAN class="ft1">5</SPAN><SPAN class="ft32">Ändring i lagen (1976:661) om immunitet och privilegier i vissa fall</SPAN></P>
+<P class="p77 ft3"><SPAN class="ft31">Regeringens förslag: </SPAN>Lagen (1976:661) om immunitet och privilegier i vissa fall skall även omfatta sådan immunitet och sådana privilegier som följer av avtalet den 11 maj 1955 om rättslig ställning för Västeuropeiska unionen, nationella ombud och internationella tjänstemän med avseende på den verksamhet som följer av samförståndsavtalet om deltagande i Västeuropeiska försvarsmaterielorganisationen av den 16 maj 2002 samt anslutningsdokumentet av den 6 maj 2002.</P>
+<P class="p78 ft3">Bestämmelserna om beskattning i artiklarna 21 och 22 i avtalet den 11 maj 1955 om rättslig ställning för Västeuropeiska unionen, nationella ombud och internationella tjänstemän skall dock inte tillämpas på svenska medborgare eller på personer som är bosatta i Sverige.</P>
+<P class="p79 ft34"><SPAN class="ft33">Promemorians förslag</SPAN>: Överensstämmer i huvudsak med regeringens. <SPAN class="ft33">Remissinstanserna: </SPAN>Har inte haft något att erinra mot promemorians</P>
+<P class="p63 ft3">förslag.</P>
+<P class="p80 ft3">10</P>
+</DIV>
+<DIV id="page_11">
+
+
+<P class="p55 ft18"><SPAN class="ft35">Skälen för regeringens förslag</SPAN>: För att internationella avtals- Prop. 2002/03:88 bestämmelser skall bli gällande för svenska myndigheter måste de</P>
+<P class="p74 ft3">införlivas med svensk rätt. Frågor om immunitet och privilegier för internationella organ och personer med anknytning till sådana organ regleras i lagen (1976:661) om immunitet och privilegier i vissa fall. Immunitet innebär att en talan inför domstol eller en ansökan om verkställighet ska avvisas. Privilegier innebär vissa undantag från nationell lagstiftning. För att Parisavtalets bestämmelser skall bli gällande inför svenska myndigheter även beträffande det nya avtalet krävs således ändrad lydelse av 2 c § i denna lag.</P>
+<P class="p75 ft3">Anledningen till att de nya bestämmelserna inte förs in i bilagan till lagen är att samarbetena inte innebär att Sverige i folkrättslig mening fullt ut ansluter sig till en internationell organisation, vilket är en förutsättning för att bestämmelserna skall kunna föras in i bilagan.</P>
+<P class="p45 ft3">Anslutningsdokumentet innehåller förbehåll för ratifikation. Ratifikationsinstrumentet skall deponeras hos VEU:s generalsekretariat. Anslutningsdokumentet innehåller inte några bestämmelser om ikraftträdande, varför det träder i kraft för Sverige på dagen för deponering av ratifikationsinstrumentet. Med hänsyn till att det inte med säkerhet kan anges när anslutningsdokumentet blir bindande för Sverige, bör den föreslagna ändringen i lagen träda i kraft den dag regeringen bestämmer.</P>
+<P class="p51 ft1"><SPAN class="ft1">6</SPAN><SPAN class="ft21">Kostnader</SPAN></P>
+<P class="p81 ft3">Förslagen i denna proposition leder inte till ökade kostnader.</P>
+<P class="p82 ft3">11</P>
+</DIV>
+<DIV id="page_12">
+
+
+<P class="p63 ft1">Bilaga 1</P>
+<P class="p83 ft3">Försvarsdepartementet</P>
+<P class="p84 ft3">Stockholm den 6 maj 2002</P>
+<P class="p5 ft3">Ers Excellens,</P>
+<P class="p85 ft3">Jag har äran att framföra detta meddelande till Er för att bekräfta att Konungariket Sveriges regering är införstådd med att dess samtycke till att tillämpa avtalet om rättslig ställning för Västeuropeiska unionen, nationella ombud och internationella tjänstemän, undertecknat i Paris den 11 maj 1955, på samförståndsavtalet om SOCRATE, som meddelats Västeuropeiska unionen genom skriftväxling i Rom den 16 november 1998, som utsträcks att omfatta Europeiska forskningsgruppsarrangemanget (ERG) nr 1 inom samförståndsavtalet om EUROPA, genom utväxling av skrivelser i Bryssel den 13 maj 2002, sedan de nationella rättsliga formaliteterna har verkställts, skall utsträckas till att omfatta alla Västeuropeiska försvarsmaterielorganisationens aktiviteter.</P>
+<P class="p86 ft10">Detta originaldokument skall deponeras hos Västeuropeiska unionens generalsekretariat.</P>
+<P class="p87 ft3">För Sveriges regering</P>
+<P class="p88 ft3">Ingvar Åkesson</P>
+<P class="p89 ft3">Expeditions- och rättschef</P>
+<P class="p90 ft3">12</P>
+</DIV>
+<DIV id="page_13">
+
+
+<P class="p63 ft1">Bilaga 2</P>
+<P class="p91 ft36">Avtal om rättslig ställning för Västeuropeiska unionen, nationella ombud och internationella tjänstemän, undertecknat i Paris den 11 maj 1955</P>
+<P class="p92 ft13">Översättning</P>
+<P class="p93 ft18">Avtal om rättslig ställning för Västeuropeiska unionen, nationella ombud och internationella tjänstemän, undertecknat i Paris den 11 maj 1955</P>
+<P class="p75 ft3">De stater som har undertecknat detta avtal, som beaktar att Västeuropeiska unionen, dess internationella tjänstemän och medlemsstaternas ombud som deltar i dess möten skall ha en ställning som underlättar fullgörandet av deras uppgifter och uppdrag, har kommit överens om följande.</P>
+<P class="p94 ft37">DEL I ALLMÄNT</P>
+<P class="p92 ft37">Artikel 1</P>
+<P class="p92 ft3">I detta avtal avses med</P>
+<P class="p45 ft18"><SPAN class="ft3">a)</SPAN><SPAN class="ft38">organisationen: Västeuropeiska unionen innefattande rådet, dess underställda organ samt församlingen,</SPAN></P>
+<P class="p75 ft3"><SPAN class="ft3">b)</SPAN><SPAN class="ft39">rådet: det råd som avses i artikel VIII (förutvarande artikel VII) i Brysselfördraget i dess lydelse enligt de protokoll som undertecknades i Paris den 23 oktober 1954,</SPAN></P>
+<P class="p75 ft3"><SPAN class="ft5">c)</SPAN><SPAN class="ft40">underställda organ: alla andra organ, kommittéer, funktioner m.m. som upprättats av rådet eller som lyder under det,</SPAN></P>
+<P class="p75 ft10"><SPAN class="ft3">d)</SPAN><SPAN class="ft41">församlingen: den församling som avses i artikel IX i Brysselfördraget i dess lydelse enligt de protokoll som undertecknades i Paris den 23 oktober 1954.</SPAN></P>
+<P class="p95 ft37">Artikel 2</P>
+<P class="p96 ft3">Organisationen och dess medlemsstater skall ständigt samarbeta för att tillgodose god rättskipning, trygga efterlevnaden av ordningsföreskrifter och förhindra missbruk av den immunitet och de privilegier som avses i detta avtal. Om en medlemsstat anser att immunitet eller privilegier som avses i detta avtal missbrukats, skall överläggningar hållas mellan organisationen och den eller de berörda staterna i syfte att avgöra om sådant missbruk har förekommit och, om det är fallet, förhindra att det upprepas. Utan hinder av vad som sägs i det föregående eller i någon annan bestämmelse i detta avtal, får en medlemsstat som anser att någon har missbrukat sina privilegier i fråga om hemvist eller något annat privilegium eller immunitet som medges med stöd av detta avtal, kräva att denne lämnar dess territorium.</P>
+<P class="p97 ft3">13</P>
+</DIV>
+<DIV id="page_14">
+
+
+<TABLE cellpadding=0 cellspacing=0 class="t1">
+<TR>
+	<TD class="tr17 td22"><SPAN class="p3 ft37">DEL II ORGANISATIONEN</SPAN> </TD>
+	<TD class="tr17 td17"><SPAN class="p3 ft5">Prop. 2002/03:88</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr16 td22"><SPAN class="p3 ft37">Artikel 3</SPAN> </TD>
+	<TD class="tr16 td17"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr14 td22"><SPAN class="p3 ft3">Organisationen skall vara ett rättssubjekt; den skall vara behörig att ingå</SPAN> </TD>
+	<TD class="tr14 td17"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr6 td22"><SPAN class="p3 ft3">avtal, förvärva och avyttra fast och lös egendom samt inleda rättsliga</SPAN> </TD>
+	<TD class="tr6 td17"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr7 td22"><SPAN class="p3 ft3">åtgärder.</SPAN> </TD>
+	<TD class="tr7 td17"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr18 td22"><SPAN class="p3 ft37">Artikel 4</SPAN> </TD>
+	<TD class="tr18 td17"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr17 td22"><SPAN class="p3 ft3">Organisationen och dess egendom och tillgångar skall, var de än befinner</SPAN> </TD>
+	<TD class="tr17 td17"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr6 td22"><SPAN class="p3 ft3">sig och av vem de än innehas, åtnjuta immunitet mot varje form av</SPAN> </TD>
+	<TD class="tr6 td17"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr6 td22"><SPAN class="p3 ft3">rättsligt förfarande, såvida inte generalsekreteraren på organisationens</SPAN> </TD>
+	<TD class="tr6 td17"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr5 td22"><SPAN class="p3 ft3">vägnar i ett särskilt fall uttryckligen medger att denna immunitet hävs.</SPAN> </TD>
+	<TD class="tr5 td17"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr6 td22"><SPAN class="p3 ft3">Härvid skall dock gälla att hävandet av immunitet inte skall utsträckas till</SPAN> </TD>
+	<TD class="tr6 td17"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr7 td22"><SPAN class="p3 ft3">att omfatta verkställighetsåtgärder av något slag.</SPAN> </TD>
+	<TD class="tr7 td17"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr18 td22"><SPAN class="p3 ft37">Artikel 5</SPAN> </TD>
+	<TD class="tr18 td17"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr17 td22"><SPAN class="p3 ft3">Organisationens lokaler skall vara okränkbara. Dess egendom och</SPAN> </TD>
+	<TD class="tr17 td17"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr6 td22"><SPAN class="p3 ft3">tillgångar skall, var de än befinner sig och av vem de än innehas, åtnjuta</SPAN> </TD>
+	<TD class="tr6 td17"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr6 td22"><SPAN class="p3 ft3">immunitet mot genomsökning, rekvisition, konfiskation, expropriation</SPAN> </TD>
+	<TD class="tr6 td17"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr7 td22"><SPAN class="p3 ft3">och varje annan form av ingrepp.</SPAN> </TD>
+	<TD class="tr7 td17"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr18 td22"><SPAN class="p3 ft37">Artikel 6</SPAN> </TD>
+	<TD class="tr18 td17"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr14 td22"><SPAN class="p3 ft3">Organisationens arkiv och alla andra handlingar som tillhör eller innehas</SPAN> </TD>
+	<TD class="tr14 td17"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr7 td22"><SPAN class="p3 ft3">av den skall vara okränkbara var de än befinner sig.</SPAN> </TD>
+	<TD class="tr7 td17"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+</TABLE>
+<P class="p98 ft37">Artikel 7</P>
+<P class="p93 ft18"><SPAN class="ft5">1.</SPAN><SPAN class="ft42">Utan hinder av finansiella kontrollbestämmelser, regleringar eller moratorier av något slag</SPAN></P>
+<P class="p75 ft3"><SPAN class="ft3">a)</SPAN><SPAN class="ft43">får organisationen inneha valuta av vilket slag som helst och använda konton i vilken valuta som helst,</SPAN></P>
+<P class="p75 ft18"><SPAN class="ft3">b)</SPAN><SPAN class="ft44">får organisationen fritt föra över sina tillgodohavanden från ett land till ett annat eller inom vilket land som helst och växla varje valuta som den har i sin besittning till varje annan valuta till den mest fördelaktiga officiella sälj- eller köpkursen för växling, allt efter omständigheterna från fall till fall.</SPAN></P>
+<P class="p99 ft18"><SPAN class="ft5">2.</SPAN><SPAN class="ft45">Vid utövandet av sina rättigheter enligt punkt 1 i denna artikel skall organisationen på vederbörligt sätt beakta framställningar från en medlemsstat och tillmötesgå dem i möjligaste mån.</SPAN></P>
+<P class="p100 ft37">Artikel 8</P>
+<P class="p101 ft10">Organisationen, dess tillgodohavanden, inkomster och övriga egendom skall vara</P>
+<P class="p102 ft3">14</P>
+</DIV>
+<DIV id="page_15">
+
+
+<P class="p55 ft18">a) befriade från alla direkta skatter, dock skall organisationen inte Prop. 2002/03:88 kräva befrielse från pålagor som inte är annat än vederlag för</P>
+<P class="p63 ft3">allmännyttiga tjänster,</P>
+<P class="p75 ft3"><SPAN class="ft3">b)</SPAN><SPAN class="ft46">befriade från alla tullavgifter och kvantitativa import- och exportrestriktioner på varor som importeras eller exporteras av organisationen för tjänstebruk, dock att varor som importerats med sådan befrielse inte får överlåtas vare sig genom försäljning eller gåva inom det lands territorium till vilket de har importerats annat än på villkor godkända av ifrågavarande lands regering,</SPAN></P>
+<P class="p75 ft10"><SPAN class="ft5">c)</SPAN><SPAN class="ft47">befriade från alla tullavgifter och kvantitativa export- och importrestriktioner i fråga om sina publikationer.</SPAN></P>
+<P class="p103 ft37">Artikel 9</P>
+<P class="p96 ft3">Även om organisationen som huvudregel inte skall ha rätt att kräva befrielse från de accisavgifter och omsättningsskatter å fast eller lös egendom som är inräknade i den köpesumma som skall betalas, skall medlemsstaterna likväl, när organisationen för tjänstebruk gör större inköp av egendom i vars pris är inräknat sådana avgifter eller skatter, när så är möjligt, vidta vederbörliga administrativa åtgärder för att efterskänka eller återbetala dessa avgifter och skatter.</P>
+<P class="p104 ft37">Artikel 10</P>
+<P class="p96 ft10"><SPAN class="ft5">1.</SPAN><SPAN class="ft48">Ingen censur skall utövas i vad avser organisationens officiella korrespondens eller andra tjänstemeddelanden.</SPAN></P>
+<P class="p105 ft18"><SPAN class="ft5">2.</SPAN><SPAN class="ft45">Organisationen skall ha rätt att använda koder och att sända och ta emot korrespondens med kurir eller i förseglade försändelser för vilka samma immunitet och privilegier skall gälla som för diplomatiska kurirer och försändelser.</SPAN></P>
+<P class="p105 ft18"><SPAN class="ft5">3.</SPAN><SPAN class="ft49">Bestämmelserna i denna artikel skall inte utesluta att en medlemsstat tillsammans med rådet, som handlar på organisationens vägnar, efter överenskommelse vidtar lämpliga säkerhetsåtgärder.</SPAN></P>
+<P class="p106 ft37">DEL III STÄNDIGA OMBUD VID ORGANISATIONEN</P>
+<P class="p92 ft37">Artikel 11</P>
+<P class="p107 ft3">Den som av en medlemsstat har utsetts att inom en annan medlemsstats territorium vara dess främsta ständiga ombud vid organisationen och hans officiella personal som har hemvist inom detta territorium enligt överenskommelse mellan den stat som har utsett honom och organisationens generalsekreterare och mellan generalsekreteraren och den stat i vilken han kommer att ha hemvist, skall åtnjuta samma immunitet och privilegier som diplomatiska företrädare och dessas officiella personal av motsvarande rang.</P>
+<P class="p108 ft3">15</P>
+</DIV>
+<DIV id="page_16">
+
+
+<P class="p63 ft37">DEL IV OMBUD I RÅDET OCH DESS UNDERSTÄLLDA ORGAN <SPAN class="ft3">Prop. 2002/03:88</SPAN></P>
+<P class="p92 ft37">Artikel 12</P>
+<P class="p96 ft3"><SPAN class="ft5">1.</SPAN><SPAN class="ft50">Medlemsstaternas ombud i rådet eller i något av dess underställda organ som inte omfattas av artikel 11 skall, när de vistas inom en annan medlemsstats territorium i tjänsten, åtnjuta följande immunitet och privilegier:</SPAN></P>
+<P class="p75 ft18"><SPAN class="ft3">a)</SPAN><SPAN class="ft45">Samma immunitet mot arrestering eller kvarhållande som medges diplomatiska företrädare av motsvarande rang.</SPAN></P>
+<P class="p75 ft3"><SPAN class="ft3">b)</SPAN><SPAN class="ft39">Immunitet mot varje slag av rättsliga förfaranden med avseende på muntliga och skriftliga uttalanden och åtgärder som de vidtagit i sin tjänsteutövning.</SPAN></P>
+<P class="p109 ft3"><SPAN class="ft5">c)</SPAN><SPAN class="ft51">Okränkbarhet för alla handlingar och dokument.</SPAN></P>
+<P class="p75 ft18"><SPAN class="ft3">d)</SPAN><SPAN class="ft52">Rätt att använda koder och att sända och ta emot korrespondens med kurir eller i förseglade försändelser.</SPAN></P>
+<P class="p75 ft3"><SPAN class="ft5">e)</SPAN><SPAN class="ft50">Samma befrielse för ombuden själva och deras äkta makar från invandringsrestriktioner, utlänningsregistrering och nationell tjänsteplikt som medges diplomatiska företrädare av motsvarande rang.</SPAN></P>
+<P class="p75 ft3"><SPAN class="ft5">f)</SPAN><SPAN class="ft39">Samma lättnader med avseende på valuta- och växlingsrestriktioner som medges diplomatiska företrädare av motsvarande rang.</SPAN></P>
+<P class="p75 ft3"><SPAN class="ft3">g)</SPAN><SPAN class="ft53">Samma immunitet och förmåner med avseende på personligt resgods som medges diplomatiska företrädare av motsvarande rang.</SPAN></P>
+<P class="p75 ft3"><SPAN class="ft3">h)</SPAN><SPAN class="ft40">Rätt till tullfri införsel av möbler och övriga tillhörigheter när de tillträder sin befattning i vederbörande land och att vid tjänstgöringens slut därifrån tullfritt återutföra dessa möbler och tillhörigheter, i båda fallen med förbehåll för sådana villkor som regeringen i det land där rättigheterna åtnjuts anser vara nödvändiga.</SPAN></P>
+<P class="p75 ft18"><SPAN class="ft5">i)</SPAN><SPAN class="ft49">Rätt till tillfällig tullfri införsel av privat motorfordon för eget bruk och till senare tullfri återexport av fordonet, i båda fallen med förbehåll för sådana villkor som regeringen i landet i fråga anser vara nödvändiga.</SPAN></P>
+<P class="p110 ft3"><SPAN class="ft5">2.</SPAN><SPAN class="ft39">I de fall då skattskyldighet grundar sig på vistelse, skall en tidsperiod då ett ombud som omfattas av denna artikel vistas inom en annan medlemsstats territorium för att fullgöra sina uppgifter inte räknas som vistelsetid. Särskilt gäller att han skall vara befriad från beskattning av den staten med avseende på lön och övriga förmåner under tjänstgöringstiden.</SPAN></P>
+<P class="p111 ft3"><SPAN class="ft5">3.</SPAN><SPAN class="ft8">I denna artikel skall termen ombud omfatta alla ombud, rådgivare och tekniska experter som ingår i delegationerna. Varje medlemsstat skall meddela de andra berörda medlemsstater som så begär namnen på de av sina ombud som omfattas av bestämmelserna i denna artikel och den troliga tiden för deras vistelse inom dessa medlemsstaters territorium.</SPAN></P>
+<P class="p104 ft37">Artikel 13</P>
+<P class="p96 ft18">Officiella sekretariatstjänstemän som åtföljer en medlemsstats ombud vilka inte omfattas av artikel 11 eller 12 skall, när de vistas inom en annan medlemsstats territorium i tjänsten, åtnjuta de privilegier och den immunitet som anges i artikel 12.1 b, c, e, f, h och i samt i artikel 12.2.</P>
+<P class="p112 ft3">16</P>
+</DIV>
+<DIV id="page_17">
+
+
+<TABLE cellpadding=0 cellspacing=0 class="t1">
+<TR>
+	<TD class="tr17 td22"><SPAN class="p3 ft37">Artikel 14</SPAN> </TD>
+	<TD class="tr17 td17"><SPAN class="p3 ft5">Prop. 2002/03:88</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr16 td22"><SPAN class="p3 ft3">Privilegier och immunitet medges inte medlemsstaternas ombud och</SPAN> </TD>
+	<TD class="tr16 td17"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr6 td22"><SPAN class="p3 ft3">deras medarbetare som en personlig förmån för dem utan för att trygga</SPAN> </TD>
+	<TD class="tr6 td17"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr5 td22"><SPAN class="p3 ft3">att de på ett självständigt sätt skall kunna fullgöra sina uppgifter med</SPAN> </TD>
+	<TD class="tr5 td17"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr6 td22"><SPAN class="p3 ft3">anknytning till Västeuropeiska unionen. Följaktligen har en medlemsstat</SPAN> </TD>
+	<TD class="tr6 td17"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr6 td22"><SPAN class="p3 ft3">inte bara rätt utan även skyldighet att häva immuniteten för sina ombud</SPAN> </TD>
+	<TD class="tr6 td17"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr6 td22"><SPAN class="p3 ft3">och deras medarbetare i de fall den anser att immuniteten skulle hindra</SPAN> </TD>
+	<TD class="tr6 td17"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr6 td22"><SPAN class="p3 ft3">rättvisans gång och att hävandet kan göras utan men för de syften för</SPAN> </TD>
+	<TD class="tr6 td17"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr7 td22"><SPAN class="p3 ft3">vilka immuniteten medges.</SPAN> </TD>
+	<TD class="tr7 td17"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr18 td22"><SPAN class="p3 ft37">Artikel 15</SPAN> </TD>
+	<TD class="tr18 td17"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr14 td22"><SPAN class="p3 ft3">Bestämmelserna i artiklarna <NOBR>11–13</NOBR> skall inte tvinga en medlemsstat att</SPAN> </TD>
+	<TD class="tr14 td17"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr6 td22"><SPAN class="p3 ft3">tillerkänna någon som är dess medborgare, ombud eller som tillhör</SPAN> </TD>
+	<TD class="tr6 td17"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr6 td22"><SPAN class="p3 ft3">ombudets personal den immunitet eller de privilegier som avses i dessa</SPAN> </TD>
+	<TD class="tr6 td17"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr7 td22"><SPAN class="p3 ft3">artiklar.</SPAN> </TD>
+	<TD class="tr7 td17"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr18 td22"><SPAN class="p3 ft37">DEL V OMBUD TILL FÖRSAMLINGEN</SPAN> </TD>
+	<TD class="tr18 td17"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr17 td22"><SPAN class="p3 ft37">Artikel 16</SPAN> </TD>
+	<TD class="tr17 td17"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+</TABLE>
+<P class="p113 ft18">Ombuden till församlingen och deras ersättare skall inte åläggas några inskränkningar i sin rörelsefrihet av administrativ eller annan art vid färd till eller från församlingens mötesort.</P>
+<P class="p38 ft3">Ombuden och deras ersättare skall i fråga om tull- och växlingskontroll</P>
+<P class="p75 ft3"><SPAN class="ft3">a)</SPAN><SPAN class="ft8">av den egna regeringen medges samma förmåner som högre tjänstemän vid utlandsresa på tillfälligt officiellt uppdrag,</SPAN></P>
+<P class="p75 ft10"><SPAN class="ft3">b)</SPAN><SPAN class="ft54">av övriga medlemmars regeringar medges samma förmåner som ombud för främmande regeringar på tillfälligt officiellt uppdrag.</SPAN></P>
+<P class="p103 ft37">Artikel 17</P>
+<P class="p96 ft10">Ombuden till församlingen och deras ersättare får inte göras till föremål för polisförhör, arrestering eller lagföring på grund av yttranden eller röstning under fullgörande av sina uppdrag.</P>
+<P class="p103 ft37">Artikel 18</P>
+<P class="p96 ft3">Under församlingens möten eller vid möten i församlingens kommittéer eller arbetsgrupper skall ombuden till församlingen och deras ersättare, vare sig församlingen själv är i möte och vare sig de är parlamentsledamöter eller inte, åtnjuta</P>
+<P class="p45 ft18"><SPAN class="ft3">a)</SPAN><SPAN class="ft55">i sitt hemland den immunitet som där kan ha beviljats parlamentsledamöter,</SPAN></P>
+<P class="p75 ft3"><SPAN class="ft3">b)</SPAN><SPAN class="ft56">inom varje annan medlemsstats territorium immunitet mot arrestering och lagföring.</SPAN></P>
+<P class="p114 ft3">Denna immunitet är också tillämplig när ombuden och deras ersättare reser till och från sammanträdesorterna för församlingen och dess kommittéer och arbetsgrupper. Immunitet skall dock inte kunna åberopas</P>
+<P class="p115 ft3">17</P>
+</DIV>
+<DIV id="page_18">
+
+
+<P class="p73 ft18">då ombud eller deras ersättare ertappas på bar gärning vid brott eller Prop. 2002/03:88 försök till brott och inte heller i de fall församlingen har hävt</P>
+<P class="p63 ft3">immuniteten.</P>
+<P class="p98 ft37">DEL VI INTERNATIONELLA TJÄNSTEMÄN OCH EXPERTER</P>
+<P class="p63 ft37">MED UPPDRAG FÖR ORGANISATIONEN</P>
+<P class="p92 ft37">Artikel 19</P>
+<P class="p107 ft18">Rådet skall närmare ange vilka tjänstemannakategorier som skall omfattas av bestämmelserna i artiklarna 20 och 21. Generalsekreteraren skall meddela rådsmedlemmarna namnen på de tjänstemän som ingår i dessa kategorier.</P>
+<P class="p98 ft37">Artikel 20</P>
+<P class="p92 ft3">De tjänstemän i organisationen som avses i artikel 19 skall</P>
+<P class="p45 ft18"><SPAN class="ft3">a)</SPAN><SPAN class="ft42">åtnjuta immunitet mot varje slag av rättsliga förfaranden med avseende på muntliga och skriftliga uttalanden samt åtgärder som de vidtagit inom ramen för sin tjänsteutövning,</SPAN></P>
+<P class="p75 ft3"><SPAN class="ft3">b)</SPAN><SPAN class="ft50">jämte sina äkta makar och närmaste familjemedlemmar som bor med dem och som är beroende av dem för sin försörjning åtnjuta samma immunitet mot invandringsrestriktioner och flyktingregistrering som medges diplomatiska företrädare av motsvarande rang,</SPAN></P>
+<P class="p75 ft3"><SPAN class="ft5">c)</SPAN><SPAN class="ft57">åtnjuta samma lättnader med avseende på valuta- och växlingsrestriktioner som medges diplomatiska företrädare av motsvarande rang,</SPAN></P>
+<P class="p75 ft3"><SPAN class="ft3">d)</SPAN><SPAN class="ft50">jämte sina äkta makar och närmaste familjemedlemmar som bor med dem och som är beroende av dem för sin försörjning beredas samma möjligheter till repatriering vid internationella kriser som diplomatiska företrädare av motsvarande rang,</SPAN></P>
+<P class="p75 ft3"><SPAN class="ft5">e)</SPAN><SPAN class="ft40">medges rätt till tullfri införsel av möbler och övriga tillhörigheter när de tillträder sin befattning i vederbörande land och att vid tjänstgöringens slut därifrån tullfritt återutföra sådana möbler och tillhörigheter, i båda fallen med förbehåll för sådana villkor som regeringen i det land där rättigheterna åtnjuts anser vara nödvändiga,</SPAN></P>
+<P class="p45 ft18"><SPAN class="ft5">f)</SPAN><SPAN class="ft58">medges rätt till tillfällig tullfri införsel av privat motorfordon för eget bruk och till senare tullfri återexport av fordonet, i båda fallen med förbehåll för sådana villkor som regeringen i landet i fråga anser vara nödvändiga.</SPAN></P>
+<P class="p98 ft37">Artikel 21</P>
+<P class="p96 ft18">De tjänstemän i organisationen som avses i artikel 19 skall i den utsträckning och på det sätt som rådet bestämmer vara skattskyldiga i förhållande till organisationen för dess nyttiggörande beträffande de förmåner som de erhåller av organisationen. Vidare skall de vara befriade från nationell beskattning med avseende på dessa förmåner.</P>
+<P class="p116 ft3">18</P>
+</DIV>
+<DIV id="page_19">
+
+
+<TABLE cellpadding=0 cellspacing=0 class="t1">
+<TR>
+	<TD class="tr17 td22"><SPAN class="p3 ft37">Artikel 22</SPAN> </TD>
+	<TD class="tr17 td17"><SPAN class="p3 ft5">Prop. 2002/03:88</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr16 td22"><SPAN class="p3 ft3">Utöver de privilegier och den immunitet som anges i artiklarna 20 och 21</SPAN> </TD>
+	<TD class="tr16 td17"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr6 td22"><SPAN class="p3 ft3">skall generalsekreteraren, de biträdande generalsekreterarna, chefen för</SPAN> </TD>
+	<TD class="tr6 td17"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr5 td22"><SPAN class="p3 ft3">kontoret för rustningskontroll och sådana andra permanenta tjänstemän</SPAN> </TD>
+	<TD class="tr5 td17"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr6 td22"><SPAN class="p3 ft3">av motsvarande rang som rådet bestämmer, åtnjuta samma privilegier</SPAN> </TD>
+	<TD class="tr6 td17"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr6 td22"><SPAN class="p3 ft3">och immunitet som normalt medges diplomatiska företrädare av</SPAN> </TD>
+	<TD class="tr6 td17"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr6 td22"><SPAN class="p3 ft3">motsvarande rang, däribland samma undantag eller befrielse från andra</SPAN> </TD>
+	<TD class="tr6 td17"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr7 td22"><SPAN class="p3 ft3">skatter än inkomstskatter.</SPAN> </TD>
+	<TD class="tr7 td17"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+</TABLE>
+<P class="p98 ft37">Artikel 23</P>
+<P class="p96 ft3"><SPAN class="ft5">1.</SPAN><SPAN class="ft8">Experter (andra än tjänstemän som omfattas av artiklarna </SPAN><NOBR>20–22)</NOBR> skall, när de vistas inom en medlemsstats territorium, i den utsträckning som är nödvändig för att effektivt fullgöra sina uppgifter i tjänsten för organisationen, åtnjuta följande privilegier:</P>
+<P class="p45 ft18"><SPAN class="ft3">a)</SPAN><SPAN class="ft49">Immunitet mot arrestering eller annat kvarhållande och mot beslag av personligt resgods.</SPAN></P>
+<P class="p75 ft3"><SPAN class="ft3">b)</SPAN><SPAN class="ft39">Immunitet mot varje slag av rättsliga förfaranden med avseende på muntliga och skriftliga uttalanden och åtgärder som de vidtagit för organisationen i tjänsteutövningen.</SPAN></P>
+<P class="p75 ft3"><SPAN class="ft5">c)</SPAN><SPAN class="ft8">Samma lättnader med avseende på valuta- och växlingsrestriktioner och för personligt resgods som medges tjänstemän från främmande regeringar på tillfälligt uppdrag i tjänsten.</SPAN></P>
+<P class="p75 ft10"><SPAN class="ft3">d)</SPAN><SPAN class="ft9">Okränkbarhet för alla handlingar och dokument som har samband med det arbete för vilket de har anlitats av organisationen.</SPAN></P>
+<P class="p99 ft10"><SPAN class="ft5">2.</SPAN><SPAN class="ft59">Generalsekreteraren skall meddela de berörda medlemsstaterna namnen på de experter som omfattas av bestämmelserna i denna artikel.</SPAN></P>
+<P class="p106 ft37">Artikel 24</P>
+<P class="p96 ft3">Privilegier och immunitet medges tjänstemän och experter i organisationens intresse och inte som en personlig förmån för dem. Generalsekreteraren skall på organisationens vägnar ha rätt och skyldighet att häva immuniteten för en tjänsteman eller en expert som inte omfattas av artikel 22 i de fall han anser att immuniteten skulle hindra rättvisans gång och hävandet kan göras utan men för organisationens intressen. Beträffande tjänstemän som omfattas av artikel 22 skall beslut att häva immuniteten fattas av rådet.</P>
+<P class="p104 ft37">Artikel 25</P>
+<P class="p93 ft18">Bestämmelserna i artiklarna 20, 22 och 23 ovan skall inte tvinga en medlemsstat att medge någon som är dess medborgare privilegier eller immunitet som avses i dessa artiklar med undantag för</P>
+<P class="p75 ft18">a) immunitet mot varje slag av rättsliga förfaranden med avseende på muntliga och skriftliga uttalanden och mot åtgärder som de vidtagit för organisationen i tjänsteutövningen,</P>
+<P class="p117 ft3">19</P>
+</DIV>
+<DIV id="page_20">
+
+
+<P class="p55 ft18">b) okränkbarhet för alla handlingar och dokument som har samband Prop. 2002/03:88 med det arbete för vilket de har anlitats av organisationen,</P>
+<P class="p75 ft18">c) de lättnader med avseende på valuta- och växlingsrestriktioner som är nödvändiga för att han effektivt skall kunna fullgöra sina uppgifter i tjänsten.</P>
+<P class="p103 ft37">DEL VII TVISTLÖSNING</P>
+<P class="p118 ft37">Artikel 26</P>
+<P class="p118 ft3">Rådet skall vidta lämpliga åtgärder för att lösa</P>
+<P class="p75 ft18"><SPAN class="ft3">a)</SPAN><SPAN class="ft60">tvister rörande avtal eller andra civilrättsliga tvister i vilka organisationen är part,</SPAN></P>
+<P class="p75 ft18"><SPAN class="ft3">b)</SPAN><SPAN class="ft49">tvister som rör tjänstemän eller experter tillhörande organisationen vilka omfattas av bestämmelserna i del VI i detta avtal och som på grund av sin officiella ställning åtnjuter immunitet, om denna inte har hävts i enlighet med artikel 24.</SPAN></P>
+<P class="p103 ft37">DEL VIII TILLÄGGSÖVERENSKOMMELSER</P>
+<P class="p92 ft37">Artikel 27</P>
+<P class="p96 ft18">Rådet kan på organisationens vägnar ingå tilläggsöverenskommelser med en eller flera medlemsstater om tillämpningen av bestämmelserna i detta avtal i förhållande till den staten eller de staterna.</P>
+<P class="p100 ft37">DEL IX SLUTBESTÄMMELSER</P>
+<P class="p92 ft37">Artikel 28</P>
+<P class="p96 ft18"><SPAN class="ft5">1.</SPAN><SPAN class="ft58">Detta avtal skall ratificeras. Ratifikationsinstrument skall deponeras hos Belgiens regering, som skall meddela varje signatärstat om varje sådan deponering.</SPAN></P>
+<P class="p110 ft3"><SPAN class="ft5">2.</SPAN><SPAN class="ft39">När tre signatärstater har deponerat sina ratifikationsinstrument, skall detta avtal träda i kraft för dem med verkan från dagen för ikraftträdandet av de protokoll till Brysselfördraget som undertecknades i Paris den 23 oktober 1954. För de övriga signatärstaterna skall avtalet träda i kraft på dagen för deponeringen av deras ratifikationsinstrumentet.</SPAN></P>
+<P class="p94 ft37">Artikel 29</P>
+<P class="p96 ft3">Detta avtal kan sägas upp av en stat genom skriftligt meddelande till Belgiens regering, som skall underrätta alla signatärstaterna om varje sådan uppsägning. Uppsägningen skall träda i kraft ett år efter den dag på vilken Belgiens regering mottog meddelandet om den.</P>
+<P class="p75 ft18">Till bekräftelse härpå har undertecknade vederbörligen bemyndigade ombud undertecknat detta avtal.</P>
+<P class="p75 ft10">Upprättat i Paris den 11 maj 1955 på engelska och franska språken, vilka båda texter är lika giltiga, i ett enda exemplar som skall deponeras i</P>
+<P class="p119 ft3">20</P>
+</DIV>
+<DIV id="page_21">
+
+
+<P class="p120 ft18">Belgiens regerings arkiv, vilken skall överlämna en bestyrkt kopia därav Prop. 2002/03:88 till var och en av signatärstaterna.</P>
+<P class="p121 ft10">[undertecknanden] för Belgien, Frankrike, Förbundsrepubliken Tyskland, Italien, Luxemburg, Nederländerna och Storbritannien.</P>
+<P class="p122 ft3">21</P>
+</DIV>
+<DIV id="page_22">
+
+
+<P class="p63 ft1">Bilaga 3</P>
+<P class="p110 ft10">Samförståndsavtal om deltagande i Västeuropeiska försvarsmaterielorganisationen (WEAO) och principer för dess drift och administration</P>
+<P class="p87 ft3">mellan</P>
+<P class="p111 ft3">Konungariket Belgiens försvarsminister, Konungariket Danmarks försvarsminister, Republiken Frankrikes försvarsminister, Förbundsrepubliken Tysklands förbundsförsvarsminister, Republiken Greklands försvarsminister, Republiken Italiens försvarsminister, Storhertigdömet Luxemburgs försvarsminister, Konungariket Nederländernas försvarsminister, Konungariket Norges försvarsminister, Republiken Portugals försvarsminister, Konungariket Spaniens försvarsminister, Republiken Turkiets försvarsminister samt Förenade konungariket Storbritannien och Nordirlands försvarsminister</P>
+<P class="p111 ft10">om deltagande i Västeuropeiska försvarsmaterielorganisationen (WEAO) och principer för dess drift och administration</P>
+<P class="p20 ft31">Innehållsförteckning</P>
+<P class="p123 ft3">Avdelning 1 Inledning</P>
+<P class="p63 ft3">Avdelning 2 Räckvidd</P>
+<P class="p89 ft3">Avdelning 3 Ledningsorganisation</P>
+<P class="p89 ft3">Avdelning 4 Utförande av verksamhet</P>
+<P class="p63 ft3">Avdelning 5 Revision</P>
+<P class="p63 ft3">Avdelning 6 Säkerhetsskydd</P>
+<P class="p63 ft3">Avdelning 7 Kontrakt</P>
+<P class="p63 ft3">Avdelning 8 Ekonomisk drift</P>
+<P class="p89 ft3">Avdelning 9 Förvaltningskostnader och driftskostnader</P>
+<P class="p63 ft3">Avdelning 10 Personal</P>
+<P class="p63 ft3">Avdelning 11 Äganderätt till tillgångar</P>
+<P class="p63 ft3">Avdelning 12 Risker och ansvarighet</P>
+<P class="p63 ft3">Avdelning 13 Skatter, tullar och liknande avgifter</P>
+<P class="p63 ft3">Avdelning 14 Tvister</P>
+<P class="p63 ft3">Avdelning 15 Anslutning av nya deltagare</P>
+<P class="p89 ft3">Avdelning 16 Upphörande och frånträde</P>
+<P class="p63 ft3">Avdelning 17 Ikraftträdande, ändring och undertecknande</P>
+<P class="p124 ft10">Bilaga A Principer för exekutivorganets kontraktering för genomförande av forsknings- och teknologiaktiviteter</P>
+<P class="p98 ft37">Avdelning 1 Inledning</P>
+<P class="p125 ft18"><SPAN class="ft35">1.1 </SPAN>Konungariket Belgiens försvarsminister, Konungariket Danmarks försvarsminister, Republiken Frankrikes försvarsminister, Förbundsrepubliken Tysklands förbundsförsvarsminister, Republiken</P>
+<P class="p63 ft61">Greklands försvarsminister, Republiken Italiens försvarsminister,</P>
+<P class="p112 ft3">22</P>
+</DIV>
+<DIV id="page_23">
+
+
+<P class="p73 ft18">Storhertigdömet Luxemburgs försvarsminister, Konungariket Prop. 2002/03:88 Nederländernas försvarsminister, Konungariket Norges försvarsminister,</P>
+<P class="p74 ft3">Republiken Portugals försvarsminister, Konungariket Spaniens försvarsminister, Republiken Turkiets försvarsminister samt Förenade konungariket Storbritannien och Nordirlands försvarsminister, nedan kallade deltagarna, som erkänner</P>
+<P class="p75 ft3">att Västeuropeiska unionens (VEU) råd har beslutat att upprätta Västeuropeiska försvarsmaterielorganisationen som ett underställt organ enligt artikel VIII.2 i Brysselfördraget i dess ändrade lydelse genom en stadga som godkändes av rådet den 19 november 1996,</P>
+<P class="p75 ft3">att syftet med Västeuropeiska försvarsmaterielorganisationen, nedan kallad WEAO, anges i dess stadga,</P>
+<P class="p75 ft18">den gemensamma nyttan av att sträva efter att uppnå detta syfte genom ett exekutivorgan,</P>
+<P class="p75 ft3">att arrangemangen inte bör fördubbla mekanismer som förekommer på annat håll och att mervärde bör eftersträvas där verksamhet överförs till exekutivorganet,</P>
+<P class="p75 ft3">att arrangemangen bör tillåta fullt deltagande av alla medlemmarna i Västeuropeiska försvarsmaterielgruppen (vilka för närvarande är Belgien, Danmark, Frankrike, Tyskland, Grekland, Italien, Luxemburg, Nederländerna, Norge, Portugal, Spanien, Turkiet och Förenade konungariket),</P>
+<P class="p75 ft3">att arrangemangen bör tillgodose att de nationella försvarsmaterieldirektoraten och därigenom försvarsministrarna är ansvariga för samarbetsverksamhet på försvarsmaterielområdet, och</P>
+<P class="p75 ft3">att arrangemangen bör vara förenliga med målet att utveckla den öppna europeiska marknaden för försvarsmateriel och bör bidra till att söka uppnå det målet,</P>
+<P class="p75 ft18">har, med förbehåll för stadgans bestämmelser, beslutat att ansluta sig till WEAO och har därför träffat de överenskommelser som anges i detta samförståndsavtal, vilket i stadgan benämns WEAO MOU.</P>
+<P class="p100 ft37">Avdelning 2 Räckvidd</P>
+<P class="p126 ft18"><SPAN class="ft37">2.1</SPAN><SPAN class="ft38">Detta samförståndsavtal täcker de principer som skall tillämpas i driften och administrationen av WEAO enligt definitionen i avdelning IV i stadgan.</SPAN></P>
+<P class="p105 ft10"><SPAN class="ft37">2.2</SPAN><SPAN class="ft54">För att uppfylla detta mål skall WEAO på lämpligt sätt utföra de uppgifter som anges i avdelning II punkt 7 i stadgan.</SPAN></P>
+<P class="p106 ft37">Avdelning 3 Ledningsorganisation</P>
+<P class="p126 ft18"><SPAN class="ft35">3.1 </SPAN>En styrelse skall fungera som ledningsorgan för driften och administrationen av exekutivorganet i enlighet med avdelning IV B i stadgan.</P>
+<P class="p127 ft3">23</P>
+</DIV>
+<DIV id="page_24">
+
+
+<DIV>
+<DIV id="id_1">
+<P class="p128 ft18"><SPAN class="ft37">3.2</SPAN><SPAN class="ft45">Styrelsen skall utse en generaldirektör som skall ansvara för driften av exekutivorganet i enlighet med punkt 22 i stadgan.</SPAN></P>
+<P class="p129 ft18"><SPAN class="ft37">3.3</SPAN><SPAN class="ft49">Exekutivorganets ledningsstruktur skall föreslås av generaldirektören och godkännas av styrelsen med beaktande av de uppgifter som deltagarna ålägger exekutivorganet.</SPAN></P>
+<P class="p130 ft37">Avdelning 4 Utförande av verksamhet</P>
+<P class="p131 ft3"><SPAN class="ft37">4.1</SPAN><SPAN class="ft40">Inledningsvis skall exekutivorganet vara dels en forskningscell med uppgift att stödja WEAG i all forsknings- och teknologiverksamhet och vid kontraktering enligt stadgan, dels en föregångare till Västeuropeiska försvarsmaterielmyndigheten. När WEAG:s ministrar beslutar att det finns förutsättningar för att övergå till en fullständig europeisk försvarsmaterielmyndighet, är avsikten att denna myndighet skall vara exekutivorganet och överta forskningscellens uppgifter.</SPAN></P>
+<P class="p132 ft3"><SPAN class="ft37">4.2</SPAN><SPAN class="ft46">Exekutivorganets verksamhet skall grundas på WEAG:s mål, principer, riktlinjer och förfaranden för att uppnå WEAO:s mål som de anges i punkt 6 i stadgan. Närmare principer för utförandet av exekutivorganets uppgifter som de anges i punkt 7 i stadgan skall anges i bilagor till detta samförståndsavtal. Principerna för genomförandet av forsknings- och teknologiaktiviteterna anges i bilaga A till detta samförståndsavtal. Principer för genomförande av andra uppgifter som anges i punkt 7 i stadgan måste beslutas innan de fullgörs av exekutivorganet. De skall anges i bilagor som skall utgöra del av detta samförståndsavtal genom att alla deltagarna undertecknar erforderliga tillägg.</SPAN></P>
+<P class="p133 ft10"><SPAN class="ft37">4.3</SPAN><SPAN class="ft62">Exekutivorganet skall genomföra WEAO:s uppgifter på något av följande sätt:</SPAN></P>
+<P class="p134 ft3"><SPAN class="ft3">a)</SPAN><SPAN class="ft51">Aktiviteter som skall genomföras av alla deltagarna gemensamt.</SPAN></P>
+<P class="p132 ft3"><SPAN class="ft5">b)</SPAN><SPAN class="ft53">Arrangemang mellan två eller flera deltagare för att genomföra förenade aktiviteter (dock inte gemensamma aktiviteter). Dessa kallas partnerskap. Ingående av sådana arrangemang skall följa principerna i avdelning IV D i stadgan och skall kräva förhandsgodkännande av styrelsen. Arrangemangen måste vara förenliga med detta samförståndsavtal.</SPAN></P>
+<P class="p132 ft3"><SPAN class="ft5">c)</SPAN><SPAN class="ft39">Arrangemang mellan en enskild deltagare och exekutivorganet, vilka exekutivorganet skall genomföra som aktiviteter för ifrågavarande deltagares räkning. Dessa kallas enskilda deltagarprogram. Arrangemangen måste vara förenliga med detta samförståndsavtal och kräver förhandsgodkännande av styrelsen.</SPAN></P>
+<P class="p132 ft18"><SPAN class="ft35">4.4 </SPAN>Förslag till arrangemang enligt punkt 4.3 b och 4.3 c ovan skall ges förmånlig behandling och godkännande skall inte vägras annat än av skäl som har samband med exekutivorganets verksamhet.</P>
+</DIV>
+<DIV id="id_2">
+<P class="p34 ft3">Prop. 2002/03:88</P>
+<P class="p135 ft3">24</P>
+</DIV>
+</DIV>
+</DIV>
+<DIV id="page_25">
+
+
+<TABLE cellpadding=0 cellspacing=0 class="t9">
+<TR>
+	<TD class="tr8 td22"><SPAN class="p3 ft37">Avdelning 5 Revision</SPAN> </TD>
+	<TD class="tr8 td17"><SPAN class="p3 ft5">Prop. 2002/03:88</SPAN> </TD>
+</TR>
+</TABLE>
+<P class="p136 ft3"><SPAN class="ft37">5.1</SPAN><SPAN class="ft50">I enlighet med punkt 38 i stadgan skall externrevision verkställas årligen av VEU:s revisorer. Alla deltagarna skall få ta del av revisionsrapporterna. Deltagarna godtar dock samfällt att nationella revisorer av exekutivorganet får begära alla uppgifter och granska alla handlingar som de anser vara nödvändiga för att tillåta dem att utföra sina uppgifter att revidera sina nationella förvaltningar och uppställa rapporter enligt sina bestämmelser.</SPAN></P>
+<P class="p137 ft3"><SPAN class="ft37">5.2</SPAN><SPAN class="ft40">Deltagarnas revisorer bör, under erkännande av behovet att undvika att besvära exekutivorganet i onödan och för att skydda uppgifter som berör andra deltagare, såvida det inte föreligger exceptionella omständigheter, samråda med varandra och med andra berörda parter, däribland generaldirektören, för att bestämma formerna för deras tillgång till uppgifter hos styrelsen, vilket skall motsvara de förfaranden som gemensamt har beslutats av deltagarna och deras nationella revisorer.</SPAN></P>
+<P class="p104 ft37">Avdelning 6 Säkerhetsskydd</P>
+<P class="p107 ft18"><SPAN class="ft37">6.1</SPAN><SPAN class="ft44">Exekutivorganet är skyldigt att följa VEU:s regler om säkerhetsskydd i enlighet med punkt 35 i stadgan.</SPAN></P>
+<P class="p110 ft10"><SPAN class="ft37">6.2</SPAN><SPAN class="ft48">Exekutivorganets säkerhetsfunktioner skall verkställas av VEU:s säkerhetstjänst i enlighet med dess säkerhetsskyddsföreskrifter.</SPAN></P>
+<P class="p98 ft37">Avdelning 7 Kontrakt</P>
+<P class="p96 ft18"><SPAN class="ft35">7.1 </SPAN>Den lag som skall tillämpas på kontrakt som sluts av exekutivorganet för att uppfylla dess administrativa krav skall som huvudregel vara avtalslagen i det land där exekutivorganet är beläget. För kontrakt som ingås på grundval av driftsbudgeten skall den lämpligaste lagen tillämpas. Vid partnerskap där organen är belägna i ett annat land skall avtalslagen i det landet tillämpas som huvudregel.</P>
+<P class="p103 ft37">Avdelning 8 Ekonomisk drift</P>
+<P class="p96 ft10"><SPAN class="ft63">8.1 </SPAN>WEAO:s ekonomiska drift skall utföras i överensstämmelse med punkterna 32 och 33 i stadgan.</P>
+<P class="p106 ft37">Avdelning 9 Förvaltningskostnader och driftskostnader</P>
+<P class="p138 ft3"><SPAN class="ft31">9.1 </SPAN>I enlighet med avdelning IV E i stadgan skall exekutivorganet inom sin årsbudget ha ett förvaltningskonto för att täcka alla utgifter för den interna driften och ett driftskonto som visar finansplanerna för exekutivorganets verksamhet för att uppnå sina mål. Alla dessa kostnader skall bäras av deltagarna utom de kostnader som avses i punkt 9.4.</P>
+<P class="p139 ft3">25</P>
+</DIV>
+<DIV id="page_26">
+
+
+<P class="p73 ft10"><SPAN class="ft63">9.2 </SPAN>Följande principer skall tillämpas för deltagarnas bidrag till Prop. 2002/03:88 budgetens förvaltningskonto.</P>
+<P class="p20 ft3">a) Kostnaderna fördelas på följande sätt:</P>
+<P class="p124 ft18"><SPAN class="ft5">i)</SPAN><SPAN class="ft44">För gemensamma uppgifter som genomförs av exekutivorganet för alla deltagarnas räkning fördelas förvaltningskostnaderna mellan dem enligt WEAG:s kostnadsfördelningsnyckel. Styrelsen kan ompröva dessa bestämmelser.</SPAN></P>
+<P class="p105 ft18"><SPAN class="ft5">ii)</SPAN><SPAN class="ft58">För alla andra uppgifter där kostnaderna kan hänföras till bestämda aktiviteter, skall de faktiska förvaltningskostnader som förorsakas exekutivorganet bäras av den eller de deltagare för vilken eller vilka aktiviteterna i fråga utförs. Nyckeln för fördelning av förvaltningskostnaderna mellan deltagarna i ett partnerskap skall bestämmas i vederbörande arrangemang.</SPAN></P>
+<P class="p99 ft18"><SPAN class="ft5">b)</SPAN><SPAN class="ft44">I största möjliga utsträckning skall de faktiska kostnaderna fördelas på särskilda aktiviteter, (dvs. de direkta kostnaderna). Kostnader som inte direkt kan hänföras till vissa bestämda aktiviteter (exempelvis fastighetskostnader, renhållning och bevakning) (dvs. de indirekta kostnaderna), skall fördelas i proportion till de direkta kostnaderna.</SPAN></P>
+<P class="p140 ft18"><SPAN class="ft5">c)</SPAN><SPAN class="ft64">Varje deltagare skall till generaldirektören kvartalsvis i förskott överföra medel för att täcka sin andel av förvaltningsbudgeten som har godkänts av styrelsen.</SPAN></P>
+<P class="p110 ft18"><SPAN class="ft37">9.3</SPAN><SPAN class="ft45">Kostnader för aktiviteter som täcks av driftsbudgeten skall bäras av den eller de deltagare för vilken eller vilka de genomförs. Nyckeln för fördelning av driftskostnaderna mellan deltagarna i ett partnerskap skall bestämmas i vederbörande arrangemang.</SPAN></P>
+<P class="p105 ft18"><SPAN class="ft37">9.4</SPAN><SPAN class="ft38">Kostnader som är hänförliga till uppgifter som genomförs för ett annat underställt organ till VEU än WEAO skall betalas av organet i fråga.</SPAN></P>
+<P class="p106 ft37">Avdelning 10 Personal</P>
+<P class="p98 ft3">Tillsättning av generaldirektören</P>
+<P class="p124 ft18"><SPAN class="ft35">10.1 </SPAN>Generaldirektören skall tillsättas av styrelsen efter hörande av VEU:s generalsekreterare. Anställningsvillkoren skall godkännas av styrelsen och VEU:s generalsekreterare. Generaldirektören skall anställas direkt av exekutivorganet och ha ett visstidsförordnande på normalt tre år, som skall kunna förlängas med högst tre år.</P>
+<P class="p20 ft3">Tillsättning av personal till exekutivorganet</P>
+<P class="p141 ft3">26</P>
+</DIV>
+<DIV id="page_27">
+
+
+<P class="p73 ft18"><SPAN class="ft35">10.2 </SPAN>Generaldirektören skall ansvara för urval av personal till alla poster Prop. 2002/03:88 i exekutivorganet efter nominering av deltagarna i enlighet med punkt 22</P>
+<P class="p63 ft3">b vii i stadgan.</P>
+<P class="p142 ft3"><SPAN class="ft37">10.3</SPAN><SPAN class="ft51">Endast medborgare i deltagarländerna i WEAO kan komma i fråga.</SPAN></P>
+<P class="p124 ft3"><SPAN class="ft37">10.4</SPAN><SPAN class="ft39">Urvalet sker enligt meriter, som bl.a. bestäms av yrkesskicklighet, relevant erfarenhet och allmän lämplighet enligt vad som anges i vederbörande befattningsbeskrivningar. Vad gäller poster i kategori A, avseende personer som anställs för att arbeta i ett bestämt partnerskap eller i ett enskilt deltagarprogram skall i normalfallet endast medborgare i de i partnerskapet eller programmet deltagande länderna kunna komma i fråga. I den mån det är förenligt med dessa kriterier skall generaldirektören sträva efter att tillgodose en rättvis fördelning av posterna mellan länderna på grundval av nyckeln för fördelning av kostnader mellan deltagarna.</SPAN></P>
+<P class="p143 ft18"><SPAN class="ft37">10.5</SPAN><SPAN class="ft58">Tillsättning som tjänsteman i exekutivorganet av någon som har tjänstgjort som representant i styrelsen under en tid under de tre år som föregår tillsättningen får endast göras i undantagsfall och skall i vart fall kräva godkännande av styrelsen.</SPAN></P>
+<P class="p105 ft18"><SPAN class="ft37">10.6</SPAN><SPAN class="ft44">Tillsättning av någon som har tillhört VEU:s revisorer och under de tre år som föregår tillsättningen personligen har deltagit i revision som gjorts av exekutivorganet kräver också styrelsens godkännande.</SPAN></P>
+<P class="p110 ft10"><SPAN class="ft37">10.7</SPAN><SPAN class="ft65">Alla kandidater måste behärska det ena av VEU:s officiella språk och ha goda kunskaper i det andra.</SPAN></P>
+<P class="p144 ft10"><SPAN class="ft37">10.8</SPAN><SPAN class="ft66">När så är möjligt skall tjänstemän direktanställas av exekutivorganet på viss tid, normalt tre år, med möjlighet till förlängning i högst ett år.</SPAN></P>
+<P class="p105 ft3"><SPAN class="ft37">10.9</SPAN><SPAN class="ft8">Tillsättning av nationella tjänstemän skall om möjligt begränsas till partnerskap eller enskilda deltagarprogram. Detta förfarande skall endast tillämpas när styrelsen, på grund av behov av sakkunskap eller med tanke på den tidsram som avses, bedömer att posten inte tillfredsställande kan besättas genom direktanställning.</SPAN></P>
+<P class="p104 ft37">Avdelning 11 Äganderätt till tillgångar</P>
+<P class="p145 ft68"><SPAN class="ft67">11.1 </SPAN>Tillgångar skall förvärvas och ägas i enlighet med avdelning VI i stadgan.</P>
+<P class="p103 ft37">Avdelning 12 Risker och ansvarighet</P>
+<P class="p145 ft18"><SPAN class="ft35">12.1 </SPAN>Enskilda deltagare och deltagare i partnerskap skall vara ansvariga för sina aktiviteter gentemot WEAO och betala de kostnader som följer</P>
+<P class="p63 ft69">av sådana aktiviteter.</P>
+<P class="p112 ft3">27</P>
+</DIV>
+<DIV id="page_28">
+
+
+<DIV>
+<DIV id="id_1">
+<P class="p128 ft3"><SPAN class="ft31">12.2 </SPAN>Kostnad för skada som förorsakats av <NOBR>WEAO-personal</NOBR> eller WEAO:s egendom eller skada som förorsakats sådan personal eller sådana tillgångar skall, när skadan har uppstått vid tjänsteutövning för WEAO och i samband med <NOBR>WEAO-verksamhet</NOBR> och när kostnaden för gottgörelsen av skadan inte kan utkrävas av tredje man, bäras av deltagarna i enlighet med bestämmelserna för bestridande av direkta kostnader i avdelning 9.</P>
+<P class="p146 ft37">Avdelning 13 Skatter, tullar och liknande avgifter</P>
+<P class="p147 ft5"><SPAN class="ft37">13.1 </SPAN>I överensstämmelse med punkt 9 i <NOBR>WEAO-stadgan</NOBR> skall alla relevanta bestämmelser i avtalet om rättslig ställning för Västeuropeiska unionen, som undertecknades i Paris den 11 maj 1955, gälla aktiviteter som genomförs med stöd av detta samförståndsavtal. Deltagarna erkänner att all <NOBR>forsknings-,</NOBR> teknologi- och utvecklingsverksamhet som genomförs med stöd av detta samförståndsavtal skall betraktas vara för VEU:s officiella användning i syfte att stärka de ekonomiska band som redan förenar dess medlemmar och för att främja samarbetet och samordningen i deras strävanden att skapa en stark teknologisk grund som är förenlig med ändamålen i Brysselfördraget i dess ändrade lydelse.</P>
+<P class="p146 ft37">Avdelning 14 Tvister</P>
+<P class="p148 ft18"><SPAN class="ft35">14.1 </SPAN>Tvister om tolkningen eller tillämpningen av detta samförståndsavtal skall lösas uteslutande genom samråd mellan de berörda deltagarna och inte hänskjutas till nationell eller internationell domstol eller till tredje man för lösning.</P>
+<P class="p130 ft37">Avdelning 15 Anslutning av nya deltagare</P>
+<P class="p149 ft10"><SPAN class="ft63">15.1 </SPAN>Deltagarna erkänner att andra medlemmar i WEAG kan vilja ansluta sig till WEAO. Anslutningen skall följa de bestämmelser som anges i avdelning VII i stadgan.</P>
+<P class="p150 ft37">Avdelning 16 Upphörande och frånträde</P>
+<P class="p149 ft18"><SPAN class="ft37">16.1</SPAN><SPAN class="ft70">Om deltagarna önskar upplösa WEAO och avsluta detta samförståndsavtal skall det förfarande tillämpas som anges i punkt 47 i stadgan.</SPAN></P>
+<P class="p129 ft18"><SPAN class="ft37">16.2</SPAN><SPAN class="ft55">Om en deltagare önskar frånträda sitt deltagande i detta samförståndsavtal och därför önskar att dess land frånträder WEAO, skall förfarande tillämpas som anges i punkt 48 i stadgan.</SPAN></P>
+</DIV>
+<DIV id="id_2">
+<P class="p34 ft3">Prop. 2002/03:88</P>
+<P class="p135 ft3">28</P>
+</DIV>
+</DIV>
+</DIV>
+<DIV id="page_29">
+
+
+<TABLE cellpadding=0 cellspacing=0 class="t9">
+<TR>
+	<TD class="tr8 td22"><SPAN class="p3 ft37">Avdelning 17 Ikraftträdande, ändring och undertecknande</SPAN> </TD>
+	<TD class="tr8 td17"><SPAN class="p3 ft5">Prop. 2002/03:88</SPAN> </TD>
+</TR>
+</TABLE>
+<P class="p136 ft10"><SPAN class="ft37">17.1</SPAN><SPAN class="ft59">Detta samförståndsavtal träder i kraft dagen för den sista underskriften.</SPAN></P>
+<P class="p140 ft10"><SPAN class="ft37">17.2</SPAN><SPAN class="ft9">Detta samförståndsavtal får ändras när som helst skriftligen genom deltagarnas ömsesidiga samtycke.</SPAN></P>
+<P class="p105 ft10"><SPAN class="ft37">17.3</SPAN><SPAN class="ft71">Undertecknat på engelska och franska språken, varvid båda texter är lika giltiga.</SPAN></P>
+<P class="p98 ft37">Bilaga A (Ny text införd i ändring 1)</P>
+<P class="p151 ft3">Konungariket Belgiens försvarsminister: Ostende den 19 november 1996 Konungariket Danmarks försvarsminister: Ostende den 19 november 1996 Republiken Frankrikes försvarsminister: Ostende den 19 november 1996</P>
+<P class="p152 ft18">För Förbundsrepubliken Tyskland förbundsförsvarsminister: Ostende den 19 november 1996</P>
+<P class="p153 ft3">Republiken Greklands försvarsminister: Ostende den 19 november 1996 Republiken Italiens försvarsminister: Ostende den 19 november 1996</P>
+<P class="p154 ft34">Storhertigdömet Luxemburgs försvarsminister: Ostende den 19 november 1996</P>
+<P class="p155 ft5">Konungariket Nederländernas försvarsminister Ostende den 19 november 1996</P>
+<P class="p156 ft3">Konungariket Norges försvarsminister: Ostende den 19 november 1996 Republiken Portugals försvarsminister: Ostende den 19 november 1996 Konungariket Spaniens försvarsminister: Ostende den 19 november 1996 Republiken Turkiets försvarsminister: Ostende den 19 november 1996</P>
+<P class="p157 ft18">För Förenade konungariket Storbritannien och Nordirlands försvarsminister: Ostende den 19 november 1996.</P>
+<P class="p158 ft3">29</P>
+</DIV>
+<DIV id="page_30">
+
+
+<P class="p63 ft1">Bilaga 4</P>
+<P class="p110 ft10">Samförståndsavtal om deltagande i Västeuropeiska försvarsmaterielorganisationen (WEAO) och principer för dess drift och administration</P>
+<P class="p87 ft3">Ändring nr 1</P>
+<P class="p5 ft3">mellan</P>
+<P class="p159 ft3">Republiken Österrikes regering genom förbundsförsvarsministern, Konungariket Belgiens försvarsminister, Republiken Tjeckiens regering genom försvarsministern, Konungariket Danmarks försvarsminister, Republiken Finlands regering genom försvarsministern, Republiken Frankrikes försvarsminister, Förbundsrepubliken Tysklands förbundsförsvarsminister, Republiken Greklands försvarsminister, Republiken Ungerns regering genom försvarsministern, Republiken Italiens försvarsminister, Storhertigdömet Luxemburgs försvarsminister, Konungariket Nederländernas försvarsminister, Konungariket Norges försvarsminister, Republiken Polens regering genom försvarsministern, Republiken Portugals försvarsminister, Konungariket Spaniens försvarsminister, Konungariket Sveriges regering genom försvarsministern, Republiken Turkiets försvarsminister samt Förenade konungariket Storbritannien och Nordirlands försvarsminister</P>
+<P class="p86 ft10">om anslutning av nya deltagare och om förbättring av samförståndsavtalet</P>
+<P class="p20 ft3">Avdelning 1 Inledning</P>
+<P class="p124 ft3">Denna ändring nr 1 verkställs mellan deltagarna i samförståndsavtalet om deltagande i Västeuropeiska försvarsmaterielorganisationen och principer för dess drift och administration, undertecknat den 19 november 1996 (nedan kallat WEAO MOU), å ena sidan, och Republiken Österrikes regering genom förbundsförsvarsministern, Republiken Tjeckiens regering genom försvarsministern, Republiken Finlands regering genom försvarsministern, Republiken Ungerns regering genom försvarsministern, Republiken Polens regering genom försvarsministern och Konungariket Sveriges regering genom försvarsministern, å andra sidan,</P>
+<P class="p160 ft3">som erkänner</P>
+<P class="p85 ft18">att WEAO MOU i avdelning 15 (anslutning av nya deltagare) innehåller bestämmelser om andra <NOBR>WEAG-medlemmars</NOBR> anslutning till WEAO och att där sägs att anslutningsarrangemangen skall vara förenliga med <NOBR>WEAO-stadgan,</NOBR></P>
+<P class="p75 ft3">att Österrike, Tjeckien, Finland, Ungern, Polen och Sverige antogs som <NOBR>WEAG-medlemmar</NOBR> efter beslut av försvarsministrarna i Marseille den 13 november 2000 och att dessa länder vid de nationella försvarsmaterieldirektörernas möte i Baveno den 9 oktober 2001 uttryckte sin önskan att delta i WEAO med lika rättslig ställning,</P>
+<P class="p112 ft3">30</P>
+</DIV>
+<DIV id="page_31">
+
+
+<P class="p55 ft18">att det i <NOBR>WEAO-stadgans</NOBR> avdelning VII (deltagande i WEAO) anges Prop. 2002/03:88 att, för anslutning av nya deltagare i WEAO, sådana regler skall gälla</P>
+<P class="p161 ft3">som de nuvarande deltagarna och de presumtiva deltagarna bestämmer och att dessa regler skall få formen av en ändring av WEAO MOU, samt att undertecknande av samförståndsavtalet om europeiska avtal för forskningsorganisation, program och aktiviteter (EUROPA) fordrar ändring av avdelning 4 (utförande av verksamhet) och av bilaga A till WEAO MOU (principer för exekutivorganets kontraktering för genom-</P>
+<P class="p63 ft3">förande av forsknings- och teknologiaktiviteter),</P>
+<P class="p123 ft3">har kommit överens om följande.</P>
+<P class="p84 ft3">Avdelning 2 Ändring</P>
+<P class="p111 ft3">1. Oavsett undertecknandet av denna ändring blir Republiken Österrikes regering, företrädd av förbundsförsvarsministern, och Konungariket Sveriges regering, företrädd av försvarsministern, deltagare i WEAO MOU först efter det att meddelande har lämnats om att dessa länders parlament har givit sitt godkännande. Därför skall WEAO MOU ändras efter varje sådant meddelande för de nya deltagarna på följande sätt:</P>
+<P class="p111 ft18">I början av deltagarförteckningen på omslagssidan och i inledningen införs orden "Republiken Österrikes regering genom förbundsförsvarsministern".</P>
+<P class="p110 ft18">I deltagarförteckningen på omslagssidan och i inledningen införs efter orden "Konungariket Spaniens försvarsminister" orden "Konungariket Sveriges regering genom försvarsministern".</P>
+<P class="p105 ft3">Oavsett undertecknandet av denna ändring blir Republiken Tjeckiens regering, företrädd av försvarsministern, Republiken Finlands regering, företrädd av försvarsministern, Republiken Ungerns regering, företrädd av försvarsministern, och Republiken Polens regering, företrädd av förbundsförsvarsministern, deltagare i detta WEAO MOU först efter det att meddelande har lämnats om att dessa länders parlament har givit sitt godkännande. Därför skall WEAO MOU ändras för de nya deltagarna efter varje sådant meddelande för de nya deltagarna på följande sätt:</P>
+<P class="p143 ft18">I deltagarförteckningen på omslagssidan och i inledningen införs orden "Republiken Tjeckiens regering genom försvarsministern" efter orden "Konungariket Belgiens försvarsminister".</P>
+<P class="p105 ft18">I deltagarförteckningen på omslagssidan och i inledningen införs orden "Republiken Finlands regering genom försvarsministern" efter orden "Konungariket Danmarks försvarsminister".</P>
+<P class="p110 ft18">I deltagarförteckningen på omslagssidan och i inledningen införs orden "Republiken Ungerns regering genom försvarsministern" efter orden "Republiken Greklands försvarsminister".</P>
+<P class="p162 ft3">31</P>
+</DIV>
+<DIV id="page_32">
+
+
+<DIV>
+<DIV id="id_1">
+<P class="p128 ft18">I deltagarförteckningen på omslagssidan och i inledningen införs orden "Republiken Polens regering genom försvarsministern" efter orden "Konungariket Norges försvarsminister".</P>
+<P class="p163 ft10">2. Följande text införs efter punkt 4.3 c i avdelning 4 (utförande av verksamhet):</P>
+<P class="p163 ft3">"d) Andra arrangemang än de som avses i punkt 4.3 b i avdelning 4 (utförande av verksamhet) mellan två eller flera deltagare för att genomföra förenade aktiviteter med stöd av ett samförståndsavtal om forskning och teknologi mellan medlemsstater i WEAG. Dessa arrangemang skall vara de berörda deltagarnas fulla ansvar och styrelsen skall inte ha något ansvar för dem."</P>
+<P class="p164 ft3">3. Punkt 4.4 ersätts av följande text:</P>
+<P class="p165 ft18">"4.4 a) Förslag till arrangemang enligt punkt 4.3 b och 4.3 c skall ges förmånlig behandling, och godkännande skall inte vägras annat än av skäl som har samband med exekutivorganets verksamhet.</P>
+<P class="p129 ft3">b) För andra forsknings- och teknologiaktiviteter än de som avses i punkt 4.3 b ovan, såsom program och projekt hänförliga till EUROPA MOU, skall styrelsen årligen och före början av varje räkenskapsår godkänna exekutivorganets förväntade arbetsbörda och lämna generaldirektören riktlinjer om utförandet av arbetet med sådana aktiviteter i förhållande till exekutivorganets totala arbetsbörda."</P>
+<P class="p132 ft10"><SPAN class="ft5">4.</SPAN><SPAN class="ft71">Bilaga A till WEAO MOU ersätts i sin helhet av en nya bilaga A, som bifogas denna ändring.</SPAN></P>
+<P class="p134 ft3"><SPAN class="ft5">5.</SPAN><SPAN class="ft51">Alla övriga bestämmelser i WEAO MOU är oförändrade.</SPAN></P>
+<P class="p164 ft3">Avdelning 3 Undertecknande</P>
+<P class="p165 ft10"><SPAN class="ft5">1.</SPAN><SPAN class="ft54">Denna ändring till WEAO MOU träder i kraft dagen för den sista underskriften.</SPAN></P>
+<P class="p163 ft18"><SPAN class="ft5">2.</SPAN><SPAN class="ft38">Denna ändring har undertecknats i ett exemplar på engelska och franska språken, vilka båda texter är lika giltiga. Originaltexterna skall förvaras av forskningscellen WEAO och en bekräftad kopia av dem skall tillställas deltagarna.</SPAN></P>
+<P class="p166 ft18">För Republiken Österrikes regering genom förbundsförsvarsministern: Underskrift, plats, dag</P>
+<P class="p167 ft3">Konungariket Belgiens försvarsminister: Underskrift, plats, dag</P>
+<P class="p168 ft3">Republiken Tjeckiens regering genom försvarsministern: Underskrift, plats, dag</P>
+<P class="p169 ft18">Konungariket Danmarks försvarsminister: Underskrift, plats, dag</P>
+<P class="p34 ft3">Republiken Finlands regering genom försvarsministern:</P>
+</DIV>
+<DIV id="id_2">
+<P class="p34 ft3">Prop. 2002/03:88</P>
+<P class="p135 ft3">32</P>
+</DIV>
+</DIV>
+</DIV>
+<DIV id="page_33">
+
+
+<TABLE cellpadding=0 cellspacing=0 class="t1">
+<TR>
+	<TD class="tr4 td22"><SPAN class="p3 ft3">Underskrift, plats, dag</SPAN> </TD>
+	<TD class="tr4 td17"><SPAN class="p3 ft5">Prop. 2002/03:88</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr6 td22"><SPAN class="p3 ft3">Republiken Frankrikes försvarsminister:</SPAN> </TD>
+	<TD class="tr6 td17"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr6 td22"><SPAN class="p3 ft3">Underskrift, plats, dag</SPAN> </TD>
+	<TD class="tr6 td17"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr6 td22"><SPAN class="p3 ft3">Förbundsrepubliken Tysklands förbundsförsvarsminister:</SPAN> </TD>
+	<TD class="tr6 td17"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr5 td22"><SPAN class="p3 ft3">Underskrift, plats, dag</SPAN> </TD>
+	<TD class="tr5 td17"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr6 td22"><SPAN class="p3 ft3">Republiken Greklands försvarsminister:</SPAN> </TD>
+	<TD class="tr6 td17"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr6 td22"><SPAN class="p3 ft3">Underskrift, plats, dag</SPAN> </TD>
+	<TD class="tr6 td17"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr6 td22"><SPAN class="p3 ft3">Republiken Ungerns regering genom försvarsministern:</SPAN> </TD>
+	<TD class="tr6 td17"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr6 td22"><SPAN class="p3 ft3">Underskrift, plats, dag</SPAN> </TD>
+	<TD class="tr6 td17"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr6 td22"><SPAN class="p3 ft3">Republiken Italiens försvarsminister:</SPAN> </TD>
+	<TD class="tr6 td17"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr5 td22"><SPAN class="p3 ft3">Underskrift, plats, dag</SPAN> </TD>
+	<TD class="tr5 td17"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr6 td22"><SPAN class="p3 ft3">Storhertigdömet Luxemburgs försvarsminister:</SPAN> </TD>
+	<TD class="tr6 td17"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr6 td22"><SPAN class="p3 ft3">Underskrift, plats, dag</SPAN> </TD>
+	<TD class="tr6 td17"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr6 td22"><SPAN class="p3 ft3">Konungariket Nederländernas försvarsminister:</SPAN> </TD>
+	<TD class="tr6 td17"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr6 td22"><SPAN class="p3 ft3">Underskrift, plats, dag</SPAN> </TD>
+	<TD class="tr6 td17"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr6 td22"><SPAN class="p3 ft3">Konungariket Norges försvarsminister:</SPAN> </TD>
+	<TD class="tr6 td17"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr5 td22"><SPAN class="p3 ft3">Underskrift, plats, dag</SPAN> </TD>
+	<TD class="tr5 td17"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr6 td22"><SPAN class="p3 ft3">Republiken Polens regering genom försvarsministern:</SPAN> </TD>
+	<TD class="tr6 td17"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr6 td22"><SPAN class="p3 ft3">Underskrift, plats, dag</SPAN> </TD>
+	<TD class="tr6 td17"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr6 td22"><SPAN class="p3 ft3">Republiken Portugals försvarsminister:</SPAN> </TD>
+	<TD class="tr6 td17"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr6 td22"><SPAN class="p3 ft3">Underskrift, plats, dag</SPAN> </TD>
+	<TD class="tr6 td17"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr6 td22"><SPAN class="p3 ft3">Konungariket Spaniens försvarsminister:</SPAN> </TD>
+	<TD class="tr6 td17"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr5 td22"><SPAN class="p3 ft3">Underskrift, plats, dag</SPAN> </TD>
+	<TD class="tr5 td17"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr6 td22"><SPAN class="p3 ft3">Konungariket Sveriges regering genom försvarsministern:</SPAN> </TD>
+	<TD class="tr6 td17"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr6 td22"><SPAN class="p3 ft3">Underskrift, plats, dag</SPAN> </TD>
+	<TD class="tr6 td17"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr6 td22"><SPAN class="p3 ft3">Republiken Turkiets försvarsminister:</SPAN> </TD>
+	<TD class="tr6 td17"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr6 td22"><SPAN class="p3 ft3">Underskrift, plats, dag</SPAN> </TD>
+	<TD class="tr6 td17"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr6 td22"><SPAN class="p3 ft3">Förenade konungariket Storbritannien och Nordirlands försvarsminister:</SPAN> </TD>
+	<TD class="tr6 td17"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr7 td22"><SPAN class="p3 ft3">Underskrift, plats, dag.</SPAN> </TD>
+	<TD class="tr7 td17"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+</TABLE>
+<P class="p170 ft72">Bilaga A Principer för exekutivorganets kontraktering för genomförande av forsknings- och teknologiaktiviteter</P>
+<P class="p171 ft3">1. Allmänt</P>
+<P class="p124 ft3"><NOBR>WEAG-medlemmarnas</NOBR> forsknings- och teknologiaktiviteter genomförs i första hand med tanke på den kunskap som erhålls vid genomförandet av en viss aktivitet och inte endast med tanke på resultatet. Exekutivorganets aktiviteter skall grundas på WEAG:s syften, principer, riktlinjer och förfaranden med sikte på att uppnå WEAO:s mål som anges i punkt 6 i stadgan. Följaktligen skall forsknings- och teknologikontrakt som exekutivorganet sluter grundas på principer som är i överensstämmelse med bestämmelserna i deras respektive samförståndsavtal. Sådana samförståndsavtal och tillämpningsöverenskommelser och andra projektbilagor som faller under dem benämns projektdokumentation i denna bilaga.</P>
+<P class="p86 ft18">De nationella forskningskraven och stärkandet av den europeiska försvarsteknologibasen och det europeiska försvarsindustriella</P>
+<P class="p117 ft3">33</P>
+</DIV>
+<DIV id="page_34">
+
+
+<DIV>
+<DIV id="id_1">
+<P class="p128 ft18">samarbetet skall beaktas vid utformning av projekt och bedömning av förslag.</P>
+<P class="p172 ft3">2. Principer</P>
+<P class="p173 ft3">2.1 Ledning</P>
+<P class="p132 ft18">Varje forsknings- och teknologiprojekts tekniska och kostnadsmässiga aspekter skall styras av en expertgrupp som skall anges i projektets projektdokumentation. Experternas ansvar skall närmare anges i projektdokumentationen.</P>
+<P class="p174 ft3">2.2 Kontrakt</P>
+<P class="p132 ft3">Kontrakteringen för projekten skall verkställas av exekutivorganet i enlighet med projektdokumentationen, varvid deltagarnas tekniska krav och ekonomiska åtaganden i projektet skall anges, vilket skall vara undertecknat av dess deltagare. Tilldelning av huvudkontrakt och underkontrakt för varje projekt skall i princip grundas på konkurrens. Val av huvudkontraktstagare skall göras genom enhälligt beslut av expertgruppen i enlighet med projektdokumentationen och med beaktande av överenskomna utvärderingskriterier. Dessa beslut skall utgöra exekutivorganets fullmakt att sluta kontrakt. Anbudsgivare vars anbud inte antas skall på begäran få reda på varför de inte har kommit i fråga.</P>
+<P class="p175 ft3">2.3 Tillämplig lag och prissättning</P>
+<P class="p165 ft3">Kontrakt som sluts av exekutivorganet i VEU:s namn skall följa den lag och de bestämmelser enligt vilka VEU verkar med sådana avsteg och undantag som denna lag och dessa bestämmelser tillåter i den mån det är nödvändigt för att ge verkan åt bestämmelserna i projektdokumentationen i fråga. De villkor för prissättning som skall följas blir de som normalt tillämpas inom det territorium där leverantören är belägen.</P>
+<P class="p164 ft3">2.4 Utlämnande och användning av information</P>
+<P class="p132 ft3">I kontrakt som sluts av exekutivorganet för de deltagares räkning som deltar i ett projekt skall ingå bestämmelser för att garantera deltagarnas rättigheter med avseende på användning och utlämnande av information, äganderätt och överlåtelse. Kontraktsbestämmelserna skall vara förenliga med bestämmelserna i projektdokumentationen.</P>
+<P class="p164 ft3">2.5 Finansiering</P>
+<P class="p165 ft18">Finansieringen och bestämmelserna för betalning av leverantörer avseende projekt skall vid behov närmare anges i projektdokumentationen. Den angivna expertgruppen skall avgöra om kontraktsbestämmelserna tillåter utbetalningar till leverantörerna.</P>
+</DIV>
+<DIV id="id_2">
+<P class="p34 ft3">Prop. 2002/03:88</P>
+<P class="p135 ft3">34</P>
+</DIV>
+</DIV>
+</DIV>
+<DIV id="page_35">
+
+
+<P class="p63 ft1">Bilaga 5</P>
+<P class="p176 ft23">Utdrag ur stadga för Västeuropeiska försvarsmaterielorganisationen (WEAO)</P>
+<P class="p177 ft13">Översättning</P>
+<P class="p118 ft3"><NOBR>----------------------</NOBR></P>
+<P class="p84 ft3">9. Immunitet och privilegier</P>
+<P class="p124 ft18">Med stöd av definitionerna i artikel 1 a och c i Parisavtalet och i överensstämmelse med bl.a. artiklarna 8, 9, <NOBR>12-15</NOBR> och <NOBR>20-22</NOBR> i det avtalet skall alla relevanta bestämmelser i det avtalet gälla för WEAO.</P>
+<P class="p83 ft3"><NOBR>---------------------</NOBR></P>
+<P class="p178 ft3">35</P>
+</DIV>
+<DIV id="page_36">
+<DIV id="dimg1">
+<INGENBILD zsrc="GQ038836x1.jpg/" id="img1">
+</DIV>
+
+
+<TABLE cellpadding=0 cellspacing=0 class="t1">
+<TR>
+	<TD rowspan=2 class="tr2 td22"><SPAN class="p3 ft1">Försvarsdepartementet</SPAN> </TD>
+	<TD class="tr19 td17"><SPAN class="p3 ft5">Prop. 2002/03:88</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr20 td17"><SPAN class="p3 ft73">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr13 td22"><SPAN class="p3 ft3">Utdrag ur protokoll vid regeringssammanträde den 6 mars 2003</SPAN> </TD>
+	<TD class="tr13 td17"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr12 td22"><SPAN class="p3 ft3">Närvarande: statsministern Persson, ordförande, och statsråden Ulvskog,</SPAN> </TD>
+	<TD class="tr12 td17"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr6 td22"><SPAN class="p3 ft3">Lindh, Sahlin, Pagrotsky, Östros, Messing, Engqvist, Lövdén, Ringholm,</SPAN> </TD>
+	<TD class="tr6 td17"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr6 td22"><SPAN class="p3 ft3">Bodström, Karlsson J. O., Sommestad, Nykvist, Lund, Andnor, Nuder,</SPAN> </TD>
+	<TD class="tr6 td17"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr7 td22"><SPAN class="p3 ft3">Johansson, Hallengren, Björklund</SPAN> </TD>
+	<TD class="tr7 td17"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr12 td22"><SPAN class="p3 ft3">Föredragande: Leni Björklund</SPAN> </TD>
+	<TD class="tr12 td17"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+</TABLE>
+<P class="p179 ft18">Regeringen beslutar proposition 2002/03:88 Åtagande att tillämpa avtal om rättslig ställning för Västeuropeiska unionen, dess nationella representanter och internationella tjänstemän</P>
+<P class="p180 ft3">36</P>
+</DIV>
+
+</div><style>
+
+
+TD,TD.p2h {
+zzzfont-size:90%;
+zzzmargin-right:2px;
+zzzoverflow:visable;
+zzzword-wrap: break-word;
+}
+
+P {
+zdisplay:block;
+}
+
+.divbreak {
+clear:both;
+display:block;
+zwidth: 100%;
+zheight: 1px;
+zword-wrap: break-word;
+}
+
+
+.xecp {
+  display:block;
+  margin: 0px !important;
+  padding: 0px !important;
+  
+}
+
+.ec {
+  border-style:solid;
+  border-width:1px;
+  display:block;
+  margin: 0px !important;
+  padding: 0px !important;
+}
+
+.TOPS {
+  overflow:visable;
+  margin:2px;
+  width:690px !important;
+}
+
+</style>

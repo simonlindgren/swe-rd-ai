@@ -1,0 +1,487 @@
+SEARCH TERM: artificiell intelligens
+DOCUMENT ID: hd022723
+TITLE: En samhällsförberedande skola
+TYPE: mot
+SUBTYPE: Enskild motion
+DATE: 2025-10-06
+PARLIAMENTARY YEAR: 2025/26
+ORGANISATION: UbU
+STATUS: Hänvisad
+DOWNLOADED: 2026-01-22 10:24:35
+================================================================================
+
+<style><!-- 
+ @page Section1 { size:595.3pt 841.9pt; margin:35.45pt 85.05pt }
+div.Section1 { page:Section1 }
+div.pconf body { t-i:14.2pt; line-height:150%; font-family:'Verdana'; font-size: 0.90em }
+div.pconf h1, h2, h3, h4, h5, h6, p { margin:0pt }
+div.pconf li, table { margin-top:0pt; margin-bottom:0pt }
+div.pconf h1 { margin-top:41pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:19.5pt; font-family:'Verdana'; font-size: 1.05em; font-weight:normal; color:#000000 }
+div.pconf h2 { margin-top:30pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:17pt; font-family:'Verdana'; font-size: 1.00em; font-weight:normal; color:#000000 }
+div.pconf h3 { margin-top:18pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:15pt; font-family:'Verdana'; font-size: 0.90em; font-weight:bold; color:#000000 }
+div.pconf h4 { margin-top:18pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:15pt; font-family:'Verdana'; font-size: 0.90em; font-weight:normal; font-style:italic; color:#000000 }
+div.pconf h5 { margin-top:15pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:15pt; font-family:'Verdana'; font-size: 0.90em; font-weight:bold; font-style:normal; color:#000000 }
+div.pconf h6 { margin-top:15pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:15pt; font-family:'Verdana'; font-size: 0.90em; font-weight:normal; font-style:italic; color:#000000 }
+.Heading7 { margin-top:15pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:15pt; font-family:'Verdana'; font-size: 0.90em; font-weight:normal; font-style:italic; color:#000000; -aw-style-name:heading7 }
+.Heading8 { margin-top:15pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:15pt; font-family:'Verdana'; font-size: 0.90em; font-weight:normal; font-style:italic; color:#000000; -aw-style-name:heading8 }
+.Heading9 { margin-top:0pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:15pt; font-family:'Verdana'; font-size: 0.90em; font-weight:normal; font-style:italic; color:#000000; -aw-style-name:heading9 }
+.BalloonText { margin-bottom:0pt; t-i:14.2pt; line-height:normal; font-family:'Segoe UI'; font-size: 0.90em }
+.Beteckning { margin-top:18pt; margin-bottom:0pt; t-i:14.2pt; page-break-inside:auto; page-break-after:auto; line-height:19.5pt; font-size: 1.05em }
+.BlockText, .Inramatstycke { margin-right:56.7pt; margin-left:56.7pt; margin-bottom:0pt; t-i:0pt; text-align:nojustify; line-height:150%; border:0.75pt solid #000000; padding:10pt; font-size: 0.90em; font-style:italic; -aw-border:0.25pt single }
+.Citaticitat { margin-top:7.5pt; margin-left:34pt; margin-bottom:0pt; t-i:0pt; line-height:150%; font-size: 0.90em }
+.Citaticitatmedindrag { margin-top:0pt; margin-left:34pt; margin-bottom:7.5pt; t-i:17pt; line-height:150%; font-size: 0.90em }
+.Citatmedindrag { margin-top:0pt; margin-left:17pt; margin-bottom:0pt; t-i:17pt; line-height:150%; font-size: 0.90em }
+.CommentSubject { margin-bottom:0pt; t-i:14.2pt; line-height:normal; font-size: 0.90em; font-weight:bold }
+.CommentText { margin-bottom:0pt; t-i:14.2pt; line-height:normal; font-size: 0.90em }
+.FSHLogo { margin-top:4pt; margin-bottom:0pt; t-i:0pt; line-height:normal; font-size: 0.90em }
+.FSHNormL { margin-top:4pt; margin-bottom:0pt; t-i:0pt; line-height:15pt; border-top:1.5pt solid #000000; padding-top:3pt; font-size: 0.90em }
+.FSHNormal { margin-top:4pt; margin-bottom:0pt; t-i:0pt; line-height:15pt; font-size: 0.90em }
+.FSHNormalS5 { margin-top:11.5pt; margin-bottom:26pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-size: 0.95em; font-weight:bold }
+.FSHRub1, .Rubrik1S5 { margin-top:135pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:16pt; font-size: 1.00em }
+.FSHRub2, .Rubrik1A4 { margin-top:50pt; margin-bottom:5pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:24pt; font-size: 1.05em }
+.FSHTitel, .Dokumentrubrik { margin-top:4pt; margin-bottom:4pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:20pt; border-bottom:0.75pt solid #000000; padding-bottom:3pt; font-size: 1.05em; -aw-border-bottom:0.5pt single }
+.Footer { margin-top:4pt; margin-bottom:0pt; t-i:0pt; text-align:center; line-height:normal; font-size: 0.90em }
+.FootnoteText { margin-top:0pt; margin-bottom:0pt; t-i:0pt; line-height:12pt; font-size: 0.90em }
+.Frslagsrubrik { margin-top:41pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:19.5pt; font-family:'Verdana'; font-size: 1.05em }
+.Frslagstext, .Hemstlatt, .Yrkande { margin-top:4pt; margin-left:19.85pt; margin-bottom:0pt; t-i:-19.85pt; line-height:150%; font-size: 0.90em }
+.Header { margin-top:4pt; margin-bottom:0pt; t-i:0pt; line-height:normal; font-size: 0.90em }
+.KantRubrikS5H { margin-top:6pt; margin-right:2.85pt; margin-bottom:0pt; t-i:0pt; text-align:right; line-height:8pt; font-size: 0.90em }
+.KantRubrikS5Hrad2 { margin-top:0pt; margin-right:2.85pt; margin-bottom:0pt; t-i:0pt; text-align:right; line-height:10pt; font-size: 0.90em }
+.KantRubrikS5V { margin-top:6pt; margin-right:0pt; margin-bottom:0pt; t-i:0pt; text-align:left; line-height:8pt; font-size: 0.90em }
+.KantRubrikS5Vrad2 { margin-top:0pt; margin-right:0pt; margin-bottom:0pt; t-i:0pt; text-align:left; line-height:10pt; font-size: 0.90em }
+.KantrubrikH { margin-top:4pt; margin-right:-82.2pt; margin-bottom:0pt; t-i:0pt; text-align:right; line-height:15pt; font-size: 0.90em }
+.KantrubrikV { margin-top:4pt; margin-left:-85.05pt; margin-bottom:0pt; t-i:0pt; line-height:normal; font-size: 0.90em }
+.Klla { margin-top:0pt; margin-bottom:0pt; t-i:0pt; line-height:12pt; font-size: 0.90em }
+.Lagtext { margin-top:4pt; margin-bottom:0pt; t-i:0pt; line-height:normal; font-size: 0.90em }
+.Lagtextindrag { margin-top:4pt; margin-bottom:0pt; t-i:14.2pt; line-height:normal; font-size: 0.90em }
+.Lagtextrubrik { margin-top:4pt; margin-bottom:0pt; t-i:0pt; line-height:normal; font-size: 0.90em; font-style:italic; letter-spacing:1pt }
+.List { margin-top:7.5pt; margin-left:17pt; margin-bottom:7.5pt; t-i:-17pt; line-height:150%; font-size: 0.90em }
+.ListBullet, .PunktlistaBomb { margin-top:4pt; margin-left:14.2pt; margin-bottom:0pt; t-i:-14.2pt; line-height:150%; font-size: 0.90em }
+.ListNumber, .PunktlistaNummer { margin-top:4pt; margin-left:14.2pt; margin-bottom:0pt; t-i:-14.2pt; line-height:150%; font-size: 0.90em }
+.ListParagraph { margin-left:36pt; margin-bottom:0pt; t-i:14.2pt; line-height:150%; font-size: 0.90em }
+.ListaGemener { margin-top:7.5pt; margin-left:17pt; margin-bottom:7.5pt; t-i:-17pt; line-height:150%; font-size: 0.90em }
+.ListaLinje { margin-top:7.5pt; margin-left:17pt; margin-bottom:7.5pt; t-i:-17pt; line-height:150%; font-size: 0.90em }
+.ListaNummer { margin-top:7.5pt; margin-left:17pt; margin-bottom:7.5pt; t-i:-17pt; line-height:150%; font-size: 0.90em }
+.ListaPunkt { margin-top:7.5pt; margin-left:17pt; margin-bottom:7.5pt; t-i:-17pt; line-height:150%; font-size: 0.90em }
+.MotionTIllRiksdagen { margin-top:18pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:19.5pt; font-size: 1.05em }
+.Motionr { margin-top:14pt; margin-bottom:31.5pt; t-i:0pt; page-break-inside:avoid; line-height:15pt; font-size: 1.00em; font-weight:bold; font-style:normal }
+.Motiveringrubrik2numrerat1 { margin-top:30pt; margin-left:0pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:17pt; font-family:'Verdana'; font-size: 1.00em }
+.Motiveringrubrik3numrerat1 { margin-top:18pt; margin-left:0pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:15pt; font-family:'Verdana'; font-size: 0.90em; font-weight:bold }
+.Motiveringrubrik3numrerat11 { margin-top:18pt; margin-left:0pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:15pt; font-family:'Verdana'; font-size: 0.90em; font-weight:bold }
+.Motiveringrubrik4numrerat11 { margin-top:18pt; margin-left:0pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:15pt; font-family:'Verdana'; font-size: 0.90em; font-weight:normal; font-style:italic }
+.NormalWeb { margin-bottom:0pt; t-i:14.2pt; line-height:150%; font-family:'Verdana'; font-size: 0.90em }
+.NormalIndent { margin-left:65.2pt; margin-bottom:0pt; t-i:14.2pt; line-height:150%; font-size: 0.90em }
+.Normalutanindragellerluft { margin-top:4pt; margin-bottom:0pt; t-i:0pt; line-height:150%; font-size: 0.90em }
+.Normal00 { margin-top:4pt; margin-bottom:0pt; t-i:0pt; line-height:normal; font-size: 0.90em }
+.NormalA4fot { margin-top:12pt; margin-bottom:0pt; t-i:0pt; text-align:center; line-height:normal; font-size: 0.90em }
+.NormalA4sidnr { margin-top:4pt; margin-bottom:12pt; t-i:0pt; text-align:center; line-height:normal; font-size: 0.90em }
+.NormalS5sidnrH { margin-top:4pt; margin-right:2.85pt; margin-bottom:0pt; t-i:0pt; text-align:right; line-height:normal; font-size: 0.90em }
+.NormalS5sidnrV { margin-top:4pt; margin-right:0pt; margin-bottom:0pt; t-i:0pt; text-align:left; line-height:normal; font-size: 0.90em }
+.PlainText { margin-bottom:0pt; t-i:0pt; line-height:12pt; font-family:'Verdana'; font-size: 0.90em }
+.Quote { margin-top:7.5pt; margin-left:17pt; margin-bottom:0pt; t-i:0pt; line-height:150%; font-size: 0.90em }
+.R1 { margin-top:41pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:19.5pt; font-family:'Verdana'; font-size: 1.05em }
+.R2 { margin-top:30pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:17pt; font-family:'Verdana'; font-size: 1.00em }
+.R3 { margin-top:18pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:15pt; font-family:'Verdana'; font-size: 0.90em; font-weight:bold }
+.Rubrik1numrerat { margin-top:41pt; margin-left:0pt; margin-bottom:0pt; t-i:0pt; page-break-inside:auto; page-break-after:avoid; line-height:19.5pt; font-family:'Verdana'; font-size: 1.05em }
+.Rubrik2numrerat { margin-top:30pt; margin-left:0pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:17pt; font-family:'Verdana'; font-size: 1.00em }
+.Rubrik3numrerat { margin-top:18pt; margin-left:0pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:15pt; font-family:'Verdana'; font-size: 0.90em; font-weight:bold }
+.Rubrik4numrerat { margin-top:18pt; margin-left:0pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:15pt; font-family:'Verdana'; font-size: 0.90em; font-weight:normal; font-style:italic }
+.RubrikFrslagTIllRiksdagsbeslut { margin-top:41pt; margin-bottom:15pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:19.5pt; font-family:'Verdana'; font-size: 1.05em }
+.RubrikInnehllsf { margin-top:41pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:19.5pt; font-family:'Verdana'; font-size: 1.05em }
+.RubrikSammanf { margin-top:41pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:19.5pt; font-family:'Verdana'; font-size: 1.05em }
+.Salutation { margin-top:41pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:19.5pt; font-family:'Verdana'; font-size: 1.05em }
+.Streckkod { margin-top:12pt; margin-bottom:0pt; t-i:0pt; text-align:center; line-height:normal; font-family:IDAutomationHC39S; font-size: 1.00em }
+.Strecklista, .PunktlistaTankstreck { margin-top:4pt; margin-left:14.2pt; margin-bottom:0pt; t-i:-14.2pt; line-height:150%; font-size: 0.90em }
+.Subtitle { margin-top:4pt; margin-bottom:0pt; t-i:0pt; line-height:150%; font-family:'Verdana'; font-size: 0.90em; font-weight:bold }
+.TOC1 { margin-top:4pt; margin-bottom:0pt; t-i:0pt; line-height:150%; font-size: 0.90em }
+.TOC2 { margin-top:4pt; margin-left:14.2pt; margin-bottom:0pt; t-i:0pt; line-height:150%; font-size: 0.90em }
+.TOC3 { margin-top:4pt; margin-left:28.35pt; margin-bottom:0pt; t-i:0pt; line-height:150%; font-size: 0.90em }
+.TOC4 { margin-top:4pt; margin-left:42.55pt; margin-bottom:0pt; t-i:0pt; line-height:150%; font-size: 0.90em }
+.TOC5 { margin-top:4pt; margin-left:56.7pt; margin-bottom:0pt; t-i:0pt; line-height:150%; font-size: 0.90em }
+.TOC6 { margin-top:4pt; margin-left:56.7pt; margin-bottom:0pt; t-i:0pt; line-height:150%; font-size: 0.90em }
+.TOC7 { margin-top:15pt; margin-left:56.7pt; margin-bottom:0pt; t-i:14.2pt; page-break-inside:avoid; page-break-after:avoid; line-height:normal; font-family:'Verdana'; font-size: 0.90em; font-weight:normal; font-style:italic }
+.TOC8 { margin-top:15pt; margin-left:56.7pt; margin-bottom:0pt; t-i:14.2pt; page-break-inside:avoid; page-break-after:avoid; line-height:normal; font-family:'Verdana'; font-size: 0.90em; font-weight:normal; font-style:italic }
+.TOC9 { margin-top:15pt; margin-left:56.7pt; margin-bottom:0pt; t-i:14.2pt; page-break-inside:avoid; page-break-after:avoid; line-height:normal; font-family:'Verdana'; font-size: 0.90em; font-weight:normal; font-style:italic }
+.TOCHeading { margin-top:41pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:19.5pt; font-family:'Verdana'; font-size: 1.05em }
+.Tabellunderrubrik { margin-top:0pt; margin-bottom:0pt; t-i:0pt; page-break-after:avoid; line-height:150%; font-size: 0.90em; font-weight:normal; font-style:italic }
+.Tabellrubrik { margin-top:7.5pt; margin-bottom:0pt; t-i:0pt; page-break-after:avoid; line-height:150%; font-size: 0.90em; font-weight:bold }
+.Title { margin-top:41pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:19.5pt; font-family:'Verdana'; font-size: 1.05em }
+.Underskriftdatum { margin-top:24pt; margin-bottom:3pt; t-i:0pt; page-break-inside:avoid; line-height:15pt; font-size: 0.90em; font-style:normal }
+.Underskrifter { margin-top:15pt; margin-bottom:3pt; t-i:0pt; page-break-inside:avoid; line-height:15pt; font-size: 0.90em; font-style:italic }
+.Yrkandehnv, .Frslagspunkthnv { margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; font-size: 0.90em }
+span.BallongtextChar { font-family:'Segoe UI'; font-size: 0.90em }
+span.BeteckningChar { font-size:19.5pt }
+span.CommentReference { font-size:8pt }
+span.FSHRub2Char, span.Rubrik1A4Char { font-size:24pt }
+span.FotnotstextChar { font-size:10pt }
+span.Hyperlink { text-decoration:underline; color:#0563c1; -aw-style-name:hyperlink }
+span.InledningChar { font-family:'Verdana'; font-size: 1.05em }
+span.IntenseReference { font-weight:normal; font-style:normal; font-variant:normal; text-decoration:none; text-transform:none; letter-spacing:0pt; vertical-align:0pt; color:#000000; display:inline }
+span.KommentarerChar { font-size:10pt }
+span.KommentarsmneChar { font-size:10pt; font-weight:bold }
+span.MotionTIllRiksdagenChar { font-size:19.5pt }
+span.OformateradtextChar { font-family:'Verdana'; font-size: 0.90em }
+span.PlaceholderText { color:#f4b083 }
+span.Rubrik1Char { font-family:'Verdana'; font-size: 1.05em }
+span.Rubrik2Char { font-family:'Verdana'; font-size: 1.00em }
+span.Rubrik3Char { font-family:'Verdana'; font-size: 0.90em; font-weight:bold }
+span.Rubrik4Char { font-family:'Verdana'; font-size: 0.90em; font-style:italic }
+span.Rubrik5Char { font-family:'Verdana'; font-weight:bold }
+span.Rubrik6Char { font-family:'Verdana'; font-style:italic }
+span.Rubrik7Char { font-family:'Verdana'; font-style:italic }
+span.Rubrik8Char { font-family:'Verdana'; font-style:italic }
+span.Rubrik9Char { font-family:'Verdana'; font-style:italic }
+span.RubrikChar { font-family:'Verdana'; font-size: 1.05em }
+span.SidfotChar { font-size:11.5pt }
+span.UnderrubrikChar { font-family:'Verdana'; font-size: 0.90em; font-weight:bold }
+.TableGrid {  }
+
+.pconf{width: 450px;margin-left:5px;overflow:visable;font-family:Verdana, Geneva, sans-serif;} 
+ .sidhuvud_publikation, .sidhuvud_beteckning{font-size:133%}
+.MotionarLista {font-size:122%}
+
+--></style><div class="pconf"><span class="sidhuvud_publikation">Motion till riksdagen</span><br/>
+<span class="sidhuvud_beteckning">2025/26:2723</span><br/>
+<span class="MotionarLista">av Markus Wiechel (SD)</span><br/>
+<h1>En samhällsförberedande skola</h1>
+<hr class="sidhuvud_linje"/>
+
+
+		<div class="Section1">
+			<p class="Normalutanindragellerluft">
+				<span style="-aw-import:ignore">&#xa0;</span>
+			</p>
+			<div style="-aw-sdt-tag:'CC_Boilerplate_4'; -aw-sdt-title:'CC_Boilerplate_4'">
+				<h1 style="margin-bottom:15pt">
+					<a name="_Toc106801300"></a><a name="_Toc106800475"><span>Förslag till riksdagsbeslut</span></a>
+				</h1>
+			</div>
+			<div style="-aw-sdt-tag:'f18bd36a-c91f-4d23-bbaa-3445c487727a'; -aw-sdt-title:'Yrkande 1'">
+				<ol type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-left:14pt; t-i:0pt; padding-left:5.85pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att regeringen bör se över möjligheten till ökad kunskap om företagsamhet i skolan och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'0d0179d2-af26-4114-8f30-1d9e0a86aabd'; -aw-sdt-title:'Yrkande 2'">
+				<ol start="2" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; margin-left:14pt; t-i:0pt; padding-left:5.85pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att regeringen bör se över möjligheten att utreda möjligheten att göra entreprenörskap till obligatoriskt gymnasieämne och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'e46ca5bd-acb4-4f9c-b51d-ae6a5219eaa0'; -aw-sdt-title:'Yrkande 3'">
+				<ol start="3" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; margin-left:14pt; t-i:0pt; padding-left:5.85pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att regeringen bör se över möjligheten att utreda införandet av utbildningspraktik för högstadieelever och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'d37074bc-de2b-4c78-8925-b911399fed9e'; -aw-sdt-title:'Yrkande 4'">
+				<ol start="4" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; margin-left:14pt; t-i:0pt; padding-left:5.85pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att regeringen bör se över möjligheten att införa trafikteori i skolan och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'6197f748-ed48-457a-9b68-7862904233c5'; -aw-sdt-title:'Yrkande 5'">
+				<ol start="5" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; margin-left:14pt; t-i:0pt; padding-left:5.85pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att regeringen bör se över möjligheten att utreda en ökad undervisning med tillhörande praktik för elever i samhällsviktiga funktioner och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'5773fc4b-72c7-475a-bd01-f9ed6a7dee5a'; -aw-sdt-title:'Yrkande 6'">
+				<ol start="6" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; margin-left:14pt; t-i:0pt; padding-left:5.85pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att regeringen bör se över möjligheten till en ökad undervisning i respekt, vett och etikett samt sociala koder och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'7250d6d6-34d3-4362-b643-2f26c48365af'; -aw-sdt-title:'Yrkande 7'">
+				<ol start="7" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; margin-left:14pt; t-i:0pt; padding-left:5.85pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att regeringen bör se över möjligheten att utbilda skolelever i samhällsplikt samt öka samverkan mellan skolan och Försvarsmakten och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'aaf271f5-44f3-4021-802c-ab8a3605c61e'; -aw-sdt-title:'Yrkande 8'">
+				<ol start="8" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; margin-left:14pt; t-i:0pt; padding-left:5.85pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att regeringen bör se över en ökad verklighets- och djurnära pedagogik för svenska elever och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'200ceb59-f74b-473b-85e2-f2ce91261c4d'; -aw-sdt-title:'Yrkande 9'">
+				<ol start="9" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; margin-left:14pt; t-i:0pt; padding-left:5.85pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att regeringen bör se över möjligheten att utreda hur ökade kunskaper om arbetsrätt och arbetsmarknadens villkor på bästa sätt förs in i grundskolans utbildningsplaner, och detta tillkännager riksdagen för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'2f7713f7-187f-474b-82cb-4672bb2d8b39'; -aw-sdt-title:'Yrkande 10'">
+				<ol start="10" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; t-i:0pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att regeringen bör verka för att föra in att skolan ska förmedla den etik som förvaltats av västerländsk humanism i skollagen och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'1371b8f7-6c6e-4da0-9eee-7c6333d455fa'; -aw-sdt-title:'Yrkande 11'">
+				<ol start="11" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; t-i:0pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att regeringen bör verka för att grundskolan ska utbilda elever om artificiell intelligens och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<span style="-aw-bookmark-end:_Toc106801300">
+			</span>
+			<div style="-aw-sdt-tag:'CC_Motivering_Rubrik'; -aw-sdt-title:'CC_Motivering_Rubrik'">
+				<h1>
+					<span style="-aw-bookmark-end:_Toc106800475"></span><a name="MotionsStart"></a><a name="_Toc106801301"></a><a name="_Toc106800476"><span>Motivering</span></a>
+				</h1>
+			</div>
+			<span style="-aw-bookmark-end:_Toc106801301">
+			</span>
+			<p class="Normalutanindragellerluft">
+				<span style="-aw-bookmark-end:_Toc106800476"></span><span style="font-weight:bold">Företagsamhet i skolan</span>
+			</p>
+			<p class="Normalutanindragellerluft">
+				<span>Idag ligger arbetslösheten för unga på chockerande höga nivåer och det är i många umgängeskretsar vanligare att man är arbetslös än att man har ett jobb. Fyra av fem nya jobb kommer ifrån småföretagen och det bör därmed ses som det område som har störst potential att möjliggöra att fler får in en första fot på arbetsmarknaden. Särskilt i en tid då industrierna lämnar eller redan har lämnat Sverige behövs nya idéer inom näringslivet som också kan bli verklighet. Många unga som idag saknar jobb har just en massa idéer. Efter att just ha slutat skolan har många således också ett unikt driv som bör kunna ses som en förutsättning för dessa att skapa nya egna företag, om de bara fick chansen att testa och vågade prova på.</span>
+			</p>
+			<p class="Normalutanindragellerluft">
+				<span style="-aw-import:ignore">&#xa0;</span>
+			</p>
+			<p class="Normalutanindragellerluft">
+				<span>Idag får en stor del ungdomar chansen att testa sina idéer. Genom Ung Företag</span><span>&#xad;</span><span>samhets utbildning UF-företagande erbjuds ungdomar en möjlighet att driva ett eget företag i utbildningssyfte under ett läsår som en del av sina gymnasiestudier. Elever lyckas knyta nära kontakter med näringslivet samt träna och utveckla sin kreativitet, sin företagsamhet och sitt entreprenörskap. Många av de som påbörjat ett företag kan fortsätta efter att studierna avslutats och kanske på sikt lyckas påbörja byggandet av ett framgångsrikt företag. Även de som inte fortsätter har fått med sig kunskap ocherfarenheter som många andra saknar. Att ha kunskap om att starta upp något stort och sedan dessutom förstå företagsekonomi är enormt viktigt för dem den dag de får egna idéer eller helt enkelt har tröttnat på att sitta hemma och söka andra jobb.</span>
+			</p>
+			<p class="Normalutanindragellerluft">
+				<span style="-aw-import:ignore">&#xa0;</span>
+			</p>
+			<p class="Normalutanindragellerluft">
+				<span>Statistiken från de satsningar som har gjorts talar ett tydligt språk. Utöver självklarheter som att de som drivit UF-företag i större utsträckning startar företag anställer de också fler personer i sina företag. Deras företag har även en högre omsättning än andra och livslängden på företagen är dessutom längre. Enligt rapporten Effekter av utbildning i entreprenörskap – en långtidsstudie av UF-alumners arbetsmarknads</span><span>&#xad;</span><span>potential och företagande (2013) av Karl Wennberg och NiklasElert från näringslivets forskningsrapport Ratio får UF-företagare en högre medelinkomst under livet, blir i större utsträckning chefer och har en högre etablering på arbetsmarknaden än andra. Nästan 300 000 elever har deltagit i UF-företagandet sedan starten 1980 och hela 81 procent tycker att det har varit lärorikt och utvecklande.</span>
+			</p>
+			<p class="Normalutanindragellerluft">
+				<span style="-aw-import:ignore">&#xa0;</span>
+			</p>
+			<p class="Normalutanindragellerluft">
+				<span>Entreprenörskap och företagande är ryggraden i den svenska ekonomin. Utan det privata företagandet och exporten av varor och tjänster skulle den offentliga sektorn snabbt hamna i finansiell kris. Trots detta faktum ser vi idag hur i princip all gymnasieutbildning tar sikte på att eleven efter examen ska försörja sig genom att ta anställning som lönearbetare, snarare än att vara entreprenör och starta eget företag. Riksdagen bör ge regeringen i uppdrag att möjliggöra ett ökat entreprenörskap och ett engagerat näringsliv i det svenska utbildningssystemet samt möjliggöra grundläggande kunskaper om hur man startar och driver ett eget företag. Detta kan bland annat ske genom att entreprenörskap införs som obligatoriskt ämne i gymnasieskolan, vilket vid godkänt betyg också skulle erbjuda F-skattsedel.</span>
+			</p>
+			<p class="Normalutanindragellerluft">
+				<span style="-aw-import:ignore">&#xa0;</span>
+			</p>
+			<p class="Normalutanindragellerluft">
+				<span style="font-weight:bold">Utbildningspraktik i högstadiet</span>
+			</p>
+			<p class="Normalutanindragellerluft">
+				<span>Att utbildningsnivån är av stor betydelse för chansen till framtida jobb för våra ungdomar är idag något de flesta håller med om. Trots detta ser vi hur många högstadieelever väljer att inte fortsätta sina studier vid gymnasiet, vilket är ett enormt problem som ofta grundar sig i en utbredd skoltrötthet alternativt att de inte vet vilken gymnasieinriktning de önskar. Det sistnämnda problemet skulle kunna åtgärdas genom att högstadieelever får chansen att göra en kortare utbildningspraktik på olika gymnasieprogram, vilket således skulle bli ett mindre avbrott från tidigare högstadiestudier.</span>
+			</p>
+			<p class="Normalutanindragellerluft">
+				<span style="-aw-import:ignore">&#xa0;</span>
+			</p>
+			<p class="Normalutanindragellerluft">
+				<span>Enligt Skolverket slutför en fjärdedel av alla gymnasieelever inte sina studier under tre år, vilket kan ha att göra med att de valt fel inriktning. Detta innebär såväl bortkastad tid för berörda elever som bortkastade resurser från samhällets sida. När fler får chansen att känna av vilka möjligheter som erbjuds i olika gymnasieprogram blir inriktningsvalet något lättare, vilket medför fortsatt utbildning samtidigt som de kan få ny energi till fortsatta studier. Regeringen bör arbeta med att införa utbildningspraktik för elever i högstadiet.</span>
+			</p>
+			<p class="Normalutanindragellerluft">
+				<span style="-aw-import:ignore">&#xa0;</span>
+			</p>
+			<p class="Normalutanindragellerluft">
+				<span style="font-weight:bold">Trafikteori i skolan</span>
+			</p>
+			<p class="Normalutanindragellerluft">
+				<span>Trafikteori i skolan finns för flera elever som individuellt val. Det är dock inte alla som har den möjligheten, trots att vi lever i ett samhälle där vi alla behöver ha en god möjlighet att förflytta oss. Oavsett om vi kör bil eller inte måste vi förhålla oss till trafiken och till olika trafiksituationer. Idag tar man ofta för givet att de regler som råder skulle vara självklara, och det kan lätt uppstå missförstånd i samband med en speciell situation. Alla vuxna människor bör ha grundläggande kunskap kring trafiksäkerhet för att kunna spara fler liv i trafiken. Riskmedvetenheten och respekten för alla faror som medföljer i trafiken måste öka för att få fler att visa hänsyn och följa rådande regler.</span>
+			</p>
+			<p class="Normalutanindragellerluft">
+				<span style="-aw-import:ignore">&#xa0;</span>
+			</p>
+			<p class="Normalutanindragellerluft">
+				<span>Inte minst gående eller cyklister behöver veta vad som gäller vid övergångsställen och när man är ute och promenerar eller cyklar i närheten av en väg. Många trafikolyckor sker helt i onödan vid övergångsställen och cykelöverfarter på grund av bristande uppmärksamhet och förmåga till samspel mellan de olika trafikantgrupperna. Samtliga bör följa trafikens grundregel om att göra vad man kan för att förhindra att någon skadas i trafiken.</span>
+			</p>
+			<p class="Normalutanindragellerluft">
+				<span style="-aw-import:ignore">&#xa0;</span>
+			</p>
+			<p class="Normalutanindragellerluft">
+				<span>Förr kunde vem som helst införskaffa en så kallad klass två-moped utan att behöva någon form av förarbevis eller körkort. Idag krävs tester, som är förhållandevis enkla och lika gärna kunde finnas med under skoltiden. En enkel åtgärd för att möjliggöra mer frihet för eleverna. De som läser trafikteori under skoltid får även goda möjligheter att framöver ta körkort, vilket ökar möjligheten till framtida jobb. Dessutom kan fler få en morot att studera vidare i en tid då många är skoltrötta och väljer att avsluta sina studier. Riksdagen bör ge regeringen i uppgift att ta fram förslag till hur trafiksäkerhet och grundläggande trafikteori kan föras in i skolan.</span>
+			</p>
+			<p class="Normalutanindragellerluft">
+				<span style="-aw-import:ignore">&#xa0;</span>
+			</p>
+			<p class="Normalutanindragellerluft">
+				<span>Utbildning i vett och etikett, sociala koder och samhällsbyggande funktioner</span>
+			</p>
+			<p class="Normalutanindragellerluft">
+				<span>Att lära sig vett och etikett, sociala koder och social samvaro kan tyckas vara en ganska liten del när barn och ungdomar växer upp. Det är dock betydligt viktigare än vad man kan tro, inte minst då dessa så småningom ska ut i arbetslivet och förstå sig på vårt gemensamma samhällsbygge. Vikten av att vara delaktig i detta bygge och dessutom förstå vikten av ömsesidig respekt kan vara avgörande för att vår välfärd ska fungera väl men även för att våra medmänniskor ska lära sig vikten av solidaritet när densamma fallerar.</span>
+			</p>
+			<p class="Normalutanindragellerluft">
+				<span style="-aw-import:ignore">&#xa0;</span>
+			</p>
+			<p class="Normalutanindragellerluft">
+				<span>Tyvärr har vi fått se ett allt mer förhärdat klimat i och omkring våra barns och ungdomars uppväxt. Vi ser hur en tuffare attityd blir allt mer tydlig och hur hårda ord inom skolans värld blivit allt mer påtagliga. Likväl har vi sett hur respekten mellan elever och mellan elever och lärare blivit allt sämre. Även om grunden för att fostra och lära sina barn respekt främst ligger på vårdnadshavare är skolan ett bra forum för att i praktiken pröva barnens förmåga samt följa upp och se hur detta löper framöver. Med aktiva elever i ett tidigt stadium kan således också fler av dessa i ett tidigt stadium finna vad de har för yrkesambition i framtiden.</span>
+			</p>
+			<p class="Normalutanindragellerluft">
+				<span style="-aw-import:ignore">&#xa0;</span>
+			</p>
+			<p class="Normalutanindragellerluft">
+				<span>Vi människor påverkas på fler sätt idag jämfört med hur det sett ut historiskt. Tack vare, eller på grund av, internet och sociala medier har de sociala förmågorna i många fall fallit undan. Detta ställer högre krav på oss att aktivt lära ut hur vi ska förhålla oss till varandra. Grundförutsättningarna för social samvaro är dock desamma som förr då vi måste klara av att visa varandra respekt och empati. Grundförutsättningarna för viktiga samhällsfunktioner är likaså desamma som förr. Vi är fortfarande beroende av funktioner såsom brandkår, polis och räddningstjänst. Vi kommer fortsatt att behöva läkare, sjuksköterskor och vårdbiträden. Genom att kombinera grundläggande kunskaper i social samvaro, samhällsviktiga funktioner och andra viktiga delar av samhället skapar vi således en gemenskap och förståelse som är ovärderlig. Av den anledningen krävs ytterligare satsningar i skolan för att stärka dessa band. Såväl elever tjänar på detta långsiktigt som samhället som idag är i behov av såväl fler händer inom dessa funktioner som framtida medarbetare. Regeringen bör vidta åtgärder för ökad undervisning med tillhörande praktik för elever i samhällsviktiga funktioner såsom äldreomsorg, polis, brandkår och sjukvård. Regeringen bör även vidta åtgärder för ökad undervisning i respekt, vett och etikett samt sociala koder.</span>
+			</p>
+			<p class="Normalutanindragellerluft">
+				<span style="-aw-import:ignore">&#xa0;</span>
+			</p>
+			<p class="Normalutanindragellerluft">
+				<span style="font-weight:bold">Utbildning i samhällsplikt</span>
+			</p>
+			<p class="Normalutanindragellerluft">
+				<span>I Sverige råder det soldatbrist och många medborgare oroas dessutom över att landet saknar ett fullgott försvar i det fall en mäktig motståndare skulle anfalla. Likaså oroas allt fler inför de konflikter som sprider sig runt om i världen, vilket är en extra stor utmaning för försvaret, då det sedan 2012 är dess uppgift att värva nya soldater. Det är tydligt att mer behöver göras för att locka skolelevers vilja att bli soldater och att engagera sig för vårt lands försvar, och försvarets budget används inte bäst genom att annonsera för att försöka locka nya krafter till dess verksamhet. Att locka nya rekryter behöver inte vara alltför svårt och det behöver inte heller bli så komplicerat om man inför ett nytt ämne i högstadie- eller gymnasieskolan där annan allmän fostran också inkluderas.</span>
+			</p>
+			<p class="Normalutanindragellerluft">
+				<span style="-aw-import:ignore">&#xa0;</span>
+			</p>
+			<p class="Normalutanindragellerluft">
+				<span>Framförallt våra äldre generationer kan vittna om att värnplikten har lärt dem en hel del om fostran och hur man för sig och helt enkelt har inneburit en viktig del i mognadsprocessen. Man har jämfört det med en utveckling av konfirmationen, som haft en fostrande roll där man lärt sig om s.k. vett och etikett. I samband med att färre konfirmerar sig och att värnplikten avskaffats har dessa viktiga delar som bidragit till att samhället knutits ihop tyvärr försvunnit. Att man reser sig för äldre inom kollektiv</span><span>&#xad;</span><span>trafiken eller andra exempel på hur man bör uppföra sig bland folk är underskattat. Det handlar trots allt om respekt och det handlar om hur man förhåller sig till sina medmänniskor. Detta är exempel som skulle kunna återkomma i skolvärlden om samarbetet mellan skolans värld och försvaret blev starkare.</span>
+			</p>
+			<p class="Normalutanindragellerluft">
+				<span style="-aw-import:ignore">&#xa0;</span>
+			</p>
+			<p class="Normalutanindragellerluft">
+				<span>Genom att införa ett nytt ämne som fokuserar på civilförsvaret kan man öka viljan hos fler elever att engagera sig för vårt lands försvar. Skolan bör engagera sina elever i försvaret och därför kan både kontakten mellan gymnasieskolor och försvaret öka ytterligare så att exempelvis försvaret kan visa vilka möjligheter som finns och så att eleverna ser nya alternativ på arbetsmarknaden efter avslutade studier. Samtliga elever kan exempelvis bjudas in till den årliga försvarets dag som en integrerad del av gymnasieutbildningen. Genom att utbildningar i Försvarsmakten också integreras i det civila livet kan dessa bli mer attraktiva, vilket också ökar chansen att fler väljer att ansluta sig till försvaret.</span>
+			</p>
+			<p class="Normalutanindragellerluft">
+				<span style="-aw-import:ignore">&#xa0;</span>
+			</p>
+			<p class="Normalutanindragellerluft">
+				<span>Riksdagen bör ge regeringen ett tydligt uppdrag att verka för försvarsvänliga kurser i gymnasieskolan där samhällsplikt lärs ut samt för att samverkan mellan försvaret och gymnasieskolan utvecklas ytterligare i enlighet med intentionerna i motionen.</span>
+			</p>
+			<p class="Normalutanindragellerluft">
+				<span style="-aw-import:ignore">&#xa0;</span>
+			</p>
+			<p class="Normalutanindragellerluft">
+				<span style="font-weight:bold">Utbildning i djurskydd och umgänge med djur</span>
+			</p>
+			<p class="Normalutanindragellerluft">
+				<span>Det finns flera exempel runt om i världen där barn och ungdomar i ett tidigt stadium får chansen att umgås med djur samt ta hand om dessa. De får i ett tidigt stadium chansen att utforska och lära sig om livet samt ta hand om djur från att de är små till eventuell slakt. Djur är mer än böcker och saker, de är levande varelser som i varierande utsträckning kommunicerar med sin omgivning. De föds, äter, sover, leker, parar sig och dör, precis som människor. Man har använt sig av djur i undervisningen just för att barn i låga åldrar tidigt kan lära sig vikten av respekt och vikten av att behandla andra levande varelser väl. Utöver ett långsiktigt moraliskt perspektiv kan närheten till djur vara viktig för barn som har mycket att säga men inte vill säga det till en människa. Detta är ett av skälen till att djur ibland används i terapisyften.</span>
+			</p>
+			<p class="Normalutanindragellerluft">
+				<span style="-aw-import:ignore">&#xa0;</span>
+			</p>
+			<p class="Normalutanindragellerluft">
+				<span>Det finns som bekant olika verksamheter som kan agera föredömen för barn i låga åldrar. Shiloh Israel Childrens Fund är ett exempel på ett initiativ som stöttar en verksamhet där barn från tidig ålder får vara med om att ta hand om olika sorters djur (allt ifrån getter till höns och kaniner). Från grunden lär de känna djuren som sina vänner och de får från grunden vara med om renhållning, matning och annan skötsel av djuren. För dessa blir det inte bara terapi eller hur man sköter gårds- och husdjur utan även ökad kunskap om biologi och en gedigen lektion i sund djurhållning. Genom att kombinera utbildningsinsatser med praktik bör regeringen återkomma med förslag som syftar till att en verklighets- och djurnära pedagogik ökar i Sveriges skolor.</span>
+			</p>
+			<p class="Normalutanindragellerluft">
+				<span style="-aw-import:ignore">&#xa0;</span>
+			</p>
+			<p class="Normalutanindragellerluft">
+				<span style="font-weight:bold">Utbildning om arbetsrätt och arbetsmarknadens villkor</span>
+			</p>
+			<p class="Normalutanindragellerluft">
+				<span>Ända sedan den allmänna skolan infördes och de första läroplanerna togs fram har dess syfte och utbildningens innehåll varit ämnen för diskussion. Klart är att skolan ska förbereda unga medborgare för livet i vuxenvärlden genom att ge sakkunskap inom olika områden, bred allmänbildning, möjlighet till fördjupad kunskapsinlärning och guidning inför framtida utbildnings- och yrkesval. Inom ramen för i första hand ämnena samhällskunskap, idrott och hälsa samt hem- och konsumentkunskap ges också utbildning i sådana kunskaper som mer påtagligt påverkar privatlivet.</span>
+			</p>
+			<p class="Normalutanindragellerluft">
+				<span style="-aw-import:ignore">&#xa0;</span>
+			</p>
+			<p class="Normalutanindragellerluft">
+				<span>I den senaste uppdateringen av grundskolans läroplan, Lgr 11, gavs kunskaper om just privatekonomi och konsumenträtt mer utrymme. Detta bör anses välkommet, inte minst mot bakgrund av de senaste årens rapporter om ungas skuldsättning. Samtidigt är det relativt enkelt att identifiera ytterligare behov av kunskaper som förbereder för livet efter skolan.</span>
+			</p>
+			<p class="Normalutanindragellerluft">
+				<span style="-aw-import:ignore">&#xa0;</span>
+			</p>
+			<p class="Normalutanindragellerluft">
+				<span>Störst är kanske behovet avseende klivet ut på arbetsmarknaden. Kunskap om att söka arbete, att skriva cv och personligt brev samt att utvärdera den egna kompetensen bör enligt oss tydligt ingå i grundskolans läroplaner. Utbildning i grundläggande arbets</span><span>&#xad;</span><span>rätt, kunskap om lönesättning och träning i löneförhandling likaså. Sådana kunskaper är minst sagt avgörande för hur livet utvecklar sig när skol- och utbildningstiden är över. Sett till situationen på arbetsmarknaden finns det dessutom ett tydligt behov av att effektivisera matchningen mellan arbetssökande och arbetsgivare, vilket dessa kunskaper givetvis skulle bidra till.</span>
+			</p>
+			<p class="Normalutanindragellerluft">
+				<span style="-aw-import:ignore">&#xa0;</span>
+			</p>
+			<p class="Normalutanindragellerluft">
+				<span>I sammanhanget är det värt att nämna att sådan kompetens som nämns ovan med största sannolikhet kan bidra till ökad jämställdhet avseende ekonomiska villkor. Exempelvis antas individuell lönesättning ligga bakom en del av det generella lönegap mellan kvinnor och män som idag kan uppmätas. Denna teori stärks inte minst av forskning som pekar på att regelbundna lönesamtal, till skillnad från endast löne</span><span>&#xad;</span><span>förhandlingar, bidrar till att minska detta gap. Annan forskning bekräftar bilden av att män oftare överskattar sitt värde, medan kvinnor underskattar det. Detta påverkar givetvis utgången av löneförhandlingar, men leder till att män generellt vågar söka fler jobb än kvinnor,vilket inte osannolikt är en bidragande faktor till fördelningen mellan män och kvinnor på högre positioner inom arbetslivet. Genom att alla ungdomar ges chans att lära sig om och utveckla färdigheter i löneförhandling, självskattning och arbetssökande adresseras de orsaker som leder till klyftor snarare än att symptomen botas genom krav på kvotering eller ökad styrning av lönesättning. Dessutom nås såväl unga kvinnor som unga män, vilket gör att samtliga i behov får bättre förutsättningar istället för att könstillhörighet blir en avgörande faktor.</span>
+			</p>
+			<p style="t-i:0pt">
+				<span style="-aw-import:ignore">&#xa0;</span>
+			</p>
+			<p style="t-i:0pt">
+				<span style="font-weight:bold">Västerländska värden i skolan</span>
+			</p>
+			<p style="t-i:0pt">
+				<span>I läroplanen finns det en formulering om att skolan ska förmedla värden som överensstämmer med ”den etik som förvaltats av kristen tradition och västerländsk humanism”. Västerländsk humanism har sina rötter i renässansen, en tid då tänkandet och kulturen började att förändras dramatiskt i Västeuropa. Under denna period återuppväcktes intresset för antikens filosofi och vetenskap, vilket ledde till ett fokus på människans potential och värdighet. Denna humanistiska fokusering på individen och dess förmåga att resonera och utvecklas lade grunden för en rad sociala, politiska och kulturella framsteg i hela västvärlden.</span>
+			</p>
+			<p style="t-i:0pt">
+				<span style="-aw-import:ignore">&#xa0;</span>
+			</p>
+			<p style="t-i:0pt">
+				<span>Framväxten av humanismen under renässansen bidrog till utvecklingen av demokratin, med en stark betoning på individens rättigheter och friheter. Upplysningstidens idéer om jämlikhet, rättvisa och förnuft resulterade i de moderna demokratiska samhällssystem vi ser idag. Dessa idéer har främjat vetenskapliga upptäckter, teknologiska framsteg och kulturell utveckling, vilket har lett till förbättringar inom inte minst hälsa, utbildning och livskvalitet.</span>
+			</p>
+			<p style="t-i:0pt">
+				<span style="-aw-import:ignore">&#xa0;</span>
+			</p>
+			<p style="t-i:0pt">
+				<span>Att skriva in värden baserade på västerländsk humanism i skollagen är viktigt eftersom dessa värden erbjuder en moralisk och etisk grund som kan främja demokrati och individens värdighet i utbildningssystemet. För det första betonar västerländsk humanism vikten av kritiskt tänkande och personlig utveckling, grundläggande beståndsdelar i en utbildning som förbereder studenter för en komplex värld. Genom att integrera dessa värderingar i skollagen, kan vi säkerställa att utbildningen inte bara handlar om akademisk kunskap, utan även formar elever till medvetna, empatiska och ansvarstagande medborgare. </span>
+			</p>
+			<p style="t-i:0pt">
+				<span style="-aw-import:ignore">&#xa0;</span>
+			</p>
+			<p style="t-i:0pt">
+				<span>Att införliva värden från västerländsk humanism i skollagen skulle tydligt visa att vårt land både respekterar individen och samtidigt främjar ett demokratiskt och etiskt samhälle. Detta skulle ge en fast grund för att förbereda framtida generationer för ett liv där de kan bidra positivt till samhället, samtidigt som de är väl rustade att möta framtida utmaningar med reflektion och integritet. Regeringen bör därför föra in att skolan ska förmedla den etik som förvaltats av västerländsk humanism i skollagen.</span>
+			</p>
+			<p style="t-i:0pt">
+				<span style="-aw-import:ignore">&#xa0;</span>
+			</p>
+			<p style="t-i:0pt">
+				<span style="font-weight:bold">AI-utbildning inom grundskolan</span>
+			</p>
+			<p style="t-i:0pt">
+				<span>Under de senaste åren har artificiell intelligens (AI) gjort enastående framsteg och blivit en viktig del av vår vardag. Från självkörande bilar och virtuella assistenter till avancerad medicinsk diagnostik och automatiserade beslutsfattande system, har AI visat sin potential att förändra samt effektivisera industrier och förbättra livskvaliteten. Tekniken utvecklas i en rasande takt, tack vare framsteg inom maskininlärning, datorkraft och tillgången till stora mängder data.</span>
+			</p>
+			<p style="t-i:0pt">
+				<span style="-aw-import:ignore">&#xa0;</span>
+			</p>
+			<p style="t-i:0pt">
+				<span>Trots denna positiva utveckling medför AI också utmaningar och samhälleliga frågor. Integritetsfrågor, säkerhet, arbetsmarknadens förändringar och etiska överväganden kring autonoma beslut är bara några av de aktuella problem som uppstår i takt med att AI-tekniken integreras mer i våra liv. Dessa aspekter visar på vikten av att inte bara utnyttja möjligheterna, utan även förstå och hantera konsekvenserna av AI på ett ansvarsfullt sätt.</span>
+			</p>
+			<p style="t-i:0pt">
+				<span style="-aw-import:ignore">&#xa0;</span>
+			</p>
+			<p style="t-i:0pt">
+				<span>Att inkludera undervisning om AI i grundskolan är därför avgörande av flera anledningar. För det första, genom att utbilda unga elever i AI och dess funktioner, förbereder vi dem för en framtid där teknologin kommer att spela en central roll i nästan alla aspekter av deras liv. En grundläggande förståelse för AI kan ge dem verktyg att navigera och använda tekniken på ett sätt som gynnar dem själva och samhället.</span>
+			</p>
+			<p style="t-i:0pt">
+				<span style="-aw-import:ignore">&#xa0;</span>
+			</p>
+			<p style="t-i:0pt">
+				<span>För det andra, undervisning om AI kan bidra till att minska den digitala klyftan. Genom att göra teknisk utbildning tillgänglig för alla elever, oavsett socioekonomisk bakgrund, kan vi säkerställa att fler människor har möjlighet att delta i och bidra till den digitala ekonomin. Detta är särskilt viktigt i en värld där teknikrelaterade färdigheter blir alltmer värdefulla.</span>
+			</p>
+			<p style="t-i:0pt">
+				<span style="-aw-import:ignore">&#xa0;</span>
+			</p>
+			<p style="t-i:0pt">
+				<span>Vidare kan en tidig utbildning om AI uppmuntra kritiskt tänkande kring etiska frågor och ansvarsfull användning av teknik. Eleverna får chans att diskutera och reflektera över de moraliska och samhälleliga implikationerna av AI, vilket i sin tur kan leda till en mer medveten och informerad framtida generation som kan hantera de komplexa problem som AI-tekniken medför.</span>
+			</p>
+			<p style="t-i:0pt">
+				<span style="-aw-import:ignore">&#xa0;</span>
+			</p>
+			<p style="t-i:0pt">
+				<span>Regeringen bör säkerställa att samtliga elever inom grundskolan framöver genomgår utbildning om AI.</span>
+			</p>
+			<div style="-aw-sdt-tag:'CC_Underskrifter'; -aw-sdt-title:'CC_Underskrifter'">
+				<p>
+					<span style="-aw-import:ignore">&#xa0;</span>
+				</p>
+				<p>
+					<span style="-aw-import:ignore">&#xa0;</span>
+				</p>
+			</div>
+			<table cellspacing="0" cellpadding="0" style="width:100%; border-collapse:collapse">
+				<tr style="page-break-inside:avoid">
+					<td style="width:1%; padding-right:5.4pt; padding-left:5.4pt; vertical-align:bottom">
+						<p class="Underskrifter" style="margin-bottom:0pt">
+							<span>Markus Wiechel (SD)</span>
+						</p>
+					</td>
+					<td style="width:1%; padding-right:5.4pt; padding-left:5.4pt; vertical-align:bottom">
+						<p class="Underskrifter" style="margin-bottom:0pt">
+							<span style="-aw-import:ignore">&#xa0;</span>
+						</p>
+					</td>
+				</tr>
+			</table>
+			<p>
+				<span style="-aw-import:ignore">&#xa0;</span>
+			</p>
+		</div>
+	</div>

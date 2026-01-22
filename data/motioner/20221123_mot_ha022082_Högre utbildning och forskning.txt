@@ -1,0 +1,430 @@
+SEARCH TERM: AI
+DOCUMENT ID: ha022082
+TITLE: Högre utbildning och forskning
+TYPE: mot
+SUBTYPE: Enskild motion
+DATE: 2022-11-23
+PARLIAMENTARY YEAR: 2022/23
+ORGANISATION: UbU
+STATUS: Klar
+DOWNLOADED: 2026-01-22 10:25:15
+================================================================================
+
+<style><!-- 
+ @page Section1 { size:595.3pt 841.9pt; margin:35.45pt 85.05pt }
+div.Section1 { page:Section1 }
+div.pconf body { t-i:17pt; line-height:15pt; font-family:'Verdana'; font-size: 0.90em }
+div.pconf h1, h2, h3, h4, h5, h6, p { margin:0pt }
+div.pconf li, table { margin-top:0pt; margin-bottom:0pt }
+div.pconf h1 { margin-top:41pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:19.5pt; font-family:'Verdana'; font-size: 1.05em; font-weight:normal; color:#000000 }
+div.pconf h2 { margin-top:30pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:17pt; font-family:'Verdana'; font-size: 1.00em; font-weight:normal; color:#000000 }
+div.pconf h3 { margin-top:18pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:17pt; font-family:'Verdana'; font-size: 0.90em; font-weight:bold; color:#000000 }
+div.pconf h4 { margin-top:18pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:17pt; font-family:'Verdana'; font-size: 0.90em; font-weight:normal; font-style:italic; color:#000000 }
+div.pconf h5 { margin-top:15pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:17pt; font-family:'Verdana'; font-size: 0.90em; font-weight:bold; font-style:normal; color:#000000 }
+div.pconf h6 { margin-top:15pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:17pt; font-family:'Verdana'; font-size: 0.90em; font-weight:normal; font-style:italic; color:#000000 }
+.Heading7 { margin-top:15pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:17pt; font-family:'Verdana'; font-size: 0.90em; font-weight:normal; font-style:italic; color:#000000; -aw-style-name:heading7 }
+.Heading8 { margin-top:15pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:17pt; font-family:'Verdana'; font-size: 0.90em; font-weight:normal; font-style:italic; color:#000000; -aw-style-name:heading8 }
+.Heading9 { margin-top:0pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:17pt; font-family:'Verdana'; font-size: 0.90em; font-weight:normal; font-style:italic; color:#000000; -aw-style-name:heading9 }
+.BalloonText { margin-bottom:0pt; t-i:17pt; line-height:normal; font-family:'Segoe UI'; font-size: 0.90em }
+.Beteckning { margin-top:18pt; margin-bottom:0pt; t-i:14.2pt; page-break-inside:auto; page-break-after:auto; line-height:19.5pt; font-size: 1.05em }
+.BlockText, .Inramatstycke { margin-right:56.7pt; margin-left:56.7pt; margin-bottom:0pt; t-i:0pt; text-align:nojustify; line-height:15pt; border:0.75pt solid #000000; padding:10pt; font-size: 0.90em; font-style:italic; -aw-border:0.25pt single }
+.Citaticitat { margin-top:7.5pt; margin-left:34pt; margin-bottom:0pt; t-i:0pt; line-height:12pt; font-size: 0.90em }
+.Citaticitatmedindrag { margin-top:0pt; margin-left:34pt; margin-bottom:7.5pt; t-i:17pt; line-height:12pt; font-size: 0.90em }
+.Citatmedindrag { margin-top:0pt; margin-left:17pt; margin-bottom:0pt; t-i:17pt; line-height:12pt; font-size: 0.90em }
+.CommentSubject { margin-bottom:0pt; t-i:17pt; line-height:normal; font-size: 0.90em; font-weight:bold }
+.CommentText { margin-bottom:0pt; t-i:17pt; line-height:normal; font-size: 0.90em }
+.FSHLogo { margin-top:4pt; margin-bottom:0pt; t-i:0pt; line-height:normal; font-size: 0.90em }
+.FSHNormL { margin-top:4pt; margin-bottom:0pt; t-i:0pt; line-height:15pt; border-top:1.5pt solid #000000; padding-top:3pt; font-size: 0.90em }
+.FSHNormal { margin-top:4pt; margin-bottom:0pt; t-i:0pt; line-height:15pt; font-size: 0.90em }
+.FSHNormalS5 { margin-top:11.5pt; margin-bottom:26pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-size: 0.95em; font-weight:bold }
+.FSHRub1, .Rubrik1S5 { margin-top:135pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:16pt; font-size: 1.00em }
+.FSHRub2, .Rubrik1A4 { margin-top:50pt; margin-bottom:5pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:24pt; font-size: 1.05em }
+.FSHTitel, .Dokumentrubrik { margin-top:4pt; margin-bottom:4pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:20pt; border-bottom:0.75pt solid #000000; padding-bottom:3pt; font-size: 1.05em; -aw-border-bottom:0.5pt single }
+.Footer { margin-top:4pt; margin-bottom:0pt; t-i:0pt; text-align:center; line-height:normal; font-size: 0.90em }
+.FootnoteText { margin-top:0pt; margin-bottom:0pt; t-i:0pt; line-height:12pt; font-size: 0.90em }
+.Frslagsrubrik { margin-top:41pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:19.5pt; font-family:'Verdana'; font-size: 1.05em }
+.Frslagstext, .Hemstlatt, .Yrkande { margin-top:4pt; margin-left:19.85pt; margin-bottom:0pt; t-i:-19.85pt; line-height:15pt; font-size: 0.90em }
+.Header { margin-top:4pt; margin-bottom:0pt; t-i:0pt; line-height:normal; font-size: 0.90em }
+.KantRubrikS5H { margin-top:6pt; margin-right:2.85pt; margin-bottom:0pt; t-i:0pt; text-align:right; line-height:8pt; font-size: 0.90em }
+.KantRubrikS5Hrad2 { margin-top:0pt; margin-right:2.85pt; margin-bottom:0pt; t-i:0pt; text-align:right; line-height:10pt; font-size: 0.90em }
+.KantRubrikS5V { margin-top:6pt; margin-right:0pt; margin-bottom:0pt; t-i:0pt; text-align:left; line-height:8pt; font-size: 0.90em }
+.KantRubrikS5Vrad2 { margin-top:0pt; margin-right:0pt; margin-bottom:0pt; t-i:0pt; text-align:left; line-height:10pt; font-size: 0.90em }
+.KantrubrikH { margin-top:4pt; margin-right:-82.2pt; margin-bottom:0pt; t-i:0pt; text-align:right; line-height:15pt; font-size: 0.90em }
+.KantrubrikV { margin-top:4pt; margin-left:-85.05pt; margin-bottom:0pt; t-i:0pt; line-height:normal; font-size: 0.90em }
+.Klla { margin-top:0pt; margin-bottom:0pt; t-i:0pt; line-height:12pt; font-size: 0.90em }
+.Lagtext { margin-top:4pt; margin-bottom:0pt; t-i:0pt; line-height:normal; font-size: 0.90em }
+.Lagtextindrag { margin-top:4pt; margin-bottom:0pt; t-i:14.2pt; line-height:normal; font-size: 0.90em }
+.Lagtextrubrik { margin-top:4pt; margin-bottom:0pt; t-i:0pt; line-height:normal; font-size: 0.90em; font-style:italic; letter-spacing:1pt }
+.List { margin-top:7.5pt; margin-left:17pt; margin-bottom:7.5pt; t-i:-17pt; line-height:15pt; font-size: 0.90em }
+.ListBullet, .PunktlistaBomb { margin-top:4pt; margin-left:14.2pt; margin-bottom:0pt; t-i:-14.2pt; line-height:15pt; font-size: 0.90em }
+.ListNumber, .PunktlistaNummer { margin-top:4pt; margin-left:14.2pt; margin-bottom:0pt; t-i:-14.2pt; line-height:15pt; font-size: 0.90em }
+.ListParagraph { margin-left:36pt; margin-bottom:0pt; t-i:17pt; line-height:15pt; font-size: 0.90em }
+.ListaGemener { margin-top:7.5pt; margin-left:17pt; margin-bottom:7.5pt; t-i:-17pt; line-height:15pt; font-size: 0.90em }
+.ListaLinje { margin-top:7.5pt; margin-left:19pt; margin-bottom:7.5pt; t-i:-19pt; line-height:15pt; font-size: 0.90em }
+.ListaNummer { margin-top:7.5pt; margin-left:17pt; margin-bottom:7.5pt; t-i:-17pt; line-height:15pt; font-size: 0.90em }
+.ListaPunkt { margin-top:7.5pt; margin-left:17pt; margin-bottom:7.5pt; t-i:-17pt; line-height:15pt; font-size: 0.90em }
+.MotionTIllRiksdagen { margin-top:18pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:19.5pt; font-size: 1.05em }
+.Motionr { margin-top:14pt; margin-bottom:31.5pt; t-i:0pt; page-break-inside:avoid; line-height:15pt; font-size: 1.00em; font-weight:bold; font-style:normal }
+.NormalIndent { margin-left:65.2pt; margin-bottom:0pt; t-i:17pt; line-height:15pt; font-size: 0.90em }
+.Normalutanindragellerluft { margin-top:4pt; margin-bottom:0pt; t-i:0pt; line-height:15pt; font-size: 0.90em }
+.Normal00 { margin-top:4pt; margin-bottom:0pt; t-i:0pt; line-height:normal; font-size: 0.90em }
+.NormalA4fot { margin-top:12pt; margin-bottom:0pt; t-i:0pt; text-align:center; line-height:normal; font-size: 0.90em }
+.NormalA4sidnr { margin-top:4pt; margin-bottom:12pt; t-i:0pt; text-align:center; line-height:normal; font-size: 0.90em }
+.NormalS5sidnrH { margin-top:4pt; margin-right:2.85pt; margin-bottom:0pt; t-i:0pt; text-align:right; line-height:normal; font-size: 0.90em }
+.NormalS5sidnrV { margin-top:4pt; margin-right:0pt; margin-bottom:0pt; t-i:0pt; text-align:left; line-height:normal; font-size: 0.90em }
+.PlainText { margin-bottom:0pt; t-i:0pt; line-height:12pt; font-family:'Verdana'; font-size: 0.90em }
+.Quote { margin-top:7.5pt; margin-left:17pt; margin-bottom:0pt; t-i:0pt; line-height:12pt; font-size: 0.90em }
+.R1 { margin-top:41pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:19.5pt; font-family:'Verdana'; font-size: 1.05em }
+.R2 { margin-top:30pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:17pt; font-family:'Verdana'; font-size: 1.00em }
+.R3 { margin-top:18pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:17pt; font-family:'Verdana'; font-size: 0.90em; font-weight:bold }
+.Rubrik1numrerat { margin-top:41pt; margin-left:0pt; margin-bottom:0pt; t-i:0pt; page-break-inside:auto; page-break-after:avoid; line-height:19.5pt; font-family:'Verdana'; font-size: 1.05em }
+.Rubrik2numrerat { margin-top:30pt; margin-left:0pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:17pt; font-family:'Verdana'; font-size: 1.00em }
+.Rubrik3numrerat { margin-top:18pt; margin-left:0pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:17pt; font-family:'Verdana'; font-size: 0.90em; font-weight:bold }
+.Rubrik4numrerat { margin-top:18pt; margin-left:0pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:17pt; font-family:'Verdana'; font-size: 0.90em; font-weight:normal; font-style:italic }
+.RubrikFrslagTIllRiksdagsbeslut { margin-top:41pt; margin-bottom:15pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:19.5pt; font-family:'Verdana'; font-size: 1.05em }
+.RubrikInnehllsf { margin-top:41pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:19.5pt; font-family:'Verdana'; font-size: 1.05em }
+.RubrikSammanf { margin-top:41pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:19.5pt; font-family:'Verdana'; font-size: 1.05em }
+.Salutation { margin-top:41pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:19.5pt; font-family:'Verdana'; font-size: 1.05em }
+.Streckkod { margin-top:12pt; margin-bottom:0pt; t-i:0pt; text-align:center; line-height:normal; font-family:IDAutomationHC39S; font-size: 1.00em }
+.Strecklista, .PunktlistaTankstreck { margin-top:4pt; margin-left:14.2pt; margin-bottom:0pt; t-i:-14.2pt; line-height:15pt; font-size: 0.90em }
+.Subtitle { margin-top:4pt; margin-bottom:0pt; t-i:0pt; line-height:15pt; font-family:'Verdana'; font-size: 0.90em; font-weight:bold }
+.TOC1 { margin-top:4pt; margin-bottom:0pt; t-i:0pt; line-height:15pt; font-size: 0.90em }
+.TOC2 { margin-top:4pt; margin-left:14.2pt; margin-bottom:0pt; t-i:0pt; line-height:15pt; font-size: 0.90em }
+.TOC3 { margin-top:4pt; margin-left:28.35pt; margin-bottom:0pt; t-i:0pt; line-height:15pt; font-size: 0.90em }
+.TOC4 { margin-top:4pt; margin-left:42.55pt; margin-bottom:0pt; t-i:0pt; line-height:15pt; font-size: 0.90em }
+.TOC5 { margin-top:4pt; margin-left:56.7pt; margin-bottom:0pt; t-i:0pt; line-height:15pt; font-size: 0.90em }
+.TOC6 { margin-top:4pt; margin-left:56.7pt; margin-bottom:0pt; t-i:0pt; line-height:15pt; font-size: 0.90em }
+.TOC7 { margin-top:15pt; margin-left:56.7pt; margin-bottom:0pt; t-i:14.2pt; page-break-inside:avoid; page-break-after:avoid; line-height:normal; font-family:'Verdana'; font-size: 0.90em; font-weight:normal; font-style:italic }
+.TOC8 { margin-top:15pt; margin-left:56.7pt; margin-bottom:0pt; t-i:14.2pt; page-break-inside:avoid; page-break-after:avoid; line-height:normal; font-family:'Verdana'; font-size: 0.90em; font-weight:normal; font-style:italic }
+.TOC9 { margin-top:15pt; margin-left:56.7pt; margin-bottom:0pt; t-i:14.2pt; page-break-inside:avoid; page-break-after:avoid; line-height:normal; font-family:'Verdana'; font-size: 0.90em; font-weight:normal; font-style:italic }
+.TOCHeading { margin-top:41pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:19.5pt; font-family:'Verdana'; font-size: 1.05em }
+.Tabellunderrubrik { margin-top:0pt; margin-bottom:0pt; t-i:0pt; page-break-after:avoid; line-height:15pt; font-size: 0.90em; font-weight:normal; font-style:italic }
+.Tabellrubrik { margin-top:7.5pt; margin-bottom:0pt; t-i:0pt; page-break-after:avoid; line-height:15pt; font-size: 0.90em; font-weight:bold }
+.Title { margin-top:41pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:19.5pt; font-family:'Verdana'; font-size: 1.05em }
+.Underskriftdatum { margin-top:24pt; margin-bottom:3pt; t-i:0pt; page-break-inside:avoid; line-height:15pt; font-size: 0.90em; font-style:normal }
+.Underskrifter { margin-top:15pt; margin-bottom:3pt; t-i:0pt; page-break-inside:avoid; line-height:15pt; font-size: 0.90em; font-style:italic }
+.Yrkandehnv, .Frslagspunkthnv { margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; font-size: 0.90em }
+span.BallongtextChar { font-family:'Segoe UI'; font-size: 0.90em }
+span.BeteckningChar { font-size:19.5pt }
+span.CommentReference { font-size:8pt }
+span.FSHRub2Char, span.Rubrik1A4Char { font-size:24pt }
+span.FootnoteReference { vertical-align:super }
+span.FotnotstextChar { font-size:10pt }
+span.Hyperlink { text-decoration:underline; color:#0563c1; -aw-style-name:hyperlink }
+span.InledningChar { font-family:'Verdana'; font-size: 1.00em; font-weight:bold }
+span.IntenseReference { font-weight:normal; font-style:normal; font-variant:normal; text-decoration:none; text-transform:none; letter-spacing:0pt; vertical-align:0pt; color:#000000; display:inline }
+span.KommentarerChar { font-size:10pt }
+span.KommentarsmneChar { font-size:10pt; font-weight:bold }
+span.MotionTIllRiksdagenChar { font-size:19.5pt }
+span.OformateradtextChar { font-family:'Verdana'; font-size: 0.90em }
+span.PlaceholderText { color:#f4b083 }
+span.Rubrik1Char { font-family:'Verdana'; font-size: 1.05em }
+span.Rubrik2Char { font-family:'Verdana'; font-size: 1.00em }
+span.Rubrik3Char { font-family:'Verdana'; font-size: 0.90em; font-weight:bold }
+span.Rubrik4Char { font-family:'Verdana'; font-size: 0.90em; font-style:italic }
+span.Rubrik5Char { font-family:'Verdana'; font-weight:bold }
+span.Rubrik6Char { font-family:'Verdana'; font-style:italic }
+span.Rubrik7Char { font-family:'Verdana'; font-size: 0.90em; font-weight:bold }
+span.Rubrik8Char { font-family:'Verdana'; font-size: 0.90em; font-weight:bold }
+span.Rubrik9Char { font-family:'Verdana'; font-size: 0.90em; font-weight:bold }
+span.RubrikChar { font-family:'Verdana'; font-size: 1.00em; font-weight:bold }
+span.SidfotChar { font-size:11.5pt }
+span.UnderrubrikChar { font-family:'Verdana'; font-size: 0.90em; font-weight:bold }
+.TableGrid {  }
+
+.pconf{width: 450px;margin-left:5px;overflow:visable;font-family:Verdana, Geneva, sans-serif;} 
+ .sidhuvud_publikation, .sidhuvud_beteckning{font-size:133%}
+.MotionarLista {font-size:122%}
+
+--></style><div class="pconf"><span class="sidhuvud_publikation">Motion till riksdagen</span><br/>
+<span class="sidhuvud_beteckning">2022/23:2082</span><br/>
+<span class="MotionarLista">av Louise Meijer m.fl. (M)</span><br/>
+<h1>Högre utbildning och forskning</h1>
+<hr class="sidhuvud_linje"/>
+
+
+		<div class="Section1">
+			<div style="-aw-sdt-tag:'CC_Boilerplate_4'; -aw-sdt-title:'CC_Boilerplate_4'">
+				<h1 style="margin-bottom:15pt">
+					<a name="_Toc106801300"></a><a name="_Toc106800475"><span>Förslag till riksdagsbeslut</span></a>
+				</h1>
+			</div>
+			<div style="-aw-sdt-tag:'59fac462-01e5-49bf-8623-eb96b6bfdf2d'; -aw-sdt-title:'Yrkande 1'">
+				<ol type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-left:14pt; t-i:0pt; padding-left:5.85pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att se över universitetsutbildningarnas kvalitetsutvärderingar och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'9c66a618-dd28-4157-b645-b1f5f2570a4f'; -aw-sdt-title:'Yrkande 2'">
+				<ol start="2" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; margin-left:14pt; t-i:0pt; padding-left:5.85pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att utbildningars kvalitet bör kunna jämföras mellan olika lärosäten och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'1dbd3e2a-3d01-485b-88c5-7e7d8c6d54da'; -aw-sdt-title:'Yrkande 3'">
+				<ol start="3" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; margin-left:14pt; t-i:0pt; padding-left:5.85pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att resurstilldelningssystemet i högre utsträckning bör utgå från kvalitet och inte kvantitet och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'28b7ae98-8c5f-4fda-9eb5-c25e3b02f033'; -aw-sdt-title:'Yrkande 4'">
+				<ol start="4" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; margin-left:14pt; t-i:0pt; padding-left:5.85pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att göra det möjligt att öka styrningen av dimensionering av utbildningar med syftet att minska antagningen till utbildningar förknippade med hög arbetslöshet och samtidigt öka antagningen till utbildningar med koppling till yrken med låg arbetslöshet, och detta tillkännager riksdagen för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'3061257b-d8b6-4235-8d25-5c773e8f1396'; -aw-sdt-title:'Yrkande 5'">
+				<ol start="5" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; margin-left:14pt; t-i:0pt; padding-left:5.85pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att den högre utbildningen bör samverka med näringslivet i högre utsträckning, för att möta behoven på arbetsmarknaden, och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'44a6658c-e6ee-4161-b06a-65f2c0459c19'; -aw-sdt-title:'Yrkande 6'">
+				<ol start="6" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; margin-left:14pt; t-i:0pt; padding-left:5.85pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att möjliggöra för fler lärosäten att ha en annan form för huvudmannaskap än en statlig myndighet och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'b32e4239-8ebf-41e9-8e81-8a0cbadf470b'; -aw-sdt-title:'Yrkande 7'">
+				<ol start="7" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; margin-left:14pt; t-i:0pt; padding-left:5.85pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att universitet och högskolor i högre grad bör differentieras och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'79e913b6-f7d9-48f7-a12b-455db6d34cef'; -aw-sdt-title:'Yrkande 8'">
+				<ol start="8" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; margin-left:14pt; t-i:0pt; padding-left:5.85pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att se över universitetsutnämningarna och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'71c80590-8c2a-48c9-9245-a385acfac0ae'; -aw-sdt-title:'Yrkande 9'">
+				<ol start="9" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; margin-left:14pt; t-i:0pt; padding-left:5.85pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att lärosätena bör ta del i om- och vidareutbildning av vuxna som vill byta karriär, och detta tillkännager riksdagen för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'40d57501-684f-40de-ad4d-3c49213eb435'; -aw-sdt-title:'Yrkande 10'">
+				<ol start="10" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; t-i:0pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att se över reglerna för skattelättnader för utländska experter, specialister, forskare och andra nyckelpersoner och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'65a77399-156f-4177-a874-65ca5964147e'; -aw-sdt-title:'Yrkande 11'">
+				<ol start="11" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; t-i:0pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att se över gränshindersproblematiken för tredjelandsmedborgare som vill bo i Sverige men arbeta i Danmark, och detta tillkännager riksdagen för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'3ff63e28-e15b-47dc-b6b9-5b12c8eb8e03'; -aw-sdt-title:'Yrkande 12'">
+				<ol start="12" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; t-i:0pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att se över reglerna för visum för utländska experter, startups och investerare och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'54dffb35-710d-4f08-b3d3-f87c3fa36fef'; -aw-sdt-title:'Yrkande 13'">
+				<ol start="13" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; t-i:0pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att forskningspolitiken i högre grad ska prioritera excellens och nyttiggörande och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'e0395805-f8e5-40fd-98b6-1d77f54191a5'; -aw-sdt-title:'Yrkande 14'">
+				<ol start="14" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; t-i:0pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att forskningspolitiken bör fördela medel strategiskt och fokuserat till universitet och högskolor och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'5af70c4e-9aa8-4439-87a1-c07350eb4d1b'; -aw-sdt-title:'Yrkande 15'">
+				<ol start="15" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; t-i:0pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att effektutvärderingar inom forskningen i högre grad bör prioritera excellens och nyttiggörande, och detta tillkännager riksdagen för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'e461b967-b085-4d97-8d66-2752ea1c1c70'; -aw-sdt-title:'Yrkande 16'">
+				<ol start="16" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; t-i:0pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att utvärdera och göra om etikprövningslagen och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<span style="-aw-bookmark-end:_Toc106801300">
+			</span>
+			<div style="-aw-sdt-tag:'CC_Motivering_Rubrik'; -aw-sdt-title:'CC_Motivering_Rubrik'">
+				<h1>
+					<span style="-aw-bookmark-end:_Toc106800475"></span><a name="MotionsStart"></a><a name="_Toc106801301"></a><a name="_Toc106800476"><span>Ökad kvalitet för bättre konkurrens</span></a>
+				</h1>
+			</div>
+			<span style="-aw-bookmark-end:_Toc106801301">
+			</span>
+			<p class="Normalutanindragellerluft">
+				<span style="-aw-bookmark-end:_Toc106800476"></span><span>Kvaliteten på de svenska universitets- och högskoleutbildningarna måste öka. Ökad kvalitet har ett egenvärde i sig men är också viktigt i förhållande till hur de svenska utbildningarna mäter sig med exempelvis Danmarks utbildningar. I Skåne väljer de svenska studenterna inte bara mellan de regionala högre utbildningar som står till buds; de väljer också mellan de danska utbildningarna. I detta val blir kvaliteten på de svenska utbildningarna särskilt viktig. </span>
+			</p>
+			<p>
+				<span>För att öka kvaliteten på universitets- och högskoleutbildningarna bör bedömningen av vad som är god kvalitet reformeras. Kvaliteten ska bedömas och utvärderas utifrån akademiska framgångar, men i bedömningen bör till exempel också ingå hur väl studenterna lyckas efter avslutad utbildning när det kommer till arbete inom examens</span><span>&#xad;</span><span>området samt antalet lärarledda timmar på utbildningen. Utgångspunkten för kvalitets</span><span>&#xad;</span><span>utvärderingarna måste vara resultatbaserad. För att enkelt kunna jämföra olika utbild</span><span>&#xad;</span><span>ningars kvalitet bör en rankinglista av utbildningar och kurser införas. Denna ranking</span><span>&#xad;</span><span>lista ska vara offentlig och tillgänglig.</span>
+			</p>
+			<h1>
+				<span>Konkurrenskraftiga och autonoma universitet och högskolor</span>
+			</h1>
+			<p class="Normalutanindragellerluft">
+				<span style="letter-spacing:-0.05pt">Resurstilldelningssystemet är idag baserat på antalet helårsstudier och helårsprestationer,</span><span> dvs. hur många studenter som klarar att prestera 60 högskolepoäng under ett läsår. Systemet premierar inte kvalitet utan snarare att studenterna ska klara sina tentor. </span>
+			</p>
+			<p>
+				<span>Kvalitet måste vara ledordet vid tilldelning av resurser. Styrningen bör utgå från vad </span><span style="letter-spacing:-0.05pt">som ska uppnås och inte hur det uppnås. På samma sätt som själva kvalitetsbedömningen</span><span> </span><span style="letter-spacing:-0.1pt">måste reformeras, måste även de parametrar som ingår i kvalitetsbedömningen vara väg</span><span style="letter-spacing:-0.1pt">&#xad;</span><span style="letter-spacing:-0.1pt">ledande</span><span> vid ersättningen till universiteten. Det handlar bland annat om anställnings</span><span>&#xad;</span><span>barheten, kopplingen mellan utbildning och näringslivet och antalet lärarledda timmar. Likaså bör det undersökas om det är möjligt att utbildningens kvalitet i en internationell jämförelse ingår i underlaget för resurstilldelningssystemet. Genom denna förändring </span><span style="letter-spacing:-0.1pt">uppnås större självbestämmande för universiteten samtidigt som styrningen effektiviseras.</span>
+			</p>
+			<p>
+				<span>Lärosätena bestämmer idag i stort sett själva över dimensioneringen av utbildning</span><span>&#xad;</span><span>arna. Utbudet ska enligt regleringsbrevet svara mot studenternas efterfrågan och arbets</span><span>&#xad;</span><span>marknadens behov. Så som beskrivits ovan baseras de statliga anslagen för utbildning på grundnivå och avancerad nivå på antalet registrerade studenter och deras poäng</span><span>&#xad;</span><span>produktion. Konsekvensen av detta blir att studenternas efterfrågan har mycket stor betydelse för dimensioneringen av utbildningen. Företrädare för arbetsmarknaden har i ljuset av detta framfört att den högre utbildningen inte i tillräckligt stor utsträckning avseende dimensioneringen tar hänsyn till arbetsmarknadens behov. I Danmark </span><span style="letter-spacing:-0.05pt">genom</span><span style="letter-spacing:-0.05pt">&#xad;</span><span style="letter-spacing:-0.05pt">fördes dimensioneringsreformer under år 2014 och detta har fått effekt på utbildningarna.</span><span> Med Danmark som föregångare bör även Sverige se över hur dimensioneringen kan förändras på så sätt att platserna på högre utbildning i större utsträckning anpassas efter </span><span style="letter-spacing:-0.05pt">arbetsmarknadens behov. Utöver detta måste den högre utbildningen i högre utsträckning</span><span> </span><span style="letter-spacing:-0.05pt">samverka med näringslivet och utbildningarna måste möta behoven på arbetsmarknaden.</span><span> Exempelvis saknas idag attraktiva utbildningar inom it som fokuserar på framtiden så som AI. </span>
+			</p>
+			<p>
+				<span>Ett flertal utredningar har berört möjligheten för lärosätena att byta juridisk form från myndigheter till exempelvis stiftelser eller en ny typ av juridisk person. Sveriges olika lärosäten skiljer sig i både förutsättningar och behov, och en omvandling av samtliga lärosäten är förmodligen varken önskvärd eller tänkbar. Däremot skulle det vara både tänkbart och möjligt att fler universitet ges möjlighet till en annan form av huvudmannaskap än statlig myndighet. </span>
+			</p>
+			<p>
+				<span>Erfarenheterna från Handelshögskolan i Stockholm, Chalmers och Jönköping visar att ett annat huvudmannaskap lett till ökad autonomi och mer självständighet för hög</span><span>&#xad;</span><span>skolorna jämfört med de lärosäten som är statliga myndigheter.</span>
+			</p>
+			<p>
+				<span>Universiteten och högskolorna måste också tydligare differentieras. Högskolorna i Sverige måste sluta att användas som i huvudsak en arbetsmarknadsåtgärd. Särskilt högskolorna bör i högre grad fokusera på yrkesutbildningar och därmed bli rena yrkes</span><span>&#xad;</span><span>högskolor. Detta skulle också gynna en mer fokuserad och differentierad forskning. Med det sagt finns det också goda exempel där högskolor lyckats väl. Ett sådant är Högskolan Kristianstad som varit framgångsrik i att få ekonomer i arbete, bland annat genom samarbete med näringslivet. Därtill måste utnämnandet av universitet ses över. Sedan 1999 har sex högskolor blivit universitet under socialdemokratiska regeringar. Gemensamt för dessa är att de vid utnämnandet låg i kommuner som styrdes av social</span><span>&#xad;</span><span>demokrater. Utnämningarna har inte sällan präglats av att experter har sagt nej till universitetsplanerna. Nästa år, 2022, kommer Mälardalens högskola att bli universitet. Detta efter att Stefan Löfven, bara några månader efter att Högsta domstolen bestämde att en amerikansk student hade rätt att återfå kursavgiften från samma högskola på grund av undermålig utbildning, lovade att det skulle bli ett universitet. 2022 kommer det finnas 18 universitet och 12 högskolor. Det finns skäl att ompröva denna fördelning och de universitetsutnämnanden som gjorts. </span>
+			</p>
+			<h1>
+				<span>Livslångt lärande</span>
+			</h1>
+			<p class="Normalutanindragellerluft">
+				<span>Vår befolkning lever allt längre och detta ställer krav på en flexibel arbetsmarknad. Det ställer också krav på ett flexibelt utbildningssystem för att kunna vidareutbilda sig och ombilda sig under senare delen av livet. Den högre utbildningen borde vara en del i denna om- och vidareutbildning. I Danmark infördes det under 2018 ett nytt utbildnings</span><span>&#xad;</span><span>program som gör det möjligt för studenter att ta en yrkesexamen (erhvervskandidat) på deltid samtidigt som de arbetar vid sidan om studierna. Med inspiration från Danmark bör även Sveriges högre utbildning hjälpa till i den omställning som ett längre arbetsliv medför. Det bör övervägas om en utredning bör tillsättas för att se på vilket sätt denna uppgift ska tilldelas lärosätena, t.ex. om det ska göras inom ramen för styrningen av lärosätena och hur detaljerad en sådan styrning ska vara.</span>
+			</p>
+			<h1>
+				<span>Konkurrenskraftig forskningsnation</span>
+			</h1>
+			<p class="Normalutanindragellerluft">
+				<span>En viktig förutsättning för Sveriges konkurrenskraft är landets förmåga att attrahera utländska experter och forskare. De tillför och sprider kompetens till det svenska samhället och bidrar genom detta till att långsiktigt stärka Sveriges styrkepositioner inom företagande, teknik, innovationer och forskning. År 2001 infördes en möjlighet till skattelättnad för utländska nyckelpersoner, den så kallade expertskatten. År 2012 kompletterades lagstiftningen med en förenklingsregel. Rapporter visar dock att expert</span><span>&#xad;</span><span>skatten i Sverige inte fungerar lika bra som i Danmark. De danska expertskattereglerna för forskare är mer generösa än de svenska. Antalet forskare och nyckelpersoner som utnyttjar expertskatten i Danmark är betydligt fler än i Sverige. I sammanhanget ska man beakta att Sverige är ett större land och har fler stora företag än Danmark. </span>
+			</p>
+			<p>
+				<span>Fristående institut med fokus på experter, forskare och specialister menar att skälen kan vara att inkomstgränsen för att ansöka om expertskatt är högre i Sverige samt att den danska expertskatten gäller under längre tid än i Sverige. För att förbättra möjlig</span><span>&#xad;</span><span>heterna att attrahera utländska experter, specialister och forskare till den svenska arbetsmarknaden och till svenska företag bör skattelättnaden för utländska experter, specialister, forskare och andra nyckelpersoner ses över – både avseende den tidsperiod som skattelättnaden kan användas och avseende den inkomstgräns som reglerar vilka som kan ansöka om skattelättnad. Sveriges konkurrenskraft är beroende av att vi kan attrahera spetskompetens.</span>
+			</p>
+			<p>
+				<span>Utöver den svenska expertskatten så finns även andra hinder för utländska forskare att vara verksamma i Sverige, nämligen gränshindersproblematiken för tredjelands</span><span>&#xad;</span><span>medborgare vid arbete och bostad i Danmark respektive Sverige. ESS i Lund har sin databasbearbetning från ESS i Köpenhamn. Det innebär för vissa att arbete och boende är förlagt till två olika länder. Forskarna och experterna kommer inte bara från EU utan </span><span style="letter-spacing:-0.05pt">också från resten av världen, tredjelandsmedborgare, och detta innebär ett nytt perspektiv</span><span> på gränshindersproblematiken i ett större perspektiv inte minst med tanke på England och brexit.</span><span>              </span>
+			</p>
+			<p>
+				<span>De svenska lagar och regler som ger förutsättningar för utländsk arbetskraft, gäst</span><span>&#xad;</span><span>forskare och sekondering är avgörande för hur framgångsrika svenska lärosäten och företag blir med att nyttja anläggningen ESS och MAX</span><span>&#xa0;</span><span>IV i Lund. Eftersom detta berör ett stort antal personer som behöver komma till Sverige för att säkra den svenska kapitaliseringen av anläggningarna, är detta av yttersta vikt. </span>
+			</p>
+			<p>
+				<span>Inom ramen för Cross Border Science and Society har delprojektet Gränshinder använt forskares tidigare erfarenhet kopplat till myndigheter för att lösa ut gräns</span><span>&#xad;</span><span>hindersfrågor. Det har i Danmark resulterat i en ny dansk lag för ESS-anställda som går under benämningen lex ESS. Det är viktigt att bygga vidare på erfarenheterna från kartläggning inom projektet och göra det enkelt och friktionsfritt för personer som rör sig över världen och kommer till ESS i Lund inom ramen för Europeiskt forsknings</span><span>&#xad;</span><span>infrastrukturkonsortium (Eric).</span>
+			</p>
+			<p>
+				<span>Internationella forskare ska vilja vara verksamma i Öresundsregionen. Då är det viktigt att attrahera och behålla kompetenta och kunniga personer som sköter och använder ESS och MAX</span><span>&#xa0;</span><span>IV. Det är en nyckelfaktor för det svenska utbytet av anläggningarna.</span>
+			</p>
+			<p>
+				<span>För att attrahera särskilda talanger till Sverige bör även våra visumregler ses över. I dag måste personer som vill arbeta i Sverige ha en anställning innan de kan resa hit för att arbeta. Att söka jobb på avstånd kan många gånger vara förenat med stora svårig</span><span>&#xad;</span><span>heter. Det bör därför införas särskilda talangvisum, så att högkvalificerade personer kan komma till Sverige och söka jobb på plats. För att dessutom underlätta för den som vill </span><span style="letter-spacing:-0.05pt">starta företag och investera här, bör det övervägas om också särskilda visum för anställda</span><span> vid exempelvis startups och investerare kan införas. Inspiration bör hämtas från andra länder, till exempel Kanada och Nederländerna.</span>
+			</p>
+			<p>
+				<span>För att stå sig i den internationella konkurrensen måste Sverige arbeta fokuserat kring forskningspolitiken och vilken inriktning man vill att forskningen i Sverige ska ha. I andra länder ser man tydligare inriktningar och prioriteringar kring forskning där excellens och relevans värderas högt. Vi tror att excellens och nyttiggörande inom forskningen går hand i hand och att sådana prioriteringar tydligare måste komma till uttryck inom ramen för forskningspolitiken. Det betyder i förlängningen att forsknings</span><span>&#xad;</span><span>medel i högre utsträckning måste tilldelas fokuserat och strategiskt till universitet och högskolor och inte smetas ut på alla dessa institutioner.</span>
+			</p>
+			<p>
+				<span>Därtill vill vi se att forskningen i högre grad präglas av effektutvärderingar. I en studie från 2010, Effektutvärderingar i doktorsavhandlingar, går det att läsa att endast 13</span><span>&#xa0;</span><span>procent av de 1</span><span>&#xa0;</span><span>402 granskade avhandlingarna inom sju vetenskapliga discipliner innehöll studier av sociala interventioners effekt. Inom pedagogik var det enbart 6</span><span>&#xa0;</span><span>procent av de granskade avhandlingarna som studerade pedagogikens effekter, och inom krimi</span><span>&#xad;</span><span>nologi var andelen noll. De granskade avhandlingarna lades fram mellan åren 1997 och 2006. Att forskningen inom socialt arbete inte inriktas på utvärdering av politiska beslut och sociala interventioner försvårar för beslutsfattare att fatta evidens</span><span>&#xad;</span><span>baserade beslut. Effektutvärderingar inom forskningen måste därför öka.</span>
+			</p>
+			<h1>
+				<span>Utvärdera och gör om etikprövningslagen</span>
+			</h1>
+			<p class="Normalutanindragellerluft">
+				<span>”I bästa fall tidsödande och byråkratiskt, i näst bästa fall komiskt, i sämsta fall absurt.” Så beskrev sociologen David Wästerfors effekterna av etikprövning i Statsvetenskaplig tidskrift (nr</span><span>&#xa0;</span><span>2/19). Etikprövningslagen är egentligen utformad för medicinsk forskning, men har allt eftersom även kommit att omfatta humanistisk och samhällsvetenskaplig forskning. Detta har medfört att forskningsfrågorna och därmed forskningen anpassas för att undslippa etikprövningen eftersom den är så tidskrävande och omständlig. Jurister måste exempelvis etikpröva forskning som hänvisar till domstolsavgöranden, trots att dessa är offentliga och persondata anonymiserade.</span><a name="_ftnref1"></a><a href="#_ftn1" style="text-decoration:none"><span class="FootnoteReference" style="font-size:8pt; color:#000000">[1]</span></a><span> Det har därtill rapporterats om ett uppmärksammat fall gällande etikprövningen avseende en artikel om våldtäkts</span><span>&#xad;</span><span>män.</span><a name="_ftnref2"></a><a href="#_ftn2" style="text-decoration:none"><span class="FootnoteReference" style="font-size:8pt; color:#000000">[2]</span></a><span> </span><span style="letter-spacing:-0.05pt">Mot bakgrund av att etikprövningslagen har utvecklats till att påverka forskningen</span><span> och den akademiska friheten negativt bör den utvärderas och göras om.</span>
+			</p>
+			<div style="-aw-sdt-tag:'CC_Underskrifter'; -aw-sdt-title:'CC_Underskrifter'">
+				<p>
+					<span style="-aw-import:ignore">&#xa0;</span>
+				</p>
+				<p>
+					<span style="-aw-import:ignore">&#xa0;</span>
+				</p>
+			</div>
+			<table cellspacing="0" cellpadding="0" style="width:100%; border-collapse:collapse">
+				<tr style="page-break-inside:avoid">
+					<td style="width:1%; padding-right:5.4pt; padding-left:5.4pt; vertical-align:bottom">
+						<p class="Underskrifter">
+							<span>Louise Meijer (M)</span>
+						</p>
+					</td>
+					<td style="width:1%; padding-right:5.4pt; padding-left:5.4pt; vertical-align:bottom">
+						<p class="Underskrifter">
+							<span>Emma Ahlström Köster (M)</span>
+						</p>
+					</td>
+				</tr>
+				<tr style="page-break-inside:avoid">
+					<td style="width:1%; padding-right:5.4pt; padding-left:5.4pt; vertical-align:bottom">
+						<p class="Underskrifter">
+							<span>Ann-Charlotte Hammar Johnsson (M)</span>
+						</p>
+					</td>
+					<td style="width:1%; padding-right:5.4pt; padding-left:5.4pt; vertical-align:bottom">
+						<p class="Underskrifter">
+							<span>Ulrika Heindorff (M)</span>
+						</p>
+					</td>
+				</tr>
+				<tr style="page-break-inside:avoid">
+					<td style="width:1%; padding-right:5.4pt; padding-left:5.4pt; vertical-align:bottom">
+						<p class="Underskrifter">
+							<span>Lars Johnsson (M)</span>
+						</p>
+					</td>
+					<td style="width:1%; padding-right:5.4pt; padding-left:5.4pt; vertical-align:bottom">
+						<p class="Underskrifter">
+							<span>Noria Manouchi (M)</span>
+						</p>
+					</td>
+				</tr>
+				<tr style="page-break-inside:avoid">
+					<td style="width:1%; padding-right:5.4pt; padding-left:5.4pt; vertical-align:bottom">
+						<p class="Underskrifter">
+							<span>Peter Ollén (M)</span>
+						</p>
+					</td>
+					<td style="width:1%; padding-right:5.4pt; padding-left:5.4pt; vertical-align:bottom">
+						<p class="Underskrifter">
+							<span>Hans Wallmark (M)</span>
+						</p>
+					</td>
+				</tr>
+				<tr style="page-break-inside:avoid">
+					<td style="width:1%; padding-right:5.4pt; padding-left:5.4pt; vertical-align:bottom">
+						<p class="Underskrifter">
+							<span>Boriana Åberg (M)</span>
+						</p>
+					</td>
+					<td style="vertical-align:top">
+					</td>
+				</tr>
+				<tr style="height:0pt">
+					<td style="width:212.6pt">
+					</td>
+					<td style="width:212.6pt">
+					</td>
+				</tr>
+			</table>
+			<p>
+				<span style="-aw-import:ignore">&#xa0;</span>
+			</p>
+		</div>
+		<hr style="width:33%; height:1px; text-align:left; -aw-footnote-numberstyle:0; -aw-footnote-startnumber:1; -aw-footnote-type:0">
+		<div id="_ftn1" style="-aw-footnote-isauto:1">
+			<p class="FootnoteText">
+				<a href="#_ftnref1" style="text-decoration:none"><span class="FootnoteReference" style="font-size:6.67pt; color:#000000">[1]</span></a><span> https://www.svd.se/a/15MR0l/lagg-ner-etikprovningarna?fbclid=IwAR2FyCR7P_ivBJqpsTjODtWVX</span><br><span>sw9E4MFHwvflq8p9ZKBvEGlSEnrCszDBn4.</span>
+			</p>
+		</div>
+		<div id="_ftn2" style="-aw-footnote-isauto:1">
+			<p class="FootnoteText">
+				<a href="#_ftnref2" style="text-decoration:none"><span class="FootnoteReference" style="font-size:6.67pt; color:#000000">[2]</span></a><span> https://universitetslararen.se/2022/02/09/flera-oklarheter-kring-artikel-om-valdtaktsman/.</span>
+			</p>
+		</div>
+	</div>

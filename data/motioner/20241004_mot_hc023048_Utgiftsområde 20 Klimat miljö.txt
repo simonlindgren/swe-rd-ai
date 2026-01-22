@@ -1,0 +1,1342 @@
+SEARCH TERM: AI
+DOCUMENT ID: hc023048
+TITLE: Utgiftsområde 20 Klimat, miljö och natur
+TYPE: mot
+SUBTYPE: Kommittémotion
+DATE: 2024-10-04
+PARLIAMENTARY YEAR: 2024/25
+ORGANISATION: MJU
+STATUS: Klar
+DOWNLOADED: 2026-01-22 10:25:08
+================================================================================
+
+<style><!-- 
+ @page Section1 { size:595.3pt 841.9pt; margin:35.45pt 85.05pt 56.7pt }
+div.Section1 { page:Section1 }
+div.pconf body { t-i:14.2pt; line-height:15pt; font-family:'Verdana'; font-size: 0.90em }
+div.pconf h1, h2, h3, h4, h5, h6, p { margin:0pt }
+div.pconf li, table { margin-top:0pt; margin-bottom:0pt }
+div.pconf h1 { margin-top:41pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:19.5pt; font-family:'Verdana'; font-size: 1.05em; font-weight:normal; color:#000000 }
+div.pconf h2 { margin-top:30pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:17pt; font-family:'Verdana'; font-size: 1.00em; font-weight:normal; color:#000000 }
+div.pconf h3 { margin-top:18pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:15pt; font-family:'Verdana'; font-size: 0.90em; font-weight:bold; color:#000000 }
+div.pconf h4 { margin-top:18pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:15pt; font-family:'Verdana'; font-size: 0.90em; font-weight:normal; font-style:italic; color:#000000 }
+div.pconf h5 { margin-top:15pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:15pt; font-family:'Verdana'; font-size: 0.90em; font-weight:bold; font-style:normal; color:#000000 }
+div.pconf h6 { margin-top:15pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:15pt; font-family:'Verdana'; font-size: 0.90em; font-weight:normal; font-style:italic; color:#000000 }
+.Heading7 { margin-top:15pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:15pt; font-family:'Verdana'; font-size: 0.90em; font-weight:normal; font-style:italic; color:#000000; -aw-style-name:heading7 }
+.Heading8 { margin-top:15pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:15pt; font-family:'Verdana'; font-size: 0.90em; font-weight:normal; font-style:italic; color:#000000; -aw-style-name:heading8 }
+.Heading9 { margin-top:0pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:15pt; font-family:'Verdana'; font-size: 0.90em; font-weight:normal; font-style:italic; color:#000000; -aw-style-name:heading9 }
+.BalloonText { margin-bottom:0pt; t-i:14.2pt; line-height:normal; font-family:'Segoe UI'; font-size: 0.90em }
+.Beteckning { margin-top:18pt; margin-bottom:0pt; t-i:14.2pt; page-break-inside:auto; page-break-after:auto; line-height:19.5pt; font-size: 1.05em }
+.BlockText, .Inramatstycke { margin-right:56.7pt; margin-left:56.7pt; margin-bottom:0pt; t-i:0pt; text-align:nojustify; line-height:15pt; border:0.75pt solid #000000; padding:10pt; font-size: 0.90em; font-style:italic; -aw-border:0.25pt single }
+.Citaticitat { margin-top:7.5pt; margin-left:34pt; margin-bottom:0pt; t-i:0pt; line-height:12pt; font-size: 0.90em }
+.Citaticitatmedindrag { margin-top:0pt; margin-left:34pt; margin-bottom:7.5pt; t-i:17pt; line-height:12pt; font-size: 0.90em }
+.Citatmedindrag { margin-top:0pt; margin-left:17pt; margin-bottom:0pt; t-i:17pt; line-height:12pt; font-size: 0.90em }
+.CommentSubject { margin-bottom:0pt; t-i:14.2pt; line-height:normal; font-size: 0.90em; font-weight:bold }
+.CommentText { margin-bottom:0pt; t-i:14.2pt; line-height:normal; font-size: 0.90em }
+.FSHLogo { margin-top:4pt; margin-bottom:0pt; t-i:0pt; line-height:normal; font-size: 0.90em }
+.FSHNormL { margin-top:4pt; margin-bottom:0pt; t-i:0pt; line-height:15pt; border-top:1.5pt solid #000000; padding-top:3pt; font-size: 0.90em }
+.FSHNormal { margin-top:4pt; margin-bottom:0pt; t-i:0pt; line-height:15pt; font-size: 0.90em }
+.FSHNormalS5 { margin-top:11.5pt; margin-bottom:26pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-size: 0.95em; font-weight:bold }
+.FSHRub1, .Rubrik1S5 { margin-top:135pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:16pt; font-size: 1.00em }
+.FSHRub2, .Rubrik1A4 { margin-top:50pt; margin-bottom:5pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:24pt; font-size: 1.05em }
+.FSHTitel, .Dokumentrubrik { margin-top:4pt; margin-bottom:4pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:20pt; border-bottom:0.75pt solid #000000; padding-bottom:3pt; font-size: 1.05em; -aw-border-bottom:0.5pt single }
+.Footer { margin-top:4pt; margin-bottom:0pt; t-i:0pt; text-align:center; line-height:normal; font-size: 0.90em }
+.FootnoteText { margin-top:0pt; margin-bottom:0pt; t-i:0pt; line-height:12pt; font-size: 0.90em }
+.Frslagsrubrik { margin-top:41pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:19.5pt; font-family:'Verdana'; font-size: 1.05em }
+.Frslagstext, .Hemstlatt, .Yrkande { margin-top:4pt; margin-left:19.85pt; margin-bottom:0pt; t-i:-19.85pt; line-height:15pt; font-size: 0.90em }
+.Header { margin-top:4pt; margin-bottom:0pt; t-i:0pt; line-height:normal; font-size: 0.90em }
+.KantRubrikS5H { margin-top:6pt; margin-right:2.85pt; margin-bottom:0pt; t-i:0pt; text-align:right; line-height:8pt; font-size: 0.90em }
+.KantRubrikS5Hrad2 { margin-top:0pt; margin-right:2.85pt; margin-bottom:0pt; t-i:0pt; text-align:right; line-height:10pt; font-size: 0.90em }
+.KantRubrikS5V { margin-top:6pt; margin-right:0pt; margin-bottom:0pt; t-i:0pt; text-align:left; line-height:8pt; font-size: 0.90em }
+.KantRubrikS5Vrad2 { margin-top:0pt; margin-right:0pt; margin-bottom:0pt; t-i:0pt; text-align:left; line-height:10pt; font-size: 0.90em }
+.KantrubrikH { margin-top:4pt; margin-right:-82.2pt; margin-bottom:0pt; t-i:0pt; text-align:right; line-height:15pt; font-size: 0.90em }
+.KantrubrikV { margin-top:4pt; margin-left:-85.05pt; margin-bottom:0pt; t-i:0pt; line-height:normal; font-size: 0.90em }
+.Klla { margin-top:0pt; margin-bottom:0pt; t-i:0pt; line-height:12pt; font-size: 0.90em }
+.Lagtext { margin-top:4pt; margin-bottom:0pt; t-i:0pt; line-height:normal; font-size: 0.90em }
+.Lagtextindrag { margin-top:4pt; margin-bottom:0pt; t-i:14.2pt; line-height:normal; font-size: 0.90em }
+.Lagtextrubrik { margin-top:4pt; margin-bottom:0pt; t-i:0pt; line-height:normal; font-size: 0.90em; font-style:italic; letter-spacing:1pt }
+.List { margin-top:7.5pt; margin-left:17pt; margin-bottom:7.5pt; t-i:-17pt; line-height:15pt; font-size: 0.90em }
+.ListBullet, .PunktlistaBomb { margin-top:4pt; margin-left:14.2pt; margin-bottom:0pt; t-i:-14.2pt; line-height:15pt; font-size: 0.90em }
+.ListNumber, .PunktlistaNummer { margin-top:4pt; margin-left:14.2pt; margin-bottom:0pt; t-i:-14.2pt; line-height:15pt; font-size: 0.90em }
+.ListParagraph { margin-left:36pt; margin-bottom:0pt; t-i:14.2pt; line-height:15pt; font-size: 0.90em }
+.ListaGemener { margin-top:7.5pt; margin-left:17pt; margin-bottom:7.5pt; t-i:-17pt; line-height:15pt; font-size: 0.90em }
+.ListaLinje { margin-top:7.5pt; margin-left:17pt; margin-bottom:7.5pt; t-i:-17pt; line-height:15pt; font-size: 0.90em }
+.ListaNummer { margin-top:7.5pt; margin-left:17pt; margin-bottom:7.5pt; t-i:-17pt; line-height:15pt; font-size: 0.90em }
+.ListaPunkt { margin-top:7.5pt; margin-left:17pt; margin-bottom:7.5pt; t-i:-17pt; line-height:15pt; font-size: 0.90em }
+.MotionTIllRiksdagen { margin-top:18pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:19.5pt; font-size: 1.05em }
+.Motionr { margin-top:14pt; margin-bottom:31.5pt; t-i:0pt; page-break-inside:avoid; line-height:15pt; font-size: 1.00em; font-weight:bold; font-style:normal }
+.Motiveringrubrik2numrerat1 { margin-top:30pt; margin-left:0pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:17pt; font-family:'Verdana'; font-size: 1.00em }
+.Motiveringrubrik3numrerat1 { margin-top:18pt; margin-left:0pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:15pt; font-family:'Verdana'; font-size: 0.90em; font-weight:bold }
+.Motiveringrubrik3numrerat11 { margin-top:18pt; margin-left:0pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:15pt; font-family:'Verdana'; font-size: 0.90em; font-weight:bold }
+.Motiveringrubrik4numrerat11 { margin-top:18pt; margin-left:0pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:15pt; font-family:'Verdana'; font-size: 0.90em; font-weight:normal; font-style:italic }
+.NormalWeb { margin-bottom:0pt; t-i:14.2pt; line-height:15pt; font-family:'Verdana'; font-size: 0.90em }
+.NormalIndent { margin-left:65.2pt; margin-bottom:0pt; t-i:14.2pt; line-height:15pt; font-size: 0.90em }
+.Normalutanindragellerluft { margin-top:4pt; margin-bottom:0pt; t-i:0pt; line-height:15pt; font-size: 0.90em }
+.Normal00 { margin-top:4pt; margin-bottom:0pt; t-i:0pt; line-height:normal; font-size: 0.90em }
+.NormalA4fot { margin-top:12pt; margin-bottom:0pt; t-i:0pt; text-align:center; line-height:normal; font-size: 0.90em }
+.NormalA4sidnr { margin-top:4pt; margin-bottom:12pt; t-i:0pt; text-align:center; line-height:normal; font-size: 0.90em }
+.NormalS5sidnrH { margin-top:4pt; margin-right:2.85pt; margin-bottom:0pt; t-i:0pt; text-align:right; line-height:normal; font-size: 0.90em }
+.NormalS5sidnrV { margin-top:4pt; margin-right:0pt; margin-bottom:0pt; t-i:0pt; text-align:left; line-height:normal; font-size: 0.90em }
+.PlainText { margin-bottom:0pt; t-i:0pt; line-height:12pt; font-family:'Verdana'; font-size: 0.90em }
+.Quote { margin-top:7.5pt; margin-left:17pt; margin-bottom:0pt; t-i:0pt; line-height:12pt; font-size: 0.90em }
+.R1 { margin-top:41pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:19.5pt; font-family:'Verdana'; font-size: 1.05em }
+.R2 { margin-top:30pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:17pt; font-family:'Verdana'; font-size: 1.00em }
+.R3 { margin-top:18pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:15pt; font-family:'Verdana'; font-size: 0.90em; font-weight:bold }
+.Rubrik1numrerat { margin-top:41pt; margin-left:0pt; margin-bottom:0pt; t-i:0pt; page-break-inside:auto; page-break-after:avoid; line-height:19.5pt; font-family:'Verdana'; font-size: 1.05em }
+.Rubrik2numrerat { margin-top:30pt; margin-left:0pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:17pt; font-family:'Verdana'; font-size: 1.00em }
+.Rubrik3numrerat { margin-top:18pt; margin-left:0pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:15pt; font-family:'Verdana'; font-size: 0.90em; font-weight:bold }
+.Rubrik4numrerat { margin-top:18pt; margin-left:0pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:15pt; font-family:'Verdana'; font-size: 0.90em; font-weight:normal; font-style:italic }
+.RubrikFrslagTIllRiksdagsbeslut { margin-top:41pt; margin-bottom:15pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:19.5pt; font-family:'Verdana'; font-size: 1.05em }
+.RubrikInnehllsf { margin-top:41pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:19.5pt; font-family:'Verdana'; font-size: 1.05em }
+.RubrikSammanf { margin-top:41pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:19.5pt; font-family:'Verdana'; font-size: 1.05em }
+.Salutation { margin-top:41pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:19.5pt; font-family:'Verdana'; font-size: 1.05em }
+.Streckkod { margin-top:12pt; margin-bottom:0pt; t-i:0pt; text-align:center; line-height:normal; font-family:IDAutomationHC39S; font-size: 1.00em }
+.Strecklista, .PunktlistaTankstreck { margin-top:4pt; margin-left:14.2pt; margin-bottom:0pt; t-i:-14.2pt; line-height:15pt; font-size: 0.90em }
+.Subtitle { margin-top:4pt; margin-bottom:0pt; t-i:0pt; line-height:15pt; font-family:'Verdana'; font-size: 0.90em; font-weight:bold }
+.TOC1 { margin-top:4pt; margin-bottom:0pt; t-i:0pt; line-height:15pt; font-size: 0.90em }
+.TOC2 { margin-top:4pt; margin-left:14.2pt; margin-bottom:0pt; t-i:0pt; line-height:15pt; font-size: 0.90em }
+.TOC3 { margin-top:4pt; margin-left:28.35pt; margin-bottom:0pt; t-i:0pt; line-height:15pt; font-size: 0.90em }
+.TOC4 { margin-top:4pt; margin-left:42.55pt; margin-bottom:0pt; t-i:0pt; line-height:15pt; font-size: 0.90em }
+.TOC5 { margin-top:4pt; margin-left:56.7pt; margin-bottom:0pt; t-i:0pt; line-height:15pt; font-size: 0.90em }
+.TOC6 { margin-top:4pt; margin-left:56.7pt; margin-bottom:0pt; t-i:0pt; line-height:15pt; font-size: 0.90em }
+.TOC7 { margin-top:15pt; margin-left:56.7pt; margin-bottom:0pt; t-i:14.2pt; page-break-inside:avoid; page-break-after:avoid; line-height:normal; font-family:'Verdana'; font-size: 0.90em; font-weight:normal; font-style:italic }
+.TOC8 { margin-top:15pt; margin-left:56.7pt; margin-bottom:0pt; t-i:14.2pt; page-break-inside:avoid; page-break-after:avoid; line-height:normal; font-family:'Verdana'; font-size: 0.90em; font-weight:normal; font-style:italic }
+.TOC9 { margin-top:15pt; margin-left:56.7pt; margin-bottom:0pt; t-i:14.2pt; page-break-inside:avoid; page-break-after:avoid; line-height:normal; font-family:'Verdana'; font-size: 0.90em; font-weight:normal; font-style:italic }
+.TOCHeading { margin-top:41pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:19.5pt; font-family:'Verdana'; font-size: 1.05em }
+.Tabellunderrubrik { margin-top:0pt; margin-bottom:0pt; t-i:0pt; page-break-after:avoid; line-height:15pt; font-size: 0.90em; font-weight:normal; font-style:italic }
+.Tabellrubrik { margin-top:7.5pt; margin-bottom:0pt; t-i:0pt; page-break-after:avoid; line-height:15pt; font-size: 0.90em; font-weight:bold }
+.Title { margin-top:41pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:19.5pt; font-family:'Verdana'; font-size: 1.05em }
+.Underskriftdatum { margin-top:24pt; margin-bottom:3pt; t-i:0pt; page-break-inside:avoid; line-height:15pt; font-size: 0.90em; font-style:normal }
+.Underskrifter { margin-top:15pt; margin-bottom:3pt; t-i:0pt; page-break-inside:avoid; line-height:15pt; font-size: 0.90em; font-style:italic }
+.Yrkandehnv, .Frslagspunkthnv { margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; font-size: 0.90em }
+span.BallongtextChar { font-family:'Segoe UI'; font-size: 0.90em }
+span.BeteckningChar { font-size:19.5pt }
+span.CommentReference { font-size:8pt }
+span.FSHRub2Char, span.Rubrik1A4Char { font-size:24pt }
+span.FotnotstextChar { font-size:10pt }
+span.Hyperlink { text-decoration:underline; color:#0563c1; -aw-style-name:hyperlink }
+span.InledningChar { font-family:'Verdana'; font-size: 1.00em; font-weight:bold }
+span.IntenseReference { font-weight:normal; font-style:normal; font-variant:normal; text-decoration:none; text-transform:none; letter-spacing:0pt; vertical-align:0pt; color:#000000; display:inline }
+span.KommentarerChar { font-size:10pt }
+span.KommentarsmneChar { font-size:10pt; font-weight:bold }
+span.MotionTIllRiksdagenChar { font-size:19.5pt }
+span.OformateradtextChar { font-family:'Verdana'; font-size: 0.90em }
+span.PlaceholderText { color:#f4b083 }
+span.Rubrik1Char { font-family:'Verdana'; font-size: 1.05em }
+span.Rubrik2Char { font-family:'Verdana'; font-size: 1.00em }
+span.Rubrik3Char { font-family:'Verdana'; font-size: 0.90em; font-weight:bold }
+span.Rubrik4Char { font-family:'Verdana'; font-size: 0.90em; font-style:italic }
+span.Rubrik5Char { font-family:'Verdana'; font-weight:bold }
+span.Rubrik6Char { font-family:'Verdana'; font-style:italic }
+span.Rubrik7Char { font-family:'Verdana'; font-size: 0.90em; font-weight:bold }
+span.Rubrik8Char { font-family:'Verdana'; font-size: 0.90em; font-weight:bold }
+span.Rubrik9Char { font-family:'Verdana'; font-size: 0.90em; font-weight:bold }
+span.RubrikChar { font-family:'Verdana'; font-size: 1.00em; font-weight:bold }
+span.SidfotChar { font-size:11.5pt }
+span.UnderrubrikChar { font-family:'Verdana'; font-size: 0.90em; font-weight:bold }
+.TableGrid {  }
+
+.pconf{width: 450px;margin-left:5px;overflow:visable;font-family:Verdana, Geneva, sans-serif;} 
+ .sidhuvud_publikation, .sidhuvud_beteckning{font-size:133%}
+.MotionarLista {font-size:122%}
+
+--></style><div class="pconf"><span class="sidhuvud_publikation">Motion till riksdagen</span><br/>
+<span class="sidhuvud_beteckning">2024/25:3048</span><br/>
+<span class="MotionarLista">av Emma Nohrén m.fl. (MP)</span><br/>
+<h1>Utgiftsområde 20 Klimat, miljö och natur</h1>
+<hr class="sidhuvud_linje"/>
+
+
+		<div class="Section1">
+			<p class="RubrikFrslagTIllRiksdagsbeslut">
+				<a name="_Toc106800475"></a><a name="_Toc106801300"><span style="-aw-sdt-tag:'CC_Boilerplate_4'; -aw-sdt-title:'CC_Boilerplate_4'"><span>Förslag till riksdagsbeslut</span></span><span style="-aw-bookmark-end:_Toc106800475"></span></a>
+			</p>
+			<div style="-aw-sdt-tag:'32d95d06-42f6-47f3-a004-15b40271cfbe'; -aw-sdt-title:'Yrkande 1'">
+				<ol type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-left:14pt; t-i:0pt; padding-left:5.85pt">
+						<span>Riksdagen anvisar anslagen för 2025 inom utgiftsområde 20 Klimat, miljö och natur enligt förslaget i tabell 1 i motionen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'57b47c62-e6c7-492b-bc00-f667ac6eddc0'; -aw-sdt-title:'Yrkande 2'">
+				<ol start="2" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; margin-left:14pt; t-i:0pt; padding-left:5.85pt">
+						<span>Riksdagen beslutar att bemyndiga regeringen att under 2025 för anslaget 1:16 Klimatinvesteringar ingå ekonomiska åtaganden som inklusive tidigare åtaganden medför behov av framtida anslag på högst 7</span><span>&#xa0;</span><span>000</span><span>&#xa0;</span><span>000</span><span>&#xa0;</span><span>000 kronor 2026–2030.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'CC_Motivering_Rubrik'; -aw-sdt-title:'CC_Motivering_Rubrik'">
+				<h1>
+					<a name="MotionsStart"></a><a name="_Toc106801301"></a><a name="_Toc106800476"><span>Motivering</span></a>
+				</h1>
+			</div>
+			<span style="-aw-bookmark-end:_Toc106801301">
+			</span>
+			<p class="Tabellrubrik">
+				<span style="-aw-bookmark-end:_Toc106800476"></span><span>Tabell 1 Anslagsförslag</span><span>&#xa0;</span><span>för 2025</span><span>&#xa0;</span><span>för utgiftsområde</span><span>&#xa0;</span><span>20</span><span>&#xa0;</span><span>Klimat, miljö och natur</span>
+			</p>
+			<p class="Tabellunderrubrik">
+				<span>Tusental kronor</span>
+			</p>
+			<table cellspacing="0" cellpadding="0" style="width:425.25pt; border-collapse:collapse">
+				<thead>
+					<tr style="height:8.5pt">
+						<td colspan="2" style="width:14.2pt; border-top-style:solid; border-top-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding:2.85pt 1.4pt 1.4pt; vertical-align:top; background-color:#ffffff">
+							<p style="t-i:0pt; line-height:12pt">
+								<span style="font-size:10pt; font-weight:bold">Anslag</span>
+							</p>
+						</td>
+						<td style="width:68.1pt; border-top-style:solid; border-top-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding:3.4pt 1.4pt 1pt; vertical-align:top; background-color:#ffffff">
+							<p style="t-i:0pt; text-align:right; line-height:12pt">
+								<span style="font-size:10pt; font-weight:bold">Regeringens förslag</span>
+							</p>
+						</td>
+						<td style="width:68.1pt; border-top-style:solid; border-top-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding:2.85pt 1.4pt 1.4pt; vertical-align:top; background-color:#ffffff">
+							<p style="t-i:0pt; text-align:right; line-height:12pt">
+								<span style="font-size:10pt; font-weight:bold">Avvikelse från regeringen</span>
+							</p>
+						</td>
+					</tr>
+				</thead>
+				<tbody>
+					<tr style="height:8.5pt">
+						<td style="width:14.2pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:top; background-color:#ffffff">
+							<p style="t-i:0pt; line-height:12pt">
+								<span style="font-size:10pt">1:1</span>
+							</p>
+						</td>
+						<td style="width:187.15pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; background-color:#ffffff">
+							<p style="t-i:0pt; line-height:12pt">
+								<span style="font-size:10pt">Naturvårdsverket</span>
+							</p>
+						</td>
+						<td style="width:68.1pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:bottom; background-color:#ffffff">
+							<p style="t-i:0pt; text-align:right; line-height:12pt">
+								<span style="font-size:10pt">651</span><span style="font-size:10pt">&#xa0;</span><span style="font-size:10pt">691</span>
+							</p>
+						</td>
+						<td style="width:68.1pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:bottom; background-color:#ffffff">
+							<p style="t-i:0pt; text-align:right; line-height:12pt">
+								<span style="font-size:10pt">127</span><span style="font-size:10pt">&#xa0;</span><span style="font-size:10pt">500</span>
+							</p>
+						</td>
+					</tr>
+					<tr style="height:8.5pt">
+						<td style="width:14.2pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:top; background-color:#ffffff">
+							<p style="t-i:0pt; line-height:12pt">
+								<span style="font-size:10pt">1:2</span>
+							</p>
+						</td>
+						<td style="width:187.15pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; background-color:#ffffff">
+							<p style="t-i:0pt; line-height:12pt">
+								<span style="font-size:10pt">Miljöövervakning m.m.</span>
+							</p>
+						</td>
+						<td style="width:68.1pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:bottom; background-color:#ffffff">
+							<p style="t-i:0pt; text-align:right; line-height:12pt">
+								<span style="font-size:10pt">388</span><span style="font-size:10pt">&#xa0;</span><span style="font-size:10pt">714</span>
+							</p>
+						</td>
+						<td style="width:68.1pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:bottom; background-color:#ffffff">
+							<p style="t-i:0pt; text-align:right; line-height:12pt">
+								<span style="font-size:10pt">221</span><span style="font-size:10pt">&#xa0;</span><span style="font-size:10pt">000</span>
+							</p>
+						</td>
+					</tr>
+					<tr style="height:8.5pt">
+						<td style="width:14.2pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:top; background-color:#ffffff">
+							<p style="t-i:0pt; line-height:12pt">
+								<span style="font-size:10pt">1:3</span>
+							</p>
+						</td>
+						<td style="width:187.15pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; background-color:#ffffff">
+							<p style="t-i:0pt; line-height:12pt">
+								<span style="font-size:10pt">Åtgärder för värdefull natur</span>
+							</p>
+						</td>
+						<td style="width:68.1pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:bottom; background-color:#ffffff">
+							<p style="t-i:0pt; text-align:right; line-height:12pt">
+								<span style="font-size:10pt">1</span><span style="font-size:10pt">&#xa0;</span><span style="font-size:10pt">352</span><span style="font-size:10pt">&#xa0;</span><span style="font-size:10pt">035</span>
+							</p>
+						</td>
+						<td style="width:68.1pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:bottom; background-color:#ffffff">
+							<p style="t-i:0pt; text-align:right; line-height:12pt">
+								<span style="font-size:10pt">1</span><span style="font-size:10pt">&#xa0;</span><span style="font-size:10pt">648</span><span style="font-size:10pt">&#xa0;</span><span style="font-size:10pt">000</span>
+							</p>
+						</td>
+					</tr>
+					<tr style="height:8.5pt">
+						<td style="width:14.2pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:top; background-color:#ffffff">
+							<p style="t-i:0pt; line-height:12pt">
+								<span style="font-size:10pt">1:4</span>
+							</p>
+						</td>
+						<td style="width:187.15pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; background-color:#ffffff">
+							<p style="t-i:0pt; line-height:12pt">
+								<span style="font-size:10pt">Sanering och återställning av förorenade områden</span>
+							</p>
+						</td>
+						<td style="width:68.1pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:bottom; background-color:#ffffff">
+							<p style="t-i:0pt; text-align:right; line-height:12pt">
+								<span style="font-size:10pt">1</span><span style="font-size:10pt">&#xa0;</span><span style="font-size:10pt">064</span><span style="font-size:10pt">&#xa0;</span><span style="font-size:10pt">318</span>
+							</p>
+						</td>
+						<td style="width:68.1pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:bottom; background-color:#ffffff">
+							<p style="t-i:0pt; text-align:right; line-height:12pt">
+								<span style="font-size:10pt">420</span><span style="font-size:10pt">&#xa0;</span><span style="font-size:10pt">000</span>
+							</p>
+						</td>
+					</tr>
+					<tr style="height:8.5pt">
+						<td style="width:14.2pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:top; background-color:#ffffff">
+							<p style="t-i:0pt; line-height:12pt">
+								<span style="font-size:10pt">1:5</span>
+							</p>
+						</td>
+						<td style="width:187.15pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; background-color:#ffffff">
+							<p style="t-i:0pt; line-height:12pt">
+								<span style="font-size:10pt">Miljöforskning</span>
+							</p>
+						</td>
+						<td style="width:68.1pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:bottom; background-color:#ffffff">
+							<p style="t-i:0pt; text-align:right; line-height:12pt">
+								<span style="font-size:10pt">93</span><span style="font-size:10pt">&#xa0;</span><span style="font-size:10pt">825</span>
+							</p>
+						</td>
+						<td style="width:68.1pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:bottom; background-color:#ffffff">
+							<p style="t-i:0pt; text-align:right; line-height:12pt">
+								<span style="font-size:10pt">56</span><span style="font-size:10pt">&#xa0;</span><span style="font-size:10pt">000</span>
+							</p>
+						</td>
+					</tr>
+					<tr style="height:8.5pt">
+						<td style="width:14.2pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:top; background-color:#ffffff">
+							<p style="t-i:0pt; line-height:12pt">
+								<span style="font-size:10pt">1:6</span>
+							</p>
+						</td>
+						<td style="width:187.15pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; background-color:#ffffff">
+							<p style="t-i:0pt; line-height:12pt">
+								<span style="font-size:10pt">Kemikalieinspektionen</span>
+							</p>
+						</td>
+						<td style="width:68.1pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:bottom; background-color:#ffffff">
+							<p style="t-i:0pt; text-align:right; line-height:12pt">
+								<span style="font-size:10pt">306</span><span style="font-size:10pt">&#xa0;</span><span style="font-size:10pt">833</span>
+							</p>
+						</td>
+						<td style="width:68.1pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:bottom; background-color:#ffffff">
+							<p style="t-i:0pt; text-align:right; line-height:12pt">
+								<span style="font-size:10pt">18</span><span style="font-size:10pt">&#xa0;</span><span style="font-size:10pt">000</span>
+							</p>
+						</td>
+					</tr>
+					<tr style="height:8.5pt">
+						<td style="width:14.2pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:top; background-color:#ffffff">
+							<p style="t-i:0pt; line-height:12pt">
+								<span style="font-size:10pt">1:7</span>
+							</p>
+						</td>
+						<td style="width:187.15pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; background-color:#ffffff">
+							<p style="t-i:0pt; line-height:12pt">
+								<span style="font-size:10pt">Avgifter till internationella organisationer</span>
+							</p>
+						</td>
+						<td style="width:68.1pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:bottom; background-color:#ffffff">
+							<p style="t-i:0pt; text-align:right; line-height:12pt">
+								<span style="font-size:10pt">337</span><span style="font-size:10pt">&#xa0;</span><span style="font-size:10pt">431</span>
+							</p>
+						</td>
+						<td style="width:68.1pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:bottom; background-color:#ffffff">
+							<p style="t-i:0pt; text-align:right; line-height:12pt">
+								<span style="font-size:10pt">±0</span>
+							</p>
+						</td>
+					</tr>
+					<tr style="height:8.5pt">
+						<td style="width:14.2pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:top; background-color:#ffffff">
+							<p style="t-i:0pt; line-height:12pt">
+								<span style="font-size:10pt">1:8</span>
+							</p>
+						</td>
+						<td style="width:187.15pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; background-color:#ffffff">
+							<p style="t-i:0pt; line-height:12pt">
+								<span style="font-size:10pt">Åtgärder för minskade kväveutsläpp till luft i jordbrukssektorn</span>
+							</p>
+						</td>
+						<td style="width:68.1pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:bottom; background-color:#ffffff">
+							<p style="t-i:0pt; text-align:right; line-height:12pt">
+								<span style="font-size:10pt">100</span><span style="font-size:10pt">&#xa0;</span><span style="font-size:10pt">000</span>
+							</p>
+						</td>
+						<td style="width:68.1pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:bottom; background-color:#ffffff">
+							<p style="t-i:0pt; text-align:right; line-height:12pt">
+								<span style="font-size:10pt">±0</span>
+							</p>
+						</td>
+					</tr>
+					<tr style="height:8.5pt">
+						<td style="width:14.2pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:top; background-color:#ffffff">
+							<p style="t-i:0pt; line-height:12pt">
+								<span style="font-size:10pt">1:9</span>
+							</p>
+						</td>
+						<td style="width:187.15pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; background-color:#ffffff">
+							<p style="t-i:0pt; line-height:12pt">
+								<span style="font-size:10pt">Sveriges meteorologiska och hydrologiska institut</span>
+							</p>
+						</td>
+						<td style="width:68.1pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:bottom; background-color:#ffffff">
+							<p style="t-i:0pt; text-align:right; line-height:12pt">
+								<span style="font-size:10pt">308</span><span style="font-size:10pt">&#xa0;</span><span style="font-size:10pt">632</span>
+							</p>
+						</td>
+						<td style="width:68.1pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:bottom; background-color:#ffffff">
+							<p style="t-i:0pt; text-align:right; line-height:12pt">
+								<span style="font-size:10pt">120</span><span style="font-size:10pt">&#xa0;</span><span style="font-size:10pt">500</span>
+							</p>
+						</td>
+					</tr>
+					<tr style="height:8.5pt">
+						<td style="width:14.2pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:top; background-color:#ffffff">
+							<p style="t-i:0pt; line-height:12pt">
+								<span style="font-size:10pt">1:10</span>
+							</p>
+						</td>
+						<td style="width:187.15pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; background-color:#ffffff">
+							<p style="t-i:0pt; line-height:12pt">
+								<span style="font-size:10pt">Klimatanpassning</span>
+							</p>
+						</td>
+						<td style="width:68.1pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:bottom; background-color:#ffffff">
+							<p style="t-i:0pt; text-align:right; line-height:12pt">
+								<span style="font-size:10pt">89</span><span style="font-size:10pt">&#xa0;</span><span style="font-size:10pt">500</span>
+							</p>
+						</td>
+						<td style="width:68.1pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:bottom; background-color:#ffffff">
+							<p style="t-i:0pt; text-align:right; line-height:12pt">
+								<span style="font-size:10pt">50</span><span style="font-size:10pt">&#xa0;</span><span style="font-size:10pt">500</span>
+							</p>
+						</td>
+					</tr>
+					<tr style="height:8.5pt">
+						<td style="width:14.2pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:top; background-color:#ffffff">
+							<p style="t-i:0pt; line-height:12pt">
+								<span style="font-size:10pt">1:11</span>
+							</p>
+						</td>
+						<td style="width:187.15pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; background-color:#ffffff">
+							<p style="t-i:0pt; line-height:12pt">
+								<span style="font-size:10pt">Åtgärder för havs- och vattenmiljö</span>
+							</p>
+						</td>
+						<td style="width:68.1pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:bottom; background-color:#ffffff">
+							<p style="t-i:0pt; text-align:right; line-height:12pt">
+								<span style="font-size:10pt">1</span><span style="font-size:10pt">&#xa0;</span><span style="font-size:10pt">326</span><span style="font-size:10pt">&#xa0;</span><span style="font-size:10pt">565</span>
+							</p>
+						</td>
+						<td style="width:68.1pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:bottom; background-color:#ffffff">
+							<p style="t-i:0pt; text-align:right; line-height:12pt">
+								<span style="font-size:10pt">1</span><span style="font-size:10pt">&#xa0;</span><span style="font-size:10pt">089</span><span style="font-size:10pt">&#xa0;</span><span style="font-size:10pt">000</span>
+							</p>
+						</td>
+					</tr>
+					<tr style="height:8.5pt">
+						<td style="width:14.2pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:top; background-color:#ffffff">
+							<p style="t-i:0pt; line-height:12pt">
+								<span style="font-size:10pt">1:12</span>
+							</p>
+						</td>
+						<td style="width:187.15pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; background-color:#ffffff">
+							<p style="t-i:0pt; line-height:12pt">
+								<span style="font-size:10pt">Insatser för internationella klimatinvesteringar</span>
+							</p>
+						</td>
+						<td style="width:68.1pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:bottom; background-color:#ffffff">
+							<p style="t-i:0pt; text-align:right; line-height:12pt">
+								<span style="font-size:10pt">263</span><span style="font-size:10pt">&#xa0;</span><span style="font-size:10pt">450</span>
+							</p>
+						</td>
+						<td style="width:68.1pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:bottom; background-color:#ffffff">
+							<p style="t-i:0pt; text-align:right; line-height:12pt">
+								<span style="font-size:10pt">±0</span>
+							</p>
+						</td>
+					</tr>
+					<tr style="height:8.5pt">
+						<td style="width:14.2pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:top; background-color:#ffffff">
+							<p style="t-i:0pt; line-height:12pt">
+								<span style="font-size:10pt">1:13</span>
+							</p>
+						</td>
+						<td style="width:187.15pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; background-color:#ffffff">
+							<p style="t-i:0pt; line-height:12pt">
+								<span style="font-size:10pt">Internationellt miljösamarbete</span>
+							</p>
+						</td>
+						<td style="width:68.1pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:bottom; background-color:#ffffff">
+							<p style="t-i:0pt; text-align:right; line-height:12pt">
+								<span style="font-size:10pt">52</span><span style="font-size:10pt">&#xa0;</span><span style="font-size:10pt">400</span>
+							</p>
+						</td>
+						<td style="width:68.1pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:bottom; background-color:#ffffff">
+							<p style="t-i:0pt; text-align:right; line-height:12pt">
+								<span style="font-size:10pt">24</span><span style="font-size:10pt">&#xa0;</span><span style="font-size:10pt">000</span>
+							</p>
+						</td>
+					</tr>
+					<tr style="height:8.5pt">
+						<td style="width:14.2pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:top; background-color:#ffffff">
+							<p style="t-i:0pt; line-height:12pt">
+								<span style="font-size:10pt">1:14</span>
+							</p>
+						</td>
+						<td style="width:187.15pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; background-color:#ffffff">
+							<p style="t-i:0pt; line-height:12pt">
+								<span style="font-size:10pt">Skydd av värdefull natur</span>
+							</p>
+						</td>
+						<td style="width:68.1pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:bottom; background-color:#ffffff">
+							<p style="t-i:0pt; text-align:right; line-height:12pt">
+								<span style="font-size:10pt">1</span><span style="font-size:10pt">&#xa0;</span><span style="font-size:10pt">185</span><span style="font-size:10pt">&#xa0;</span><span style="font-size:10pt">500</span>
+							</p>
+						</td>
+						<td style="width:68.1pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:bottom; background-color:#ffffff">
+							<p style="t-i:0pt; text-align:right; line-height:12pt">
+								<span style="font-size:10pt">3</span><span style="font-size:10pt">&#xa0;</span><span style="font-size:10pt">814</span><span style="font-size:10pt">&#xa0;</span><span style="font-size:10pt">000</span>
+							</p>
+						</td>
+					</tr>
+					<tr style="height:8.5pt">
+						<td style="width:14.2pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:top; background-color:#ffffff">
+							<p style="t-i:0pt; line-height:12pt">
+								<span style="font-size:10pt">1:15</span>
+							</p>
+						</td>
+						<td style="width:187.15pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; background-color:#ffffff">
+							<p style="t-i:0pt; line-height:12pt">
+								<span style="font-size:10pt">Havs- och vattenmyndigheten</span>
+							</p>
+						</td>
+						<td style="width:68.1pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:bottom; background-color:#ffffff">
+							<p style="t-i:0pt; text-align:right; line-height:12pt">
+								<span style="font-size:10pt">360</span><span style="font-size:10pt">&#xa0;</span><span style="font-size:10pt">516</span>
+							</p>
+						</td>
+						<td style="width:68.1pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:bottom; background-color:#ffffff">
+							<p style="t-i:0pt; text-align:right; line-height:12pt">
+								<span style="font-size:10pt">162</span><span style="font-size:10pt">&#xa0;</span><span style="font-size:10pt">000</span>
+							</p>
+						</td>
+					</tr>
+					<tr style="height:8.5pt">
+						<td style="width:14.2pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:top; background-color:#ffffff">
+							<p style="t-i:0pt; line-height:12pt">
+								<span style="font-size:10pt">1:16</span>
+							</p>
+						</td>
+						<td style="width:187.15pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; background-color:#ffffff">
+							<p style="t-i:0pt; line-height:12pt">
+								<span style="font-size:10pt">Klimatinvesteringar</span>
+							</p>
+						</td>
+						<td style="width:68.1pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:bottom; background-color:#ffffff">
+							<p style="t-i:0pt; text-align:right; line-height:12pt">
+								<span style="font-size:10pt">3</span><span style="font-size:10pt">&#xa0;</span><span style="font-size:10pt">495</span><span style="font-size:10pt">&#xa0;</span><span style="font-size:10pt">000</span>
+							</p>
+						</td>
+						<td style="width:68.1pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:bottom; background-color:#ffffff">
+							<p style="t-i:0pt; text-align:right; line-height:12pt">
+								<span style="font-size:10pt">3</span><span style="font-size:10pt">&#xa0;</span><span style="font-size:10pt">000</span><span style="font-size:10pt">&#xa0;</span><span style="font-size:10pt">000</span>
+							</p>
+						</td>
+					</tr>
+					<tr style="height:8.5pt">
+						<td style="width:14.2pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:top; background-color:#ffffff">
+							<p style="t-i:0pt; line-height:12pt">
+								<span style="font-size:10pt">1:17</span>
+							</p>
+						</td>
+						<td style="width:187.15pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; background-color:#ffffff">
+							<p style="t-i:0pt; line-height:12pt">
+								<span style="font-size:10pt">Klimatpremier</span>
+							</p>
+						</td>
+						<td style="width:68.1pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:bottom; background-color:#ffffff">
+							<p style="t-i:0pt; text-align:right; line-height:12pt">
+								<span style="font-size:10pt">2</span><span style="font-size:10pt">&#xa0;</span><span style="font-size:10pt">313</span><span style="font-size:10pt">&#xa0;</span><span style="font-size:10pt">000</span>
+							</p>
+						</td>
+						<td style="width:68.1pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:bottom; background-color:#ffffff">
+							<p style="t-i:0pt; text-align:right; line-height:12pt">
+								<span style="font-size:10pt">800</span><span style="font-size:10pt">&#xa0;</span><span style="font-size:10pt">000</span>
+							</p>
+						</td>
+					</tr>
+					<tr style="height:8.5pt">
+						<td style="width:14.2pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:top; background-color:#ffffff">
+							<p style="t-i:0pt; line-height:12pt">
+								<span style="font-size:10pt">1:18</span>
+							</p>
+						</td>
+						<td style="width:187.15pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; background-color:#ffffff">
+							<p style="t-i:0pt; line-height:12pt">
+								<span style="font-size:10pt">Industriklivet</span>
+							</p>
+						</td>
+						<td style="width:68.1pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:bottom; background-color:#ffffff">
+							<p style="t-i:0pt; text-align:right; line-height:12pt">
+								<span style="font-size:10pt">1</span><span style="font-size:10pt">&#xa0;</span><span style="font-size:10pt">345</span><span style="font-size:10pt">&#xa0;</span><span style="font-size:10pt">000</span>
+							</p>
+						</td>
+						<td style="width:68.1pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:bottom; background-color:#ffffff">
+							<p style="t-i:0pt; text-align:right; line-height:12pt">
+								<span style="font-size:10pt">1</span><span style="font-size:10pt">&#xa0;</span><span style="font-size:10pt">500</span><span style="font-size:10pt">&#xa0;</span><span style="font-size:10pt">000</span>
+							</p>
+						</td>
+					</tr>
+					<tr style="height:8.5pt">
+						<td style="width:14.2pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:top; background-color:#ffffff">
+							<p style="t-i:0pt; line-height:12pt">
+								<span style="font-size:10pt">1:19</span>
+							</p>
+						</td>
+						<td style="width:187.15pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; background-color:#ffffff">
+							<p style="t-i:0pt; line-height:12pt">
+								<span style="font-size:10pt">Åtgärder för ras- och skredsäkring längs Göta älv</span>
+							</p>
+						</td>
+						<td style="width:68.1pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:bottom; background-color:#ffffff">
+							<p style="t-i:0pt; text-align:right; line-height:12pt">
+								<span style="font-size:10pt">115</span><span style="font-size:10pt">&#xa0;</span><span style="font-size:10pt">000</span>
+							</p>
+						</td>
+						<td style="width:68.1pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:bottom; background-color:#ffffff">
+							<p style="t-i:0pt; text-align:right; line-height:12pt">
+								<span style="font-size:10pt">±0</span>
+							</p>
+						</td>
+					</tr>
+					<tr style="height:8.5pt">
+						<td style="width:14.2pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:top; background-color:#ffffff">
+							<p style="t-i:0pt; line-height:12pt">
+								<span style="font-size:10pt">1:20</span>
+							</p>
+						</td>
+						<td style="width:187.15pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; background-color:#ffffff">
+							<p style="t-i:0pt; line-height:12pt">
+								<span style="font-size:10pt">Driftstöd för bio-CCS</span>
+							</p>
+						</td>
+						<td style="width:68.1pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:bottom; background-color:#ffffff">
+							<p style="t-i:0pt; text-align:right; line-height:12pt">
+								<span style="font-size:10pt">15</span><span style="font-size:10pt">&#xa0;</span><span style="font-size:10pt">000</span>
+							</p>
+						</td>
+						<td style="width:68.1pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:bottom; background-color:#ffffff">
+							<p style="t-i:0pt; text-align:right; line-height:12pt">
+								<span style="font-size:10pt">±0</span>
+							</p>
+						</td>
+					</tr>
+					<tr style="height:8.5pt">
+						<td style="width:14.2pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:top; background-color:#ffffff">
+							<p style="t-i:0pt; line-height:12pt">
+								<span style="font-size:10pt">1:21</span>
+							</p>
+						</td>
+						<td style="width:187.15pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; background-color:#ffffff">
+							<p style="t-i:0pt; line-height:12pt">
+								<span style="font-size:10pt">Åtgärder inom ramen för den sociala klimatfonden</span>
+							</p>
+						</td>
+						<td style="width:68.1pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:bottom; background-color:#ffffff">
+							<p style="t-i:0pt; text-align:right; line-height:12pt">
+								<span style="font-size:10pt">10</span><span style="font-size:10pt">&#xa0;</span><span style="font-size:10pt">000</span>
+							</p>
+						</td>
+						<td style="width:68.1pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:bottom; background-color:#ffffff">
+							<p style="t-i:0pt; text-align:right; line-height:12pt">
+								<span style="font-size:10pt">±0</span>
+							</p>
+						</td>
+					</tr>
+					<tr style="height:8.5pt">
+						<td style="width:14.2pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:top; background-color:#ffffff">
+							<p style="t-i:0pt; line-height:12pt">
+								<span style="font-size:10pt">2:1</span>
+							</p>
+						</td>
+						<td style="width:187.15pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; background-color:#ffffff">
+							<p style="t-i:0pt; line-height:12pt">
+								<span style="font-size:10pt">Forskningsrådet för miljö, areella näringar och samhällsbyggande</span>
+							</p>
+						</td>
+						<td style="width:68.1pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:bottom; background-color:#ffffff">
+							<p style="t-i:0pt; text-align:right; line-height:12pt">
+								<span style="font-size:10pt">137</span><span style="font-size:10pt">&#xa0;</span><span style="font-size:10pt">079</span>
+							</p>
+						</td>
+						<td style="width:68.1pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:bottom; background-color:#ffffff">
+							<p style="t-i:0pt; text-align:right; line-height:12pt">
+								<span style="font-size:10pt">±0</span>
+							</p>
+						</td>
+					</tr>
+					<tr style="height:8.5pt">
+						<td style="width:14.2pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:top; background-color:#ffffff">
+							<p style="t-i:0pt; line-height:12pt">
+								<span style="font-size:10pt">2:2</span>
+							</p>
+						</td>
+						<td style="width:187.15pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; background-color:#ffffff">
+							<p style="t-i:0pt; line-height:12pt">
+								<span style="font-size:10pt">Forskningsrådet för miljö, areella näringar och samhällsbyggande: Forskning</span>
+							</p>
+						</td>
+						<td style="width:68.1pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:bottom; background-color:#ffffff">
+							<p style="t-i:0pt; text-align:right; line-height:12pt">
+								<span style="font-size:10pt">1</span><span style="font-size:10pt">&#xa0;</span><span style="font-size:10pt">127</span><span style="font-size:10pt">&#xa0;</span><span style="font-size:10pt">408</span>
+							</p>
+						</td>
+						<td style="width:68.1pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:bottom; background-color:#ffffff">
+							<p style="t-i:0pt; text-align:right; line-height:12pt">
+								<span style="font-size:10pt">±0</span>
+							</p>
+						</td>
+					</tr>
+					<tr style="height:8.5pt">
+						<td style="width:14.2pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:top; background-color:#ffffff">
+							<p style="t-i:0pt; line-height:12pt">
+								<span style="font-size:10pt">99:1</span>
+							</p>
+						</td>
+						<td style="width:187.15pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; background-color:#ffffff">
+							<p style="t-i:0pt; line-height:12pt">
+								<span style="font-size:10pt">Leasingcheck för elbil till låg- och medelinkomsttagare</span>
+							</p>
+						</td>
+						<td style="width:68.1pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:bottom; background-color:#ffffff">
+							<p style="t-i:0pt; text-align:right; line-height:12pt">
+								<span style="font-size:10pt">±0</span>
+							</p>
+						</td>
+						<td style="width:68.1pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:bottom; background-color:#ffffff">
+							<p style="t-i:0pt; text-align:right; line-height:12pt">
+								<span style="font-size:10pt">1</span><span style="font-size:10pt">&#xa0;</span><span style="font-size:10pt">500</span><span style="font-size:10pt">&#xa0;</span><span style="font-size:10pt">000</span>
+							</p>
+						</td>
+					</tr>
+					<tr style="height:8.5pt">
+						<td style="width:14.2pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:top; background-color:#ffffff">
+							<p style="t-i:0pt; line-height:12pt">
+								<span style="font-size:10pt">99:4</span>
+							</p>
+						</td>
+						<td style="width:187.15pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; background-color:#ffffff">
+							<p style="t-i:0pt; line-height:12pt">
+								<span style="font-size:10pt">Kompetenslyft för klimatomställningen</span>
+							</p>
+						</td>
+						<td style="width:68.1pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:bottom; background-color:#ffffff">
+							<p style="t-i:0pt; text-align:right; line-height:12pt">
+								<span style="font-size:10pt">±0</span>
+							</p>
+						</td>
+						<td style="width:68.1pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:bottom; background-color:#ffffff">
+							<p style="t-i:0pt; text-align:right; line-height:12pt">
+								<span style="font-size:10pt">200</span><span style="font-size:10pt">&#xa0;</span><span style="font-size:10pt">000</span>
+							</p>
+						</td>
+					</tr>
+					<tr style="height:8.5pt">
+						<td style="width:14.2pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:top; background-color:#ffffff">
+							<p style="t-i:0pt; line-height:12pt">
+								<span style="font-size:10pt">99:5</span>
+							</p>
+						</td>
+						<td style="width:187.15pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; background-color:#ffffff">
+							<p style="t-i:0pt; line-height:12pt">
+								<span style="font-size:10pt">Differentierad klimatbilbonus</span>
+							</p>
+						</td>
+						<td style="width:68.1pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:bottom; background-color:#ffffff">
+							<p style="t-i:0pt; text-align:right; line-height:12pt">
+								<span style="font-size:10pt">±0</span>
+							</p>
+						</td>
+						<td style="width:68.1pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:bottom; background-color:#ffffff">
+							<p style="t-i:0pt; text-align:right; line-height:12pt">
+								<span style="font-size:10pt">1</span><span style="font-size:10pt">&#xa0;</span><span style="font-size:10pt">400</span><span style="font-size:10pt">&#xa0;</span><span style="font-size:10pt">000</span>
+							</p>
+						</td>
+					</tr>
+					<tr style="height:8.5pt">
+						<td style="width:14.2pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:top; background-color:#ffffff">
+							<p style="t-i:0pt; line-height:12pt">
+								<span style="font-size:10pt">99:6</span>
+							</p>
+						</td>
+						<td style="width:187.15pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; background-color:#ffffff">
+							<p style="t-i:0pt; line-height:12pt">
+								<span style="font-size:10pt">Klimatskyddsavtal</span>
+							</p>
+						</td>
+						<td style="width:68.1pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:bottom; background-color:#ffffff">
+							<p style="t-i:0pt; text-align:right; line-height:12pt">
+								<span style="font-size:10pt">±0</span>
+							</p>
+						</td>
+						<td style="width:68.1pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:bottom; background-color:#ffffff">
+							<p style="t-i:0pt; text-align:right; line-height:12pt">
+								<span style="font-size:10pt">3</span><span style="font-size:10pt">&#xa0;</span><span style="font-size:10pt">400</span><span style="font-size:10pt">&#xa0;</span><span style="font-size:10pt">000</span>
+							</p>
+						</td>
+					</tr>
+					<tr style="height:8.5pt">
+						<td style="width:14.2pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:top; background-color:#ffffff">
+							<p style="t-i:0pt; line-height:12pt">
+								<span style="font-size:10pt">99:7</span>
+							</p>
+						</td>
+						<td style="width:187.15pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; background-color:#ffffff">
+							<p style="t-i:0pt; line-height:12pt">
+								<a name="_Hlk178866427"><span style="font-size:10pt">Klimatanpassningskliv och storskaliga anpassningsåtgärder</span></a>
+							</p>
+						</td>
+						<td style="width:68.1pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:bottom; background-color:#ffffff">
+							<p style="t-i:0pt; text-align:right; line-height:12pt">
+								<span style="font-size:10pt">±0</span>
+							</p>
+						</td>
+						<td style="width:68.1pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:bottom; background-color:#ffffff">
+							<p style="t-i:0pt; text-align:right; line-height:12pt">
+								<span style="font-size:10pt">3</span><span style="font-size:10pt">&#xa0;</span><span style="font-size:10pt">300</span><span style="font-size:10pt">&#xa0;</span><span style="font-size:10pt">000</span>
+							</p>
+						</td>
+					</tr>
+					<tr style="height:8.5pt">
+						<td style="width:14.2pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:top; background-color:#ffffff">
+							<p style="t-i:0pt; line-height:12pt">
+								<span style="font-size:10pt">99:8</span>
+							</p>
+						</td>
+						<td style="width:187.15pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; background-color:#ffffff">
+							<p style="t-i:0pt; line-height:12pt">
+								<span style="font-size:10pt">Cirkuleringskliv</span>
+							</p>
+						</td>
+						<td style="width:68.1pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:bottom; background-color:#ffffff">
+							<p style="t-i:0pt; text-align:right; line-height:12pt">
+								<span style="font-size:10pt">±0</span>
+							</p>
+						</td>
+						<td style="width:68.1pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:bottom; background-color:#ffffff">
+							<p style="t-i:0pt; text-align:right; line-height:12pt">
+								<span style="font-size:10pt">1</span><span style="font-size:10pt">&#xa0;</span><span style="font-size:10pt">000</span><span style="font-size:10pt">&#xa0;</span><span style="font-size:10pt">000</span>
+							</p>
+						</td>
+					</tr>
+					<tr style="height:8.5pt">
+						<td style="width:14.2pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:top; background-color:#ffffff">
+							<p style="t-i:0pt; line-height:12pt">
+								<span style="font-size:10pt">99:9</span>
+							</p>
+						</td>
+						<td style="width:187.15pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; background-color:#ffffff">
+							<p style="t-i:0pt; line-height:12pt">
+								<span style="font-size:10pt">Konverteringspremie för personbilar</span>
+							</p>
+						</td>
+						<td style="width:68.1pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:bottom; background-color:#ffffff">
+							<p style="t-i:0pt; text-align:right; line-height:12pt">
+								<span style="font-size:10pt">±0</span>
+							</p>
+						</td>
+						<td style="width:68.1pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:bottom; background-color:#ffffff">
+							<p style="t-i:0pt; text-align:right; line-height:12pt">
+								<span style="font-size:10pt">100</span><span style="font-size:10pt">&#xa0;</span><span style="font-size:10pt">000</span>
+							</p>
+						</td>
+					</tr>
+					<tr style="height:8.5pt">
+						<td style="width:14.2pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:top; background-color:#ffffff">
+							<p style="t-i:0pt; line-height:12pt">
+								<span style="font-size:10pt">99:10</span>
+							</p>
+						</td>
+						<td style="width:187.15pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; background-color:#ffffff">
+							<p style="t-i:0pt; line-height:12pt">
+								<span style="font-size:10pt">Havsmiljöforskning</span>
+							</p>
+						</td>
+						<td style="width:68.1pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:bottom; background-color:#ffffff">
+							<p style="t-i:0pt; text-align:right; line-height:12pt">
+								<span style="font-size:10pt">±0</span>
+							</p>
+						</td>
+						<td style="width:68.1pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:bottom; background-color:#ffffff">
+							<p style="t-i:0pt; text-align:right; line-height:12pt">
+								<span style="font-size:10pt">50</span><span style="font-size:10pt">&#xa0;</span><span style="font-size:10pt">000</span>
+							</p>
+						</td>
+					</tr>
+					<tr style="height:8.5pt">
+						<td style="width:14.2pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:top; background-color:#ffffff">
+							<p style="t-i:0pt; line-height:12pt">
+								<span style="font-size:10pt">99:11</span>
+							</p>
+						</td>
+						<td style="width:187.15pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; background-color:#ffffff">
+							<p style="t-i:0pt; line-height:12pt">
+								<span style="font-size:10pt">Lokalt havs- och vattenvårdsarbete</span>
+							</p>
+						</td>
+						<td style="width:68.1pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:bottom; background-color:#ffffff">
+							<p style="t-i:0pt; text-align:right; line-height:12pt">
+								<span style="font-size:10pt">±0</span>
+							</p>
+						</td>
+						<td style="width:68.1pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:bottom; background-color:#ffffff">
+							<p style="t-i:0pt; text-align:right; line-height:12pt">
+								<span style="font-size:10pt">80</span><span style="font-size:10pt">&#xa0;</span><span style="font-size:10pt">000</span>
+							</p>
+						</td>
+					</tr>
+					<tr style="height:8.5pt">
+						<td style="width:14.2pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:top; background-color:#ffffff">
+							<p style="t-i:0pt; line-height:12pt">
+								<span style="font-size:10pt">99:12</span>
+							</p>
+						</td>
+						<td style="width:187.15pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; background-color:#ffffff">
+							<p style="t-i:0pt; line-height:12pt">
+								<span style="font-size:10pt">Miljöbonus för husbilar</span>
+							</p>
+						</td>
+						<td style="width:68.1pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:bottom; background-color:#ffffff">
+							<p style="t-i:0pt; text-align:right; line-height:12pt">
+								<span style="font-size:10pt">±0</span>
+							</p>
+						</td>
+						<td style="width:68.1pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:bottom; background-color:#ffffff">
+							<p style="t-i:0pt; text-align:right; line-height:12pt">
+								<span style="font-size:10pt">80</span><span style="font-size:10pt">&#xa0;</span><span style="font-size:10pt">000</span>
+							</p>
+						</td>
+					</tr>
+					<tr style="height:8.5pt">
+						<td colspan="2" style="width:201.3pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding:3.4pt 4.25pt 1pt 1.4pt; background-color:#ffffff">
+							<p style="t-i:0pt; line-height:12pt">
+								<span style="font-size:10pt; font-weight:bold">Summa</span>
+							</p>
+						</td>
+						<td style="width:68.1pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding:3.4pt 1.4pt 1pt; vertical-align:bottom; background-color:#ffffff">
+							<p style="t-i:0pt; text-align:right; line-height:12pt">
+								<span style="font-size:10pt; font-weight:bold">16</span><span style="font-size:10pt; font-weight:bold">&#xa0;</span><span style="font-size:10pt; font-weight:bold">438</span><span style="font-size:10pt; font-weight:bold">&#xa0;</span><span style="font-size:10pt; font-weight:bold">897</span>
+							</p>
+						</td>
+						<td style="width:68.1pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding:3.4pt 1.4pt 1pt; vertical-align:bottom; background-color:#ffffff">
+							<p style="t-i:0pt; text-align:right; line-height:12pt">
+								<span style="font-size:10pt; font-weight:bold">24</span><span style="font-size:10pt; font-weight:bold">&#xa0;</span><span style="font-size:10pt; font-weight:bold">160</span><span style="font-size:10pt; font-weight:bold">&#xa0;</span><span style="font-size:10pt; font-weight:bold">500</span>
+							</p>
+						</td>
+					</tr>
+				</tbody>
+			</table>
+			<h2>
+				<span>Inledning</span>
+			</h2>
+			<p class="Normalutanindragellerluft">
+				<span>Den vetenskapliga kunskapen är samlad, gedigen och tydlig: Den globala medel</span><span>&#xad;</span><span>temperaturen stiger i allt snabbare takt och den främsta orsaken är mänsklig aktivitet. Sedan den industriella revolutionen har medeltemperaturen ökat med över 1</span><span>&#xa0;</span><span>grad och kombinationen av klimatförändringen och väderfenomenet El Niño har lett till att vi sannolikt överskrider 1,5 graders global medeltemperaturhöjning de närmsta åren. Den globala medeltemperaturhöjningen har redan lett till ett förändrat klimat och i Sverige går uppvärmningen dubbelt så fort som det globala genomsnittet. Uppvärmningen går också snabbare i de norra delarna av Sverige än i de södra. Klimatförändringen innebär enorma risker för Sveriges invånare och företag. Sverige drabbas både direkt genom kraftigare skyfall, risk för översvämningar, ras och skred, torka, värmebölja, skogs</span><span>&#xad;</span><span>bränder och havsnivåhöjning exempelvis, och indirekt då Sverige påverkas av klimat</span><span>&#xad;</span><span>krisens konsekvenser i andra delar av världen. Samtidigt innebär arbetet för att hejda klimatförändringen, klimatomställningen, stora möjligheter för hela Sverige. </span>
+			</p>
+			<p>
+				<span>Parallellt med klimatkrisen står vi inför en ekologisk kris, och förändringen som sker inom detta område kan på många sätt inte återställas. Forskningen visar att vi kan vara på väg mot det sjätte massutdöendet på planeten. Sedan 1970-talet är minskningen av världens bestånd av fåglar, fiskar, däggdjur och grod- och kräldjur hela 68 procent, enligt WWF:s Living Planet Report. En miljon arter riskerar att utrotas från jorden. När en art har utrotats, är den utrotad för evigt. </span>
+			</p>
+			<p>
+				<span>Det finns en bred vetenskaplig samstämmighet om både orsaker till naturkrisen och de åtgärder som behöver sättas in för att vända den negativa trenden. De främsta orsakerna till artutrotningen är förlusten av livsmiljöer, ett alldeles för högt jakt- och fisketryck, invasiva arter, utsläpp av föroreningar och en eskalerande klimatkris. Utöver ett starkare och mer omfattande skydd av naturen, handlar åtgärdsbehoven om att förändra brukningsmetoder och om att förstörd natur måste återskapas. </span>
+			</p>
+			<p>
+				<span>Det finns fortfarande väldigt mycket som kan göras för att undvika, mildra och anpassa våra samhällen till konsekvenserna av klimatkrisen och den ekologiska krisen. Miljöpartiet vill bygga ett tryggt och fritt samhälle inom planetens gränser. Det är en historisk satsning som lyssnar till vetenskapen och gör vad som krävs för att nå de globala hållbarhetsmålen i Agenda 2030.</span>
+			</p>
+			<h2>
+				<span>Förstärk Klimatklivet och Industriklivet</span>
+			</h2>
+			<p class="Normalutanindragellerluft">
+				<span>Klimatklivet och Industriklivet är två av de viktigaste gröna framstegen för Miljöpartiet i regeringsställning. Satsningarna leder till industriomställning, näringslivsutveckling och en hållbar samhällsutveckling som kommer hela landet till del. Industriklivet används för att finansiera forskning, förstudier och investeringar som minskar industrins utsläpp, bidrar till negativa utsläpp eller insatser som är strategiskt viktiga för industrins klimatomställning. Klimatklivet används bland annat för att finansiera utbyggnad av laddinfrastruktur, produktion av biogas och olika typer av energikonverteringar. Den vanligaste åtgärden för lantbrukare är att byta från fossila bränslen till förnybar energi i de pannor som används för att torka spannmål eller värma upp stallar och växthus. </span>
+			</p>
+			<p style="t-i:0pt">
+				<span>För att möjliggöra en ökad takt och omfattning av utsläppsminskningar som genereras av båda initiativ krävs budgetförstärkningar. Miljöpartiet föreslår att förstärka Klimat</span><span>&#xad;</span><span>klivet i anslag 1:16 Klimatinvesteringar med tre miljarder om året. </span><span style="-aw-import:spaces">&#xa0;</span><span>Bemyndiganderamen för Klimatklivet bör ökas från av regeringen föreslagna 4,6 miljarder till 7 miljarder, utifrån Naturvårdsverkets äskande. Vidare satsar Miljöpartiet 1,5 miljarder mer än regeringen på Industriklivet i anslag 1:18.</span>
+			</p>
+			<h2>
+				<span>Klimatbonus för rena elbilar</span>
+			</h2>
+			<p class="Normalutanindragellerluft">
+				<span>Andelen elbilar i nybilsförsäljningen har tidigare ökat snabbt mycket tack vare politiska reformer som elbilspremien och bonus malus-systemet. Regeringens beslut att ta bort klimatbonusen för elbilar i kombination med att kraftigt öka de fossila subventionerna har inneburit att omställningen till elbilar bromsat in. För att nå utsläppsmålen för transportsektorn krävs åtgärder för att stötta den pågående elektrifieringen med såväl bonus för miljöbilar som malus för fossildrivna bilar.</span>
+			</p>
+			<p>
+				<span>Miljöpartiet vill införa en differentierad klimatbonus med ett pristak på 550</span><span>&#xa0;</span><span>000 kronor. En klimatbonusbil med inköpskostnad upp till 400</span><span>&#xa0;</span><span>000 kronor ska ge en bonus på 50</span><span>&#xa0;</span><span>000 kronor och en klimatbonusbil med inköpskostnad mellan 400</span><span>&#xa0;</span><span>000 och 550</span><span>&#xa0;</span><span>000 kronor ska ge 30</span><span>&#xa0;</span><span>000 kronor i bonus. Det gör att stödet blir mer träffsäkert, når inkomstgrupper med större behov av bonus och inte går till dyra lyxbilar. För de </span><span style="letter-spacing:-0.05pt">1</span><span style="letter-spacing:-0.05pt">&#xa0;</span><span style="letter-spacing:-0.05pt">700</span><span style="letter-spacing:-0.05pt">&#xa0;</span><span style="letter-spacing:-0.05pt">000 vuxna individer som bor i tätortsnära landsbygdskommuner, glesa landsbygds</span><span style="letter-spacing:-0.05pt">&#xad;</span><span style="letter-spacing:-0.05pt">kommuner</span><span> samt mycket glesa landsbygdskommuner föreslår vi en extra landsbygds</span><span>&#xad;</span><span>bonus på 10</span><span>&#xa0;</span><span>000 kronor utöver de generella bonusnivåerna angivna ovan. För den som bor i någon av dessa kommuntyper och köper en elbil till ett pris under 400</span><span>&#xa0;</span><span>000 ges alltså en bonus på 60</span><span>&#xa0;</span><span>000 kronor. Stödet begränsas till nollutsläppsbilar som maximalt drar 1,6</span><span>&#xa0;</span><span>kWh/mil enligt WLTP. Laddhybrider tas bort från stödsystemet.</span>
+			</p>
+			<p>
+				<span>Miljöpartiet vill satsa 1,4 miljarder 2025 på det nya anslaget 99:5 Differentierad klimatbilsbonus. Systemet kommer successivt att behöva ses över i förhållande till utvecklingen.</span>
+			</p>
+			<h2>
+				<span>Elbilsstöd riktat mot låg- och medelinkomsttagare i landsbygd</span>
+			</h2>
+			<p class="Normalutanindragellerluft">
+				<span>Miljöpartiet vill införa ett inkomstprövat stöd för leasing av elbil riktat till boende i lands- och glesbygd, inspirerat av den franska leasingchecken som riktar sig till personer med lägre inkomster och som har långt till jobbet. Intresset för det franska stödet har varit stort. Vi föreslår ett stöd på upp till 2</span><span>&#xa0;</span><span>500 kronor i månaden som riktas främst till personer i landsbygd som tjänar under medianinkomsten (cirka 35</span><span>&#xa0;</span><span>000 kronor i månaden). Både begagnade och nya elbilar som kostar under 500</span><span>&#xa0;</span><span>000 ska vara berättigade till stöd. Krav ska ställas på klimatpåverkan under produktionen av bilen. Miljöpartiet satsar 1,5 miljarder kronor per år det nya anslaget 99:1 Leasingcheck för elbil till låg- och medelinkomsttagare.</span>
+			</p>
+			<h2>
+				<span>Bonus för att konvertera en fossilbil till eldrift eller biogasdrift</span>
+			</h2>
+			<p class="Normalutanindragellerluft">
+				<span>För att minska utsläppen från den befintliga fordonsflottan och samtidigt minska behovet av inblandning av biodrivmedel i bensin och diesel vill Miljöpartiet införa ett marknadsintroduktionsstöd för konvertering av fossilbilar till eldrift. Ett sådant stöd finns i Frankrike och uppgår till 6</span><span>&#xa0;</span><span>000 euro. Vårt förslag är ett stöd som uppgår till 60</span><span>&#xa0;</span><span>000 kronor för konvertering av elbilar. Stödet för elkonvertering får maximalt uppgå till 80 procent av konverteringskostnaden. Vi föreslår även ett stöd för konvertering av fossilbilar till biodrivmedel och biogasdrift, där stödet maximalt får uppgå till halva konverteringskostnaden. Miljöpartiet satsar totalt 200 miljoner över tre år på anslag 99:9. </span>
+			</p>
+			<h2>
+				<span>Elbusspremien ska finnas kvar</span>
+			</h2>
+			<p class="Normalutanindragellerluft">
+				<span>Kollektivtrafiken behöver långsiktiga spelregler. När regeringen i augusti 2023 hastigt ändrade villkoren för elbusspremien påverkades branschen utan möjlighet att anpassa sig till förutsättningarna. Det skadade även förtroendet för nationella stödsystem i stort. Miljöpartiet vill behålla elbusspremien och tillför 300 miljoner kronor per år inom anslag 1:17 Klimatpremier.</span>
+			</p>
+			<h2>
+				<span>Reformerad och förstärkt skrotningspremie</span>
+			</h2>
+			<p class="Normalutanindragellerluft">
+				<span>Miljöpartiet vill även öka anslaget 1:17 Klimatpremier med 500 miljoner kronor för att förstärka och reformera regeringens ineffektivt utformade skrotningspremie i linje med Miljöpartiets tidigare förslag på en mer effektiv utformning. En skrotningspremie på 20</span><span>&#xa0;</span><span>000 kronor erhålls för den fordonsägare som skrotar en äldre bil med förbrännings</span><span>&#xad;</span><span>motor och köper eller leasar en elbil alternativt som ersättning för köp av periodkort i kollektivtrafiken eller vid köp av elcykel. Fordonet som skrotas ska vara 15 år eller äldre och även ha varit i trafik under den senaste 12-månadersperioden. Syftet med satsningen är att få bort äldre fordon med högre utsläpp och sämre trafiksäkerhet än nyare fordon från vägarna.</span>
+			</p>
+			<h2>
+				<span>Cirkuleringsklivet – nytt investeringsstöd för cirkulära flöden av kritiska metaller och mineral</span>
+			</h2>
+			<p class="Normalutanindragellerluft">
+				<span>Även med stort fokus på ökad resurseffektivitet i transport- respektive energisystemet kräver klimatomställningen kraftigt ökad tillgång på kritiska metaller och mineral. En stor forskningssammanställning från Kungl. Ingenjörsvetenskapsakademien visar a</span><span style="color:#1d1d1b">tt det varken är hållbart eller tillräckligt att enbart förlita sig på traditionell gruvbrytning för att möta de ökade behoven. För att klara klimatomställningen är det helt centralt att skapa cirkulära flöden av kritiska metaller och mineral. </span><span>Den nya EU-förordningen om kritiska råmaterial CRMA (Critical Raw Material Act) anger en rad målsättningar för EU:s egna kapacitet gällande strategiska råmaterial till 2030, däribland att minst tio procent av det som konsumeras ska brytas inom EU och att minst 25 procent ska komma från återvinning.</span><span style="color:#1d1d1b"> I syfte att accelerera arbetet med att skapa cirkulära flöden av kritiska metaller och mineral satsar Miljöpartiet 1 miljard om året i anslag 99:8 på ett nytt investeringsstöd – Cirkuleringsklivet. Stödets utformning liknar Industriklivets, och anslaget får </span><span>användas för utgifter kopplade till åtgärder såsom forskning, förstudier och investeringar som bidrar till att öka industrins kapacitet att skapa cirkulära flöden av för klimatomställningen kritiska metaller och mineral.</span>
+			</p>
+			<h2>
+				<span>Miljöprövningar och tillståndsprocesser </span>
+			</h2>
+			<p class="Normalutanindragellerluft">
+				<span>För moderna och effektiva tillståndsprocesser som stödjer en grön samhällsomställning krävs satsningar på myndigheterna för att understödja denna utveckling, bland annat det arbete som sker på länsstyrelserna, där Miljöpartiet även gör en omfattande satsning. Inom ramen för anslag 1:1 avsätter Miljöpartiet 20 miljoner för att stärka Naturvårds</span><span>&#xad;</span><span>verkets arbete med dessa frågor.</span>
+			</p>
+			<h2>
+				<span>Inrätta en Klimatstyrka för snabbare tillståndsprocesser</span>
+			</h2>
+			<p class="Normalutanindragellerluft">
+				<span>Miljöpartiet vill genomföra </span><span style="font-style:italic">Miljöprövningsutredningens</span><span> förslag om att inrätta en Klimatstyrka vid någon av länsstyrelserna bestående av erfarna handläggare. Klimat</span><span>&#xad;</span><span>styrkan ska stödja samtliga länsstyrelser i deras arbete med nya eller ändrade miljö</span><span>&#xad;</span><span>tillstånd för verksamheter och åtgärder som väsentligt bidrar till att uppnå klimatmålen. Miljöpartiet satsar 8 miljoner om året kommande tre år i utgiftsområde 1 anslag 5:1 för att inrätta en Klimatstyrka. Miljöpartiet satsar även 100 miljoner på länsstyrelsernas regionala arbete med klimatomställning som bland annat samordnar och ger stöd till näringslivet.</span>
+			</p>
+			<h2>
+				<span>Kompetenslyft för klimatomställningen</span>
+			</h2>
+			<p class="Normalutanindragellerluft">
+				<span>För att möta framtida behov på arbetsmarknaden till följd av klimatomställningen behöver kompetenssatsningar genomföras. Ett statligt finansierat kompetenslyft riktat mot nyckelkompetenser på arbetsmarknaden kan underlätta näringslivets omställning och samhällets omställning till en cirkulär ekonomi och bidra till att minska arbets</span><span>&#xad;</span><span>lösheten. Miljöpartiet var drivande i att få till en satsning på ett kompetenslyft i budget</span><span>&#xad;</span><span>propositionen för 2022. Den nuvarande regeringen har valt att ta bort denna satsning. Det är viktigt för Sveriges löntagare och den gröna omställningen att denna satsning återinförs. Miljöpartiet vill satsa 200 miljoner per år på anslag 99:4 Kompetenslyft för klimatomställningen.</span>
+			</p>
+			<h2>
+				<span>Klimatskyddsavtal för uppskalning och innovation av nya tekniker</span>
+			</h2>
+			<p class="Normalutanindragellerluft">
+				<span>Miljöpartiet vill även införa ett nytt anslag 99:6 Klimatskyddsavtal. Klimatskyddsavtal (Carbon Contracts for Difference, CCD) är ett nytt innovationsrelaterat styrmedel som stöttar marknadsintroduktion och uppskalning av nya tekniker för produkter eller tjänster med avsevärt lägre klimatfotavtryck än befintliga tekniker. Genom att staten ska garantera ett fast pris på koldioxid under en viss tidsperiod till företag som vill göra stora klimatinvesteringar minskar den finansiella osäkerheten. I Tyskland har den gröna ekonomiministern Robert Habeck lanserat ett CCD-program och har avsatt tiotals miljarder euro för ändamålet. I Nederländerna och Portugal finns redan långt gångna diskussioner om att införa klimatskyddsavtal (CCD) på nationell nivå. Även Frankrike och Storbritannien har visat intresse för instrumentet. Miljöpartiet vill tillföra anslag 99:6 en årlig satsning om 3,4 miljarder.</span>
+			</p>
+			<h2>
+				<a name="_Hlk178680331"><span>Förstärkning av myndigheterna för att möjliggöra klimatomställningen</span></a>
+			</h2>
+			<p class="Normalutanindragellerluft">
+				<a name="_Hlk178680345"><span style="-aw-bookmark-end:_Hlk178680331"></span><span>Det är fortsatt mycket viktigt att grundfinansieringen av våra miljövårdande myndig</span><span>&#xad;</span><span>heter säkras och att denna också tillåts att öka för att finansiera nödvändiga satsningar. I</span><span>&#xa0;</span><span>den förstärkning av hela UO20 som Miljöpartiet vill göra ingår nivåhöjningar på samtliga myndigheter. Miljöpartiet avsätter 125 miljoner mer än regeringen på anslag 1:1 Naturvårdsverket för 2025, och totalt 398 miljoner mer än regeringen för de kommande tre åren, för att möjliggöra en generell ambitionshöjning av myndighetens arbete, varav ett antal satsningar särskilt öronmärks under respektive avsnitt nedan.</span></a>
+			</p>
+			<p>
+				<span>Inom ramen för anslag 1:1 Naturvårdsverket öronmärks 23 miljoner för nya uppgifter på klimatområdet: förtydligat och utökat uppdrag att analysera klimateffekter, effektivisering av styrmedel, klimatpolitiska analyser och förbättrad klimatstatistik. Även samordning av det finansiella systemets bidrag till klimatomställningen och hållbar utveckling ryms inom denna satsning. </span>
+			</p>
+			<p>
+				<span>Miljöpartiet tillmötesgår även Naturvårdsverkets samtliga äskanden i budget</span><span>&#xad;</span><span>underlaget till regeringen, om bland annat utökade satsningar för omställning till en cirkulär och resurseffektiv ekonomi, med ökad tillsyn och tillståndsprövning av producentansvaren, implementering av utökade producentansvar samt gränsöver</span><span>&#xad;</span><span>skridande avfallstransporter och resurseffektiva och hållbara värdekedjor. </span>
+			</p>
+			<p>
+				<span>Övriga förstärkningar av myndigheterna inom utgiftsområdet redogörs för under respektive avsnitt nedan. </span>
+			</p>
+			<h2>
+				<span style="-aw-bookmark-end:_Hlk178680345"></span><span>Öka anslagen till klimatanpassning </span>
+			</h2>
+			<p class="Normalutanindragellerluft">
+				<span>Klimatanpassningsarbete handlar om att rusta hela landet för de nya förutsättningar som den globala uppvärmningen medför. </span><span style="color:#1b1b1b">Arbetet med att anpassa våra samhällen, att anpassa </span><span>vägar, byggnader, jordbruk, ladugårdar, skogsbruk, industri, deponier, sjukhus, skolgårdar, äldreboenden, djur och natur </span><span style="color:#1b1b1b">till klimatförändringarna, måste löpa parallellt med en politik för utsläppsminskningar. Det handlar ytterst om att skydda människor och miljö och alla samhällsverksamheter från klimatrelaterade risker.</span>
+			</p>
+			<p>
+				<span>Arbetet med klimatanpassning måste stärkas på flera fronter. Det handlar bland annat om att stötta specifika sektorer som kommer att vara särskilt utsatta för det förändrade klimatet. Inte minst handlar det om företag inom det svenska jordbruket och skogs</span><span>&#xad;</span><span>bruket som redan idag är drabbade av klimatförändringarnas effekter, och framgent kommer dessa att öka. Klimatanpassning kommer att vara en förutsättning för lönsam</span><span>&#xad;</span><span>het för företag inom dessa sektorer.</span>
+			</p>
+			<p>
+				<span>Miljöpartiet anser att resurserna till klimatanpassning kraftigt måste förstärkas. Samhällets insatser hittills har i mycket riktats mot att ta fram kunskaps- och planerings</span><span>&#xad;</span><span>underlag. Detta arbete är centralt och måste fortsätta. Men det är också viktigt att insatserna blir mer konkreta. Arbetet med samhällsskydd och beredskap behöver utvecklas och förstärkas. Det behövs även fortsatt kunskapshöjande insatser, kart</span><span>&#xad;</span><span>läggningar, karteringar och planeringsunderlag.</span>
+			</p>
+			<p>
+				<span>Studier har visat på att det blir upp till tio gånger dyrare att betala kostnaderna för konsekvenserna av klimatförändringar och utebliven anpassning än att investera i att förebygga klimatrelaterade skador. Samtidigt som det är betydligt mer kostnadseffektivt att klimatanpassa Sverige än att låta bli, kräver arbetet med att rusta Sverige mot uppvärmningens effekter stora investeringar över lång tid framåt. Klimatanpassnings</span><span>&#xad;</span><span>utredningen räknar med att kostnaden för att klimatanpassa Sverige kan uppgå till ca 205 miljarder kronor fram till 2100. Kostnaderna för att förebygga kusterosion och översvämningar bara i kustkommunerna till år 2100 har beräknats överstiga 100 miljarder kronor.</span>
+			</p>
+			<p>
+				<span>Miljöpartiet vill göra omfattande satsningar på klimatanpassning. Totalt satsar vi runt 5 miljarder mer än regeringen per år, fördelat på olika utgiftsområden och anslag. Satsningarna går till förstärkta resurser till relevanta myndigheter för konkreta åtgärder inom bland annat vattenhantering, livsmedelsförsörjning, klimatrelaterade över</span><span>&#xad;</span><span>sväm</span><span>&#xad;</span><span>ningar, ras, skred, värmeböljor och skogsbränder. Även myndigheternas arbete med att bistå med samordning och kunskapsspridning gentemot aktörer på lokal och regional nivå där kommunerna har en nyckelroll behöver förstärkas. Över de närmaste tre åren uppgår vårasatsningar till över tio miljarder kronor.</span>
+			</p>
+			<h2>
+				<span>Storskaliga klimatanpassningsåtgärder där statlig finansiering är särskilt lämplig</span>
+			</h2>
+			<p class="Normalutanindragellerluft">
+				<span>En nationell plan för riktad statlig finansiering till ett antal storskaliga projekt på lokal och regional nivå, där statligt finansieringsstöd är särskilt motiverat, bör tas fram. Vi vill inrätta det nya anslaget 99:7 och tillför 3 miljarder om året. </span>
+			</p>
+			<h2>
+				<span style="color:#1b1b1b">Klimatanpassningskliv för innovativa investeringar</span>
+			</h2>
+			<p class="Normalutanindragellerluft">
+				<span>Vi vill införa det nya stödet Klimatanpassningsklivet, som ska delfinansiera innovativa investeringar med stor klimatanpassningsnytta, i likhet med satsningen Klimatklivet som Miljöpartiet införde, som finansierar utsläppsminskande åtgärder. Miljöpartiet vill satsa 300 miljoner om året ett klimatanpassningskliv i det nya anslaget 99:7.</span>
+			</p>
+			<h2>
+				<span style="color:#1b1b1b">Klimatanpassningsmedel till MSB och länsstyrelserna avvecklas inte</span>
+			</h2>
+			<p class="Normalutanindragellerluft">
+				<span>På anslag 1:10 Klimatanpassning satsar vi 50,5 miljoner mer än regeringen för 2024. För att säkra det viktiga arbetet med att begränsa samhällets sårbarhet till följd av klimat</span><span>&#xad;</span><span>förändringarna lägger Miljöpartiet tillbaka de medel till MSB och länsstyrelserna som regeringen avvecklade i budgetpropositionen för 2024.</span>
+			</p>
+			<h2>
+				<span>Stärk SMHI:s arbete med klimatanpassning och nationell beredskap</span>
+			</h2>
+			<p class="Normalutanindragellerluft">
+				<span>Sveriges meteorologiska och hydrologiska institut för år 2025 behöver förstärkas med 121 miljoner utöver regeringens anslag, i syfte att finansiera bland annat expertrådet för klimatanpassning samt åtgärder som leder till ökad nationell beredskap och ett robust observationsnät.</span>
+			</p>
+			<h2>
+				<span>Omfattande satsningar på starka ekosystem</span>
+			</h2>
+			<p class="Normalutanindragellerluft">
+				<a name="_Hlk178676873"><span>De nationella miljömålen, Agenda 2030 och miljölagstiftningen är centrala utgångs</span><span>&#xad;</span><span>punkter i arbetet med att säkra en god miljö som kan fortsätta att förse oss med livs</span><span>&#xad;</span><span>viktiga ekosystemtjänster. EU:s gemensamma politik för klimat och miljö är nödvändig för att stärka arbetet med ren luft, rent vatten, biologisk mångfald och klimatomställning i hela EU. Klimat- och miljölagstiftningen behöver på många sätt skärpas och anpassas efter den kunskap vi har idag om klimat- och miljökrisens allvar. Svensk lagstiftning behöver i flera avseenden anpassas efter EU:s miljölagstiftning för att vi ska nå upp till gemensamma miljö- och klimatmål. Existerande globala och regionala miljörelaterade </span><span style="letter-spacing:-0.05pt">avtal och direktiv behöver fullt ut implementeras, exempelvis konventionen för biologisk</span><span> mångfald och EU:s direktiv för arter, habitat och havsmiljö. Miljö- och klimatskadliga subventioner behöver tas bort och de ekonomiska incitamenten för beteenden med positiv inverkan på klimat och miljö behöver öka. </span></a>
+			</p>
+			<p>
+				<span>Omkring en halv till en miljon av planetens drygt åtta miljoner arter riskerar att utrotas inom några årtionden om inte kraftfulla åtgärder vidtas för att hejda den katastrofala utvecklingen. Forskare talar om att vi är inne i den sjätte massutrotningen. Utvecklingen är global men är tydlig också i Sverige. Orsakerna är förstörda livs</span><span>&#xad;</span><span>miljöer, exploatering av arter genom fiske, jord- och skogsbruk, klimatförändringar, invasiva arter och miljöföroreningar.</span><span style="-aw-import:spaces">&#xa0; </span>
+			</p>
+			<p>
+				<span style="letter-spacing:-0.05pt">Sverige har genom FN:s Montrealavtal för naturen skrivit under på att vända förlusten</span><span> av biologisk mångfald till år 2030. Miljöpartiet vill göra omfattande satsningar för att skapa mer motståndskraftiga ekosystem, stärka den biologiska mångfalden, säkra att Sverige når de nationella målen och bidra till målen internationellt.</span><span style="-aw-import:spaces">&#xa0; </span>
+			</p>
+			<h2>
+				<span style="-aw-bookmark-end:_Hlk178676873"></span><span>Skydd av djur och natur </span>
+			</h2>
+			<p class="Normalutanindragellerluft">
+				<a name="_Hlk178676904"><span>Läget för den biologiska mångfalden i Sverige är på många sätt akut. Runt tusen skogs</span><span>&#xad;</span><span>levande arter är hotade. Ett omfattande problem är bristen på större samman</span><span>&#xad;</span><span>hängande områden med höga naturvärden, som är ett krav för många arter. Östersjöns ekosystem står inför en akut kris, och läget i Västerhavet är mycket allvarligt. </span></a>
+			</p>
+			<p>
+				<span>För att vända artkrisen i skogen, säkra fungerande och motståndskraftiga ekosystem och nå miljömålen krävs därför omfattande satsningar på att bevara och återskapa värdefulla naturområden för framtiden. Avverkningstakten för värdefulla naturskogar är redan mycket hög, enligt myndigheternas utvärderingar. Det handlar nu om att säkra bevarandet av det sammanhängande bälte av fjällnaturskogar som pekats ut i proposi</span><span>&#xad;</span><span>tionen </span><span style="font-style:italic">Stärkt äganderätt, flexibla skyddsformer och naturvård i skogen</span><span> (prop. 2021/22:58) och som Sverige har ett internationellt ansvar för att bevara. Det handlar också om annan värdefull natur över hela landet, som att bevara de sista resterna av kontinuitetsskogarna. </span>
+			</p>
+			<p>
+				<span>På anslag 1:14 vill Miljöpartiet därför satsa 3,8 miljarder mer än regeringen 2025, för att nå upp till en total anslagsnivå på 5 miljarder per år. Av dessa avsätts totalt 2,5 miljarder per år till fjällnära skogar, och 2,5 miljarder per år till skyddsvärda skogar i hela landet. Totalt över tre år satsar vi ca 12 miljarder mer än regeringen.</span><span style="-aw-import:spaces">&#xa0; </span>
+			</p>
+			<h2>
+				<span style="-aw-bookmark-end:_Hlk178676904"></span><span>Åtgärder för värdefull natur, hotade arter och naturtyper</span>
+			</h2>
+			<p class="Normalutanindragellerluft">
+				<a name="_Hlk178677176"><span>Även pengarna för finansiering av arbetet med skötsel, stärkt biologisk mångfald och olika åtgärder för värdefull natur behöver öka. Efter att regeringen skurit ned på anslaget under 2023 och 2024 finns även en omfattande åtgärdsskuld som måste åtgärdas. Det behövs exempelvis ett förstärkt arbete med kunskapsuppbyggnad kring statusen för den biologiska mångfalden och kunskapsuppbyggnad om hot och status för arter och habitat, planering av grön infrastruktur och riskanalyser. Det behövs också omfattande insatser för skötsel av redan skyddade områden. I många områden hotas exempelvis naturvärdena av igenväxning och av att hävden upphört. Det gäller exempelvis många gräsmarker. Det handlar också om fortsatta insatser mot invasiva arter och för hotade arter, som pollinatörer, och andra satsningar på att stärka den biologiska mångfalden. </span></a>
+			</p>
+			<p>
+				<span>På anslag 1:3 vill Miljöpartiet därför satsa 1,6 miljarder mer än regeringen 2025, och totalt 5,5 miljarder mer än regeringen över kommande tre år.</span><span style="-aw-import:spaces">&#xa0; </span>
+			</p>
+			<p>
+				<span>Miljöpartiet vill tillmötesgå Naturvårdsverkets samtliga budgetäskanden både avseende ett permanent tillskott till Naturvårdsverkets arbete med förstärkt biologisk mångfald och skötsel av skyddad natur och ett antal särskilda satsningar på natur</span><span>&#xad;</span><span>baserade lösningar för klimatresiliens samt åtaganden enligt EU:s restaurerings</span><span>&#xad;</span><span>förordning. Tillskottet av budgetmedel innebär även förstärkningar i arbetet med hotade arter, pollinatörer i skogslandskapet, kunskapsuppbyggnad av biologisk mångfald och planering av grön infrastruktur, samt förstärkt arbete med att stävja illegal handel med hotade arter.</span><span style="-aw-import:spaces">&#xa0; </span>
+			</p>
+			<h2>
+				<a name="_Hlk178677208"><span style="-aw-bookmark-end:_Hlk178677176"></span><span>Återvätning av dikade torvmarker – en nyckelåtgärd för både klimat och miljö</span></a>
+			</h2>
+			<p class="Normalutanindragellerluft">
+				<a name="_Hlk178677244"><span style="-aw-bookmark-end:_Hlk178677208"></span><span>Våtmarker som dikats ut läcker stora mängder växthusgaser, men dessa läckage kan stoppas genom att marken återvätas. Återvätning har också många positiva effekter för djur och växter. Den biologiska mångfalden stärks, näringstillförseln och övergöd</span><span>&#xad;</span><span>ningen i sjöar, vattendrag och hav kan minska och den vattenhållande förmågan i landskapet stärks, vilket bidrar till ökad klimatanpassning. </span></a>
+			</p>
+			<p>
+				<span>Miljöpartiet föreslår en omfattande satsning på återvätning av utdikade våtmarker. Det är viktigt att denna satsning består och sträcker sig långt fram i tiden, eftersom ryckighet i finansieringen har identifierats som både en knäckfråga och ett hot mot att uppnå högre kolinlagring och klimatnytta. Under kommande mandatperioder måste Sverige öka kolinlagringen i landskapet markant, bland annat till följd av kraven i EU:s klimatlag. </span>
+			</p>
+			<p>
+				<span>Inom ramen för anslag 1:3 öronmärks 365 miljoner för återvätning av våtmarker 2025, och totalt över de kommande tre åren vill Miljöpartiet satsa 1,5 miljarder mer än regeringen på återvätning av dikade torvmarker. </span>
+			</p>
+			<h2>
+				<span>Biologisk mångfald i odlingslandskapet</span>
+			</h2>
+			<p class="Normalutanindragellerluft">
+				<span>Naturbetesmarkerna är oerhört artrika, och skötseln av ängs- och betesmarker och slåtterängar har en nyckelroll för att nå miljömålen för kulturlandskapet. </span>
+			</p>
+			<p>
+				<span>Miljöpartiet föreslår en särskild satsning riktad till markägare och brukare för att gynna arter i odlingslandskapet om 30 miljoner inom ramen för anslag 1:3. Inom ramen för anslag 1:3 öronmärks även en satsning på restaurering och skötsel av ängs- och betesmarker, inklusive mosaikmarker, om 166 miljoner för 2025.</span>
+			</p>
+			<h2>
+				<span>Förstärkt viltförvaltning</span>
+			</h2>
+			<p class="Normalutanindragellerluft">
+				<span>Inom ramen för anslag 1:3 vill vi även anslå 40 miljoner för att förstärka vilt-förvalt</span><span>&#xad;</span><span>ningen, med fokus på arbete för en förbättrad samexistens mellan lokalbefolkning och rovdjur på lokal och regional nivå, förbättrad myndighetsrådgivning, inventerings</span><span>&#xad;</span><span>system och genetiskt viktiga vargindivider, samt DNA-baserade förvaltningsverktyg. Även ersättningsnivåerna till markägare för kostnader i samband med rovdjursangrepp på tamdjur, höjs med 15 miljoner per år, inom ramen för utgiftsområde 23, anslag 1:7.</span>
+			</p>
+			<h2>
+				<span>Satsning mot invasiva arter </span>
+			</h2>
+			<p class="Normalutanindragellerluft">
+				<span>Invasiva arter blir ett allt mer påtagligt problem. Arbetet har dessutom tyvärr tappat fart sedan regeringen skar ned på budgeten för 2023. Om inte omfattande satsningar görs riskerar det arbete som gjorts under tidigare år att raseras. Miljöpartiet vill förstärka arbetet med invasiva arter inom ramen för anslag 1:3, där vi vill införa en permanent satsning, om 65 miljoner för 2025. Över tre år satsar vi 205 miljoner mer än regeringen för detta ändamål, och tillmötesgår därmed Naturvårdsverkets bedömning av budget</span><span>&#xad;</span><span>behoven de närmaste åren, vilket regeringen inte gör. </span><span style="-aw-import:spaces">&#xa0;</span>
+			</p>
+			<h2>
+				<span>Förstärkt arbete med nationalparker och friluftsliv</span>
+			</h2>
+			<p class="Normalutanindragellerluft">
+				<span>Nationalparker utgör ett mycket starkt naturskydd för framtida generationer och har även positiva effekter på landsbygdsutveckling och arbetstillfällen. Miljöpartiet vill fortsätta den satsning på att öka antalet nationalparker som inleddes av Miljöpartiet i regeringsställning, och förstärker detta arbete inklusive arbete med friluftsliv och allemansrätt med 123 miljoner kronor inom ramen för anslag 1:3. </span>
+			</p>
+			<p>
+				<span>Vi genomför även en satsning om 30 miljoner på tätortsnära natur, som är särskilt viktig för människors möjlighet till vardagsnära friluftsliv, inom ramen för anslag 1:2, utgiftsområde 23.</span>
+			</p>
+			<h2>
+				<span>Stärkt miljöövervakning – ryggraden i svenskt miljöarbete</span>
+			</h2>
+			<p class="Normalutanindragellerluft">
+				<span>Miljöövervakningen är ryggraden i svenskt miljöarbete och behöver få tillräckliga resurser. Arbetet med långa tidsserier är centralt för att kunna förstå och följa tillståndet för exempelvis våra dricksvattentäkter, fisken i hav och sjöar, skogarna och andra ekosystem över hela landet. Det finns ett stort behov av förstärkning av anslaget för att möjliggöra exempelvis utökade satsningar på PFAS-screeningar och andra farliga ämnen, förbättrad klimatstatistik, förbättrad fågelövervakning och hälsorelaterad miljöövervakning. Övervakning av mark- och jordhälsa i skogsmark behöver initieras, liksom övervakning av miljögifter i akvatiska miljöer, enligt myndigheternas gemen</span><span>&#xad;</span><span>samma förslag i den fördjupade utvärderingen av miljömålen. Överlag finns även ett behov av utveckling av nya metoder och AI-teknik, och utveckling samt bättre förvaltning av miljödatasystemen, i enlighet med Miljömålsberedningens förslag i betänkandet Havet och människan (2020:83). </span>
+			</p>
+			<p>
+				<span>Tyvärr har regeringen drastiskt skurit ned på miljöövervakningen, och verkar inte ha några planer på att höja budgetnivån. </span>
+			</p>
+			<p>
+				<span>Miljöpartiet satsar 221 miljoner mer än regeringen 2025, och totalt 703 miljoner mer än regeringen under de kommande tre åren. Inom ramen för anslaget öronmärks även 13 miljoner för miljöövervakning av genetisk mångfald, vilket krävs enligt FN:s Montreal</span><span>&#xad;</span><span>avtal, och 10 miljoner för miljöövervakning av pollinatörer. </span>
+			</p>
+			<h2>
+				<span>Stärkt miljöforskning i takt med tiden</span>
+			</h2>
+			<p class="Normalutanindragellerluft">
+				<span>Även anslagen till miljöforskning bör ökas för att vi ska kunna upprätthålla den höga nivån och fortsätta arbetet med att täcka kunskapsluckor som kan ligga till grund för ett stärkt åtgärdsarbete.</span><span style="-aw-import:spaces">&#xa0; </span>
+			</p>
+			<p>
+				<span>Miljöpartiet anser att anslag 1:5 Miljöforskning behöver en avsevärd höjning. Den nuvarande nivån har legat relativt stilla de senaste tio åren och räcker till sex parallella forskningsprojekt som löper över tre år. En nivåhöjning skulle möjliggöra fler parallella projekt, och exempelvis kunna täcka viktiga områden som cirkulär ekonomi, spridning av miljögifter och miljöeffekter av havsbaserad vindkraft, där myndigheterna identifierat behov av mer forskning. </span>
+			</p>
+			<p>
+				<span>Miljöpartiet lägger därför 56 miljoner mer än regeringen på anslag 1:5 för 2025. Totalt över kommande tre år lägger Miljöpartiet 168 miljoner mer än regeringen. </span>
+			</p>
+			<h2>
+				<span>Vänd krisen för haven </span>
+			</h2>
+			<p class="Normalutanindragellerluft">
+				<span>Utvecklingen i våra hav är oerhört allvarlig, och tillståndet för ekosystemen i både Östersjön och Västerhavet är på många sätt akut. Denna mandatperiod är kritisk för att vända utvecklingen och återuppbygga ekosystemen, och därför behövs omfattande satsningar och en bestående ökning av finansieringen. Även miljöarbetet för vattendrag och sjöar behöver förstärkas, bland annat för att finansiera arbetet med moderna miljö</span><span>&#xad;</span><span>villkor för vattenkraften.</span><span style="-aw-import:spaces">&#xa0; </span>
+			</p>
+			<p>
+				<span style="letter-spacing:-0.05pt">Hav och klimat är två sidor av samma mynt. Ett friskt, levande hav är en förutsättning</span><span> för kolinlagring och motståndskraft mot klimatförändringarna. Kopplingen mellan hav, klimatförändringar och havsförsurning behöver inkluderas i havsmiljöarbetet, och havsmiljöförvaltningen behöver få en större och tydligare roll i klimatarbetet. En ekosystembaserad förvaltningsmodell ska genomsyra allt havsmiljöarbete och hela havspolitiken, inklusive fisket. </span>
+			</p>
+			<p>
+				<span>Regeringen lämnade i somras över proposition 2023/24:156 Ett levande hav – ökat skydd, minskad övergödning och ett hållbart fiske till riksdagen. Tyvärr innehöll propositionen endast en bråkdel av de förslag Miljömålsberedningen hade lagt fram inom ramen för betänkandet SOU 202:83 Havet och människan. Regeringen valde exempelvis att inte gå vidare med förslaget om en havsmiljölag. Miljöpartiet anser att de förslag från Miljömålsberedningen som inte redan tagits vidare på annat sätt bör läggas fram av regeringen. Exempelvis bör en havsmiljölag införas och vara utgångs</span><span>&#xad;</span><span>punkt för havsmiljöarbetet. Likaså brådskar det att införa nya etappmål om skyddade områden. Sverige behöver snarast nå det nya målet om 30 procents skydd av både marina miljöer och sötvattensmiljöer, som Sverige förbundit sig att leva upp till genom FN:s nya globala naturavtal, som undertecknades i Montreal i december 2022. </span>
+			</p>
+			<p>
+				<span>Åtgärdstakten i vattenmiljöarbetet behöver öka, också för att Sverige ska nå vatten</span><span>&#xad;</span><span>direktivets mål om god ekologisk och kemisk status. Att minska övergödningen är oerhört centralt, inte minst i havsmiljöarbetet. Det behövs också ett helhetsgrepp om sjöfartens påverkan på havsmiljön. Det saknas forskning och kunskap inom flera områden som är väsentliga för att vidta rätt åtgärder för att kunna nå miljömålet Hav i balans samt levande kust och skärgård. Därför anser vi även, i likhet med Miljömåls</span><span>&#xad;</span><span>beredningen, att ett nytt anslag för Havsmiljöforskning bör införas i budgeten.</span>
+			</p>
+			<p>
+				<span>I denna budgetmotion har Miljöpartiet tagit höjd för ett genomförande av Miljömåls</span><span>&#xad;</span><span>beredningens betänkande, samt en rad andra förslag till åtgärder som förts fram av forskare och myndigheter, för att öka åtgärdstakten i havsmiljöarbetet, påbörja och skala upp arbetet med restaurering och vända krisen för de marina ekosystemen. Dessa förslag redogör vi för i partimotionen 2024/25 </span><span style="font-style:italic">Kraftsamling för levande hav och vatten</span><span>.</span>
+			</p>
+			<h2>
+				<span>En havsmiljömiljard – långsiktig nivåhöjning av Havs- och vattenmyndighetens anslag </span>
+			</h2>
+			<p class="Normalutanindragellerluft">
+				<span>På anslag 1:11 vill Miljöpartiet därför genomföra en omfattande och långsiktig höjning av Havs- och vattenmyndighetens anslag för havsmiljöarbetet för ett förstärkt arbete med bland annat ovanstående områden. År 2025 vill vi tillföra ca 1 miljarder mer än regeringen, och över tre år vill vi satsa ca 3,4 miljarder mer än regeringen. De medel som regeringen tillför anslaget räcker inte för att upprätthålla nuvarande nivå på havs- och vattenmiljöarbetet, och de räcker definitivt inte till de förslag till nya satsningar för att stärka havsmiljön, som myndigheten föreslår. Istället planerar regeringen att ytterligare minska anslagen till åtgärder för havs- och vattenmiljön (anslag 1:11) med drygt 460 miljoner inom de närmaste tre åren.</span>
+			</p>
+			<p>
+				<span>Budgetmässigt har havsmiljöarbetet länge varit nedprioriterat. Miljöpartiet anser att en högre ambitionsnivå i havsmiljöarbetet är nödvändig för att vända det kritiska tillståndet för våra havsmiljöer, och därmed är även en markant högre budgetnivå nödvändig. </span>
+			</p>
+			<p>
+				<span>Även anslag 1:15 behöver förstärkas, för att möjliggöra en expansion av myndigheten som kan understödja satsningarna inom ramen för anslag 1:11. Miljöpartiet vill förstärka anslaget med 162 miljoner mer än regeringen 2025, och totalt 486 miljoner över de kommande tre åren. </span>
+			</p>
+			<h2>
+				<span>Återinför förbudet mot industriellt fiske och stimulera hållbara fiskemetoder </span>
+			</h2>
+			<p class="Normalutanindragellerluft">
+				<span>Fisket måste bli ekosystembaserat. Trålgränsen för fisket måste omgående flyttas ut till 12 nautiska mil längs hela kusten, inga dispenser ska ges, och ett generellt förbud mot bottentrålning bör införas. Sverige bör verka för att EU tar fram en avvecklingsplan för industriell trålning, och det småskaliga kustnära fisket ska samtidigt stöttas. Det behövs fortsatta satsningar på övergång till hållbara, skonsamma fiskemetoder. </span>
+			</p>
+			<h2>
+				<span>Flytta ut trålgränsen och inför ett omställningsstöd till hållbart fiske</span>
+			</h2>
+			<p class="Normalutanindragellerluft">
+				<span>Inom ramen för anslag 1:11 vill vi öronmärka en satsning på 60 miljoner för ett omställningsstöd till hållbart fiske. Miljöpartiet vill flytta ut trålgränsen maximalt och stoppa allt industriellt fiske på svenska vatten. Stödet riktas till de fiskare som berörs av ett trålstopp för att mildra konsekvenserna, bidra till att ersätta förlorad inkomst och användas för redskapsutveckling eller redskapsbyten.</span>
+			</p>
+			<h2>
+				<span>Rädda ålen </span>
+			</h2>
+			<p class="Normalutanindragellerluft">
+				<span>Ålen är utrotningshotad. Av det ålbestånd som en gång fanns återstår bara en liten spillra. 99 procent av den europeiska ålen har försvunnit sedan 1950-talet. Ålens överlevnad hänger nu på en mycket skör tråd. Det kan räcka med en ny parasit, en sjukdom eller ett varmare hav till följd av klimatförändringar för att beståndet ska försvagas under alla gränser för återhämtning. Därför behöver vi tillämpa försiktighets</span><span>&#xad;</span><span>principen fullt ut och stoppa allt ålfiske. </span>
+			</p>
+			<p>
+				<span>Miljöpartiet vill därför avsätta 77 miljoner kronor inom ramen för anslag 1:11 under 2025 för att ersätta de fiskare som innehar ålfiskerätter genom ett frivilligt program för återköp av dessa fiskerätter.</span>
+			</p>
+			<h2>
+				<span>Ökad fiskerikontroll </span>
+			</h2>
+			<p class="Normalutanindragellerluft">
+				<span>Fusket inom fisket beräknas vara mycket omfattande; detta har konstaterats i en mängd rapporter från bl.a. myndigheter och organisationer. Oriktiga uppgifter om mängd och artsammansättning av landade fångster samt olagliga utkast bidrar till att utarma fiskbestånden och undergräver både den gemensamma fiskepolitiken inom EU och det nationella handlingsutrymmet. Miljöpartiet vill öronmärka 30 miljoner inom ramen för anslag 1:11 för en ökad fiskerikontroll. </span>
+			</p>
+			<h2>
+				<span>Ett giftfritt samhälle</span>
+			</h2>
+			<p class="Normalutanindragellerluft">
+				<span>Spridningen av olika gifter i miljön är allt mer omfattande, vilket är ett hot mot både människors hälsa och fungerande ekosystem, djur och växter och alla de tjänster som ekosystemen producerar. Barn är särskilt utsatta för den ökande mängden gifter. De är extra känsliga och på många sätt skyddslösa. Förstärkta insatser krävs för arbetet mot en mängd gifter i miljön. Det handlar bland annat om att förstärka arbetet mot PFAS, läkemedelsrester i dricksvatten och en mängd andra farliga miljögifter. Det behövs kunskapsspridande arbete och olika informationsinsatser för hur farliga ämnen kan bytas ut mot mindre farliga, spridningsvägar i miljön behöver kartläggas och arbetet med att sanera förorenade områden behöver en kraftfull förstärkning. Sverige har en oerhört viktig roll i att driva dessa frågor internationellt och inom EU, och resurser behövs också för att skala upp detta arbete. Ett förstärkt arbete med giftfritt från början är en central del i arbetet för en cirkulär ekonomi. </span>
+			</p>
+			<p>
+				<span>Miljöpartiet anser att Kemikalieinspektionens arbete är i behov av en permanent budgethöjning för att fortsätta det viktiga arbetet, inom bl.a. EU, som myndigheten bedriver. Regeringen tillför konsekvent mindre resurser till Kemikalieinspektionen än vad myndigheten säger sig behöva, vilket enligt myndigheten riskerar att försvaga detta </span><span style="letter-spacing:-0.05pt">arbete, liksom det arbete som bedrivs gentemot företag för att hjälpa de att implemen</span><span style="letter-spacing:-0.05pt">&#xad;</span><span style="letter-spacing:-0.05pt">tera</span><span> gällande lagstiftning och byta ut farliga kemikalier mot mindre farliga. Om inte myndigheten får den förstärkning som man ber om kommer man behöva så göra en neddragning med cirka 25–30 årsarbetskrafter från nuvarande bemanning. Miljöpartiet vill därför tillföra anslag 1:6 en förstärkning om 18 miljoner 2025, vilket är i linje med myndighetens äskande, och tillmötesgå myndighetens äskande under alla år i budget</span><span>&#xad;</span><span>perioden, vilket innebär en satsning på 40 miljoner mer än regeringen. </span>
+			</p>
+			<h2>
+				<span>Sanering och återställning av förorenade områden</span>
+			</h2>
+			<p class="Normalutanindragellerluft">
+				<span>Förorenade områden utgör en mycket allvarlig risk för både människor och ekosystem. Farliga miljögifter som PFAS läcker ut i dricksvattentäkter och förorenar grundvatten och jordbruksmark. Det handlar bland annat om Försvarsmaktens förorenade områden och områden runt Sveriges flygplatser som är förorenade med PFAS, och ett mycket stort antal andra områden där mycket farliga miljögifter finns i marken. Miljöpartiet vill se en kraftfull förstärkning av arbetet inom anslag 1:4 Sanering och återställning av förorenade områden. Vi vill satsa 420 miljoner mer än regeringen 2025, för att sedan genomföra en omfattande upptrappning kommande år. Totalt vill vi satsa 2,1 miljarder mer än regeringen över de kommande tre åren. Förstärkningen möjliggör utökad kartläggning, samordning, sanering och återställning av förorenade områden. Nivåhöj</span><span>&#xad;</span><span>ningen möjliggör även en ökning av forskningsmedel till SGI, SGU och andra berörda myndigheter för forskning och utveckling av reningstekniker för PFAS och andra miljö</span><span>&#xad;</span><span>gifter, och stärkt samordning under Naturvårdsverket. </span>
+			</p>
+			<h2>
+				<span>Substitutionscentrum på europeisk nivå </span>
+			</h2>
+			<p class="Normalutanindragellerluft">
+				<span>Substitutionscentrum bedriver ett viktigt arbete med att hjälpa aktörer att byta ut farliga kemikalier inom sina verksamheter. Det finns stor potential att utöka arbetet till en europeisk nivå. Inom ramen för anslag 1:6 tillförs 10 miljoner för att utvidga Substitutions</span><span>&#xad;</span><span>centrum på europeisk nivå, och ytterligare 10 miljoner årligen för att utvidga Substitutionscentrum på europeisk nivå.</span>
+			</p>
+			<h2>
+				<span>Internationellt miljö- och klimatsamarbete</span>
+			</h2>
+			<p class="Normalutanindragellerluft">
+				<span>Sverige har en oerhört viktig roll att spela i att driva på det internationella miljö- och klimatarbetet. Därför är också våra bilaterala miljösamarbeten viktiga. Det handlar delvis om samarbeten med andra länders regeringar, men även om att stärka individer, organisationer och företag som arbetar i sina nationella kontexter med att stärka sina länders klimatarbete. Många av dessa individer och organisationer lever under hot och får betala ett högt pris för sitt arbete; det är viktigt att Sverige fortsätter att stötta deras viktiga arbete. </span>
+			</p>
+			<p>
+				<span>För att både upprätthålla nuvarande nivå på arbetet (vilket regeringens tilldelning på anslaget inte medger) samt utöka samarbeten med ytterligare länder anser Miljöpartiet därför att anslag 1:13 Internationellt miljösamarbete ska höjas och lägger 24 miljoner mer än regeringen på anslaget för 2025.</span>
+			</p>
+			<h2>
+				<span>Växla upp arbetet med att miljöanpassa vattenkraften</span>
+			</h2>
+			<p class="Normalutanindragellerluft">
+				<span>För att Sverige ska kunna uppnå EU:s direktiv för god vattenstatus så behöver arbetet med vattenåtgärder öka och skalas upp. Många åtgärder behöver genomföras varav miljöanpassningen av Sveriges befintliga vattenkraft är en viktig åtgärd. Det är därför av vikt att arbetet med Nationell plan för omprövning av vattenkraft som antogs av regeringen 2020 fortsätter. Planen är utformad för att ge en nationell helhetssyn i frågan om att verksamheterna ska förses med moderna miljövillkor på ett samordnat sätt med </span><span style="letter-spacing:-0.05pt">största möjliga nytta för vattenmiljön och för nationell effektiv tillgång till vattenkraftsel.</span><span> </span>
+			</p>
+			<p>
+				<span>Miljöpartiet avsätter 50 miljoner för ändamålet inom ramen för utgiftsområde 20, anslag 1:11.</span><span style="-aw-bookmark-end:_Hlk178677244"></span>
+			</p>
+			<div style="-aw-sdt-tag:'CC_Underskrifter'; -aw-sdt-title:'CC_Underskrifter'">
+				<p>
+					<span style="-aw-import:ignore">&#xa0;</span>
+				</p>
+				<p>
+					<span style="-aw-import:ignore">&#xa0;</span>
+				</p>
+			</div>
+			<table cellspacing="0" cellpadding="0" style="width:100%; border-collapse:collapse">
+				<tr style="page-break-inside:avoid">
+					<td style="width:1%; padding-right:5.4pt; padding-left:5.4pt; vertical-align:bottom">
+						<p class="Underskrifter" style="margin-bottom:0pt">
+							<span>Emma Nohrén (MP)</span>
+						</p>
+					</td>
+					<td style="width:1%; padding-right:5.4pt; padding-left:5.4pt; vertical-align:bottom">
+						<p class="Underskrifter" style="margin-bottom:0pt">
+							<span style="-aw-import:ignore">&#xa0;</span>
+						</p>
+					</td>
+				</tr>
+				<tr style="page-break-inside:avoid">
+					<td style="width:1%; padding-right:5.4pt; padding-left:5.4pt; vertical-align:bottom">
+						<p class="Underskrifter" style="margin-bottom:0pt">
+							<span>Elin Söderberg (MP)</span>
+						</p>
+					</td>
+					<td style="width:1%; padding-right:5.4pt; padding-left:5.4pt; vertical-align:bottom">
+						<p class="Underskrifter" style="margin-bottom:0pt">
+							<span>Rebecka Le Moine (MP)</span>
+						</p>
+					</td>
+				</tr>
+				<tr style="page-break-inside:avoid">
+					<td style="width:1%; padding-right:5.4pt; padding-left:5.4pt; vertical-align:bottom">
+						<p class="Underskrifter" style="margin-bottom:0pt">
+							<span>Katarina Luhr (MP)</span>
+						</p>
+					</td>
+					<td style="width:1%; padding-right:5.4pt; padding-left:5.4pt; vertical-align:bottom">
+						<p class="Underskrifter" style="margin-bottom:0pt">
+							<span>Linus Lakso (MP)</span>
+						</p>
+					</td>
+				</tr>
+			</table>
+			<p>
+				<span style="-aw-import:ignore">&#xa0;</span>
+			</p>
+		</div>
+	</div>

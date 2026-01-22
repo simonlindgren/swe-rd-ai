@@ -1,0 +1,713 @@
+SEARCH TERM: artificiell intelligens
+DOCUMENT ID: hd023588
+TITLE: Utgiftsområde 10 Ekonomisk trygghet vid sjukdom och funktionsnedsättning
+TYPE: mot
+SUBTYPE: Kommittémotion
+DATE: 2025-10-07
+PARLIAMENTARY YEAR: 2025/26
+ORGANISATION: SfU
+STATUS: Hänvisad
+DOWNLOADED: 2026-01-22 10:24:33
+================================================================================
+
+<style><!-- 
+ @page Section1 { size:595.3pt 841.9pt; margin:35.45pt 85.05pt 56.7pt }
+div.Section1 { page:Section1 }
+div.pconf body { t-i:14.2pt; line-height:15pt; font-family:'Verdana'; font-size: 0.90em }
+div.pconf h1, h2, h3, h4, h5, h6, p { margin:0pt }
+div.pconf li, table { margin-top:0pt; margin-bottom:0pt }
+div.pconf h1 { margin-top:41pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:19.5pt; font-family:'Verdana'; font-size: 1.05em; font-weight:normal; color:#000000 }
+div.pconf h2 { margin-top:30pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:17pt; font-family:'Verdana'; font-size: 1.00em; font-weight:normal; color:#000000 }
+div.pconf h3 { margin-top:18pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:15pt; font-family:'Verdana'; font-size: 0.90em; font-weight:bold; color:#000000 }
+div.pconf h4 { margin-top:18pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:15pt; font-family:'Verdana'; font-size: 0.90em; font-weight:normal; font-style:italic; color:#000000 }
+div.pconf h5 { margin-top:15pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:15pt; font-family:'Verdana'; font-size: 0.90em; font-weight:bold; font-style:normal; color:#000000 }
+div.pconf h6 { margin-top:15pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:15pt; font-family:'Verdana'; font-size: 0.90em; font-weight:normal; font-style:italic; color:#000000 }
+.Heading7 { margin-top:15pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:15pt; font-family:'Verdana'; font-size: 0.90em; font-weight:normal; font-style:italic; color:#000000; -aw-style-name:heading7 }
+.Heading8 { margin-top:15pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:15pt; font-family:'Verdana'; font-size: 0.90em; font-weight:normal; font-style:italic; color:#000000; -aw-style-name:heading8 }
+.Heading9 { margin-top:0pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:15pt; font-family:'Verdana'; font-size: 0.90em; font-weight:normal; font-style:italic; color:#000000; -aw-style-name:heading9 }
+.BalloonText { margin-bottom:0pt; t-i:14.2pt; line-height:normal; font-family:'Segoe UI'; font-size: 0.90em }
+.Beteckning { margin-top:18pt; margin-bottom:0pt; t-i:14.2pt; page-break-inside:auto; page-break-after:auto; line-height:19.5pt; font-size: 1.05em }
+.BlockText, .Inramatstycke { margin-right:56.7pt; margin-left:56.7pt; margin-bottom:0pt; t-i:0pt; text-align:nojustify; line-height:15pt; border:0.75pt solid #000000; padding:10pt; font-size: 0.90em; font-style:italic; -aw-border:0.25pt single }
+.Citaticitat { margin-top:7.5pt; margin-left:34pt; margin-bottom:0pt; t-i:0pt; line-height:12pt; font-size: 0.90em }
+.Citaticitatmedindrag { margin-top:0pt; margin-left:34pt; margin-bottom:7.5pt; t-i:17pt; line-height:12pt; font-size: 0.90em }
+.Citatmedindrag { margin-top:0pt; margin-left:17pt; margin-bottom:0pt; t-i:17pt; line-height:12pt; font-size: 0.90em }
+.CommentSubject { margin-bottom:0pt; t-i:14.2pt; line-height:normal; font-size: 0.90em; font-weight:bold }
+.CommentText { margin-bottom:0pt; t-i:14.2pt; line-height:normal; font-size: 0.90em }
+.EndnoteText { margin-bottom:0pt; t-i:14.2pt; line-height:normal; font-size: 0.90em }
+.FSHLogo { margin-top:4pt; margin-bottom:0pt; t-i:0pt; line-height:normal; font-size: 0.90em }
+.FSHNormL { margin-top:4pt; margin-bottom:0pt; t-i:0pt; line-height:15pt; border-top:1.5pt solid #000000; padding-top:3pt; font-size: 0.90em }
+.FSHNormal { margin-top:4pt; margin-bottom:0pt; t-i:0pt; line-height:15pt; font-size: 0.90em }
+.FSHNormalS5 { margin-top:11.5pt; margin-bottom:26pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-size: 0.95em; font-weight:bold }
+.FSHRub1, .Rubrik1S5 { margin-top:135pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:16pt; font-size: 1.00em }
+.FSHRub2, .Rubrik1A4 { margin-top:50pt; margin-bottom:5pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:24pt; font-size: 1.05em }
+.FSHTitel, .Dokumentrubrik { margin-top:4pt; margin-bottom:4pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:20pt; border-bottom:0.75pt solid #000000; padding-bottom:3pt; font-size: 1.05em; -aw-border-bottom:0.5pt single }
+.Footer { margin-top:4pt; margin-bottom:0pt; t-i:0pt; text-align:center; line-height:normal; font-size: 0.90em }
+.FootnoteText { margin-top:0pt; margin-bottom:0pt; t-i:0pt; line-height:12pt; font-size: 0.90em }
+.Frslagsrubrik { margin-top:41pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:19.5pt; font-family:'Verdana'; font-size: 1.05em }
+.Frslagstext, .Hemstlatt, .Yrkande { margin-top:4pt; margin-left:19.85pt; margin-bottom:0pt; t-i:-19.85pt; line-height:15pt; font-size: 0.90em }
+.Header { margin-top:4pt; margin-bottom:0pt; t-i:0pt; line-height:normal; font-size: 0.90em }
+.KantRubrikS5H { margin-top:6pt; margin-right:2.85pt; margin-bottom:0pt; t-i:0pt; text-align:right; line-height:8pt; font-size: 0.90em }
+.KantRubrikS5Hrad2 { margin-top:0pt; margin-right:2.85pt; margin-bottom:0pt; t-i:0pt; text-align:right; line-height:10pt; font-size: 0.90em }
+.KantRubrikS5V { margin-top:6pt; margin-right:0pt; margin-bottom:0pt; t-i:0pt; text-align:left; line-height:8pt; font-size: 0.90em }
+.KantRubrikS5Vrad2 { margin-top:0pt; margin-right:0pt; margin-bottom:0pt; t-i:0pt; text-align:left; line-height:10pt; font-size: 0.90em }
+.KantrubrikH { margin-top:4pt; margin-right:-82.2pt; margin-bottom:0pt; t-i:0pt; text-align:right; line-height:15pt; font-size: 0.90em }
+.KantrubrikV { margin-top:4pt; margin-left:-85.05pt; margin-bottom:0pt; t-i:0pt; line-height:normal; font-size: 0.90em }
+.Klla { margin-top:0pt; margin-bottom:0pt; t-i:0pt; line-height:12pt; font-size: 0.90em }
+.Lagtext { margin-top:4pt; margin-bottom:0pt; t-i:0pt; line-height:normal; font-size: 0.90em }
+.Lagtextindrag { margin-top:4pt; margin-bottom:0pt; t-i:14.2pt; line-height:normal; font-size: 0.90em }
+.Lagtextrubrik { margin-top:4pt; margin-bottom:0pt; t-i:0pt; line-height:normal; font-size: 0.90em; font-style:italic; letter-spacing:1pt }
+.List { margin-top:7.5pt; margin-left:17pt; margin-bottom:7.5pt; t-i:-17pt; line-height:15pt; font-size: 0.90em }
+.ListBullet, .PunktlistaBomb { margin-top:4pt; margin-left:14.2pt; margin-bottom:0pt; t-i:-14.2pt; line-height:15pt; font-size: 0.90em }
+.ListNumber, .PunktlistaNummer { margin-top:4pt; margin-left:14.2pt; margin-bottom:0pt; t-i:-14.2pt; line-height:15pt; font-size: 0.90em }
+.ListParagraph { margin-left:36pt; margin-bottom:0pt; t-i:14.2pt; line-height:15pt; font-size: 0.90em }
+.ListaGemener { margin-top:7.5pt; margin-left:17pt; margin-bottom:7.5pt; t-i:-17pt; line-height:15pt; font-size: 0.90em }
+.ListaLinje { margin-top:7.5pt; margin-left:17pt; margin-bottom:7.5pt; t-i:-17pt; line-height:15pt; font-size: 0.90em }
+.ListaNummer { margin-top:7.5pt; margin-left:17pt; margin-bottom:7.5pt; t-i:-17pt; line-height:15pt; font-size: 0.90em }
+.ListaPunkt { margin-top:7.5pt; margin-left:17pt; margin-bottom:7.5pt; t-i:-17pt; line-height:15pt; font-size: 0.90em }
+.MotionTIllRiksdagen { margin-top:18pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:19.5pt; font-size: 1.05em }
+.Motionr { margin-top:14pt; margin-bottom:31.5pt; t-i:0pt; page-break-inside:avoid; line-height:15pt; font-size: 1.00em; font-weight:bold; font-style:normal }
+.Motiveringrubrik2numrerat1 { margin-top:30pt; margin-left:0pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:17pt; font-family:'Verdana'; font-size: 1.00em }
+.Motiveringrubrik3numrerat1 { margin-top:18pt; margin-left:0pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:15pt; font-family:'Verdana'; font-size: 0.90em; font-weight:bold }
+.Motiveringrubrik3numrerat11 { margin-top:18pt; margin-left:0pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:15pt; font-family:'Verdana'; font-size: 0.90em; font-weight:bold }
+.Motiveringrubrik4numrerat11 { margin-top:18pt; margin-left:0pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:15pt; font-family:'Verdana'; font-size: 0.90em; font-weight:normal; font-style:italic }
+.NormalWeb { margin-bottom:0pt; t-i:14.2pt; line-height:15pt; font-family:'Verdana'; font-size: 0.90em }
+.NormalIndent { margin-left:65.2pt; margin-bottom:0pt; t-i:14.2pt; line-height:15pt; font-size: 0.90em }
+.Normalutanindragellerluft { margin-top:4pt; margin-bottom:0pt; t-i:0pt; line-height:15pt; font-size: 0.90em }
+.Normal00 { margin-top:4pt; margin-bottom:0pt; t-i:0pt; line-height:normal; font-size: 0.90em }
+.NormalA4fot { margin-top:12pt; margin-bottom:0pt; t-i:0pt; text-align:center; line-height:normal; font-size: 0.90em }
+.NormalA4sidnr { margin-top:4pt; margin-bottom:12pt; t-i:0pt; text-align:center; line-height:normal; font-size: 0.90em }
+.NormalS5sidnrH { margin-top:4pt; margin-right:2.85pt; margin-bottom:0pt; t-i:0pt; text-align:right; line-height:normal; font-size: 0.90em }
+.NormalS5sidnrV { margin-top:4pt; margin-right:0pt; margin-bottom:0pt; t-i:0pt; text-align:left; line-height:normal; font-size: 0.90em }
+.PlainText { margin-bottom:0pt; t-i:0pt; line-height:12pt; font-family:'Verdana'; font-size: 0.90em }
+.Quote { margin-top:7.5pt; margin-left:17pt; margin-bottom:0pt; t-i:0pt; line-height:12pt; font-size: 0.90em }
+.R1 { margin-top:41pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:19.5pt; font-family:'Verdana'; font-size: 1.05em }
+.R2 { margin-top:30pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:17pt; font-family:'Verdana'; font-size: 1.00em }
+.R3 { margin-top:18pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:15pt; font-family:'Verdana'; font-size: 0.90em; font-weight:bold }
+.Rubrik1numrerat { margin-top:41pt; margin-left:0pt; margin-bottom:0pt; t-i:0pt; page-break-inside:auto; page-break-after:avoid; line-height:19.5pt; font-family:'Verdana'; font-size: 1.05em }
+.Rubrik2numrerat { margin-top:30pt; margin-left:0pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:17pt; font-family:'Verdana'; font-size: 1.00em }
+.Rubrik3numrerat { margin-top:18pt; margin-left:0pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:15pt; font-family:'Verdana'; font-size: 0.90em; font-weight:bold }
+.Rubrik4numrerat { margin-top:18pt; margin-left:0pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:15pt; font-family:'Verdana'; font-size: 0.90em; font-weight:normal; font-style:italic }
+.RubrikFrslagTIllRiksdagsbeslut { margin-top:41pt; margin-bottom:15pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:19.5pt; font-family:'Verdana'; font-size: 1.05em }
+.RubrikInnehllsf { margin-top:41pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:19.5pt; font-family:'Verdana'; font-size: 1.05em }
+.RubrikSammanf { margin-top:41pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:19.5pt; font-family:'Verdana'; font-size: 1.05em }
+.Salutation { margin-top:41pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:19.5pt; font-family:'Verdana'; font-size: 1.05em }
+.Streckkod { margin-top:12pt; margin-bottom:0pt; t-i:0pt; text-align:center; line-height:normal; font-family:IDAutomationHC39S; font-size: 1.00em }
+.Strecklista, .PunktlistaTankstreck { margin-top:4pt; margin-left:14.2pt; margin-bottom:0pt; t-i:-14.2pt; line-height:15pt; font-size: 0.90em }
+.Subtitle { margin-top:4pt; margin-bottom:0pt; t-i:0pt; line-height:15pt; font-family:'Verdana'; font-size: 0.90em; font-weight:bold }
+.TOC1 { margin-top:4pt; margin-bottom:0pt; t-i:0pt; line-height:15pt; font-size: 0.90em }
+.TOC2 { margin-top:4pt; margin-left:14.2pt; margin-bottom:0pt; t-i:0pt; line-height:15pt; font-size: 0.90em }
+.TOC3 { margin-top:4pt; margin-left:28.35pt; margin-bottom:0pt; t-i:0pt; line-height:15pt; font-size: 0.90em }
+.TOC4 { margin-top:4pt; margin-left:42.55pt; margin-bottom:0pt; t-i:0pt; line-height:15pt; font-size: 0.90em }
+.TOC5 { margin-top:4pt; margin-left:56.7pt; margin-bottom:0pt; t-i:0pt; line-height:15pt; font-size: 0.90em }
+.TOC6 { margin-top:4pt; margin-left:56.7pt; margin-bottom:0pt; t-i:0pt; line-height:15pt; font-size: 0.90em }
+.TOC7 { margin-top:15pt; margin-left:56.7pt; margin-bottom:0pt; t-i:14.2pt; page-break-inside:avoid; page-break-after:avoid; line-height:normal; font-family:'Verdana'; font-size: 0.90em; font-weight:normal; font-style:italic }
+.TOC8 { margin-top:15pt; margin-left:56.7pt; margin-bottom:0pt; t-i:14.2pt; page-break-inside:avoid; page-break-after:avoid; line-height:normal; font-family:'Verdana'; font-size: 0.90em; font-weight:normal; font-style:italic }
+.TOC9 { margin-top:15pt; margin-left:56.7pt; margin-bottom:0pt; t-i:14.2pt; page-break-inside:avoid; page-break-after:avoid; line-height:normal; font-family:'Verdana'; font-size: 0.90em; font-weight:normal; font-style:italic }
+.TOCHeading { margin-top:41pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:19.5pt; font-family:'Verdana'; font-size: 1.05em }
+.Tabellunderrubrik { margin-top:0pt; margin-bottom:0pt; t-i:0pt; page-break-after:avoid; line-height:15pt; font-size: 0.90em; font-weight:normal; font-style:italic }
+.Tabellrubrik { margin-top:7.5pt; margin-bottom:0pt; t-i:0pt; page-break-after:avoid; line-height:15pt; font-size: 0.90em; font-weight:bold }
+.Title { margin-top:41pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:19.5pt; font-family:'Verdana'; font-size: 1.05em }
+.Underskriftdatum { margin-top:24pt; margin-bottom:3pt; t-i:0pt; page-break-inside:avoid; line-height:15pt; font-size: 0.90em; font-style:normal }
+.Underskrifter { margin-top:15pt; margin-bottom:3pt; t-i:0pt; page-break-inside:avoid; line-height:15pt; font-size: 0.90em; font-style:italic }
+.Yrkandehnv, .Frslagspunkthnv { margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; font-size: 0.90em }
+span.BallongtextChar { font-family:'Segoe UI'; font-size: 0.90em }
+span.BeteckningChar { font-size:19.5pt }
+span.CommentReference { font-size:8pt }
+span.EndnoteReference { vertical-align:super }
+span.FSHRub2Char, span.Rubrik1A4Char { font-size:24pt }
+span.FootnoteReference { vertical-align:super }
+span.FotnotstextChar { font-size:10pt }
+span.Hyperlink { text-decoration:underline; color:#0563c1; -aw-style-name:hyperlink }
+span.InledningChar { font-family:'Verdana'; font-size: 1.00em; font-weight:bold }
+span.IntenseReference { font-weight:normal; font-style:normal; font-variant:normal; text-decoration:none; text-transform:none; letter-spacing:0pt; vertical-align:0pt; color:#000000; display:inline }
+span.KommentarerChar { font-size:10pt }
+span.KommentarsmneChar { font-size:10pt; font-weight:bold }
+span.MotionTIllRiksdagenChar { font-size:19.5pt }
+span.OformateradtextChar { font-family:'Verdana'; font-size: 0.90em }
+span.PlaceholderText { color:#f4b083 }
+span.Rubrik1Char { font-family:'Verdana'; font-size: 1.05em }
+span.Rubrik2Char { font-family:'Verdana'; font-size: 1.00em }
+span.Rubrik3Char { font-family:'Verdana'; font-size: 0.90em; font-weight:bold }
+span.Rubrik4Char { font-family:'Verdana'; font-size: 0.90em; font-style:italic }
+span.Rubrik5Char { font-family:'Verdana'; font-weight:bold }
+span.Rubrik6Char { font-family:'Verdana'; font-style:italic }
+span.Rubrik7Char { font-family:'Verdana'; font-size: 0.90em; font-weight:bold }
+span.Rubrik8Char { font-family:'Verdana'; font-size: 0.90em; font-weight:bold }
+span.Rubrik9Char { font-family:'Verdana'; font-size: 0.90em; font-weight:bold }
+span.RubrikChar { font-family:'Verdana'; font-size: 1.00em; font-weight:bold }
+span.SidfotChar { font-size:11.5pt }
+span.SlutnotstextChar { font-size:10pt }
+span.UnderrubrikChar { font-family:'Verdana'; font-size: 0.90em; font-weight:bold }
+.TableGrid {  }
+
+.pconf{width: 450px;margin-left:5px;overflow:visable;font-family:Verdana, Geneva, sans-serif;} 
+ .sidhuvud_publikation, .sidhuvud_beteckning{font-size:133%}
+.MotionarLista {font-size:122%}
+
+--></style><div class="pconf"><span class="sidhuvud_publikation">Motion till riksdagen</span><br/>
+<span class="sidhuvud_beteckning">2025/26:3588</span><br/>
+<span class="MotionarLista">av Ida Karkiainen m.fl. (S)</span><br/>
+<h1>Utgiftsområde 10 Ekonomisk trygghet vid sjukdom och funktionsnedsättning</h1>
+<hr class="sidhuvud_linje"/>
+
+
+		<div class="Section1">
+			<p class="RubrikFrslagTIllRiksdagsbeslut">
+				<a name="_Toc106800475"></a><a name="_Toc106801300"><span style="-aw-sdt-tag:'CC_Boilerplate_4'; -aw-sdt-title:'CC_Boilerplate_4'"><span>Förslag till riksdagsbeslut</span></span><span style="-aw-bookmark-end:_Toc106800475"></span></a>
+			</p>
+			<div style="-aw-sdt-tag:'2ab7dfe3-377c-4855-ab72-8278d1184920'; -aw-sdt-title:'Yrkande 1'">
+				<ol type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-left:14pt; t-i:0pt; padding-left:5.85pt">
+						<span>Riksdagen anvisar anslagen för 2026 inom utgiftsområde 10 Ekonomisk trygghet vid sjukdom och funktionsnedsättning enligt förslaget i tabell</span><span>&#xa0;</span><span>1 i motionen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'77b10407-2176-4f94-9159-8a4eef106d1b'; -aw-sdt-title:'Yrkande 2'">
+				<ol start="2" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; margin-left:14pt; t-i:0pt; padding-left:5.85pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om bättre regelverk för sjukpenninggrundande inkomst (SGI) och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'ffb57b00-b900-4b14-80a8-49f1c50d5e61'; -aw-sdt-title:'Yrkande 3'">
+				<ol start="3" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; margin-left:14pt; t-i:0pt; padding-left:5.85pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om förenklat intygande vid kortare sjukskrivningar och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'293cc2b0-da10-4e0c-a65c-f96820973aa0'; -aw-sdt-title:'Yrkande 4'">
+				<ol start="4" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; margin-left:14pt; t-i:0pt; padding-left:5.85pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om behovet av en översyn av hur drivkrafterna för arbetsgivare att arbeta förebyggande kan öka och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'f45dcb20-c79f-4160-a226-2945c2ad5850'; -aw-sdt-title:'Yrkande 5'">
+				<ol start="5" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; margin-left:14pt; t-i:0pt; padding-left:5.85pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om arbetsgivarens ansvar för att ta fram en plan för att snabbt få tillbaka sjukskrivna medarbetare i arbete och förstärka möjligheterna till rehabilitering och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'f214100d-eb28-44e9-8a8d-9b1c093f417d'; -aw-sdt-title:'Yrkande 6'">
+				<ol start="6" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; margin-left:14pt; t-i:0pt; padding-left:5.85pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om försöksverksamhet med sociala utfallskontrakt och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'75575f52-3516-49c4-8660-3290307e1384'; -aw-sdt-title:'Yrkande 7'">
+				<ol start="7" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; margin-left:14pt; t-i:0pt; padding-left:5.85pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att bredda uppdraget för den finansiella samordningen (Finsam) och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'97c8972f-7661-40c1-8a6a-c9841bf2919e'; -aw-sdt-title:'Yrkande 8'">
+				<ol start="8" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; margin-left:14pt; t-i:0pt; padding-left:5.85pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om förbättrade regelverk i sjuk- och aktivitetsersättningen och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'eeb9eac1-a4cb-4c96-b5f9-3cc2cd676eda'; -aw-sdt-title:'Yrkande 9'">
+				<ol start="9" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; margin-left:14pt; t-i:0pt; padding-left:5.85pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att ersättningarna inom sjuk- och aktivitetsersättningen bör höjas så att de bättre speglar kostnadsutvecklingen i samhället och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'e24b5778-f54b-4b9e-a9b0-c05e6f6ce7b8'; -aw-sdt-title:'Yrkande 10'">
+				<ol start="10" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; t-i:0pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att förbättra stödet till arbetshjälpmedel och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'02d5c504-9565-4b6b-81f9-b02eb1b02fa1'; -aw-sdt-title:'Yrkande 11'">
+				<ol start="11" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; t-i:0pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om sjukförsäkringsskyddet för gravida och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'742c3572-cb0d-4576-991d-2d615ce08e65'; -aw-sdt-title:'Yrkande 12'">
+				<ol start="12" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; t-i:0pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om en mer förutsägbar och likvärdig arbetsskadeförsäkring och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'aba6283c-3d14-4b11-be02-6f1f4b818d76'; -aw-sdt-title:'Yrkande 13'">
+				<ol start="13" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; t-i:0pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att stoppa fusket och införa ett tydligare ansvar för att förebygga välfärdsbrott och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'6b1de294-a175-495d-af6a-ad264429eaa4'; -aw-sdt-title:'Yrkande 14'">
+				<ol start="14" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; t-i:0pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att påskynda arbetet med att använda artificiell intelligens (AI) vid handläggningen av socialförsäkringsärenden och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'42ea8889-406d-4906-8a62-9bcc7af7a6a5'; -aw-sdt-title:'Yrkande 15'">
+				<ol start="15" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; t-i:0pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att återupprätta en god styrning av Försäkringskassan och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'CC_Motivering_Rubrik'; -aw-sdt-title:'CC_Motivering_Rubrik'">
+				<h1>
+					<a name="_Hlk213341741"></a><a name="MotionsStart"></a><a name="_Toc106801301"></a><a name="_Toc106800476"><span>Motivering</span></a>
+				</h1>
+			</div>
+			<span style="-aw-bookmark-end:_Toc106801301">
+			</span>
+			<p class="Tabellrubrik">
+				<span style="-aw-bookmark-end:_Toc106800476"></span><span>Tabell 1 Anslagsförslag</span><span>&#xa0;</span><span>för</span><span>&#xa0;</span><span>2026</span><span>&#xa0;</span><span>för utgiftsområde</span><span>&#xa0;</span><span>10</span><span>&#xa0;</span><span>Ekonomisk trygghet vid sjukdom och funktionsnedsättning</span>
+			</p>
+			<p class="Tabellunderrubrik">
+				<span>Tusental kronor</span>
+			</p>
+			<table cellspacing="0" cellpadding="0" style="width:425.25pt; border-collapse:collapse">
+				<tr>
+					<td colspan="2" style="width:249.55pt; border-top-style:solid; border-top-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding:2.85pt 1.4pt 1.4pt; vertical-align:top; background-color:#ffffff">
+						<p style="t-i:0pt; line-height:12pt">
+							<span style="font-size:10pt; font-weight:bold">Anslag</span>
+						</p>
+					</td>
+					<td style="width:83.65pt; border-top-style:solid; border-top-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding:3.4pt 1.4pt 1pt; vertical-align:top; background-color:#ffffff">
+						<p style="t-i:0pt; text-align:right; line-height:12pt">
+							<span style="font-size:10pt; font-weight:bold">Regeringens förslag</span>
+						</p>
+					</td>
+					<td style="width:83.65pt; border-top-style:solid; border-top-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding:2.85pt 1.4pt 1.4pt; vertical-align:top; background-color:#ffffff">
+						<p style="t-i:0pt; text-align:right; line-height:12pt">
+							<span style="font-size:10pt; font-weight:bold">Avvikelse från regeringen</span>
+						</p>
+					</td>
+				</tr>
+				<tr>
+					<td style="width:17.95pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:top; background-color:#ffffff">
+						<p style="t-i:0pt; line-height:12pt">
+							<span style="font-size:10pt">1:1</span>
+						</p>
+					</td>
+					<td style="width:228.8pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:middle; background-color:#ffffff">
+						<p style="t-i:0pt; line-height:12pt">
+							<span style="font-size:10pt">Sjukpenning och rehabilitering m.m.</span>
+						</p>
+					</td>
+					<td style="width:83.65pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:bottom; background-color:#ffffff">
+						<p style="t-i:0pt; text-align:right; line-height:12pt">
+							<span style="font-size:10pt">51</span><span style="font-size:10pt">&#xa0;</span><span style="font-size:10pt">559 676</span>
+						</p>
+					</td>
+					<td style="width:83.65pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:bottom; background-color:#ffffff">
+						<p style="t-i:0pt; text-align:right; line-height:12pt">
+							<span style="font-size:10pt">±0</span>
+						</p>
+					</td>
+				</tr>
+				<tr>
+					<td style="width:17.95pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:top; background-color:#ffffff">
+						<p style="t-i:0pt; line-height:12pt">
+							<span style="font-size:10pt">1:2</span>
+						</p>
+					</td>
+					<td style="width:228.8pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:middle; background-color:#ffffff">
+						<p style="t-i:0pt; line-height:12pt">
+							<span style="font-size:10pt">Aktivitets- och sjukersättningar m.m.</span>
+						</p>
+					</td>
+					<td style="width:83.65pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:bottom; background-color:#ffffff">
+						<p style="t-i:0pt; text-align:right; line-height:12pt">
+							<span style="font-size:10pt">53</span><span style="font-size:10pt">&#xa0;</span><span style="font-size:10pt">674 700</span>
+						</p>
+					</td>
+					<td style="width:83.65pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:bottom; background-color:#ffffff">
+						<p style="t-i:0pt; text-align:right; line-height:12pt">
+							<span style="font-size:10pt">230 000 </span>
+						</p>
+					</td>
+				</tr>
+				<tr>
+					<td style="width:17.95pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:top; background-color:#ffffff">
+						<p style="t-i:0pt; line-height:12pt">
+							<span style="font-size:10pt">1:3</span>
+						</p>
+					</td>
+					<td style="width:228.8pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:middle; background-color:#ffffff">
+						<p style="t-i:0pt; line-height:12pt">
+							<span style="font-size:10pt">Merkostnadsersättning och handikappersättning</span>
+						</p>
+					</td>
+					<td style="width:83.65pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:bottom; background-color:#ffffff">
+						<p style="t-i:0pt; text-align:right; line-height:12pt">
+							<span style="font-size:10pt">1</span><span style="font-size:10pt">&#xa0;</span><span style="font-size:10pt">440 000</span>
+						</p>
+					</td>
+					<td style="width:83.65pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:bottom; background-color:#ffffff">
+						<p style="t-i:0pt; text-align:right; line-height:12pt">
+							<span style="font-size:10pt">±0</span>
+						</p>
+					</td>
+				</tr>
+				<tr>
+					<td style="width:17.95pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:top; background-color:#ffffff">
+						<p style="t-i:0pt; line-height:12pt">
+							<span style="font-size:10pt">1:4</span>
+						</p>
+					</td>
+					<td style="width:228.8pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:middle; background-color:#ffffff">
+						<p style="t-i:0pt; line-height:12pt">
+							<span style="font-size:10pt">Arbetsskadeersättningar m.m.</span>
+						</p>
+					</td>
+					<td style="width:83.65pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:bottom; background-color:#ffffff">
+						<p style="t-i:0pt; text-align:right; line-height:12pt">
+							<span style="font-size:10pt">2</span><span style="font-size:10pt">&#xa0;</span><span style="font-size:10pt">494 000</span>
+						</p>
+					</td>
+					<td style="width:83.65pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:bottom; background-color:#ffffff">
+						<p style="t-i:0pt; text-align:right; line-height:12pt">
+							<span style="font-size:10pt">±0</span>
+						</p>
+					</td>
+				</tr>
+				<tr>
+					<td style="width:17.95pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:top; background-color:#ffffff">
+						<p style="t-i:0pt; line-height:12pt">
+							<span style="font-size:10pt">1:5</span>
+						</p>
+					</td>
+					<td style="width:228.8pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:middle; background-color:#ffffff">
+						<p style="t-i:0pt; line-height:12pt">
+							<span style="font-size:10pt">Ersättning inom det statliga personskadeskyddet</span>
+						</p>
+					</td>
+					<td style="width:83.65pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:bottom; background-color:#ffffff">
+						<p style="t-i:0pt; text-align:right; line-height:12pt">
+							<span style="font-size:10pt">38 082</span>
+						</p>
+					</td>
+					<td style="width:83.65pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:bottom; background-color:#ffffff">
+						<p style="t-i:0pt; text-align:right; line-height:12pt">
+							<span style="font-size:10pt">±0</span>
+						</p>
+					</td>
+				</tr>
+				<tr>
+					<td style="width:17.95pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:top; background-color:#ffffff">
+						<p style="t-i:0pt; line-height:12pt">
+							<span style="font-size:10pt">1:6</span>
+						</p>
+					</td>
+					<td style="width:228.8pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:middle; background-color:#ffffff">
+						<p style="t-i:0pt; line-height:12pt">
+							<span style="font-size:10pt">Bidrag för sjukskrivningsprocessen</span>
+						</p>
+					</td>
+					<td style="width:83.65pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:bottom; background-color:#ffffff">
+						<p style="t-i:0pt; text-align:right; line-height:12pt">
+							<span style="font-size:10pt">1</span><span style="font-size:10pt">&#xa0;</span><span style="font-size:10pt">436 700</span>
+						</p>
+					</td>
+					<td style="width:83.65pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:bottom; background-color:#ffffff">
+						<p style="t-i:0pt; text-align:right; line-height:12pt">
+							<span style="font-size:10pt">±0</span>
+						</p>
+					</td>
+				</tr>
+				<tr>
+					<td style="width:17.95pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:top; background-color:#ffffff">
+						<p style="t-i:0pt; line-height:12pt">
+							<span style="font-size:10pt">2:1</span>
+						</p>
+					</td>
+					<td style="width:228.8pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:middle; background-color:#ffffff">
+						<p style="t-i:0pt; line-height:12pt">
+							<span style="font-size:10pt">Försäkringskassan</span>
+						</p>
+					</td>
+					<td style="width:83.65pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:bottom; background-color:#ffffff">
+						<p style="t-i:0pt; text-align:right; line-height:12pt">
+							<span style="font-size:10pt">11</span><span style="font-size:10pt">&#xa0;</span><span style="font-size:10pt">271 917</span>
+						</p>
+					</td>
+					<td style="width:83.65pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:bottom; background-color:#ffffff">
+						<p style="t-i:0pt; text-align:right; line-height:12pt">
+							<span style="font-size:10pt">50 000</span>
+						</p>
+					</td>
+				</tr>
+				<tr>
+					<td style="width:17.95pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:top; background-color:#ffffff">
+						<p style="t-i:0pt; line-height:12pt">
+							<span style="font-size:10pt">2:2</span>
+						</p>
+					</td>
+					<td style="width:228.8pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:middle; background-color:#ffffff">
+						<p style="t-i:0pt; line-height:12pt">
+							<span style="font-size:10pt">Inspektionen för socialförsäkringen</span>
+						</p>
+					</td>
+					<td style="width:83.65pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:bottom; background-color:#ffffff">
+						<p style="t-i:0pt; text-align:right; line-height:12pt">
+							<span style="font-size:10pt">79 121</span>
+						</p>
+					</td>
+					<td style="width:83.65pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:bottom; background-color:#ffffff">
+						<p style="t-i:0pt; text-align:right; line-height:12pt">
+							<span style="font-size:10pt">±0</span>
+						</p>
+					</td>
+				</tr>
+				<tr>
+					<td style="width:17.95pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:top; background-color:#ffffff">
+						<p style="t-i:0pt; line-height:12pt">
+							<span style="font-size:10pt">99:1</span>
+						</p>
+					</td>
+					<td style="width:228.8pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:middle; background-color:#ffffff">
+						<p style="t-i:0pt; line-height:12pt">
+							<span style="font-size:10pt">Högkostnadsskydd för små och medelstora företag</span>
+						</p>
+					</td>
+					<td style="width:83.65pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:bottom; background-color:#ffffff">
+						<p style="t-i:0pt; text-align:right; line-height:12pt">
+							<span style="font-size:10pt">±0</span>
+						</p>
+					</td>
+					<td style="width:83.65pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:bottom; background-color:#ffffff">
+						<p style="t-i:0pt; text-align:right; line-height:12pt">
+							<span style="font-size:10pt">500 000 </span>
+						</p>
+					</td>
+				</tr>
+				<tr>
+					<td colspan="2" style="width:246.7pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding:3.4pt 4.25pt 1pt 1.4pt; vertical-align:middle; background-color:#ffffff">
+						<p style="t-i:0pt; line-height:12pt">
+							<span style="font-size:10pt; font-weight:bold">Summa</span>
+						</p>
+					</td>
+					<td style="width:83.65pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding:3.4pt 1.4pt 1pt; vertical-align:bottom; background-color:#ffffff">
+						<p style="t-i:0pt; text-align:right; line-height:12pt">
+							<span style="font-size:10pt; font-weight:bold">121</span><span style="font-size:10pt; font-weight:bold">&#xa0;</span><span style="font-size:10pt; font-weight:bold">994 196</span>
+						</p>
+					</td>
+					<td style="width:83.65pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding:3.4pt 1.4pt 1pt; vertical-align:bottom; background-color:#ffffff">
+						<p style="t-i:0pt; text-align:right; line-height:12pt">
+							<span style="font-size:10pt; font-weight:bold">780 000</span>
+						</p>
+					</td>
+				</tr>
+			</table>
+			<h1>
+				<span>En trygg sjukförsäkring är en del av ett starkt samhälle</span>
+			</h1>
+			<p style="margin-top:4pt; t-i:0pt">
+				<span>Sjukförsäkringen är en av de starkaste pelarna i vårt gemensamma välfärdssystem. Den är en försäkring och inget bidrag. Den ska ge trygghet vid förlust av inkomst när arbets</span><span>&#xad;</span><span>förmågan är nedsatt. Det är en försäkring som vi alla betalar till när vi arbetar och ska kunna räkna med att få del av när vi behöver den. Den som förlorar arbetsförmåga ska kunna förvänta sig ekonomisk trygghet, ett gott stöd från både samhället och arbets</span><span>&#xad;</span><span>givaren samt en god rehabilitering för att snabbt kunna återgå i arbete. Vi social</span><span>&#xad;</span><span>demokrater vill återupprätta och bygga vidare på sjukförsäkringen. Den ska vara generös nog att ge trygghet, rättssäker nog att skapa förtroende och stark nog att hålla ihop samhället. Trygghet föder frihet – och en stark sjukförsäkring är nyckeln till att människor vågar leva sina liv fullt ut. Försäkringsskyddet måste stärkas och orättfärdiga utförsäkringar stoppas. </span>
+			</p>
+			<p>
+				<span>Under mandatperioderna 2014–2022 drev Socialdemokraterna i regeringsställning på viktiga förändringar för att åter få en trygg sjukförsäkring. Den bortre tidsgränsen i sjukförsäkringen, ”stupstocken”, avskaffades den 1 februari 2016. Under åren 2020–2022 trädde helt nödvändiga förstärkningar av sjukpenningens regelverk i kraft som innebär att fler får behålla sin sjukpenning för att kunna avsluta vård och behandling och sedan återgå till sitt ordinarie arbete. En allt lägre andel av befolkningen försörjs genom sjukförsäkringen och människor måste veta att de har en ekonomisk trygghet under den tid det tar att återfå arbetsförmågan. </span>
+			</p>
+			<p>
+				<span>&#xad;</span><span>Den vanligaste sjukskrivningsorsaken är psykisk ohälsa. Kvinnor som arbetar med olika typer av omvårdande yrken löper betydligt större risk än andra att drabbas av stressrelaterade sjukskrivningar. Det beror främst på en orimlig arbetssituation, vilken måste åtgärdas. Socialdemokraterna tar tydligt avstånd från de förslag till försämringar som regeringens utredare lagt fram. Vi står inte bakom förslagen att ta bort de för</span><span>&#xad;</span><span>bättringar som den tidigare socialdemokratiska regeringen genomförde. Vi vill istället fortsätta stärka sjukförsäkringen, inte montera ner den. </span><span>&#xad;</span><span>Man ska inte heller riskera liv och hälsa på jobbet. Vi vill se en trygg och fungerande arbetsskadeförsäkring som ger bättre inkomstskydd när man skadas på jobbet. Det gäller oavsett om man blivit av med en tumme vid sågmaskinen eller om ryggen inte längre klarar tunga lyft. Fler svåra psykosociala skador och lidande som orsakats av arbetet bör också omfattas av arbetsskadeförsäkringen och inkomstskyddas.</span>
+			</p>
+			<h2>
+				<a name="_Hlk175641285"><span>Avskaffa karensavdraget i sjukförsäkringen</span></a>
+			</h2>
+			<p style="margin-top:4pt; t-i:0pt">
+				<span>Sverige är det enda nordiska land som har tredubbla självrisker i sjukförsäkringen och det enda land som har karensavdrag. Det vill vi socialdemokrater ändra på. Karens</span><span>&#xad;</span><span>avdraget slår hårdast mot alla de arbetare som varje dag går till jobbet och ser till att samhället fungerar. Det handlar om alla de barnskötare, undersköterskor, buss</span><span>&#xad;</span><span>chaufförer, butiksbiträden och byggnadsarbetare som inte kan arbeta hemma. Många jobbar dessutom inom kontaktyrken där de utsätts för en mycket större risk att bli smittad och därmed ökad risk för ekonomiskt bortfall. Samtidigt har det inom yrken för tjänstepersoner utvecklats metoder för hemarbete vid exempelvis lättare sjukdom, såsom förkylningar. Det här är djupt orättvist och det gör att arbetsmarknaden dras isär. Den som går till jobbet sjuk kan göra att ett sjukdomstillstånd förlängs eller att skador förvärras. Dessutom finns risk för att man smittar sina kollegor, som också behövs för att sam</span><span>&#xad;</span><span>hället ska gå runt. Erfarenheterna från coronapandemin visar dessutom att ett mer rättvist karensavdrag kan rädda liv. Karensavdraget har också i större utsträckning kommit att bli en plånboksfråga. Det är oftare personer med lågavlönade jobb som drabbas av karensavdraget medan högavlönade kan jobba hemifrån och slipper löneavdrag.</span>
+			</p>
+			<p>
+				<span>Flera rapporter bekräftar bilden av att karensavdragets nuvarande regelverk till stor del drabbar anställda inom arbetaryrken. Rapporten </span><span style="font-style:italic">Sjuk på jobbet</span><span>, som bygger på en enkätundersökning om arbets</span><span>&#xad;</span><span>miljö som gjordes av Handelsanställdas förbund under våren 2022, visade att 72 procent av Handels medlemmar hade gått sjuka till jobbet under det senaste året. Att man inte har råd att stanna hemma är en vanlig förklaring till sjuknärvaron.</span><span style="font-weight:bold"> </span>
+			</p>
+			<p>
+				<span>Från visst politiskt håll har framförts krav på att karensavdraget ska tas bort endast för vissa yrkesgrupper. Vi menar att en sådan avgränsning av regelverket mellan olika yrkesgrupper inte är praktiskt möjlig att genomföra. Den vägen är alltför snårig om man vill åstadkomma ett system som uppfattas som mer rättvist. Samtidigt som vi vill göra karensavdraget mer rättvist är det viktigt att bevaka att förändringar inte leder till ett överutnyttjande. En trygg sjukförsäkring ska komma alla till del.</span>
+			</p>
+			<p>
+				<span>Den socialdemokratiska regeringen tillsatte våren 2022 en utredning om karensavdraget och sjuklönen. Syftet med översynen är att reglerna för karens och sjuklön ska få en utformning som bidrar till att inkomstbortfall under sjukdom bärs på ett mer solidariskt och fördelningspolitiskt träffsäkert sätt samt motverkar riskerna för sjuk</span><span>&#xad;</span><span>närvaro. Bland annat skulle fördelningseffekterna samt hälsoekonomiska och övriga konsekvenser av karensavdraget analyseras. Utredaren skulle även se över reglerna om karens för föräldralediga, behovsanställda, arbetslösa inom arbetslöshetsförsäkringen och egenföretagare. I uppdraget ingick även en översyn av reglerna för sjuklön och analys av arbetsgivares sjuklöneansvar med avseende på incitamenten att motverka och minska sjukfrånvaro. </span><a name="_Hlk213249112"><span>Denna utredning lades tyvärr ned av regeringen och istället presenterades i december 2023 ett karenstak som innebär att karensavdrag inte ska göras från sjuklön eller sjukpenning som svarar mot inkomst av anställning, om sådant avdrag har gjorts vid sex tillfällen under de senaste 12 månaderna</span></a><span>. Dessutom föreslogs att det allmänna högriskskyddet förstärks för arbetstagare och andra individer med sjukdomar som innebär förhöjd risk för återkommande eller långa sjukperioder. Vi social</span><span>&#xad;</span><span>demokrater har varit positiva till förslagen som ett första steg på vägen mot att ta bort orättvisan i karensavdraget, men att förslagen inte räcker då den grundläggande orättvisan, att karensavdraget till stor del slår mot löntagare med arbetaryrken, består. Efter remissbehandlingen har regeringen valt att lägga dessa förslag i byrålådan. Det innebär att vi fortfarande står kvar på samma punkt som tidigare, utan utredda förslag på hur orättvisan med karensavdraget ska kunna avskaffas. För oss socialdemokrater var detta en angelägen utred</span><span>&#xad;</span><span>ning och vi anser att tiden nu är mogen för att avskaffa karensavdraget så att den som är sjuk får möjlighet att återhämta sig. Det innebär att den som är sjuk får sjuklön från första dagen. Ett avskaffande förutsätter också effektiva regler som gör att fusk och missbruk motverkas. </span><a name="_Hlk210300528"><span>I vår budgetmotion föreslår vi att karensavdraget i sjukförsäkringen avskaffas från 1 juli 2026. För större företag blir kostnaden för en ytterligare sjuklönedag begränsad. För vissa små företag kan den kostnaden bli mer kännbar. Därför föreslår vi att ett högkostnadsskydd införs för småföretagare samtidigt som karensavdraget avskaffas. För detta högkostnadsskydd avsätter vi 500 miljoner kronor 2026.</span></a>
+			</p>
+			<h2>
+				<span style="-aw-bookmark-end:_Hlk210300528"></span><span>Bättre regelverk för sjukpenninggrundande inkomst (SGI)</span>
+			</h2>
+			<p style="margin-top:4pt; t-i:0pt">
+				<span>Den tidigare socialdemokratiskt ledda regeringen tillsatte hösten 2021 en särskild utredare för att se över regelverket för sjukpenninggrundande inkomst, det vill säga inkomstunderlaget för bland annat sjukpenning och föräldrapenning. I betänkandet </span><span style="font-style:italic">Ett</span><span style="font-style:italic">&#xa0;</span><span style="font-style:italic">trygghetssystem för alla – nytt regelverk för sjukpenninggrundande inkomst </span><span>(SOU</span><span>&#xa0;</span><span>2023:30) föreslår utredaren bland annat att inkomsten även ska beräknas utifrån historiska inkomster samt att kvalifikationstiden minskas till en månads arbete. Vi tycker att utredningens förslag utgör ett viktigt inslag i arbetet för att förstärka trygg</span><span>&#xad;</span><span>heten i den allmänna sjukförsäkringen. Det är beklagligt att regeringen även i detta fall har valt att gömma dessa förslag i byrålådan. Vi anser det angeläget att regeringen går vidare med utredningens förslag och så snart det är möjligt återkommer med en proposition till riksdagen. Det finns flera yrkesgrupper där regelverket för SGI behöver reformeras. Riksidrottsförbundet har exempelvis uppmärksammat att dagens regelverk inte fungerar för gruppen elitidrottare. Dessa kan ofta inte dra nytta av de allmänna försäkringssystemen då dessa inte fungerar för elitidrottare. Detta bör därför bli föremål för en översyn.</span>
+			</p>
+			<h2>
+				<span>Förenklat intygande vid kortare sjukskrivningar</span>
+			</h2>
+			<p style="t-i:0pt">
+				<span>Många läkare i primärvården kan vittna om hur det administrativa arbetet med sjukskrivningsintyg innebär en stor arbetsbörda. I betänkandet </span><span style="font-style:italic">Rätt förutsättningar för sjukskrivning </span><span>(SOU 2023:48) från augusti 2023 föreslås bland annat att Försäkrings</span><span>&#xad;</span><span>kassan tillsammans med Socialstyrelsen och i samråd med relevanta aktörer inom hälso- och sjukvården och arbetsmarknadens parter utvecklar intyget så att det blir mer ändamålsenligt. Vi anser att det är angeläget att utredningens förslag om ett förenklat intygande vid korta sjukskrivningar för att spara läkares tid och administration hos Försäkringskassan snarast genomförs. Det är avgörande för att läkare och annan personal inom sjukvården ska kunna minska den administrativa bördan och istället fokusera på sin huvuduppgift med att vårda och behandla patienter.</span>
+			</p>
+			<h2>
+				<span style="-aw-bookmark-end:_Hlk175641285"></span><span>Öka drivkrafterna för arbetsgivare att arbeta förebyggande och förstärk möjligheten till rehabilitering</span>
+			</h2>
+			<p style="margin-top:4pt; t-i:0pt">
+				<span>Då livslängden ökar och i takt med att pensionsåldern successivt höjs och att det ställs ytterligare krav på att människor inte slits ut i förtid, måste Sveriges arbetsplatser bli mer hållbara. Med ett sådant synsätt bör tyngdpunkten för den goda arbetsplatsen ligga på det förebyggande hälsoarbetet där det lönar sig ekonomiskt att inte vänta med att agera till dess att sjukskrivning har blivit ett faktum. För att bromsa den negativa utvecklingen krävs krafttag, och alla aktörer som kan behöver tillsammans hjälpas åt för att nå en långsiktigt hållbar arbetsmarknad och en friskare befolkning. Vi vet att många faktorer spelar in och därför behövs ett holistiskt hälsoperspektiv när man kommer med lösningar inför framtiden. Ofta görs enstaka insatser men helhetsperspektivet tappas ofta </span><span style="letter-spacing:-0.1pt">på vägen, vilket gör att många insatser inte får sin fulla kraft med genomslag och mätbara</span><span> effekter på sikt. De nödvändiga krafttagen kan handla både om ekonomiska sanktioner och belöningar. Det ska inte vara valbart att kunna strunta i att ens medarbetare uppvisar ohälsa. Idag gör för många arbetsgivare, både privata och offentliga, alltför lite för att undvika att slita ut sin personal och har inget nämnvärt fokus på sina medarbetares hälsa. </span>
+			</p>
+			<p>
+				<span>Det är i dag för enkelt att slippa undan sitt ansvar som arbetsgivare – man behöver varken uppvisa ohälsotal eller medarbetarupplevelser åt något håll. Tidigare redovisades sjuktal i företagens årsredovisning, något man åter bör överväga. Det är viktigt att Försäkringskassan tidigt efterfrågar en plan för återgång i arbete när prognosen är att sjukskrivningen kan bli långvarig. Idag </span><span style="font-style:italic">kan</span><span> Försäkringskassan begära in en sådan plan. Vi socialdemokrater menar att Försäkringskassan </span><span style="font-style:italic">ska</span><span> begära in en plan för återgång i arbete när det finns risk för lång sjukskrivning. Det bör också över</span><span>&#xad;</span><span>vägas ytterligare resurser till Arbetsmiljöverket för granskningar av hur arbetsgivare lever upp till arbetsmiljölagen. Vidare bör man överväga införande av vite eller straff</span><span>&#xad;</span><span>avgifter för arbetsgivare som struntar i sitt ansvar för medarbetarnas hälsa. Regeringen bör därför göra en översyn av hur drivkrafterna för arbetsgivare att arbeta förebyggande kan öka. </span>
+			</p>
+			<p>
+				<span>Idag tar det alldeles för lång tid för många sjukskrivna innan de får behandling och rehabilitering från sjukvården för att återfå arbetsförmåga. Det måste ändras. Vi socialdemokrater menar att de finansiella samordningsförbunden skulle kunna få ett bredare uppdrag för att också agera möjliggörare i rehabiliteringsprocessen. </span><a name="_Hlk213250535"><span>Och ännu fler får vänta månad efter månad på att deras arbetsgivare tillsammans med relevanta aktörer tar fram en konkret och rimlig plan för hur den sjukskrivne ska kunna återgå i arbete. </span></a><span>Det är slöseri med resurser. Den sjukskrivne tvingas vara hemma längre än nödvändigt, vilket påverkar psykisk hälsa, ekonomi och social tillvaro. Arbetsgivaren förlorar kompetens och samhället förlorar i skattekraft. Det är av största vikt att incitamenten för arbetsgivare att presentera en konkret plan tidigt i sjukfallen ökar.</span>
+			</p>
+			<h2>
+				<span>Inför försöksverksamhet med sociala utfallskontrakt</span>
+			</h2>
+			<p class="Normalutanindragellerluft">
+				<span>I departementsskrivelsen </span><span style="font-style:italic">Ett mer hållbart och längre arbetsliv</span><span> (Ds 2024:19) från Kansliet för hållbart arbetsliv definieras sociala utfallskontrakt så här: ”Ett ramverk för att driva förändring där man knyter samman flera aktörer för att samarbeta mot ett gemensamt utfall. En grundpelare är att uppnå förbättrade sociala och hälsomässiga utfall för en definierad målgrupp – och utifrån denna målsättning skapas en insats</span><span>&#xad;</span><span>modell med finansiering, uppföljning och rollfördelning.” </span><a name="_Hlk213343057"><span>Det handlar alltså om insatser där sociala mål – såsom minskad sjukfrånvaro eller förbättrad arbetsförmåga – ger ersättning beroende på faktisk effekt. Att förebygga ohälsa och minska långa sjuk</span><span>&#xad;</span><span>skrivningar är ett långsiktigt arbete. </span></a><a name="_Hlk213343388"><span>Utfallskontrakt skapar, enligt utredningen, </span></a><span>incitament att ändå investera i sådana insatser, eftersom ersättningen baseras på förbättrade resultat. Sociala utfallskontrakt, eller ”sociala investeringar”, är modeller där offentliga aktörer, ibland tillsammans med privata eller idéburna aktörer, finansierar förebyggande insatser eller insatser för grupper med speciella behov, där ersättning delvis eller helt är kopplad till om förutbestämda resultat uppnås. </span><span style="-aw-bookmark-end:_Hlk213343057"></span><span>Vi tycker att det är intressant att vidare studera hur en sådan modell skulle kunna användas. Det särskilda projektet inom Försäkringskassan kallat </span><span style="font-style:italic">Momentum,</span><span> finansierat via Europeiska social</span><span>&#xad;</span><span>fonden (ESF), har visat att det ofta finns förebyggande åtgärder som arbetsgivaren hade kunnat vidta och som skulle kunna undvika sjukskrivningar. </span><a name="_Hlk213313310"><span>Men eftersom åtgärden initialt innebär en kostnad och vinsten kommer först senare, undviker arbetsgivare att göra den investeringen. </span></a><span>Regeringen bör därför ges till känna nödvändigheten av att ta initiativ till försöksverksamhet med sociala utfallskontrakt för att utröna dess möjligheter.</span>
+			</p>
+			<h2>
+				<span>Bredda uppdraget för den finansiella samordningen (Finsam)</span>
+			</h2>
+			<p class="Normalutanindragellerluft">
+				<span>De finansiella samordningsförbunden skulle kunna få ett bredare uppdrag för att också agera möjliggörare i rehabiliteringsprocessen. Forskning visar att samverkan är det mest effektiva för långsiktig hållbarhet och det mest kostnadseffektiva för samhället. Samverkan genom lagen om finansiell samordning (Finsam) bör därför utvecklas och breddas till att omfatta fler människor i behov av stöd från flera instanser, så att myndigheter kan gå ihop och ge det stöd och de insatser som individen behöver.</span>
+			</p>
+			<h2>
+				<a name="_Hlk187830753"><span>Förbättrade regelverk i sjuk- och aktivitetsersättningen</span></a>
+			</h2>
+			<p class="Normalutanindragellerluft">
+				<span>Flera viktiga steg har tagits av den tidigare socialdemokratiska regeringen för att reformera sjukförsäkringen i syfte att öka såväl den ekonomiska tryggheten och flexibiliteten i sjukförsäkringen som förståelsen för regelverket. Flera ersättningar i sjukförsäkringen har höjts men det räcker inte. Den som lever med långvarig sjukdom eller funktionsnedsättning ska kunna leva ett gott liv. </span><a name="_Hlk213313695"><span>Idag är sjuk- och aktivitets</span><span>&#xad;</span><span>ersättningen för låg och har under lång tid halkat efter löneutvecklingen. </span></a><span>Arbetet med att ytterligare förbättra regelverket i sjuk- och aktivitetsersättningen och att höja ersät</span><span>&#xad;</span><span>tningsnivåerna måste fortsätta. Även ur ett jämställdhetsperspektiv finns det starka skäl att arbeta vidare med reformer på området.</span>
+			</p>
+			<h2>
+				<span>Förbättra stödet till arbetshjälpmedel</span>
+			</h2>
+			<p class="Normalutanindragellerluft">
+				<span>För den som lever med en funktionsnedsättning eller är sjukskriven under lång tid kan rätt till arbetshjälpmedel vara helt avgörande för att kunna börja jobba eller komma tillbaka till jobbet. Dock fastnar många i ett system där ansvaret är utspritt och det är svårt att få rätt stöd. Det är inte ovanligt att människor bollas runt mellan Försäkrings</span><span>&#xad;</span><span>kassan, sjukvården och Arbetsförmedlingen, utan att någon tar ett samlat ansvar. Resultatet blir att människor som både vill och kan jobba hålls tillbaka, inte på grund av sin hälsa, utan för att systemet inte hänger ihop. Inspektionen för socialförsäkringen har uppmärksammat att det finns brister i stödet till arbetshjälpmedel. Tillgången till arbets</span><span>&#xad;</span><span>hjälpmedel är avgörande för personer med funktionsnedsättning. I dagsläget finns en gränsdragningsproblematik mellan olika former av stöd för hjälpmedel som lämnas till personer med funktionsnedsättning. Försäkringskassan, som ansvarar för denna verk</span><span>&#xad;</span><span>samhet, behöver också förbättra sitt arbete. Regeringen bör ge Försäkringskassan i uppdrag att tillsammans med sjukvården och Arbetsförmedlingen ta fram en modell för bättre samordning kring arbetshjälpmedel. Målet ska vara att göra det enklare och tryggare för den som behöver stöd, att det blir tydligt vem som ansvarar för vad, och att fler får rätt hjälpmedel i tid så att de kan börja jobba eller återgå i arbete.</span>
+			</p>
+			<h2>
+				<span>Inför samma arbetsförmågebegrepp för sjuk- och aktivitetsersättningen som för sjukpenning</span>
+			</h2>
+			<p class="Normalutanindragellerluft">
+				<span>Även den som har varaktigt nedsatt arbetsförmåga behöver bättre möjligheter till rehabilitering och stöd för att återgå till arbete. Det kan till exempel handla om att underlätta för arbete och studier kombinerat med sjuk- och aktivitetsersättning. För att säkra legitimiteten för sjukförsäk</span><span>&#xad;</span><span>ringen måste regelverket upplevas som rimligt och rättvist. </span><span style="-aw-bookmark-end:_Hlk187830753"></span><span>Vi anser att regeringen med prioritet bör bereda utredningen </span><span style="font-style:italic">En sjukförsäkring med prevention, rehabilitering och trygghet </span><span>(SOU 2021:69) och dess förslag om att rätten till sjukersättning och aktivitets</span><span>&#xad;</span><span>ersättning ska prövas mot samma arbetsmarknads</span><span>&#xad;</span><span>begrepp som gäller i sjukpenningen. Det är därför vi föreslår att anslag 1:2 förstärks med 234 miljoner kronor. </span>
+			</p>
+			<p>
+				<span>Andelen personer som nybeviljas sjuk- och aktivitetsersättning är idag rekordlågt och reglerna för att få sjuk- och aktivitetsersättning är så strikta att ytterst få får tillgång till den. Människor som har en arbetsförmåga, men som av olika anledningar inte anses attraktiva på den ordinarie arbetsmarknaden, behöver ha en trygg ekonomisk situation samtidigt som den förmåga som finns tas tillvara på bästa sätt. Regeringen bör se över hur fler med varaktigt nedsatt arbetsförmåga kan få en trygg situation utan att bollas runt mellan olika myndigheter.</span>
+			</p>
+			<p>
+				<span>I</span><span>&#xa0;</span><span>december 2022 stoppade den SD-stödda regeringen utredningen </span><span style="font-style:italic">En mer ändamåls</span><span style="font-style:italic">&#xad;</span><span style="font-style:italic">enlig beräkning av sjuk- och aktivitetsersättningen </span><span>(dir. 2022:62) med motivet att upp</span><span>&#xad;</span><span>räkningen utifrån prisbasbeloppet utgjort en betydligt kraftigare ökning än vad exempel</span><span>&#xad;</span><span>vis löntagarna får. Detta är missvisande eftersom beräkningen av sjuk- och aktivitets</span><span>&#xad;</span><span>ersättning sett över en längre tid har halkat efter i inkomstutvecklingen. När pris</span><span>&#xad;</span><span>utvecklingen och inflationen återgår till vad den var före pandemin kommer denna skillnad åter att bli synlig. Utredningen skulle bedöma om det finns ett bättre sätt att räkna upp ersättningarna över tid så att man inte tappar i inkomstutveckling som har skett under många år. Vi menar att det fortsatt är angeläget att se över om indexeringen av garantiersättningen inom sjuk</span><span>&#xad;</span><span>ersättning och aktivitetsersättning kan förändras för att öka följsamheten mot inkomst</span><span>&#xad;</span><span>utvecklingen i övriga samhället. </span>
+			</p>
+			<h2>
+				<span>Reformera sjukförsäkringsskyddet för gravida </span>
+			</h2>
+			<p style="margin-top:4pt; t-i:0pt">
+				<span>Den tidigare socialdemokratiskt ledda regeringen uppdrog åt en särskild utredare att se över socialförsäkringsskyddet för gravida. Översynen har främst gällt reglerna om graviditetspenning. Syftet har varit att modernisera skyddet så att förmånen i högre utsträckning fungerar ändamålsenligt för gravida arbetstagare och egenföretagare.</span>
+			</p>
+			<p>
+				<span>Utredningen </span><span style="font-style:italic">Ett modernare socialförsäkringsskydd för gravida </span><span>(SOU 2023:23) lämnade sitt betänkande i maj 2023. Utredningen föreslår flera förstärkningar av skyddet, bland annat att en icke-behovsprövad graviditetspenning ska kunna nyttjas de sista sju kalenderdagarna innan beräknad förlossning och fram till och med dagen före den faktiska förlossningen och att taket vid beräkning av den sjukpenninggrundande inkomsten i graviditetspenningen höjs till 10 prisbasbelopp. Vi socialdemokrater är positiva till utredningens förslag och vi anser att det är angeläget att regeringen går vidare med förslagen och återkommer med en proposition till riksdagen. Men det har redan gått snart två och ett halvt år sedan utredningen lämnades och vi befarar att regeringen tyvärr även valt att lägga utredningens förslag i malpåse.</span>
+			</p>
+			<h2>
+				<span>En mer förutsägbar och likvärdig arbetsskadeförsäkring</span>
+			</h2>
+			<p style="margin-top:4pt; t-i:0pt">
+				<span>Den tidigare socialdemokratiska regeringen tillsatte en särskild utredare för att se över arbetsskadeförsäkringen och bland annat analysera villkoren för rätten till livränta i syfte att säkerställa att livräntan fyller sin funktion när det gäller att ge ekonomisk trygghet vid inkomstförlust på grund av arbetsskada, samt ta ställning till ytterligare åtgärder för att säkerställa att kvinnor och män ges ett likvärdigt skydd vid inkomst</span><span>&#xad;</span><span>förlust på grund av arbetsskada.</span>
+			</p>
+			<p>
+				<span>Inspektionen för socialförsäkringen (ISF) har konstaterat att det efter borttagandet av den tidsbegränsade sjukersättningen 2008 har blivit svårare att avgöra om grundkraven för livränta är uppfyllda (S2019/05200). Tidigare gällde varaktighetskravet ett år fram i tiden för rätt till både livränta och sjukersättning. Numera finns det inte någon tydlig koppling mellan besluten om sjukersättning och besluten om arbetsskadelivränta. Regeringen ansåg att det måste säkerställas att arbetsskadelivräntan fyller sin funktion när det gäller att ge ekonomisk trygghet vid inkomstförlust på grund av arbetsskada, med god förutsägbarhet. Alltför stora variationer i beviljandet av livränta, som inte beror på sådana faktorer som förändringar i arbetsmiljön eller tillkomsten av nya behandlingsmetoder, riskerar att minska förtroendet för arbetsskadeförsäkringen.</span>
+			</p>
+			<p>
+				<a name="_Hlk213402579"><span>Utredaren har i betänkandet </span><span style="font-style:italic">En ändamålsenlig arbetsskadeförsäkring – för bättre ekonomisk trygghet, kunskap och rättssäkerhet</span><span> (SOU 2023:53), som lämnades i september 2023, lagt förslag som bland annat syftar till att betydligt fler fångas upp och får en prövning av om skadan är en arbetsskada, att betydligt fler får ersättning och en mer korrekt beräknad sådan, att försäkringen blir könsneutral, att besluten blir mer rättssäkra, likformiga och transparenta samt att livräntan följer inkomstutvecklingen. </span></a><span>Förslagen har remissbehandlats och mottagits positivt. Detta är tyvärr ytterligare ett utredningsförslag som regeringen valt att lägga på hyllan. Vi socialdemokrater anser att utredningens förslag är viktiga för att kunna återupprätta arbetsskadeförsäkringen till hur den är tänkt att fungera och till hur den faktiskt fungerade fram till försämringarna i sjukförsäkringssystemet som den </span><span style="letter-spacing:-0.05pt">dåvarande alliansregeringen genomförde under sina regeringsår. Förslagen i utredningen</span><span> bör därför beredas skyndsamt och regeringen bör snarast återkomma med en proposition till riksdagen.</span>
+			</p>
+			<h2>
+				<a name="_Hlk187830680"></a><a name="_Hlk118880231"></a><a name="_Hlk144976733"><span>Stoppa fusket och inför ett tydligare ansvar för att förebygga välfärdsbrott </span></a>
+			</h2>
+			<p style="margin-top:4pt; t-i:0pt">
+				<span>Våra gemensamma skattemedel ska gå till människor som har rätt till ekonomisk trygghet och till att stärka vår gemensamma välfärd – inte till den organiserade brottsligheten.</span>
+			</p>
+			<p>
+				<span style="-aw-bookmark-end:_Hlk187830680"></span><span>I regeringsställning genomförde vi socialdemokrater ett antal åtgärder för att komma åt fusk och förebygga välfärdsbrott. </span><a name="_Hlk213340965"></a><a name="_Hlk213341087"><span>Bland annat skärptes bidragsbrottslagen, Försäk</span><span>&#xad;</span><span>ringskassan gavs uppdrag att öka kontrollen samt inte minst inleddes arbetet med inrättandet av den nya Utbetalningsmyndigheten, </span><span style="-aw-bookmark-end:_Hlk213340965"></span><span>en myndighet som ska säkerställa utbetalningar från våra välfärdssystem. </span></a><span>Utbetalningsmyndigheten inledde sin verk</span><span>&#xad;</span><span>samhet den 1 januari 2024. Förra regeringen tillsatte även en bidragsbrottsutredning med uppgift att bland annat analysera hur förmågan att förebygga och bekämpa bidragsbrott kan stärkas. Utredningen lämnade sitt betänkande </span><span style="font-style:italic">Ett stärkt och samlat skydd av välfärdssystemen</span><span> (SOU 2023:52) i september 2023. Utredningen har därefter remiss</span><span>&#xad;</span><span>behandlats. Socialdemokraterna ser positivt på utredningens förslag som bland annat innebär ett tydligare ansvar för att förebygga välfärdsbrott för Försäkringskassan, Pensionsmyndigheten, Centrala studiestödsnämnden, Migrationsverket och Arbets</span><span>&#xad;</span><span>förmedlingen. Det är angeläget att regeringen utan dröjsmål bereder dessa förslag och återkommer till riksdagen med en proposition. Det är angeläget för att säkerställa att de människor som har rätt till stöd från trygghetssystemen får det men inte de som försöker sko sig på andra.</span><span style="-aw-bookmark-end:_Hlk118880231"></span><span> </span>
+			</p>
+			<p>
+				<span>Enligt Försäkringskassan finns det ett antal höggradigt korrupta läkare som varje vecka producerar cirka 500–600 läkarintyg för sjukskrivning. Dessa felaktiga läkarintyg skapar en stor arbetsbörda och tar mycket resurser av Försäkringskassans administra</span><span>&#xad;</span><span>tion. Mot bakgrund av dessa uppenbara försök till fusk och överutnyttjande av sjuk</span><span>&#xad;</span><span>försäkringen bör det övervägas om ett nationellt kvalitetssystem för uppföljning av läkarintyg kan införas.</span>
+			</p>
+			<h2>
+				<a name="_Hlk213341845"><span style="-aw-bookmark-end:_Hlk144976733"></span><span>Ge Försäkringskassan uppdrag att påskynda arbetet med artificiell intelligens (AI) vid handläggning av socialförsäkringsärenden</span></a>
+			</h2>
+			<p style="margin-top:4pt; t-i:0pt">
+				<span style="-aw-bookmark-end:_Hlk213341845"></span><span>Ökad digitalisering och möjligheter att använda artificiell intelligens måste utvecklas inom alla offentliga verksamheter och myndigheter där det bedöms vara av stort värde. Med hjälp av AI finns det stora möjligheter för exempelvis Försäkringskassan att underlätta och rationalisera arbetet med det stora antalet beslutsärenden som dagligdags handläggs av myndigheten och därigenom väsentligt korta handläggningstiden och förbättra kvaliteten i de enskilda besluten. I arbetet med utveckling och införande av ny teknik måste man även beakta de risker som är förbundna med AI och säkerställa att ny teknik inte riskerar drabba enskilda personer. Regeringen bör ta initiativ för att påskynda möjligheterna att använda dessa nya möjligheter inom Försäkringskassans verksamhet – låta AI göra rutinarbetet så att medarbetarna kan fokusera på de mer komplicerade ärendena där expertkunskapen behövs.</span>
+			</p>
+			<h2>
+				<span>Återupprätta en god styrning av Försäkringskassan </span>
+			</h2>
+			<p style="margin-top:4pt; t-i:0pt">
+				<span>Försäkringskassans främsta uppdrag är att administrera den oerhört viktiga social</span><span>&#xad;</span><span>försäkringen som omfattar i stort sett alla som bor eller arbetar i Sverige. Försäkringen är en viktig del av de offentliga trygghetssystemen och har stor betydelse, inte bara för enskilda, hushåll och företag, utan för hela samhällsekonomin. För många människor är den ersättning som Försäkringskassan beslutar om helt avgörande för den dagliga livs</span><span>&#xad;</span><span>föringen under längre eller kortare perioder. </span>
+			</p>
+			<p>
+				<span>Regeringens nedskärningar av Försäkringskassans förvaltningsanslag under 2024 fick stora konsekvenser, även för de anställda men framför allt för alla de försäkrade som inte kunde komma i kontakt med sin handläggare, som inte får svar på frågor och som tvingas vänta halvårsvis på att få sina ansökningar om stöd utredda. Det är inte värdigt vårt välfärdsland och det är en ineffektiv styrning av en av våra viktigaste myndigheter: nyanställd personal har tvingats sägas upp, viktiga utvecklingsprojekt har lagts på is och digitaliseringssatsningar – som skulle effektivisera och rationalisera kassans arbete och minska bidragsfusket – har dragit ut på tiden. </span>
+			</p>
+			<p>
+				<a name="_Hlk213342347"><span>De första åren av mandatperioden har i stor utsträckning varit förlorade år för Försäkringskassan. </span></a><span>Den har drabbats hårt av regeringens fram-och-tillbaka-politik. Regeringens hantering av Försäkringskassan är mycket otillfredsställande och man har tappat kontrollen över styrningen av myndigheten och sjukförsäkringen i stort. Nu måste erforderliga åtgärder vidtas för att Försäkrings</span><span>&#xad;</span><span>kassans handläggningstider ska minska och effektiviteten i arbetet öka. Efter besparingarna 2024 fick Försäkringskassan vissa ökade resurser under 2025. Men det finns fortfarande många exempel på att myndigheten är underfinansierad. Till exempel är de långa väntetiderna för att få del av omställningsstödet ett tydligt exempel på att myndigheten saknar tillräckligt antal handläggare. Regeringen bör därför noga följa Försäkringskassans arbete för att minska handläggningstiderna, effektivisera och rationalisera kassans arbete och minska bidragsfusket. </span>
+			</p>
+			<p>
+				<span>För att förstärka Försäkringskassans arbete med att förbättra kontrollen av de europeiska socialförsäkringsintygen – A1-intygen – tillförs Försäkringskassan 50 miljoner kronor från utgiftsområde 8 Migration.</span>
+			</p>
+			<div style="-aw-sdt-tag:'CC_Underskrifter'; -aw-sdt-title:'CC_Underskrifter'">
+				<p>
+					<span style="-aw-import:ignore">&#xa0;</span>
+				</p>
+				<p>
+					<span style="-aw-import:ignore">&#xa0;</span>
+				</p>
+			</div>
+			<table cellspacing="0" cellpadding="0" style="width:100%; border-collapse:collapse">
+				<tr style="page-break-inside:avoid">
+					<td style="width:1%; padding-right:5.4pt; padding-left:5.4pt; vertical-align:bottom">
+						<p class="Underskrifter" style="margin-bottom:0pt">
+							<span>Ida Karkiainen (S)</span>
+						</p>
+					</td>
+					<td style="width:1%; padding-right:5.4pt; padding-left:5.4pt; vertical-align:bottom">
+						<p class="Underskrifter" style="margin-bottom:0pt">
+							<span style="-aw-import:ignore">&#xa0;</span>
+						</p>
+					</td>
+				</tr>
+				<tr style="page-break-inside:avoid">
+					<td style="width:1%; padding-right:5.4pt; padding-left:5.4pt; vertical-align:bottom">
+						<p class="Underskrifter" style="margin-bottom:0pt">
+							<span>Åsa Eriksson (S)</span>
+						</p>
+					</td>
+					<td style="width:1%; padding-right:5.4pt; padding-left:5.4pt; vertical-align:bottom">
+						<p class="Underskrifter" style="margin-bottom:0pt">
+							<span>Jessica Rodén (S)</span>
+						</p>
+					</td>
+				</tr>
+				<tr style="page-break-inside:avoid">
+					<td style="width:1%; padding-right:5.4pt; padding-left:5.4pt; vertical-align:bottom">
+						<p class="Underskrifter" style="margin-bottom:0pt">
+							<span>Ola Möller (S)</span>
+						</p>
+					</td>
+					<td style="width:1%; padding-right:5.4pt; padding-left:5.4pt; vertical-align:bottom">
+						<p class="Underskrifter" style="margin-bottom:0pt">
+							<span>Sanne Lennström (S)</span>
+						</p>
+					</td>
+				</tr>
+				<tr style="page-break-inside:avoid">
+					<td style="width:1%; padding-right:5.4pt; padding-left:5.4pt; vertical-align:bottom">
+						<p class="Underskrifter" style="margin-bottom:0pt">
+							<span>Arber Gashi (S)</span>
+						</p>
+					</td>
+					<td style="width:1%; padding-right:5.4pt; padding-left:5.4pt; vertical-align:bottom">
+						<p class="Underskrifter" style="margin-bottom:0pt">
+							<span style="-aw-import:ignore">&#xa0;</span>
+						</p>
+					</td>
+				</tr>
+			</table>
+			<p>
+				<span style="-aw-import:ignore">&#xa0;</span>
+			</p>
+		</div>
+	</div>

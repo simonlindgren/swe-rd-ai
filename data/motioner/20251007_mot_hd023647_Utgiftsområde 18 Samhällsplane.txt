@@ -1,0 +1,639 @@
+SEARCH TERM: AI
+DOCUMENT ID: hd023647
+TITLE: Utgiftsområde 18 Samhällsplanering, bostadsförsörjning och byggande samt konsumentpolitik
+TYPE: mot
+SUBTYPE: Kommittémotion
+DATE: 2025-10-07
+PARLIAMENTARY YEAR: 2025/26
+ORGANISATION: CU
+STATUS: Klar
+DOWNLOADED: 2026-01-22 10:25:02
+================================================================================
+
+<style><!-- 
+ @page Section1 { size:595.3pt 841.9pt; margin:35.45pt 85.05pt 56.7pt }
+div.Section1 { page:Section1 }
+div.pconf body { t-i:14.2pt; line-height:15pt; font-family:'Verdana'; font-size: 0.90em }
+div.pconf h1, h2, h3, h4, h5, h6, p { margin:0pt }
+div.pconf li, table { margin-top:0pt; margin-bottom:0pt }
+div.pconf h1 { margin-top:41pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:19.5pt; font-family:'Verdana'; font-size: 1.05em; font-weight:normal; color:#000000 }
+div.pconf h2 { margin-top:30pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:17pt; font-family:'Verdana'; font-size: 1.00em; font-weight:normal; color:#000000 }
+div.pconf h3 { margin-top:18pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:15pt; font-family:'Verdana'; font-size: 0.90em; font-weight:bold; color:#000000 }
+div.pconf h4 { margin-top:18pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:15pt; font-family:'Verdana'; font-size: 0.90em; font-weight:normal; font-style:italic; color:#000000 }
+div.pconf h5 { margin-top:15pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:15pt; font-family:'Verdana'; font-size: 0.90em; font-weight:bold; font-style:normal; color:#000000 }
+div.pconf h6 { margin-top:15pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:15pt; font-family:'Verdana'; font-size: 0.90em; font-weight:normal; font-style:italic; color:#000000 }
+.Heading7 { margin-top:15pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:15pt; font-family:'Verdana'; font-size: 0.90em; font-weight:normal; font-style:italic; color:#000000; -aw-style-name:heading7 }
+.Heading8 { margin-top:15pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:15pt; font-family:'Verdana'; font-size: 0.90em; font-weight:normal; font-style:italic; color:#000000; -aw-style-name:heading8 }
+.Heading9 { margin-top:0pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:15pt; font-family:'Verdana'; font-size: 0.90em; font-weight:normal; font-style:italic; color:#000000; -aw-style-name:heading9 }
+.BalloonText { margin-bottom:0pt; t-i:14.2pt; line-height:normal; font-family:'Segoe UI'; font-size: 0.90em }
+.Beteckning { margin-top:18pt; margin-bottom:0pt; t-i:14.2pt; page-break-inside:auto; page-break-after:auto; line-height:19.5pt; font-size: 1.05em }
+.BlockText, .Inramatstycke { margin-right:56.7pt; margin-left:56.7pt; margin-bottom:0pt; t-i:0pt; text-align:nojustify; line-height:15pt; border:0.75pt solid #000000; padding:10pt; font-size: 0.90em; font-style:italic; -aw-border:0.25pt single }
+.Citaticitat { margin-top:7.5pt; margin-left:34pt; margin-bottom:0pt; t-i:0pt; line-height:12pt; font-size: 0.90em }
+.Citaticitatmedindrag { margin-top:0pt; margin-left:34pt; margin-bottom:7.5pt; t-i:17pt; line-height:12pt; font-size: 0.90em }
+.Citatmedindrag { margin-top:0pt; margin-left:17pt; margin-bottom:0pt; t-i:17pt; line-height:12pt; font-size: 0.90em }
+.CommentSubject { margin-bottom:0pt; t-i:14.2pt; line-height:normal; font-size: 0.90em; font-weight:bold }
+.CommentText { margin-bottom:0pt; t-i:14.2pt; line-height:normal; font-size: 0.90em }
+.FSHLogo { margin-top:4pt; margin-bottom:0pt; t-i:0pt; line-height:normal; font-size: 0.90em }
+.FSHNormL { margin-top:4pt; margin-bottom:0pt; t-i:0pt; line-height:15pt; border-top:1.5pt solid #000000; padding-top:3pt; font-size: 0.90em }
+.FSHNormal { margin-top:4pt; margin-bottom:0pt; t-i:0pt; line-height:15pt; font-size: 0.90em }
+.FSHNormalS5 { margin-top:11.5pt; margin-bottom:26pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-size: 0.95em; font-weight:bold }
+.FSHRub1, .Rubrik1S5 { margin-top:135pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:16pt; font-size: 1.00em }
+.FSHRub2, .Rubrik1A4 { margin-top:50pt; margin-bottom:5pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:24pt; font-size: 1.05em }
+.FSHTitel, .Dokumentrubrik { margin-top:4pt; margin-bottom:4pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:20pt; border-bottom:0.75pt solid #000000; padding-bottom:3pt; font-size: 1.05em; -aw-border-bottom:0.5pt single }
+.Footer { margin-top:4pt; margin-bottom:0pt; t-i:0pt; text-align:center; line-height:normal; font-size: 0.90em }
+.FootnoteText { margin-top:0pt; margin-bottom:0pt; t-i:0pt; line-height:12pt; font-size: 0.90em }
+.Frslagsrubrik { margin-top:41pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:19.5pt; font-family:'Verdana'; font-size: 1.05em }
+.Frslagstext, .Hemstlatt, .Yrkande { margin-top:4pt; margin-left:19.85pt; margin-bottom:0pt; t-i:-19.85pt; line-height:15pt; font-size: 0.90em }
+.Header { margin-top:4pt; margin-bottom:0pt; t-i:0pt; line-height:normal; font-size: 0.90em }
+.KantRubrikS5H { margin-top:6pt; margin-right:2.85pt; margin-bottom:0pt; t-i:0pt; text-align:right; line-height:8pt; font-size: 0.90em }
+.KantRubrikS5Hrad2 { margin-top:0pt; margin-right:2.85pt; margin-bottom:0pt; t-i:0pt; text-align:right; line-height:10pt; font-size: 0.90em }
+.KantRubrikS5V { margin-top:6pt; margin-right:0pt; margin-bottom:0pt; t-i:0pt; text-align:left; line-height:8pt; font-size: 0.90em }
+.KantRubrikS5Vrad2 { margin-top:0pt; margin-right:0pt; margin-bottom:0pt; t-i:0pt; text-align:left; line-height:10pt; font-size: 0.90em }
+.KantrubrikH { margin-top:4pt; margin-right:-82.2pt; margin-bottom:0pt; t-i:0pt; text-align:right; line-height:15pt; font-size: 0.90em }
+.KantrubrikV { margin-top:4pt; margin-left:-85.05pt; margin-bottom:0pt; t-i:0pt; line-height:normal; font-size: 0.90em }
+.Klla { margin-top:0pt; margin-bottom:0pt; t-i:0pt; line-height:12pt; font-size: 0.90em }
+.Lagtext { margin-top:4pt; margin-bottom:0pt; t-i:0pt; line-height:normal; font-size: 0.90em }
+.Lagtextindrag { margin-top:4pt; margin-bottom:0pt; t-i:14.2pt; line-height:normal; font-size: 0.90em }
+.Lagtextrubrik { margin-top:4pt; margin-bottom:0pt; t-i:0pt; line-height:normal; font-size: 0.90em; font-style:italic; letter-spacing:1pt }
+.List { margin-top:7.5pt; margin-left:17pt; margin-bottom:7.5pt; t-i:-17pt; line-height:15pt; font-size: 0.90em }
+.ListBullet, .PunktlistaBomb { margin-top:4pt; margin-left:14.2pt; margin-bottom:0pt; t-i:-14.2pt; line-height:15pt; font-size: 0.90em }
+.ListNumber, .PunktlistaNummer { margin-top:4pt; margin-left:14.2pt; margin-bottom:0pt; t-i:-14.2pt; line-height:15pt; font-size: 0.90em }
+.ListParagraph { margin-left:36pt; margin-bottom:0pt; t-i:14.2pt; line-height:15pt; font-size: 0.90em }
+.ListaGemener { margin-top:7.5pt; margin-left:17pt; margin-bottom:7.5pt; t-i:-17pt; line-height:15pt; font-size: 0.90em }
+.ListaLinje { margin-top:7.5pt; margin-left:17pt; margin-bottom:7.5pt; t-i:-17pt; line-height:15pt; font-size: 0.90em }
+.ListaNummer { margin-top:7.5pt; margin-left:17pt; margin-bottom:7.5pt; t-i:-17pt; line-height:15pt; font-size: 0.90em }
+.ListaPunkt { margin-top:7.5pt; margin-left:17pt; margin-bottom:7.5pt; t-i:-17pt; line-height:15pt; font-size: 0.90em }
+.MotionTIllRiksdagen { margin-top:18pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:19.5pt; font-size: 1.05em }
+.Motionr { margin-top:14pt; margin-bottom:31.5pt; t-i:0pt; page-break-inside:avoid; line-height:15pt; font-size: 1.00em; font-weight:bold; font-style:normal }
+.Motiveringrubrik2numrerat1 { margin-top:30pt; margin-left:0pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:17pt; font-family:'Verdana'; font-size: 1.00em }
+.Motiveringrubrik3numrerat1 { margin-top:18pt; margin-left:0pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:15pt; font-family:'Verdana'; font-size: 0.90em; font-weight:bold }
+.Motiveringrubrik3numrerat11 { margin-top:18pt; margin-left:0pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:15pt; font-family:'Verdana'; font-size: 0.90em; font-weight:bold }
+.Motiveringrubrik4numrerat11 { margin-top:18pt; margin-left:0pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:15pt; font-family:'Verdana'; font-size: 0.90em; font-weight:normal; font-style:italic }
+.NormalWeb { margin-bottom:0pt; t-i:14.2pt; line-height:15pt; font-family:'Verdana'; font-size: 0.90em }
+.NormalIndent { margin-left:65.2pt; margin-bottom:0pt; t-i:14.2pt; line-height:15pt; font-size: 0.90em }
+.Normalutanindragellerluft { margin-top:4pt; margin-bottom:0pt; t-i:0pt; line-height:15pt; font-size: 0.90em }
+.Normal00 { margin-top:4pt; margin-bottom:0pt; t-i:0pt; line-height:normal; font-size: 0.90em }
+.NormalA4fot { margin-top:12pt; margin-bottom:0pt; t-i:0pt; text-align:center; line-height:normal; font-size: 0.90em }
+.NormalA4sidnr { margin-top:4pt; margin-bottom:12pt; t-i:0pt; text-align:center; line-height:normal; font-size: 0.90em }
+.NormalS5sidnrH { margin-top:4pt; margin-right:2.85pt; margin-bottom:0pt; t-i:0pt; text-align:right; line-height:normal; font-size: 0.90em }
+.NormalS5sidnrV { margin-top:4pt; margin-right:0pt; margin-bottom:0pt; t-i:0pt; text-align:left; line-height:normal; font-size: 0.90em }
+.PlainText { margin-bottom:0pt; t-i:0pt; line-height:12pt; font-family:'Verdana'; font-size: 0.90em }
+.Quote { margin-top:7.5pt; margin-left:17pt; margin-bottom:0pt; t-i:0pt; line-height:12pt; font-size: 0.90em }
+.R1 { margin-top:41pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:19.5pt; font-family:'Verdana'; font-size: 1.05em }
+.R2 { margin-top:30pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:17pt; font-family:'Verdana'; font-size: 1.00em }
+.R3 { margin-top:18pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:15pt; font-family:'Verdana'; font-size: 0.90em; font-weight:bold }
+.Rubrik1numrerat { margin-top:41pt; margin-left:0pt; margin-bottom:0pt; t-i:0pt; page-break-inside:auto; page-break-after:avoid; line-height:19.5pt; font-family:'Verdana'; font-size: 1.05em }
+.Rubrik2numrerat { margin-top:30pt; margin-left:0pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:17pt; font-family:'Verdana'; font-size: 1.00em }
+.Rubrik3numrerat { margin-top:18pt; margin-left:0pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:15pt; font-family:'Verdana'; font-size: 0.90em; font-weight:bold }
+.Rubrik4numrerat { margin-top:18pt; margin-left:0pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:15pt; font-family:'Verdana'; font-size: 0.90em; font-weight:normal; font-style:italic }
+.RubrikFrslagTIllRiksdagsbeslut { margin-top:41pt; margin-bottom:15pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:19.5pt; font-family:'Verdana'; font-size: 1.05em }
+.RubrikInnehllsf { margin-top:41pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:19.5pt; font-family:'Verdana'; font-size: 1.05em }
+.RubrikSammanf { margin-top:41pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:19.5pt; font-family:'Verdana'; font-size: 1.05em }
+.Salutation { margin-top:41pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:19.5pt; font-family:'Verdana'; font-size: 1.05em }
+.Streckkod { margin-top:12pt; margin-bottom:0pt; t-i:0pt; text-align:center; line-height:normal; font-family:IDAutomationHC39S; font-size: 1.00em }
+.Strecklista, .PunktlistaTankstreck { margin-top:4pt; margin-left:14.2pt; margin-bottom:0pt; t-i:-14.2pt; line-height:15pt; font-size: 0.90em }
+.Subtitle { margin-top:4pt; margin-bottom:0pt; t-i:0pt; line-height:15pt; font-family:'Verdana'; font-size: 0.90em; font-weight:bold }
+.TOC1 { margin-top:4pt; margin-bottom:0pt; t-i:0pt; line-height:15pt; font-size: 0.90em }
+.TOC2 { margin-top:4pt; margin-left:14.2pt; margin-bottom:0pt; t-i:0pt; line-height:15pt; font-size: 0.90em }
+.TOC3 { margin-top:4pt; margin-left:28.35pt; margin-bottom:0pt; t-i:0pt; line-height:15pt; font-size: 0.90em }
+.TOC4 { margin-top:4pt; margin-left:42.55pt; margin-bottom:0pt; t-i:0pt; line-height:15pt; font-size: 0.90em }
+.TOC5 { margin-top:4pt; margin-left:56.7pt; margin-bottom:0pt; t-i:0pt; line-height:15pt; font-size: 0.90em }
+.TOC6 { margin-top:4pt; margin-left:56.7pt; margin-bottom:0pt; t-i:0pt; line-height:15pt; font-size: 0.90em }
+.TOC7 { margin-top:15pt; margin-left:56.7pt; margin-bottom:0pt; t-i:14.2pt; page-break-inside:avoid; page-break-after:avoid; line-height:normal; font-family:'Verdana'; font-size: 0.90em; font-weight:normal; font-style:italic }
+.TOC8 { margin-top:15pt; margin-left:56.7pt; margin-bottom:0pt; t-i:14.2pt; page-break-inside:avoid; page-break-after:avoid; line-height:normal; font-family:'Verdana'; font-size: 0.90em; font-weight:normal; font-style:italic }
+.TOC9 { margin-top:15pt; margin-left:56.7pt; margin-bottom:0pt; t-i:14.2pt; page-break-inside:avoid; page-break-after:avoid; line-height:normal; font-family:'Verdana'; font-size: 0.90em; font-weight:normal; font-style:italic }
+.TOCHeading { margin-top:41pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:19.5pt; font-family:'Verdana'; font-size: 1.05em }
+.Tabellunderrubrik { margin-top:0pt; margin-bottom:0pt; t-i:0pt; page-break-after:avoid; line-height:15pt; font-size: 0.90em; font-weight:normal; font-style:italic }
+.Tabellrubrik { margin-top:7.5pt; margin-bottom:0pt; t-i:0pt; page-break-after:avoid; line-height:15pt; font-size: 0.90em; font-weight:bold }
+.Title { margin-top:41pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:19.5pt; font-family:'Verdana'; font-size: 1.05em }
+.Underskriftdatum { margin-top:24pt; margin-bottom:3pt; t-i:0pt; page-break-inside:avoid; line-height:15pt; font-size: 0.90em; font-style:normal }
+.Underskrifter { margin-top:15pt; margin-bottom:3pt; t-i:0pt; page-break-inside:avoid; line-height:15pt; font-size: 0.90em; font-style:italic }
+.Yrkandehnv, .Frslagspunkthnv { margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; font-size: 0.90em }
+span.BallongtextChar { font-family:'Segoe UI'; font-size: 0.90em }
+span.BeteckningChar { font-size:19.5pt }
+span.CommentReference { font-size:8pt }
+span.FSHRub2Char, span.Rubrik1A4Char { font-size:24pt }
+span.FotnotstextChar { font-size:10pt }
+span.Hyperlink { text-decoration:underline; color:#0563c1; -aw-style-name:hyperlink }
+span.InledningChar { font-family:'Verdana'; font-size: 1.00em; font-weight:bold }
+span.IntenseReference { font-weight:normal; font-style:normal; font-variant:normal; text-decoration:none; text-transform:none; letter-spacing:0pt; vertical-align:0pt; color:#000000; display:inline }
+span.KommentarerChar { font-size:10pt }
+span.KommentarsmneChar { font-size:10pt; font-weight:bold }
+span.MotionTIllRiksdagenChar { font-size:19.5pt }
+span.OformateradtextChar { font-family:'Verdana'; font-size: 0.90em }
+span.PlaceholderText { color:#f4b083 }
+span.Rubrik1Char { font-family:'Verdana'; font-size: 1.05em }
+span.Rubrik2Char { font-family:'Verdana'; font-size: 1.00em }
+span.Rubrik3Char { font-family:'Verdana'; font-size: 0.90em; font-weight:bold }
+span.Rubrik4Char { font-family:'Verdana'; font-size: 0.90em; font-style:italic }
+span.Rubrik5Char { font-family:'Verdana'; font-weight:bold }
+span.Rubrik6Char { font-family:'Verdana'; font-style:italic }
+span.Rubrik7Char { font-family:'Verdana'; font-size: 0.90em; font-weight:bold }
+span.Rubrik8Char { font-family:'Verdana'; font-size: 0.90em; font-weight:bold }
+span.Rubrik9Char { font-family:'Verdana'; font-size: 0.90em; font-weight:bold }
+span.RubrikChar { font-family:'Verdana'; font-size: 1.00em; font-weight:bold }
+span.SidfotChar { font-size:11.5pt }
+span.UnderrubrikChar { font-family:'Verdana'; font-size: 0.90em; font-weight:bold }
+.TableGrid {  }
+
+.pconf{width: 450px;margin-left:5px;overflow:visable;font-family:Verdana, Geneva, sans-serif;} 
+ .sidhuvud_publikation, .sidhuvud_beteckning{font-size:133%}
+.MotionarLista {font-size:122%}
+
+--></style><div class="pconf"><span class="sidhuvud_publikation">Motion till riksdagen</span><br/>
+<span class="sidhuvud_beteckning">2025/26:3647</span><br/>
+<span class="MotionarLista">av Joakim Järrebring m.fl. (S)</span><br/>
+<h1>Utgiftsområde 18 Samhällsplanering, bostadsförsörjning och byggande samt konsumentpolitik</h1>
+<hr class="sidhuvud_linje"/>
+
+
+		<div class="Section1">
+			<p class="RubrikFrslagTIllRiksdagsbeslut">
+				<a name="_Toc106800475"></a><a name="_Toc106801300"><span style="-aw-sdt-tag:'CC_Boilerplate_4'; -aw-sdt-title:'CC_Boilerplate_4'"><span>Förslag till riksdagsbeslut</span></span><span style="-aw-bookmark-end:_Toc106800475"></span></a>
+			</p>
+			<div style="-aw-sdt-tag:'8f69af43-4440-4b9c-9590-03dcc3353bd9'; -aw-sdt-title:'Yrkande 1'">
+				<ol type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-left:14pt; t-i:0pt; padding-left:5.85pt">
+						<span>Riksdagen anvisar anslagen för 2026 inom utgiftsområde 18 Samhällsplanering, bostadsförsörjning och byggande samt konsumentpolitik enligt förslaget i tabellen i motionen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'e25b34e0-7d11-4551-bcb1-e237d71b59d0'; -aw-sdt-title:'Yrkande 2'">
+				<ol start="2" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; margin-left:14pt; t-i:0pt; padding-left:5.85pt">
+						<span>Riksdagen bemyndigar regeringen att under 2026 för anslaget 99:4 Statlig byggstimulans ingå ekonomiska åtaganden som medför behov av framtida anslag på högst 3</span><span>&#xa0;</span><span>miljarder kronor.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'cbc44299-69ba-417e-a50e-6623a2aadb17'; -aw-sdt-title:'Yrkande 3'">
+				<ol start="3" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; margin-left:14pt; t-i:0pt; padding-left:5.85pt">
+						<span>Riksdagen bemyndigar regeringen att för 2026 ta upp lån i Riksgäldskontoret för statliga byggkrediter som uppgår till 5,12 miljarder kronor.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'CC_Motivering_Rubrik'; -aw-sdt-title:'CC_Motivering_Rubrik'">
+				<h1>
+					<a name="MotionsStart"></a><a name="_Toc106801301"></a><a name="_Toc106800476"><span>Motivering</span></a>
+				</h1>
+			</div>
+			<span style="-aw-bookmark-end:_Toc106801301">
+			</span>
+			<p class="Tabellrubrik">
+				<span style="-aw-bookmark-end:_Toc106800476"></span><span>Anslagsförslag</span><span>&#xa0;</span><span>för 2026</span><span>&#xa0;</span><span>för utgiftsområde</span><span>&#xa0;</span><span>18</span><span>&#xa0;</span><span>Samhällsplanering, bostadsförsörjning och byggande samt konsumentpolitik</span>
+			</p>
+			<p class="Tabellunderrubrik">
+				<span>Tusental kronor</span>
+			</p>
+			<table cellspacing="0" cellpadding="0" style="width:425.25pt; border-collapse:collapse">
+				<thead>
+					<tr style="height:8.5pt">
+						<td colspan="2" style="width:14.2pt; border-top-style:solid; border-top-width:1pt; border-bottom-style:solid; border-bottom-width:1pt; padding:2.85pt 1.4pt 1.4pt; vertical-align:top; background-color:#ffffff">
+							<p style="t-i:0pt; line-height:12pt">
+								<span style="font-size:10pt; font-weight:bold">Anslag</span>
+							</p>
+						</td>
+						<td style="width:68.1pt; border-top-style:solid; border-top-width:1pt; border-bottom-style:solid; border-bottom-width:1pt; padding:3.4pt 1.4pt 1pt; vertical-align:top; background-color:#ffffff">
+							<p style="t-i:0pt; text-align:right; line-height:12pt">
+								<span style="font-size:10pt; font-weight:bold">Regeringens förslag</span>
+							</p>
+						</td>
+						<td style="width:68.1pt; border-top-style:solid; border-top-width:1pt; border-bottom-style:solid; border-bottom-width:1pt; padding:2.85pt 1.4pt 1.4pt; vertical-align:top; background-color:#ffffff">
+							<p style="t-i:0pt; text-align:right; line-height:12pt">
+								<span style="font-size:10pt; font-weight:bold">Avvikelse från regeringen</span>
+							</p>
+						</td>
+					</tr>
+				</thead>
+				<tbody>
+					<tr style="height:8.5pt">
+						<td style="width:14.2pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:top; background-color:#ffffff">
+							<p style="t-i:0pt; line-height:12pt">
+								<span style="font-size:10pt">1:1</span>
+							</p>
+						</td>
+						<td style="width:187.15pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; background-color:#ffffff">
+							<p style="t-i:0pt; line-height:12pt">
+								<span style="font-size:10pt">Bostadspolitisk utveckling</span>
+							</p>
+						</td>
+						<td style="width:68.1pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:bottom; background-color:#ffffff">
+							<p style="t-i:0pt; text-align:right; line-height:12pt">
+								<span style="font-size:10pt">123</span><span style="font-size:10pt">&#xa0;</span><span style="font-size:10pt">000</span>
+							</p>
+						</td>
+						<td style="width:68.1pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:bottom; background-color:#ffffff">
+							<p style="t-i:0pt; text-align:right; line-height:12pt">
+								<span style="font-size:10pt">±0</span>
+							</p>
+						</td>
+					</tr>
+					<tr style="height:8.5pt">
+						<td style="width:14.2pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:top; background-color:#ffffff">
+							<p style="t-i:0pt; line-height:12pt">
+								<span style="font-size:10pt">1:2</span>
+							</p>
+						</td>
+						<td style="width:187.15pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; background-color:#ffffff">
+							<p style="t-i:0pt; line-height:12pt">
+								<span style="font-size:10pt">Stöd för att underlätta för enskilda att ordna bostad</span>
+							</p>
+						</td>
+						<td style="width:68.1pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:bottom; background-color:#ffffff">
+							<p style="t-i:0pt; text-align:right; line-height:12pt">
+								<span style="font-size:10pt">4</span><span style="font-size:10pt">&#xa0;</span><span style="font-size:10pt">000</span>
+							</p>
+						</td>
+						<td style="width:68.1pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:bottom; background-color:#ffffff">
+							<p style="t-i:0pt; text-align:right; line-height:12pt">
+								<span style="font-size:10pt">±0</span>
+							</p>
+						</td>
+					</tr>
+					<tr style="height:8.5pt">
+						<td style="width:14.2pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:top; background-color:#ffffff">
+							<p style="t-i:0pt; line-height:12pt">
+								<span style="font-size:10pt">1:3</span>
+							</p>
+						</td>
+						<td style="width:187.15pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; background-color:#ffffff">
+							<p style="t-i:0pt; line-height:12pt">
+								<span style="font-size:10pt">Boverket</span>
+							</p>
+						</td>
+						<td style="width:68.1pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:bottom; background-color:#ffffff">
+							<p style="t-i:0pt; text-align:right; line-height:12pt">
+								<span style="font-size:10pt">320</span><span style="font-size:10pt">&#xa0;</span><span style="font-size:10pt">063</span>
+							</p>
+						</td>
+						<td style="width:68.1pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:bottom; background-color:#ffffff">
+							<p style="t-i:0pt; text-align:right; line-height:12pt">
+								<span style="font-size:10pt">50</span><span style="font-size:10pt">&#xa0;</span><span style="font-size:10pt">000</span>
+							</p>
+						</td>
+					</tr>
+					<tr style="height:8.5pt">
+						<td style="width:14.2pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:top; background-color:#ffffff">
+							<p style="t-i:0pt; line-height:12pt">
+								<span style="font-size:10pt">1:4</span>
+							</p>
+						</td>
+						<td style="width:187.15pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; background-color:#ffffff">
+							<p style="t-i:0pt; line-height:12pt">
+								<span style="font-size:10pt">Statens geotekniska institut</span>
+							</p>
+						</td>
+						<td style="width:68.1pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:bottom; background-color:#ffffff">
+							<p style="t-i:0pt; text-align:right; line-height:12pt">
+								<span style="font-size:10pt">58</span><span style="font-size:10pt">&#xa0;</span><span style="font-size:10pt">872</span>
+							</p>
+						</td>
+						<td style="width:68.1pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:bottom; background-color:#ffffff">
+							<p style="t-i:0pt; text-align:right; line-height:12pt">
+								<span style="font-size:10pt">±0</span>
+							</p>
+						</td>
+					</tr>
+					<tr style="height:8.5pt">
+						<td style="width:14.2pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:top; background-color:#ffffff">
+							<p style="t-i:0pt; line-height:12pt">
+								<span style="font-size:10pt">1:5</span>
+							</p>
+						</td>
+						<td style="width:187.15pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; background-color:#ffffff">
+							<p style="t-i:0pt; line-height:12pt">
+								<span style="font-size:10pt">Lantmäteriet</span>
+							</p>
+						</td>
+						<td style="width:68.1pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:bottom; background-color:#ffffff">
+							<p style="t-i:0pt; text-align:right; line-height:12pt">
+								<span style="font-size:10pt">963</span><span style="font-size:10pt">&#xa0;</span><span style="font-size:10pt">198</span>
+							</p>
+						</td>
+						<td style="width:68.1pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:bottom; background-color:#ffffff">
+							<p style="t-i:0pt; text-align:right; line-height:12pt">
+								<span style="font-size:10pt">±0</span>
+							</p>
+						</td>
+					</tr>
+					<tr style="height:8.5pt">
+						<td style="width:14.2pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:top; background-color:#ffffff">
+							<p style="t-i:0pt; line-height:12pt">
+								<span style="font-size:10pt">2:1</span>
+							</p>
+						</td>
+						<td style="width:187.15pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; background-color:#ffffff">
+							<p style="t-i:0pt; line-height:12pt">
+								<span style="font-size:10pt">Konsumentverket</span>
+							</p>
+						</td>
+						<td style="width:68.1pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:bottom; background-color:#ffffff">
+							<p style="t-i:0pt; text-align:right; line-height:12pt">
+								<span style="font-size:10pt">197</span><span style="font-size:10pt">&#xa0;</span><span style="font-size:10pt">867</span>
+							</p>
+						</td>
+						<td style="width:68.1pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:bottom; background-color:#ffffff">
+							<p style="t-i:0pt; text-align:right; line-height:12pt">
+								<span style="font-size:10pt">45</span><span style="font-size:10pt">&#xa0;</span><span style="font-size:10pt">000</span>
+							</p>
+						</td>
+					</tr>
+					<tr style="height:8.5pt">
+						<td style="width:14.2pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:top; background-color:#ffffff">
+							<p style="t-i:0pt; line-height:12pt">
+								<span style="font-size:10pt">2:2</span>
+							</p>
+						</td>
+						<td style="width:187.15pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; background-color:#ffffff">
+							<p style="t-i:0pt; line-height:12pt">
+								<span style="font-size:10pt">Allmänna reklamationsnämnden</span>
+							</p>
+						</td>
+						<td style="width:68.1pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:bottom; background-color:#ffffff">
+							<p style="t-i:0pt; text-align:right; line-height:12pt">
+								<span style="font-size:10pt">68</span><span style="font-size:10pt">&#xa0;</span><span style="font-size:10pt">041</span>
+							</p>
+						</td>
+						<td style="width:68.1pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:bottom; background-color:#ffffff">
+							<p style="t-i:0pt; text-align:right; line-height:12pt">
+								<span style="font-size:10pt">±0</span>
+							</p>
+						</td>
+					</tr>
+					<tr style="height:8.5pt">
+						<td style="width:14.2pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:top; background-color:#ffffff">
+							<p style="t-i:0pt; line-height:12pt">
+								<span style="font-size:10pt">2:3</span>
+							</p>
+						</td>
+						<td style="width:187.15pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; background-color:#ffffff">
+							<p style="t-i:0pt; line-height:12pt">
+								<span style="font-size:10pt">Fastighetsmäklarinspektionen</span>
+							</p>
+						</td>
+						<td style="width:68.1pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:bottom; background-color:#ffffff">
+							<p style="t-i:0pt; text-align:right; line-height:12pt">
+								<span style="font-size:10pt">36</span><span style="font-size:10pt">&#xa0;</span><span style="font-size:10pt">963</span>
+							</p>
+						</td>
+						<td style="width:68.1pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:bottom; background-color:#ffffff">
+							<p style="t-i:0pt; text-align:right; line-height:12pt">
+								<span style="font-size:10pt">±0</span>
+							</p>
+						</td>
+					</tr>
+					<tr style="height:8.5pt">
+						<td style="width:14.2pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:top; background-color:#ffffff">
+							<p style="t-i:0pt; line-height:12pt">
+								<span style="font-size:10pt">2:4</span>
+							</p>
+						</td>
+						<td style="width:187.15pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; background-color:#ffffff">
+							<p style="t-i:0pt; line-height:12pt">
+								<span style="font-size:10pt">Bidrag till miljömärkning av produkter</span>
+							</p>
+						</td>
+						<td style="width:68.1pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:bottom; background-color:#ffffff">
+							<p style="t-i:0pt; text-align:right; line-height:12pt">
+								<span style="font-size:10pt">3</span><span style="font-size:10pt">&#xa0;</span><span style="font-size:10pt">124</span>
+							</p>
+						</td>
+						<td style="width:68.1pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:bottom; background-color:#ffffff">
+							<p style="t-i:0pt; text-align:right; line-height:12pt">
+								<span style="font-size:10pt">±0</span>
+							</p>
+						</td>
+					</tr>
+					<tr style="height:8.5pt">
+						<td style="width:14.2pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:top; background-color:#ffffff">
+							<p style="t-i:0pt; line-height:12pt">
+								<span style="font-size:10pt">99:1</span>
+							</p>
+						</td>
+						<td style="width:187.15pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; background-color:#ffffff">
+							<p style="t-i:0pt; line-height:12pt">
+								<span style="font-size:10pt">Energieffektivisering av flerbostadshus</span>
+							</p>
+						</td>
+						<td style="width:68.1pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:bottom; background-color:#ffffff">
+							<p style="t-i:0pt; text-align:right; line-height:12pt">
+								<span style="font-size:10pt">±0</span>
+							</p>
+						</td>
+						<td style="width:68.1pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:bottom; background-color:#ffffff">
+							<p style="t-i:0pt; text-align:right; line-height:12pt">
+								<span style="font-size:10pt">500</span><span style="font-size:10pt">&#xa0;</span><span style="font-size:10pt">000</span>
+							</p>
+						</td>
+					</tr>
+					<tr style="height:8.5pt">
+						<td style="width:14.2pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:top; background-color:#ffffff">
+							<p style="t-i:0pt; line-height:12pt">
+								<span style="font-size:10pt">99:2</span>
+							</p>
+						</td>
+						<td style="width:187.15pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; background-color:#ffffff">
+							<p style="t-i:0pt; line-height:12pt">
+								<span style="font-size:10pt">Åtgärder på konsumentområdet</span>
+							</p>
+						</td>
+						<td style="width:68.1pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:bottom; background-color:#ffffff">
+							<p style="t-i:0pt; text-align:right; line-height:12pt">
+								<span style="font-size:10pt">±0</span>
+							</p>
+						</td>
+						<td style="width:68.1pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:bottom; background-color:#ffffff">
+							<p style="t-i:0pt; text-align:right; line-height:12pt">
+								<span style="font-size:10pt">15</span><span style="font-size:10pt">&#xa0;</span><span style="font-size:10pt">000</span>
+							</p>
+						</td>
+					</tr>
+					<tr style="height:8.5pt">
+						<td style="width:14.2pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:top; background-color:#ffffff">
+							<p style="t-i:0pt; line-height:12pt">
+								<span style="font-size:10pt">99:3</span>
+							</p>
+						</td>
+						<td style="width:187.15pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; background-color:#ffffff">
+							<p style="t-i:0pt; line-height:12pt">
+								<span style="font-size:10pt">Kommunala hyresgarantier</span>
+							</p>
+						</td>
+						<td style="width:68.1pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:bottom; background-color:#ffffff">
+							<p style="t-i:0pt; text-align:right; line-height:12pt">
+								<span style="font-size:10pt">±0</span>
+							</p>
+						</td>
+						<td style="width:68.1pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:bottom; background-color:#ffffff">
+							<p style="t-i:0pt; text-align:right; line-height:12pt">
+								<span style="font-size:10pt">74</span><span style="font-size:10pt">&#xa0;</span><span style="font-size:10pt">500</span>
+							</p>
+						</td>
+					</tr>
+					<tr style="height:8.5pt">
+						<td style="width:14.2pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:top; background-color:#ffffff">
+							<p style="t-i:0pt; line-height:12pt">
+								<span style="font-size:10pt">99:4</span>
+							</p>
+						</td>
+						<td style="width:187.15pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; background-color:#ffffff">
+							<p style="t-i:0pt; line-height:12pt">
+								<span style="font-size:10pt">Statlig byggstimulans</span>
+							</p>
+						</td>
+						<td style="width:68.1pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:bottom; background-color:#ffffff">
+							<p style="t-i:0pt; text-align:right; line-height:12pt">
+								<span style="font-size:10pt">±0</span>
+							</p>
+						</td>
+						<td style="width:68.1pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:bottom; background-color:#ffffff">
+							<p style="t-i:0pt; text-align:right; line-height:12pt">
+								<span style="font-size:10pt">±0</span>
+							</p>
+						</td>
+					</tr>
+					<tr style="height:8.5pt">
+						<td colspan="2" style="width:201.3pt; border-bottom-style:solid; border-bottom-width:1pt; padding:3.4pt 4.25pt 1pt 1.4pt; background-color:#ffffff">
+							<p style="t-i:0pt; line-height:12pt">
+								<span style="font-size:10pt; font-weight:bold">Summa</span>
+							</p>
+						</td>
+						<td style="width:68.1pt; border-bottom-style:solid; border-bottom-width:1pt; padding:3.4pt 1.4pt 1pt; vertical-align:bottom; background-color:#ffffff">
+							<p style="t-i:0pt; text-align:right; line-height:12pt">
+								<span style="font-size:10pt; font-weight:bold">1</span><span style="font-size:10pt; font-weight:bold">&#xa0;</span><span style="font-size:10pt; font-weight:bold">775</span><span style="font-size:10pt; font-weight:bold">&#xa0;</span><span style="font-size:10pt; font-weight:bold">128</span>
+							</p>
+						</td>
+						<td style="width:68.1pt; border-bottom-style:solid; border-bottom-width:1pt; padding:3.4pt 1.4pt 1pt; vertical-align:bottom; background-color:#ffffff">
+							<p style="t-i:0pt; text-align:right; line-height:12pt">
+								<span style="font-size:10pt; font-weight:bold">684</span><span style="font-size:10pt; font-weight:bold">&#xa0;</span><span style="font-size:10pt; font-weight:bold">500</span>
+							</p>
+						</td>
+					</tr>
+				</tbody>
+			</table>
+			<h2>
+				<span>Anslag 1:3 Boverket</span>
+			</h2>
+			<p class="Normalutanindragellerluft">
+				<span style="letter-spacing:-0.1pt">Byggandet av bostäder har tvärnitat och inte minst för träbyggnadsindustrin är situationen</span><span> akut. Konkurser och varsel är ett faktum i den byggsektor som traditionellt fungerar som tillväxtmotor. Den redan allvarliga bostadsbristen förvärras. Arbetsmarknadens funktionssätt försämras av bristen på bostäder i tillväxtregioner. Hela byggsektorn hotas av långsiktigt mycket kostsam kompetensförlust när verksamheten tvärnitar. Stora och för landet avgörande industrietableringar hotas av att bostäder saknas och inte byggs i de kommuner där framtidens industri vill etablera storskaliga anläggningar. Sverige har inte råd att låta bostadsbyggandet kollapsa. Hela byggsektorn har under denna mandat</span><span>&#xad;</span><span>period befunnit sig i ett stålbad och staten bör därför skyndsamt bidra med fler aktiva åtgärder. </span>
+			</p>
+			<p>
+				<span>Vi socialdemokrater föreslår därför två åtgärder i form av dels en statlig bygg</span><span>&#xad;</span><span>stimulans och dels statliga byggkrediter. De bör båda vara kopplade till tydliga kredit</span><span>&#xad;</span><span>villkor vad avser hyresnivå/prisnivå, klimatstandard och sociala hänsyn i utformning och bostadsförmedling. </span>
+			</p>
+			<p>
+				<span>Den statliga byggstimulansen är i form av ett produktionsstöd riktad till mindre orter och arbetsmarknadsregioner med stora industrietableringar samt till studentbostäder. Produktionsstödet betalas ut efter färdigställda projekt.</span>
+			</p>
+			<p>
+				<span>De statliga byggkrediterna är i form av en förmånlig statlig medfinansiering till nyproduktion. De bör ställas ut för att sänka både investeringskostnaden och den finansiella risken för byggherrar för att genomföra den samhällsnyttiga åtgärd som nyproduktion av bostäder innebär. Lånen bör ges ut till långsiktig statslåneränta (ränta på statsobligation med 25 års löptid), plus en minimal marginal för administrations</span><span>&#xad;</span><span>kostnader. För att säkerställa att de allra bästa investeringsprojekten genomförs, bör staten låna ut maximalt 20 procent av investeringsbeloppet. </span>
+			</p>
+			<p>
+				<span>Givet en genomsnittskostnad om drygt 2,5 miljoner kronor per bostad förutsätter en ökning av produktionstakten med 10</span><span>&#xa0;</span><span>000 nya bostäder per år att Riksgälden ställer ut lån om 5,12 miljarder per år. Resterande kan och bör komma från andra källor såsom fastighetsägarens eget kapital, reguljära banklån eller lån från den europeiska investeringsbanken. </span>
+			</p>
+			<p>
+				<span>För de kostnader som är förenade med införandet och administrationen av den statliga byggstimulansen och de statliga byggkrediterna föreslår vi en utökning av Boverkets anslag omfattande 50 miljoner kronor. </span>
+			</p>
+			<h2>
+				<span>Anslag 2:1 Konsumentverket</span>
+			</h2>
+			<p style="t-i:0pt">
+				<a name="_Hlk210401117"><span>Det är angeläget att hinna med i den snabba utveckling som möjliggörs av ny teknik, t.ex. vad gäller AI. Generativ AI är, rätt använd, en teknik som kan betyda en positiv utveckling inom många områden. Men det finns samtidigt risker att AI kan missbrukas för t.ex. manipulation, desinformation och bedrägerier. Det är därför viktigt med tillsyn och att befintlig konsumentlagstiftning kan tillämpas i dessa fall samt att ny lagstiftning tas fram där den nuvarande inte räcker till. </span></a>
+			</p>
+			<p style="t-i:0pt">
+				<span>Mot denna bakgrund är det viktigt att Konsumentverket har tillräckliga resurser och rätt kompetensutveckling för att klara tillsynen. Vi socialdemokrater anser att Konsument</span><span>&#xad;</span><span>verket behöver ytterligare resurser för sitt arbete. Vi föreslår ett ökat anslag för fler kontroller (plus 30 miljoner kronor) och nya verktyg (plus 15 miljoner kronor).</span>
+			</p>
+			<h2>
+				<span style="-aw-bookmark-end:_Hlk210401117"></span><span>Anslag 99:1 Energieffektivisering av flerbostadshus</span>
+			</h2>
+			<p style="t-i:0pt">
+				<span>Vi socialdemokrater anser att behovet av ett riktat stöd för energieffektiviseringar är </span><span style="letter-spacing:-0.05pt">minst lika aktuellt som tidigare. Svenska folket ska skyddas mot höga elpriser. Vi social</span><span style="letter-spacing:-0.05pt">&#xad;</span><span style="letter-spacing:-0.05pt">demokrater</span><span> vill därför att 500 miljoner kronor satsas på energieffektivisering av </span><span style="letter-spacing:-0.05pt">fler</span><span style="letter-spacing:-0.05pt">&#xad;</span><span style="letter-spacing:-0.05pt">bostadshus. Det är nödvändigt att förbättra befintliga byggnaders energiprestanda genom</span><span> att främja kostnadseffektiva åtgärder vid genomförandet av energieffektiviserande renoveringar.</span>
+			</p>
+			<h2>
+				<span>Anslag 99:2 Åtgärder på konsumentområdet</span>
+			</h2>
+			<p style="t-i:0pt">
+				<a name="_Hlk210306157"><span>Som ett betydelsefullt komplement till Konsumentverket finns en rad olika organisa</span><span>&#xad;</span><span>tioner i det civila samhället som utför ett viktigt arbete. Att den SD-styrda regeringen avskaffat anslaget till dessa organisationer är svårbegripligt. Vi socialdemokrater utvecklar denna kritik i vår kommittémotion om konsumentpolitik. Vi föreslår att anslaget återställs till 2023 års nivå (15 miljoner kronor). </span><span style="-aw-import:spaces">&#xa0;</span></a>
+			</p>
+			<h2>
+				<span>Anslag 99:3 Kommunala hyresgarantier</span>
+			</h2>
+			<p style="t-i:0pt">
+				<span>Många hyresvärdar kräver att en bostadssökande ska ha en tillsvidareanställning för att kunna få ett förstahandskontrakt. Ett stort antal unga personer kan därmed inte ta sig in på bostadsmarknaden eller hänvisas till osäkra och dyra andrahandskontrakt. Dessutom utestängs många människor som har andra anställningsformer (projektanställningar, arbeten inom gigekonomin m.m.) från möjligheten till en egen bostad. </span>
+			</p>
+			<p>
+				<span>Hyresgarantier används redan idag av några kommuner och har fungerat som väg för inte minst utsatta barnfamiljer att få tillgång till ett tryggt boende i hyresrätt med första</span><span>&#xad;</span><span>handskontrakt. Vi socialdemokrater instämmer i att det är särskilt angeläget att ge barn</span><span>&#xad;</span><span>familjer möjlighet till permanenta bostäder, men vill understryka att det kommunala bostadsförsörjningsansvaret inte gäller endast barnfamiljer utan alla kommuninvånare. Vi vill vidga användandet till fler personer och föreslår därför ett anslag på totalt 74,5 miljoner kronor för förstärkt användning av kommunala hyresgarantier.</span>
+			</p>
+			<h3>
+				<span style="-aw-bookmark-end:_Hlk210306157"></span><span>Bemyndigande att ingå ekonomiska åtaganden för en statlig byggstimulans</span>
+			</h3>
+			<p style="t-i:0pt">
+				<span>Vi socialdemokrater föreslår en statlig byggstimulans som betalas ut efter färdigställda projekt. Därför bör riksdagen bemyndiga regeringen att ingå ekonomiska åtaganden som täcker kostnaden för detta. Vi föreslår att regeringen bemyndigas ingå ekonomiska åtaganden som medför behov av framtida anslag på högst 3</span><span>&#xa0;</span><span>miljarder kronor år 2026 och ökar anslagsfinansieringen för detta ändamål med 400 miljoner kronor år 2027 och 1</span><span>&#xa0;</span><span>miljard kronor år 2028. </span>
+			</p>
+			<h3>
+				<span>Bemyndigande att ingå ekonomiska åtaganden för statliga byggkrediter</span>
+			</h3>
+			<p style="t-i:0pt">
+				<span>Vi socialdemokrater föreslår statliga byggkrediter och därför bör riksdagen bemyndiga regeringen att för 2026 ta upp lån i Riksgäldskontoret som uppgår till 5,12 miljarder kronor. </span>
+			</p>
+			<div style="-aw-sdt-tag:'CC_Underskrifter'; -aw-sdt-title:'CC_Underskrifter'">
+				<p>
+					<span style="-aw-import:ignore">&#xa0;</span>
+				</p>
+				<p>
+					<span style="-aw-import:ignore">&#xa0;</span>
+				</p>
+			</div>
+			<table cellspacing="0" cellpadding="0" style="width:100%; border-collapse:collapse">
+				<tr style="page-break-inside:avoid">
+					<td style="width:1%; padding-right:5.4pt; padding-left:5.4pt; vertical-align:bottom">
+						<p class="Underskrifter" style="margin-bottom:0pt">
+							<span>Joakim Järrebring (S)</span>
+						</p>
+					</td>
+					<td style="width:1%; padding-right:5.4pt; padding-left:5.4pt; vertical-align:bottom">
+						<p class="Underskrifter" style="margin-bottom:0pt">
+							<span style="-aw-import:ignore">&#xa0;</span>
+						</p>
+					</td>
+				</tr>
+				<tr style="page-break-inside:avoid">
+					<td style="width:1%; padding-right:5.4pt; padding-left:5.4pt; vertical-align:bottom">
+						<p class="Underskrifter" style="margin-bottom:0pt">
+							<span>Leif Nysmed (S)</span>
+						</p>
+					</td>
+					<td style="width:1%; padding-right:5.4pt; padding-left:5.4pt; vertical-align:bottom">
+						<p class="Underskrifter" style="margin-bottom:0pt">
+							<span>Laila Naraghi (S)</span>
+						</p>
+					</td>
+				</tr>
+				<tr style="page-break-inside:avoid">
+					<td style="width:1%; padding-right:5.4pt; padding-left:5.4pt; vertical-align:bottom">
+						<p class="Underskrifter" style="margin-bottom:0pt">
+							<span>Denis Begic (S)</span>
+						</p>
+					</td>
+					<td style="width:1%; padding-right:5.4pt; padding-left:5.4pt; vertical-align:bottom">
+						<p class="Underskrifter" style="margin-bottom:0pt">
+							<span>Anna-Belle Strömberg (S)</span>
+						</p>
+					</td>
+				</tr>
+				<tr style="page-break-inside:avoid">
+					<td style="width:1%; padding-right:5.4pt; padding-left:5.4pt; vertical-align:bottom">
+						<p class="Underskrifter" style="margin-bottom:0pt">
+							<span>Markus Kallifatides (S)</span>
+						</p>
+					</td>
+					<td style="width:1%; padding-right:5.4pt; padding-left:5.4pt; vertical-align:bottom">
+						<p class="Underskrifter" style="margin-bottom:0pt">
+							<span style="-aw-import:ignore">&#xa0;</span>
+						</p>
+					</td>
+				</tr>
+			</table>
+			<p>
+				<span style="-aw-import:ignore">&#xa0;</span>
+			</p>
+		</div>
+	</div>

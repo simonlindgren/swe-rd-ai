@@ -1,0 +1,754 @@
+SEARCH TERM: artificiell intelligens
+DOCUMENT ID: hd023189
+TITLE: En högre utbildning för en stärkt kompetensnation
+TYPE: mot
+SUBTYPE: Kommittémotion
+DATE: 2025-10-06
+PARLIAMENTARY YEAR: 2025/26
+ORGANISATION: UbU
+STATUS: Hänvisad
+DOWNLOADED: 2026-01-22 10:24:35
+================================================================================
+
+<style><!-- 
+ @page Section1 { size:595.3pt 841.9pt; margin:35.45pt 85.05pt 56.7pt }
+div.Section1 { page:Section1 }
+div.pconf body { t-i:14.2pt; line-height:150%; font-family:'Verdana'; font-size: 0.90em }
+div.pconf h1, h2, h3, h4, h5, h6, p { margin:0pt }
+div.pconf li, table { margin-top:0pt; margin-bottom:0pt }
+div.pconf h1 { margin-top:41pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:19.5pt; font-family:'Verdana'; font-size: 1.05em; font-weight:normal; color:#000000 }
+div.pconf h2 { margin-top:30pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:17pt; font-family:'Verdana'; font-size: 1.00em; font-weight:normal; color:#000000 }
+div.pconf h3 { margin-top:18pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:15pt; font-family:'Verdana'; font-size: 0.90em; font-weight:bold; color:#000000 }
+div.pconf h4 { margin-top:18pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:15pt; font-family:'Verdana'; font-size: 0.90em; font-weight:normal; font-style:italic; color:#000000 }
+div.pconf h5 { margin-top:15pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:15pt; font-family:'Verdana'; font-size: 0.90em; font-weight:bold; font-style:normal; color:#000000 }
+div.pconf h6 { margin-top:15pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:15pt; font-family:'Verdana'; font-size: 0.90em; font-weight:normal; font-style:italic; color:#000000 }
+.Heading7 { margin-top:15pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:15pt; font-family:'Verdana'; font-size: 0.90em; font-weight:normal; font-style:italic; color:#000000; -aw-style-name:heading7 }
+.Heading8 { margin-top:15pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:15pt; font-family:'Verdana'; font-size: 0.90em; font-weight:normal; font-style:italic; color:#000000; -aw-style-name:heading8 }
+.Heading9 { margin-top:0pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:15pt; font-family:'Verdana'; font-size: 0.90em; font-weight:normal; font-style:italic; color:#000000; -aw-style-name:heading9 }
+.BalloonText { margin-bottom:0pt; t-i:14.2pt; line-height:normal; font-family:'Segoe UI'; font-size: 0.90em }
+.Beteckning { margin-top:18pt; margin-bottom:0pt; t-i:14.2pt; page-break-inside:auto; page-break-after:auto; line-height:19.5pt; font-size: 1.05em }
+.BlockText, .Inramatstycke { margin-right:56.7pt; margin-left:56.7pt; margin-bottom:0pt; t-i:0pt; text-align:nojustify; line-height:150%; border:0.75pt solid #000000; padding:10pt; font-size: 0.90em; font-style:italic; -aw-border:0.25pt single }
+.Citaticitat { margin-top:7.5pt; margin-left:34pt; margin-bottom:0pt; t-i:0pt; line-height:150%; font-size: 0.90em }
+.Citaticitatmedindrag { margin-top:0pt; margin-left:34pt; margin-bottom:7.5pt; t-i:17pt; line-height:150%; font-size: 0.90em }
+.Citatmedindrag { margin-top:0pt; margin-left:17pt; margin-bottom:0pt; t-i:17pt; line-height:150%; font-size: 0.90em }
+.CommentSubject { margin-bottom:0pt; t-i:14.2pt; line-height:normal; font-size: 0.90em; font-weight:bold }
+.CommentText { margin-bottom:0pt; t-i:14.2pt; line-height:normal; font-size: 0.90em }
+.FSHLogo { margin-top:4pt; margin-bottom:0pt; t-i:0pt; line-height:normal; font-size: 0.90em }
+.FSHNormL { margin-top:4pt; margin-bottom:0pt; t-i:0pt; line-height:15pt; border-top:1.5pt solid #000000; padding-top:3pt; font-size: 0.90em }
+.FSHNormal { margin-top:4pt; margin-bottom:0pt; t-i:0pt; line-height:15pt; font-size: 0.90em }
+.FSHNormalS5 { margin-top:11.5pt; margin-bottom:26pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-size: 0.95em; font-weight:bold }
+.FSHRub1, .Rubrik1S5 { margin-top:135pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:16pt; font-size: 1.00em }
+.FSHRub2, .Rubrik1A4 { margin-top:50pt; margin-bottom:5pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:24pt; font-size: 1.05em }
+.FSHTitel, .Dokumentrubrik { margin-top:4pt; margin-bottom:4pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:20pt; border-bottom:0.75pt solid #000000; padding-bottom:3pt; font-size: 1.05em; -aw-border-bottom:0.5pt single }
+.Footer { margin-top:4pt; margin-bottom:0pt; t-i:0pt; text-align:center; line-height:normal; font-size: 0.90em }
+.FootnoteText { margin-top:0pt; margin-bottom:0pt; t-i:0pt; line-height:12pt; font-size: 0.90em }
+.Frslagsrubrik { margin-top:41pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:19.5pt; font-family:'Verdana'; font-size: 1.05em }
+.Frslagstext, .Hemstlatt, .Yrkande { margin-top:4pt; margin-left:19.85pt; margin-bottom:0pt; t-i:-19.85pt; line-height:150%; font-size: 0.90em }
+.Header { margin-top:4pt; margin-bottom:0pt; t-i:0pt; line-height:normal; font-size: 0.90em }
+.KantRubrikS5H { margin-top:6pt; margin-right:2.85pt; margin-bottom:0pt; t-i:0pt; text-align:right; line-height:8pt; font-size: 0.90em }
+.KantRubrikS5Hrad2 { margin-top:0pt; margin-right:2.85pt; margin-bottom:0pt; t-i:0pt; text-align:right; line-height:10pt; font-size: 0.90em }
+.KantRubrikS5V { margin-top:6pt; margin-right:0pt; margin-bottom:0pt; t-i:0pt; text-align:left; line-height:8pt; font-size: 0.90em }
+.KantRubrikS5Vrad2 { margin-top:0pt; margin-right:0pt; margin-bottom:0pt; t-i:0pt; text-align:left; line-height:10pt; font-size: 0.90em }
+.KantrubrikH { margin-top:4pt; margin-right:-82.2pt; margin-bottom:0pt; t-i:0pt; text-align:right; line-height:15pt; font-size: 0.90em }
+.KantrubrikV { margin-top:4pt; margin-left:-85.05pt; margin-bottom:0pt; t-i:0pt; line-height:normal; font-size: 0.90em }
+.Klla { margin-top:0pt; margin-bottom:0pt; t-i:0pt; line-height:12pt; font-size: 0.90em }
+.Lagtext { margin-top:4pt; margin-bottom:0pt; t-i:0pt; line-height:normal; font-size: 0.90em }
+.Lagtextindrag { margin-top:4pt; margin-bottom:0pt; t-i:14.2pt; line-height:normal; font-size: 0.90em }
+.Lagtextrubrik { margin-top:4pt; margin-bottom:0pt; t-i:0pt; line-height:normal; font-size: 0.90em; font-style:italic; letter-spacing:1pt }
+.List { margin-top:7.5pt; margin-left:17pt; margin-bottom:7.5pt; t-i:-17pt; line-height:150%; font-size: 0.90em }
+.ListBullet, .PunktlistaBomb { margin-top:4pt; margin-left:14.2pt; margin-bottom:0pt; t-i:-14.2pt; line-height:150%; font-size: 0.90em }
+.ListNumber, .PunktlistaNummer { margin-top:4pt; margin-left:14.2pt; margin-bottom:0pt; t-i:-14.2pt; line-height:150%; font-size: 0.90em }
+.ListParagraph { margin-left:36pt; margin-bottom:0pt; t-i:14.2pt; line-height:150%; font-size: 0.90em }
+.ListaGemener { margin-top:7.5pt; margin-left:17pt; margin-bottom:7.5pt; t-i:-17pt; line-height:150%; font-size: 0.90em }
+.ListaLinje { margin-top:7.5pt; margin-left:17pt; margin-bottom:7.5pt; t-i:-17pt; line-height:150%; font-size: 0.90em }
+.ListaNummer { margin-top:7.5pt; margin-left:17pt; margin-bottom:7.5pt; t-i:-17pt; line-height:150%; font-size: 0.90em }
+.ListaPunkt { margin-top:7.5pt; margin-left:17pt; margin-bottom:7.5pt; t-i:-17pt; line-height:150%; font-size: 0.90em }
+.MotionTIllRiksdagen { margin-top:18pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:19.5pt; font-size: 1.05em }
+.Motionr { margin-top:14pt; margin-bottom:31.5pt; t-i:0pt; page-break-inside:avoid; line-height:15pt; font-size: 1.00em; font-weight:bold; font-style:normal }
+.Motiveringrubrik2numrerat1 { margin-top:30pt; margin-left:0pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:17pt; font-family:'Verdana'; font-size: 1.00em }
+.Motiveringrubrik3numrerat1 { margin-top:18pt; margin-left:0pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:15pt; font-family:'Verdana'; font-size: 0.90em; font-weight:bold }
+.Motiveringrubrik3numrerat11 { margin-top:18pt; margin-left:0pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:15pt; font-family:'Verdana'; font-size: 0.90em; font-weight:bold }
+.Motiveringrubrik4numrerat11 { margin-top:18pt; margin-left:0pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:15pt; font-family:'Verdana'; font-size: 0.90em; font-weight:normal; font-style:italic }
+.NormalWeb { margin-bottom:0pt; t-i:14.2pt; line-height:150%; font-family:'Verdana'; font-size: 0.90em }
+.NormalIndent { margin-left:65.2pt; margin-bottom:0pt; t-i:14.2pt; line-height:150%; font-size: 0.90em }
+.Normalutanindragellerluft { margin-top:4pt; margin-bottom:0pt; t-i:0pt; line-height:150%; font-size: 0.90em }
+.Normal00 { margin-top:4pt; margin-bottom:0pt; t-i:0pt; line-height:normal; font-size: 0.90em }
+.NormalA4fot { margin-top:12pt; margin-bottom:0pt; t-i:0pt; text-align:center; line-height:normal; font-size: 0.90em }
+.NormalA4sidnr { margin-top:4pt; margin-bottom:12pt; t-i:0pt; text-align:center; line-height:normal; font-size: 0.90em }
+.NormalS5sidnrH { margin-top:4pt; margin-right:2.85pt; margin-bottom:0pt; t-i:0pt; text-align:right; line-height:normal; font-size: 0.90em }
+.NormalS5sidnrV { margin-top:4pt; margin-right:0pt; margin-bottom:0pt; t-i:0pt; text-align:left; line-height:normal; font-size: 0.90em }
+.PlainText { margin-bottom:0pt; t-i:0pt; line-height:12pt; font-family:'Verdana'; font-size: 0.90em }
+.Quote { margin-top:7.5pt; margin-left:17pt; margin-bottom:0pt; t-i:0pt; line-height:150%; font-size: 0.90em }
+.R1 { margin-top:41pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:19.5pt; font-family:'Verdana'; font-size: 1.05em }
+.R2 { margin-top:30pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:17pt; font-family:'Verdana'; font-size: 1.00em }
+.R3 { margin-top:18pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:15pt; font-family:'Verdana'; font-size: 0.90em; font-weight:bold }
+.Rubrik1numrerat { margin-top:41pt; margin-left:0pt; margin-bottom:0pt; t-i:0pt; page-break-inside:auto; page-break-after:avoid; line-height:19.5pt; font-family:'Verdana'; font-size: 1.05em }
+.Rubrik2numrerat { margin-top:30pt; margin-left:0pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:17pt; font-family:'Verdana'; font-size: 1.00em }
+.Rubrik3numrerat { margin-top:18pt; margin-left:0pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:15pt; font-family:'Verdana'; font-size: 0.90em; font-weight:bold }
+.Rubrik4numrerat { margin-top:18pt; margin-left:0pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:15pt; font-family:'Verdana'; font-size: 0.90em; font-weight:normal; font-style:italic }
+.RubrikFrslagTIllRiksdagsbeslut { margin-top:41pt; margin-bottom:15pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:19.5pt; font-family:'Verdana'; font-size: 1.05em }
+.RubrikInnehllsf { margin-top:41pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:19.5pt; font-family:'Verdana'; font-size: 1.05em }
+.RubrikSammanf { margin-top:41pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:19.5pt; font-family:'Verdana'; font-size: 1.05em }
+.Salutation { margin-top:41pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:19.5pt; font-family:'Verdana'; font-size: 1.05em }
+.Streckkod { margin-top:12pt; margin-bottom:0pt; t-i:0pt; text-align:center; line-height:normal; font-family:IDAutomationHC39S; font-size: 1.00em }
+.Strecklista, .PunktlistaTankstreck { margin-top:4pt; margin-left:14.2pt; margin-bottom:0pt; t-i:-14.2pt; line-height:150%; font-size: 0.90em }
+.Subtitle { margin-top:4pt; margin-bottom:0pt; t-i:0pt; line-height:150%; font-family:'Verdana'; font-size: 0.90em; font-weight:bold }
+.TOC1 { margin-top:4pt; margin-bottom:0pt; t-i:0pt; line-height:150%; font-size: 0.90em }
+.TOC2 { margin-top:4pt; margin-left:14.2pt; margin-bottom:0pt; t-i:0pt; line-height:150%; font-size: 0.90em }
+.TOC3 { margin-top:4pt; margin-left:28.35pt; margin-bottom:0pt; t-i:0pt; line-height:150%; font-size: 0.90em }
+.TOC4 { margin-top:4pt; margin-left:42.55pt; margin-bottom:0pt; t-i:0pt; line-height:150%; font-size: 0.90em }
+.TOC5 { margin-top:4pt; margin-left:56.7pt; margin-bottom:0pt; t-i:0pt; line-height:150%; font-size: 0.90em }
+.TOC6 { margin-top:4pt; margin-left:56.7pt; margin-bottom:0pt; t-i:0pt; line-height:150%; font-size: 0.90em }
+.TOC7 { margin-top:15pt; margin-left:56.7pt; margin-bottom:0pt; t-i:14.2pt; page-break-inside:avoid; page-break-after:avoid; line-height:normal; font-family:'Verdana'; font-size: 0.90em; font-weight:normal; font-style:italic }
+.TOC8 { margin-top:15pt; margin-left:56.7pt; margin-bottom:0pt; t-i:14.2pt; page-break-inside:avoid; page-break-after:avoid; line-height:normal; font-family:'Verdana'; font-size: 0.90em; font-weight:normal; font-style:italic }
+.TOC9 { margin-top:15pt; margin-left:56.7pt; margin-bottom:0pt; t-i:14.2pt; page-break-inside:avoid; page-break-after:avoid; line-height:normal; font-family:'Verdana'; font-size: 0.90em; font-weight:normal; font-style:italic }
+.TOCHeading { margin-top:41pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:19.5pt; font-family:'Verdana'; font-size: 1.05em }
+.Tabellunderrubrik { margin-top:0pt; margin-bottom:0pt; t-i:0pt; page-break-after:avoid; line-height:150%; font-size: 0.90em; font-weight:normal; font-style:italic }
+.Tabellrubrik { margin-top:7.5pt; margin-bottom:0pt; t-i:0pt; page-break-after:avoid; line-height:150%; font-size: 0.90em; font-weight:bold }
+.Title { margin-top:41pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:19.5pt; font-family:'Verdana'; font-size: 1.05em }
+.Underskriftdatum { margin-top:24pt; margin-bottom:3pt; t-i:0pt; page-break-inside:avoid; line-height:15pt; font-size: 0.90em; font-style:normal }
+.Underskrifter { margin-top:15pt; margin-bottom:3pt; t-i:0pt; page-break-inside:avoid; line-height:15pt; font-size: 0.90em; font-style:italic }
+.Yrkandehnv, .Frslagspunkthnv { margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; font-size: 0.90em }
+span.BallongtextChar { font-family:'Segoe UI'; font-size: 0.90em }
+span.BeteckningChar { font-size:19.5pt }
+span.CommentReference { font-size:8pt }
+span.FSHRub2Char, span.Rubrik1A4Char { font-size:24pt }
+span.FollowedHyperlink { text-decoration:underline; color:#954f72 }
+span.FotnotstextChar { font-size:10pt }
+span.Hyperlink { text-decoration:underline; color:#0563c1; -aw-style-name:hyperlink }
+span.InledningChar { font-family:'Verdana'; font-size: 1.00em; font-weight:bold }
+span.IntenseReference { font-weight:normal; font-style:normal; font-variant:normal; text-decoration:none; text-transform:none; letter-spacing:0pt; vertical-align:0pt; color:#000000; display:inline }
+span.KommentarerChar { font-size:10pt }
+span.KommentarsmneChar { font-size:10pt; font-weight:bold }
+span.MotionTIllRiksdagenChar { font-size:19.5pt }
+span.OformateradtextChar { font-family:'Verdana'; font-size: 0.90em }
+span.PlaceholderText { color:#f4b083 }
+span.Rubrik1Char { font-family:'Verdana'; font-size: 1.05em }
+span.Rubrik2Char { font-family:'Verdana'; font-size: 1.00em }
+span.Rubrik3Char { font-family:'Verdana'; font-size: 0.90em; font-weight:bold }
+span.Rubrik4Char { font-family:'Verdana'; font-size: 0.90em; font-style:italic }
+span.Rubrik5Char { font-family:'Verdana'; font-weight:bold }
+span.Rubrik6Char { font-family:'Verdana'; font-style:italic }
+span.Rubrik7Char { font-family:'Verdana'; font-size: 0.90em; font-weight:bold }
+span.Rubrik8Char { font-family:'Verdana'; font-size: 0.90em; font-weight:bold }
+span.Rubrik9Char { font-family:'Verdana'; font-size: 0.90em; font-weight:bold }
+span.RubrikChar { font-family:'Verdana'; font-size: 1.00em; font-weight:bold }
+span.SidfotChar { font-size:11.5pt }
+span.UnderrubrikChar { font-family:'Verdana'; font-size: 0.90em; font-weight:bold }
+span.UnresolvedMention { color:#605e5c; background-color:#e1dfdd }
+.TableGrid {  }
+
+.pconf{width: 450px;margin-left:5px;overflow:visable;font-family:Verdana, Geneva, sans-serif;} 
+ .sidhuvud_publikation, .sidhuvud_beteckning{font-size:133%}
+.MotionarLista {font-size:122%}
+
+--></style><div class="pconf"><span class="sidhuvud_publikation">Motion till riksdagen</span><br/>
+<span class="sidhuvud_beteckning">2025/26:3189</span><br/>
+<span class="MotionarLista">av Anders Ådahl m.fl. (C)</span><br/>
+<h1>En högre utbildning för en stärkt kompetensnation</h1>
+<hr class="sidhuvud_linje"/>
+
+
+		<div class="Section1">
+			<p class="CommentText" style="t-i:0pt">
+				<a name="_Toc106800475"></a><a name="_Toc106801300"><span style="-aw-import:ignore">&#xa0;</span></a>
+			</p>
+			<p class="RubrikFrslagTIllRiksdagsbeslut">
+				<span style="-aw-sdt-tag:'CC_Boilerplate_4'; -aw-sdt-title:'CC_Boilerplate_4'"><span>Förslag till riksdagsbeslut</span></span><span style="-aw-bookmark-end:_Toc106800475"></span><span style="-aw-bookmark-end:_Toc106801300"></span>
+			</p>
+			<div style="-aw-sdt-tag:'5ca42b95-3d16-4a5b-ae86-7cf0dc33808e'; -aw-sdt-title:'Yrkande 1'">
+				<ol type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-left:14pt; t-i:0pt; padding-left:5.85pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att stärka vuxenutbildningarna i syfte att stärka både det livslånga lärandet och näringslivets och den offentliga sektorns utveckling i hela landet och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'0a61082b-bcec-4c0f-9d14-24c61efa4550'; -aw-sdt-title:'Yrkande 2'">
+				<ol start="2" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; margin-left:14pt; t-i:0pt; padding-left:5.85pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om en fortsatt utbyggnad av yrkeshögskolan med fokus på fler fördjupningsutbildningar, ökat utbud av digitala kurser och ökade möjligheter för teknik- och yrkescollage och lärlingsutbildningar och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'67e41594-aa25-4473-8472-2dbe2e9ba5d4'; -aw-sdt-title:'Yrkande 3'">
+				<ol start="3" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; margin-left:14pt; t-i:0pt; padding-left:5.85pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att vuxenutbildningarna i större utsträckning ska utformas utifrån näringslivets kompetensbehov, och detta tillkännager riksdagen för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'76546a3f-713b-4b76-8410-e0e34cbada38'; -aw-sdt-title:'Yrkande 4'">
+				<ol start="4" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; margin-left:14pt; t-i:0pt; padding-left:5.85pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att det bör införas ett gemensamt system för ansökan till yrkeshögskolan och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'24857f37-b033-40e9-8ba2-58deaed872dd'; -aw-sdt-title:'Yrkande 5'">
+				<ol start="5" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; margin-left:14pt; t-i:0pt; padding-left:5.85pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att vuxenutbildningen långsiktigt bör byggas ut, inte minst inom bristyrken, genom fler platser inom yrkesvux, komvux och folkhögskola i hela landet och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'fb109b33-67bf-45b0-8666-0416eabe3754'; -aw-sdt-title:'Yrkande 6'">
+				<ol start="6" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; margin-left:14pt; t-i:0pt; padding-left:5.85pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att urvalsprocessen till lärlingsutbildningarna bör göras om så att näringslivets behov premieras i större utsträckning, och detta tillkännager riksdagen för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'a18b4ffc-2450-4cef-8c41-56e49b240ecd'; -aw-sdt-title:'Yrkande 7'">
+				<ol start="7" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; margin-left:14pt; t-i:0pt; padding-left:5.85pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att göra det möjligt för dem som anställer en lärling att också själv få bestämma elev till lärlingsutbildningen och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'404b70a0-fa9e-4b17-9d17-467741cea576'; -aw-sdt-title:'Yrkande 8'">
+				<ol start="8" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; margin-left:14pt; t-i:0pt; padding-left:5.85pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att verka för att lärcentrum byggs ut i syfte att möta kompetensbehovet i hela landet och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'b8aa8911-0efc-41ce-bda4-1fc075a40faa'; -aw-sdt-title:'Yrkande 9'">
+				<ol start="9" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; margin-left:14pt; t-i:0pt; padding-left:5.85pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om behovet att höja kvaliteten inom den högre utbildningen och säkra dess tillgänglighet i hela landet och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'87d90725-8fc6-48ab-8781-9b87e07ccedb'; -aw-sdt-title:'Yrkande 10'">
+				<ol start="10" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; t-i:0pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att det utbildningspolitiska målet för landets högskolor bör få en tydligare tillgänglighetsdimension, och detta tillkännager riksdagen för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'b253bae9-6f8e-4886-9aa9-a7e048dd6954'; -aw-sdt-title:'Yrkande 11'">
+				<ol start="11" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; t-i:0pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om högskolornas arbetslivsanknytning och samverkan med det regionala näringslivet och den offentliga sektorn och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'04dcf458-773e-48eb-a172-312f31c8f500'; -aw-sdt-title:'Yrkande 12'">
+				<ol start="12" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; t-i:0pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att fler ska ha möjligheten att läsa fristående kurser på såväl grundnivå som avancerad nivå i syfte att möta kompetensbehovet och stärka bildningen och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'589b9259-23f3-4ee9-83a9-9902907a9e2e'; -aw-sdt-title:'Yrkande 13'">
+				<ol start="13" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; t-i:0pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att lärosätenas forskningsanslag bör följas upp i syfte att de i större utsträckning ska bestämmas utifrån en samlad bedömning av kvalitet och potential, och detta tillkännager riksdagen för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'1cb356e1-aa7f-4832-a40d-cb7f7c4223b9'; -aw-sdt-title:'Yrkande 14'">
+				<ol start="14" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; t-i:0pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att lärosätenas autonomi såväl institutionellt som finansiellt bör stärkas, och detta tillkännager riksdagen för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'de4d91f8-0d89-4412-b34c-99413db35adb'; -aw-sdt-title:'Yrkande 15'">
+				<ol start="15" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; t-i:0pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att utreda möjligheterna för att anslaget till lärosätena inte bör vara uppdelat i en del som endast får användas inom utbildningen och en som endast får användas inom forskningen, och detta tillkännager riksdagen för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'0862c776-241d-4114-ab5e-268eca13917b'; -aw-sdt-title:'Yrkande 16'">
+				<ol start="16" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; t-i:0pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att öka lärosätenas autonomi när det kommer till att tillsätta sina egna styrelser och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'bc85d413-9977-4b8b-b337-8d7c107e9675'; -aw-sdt-title:'Yrkande 17'">
+				<ol start="17" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; t-i:0pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att de institutionella och finansiella förutsättningarna för forskarnas/lärarnas självständighet kraftigt bör stärkas, och detta tillkännager riksdagen för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'cb2a069f-4566-47c1-ad98-1a04122b9d03'; -aw-sdt-title:'Yrkande 18'">
+				<ol start="18" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; t-i:0pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att stärka den fria forskningen genom att minska kraven på medfinansiering för statliga externa forskningsmedel till lärosätena och stärka möjligheterna att låta privata medel betala för forskningen och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'48c86bf1-1dd1-433c-8b63-d3e986f5cc69'; -aw-sdt-title:'Yrkande 19'">
+				<ol start="19" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; t-i:0pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att stärka den fria forskningen och dess kvalitet genom att forskningsfinansieringssystemet görs om i grunden, och detta tillkännager riksdagen för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'73955750-4af4-40ba-bc79-dc7f4a7c7eee'; -aw-sdt-title:'Yrkande 20'">
+				<ol start="20" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; t-i:0pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att fler lärosäten bör bli fristående, och detta tillkännager riksdagen för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'73243537-2bac-46e3-84a1-2dff8acbdf48'; -aw-sdt-title:'Yrkande 21'">
+				<ol start="21" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; t-i:0pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att utreda möjligheterna att stärka etableringsfriheten för fristående lärosäten och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'f5ddd404-9b94-479b-8480-64cc4c70a55e'; -aw-sdt-title:'Yrkande 22'">
+				<ol start="22" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; t-i:0pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att regeringen och ansvariga myndigheter behöver verka för att minska lärosätenas återrapporteringskrav och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'273c2985-2b81-4d01-a43e-149d3c60a9e3'; -aw-sdt-title:'Yrkande 23'">
+				<ol start="23" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; t-i:0pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att se över möjligheten att regleringsbrev och verksamhetsavtal ska kunna löpa över en längre tid än ett år och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'93178d73-03b6-401a-a13c-13e9e7d0b120'; -aw-sdt-title:'Yrkande 24'">
+				<ol start="24" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; t-i:0pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att verka för att högskoleutbildningarnas samverkan med arbetslivet förbättras med hjälp av en stärkt studievägledning på lärosätena och utökade möjligheter till praktik och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'c36de3f7-7770-43ee-bab5-29656ff177d7'; -aw-sdt-title:'Yrkande 25'">
+				<ol start="25" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; t-i:0pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att värna universitetens kvalitet genom att excellens och spetsforskningen uppvärderas, och detta tillkännager riksdagen för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'cb09136b-a126-4d67-b8f8-a5e7d2f66220'; -aw-sdt-title:'Yrkande 26'">
+				<ol start="26" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; t-i:0pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om behovet av en tydligare uppdrags- och rollfördelning mellan universitet och högskolor och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'57420b1a-baa6-4853-bbae-1316dfecb4fc'; -aw-sdt-title:'Yrkande 27'">
+				<ol start="27" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; t-i:0pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att det bör göras en inskärpning när det kommer till examensrättigheter och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'54303881-b0e0-44b0-a3d6-04d6732f2537'; -aw-sdt-title:'Yrkande 28'">
+				<ol start="28" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; t-i:0pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att arbetet för att stärka studenters studiemiljö, hälsa och välmående bör intensifieras på lärosätena, och detta tillkännager riksdagen för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'44b84cff-d651-487c-b52b-d50a6e61fcb4'; -aw-sdt-title:'Yrkande 29'">
+				<ol start="29" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; t-i:0pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att stödet till studenter med NPF eller annan funktionsnedsättning bör öka vad gäller både möjligheten att genomföra högskoleprovet och att ta del av och genomföra studierna och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'aecb5d64-2f99-4758-8520-f027b7c384ac'; -aw-sdt-title:'Yrkande 30'">
+				<ol start="30" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; t-i:0pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att utreda förutsättningarna för att införa en examenspremie i syfte att öka genomströmningen inom den högre utbildningen och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'4e69da79-0787-41b6-a048-ff6adccb1392'; -aw-sdt-title:'Yrkande 31'">
+				<ol start="31" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; t-i:0pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att avskaffa fribeloppet för studielånet och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'7aec32c7-8cb5-4cbf-bb1e-2b13d762dfbc'; -aw-sdt-title:'Yrkande 32'">
+				<ol start="32" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; t-i:0pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att låta studenter som är deltidssjukskrivna få studiemedel på deltid och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'f3a57af0-f918-4ede-91e7-5fa499a33d39'; -aw-sdt-title:'Yrkande 33'">
+				<ol start="33" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; t-i:0pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att jämställdhetsarbetet på lärosätena måste intensifieras för att garantera en meritokratisk ordning och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'008c3d85-4d98-4c31-8712-93305eccd6c8'; -aw-sdt-title:'Yrkande 34'">
+				<ol start="34" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; t-i:0pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att intensifiera arbetet för att locka internationella forskare och studenter till Sverige och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'CC_Motivering_Rubrik'; -aw-sdt-title:'CC_Motivering_Rubrik'">
+				<h1>
+					<a name="MotionsStart"></a><a name="_Toc106801301"></a><a name="_Toc106800476"><span>Motivering</span></a>
+				</h1>
+			</div>
+			<span style="-aw-bookmark-end:_Toc106801301">
+			</span>
+			<p style="t-i:0pt; text-align:nojustify">
+				<span style="-aw-bookmark-end:_Toc106800476"></span><span style="-aw-import:ignore">&#xa0;</span>
+			</p>
+			<p style="t-i:0pt; text-align:nojustify">
+				<span>Sverige är en välfärdsnation som bygger sitt välstånd på kunskap som i företagandet omvandlas till produkter och tjänster som många gånger går på export. Så får vi intäkter till vår välfärd. I Sverige konkurrerar vi inte med låga löner eller oförädlade råvaror. Istället gäller det omvända. Vård, skola, omsorg, äldrevård – ja den offentliga sektorn finansieras med skatteintäkter som kommer från vårt rika företagande. Samtidigt föder god vård, bra skola och så vidare företagandet med friska och kunniga människor samtidigt som vi kan ge äldre både en bra pension och god omsorg. På så vis går det att säga att den offentliga sfären och den privata sfären göder och föder varandra och tillsammans skapar en positiv spiral uppåt för att alltmer stärka och utveckla välfärdsnationen Sverige. I centrum för denna utveckling framåt och uppåt finns kunskap och kompetens. Helt avgörande för välfärdsnationen Sverige är att bygga på kunskap och kompetens. Så utvecklas såväl det offentliga som det privata.</span>
+			</p>
+			<p style="text-align:nojustify">
+				<span>Sverige behöver fler som utbildar sig, fler fria högskolor och fler utbildningar som har en närmare koppling till arbetsmarknaden. Forskningens kvalitet måste stärkas och ackompanjeras av ett högklassigt innovationssystem där forskningens idéer går från labb till global marknad. Oavsett var du bor i landet är det viktigt att det finns möjlighet till högre utbildning. Tillgång till högre utbildning av god kvalitet ökar människors möjligheter till jobb och trygghet, samtidigt som det gynnar näringslivet och vår välfärd. Sverige är ett attraktivt land att verka i för internationella studenter och forskare. Så måste det fortsätta att vara. Vår attraktionskraft blir ett mått på vårt framtida välstånd. Det ger en mångfald och nya perspektiv som bidrar till högre kvalitet. Spetskompetensen är också avgörande för att vi fortsatt ska vara konkurrenskraftiga. Forskning och innovation går hand i hand. Men utvecklingen är en aning oroande. Kvaliteten på svensk forskning ser ut att dala. Det är en tidig signal om att kvaliteten på våra produkter och tjänster också riskerar att dala med tiden, vilket vore förödande för vår välfärd. En bidragande orsak är en allt mindre självständig och fri forskning. Akademin måste som oberoende och fri röst stå fri från kortsiktighet och detaljstyrning. Det är centralt för Centerpartiets politik och för att Sverige ska stå sig starkt som kunskapsnation.</span>
+			</p>
+			<h1>
+				<span>Yrkeskompetens</span>
+			</h1>
+			<p style="t-i:0pt; text-align:nojustify">
+				<span style="-aw-import:ignore">&#xa0;</span>
+			</p>
+			<p style="t-i:0pt; text-align:nojustify">
+				<span>Yrkesutbildningar är viktiga för tillväxten, inte minst för de små och medelstora företagen. För att yrkesutbildningarna ska ge jobb efter avslutad utbildning och för att arbetsmarknaden ska få tillgång till kompetent arbetskraft måste utbildningarna vara högkvalificerade på både lägre och högre nivå och i större utsträckning byggas ihop. De tilltänka arbetsgivarna ska vara en drivande kraft i utvecklingen och genomförandet av utbildningarna. Yrkesutbildningar motsvarande gymnasiet är idag underdimensionerade i förhållande till växande behov, inte minst i offentlig sektor. </span>
+			</p>
+			<p style="text-align:nojustify">
+				<span>Vidareutbildning och omställning är idag relativt framgångsrik, men sker i för liten skala. </span><a name="_Hlk177992188"><span>Yrkeshögskolan (YH), med sin specialiserade yrkesutbildning som direkt matchar arbetsmarknadens kompetensbehov, är ett av svensk utbildnings- och arbetsmarknads mest framgångsrika projekt, med stora samhällsekonomiska vinster. </span></a><a name="_Hlk177992214"><span style="-aw-bookmark-end:_Hlk177992188"></span><span>Det konstateras också i en utredning som redovisades 2023. </span></a><span>YH behöver skalas upp och det finns en rimlig möjlighet att skala upp med 35 procent på tio år. Det borde vara en minsta ambition, givet efterfrågan. Den typ av utbildning som bedrivs inom YH är en lika naturlig och viktig del av det svenska utbildningssystemet som exempelvis högskolor och universitet. YH behöver också stärka samverkan med det lokala och regionala näringslivet. Därför är det viktigt med en fortsatt decentraliserad YH där staten inte ska detaljstyra. Samtidigt är det rimligt att det införas ett gemensamt system för ansökan till YH. Detta för att underlätta administration för både YH och den enskilde. Utredningen från 2023 konstaterade även att ett gemensamt antagningssystem skulle sänka trösklarna för studerande att söka sig till YH. </span>
+			</p>
+			<p style="text-align:nojustify">
+				<span>YH lider också av att det inte är permanenta utbildningar utan projektanslag, </span><a name="_Hlk177992285"><span>som gör att anordnarna inte får långsiktighet i sin verksamhet</span></a><span>. Ett stort YH-lyft bör genomföras där yrkeshögskolan stärks avsevärt och får en högre grad av fasta anslag. Fler förberedande utbildningar bör finansieras där kortare påbyggnadsutbildningar borde kunna ingå. Det borde även tas fram fler YH-utbildningar på högre EQF-nivå.</span>
+			</p>
+			<p style="text-align:nojustify">
+				<span>EQF är en europeisk referensram för kvalifikationer för livslångt lärande så att studenter kan se vilken nivå en svensk kvalifikation motsvarar i ett annat land. Det bör övervägas att några av de yrkesinriktade utbildningar som idag ligger på högskolor och universitet kan lyftas över till YH. Privata och offentliga arbetsgivare bör också få möjlighet att delfinansiera YH-platser när de ser stora behov av kompetenser utöver vad den statliga nivån bedömt vara nödvändigt.</span>
+			</p>
+			<p style="text-align:nojustify">
+				<span>Det är otroligt viktigt att möjligheterna till kompetensutveckling under hela livet förbättras för att möjliggöra utveckling, omställning och trygghet på en mer flexibel arbetsmarknad. Vi vill att möjligheten att läsa om kurser på Komvux trots godkända betyg ses över. Det är också viktigt med både korta och långa utbildningar inom Komvux, Yrkesvux, folkhögskola, yrkeshögskola och högskola för att stärka Sverige som kunskapsnation. Det spelar även en nyckelroll framåt för att individer ska kunna komma tillbaka till jobb och egen försörjning samt för att företag ska kunna växa och utvecklas.</span>
+			</p>
+			<p style="text-align:nojustify">
+				<span>Yrkesvux behöver få sina resurser tryggade över flera år för att bättre kunna planera utbildningar och spegla behovet på arbetsmarknaden. Just att systemet är för kortsiktigt är något som fått stor kritik på senare år. Därför måste det bli möjligt för kommunerna att ansöka medel över under en längre tidsperiod under en och samma ansökningsomgång. </span>
+			</p>
+			<p style="text-align:nojustify">
+				<span>Det digitala utbudet behöver också öka för att bättre möta arbetsmarknadens efterfrågan på kompetens inom IT-relaterade ämnen. Ett sätt att både bredda utbildningarna och stärka effektiviteten är att införa en vuxenutbildningspeng med mer av resultatkrav kopplade till möjligheterna att få arbete. Det borde även vara möjligt att studera på Komvux, Yrkesvux och SFI oavsett kommungräns. Var du bor ska inte avgöra ditt utbildningsutbud. Centerpartiet vill att det ska vara möjligt att fritt söka till yrkesämnen och sammanhållna yrkesutbildningar Komvux på gymnasial nivå som erbjuds inom det primära samverkansområde som man bor i, så kallat ”frisök”. Vi anser också att det finns skäl att vidare undersöka hur finansieringen kan lösas för det. </span>
+			</p>
+			<h1>
+				<span>Lärlingsutbildningar</span>
+			</h1>
+			<p style="t-i:0pt; text-align:nojustify">
+				<span style="-aw-import:ignore">&#xa0;</span>
+			</p>
+			<p style="t-i:0pt; text-align:nojustify">
+				<span>Lärlingsutbildningarna har en viktig roll i att förse arbetsmarknaden med kompetent arbetskraft. Vi vill att fler ska kunna gå en lärlingsutbildningar och att lärlingsutbildningar ska finnas inom fler yrken. Lärlingssystemet måste även kunna erbjudas vuxna, med studiemedel, studielån och stöd till anordnare. Det måste bli tydligare vad skolorna förväntar sig av företagen som handledare. De som redan har en gymnasieexamen eller examen från högskolan ska kunna bli lärlingar i efterhand. I länder som Tyskland, som har framgångsrika lärlingsprogram, är näringslivet direkt och löpande involverat i lärlingsutbildningarna, regionalt och lokalt. För att utbildningarna ska leda till jobb och arbetsmarknaden få rätt kompetens vill Centerpartiet reformera lärlingsutbildningarna så att de bättre kan tillgodose arbetsmarknadens behov. </span><span style="-aw-import:spaces">&#xa0;</span><span>En viktig del i detta är att dem som anställer en lärling också ska själv få bestämma elev till lärlingsutbildningen. En annan är att inrätta så kallade lärlingsråd, bestående av representanter från handelskammare, näringsliv och fackförbund, som ska utforma utbildningarna så att de blir relevanta, håller hög kvalitet, har uppdaterade metoder och utrustning och följer arbetsmarknaden nära, för att löpande anpassa sig efter dess behov.</span><span style="-aw-import:spaces">&#xa0; </span><span>På så sätt stärker vi arbetsgivarnas inflytande över utbildningarna och incitamenten att ta emot lärlingar. Sammantaget bidrar det till en mer flexibel arbetsmarknad och en starkare kunskapsnation. </span>
+			</p>
+			<h1>
+				<span>Folkhögskolor</span>
+			</h1>
+			<p class="Normalutanindragellerluft" style="text-align:nojustify">
+				<span style="-aw-import:ignore">&#xa0;</span>
+			</p>
+			<p class="Normalutanindragellerluft" style="text-align:nojustify">
+				<span>För att möta arbetsmarknadens snabbt skiftande behov behöver vi få fart på samtliga utbildningsvägar, inte minst de som på ett flexibelt och effektivt sätt snabbt kan möta behoven. Här spelar folkhögskolorna en nyckelroll, och därför behöver de ges den uppmärksamhet och de resurser som de förtjänar. Folkhögskolornas unika pedagogik, flexibilitet och förmåga att se potentialen i den enskilda individen – inte sällan genom att utgöra en andra chans – kan fungera som en utbildningsmotor för samhälle och individ.</span>
+			</p>
+			<p class="Normalutanindragellerluft" style="text-align:nojustify">
+				<span style="width:14.2pt; display:inline-block; -aw-tabstop-align:left; -aw-tabstop-pos:14.2pt">&#xa0;</span><span>En av folkhögskolornas styrkor är det breda utbudet av utbildningar och kurser, anpassade för både unga och vuxna. Genom att erbjuda praktiskt inriktade utbildningar inom olika yrkesområden kan folkhögskolorna rusta eleverna med de färdigheter och kompetenser som krävs för framtidens arbetsliv. Från digitala teknologier till hållbar utveckling och entreprenörskap – folkhögskolorna har möjlighet att utveckla och erbjuda utbildningar som speglar dagens snabbt skiftande arbetsmarknad. Centerpartiet vill ge folkhögskolorna ett mer tydligt och långsiktigt uppdrag genom att säkerställa resurser och ekonomiskt stöd.</span>
+			</p>
+			<p class="Normalutanindragellerluft" style="text-align:nojustify">
+				<span style="width:14.2pt; display:inline-block; -aw-tabstop-align:left; -aw-tabstop-pos:14.2pt">&#xa0;</span><span>Folkhögskolor är även viktiga resurser för de personer som saknar behörighet till vidare studier då de genom sin allmänna kurs erbjuder alternativa och innovativa lärandesätt. Enligt SCB får årligen cirka 2 000 deltagare i allmänna kurser grundläggande behörighet till eftergymnasiala studier. Av dessa väljer ungefär hälften att fortsätta sina studier inom ett år. En stor majoritet av dem som uppnår behörighet är under 25 år, och en ökande andel har utländsk bakgrund. Folkhögskolor spelar en betydande roll för målgrupper med särskilda behov, då fyra av tio deltagare som uppnår behörighet har någon form av funktionsnedsättning.</span>
+			</p>
+			<h1>
+				<span>Högre utbildning i hela landet</span>
+			</h1>
+			<p style="t-i:0pt; text-align:nojustify">
+				<span style="-aw-import:ignore">&#xa0;</span>
+			</p>
+			<p style="t-i:0pt; text-align:nojustify">
+				<span>Utbildning och bildning berikar både samhälle och individer. </span><a name="_Hlk180669076"><span>Tillgång till högre utbildning av god kvalitet i hela landet ökar människors möjligheter till jobb och trygghet, samtidigt som det gynnar näringslivet och vår gemensamma välfärd</span></a><a name="_Hlk180668558"><span style="-aw-bookmark-end:_Hlk180669076"></span><span>. Högre utbildning i hela landet är annorlunda uttryckt en förutsättning för näringslivets och välfärdens utveckling och för att hela Sverige ska kunna leva.</span></a>
+			</p>
+			<p style="text-align:nojustify">
+				<span>Centerpartiet verkar för att lärosätena ska bli mer autonoma, finnas i hela landet och ges ytterligare möjligheter att utforma sin verksamhet efter regionala förutsättningar. Det är angeläget att ha en stark närvaro av högre utbildning i hela landet för att stärka Sveriges alla delar och motverka segregation mellan landsbygd och stad samt mellan mindre samhällen och landets universitetsstäder.</span>
+			</p>
+			<p style="t-i:0pt; text-align:nojustify">
+				<span style="width:14.2pt; display:inline-block; -aw-tabstop-align:left; -aw-tabstop-pos:14.2pt">&#xa0;</span><span>Forskning visar att människors bosättning har betydelse för sannolikheten att börja studera på akademisk nivå. Är avståndet mellan boendet och ett lärosäte allt för långt bidrar det till att många avstår från att utbilda sig. Mönstret gäller för såväl kvinnor som män. Centerpartiet anser att målet för landets högskolor ska ha en tydligare tillgänglighetsdimension. Detta inbegriper såväl fysiska utbildningar som utbildningar på distans. Syftet med detta är att möta arbetsmarknadens kompetensbehov och öka anställningsbarheten i hela landet. </span>
+			</p>
+			<p style="t-i:0pt; text-align:nojustify">
+				<span style="width:14.2pt; display:inline-block; -aw-tabstop-align:left; -aw-tabstop-pos:14.2pt">&#xa0;</span><span>Att satsa på högre utbildning och forskning är viktigare än någonsin nu när den svenska ekonomin hackar med låg tillväxt och många företag i kris. Utvecklingen inom artificiell intelligens kommer inte bara att förändra arbetsmarknaden utan också den geopolitiska spelplanen. Sverige kan inte hamna på efterkälken. Svensk högre utbildning och forskning står inför nya utmaningar där kvaliteten måste stärkas utan att tillgången till högre utbildning koncentreras till ett fåtal lärosäten. Nya balanser måste komma till mellan kvantitet och kvalitet. Fler utbildningsplatser har tillkommit på senare år, men kvalitén ska inte bara upprätthållas utan också stärkas. Dessutom måste utbildningarna designas för den allt mer rörliga arbetsmarknadens behov. </span><span style="-aw-bookmark-end:_Hlk180668558"></span><span>Digitaliseringen öppnar upp för fler distansutbildningar som i kombination med kommunala lärcentra gör högre utbildning tillgänglig för fler, oavsett geografi.</span>
+			</p>
+			<p style="t-i:0pt; text-align:nojustify">
+				<span style="-aw-import:ignore">&#xa0;</span>
+			</p>
+			<h1>
+				<span>Högre utbildning som uppmuntrar till livslångt lärande</span>
+			</h1>
+			<p style="t-i:0pt; text-align:nojustify">
+				<span style="-aw-import:ignore">&#xa0;</span>
+			</p>
+			<p style="t-i:0pt; text-align:nojustify">
+				<span>Centerpartiet har medverkat till satsningar på livslångt lärande där det ersättningsbelopp som universitet och högskolor får per helårsstudent motsvarar den nivå som lärosäten normalt får för både helårsstudent och helårsprestation. Det är ett viktigt steg för att kunna bidra till fler möjligheter till omställning och vidareutbildning för personer som är mitt i livet. Centerpartiet anser att en stegvis minskning av helårsprestationernas andel vore bra för att stärka kvalitén och stimulera till livslångt lärande. Utbildningsformer som skapar bättre förutsättningar för livslångt lärande bör också gynnas i resurstilldelningen. Exempelvis bör relevanta sommarkurser av fördjupningskaraktär, distanskurser och fristående kurser på halvfart uppmuntras. Centerpartiet vill ha ett resursfördelningssystem som i högre grad bestäms utifrån en samlad bedömning av kvalitet och potential.</span>
+			</p>
+			<p style="t-i:0pt; text-align:nojustify">
+				<span style="-aw-import:ignore">&#xa0;</span>
+			</p>
+			<h1>
+				<span>Fri forskning av hög kvalité</span>
+			</h1>
+			<p style="t-i:0pt; text-align:nojustify">
+				<span style="-aw-import:ignore">&#xa0;</span>
+			</p>
+			<p style="t-i:0pt; text-align:nojustify">
+				<span>För en både relevant och högkvalitativ forskning krävs att två perspektiv beaktas, dels fria förutsättningar för forskare att själva definiera både forskningsproblem och metoder, dels en lyhördhet för samhällets behov med korta och långa tidshorisonter. Centerpartiet anser att både dessa perspektiv måste vägleda hur vi organiserar och finansierar det svenska forskningslandskapet. Vi behöver sålunda se över de ekonomiska incitamenten för lärosäten att både bidra till nyttiggörande av forskning och innovation och skapa förutsättningar för fri forskning av hög kvalitet.</span>
+			</p>
+			<p style="t-i:0pt; text-align:nojustify">
+				<span style="width:14.2pt; display:inline-block; -aw-tabstop-align:left; -aw-tabstop-pos:14.2pt">&#xa0;</span><span>Sverige har länge varit en toppnation när det kommer till forskning och innovation. Motorn i den svenska tillväxten har de senaste decennierna koncentrerats till att vi kunnat göra saker bättre och mer effektivt med hjälp av nytänkande och mer kunskap. Svenskt välstånd och konkurrenskraft har byggt på att vi har haft en högutbildad befolkning, innovativa företag och en akademi i världsklass. På senare år har Sverige dock tappat allt mer mark. Tillväxten har varit begränsad, forskningens kvalitet har minskat mätt i andel högciterade publikationer och lärosätena levererar allt sämre i internationella jämförelser och rankingar. </span>
+			</p>
+			<p style="t-i:0pt; text-align:nojustify">
+				<span style="width:14.2pt; display:inline-block; -aw-tabstop-align:left; -aw-tabstop-pos:14.2pt">&#xa0;</span><span>För att vända utvecklingen behövs en ny politisk inriktning. Ökade offentliga medel till universitet och högskolor, via forskningsfinansiärerna, har visat sig inte lyfta kvalitén i svensk forskning och innovation. För att kunna vända utvecklingen behövs istället reformer. Centerpartiets utgångspunkt är att det inte i huvudsak är för lite pengar som är problemet, utan hur vi från politiskt håll har riggat hela sektorn: Hur vårt finansieringssystem ser ut, hur sektorn är organiserad – och hur politiserad vi tillåtit den att bli. Ska vi återigen placera Sverige i toppskiktet vad gäller forskning och innovation behöver fokus riktas om i politiken. Lärosätenas och forskarnas autonomi behöver stärkas, bildningsidealet uppvärderas, och universitetens roll i samhället utvecklas. </span>
+			</p>
+			<p style="t-i:0pt; text-align:nojustify">
+				<span style="width:14.2pt; display:inline-block; -aw-tabstop-align:left; -aw-tabstop-pos:14.2pt">&#xa0;</span><span>Centerpartiet är av åsikten att, om kvalitén i forskningen ska öka, så behöver också anslagen i större utsträckning än idag gå direkt till lärosätena. Sverige ligger idag långt ut på skalan när det gäller hög andel konkurrensutsatta medel jämfört med andra länder. Detta ökar detaljstyrningen och minskar utrymmet för fri och nyfiken forskning. Dessutom försämrar det anställningstryggheten för forskare och hämmar forskaryrkets attraktivitet. Det ökar varken kvalitén eller stärker långsiktigheten inom forskningspolitiken. För att de ökade anslagen ska kunna få verklig effekt behöver finansieringssystemet reformeras och en större andel av anslagen gå direkt till lärosätena. </span><span>              </span><span>Centerpartiet anser att kvalitén i forskningen stärks när professionens kvaliteter släpps fria och när lärosätenas forskningsanslag i större utsträckning bestäms utifrån en samlad bedömning av kvalitet och potential. Men för att garantera det senare behövs ett tydligare system för kvalitetsuppföljning av svensk forskning och innovation. Sverige saknar i dag ett robust system för en samlad och oberoende analys av vilka resultat och effekter som statliga investeringar i forskning, utveckling och innovation har. Det finns i de flesta jämförbara länder. </span>
+			</p>
+			<p style="t-i:0pt; text-align:nojustify">
+				<span style="width:14.2pt; display:inline-block; -aw-tabstop-align:left; -aw-tabstop-pos:14.2pt">&#xa0;</span><span>För att lära mer om hur olika europeiska länder har organiserat sitt arbete på området gav Ingenjörs- och vetenskapsakademin (Iva) och Nordisk institutt for studier av innovasjon, forskning og utdanning (NIFU), i uppdrag att studera frågan. Den färdiga studien bygger på ett tjugotal samtal med forskningsanalytiker från olika länder. För att säkerställa att investeringar i forskning, utveckling och innovation är effektiva krävs bättre uppföljning. Centerpartiet anser därför att det bör tillsättas en utredning för att lämna förslag om hur ett sådant system kan inrättas.</span>
+			</p>
+			<h1>
+				<span>Stärk den akademiska friheten </span>
+			</h1>
+			<p class="Normalutanindragellerluft" style="text-align:nojustify">
+				<a name="_Hlk178321156"><span style="-aw-import:ignore">&#xa0;</span></a>
+			</p>
+			<p class="Normalutanindragellerluft" style="text-align:nojustify">
+				<span>Precis som kulturen och rättsväsendet behövs tydliga skiljelinjer mellan politik och praktik för akademin. Utan oberoende forskning och utbildning har vi svårare att identifiera, förstå och lösa samhällsproblem. Utan oberoende forskning och utbildning bromsar Sverige in i framtiden och blir akterseglade av länder som släpper professionens kvaliteter fria. Det är en grundpelare för oss som kunskapsnation att akademin är en oberoende och fri röst som står fri från kortsiktighet och detaljstyrning. Akademins oberoende har i flera länder varit bland de första offren när auktoritära och illiberala regimer tagit makten. Svensk akademi är inte heller fredad. Främmande makt har bedrivit desinformationskampanjer mot och försökt tysta svenska forskare. Och lärares och gästtalares möjligheter att delta i evenemang och annan akademisk verksamhet har inskränkts efter kritik mot deras åsikter.</span><span style="-aw-import:spaces">&#xa0; </span>
+			</p>
+			<p style="text-align:nojustify">
+				<a name="_Hlk180667086"><span>Varannan lärare, forskare och doktorand anser att den akademiska friheten vid svenska lärosäten i dag är utmanad. Sverige ligger dessutom sämre till än andra jämförbara länder när det gäller institutionell autonomi, alltså lärosäten i förhållande till </span></a><a name="_Hlk178321220"><span>staten. </span><span style="-aw-bookmark-end:_Hlk178321156"></span><span>Vi anser att den akademiska friheten som rör institutionellt självstyre måste värnas. Det är helt centralt att universitet och högskolor styr sin egen verksamhet. </span><span style="-aw-bookmark-end:_Hlk180667086"></span><span>Centerpartiet motsätter sig obefogad detaljstyrning av högskolor och universitet och vill stärka oberoendet för såväl lärosätena som de forskare och lärare som är verksamma där. </span></a><span>För att det institutionella självstyret ska värnas anser Centerpartiet att man bör minska andel styrelseledamöter som tillsätts av regeringen och se över möjligheten att låta de statliga lärosätena tillsätta sina egna ordföranden. Dessutom bör självbestämmandet stärkas när det kommer till lärosätenas finansiering, organisering och hur de väljer att fördela resurser mellan undervisning och forskning. Utbildning, forskarutbildning och forskning hänger intimt ihop och därför är lärosätena få större frihet att fördela sina medel emellan dessa områden.</span>
+			</p>
+			<p style="text-align:nojustify">
+				<a name="_Hlk180667562"></a><a name="_Hlk178321259"><span>Det svenska akademiska systemet är i internationell jämförelse ovanligt beroende av externa anslag. Politiker vill gärna tro att de kan styra framsteg genom riktade satsningar. Men värdefulla upptäckter dyker upp där ingen kunde ana att man skulle leta. </span><span style="-aw-bookmark-end:_Hlk180667562"></span><span>Detta är också sammankopplat med forskningsfinansieringen i allmänhet där man blir försiktig och inte testar de yvigaste idéerna. </span></a><span>Vi anser att universiteten själva ska få större makt att fördela sina resurser mellan undervisning och forskning. Vi anser därutöver att kraven när de kommer till medfinansiering idag är alldeles för stora. Det gör att forskningen blir allt mer styrd av enskilda forskare och att externa finansiärer styr i allt högre grad. Konsekvensen kan bli att viktig forskning på mindre områden får stå tillbaka och att lärosätenas direkta anslag i stor omfattning binds upp. Vi vill därför minska kraven på medfinansiering </span><a name="_Hlk178321314"><span>för externa statliga forskningsmedel</span></a><span>. </span>
+			</p>
+			<p style="text-align:nojustify">
+				<span>Dessutom vill vi stärka förutsättningarna för privata medel att finansiera forskningen. En breddad finansiering skulle inte bara öka den finansiella autonomin genom att lärosätena blir mindre beroende av en enskild finansiär. Det skulle också stärka förutsättningarna för lärosätena att satsa på spetsforskning i större utsträckning. En balanserad finansiering med både direkta och externa medel, offentliga som privata, har visat sig bäst stödjer en bred, diversifierad och kvalitetsdriven forskningsmiljö. En sådan balans skapar goda planeringsförutsättningar för lärosätena och stärker deras förmåga att attrahera och behålla kvalificerade forskare och lärare.</span>
+			</p>
+			<p style="text-align:nojustify">
+				<span>Frihet och ansvar utgör två sidor av samma mynt. Den akademiska friheten behöver alltid åtföljas av ett akademiskt ansvar. För Centerpartiet tar sig det akademiska ansvaret sig uttryck både på ett individuellt plan och på lärosätet i stort. På det individuella planet handlar det om att den enskilda forskaren bedriver forskning som är vetenskapligt och etiskt korrekt. På lärosätet i stort handlar det om att högskole- och universitetsledningarna tar sitt ansvar i fråga om att motverka cancelkultur, hot och hat, säkra sitt eget politiska oberoende och se till att forskarna inte begränsas av lärosätena själva. För att säkra den akademiska friheten anser Centerpartiet att detta ansvar också måste förtydligas. </span>
+			</p>
+			<p style="text-align:nojustify">
+				<span style="-aw-import:ignore">&#xa0;</span>
+			</p>
+			<h1>
+				<span>Fristående lärosäten </span>
+			</h1>
+			<p style="t-i:0pt; text-align:nojustify">
+				<span style="-aw-import:ignore">&#xa0;</span>
+			</p>
+			<p style="t-i:0pt; text-align:nojustify">
+				<span>Centerpartiet vill att högskolor och universitet ska bli mer autonoma. Vi vill därför flytta makt från politiken till professionen. Det är professionen som bäst känner till verksamheten och vad den behöver för att utvecklas. Det är viktigt att lärosäten får möjlighet att profilera sig utifrån lokala och regionala förutsättningar och sina egna styrkor. Politiska regleringar ska därför begränsas till frågor där staten har ett tydligt intresse av att styra. Det gäller t.ex. uppföljning av resultat och kvalitetsgranskning, ansvarsutkrävande samt rättssäkerhet för studenterna. </span>
+			</p>
+			<p style="t-i:0pt; text-align:nojustify">
+				<span style="width:14.2pt; display:inline-block; -aw-tabstop-align:left; -aw-tabstop-pos:14.2pt">&#xa0;</span><span>Centerpartiet anser att nuvarande organisationsform där de flesta lärosätena är statliga myndigheter är ändamålsenlig. Nuvarande organisationsform är inte anpassad för lärosätenas uppdrag och innebär dessutom en mycket nära koppling till lärosätena. Vi vill att fler lärosäten organiseras fristående, till exempel i stiftelseform och som egna juridiska personer. Detta skulle förstärka internationella samarbeten, öka och förbättra samverkan med företag och omgivande aktörer samt skapa nya förutsättningar för gemensamma utbildningar och forskningsprojekt mellan både svenska och internationella lärosäten. Dessutom skulle det göra det möjligt för lärosätena att arbeta mer strategiskt utefter egen profil och ta emot donationer i större utsträckning. Sammantaget skulle detta öka kvalitén i både den högre utbildningen och i forskningen. </span>
+			</p>
+			<p style="t-i:0pt">
+				<span style="-aw-import:ignore">&#xa0;</span>
+			</p>
+			<h1>
+				<span>Administration</span>
+			</h1>
+			<p style="t-i:0pt">
+				<span style="-aw-import:ignore">&#xa0;</span>
+			</p>
+			<p style="t-i:0pt; text-align:nojustify">
+				<span>Den administrativa bördan hos de svenska lärosätena har ökat kraftigt på senare år. I sammanhanget handlar det både om ökade återrapporteringskrav och att forskningsmedel i högre grad måste sökas. Centerpartiet anser att den administrativa bördan kraftigt behöver minska för att både kvalité och autonomi ska säkras på landets lärosäten. Därför anser Centerpartiet att regeringen och ansvariga myndigheter behöver verka för att minska lärosätenas återrapporteringskrav. Dessutom anser Centerpartiet att möjligheten bör ses över att regleringsbrev och verksamhetsavtal ska gälla längre än ett år, vilket inte är fallet idag. Syftet med det sistnämnda är både att skapa mer långsiktiga förutsättningar för lärosätena och att minska antalet administrativa uppgifter som behöver göras årligen.</span>
+			</p>
+			<p style="t-i:0pt">
+				<span style="-aw-import:ignore">&#xa0;</span>
+			</p>
+			<p class="MotionTIllRiksdagen">
+				<span>Den högre utbildningen i samhället</span>
+			</p>
+			<p style="t-i:0pt; text-align:nojustify">
+				<span style="-aw-import:ignore">&#xa0;</span>
+			</p>
+			<p style="t-i:0pt; text-align:nojustify">
+				<span>Centerpartiet anser att det är viktigt att stärka samverkan med det omgivande samhället inom forskningen. I jämförelse med andra länder leder bara en liten del av forskningen som sker i Sverige till innovationer och samhällsnytta. Vi behöver därför se över de ekonomiska incitamenten för lärosäten att bidra till nyttogörande av forskning och innovation. Annorlunda uttryckt behöver vi bättre möjliggöra bättre rörlighet av kunskap och kompetens mellan akademin, näringslivet och den offentliga sektorn. Bristen på rörlighet mellan akademi och näringsliv och på geografisk mobilitet är idag en flaskhals för svenska företags tillväxt, och bristen på näringslivserfarenhet hos många seniora forskare försvårar möjligheterna för att nya lösningar ska kunna ta sig från laboratoriet till marknaden. </span>
+			</p>
+			<p style="text-align:nojustify">
+				<span>För att fler ska finna ett jobb måste högskoleutbildningarnas konkurrenskraft stärkas och utbildningarna bli mer relevanta för arbetsmarknaden. Samverkan med arbetsmarknad och samhälle behöver därför förbättras bland annat genom att koppla utbildningen närmare arbetsmarknaden, betona det entreprenöriella lärandet, utveckla studentmedarbetarsystemet, utöka möjligheterna till praktik samt förstärka rollen för studievägledaren.</span>
+			</p>
+			<h1>
+				<span>Spets och bredd på svenska lärosäten</span>
+			</h1>
+			<p style="t-i:0pt; text-align:nojustify">
+				<a name="_Hlk180667764"><span style="-aw-import:ignore">&#xa0;</span></a>
+			</p>
+			<p style="t-i:0pt; text-align:nojustify">
+				<span>Om vi ska kunna lösa både dagens och morgondagens oväntade utmaningar så krävs det en bred, fri och flexibel akademi. För Centerpartiet behövs både spets och bredd för att kunna nå excellens. Elitforskning ska inte sättas i motsättning till kvalitetssatsningar på bredden. Bredden är ofta en förutsättning för att nya idéer och spetskunskap ska kunna växa fram. För Centerpartiet är det viktigt med bredd för att akademin ska kunna vara snabbfotad och anpassningsbar efter hur samhället förändras. Det är helt avgörande för att Sverige ska kunna möta de utmaningar och möjligheter som framtiden innebär att det finns ett utrymme att forska bortom politikens prioriterade områden och utbilda sig i frågor som erbjuder både flexibilitet och anpassningsförmåga för vad arbetsmarknaden framöver kommer efterfråga. </span>
+			</p>
+			<p style="t-i:0pt; text-align:nojustify">
+				<span style="-aw-bookmark-end:_Hlk180667764"></span><span style="width:14.2pt; display:inline-block; -aw-tabstop-align:left; -aw-tabstop-pos:14.2pt">&#xa0;</span><span>I syfte att stärka Sveriges arbetsmarknad och konkurrenskraft anser Centerpartiet att universitetens och högskolornas olika roller och uppdrag behöver förtydligas. En tydlig rollfördelning är en förutsättning för att både spets och bredd ska garanteras på landets lärosäten. I andra länder finns mer dualistiska system där man tydligare skiljer på universitetens och högskolornas uppgifter och syften. I ett sådant system har man koncentrerat olika kompetenser, fördelat arbetsuppgifter mellan lärosäten och skapat större nytta för studenterna. Man har helt enkelt gett universiteten och högskolorna olika upplägg. Bägge viktiga, men de har fyllt olika funktioner. Forskning, nytänkande och innovation på universiteten är lika betydelsefull som högskolorna, vars nischade utbildningar och tillgänglighet i hela landet är avgörande för att svara på arbetsmarknadens behov av viktiga spetskunskaper. Såväl Universiteten som Högskolorna är avgörande för Sveriges utveckling och välstånd. Båda har en viktig roll att spela, men på olika sätt.</span><span style="-aw-import:spaces">&#xa0; </span><span>Denna rollfördelning behöver stärkas och förtydligas. </span>
+			</p>
+			<p style="t-i:0pt; text-align:nojustify">
+				<span style="width:14.2pt; display:inline-block; -aw-tabstop-align:left; -aw-tabstop-pos:14.2pt">&#xa0;</span><span>För att se till att de bästa utbildningarna premieras anser Centerpartiet att det även bör göras en åtstramning kring examensrättigheterna. Vi vill skärpa kraven för att få ge avancerade examina, som master- och forskarutbildningar. Utbildningar ska bara få ges där det finns starka forskningsmiljöer av tillräcklig storlek. Genom att ta bort examensrättigheter från svagare miljöer och samla avancerad utbildning i starkare miljöer, kan man förbättra forskarrekrytering och uppmuntra lärosäten att specialisera sig.</span>
+			</p>
+			<h1>
+				<span>Studenters hälsa och välmående</span>
+			</h1>
+			<p style="t-i:0pt; text-align:nojustify">
+				<span style="-aw-import:ignore">&#xa0;</span>
+			</p>
+			<p style="t-i:0pt; text-align:nojustify">
+				<span>Den psykiska ohälsan har brett ut sig allt mer i Sverige. En grupp som har drabbats särskilt är studenter, inte minst i spåren av pandemin med hemmastudier och ett minskat socialt utbyte. Studenter har i större utsträckning än den generella befolkningen, framförallt de som förvärvsarbetar, egenrapporterad psykisk ohälsa, där 26 % av alla studerande rapporterar nedsatt psykiskt välbefinnande jämfört med 15 % av alla förvärvsarbetande. Samtidigt så är det skyddsnät som omgärdar studenter mer underdimensionerat än för andra delar av befolkningen. I dagsläget kan en student som är sjukskriven på deltid endast få studiemedel för den del som den faktiskt studerar. Det innebär att studenter som t.ex. rehabiliteras från en heltidssjukskrivning och som en del av den rehabiliteringen har behov av deltidsstudier kanske inte har råd då han eller hon exempelvis enbart får 25 % av studiemedlet. Centerpartiet vill införa en möjlighet för studenter att vara sjukskrivna på deltid, vilket även skulle medföra rätt till studiemedel på deltid, samtidigt som personerna kan rehabiliteras tillbaka till antingen studier på fulltid eller andra former av heltidssysselsättning. Vi behöver också ge studenthälsan mer resurser och bättre verktyg för att de ska kunna möta och hjälpa studenter som mår dåligt och arbeta förebyggande på campus.</span>
+			</p>
+			<h1>
+				<span>Ett mer flexibelt studiemedelssystem </span>
+			</h1>
+			<p class="Normalutanindragellerluft" style="text-align:nojustify">
+				<a name="_Hlk193367151"><span style="-aw-import:ignore">&#xa0;</span></a>
+			</p>
+			<p class="Normalutanindragellerluft" style="text-align:nojustify">
+				<span>För ökad genomströmning och fler i arbete vill Centerpartiet ha ett mer flexibelt studiemedelssystem som premierar studenter som avslutar sina studier före utsatt tid men som också är anpassat för dem med lägre studietakt, exempelvis de som har gått i en anpassad gymnasieskola eller är deltidssjukskrivna. Det ger fler möjlighet till en utbildning som leder till jobb. Det behöver även finnas flexibilitet för karriärväxling högre upp i åldrarna. Därför är det bra att den övre åldersgränsen för rätt till studiemedel har höjts från 56 till 60 år. Det underlättar vidareutbildning och omskolning i högre åldrar, som är en viktig del i det livslånga lärandet.</span>
+			</p>
+			<p class="Normalutanindragellerluft" style="text-align:nojustify">
+				<span style="-aw-bookmark-end:_Hlk193367151"></span><span style="width:14.2pt; display:inline-block; -aw-tabstop-align:left; -aw-tabstop-pos:14.2pt">&#xa0;</span><span>Heltidsstudier är på heltid och måste gå att förena med familjeliv. Det ger skäl att stärka studiemedlet. Ensamstående föräldrar är en utsatt studentgrupp ekonomiskt, och dessutom är de som endast hade en gymnasieutbildning i klar majoritet bland ensamstående mammor. Möjligheterna till utbetalning av tilläggsbidrag för föräldrar som studerar behöver utredas, för en modern jämställd utbetalning. </span>
+			</p>
+			<p class="Normalutanindragellerluft" style="text-align:nojustify">
+				<span style="width:14.2pt; display:inline-block; -aw-tabstop-align:left; -aw-tabstop-pos:14.2pt">&#xa0;</span><span>Inkomstprövningen för studiemedel har återinförts, den så kallade fribeloppsgränsen, efter att den var borttagen under pandemin. Gränsen innebär att det finns ett tak för hur mycket studerande får tjäna för att också få rätt till CSN. En enig riksdag avskaffade fribeloppet temporärt för att uppmuntra fler studenter att jobba under pandemimånaderna, inte minst eftersom det behövdes arbetande inom restaurang- och besöksnäring samt vård och omsorg. Det finns fler branscher som har behov av arbetskraft, inte minst restaurangbranschen har stor personalbrist. Nu när inkomstprövningen har återinförts igen är det mindre lönsamt för studenterna att arbeta extra. Centerpartiet anser att det därför är rimligt att slopa inkomstprövningen för lånedelen av studiemedlet och på så sätt stärka studenters frihet att själva bestämma över sin egen ekonomi. </span>
+			</p>
+			<p class="Normalutanindragellerluft" style="text-align:nojustify">
+				<span style="width:14.2pt; display:inline-block; -aw-tabstop-align:left; -aw-tabstop-pos:14.2pt">&#xa0;</span><span>Centerpartiet förespråkar ett studiemedelssystem som är flexibelt men som också premierar studenter som avslutar sina studier före utsatt tid. För att öka incitamenten att avsluta sina studier i utsatt tid vill Centerpartiet att ett examenspremiesystem, i likhet med den modell som idag finns i Norge, bör utredas. Ett system med examenspremier bör vara självfinansierat inom ramen för studiemedelssystemet, där en del av det som i dag utgörs av studiebidrag görs om till lån, som sedan konverteras tillbaka till bidrag om examen klaras på utsatt tid. </span>
+			</p>
+			<p>
+				<span style="-aw-import:ignore">&#xa0;</span>
+			</p>
+			<h1>
+				<span>En jämställd och meritokratisk akademi </span>
+			</h1>
+			<p style="t-i:0pt; text-align:nojustify">
+				<span style="-aw-import:ignore">&#xa0;</span>
+			</p>
+			<p style="t-i:0pt; text-align:nojustify">
+				<span>Trots att kvinnor är i majoritet bland studenterna vid landets högskolor och universitet går arbetet mot en jämställd akademi för långsamt. Ungefär lika många kvinnor som män disputerar. Sedan upphör jämställdheten. Andelen kvinnliga professorer ökar, men sakta. Professorerna är den kategori inom högskolan som har den snedaste könsfördelningen. Idag är ungefär en tredjedel av landets professorer kvinnor. Variationerna mellan såväl lärosäten som olika fakulteter är stora. Bland forskarna vid finansinstitutionerna vid ledande universitet utgör kvinnor endast 20 procent och andelen kvinnliga forskare minskar med ökande senioritet. Globalt sett ligger Sverige dock i topp med den näst högsta andelen kvinnor inom finansforskning efter Australien och tredje högsta på professorsnivå. Det är ett samhälleligt problem att strukturer i samhället och akademin skapar en ojämställd akademi. Det borde vara varje lärosätes prioritering att i meritokratins namn kunna nå en mer jämställd könsfördelning. </span>
+			</p>
+			<p style="text-align:nojustify">
+				<span>För att möjliggöra en mer jämställd könsfördelning anser Centerpartiet att jämställdhetsarbetet på lärosätena behöver intensifieras så att arbetsvillkor, arbetsbelastning och arbetsbörda blir lika mellan män och kvinnor. Med en jämnare könsfördelning ökar det innovativa tänkande som på sikt leder till högre kunskap för samhället i stort. Vi vill att en plan tas fram för hur medlen som går till kvinno- respektive mansdominerade fält kan jämnas ut och att tydliga mål sätts upp.</span>
+			</p>
+			<p>
+				<span style="-aw-import:ignore">&#xa0;</span>
+			</p>
+			<h1>
+				<span>Tillgängliga och ändamålsenliga lokaler</span>
+			</h1>
+			<p style="t-i:0pt">
+				<span style="-aw-import:ignore">&#xa0;</span>
+			</p>
+			<p style="t-i:0pt; text-align:nojustify">
+				<span>Den högre utbildningen behöver vara fri och tillgänglig för alla, oavsett var man bor, om man har någon funktionsnedsättning eller vilken bakgrund och livssituation man har i övrigt. Ett sätt att göra den högre utbildningen mer tillgänglig är att dess lokaler är funktionsanpassade och ändamålsenliga så att de kan användas för högkvalitativ undervisning och forskning. Centerpartiet anser att universitetens och högskolornas lokaler både behöver bli mer tillgängliga och ändamålsenliga. För att detta ska vara möjligt krävs både en stabil och långsiktig finansiering och gemensamma riktlinjer i fråga. För Centerpartiet ska ingen behöva välja bort vidare studier på grund av att lokalerna inte är funktionsdugliga nog. Meritokrati och jämställdhet inom den högre utbildningen ska gälla på alla plan.</span>
+			</p>
+			<h1>
+				<span>Internationellt utbyte</span>
+			</h1>
+			<p style="t-i:0pt; text-align:nojustify">
+				<span style="-aw-import:ignore">&#xa0;</span>
+			</p>
+			<p style="t-i:0pt; text-align:nojustify">
+				<span>Om svensk utbildning och forskning ska kunna hävda sig i den globala konkurrensen finns det ett flertal faktorer som spelar roll, varav internationellt samarbete och utbyte är en viktig del. Inte minst i tider när den akademiska friheten utmanas i USA blir det extra viktigt att Sverige kan utgöra ett alternativ. Det gäller både internationella forskare som kommer hit för att arbeta och internationella studenter som väljer att läsa hela eller delar av sin utbildning i Sverige. Högskolor vittnar om problem med samordningen i visumprocessen som innebär att alla studenter inte får sina visum i tid. Dessutom uppstår det stora problem när visum för gästforskare ska förlängas eller att mastersstudenter och doktorander inte kan söka uppehållstillstånd för hela studieperioden. Centerpartiet anser att det behövs reformer brett på så väl migrations- som forskningsområdet för att locka fler internationella forskare och studenter till Sverige. På forskningsområdet handlar det bland annat om tryggare anställningar. Studier visar att det ovanligt höga beroendet av externa medel har i stor utsträckning gjort att forskare valt bort en tjänst i Sverige. Situationen är med andra ord ohållbar och mer måste göras för att trygga såväl svenska som internationella forskares anställningstrygghet.</span>
+			</p>
+			<p style="text-align:nojustify">
+				<span>Internationaliseringen av den högre utbildningen och forskningen och den fria rörligheten för studenter är mycket viktig i dagens samhälle. Om vi inte kan garantera att antagna utländska studenter och forskare får stanna för att studera och forska i Sverige riskerar vi att förlora i anseende och därmed i framtida konkurrenskraft. Centerpartiet uppmanar därför regeringen att undanröja de problem och hinder som begränsar internationella studenters och forskares möjligheter att studera och forska i Sverige. Men utbyte handlar inte bara om att skapa goda förutsättningar för utländska studenter och forskare, utan även om att uppmuntra svenska studenter till utlandsstudier. Internationella studier borde därför premieras. Bland annat bör det bli enklare att tillgodoräkna sig utlandsstudier. Vi behöver finna lösningar för att förenkla för internationella studenter och forskare att studera och arbeta i Sverige, annars riskerar vi både anseende och en försämrad konkurrenskraft som följd. Centerpartiet vill undanröja de problem och hinder som begränsar internationella studenters och forskares möjligheter att studera och forska i Sverige.</span>
+			</p>
+			<p>
+				<span style="-aw-import:ignore">&#xa0;</span>
+			</p>
+			<p class="Normalutanindragellerluft">
+				<span style="-aw-import:ignore">&#xa0;</span>
+			</p>
+			<div style="-aw-sdt-tag:'CC_Underskrifter'; -aw-sdt-title:'CC_Underskrifter'">
+				<p>
+					<span style="-aw-import:ignore">&#xa0;</span>
+				</p>
+				<p>
+					<span style="-aw-import:ignore">&#xa0;</span>
+				</p>
+			</div>
+			<table cellspacing="0" cellpadding="0" style="width:100%; border-collapse:collapse">
+				<tr style="page-break-inside:avoid">
+					<td style="width:1%; padding-right:5.4pt; padding-left:5.4pt; vertical-align:bottom">
+						<p class="Underskrifter" style="margin-bottom:0pt">
+							<span>Anders Ådahl (C)</span>
+						</p>
+					</td>
+					<td style="width:1%; padding-right:5.4pt; padding-left:5.4pt; vertical-align:bottom">
+						<p class="Underskrifter" style="margin-bottom:0pt">
+							<span style="-aw-import:ignore">&#xa0;</span>
+						</p>
+					</td>
+				</tr>
+				<tr style="page-break-inside:avoid">
+					<td style="width:1%; padding-right:5.4pt; padding-left:5.4pt; vertical-align:bottom">
+						<p class="Underskrifter" style="margin-bottom:0pt">
+							<span>Niels Paarup-Petersen (C)</span>
+						</p>
+					</td>
+					<td style="width:1%; padding-right:5.4pt; padding-left:5.4pt; vertical-align:bottom">
+						<p class="Underskrifter" style="margin-bottom:0pt">
+							<span>Anne-Li Sjölund (C)</span>
+						</p>
+					</td>
+				</tr>
+				<tr style="page-break-inside:avoid">
+					<td style="width:1%; padding-right:5.4pt; padding-left:5.4pt; vertical-align:bottom">
+						<p class="Underskrifter" style="margin-bottom:0pt">
+							<span>Anna Lasses (C)</span>
+						</p>
+					</td>
+					<td style="width:1%; padding-right:5.4pt; padding-left:5.4pt; vertical-align:bottom">
+						<p class="Underskrifter" style="margin-bottom:0pt">
+							<span>Alireza Akhondi (C)</span>
+						</p>
+					</td>
+				</tr>
+				<tr style="page-break-inside:avoid">
+					<td style="width:1%; padding-right:5.4pt; padding-left:5.4pt; vertical-align:bottom">
+						<p class="Underskrifter" style="margin-bottom:0pt">
+							<span>Anders W Jonsson (C)</span>
+						</p>
+					</td>
+					<td style="width:1%; padding-right:5.4pt; padding-left:5.4pt; vertical-align:bottom">
+						<p class="Underskrifter" style="margin-bottom:0pt">
+							<span>Catarina Deremar (C)</span>
+						</p>
+					</td>
+				</tr>
+				<tr style="page-break-inside:avoid">
+					<td style="width:1%; padding-right:5.4pt; padding-left:5.4pt; vertical-align:bottom">
+						<p class="Underskrifter" style="margin-bottom:0pt">
+							<span>Christofer Bergenblock (C)</span>
+						</p>
+					</td>
+					<td style="width:1%; padding-right:5.4pt; padding-left:5.4pt; vertical-align:bottom">
+						<p class="Underskrifter" style="margin-bottom:0pt">
+							<span>Jonny Cato (C)</span>
+						</p>
+					</td>
+				</tr>
+				<tr style="page-break-inside:avoid">
+					<td style="width:1%; padding-right:5.4pt; padding-left:5.4pt; vertical-align:bottom">
+						<p class="Underskrifter" style="margin-bottom:0pt">
+							<span>Martina Johansson (C)</span>
+						</p>
+					</td>
+					<td style="width:1%; padding-right:5.4pt; padding-left:5.4pt; vertical-align:bottom">
+						<p class="Underskrifter" style="margin-bottom:0pt">
+							<span style="-aw-import:ignore">&#xa0;</span>
+						</p>
+					</td>
+				</tr>
+			</table>
+			<p>
+				<span style="-aw-import:ignore">&#xa0;</span>
+			</p>
+		</div>
+	</div>

@@ -1,0 +1,2354 @@
+SEARCH TERM: AI
+DOCUMENT ID: gr0324
+TITLE: Skatteadministrativt samarbete i EU
+TYPE: prop
+SUBTYPE: prop
+DATE: 2003-10-22
+PARLIAMENTARY YEAR: 2003/04
+ORGANISATION: FI
+STATUS: hämtad_2
+DOWNLOADED: 2026-01-22 10:29:05
+================================================================================
+
+<div style="margin:3px;">
+<STYLE type="text/css">
+
+body {margin-top: 0px;margin-left: 0px;}
+
+#page_1 {position:relative; overflow: hidden;z:b;margin:19px 0px 17px 10px ;padding: 0px;border: none;width: 947px;}
+
+
+
+
+
+#page_2 {position:relative; overflow: hidden;z:b;margin:19px 0px 17px 10px ;padding: 0px;border: none;width: 947px;}
+
+
+
+
+
+#page_3 {position:relative; overflow: hidden;z:b;margin:20px 0px 17px 10px ;padding: 0px;border: none;width: 947px;}
+
+
+
+
+
+#page_4 {position:relative; overflow: hidden;z:b;margin:20px 0px 18px 10px ;padding: 0px;border: none;width: 947px;}
+
+#page_4 #dimg1z{position:absolute;top:742px;left:63px;z-index:-1;width:150px;height:1px;font-size: 1px !important;l-h:nHeight;}
+#page_4 #dimg1 #img1  {width:150px;height:1px;}
+
+
+
+
+#page_5 {position:relative; overflow: hidden;z:b;margin:20px 0px 17px 10px ;padding: 0px;border: none;width: 947px;}
+#page_5 #id_1 {border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 811px;overflow: hidden;}
+#page_5 #id_2 {border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 586px;overflow: hidden;}
+#page_5 #id_2 #id_2_1 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 315px;overflow: hidden;}
+#page_5 #id_2 #id_2_2 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 315px;overflow: hidden;}
+#page_5 #id_3 {border:none;z:b;margin:8px 0px 0px 10px ;padding: 0px;border:none;width: 811px;overflow: hidden;}
+
+#page_5 #dimg1z{position:absolute;top:418px;left:63px;z-index:-1;width:154px;height:1px;font-size: 1px !important;l-h:nHeight;}
+#page_5 #dimg1 #img1  {width:154px;height:1px;}
+
+
+
+
+#page_6 {position:relative; overflow: hidden;z:b;margin:20px 0px 17px 10px ;padding: 0px;border: none;width: 856px;}
+#page_6 #id_1 {float:left;border:none;z:b;margin:13px 0px 0px 10px ;padding: 0px;border:none;width: 586px;overflow: hidden;}
+#page_6 #id_2 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 270px;overflow: hidden;}
+
+
+
+
+
+#page_7 {position:relative; overflow: hidden;z:b;margin:20px 0px 17px 10px ;padding: 0px;border: none;width: 856px;}
+#page_7 #id_1 {float:left;border:none;z:b;margin:13px 0px 0px 10px ;padding: 0px;border:none;width: 586px;overflow: hidden;}
+#page_7 #id_1 #id_1_1 {border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 586px;overflow: hidden;}
+#page_7 #id_1 #id_1_2 {border:none;z:b;margin:1px 0px 0px 10px ;padding: 0px;border:none;width: 541px;overflow: hidden;}
+#page_7 #id_1 #id_1_2 #id_1_2_1 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 315px;overflow: hidden;}
+#page_7 #id_1 #id_1_2 #id_1_2_2 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 315px;overflow: hidden;}
+#page_7 #id_1 #id_1_3 {border:none;z:b;margin:7px 0px 0px 10px ;padding: 0px;border:none;width: 586px;overflow: hidden;}
+#page_7 #id_2 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 270px;overflow: hidden;}
+
+#page_7 #dimg1z{position:absolute;top:668px;left:0px;z-index:-1;width:154px;height:1px;font-size: 1px !important;l-h:nHeight;}
+#page_7 #dimg1 #img1  {width:154px;height:1px;}
+
+
+
+
+#page_8 {position:relative; overflow: hidden;z:b;margin:20px 0px 17px 10px ;padding: 0px;border: none;width: 947px;}
+
+
+
+
+
+#page_9 {position:relative; overflow: hidden;z:b;margin:20px 0px 17px 10px ;padding: 0px;border: none;width: 947px;}
+
+
+
+
+
+#page_10 {position:relative; overflow: hidden;z:b;margin:20px 0px 17px 10px ;padding: 0px;border: none;width: 947px;}
+
+#page_10 #dimg1z{position:absolute;top:92px;left:63px;z-index:-1;width:488px;height:177px;}
+#page_10 #dimg1 #img1  {width:488px;height:177px;}
+
+
+
+
+#page_11 {position:relative; overflow: hidden;z:b;margin:20px 0px 17px 10px ;padding: 0px;border: none;width: 856px;}
+#page_11 #id_1 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 541px;overflow: hidden;}
+#page_11 #id_2 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 315px;overflow: hidden;}
+
+
+
+
+
+#page_12 {position:relative; overflow: hidden;z:b;margin:20px 0px 18px 10px ;padding: 0px;border: none;width: 766px;}
+
+#page_12 #dimg1z{position:absolute;top:444px;left:1px;z-index:-1;width:488px;height:100px;}
+#page_12 #dimg1 #img1  {width:488px;height:100px;}
+
+
+
+
+#page_13 {position:relative; overflow: hidden;z:b;margin:20px 0px 18px 10px ;padding: 0px;border: none;width: 766px;}
+
+
+
+
+
+#page_14 {position:relative; overflow: hidden;z:b;margin:19px 0px 17px 10px ;padding: 0px;border: none;width: 947px;}
+
+
+
+
+
+#page_15 {position:relative; overflow: hidden;z:b;margin:20px 0px 17px 10px ;padding: 0px;border: none;width: 947px;}
+
+
+
+
+
+#page_16 {position:relative; overflow: hidden;z:b;margin:20px 0px 18px 10px ;padding: 0px;border: none;width: 856px;}
+#page_16 #id_1 {border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 811px;overflow: hidden;}
+#page_16 #id_1 #id_1_1 {float:left;border:none;z:b;margin:4px 0px 0px 10px ;padding: 0px;border:none;width: 541px;overflow: hidden;}
+#page_16 #id_1 #id_1_2 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 270px;overflow: hidden;}
+#page_16 #id_2 {border:none;z:b;margin:5px 0px 0px 10px ;padding: 0px;border:none;width: 811px;overflow: hidden;}
+
+
+
+
+
+#page_17 {position:relative; overflow: hidden;z:b;margin:19px 0px 17px 10px ;padding: 0px;border: none;width: 856px;}
+
+
+
+
+
+#page_18 {position:relative; overflow: hidden;z:b;margin:20px 0px 17px 10px ;padding: 0px;border: none;width: 856px;}
+#page_18 #id_1 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 541px;overflow: hidden;}
+#page_18 #id_2 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 315px;overflow: hidden;}
+
+
+
+
+
+#page_19 {position:relative; overflow: hidden;z:b;margin:20px 0px 17px 10px ;padding: 0px;border: none;width: 856px;}
+#page_19 #id_1 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 586px;overflow: hidden;}
+#page_19 #id_2 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 270px;overflow: hidden;}
+
+
+
+
+
+#page_20 {position:relative; overflow: hidden;z:b;margin:19px 0px 18px 10px ;padding: 0px;border: none;width: 766px;}
+
+
+
+
+
+#page_21 {position:relative; overflow: hidden;z:b;margin:20px 0px 17px 10px ;padding: 0px;border: none;width: 856px;}
+#page_21 #id_1 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 586px;overflow: hidden;}
+#page_21 #id_2 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 270px;overflow: hidden;}
+
+
+
+
+
+#page_22 {position:relative; overflow: hidden;z:b;margin:19px 0px 17px 10px ;padding: 0px;border: none;width: 947px;}
+
+
+
+
+
+#page_23 {position:relative; overflow: hidden;z:b;margin:20px 0px 17px 10px ;padding: 0px;border: none;width: 856px;}
+#page_23 #id_1 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 586px;overflow: hidden;}
+#page_23 #id_2 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 270px;overflow: hidden;}
+
+
+
+
+
+#page_24 {position:relative; overflow: hidden;z:b;margin:19px 0px 17px 10px ;padding: 0px;border: none;width: 947px;}
+
+
+
+
+
+#page_25 {position:relative; overflow: hidden;z:b;margin:20px 0px 17px 10px ;padding: 0px;border: none;width: 947px;}
+
+
+
+
+
+#page_26 {position:relative; overflow: hidden;z:b;margin:20px 0px 17px 10px ;padding: 0px;border: none;width: 856px;}
+#page_26 #id_1 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 586px;overflow: hidden;}
+#page_26 #id_2 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 270px;overflow: hidden;}
+
+
+
+
+
+#page_27 {position:relative; overflow: hidden;z:b;margin:20px 0px 17px 10px ;padding: 0px;border: none;width: 856px;}
+#page_27 #id_1 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 586px;overflow: hidden;}
+#page_27 #id_2 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 270px;overflow: hidden;}
+
+
+
+
+
+#page_28 {position:relative; overflow: hidden;z:b;margin:19px 0px 18px 10px ;padding: 0px;border: none;width: 856px;}
+
+
+
+
+
+#page_29 {position:relative; overflow: hidden;z:b;margin:19px 0px 17px 10px ;padding: 0px;border: none;width: 947px;}
+
+
+
+
+
+#page_30 {position:relative; overflow: hidden;z:b;margin:19px 0px 17px 10px ;padding: 0px;border: none;width: 856px;}
+
+
+
+
+
+#page_31 {position:relative; overflow: hidden;z:b;margin:20px 0px 17px 10px ;padding: 0px;border: none;width: 856px;}
+#page_31 #id_1 {float:left;border:none;z:b;margin:1px 0px 0px 10px ;padding: 0px;border:none;width: 586px;overflow: hidden;}
+#page_31 #id_2 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 270px;overflow: hidden;}
+
+
+
+
+
+#page_32 {position:relative; overflow: hidden;z:b;margin:18px 0px 16px 10px ;padding: 0px;border: none;width: 947px;}
+
+
+
+
+
+#page_33 {position:relative; overflow: hidden;z:b;margin:19px 0px 17px 10px ;padding: 0px;border: none;width: 947px;}
+
+
+
+
+
+#page_34 {position:relative; overflow: hidden;z:b;margin:20px 0px 18px 10px ;padding: 0px;border: none;width: 856px;}
+#page_34 #id_1 {border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 811px;overflow: hidden;}
+#page_34 #id_1 #id_1_1 {float:left;border:none;z:b;margin:3px 0px 0px 10px ;padding: 0px;border:none;width: 586px;overflow: hidden;}
+#page_34 #id_1 #id_1_2 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 270px;overflow: hidden;}
+#page_34 #id_2 {border:none;z:b;margin:12px 0px 0px 10px ;padding: 0px;border:none;width: 811px;overflow: hidden;}
+
+#page_34 #dimg1z{position:absolute;top:602px;left:0px;z-index:-1;width:154px;height:1px;font-size: 1px !important;l-h:nHeight;}
+#page_34 #dimg1 #img1  {width:154px;height:1px;}
+
+
+
+
+#page_35 {position:relative; overflow: hidden;z:b;margin:20px 0px 17px 10px ;padding: 0px;border: none;width: 947px;}
+
+#page_35 #dimg1z{position:absolute;top:264px;left:63px;z-index:-1;width:154px;height:1px;font-size: 1px !important;l-h:nHeight;}
+#page_35 #dimg1 #img1  {width:154px;height:1px;}
+
+
+
+#page_35 #tx1 {position:absolute;top:123px;left:438px;width:327px;height:142px;}
+
+#page_36 {position:relative; overflow: hidden;z:b;margin:19px 0px 17px 10px ;padding: 0px;border: none;width: 856px;}
+
+
+
+
+
+#page_37 {position:relative; overflow: hidden;z:b;margin:19px 0px 17px 10px ;padding: 0px;border: none;width: 947px;}
+
+
+
+
+
+#page_38 {position:relative; overflow: hidden;z:b;margin:20px 0px 17px 10px ;padding: 0px;border: none;width: 856px;}
+#page_38 #id_1 {float:left;border:none;z:b;margin:3px 0px 0px 10px ;padding: 0px;border:none;width: 586px;overflow: hidden;}
+#page_38 #id_2 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 270px;overflow: hidden;}
+
+#page_38 #dimg1z{position:absolute;top:238px;left:1px;z-index:-1;width:151px;height:1px;font-size: 1px !important;l-h:nHeight;}
+#page_38 #dimg1 #img1  {width:151px;height:1px;}
+
+
+
+
+.dclr {clear:both;float:none;height:1px;margin:0px;padding:0px;overflow:hidden;}
+
+.ft0{font:  20px 'Verdana' !important;l-h: 36px;}
+.ft1{font:  14px 'Verdana' !important;l-h: 17px;}
+.ft2{font:  10px 'Verdana' !important;l-h: 16px;}
+.ft3{font:  10px 'Verdana' !important;l-h: 1px;}
+.ft4{font:  16px 'Verdana' !important;l-h: 26px;}
+.ft5{font:  16px 'Verdana' !important;l-h: 24px;}
+.ft6{font:  14px 'Verdana' !important;l-h: 19px;}
+.ft7{font:  14px 'Verdana' !important;l-h: 19px;}
+.ft8{font:  14px 'Verdana' !important;l-h: 18px;}
+.ft9{font:  14px 'Verdana' !important;margin-left: 40px;l-h: 19px;}
+.ft10{font:  14px 'Verdana' !important;l-h: 18px;}
+.ft11{font:  14px 'Verdana' !important;margin-left: 26px;l-h: 19px;}
+.ft12{font:  14px 'Verdana' !important;l-h: 23px;}
+.ft13{font:  14px 'Verdana' !important;margin-left: 10px;l-h: 19px;}
+.ft14{font:  14px 'Verdana' !important;margin-left: 9px;l-h: 19px;}
+.ft15{font:  14px 'Verdana' !important;margin-left: 8px;l-h: 19px;}
+.ft16{font:  14px 'Verdana' !important;margin-left: 51px;l-h: 22px;}
+.ft17{font:  14px 'Verdana' !important;l-h: 22px;}
+.ft18{font:  14px 'Verdana' !important;text-decoration: underline;l-h: 18px;}
+.ft19{font:  10px 'Verdana' !important;l-h: 17px;}
+.ft20{font:  14px 'Verdana' !important;text-decoration: underline;l-h: 17px;}
+.ft21{font:  12px 'Verdana' !important;l-h: 14px;position: relative; bottom: 7px;}
+.ft22{font:  10px 'Verdana' !important;l-h: 12px;position: relative; bottom: 6px;}
+.ft23{font:  12px 'Verdana' !important;l-h: 15px;}
+.ft24{font:  14px 'Verdana' !important;margin-left: 7px;l-h: 19px;}
+.ft25{font:  14px 'Verdana' !important;margin-left: 6px;l-h: 19px;}
+.ft26{font:  14px 'Verdana' !important;l-h: 19px;}
+.ft27{font:  10px 'Verdana' !important;l-h: 14px;position: relative; bottom: 7px;}
+.ft28{font:  10px 'Verdana' !important;l-h: 10px;}
+.ft29{font:  12px 'Verdana' !important;margin-left: 3px;l-h: 15px;}
+.ft30{font:  14px 'Verdana' !important;margin-left: 30px;l-h: 19px;}
+.ft31{font:  14px 'Verdana' !important;margin-left: 11px;l-h: 19px;}
+.ft32{font:  14px 'Verdana' !important;l-h: 19px;position: relative; bottom: 6px;}
+.ft33{font:  14px 'Verdana' !important;margin-left: 64px;l-h: 26px;}
+.ft34{font:  14px 'Verdana' !important;l-h: 26px;}
+.ft35{font:  10px 'Verdana' !important;l-h: 14px;position: relative; bottom: 7px;}
+.ft36{font:  10px 'Verdana' !important;l-h: 15px;}
+.ft37{font:  10px 'Verdana' !important;l-h: 2px;}
+.ft38{font:  10px 'Verdana' !important;l-h: 3px;}
+.ft39{font:  16px 'Verdana' !important;margin-left: 64px;l-h: 26px;}
+.ft40{font:  14px 'Verdana' !important;margin-left: 17px;l-h: 19px;}
+.ft41{font:  14px 'Verdana' !important;margin-left: 13px;l-h: 19px;}
+.ft42{font:  14px 'Verdana' !important;margin-left: 8px;l-h: 18px;}
+.ft43{font:  14px 'Verdana' !important;margin-left: 6px;l-h: 19px;}
+.ft44{font:  14px 'Verdana' !important;margin-left: 9px;l-h: 18px;}
+.ft45{font:  14px 'Verdana' !important;margin-left: 14px;l-h: 19px;}
+.ft46{font:  14px 'Verdana' !important;margin-left: 15px;l-h: 19px;}
+.ft47{font:  14px 'Verdana' !important;margin-left: 8px;l-h: 19px;}
+.ft48{font:  12px 'Verdana' !important;margin-left: 4px;l-h: 15px;}
+.ft49{font:  14px 'Verdana' !important;margin-left: 5px;l-h: 19px;}
+.ft50{font:  14px 'Verdana' !important;margin-left: 11px;l-h: 19px;}
+.ft51{font:  14px 'Verdana' !important;margin-left: 8px;l-h: 19px;}
+.ft52{font:  14px 'Verdana' !important;margin-left: 7px;l-h: 19px;}
+.ft53{font:  14px 'Verdana' !important;margin-left: 7px;l-h: 19px;}
+.ft54{font:  14px 'Verdana' !important;margin-left: 16px;l-h: 19px;}
+.ft55{font:  14px 'Verdana' !important;margin-left: 16px;l-h: 19px;}
+.ft56{font:  14px 'Verdana' !important;margin-left: 4px;l-h: 19px;}
+.ft57{font:  10px 'Verdana' !important;l-h: 18px;}
+.ft58{font:  14px 'Verdana' !important;margin-left: 15px;l-h: 19px;}
+.ft59{font:  14px 'Verdana' !important;margin-left: 5px;l-h: 18px;}
+.ft60{font:  14px 'Verdana' !important;margin-left: 5px;l-h: 19px;}
+.ft61{font:  14px 'Verdana' !important;margin-left: 12px;l-h: 19px;}
+.ft62{font:  14px 'Verdana' !important;margin-left: 9px;l-h: 19px;}
+.ft63{font:  14px 'Verdana' !important;margin-left: 4px;l-h: 17px;}
+.ft64{font:  14px 'Verdana' !important;margin-left: 13px;l-h: 19px;}
+.ft65{font:  14px 'Verdana' !important;margin-left: 19px;l-h: 19px;}
+.ft66{font:  14px 'Verdana' !important;margin-left: 5px;l-h: 19px;}
+.ft67{font:  14px 'Verdana' !important;margin-left: 11px;l-h: 19px;}
+.ft68{font:  10px 'Verdana' !important;l-h: 13px;position: relative; bottom: 7px;}
+.ft69{font:  14px 'Verdana' !important;l-h: 18px;}
+.ft70{font:  14px 'Gabriola' !important;l-h: 21px;}
+.ft71{font:  14px 'Gabriola' !important;l-h: 22px;}
+.ft72{font:  10px 'Gabriola' !important;l-h: 1px;}
+.ft73{font:  14px 'Gabriola' !important;l-h: 19px;}
+.ft74{font:  14px 'Gabriola' !important;l-h: 20px;}
+.ft75{font:  14px 'Gabriola' !important;l-h: 23px;}
+.ft76{font:  14px 'Gabriola' !important;l-h: 31px;}
+.ft77{font:  14px 'Gabriola' !important;l-h: 24px;}
+.ft78{font:  14px 'Gabriola' !important;l-h: 15px;}
+.ft79{font:  14px 'Verdana' !important;margin-left: 7px;l-h: 18px;}
+.ft80{font:  10px 'Verdana' !important;l-h: 7px;}
+.ft81{font:  14px 'Verdana' !important;text-decoration: underline;l-h: 19px;}
+.ft82{font:  12px 'Verdana' !important;l-h: 16px;}
+
+.p0{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p1{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p2{text-align: left;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p3{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p4{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p5{text-align: left;padding-left: 160px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p6{text-align: left;padding-left: 0px;margin-top: 66px;margin-bottom: 0px !important;}
+.p7{text-align: left;padding-left: 0px;padding-right: 294px;margin-top: 34px;margin-bottom: 0px !important;}
+.p8{text-align: left;padding-left: 0px;padding-right: 294px;margin-top: 2px;margin-bottom: 0px !important;text-indent: 15px;}
+.p9{text-align: left;padding-left: 0px;padding-right: 294px;margin-top: 0px;margin-bottom: 0px !important;text-indent: 15px;}
+.p10{text-align: right;padding-right: 84px;margin-top: 151px;margin-bottom: 0px !important;}
+.p11{text-align: right;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p12{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p13{text-align: right;padding-right: 126px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p14{text-align: right;padding-right: 1px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p15{text-align: right;padding-right: 42px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p16{text-align: left;padding-left: 0px;margin-top: 2px;margin-bottom: 0px !important;}
+.p17{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;}
+.p18{text-align: right;padding-right: 21px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p19{text-align: right;padding-right: 105px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p20{text-align: left;padding-left: 0px;margin-top: 10px;margin-bottom: 0px !important;}
+.p21{text-align: left;padding-left: 0px;margin-top: 7px;margin-bottom: 0px !important;}
+.p22{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p23{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p24{text-align: left;padding-left: 0px;margin-top: 10px;margin-bottom: 0px !important;}
+.p25{text-align: right;padding-right: 84px;margin-top: 216px;margin-bottom: 0px !important;}
+.p26{text-align: right;padding-right: 21px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p27{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p28{text-align: left;padding-left: 0px;margin-top: 16px;margin-bottom: 0px !important;}
+.p29{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;}
+.p30{text-align: left;padding-left: 0px;margin-top: 1px;margin-bottom: 0px !important;}
+.p31{text-align: right;padding-right: 84px;margin-top: 792px;margin-bottom: 0px !important;}
+.p32{text-align: right;padding-right: 84px;margin-top: 0px;margin-bottom: 0px !important;}
+.p33{text-align: left;padding-left: 0px;margin-top: 33px;margin-bottom: 0px !important;}
+.p34{text-align: left;padding-left: 120px;padding-right: 336px;margin-top: 61px;margin-bottom: 0px !important;text-indent: 0.75px;}
+.p35{text-align: left;padding-left: 0px;padding-right: 294px;margin-top: 10px;margin-bottom: 0px !important;text-indent: 12px;}
+.p36{text-align: left;padding-left: 0px;padding-right: 294px;margin-top: 1px;margin-bottom: 0px !important;text-indent: 15px;}
+.p37{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p38{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p39{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p40{text-align: left;padding-left: 0px;padding-right: 294px;margin-top: 73px;margin-bottom: 0px !important;text-indent: 15px;}
+.p41{text-align: left;padding-right: 84px;margin-top: 0px;margin-bottom: 0px !important;text-indent: 15px;}
+.p42{text-align: left;margin-top: 0px;margin-bottom: 0px !important;}
+.p43{text-align: left;padding-right: 294px;margin-top: 0px;margin-bottom: 0px !important;text-indent: 15px;}
+.p44{text-align: left;padding-right: 294px;margin-top: 1px;margin-bottom: 0px !important;text-indent: 15px;}
+.p45{text-align: left;margin-top: 0px;margin-bottom: 0px !important;text-indent: 15px;}
+.p46{text-align: left;padding-left: 0px;padding-right: 147px;margin-top: 0px;margin-bottom: 0px !important;text-indent: 15px;}
+.p47{text-align: right;margin-top: 489px;margin-bottom: 0px !important;}
+.p48{text-align: left;padding-left: 0px;padding-right: 42px;margin-top: 0px;margin-bottom: 0px !important;text-indent: 0.75px;}
+.p49{text-align: left;padding-right: 0px;padding-top: 2px;margin-top: 11px;margin-bottom: 0px !important;text-indent: 15px;}
+.p50{text-align: left;margin-top: 832px;margin-bottom: 0px !important;}
+.p51{text-align: right;padding-right: 84px;margin-top: 949px;margin-bottom: 0px !important;}
+.p52{text-align: left;padding-left: 0px;padding-right: 42px;margin-top: 0px;margin-bottom: 0px !important;text-indent: 0.75px;}
+.p53{text-align: left;padding-right: 0px;margin-top: 11px;margin-bottom: 0px !important;text-indent: 15px;}
+.p54{text-align: left;padding-left: 200px;margin-top: 16px;margin-bottom: 0px !important;}
+.p55{text-align: left;margin-top: 5px;margin-bottom: 0px !important;text-indent: 15px;}
+.p56{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;}
+.p57{text-align: left;margin-top: 261px;margin-bottom: 0px !important;}
+.p58{text-align: left;margin-top: 1px;margin-bottom: 0px !important;}
+.p59{text-align: left;padding-left: 560px;margin-top: 0px;margin-bottom: 0px !important;}
+.p60{text-align: left;padding-left: 120px;padding-right: 420px;margin-top: 22px;margin-bottom: 0px !important;text-indent: 0.75px;}
+.p61{text-align: left;padding-left: 0px;padding-right: 294px;margin-top: 11px;margin-bottom: 0px !important;text-indent: 15px;}
+.p62{text-align: right;padding-right: 84px;margin-top: 719px;margin-bottom: 0px !important;}
+.p63{text-align: left;padding-left: 0px;padding-right: 294px;margin-top: 16px;margin-bottom: 0px !important;}
+.p64{text-align: left;padding-left: 0px;margin-top: 37px;margin-bottom: 0px !important;}
+.p65{text-align: left;padding-left: 0px;padding-right: 294px;margin-top: 10px;margin-bottom: 0px !important;}
+.p66{text-align: left;padding-left: 0px;padding-right: 294px;margin-top: 0px;margin-bottom: 0px !important;text-indent: 15px;}
+.p67{text-align: left;padding-left: 0px;margin-top: 2px;margin-bottom: 0px !important;}
+.p68{text-align: right;padding-right: 84px;margin-top: 84px;margin-bottom: 0px !important;}
+.p69{text-align: left;padding-left: 120px;padding-right: 84px;margin-top: 0px;margin-bottom: 0px !important;text-indent: 0.75px;}
+.p70{text-align: left;padding-left: 120px;margin-top: 1px;margin-bottom: 0px !important;}
+.p71{text-align: left;padding-left: 0px;padding-right: 315px;margin-top: 16px;margin-bottom: 0px !important;}
+.p72{text-align: left;padding-left: 0px;padding-right: 294px;margin-top: 2px;margin-bottom: 0px !important;text-indent: 15px;}
+.p73{text-align: left;padding-left: 0px;padding-right: 294px;margin-top: 21px;margin-bottom: 0px !important;text-indent: 15px;}
+.p74{text-align: left;padding-left: 0px;padding-right: 294px;margin-top: 3px;margin-bottom: 0px !important;text-indent: 15px;}
+.p75{text-align: right;padding-right: 63px;margin-top: 9px;margin-bottom: 0px !important;}
+.p76{text-align: left;padding-right: 1px;margin-top: 0px;margin-bottom: 0px !important;}
+.p77{text-align: left;padding-right: 1px;margin-top: 0px;margin-bottom: 0px !important;text-indent: 15px;}
+.p78{text-align: left;margin-top: 2px;margin-bottom: 0px !important;text-indent: 15px;}
+.p79{text-align: left;margin-top: 3px;margin-bottom: 0px !important;text-indent: 15px;}
+.p80{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;}
+.p81{text-align: right;padding-right: 63px;margin-top: 949px;margin-bottom: 0px !important;}
+.p82{text-align: left;padding-right: 0px;margin-top: 0px;margin-bottom: 0px !important;}
+.p83{text-align: left;padding-right: 147px;margin-top: 0px;margin-bottom: 0px !important;}
+.p84{text-align: left;padding-left: 0px;padding-right: 168px;margin-top: 55px;margin-bottom: 0px !important;text-indent: 0.75px;}
+.p85{text-align: left;padding-left: 0px;padding-right: 147px;margin-top: 17px;margin-bottom: 0px !important;}
+.p86{text-align: left;padding-right: 147px;margin-top: 22px;margin-bottom: 0px !important;text-indent: 15px;}
+.p87{text-align: right;padding-right: 2px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p88{text-align: left;padding-right: 0px;padding-top: 2px;margin-top: 0px;margin-bottom: 0px !important;}
+.p89{text-align: left;padding-right: 147px;margin-top: 0px;margin-bottom: 0px !important;}
+.p90{text-align: left;padding-right: 147px;margin-top: 0px;margin-bottom: 0px !important;text-indent: 15px;}
+.p91{text-align: left;padding-right: 147px;margin-top: 1px;margin-bottom: 0px !important;text-indent: 15px;}
+.p92{text-align: left;padding-right: 147px;margin-top: 2px;margin-bottom: 0px !important;text-indent: 15px;}
+.p93{text-align: left;padding-right: 147px;margin-top: 2px;margin-bottom: 0px !important;text-indent: 15px;}
+.p94{text-align: right;padding-right: 63px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p95{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p96{text-align: left;padding-left: 0px;padding-right: 294px;margin-top: 20px;margin-bottom: 0px !important;text-indent: 15px;}
+.p97{text-align: left;padding-left: 120px;padding-right: 315px;margin-top: 53px;margin-bottom: 0px !important;text-indent: 0.75px;}
+.p98{text-align: left;padding-left: 0px;margin-top: 54px;margin-bottom: 0px !important;}
+.p99{text-align: left;padding-left: 120px;padding-right: 315px;margin-top: 57px;margin-bottom: 0px !important;text-indent: 0.75px;}
+.p100{text-align: left;padding-left: 0px;margin-top: 3px;margin-bottom: 0px !important;}
+.p101{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;}
+.p102{text-align: left;padding-left: 0px;margin-top: 17px;margin-bottom: 0px !important;}
+.p103{text-align: left;padding-left: 0px;padding-right: 294px;margin-top: 20px;margin-bottom: 0px !important;}
+.p104{text-align: right;padding-right: 63px;margin-top: 0px;margin-bottom: 0px !important;}
+.p105{text-align: left;padding-left: 0px;padding-right: 84px;margin-top: 0px;margin-bottom: 0px !important;}
+.p106{text-align: left;padding-left: 0px;padding-right: 294px;margin-top: 0px;margin-bottom: 0px !important;text-indent: 15px;}
+.p107{text-align: left;padding-left: 120px;padding-right: 315px;margin-top: 42px;margin-bottom: 0px !important;text-indent: 0.75px;}
+.p108{text-align: left;padding-left: 0px;padding-right: 294px;margin-top: 11px;margin-bottom: 0px !important;}
+.p109{text-align: left;padding-left: 120px;padding-right: 315px;margin-top: 42px;margin-bottom: 0px !important;text-indent: 0.75px;}
+.p110{text-align: left;padding-left: 0px;padding-right: 294px;margin-top: 1px;margin-bottom: 0px !important;text-indent: 15px;}
+.p111{text-align: left;padding-left: 120px;padding-right: 399px;margin-top: 46px;margin-bottom: 0px !important;text-indent: 0.75px;}
+.p112{text-align: left;padding-left: 0px;padding-right: 294px;margin-top: 11px;margin-bottom: 0px !important;}
+.p113{text-align: right;padding-right: 63px;margin-top: 334px;margin-bottom: 0px !important;}
+.p114{text-align: left;padding-right: 294px;margin-top: 19px;margin-bottom: 0px !important;text-indent: 15px;}
+.p115{text-align: left;padding-left: 0px;margin-top: 2px;margin-bottom: 0px !important;}
+.p116{text-align: left;padding-right: 294px;margin-top: 1px;margin-bottom: 0px !important;text-indent: 15px;}
+.p117{text-align: left;padding-left: 0px;margin-top: 1px;margin-bottom: 0px !important;}
+.p118{text-align: left;padding-right: 294px;margin-top: 2px;margin-bottom: 0px !important;text-indent: 15px;}
+.p119{text-align: left;padding-right: 294px;margin-top: 1px;margin-bottom: 0px !important;text-indent: 15px;}
+.p120{text-align: left;margin-top: 35px;margin-bottom: 0px !important;}
+.p121{text-align: left;margin-top: 0px;margin-bottom: 0px !important;}
+.p122{text-align: left;padding-right: 294px;margin-top: 3px;margin-bottom: 0px !important;}
+.p123{text-align: left;padding-right: 294px;margin-top: 0px;margin-bottom: 0px !important;text-indent: 15px;}
+.p124{text-align: left;padding-left: 0px;margin-top: 1px;margin-bottom: 0px !important;}
+.p125{text-align: left;padding-right: 294px;margin-top: 0px;margin-bottom: 0px !important;}
+.p126{text-align: left;padding-right: 336px;margin-top: 23px;margin-bottom: 0px !important;}
+.p127{text-align: left;padding-right: 1px;margin-top: 1px;margin-bottom: 0px !important;text-indent: 15px;}
+.p128{text-align: left;margin-top: 1px;margin-bottom: 0px !important;text-indent: 15px;}
+.p129{text-align: left;padding-right: 1px;margin-top: 2px;margin-bottom: 0px !important;text-indent: 15px;}
+.p130{text-align: right;padding-right: 63px;margin-top: 930px;margin-bottom: 0px !important;}
+.p131{text-align: left;margin-top: 19px;margin-bottom: 0px !important;}
+.p132{text-align: left;margin-top: 22px;margin-bottom: 0px !important;}
+.p133{text-align: left;padding-right: 0px;margin-top: 0px;margin-bottom: 0px !important;text-indent: 15px;}
+.p134{text-align: left;padding-right: 0px;margin-top: 0px;margin-bottom: 0px !important;text-indent: 15px;}
+.p135{text-align: left;margin-top: 21px;margin-bottom: 0px !important;}
+.p136{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;}
+.p137{text-align: left;padding-right: 0px;margin-top: 1px;margin-bottom: 0px !important;text-indent: 15px;}
+.p138{text-align: left;margin-top: 23px;margin-bottom: 0px !important;}
+.p139{text-align: left;padding-right: 0px;margin-top: 0px;margin-bottom: 0px !important;text-indent: 15px;}
+.p140{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p141{text-align: left;padding-right: 147px;margin-top: 1px;margin-bottom: 0px !important;}
+.p142{text-align: left;padding-right: 147px;margin-top: 3px;margin-bottom: 0px !important;text-indent: 15px;}
+.p143{text-align: left;padding-right: 147px;margin-top: 0px;margin-bottom: 0px !important;text-indent: 15px;}
+.p144{text-align: left;padding-right: 0px;margin-top: 0px;margin-bottom: 0px !important;}
+.p145{text-align: left;padding-left: 0px;margin-top: 22px;margin-bottom: 0px !important;}
+.p146{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;}
+.p147{text-align: right;padding-right: 63px;margin-top: 11px;margin-bottom: 0px !important;}
+.p148{text-align: left;padding-right: 0px;margin-top: 0px;margin-bottom: 0px !important;}
+.p149{text-align: left;padding-right: 0px;margin-top: 2px;margin-bottom: 0px !important;text-indent: 15px;}
+.p150{text-align: left;padding-right: 0px;margin-top: 1px;margin-bottom: 0px !important;text-indent: 15px;}
+.p151{text-align: left;margin-top: 18px;margin-bottom: 0px !important;}
+.p152{text-align: left;padding-left: 0px;padding-right: 294px;margin-top: 2px;margin-bottom: 0px !important;text-indent: 15px;}
+.p153{text-align: left;padding-left: 0px;margin-top: 19px;margin-bottom: 0px !important;}
+.p154{text-align: left;padding-left: 0px;padding-right: 84px;margin-top: 0px;margin-bottom: 0px !important;text-indent: 15px;}
+.p155{text-align: left;padding-left: 0px;margin-top: 23px;margin-bottom: 0px !important;}
+.p156{text-align: right;padding-right: 63px;margin-top: 10px;margin-bottom: 0px !important;}
+.p157{text-align: left;padding-right: 0px;margin-top: 0px;margin-bottom: 0px !important;}
+.p158{text-align: left;padding-left: 0px;margin-top: 2px;margin-bottom: 0px !important;}
+.p159{text-align: left;margin-top: 20px;margin-bottom: 0px !important;}
+.p160{text-align: right;padding-right: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p161{text-align: left;padding-left: 0px;margin-top: 20px;margin-bottom: 0px !important;}
+.p162{text-align: right;padding-right: 63px;margin-top: 49px;margin-bottom: 0px !important;}
+.p163{text-align: right;margin-top: 890px;margin-bottom: 0px !important;}
+.p164{text-align: left;padding-right: 0px;margin-top: 17px;margin-bottom: 0px !important;}
+.p165{text-align: left;padding-left: 0px;padding-right: 336px;margin-top: 1px;margin-bottom: 0px !important;}
+.p166{text-align: left;padding-left: 0px;padding-right: 126px;margin-top: 0px;margin-bottom: 0px !important;}
+.p167{text-align: left;padding-left: 0px;padding-right: 84px;margin-top: 0px;margin-bottom: 0px !important;}
+.p168{text-align: left;padding-right: 0px;margin-top: 1px;margin-bottom: 0px !important;text-indent: 15px;}
+.p169{text-align: left;padding-left: 0px;margin-top: 20px;margin-bottom: 0px !important;}
+.p170{text-align: left;padding-left: 0px;padding-right: 21px;margin-top: 0px;margin-bottom: 0px !important;}
+.p171{text-align: left;padding-right: 0px;margin-top: 2px;margin-bottom: 0px !important;text-indent: 15px;}
+.p172{text-align: left;padding-left: 0px;padding-right: 0px;margin-top: 0px;margin-bottom: 0px !important;}
+.p173{text-align: left;padding-left: 0px;padding-right: 0px;margin-top: 0px;margin-bottom: 0px !important;}
+.p174{text-align: left;padding-left: 0px;padding-right: 0px;margin-top: 1px;margin-bottom: 0px !important;}
+.p175{text-align: left;margin-top: 2px;margin-bottom: 0px !important;}
+.p176{text-align: left;padding-left: 0px;padding-right: 84px;margin-top: 0px;margin-bottom: 0px !important;}
+.p177{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p178{text-align: left;padding-left: 0px;margin-top: 8px;margin-bottom: 0px !important;}
+.p179{text-align: left;padding-left: 0px;padding-right: 294px;margin-top: 3px;margin-bottom: 0px !important;text-indent: 15px;}
+.p180{text-align: left;padding-left: 0px;padding-right: 294px;margin-top: 7px;margin-bottom: 0px !important;text-indent: 15px;}
+.p181{text-align: left;padding-left: 0px;margin-top: 16px;margin-bottom: 0px !important;}
+.p182{text-align: left;padding-left: 0px;padding-right: 294px;margin-top: 1px;margin-bottom: 0px !important;text-indent: 15px;}
+.p183{text-align: left;padding-left: 0px;margin-top: 3px;margin-bottom: 0px !important;}
+.p184{text-align: left;padding-left: 0px;padding-right: 294px;margin-top: 0px;margin-bottom: 0px !important;}
+.p185{text-align: left;padding-left: 0px;margin-top: 9px;margin-bottom: 0px !important;}
+.p186{text-align: left;padding-left: 0px;padding-right: 441px;margin-top: 0px;margin-bottom: 0px !important;}
+.p187{text-align: left;padding-left: 0px;padding-right: 609px;margin-top: 0px;margin-bottom: 0px !important;}
+.p188{text-align: left;padding-left: 0px;padding-right: 567px;margin-top: 1px;margin-bottom: 0px !important;}
+.p189{text-align: left;padding-left: 0px;padding-right: 567px;margin-top: 2px;margin-bottom: 0px !important;}
+.p190{text-align: right;padding-right: 399px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p191{text-align: right;padding-right: 315px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p192{text-align: left;padding-left: 0px;margin-top: 21px;margin-bottom: 0px !important;}
+.p193{text-align: left;padding-left: 0px;margin-top: 1px;margin-bottom: 0px !important;}
+.p194{text-align: left;padding-left: 0px;padding-right: 294px;margin-top: 0px;margin-bottom: 0px !important;}
+.p195{text-align: right;padding-right: 63px;margin-top: 645px;margin-bottom: 0px !important;}
+.p196{text-align: left;padding-right: 0px;margin-top: 15px;margin-bottom: 0px !important;}
+.p197{text-align: left;padding-right: 0px;margin-top: 20px;margin-bottom: 0px !important;text-indent: 12px;}
+.p198{text-align: left;padding-left: 220px;padding-right: 315px;margin-top: 0px;margin-bottom: 0px !important;}
+.p199{text-align: left;padding-left: 220px;margin-top: 30px;margin-bottom: 0px !important;}
+.p200{text-align: left;padding-left: 220px;padding-right: 294px;margin-top: 1px;margin-bottom: 0px !important;text-indent: 15px;}
+.p201{text-align: left;padding-right: 294px;margin-top: 37px;margin-bottom: 0px !important;text-indent: 15px;}
+.p202{text-align: left;padding-left: 0px;padding-right: 651px;margin-top: 1px;margin-bottom: 0px !important;text-indent: 15px;}
+.p203{text-align: right;padding-right: 63px;margin-top: 680px;margin-bottom: 0px !important;}
+.p204{text-align: right;margin-top: 22px;margin-bottom: 0px !important;}
+.p205{text-align: left;padding-left: 0px;margin-top: 2px;margin-bottom: 0px !important;}
+.p206{text-align: left;padding-left: 0px;padding-right: 294px;margin-top: 19px;margin-bottom: 0px !important;}
+.p207{text-align: left;padding-left: 0px;padding-right: 294px;margin-top: 22px;margin-bottom: 0px !important;}
+.p208{text-align: left;padding-left: 0px;padding-right: 294px;margin-top: 20px;margin-bottom: 0px !important;}
+.p209{text-align: right;padding-right: 63px;margin-top: 164px;margin-bottom: 0px !important;}
+.p210{text-align: left;margin-top: 15px;margin-bottom: 0px !important;}
+.p211{text-align: left;padding-right: 63px;margin-top: 19px;margin-bottom: 0px !important;}
+.p212{text-align: left;padding-right: 63px;margin-top: 77px;margin-bottom: 0px !important;}
+
+.td0{padding: 0px;margin: 0px;width: 460px;vertical-align: bottom;}
+.td1{padding: 0px;margin: 0px;width: 200px;vertical-align: bottom;}
+.td2{border-bottom: #000000 1px solid;padding: 0px;margin: 0px;width: 460px;vertical-align: bottom;}
+.td3{border-bottom: #000000 1px solid;padding: 0px;margin: 0px;width: 200px;vertical-align: bottom;}
+.td4{padding: 0px;margin: 0px;width: 506px;vertical-align: bottom;}
+.td5{padding: 0px;margin: 0px;width: 148px;vertical-align: bottom;}
+.td6{padding: 0px;margin: 0px;width: 8px;vertical-align: bottom;}
+.td7{padding: 0px;margin: 0px;width: 497px;vertical-align: bottom;}
+.td8{padding: 0px;margin: 0px;width: 80px;vertical-align: bottom;}
+.td9{padding: 0px;margin: 0px;width: 416px;vertical-align: bottom;}
+.td10{padding: 0px;margin: 0px;width: 407px;vertical-align: bottom;}
+.td11{padding: 0px;margin: 0px;width: 9px;vertical-align: bottom;}
+.td12{padding: 0px;margin: 0px;width: 69px;vertical-align: bottom;}
+.td13{padding: 0px;margin: 0px;width: 428px;vertical-align: bottom;}
+.td14{padding: 0px;margin: 0px;width: 462px;vertical-align: bottom;}
+.td15{padding: 0px;margin: 0px;width: 17px;vertical-align: bottom;}
+.td16{padding: 0px;margin: 0px;width: 489px;vertical-align: bottom;}
+.td17{padding: 0px;margin: 0px;width: 420px;vertical-align: bottom;}
+.td18{padding: 0px;margin: 0px;width: 397px;vertical-align: bottom;}
+.td19{padding: 0px;margin: 0px;width: 18px;vertical-align: bottom;}
+.td20{padding: 0px;margin: 0px;width: 399px;vertical-align: bottom;}
+.td21{padding: 0px;margin: 0px;width: 78px;vertical-align: bottom;}
+.td22{padding: 0px;margin: 0px;width: 418px;vertical-align: bottom;}
+.td23{padding: 0px;margin: 0px;width: 45px;vertical-align: bottom;}
+.td24{padding: 0px;margin: 0px;width: 488px;vertical-align: bottom;}
+.td25{padding: 0px;margin: 0px;width: 120px;vertical-align: bottom;}
+.td26{padding: 0px;margin: 0px;width: 238px;vertical-align: bottom;}
+.td27{padding: 0px;margin: 0px;width: 247px;vertical-align: bottom;}
+.td28{padding: 0px;margin: 0px;width: 29px;vertical-align: bottom;}
+.td29{padding: 0px;margin: 0px;width: 129px;vertical-align: bottom;}
+.td30{padding: 0px;margin: 0px;width: 32px;vertical-align: bottom;}
+.td31{padding: 0px;margin: 0px;width: 86px;vertical-align: bottom;}
+.td32{padding: 0px;margin: 0px;width: 277px;vertical-align: bottom;}
+.td33{padding: 0px;margin: 0px;width: 161px;vertical-align: bottom;}
+.td34{padding: 0px;margin: 0px;width: 473px;vertical-align: bottom;}
+.td35{padding: 0px;margin: 0px;width: 191px;vertical-align: bottom;}
+.td36{padding: 0px;margin: 0px;width: 269px;vertical-align: bottom;}
+.td37{padding: 0px;margin: 0px;width: 132px;vertical-align: bottom;}
+.td38{padding: 0px;margin: 0px;width: 6px;vertical-align: bottom;}
+.td39{padding: 0px;margin: 0px;width: 468px;vertical-align: bottom;}
+.td40{padding: 0px;margin: 0px;width: 198px;vertical-align: bottom;}
+.td41{padding: 0px;margin: 0px;width: 477px;vertical-align: bottom;}
+.td42{padding: 0px;margin: 0px;width: 195px;vertical-align: bottom;}
+.td43{padding: 0px;margin: 0px;width: 87px;vertical-align: bottom;}
+.td44{padding: 0px;margin: 0px;width: 446px;vertical-align: bottom;}
+.td45{border-bottom: #000000 1px solid;padding: 0px;margin: 0px;width: 533px;vertical-align: bottom;}
+.td46{border-left: #000000 1px solid;border-right: #000000 1px solid;padding: 0px;margin: 0px;width: 531px;vertical-align: bottom;}
+.td47{border-left: #000000 1px solid;padding: 0px;margin: 0px;width: 86px;vertical-align: bottom;}
+.td48{border-right: #000000 1px solid;padding: 0px;margin: 0px;width: 445px;vertical-align: bottom;}
+.td49{border-left: #000000 1px solid;border-bottom: #000000 1px solid;padding: 0px;margin: 0px;width: 86px;vertical-align: bottom;}
+.td50{border-right: #000000 1px solid;border-bottom: #000000 1px solid;padding: 0px;margin: 0px;width: 445px;vertical-align: bottom;}
+.td51{padding: 0px;margin: 0px;width: 412px;vertical-align: bottom;}
+.td52{padding: 0px;margin: 0px;width: 260px;vertical-align: bottom;}
+.td53{padding: 0px;margin: 0px;width: 533px;vertical-align: bottom;}
+.td54{padding: 0px;margin: 0px;width: 395px;vertical-align: bottom;}
+.td55{padding: 0px;margin: 0px;width: 562px;vertical-align: bottom;}
+.td56{padding: 0px;margin: 0px;width: 110px;vertical-align: bottom;}
+.td57{padding: 0px;margin: 0px;width: 544px;vertical-align: bottom;}
+.td58{padding: 0px;margin: 0px;width: 128px;vertical-align: bottom;}
+.td59{padding: 0px;margin: 0px;width: 99px;vertical-align: bottom;}
+.td60{padding: 0px;margin: 0px;width: 88px;vertical-align: bottom;}
+.td61{padding: 0px;margin: 0px;width: 108px;vertical-align: bottom;}
+.td62{padding: 0px;margin: 0px;width: 234px;vertical-align: bottom;}
+.td63{padding: 0px;margin: 0px;width: 178px;vertical-align: bottom;}
+.td64{padding: 0px;margin: 0px;width: 163px;vertical-align: bottom;}
+.td65{padding: 0px;margin: 0px;width: 199px;vertical-align: bottom;}
+.td66{padding: 0px;margin: 0px;width: 0px;vertical-align: bottom;}
+.td67{padding: 0px;margin: 0px;width: 258px;vertical-align: bottom;}
+.td68{padding: 0px;margin: 0px;width: 275px;vertical-align: bottom;}
+.td69{padding: 0px;margin: 0px;width: 63px;vertical-align: bottom;}
+.td70{padding: 0px;margin: 0px;width: 50px;vertical-align: bottom;}
+.td71{padding: 0px;margin: 0px;width: 177px;vertical-align: bottom;}
+
+.tr0{heightzzz: 39px;}
+.tr1{heightzzz: 23px;}
+.tr2{heightzzz: 16px;}
+.tr3{heightzzz: 37px;}
+.tr4{heightzzz: 47px;}
+.tr5{heightzzz: 24px;}
+.tr6{heightzzz: 43px;}
+.tr7{heightzzz: 38px;}
+.tr8{heightzzz: 60px;}
+.tr9{heightzzz: 19px;}
+.tr10{heightzzz: 31px;}
+.tr11{heightzzz: 27px;}
+.tr12{heightzzz: 20px;}
+.tr13{heightzzz: 18px;}
+.tr14{heightzzz: 25px;}
+.tr15{heightzzz: 53px;}
+.tr16{heightzzz: 17px;}
+.tr17{heightzzz: 50px;}
+.tr18{heightzzz: 15px;}
+.tr19{heightzzz: 2px;}
+.tr20{heightzzz: 3px;}
+.tr21{heightzzz: 21px;}
+.tr22{heightzzz: 26px;}
+.tr23{heightzzz: 22px;}
+.tr24{heightzzz: 32px;}
+.tr25{heightzzz: 11px;}
+.tr26{heightzzz: 7px;}
+.tr27{heightzzz: 28px;}
+
+.t0{width: 693px;margin-leftZ: 75px;f:17px 'Verdana' !important;}
+.t1{width: 685px;margin-leftZ: 76px;f:17px 'Verdana' !important;}
+.t2{width: 436px;margin-leftZ: 170px;f:16px 'Verdana' !important;}
+.t3{width: 540px;margin-leftZ: 76px;f:17px 'Verdana' !important;}
+.t4{width: 502px;margin-leftZ: 110px;f:15px 'Verdana' !important;}
+.t5{width: 540px;margin-leftZ: 76px;f:15px 'Verdana' !important;}
+.t6{width: 436px;margin-leftZ: 170px;f:15px 'Verdana' !important;}
+.t7{width: 685px;margin-leftZ: 76px;f:15px 'Verdana' !important;}
+.t8{width: 540px;margin-leftZ: 76px;margin-top: 18px;f:17px 'Verdana' !important;}
+.t9{width: 696px;margin-leftZ: 76px;margin-top: 47px;f:9px 'Verdana' !important;}
+.t10{width: 421px;margin-top: 22px;f:15px 'Verdana' !important;}
+.t11{width: 705px;margin-top: 46px;f:8px 'Verdana' !important;}
+.t12{width: 705px;margin-top: 161px;f:9px 'Verdana' !important;}
+.t13{width: 694px;margin-leftZ: 68px;f:17px 'Verdana' !important;}
+.t14{width: 705px;f:9px 'Verdana' !important;}
+.t15{width: 685px;f:17px 'Verdana' !important;}
+.t16{width: 705px;margin-top: 1px;f:13px 'Verdana' !important;}
+.t17{width: 685px;f:16px 'Verdana' !important;}
+.t18{width: 705px;margin-top: 31px;f:13px 'Verdana' !important;}
+.t19{width: 705px;margin-top: 48px;f:13px 'Verdana' !important;}
+.t20{width: 685px;margin-leftZ: 76px;f:16px 'Verdana' !important;}
+.t21{width: 685px;margin-leftZ: 76px;f:17px 'Gabriola' !important;}
+.t22{width: 421px;margin-top: 18px;f:17px 'Verdana' !important;}
+.t23{width: 705px;margin-top: 33px;f:9px 'Verdana' !important;}
+.t24{width: 685px;margin-leftZ: 76px;f:17px 'Verdana' !important;}
+
+</STYLE>
+
+
+
+<DIV id="page_1">
+
+
+<TABLE cellpadding=0 cellspacing=0 class="t0">
+<TR>
+	<TD rowspan=2 class="tr0 td0"><SPAN class="p0 ft0">Regeringens proposition</SPAN> </TD>
+	<TD class="tr1 td1"><SPAN class="p1 ft1">Prop. 2003/04:24</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr2 td1"><SPAN class="p2 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr3 td0"><SPAN class="p0 ft0">2003/04:24</SPAN> </TD>
+	<TD class="tr3 td1"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr4 td0"><SPAN class="p3 ft4">Skatteadministrativt samarbete i EU</SPAN> </TD>
+	<TD class="tr4 td1"><SPAN class="p4 ft4">Prop.</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr5 td2"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+	<TD class="tr5 td3"><SPAN class="p4 ft5">2003/04:24</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr6 td0"><SPAN class="p0 ft6">Regeringen överlämnar denna proposition till riksdagen.</SPAN> </TD>
+	<TD class="tr6 td1"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr7 td0"><SPAN class="p0 ft6">Stockholm den 16 oktober 2003</SPAN> </TD>
+	<TD class="tr7 td1"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr8 td0"><SPAN class="p0 ft6">Margareta Winberg</SPAN> </TD>
+	<TD class="tr8 td1"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr6 td0"><SPAN class="p5 ft6">Bosse Ringholm</SPAN> </TD>
+	<TD class="tr6 td1"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr9 td0"><SPAN class="p5 ft6">(Finansdepartementet)</SPAN> </TD>
+	<TD class="tr9 td1"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+</TR>
+</TABLE>
+<P class="p6 ft4">Propositionens huvudsakliga innehåll</P>
+<P class="p7 ft7">I propositionen föreslås ändringar i lagen (2001:1227) om självdeklarationer och kontrolluppgifter för att genomföra rådets direktiv 2003/48/EG av den 3 juni 2003 om beskattning av inkomster från sparande i form av räntebetalningar. Direktivet innebär ett automatiskt utbyte av information mellan medlemsstaterna om räntebetalningar som möjliggör faktisk beskattning av dessa räntebetalningar i den medlemsstat där den faktiska betalningsmottagaren har sitt skatterättsliga hemvist i enlighet med de nationella lagarna i den staten. Ändringarna föreslås träda i kraft den dag regeringen bestämmer.</P>
+<P class="p8 ft7">Propositionen innehåller vidare förslag om ändringar i mervärdesskattelagen (1994:200) och lagen (1990:314) om ömsesidig handräckning i skatteärenden med anledning av att rådet antagit en förordning om administrativt samarbete i fråga om mervärdesskatt. Ändringarna föreslås träda i kraft den 1 januari 2004.</P>
+<P class="p9 ft6">I propositionen föreslås också att vissa föreskrifter om utsökningsregistrets innehåll som inte längre är aktuella skall upphävas. Föreskrifterna, som har meddelats av Riksskatteverket, föreslås upphöra att gälla vid utgången av år 2003.</P>
+<P class="p10 ft6">1</P>
+</DIV>
+<DIV id="page_2">
+
+
+<TABLE cellpadding=0 cellspacing=0 class="t1">
+<TR>
+	<TD colspan=3 class="tr10 td4"><SPAN class="p2 ft4">Innehållsförteckning</SPAN> </TD>
+	<TD class="tr10 td5"><SPAN class="p11 ft6">Prop. 2003/04:24</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr6 td6"><SPAN class="p2 ft1"><A href="#page_3">1</A></SPAN> </TD>
+	<TD colspan=2 class="tr6 td7"><SPAN class="p12 ft8"><A href="#page_3">Förslag till riksdagsbeslut..................................................................</A></SPAN> </TD>
+	<TD class="tr6 td5"><SPAN class="p13 ft6"><A href="#page_3">3</A></SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr11 td6"><SPAN class="p2 ft1"><A href="#page_4">2</A></SPAN> </TD>
+	<TD class="tr11 td8"><SPAN class="p12 ft6"><A href="#page_4">Lagtext</A></SPAN> </TD>
+	<TD class="tr11 td9"><SPAN class="p14 ft8"><A href="#page_4">...............................................................................................</A></SPAN> </TD>
+	<TD class="tr11 td5"><SPAN class="p13 ft6"><A href="#page_4">4</A></SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr9 td6"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+	<TD class="tr9 td8"><SPAN class="p12 ft6"><A href="#page_4">2.1</A></SPAN> </TD>
+	<TD class="tr9 td9"><SPAN class="p15 ft8"><A href="#page_4">Förslag till lag om ändring i lagen (2001:1227) om</A></SPAN> </TD>
+	<TD class="tr9 td5"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr9 td6"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+	<TD class="tr9 td8"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+	<TD class="tr9 td9"><SPAN class="p14 ft8"><A href="#page_4">självdeklarationer och kontrolluppgifter.............................</A></SPAN> </TD>
+	<TD class="tr9 td5"><SPAN class="p13 ft6"><A href="#page_4">4</A></SPAN> </TD>
+</TR>
+</TABLE>
+<P class="p16 ft6"><SPAN class="ft1">2.2</SPAN><A href="#page_6"><SPAN class="ft9">Förslag till lag om ändring i mervärdesskattelagen</SPAN></A></P>
+<TABLE cellpadding=0 cellspacing=0 class="t2">
+<TR>
+	<TD class="tr12 td10"><SPAN class="p11 ft8"><A href="#page_6">(1994:200)...........................................................................</A></SPAN> </TD>
+	<TD class="tr12 td11"><SPAN class="p11 ft6"><A href="#page_6">6</A></SPAN> </TD>
+</TR>
+</TABLE>
+<P class="p17 ft6"><SPAN class="ft1">2.3</SPAN><A href="#page_7"><SPAN class="ft9">Förslag till lag om ändring i lagen (1990:314) om</SPAN></A></P>
+<TABLE cellpadding=0 cellspacing=0 class="t3">
+<TR>
+	<TD class="tr13 td6"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+	<TD class="tr13 td12"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+	<TD class="tr13 td13"><SPAN class="p14 ft8"><A href="#page_7">ömsesidig handräckning i skatteärenden ............................</A></SPAN> </TD>
+	<TD class="tr13 td11"><SPAN class="p11 ft10"><A href="#page_7">7</A></SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr13 td6"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+	<TD class="tr13 td12"><SPAN class="p18 ft10"><A href="#page_8">2.4</A></SPAN> </TD>
+	<TD class="tr13 td13"><SPAN class="p19 ft10"><A href="#page_8">Förslag till lag om upphävande av vissa av</A></SPAN> </TD>
+	<TD class="tr13 td11"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr9 td6"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+	<TD class="tr9 td12"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+	<TD class="tr9 td13"><SPAN class="p11 ft8"><A href="#page_8">Riksskatteverkets föreskrifter .............................................</A></SPAN> </TD>
+	<TD class="tr9 td11"><SPAN class="p11 ft6"><A href="#page_8">8</A></SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr11 td6"><SPAN class="p11 ft1"><A href="#page_9">3</A></SPAN> </TD>
+	<TD colspan=2 class="tr11 td7"><SPAN class="p14 ft8"><A href="#page_9">Ärendet och dess beredning...............................................................</A></SPAN> </TD>
+	<TD class="tr11 td11"><SPAN class="p11 ft6"><A href="#page_9">9</A></SPAN> </TD>
+</TR>
+</TABLE>
+<P class="p20 ft6"><SPAN class="ft1">4</SPAN><A href="#page_10"><SPAN class="ft11">Genomförande av rådets direktiv om beskattning av inkomster från</SPAN></A></P>
+<TABLE cellpadding=0 cellspacing=0 class="t4">
+<TR>
+	<TD class="tr12 td14"><SPAN class="p2 ft1"><A href="#page_10">sparande i form av räntebetalningar ................................................</A></SPAN> </TD>
+	<TD class="tr12 td15"><SPAN class="p11 ft1"><A href="#page_10">10</A></SPAN> </TD>
+</TR>
+</TABLE>
+<P class="p21 ft6"><SPAN class="ft1">5</SPAN><A href="#page_12"><SPAN class="ft11">Rådets förordning om administrativt samarbete i fråga om</SPAN></A></P>
+<TABLE cellpadding=0 cellspacing=0 class="t5">
+<TR>
+	<TD class="tr12 td6"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+	<TD colspan=2 class="tr12 td16"><SPAN class="p12 ft8"><A href="#page_12">mervärdesskatt, m.m........................................................................</A></SPAN> </TD>
+	<TD class="tr12 td15"><SPAN class="p11 ft1"><A href="#page_12">12</A></SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr14 td6"><SPAN class="p11 ft1"><A href="#page_14">6</A></SPAN> </TD>
+	<TD colspan=2 class="tr14 td16"><SPAN class="p12 ft8"><A href="#page_14">Riksskatteverkets föreskrifter..........................................................</A></SPAN> </TD>
+	<TD class="tr14 td15"><SPAN class="p11 ft1"><A href="#page_14">14</A></SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr11 td6"><SPAN class="p11 ft1"><A href="#page_14">7</A></SPAN> </TD>
+	<TD colspan=2 class="tr11 td16"><SPAN class="p12 ft1"><A href="#page_14">Effekter för de offentliga finanserna och för mindre företag ..........</A></SPAN> </TD>
+	<TD class="tr11 td15"><SPAN class="p11 ft1"><A href="#page_14">14</A></SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr11 td6"><SPAN class="p11 ft1"><A href="#page_14">8</A></SPAN> </TD>
+	<TD colspan=2 class="tr11 td16"><SPAN class="p12 ft8"><A href="#page_14">Författningskommentarer ................................................................</A></SPAN> </TD>
+	<TD class="tr11 td15"><SPAN class="p11 ft1"><A href="#page_14">14</A></SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr12 td6"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+	<TD class="tr12 td12"><SPAN class="p12 ft6"><A href="#page_14">8.1</A></SPAN> </TD>
+	<TD class="tr12 td17"><SPAN class="p22 ft6"><A href="#page_14">Förslaget till lag om ändring i lagen (2001:1227) om</A></SPAN> </TD>
+	<TD class="tr12 td15"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr9 td6"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+	<TD class="tr9 td12"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+	<TD class="tr9 td17"><SPAN class="p22 ft8"><A href="#page_14">självdeklarationer och kontrolluppgifter...........................</A></SPAN> </TD>
+	<TD class="tr9 td15"><SPAN class="p11 ft1"><A href="#page_14">14</A></SPAN> </TD>
+</TR>
+</TABLE>
+<P class="p16 ft6"><SPAN class="ft1">8.2</SPAN><A href="#page_15"><SPAN class="ft9">Förslaget till lag om ändring i mervärdesskattelagen</SPAN></A></P>
+<TABLE cellpadding=0 cellspacing=0 class="t2">
+<TR>
+	<TD class="tr9 td18"><SPAN class="p11 ft8"><A href="#page_15">(1994:200).........................................................................</A></SPAN> </TD>
+	<TD class="tr9 td19"><SPAN class="p11 ft6"><A href="#page_15">15</A></SPAN> </TD>
+</TR>
+</TABLE>
+<P class="p17 ft6"><SPAN class="ft1">8.3</SPAN><A href="#page_15"><SPAN class="ft9">Förslaget till lag om ändring i lagen (1990:314) om</SPAN></A></P>
+<TABLE cellpadding=0 cellspacing=0 class="t6">
+<TR>
+	<TD class="tr12 td20"><SPAN class="p2 ft1"><A href="#page_15">ömsesidig handräckning i skatteärenden ..........................</A></SPAN> </TD>
+	<TD class="tr12 td15"><SPAN class="p11 ft1"><A href="#page_15">15</A></SPAN> </TD>
+</TR>
+</TABLE>
+<P class="p17 ft6"><SPAN class="ft1">8.4</SPAN><A href="#page_15"><SPAN class="ft9">Förslaget till lag om upphävande av vissa av</SPAN></A></P>
+<TABLE cellpadding=0 cellspacing=0 class="t5">
+<TR>
+	<TD class="tr9 td21"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+	<TD class="tr9 td22"><SPAN class="p23 ft8"><A href="#page_15">Riksskatteverkets föreskrifter ...........................................</A></SPAN> </TD>
+	<TD class="tr9 td15"><SPAN class="p11 ft1"><A href="#page_15">15</A></SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr14 td21"><SPAN class="p2 ft6"><A href="#page_16">Bilaga 1</A></SPAN> </TD>
+	<TD class="tr14 td22"><SPAN class="p2 ft6"><A href="#page_16">Rådets direktiv av den 3 juni 2003 om beskattning av</A></SPAN> </TD>
+	<TD class="tr14 td15"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr9 td21"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+	<TD class="tr9 td22"><SPAN class="p2 ft6"><A href="#page_16">inkomster från sparande i form av räntebetalningar</A></SPAN> </TD>
+	<TD class="tr9 td15"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr9 td21"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+	<TD class="tr9 td22"><SPAN class="p2 ft8"><A href="#page_16">(2003/48/EG).........................................................................</A></SPAN> </TD>
+	<TD class="tr9 td15"><SPAN class="p11 ft1"><A href="#page_16">16</A></SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr11 td21"><SPAN class="p2 ft6"><A href="#page_34">Bilaga 2</A></SPAN> </TD>
+	<TD class="tr11 td22"><SPAN class="p2 ft1"><A href="#page_34">Lagrådsremissens lagförslag .................................................</A></SPAN> </TD>
+	<TD class="tr11 td15"><SPAN class="p11 ft1"><A href="#page_34">34</A></SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr11 td21"><SPAN class="p2 ft6"><A href="#page_36">Bilaga 3</A></SPAN> </TD>
+	<TD class="tr11 td22"><SPAN class="p2 ft8"><A href="#page_36">Lagrådets yttrande .................................................................</A></SPAN> </TD>
+	<TD class="tr11 td15"><SPAN class="p11 ft1"><A href="#page_36">36</A></SPAN> </TD>
+</TR>
+</TABLE>
+<P class="p24 ft6">Utdrag ur protokoll vid regeringssammanträde den 16 oktober 2003….38</P>
+<P class="p25 ft6">2</P>
+</DIV>
+<DIV id="page_3">
+
+
+<TABLE cellpadding=0 cellspacing=0 class="t7">
+<TR>
+	<TD class="tr11 td23"><SPAN class="p26 ft12">1</SPAN> </TD>
+	<TD class="tr11 td24"><SPAN class="p27 ft4">Förslag till riksdagsbeslut</SPAN> </TD>
+	<TD class="tr11 td25"><SPAN class="p2 ft1">Prop. 2003/04:24</SPAN> </TD>
+</TR>
+</TABLE>
+<P class="p28 ft6">Regeringen föreslår att riksdagen antar regeringens förslag till</P>
+<P class="p9 ft6"><SPAN class="ft1">1.</SPAN><SPAN class="ft13">lag om ändring i lagen (2001:1227) om självdeklarationer och kontrolluppgifter,</SPAN></P>
+<P class="p29 ft6"><SPAN class="ft1">2.</SPAN><SPAN class="ft14">lag om ändring i mervärdesskattelagen (1994:200),</SPAN></P>
+<P class="p9 ft6"><SPAN class="ft1">3.</SPAN><SPAN class="ft15">lag om ändring i lagen (1990:314) om ömsesidig handräckning i skatteärenden,</SPAN></P>
+<P class="p30 ft6"><SPAN class="ft1">4.</SPAN><SPAN class="ft14">lag om upphävande av vissa av Riksskatteverkets föreskrifter.</SPAN></P>
+<P class="p31 ft6">3</P>
+</DIV>
+<DIV id="page_4">
+<DIV id="dimg1">
+<INGENBILD zsrc="GR03244x1.jpg/" id="img1">
+</DIV>
+
+
+<P class="p32 ft6">Prop. 2003/04:24</P>
+<P class="p33 ft4">2 Lagtext</P>
+<P class="p28 ft6">Regeringen har följande förslag till lagtext.</P>
+<P class="p34 ft17"><SPAN class="ft6">2.1</SPAN><SPAN class="ft16">Förslag till lag om ändring i lagen (2001:1227) om självdeklarationer och kontrolluppgifter</SPAN></P>
+<P class="p35 ft6">Härigenom föreskrivs i fråga om lagen (2001:1227) om självdeklarationer och kontrolluppgifter</P>
+<P class="p36 ft6">dels att punkt 1 i ikraftträdande- och övergångsbestämmelserna skall ha följande lydelse,</P>
+<P class="p9 ft6">dels att det i lagen skall införas en ny paragraf, 12 kap. 3 a §, samt närmast före 12 kap. 3 a § en ny rubrik av följande lydelse.</P>
+<TABLE cellpadding=0 cellspacing=0 class="t8">
+<TR>
+	<TD class="tr9 td26"><SPAN class="p2 ft6">Nuvarande lydelse</SPAN> </TD>
+	<TD colspan=3 class="tr9 td27"><SPAN class="p37 ft6">Föreslagen lydelse</SPAN> </TD>
+	<TD class="tr9 td28"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr7 td26"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+	<TD class="tr7 td29"><SPAN class="p2 ft6">12 kap.</SPAN> </TD>
+	<TD class="tr7 td30"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+	<TD class="tr7 td31"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+	<TD class="tr7 td28"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr15 td26"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+	<TD colspan=4 class="tr15 td32"><SPAN class="p37 ft18">Rådets direktiv om beskattning av</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr16 td26"><SPAN class="p2 ft19">&nbsp;</SPAN> </TD>
+	<TD colspan=4 class="tr16 td32"><SPAN class="p37 ft20">inkomster från sparande i form av</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr16 td26"><SPAN class="p2 ft19">&nbsp;</SPAN> </TD>
+	<TD colspan=2 class="tr16 td33"><SPAN class="p37 ft20">räntebetalningar</SPAN> </TD>
+	<TD class="tr16 td31"><SPAN class="p2 ft19">&nbsp;</SPAN> </TD>
+	<TD class="tr16 td28"><SPAN class="p2 ft19">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr17 td26"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+	<TD class="tr17 td29"><SPAN class="p37 ft6">3 a §</SPAN> </TD>
+	<TD class="tr17 td30"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+	<TD class="tr17 td31"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+	<TD class="tr17 td28"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr12 td26"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+	<TD colspan=4 class="tr12 td32"><SPAN class="p11 ft6">Artiklarna <NOBR>2–15</NOBR> i rådets direktiv</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr9 td26"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+	<TD colspan=4 class="tr9 td32"><SPAN class="p37 ft1">2003/48/EG av den 3 juni 2003 om</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr9 td26"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+	<TD class="tr9 td29"><SPAN class="p37 ft10">beskattning</SPAN> </TD>
+	<TD class="tr9 td30"><SPAN class="p2 ft10">av</SPAN> </TD>
+	<TD class="tr9 td31"><SPAN class="p2 ft10">inkomster</SPAN> </TD>
+	<TD class="tr9 td28"><SPAN class="p11 ft8">från</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr9 td26"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+	<TD class="tr9 td29"><SPAN class="p37 ft6">sparande</SPAN> </TD>
+	<TD class="tr9 td30"><SPAN class="p38 ft6">i</SPAN> </TD>
+	<TD class="tr9 td31"><SPAN class="p39 ft6">form</SPAN> </TD>
+	<TD class="tr9 td28"><SPAN class="p11 ft6">av</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr9 td26"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+	<TD colspan=4 class="tr9 td32"><SPAN class="p37 ft6">räntebetalningar<SPAN class="ft21">1 </SPAN>skall gälla som</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr1 td26"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+	<TD class="tr1 td29"><SPAN class="p37 ft6">svensk lag.</SPAN> </TD>
+	<TD class="tr1 td30"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+	<TD class="tr1 td31"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+	<TD class="tr1 td28"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+</TR>
+</TABLE>
+<P class="p40 ft6">1. Denna lag träder i kraft den 1 januari 2002, då lagen (1990:325) om självdeklaration och kontrolluppgifter skall upphöra att gälla. Den nya lagen skall tillämpas första gången vid 2002 års taxering med följande undantag:</P>
+<P class="p9 ft6">a) 2 kap. 1 § och <NOBR>3–6</NOBR> §§, 7 § <NOBR>1–6,</NOBR> 8 §, 3 kap. 3 § samt 4 kap. 2 och 5 §§ tillämpas första gången vid 2003 års taxering, såvitt annat inte är föreskrivet i lagen (1999:265) om särskilt grundavdrag och deklarationsskyldighet för fysiska personer i vissa fall vid <NOBR>2000–2003</NOBR> års taxeringar,</P>
+<TABLE cellpadding=0 cellspacing=0 class="t9">
+<TR>
+	<TD class="tr12 td34"><SPAN class="p2 ft23"><SPAN class="ft22">1 </SPAN>EUT L 157, 26.6.2003, s. 38 (Celex 32003L0048).</SPAN> </TD>
+	<TD class="tr12 td35"><SPAN class="p11 ft6">4</SPAN> </TD>
+</TR>
+</TABLE>
+</DIV>
+<DIV id="page_5">
+<DIV id="dimg1">
+<INGENBILD zsrc="GR03245x1.jpg/" id="img1">
+</DIV>
+
+
+<DIV id="id_1">
+<P class="p41 ft6">b) 2 kap. 2 § tillämpas första gången vid 2003 års taxering, dock skall Prop. 2003/04:24 vid 2003 års taxering procentsatsen vara 29,3 vid tillämpning av 2 kap.</P>
+<P class="p42 ft6">2 § 1,</P>
+<P class="p43 ft6"><SPAN class="ft8">c)</SPAN><SPAN class="ft14">2 kap. 7 § 7 tillämpas första gången vid 2003 års taxering på beskattningsår som börjat den 1 januari 2002 eller senare,</SPAN></P>
+<P class="p43 ft6"><SPAN class="ft8">d)</SPAN><SPAN class="ft24">6 kap. 10 § tillämpas första gången vid 2003 års taxering såvitt avser hänvisningen till 61 kap. 19 a och 19 b §§ inkomstskattelagen (1999:1229),</SPAN></P>
+<P class="p44 ft6"><SPAN class="ft1">e)</SPAN><SPAN class="ft25">andra bestämmelser om kontrolluppgiftsskyldighet än de i 10 kap. </SPAN><NOBR>1–6</NOBR> §§ tillämpas första gången vid 2003 års taxering såvitt de innebär en utvidgning av denna skyldighet jämfört med motsvarande äldre bestämmelser,</P>
+<P class="p44 ft6"><SPAN class="ft6">f)</SPAN><SPAN class="ft15">12 kap. 1 § tillämpas första gången vid 2004 års taxering såvitt gäller skyldighet att lämna kontrolluppgift för andra juridiska personer än dödsbon, och</SPAN></P>
+</DIV>
+<DIV id="id_2">
+<DIV id="id_2_1">
+<P class="p45 ft7">g) 12 kap. 2 och 3 §§ tillämpas första gången vid 2005 års taxering såvitt gäller skyldighet att ange mottagarens utländska skatteregistreringsnummer eller motsvarande.</P>
+</DIV>
+<DIV id="id_2_2">
+<P class="p45 ft6">g) 12 kap. 2 och 3 §§ tillämpas första gången vid 2006 års taxering såvitt gäller skyldighet att ange mottagarens utländska skatteregistreringsnummer eller motsvarande.</P>
+</DIV>
+</DIV>
+<DIV id="id_3">
+<P class="p46 ft6">Denna lag träder i kraft den 1 januari 2004 i fråga om punkt 1 i ikraftträdande- och övergångsbestämmelserna och i övrigt den dag regeringen bestämmer.</P>
+<P class="p47 ft6">5</P>
+</DIV>
+</DIV>
+<DIV id="page_6">
+
+
+<DIV>
+<DIV id="id_1">
+<P class="p48 ft17"><SPAN class="ft6">2.2</SPAN><SPAN class="ft16">Förslag till lag om ändring i mervärdesskattelagen (1994:200)</SPAN></P>
+<P class="p49 ft6">Härigenom föreskrivs att 12 kap. 4 § mervärdesskattelagen (1994:200)<A href="#page_6"><SPAN class="ft21">2 </SPAN></A>skall upphöra att gälla vid utgången av år 2003.</P>
+<P class="p50 ft23"><SPAN class="ft22">2 </SPAN>Senaste lydelse 1994:1798.</P>
+</DIV>
+<DIV id="id_2">
+<P class="p42 ft6">Prop. 2003/04:24</P>
+<P class="p51 ft6">6</P>
+</DIV>
+</DIV>
+</DIV>
+<DIV id="page_7">
+<DIV id="dimg1">
+<INGENBILD zsrc="GR03247x1.jpg/" id="img1">
+</DIV>
+
+
+<DIV class="dclr"></DIV>
+<DIV>
+<DIV id="id_1">
+<DIV id="id_1_1">
+<P class="p52 ft17"><SPAN class="ft6">2.3</SPAN><SPAN class="ft16">Förslag till lag om ändring i lagen (1990:314) om ömsesidig handräckning i skatteärenden</SPAN></P>
+<P class="p53 ft6">Härigenom föreskrivs att 21 § lagen (1990:314) om ömsesidig handräckning i skatteärenden skall ha följande lydelse.</P>
+<TABLE cellpadding=0 cellspacing=0 class="t10">
+<TR>
+	<TD class="tr9 td36"><SPAN class="p2 ft6">Nuvarande lydelse</SPAN> </TD>
+	<TD class="tr9 td37"><SPAN class="p2 ft1">Föreslagen lydelse</SPAN> </TD>
+</TR>
+</TABLE>
+<P class="p54 ft6">21 §<A href="#page_7"><SPAN class="ft21">3</SPAN></A></P>
+</DIV>
+<DIV id="id_1_2">
+<DIV id="id_1_2_1">
+<P class="p45 ft26">Myndighet inom Europeiska gemenskapen skall lämnas biträde med sådan handräckning i skatteärende som avses i 3 § första stycket 1. Därvid skall bestämmelserna i tillämpliga delar i 3 § andra stycket 2, 4 § andra stycket, <NOBR>5–9,</NOBR> <NOBR>14–17,</NOBR> 22, 23 och 24 §§ tillämpas. Bestämmelserna i denna paragraf skall tillämpas på inkomstskatt, förmögenhetsskatt och mervärdesskatt samt punktskatter på mineraloljor, bearbetade tobaksvaror, alkohol och alkoholhaltiga drycker.</P>
+</DIV>
+<DIV id="id_1_2_2">
+<P class="p45 ft26">Myndighet inom Europeiska gemenskapen skall lämnas biträde med sådan handräckning i skatteärende som avses i 3 § första stycket 1. Därvid skall bestämmelserna i tillämpliga delar i 3 § andra stycket 2, 4 § andra stycket, <NOBR>5–9,</NOBR> <NOBR>14–17,</NOBR> 22, 23 och 24 §§ tillämpas. Bestämmelserna i denna paragraf skall tillämpas på inkomstskatt, förmögenhetsskatt och skatt på försäkringspremier samt punktskatter på mineraloljor, bearbetade tobaksvaror, alkohol och alkoholhaltiga drycker.</P>
+<P class="p55 ft26">I fråga om mervärdesskatt finns i rådets förordning (EG) nr 1798/2003 av den 7 oktober 2003 om administrativt samarbete i fråga om mervärdesskatt<A href="#page_7"><SPAN class="ft27">4 </SPAN></A>bestämmelser om sådan handräckning i skatteärende som avses i 3 § första stycket 1 och 3.</P>
+</DIV>
+</DIV>
+<DIV id="id_1_3">
+<P class="p56 ft6">Denna lag träder i kraft den 1 januari 2004.</P>
+<P class="p57 ft23"><SPAN class="ft28">3</SPAN><SPAN class="ft29">Senaste lydelse 1994:1654.</SPAN></P>
+<P class="p58 ft23"><SPAN class="ft28">4</SPAN><SPAN class="ft29">EUT L 264, 15.10.2003, s. 1 (Celex 32003R1798).</SPAN></P>
+</DIV>
+</DIV>
+<DIV id="id_2">
+<P class="p42 ft6">Prop. 2003/04:24</P>
+<P class="p51 ft6">7</P>
+</DIV>
+</DIV>
+</DIV>
+<DIV id="page_8">
+
+
+<P class="p59 ft6">Prop. 2003/04:24</P>
+<P class="p60 ft17"><SPAN class="ft6">2.4</SPAN><SPAN class="ft16">Förslag till lag om upphävande av vissa av Riksskatteverkets föreskrifter</SPAN></P>
+<P class="p61 ft6">Härigenom föreskrivs att följande föreskrifter från Riksskatteverket skall upphöra att gälla vid utgången av år 2003:</P>
+<P class="p9 ft6"><SPAN class="ft1">1.</SPAN><SPAN class="ft30">Riksskatteverkets föreskrifter (RSFS 1986:10) om utsökningsregistrets innehåll enligt utsökningsregisterlagen (1986:617), och</SPAN></P>
+<P class="p36 ft6"><SPAN class="ft1">2.</SPAN><SPAN class="ft31">Riksskatteverkets föreskrifter (RSFS 1996:34) om det centrala utsökningsregistrets innehåll enligt 6 § 1 utsökningsregisterlagen (1986:617).</SPAN></P>
+<P class="p62 ft6">8</P>
+</DIV>
+<DIV id="page_9">
+
+
+<P class="p59 ft6">Prop. 2003/04:24</P>
+<P class="p33 ft4">3 Ärendet och dess beredning</P>
+<P class="p63 ft6">Regeringen lägger fram förslag till en lagändring som behövs för att genomföra rådets direktiv 2003/48/EG av den 3 juni 2003 om beskattning av inkomster från sparande i form av räntebetalningar. Förslaget har beretts underhand med Riksskatteverket, Svenska Bankföreningen, Fondbolagens Förening och Svenska Fondhandlareföreningen.</P>
+<P class="p36 ft6">Regeringen lägger också fram förslag till de lagändringar som behövs med anledning av att rådet antagit en förordning om administrativt samarbete i fråga om mervärdesskatt. Förslaget har beretts underhand med Riksskatteverket.</P>
+<P class="p9 ft6">Riksskatteverket har vid en genomgång av verkets föreskrifter funnit att det finns ett par föreskrifter som är obsoleta och bör upphävas. I propositionen behandlas en hemställan från Riksskatteverket om att dessa föreskrifter skall upphävas.</P>
+<P class="p64 ft8">Lagrådet</P>
+<P class="p65 ft6">Regeringen beslutade den 9 oktober 2003 att inhämta Lagrådets yttrande över det lagförslag som finns i bilaga 2.</P>
+<P class="p66 ft26">Lagrådets yttrande finns i bilaga 3. Lagrådet har inte ansett sig kunna tillstyrka lagförslaget. Lagrådet förordar att det för svensk lagstiftning sedvanliga beredningsarbetet får ha sin gång innan direktivet införlivas. Om regeringen väljer att gå fram med den föreslagna lagändringen har Lagrådet påpekat att inte enbart betalningsombud och den behöriga myndigheten torde beröras. Lagrådet har därför ansett att det är säkrare att säga att direktivets aktuella bestämmelser skall gälla som svensk lag utan att ange för vilka detta skall gälla. Till skillnad från i lagrådsremissen anges därför i den föreslagna bestämmelsen i lagen (2001:1227) om självdeklarationer och kontrolluppgifter att artikel <NOBR>2–15</NOBR> i direktivet skall gälla som svensk lag utan att närmare ange vem som berörs.</P>
+<P class="p67 ft6">Lagrådets synpunkter behandlas vidare i avsnitt 4.</P>
+<P class="p66 ft26">Förslagen till ändringar i mervärdesskattelagen (1994:200) och lagen (1990:314) om ömsesidig handräckning i skatteärenden samt lagen om upphävande av vissa av Riksskatteverkets föreskrifter har inte remitterats till Lagrådet. Eftersom det endast är fråga om att upphäva en paragraf i mervärdesskattelagen samt att i lagen om ömsesidig handräckning i skatteärenden i huvudsak införa en hänvisning till en förordning om administrativt samarbete i fråga om mervärdesskatt anser regeringen att dessa ändringar är av sådan lagtekniskt enkel beskaffenhet att Lagrådets yttrande därför skulle sakna betydelse. Även upphävandet av vissa av Riksskatteverkets föreskrifter får anses vara av enkel beskaffenhet.</P>
+<P class="p68 ft6">9</P>
+</DIV>
+<DIV id="page_10">
+<DIV id="dimg1">
+<INGENBILD zsrc="GR032410x1.jpg/" id="img1">
+</DIV>
+
+
+<P class="p69 ft4">4 Genomförande av rådets direktiv om <SPAN class="ft32">Prop. 2003/04:24 </SPAN>beskattning av inkomster från sparande i</P>
+<P class="p70 ft4">form av räntebetalningar</P>
+<P class="p71 ft6">Regeringens förslag: Rådets direktiv 2003/48/EG av den 3 juni 2003 om beskattning av inkomster från sparande i form av räntebetalningar genomförs genom att det i lagen (2001:1227) om självdeklarationer och kontrolluppgifter tas in en bestämmelse om att vissa av direktivets artiklar skall gälla som svensk lag.</P>
+<P class="p72 ft7">Bestämmelserna i lagen om självdeklarationer och kontrolluppgifter om att kontrolluppgifter för begränsat skattskyldiga i vissa fall skall innehålla uppgift om utländska skatteregistreringsnummer eller motsvarande, skall tillämpas första gången vid 2006 års taxering.</P>
+<P class="p73 ft6">Bakgrund: Genom Ekofinrådets beslut om skattepolitik den 1 december 1997 fick kommissionen i uppdrag att bl.a. lämna ett förslag till direktiv om beskattning av inkomster från sparande. Som grund för beslutet fanns uppfattningen att det var nödvändigt med samordnade åtgärder på europeisk nivå för att bekämpa skadlig skattekonkurrens i avsikt att förverkliga vissa mål, som att minska snedvridningar som fortfarande förekommer på den inre marknaden, att förhindra betydande skattebortfall samt att ge skattestrukturerna en mer sysselsättningsvänlig inriktning.</P>
+<P class="p8 ft7">Den 20 maj 1998 presenterade kommissionen ett förslag till direktiv för att säkerställa en effektiv minimibeskattning av inkomster från sparande i gemenskapen. Förslaget innebar att varje medlemsstat kunde välja mellan att ta ut en källskatt på räntebetalningar till enskilda personer med hemvist i andra medlemsstater eller att lämna uppgifter till den medlemsstat där den faktiska betalningsmottagaren har sitt hemvist. Vid Europeiska rådets möte den <NOBR>19–20</NOBR> juni 2000 kom dock medlemsstaterna överens om att utbyte av information på så bred grund som möjligt skulle vara EU:s yttersta mål i linje med den internationella utvecklingen. Endast ett begränsat antal medlemsstater skulle därför få uppbära källskatt under en övergångsperiod. Vidare kom rådet överens om att ordförandeskapet och kommissionen, så snart rådet hade nått en överenskommelse om huvudinnehållet i direktivet, skulle inleda diskussioner med de i sammanhanget viktigaste tredje länderna (USA, Schweiz, Liechtenstein, San Marino, Monaco och Andorra) för att verka för att motsvarande åtgärder vidtas i dessa länder. Samtidigt förband sig de berörda medlemsstaterna att verka för att samma åtgärder vidtas i alla berörda beroende eller associerade territorier (Kanalöarna, Isle of Man och de beroende eller associerade territorierna i Västindien).</P>
+<P class="p74 ft7">Vid sitt möte den <NOBR>26–27</NOBR> november 2000 godkände Ekofinrådet huvudinnehållet i direktivet om beskattning av inkomster från sparande samt villkoren för genomförande av direktivet. På grundval av den överenskommelsen lade kommissionen den 18 juli 2001 fram ett nytt förslag till direktiv och den 13 december 2001 godkände Ekofinrådet en text till direktiv att användas vid förhandlingarna med tredje land. Den 3 juni 2003 antog Ekofinrådet slutligt ett direktiv om beskattning av</P>
+<P class="p75 ft6">10</P>
+</DIV>
+<DIV id="page_11">
+
+
+<DIV>
+<DIV id="id_1">
+<P class="p76 ft6">inkomster från sparande i form av räntebetalningar. Förhandlingarna med tredje land är för närvarande inte avslutade.</P>
+<P class="p77 ft6">Skälen för regeringens förslag: Direktivet innebär ett automatiskt utbyte av information mellan medlemsstaterna om räntebetalningar som möjliggör faktisk beskattning av dessa räntebetalningar i den medlemsstat där den faktiska betalningsmottagaren har sitt skatterättsliga hemvist i enlighet med de nationella lagarna i den staten. Under en övergångsperiod skall Österrike, Belgien och Luxemburg inte tillämpa det automatiska utbytet av information utan i stället ta ut en källskatt på de inkomster av sparande som omfattas av direktivet. De tre medlemsstaterna skall överföra större delen av sina intäkter från källskatt till den medlemsstat där den faktiska betalningsmottagaren har sitt hemvist.</P>
+<P class="p78 ft7">Direktivet skall vara genomfört i medlemsstaterna senast den 1 januari 2004. Medlemsstaterna skall tillämpa direktivets bestämmelser från och med den 1 januari 2005 under förutsättning att Schweiz, Liechtenstein, San Marino, Monaco och Andorra från och med samma tidpunkt tillämpar åtgärder likvärdiga med dem som finns i direktivet i enlighet med de avtal som de ingått med Europeiska gemenskapen. Vidare skall alla avtal eller andra arrangemang vara klara, i vilka det föreskrivs att alla berörda beroende eller associerade territorier (Kanalöarna, Isle of Man och de beroende eller associerade territorierna i Västindien) från och med samma tidpunkt tillämpar automatiskt utbyte av information på samma sätt som föreskrivs i direktivet eller under den i direktivet angivna övergångsperioden tillämpar en källskatt. Senast sex månader före den 1 januari 2005 skall rådet besluta om villkoren för tillämpning från det angivna datumet är uppfyllda. Om rådet inte beslutar att villkoren har uppfyllts skall rådet fastställa en ny tidpunkt från vilken direktivet skall tillämpas.</P>
+<P class="p78 ft7">Regeringen föreslår att direktivet genomförs genom att det i lagen (2001:1227) om självdeklarationer och kontrolluppgifter tas in en bestämmelse om att vissa av direktivets artiklar skall gälla som svensk lag. Denna metod för att genomföra direktiv kan i och för sig diskuteras. Regeringen håller med Lagrådet om att ett sedvanligt beredningsarbete och införlivande genom transformering är en bättre metod. Den korta tiden från rådets beslut om direktivet till dess att detta skall vara genomfört i medlemsstaterna gör det dock omöjligt att använda någon annan metod än den av regeringen föreslagna för att genomföra direktivet. I detta sammanhang kan vidare noteras att bestämmelserna i direktivet skall tillämpas först från och med den 1 januari 2005 eller eventuellt en senare tidpunkt. Regeringen avser att göra en noggrann analys av hur direktivets bestämmelser bättre kan införlivas i svensk lagstiftning och därefter återkomma till riksdagen med förslag till de lagändringar som behövs.</P>
+<P class="p79 ft7">I 12 kap. 2 § andra stycket och 3 § andra stycket lagen om självdeklarationer och kontrolluppgifter anges att i kontrolluppgifter för begränsat skattskyldiga skall uppgift lämnas om mottagarens utländska skatteregistreringsnummer eller motsvarande. De kontrolluppgifter som avses är sådana om utbetald ersättning m.m. som utgör inkomst i inkomstslaget tjänst, om utbetald eller tillgodoräknad ränta och om s.k. royaltyer. Nyss angivna bestämmelser skall tillämpas första gången vid</P>
+</DIV>
+<DIV id="id_2">
+<P class="p80 ft6">Prop. 2003/04:24</P>
+<P class="p81 ft6">11</P>
+</DIV>
+</DIV>
+</DIV>
+<DIV id="page_12">
+<DIV id="dimg1">
+<INGENBILD zsrc="GR032412x1.jpg/" id="img1">
+</DIV>
+
+
+<P class="p82 ft6">2005 års taxering. I samband med att bestämmelserna infördes uttalade Prop. 2003/04:24 regeringen att den noga skulle följa utvecklingen inom EU och OECD</P>
+<P class="p83 ft7">och att om det skulle visa sig att andra länder dröjde med att införa motsvarande uppgiftsskyldighet, regeringen skulle komma att föreslå att tillämpningen skjuts upp (prop. 2001/02:25 s. 128). Det nu antagna direktivet innehåller bestämmelser om kontrolluppgifter för utbetald eller tillgodoräknad ränta. Med hänsyn till att direktivets bestämmelser skall tillämpas tidigast från och med den 1 januari 2005, dvs. vid 2006 års taxering, finns det anledning att senarelägga tillämpningen första gången av bestämmelsen i lagen om självdeklarationer och kontrolluppgifter till samma taxeringsår. Inte heller i de andra fallen har det ännu införts någon motsvarande uppgiftsskyldighet i andra länder. Det finns därför också i dessa delar skäl att nu senarelägga tillämpningen av aktuella bestämmelser till 2006 års taxering. Det som nu sagts föranleder ändring i ikraftträdande- och övergångsbestämmelserna till lagen om självdeklarationer och kontrolluppgifter. Denna ändring träder i kraft den 1 januari 2004.</P>
+<P class="p84 ft34"><SPAN class="ft12">5</SPAN><SPAN class="ft33">Rådets förordning om administrativt samarbete i fråga om mervärdesskatt, m.m.</SPAN></P>
+<P class="p85 ft6">Regeringens förslag: Med anledning av rådet antagit en förordning om administrativt samarbete i fråga om mervärdesskatt upphävs en bestämmelse i mervärdesskattelagen (1994:200) samt införs en hänvisning till förordningen i lagen (1990:314) om ömsesidig handräckning i skatteärenden.</P>
+<P class="p86 ft7">Skälen för regeringens förslag: Rådet har den 7 oktober 2003 antagit en förordning om administrativt samarbete i fråga om mervärdesskatt (rådets förordning (EG) nr 1798/2003 av den 7 oktober 2003 om administrativt samarbete i fråga om mervärdesskatt<A href="#page_12"><SPAN class="ft35">5</SPAN></A>). Förordningen, som träder i kraft den 1 januari 2004, innehåller bestämmelser om olika typer av informationsutbyte, bl.a. sådant automatiserat utbyte som äger rum med hjälp av det s.k. <NOBR>VIES-systemet,</NOBR> närvaro av tjänsteman i en annan medlemsstat, samtidiga kontroller och delgivning av beslut och handlingar i ärenden om mervärdesskatt. Förordningen ersätter såvitt gäller mervärdesskatt dels bestämmelserna i rådets förordning (EEG) nr 218/92 av den 27 januari 1992 om administrativt samarbete inom området för indirekt beskattning (mervärdesskatt)<A href="#page_12"><SPAN class="ft35">6</SPAN></A>, som samtidigt upphävts, dels bestämmelserna i rådets direktiv 77/799/EEG av den 19 december 1977 om ömsesidigt bistånd av medlemsstaternas behöriga myndigheter på området direkt och indirekt beskattning, det s.k. handräckningsdirektivet. Genom en samma dag antagen ändring i direktivet tas mervärdesskatt bort från dettas tillämpningsområde. Samtidigt utvidgas direktivets tillämpningsområde till att omfatta även</P>
+<TABLE cellpadding=0 cellspacing=0 class="t11">
+<TR>
+	<TD class="tr18 td38"><SPAN class="p87 ft28">5</SPAN> </TD>
+	<TD class="tr18 td39"><SPAN class="p0 ft23">EUT L 264, 15.10.2003, s. 1 (Celex 32003R1798).</SPAN> </TD>
+	<TD class="tr18 td40"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr9 td38"><SPAN class="p87 ft28">6</SPAN> </TD>
+	<TD class="tr9 td39"><SPAN class="p0 ft23">EGT L 24, 1.2.1992, s.1 (Celex 31992R0218).</SPAN> </TD>
+	<TD class="tr9 td40"><SPAN class="p11 ft6">12</SPAN> </TD>
+</TR>
+</TABLE>
+</DIV>
+<DIV id="page_13">
+
+
+<P class="p88 ft6">skatt på försäkringspremier<A href="#page_13"><SPAN class="ft21">7</SPAN></A><A href="#page_13">. </A>Med anledning av det sistnämnda har också Prop. 2003/04:24 direktivets titel ändrats. Vidare har en ändring gjorts i artikel 7.1 av</P>
+<P class="p89 ft6">innebörden att information som en medlemsstat har fått kännedom enligt direktivet får användas för fastställande av andra avgifter, tullar och skatter som omfattas av artikel 2 i direktiv 76/308/EEG (indrivningsdirektivet).</P>
+<P class="p90 ft7">I förordningen anges att behörig myndighet för Sveriges del är chefen för Finansdepartementet. Förordningen ger möjlighet att delegera samarbetet helt eller delvis till såväl en förvaltningsmyndighet på central nivå som regionala myndigheter eller enskilda tjänstemän. Förordningen innehåller också ett krav på att det skall inrättas en central kontaktpunkt, som bl.a. kan tillhandahålla myndigheter i de andra medlemsstaterna upplysningar om hur delegationsmöjligheterna har utnyttjats och svarar för anslutningen till det gemensamma kommunikationsnät med vars hjälp det automatiserade informationsutbytet äger rum.</P>
+<P class="p91 ft7">Den flexibla ordning som rådets förordning sålunda tillhandahåller innebär att det finns ett antal frågor om olika myndigheters roll i samarbetet m.m. som måste regleras på det nationella planet. Den regleringen bör ske i en förordning. Under förutsättning att riksdagen beslutar i enlighet med regeringens förslag i prop. 2002/03:99 kommer det fr.o.m. den 1 januari 2004 bara att finnas en rikstäckande myndighet på skatteområdet, Skatteverket. Samarbetet enligt rådets förordning omfattar dock även Tullverkets ansvarsområde. Det krävs därför en reglering av vad som ankommer på Skatteverket respektive Tullverket. Det kan också bli aktuellt att i förordningsform närmare reglera vissa andra frågor som rör handläggningen av ärenden om administrativt samarbete enligt förordningen.</P>
+<P class="p92 ft26">Ett syfte med rådets nya förordning är att skapa ett enda, sammanhållet regelverk på gemenskapsnivå för det administrativa samarbetet på mervärdesskattens område. På motsvarande sätt bör den kompletterande reglering som krävs på det nationella planet lämpligen hållas samlad. Av det skälet bör bestämmelsen i 12 kap 4 § mervärdesskattelagen (1994:200) upphävas. Där föreskrivs att Riksskatteverket skall utgöra samordningsmyndighet för informationsutbytet i det särskilda datasystem som tillskapats för kommunikation mellan <NOBR>EG-länderna.</NOBR> Denna reglering bör i stället tas in i samma förordning som övriga bestämmelser om olika myndigheters roll i det administrativa samarbetet.</P>
+<P class="p93 ft6">Vidare krävs det ändringar i 21 § lagen (1990:314) om ömsesidig handräckning i skatteärenden med anledning av att mervärdesskatt inte längre skall omfattas av handräckningsdirektivets tillämpningsområde och med anledning av att detta direktiv i fortsättningen skall omfatta även skatt på försäkringspremier.</P>
+<TABLE cellpadding=0 cellspacing=0 class="t12">
+<TR>
+	<TD class="tr12 td41"><SPAN class="p2 ft23"><SPAN class="ft22">7 </SPAN>EUT L 264, 15.10.2003, s. 23 (Celex 32003L0093).</SPAN> </TD>
+	<TD class="tr12 td42"><SPAN class="p11 ft6">13</SPAN> </TD>
+</TR>
+</TABLE>
+</DIV>
+<DIV id="page_14">
+
+
+<TABLE cellpadding=0 cellspacing=0 class="t13">
+<TR>
+	<TD class="tr10 td43"><SPAN class="p94 ft4">6</SPAN> </TD>
+	<TD class="tr10 td44"><SPAN class="p2 ft4">Riksskatteverkets föreskrifter</SPAN> </TD>
+	<TD class="tr10 td29"><SPAN class="p95 ft1">Prop. 2003/04:24</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=2 class="tr18 td45"><SPAN class="p2 ft36">&nbsp;</SPAN> </TD>
+	<TD class="tr2 td29"><SPAN class="p2 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=2 class="tr9 td46"><SPAN class="p95 ft6">Regeringens förslag: Vissa av Riksskatteverkets föreskrifter skall</SPAN> </TD>
+	<TD class="tr9 td29"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr9 td47"><SPAN class="p95 ft6">upphävas.</SPAN> </TD>
+	<TD class="tr9 td48"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+	<TD class="tr9 td29"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr19 td49"><SPAN class="p2 ft37">&nbsp;</SPAN> </TD>
+	<TD class="tr19 td50"><SPAN class="p2 ft37">&nbsp;</SPAN> </TD>
+	<TD class="tr20 td29"><SPAN class="p2 ft38">&nbsp;</SPAN> </TD>
+</TR>
+</TABLE>
+<P class="p96 ft6">Skälen för regeringens förslag: Riksskatteverket har i en skrivelse till regeringen uppgivit att det vid en genomgång av myndighetens regelverk uppmärksammats att vissa av verkets föreskrifter är obsoleta och därför bör upphävas. Föreskrifterna har sin grund i bemyndiganden i utsökningsregisterförordningen (1986:678) och utsökningsregisterlagen (1986:617), vilka är upphävda.</P>
+<P class="p36 ft6">Eftersom föreskrifterna grundar sig på bemyndiganden som är upphävda bör upphävandet ske i lagform.</P>
+<P class="p97 ft4"><SPAN class="ft12">7</SPAN><SPAN class="ft39">Effekter för de offentliga finanserna och för mindre företag</SPAN></P>
+<P class="p63 ft6">Förslagen bedöms inte få några ekonomiska konsekvenser för det allmänna. Det eventuella merarbete som ändringarna kan komma att föranleda skall finansieras inom ramen för befintliga medel.</P>
+<P class="p9 ft6">Små eller mindre företag torde endast undantagsvis påverkas av ändringen i lagen (2001:1227) om självdeklarationer och kontrolluppgifter eftersom dessa företag berörs av aktuellt direktiv om de lånar pengar av fysiska personer som har skatterättsligt hemvist utomlands.</P>
+<P class="p98 ft4">8 Författningskommentarer</P>
+<P class="p99 ft17"><SPAN class="ft6">8.1</SPAN><SPAN class="ft16">Förslaget till lag om ändring i lagen (2001:1227) om självdeklarationer och kontrolluppgifter</SPAN></P>
+<P class="p24 ft6">12 kap.</P>
+<P class="p100 ft6">3 a §</P>
+<P class="p101 ft6">Paragrafen har utformats i enlighet med Lagrådets förslag.</P>
+<P class="p102 ft6">Ikraftträdandebestämmelser</P>
+<P class="p103 ft26">12 kap. 3 a § föreslås träda i kraft den dag regeringen bestämmer. Direktivets bestämmelser, enligt vad som anges i artikel 17, skall tillämpas från och med den 1 januari 2005 under förutsättning att avtal är ingångna med Schweiz, Liechtenstein, San Marino, Monaco och Andorra samt Kanalöarna, Isle of Man och de beroende eller associerade territorierna i Västindien. Dessa avtal är för närvarande inte färdigförhandlade. Det råder därför osäkerhet om från vilken tidpunkt</P>
+<P class="p104 ft6">14</P>
+</DIV>
+<DIV id="page_15">
+
+
+<P class="p105 ft6">direktivets bestämmelser kommer att tillämpas. Regeringen bör av den Prop. 2003/04:24 anledningen medges möjlighet att bestämma från vilken tidpunkt lagen</P>
+<P class="p101 ft6">skall träda i kraft.</P>
+<P class="p106 ft6">Vad gäller ändringen i punkt 1 i ikraftträdande- och övergångsbestämmelserna hänvisas till vad som anförts i avsnitt 4.</P>
+<P class="p107 ft17"><SPAN class="ft6">8.2</SPAN><SPAN class="ft16">Förslaget till lag om ändring i mervärdesskattelagen (1994:200)</SPAN></P>
+<P class="p108 ft6">12 kap. 4 § upphävs med anledning av att motsvarande bestämmelse i stället införs i en förordning med bestämmelser som kompletterar rådets förordning om administrativt samarbete i fråga om mervärdesskatt (jfr avsnitt 5).</P>
+<P class="p109 ft17"><SPAN class="ft6">8.3</SPAN><SPAN class="ft16">Förslaget till lag om ändring i lagen (1990:314) om ömsesidig handräckning i skatteärenden</SPAN></P>
+<P class="p108 ft6">21 § ändras på det sättet att mervärdesskatt inte längre skall ingå i uppräkningen av skatter som omfattas av bestämmelsen. I stället förs skatt på försäkringspremier in i uppräkningen.</P>
+<P class="p110 ft8">Vidare förs det i paragrafen in ett nytt andra stycke som innehåller en upplysning om att bestämmelser om administrativt samarbete i form av informationsutbyte och bistånd med delgivning finns i rådets förordning om administrativt samarbete i fråga om mervärdesskatt (jfr avsnitt 5).</P>
+<P class="p111 ft17"><SPAN class="ft6">8.4</SPAN><SPAN class="ft16">Förslaget till lag om upphävande av vissa av Riksskatteverkets föreskrifter</SPAN></P>
+<P class="p112 ft6">I lagen anges att två föreskrifter meddelade av Riksskatteverket skall upphävas.</P>
+<P class="p113 ft6">15</P>
+</DIV>
+<DIV id="page_16">
+
+
+<DIV id="id_1">
+<DIV id="id_1_1">
+<P class="p42 ft4">Rådets direktiv av den 3 juni 2003 om beskattning av inkomster från sparande i form av räntebetalningar (2003/48/EG)</P>
+</DIV>
+<DIV id="id_1_2">
+<P class="p42 ft6">Prop. 2003/04:24</P>
+<P class="p42 ft6">Bilaga 1</P>
+</DIV>
+</DIV>
+<DIV id="id_2">
+<P class="p42 ft6">EUROPEISKA UNIONENS RÅD HAR ANTAGIT DETTA</P>
+<P class="p42 ft6">DIREKTIV</P>
+<P class="p114 ft10">med beaktande av Fördraget om upprättandet av Europeiska gemenskapen, särskilt artikel 94 i detta,</P>
+<P class="p115 ft6">med beaktande av kommissionens förslag<A href="#page_16"><SPAN class="ft21">8</SPAN></A><A href="#page_16">,</A></P>
+<P class="p56 ft6">med beaktande av Europaparlamentets yttrande<A href="#page_16"><SPAN class="ft21">9</SPAN></A><A href="#page_16">,</A></P>
+<P class="p116 ft6">med beaktande av Europeiska ekonomiska och sociala kommitténs yttrande<A href="#page_16"><SPAN class="ft21">10</SPAN></A><A href="#page_16">, </A>och</P>
+<P class="p117 ft6">av följande skäl:</P>
+<P class="p43 ft6"><SPAN class="ft8">(1)</SPAN><SPAN class="ft15">I artiklarna </SPAN><NOBR>56–60</NOBR> i fördraget garanteras den fria rörligheten för kapital.</P>
+<P class="p43 ft6"><SPAN class="ft8">(2)</SPAN><SPAN class="ft24">Inkomster från sparande i form av räntebetalningar på fordringar utgör skattepliktig inkomst i samtliga medlemsstater för personer med hemvist i dessa.</SPAN></P>
+<P class="p44 ft6"><SPAN class="ft8">(3)</SPAN><SPAN class="ft25">Medlemsstaterna har enligt artikel 58.1 i fördraget rätt att tillämpa sådana bestämmelser i sin skattelagstiftning som skiljer mellan skattebetalare som har olika bostadsort eller som har investerat sitt kapital på olika ort och att vidta alla nödvändiga åtgärder för att förhindra överträdelser av nationella lagar och andra författningar, särskilt i fråga om beskattning.</SPAN></P>
+<P class="p44 ft6"><SPAN class="ft8">(4)</SPAN><SPAN class="ft40">Enligt artikel 58.3 i fördraget får de bestämmelser i medlemsstaternas skattelagstiftning vars syfte är att bekämpa missbruk eller bedrägeri inte utgöra ett medel för godtycklig diskriminering eller en förtäckt begränsning av den fria rörligheten för kapital och betalningar enligt artikel 56 i fördraget.</SPAN></P>
+<P class="p43 ft6"><SPAN class="ft8">(5)</SPAN><SPAN class="ft31">I avsaknad av en samordning av de nationella systemen för beskattning av inkomster från sparande i form av räntebetalningar, särskilt när det gäller behandlingen av räntor som uppbärs av medborgare som inte har hemvist i staten i fråga, är det för närvarande ofta möjligt för personer med hemvist i någon av medlemsstaterna att i hemviststaten undgå varje form av beskattning av räntor som de erhåller i en annan medlemsstat.</SPAN></P>
+<P class="p118 ft6"><SPAN class="ft8">(6)</SPAN><SPAN class="ft24">Denna situation medför snedvridningar i kapitalrörelserna mellan medlemsstaterna, och dessa effekter är oförenliga med den inre marknaden.</SPAN></P>
+<P class="p43 ft6"><SPAN class="ft8">(7)</SPAN><SPAN class="ft41">Detta direktiv bygger på det samförstånd som nåddes vid Europeiska rådets möte i Santa Maria da Feira den 19 och 20 juni 2000 och de därpå följande mötena i Ekofinrådet den 26 och 27 november 2000, 13 december 2001 och 21 januari 2003.</SPAN></P>
+<P class="p119 ft8"><SPAN class="ft8">(8)</SPAN><SPAN class="ft42">Det yttersta målet med detta direktiv är att göra det möjligt att faktiskt beskatta inkomster från sparande i form av räntebetalningar i en</SPAN></P>
+<P class="p120 ft23"><SPAN class="ft28">8</SPAN><SPAN class="ft29">EGT C 270 E, 25.9.2001, s. 259.</SPAN></P>
+<P class="p121 ft23"><SPAN class="ft28">9</SPAN><SPAN class="ft29">EUT C 47 E, 27.2.2003, S. 553.</SPAN></P>
+<TABLE cellpadding=0 cellspacing=0 class="t14">
+<TR>
+	<TD class="tr9 td51"><SPAN class="p2 ft23"><SPAN class="ft22">10 </SPAN>EGT C 48, 21.2.2002, s. 55.</SPAN> </TD>
+	<TD class="tr9 td52"><SPAN class="p11 ft6">16</SPAN> </TD>
+</TR>
+</TABLE>
+</DIV>
+</DIV>
+<DIV id="page_17">
+
+
+<TABLE cellpadding=0 cellspacing=0 class="t15">
+<TR>
+	<TD class="tr21 td53"><SPAN class="p2 ft6">medlemsstat till faktiska betalningsmottagare som är fysiska personer</SPAN> </TD>
+	<TD class="tr21 td25"><SPAN class="p2 ft1">Prop. 2003/04:24</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr13 td53"><SPAN class="p2 ft8">med hemvist i en annan medlemsstat, i enlighet med lagstiftningen i den</SPAN> </TD>
+	<TD class="tr13 td25"><SPAN class="p2 ft10">Bilaga 1</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr9 td53"><SPAN class="p2 ft6">sistnämnda staten.</SPAN> </TD>
+	<TD class="tr9 td25"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+</TR>
+</TABLE>
+<P class="p118 ft6"><SPAN class="ft8">(9)</SPAN><SPAN class="ft15">Målet med detta direktiv uppnås bäst genom att det inriktas på räntebetalningar som görs eller säkras av ekonomiska aktörer som är etablerade i medlemsstaterna till eller till förmån för faktiska betalningsmottagare som är fysiska personer med hemvist i en annan medlemsstat.</SPAN></P>
+<P class="p119 ft7"><SPAN class="ft1">(10)</SPAN><SPAN class="ft43">Eftersom målet för detta direktiv inte i tillräcklig utsträckning kan uppnås av medlemsstaterna på grund av att det inte förekommer någon samordning av de nationella systemen för beskattning av inkomster från sparande, och det därför bättre kan uppnås på gemenskapsnivå, kan gemenskapen vidta åtgärder i enlighet med subsidiaritetsprincipen i artikel 5 i fördraget. I enlighet med proportionalitetsprincipen i samma artikel begränsas detta direktiv till vad som krävs för att nå dessa mål och går inte utöver vad som är nödvändigt för detta.</SPAN></P>
+<P class="p44 ft6"><SPAN class="ft1">(11)</SPAN><SPAN class="ft15">Betalningsombudet är den ekonomiska aktör som betalar ränta eller sörjer för att ränta betalas direkt till förmån för den faktiska betalningsmottagaren.</SPAN></P>
+<P class="p119 ft8"><SPAN class="ft1">(12)</SPAN><SPAN class="ft44">Definitionen av uttrycken räntebetalning och betalningsombud bör, i tillämpliga fall, ske med hänvisning till rådets direktiv 85/611/EEG av den 20 december 1985 om samordning av lagar och andra</SPAN></P>
+<P class="p122 ft6">författningar som avser företag för kollektiva investeringar i överlåtbara värdepapper (fondföretag)<A href="#page_17"><SPAN class="ft21">11</SPAN></A><A href="#page_17">.</A></P>
+<P class="p44 ft6"><SPAN class="ft1">(13)</SPAN><SPAN class="ft45">Tillämpningsområdet för detta direktiv bör begränsas till beskattning av inkomster från sparande i form av räntebetalningar för fordringar, med undantag för bland annat de frågor som rör beskattning av pensions och försäkringsförmåner.</SPAN></P>
+<P class="p123 ft7"><SPAN class="ft1">(14)</SPAN><SPAN class="ft46">Det yttersta målet att möjliggöra faktisk beskattning av räntebetalningar i den medlemsstat där den faktiska betalningsmottagaren har sitt skatterättsliga hemvist kan uppnås genom utbyte av information om räntebetalningar mellan medlemsstaterna.</SPAN></P>
+<P class="p124 ft6"><SPAN class="ft1">(15)</SPAN><SPAN class="ft13">I rådets direktiv 77/799/EEG av den 19 december 1977 om</SPAN></P>
+<P class="p125 ft7">ömsesidigt bistånd av medlemsstaternas behöriga myndigheter på området direkt och indirekt beskattning<A href="#page_17"><SPAN class="ft35">12 </SPAN></A>finns redan nu stöd för medlemsstaterna att utbyta information när det gäller beskattning av den inkomst som omfattas av detta direktiv. Det direktivet bör fortsätta att tillämpas på sådant utbyte av information utöver det här direktivet i den mån som det här direktivet inte avviker från det förstnämnda direktivet.</P>
+<P class="p119 ft7"><SPAN class="ft1">(16)</SPAN><SPAN class="ft47">Det automatiska utbyte av information mellan medlemsstaterna om räntebetalningar som omfattas av detta direktiv möjliggör faktisk beskattning av dessa räntebetalningar i den medlemsstat där den faktiska betalningsmottagaren har sitt skatterättsliga hemvist i enlighet med de nationella lagarna i den staten. Därför är det nödvändigt att föreskriva att de medlemsstater som utbyter information enligt detta direktiv inte får tillämpa de begränsningar för informationsutbyte som avses i artikel 8 i direktiv 77/799/EEG.</SPAN></P>
+<P class="p126 ft23"><SPAN class="ft28">11</SPAN><SPAN class="ft48">EGT L 375, 31.12.1985, s. 3. Direktivet senast ändrat genom Europaparlamentets och rådets direktiv 2001/108/EG (EGT L 41, 13.2.2002, s. 35).</SPAN></P>
+<P class="p121 ft23"><SPAN class="ft28">12</SPAN><SPAN class="ft48">EGT L 336, 27.12.1977, s. 15. Direktivet senast ändrat genom</SPAN></P>
+<TABLE cellpadding=0 cellspacing=0 class="t16">
+<TR>
+	<TD class="tr9 td54"><SPAN class="p2 ft23">1994 års anslutningsakt.</SPAN> </TD>
+	<TD class="tr9 td32"><SPAN class="p11 ft6">17</SPAN> </TD>
+</TR>
+</TABLE>
+</DIV>
+<DIV id="page_18">
+
+
+<DIV>
+<DIV id="id_1">
+<P class="p45 ft7">(17) Med hänsyn till strukturella skillnader kan inte Österrike, Belgien och Luxemburg tillämpa det automatiska utbytet av information vid samma tidpunkt som de övriga medlemsstaterna. Under en övergångsperiod och under förutsättning att en källskatt kan garantera en miniminivå av faktisk beskattning, särskilt med en skattesats som ökar progressivt upp till 35 %, bör dessa tre medlemsstater tillämpa en källskatt på de inkomster av sparande som omfattas av detta direktiv.</P>
+<P class="p127 ft6"><SPAN class="ft1">(18)</SPAN><SPAN class="ft49">För att undvika skillnader i behandling bör inte Österrike, Belgien och Luxemburg vara tvungna att tillämpa automatiskt utbyte av information förrän Schweiziska edsförbundet, Furstendömet Andorra, Furstendömet Liechtenstein, Furstendömet Monaco och Republiken San Marino säkerställer faktiskt utbyte av information på begäran avseende räntebetalningar.</SPAN></P>
+<P class="p127 ft6"><SPAN class="ft1">(19)</SPAN><SPAN class="ft15">Dessa medlemsstater bör överföra större delen av sina intäkter från denna källskatt till den medlemsstat där den faktiska betalningsmottagaren av räntan har sitt hemvist.</SPAN></P>
+<P class="p45 ft7"><SPAN class="ft1">(20)</SPAN><SPAN class="ft50">Dessa medlemsstater bör införa ett förfarande genom vilket faktiska betalningsmottagare med skatterättsligt hemvist i andra medlemsstater kan undvika att påföras denna källskatt genom att bemyndiga sina betalningsombud att anmäla räntebetalningarna eller genom att uppvisa ett intyg utfärdat av den behöriga myndigheten i den medlemsstat där de har sitt skatterättsliga hemvist.</SPAN></P>
+<P class="p128 ft26"><SPAN class="ft1">(21)</SPAN><SPAN class="ft51">Den medlemsstat där den faktiska betalningsmottagaren har sitt skatterättsliga hemvist bör se till att sådan dubbelbeskattning av räntebetalningar undanröjs som kan följa av att denna källskatt påförs i enlighet med förfarandena i detta direktiv. Medlemsstaten bör göra detta genom att avräkna denna källskatt upp till ett belopp som motsvarar den skatt som inom dess territorium skall betalas på sådan ränta och genom att till den faktiska betalningsmottagaren återbetala det eventuellt överskjutande skattebeloppet som tagits ut. Dock kan den i stället för att tillämpa denna avräkningsmekanism återbetala källskatten.</SPAN></P>
+<P class="p129 ft6"><SPAN class="ft1">(22)</SPAN><SPAN class="ft25">För att undvika störningar på marknaden bör detta direktiv under övergångsperioden inte gälla för räntebetalningar för vissa överlåtbara skuldebrev.</SPAN></P>
+<P class="p77 ft6"><SPAN class="ft1">(23)</SPAN><SPAN class="ft24">Detta direktiv bör inte hindra medlemsstaterna från att på räntor inom sina respektive territorier ta ut andra typer av källskatt än den som avses i detta direktiv.</SPAN></P>
+<P class="p128 ft26"><SPAN class="ft1">(24)</SPAN><SPAN class="ft52">Så länge som Förenta staterna, Schweiz, Andorra, Liechtenstein, Monaco, San Marino och medlemsstaternas berörda beroende och associerade territorier inte samtliga tillämpar åtgärder som är likvärdiga eller desamma som de åtgärder som föreskrivs i detta direktiv skulle en kapitalflykt till dessa länder och territorier kunna äventyra att direktivets mål uppnås. Det är därför nödvändigt att direktivet tillämpas från samma tidpunkt som alla dessa länder och territorier tillämpar sådana åtgärder.</SPAN></P>
+<P class="p128 ft7"><SPAN class="ft1">(25)</SPAN><SPAN class="ft53">Kommissionen bör vart tredje år till rådet överlämna en rapport om hur detta direktiv fungerar och föreslå rådet de ändringar som behövs för att bättre sörja för faktisk beskattning av inkomster från sparande och undanröja oönskade snedvridningar av konkurrensen.</SPAN></P>
+<P class="p127 ft6"><SPAN class="ft1">(26)</SPAN><SPAN class="ft14">Detta direktiv står i överensstämmelse med de grundläggande rättigheter och principer som erkänns särskilt i Europeiska unionens stadga om de grundläggande rättigheterna.</SPAN></P>
+</DIV>
+<DIV id="id_2">
+<P class="p80 ft6">Prop. 2003/04:24</P>
+<P class="p80 ft6">Bilaga 1</P>
+<P class="p130 ft6">18</P>
+</DIV>
+</DIV>
+</DIV>
+<DIV id="page_19">
+
+
+<DIV>
+<DIV id="id_1">
+<P class="p42 ft6">HÄRIGENOM FÖRESKRIVS FÖLJANDE.</P>
+<P class="p131 ft6">KAPITEL I</P>
+<P class="p131 ft6">INLEDANDE BESTÄMMELSER</P>
+<P class="p132 ft6">Artikel 1</P>
+<P class="p42 ft6">Mål</P>
+<P class="p133 ft7"><SPAN class="ft1">1.</SPAN><SPAN class="ft43">Det yttersta målet med detta direktiv är att möjliggöra att inkomster från sparande i form av räntebetalningar som görs i en medlemsstat till förmån för faktiska betalningsmottagare, som är fysiska personer med skatterättsligt hemvist i en annan medlemsstat, faktiskt beskattas i enlighet med lagstiftningen i den senare medlemsstaten.</SPAN></P>
+<P class="p134 ft6"><SPAN class="ft1">2.</SPAN><SPAN class="ft24">Medlemsstaterna skall vidta nödvändiga åtgärder för att se till att betalningsombud som är etablerade inom deras territorier utför de uppgifter som krävs för att genomföra detta direktiv, oavsett var gäldenären för den räntebärande fordran är etablerad.</SPAN></P>
+<P class="p135 ft6">Artikel 2</P>
+<P class="p42 ft6">Definition av uttrycket faktisk betalningsmottagare</P>
+<P class="p134 ft6"><SPAN class="ft1">1.</SPAN><SPAN class="ft24">I detta direktiv avses med faktisk betalningsmottagare varje fysisk person som tar emot en räntebetalning eller varje fysisk person för vilken en räntebetalning ombesörjs, såvida inte denna person företer bevis för att betalningen inte har gjorts eller ombesörjts för hans egen räkning, det vill säga att</SPAN></P>
+<P class="p136 ft6">a) han agerar som betalningsombud enligt artikel 4.1, eller</P>
+<P class="p134 ft6">b) han handlar på uppdrag av en juridisk person, ett subjekt som beskattas för sin vinst enligt den allmänna ordningen för företagsbeskattning, ett fondföretag som auktoriserats i enlighet med direktiv 85/611/EEG eller ett subjekt som avses i artikel 4.2 i det här direktivet, och i det senare fallet, uppger subjektets namn och adress till den ekonomiska aktör som gör räntebetalningen och som i sin tur vidarebefordrar dessa uppgifter till den behöriga myndigheten i den medlemsstat där aktören är etablerad, eller</P>
+<P class="p133 ft26">c) han handlar på uppdrag av en annan fysisk person som är den faktiska betalningsmottagaren och i enlighet med artikel 3.2 för betalningsombudet uppger denna faktiska betalningsmottagares identitet.</P>
+<P class="p137 ft6"><SPAN class="ft1">2.</SPAN><SPAN class="ft25">Om ett betalningsombud har information som tyder på att en fysisk person som mottar en räntebetalning eller för vilken en räntebetalning ombesörjs kanske inte är den faktiska betalningsmottagaren, och denna fysiska person varken kan hänföras till punkt 1 a eller 1 b skall ombudet vidta rimliga åtgärder för att fastställa den faktiska betalningsmottagarens identitet, i enlighet med artikel 3.2. Om betalningsombudet inte kan fastställa den faktiska betalningsmottagarens identitet skall ombudet betrakta den fysiska personen som den faktiska betalningsmottagaren.</SPAN></P>
+<P class="p138 ft6">Artikel 3</P>
+<P class="p42 ft6">Den faktiska betalningsmottagarens identitet och hemvist</P>
+<P class="p139 ft6">1. Medlemsstaterna skall inom sina respektive territorier anta och säkerställa tillämpningen av de förfaranden som behövs för att</P>
+</DIV>
+<DIV id="id_2">
+<P class="p42 ft6">Prop. 2003/04:24</P>
+<P class="p42 ft6">Bilaga 1</P>
+<P class="p130 ft6">19</P>
+</DIV>
+</DIV>
+</DIV>
+<DIV id="page_20">
+
+
+<TABLE cellpadding=0 cellspacing=0 class="t17">
+<TR>
+	<TD class="tr21 td53"><SPAN class="p2 ft8">betalningsombudet, när det gäller tillämpningen av artiklarna <NOBR>8–12,</NOBR> skall</SPAN> </TD>
+	<TD class="tr21 td25"><SPAN class="p2 ft1">Prop. 2003/04:24</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr13 td53"><SPAN class="p2 ft8">kunna fastställa de faktiska betalningsmottagarnas identitet och hemvist.</SPAN> </TD>
+	<TD class="tr13 td25"><SPAN class="p2 ft10">Bilaga 1</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr9 td53"><SPAN class="p140 ft6">Dessa förfaranden skall uppfylla de miniminormer som anges i</SPAN> </TD>
+	<TD class="tr9 td25"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr9 td53"><SPAN class="p2 ft6">punkterna 2 och 3.</SPAN> </TD>
+	<TD class="tr9 td25"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+</TR>
+</TABLE>
+<P class="p93 ft6"><SPAN class="ft1">2.</SPAN><SPAN class="ft54">Betalningsombudet skall fastställa den faktiska betalningsmottagarens identitet enligt miniminormer som varierar beroende på när förbindelserna upprättades mellan betalningsombudet och mottagaren av räntan, enligt följande:</SPAN></P>
+<P class="p91 ft7">a) När det gäller avtalsförbindelser som upprättats före den 1 januari 2004 skall betalningsombudet fastställa den faktiska betalningsmottagarens identitet, bestående av namn och adress, med hjälp av tillgängliga uppgifter, särskilt i enlighet med de föreskrifter som gäller i ombudets etableringsstat och i enlighet med rådets direktiv</P>
+<P class="p141 ft6">91/308/EEG av den 10 juni 1991 om åtgärder för att förhindra att det finansiella systemet används för tvättning av pengar<A href="#page_20"><SPAN class="ft21">13</SPAN></A><A href="#page_20">.</A></P>
+<P class="p90 ft7">b) När det gäller avtalsförbindelser som upprättats eller, i avsaknad av avtalsförbindelser, en transaktion som utförts den 1 januari 2004 eller senare skall betalningsombudet fastställa den faktiska betalningsmottagarens identitet, bestående av namn, adress och i förekommande fall skattenummer som tilldelats av den medlemsstat där den faktiska betalningsmottagaren har skatterättsligt hemvist. Dessa uppgifter skall fastställas på grundval av pass eller officiellt identitetskort som den faktiska betalningsmottagaren uppvisar. Om adressen inte anges i passet eller på det officiella identitetskortet skall den fastställas på grundval av någon annan giltig handling som den faktiska betalningsmottagaren uppvisar. Om skattenumret inte anges i passet, på identitetskortet eller i någon annan giltig handling, till exempel hemvistintyg, som den faktiska betalningsmottagaren uppvisar, skall identitetsuppgifterna kompletteras med uppgift om födelsedatum och födelseort, enligt passet eller det officiella identitetskortet.</P>
+<P class="p142 ft7"><SPAN class="ft1">3.</SPAN><SPAN class="ft55">Betalningsombudet skall fastställa den faktiska betalningsmottagarens hemvist enligt miniminormer som varierar beroende på när förbindelserna upprättades mellan betalningsombudet och mottagaren av räntan. Den faktiska betalningsmottagarens hemvist skall anses vara det land där han har sin fasta adress, dock med beaktande av följande:</SPAN></P>
+<P class="p143 ft6">a) När det gäller avtalsförbindelser som upprättats före den 1 januari 2004 skall betalningsombudet fastställa den faktiska betalningsmottagarens hemvist med hjälp av tillgängliga uppgifter, särskilt i enlighet med de föreskrifter som gäller i ombudets etableringsstat och i enlighet med direktiv 91/308/EEG.</P>
+<P class="p91 ft7">b) När det gäller avtalsförbindelser som upprättats eller, i avsaknad av avtalsförbindelser, en transaktion som utförts den 1 januari 2004 eller senare skall betalningsombudet fastställa den faktiska betalningsmottagarens hemvist på grundval av den adress som anges i passet eller det officiella identitetskortet eller, vid behov, på grundval av någon annan giltig identitetshandling som den faktiska betalningsmottagaren företer, enligt följande förfarande: för fysiska personer som uppvisar ett pass eller ett officiellt identitetskort utfärdat av en medlemsstat och som</P>
+<TABLE cellpadding=0 cellspacing=0 class="t18">
+<TR>
+	<TD class="tr13 td55"><SPAN class="p2 ft23"><SPAN class="ft22">13 </SPAN>EGT L 166, 28.6.1991, s. 77. Direktivet senast ändrat genom Europaparlamentets</SPAN> </TD>
+	<TD class="tr13 td56"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr9 td55"><SPAN class="p2 ft23">och rådets direktiv 2001/97/EG (EGT L 344, 28.12.2001, s. 76).</SPAN> </TD>
+	<TD class="tr9 td56"><SPAN class="p11 ft6">20</SPAN> </TD>
+</TR>
+</TABLE>
+</DIV>
+<DIV id="page_21">
+
+
+<DIV>
+<DIV id="id_1">
+<P class="p144 ft7">förklarar sig ha hemvist i ett tredje land, skall hemvistet fastställas på grundval av ett hemvistintyg utfärdat av den behöriga myndigheten i det tredje land där den fysiska personen förklarar sig ha hemvist. Om detta intyg inte företes skall hemvistet anses vara den medlemsstat som har utfärdat passet eller annan officiell identitetshandling.</P>
+<P class="p132 ft6">Artikel 4</P>
+<P class="p42 ft6">Definition av uttrycket betalningsombud</P>
+<P class="p134 ft6"><SPAN class="ft1">1.</SPAN><SPAN class="ft24">I detta direktiv avses med betalningsombud varje ekonomisk aktör som betalar ränta eller sörjer för att ränta betalas till förmån för den faktiska betalningsmottagaren, oavsett om aktören är gäldenären med avseende på den räntebärande fordran, eller den aktör som av gäldenären eller den faktiska betalningsmottagaren fått i uppdrag att betala räntan eller sörja för att den betalas.</SPAN></P>
+<P class="p134 ft6"><SPAN class="ft1">2.</SPAN><SPAN class="ft24">Ett subjekt som är etablerat i en medlemsstat och till vilket ränta betalas eller för vilket betalning av ränta ombesörjs till förmån för den faktiska betalningsmottagaren, skall också anses vara betalningsombud vid sådan betalning eller vid ombesörjande av sådan betalning. Denna bestämmelse skall inte tillämpas om den ekonomiska aktören på grundval av officiella giltiga uppgifter som lämnats av subjektet har anledning att förmoda att</SPAN></P>
+<P class="p134 ft6"><SPAN class="ft1">a)</SPAN><SPAN class="ft25">subjektet är en juridisk person, med undantag för sådana juridiska personer som anges i punkt 5, eller</SPAN></P>
+<P class="p134 ft6"><SPAN class="ft8">b)</SPAN><SPAN class="ft31">subjektets vinst beskattas enligt den allmänna ordningen för företagsbeskattning, eller</SPAN></P>
+<P class="p137 ft6"><SPAN class="ft8">c)</SPAN><SPAN class="ft56">subjektet är ett fondföretag som auktoriserats i enlighet med direktiv 85/611/EEG.</SPAN></P>
+<P class="p134 ft6">En ekonomisk aktör som betalar ränta till, eller sörjer för att ränta betalas till, ett subjekt som är etablerat i en annan medlemsstat och som anses vara ett betalningsombud enligt denna punkt skall till den behöriga myndigheten i den medlemsstat där aktören är etablerad meddela subjektets namn och adress samt det totala räntebeloppet som betalats till eller vars betalning ombesörjts för subjektet; denna myndighet skall vidarebefordra dessa uppgifter till den behöriga myndigheten i den medlemsstat där subjektet är etablerat.</P>
+<P class="p137 ft6"><SPAN class="ft1">3.</SPAN><SPAN class="ft49">Det subjekt som avses i punkt 2 skall emellertid ha rätt att välja, när det gäller tillämpningen av detta direktiv, att bli behandlat som fondföretag enligt punkt 2 c. Om detta alternativ väljs skall ett intyg utfärdas av den medlemsstat där subjektet är etablerat och överlämnas av subjektet till den ekonomiska aktören.</SPAN></P>
+<P class="p137 ft6">Medlemsstaterna skall fastställa närmare bestämmelser om denna rätt för subjekt som är etablerade på deras territorium.</P>
+<P class="p137 ft6"><SPAN class="ft1">4.</SPAN><SPAN class="ft24">Om en sådan ekonomisk aktör och ett sådant subjekt som avses i punkt 2 är etablerade i samma medlemsstat, skall den medlemsstaten vidta nödvändiga åtgärder för att se till att subjektet följer bestämmelserna i detta direktiv när det agerar i egenskap av betalningsombud.</SPAN></P>
+<P class="p134 ft6"><SPAN class="ft1">5.</SPAN><SPAN class="ft14">De juridiska personer som är undantagna från tillämpningen av punkt 2 a är följande:</SPAN></P>
+<P class="p137 ft6"><SPAN class="ft1">a)</SPAN><SPAN class="ft49">I Finland: avoin yhtiö (Ay) och kommandiittiyhtiö (Ky)/öppet bolag och kommanditbolag.</SPAN></P>
+</DIV>
+<DIV id="id_2">
+<P class="p42 ft6">Prop. 2003/04:24</P>
+<P class="p42 ft6">Bilaga 1</P>
+<P class="p130 ft6">21</P>
+</DIV>
+</DIV>
+</DIV>
+<DIV id="page_22">
+
+
+<TABLE cellpadding=0 cellspacing=0 class="t1">
+<TR>
+	<TD class="tr21 td53"><SPAN class="p140 ft6">b) I Sverige: handelsbolag (HB) och kommanditbolag (KB).</SPAN> </TD>
+	<TD class="tr21 td25"><SPAN class="p2 ft1">Prop. 2003/04:24</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr13 td53"><SPAN class="p2 ft57">&nbsp;</SPAN> </TD>
+	<TD class="tr13 td25"><SPAN class="p2 ft10">Bilaga 1</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr9 td53"><SPAN class="p2 ft6">Artikel 5</SPAN> </TD>
+	<TD class="tr9 td25"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr12 td53"><SPAN class="p2 ft6">Definition av uttrycket behörig myndighet</SPAN> </TD>
+	<TD class="tr12 td25"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr9 td53"><SPAN class="p140 ft6">I detta direktiv avses med behörig myndighet</SPAN> </TD>
+	<TD class="tr9 td25"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+</TR>
+</TABLE>
+<P class="p36 ft6"><SPAN class="ft1">a)</SPAN><SPAN class="ft13">i fråga om medlemsstater, de myndigheter som medlemsstaten anmält till kommissionen, och</SPAN></P>
+<P class="p36 ft6"><SPAN class="ft8">b)</SPAN><SPAN class="ft25">i fråga om tredje land, den behöriga myndigheten enligt bilaterala eller multilaterala skatteavtal eller annars den myndighet som är behörig att utfärda intyg om skatterättsligt hemvist.</SPAN></P>
+<P class="p145 ft6">Artikel 6</P>
+<P class="p101 ft6">Definition av uttrycket räntebetalning</P>
+<P class="p146 ft6">1. I detta direktiv avses med räntebetalning följande:</P>
+<P class="p9 ft6"><SPAN class="ft1">a)</SPAN><SPAN class="ft24">Räntor som betalats till eller krediterats ett konto och som härrör från fordringar av alla slag, med eller utan säkerhet genom inteckning och med eller utan rätt att få del av gäldenärens vinst, särskilt inkomster från statspapper och obligationer eller debentures, inklusive agiobelopp och vinster som är förenade med sådana värdepapper, obligationer eller debentures. Straffavgifter på grund av sen betalning skall inte anses vara räntebetalningar.</SPAN></P>
+<P class="p9 ft6"><SPAN class="ft8">b)</SPAN><SPAN class="ft15">Upplupen eller kapitaliserad ränta från försäljning, återbetalning eller inlösen av fordringar som avses i led a.</SPAN></P>
+<P class="p9 ft6"><SPAN class="ft8">c)</SPAN><SPAN class="ft15">Inkomster som härrör från räntebetalningar antingen direkt eller genom ett subjekt som avses i artikel 4.2 och som delas ut av</SPAN></P>
+<P class="p29 ft6"><SPAN class="ft6">i)</SPAN><SPAN class="ft56">fondföretag som auktoriserats i enlighet med direktiv 85/611/EEG,</SPAN></P>
+<P class="p29 ft6"><SPAN class="ft6">ii)</SPAN><SPAN class="ft56">subjekt som utnyttjar den rättighet som anges i artikel 4.3, och</SPAN></P>
+<P class="p9 ft6"><SPAN class="ft6">iii)</SPAN><SPAN class="ft58">företag för kollektiva investeringar etablerade utanför det territorium som avses i artikel 7.</SPAN></P>
+<P class="p9 ft6">d) Inkomster som realiseras vid försäljning, återbetalning eller inlösen av aktier eller andelar i följande företag och subjekt, om de direkt eller indirekt genom andra företag för kollektiva investeringar eller sådana subjekt som avses nedan investerar mer än 40 % av sina tillgångar i fordringar som avses i punkt a:</P>
+<P class="p30 ft6"><SPAN class="ft6">i)</SPAN><SPAN class="ft56">Fondföretag som auktoriserats i enlighet med direktiv 85/611/EEG.</SPAN></P>
+<P class="p29 ft6"><SPAN class="ft6">ii)</SPAN><SPAN class="ft56">Subjekt som utnyttjar den rättighet som anges i artikel 4.3.</SPAN></P>
+<P class="p36 ft6">iii) Företag för kollektiva investeringar etablerade utanför det territorium som avses i artikel 7.</P>
+<P class="p9 ft6">Medlemsstaterna har dock rätt att i definitionen av ränta inbegripa sådana inkomster som anges i led d endast i den mån dessa inkomster svarar mot inkomster som direkt eller indirekt härrör från räntebetalningar i den mening som avses i leden a och b.</P>
+<P class="p110 ft8"><SPAN class="ft1">2.</SPAN><SPAN class="ft59">När det gäller punkt 1 c och d skall hela inkomstbeloppet anses vara en räntebetalning om betalningsombudet inte har några uppgifter om hur stor andel av inkomsterna som härrör från räntebetalningar.</SPAN></P>
+<P class="p74 ft7"><SPAN class="ft1">3.</SPAN><SPAN class="ft53">När det gäller punkt 1 d skall den procentuella andelen anses vara mer än 40 %, om betalningsombudet inte har några uppgifter om den procentuella andel av tillgångarna som investerats i fordringar eller i aktier eller andelar enligt definitionen i det ledet. Om betalningsombudet inte kan avgöra hur stor inkomst den faktiska betalningsmottagaren har</SPAN></P>
+<P class="p147 ft6">22</P>
+</DIV>
+<DIV id="page_23">
+
+
+<DIV>
+<DIV id="id_1">
+<P class="p148 ft8">haft, skall inkomsten anses vara det belopp som erhållits vid försäljningen, inlösen eller återbetalningen av aktierna eller andelarna.</P>
+<P class="p149 ft6"><SPAN class="ft1">4.</SPAN><SPAN class="ft25">När ränta enligt definitionen i punkt 1 betalas till eller krediteras ett konto som innehas av ett subjekt enligt artikel 4.2 och om detta subjekt inte utnyttjar den rätt som anges i artikel 4.3, skall räntan anses vara en räntebetalning gjord av det subjektet.</SPAN></P>
+<P class="p150 ft7"><SPAN class="ft1">5.</SPAN><SPAN class="ft60">När det gäller punkt 1 b och d skall medlemsstaterna ha rätt att kräva att betalningsombud inom deras territorium beräknar räntan på årsbasis för en period som inte får överstiga ett år och att behandla sådan på årsbasis beräknad ränta som en räntebetalning, även om ingen försäljning, inlösen eller återbetalning sker under den perioden.</SPAN></P>
+<P class="p133 ft7"><SPAN class="ft1">6.</SPAN><SPAN class="ft61">Med undantag av vad som sägs i punkt 1 c och d skall medlemsstaterna ha rätt att från definitionen av räntebetalning undanta inkomster enligt de nämnda bestämmelserna som härrör från företag eller subjekt etablerade inom deras territorium, om dessa subjekts investeringar i fordringar enligt punkt 1 a inte överstiger 15 % av deras tillgångar. På samma sätt kan medlemsstaterna med undantag av vad som sägs i punkt 4, från definitionen av räntebetalningar i punkt 1 undanta sådana räntor som betalas till eller krediteras ett konto som innehas av ett subjekt som avses i artikel 4.2, om detta subjekt inte utnyttjar den rätt som anges i artikel 4.3 och är etablerat på deras territorium, när dessa subjekts investeringar i sådana fordringar som avses i punkt 1 a inte överstiger 15 % av deras tillgångar.</SPAN></P>
+<P class="p149 ft6">Om en medlemsstat utövar denna rätt skall detta vara bindande för de andra medlemsstaterna.</P>
+<P class="p137 ft6"><SPAN class="ft1">7.</SPAN><SPAN class="ft49">Den procentuella andel som avses i punkt 1 d och punkt 3 skall vara 25 % från och med den 1 januari 2011.</SPAN></P>
+<P class="p134 ft6"><SPAN class="ft1">8.</SPAN><SPAN class="ft24">De procentuella andelar som avses i punkt 1 d och punkt 6 skall fastställas med hänvisning till placeringsinriktningen enligt de berörda företagens eller subjektens fondbestämmelser eller bolagsordning eller, i avsaknad av sådana, efter sammansättningen av de berörda företagens eller subjektens tillgångar.</SPAN></P>
+<P class="p132 ft6">Artikel 7</P>
+<P class="p42 ft6">Territoriellt tillämpningsområde</P>
+<P class="p134 ft6">Detta direktiv är tillämpligt på räntor som betalas ut av ett betalningsombud som är etablerat inom det territorium där fördraget är tillämpligt i enlighet med artikel 299 i detta.</P>
+<P class="p151 ft6">KAPITEL II</P>
+<P class="p131 ft6">UTBYTE AV INFORMATION</P>
+<P class="p132 ft6">Artikel 8</P>
+<P class="p42 ft6">Betalningsombudets skyldighet att lämna uppgifter</P>
+<P class="p133 ft26">1. När den faktiska betalningsmottagaren har hemvist i en annan medlemsstat än den där betalningsombudet är etablerat skall de uppgifter som betalningsombudet skall lämna till den behöriga myndigheten i den medlemsstat där ombudet är etablerat åtminstone innefatta följande:</P>
+<P class="p134 ft6"><SPAN class="ft1">a)</SPAN><SPAN class="ft56">Den faktiska betalningsmottagarens identitet och hemvist, fastställda i enlighet med artikel 3.</SPAN></P>
+</DIV>
+<DIV id="id_2">
+<P class="p42 ft6">Prop. 2003/04:24</P>
+<P class="p42 ft6">Bilaga 1</P>
+<P class="p130 ft6">23</P>
+</DIV>
+</DIV>
+</DIV>
+<DIV id="page_24">
+
+
+<TABLE cellpadding=0 cellspacing=0 class="t1">
+<TR>
+	<TD class="tr21 td53"><SPAN class="p140 ft6">b) Betalningsombudets namn och adress.</SPAN> </TD>
+	<TD class="tr21 td25"><SPAN class="p2 ft1">Prop. 2003/04:24</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr13 td53"><SPAN class="p140 ft8">c) Den faktiska betalningsmottagarens kontonummer eller, om sådant</SPAN> </TD>
+	<TD class="tr13 td25"><SPAN class="p2 ft10">Bilaga 1</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr9 td53"><SPAN class="p2 ft6">saknas, den räntebärande fordrans identifieringsnummer.</SPAN> </TD>
+	<TD class="tr9 td25"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr9 td53"><SPAN class="p140 ft6">d) Upplysningar om räntebetalningen i enlighet med punkt 2.</SPAN> </TD>
+	<TD class="tr9 td25"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr12 td53"><SPAN class="p140 ft6">2. De uppgifter som betalningsombudet skall lämna om</SPAN> </TD>
+	<TD class="tr12 td25"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr9 td53"><SPAN class="p2 ft8">räntebetalningen skall åtminstone innehålla en uppdelning av räntorna i</SPAN> </TD>
+	<TD class="tr9 td25"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr9 td53"><SPAN class="p2 ft6">nedanstående kategorier och innefatta följande:</SPAN> </TD>
+	<TD class="tr9 td25"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+</TR>
+</TABLE>
+<P class="p152 ft6"><SPAN class="ft1">a)</SPAN><SPAN class="ft25">När det gäller räntebetalningar enligt artikel 6.1 a: det betalda eller krediterade räntebeloppet.</SPAN></P>
+<P class="p66 ft7"><SPAN class="ft8">b)</SPAN><SPAN class="ft62">När det gäller räntebetalningar enligt artikel 6.1 b eller 6.1 d: antingen beloppet på den ränta eller inkomst som avses i de nämnda leden eller hela beloppet vid försäljningen, inlösen eller återbetalningen.</SPAN></P>
+<P class="p110 ft1"><SPAN class="ft8">c)</SPAN><SPAN class="ft63">När det gäller räntebetalningar enligt artikel 6.1 c: antingen beloppet på den inkomst som avses i det ledet eller hela utdelningsbeloppet.</SPAN></P>
+<P class="p74 ft6"><SPAN class="ft8">d)</SPAN><SPAN class="ft49">När det gäller räntebetalningar enligt artikel 6.4: räntebeloppet som är hänförligt till var och en av de medlemmar i det subjekt som avses i artikel 4.2, vilka uppfyller villkoren i artikel 1.1 och artikel 2.1.</SPAN></P>
+<P class="p9 ft6"><SPAN class="ft1">e)</SPAN><SPAN class="ft56">När en medlemsstat utövar sin rätt enligt artikel 6.5: beloppet på den på årsbasis beräknade räntan.</SPAN></P>
+<P class="p36 ft6">Medlemsstaterna får dock begränsa de uppgifter som betalningsombudet skall lämna om räntebetalningar till det totala beloppet på räntan eller inkomsten och hela beloppet vid försäljningen, inlösen eller återbetalningen.</P>
+<P class="p145 ft6">Artikel 9</P>
+<P class="p101 ft6">Automatiskt informationsutbyte</P>
+<P class="p9 ft6"><SPAN class="ft1">1.</SPAN><SPAN class="ft25">Den behöriga myndigheten i betalningsombudets medlemsstat skall vidarebefordra de uppgifter som avses i artikel 8 till den behöriga myndigheten i den medlemsstat där den faktiska betalningsmottagaren har hemvist.</SPAN></P>
+<P class="p9 ft6"><SPAN class="ft1">2.</SPAN><SPAN class="ft49">Uppgifterna skall vidarebefordras automatiskt och minst en gång om året, inom sex månader efter beskattningsårets utgång i betalningsombudets medlemsstat och avse alla räntebetalningar gjorda under det året.</SPAN></P>
+<P class="p9 ft6"><SPAN class="ft1">3.</SPAN><SPAN class="ft31">Bestämmelserna i direktiv 77/799/EEG skall tillämpas på det informationsutbyte som föreskrivs i det här direktivet, i den mån bestämmelserna i det här direktivet inte avviker från dessa. Artikel 8 i direktiv 77/799/EEG skall dock inte tillämpas på de uppgifter som skall tillhandahållas enligt detta kapitel.</SPAN></P>
+<P class="p153 ft6">KAPITEL III</P>
+<P class="p153 ft6">ÖVERGÅNGSBESTÄMMELSER</P>
+<P class="p145 ft6">Artikel 10</P>
+<P class="p101 ft6">Övergångsperiod</P>
+<P class="p9 ft6">1. Under en övergångsperiod som börjar den dag som anges i artikel 17.2 och 17.3 och om inte annat följer av artikel 13.1 skall Belgien, Luxemburg och Österrike inte vara skyldiga att tillämpa bestämmelserna i kapitel II.</P>
+<P class="p75 ft6">24</P>
+</DIV>
+<DIV id="page_25">
+
+
+<P class="p154 ft6">Dessa länder skall emellertid erhålla information från de andra Prop. 2003/04:24 medlemsstaterna i enlighet med kapitel II. Bilaga 1</P>
+<P class="p9 ft6">Under övergångsperioden skall detta direktiv ha som mål att garantera en faktisk minimibeskattning av inkomster från sparande i form av räntebetalningar i en medlemsstat till förmån för faktiska betalningsmottagare som är fysiska personer med skatterättsligt hemvist i en annan medlemsstat.</P>
+<P class="p36 ft6"><SPAN class="ft1">2.</SPAN><SPAN class="ft49">Övergångsperioden skall upphöra att gälla vid utgången av det första hela beskattningsåret efter det senare av följande datum:</SPAN></P>
+<P class="p66 ft7">– Den dag då ett avtal träder i kraft mellan Europeiska gemenskapen, efter enhälligt beslut av rådet, och det sista av följande länder, nämligen Schweiziska edsförbundet, Furstendömet Liechtenstein, Republiken San Marino, Furstendömet Monaco och Furstendömet Andorra, i vilket avtal det föreskrivs informationsutbyte på begäran i överensstämmelse med OECD:s modellavtal för utbyte av information om skattefrågor av den 18 april 2002 (nedan kallat ”OECD:s modellavtal”) vad avser räntebetalningar såsom de definieras i detta direktiv från betalningsombud etablerade inom dessa länders respektive territorium till faktiska betalningsmottagare som har sitt hemvist inom det territorium där detta direktiv skall tillämpas, utöver den källskatt som dessa länder samtidigt skall ta ut på sådana betalningar enligt den skattesats som fastställs för motsvarande tidsperioder i artikel 11.1.</P>
+<P class="p8 ft7">– Den dag då rådet enhälligt fastslår att Amerikas förenta stater har förbundit sig att utbyta information på begäran i överensstämmelse med OECD:s modellavtal vad avser räntebetalningar såsom de definieras i detta direktiv från betalningsombud etablerade inom Förenta staternas territorium till faktiska betalningsmottagare som har sitt skatterättsliga hemvist inom det territorium där direktivet skall tillämpas.</P>
+<P class="p110 ft7"><SPAN class="ft1">3.</SPAN><SPAN class="ft64">Vid övergångsperiodens slut måste Belgien, Luxemburg och Österrike tillämpa bestämmelserna i kapitel II och de skall upphöra att tillämpa källskatt och intäktsdelning enligt artiklarna 11 och 12. Om Belgien, Luxemburg eller Österrike väljer att under övergångsperioden tillämpa bestämmelserna i kapitel II skall landet inte längre tillämpa källskatt och intäktsdelning enligt artiklarna 11 och 12.</SPAN></P>
+<P class="p155 ft6">Artikel 11</P>
+<P class="p101 ft6">Källskatt</P>
+<P class="p66 ft7"><SPAN class="ft1">1.</SPAN><SPAN class="ft47">Under den övergångsperiod som anges i artikel 10 skall Belgien, Luxemburg och Österrike, när den faktiska betalningsmottagaren har hemvist i en annan medlemsstat än den där betalningsombudet är etablerat, ta ut en källskatt på 15 % under de första tre åren av övergångsperioden, 20 % för de följande tre åren och 35 % därefter.</SPAN></P>
+<P class="p9 ft6"><SPAN class="ft1">2.</SPAN><SPAN class="ft65">Betalningsombudet skall ta ut källskatt enligt följande bestämmelser:</SPAN></P>
+<P class="p9 ft6">a) När det gäller räntebetalningar enligt artikel 6.1 a: på det betalda eller krediterade räntebeloppet.</P>
+<P class="p66 ft7">b) När det gäller räntebetalningar enligt artikel 6.1 b eller d: på det ränte- eller inkomstbelopp som avses i de nämnda leden eller genom en avgift med samma verkan som påförs mottagaren för hela det belopp som intäkten från försäljningen, inlösen eller återbetalningen uppgår till.</P>
+<P class="p156 ft6">25</P>
+</DIV>
+<DIV id="page_26">
+
+
+<DIV>
+<DIV id="id_1">
+<P class="p139 ft6">c) När det gäller räntebetalningar enligt artikel 6.1 c: på det inkomstbelopp som avses i det ledet.</P>
+<P class="p133 ft26"><SPAN class="ft8">d)</SPAN><SPAN class="ft66">När det gäller räntebetalningar enligt artikel 6.4: på det räntebelopp som är hänförligt till var och en av de medlemmar i det subjekt som avses i artikel 4.2, vilka uppfyller villkoren i artiklarna 1.1 och 2.1.</SPAN></P>
+<P class="p134 ft6"><SPAN class="ft1">e)</SPAN><SPAN class="ft49">När en medlemsstat utövar sin rätt enligt artikel 6.5: på beloppet på den på årsbasis beräknade räntan.</SPAN></P>
+<P class="p134 ft6">3. När det gäller leden a och b i punkt 2 skall källskatten tas ut i proportion till den tid som den faktiska betalningsmottagaren innehaft fordran. Om betalningsombudet inte kan fastställa tiden för innehavet på grundval av tillgängliga uppgifter, skall ombudet anse att den faktiska betalningsmottagaren har innehaft fordran så länge som den har existerat, om inte den faktiska betalningsmottagaren lägger fram bevis om tidpunkten för förvärvet.</P>
+<P class="p150 ft26">4. Även om betalningsombudets medlemsstat tar ut källskatt skall detta inte hindra den medlemsstat där den faktiska betalningsmottagaren har skatterättsligt hemvist från att beskatta inkomsterna i enlighet med den nationella lagstiftningen, under förutsättning att fördraget följs.</P>
+<P class="p150 ft26">5. Under övergångsperioden får de medlemsstater som tar ut källskatt föreskriva att en ekonomisk aktör som betalar ränta till, eller sörjer för att ränta betalas till, ett subjekt enligt artikel 4.2 som är etablerat i en annan medlemsstat skall anses vara betalningsombud i stället för subjektet och skall ta ut källskatt på sådan ränta, såvida inte subjektet formellt har godtagit att dess namn och adress samt totalbeloppet på den ränta som betalats till eller vars betalning ombesörjts för subjektet får meddelas i enlighet med artikel 4.2 sista stycket.</P>
+<P class="p132 ft6">Artikel 12</P>
+<P class="p42 ft6">Intäktsdelning</P>
+<P class="p134 ft6"><SPAN class="ft1">1.</SPAN><SPAN class="ft24">De medlemsstater som tar ut källskatt i enlighet med artikel 11.1 skall behålla 25 % av sina intäkter och överföra 75 % av intäkterna till den medlemsstat där den faktiska betalningsmottagaren av räntan har hemvist.</SPAN></P>
+<P class="p134 ft6"><SPAN class="ft1">2.</SPAN><SPAN class="ft24">De medlemsstater som tar ut källskatt i enlighet med artikel 11.5 skall behålla 25 % av sina intäkter och överföra 75 % av intäkterna till de andra medlemsstaterna i samma proportion som de överföringar som görs enligt punkt 1 i den här artikeln.</SPAN></P>
+<P class="p133 ft26"><SPAN class="ft1">3.</SPAN><SPAN class="ft67">Överföringarna skall göras senast sex månader efter slutet av beskattningsåret i betalningsombudets medlemsstat, enligt punkt 1, eller beskattningsåret i den ekonomiska aktörens medlemsstat, enligt punkt 2.</SPAN></P>
+<P class="p134 ft6"><SPAN class="ft1">4.</SPAN><SPAN class="ft31">De medlemsstater som tar ut källskatt skall vidta nödvändiga åtgärder för att se till att systemet för intäktsdelning fungerar väl.</SPAN></P>
+<P class="p132 ft6">Artikel 13</P>
+<P class="p42 ft6">Undantag från källskatteförfarandet</P>
+<P class="p133 ft7">1. De medlemsstater som tar ut källskatt i enlighet med artikel 11 skall föreskriva ett eller båda av följande förfaranden för att de faktiska betalningsmottagarna skall kunna begära att ingen sådan skatt tas ut:</P>
+<P class="p133 ft8">a) Ett förfarande som gör det möjligt för den faktiska betalningsmottagaren att uttryckligen bemyndiga betalningsombudet att lämna uppgifter i enlighet med kapitel II. Ett sådant bemyndigande skall</P>
+</DIV>
+<DIV id="id_2">
+<P class="p42 ft6">Prop. 2003/04:24</P>
+<P class="p42 ft6">Bilaga 1</P>
+<P class="p130 ft6">26</P>
+</DIV>
+</DIV>
+</DIV>
+<DIV id="page_27">
+
+
+<DIV>
+<DIV id="id_1">
+<P class="p157 ft6">omfatta alla räntor som betalningsombudet betalar till den faktiska betalningsmottagaren. I detta fall skall bestämmelserna i artikel 9 vara tillämpliga.</P>
+<P class="p134 ft6"><SPAN class="ft8">b)</SPAN><SPAN class="ft25">Ett förfarande som innebär att källskatt inte tas ut om den faktiska betalningsmottagaren för sitt betalningsombud företer ett intyg som den behöriga myndigheten i den medlemsstat där den faktiska betalningsmottagaren har skatterättsligt hemvist utfärdat i dennes namn i enlighet med punkt 2.</SPAN></P>
+<P class="p137 ft6">2. Om den faktiska betalningsmottagaren begär det skall den behöriga myndigheten i den medlemsstat där han har skatterättsligt hemvist utfärda ett intyg som innehåller följande uppgifter:</P>
+<P class="p134 ft6"><SPAN class="ft1">a)</SPAN><SPAN class="ft49">Den faktiska betalningsmottagarens namn, adress och skattenummer eller, om detta saknas, födelsedatum och födelseort.</SPAN></P>
+<P class="p124 ft6"><SPAN class="ft8">b)</SPAN><SPAN class="ft56">Betalningsombudets namn och adress.</SPAN></P>
+<P class="p134 ft6"><SPAN class="ft8">c)</SPAN><SPAN class="ft25">Den faktiska betalningsmottagarens kontonummer eller, om sådant saknas, värdepapperets identifieringsuppgifter.</SPAN></P>
+<P class="p134 ft6">Ett sådant intyg skall gälla i högst tre år. Det skall utfärdas till varje faktisk betalningsmottagare som begär det, inom två månader efter en sådan begäran.</P>
+<P class="p132 ft6">Artikel 14</P>
+<P class="p42 ft6">Undanröjande av dubbelbeskattning</P>
+<P class="p134 ft6"><SPAN class="ft1">1.</SPAN><SPAN class="ft40">Den medlemsstat där en faktisk betalningsmottagare har skatterättsligt hemvist skall, i enlighet med punkterna 2 och 3, sörja för att sådan dubbelbeskattning som kan uppstå till följd av den källskatt som avses i artikel 11 undanröjs.</SPAN></P>
+<P class="p134 ft6"><SPAN class="ft1">2.</SPAN><SPAN class="ft31">Om de räntor som en faktisk betalningsmottagare erhållit har källbeskattats i betalningsombudets medlemsstat skall den medlemsstat där den faktiska betalningsmottagaren har skatterättsligt hemvist bevilja honom avräkning med det uttagna skattebeloppet, i enlighet med den nationella lagstiftningen. Om det uttagna skattebeloppet överstiger det skattebelopp som skall betalas i enlighet med den nationella lagstiftningen, skall den medlemsstat där den faktiska betalningsmottagaren har skatterättsligt hemvist återbetala det överskjutande källskattebeloppet till denne.</SPAN></P>
+<P class="p133 ft26"><SPAN class="ft1">3.</SPAN><SPAN class="ft66">Om ränta som en faktisk betalningsmottagare erhållit beskattats med någon annan typ av källskatt, utöver den källskatt som avses i artikel 11, och om den medlemsstat där den faktiska betalningsmottagaren har skatterättsligt hemvist beviljar avräkning för denna källskatt i enlighet med den nationella lagstiftningen eller enligt skatteavtal, skall denna källskatt avräknas innan förfarandet enligt punkt 2 tillämpas.</SPAN></P>
+<P class="p150 ft7"><SPAN class="ft1">4.</SPAN><SPAN class="ft64">Den medlemsstat där den faktiska betalningsmottagaren har skatterättsligt hemvist får ersätta den avräkning som avses i punkterna 2 och 3 med återbetalning av den källskatt som avses i artikel 11.</SPAN></P>
+<P class="p132 ft6">Artikel 15</P>
+<P class="p42 ft6">Överlåtbara skuldebrev</P>
+<P class="p133 ft7">1. Under den övergångsperiod som anges i artikel 10, men senast till och med den 31 december 2010, skall inhemska och internationella obligationer och andra överlåtbara skuldebrev som emitterats första gången före den 1 mars 2001 eller för vilka de ursprungliga</P>
+</DIV>
+<DIV id="id_2">
+<P class="p42 ft6">Prop. 2003/04:24</P>
+<P class="p42 ft6">Bilaga 1</P>
+<P class="p130 ft6">27</P>
+</DIV>
+</DIV>
+</DIV>
+<DIV id="page_28">
+
+
+<TABLE cellpadding=0 cellspacing=0 class="t17">
+<TR>
+	<TD class="tr21 td53"><SPAN class="p2 ft8">emissionsprospekten har godkänts före den tidpunkten av de behöriga</SPAN> </TD>
+	<TD class="tr21 td25"><SPAN class="p2 ft1">Prop. 2003/04:24</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr13 td53"><SPAN class="p2 ft8">myndigheterna på det sätt som avses i rådets direktiv 80/390/EEG<A href="#page_28"><SPAN class="ft68">14 </SPAN></A>eller</SPAN> </TD>
+	<TD class="tr13 td25"><SPAN class="p2 ft10">Bilaga 1</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr9 td53"><SPAN class="p2 ft8">av de ansvariga myndigheterna i tredje land, inte anses vara fordringar</SPAN> </TD>
+	<TD class="tr9 td25"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr9 td53"><SPAN class="p2 ft8">enligt artikel 6.1 a, under förutsättning att inga ytterligare emissioner av</SPAN> </TD>
+	<TD class="tr9 td25"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr12 td53"><SPAN class="p2 ft8">sådana överlåtbara skuldebrev görs den 1 mars 2002 eller senare. Om</SPAN> </TD>
+	<TD class="tr12 td25"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr9 td53"><SPAN class="p2 ft6">den övergångsperiod som anges i artikel 10 emellertid skulle fortsätta</SPAN> </TD>
+	<TD class="tr9 td25"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr9 td53"><SPAN class="p2 ft6">efter den 31 december 2010 skall bestämmelserna i denna artikel</SPAN> </TD>
+	<TD class="tr9 td25"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr9 td53"><SPAN class="p2 ft6">fortsätta att gälla endast för sådana överlåtbara skuldbrev</SPAN> </TD>
+	<TD class="tr9 td25"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+</TR>
+</TABLE>
+<P class="p158 ft6"><SPAN class="ft1">–</SPAN><SPAN class="ft25">som innehåller gross </SPAN><NOBR>up-klausuler</NOBR> och klausuler om förtida inlösen,</P>
+<P class="p121 ft6">och</P>
+<P class="p43 ft6"><SPAN class="ft1">–</SPAN><SPAN class="ft49">där betalningsombudet enligt definitionen i artikel 4 är etablerat i en medlemsstat som tillämpar den källskatt som anges i artikel 11 och detta betalningsombud betalar ränta eller sörjer för att ränta betalas till förmån för en faktisk betalningsmottagare som har sitt hemvist i en annan medlemsstat.</SPAN></P>
+<P class="p119 ft26">Om ytterligare emissioner görs den 1 mars 2002 eller senare av ovan nämnda överlåtbara skuldebrev som emitterats av en regering eller ett närstående rättssubjekt som agerar som myndighet eller vars roll erkänns i ett internationellt avtal enligt definitionen i bilagan, skall emissionen i sin helhet, inbegripet den ursprungliga emissionen och eventuella ytterligare emissioner, anses vara en fordran enligt artikel 6.1 a.</P>
+<P class="p44 ft6">Om ytterligare emissioner görs den 1 mars 2002 eller senare av ovan nämnda överlåtbara skuldebrev som emitterats av en emittent som inte omfattas av andra stycket, skall sådana ytterligare emissioner anses vara fordringar enligt artikel 6.1 a.</P>
+<P class="p44 ft6">2. Denna artikel skall dock inte hindra medlemsstaterna från att beskatta inkomster från sådana överlåtbara skuldebrev som avses i punkt 1 i enlighet med den nationella lagstiftningen.</P>
+<P class="p131 ft6">KAPITEL IV</P>
+<P class="p159 ft6">ÖVRIGA BESTÄMMELSER OCH SLUTBESTÄMMELSER</P>
+<P class="p135 ft6">Artikel 16</P>
+<P class="p42 ft6">Andra källskatter</P>
+<P class="p43 ft6">Detta direktiv skall inte hindra medlemsstaterna från att ta ut andra typer av källskatt än den som avses i artikel 11 i enlighet med sina nationella bestämmelser eller skatteavtal.</P>
+<P class="p159 ft6">Artikel 17</P>
+<P class="p42 ft6">Införlivande</P>
+<P class="p43 ft6"><SPAN class="ft1">1.</SPAN><SPAN class="ft58">Medlemsstaterna skall före den 1 januari 2004 anta och offentliggöra de bestämmelser i lagar och andra författningar som är nödvändiga för att följa detta direktiv. De skall genast underrätta kommissionen om detta.</SPAN></P>
+<P class="p43 ft6"><SPAN class="ft1">2.</SPAN><SPAN class="ft15">Medlemsstaterna skall tillämpa dessa bestämmelser från och med den 1 januari 2005 under förutsättning att</SPAN></P>
+<TABLE cellpadding=0 cellspacing=0 class="t19">
+<TR>
+	<TD class="tr13 td57"><SPAN class="p2 ft23"><SPAN class="ft22">14 </SPAN>EGT L 100, 17.4.1980, s. 1. Direktivet upphävt genom Europaparlamentets</SPAN> </TD>
+	<TD class="tr13 td58"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr9 td57"><SPAN class="p2 ft23">och rådets direktiv 2001/34/EG (EGT L 184, 6.7.2001, s. 1).</SPAN> </TD>
+	<TD class="tr9 td58"><SPAN class="p11 ft6">28</SPAN> </TD>
+</TR>
+</TABLE>
+</DIV>
+<DIV id="page_29">
+
+
+<TABLE cellpadding=0 cellspacing=0 class="t20">
+<TR>
+	<TD class="tr21 td53"><SPAN class="p160 ft8">i) Schweiziska edsförbundet, Furstendömet Lichtenstein, Republiken</SPAN> </TD>
+	<TD class="tr21 td25"><SPAN class="p2 ft1">Prop. 2003/04:24</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr13 td53"><SPAN class="p160 ft1">San Marino, Furstendömet Monaco och Furstendömet Andorra från och</SPAN> </TD>
+	<TD class="tr13 td25"><SPAN class="p2 ft10">Bilaga 1</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr9 td53"><SPAN class="p160 ft8">med samma tidpunkt tillämpar åtgärder likvärdiga med de som finns i</SPAN> </TD>
+	<TD class="tr9 td25"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr9 td53"><SPAN class="p160 ft6">detta direktiv i enlighet med de avtal som de ingått med Europeiska</SPAN> </TD>
+	<TD class="tr9 td25"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr12 td53"><SPAN class="p2 ft6">gemenskapen, enligt enhälliga beslut av rådet, och</SPAN> </TD>
+	<TD class="tr12 td25"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr9 td53"><SPAN class="p160 ft8">ii) alla avtal eller andra arrangemang är klara, i vilka det föreskrivs att</SPAN> </TD>
+	<TD class="tr9 td25"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr9 td53"><SPAN class="p160 ft8">alla berörda beroende eller associerade territorier (Kanalöarna, Isle of</SPAN> </TD>
+	<TD class="tr9 td25"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr9 td53"><SPAN class="p160 ft8">Man och de beroende eller associerade territorierna i Västindien), från</SPAN> </TD>
+	<TD class="tr9 td25"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr9 td53"><SPAN class="p160 ft8">och med samma tidpunkt tillämpar automatiskt utbyte av information på</SPAN> </TD>
+	<TD class="tr9 td25"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr9 td53"><SPAN class="p160 ft8">samma sätt som föreskrivs i kapitel II i detta direktiv, (eller under den</SPAN> </TD>
+	<TD class="tr9 td25"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr12 td53"><SPAN class="p160 ft1">övergångsperiod som anges i artikel 10 tillämpar en källskatt på samma</SPAN> </TD>
+	<TD class="tr12 td25"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr9 td53"><SPAN class="p2 ft6">villkor som finns i artiklarna 11 och 12).</SPAN> </TD>
+	<TD class="tr9 td25"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+</TR>
+</TABLE>
+<P class="p152 ft6"><SPAN class="ft1">3.</SPAN><SPAN class="ft15">Rådet skall senast sex månader före den 1 januari 2005 enhälligt besluta om huruvida det villkor som anges i punkt 2 kommer att uppfyllas med avseende på de datum då åtgärderna i fråga skall träda i kraft i de berörda tredje länderna och beroende eller associerade territorierna. Om rådet inte beslutar att villkoret kommer att uppfyllas skall rådet på förslag av kommissionen med enhällighet fastställa en ny tidpunkt för punkt 2.</SPAN></P>
+<P class="p36 ft6"><SPAN class="ft1">4.</SPAN><SPAN class="ft25">När medlemsstaterna antar de bestämmelser som är nödvändiga för att följa detta direktiv skall de innehålla en hänvisning till detta direktiv eller åtföljas av en sådan hänvisning när de offentliggörs. Närmare föreskrifter om hur hänvisningen skall göras skall varje medlemsstat själv utfärda.</SPAN></P>
+<P class="p110 ft7"><SPAN class="ft1">5.</SPAN><SPAN class="ft62">Medlemsstaterna skall genast underrätta kommissionen om detta och till kommissionen överlämna texten till de centrala bestämmelser i nationell lagstiftning som de antar inom det område som omfattas av detta direktiv samt en jämförelsetabell över bestämmelserna i detta direktiv och de nationella bestämmelser som antagits.</SPAN></P>
+<P class="p145 ft6">Artikel 18</P>
+<P class="p101 ft6">Översyn</P>
+<P class="p66 ft7">Kommissionen skall vart tredje år till rådet överlämna en rapport om tillämpningen av detta direktiv. På grundval av dessa rapporter skall kommissionen vid behov föreslå rådet de ändringar av detta direktiv som behövs för att bättre sörja för en faktisk beskattning av inkomster från sparande och eliminera oönskade snedvridningar av konkurrensen.</P>
+<P class="p161 ft6">Artikel 19</P>
+<P class="p101 ft6">Ikraftträdande</P>
+<P class="p9 ft6">Detta direktiv träder i kraft den tjugonde dagen efter det att det har offentliggjorts i Europeiska unionens officiella tidning.</P>
+<P class="p161 ft6">Artikel 20</P>
+<P class="p101 ft6">Adressater</P>
+<P class="p146 ft6">Detta direktiv riktar sig till medlemsstaterna.</P>
+<P class="p102 ft6">Utfärdat i Luxemburg den 3 juni 2003.</P>
+<P class="p162 ft6">29</P>
+</DIV>
+<DIV id="page_30">
+
+
+<TABLE cellpadding=0 cellspacing=0 class="t1">
+<TR>
+	<TD class="tr21 td53"><SPAN class="p2 ft6">På rådets vägnar</SPAN> </TD>
+	<TD class="tr21 td25"><SPAN class="p2 ft1">Prop. 2003/04:24</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr13 td53"><SPAN class="p2 ft57">&nbsp;</SPAN> </TD>
+	<TD class="tr13 td25"><SPAN class="p2 ft10">Bilaga 1</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr9 td53"><SPAN class="p2 ft6">N. CHRISTODOULAKIS</SPAN> </TD>
+	<TD class="tr9 td25"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr1 td53"><SPAN class="p2 ft6">Ordförande</SPAN> </TD>
+	<TD class="tr1 td25"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+</TR>
+</TABLE>
+<P class="p163 ft6">30</P>
+</DIV>
+<DIV id="page_31">
+
+
+<DIV>
+<DIV id="id_1">
+<P class="p42 ft6">BILAGA</P>
+<P class="p164 ft6">FÖRTECKNING ÖVER NÄRSTÅENDE RÄTTSSUBJEKT SOM AVSES I ARTIKEL 15</P>
+<P class="p134 ft6">I enlighet med artikel 15 kommer följande organ att anses vara ”ett närstående rättssubjekt som agerar som myndighet eller vars roll erkänns i ett internationellt avtal”:</P>
+<P class="p165 ft6">– Organ inom Europeiska unionen: Belgien</P>
+<P class="p166 ft6">Région flamande (Vlaams Gewest) (regionen Flandern) Région wallonne (regionen Vallonien)</P>
+<P class="p167 ft26">Région bruxelloise (Brussels Gewest) (Brysselregionen) Communauté française (den franskspråkiga gemenskapen)</P>
+<P class="p168 ft6">Communauté flamande (Vlaamse Gemeenschap) (den flamländska gemenskapen)</P>
+<P class="p139 ft6">Communauté germanophone (Deutschsprachige Gemeinschaft) (den tyskspråkiga gemenskapen)</P>
+<P class="p169 ft6">Spanien</P>
+<P class="p170 ft69">Xunta de Galicia (Galiciens regionala regering och parlament) Junta de Andalucía (Andalusiens regionala regering och parlament)</P>
+<P class="p171 ft6">Junta de Extremadura (Extremaduras regionala regering och parlament)</P>
+<P class="p139 ft6">Junta de <NOBR>Castilla-La</NOBR> Mancha <NOBR>(Castilla-La</NOBR> Manchas regionala regering och parlament)</P>
+<P class="p168 ft6">Junta de <NOBR>Castilla-León</NOBR> <NOBR>(Castilla-Leóns</NOBR> regionala regering och parlament)</P>
+<P class="p139 ft6">Gobierno Foral de Navarra (Navarras regionala regering och parlament)</P>
+<P class="p139 ft6">Govern de les Illes Balears (Balearernas regionala regering och parlament)</P>
+<P class="p168 ft6">Generalitat de Catalunya (Kataloniens regionala regering och parlament)</P>
+<P class="p172 ft26">Generalitat de Valencia (Valencias regionala regering och parlament) Disputación General de Aragón (Aragoniens regionala regering och</P>
+<P class="p42 ft6">parlament)</P>
+<P class="p168 ft6">Gobierno de las Islas Canarias (Kanarieöarnas regionala regering och parlament)</P>
+<P class="p173 ft6">Gobierno de Murcia (Murcias regionala regering och parlament) Gobierno de Madrid (Madrids regionala regering och parlament) Gobierno de la Communidad Autónoma del País Vasco/Euzkadi</P>
+<P class="p42 ft6">(Baskiens regionala regering och parlament)</P>
+<P class="p174 ft69">Disputación Foral de Guipúzcoa (Guipúzcoas deputerandeförsamling) Disputación Foral de Vizcaya/Bizkaya (Vizcayas</P>
+<P class="p175 ft6">deputerandeförsamling)</P>
+<P class="p176 ft69">Disputación Foral de Alava (Alavas deputerandeförsamling) Ayuntamiento de Madrid (Madrids stad)</P>
+<P class="p115 ft6">Ayuntamiento de Barcelona (Barcelona stad)</P>
+<P class="p168 ft6">Cabilod Insular de Gran Canaria (Gran Canarias gemensamma kommunstyrelse)</P>
+</DIV>
+<DIV id="id_2">
+<P class="p42 ft6">Prop. 2003/04:24</P>
+<P class="p42 ft6">Bilaga 1</P>
+<P class="p130 ft6">31</P>
+</DIV>
+</DIV>
+</DIV>
+<DIV id="page_32">
+
+
+<TABLE cellpadding=0 cellspacing=0 class="t21">
+<TR>
+	<TD class="tr22 td59"><SPAN class="p140 ft70">Cabildo</SPAN> </TD>
+	<TD class="tr22 td21"><SPAN class="p2 ft70">Insular</SPAN> </TD>
+	<TD class="tr22 td23"><SPAN class="p2 ft70">de</SPAN> </TD>
+	<TD class="tr22 td60"><SPAN class="p2 ft70">Tenerife</SPAN> </TD>
+	<TD class="tr22 td61"><SPAN class="p2 ft70">(Teneriffas</SPAN> </TD>
+	<TD class="tr22 td62"><SPAN class="p2 ft70">gemensamma Prop. 2003/04:24</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=2 class="tr23 td63"><SPAN class="p2 ft71">kommunstyrelse)</SPAN> </TD>
+	<TD class="tr23 td23"><SPAN class="p2 ft72">&nbsp;</SPAN> </TD>
+	<TD class="tr23 td60"><SPAN class="p2 ft72">&nbsp;</SPAN> </TD>
+	<TD class="tr23 td61"><SPAN class="p2 ft72">&nbsp;</SPAN> </TD>
+	<TD class="tr23 td62"><SPAN class="p177 ft71">Bilaga 1</SPAN> </TD>
+</TR>
+</TABLE>
+<P class="p146 ft73">Instituto de Crédito Oficial (Statens kreditinstitut)</P>
+<P class="p146 ft74">Instituto Catalán de Finanzas (Kataloniens finansinstitut)</P>
+<P class="p146 ft75">Instituto Valenciano de Finanzas (Valencias finansinstitut)</P>
+<P class="p178 ft70">Grekland</P>
+<P class="p179 ft76">Οργaνιsµός Τηλepικοινωνιών Ελλάdος (kontoret för grekisk telekommunikation)</P>
+<P class="p180 ft76">Οργaνιsµός Sιdηροdρόµων Ελλάdος (grekiska järnvägsnätsorganisationen)</P>
+<P class="p67 ft75">∆ηµόsιa Εpιχeίρηsη Ηλeκtριsµού (allmänna elbolaget)</P>
+<P class="p181 ft70">Frankrike</P>
+<P class="p106 ft74">La Caisse d'amortissement de la dette sociale (CADES) (amorteringsinstitutet för det sociala trygghetssystemets skuldsättning)</P>
+<P class="p182 ft76">L'Agence française de développement (AFD) (franska utvecklingsagenturen)</P>
+<P class="p183 ft70">Réseau Ferré de France (RFF) (franska järnvägsnätet)</P>
+<P class="p184 ft74">Caisse Nationale des Autoroutes (CNA) (nationella motorvägskassan) Assistance publique Hôpitaux de Paris (APHP) (Paris socialtjänst och</P>
+<P class="p101 ft71">sjukhus)</P>
+<P class="p146 ft74">Charbonnage de France (CDF) (Frankrikes kolgruvor)</P>
+<P class="p146 ft75">Entreprise minière et chimique (EMC) (gruvbolag och kemiskt bolag)</P>
+<P class="p178 ft70">Italien</P>
+<P class="p146 ft70">Regioner</P>
+<P class="p146 ft70">Provinser</P>
+<P class="p146 ft70">Kommuner</P>
+<P class="p146 ft75">Cassa Depositi e Prestiti (hypoteks- och kreditbank)</P>
+<P class="p178 ft70">Portugal</P>
+<P class="p146 ft70">Região Autónoma da Madeira (den autonoma regionen Madeira)</P>
+<P class="p146 ft71">Região Autonóma dos Açores (den autonoma regionen Azorerna)</P>
+<P class="p146 ft75">Kommuner</P>
+<P class="p185 ft70">– Internationella organ:</P>
+<P class="p186 ft74">Europeiska banken för återuppbyggnad och utveckling Europeiska investeringsbanken</P>
+<P class="p187 ft77">Asiatiska utvecklingsbanken Afrikanska utvecklingsbanken Världsbanken/IBRD/IMF Internationella finansieringsbolaget Interamerikanska utvecklingsbanken</P>
+<P class="p188 ft76">Europarådets social- och utvecklingsfond Euratom</P>
+<P class="p67 ft71">Europeiska gemenskapen</P>
+<P class="p189 ft76">Andiska utvecklingsorganisationen (ADC) Eurofima</P>
+<P class="p183 ft70">Europeiska kol- och stålgemenskapen</P>
+<P class="p146 ft78">Nordiska investeringsbanken</P>
+<P class="p104 ft71">32</P>
+</DIV>
+<DIV id="page_33">
+
+
+<TABLE cellpadding=0 cellspacing=0 class="t1">
+<TR>
+	<TD class="tr21 td53"><SPAN class="p190 ft6">Karibiska utvecklingsbanken</SPAN> </TD>
+	<TD class="tr21 td25"><SPAN class="p2 ft1">Prop. 2003/04:24</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr13 td53"><SPAN class="p160 ft10">Bestämmelserna i artikel 15 påverkar inte tillämpningen av några</SPAN> </TD>
+	<TD class="tr13 td25"><SPAN class="p2 ft10">Bilaga 1</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr9 td53"><SPAN class="p160 ft8">internationella åtaganden som medlemsstaterna kan ha ingått när det</SPAN> </TD>
+	<TD class="tr9 td25"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr9 td53"><SPAN class="p191 ft1">gäller ovan nämnda internationella organ.</SPAN> </TD>
+	<TD class="tr9 td25"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+</TR>
+</TABLE>
+<P class="p192 ft6">– Organ i tredje land:</P>
+<P class="p193 ft6">De organ som uppfyller följande kriterier:</P>
+<P class="p9 ft6"><SPAN class="ft1">1.</SPAN><SPAN class="ft24">Organet anses klart och tydligt vara ett offentligt organ i enlighet med nationella kriterier.</SPAN></P>
+<P class="p66 ft7"><SPAN class="ft1">2.</SPAN><SPAN class="ft50">Ett sådant offentligt organ är en </SPAN><NOBR>icke-marknadsproducent</NOBR> som förvaltar och finansierar ett antal verksamheter, som huvudsakligen tillhandahåller <NOBR>icke-marknadsförda</NOBR> varor och tjänster, för det allmännas bästa och som faktiskt kontrolleras av en allmän styrelseform.</P>
+<P class="p36 ft6"><SPAN class="ft1">3.</SPAN><SPAN class="ft24">Ett sådant offentligt organ är en stor och regelbunden emittent av skuldebrev.</SPAN></P>
+<P class="p194 ft8"><SPAN class="ft1">4.</SPAN><SPAN class="ft79">Den berörda staten kan säkerställa att ett sådant offentligt organ inte kommer att verkställa förtida inlösen vid fall av s.k. </SPAN><NOBR>gross-up</NOBR> klausuler.</P>
+<P class="p195 ft6">33</P>
+</DIV>
+<DIV id="page_34">
+<DIV id="dimg1">
+<INGENBILD zsrc="GR032434x1.jpg/" id="img1">
+</DIV>
+
+
+<DIV id="id_1">
+<DIV id="id_1_1">
+<P class="p42 ft4">Lagrådsremissens lagförslag</P>
+<P class="p196 ft6">Förslag till lag om ändring i lagen (2001:1227) om självdeklarationer och kontrolluppgifter</P>
+<P class="p197 ft6">Härigenom föreskrivs i fråga om lagen (2001:1227) om självdeklarationer och kontrolluppgifter</P>
+<P class="p139 ft6">dels att punkt 1 i ikraftträdande- och övergångsbestämmelserna skall ha följande lydelse,</P>
+<P class="p139 ft6">dels att det i lagen skall införas en ny paragraf, 12 kap. 3 a §, samt närmast före 12 kap. 3 a § en ny rubrik av följande lydelse.</P>
+<TABLE cellpadding=0 cellspacing=0 class="t22">
+<TR>
+	<TD class="tr9 td26"><SPAN class="p2 ft6">Nuvarande lydelse</SPAN> </TD>
+	<TD class="tr9 td64"><SPAN class="p37 ft1">Föreslagen lydelse</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr0 td26"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+	<TD class="tr0 td64"><SPAN class="p2 ft6">12 kap.</SPAN> </TD>
+</TR>
+</TABLE>
+</DIV>
+<DIV id="id_1_2">
+<P class="p42 ft6">Prop. 2003/04:24</P>
+<P class="p42 ft6">Bilaga 2</P>
+</DIV>
+</DIV>
+<DIV id="id_2">
+<P class="p198 ft18">Rådets direktiv om beskattning av inkomster från sparande i form av räntebetalningar</P>
+<P class="p199 ft6">3 a §</P>
+<P class="p200 ft6">Artiklarna <NOBR>2–15</NOBR> i rådets direktiv 2003/48/EG av den 3 juni 2003 om beskattning av inkomster från sparande i form av räntebetalningar<A href="#page_34"><SPAN class="ft21">1 </SPAN></A>gäller för betalningsombud och den behöriga myndigheten.</P>
+<P class="p201 ft6">1. Denna lag träder i kraft den 1 januari 2002, då lagen (1990:325) om självdeklaration och kontrolluppgifter skall upphöra att gälla. Den nya lagen skall tillämpas första gången vid 2002 års taxering med följande undantag:</P>
+<P class="p44 ft6"><SPAN class="ft1">a)</SPAN><SPAN class="ft25">2 kap. 1 § och </SPAN><NOBR>3–6</NOBR> §§, 7 § <NOBR>1–6,</NOBR> 8 §, 3 kap. 3 § samt 4 kap. 2 och 5 §§ tillämpas första gången vid 2003 års taxering, såvitt annat inte är föreskrivet i lagen (1999:265) om särskilt grundavdrag och deklarationsskyldighet för fysiska personer i vissa fall vid <NOBR>2000–2003</NOBR> års taxeringar,</P>
+<P class="p44 ft6"><SPAN class="ft8">b)</SPAN><SPAN class="ft49">2 kap. 2 § tillämpas första gången vid 2003 års taxering, dock skall vid 2003 års taxering procentsatsen vara 29,3 vid tillämpning av 2 kap. 2 § 1,</SPAN></P>
+<P class="p43 ft6"><SPAN class="ft8">c)</SPAN><SPAN class="ft15">2 kap. 7 § 7 tillämpas första gången vid 2003 års taxering på beskattningsår som börjat den 1 januari 2002 eller senare,</SPAN></P>
+<P class="p44 ft6"><SPAN class="ft8">d)</SPAN><SPAN class="ft24">6 kap. 10 § tillämpas första gången vid 2003 års taxering såvitt avser hänvisningen till 61 kap. 19 a och 19 b §§ inkomstskattelagen (1999:1229),</SPAN></P>
+<TABLE cellpadding=0 cellspacing=0 class="t23">
+<TR>
+	<TD class="tr12 td34"><SPAN class="p2 ft23"><SPAN class="ft22">1 </SPAN>EUT L 157, 26.6.2003, s. 38 (Celex 32003L0048).</SPAN> </TD>
+	<TD class="tr12 td65"><SPAN class="p11 ft6">34</SPAN> </TD>
+</TR>
+</TABLE>
+</DIV>
+</DIV>
+<DIV id="page_35">
+<DIV id="dimg1">
+<INGENBILD zsrc="GR032435x1.jpg/" id="img1">
+</DIV>
+
+<DIV id="tx1"><SPAN class="ft7">g) 12 kap. 2 och 3 §§ tillämpas första gången vid 2006 års taxering såvitt gäller skyldighet att ange mottagarens utländska skatteregistreringsnummer eller motsvarande.</SPAN></DIV>
+
+<P class="p154 ft6">e) andra bestämmelser om kontrolluppgiftsskyldighet än de i 10 kap. Prop. 2003/04:24 <NOBR>1–6</NOBR> §§ tillämpas första gången vid 2003 års taxering såvitt de innebär en Bilaga 2 utvidgning av denna skyldighet jämfört med motsvarande äldre</P>
+<P class="p101 ft6">bestämmelser,</P>
+<P class="p9 ft6">f) 12 kap. 1 § tillämpas första gången vid 2004 års taxering såvitt gäller skyldighet att lämna kontrolluppgift för andra juridiska personer än dödsbon, och</P>
+<P class="p202 ft6">g) 12 kap. 2 och 3 §§ tillämpas första gången vid 2005 års taxering såvitt gäller skyldighet att ange mottagarens utländska skatteregistreringsnummer eller motsvarande.</P>
+<P class="p192 ft6">Denna lag träder i kraft den dag regeringen bestämmer.</P>
+<P class="p203 ft6">35</P>
+</DIV>
+<DIV id="page_36">
+
+
+<TABLE cellpadding=0 cellspacing=0 class="t24">
+<TR>
+	<TD class="tr21 td66"></TD>
+	<TD rowspan=2 class="tr24 td53"><SPAN class="p2 ft4">Lagrådets yttrande</SPAN> </TD>
+	<TD class="tr21 td25"><SPAN class="p2 ft1">Prop. 2003/04:24</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr25 td66"></TD>
+	<TD rowspan=2 class="tr13 td25"><SPAN class="p2 ft10">Bilaga 3</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr26 td66"></TD>
+	<TD class="tr26 td53"><SPAN class="p2 ft80">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr27 td66"></TD>
+	<TD class="tr27 td53"><SPAN class="p2 ft6">Utdrag ur protokoll vid sammanträde <NOBR>2003-10-10</NOBR></SPAN> </TD>
+	<TD class="tr27 td25"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr0 td66"></TD>
+	<TD class="tr0 td53"><SPAN class="p2 ft6">Närvarande: f.d. regeringsrådet <NOBR>Karl-Ingvar</NOBR> Rundqvist, justitierådet</SPAN> </TD>
+	<TD class="tr0 td25"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr9 td66"></TD>
+	<TD class="tr9 td53"><SPAN class="p2 ft6">Nina Pripp och regeringsrådet Göran Schäder.</SPAN> </TD>
+	<TD class="tr9 td25"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr7 td66"></TD>
+	<TD class="tr7 td53"><SPAN class="p2 ft8">Enligt en lagrådsremiss den 9 oktober 2003 (Finansdepartementet) har</SPAN> </TD>
+	<TD class="tr7 td25"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr9 td66"></TD>
+	<TD class="tr9 td53"><SPAN class="p2 ft6">regeringen beslutat inhämta Lagrådets yttrande över förslag till lag om</SPAN> </TD>
+	<TD class="tr9 td25"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr12 td66"></TD>
+	<TD class="tr12 td53"><SPAN class="p2 ft8">ändring i lagen (2001:1227) om självdeklarationer och kontrolluppgifter.</SPAN> </TD>
+	<TD class="tr12 td25"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr7 td66"></TD>
+	<TD class="tr7 td53"><SPAN class="p2 ft1">Förslaget har inför Lagrådet föredragits av kammarrättsassessorn Fredrik</SPAN> </TD>
+	<TD class="tr7 td25"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr9 td66"></TD>
+	<TD class="tr9 td53"><SPAN class="p2 ft6">Löfstedt.</SPAN> </TD>
+	<TD class="tr9 td25"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr7 td66"></TD>
+	<TD class="tr7 td53"><SPAN class="p2 ft6">Förslaget föranleder följande yttrande av <SPAN class="ft81">Lagrådet</SPAN>:</SPAN> </TD>
+	<TD class="tr7 td25"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr0 td66"></TD>
+	<TD class="tr0 td53"><SPAN class="p2 ft6">I lagrådsremissen föreslås att lagen om självdeklarationer och</SPAN> </TD>
+	<TD class="tr0 td25"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr9 td66"></TD>
+	<TD class="tr9 td53"><SPAN class="p2 ft6">kontrolluppgifter kompletteras med en ny bestämmelse i syfte att i</SPAN> </TD>
+	<TD class="tr9 td25"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr9 td66"></TD>
+	<TD class="tr9 td53"><SPAN class="p2 ft8">svensk rätt genomföra rådets direktiv 2003/48/EG av den 3 juni 2003 om</SPAN> </TD>
+	<TD class="tr9 td25"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr9 td66"></TD>
+	<TD class="tr9 td53"><SPAN class="p2 ft8">beskattning av inkomster från sparande i form av räntebetalningar. Den</SPAN> </TD>
+	<TD class="tr9 td25"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr9 td66"></TD>
+	<TD class="tr9 td53"><SPAN class="p2 ft6">nya bestämmelsen anger att vissa artiklar i direktivet gäller för</SPAN> </TD>
+	<TD class="tr9 td25"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr12 td66"></TD>
+	<TD class="tr12 td53"><SPAN class="p2 ft8">betalningsombud och den behöriga myndigheten. I remissens motiv sägs</SPAN> </TD>
+	<TD class="tr12 td25"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr9 td66"></TD>
+	<TD class="tr9 td53"><SPAN class="p2 ft6">att den valda metoden för att genomföra direktiv i och för sig kan</SPAN> </TD>
+	<TD class="tr9 td25"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr9 td66"></TD>
+	<TD class="tr9 td53"><SPAN class="p2 ft8">diskuteras. Samtidigt framhålls att den korta tiden från rådets beslut om</SPAN> </TD>
+	<TD class="tr9 td25"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr9 td66"></TD>
+	<TD class="tr9 td53"><SPAN class="p2 ft6">direktivet till dess att detta skall vara genomfört – den 1 januari 2004 –</SPAN> </TD>
+	<TD class="tr9 td25"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr9 td66"></TD>
+	<TD class="tr9 td53"><SPAN class="p2 ft8">knappast medger någon annan metod för genomförandet. Det framhålls</SPAN> </TD>
+	<TD class="tr9 td25"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr9 td66"></TD>
+	<TD class="tr9 td53"><SPAN class="p2 ft8">också att direktivets bestämmelser skall tillämpas först från och med den</SPAN> </TD>
+	<TD class="tr9 td25"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr9 td66"></TD>
+	<TD class="tr9 td53"><SPAN class="p2 ft8">1 januari 2005 eller eventuellt senare samt att regeringen avser att göra</SPAN> </TD>
+	<TD class="tr9 td25"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr12 td66"></TD>
+	<TD class="tr12 td53"><SPAN class="p2 ft8">en noggrann analys av hur direktivets bestämmelser bättre kan införlivas</SPAN> </TD>
+	<TD class="tr12 td25"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr9 td66"></TD>
+	<TD class="tr9 td53"><SPAN class="p2 ft6">med svensk lagstiftning och därefter återkomma med förslag till de</SPAN> </TD>
+	<TD class="tr9 td25"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr9 td66"></TD>
+	<TD class="tr9 td53"><SPAN class="p2 ft6">lagändringar som behövs. Med hänsyn till att osäkerhet råder om från</SPAN> </TD>
+	<TD class="tr9 td25"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr9 td66"></TD>
+	<TD class="tr9 td53"><SPAN class="p2 ft6">vilken tidpunkt direktivets bestämmelser kommer att tillämpas föreslås</SPAN> </TD>
+	<TD class="tr9 td25"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr9 td66"></TD>
+	<TD class="tr9 td53"><SPAN class="p2 ft6">att regeringen ges möjlighet att bestämma vid vilken tidpunkt</SPAN> </TD>
+	<TD class="tr9 td25"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr9 td66"></TD>
+	<TD class="tr9 td53"><SPAN class="p2 ft6">lagändringen skall träda i kraft.</SPAN> </TD>
+	<TD class="tr9 td25"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr0 td66"></TD>
+	<TD class="tr0 td53"><SPAN class="p2 ft8">Den sålunda föreslagna regleringen får uppfattas som en rent provisorisk</SPAN> </TD>
+	<TD class="tr0 td25"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr9 td66"></TD>
+	<TD class="tr9 td53"><SPAN class="p2 ft6">lösning för att uppfylla kravet i direktivets artikel 17 om att</SPAN> </TD>
+	<TD class="tr9 td25"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr9 td66"></TD>
+	<TD class="tr9 td53"><SPAN class="p2 ft8">medlemsstaterna före den 1 januari 2004 skall anta och offentliggöra de</SPAN> </TD>
+	<TD class="tr9 td25"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr9 td66"></TD>
+	<TD class="tr9 td53"><SPAN class="p2 ft8">bestämmelser i lagar och andra författningar som är nödvändiga för att</SPAN> </TD>
+	<TD class="tr9 td25"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr9 td66"></TD>
+	<TD class="tr9 td53"><SPAN class="p2 ft6">följa direktivet.</SPAN> </TD>
+	<TD class="tr9 td25"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr0 td66"></TD>
+	<TD class="tr0 td53"><SPAN class="p2 ft6">I den nya bestämmelsen föreskrivs helt kortfattat att artiklarna <NOBR>2–15</NOBR> i</SPAN> </TD>
+	<TD class="tr0 td25"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr9 td66"></TD>
+	<TD class="tr9 td53"><SPAN class="p2 ft6">direktivet gäller för betalningsombud och den behöriga myndigheten.</SPAN> </TD>
+	<TD class="tr9 td25"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr9 td66"></TD>
+	<TD class="tr9 td53"><SPAN class="p2 ft6">Någon beskrivning av artiklarnas innehåll görs inte. Beteckningarna</SPAN> </TD>
+	<TD class="tr9 td25"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr9 td66"></TD>
+	<TD class="tr9 td53"><SPAN class="p2 ft8">”betalningsombud” och ”den behöriga myndigheten” – som inte annars</SPAN> </TD>
+	<TD class="tr9 td25"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr9 td66"></TD>
+	<TD class="tr9 td53"><SPAN class="p2 ft6">förekommer i den aktuella lagen – används oförmedlat i lagtexten utan</SPAN> </TD>
+	<TD class="tr9 td25"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr12 td66"></TD>
+	<TD class="tr12 td53"><SPAN class="p2 ft6">föregående definition. För att över huvud taget få en uppfattning om</SPAN> </TD>
+	<TD class="tr12 td25"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr9 td66"></TD>
+	<TD class="tr9 td53"><SPAN class="p2 ft8">innebörden av bestämmelsen förutsätts ett närmare studium av direktivet.</SPAN> </TD>
+	<TD class="tr9 td25"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr9 td66"></TD>
+	<TD class="tr9 td53"><SPAN class="p2 ft8">Direktivet är fogat som bilaga till lagrådsremissen men avses inte utgöra</SPAN> </TD>
+	<TD class="tr9 td25"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+</TR>
+</TABLE>
+<P class="p204 ft6">36</P>
+</DIV>
+<DIV id="page_37">
+
+
+<TABLE cellpadding=0 cellspacing=0 class="t1">
+<TR>
+	<TD colspan=2 class="tr21 td67"><SPAN class="p2 ft6">bilaga till själva lagförslaget. Det</SPAN> </TD>
+	<TD colspan=3 class="tr21 td68"><SPAN class="p160 ft6">är givetvis publicerat i Europeiska</SPAN> </TD>
+	<TD class="tr21 td25"><SPAN class="p2 ft1">Prop. 2003/04:24</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=2 class="tr13 td67"><SPAN class="p2 ft8">gemenskapernas officiella tidning.</SPAN> </TD>
+	<TD class="tr13 td69"><SPAN class="p2 ft57">&nbsp;</SPAN> </TD>
+	<TD class="tr13 td33"><SPAN class="p2 ft57">&nbsp;</SPAN> </TD>
+	<TD class="tr13 td70"><SPAN class="p2 ft57">&nbsp;</SPAN> </TD>
+	<TD class="tr13 td25"><SPAN class="p2 ft10">Bilaga 3</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=5 class="tr7 td53"><SPAN class="p2 ft6">Lagrådet ställer sig tveksamt till den valda metoden för att genomföra</SPAN> </TD>
+	<TD class="tr7 td25"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=5 class="tr12 td53"><SPAN class="p2 ft6">direktivet även om det är fråga om ett provisorium för måhända</SPAN> </TD>
+	<TD class="tr12 td25"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=5 class="tr9 td53"><SPAN class="p2 ft6">begränsad tid. Direktivet synes bättre lämpat att införliva genom</SPAN> </TD>
+	<TD class="tr9 td25"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=5 class="tr9 td53"><SPAN class="p2 ft6">transformering än genom inkorporering bl.a. med hänsyn till att</SPAN> </TD>
+	<TD class="tr9 td25"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=5 class="tr9 td53"><SPAN class="p2 ft6">regleringen – även om de skyldigheter som följer därav främst avser</SPAN> </TD>
+	<TD class="tr9 td25"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr9 td8"><SPAN class="p2 ft6">banker,</SPAN> </TD>
+	<TD class="tr9 td71"><SPAN class="p2 ft6">kreditmarknadsföretag</SPAN> </TD>
+	<TD class="tr9 td69"><SPAN class="p38 ft6">och</SPAN> </TD>
+	<TD class="tr9 td33"><SPAN class="p2 ft6">värdepappersbolag</SPAN> </TD>
+	<TD class="tr9 td70"><SPAN class="p160 ft82">samt</SPAN> </TD>
+	<TD class="tr9 td25"><SPAN class="p2 ft3">&nbsp;</SPAN> </TD>
+</TR>
+</TABLE>
+<P class="p205 ft6">skattemyndigheter – bör vara av stort intresse för enskilda personer.</P>
+<P class="p206 ft26">Det är inte heller självklart att enbart en inkorporering i svensk rätt av direktivets bestämmelser verkligen uppfyller kravet i artikel 17 på att nödvändiga lagar och andra författningar skall ha antagits. För att man med någon grad av säkerhet skall kunna uttala sig i den frågan krävs en analys av de redan befintliga författningarna på området, som ju efter den nu aktuella lagändringens ikraftträdande kommer att fortsätta att gälla vid sidan av direktivbestämmelserna. Att en sådan analys inte har kunnat genomföras på den korta tid som stått till departementets förfogande är fullt begripligt. Den tidsram som direktivet ger medlemsländerna för genomförandet framstår för Lagrådet som helt orealistisk. Mot bakgrund av att bestämmelserna ändå inte skall tillämpas förrän allra tidigast den 1 januari 2005 förefaller tidspressen dessutom vara svårförklarlig. Lagrådet förordar att det för svensk lagstiftning sedvanliga beredningsarbetet, vilket enligt vad som upplysts under föredragningen har påbörjats, får ha sin gång innan direktivet införlivas.</P>
+<P class="p207 ft6">Mot bakgrund av det anförda anser sig Lagrådet inte kunna tillstyrka en genomförandereglering av föreslagen utformning.</P>
+<P class="p103 ft7">Skulle regeringen trots detta välja att gå fram med den föreslagna lagändringen vill Lagrådet påpeka att inte enbart betalningsombud och den behöriga myndigheten torde beröras. Åtminstone artikel 14, som handlar om undanröjande av dubbelbeskattning, skulle också svenska domstolar kunna komma att behöva tillämpa. Det förefaller då säkrare att, som i lagen (1969:200) om uttagande av utländsk tull, annan skatt, avgift eller pålaga, säga att direktivets aktuella bestämmelser skall gälla som svensk lag utan att ange för vilka detta skall gälla.</P>
+<P class="p208 ft6">En i övrigt föreslagen justering av övergångsregleringen till lagen om självdeklarationer och kontrolluppgifter föranleder ingen erinran av Lagrådet.</P>
+<P class="p209 ft6">37</P>
+</DIV>
+<DIV id="page_38">
+<DIV id="dimg1">
+<INGENBILD zsrc="GR032438x1.jpg/" id="img1">
+</DIV>
+
+
+<DIV class="dclr"></DIV>
+<DIV>
+<DIV id="id_1">
+<P class="p42 ft4">Finansdepartementet</P>
+<P class="p210 ft6">Utdrag ur protokoll vid regeringssammanträde den 16 oktober 2003</P>
+<P class="p211 ft6">Närvarande: statsrådet Winberg, ordförande, och statsråden Sahlin, Pagrotsky, Messing, Engqvist, Lövdén, Ringholm, Bodström, Sommestad, Karlsson, Lund, Nykvist, Andnor, Nuder, Hallengren, Björklund, Holmberg, Jämtin</P>
+<P class="p159 ft6">Föredragande: statsrådet Ringholm</P>
+<P class="p212 ft6">Regeringen beslutar proposition 2003/04:24 Skatteadministrativt samarbete i EU</P>
+</DIV>
+<DIV id="id_2">
+<P class="p42 ft6">Prop. 2003/04:24</P>
+<P class="p42 ft6">Bilaga 3</P>
+<P class="p130 ft6">38</P>
+</DIV>
+</DIV>
+</DIV>
+
+</div><style>
+
+
+TD,TD.p2h {
+zzzfont-size:90%;
+zzzmargin-right:2px;
+zzzoverflow:visable;
+zzzword-wrap: break-word;
+}
+
+P {
+zdisplay:block;
+}
+
+.divbreak {
+clear:both;
+display:block;
+zwidth: 100%;
+zheight: 1px;
+zword-wrap: break-word;
+}
+
+
+.xecp {
+  display:block;
+  margin: 0px !important;
+  padding: 0px !important;
+  
+}
+
+.ec {
+  border-style:solid;
+  border-width:1px;
+  display:block;
+  margin: 0px !important;
+  padding: 0px !important;
+}
+
+.TOPS {
+  overflow:visable;
+  margin:2px;
+  width:690px !important;
+}
+
+</style>

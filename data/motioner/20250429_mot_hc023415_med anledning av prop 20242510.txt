@@ -1,0 +1,792 @@
+SEARCH TERM: artificiell intelligens
+DOCUMENT ID: hc023415
+TITLE: med anledning av prop. 2024/25:100 2025 års ekonomiska vårproposition
+TYPE: mot
+SUBTYPE: Partimotion
+DATE: 2025-04-29
+PARLIAMENTARY YEAR: 2024/25
+ORGANISATION: FiU
+STATUS: Klar
+DOWNLOADED: 2026-01-22 10:24:38
+================================================================================
+
+<style><!-- 
+ @page Section1 { size:595.3pt 841.9pt; margin:35.45pt 85.05pt 56.7pt }
+div.Section1 { page:Section1 }
+div.pconf body { t-i:14.2pt; line-height:15pt; font-family:'Verdana'; font-size: 0.90em }
+div.pconf h1, h2, h3, h4, h5, h6, p { margin:0pt }
+div.pconf li, table { margin-top:0pt; margin-bottom:0pt }
+div.pconf h1 { margin-top:41pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:19.5pt; font-family:'Verdana'; font-size: 1.05em; font-weight:normal; color:#000000 }
+div.pconf h2 { margin-top:30pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:17pt; font-family:'Verdana'; font-size: 1.00em; font-weight:normal; color:#000000 }
+div.pconf h3 { margin-top:18pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:17pt; font-family:'Verdana'; font-size: 0.90em; font-weight:bold; color:#000000 }
+div.pconf h4 { margin-top:18pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:17pt; font-family:'Verdana'; font-size: 0.90em; font-weight:normal; font-style:italic; color:#000000 }
+div.pconf h5 { margin-top:15pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:17pt; font-family:'Verdana'; font-size: 0.90em; font-weight:bold; font-style:normal; color:#000000 }
+div.pconf h6 { margin-top:15pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:17pt; font-family:'Verdana'; font-size: 0.90em; font-weight:normal; font-style:italic; color:#000000 }
+.Heading7 { margin-top:15pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:17pt; font-family:'Verdana'; font-size: 0.90em; font-weight:normal; font-style:italic; color:#000000; -aw-style-name:heading7 }
+.Heading8 { margin-top:15pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:17pt; font-family:'Verdana'; font-size: 0.90em; font-weight:normal; font-style:italic; color:#000000; -aw-style-name:heading8 }
+.Heading9 { margin-top:0pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:17pt; font-family:'Verdana'; font-size: 0.90em; font-weight:normal; font-style:italic; color:#000000; -aw-style-name:heading9 }
+.BalloonText { margin-bottom:0pt; t-i:14.2pt; line-height:normal; font-family:'Segoe UI'; font-size: 0.90em }
+.Beteckning { margin-top:18pt; margin-bottom:0pt; t-i:14.2pt; page-break-inside:auto; page-break-after:auto; line-height:19.5pt; font-size: 1.05em }
+.BlockText, .Inramatstycke { margin-right:56.7pt; margin-left:56.7pt; margin-bottom:0pt; t-i:0pt; text-align:nojustify; line-height:15pt; border:0.75pt solid #000000; padding:10pt; font-size: 0.90em; font-style:italic; -aw-border:0.25pt single }
+.Citaticitat { margin-top:7.5pt; margin-left:34pt; margin-bottom:0pt; t-i:0pt; line-height:12pt; font-size: 0.90em }
+.Citaticitatmedindrag { margin-top:0pt; margin-left:34pt; margin-bottom:7.5pt; t-i:17pt; line-height:12pt; font-size: 0.90em }
+.Citatmedindrag { margin-top:0pt; margin-left:17pt; margin-bottom:0pt; t-i:17pt; line-height:12pt; font-size: 0.90em }
+.CommentSubject { margin-bottom:0pt; t-i:14.2pt; line-height:normal; font-size: 0.90em; font-weight:bold }
+.CommentText { margin-bottom:0pt; t-i:14.2pt; line-height:normal; font-size: 0.90em }
+.FSHLogo { margin-top:4pt; margin-bottom:0pt; t-i:0pt; line-height:normal; font-size: 0.90em }
+.FSHNormL { margin-top:4pt; margin-bottom:0pt; t-i:0pt; line-height:15pt; border-top:1.5pt solid #000000; padding-top:3pt; font-size: 0.90em }
+.FSHNormal { margin-top:4pt; margin-bottom:0pt; t-i:0pt; line-height:15pt; font-size: 0.90em }
+.FSHNormalS5 { margin-top:11.5pt; margin-bottom:26pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-size: 0.95em; font-weight:bold }
+.FSHRub1, .Rubrik1S5 { margin-top:135pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:16pt; font-size: 1.00em }
+.FSHRub2, .Rubrik1A4 { margin-top:50pt; margin-bottom:5pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:24pt; font-size: 1.05em }
+.FSHTitel, .Dokumentrubrik { margin-top:4pt; margin-bottom:4pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:20pt; border-bottom:0.75pt solid #000000; padding-bottom:3pt; font-size: 1.05em; -aw-border-bottom:0.5pt single }
+.Footer { margin-top:4pt; margin-bottom:0pt; t-i:0pt; text-align:center; line-height:normal; font-size: 0.90em }
+.FootnoteText { margin-top:0pt; margin-bottom:0pt; t-i:0pt; line-height:12pt; font-size: 0.90em }
+.Frslagsrubrik { margin-top:41pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:19.5pt; font-family:'Verdana'; font-size: 1.05em }
+.Frslagstext, .Hemstlatt, .Yrkande { margin-top:4pt; margin-left:19.85pt; margin-bottom:0pt; t-i:-19.85pt; line-height:15pt; font-size: 0.90em }
+.Header { margin-top:4pt; margin-bottom:0pt; t-i:0pt; line-height:normal; font-size: 0.90em }
+.KantRubrikS5H { margin-top:6pt; margin-right:2.85pt; margin-bottom:0pt; t-i:0pt; text-align:right; line-height:8pt; font-size: 0.90em }
+.KantRubrikS5Hrad2 { margin-top:0pt; margin-right:2.85pt; margin-bottom:0pt; t-i:0pt; text-align:right; line-height:10pt; font-size: 0.90em }
+.KantRubrikS5V { margin-top:6pt; margin-right:0pt; margin-bottom:0pt; t-i:0pt; text-align:left; line-height:8pt; font-size: 0.90em }
+.KantRubrikS5Vrad2 { margin-top:0pt; margin-right:0pt; margin-bottom:0pt; t-i:0pt; text-align:left; line-height:10pt; font-size: 0.90em }
+.KantrubrikH { margin-top:4pt; margin-right:-82.2pt; margin-bottom:0pt; t-i:0pt; text-align:right; line-height:15pt; font-size: 0.90em }
+.KantrubrikV { margin-top:4pt; margin-left:-85.05pt; margin-bottom:0pt; t-i:0pt; line-height:normal; font-size: 0.90em }
+.Klla { margin-top:0pt; margin-bottom:0pt; t-i:0pt; line-height:12pt; font-size: 0.90em }
+.Lagtext { margin-top:4pt; margin-bottom:0pt; t-i:0pt; line-height:normal; font-size: 0.90em }
+.Lagtextindrag { margin-top:4pt; margin-bottom:0pt; t-i:14.2pt; line-height:normal; font-size: 0.90em }
+.Lagtextrubrik { margin-top:4pt; margin-bottom:0pt; t-i:0pt; line-height:normal; font-size: 0.90em; font-style:italic; letter-spacing:1pt }
+.List { margin-top:7.5pt; margin-left:17pt; margin-bottom:7.5pt; t-i:-17pt; line-height:15pt; font-size: 0.90em }
+.ListBullet, .PunktlistaBomb { margin-top:4pt; margin-left:14.2pt; margin-bottom:0pt; t-i:-14.2pt; line-height:15pt; font-size: 0.90em }
+.ListNumber, .PunktlistaNummer { margin-top:4pt; margin-left:14.2pt; margin-bottom:0pt; t-i:-14.2pt; line-height:15pt; font-size: 0.90em }
+.ListParagraph { margin-left:36pt; margin-bottom:0pt; t-i:14.2pt; line-height:15pt; font-size: 0.90em }
+.ListaGemener { margin-top:7.5pt; margin-left:17pt; margin-bottom:7.5pt; t-i:-17pt; line-height:15pt; font-size: 0.90em }
+.ListaLinje { margin-top:7.5pt; margin-left:19pt; margin-bottom:7.5pt; t-i:-19pt; line-height:15pt; font-size: 0.90em }
+.ListaNummer { margin-top:7.5pt; margin-left:17pt; margin-bottom:7.5pt; t-i:-17pt; line-height:15pt; font-size: 0.90em }
+.ListaPunkt { margin-top:7.5pt; margin-left:17pt; margin-bottom:7.5pt; t-i:-17pt; line-height:15pt; font-size: 0.90em }
+.MotionTIllRiksdagen { margin-top:18pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:19.5pt; font-size: 1.05em }
+.Motionr { margin-top:14pt; margin-bottom:31.5pt; t-i:0pt; page-break-inside:avoid; line-height:15pt; font-size: 1.00em; font-weight:bold; font-style:normal }
+.Motiveringrubrik2numrerat1 { margin-top:30pt; margin-left:0pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:17pt; font-family:'Verdana'; font-size: 1.00em }
+.Motiveringrubrik3numrerat1 { margin-top:18pt; margin-left:0pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:17pt; font-family:'Verdana'; font-size: 0.90em; font-weight:bold }
+.Motiveringrubrik3numrerat11 { margin-top:18pt; margin-left:0pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:17pt; font-family:'Verdana'; font-size: 0.90em; font-weight:bold }
+.Motiveringrubrik4numrerat11 { margin-top:18pt; margin-left:0pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:17pt; font-family:'Verdana'; font-size: 0.90em; font-weight:normal; font-style:italic }
+.NormalIndent { margin-left:65.2pt; margin-bottom:0pt; t-i:14.2pt; line-height:15pt; font-size: 0.90em }
+.Normalutanindragellerluft { margin-top:4pt; margin-bottom:0pt; t-i:0pt; line-height:15pt; font-size: 0.90em }
+.Normal00 { margin-top:4pt; margin-bottom:0pt; t-i:0pt; line-height:normal; font-size: 0.90em }
+.NormalA4fot { margin-top:12pt; margin-bottom:0pt; t-i:0pt; text-align:center; line-height:normal; font-size: 0.90em }
+.NormalA4sidnr { margin-top:4pt; margin-bottom:12pt; t-i:0pt; text-align:center; line-height:normal; font-size: 0.90em }
+.NormalS5sidnrH { margin-top:4pt; margin-right:2.85pt; margin-bottom:0pt; t-i:0pt; text-align:right; line-height:normal; font-size: 0.90em }
+.NormalS5sidnrV { margin-top:4pt; margin-right:0pt; margin-bottom:0pt; t-i:0pt; text-align:left; line-height:normal; font-size: 0.90em }
+.PlainText { margin-bottom:0pt; t-i:0pt; line-height:12pt; font-family:'Verdana'; font-size: 0.90em }
+.Quote { margin-top:7.5pt; margin-left:17pt; margin-bottom:0pt; t-i:0pt; line-height:12pt; font-size: 0.90em }
+.R1 { margin-top:41pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:19.5pt; font-family:'Verdana'; font-size: 1.05em }
+.R2 { margin-top:30pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:17pt; font-family:'Verdana'; font-size: 1.00em }
+.R3 { margin-top:18pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:17pt; font-family:'Verdana'; font-size: 0.90em; font-weight:bold }
+.Rubrik1numrerat { margin-top:41pt; margin-left:0pt; margin-bottom:0pt; t-i:0pt; page-break-inside:auto; page-break-after:avoid; line-height:19.5pt; font-family:'Verdana'; font-size: 1.05em }
+.Rubrik2numrerat { margin-top:30pt; margin-left:0pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:17pt; font-family:'Verdana'; font-size: 1.00em }
+.Rubrik3numrerat { margin-top:18pt; margin-left:0pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:17pt; font-family:'Verdana'; font-size: 0.90em; font-weight:bold }
+.Rubrik4numrerat { margin-top:18pt; margin-left:0pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:17pt; font-family:'Verdana'; font-size: 0.90em; font-weight:normal; font-style:italic }
+.RubrikFrslagTIllRiksdagsbeslut { margin-top:41pt; margin-bottom:15pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:19.5pt; font-family:'Verdana'; font-size: 1.05em }
+.RubrikInnehllsf { margin-top:41pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:19.5pt; font-family:'Verdana'; font-size: 1.05em }
+.RubrikSammanf { margin-top:41pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:19.5pt; font-family:'Verdana'; font-size: 1.05em }
+.Salutation { margin-top:41pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:19.5pt; font-family:'Verdana'; font-size: 1.05em }
+.Streckkod { margin-top:12pt; margin-bottom:0pt; t-i:0pt; text-align:center; line-height:normal; font-family:IDAutomationHC39S; font-size: 1.00em }
+.Strecklista, .PunktlistaTankstreck { margin-top:4pt; margin-left:14.2pt; margin-bottom:0pt; t-i:-14.2pt; line-height:15pt; font-size: 0.90em }
+.Subtitle { margin-top:4pt; margin-bottom:0pt; t-i:0pt; line-height:15pt; font-family:'Verdana'; font-size: 0.90em; font-weight:bold }
+.TOC1 { margin-top:4pt; margin-bottom:0pt; t-i:0pt; line-height:15pt; font-size: 0.90em }
+.TOC2 { margin-top:4pt; margin-left:14.2pt; margin-bottom:0pt; t-i:0pt; line-height:15pt; font-size: 0.90em }
+.TOC3 { margin-top:4pt; margin-left:28.35pt; margin-bottom:0pt; t-i:0pt; line-height:15pt; font-size: 0.90em }
+.TOC4 { margin-top:4pt; margin-left:42.55pt; margin-bottom:0pt; t-i:0pt; line-height:15pt; font-size: 0.90em }
+.TOC5 { margin-top:4pt; margin-left:56.7pt; margin-bottom:0pt; t-i:0pt; line-height:15pt; font-size: 0.90em }
+.TOC6 { margin-top:4pt; margin-left:56.7pt; margin-bottom:0pt; t-i:0pt; line-height:15pt; font-size: 0.90em }
+.TOC7 { margin-top:15pt; margin-left:56.7pt; margin-bottom:0pt; t-i:14.2pt; page-break-inside:avoid; page-break-after:avoid; line-height:normal; font-family:'Verdana'; font-size: 0.90em; font-weight:normal; font-style:italic }
+.TOC8 { margin-top:15pt; margin-left:56.7pt; margin-bottom:0pt; t-i:14.2pt; page-break-inside:avoid; page-break-after:avoid; line-height:normal; font-family:'Verdana'; font-size: 0.90em; font-weight:normal; font-style:italic }
+.TOC9 { margin-top:15pt; margin-left:56.7pt; margin-bottom:0pt; t-i:14.2pt; page-break-inside:avoid; page-break-after:avoid; line-height:normal; font-family:'Verdana'; font-size: 0.90em; font-weight:normal; font-style:italic }
+.TOCHeading { margin-top:41pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:19.5pt; font-family:'Verdana'; font-size: 1.05em }
+.Tabellunderrubrik { margin-top:0pt; margin-bottom:0pt; t-i:0pt; page-break-after:avoid; line-height:15pt; font-size: 0.90em; font-weight:normal; font-style:italic }
+.Tabellrubrik { margin-top:7.5pt; margin-bottom:0pt; t-i:0pt; page-break-after:avoid; line-height:15pt; font-size: 0.90em; font-weight:bold }
+.Title { margin-top:41pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:19.5pt; font-family:'Verdana'; font-size: 1.05em }
+.Underskriftdatum { margin-top:24pt; margin-bottom:3pt; t-i:0pt; page-break-inside:avoid; line-height:15pt; font-size: 0.90em; font-style:normal }
+.Underskrifter { margin-top:15pt; margin-bottom:3pt; t-i:0pt; page-break-inside:avoid; line-height:15pt; font-size: 0.90em; font-style:italic }
+.Yrkandehnv, .Frslagspunkthnv { margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; font-size: 0.90em }
+span.BallongtextChar { font-family:'Segoe UI'; font-size: 0.90em }
+span.BeteckningChar { font-size:19.5pt }
+span.CommentReference { font-size:8pt }
+span.FSHRub2Char, span.Rubrik1A4Char { font-size:24pt }
+span.FotnotstextChar { font-size:10pt }
+span.Hyperlink { text-decoration:underline; color:#0563c1; -aw-style-name:hyperlink }
+span.InledningChar { font-family:'Verdana'; font-size: 1.00em; font-weight:bold }
+span.IntenseReference { font-weight:normal; font-style:normal; font-variant:normal; text-decoration:none; text-transform:none; letter-spacing:0pt; vertical-align:0pt; color:#000000; display:inline }
+span.KommentarerChar { font-size:10pt }
+span.KommentarsmneChar { font-size:10pt; font-weight:bold }
+span.MotionTIllRiksdagenChar { font-size:19.5pt }
+span.OformateradtextChar { font-family:'Verdana'; font-size: 0.90em }
+span.PlaceholderText { color:#f4b083 }
+span.Rubrik1Char { font-family:'Verdana'; font-size: 1.05em }
+span.Rubrik2Char { font-family:'Verdana'; font-size: 1.00em }
+span.Rubrik3Char { font-family:'Verdana'; font-size: 0.90em; font-weight:bold }
+span.Rubrik4Char { font-family:'Verdana'; font-size: 0.90em; font-style:italic }
+span.Rubrik5Char { font-family:'Verdana'; font-weight:bold }
+span.Rubrik6Char { font-family:'Verdana'; font-style:italic }
+span.Rubrik7Char { font-family:'Verdana'; font-size: 0.90em; font-weight:bold }
+span.Rubrik8Char { font-family:'Verdana'; font-size: 0.90em; font-weight:bold }
+span.Rubrik9Char { font-family:'Verdana'; font-size: 0.90em; font-weight:bold }
+span.RubrikChar { font-family:'Verdana'; font-size: 1.00em; font-weight:bold }
+span.SidfotChar { font-size:11.5pt }
+span.UnderrubrikChar { font-family:'Verdana'; font-size: 0.90em; font-weight:bold }
+.TableGrid {  }
+
+.pconf{width: 450px;margin-left:5px;overflow:visable;font-family:Verdana, Geneva, sans-serif;} 
+ .sidhuvud_publikation, .sidhuvud_beteckning{font-size:133%}
+.MotionarLista {font-size:122%}
+
+--></style><div class="pconf"><span class="sidhuvud_publikation">Motion till riksdagen</span><br/>
+<span class="sidhuvud_beteckning">2024/25:3415</span><br/>
+<span class="MotionarLista">av Magdalena Andersson m.fl. (S)</span><br/>
+<h1>med anledning av prop. 2024/25:100 2025 års ekonomiska vårproposition</h1>
+<hr class="sidhuvud_linje"/>
+
+
+		<div class="Section1">
+			<div style="-aw-sdt-tag:''">
+				<p class="TOCHeading">
+					<a name="_Toc106800475"><span>Innehållsförteckning</span></a>
+				</p>
+				<p class="TOC1">
+					<a href="#_Toc198025165" style="text-decoration:none"><span class="Hyperlink" style="text-decoration:none; color:#000000">Förslag till riksdagsbeslut</span></a>
+				</p>
+				<p class="TOC1">
+					<a href="#_Toc198025166" style="text-decoration:none"><span class="Hyperlink" style="text-decoration:none; color:#000000">Sverige behöver en ny riktning</span></a>
+				</p>
+				<p class="TOC1">
+					<a href="#_Toc198025167" style="text-decoration:none"><span class="Hyperlink" style="text-decoration:none; color:#000000">1 Ett osäkert ekonomiskt läge</span></a>
+				</p>
+				<p class="TOC2">
+					<a href="#_Toc198025168" style="text-decoration:none"><span class="Hyperlink" style="text-decoration:none; color:#000000">1.1 Sverige blir fattigare</span></a>
+				</p>
+				<p class="TOC2">
+					<a href="#_Toc198025169" style="text-decoration:none"><span class="Hyperlink" style="text-decoration:none; color:#000000">1.2 Svensk tillväxt i Europas bottenliga</span></a>
+				</p>
+				<p class="TOC2">
+					<a href="#_Toc198025170" style="text-decoration:none"><span class="Hyperlink" style="text-decoration:none; color:#000000">1.3 Arbetslöshet på rekordnivåer</span></a>
+				</p>
+				<p class="TOC2">
+					<a href="#_Toc198025171" style="text-decoration:none"><span class="Hyperlink" style="text-decoration:none; color:#000000">1.4 Vanligt folk blir fattigare</span></a>
+				</p>
+				<p class="TOC2">
+					<a href="#_Toc198025172" style="text-decoration:none"><span class="Hyperlink" style="text-decoration:none; color:#000000">1.5 SD-regeringen skär ned på välfärden</span></a>
+				</p>
+				<p class="TOC2">
+					<a href="#_Toc198025173" style="text-decoration:none"><span class="Hyperlink" style="text-decoration:none; color:#000000">1.6 En ny värld kräver nya verktyg</span></a>
+				</p>
+				<p class="TOC1">
+					<a href="#_Toc198025174" style="text-decoration:none"><span class="Hyperlink" style="text-decoration:none; color:#000000">2 Sverige hade kunnat vara i ett annat läge</span></a>
+				</p>
+				<p class="TOC2">
+					<a href="#_Toc198025175" style="text-decoration:none"><span class="Hyperlink" style="text-decoration:none; color:#000000">2.1 Urval av reformer i Socialdemokraternas förslag till budget för 2025</span></a>
+				</p>
+				<p class="TOC1">
+					<a href="#_Toc198025176" style="text-decoration:none"><span class="Hyperlink" style="text-decoration:none; color:#000000">3 Reformer för ett starkt, säkert och rättvist Sverige</span></a>
+				</p>
+				<p class="TOC2">
+					<a href="#_Toc198025177" style="text-decoration:none"><span class="Hyperlink" style="text-decoration:none; color:#000000">3.1 Satsningar för vanligt folks plånböcker</span></a>
+				</p>
+				<p class="TOC2">
+					<a href="#_Toc198025178" style="text-decoration:none"><span class="Hyperlink" style="text-decoration:none; color:#000000">3.2 Satsningar för ett rikare Sverige</span></a>
+				</p>
+				<p class="TOC2">
+					<a href="#_Toc198025179" style="text-decoration:none"><span class="Hyperlink" style="text-decoration:none; color:#000000">3.3 Satsningar för att bryta nyrekryteringen</span></a>
+				</p>
+				<p class="TOC2">
+					<a href="#_Toc198025180" style="text-decoration:none"><span class="Hyperlink" style="text-decoration:none; color:#000000">3.4 Satsningar för att stärka svensk välfärd och motståndskraft</span></a>
+				</p>
+				<p class="TOC2">
+					<a href="#_Toc198025181" style="text-decoration:none"><span class="Hyperlink" style="text-decoration:none; color:#000000">3.5 Finansiering</span></a>
+				</p>
+				<p class="TOC1">
+					<a href="#_Toc198025182" style="text-decoration:none"><span class="Hyperlink" style="text-decoration:none; color:#000000">4 Reformtabell</span></a>
+				</p>
+				<p>
+				</p>
+			</div>
+			<p style="margin-bottom:12pt; line-height:normal">
+				<br style="page-break-before:always; clear:both">
+			</p>
+			<h1 style="margin-bottom:15pt">
+				<a name="_Toc198025165"><span style="-aw-sdt-tag:'CC_Boilerplate_4'; -aw-sdt-title:'CC_Boilerplate_4'"><span>Förslag till riksdagsbeslut</span></span></a><span style="-aw-bookmark-end:_Toc106800475"></span>
+			</h1>
+			<div style="-aw-sdt-tag:'42327fe6-ed88-4e39-acb8-4431d3b138f5'; -aw-sdt-title:'Yrkande 1'">
+				<p class="Frslagstext" style="margin-left:0pt; t-i:0pt">
+					<span>Riksdagen godkänner de riktlinjer för den ekonomiska politiken och budgetpolitiken som föreslås i motionen.</span>
+				</p>
+			</div>
+			<div style="-aw-sdt-tag:'CC_Motivering_Rubrik'; -aw-sdt-title:'CC_Motivering_Rubrik'">
+				<h1>
+					<a name="MotionsStart"></a><a name="_Toc198025166"></a><a name="_Toc106800476"><span>Sverige behöver en ny riktning</span></a>
+				</h1>
+			</div>
+			<span style="-aw-bookmark-end:_Toc198025166">
+			</span>
+			<p class="Normalutanindragellerluft">
+				<span style="-aw-bookmark-end:_Toc106800476"></span><a name="_Hlk196827883"></a><a name="_Hlk196827904"><span style="-aw-bookmark-end:_Hlk196827883"></span><span>Mycket av det vi har tagit för givet om hur världen, samhället och ekonomin fungerar är i snabb förändring. Det säkerhetspolitiska läget är allvarligt och världsekonomin är i gungning. </span></a>
+			</p>
+			<p>
+				<span>Efter tre år med Ulf Kristerssons och Jimmie Åkessons styre har Sverige försvagats och vårt utgångsläge för att möta det nya läget är sämre än det hade behövt vara. Till</span><span>&#xad;</span><span>växten har varit låg, arbetslösheten är rekordhög och reallönerna har urholkats. Svenska folket är hårt pressat av fortsatt ökade kostnader. Det blir dyrare att leva och vanligt folk </span><span style="letter-spacing:-0.15pt">blir fattigare. Lågkonjunkturen fördjupas och regeringens prognoser revideras ständigt ned</span><span>.</span>
+			</p>
+			<p>
+				<span>I tuffa lägen behöver en regering kliva fram, ta ansvar och göra det som krävs. Men SD-regeringen visar ingen krisinsikt. Det blir alltmer tydligt att SD-regeringen inte har vad som krävs för att möta det nya omvärldsläget. </span>
+			</p>
+			<p>
+				<span style="letter-spacing:-0.15pt">Regeringens vårbudget innehåller inga åtgärder för att ge vanligt folk mer i plånboken,</span><span> eller för att få igång svensk tillväxt. Tvärtom så väljer de att försämra de ekonomiska förutsättningarna. Inte minst slår deras politik mot de som redan har det tuffast, när SD-regeringen väljer att slopa tillägget i bostadsbidraget för barnfamiljer och skära ned på högkostnadsskyddet för läkemedel så att det blir dyrare att hämta ut mediciner.</span>
+			</p>
+			<p>
+				<span>I vår höstbudget för 2025 visade vi socialdemokrater ett tydligt alternativ för hur Sverige ska bli rikare och rättvisare. I denna vårbudget bygger vi vidare på det arbetet med ytterligare reformer för att stärka Sverige och svenska folket i en osäker tid. </span>
+			</p>
+			<p>
+				<span>Vi föreslår kraftfulla åtgärder för att stärka vanligt folks ekonomi och pressa mat</span><span>&#xad;</span><span>priserna. Vi kommer med förslag för att öka svensk konkurrenskraft, säkra svenska jobb och skydda svenska företag i en ny ekonomisk tid. Vi föreslår än en gång satsningar för att säkra välfärden och höja vår beredskap. Vi föreslår ytterligare åtgärder för att bryta nyrekryteringen av barn och unga till gängen. </span>
+			</p>
+			<p class="Rubrik1numrerat" style="-aw-import:list-item; -aw-list-level-number:0; -aw-list-number-format:'%0'; -aw-list-number-styles:'decimal'; -aw-list-number-values:'1'; -aw-list-padding-sml:4.75pt">
+				<span style="-aw-import:ignore"><span>1</span><span style="width:4.75pt; font:7pt 'Verdana'; display:inline-block; -aw-import:spaces">&#xa0;&#xa0; </span></span><a name="_Toc198025167"><span>Ett osäkert ekonomiskt läge</span></a>
+			</p>
+			<p class="Normalutanindragellerluft">
+				<span>Vi befinner oss i en tid av stor osäkerhet. Mycket av det vi har tagit för givet om hur världen, samhället och ekonomin fungerar är i hastig förändring. Rysslands invasion av Ukraina och en stor säkerhetspolitisk turbulens har förändrat förutsättningarna för vår </span><span style="letter-spacing:-0.15pt">säkerhet. Den amerikanska administrationen har gått ifrån den regelbaserade världsordning</span><span> som länge tjänat USA, Sverige och Europa väl. </span>
+			</p>
+			<p>
+				<span>På den ekonomiska fronten har ett tullkrig utbrutit. Många svenskar ser hur både pensionssparande och sparkapital krymper kraftigt. Samtidigt växer oron för vad detta kan innebära, för jobben, framtidsutsikterna och inte minst risken för stigande inflation och ännu högre matpriser. USA:s högerpopulistiska ekonomiska politik och oron för USA:s framtida roll i försvarssamarbeten och handel bromsar investeringar, riskerar jobbtillfällen och hämmar tillväxten. </span>
+			</p>
+			<p>
+				<span>Det här är realiteter som den svenska regeringen inte råder över. Däremot är det regeringens ansvar att se till att Sverige och svenska folket står väl rustade när världen blir alltmer orolig. Här har SD-regeringen misslyckats. </span>
+			</p>
+			<p>
+				<span>Efter tre år med Ulf Kristerssons och Jimmie Åkessons styre har Sverige försvagats och vårt utgångsläge för att möta det nya läget är sämre än det hade behövt vara.</span>
+			</p>
+			<p>
+				<span>Vanligt folk blir fattigare när SD-regeringen sänker skatten för de rikaste, bromsar tillväxten och låter arbetslösheten skena. </span>
+			</p>
+			<p>
+				<span>Parallellt försvagas vår gemensamma välfärd. Skattesänkningarna för de rikaste går </span><span style="letter-spacing:-0.1pt">hand i hand med nedskärningar i vård och skola, samtidigt som vinstjakten tillåts fortsätta. Det leder till stressad sjukvårdspersonal som möter patienter i överfulla väntrum, stökiga</span><span> </span><span style="letter-spacing:-0.15pt">klassrum för skolbarnen och att allt fler upplever att den offentliga servicen inte räcker till.</span>
+			</p>
+			<p>
+				<span>Därtill drabbar gängvåldet allt fler. Trots att behovet av åtgärder är akut säger SD-regeringen nej till en svensk maffialag och vidtar inte tillräckliga åtgärder för att stoppa nyrekryteringen av barn och unga till kriminella nätverk.</span>
+			</p>
+			<p class="Rubrik2numrerat" style="-aw-import:list-item; -aw-list-level-number:1; -aw-list-number-format:'%0.%1'; -aw-list-number-styles:'decimal decimal'; -aw-list-number-values:'1 1'; -aw-list-padding-sml:4pt">
+				<span style="-aw-import:ignore"><span>1.1</span><span style="width:4pt; font:7pt 'Verdana'; display:inline-block; -aw-import:spaces">&#xa0;&#xa0; </span></span><a name="_Toc198025168"><span>Sverige blir fattigare</span></a>
+			</p>
+			<p class="Normalutanindragellerluft">
+				<span style="letter-spacing:-0.1pt">I denna osäkra tid är det viktigare än någonsin att Sverige och Europa står starkt. Grunden</span><span> för det är en stark ekonomi, som ger oss större möjligheter att agera. En stark ekonomi och starka statsfinanser möjliggör en upprustning av totalförsvaret, en starkare välfärd och att vi kan hävda oss på de internationella marknaderna. Därför måste Sverige, till</span><span>&#xad;</span><span>sammans med alla andra länder i Europa, ta ett större ansvar för vår egen tillväxt och industriutveckling.</span>
+			</p>
+			<p>
+				<span>Men de senaste åren har utvecklingen i Sverige gått åt fel håll. Efter tre år med SD-regeringen är tillväxten låg och arbetslösheten rekordhög. Regeringens företrädare har gång på gång lovat att den ekonomiska vändningen är här. Statsministern basunerade stolt ut att det ljusnar vid horisonten. Men nu ser vi att lågkonjunkturen fördjupas, och regeringens prognoser revideras ständigt ned.</span>
+			</p>
+			<p>
+				<span>Den lågkonjunktur Sverige nu befinner sig i har förstärkts av regeringens politik. Under hela mandatperioden har regeringen konsekvent riktat den ekonomiska politiken mot åtgärder som inte är tillväxtskapande. När arbetslösheten steg, skar man ned på arbetsmarknadspolitiska åtgärder. När byggandet tvärbromsade valde regeringen att ta </span><span style="letter-spacing:-0.1pt">bort investeringsstödet för byggandet av nya bostäder. När hårt pressade hushåll behöver</span><span> en lättnad väljer regeringen att försämra högkostnadsskyddet för läkemedel och slopa det förstärkta bostadsbidraget för barnfamiljer. </span>
+			</p>
+			<p>
+				<span>Regeringens hantering av kostnadskrisen är inte bara djupt omoralisk. Det är också en dålig konjunkturpolitik. Skattesänkningar riktade mot de med högst inkomster har inte ökat köpkraften hos vanliga hushåll, vilket i sin tur sänkt svensk tillväxt.</span>
+			</p>
+			<p class="Rubrik2numrerat" style="-aw-import:list-item; -aw-list-level-number:1; -aw-list-number-format:'%0.%1'; -aw-list-number-styles:'decimal decimal'; -aw-list-number-values:'1 2'; -aw-list-padding-sml:4pt">
+				<span style="-aw-import:ignore"><span>1.2</span><span style="width:4pt; font:7pt 'Verdana'; display:inline-block; -aw-import:spaces">&#xa0;&#xa0; </span></span><a name="_Toc198025169"><span>Svensk tillväxt i Europas bottenliga</span></a>
+			</p>
+			<p class="Normalutanindragellerluft">
+				<span>Stora delar av världen kämpar fortfarande med effekterna av de senaste årens kriser. Under coronapandemin drabbades ekonomier runt om i världen av utbudschocker när globala värdekedjor stördes av nedstängningarna. Regeringar och centralbanker försökte </span><span style="letter-spacing:-0.1pt">motverka en ekonomisk kollaps genom att bedriva en expansiv penning- och finanspolitik </span><span>för att hålla uppe efterfrågan. Här i Sverige genomförde den socialdemokratiska reger</span><span>&#xad;</span><span>ingen en mängd reformer för att lotsa Sverige genom pandemin. Under krisåren kom</span><span>&#xad;</span><span>penserade vi t.ex. välfärden tre gånger om för uteblivna skatteintäkter. Politiken som genomfördes tog Sverige starkt ur pandemin och vår tillväxt återhämtade sig snabbare än jämförbara länders.</span>
+			</p>
+			<p>
+				<span>Sedan pandemin har många länder mött ekonomiska motgångar, men Sverige har klarat sig osedvanligt dåligt jämfört med andra länder. Vi har haft hög inflation och låg tillväxt. Under regeringens första år vid makten var Sverige ett av få europeiska länder med negativ tillväxt. Under 2024 stack vi återigen ut på nedsidan av tillväxtkurvan och summerar man tillväxten sedan regeringen tillträdde är resultatet tydligt: svensk tillväxt har varit i Europas bottenliga. </span>
+			</p>
+			<p class="Tabellrubrik">
+				<img src="https://data.riksdagen.se/fil/HC023415/Dokument.001.png" width="567" height="314" alt="" style="-aw-left-pos:0.15pt; -aw-rel-hpos:column; -aw-rel-vpos:paragraph; -aw-top-pos:25.56pt; -aw-wrap-type:topbottom"><br><span>Figur 1 EU-kommissionens prognos för real BNP-tillväxt, genomsnitt 2023–2025 (%) </span>
+			</p>
+			<p class="Klla">
+				<span>Källa: EU-kommissionen</span>
+			</p>
+			<p class="Normalutanindragellerluft" style="margin-top:7pt">
+				<span>En kraftigt bidragande faktor till den svaga konjunkturen är krisen i byggsektorn. De senaste åren har byggandet tvärnitat. Antalet påbörjade bostäder näst intill halverades mellan 2022 och 2023 och har sedan dess prognostiserats ligga kvar på en låg nivå. </span>
+			</p>
+			<p style="t-i:0pt">
+				<span>Krisen i byggsektorn har slagit hårt mot svensk ekonomi. Det låga byggtempot har haft </span><span style="letter-spacing:-0.15pt">en tydligt negativ effekt på BNP, både under 2023 och under 2024. Men krisen har också</span><span> slagit hårt mot byggnadsarbetarna. Under 2024 gick i snitt fem byggföretag omkull varje dag, och den negativa utvecklingen fortsätter även under 2025. Under perioden januari–mars har nästan 600 företag i byggsektorn gått i konkurs. Sedan SD-regeringens tillträde är siffran nästan 5</span><span>&#xa0;</span><span>000.</span>
+			</p>
+			<p>
+				<span style="letter-spacing:-0.15pt">Byggkrisen är allvarlig av flera anledningar. Dels slår krisen hårt mot de personer som</span><span> jobbar inom sektorn, som inte längre har ett jobb att gå till. Bara sedan regeringens höstbudget lades har nästan 4</span><span>&#xa0;</span><span>000 anställda i byggbranschen drabbats av konkurser. Den kommer också med stora makroekonomiska risker. Minskningen i bostadsinveste</span><span>&#xad;</span><span>ringar tynger BNP här och nu, samtidigt som vi riskerar att tappa den kompetens vi behöver för att bygga bostäder i framtiden. En långsiktig nedgång i bostadsbyggandet skulle i sin tur ha en negativ påverkan på vår tillväxt, vår nyindustrialisering och möjlig</span><span>&#xad;</span><span>heten för Sveriges befolkning att flytta till jobb och utbildning i olika delar av landet. </span>
+			</p>
+			<p>
+				<span>Trots byggkrisens allvarliga konsekvenser vägrar regeringen att inse allvaret. Vi socialdemokrater har lagt fram omfattande reformförslag för att vända utvecklingen; vi har föreslagit att det införs en statlig byggstimulans i form av ett produktionsstöd riktat till mindre orter med stora industrietableringar samt till ungdoms- och studentbostäder. Vi vill även se statliga byggkrediter för bostadsbyggande, att rotavdraget reformeras så att de som väljer att genomföra energibesparande åtgärder får en högre subvention och ökade anslag till energieffektivisering av flerbostadshus. </span>
+			</p>
+			<p class="Tabellrubrik">
+				<img src="https://data.riksdagen.se/fil/HC023415/Dokument.002.png" width="567" height="313" alt="" style="-aw-left-pos:0.15pt; -aw-rel-hpos:column; -aw-rel-vpos:paragraph; -aw-top-pos:26.04pt; -aw-wrap-type:topbottom"><br><span>Figur 2 Antal påbörjade bostäder (2024 och 2025 – prognos).</span>
+			</p>
+			<p class="Klla">
+				<span>Källa: Boverket.</span>
+			</p>
+			<p class="Normalutanindragellerluft" style="margin-top:7pt">
+				<span>Ytterligare en faktor som dämpar konjunkturen är den svaga privata konsumtionen, en direkt följd av att regeringen har låtit vanliga familjer agera krockkudde i krisen. De senaste årens kostnadskris har utraderat tio års reallöneökningar och urholkat hushållens köpkraft. Det slår hårt mot landets familjer men innebär också minskad konsumtion och därmed lägre tillväxt.</span>
+			</p>
+			<p>
+				<span>Privat konsumtion står för omkring 40 procent av Sveriges BNP men har legat på en låg nivå de senaste åren. Regeringen har många gånger hävdat att en vändning är nära, driven av ökad konsumtion. Men gång på gång har regeringen tvingats revidera ned prognoserna. Hushållen håller fortsatt hårt i plånboken.</span>
+			</p>
+			<p>
+				<span>Reformer som ökar köpkraften för de med lägst inkomster hade gynnat tillväxten. Hushåll med lägre inkomster har en hög marginell konsumtionsbenägenhet; dvs. att de spenderar varje extra krona. En ensamstående förälder som får behålla sitt förhöjda bostadsbidrag kan lägga pengarna på mat, en vinterjacka eller barnens fritidsaktiviteter. Så ökar konsumtionen och tillväxten.</span>
+			</p>
+			<p>
+				<span>I stället har SD-regeringen genomfört riktade lättnader för höginkomsttagare, som slopandet av avtrappningen av jobbskatteavdraget för inkomster över 66</span><span>&#xa0;</span><span>000 kronor i månaden. Dessa grupper tenderar att spara snarare än konsumera. Det gynnar inte </span><span style="letter-spacing:-0.15pt">till</span><span style="letter-spacing:-0.15pt">&#xad;</span><span style="letter-spacing:-0.15pt">växten. Tvärtom har regeringen tvingats revidera ned sina siffror för privat konsumtion.</span><span> </span>
+			</p>
+			<p>
+				<span>Med en annan politik hade utfallet kunnat bli ett annat. Konjunkturinstitutet har, i likhet med de flesta internationella studierna på området, bedömt att offentliga sats</span><span>&#xad;</span><span style="letter-spacing:-0.15pt">ningar på välfärd och stöd till låg- och medelinkomsttagare har större effekt på tillväxten</span><span> än skattesänkningar för höginkomsttagare. En regering som hade satt svensk ekonomi före partiinterna egenintressen hade därför använt skattepengarna där de gör mest nytta – hos barnfamiljer, pensionärer och ensamstående, i sjukvård, skola och äldreomsorg.</span>
+			</p>
+			<p class="Rubrik2numrerat" style="-aw-import:list-item; -aw-list-level-number:1; -aw-list-number-format:'%0.%1'; -aw-list-number-styles:'decimal decimal'; -aw-list-number-values:'1 3'; -aw-list-padding-sml:4pt">
+				<span style="-aw-import:ignore"><span>1.3</span><span style="width:4pt; font:7pt 'Verdana'; display:inline-block; -aw-import:spaces">&#xa0;&#xa0; </span></span><a name="_Toc198025170"><span>Arbetslöshet på rekordnivåer</span></a>
+			</p>
+			<p class="Normalutanindragellerluft">
+				<span>Regeringens brist på tillväxtpolitik slår hårt mot Sverige. Arbetslösheten är den högsta </span><span style="letter-spacing:-0.1pt">på ett decennium. Regeringen påstår ofta att de ärvde en hög arbetslöshet. Men det de faktiskt ärvde var en arbetslöshet på väg ned. Sedan SD-regeringen tillträdde har trenden</span><span> vänt, och i dag är över en halv miljon människor arbetslösa i vårt land. Det är ett tydligt kvitto på regeringens misslyckade ekonomiska politik. </span>
+			</p>
+			<p>
+				<span>Ytterligare ett dystert facit för regeringen är konkursvågen som sköljer över Sverige. Antalet konkurser under 2024 är det högsta sedan 1996. Under 2024 ökade konkurserna i samtliga branscher jämfört med 2023. Det innebär färre företag, färre jobb och fler arbetslösa. Utvecklingen i Ulf Kristerssons och Jimmie Åkessons Sverige går åt fel håll. </span>
+			</p>
+			<p class="Tabellrubrik">
+				<span>Figur 3 Arbetslöshet (rensat för säsong och trend, %)</span><img src="https://data.riksdagen.se/fil/HC023415/Dokument.003.png" width="567" height="314" alt="" style="-aw-left-pos:0pt; -aw-rel-hpos:column; -aw-rel-vpos:paragraph; -aw-top-pos:0pt; -aw-wrap-type:inline">
+			</p>
+			<p class="Klla">
+				<span>Källa: SCB.</span>
+			</p>
+			<p class="Rubrik2numrerat" style="-aw-import:list-item; -aw-list-level-number:1; -aw-list-number-format:'%0.%1'; -aw-list-number-styles:'decimal decimal'; -aw-list-number-values:'1 4'; -aw-list-padding-sml:4pt">
+				<span style="-aw-import:ignore"><span>1.4</span><span style="width:4pt; font:7pt 'Verdana'; display:inline-block; -aw-import:spaces">&#xa0;&#xa0; </span></span><a name="_Toc198025171"><span>Vanligt folk blir fattigare</span></a>
+			</p>
+			<p class="Normalutanindragellerluft">
+				<span>Sverige ska vara ett land som präglas av ekonomisk säkerhet och social trygghet. Där alla kan växa och leva ett gott liv. Men i dag går utvecklingen åt fel håll. Vanliga lön</span><span>&#xad;</span><span>tagare har sett tio års reallöneökningar utraderas. Samtidigt blir det allt dyrare att leva. För många känns de mest grundläggande drömmarna långt borta när matpriserna ökar, hyrorna höjs och man tvingas vända på vartenda öre för att få ihop vardagen. De ökande ekonomiska klyftorna drabbar den enskilde hårt och riskerar även att öka spänningarna i landet i en tid när sammanhållning är viktigare än någonsin.</span>
+			</p>
+			<p>
+				<span>Matpriserna har ökat med nästan 30 procent sedan kostnadskrisen inleddes. För en vanlig barnfamilj har matkostnaderna ökat med 30</span><span>&#xa0;</span><span>000 kronor per år. Bristande konkur</span><span>&#xad;</span><span>rens och marknadsmisslyckanden driver upp priserna. Det är uppenbart att livsmedels</span><span>&#xad;</span><span style="letter-spacing:-0.15pt">marknaden inte fungerar, och många känner att det är nog nu. Vi har i två års tid föreslagit</span><span> en lång rad åtgärder för att få ned matpriserna och få upp konkurrensen, bl.a. en mat</span><span>&#xad;</span><span>priskommission, stärkta konkurrensverktyg och varningstrianglar vid krympflation, men SD-regeringen sitter på händerna. När vanligt folk blir fattigare sänker de skatten för de </span><span style="letter-spacing:-0.15pt">rikaste, bromsar tillväxten och låter arbetslösheten skena. Det är ett allvarligt misslyckande</span><span> för regeringen. </span>
+			</p>
+			<p class="Tabellrubrik">
+				<img src="https://data.riksdagen.se/fil/HC023415/Dokument.004.png" width="567" height="302" alt="" style="-aw-left-pos:0.15pt; -aw-rel-hpos:column; -aw-rel-vpos:paragraph; -aw-top-pos:19.26pt; -aw-wrap-type:topbottom"><br><span>Figur 4 Prisutveckling, KPI &amp; livsmedel (2022 = 100)</span>
+			</p>
+			<p class="Klla">
+				<span>Källa: Infostat.</span>
+			</p>
+			<p class="Normalutanindragellerluft" style="margin-top:7pt">
+				<span>Vid ekonomiska kriser är det alltid de med minst marginaler som drabbas hårdast. Konsekvenserna märks tydligt för barnfamiljer, där ojämlikheten ökar, och för pensio</span><span>&#xad;</span><span>närerna med minst marginaler, som tvingas vända på varenda krona för att få vardagen att gå ihop. </span>
+			</p>
+			<p>
+				<span>Ensamstående föräldrar med lägre inkomst drabbas särskilt hårt; varannan vittnar om att man har haft svårt att köpa näringsrik mat till sina barn, att de har svårt att klä barnen efter väder och att det är svårt att betala för barnens fritidsaktiviteter. Samtidigt växer svenska folkets skulder till Kronofogden och fler riskerar att hamna i skuldfällor. </span>
+			</p>
+			<p>
+				<span>För oss socialdemokrater är det en självklarhet att barnen inte ska betala för kriser. Den ambitionen delas dessvärre inte av SD-regeringen. Trots att kostnadskrisen fort</span><span>&#xad;</span><span>farande slår med full kraft mot hushållen väljer regeringen att försämra för de familjer som drabbas hårdast genom att slopa det förstärkta bostadstillägget för barnfamiljer. Därtill är Sverige det enda landet i Norden som inte höjt barnbidraget under kostnads</span><span>&#xad;</span><span style="letter-spacing:-0.15pt">krisen och i dag är värdet av barnbidraget det lägsta på 50 år. Det är en orättfärdig politik</span><span> som får bistra konsekvenser: barnfattigdomen ökar, och Sverige har nu den högsta nivån i Norden. Det är en utveckling som är ovärdig ett välfärdsland som Sverige. Därför före</span><span>&#xad;</span><span style="letter-spacing:-0.15pt">slog vi i höstbudgeten för 2025 ett höjt barnbidrag och att tilläggsbidraget för barnfamiljer</span><span> i bostadsbidraget höjs och permanentas. </span>
+			</p>
+			<p style="margin-bottom:6pt; t-i:0pt">
+				<span style="font-weight:bold; -aw-import:ignore">&#xa0;</span>
+			</p>
+			<p class="Tabellrubrik">
+				<img src="https://data.riksdagen.se/fil/HC023415/Dokument.005.png" width="567" height="301" alt="" style="-aw-left-pos:0.15pt; -aw-rel-hpos:column; -aw-rel-vpos:paragraph; -aw-top-pos:33.11pt; -aw-wrap-type:topbottom"><br><span>Figur 5 Barnbidragets värde det lägsta på 50 år (barnbidrag i förhållande till nödvändiga levnadskostnader för en tioåring)</span>
+			</p>
+			<p class="Klla">
+				<span>Källa: Swedbank.</span>
+			</p>
+			<p class="Rubrik2numrerat" style="-aw-import:list-item; -aw-list-level-number:1; -aw-list-number-format:'%0.%1'; -aw-list-number-styles:'decimal decimal'; -aw-list-number-values:'1 5'; -aw-list-padding-sml:4pt">
+				<span style="-aw-import:ignore"><span>1.5</span><span style="width:4pt; font:7pt 'Verdana'; display:inline-block; -aw-import:spaces">&#xa0;&#xa0; </span></span><a name="_Toc198025172"><span>SD-regeringen skär ned på välfärden</span></a>
+			</p>
+			<p class="Normalutanindragellerluft">
+				<span>Sverigedemokraterna och regeringen har skapat en akut kris i svensk sjukvård. Trots att det redan inför 2023 stod klart att situationen i den svenska sjukvården skulle komma att </span><span style="letter-spacing:-0.1pt">försämras, och att Sveriges regioner samfällt larmade om att situationen inför 2024 skulle</span><span> komma att bli än värre, har SD-regeringen ignorerat varningsropen. </span>
+			</p>
+			<p>
+				<span style="letter-spacing:-0.1pt">I februari 2024 lovade statsminister Ulf Kristersson att ingen skulle sägas upp i svensk</span><span> </span><span style="letter-spacing:-0.1pt">sjukvård. Sedan dess har tusentals medarbetare varslats om uppsägning och flera regioner</span><span> har beslutat om sparplaner på personalsidan.</span>
+			</p>
+			<p>
+				<span>Detta är ett konkret resultat av att Sverigedemokraterna och regeringen i budget efter budget har valt att underfinansiera välfärden. Det drabbar såväl patienter som riskerar </span><span style="letter-spacing:-0.15pt">att vänta längre på vård som personalen som redan är hårt pressad. På längre sikt försvåras</span><span> </span><span style="letter-spacing:-0.15pt">arbetet vad gäller personal- och kompetensförsörjning. Besparingarna leder till ytterligare</span><span> försämrad arbetsmiljö och sämre arbetsvillkor, som kommer att göra det än svårare att attrahera personal till vårdens arbetsplatser. Regeringens agerande har därmed både förlängt krisen och försvårat återhämtningen.</span>
+			</p>
+			<p>
+				<span>Krisen är på intet sätt begränsad till sjukvården. Skolan, omsorgen och andra viktiga verksamheter som kollektivtrafiken har också drabbats hårt av den ekonomiska utveck</span><span>&#xad;</span><span>lingen. Bristen på utbildad personal är ett problem som spänner över flera verksamheter. Lärarbrist leder till stökigare klassrum i skolan. I omsorgen tvingas undersköterskorna springa allt snabbare. </span>
+			</p>
+			<p>
+				<span style="letter-spacing:-0.15pt">En socialdemokratisk regering hade prioriterat annorlunda. Vi vet att en väl fungerande</span><span> välfärd är samhällets bästa verktyg för ökad trygghet och jämlikhet. Vi föreslog dubbla </span><span style="letter-spacing:-0.15pt">resurser till välfärden jämfört med regeringen i budgeten för år 2023 och föreslog att åter</span><span> dubblera resurserna till sjukvården jämfört med regeringen år 2024. För 2025 föreslog vi ett tillskott på generella statsbidrag på 6</span><span>&#xa0;</span><span>miljarder kronor mer än regeringen till kom</span><span>&#xad;</span><span>muner och regioner, samt en särskild satsning på 3</span><span>&#xa0;</span><span>miljarder för att korta vårdköerna. </span>
+			</p>
+			<p>
+				<span>Med våra föreslagna åtgärder hade sjukvårdskrisen kunnat undvikas. Vi hade även gett Sveriges regioner långsiktiga besked om de ekonomiska förutsättningarna framåt. Vi socialdemokrater vill se ett systemskifte för svensk välfärd, där de generella stats</span><span>&#xad;</span><span>bidragen ska räknas upp i takt med inflationen. Det måste vara slut med att politiker presenterar ”satsningar” på välfärden som i själva verket är nedskärningar. Och vi behöver ta tillbaka den demokratiska kontrollen över välfärden och se till att skatte</span><span>&#xad;</span><span>pengar som ska gå till skolbarn och sjukvård inte går rakt ned i riskkapitalisters och kriminellas fickor.</span><span style="-aw-import:spaces">&#xa0; </span>
+			</p>
+			<p class="Rubrik2numrerat" style="-aw-import:list-item; -aw-list-level-number:1; -aw-list-number-format:'%0.%1'; -aw-list-number-styles:'decimal decimal'; -aw-list-number-values:'1 6'; -aw-list-padding-sml:4pt">
+				<span style="-aw-import:ignore"><span>1.6</span><span style="width:4pt; font:7pt 'Verdana'; display:inline-block; -aw-import:spaces">&#xa0;&#xa0; </span></span><a name="_Toc198025173"><span>En ny värld kräver nya verktyg</span></a>
+			</p>
+			<p class="Normalutanindragellerluft">
+				<span>Vi lever i en ny och farligare tid där förutsättningarna för säkerhet, välstånd och tillväxt skiftar snabbt. De geopolitiska spänningarna växer, ett handelskrig rasar och den industriella kartan ritas om. Världen är mitt uppe i teknikskiften som kommer att få stor påverkan på ekonomin. Det ställer nya krav på Sverige och kräver nya lösningar och angreppssätt.</span>
+			</p>
+			<p>
+				<span>Om vi prioriterar rätt kommer Sverige att kunna bli vinnare i den nya världen. I vårt land finns den innovationskraft, de naturresurser, de entreprenörer och de yrkeskunniga arbetare som behövs för att leda utvecklingen. </span>
+			</p>
+			<p>
+				<span>Vi har alla förutsättningar att leda nästa ekonomiska språng, men det kräver att vi tar vara på de möjligheter vi har. När Sverige reste sig från att vara ett av världens fattigaste till att bli ett av världens rikaste länder, var det för att vi omfamnade teknikutveckling och främjade högproduktiva jobb och tillväxt. </span>
+			</p>
+			<p>
+				<span>Nu stiger ledare i land efter land fram för att stärka och säkra sina egna länders intressen. En svensk regering måste självklart agera på ett liknande sätt. Men här hemma i Sverige har SD-regeringen valt en undflyende hållning. De pratar om ”is i magen”, men vad det i realiteten betytt är att Jimmie Åkesson och Ulf Kristersson lutat sig tillbaka, vilket har försvagat Sveriges motståndskraft.</span><span style="-aw-import:spaces">&#xa0;&#xa0; </span>
+			</p>
+			<p>
+				<span>För att få fler jobb och starkare företag krävs en offensiv näringspolitik. Det krävs samling kring gemensamma prioriteringar, det krävs nya verktyg och att vi vågar peka ut teknologier som är särskilt viktiga för Sveriges konkurrenskraft. Vi vill kroka arm med näringslivet i de här frågorna och tillsammans arbeta för att företagen och jobben ska bli fler och Sverige rikare. </span>
+			</p>
+			<p>
+				<span>Mot bakgrund av Trumps tullar vill vi också förstärka systemet för korttidsarbete så att Sverige blir mer konkurrenskraftigt i förhållande till våra grannländer. Det skulle stärka den svenska industrin och säkra svenska jobb.</span>
+			</p>
+			<p>
+				<span>För att snabbt och effektivt få på plats de resurser som behövs för att rusta Sveriges totalförsvar vill vi inrätta en ny och omfattande totalförsvarsfond. Fonden ska finansieras genom lån och användas för att tidigarelägga investeringar och snabba på utbyggnaden av både militärt och civilt försvar – utan att det försvagar Sveriges samlade motståndskraft.</span><span style="-aw-import:spaces">&#xa0; </span>
+			</p>
+			<p>
+				<span>Att Sverige kan inrätta en fond för att snabbt rusta totalförsvaret möjliggörs av våra goda statsfinanser. Det är en enorm styrka och kommer att vara fortsatt viktigt framåt. För att försvarsutbyggnaden ska vara uthållig över tid måste de löpande kostnaderna vara finansierade. Det innebär ökade anslag till totalförsvaret i många år framöver. Parallellt med lån till investeringar i totalförsvaret vill vi socialdemokrater komma överens brett med riksdagens partier om hur politiken säkrar förutsättningarna för ett långsiktigt robust totalförsvar. Vi vill att en bred skatteöversyn genomförs för att se till att systemet är effektivt och förutsägbart och ger oss de förutsättningar vi behöver för att långsiktigt försvara Sverige. Som en del i finansieringen av totalförsvarsutbyggnaden har vi föreslagit en beredskapsskatt. </span>
+			</p>
+			<p class="Rubrik1numrerat" style="-aw-import:list-item; -aw-list-level-number:0; -aw-list-number-format:'%0'; -aw-list-number-styles:'decimal'; -aw-list-number-values:'2'; -aw-list-padding-sml:4.75pt">
+				<span style="-aw-import:ignore"><span>2</span><span style="width:4.75pt; font:7pt 'Verdana'; display:inline-block; -aw-import:spaces">&#xa0;&#xa0; </span></span><span> </span><a name="_Toc198025174"><span>Sverige hade kunnat vara i ett annat läge</span></a>
+			</p>
+			<p class="Normalutanindragellerluft">
+				<span>Efter nära tre år under Ulf Kristerssons och Jimmie Åkessons ledning har Sverige för</span><span>&#xad;</span><span>svagats. Med en annan politik hade Sverige kunnat ha ett bättre utgångsläge för att hantera det ekonomiska läget. Vi socialdemokrater har i våra skuggbudgetar presenterat ett tydligt alternativ till regeringens politik – ett alternativ som sätter vanligt folk främst, ett alternativ för ett rikare och rättvisare Sverige. </span>
+			</p>
+			<p>
+				<span>Om Socialdemokraternas budgetmotion för 2025 hade antagits, hade vi stoppat SD-regeringens skattebonus för de allra rikaste och i stället använt de offentliga resurserna där de gör mest nytta. Vanligt folk hade fått mer i plånboken genom en rättvis skatte</span><span>&#xad;</span><span>sänkning. Barnfamiljernas ekonomi hade stärkts med ett höjt barnbidrag, och vi hade förlängt och förstärkt bostadstillägget till de mest utsatta barnfamiljerna.</span>
+			</p>
+			<p>
+				<span>Bostadstillägget för pensionärerna hade höjts, och vi hade tagit ansvar för hushållens köpkraft genom att sätta press på både banker och matjättar, inte minst genom att införa en bankskatt på övervinster som går tillbaka till svenska folket. Unga hade kunnat se fram emot gratis kollektivtrafik i sommar och sluppit betala mer för sin tandvård. </span>
+			</p>
+			<p>
+				<span>Vi hade hållit igång bostadsbyggandet genom ett omfattande bygg- och renoverings</span><span>&#xad;</span><span>paket riktat mot både hyres- och bostadsrätter. Alla svenskar måste ha någonstans att bo och det kräver att det byggs bostäder där personer med vanliga löner har råd att bo. Dessutom är behoven av energieffektiviserande åtgärder stora och det är angeläget att öka fokuset på klimatanpassning.</span><span style="-aw-import:spaces">&#xa0; </span>
+			</p>
+			<p>
+				<span>Redan 2023 krävde vi omedelbara åtgärder för att vända krisen i byggbranschen, för att hålla uppe svensk ekonomi och se till att svenska folket kan få trygga och prisvärda bostäder. Det behöver byggas inte minst på de nya industriorterna och i landets alla studentstäder. I budgeten för 2025 föreslog vi kraftfulla satsningar i form av statliga kreditgarantier och byggstimulanser för att få igång bostadsbyggandet. Våra förslag omfattar mer än 8</span><span>&#xa0;</span><span>miljarder kronor för att få igång bostadsbyggandet.</span>
+			</p>
+			<p>
+				<span>Vi hade även ökat satsningar på energieffektivisering både för det ägda och det hyrda boendet. Vi har föreslagit en omfattande satsning på energieffektivisering av flerfamiljs</span><span>&#xad;</span><span>hus och en höjd subventionsgrad för energieffektiviserande åtgärder inom rotavdraget.</span>
+			</p>
+			<p>
+				<span>Men SD-regeringen har valt att titta på medan byggsektorn kollapsat. Därmed har de missat chansen att öka bostadsbyggandet och vända konjunkturen. De vägrar också inse att satsningar på energieffektivisering är en vinst både för den enskilde, för klimatet och för konjunkturen. Att regeringen nu föreslår temporära åtgärder i ett försök att lindra krisen är ett bevis för att deras politik varit helt otillräcklig.</span>
+			</p>
+			<p>
+				<span style="letter-spacing:-0.15pt">Därtill hade vi påbörjat en kraftfull utbyggnad av billig, fossilfri el – vilket är avgörande</span><span> för både hushållens ekonomi och näringslivets konkurrenskraft. Med en aktiv arbets</span><span>&#xad;</span><span>marknadspolitik hade vi sett till att fler rustats och matchats till jobb. </span>
+			</p>
+			<p>
+				<span>Vi hade punktmarkerat varje ung person på väg in i kriminalitet, och infört en svensk maffialag för att effektivt slå mot de kriminella nätverkens struktur och ekonomi. Vi hade tillfört 3</span><span>&#xa0;</span><span>miljarder till skolan för att bryta utanförskap och nyrekrytering redan i klassrummen.</span>
+			</p>
+			<p>
+				<span>Vi hade finansierat sjukvården så att människor får vård i tid och personalen bra arbetsvillkor. För två år sedan föreslog vi dubbelt så mycket pengar till välfärden jäm</span><span>&#xad;</span><span>fört med regeringen. I budgeten för 2024, när sjukvårdskrisen utvecklades, dubblade vi resurserna till sjukvården i vårt budgetförslag. I fjolårets vårbudget, när krisen var ett </span><span style="letter-spacing:-0.15pt">faktum, visade vi återigen att det var möjligt att satsa dubbelt så mycket som regeringen.</span><span> För 2025 föreslog Socialdemokraterna 6</span><span>&#xa0;</span><span>miljarder mer än regeringen till kommuner och regioner i generella statsbidrag. Om vår politik hade gällt, hade situationen för med</span><span>&#xad;</span><span>arbetarna och patienterna i vården varit en helt annan. Om vår politik hade gällt, hade situationen för Sverige varit en helt annan. </span>
+			</p>
+			<p class="Rubrik2numrerat" style="-aw-import:list-item; -aw-list-level-number:1; -aw-list-number-format:'%0.%1'; -aw-list-number-styles:'decimal decimal'; -aw-list-number-values:'2 1'; -aw-list-padding-sml:4pt">
+				<span style="-aw-import:ignore"><span>2.1</span><span style="width:4pt; font:7pt 'Verdana'; display:inline-block; -aw-import:spaces">&#xa0;&#xa0; </span></span><a name="_Toc198025175"><span>Urval av reformer i Socialdemokraternas förslag till budget för 2025</span></a>
+			</p>
+			<p style="margin-top:15pt; margin-bottom:15pt; t-i:0pt">
+				<img src="https://data.riksdagen.se/fil/HC023415/Dokument.006.png" width="567" height="415" alt="" style="-aw-left-pos:0pt; -aw-rel-hpos:column; -aw-rel-vpos:paragraph; -aw-top-pos:0pt; -aw-wrap-type:inline">
+			</p>
+			<p class="Rubrik1numrerat" style="-aw-import:list-item; -aw-list-level-number:0; -aw-list-number-format:'%0'; -aw-list-number-styles:'decimal'; -aw-list-number-values:'3'; -aw-list-padding-sml:4.75pt">
+				<span style="-aw-import:ignore"><span>3</span><span style="width:4.75pt; font:7pt 'Verdana'; display:inline-block; -aw-import:spaces">&#xa0;&#xa0; </span></span><span> </span><a name="_Toc198025176"><span>Reformer för ett starkt, säkert och rättvist Sverige</span></a>
+			</p>
+			<p class="Normalutanindragellerluft">
+				<span>I vår höstbudget för 2025 visar vi socialdemokrater ett tydligt alternativ för hur Sverige ska bli rikare och rättvisare. I denna vårbudget bygger vi vidare på det arbetet med ytterligare reformer för att stärka Sverige och svenska folket i en osäker tid. </span>
+			</p>
+			<p class="Rubrik2numrerat" style="-aw-import:list-item; -aw-list-level-number:1; -aw-list-number-format:'%0.%1'; -aw-list-number-styles:'decimal decimal'; -aw-list-number-values:'3 1'; -aw-list-padding-sml:4pt">
+				<span style="-aw-import:ignore"><span>3.1</span><span style="width:4pt; font:7pt 'Verdana'; display:inline-block; -aw-import:spaces">&#xa0;&#xa0; </span></span><a name="_Toc198025177"><span>Satsningar för vanligt folks plånböcker</span></a><span> </span>
+			</p>
+			<p class="Normalutanindragellerluft">
+				<span>De senaste åren har varit tuffa för svenska familjer. Reallönerna har sjunkit och priserna har ökat. Särskilt hårt slår de höga matpriserna. Vi socialdemokrater föreslog redan i </span><span style="letter-spacing:-0.15pt">höstbudgeten flera åtgärder för att stärka vanligt folks ekonomi: en rättvis skattesänkning</span><span>, höjt barnbidrag och höjt bostadstillägg för pensionärer. Vi föreslog dessutom att det förhöjda bostadstillägget för barnfamiljer görs permanent och inte tas bort vid halvårs</span><span>&#xad;</span><span>skiftet som regeringen annonserat. När SD-regeringen väljer att försämra för vanligt folk genom att skära ned på högkostnadsskyddet och slopa bostadstillägget för barn</span><span>&#xad;</span><span>familjer, föreslår vi åtgärder för att pressa matpriserna och stärka vanligt folks ekonomi. </span>
+			</p>
+			<h3>
+				<span>Lovlunch för skolelever</span>
+			</h3>
+			<p class="Normalutanindragellerluft">
+				<span>Skolloven riskerar att bli utmanande för många familjer, när skola och fritis är stängda, och behovet av mat i hemmet ökar. För att barnen inte ska drabbas av matpriskrisen vill </span><span style="letter-spacing:-0.1pt">vi att skolelever ska kunna erbjudas lunch under skolloven. Därför föreslår vi en satsning</span><span> om 300 miljoner kronor på kostnadsfri lovlunch.</span>
+			</p>
+			<h3>
+				<span>Matprispress</span>
+			</h3>
+			<p class="Normalutanindragellerluft">
+				<span>Det är dags att göra upp med de marknadsmisslyckanden som finns på livsmedels</span><span>&#xad;</span><span>marknaden. Konkurrensen måste öka så att priserna kan pressas. Vi vill därför stärka Konkurrensverkets roll som övervakare på livsmedelsmarknaden, så att de kan pressa matpriserna genom ökad tillsyn och konkurrensfrämjande arbete. För detta ändamål föreslår vi en satsning på 30 miljoner. </span>
+			</p>
+			<h3>
+				<span>Höjt underhållsstöd</span>
+			</h3>
+			<p class="Normalutanindragellerluft">
+				<span>De höga priserna är särskilt utmanande för många ensamstående föräldrar, framför allt för ensamstående mammor. Vi föreslår därför att underhållsstödet höjs tillfälligt med 500 kronor fr.o.m. den 1 juli.</span>
+			</p>
+			<h3>
+				<span>Nej till försämrat högkostnadsskydd för läkemedel</span>
+			</h3>
+			<p class="Normalutanindragellerluft">
+				<span>Regeringen och Sverigedemokraterna vill göra det dyrare för alla som behöver medicin. Egenavgiften för att hämta ut medicin höjs med 900 kronor till 3</span><span>&#xa0;</span><span>800 kronor den 1 juli. Det är en helt galen prioritering när så många kämpar för att få ekonomin att gå ihop. Socialdemokraterna säger nej till försämrat högkostnadsskydd och avsätter 540 miljoner kronor till detta.</span>
+			</p>
+			<p class="Rubrik2numrerat" style="-aw-import:list-item; -aw-list-level-number:1; -aw-list-number-format:'%0.%1'; -aw-list-number-styles:'decimal decimal'; -aw-list-number-values:'3 2'; -aw-list-padding-sml:4pt">
+				<span style="-aw-import:ignore"><span>3.2</span><span style="width:4pt; font:7pt 'Verdana'; display:inline-block; -aw-import:spaces">&#xa0;&#xa0; </span></span><a name="_Toc198025178"><span>Satsningar för ett rikare Sverige</span></a>
+			</p>
+			<p class="Normalutanindragellerluft">
+				<span>Spelplanen för den ekonomiska politiken har ritats om. Vi befinner oss i ett nytt geo</span><span>&#xad;</span><span>politiskt läge där vi måste värna både ökad frihandel och våra egna strategiska intressen. </span><span style="letter-spacing:-0.15pt">Vi har en ny handelspolitisk situation där en högerpopulistisk amerikansk administration </span><span>klipper banden till tidigare allierade och drar sig tillbaka från den globala gemenskapen. </span><span style="letter-spacing:-0.15pt">Trumps attacker mot akademin och den fria forskningen väcker frågor kring demokratiska</span><span> grundprinciper och riskerar att bromsa innovation och industriutveckling. </span>
+			</p>
+			<p>
+				<span>Den nya ekonomiska verkligheten skapar oro hos svenska folket, hos företag och hos investerare. Den riskerar att sänka tillväxten och bromsa investeringstakten. Företag kommer att gå i konkurs och folk kommer att förlora jobbet. </span>
+			</p>
+			<p>
+				<span>I ett läge när spelplanen förändras måste politiken kliva fram. Sverige måste agera på ett nytt sätt för att säkra sin plats i en ny världsekonomisk ordning. Vi måste stå upp för </span><span style="letter-spacing:-0.15pt">de principer som länge gynnat oss – frihandel och innovation för att nämna två – samtidigt</span><span> som vi anpassar oss efter en ny verklighet. Då krävs en vision för svensk ekonomi. </span>
+			</p>
+			<p>
+				<span>Men SD-regeringen har ingen plan för den ekonomiska politiken. De agerar inte för </span><span style="letter-spacing:-0.15pt">att skydda svensk industri i det nya handelskriget och de har ingen gemensam uppfattning</span><span> om vad Sverige ska leva av i framtiden. De har ingen idé om hur vi ska bli rikare och hur vår ekonomi ska växa.</span>
+			</p>
+			<p>
+				<span>Det märks i hur SD-regeringen vägrar ta till sig av nya innovationer. När AI-kom</span><span>&#xad;</span><span style="letter-spacing:-0.15pt">missionen tidigarelade sin rapport gjorde de det för att understryka vikten av att politiken växlar upp snabbt. Men regeringen saknar ledarskap och tappar bollen. När vissa i reger</span><span style="letter-spacing:-0.15pt">&#xad;</span><span style="letter-spacing:-0.15pt">ingen</span><span> säger sig värna ny teknik bedriver andra delar av regeringsunderlaget ett kultur</span><span>&#xad;</span><span>krig mot svensk industri. Det slår hårt mot svensk konkurrenskraft och företagande. </span>
+			</p>
+			<p>
+				<span>För oss socialdemokrater är riktningen framåt självklar: vi behöver ta till oss av den nya tekniken, vi behöver fler svenska industrier och fler svenska jobb. Det gör Sverige rikare, det ökar resurserna till välfärden och skapar reallöneökningar för löntagarna.</span>
+			</p>
+			<h3>
+				<span>Sverigefond för strategiska forskningsområden </span>
+			</h3>
+			<p class="Normalutanindragellerluft">
+				<span>De senaste åren har gjort det tydligt att Europa och Sverige behöver ta ett större ansvar för forskning och utveckling av strategiskt viktiga tekniker. Den amerikanska administ</span><span>&#xad;</span><span>rationens attacker på den fria akademin har gjort det än tydligare att det behöver ske i Europa. </span>
+			</p>
+			<p>
+				<span>Sverige har flera ledande universitet och vi har alla möjligheter att vara en mötesplats för ledande forskare. Därför föreslår vi att 500 miljoner kronor avsätts i en treårig fond </span><span style="letter-spacing:-0.15pt">för att attrahera ledande forskare inom strategiska områden. Medel från fonden ska kunna </span><span>paras med satsningar från näringslivet och vår ambition är att skapa en miljardfond för att attrahera de bästa forskarna i världen inom områden som AI, digitalisering, batteri</span><span>&#xad;</span><span>produktion, life science och telekom till Sverige. </span>
+			</p>
+			<h3>
+				<span>Stöd till svenska exportföretag</span>
+			</h3>
+			<p class="Normalutanindragellerluft">
+				<span>Den amerikanska administrationens tullkrig är ett överhängande problem för många exporterande företag. Att regeringen i det här läget väljer att skära ned på export</span><span>&#xad;</span><span>främjande verksamhet är en helt felaktig prioritering. Vi socialdemokrater anser tvärtom </span><span style="letter-spacing:-0.1pt">att regeringen ska prioritera svensk export. Vi vill se nya handelsvägar med fler handels</span><span style="letter-spacing:-0.1pt">&#xad;</span><span style="letter-spacing:-0.1pt">partner;</span><span> vi vill stärka svensk konkurrenskraft och reformera systemet för korttidsarbete. Därtill avvisar vi regeringens neddragning på exportfrämjande verksamhet och satsar totalt 50 miljoner kronor på att införa en stödfunktion för de svenska företag som drabbats av tullarna och för att stärka exportverksamheten. </span>
+			</p>
+			<h3>
+				<span>Sverige ska leda framtidens teknikutveckling</span>
+			</h3>
+			<p class="Normalutanindragellerluft">
+				<span style="letter-spacing:-0.1pt">Sverige har alltid varit ett land som snabbt tar till sig ny teknik. Vi såg det under 90-talet</span><span> när initiativ som hem-pc-reformen gav svenska folket en bred förståelse för den nya tekniken – något som gjort oss till ett digitaliserat och mer produktivt land. Samma utveckling måste nu ske kring artificiell intelligens. Därför föreslår vi 300 miljoner kronor i satsningar för att öka svensk AI-kompetens och konkurrenskraft. Vi vill dels börja starta upp ett första svenskt excellenscenter för AI, dels se en bred kompetens</span><span>&#xad;</span><span>satsning inom folkbildningen och folkbiblioteken. Vi vill också se kombinationstjänster, där forskare kan kombinera sin forskning med anställning inom den offentliga eller den privata sektorn. </span>
+			</p>
+			<h3>
+				<span>Säkra svenska industrijobb</span>
+			</h3>
+			<p class="Normalutanindragellerluft">
+				<span style="letter-spacing:-0.15pt">För att säkra vårt framtida välstånd måste Sverige ligga i framkant av teknikutvecklingen</span><span>. Vi har en lång historia av innovativ industri och spetsforskning – den måste bestå. När vår industri får möjlighet att leverera får vi fler jobb och ökar vår konkurrenskraft. En </span><span style="letter-spacing:-0.15pt">nyckel till att fortsätta utveckla industrin är att ta vara på den kompetens vi har i Sverige.</span><span> </span><span style="letter-spacing:-0.15pt">Därför föreslår vi en satsning på 200 miljoner kronor för att ta vara på nyckelkompetenser</span><span> för den svenska industrin.</span>
+			</p>
+			<h3>
+				<span>Rusta upp svensk järnväg</span>
+			</h3>
+			<p class="Normalutanindragellerluft">
+				<span>Sverige är ett avlångt land och vi är beroende av en fungerande järnväg. Det är viktigt för att kunna både transportera varor, arbetspendla och resa, men det är också viktigt för vår säkerhet och beredskap. Att regeringen vägrar ta tag i upprustningen av järnvägen gör Sveriges motståndskraft svagare. Vi föreslog i vår höstbudget 500 miljoner kronor </span><span style="letter-spacing:-0.15pt">mer än regeringen till väg- och järnvägsunderhåll. Nu föreslår vi ytterligare 250 miljoner</span><span> kronor till att rusta upp järnvägen. </span>
+			</p>
+			<p class="Rubrik2numrerat" style="-aw-import:list-item; -aw-list-level-number:1; -aw-list-number-format:'%0.%1'; -aw-list-number-styles:'decimal decimal'; -aw-list-number-values:'3 3'; -aw-list-padding-sml:4pt">
+				<span style="-aw-import:ignore"><span>3.3</span><span style="width:4pt; font:7pt 'Verdana'; display:inline-block; -aw-import:spaces">&#xa0;&#xa0; </span></span><a name="_Toc198025179"><span>Satsningar för att bryta nyrekryteringen</span></a><span> </span>
+			</p>
+			<p class="Normalutanindragellerluft">
+				<span>Gängkriminaliteten drabbar allt fler. Det är en nationell kris som ingen regering lyckats lösa. Gängvåldet kryper ned i åldrarna, äter sig allt längre in i samhället och påverkar många i deras vardag. Därför krävs ett helt nytt angreppssätt; vi ska fortsätta skärpa straffen och stärka polisen, men för att det ska få effekt behöver vi också sätta dit gäng</span><span>&#xad;</span><span>topparna med en uppdaterad lagstiftning och bryta nyrekryteringen av barn och unga. </span>
+			</p>
+			<p>
+				<span>Under sommarlovet ökar risken för att barn och ungdomar dras in i kriminalitet. För samtidigt som många barn och ungdomar ser fram emot resor, vistelser i sommarhus och besök på nöjesfält kan andra barn drabbas hårt när skolan stänger och det långa sommarlovet börjar. När man är ledig från skolan, fritidsaktiviteterna ofta har sommar</span><span>&#xad;</span><span>uppehåll och man vistas mer utomhus ökar risken för att dras in i kriminalitet. </span>
+			</p>
+			<p>
+				<span>I Socialdemokraternas förslag till budget för 2025 finns flera satsningar för att bryta nyrekryteringen och se till att unga ska ha en konstruktiv fritid, med en rad satsningar på sport och kultur för unga, samt för att utbilda fler fritidsledare. I detta förslag till vår</span><span>&#xad;</span><span>budget föreslår vi ytterligare satsningar för att sommaren inte ska bli en rekryteringsfest för kriminella gäng.</span>
+			</p>
+			<h3>
+				<span>Sommarfältare</span>
+			</h3>
+			<p class="Normalutanindragellerluft">
+				<span>För att sommaren inte ska bli en rekryteringsfest för gängen behövs en omedelbar för</span><span>&#xad;</span><span>stärkning av arbetet mot nyrekryteringen. Då behövs verksamhet och fler vuxna som kan erbjuda alternativ men också punktmarkera unga på väg in i kriminalitet. I höst</span><span>&#xad;</span><span>budgeten anslog vi 1</span><span>&#xa0;</span><span>500 miljoner till punktmarkering av unga på glid. Nu föreslår vi ytterligare en satsning på 500 miljoner kronor för att kommunerna ska kunna anställa extra fältassistenter under sommaren. Det behöver också finnas resurser för kommuner som använder medel för att bryta rekrytering online.</span>
+			</p>
+			<h3>
+				<span>Sommar- och extrajobb</span>
+			</h3>
+			<p class="Normalutanindragellerluft">
+				<span>Den skyhöga arbetslösheten är ett allvarligt misslyckande för SD och regeringen. Vi vill se en ny riktning där samhället kliver fram med handfasta insatser för att få in unga på arbetsmarknaden. Vi föreslår därför en rejäl satsning på en halv miljard för att skapa uppemot 45</span><span>&#xa0;</span><span>000 nya sommarjobb och jobb för unga. En del av pengarna ska kunna gå till att erbjuda ungdomar extrajobb på kvällar och helger.</span>
+			</p>
+			<p class="Rubrik2numrerat" style="-aw-import:list-item; -aw-list-level-number:1; -aw-list-number-format:'%0.%1'; -aw-list-number-styles:'decimal decimal'; -aw-list-number-values:'3 4'; -aw-list-padding-sml:4pt">
+				<span style="-aw-import:ignore"><span>3.4</span><span style="width:4pt; font:7pt 'Verdana'; display:inline-block; -aw-import:spaces">&#xa0;&#xa0; </span></span><a name="_Toc198025180"><span>Satsningar för att stärka svensk välfärd och motståndskraft</span></a>
+			</p>
+			<p class="Normalutanindragellerluft">
+				<span>SD-regeringen har satt välfärden på svältkur och skapat en sjukvårdskris. I sin senaste </span><span style="letter-spacing:-0.1pt">budget ökade regeringen inte de generella statsbidragen till kommuner och regioner med</span><span> en enda krona. Vi har i budget efter budget prioriterat annorlunda. Vi har prioriterat mer </span><span style="letter-spacing:-0.15pt">pengar till sjukvården och skolan. Dessutom har vi föreslagit en bottenplatta för välfärden</span><span> genom att indexera de generella statsbidragen. Det skulle innebära ett systemskifte för svensk välfärd där kommuner och regioner får långsiktiga förutsättningar att planera sin verksamhet. </span>
+			</p>
+			<p>
+				<span style="letter-spacing:-0.1pt">Nu befinner vi oss i det allvarligaste säkerhetspolitiska läget sedan andra världskriget.</span><span> Europa går in i en era där vi själva behöver ta ett långt större ansvar för säkerheten, friheten och demokratin. För Sveriges del innebär det att vi måste investera i vårt lands försvar och stärka vår samlade motståndskraft. Där spelar välfärden en helt avgörande roll. Den måste få långsiktig finansiering, men den måste också organiseras på ett sätt som säkrar vår motståndskraft. </span>
+			</p>
+			<p>
+				<span style="letter-spacing:-0.1pt">Men högerpartiernas ideologiska skygglappar leder till att välfärden ofta inte fungerar</span><span> som den ska. På område efter område ser vi hur deras blinda tilltro till marknaden har gjort oss sårbara. Det slår hårt mot hur välfärden fungerar i fredstid, men det är också ett direkt hot mot vår beredskap. Om samhället inte fungerar som det ska i fredstid kommer det inte heller att fungera i krig. </span>
+			</p>
+			<p>
+				<span>Vi socialdemokrater är fast beslutna att vi ska göra upp med marknadsmisslyckanden och ta ansvar för ett samhälle som fungerar. Vi tänker inte låta Sveriges beredskap ta skada av icke-fungerande marknader. Samtidigt som vi förstärker det militära försvaret måste också det civila försvaret förstärkas. I denna vårbudget pekar vi på viktiga områden där samhället behöver kliva fram för att stärka vår motståndskraft: sjukvård, läkemedelsberedskap och livsmedelsberedskap. Vi avsätter också medel för att stärka arbetet mot kriminella i välfärden. </span>
+			</p>
+			<h3>
+				<span>Läkemedelsberedskap</span>
+			</h3>
+			<p class="Normalutanindragellerluft">
+				<span>Tillgången till läkemedel är en avgörande faktor för att kunna bedriva en god sjukvård i händelse av kris och krig. I dag bygger systemet för läkemedelsförsörjning på just-in-time-principen. Det gör oss sårbara i kristider. Arbetet med att förbättra läkemedels</span><span>&#xad;</span><span>beredskapen måste komma igång på allvar, men det hämmas av SD-regeringens under</span><span>&#xad;</span><span>finansiering av sjukvården. </span>
+			</p>
+			<p>
+				<span style="letter-spacing:-0.15pt">För att regionerna ska kunna stärka arbetet med att bygga upp läkemedelsberedskapen</span><span> föreslår vi att 600 miljoner kronor avsätts i ökade statsbidrag. De ska exempelvis användas till att bygga upp läkemedelslager och säkerställa att den del av distributions</span><span>&#xad;</span><span>kedjan som regionerna ansvarar för fungerar i kristid.</span>
+			</p>
+			<h3>
+				<span>Sjukhusberedskap</span>
+			</h3>
+			<p class="Normalutanindragellerluft">
+				<span>En grundförutsättning för att sjukvården ska fungera i krigstid, är att den fungerar i fredstid. För detta krävs långsiktig finansiering och en regering som prioriterar svensk välfärd. Utöver detta krävs riktade satsningar för att ytterligare stärka beredskapen. Försvarsberedningen pekar på behovet av särskilda beredskapssjukhus som kan öka antalet vårdplatser och hantera trauma och krigsskador. För att Region Norrbotten och Region Gotland ska kunna påbörja utvecklingen av beredskapssjukhus avsätter vi en halv miljard kronor.</span>
+			</p>
+			<h3>
+				<span>Livsmedelsberedskap</span>
+			</h3>
+			<p class="Normalutanindragellerluft">
+				<span>I händelse av kris eller ytterst krig är det A</span><span>&#xa0;</span><span>och</span><span>&#xa0;</span><span>O att vi har tillgång till mat. Det för</span><span>&#xad;</span><span>ändrade omvärldsläget har visat på sårbarheter i livsmedelskedjan. Pandemin visade hur </span><span style="letter-spacing:-0.15pt">sårbara våra leveranskedjor är, klimatförändringar har försämrat skördarna och Rysslands</span><span> invasion av Ukraina har drivit upp kostnaderna för insatsvaror.</span>
+			</p>
+			<p>
+				<span>Socialdemokraterna anser att det är angeläget att svensk livsmedelsberedskap stärks och föreslår därför att 100 miljoner kronor avsätts för detta. </span>
+			</p>
+			<h3>
+				<span>Stärkt arbete mot kriminella i välfärden</span>
+			</h3>
+			<p class="Normalutanindragellerluft">
+				<span>Rapporterna om marknadsmisslyckanden i välfärden duggar tätt. Kriminella driver vårdcentraler och HVB-hem. Inom LSS har 40 procent av brukarna kommit i kontakt med personliga assistenter som är kopplade till kriminalitet. Den tillsyn som i dag görs av de här verksamheterna är långt ifrån tillräcklig. Som en del i arbetet med att rensa ut kriminella ur välfärden avsätter vi ytterligare 10</span><span>&#xa0;</span><span>miljoner kronor till Ivo, för att stärka tillsynen.</span>
+			</p>
+			<p class="Rubrik2numrerat" style="-aw-import:list-item; -aw-list-level-number:1; -aw-list-number-format:'%0.%1'; -aw-list-number-styles:'decimal decimal'; -aw-list-number-values:'3 5'; -aw-list-padding-sml:4pt">
+				<span style="-aw-import:ignore"><span>3.5</span><span style="width:4pt; font:7pt 'Verdana'; display:inline-block; -aw-import:spaces">&#xa0;&#xa0; </span></span><a name="_Toc198025181"><span>Finansiering</span></a>
+			</p>
+			<p class="Normalutanindragellerluft">
+				<span style="letter-spacing:-0.1pt">Åtgärderna i Socialdemokraternas vårmotion föreslås finansieras genom en tillfällig skatt</span><span> på bankernas övervinster. Bankerna har gjort stora vinster när räntan varit hög och deras räntenettomarginaler ökat. Det är rimligt att de som tjänat på krisen, på bekostnad av vanligt folk, är med och bidrar till att bygga Sverige starkare. Vi föreslår därför en till</span><span>&#xad;</span><span>fällig skatt på bankernas övervinster som betalas tillbaka till hushållen och till välfärden </span><span style="letter-spacing:-0.1pt">och som används för att bygga Sverige starkare. Bankskatten gäller den del av bankernas</span><span> räntenetton som överstiger 150 procent av ett historiskt snitt.</span>
+			</p>
+			<p style="margin-bottom:12pt; line-height:normal">
+				<br style="page-break-before:always; clear:both">
+			</p>
+			<p class="Rubrik1numrerat" style="-aw-import:list-item; -aw-list-level-number:0; -aw-list-number-format:'%0'; -aw-list-number-styles:'decimal'; -aw-list-number-values:'4'; -aw-list-padding-sml:4.75pt">
+				<span style="-aw-import:ignore"><span>4</span><span style="width:4.75pt; font:7pt 'Verdana'; display:inline-block; -aw-import:spaces">&#xa0;&#xa0; </span></span><a name="_Toc198025182"><span style="-aw-bookmark-end:_Hlk196827904"></span><span>Reformtabell</span></a><span> </span>
+			</p>
+			<p class="Normalutanindragellerluft" style="margin-bottom:15pt">
+				<span>Tabellen anger Socialdemokraternas avvikelser från regeringens förslag till vårbudget. Totalt föreslår vi satsningar för ca 4,5 miljarder kronor mer än regeringen. </span>
+			</p>
+			<p style="margin-bottom:15pt; t-i:0pt">
+				<img src="https://data.riksdagen.se/fil/HC023415/Dokument.007.png" width="567" height="606" alt="" style="-aw-left-pos:0pt; -aw-rel-hpos:column; -aw-rel-vpos:paragraph; -aw-top-pos:0pt; -aw-wrap-type:inline">
+			</p>
+			<div style="-aw-sdt-tag:'CC_Underskrifter'; -aw-sdt-title:'CC_Underskrifter'">
+				<p style="margin-bottom:12pt; line-height:normal">
+					<span style="-aw-import:ignore">&#xa0;</span>
+				</p>
+				<p>
+					<span style="-aw-import:ignore">&#xa0;</span>
+				</p>
+			</div>
+			<table cellspacing="0" cellpadding="0" style="width:100%; border-collapse:collapse">
+				<tr style="page-break-inside:avoid">
+					<td style="width:1%; padding-right:5.4pt; padding-left:5.4pt; vertical-align:bottom">
+						<p class="Underskrifter" style="margin-bottom:0pt">
+							<span>Magdalena Andersson (S)</span>
+						</p>
+					</td>
+					<td style="width:1%; padding-right:5.4pt; padding-left:5.4pt; vertical-align:bottom">
+						<p class="Underskrifter" style="margin-bottom:0pt">
+							<span style="-aw-import:ignore">&#xa0;</span>
+						</p>
+					</td>
+				</tr>
+				<tr style="page-break-inside:avoid">
+					<td style="width:1%; padding-right:5.4pt; padding-left:5.4pt; vertical-align:bottom">
+						<p class="Underskrifter" style="margin-bottom:0pt">
+							<span>Mikael Damberg (S)</span>
+						</p>
+					</td>
+					<td style="width:1%; padding-right:5.4pt; padding-left:5.4pt; vertical-align:bottom">
+						<p class="Underskrifter" style="margin-bottom:0pt">
+							<span>Lena Hallengren (S)</span>
+						</p>
+					</td>
+				</tr>
+				<tr style="page-break-inside:avoid">
+					<td style="width:1%; padding-right:5.4pt; padding-left:5.4pt; vertical-align:bottom">
+						<p class="Underskrifter" style="margin-bottom:0pt">
+							<span>Johan Löfstrand (S)</span>
+						</p>
+					</td>
+					<td style="width:1%; padding-right:5.4pt; padding-left:5.4pt; vertical-align:bottom">
+						<p class="Underskrifter" style="margin-bottom:0pt">
+							<span>Teresa Carvalho (S)</span>
+						</p>
+					</td>
+				</tr>
+				<tr style="page-break-inside:avoid">
+					<td style="width:1%; padding-right:5.4pt; padding-left:5.4pt; vertical-align:bottom">
+						<p class="Underskrifter" style="margin-bottom:0pt">
+							<span>Peter Hultqvist (S)</span>
+						</p>
+					</td>
+					<td style="width:1%; padding-right:5.4pt; padding-left:5.4pt; vertical-align:bottom">
+						<p class="Underskrifter" style="margin-bottom:0pt">
+							<span>Jennie Nilsson (S)</span>
+						</p>
+					</td>
+				</tr>
+				<tr style="page-break-inside:avoid">
+					<td style="width:1%; padding-right:5.4pt; padding-left:5.4pt; vertical-align:bottom">
+						<p class="Underskrifter" style="margin-bottom:0pt">
+							<span>Ardalan Shekarabi (S)</span>
+						</p>
+					</td>
+					<td style="width:1%; padding-right:5.4pt; padding-left:5.4pt; vertical-align:bottom">
+						<p class="Underskrifter" style="margin-bottom:0pt">
+							<span>Matilda Ernkrans (S)</span>
+						</p>
+					</td>
+				</tr>
+				<tr style="page-break-inside:avoid">
+					<td style="width:1%; padding-right:5.4pt; padding-left:5.4pt; vertical-align:bottom">
+						<p class="Underskrifter" style="margin-bottom:0pt">
+							<span>Fredrik Olovsson (S)</span>
+						</p>
+					</td>
+					<td style="width:1%; padding-right:5.4pt; padding-left:5.4pt; vertical-align:bottom">
+						<p class="Underskrifter" style="margin-bottom:0pt">
+							<span>Ida Karkiainen (S)</span>
+						</p>
+					</td>
+				</tr>
+				<tr style="page-break-inside:avoid">
+					<td style="width:1%; padding-right:5.4pt; padding-left:5.4pt; vertical-align:bottom">
+						<p class="Underskrifter" style="margin-bottom:0pt">
+							<span>Niklas Karlsson (S)</span>
+						</p>
+					</td>
+					<td style="width:1%; padding-right:5.4pt; padding-left:5.4pt; vertical-align:bottom">
+						<p class="Underskrifter" style="margin-bottom:0pt">
+							<span>Lawen Redar (S)</span>
+						</p>
+					</td>
+				</tr>
+				<tr style="page-break-inside:avoid">
+					<td style="width:1%; padding-right:5.4pt; padding-left:5.4pt; vertical-align:bottom">
+						<p class="Underskrifter" style="margin-bottom:0pt">
+							<span>Anders Ygeman (S)</span>
+						</p>
+					</td>
+					<td style="width:1%; padding-right:5.4pt; padding-left:5.4pt; vertical-align:bottom">
+						<p class="Underskrifter" style="margin-bottom:0pt">
+							<span>Anna-Caren Sätherberg (S)</span>
+						</p>
+					</td>
+				</tr>
+				<tr style="page-break-inside:avoid">
+					<td style="width:1%; padding-right:5.4pt; padding-left:5.4pt; vertical-align:bottom">
+						<p class="Underskrifter" style="margin-bottom:0pt">
+							<span>Fredrik Lundh Sammeli (S)</span>
+						</p>
+					</td>
+					<td style="width:1%; padding-right:5.4pt; padding-left:5.4pt; vertical-align:bottom">
+						<p class="Underskrifter" style="margin-bottom:0pt">
+							<span>Aylin Nouri (S)</span>
+						</p>
+					</td>
+				</tr>
+				<tr style="page-break-inside:avoid">
+					<td style="width:1%; padding-right:5.4pt; padding-left:5.4pt; vertical-align:bottom">
+						<p class="Underskrifter" style="margin-bottom:0pt">
+							<span>Åsa Westlund (S)</span>
+						</p>
+					</td>
+					<td style="width:1%; padding-right:5.4pt; padding-left:5.4pt; vertical-align:bottom">
+						<p class="Underskrifter" style="margin-bottom:0pt">
+							<span>Morgan Johansson (S)</span>
+						</p>
+					</td>
+				</tr>
+				<tr style="page-break-inside:avoid">
+					<td style="width:1%; padding-right:5.4pt; padding-left:5.4pt; vertical-align:bottom">
+						<p class="Underskrifter" style="margin-bottom:0pt">
+							<span>Heléne Björklund (S)</span>
+						</p>
+					</td>
+					<td style="width:1%; padding-right:5.4pt; padding-left:5.4pt; vertical-align:bottom">
+						<p class="Underskrifter" style="margin-bottom:0pt">
+							<span>Mattias Jonsson (S)</span>
+						</p>
+					</td>
+				</tr>
+			</table>
+			<p>
+				<span style="-aw-import:ignore">&#xa0;</span>
+			</p>
+		</div>
+	</div>

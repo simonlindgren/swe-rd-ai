@@ -1,0 +1,2449 @@
+SEARCH TERM: AI
+DOCUMENT ID: ha03138
+TITLE: En gemensam laddningsstandard för viss radioutrustning
+TYPE: prop
+SUBTYPE: prop
+DATE: 2023-09-05
+PARLIAMENTARY YEAR: 2022/23
+ORGANISATION: Finansdepartementet
+STATUS: Klar
+DOWNLOADED: 2026-01-22 10:26:34
+================================================================================
+
+<div style="margin:3px;">
+<STYLE type="text/css">
+
+body {margin-top: 0px;margin-left: 0px;}
+
+#page_1 {position:relative; overflow: hidden;z:b;margin:10px 0px 21px 10px ;padding: 0px;border: none;width: 766px;}
+
+#page_1 #p1dimg1 {position:absolute;top:0px;left:546px;z-index:-1;width:54px;height:97px;}
+#page_1 #p1dimg1 #p1img1 {width:54px;height:97px;}
+
+
+
+
+#page_2 {position:relative; overflow: hidden;z:b;margin:16px 0px 21px 10px ;padding: 0px;border: none;width: 676px;}
+#page_2 #id_1 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 90px;overflow: hidden;}
+#page_2 #id_2 {float:left;border:none;z:b;margin:1px 0px 0px 10px ;padding: 0px;border:none;width: 541px;overflow: hidden;}
+
+
+
+
+
+#page_3 {position:relative; overflow: hidden;z:b;margin:15px 0px 21px 10px ;padding: 0px;border: none;width: 676px;}
+
+
+
+
+
+#page_4 {position:relative; overflow: hidden;z:b;margin:15px 0px 20px 10px ;padding: 0px;border: none;width: 676px;}
+
+
+
+
+
+#page_5 {position:relative; overflow: hidden;z:b;margin:15px 0px 21px 10px ;padding: 0px;border: none;width: 676px;}
+
+
+
+
+
+#page_6 {position:relative; overflow: hidden;z:b;margin:16px 0px 21px 10px ;padding: 0px;border: none;width: 676px;}
+
+
+
+
+
+#page_7 {position:relative; overflow: hidden;z:b;margin:16px 0px 21px 10px ;padding: 0px;border: none;width: 676px;}
+
+#page_7 #p7dimg1 {position:absolute;top:117px;left:0px;z-index:-1;width:394px;height:69px;}
+#page_7 #p7dimg1 #p7img1 {width:394px;height:69px;}
+
+
+
+
+#page_8 {position:relative; overflow: hidden;z:b;margin:15px 0px 21px 10px ;padding: 0px;border: none;width: 676px;}
+
+#page_8 #p8dimg1 {position:absolute;top:66px;left:105px;z-index:-1;width:394px;height:70px;}
+#page_8 #p8dimg1 #p8img1 {width:394px;height:70px;}
+
+
+
+
+#page_9 {position:relative; overflow: hidden;z:b;margin:16px 0px 21px 10px ;padding: 0px;border: none;width: 766px;}
+
+
+
+
+
+#page_10 {position:relative; overflow: hidden;z:b;margin:16px 0px 21px 10px ;padding: 0px;border: none;width: 721px;}
+
+
+
+
+
+#page_11 {position:relative; overflow: hidden;z:b;margin:15px 0px 21px 10px ;padding: 0px;border: none;width: 766px;}
+
+
+
+
+
+#page_12 {position:relative; overflow: hidden;z:b;margin:15px 0px 21px 10px ;padding: 0px;border: none;width: 586px;}
+#page_12 #id_1 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 135px;overflow: hidden;}
+#page_12 #id_2 {float:left;border:none;z:b;margin:1px 0px 0px 10px ;padding: 0px;border:none;width: 451px;overflow: hidden;}
+
+
+
+
+
+#page_13 {position:relative; overflow: hidden;z:b;margin:15px 0px 21px 10px ;padding: 0px;border: none;width: 676px;}
+#page_13 #id_1 {border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 631px;overflow: hidden;}
+#page_13 #id_2 {border:none;z:b;margin:8px 0px 0px 10px ;padding: 0px;border:none;width: 631px;overflow: hidden;}
+
+#page_13 #p13dimg1 {position:absolute;top:48px;left:21px;z-index:-1;width:65px;height:640px;}
+#page_13 #p13dimg1 #p13img1 {width:65px;height:640px;}
+
+
+
+
+#page_14 {position:relative; overflow: hidden;z:b;margin:15px 0px 21px 10px ;padding: 0px;border: none;width: 766px;}
+#page_14 #id_1 {border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 721px;overflow: hidden;}
+#page_14 #id_2 {border:none;z:b;margin:11px 0px 0px 10px ;padding: 0px;border:none;width: 45px;overflow: hidden;}
+
+#page_14 #p14dimg1 {position:absolute;top:48px;left:147px;z-index:-1;width:25px;height:12px;font-size: 1px !important;l-h:nHeight;}
+#page_14 #p14dimg1 #p14img1 {width:25px;height:12px;}
+
+
+
+
+#page_15 {position:relative; overflow: hidden;z:b;margin:15px 0px 21px 10px ;padding: 0px;border: none;width: 676px;}
+#page_15 #id_1 {border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 631px;overflow: hidden;}
+#page_15 #id_2 {border:none;z:b;margin:7px 0px 0px 10px ;padding: 0px;border:none;width: 631px;overflow: hidden;}
+
+#page_15 #p15dimg1 {position:absolute;top:48px;left:21px;z-index:-1;width:65px;height:659px;}
+#page_15 #p15dimg1 #p15img1 {width:65px;height:659px;}
+
+
+
+
+#page_16 {position:relative; overflow: hidden;z:b;margin:15px 0px 21px 10px ;padding: 0px;border: none;width: 766px;}
+#page_16 #id_1 {border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 721px;overflow: hidden;}
+#page_16 #id_2 {border:none;z:b;margin:8px 0px 0px 10px ;padding: 0px;border:none;width: 45px;overflow: hidden;}
+
+#page_16 #p16dimg1 {position:absolute;top:48px;left:105px;z-index:-1;width:65px;height:677px;}
+#page_16 #p16dimg1 #p16img1 {width:65px;height:677px;}
+
+
+
+
+#page_17 {position:relative; overflow: hidden;z:b;margin:15px 0px 21px 10px ;padding: 0px;border: none;width: 676px;}
+#page_17 #id_1 {border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 631px;overflow: hidden;}
+#page_17 #id_2 {border:none;z:b;margin:8px 0px 0px 10px ;padding: 0px;border:none;width: 631px;overflow: hidden;}
+
+#page_17 #p17dimg1 {position:absolute;top:48px;left:21px;z-index:-1;width:65px;height:686px;}
+#page_17 #p17dimg1 #p17img1 {width:65px;height:686px;}
+
+
+
+
+#page_18 {position:relative; overflow: hidden;z:b;margin:15px 0px 21px 10px ;padding: 0px;border: none;width: 766px;}
+#page_18 #id_1 {border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 721px;overflow: hidden;}
+#page_18 #id_2 {border:none;z:b;margin:6px 0px 0px 10px ;padding: 0px;border:none;width: 45px;overflow: hidden;}
+
+#page_18 #p18dimg1 {position:absolute;top:48px;left:147px;z-index:-1;width:25px;height:12px;font-size: 1px !important;l-h:nHeight;}
+#page_18 #p18dimg1 #p18img1 {width:25px;height:12px;}
+
+
+
+
+#page_19 {position:relative; overflow: hidden;z:b;margin:15px 0px 21px 10px ;padding: 0px;border: none;width: 676px;}
+#page_19 #id_1 {border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 631px;overflow: hidden;}
+#page_19 #id_2 {border:none;z:b;margin:8px 0px 0px 10px ;padding: 0px;border:none;width: 631px;overflow: hidden;}
+
+#page_19 #p19dimg1 {position:absolute;top:48px;left:63px;z-index:-1;width:25px;height:12px;font-size: 1px !important;l-h:nHeight;}
+#page_19 #p19dimg1 #p19img1 {width:25px;height:12px;}
+
+
+
+
+#page_20 {position:relative; overflow: hidden;z:b;margin:15px 0px 21px 10px ;padding: 0px;border: none;width: 766px;}
+#page_20 #id_1 {border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 721px;overflow: hidden;}
+#page_20 #id_2 {border:none;z:b;margin:8px 0px 0px 10px ;padding: 0px;border:none;width: 45px;overflow: hidden;}
+
+#page_20 #p20dimg1 {position:absolute;top:48px;left:147px;z-index:-1;width:25px;height:12px;font-size: 1px !important;l-h:nHeight;}
+#page_20 #p20dimg1 #p20img1 {width:25px;height:12px;}
+
+
+
+
+#page_21 {position:relative; overflow: hidden;z:b;margin:15px 0px 21px 10px ;padding: 0px;border: none;width: 676px;}
+#page_21 #id_1 {border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 631px;overflow: hidden;}
+#page_21 #id_2 {border:none;z:b;margin:8px 0px 0px 10px ;padding: 0px;border:none;width: 631px;overflow: hidden;}
+
+#page_21 #p21dimg1 {position:absolute;top:48px;left:63px;z-index:-1;width:25px;height:12px;font-size: 1px !important;l-h:nHeight;}
+#page_21 #p21dimg1 #p21img1 {width:25px;height:12px;}
+
+
+
+
+#page_22 {position:relative; overflow: hidden;z:b;margin:15px 0px 21px 10px ;padding: 0px;border: none;width: 766px;}
+#page_22 #id_1 {border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 721px;overflow: hidden;}
+#page_22 #id_2 {border:none;z:b;margin:57px 0px 0px 10px ;padding: 0px;border:none;width: 45px;overflow: hidden;}
+
+#page_22 #p22dimg1 {position:absolute;top:48px;left:147px;z-index:-1;width:25px;height:12px;font-size: 1px !important;l-h:nHeight;}
+#page_22 #p22dimg1 #p22img1 {width:25px;height:12px;}
+
+
+
+
+#page_23 {position:relative; overflow: hidden;z:b;margin:15px 0px 21px 10px ;padding: 0px;border: none;width: 676px;}
+#page_23 #id_1 {border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 631px;overflow: hidden;}
+#page_23 #id_2 {border:none;z:b;margin:7px 0px 0px 10px ;padding: 0px;border:none;width: 631px;overflow: hidden;}
+
+#page_23 #p23dimg1 {position:absolute;top:48px;left:63px;z-index:-1;width:25px;height:12px;font-size: 1px !important;l-h:nHeight;}
+#page_23 #p23dimg1 #p23img1 {width:25px;height:12px;}
+
+
+
+
+#page_24 {position:relative; overflow: hidden;z:b;margin:15px 0px 21px 10px ;padding: 0px;border: none;width: 766px;}
+#page_24 #id_1 {border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 721px;overflow: hidden;}
+#page_24 #id_2 {border:none;z:b;margin:56px 0px 0px 10px ;padding: 0px;border:none;width: 45px;overflow: hidden;}
+
+#page_24 #p24dimg1 {position:absolute;top:48px;left:147px;z-index:-1;width:298px;height:697px;}
+#page_24 #p24dimg1 #p24img1 {width:298px;height:697px;}
+
+
+
+
+#page_25 {position:relative; overflow: hidden;z:b;margin:15px 0px 21px 10px ;padding: 0px;border: none;width: 676px;}
+#page_25 #id_1 {border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 631px;overflow: hidden;}
+#page_25 #id_2 {border:none;z:b;margin:46px 0px 0px 10px ;padding: 0px;border:none;width: 631px;overflow: hidden;}
+
+#page_25 #p25dimg1 {position:absolute;top:48px;left:63px;z-index:-1;width:298px;height:697px;}
+#page_25 #p25dimg1 #p25img1 {width:298px;height:697px;}
+
+
+
+
+#page_26 {position:relative; overflow: hidden;z:b;margin:15px 0px 21px 10px ;padding: 0px;border: none;width: 766px;}
+#page_26 #id_1 {border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 721px;overflow: hidden;}
+#page_26 #id_2 {border:none;z:b;margin:85px 0px 0px 10px ;padding: 0px;border:none;width: 45px;overflow: hidden;}
+
+#page_26 #p26dimg1 {position:absolute;top:48px;left:147px;z-index:-1;width:198px;height:176px;}
+#page_26 #p26dimg1 #p26img1 {width:198px;height:176px;}
+
+
+
+
+#page_27 {position:relative; overflow: hidden;z:b;margin:15px 0px 21px 10px ;padding: 0px;border: none;width: 721px;}
+#page_27 #id_1 {border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 676px;overflow: hidden;}
+#page_27 #id_1 #id_1_1 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 90px;overflow: hidden;}
+#page_27 #id_1 #id_1_2 {float:left;border:none;z:b;margin:1px 0px 0px 10px ;padding: 0px;border:none;width: 541px;overflow: hidden;}
+#page_27 #id_2 {border:none;z:b;margin:60px 0px 0px 10px ;padding: 0px;border:none;width: 676px;overflow: hidden;}
+
+
+
+
+
+#page_28 {position:relative; overflow: hidden;z:b;margin:16px 0px 21px 10px ;padding: 0px;border: none;width: 766px;}
+#page_28 #id_1 {border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 586px;overflow: hidden;}
+#page_28 #id_1 #id_1_1 {float:left;border:none;z:b;margin:1px 0px 0px 10px ;padding: 0px;border:none;width: 451px;overflow: hidden;}
+#page_28 #id_1 #id_1_2 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 90px;overflow: hidden;}
+#page_28 #id_2 {border:none;z:b;margin:5px 0px 0px 10px ;padding: 0px;border:none;width: 721px;overflow: hidden;}
+
+
+
+
+
+#page_29 {position:relative; overflow: hidden;z:b;margin:15px 0px 21px 10px ;padding: 0px;border: none;width: 721px;}
+
+
+
+
+
+#page_30 {position:relative; overflow: hidden;z:b;margin:15px 0px 21px 10px ;padding: 0px;border: none;width: 766px;}
+
+
+
+
+
+#page_31 {position:relative; overflow: hidden;z:b;margin:15px 0px 21px 10px ;padding: 0px;border: none;width: 631px;}
+
+
+
+
+
+#page_32 {position:relative; overflow: hidden;z:b;margin:16px 0px 21px 10px ;padding: 0px;border: none;width: 676px;}
+#page_32 #id_1 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 451px;overflow: hidden;}
+#page_32 #id_2 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 135px;overflow: hidden;}
+
+
+
+
+
+#page_33 {position:relative; overflow: hidden;z:b;margin:16px 0px 21px 10px ;padding: 0px;border: none;width: 721px;}
+#page_33 #id_1 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 135px;overflow: hidden;}
+#page_33 #id_2 {float:left;border:none;z:b;margin:1px 0px 0px 10px ;padding: 0px;border:none;width: 541px;overflow: hidden;}
+
+#page_33 #p33dimg1 {position:absolute;top:203px;left:126px;z-index:-1;width:112px;height:1px;font-size: 1px !important;l-h:nHeight;}
+#page_33 #p33dimg1 #p33img1 {width:112px;height:1px;}
+
+
+
+
+.dclr {clear:both;float:none;height:1px;margin:0px;padding:0px;overflow:hidden;}
+
+.ft0{font:  18px 'Verdana' !important;l-h: 29px;}
+.ft1{font:  14px 'Verdana' !important;l-h: 22px;}
+.ft2{font:  12px 'Verdana' !important;l-h: 15px;}
+.ft3{font: italic  12px 'Verdana' !important;l-h: 15px;}
+.ft4{font:  14px 'Verdana' !important;l-h: 20px;}
+.ft5{font:  10px 'Verdana' !important;l-h: 1px;}
+.ft6{font:  10px 'Verdana' !important;l-h: 8px;}
+.ft7{font:  14px 'Verdana' !important;l-h: 22px;position: relative; bottom: -6px;}
+.ft8{font:  10px 'Verdana' !important;l-h: 12px;position: relative; bottom: 5px;}
+.ft9{font: italic  12px 'Verdana' !important;l-h: 15px;}
+.ft10{font:  12px 'Verdana' !important;margin-left: 3px;l-h: 15px;}
+.ft11{font:  12px 'Verdana' !important;l-h: 15px;}
+.ft12{font:  10px 'Verdana' !important;l-h: 6px;position: relative; bottom: 4px;}
+.ft13{font:  10px 'Verdana' !important;l-h: 12px;}
+.ft14{font:  12px 'Verdana' !important;l-h: 13px;}
+.ft15{font:  12px 'Verdana' !important;l-h: 14px;}
+.ft16{font:  14px 'Verdana' !important;margin-left: 51px;l-h: 22px;}
+.ft17{font:  14px 'Verdana' !important;l-h: 19px;}
+.ft18{font:  14px 'Verdana' !important;l-h: 19px;}
+.ft19{font:  14px 'Verdana' !important;margin-left: 39px;l-h: 19px;}
+.ft20{font: bold  12px 'Verdana' !important;l-h: 15px;}
+.ft21{font:  14px 'Verdana' !important;margin-left: 50px;l-h: 22px;}
+.ft22{font: bold  12px 'Verdana' !important;l-h: 14px;}
+.ft23{font:  12px 'Verdana' !important;l-h: 14px;}
+.ft24{font:  12px 'Verdana' !important;margin-left: 4px;l-h: 14px;}
+.ft25{font:  12px 'Verdana' !important;margin-left: 4px;l-h: 15px;}
+.ft26{font:  12px 'Verdana' !important;l-h: 13px;}
+.ft27{font:  12px 'Verdana' !important;margin-left: 4px;l-h: 13px;}
+.ft28{font: italic  12px 'Verdana' !important;l-h: 14px;}
+.ft29{font: italic  12px 'Verdana' !important;margin-left: 4px;l-h: 15px;}
+.ft30{font:  14px 'Verdana' !important;l-h: 23px;}
+.ft31{font:  10px 'Verdana' !important;l-h: 11px;}
+.ft32{font:  10px 'Verdana' !important;l-h: 9px;}
+.ft33{font:  10px 'Verdana' !important;l-h: 4px;}
+.ft34{font:  14px 'Verdana' !important;l-h: 18px;}
+.ft35{font: bold  10px 'Verdana' !important;l-h: 11px;}
+.ft36{font: bold  10px 'Verdana' !important;l-h: 10px;}
+.ft37{font:  10px 'Verdana' !important;l-h: 10px;}
+.ft38{font:  10px 'Verdana' !important;l-h: 12px;}
+.ft39{font:  10px 'Verdana' !important;l-h: 6px;}
+.ft40{font:  10px 'Verdana' !important;l-h: 7px;}
+.ft41{font:  10px 'Verdana' !important;margin-left: 15px;l-h: 10px;}
+.ft42{font:  10px 'Verdana' !important;l-h: 5px;}
+.ft43{font:  10px 'Verdana' !important;l-h: 1px;}
+.ft44{font:  10px 'Verdana' !important;margin-left: 14px;l-h: 10px;}
+.ft45{font:  10px 'Verdana' !important;margin-left: 10px;l-h: 10px;}
+.ft46{font:  10px 'Verdana' !important;margin-left: 9px;l-h: 10px;}
+.ft47{font:  10px 'Verdana' !important;margin-left: 9px;l-h: 11px;}
+.ft48{font:  10px 'Verdana' !important;l-h: 11px;}
+.ft49{font:  10px 'Verdana' !important;margin-left: 10px;l-h: 11px;}
+.ft50{font:  10px 'Verdana' !important;margin-left: 10px;l-h: 12px;}
+.ft51{font:  10px 'Verdana' !important;margin-left: 6px;l-h: 12px;}
+.ft52{font:  10px 'Verdana' !important;margin-left: 6px;l-h: 10px;}
+.ft53{font:  10px 'Verdana' !important;l-h: 10px;}
+.ft54{font:  10px 'Verdana' !important;margin-left: 5px;l-h: 12px;}
+.ft55{font:  10px 'Verdana' !important;margin-left: 15px;l-h: 12px;}
+.ft56{font:  10px 'Verdana' !important;l-h: 6px;}
+.ft57{font:  10px 'Verdana' !important;margin-left: 5px;l-h: 10px;}
+.ft58{font:  10px 'Verdana' !important;margin-left: 6px;l-h: 11px;}
+.ft59{font:  12px 'Verdana' !important;margin-left: 4px;l-h: 15px;}
+.ft60{font:  10px 'Verdana' !important;l-h: 14px;}
+.ft61{font:  10px 'Verdana' !important;l-h: 7px;}
+
+.p0{text-align: left;padding-left: 0px;padding-right: 420px;margin-top: 26px;margin-bottom: 0px !important;}
+.p1{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p2{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p3{text-align: left;padding-left: 0px;margin-top: 20px;margin-bottom: 0px !important;}
+.p4{text-align: left;padding-left: 0px;margin-top: 16px;margin-bottom: 0px !important;}
+.p5{text-align: left;padding-left: 0px;margin-top: 31px;margin-bottom: 0px !important;}
+.p6{text-align: left;padding-left: 180px;padding-right: 399px;margin-top: 20px;margin-bottom: 0px !important;}
+.p7{text-align: left;padding-left: 0px;margin-top: 52px;margin-bottom: 0px !important;}
+.p8{text-align: left;padding-left: 0px;padding-right: 168px;margin-top: 27px;margin-bottom: 0px !important;}
+.p9{text-align: left;padding-left: 0px;margin-top: 4px;margin-bottom: 0px !important;}
+.p10{text-align: right;padding-right: 42px;margin-top: 183px;margin-bottom: 0px !important;}
+.p11{text-align: left;margin-top: 0px;margin-bottom: 0px !important;}
+.p12{text-align: left;margin-top: 753px;margin-bottom: 0px !important;}
+.p13{text-align: left;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p14{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p15{text-align: right;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p16{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p17{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p18{text-align: right;padding-right: 21px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p19{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p20{text-align: left;margin-top: 16px;margin-bottom: 0px !important;}
+.p21{text-align: left;padding-right: 168px;margin-top: 0px;margin-bottom: 0px !important;text-indent: 11px;}
+.p22{text-align: left;padding-left: 460px;margin-top: 683px;margin-bottom: 0px !important;}
+.p23{text-align: left;padding-left: 0px;padding-right: 63px;padding-top: 2px;margin-top: 16px;margin-bottom: 0px !important;}
+.p24{text-align: left;padding-left: 280px;margin-top: 15px;margin-bottom: 0px !important;}
+.p25{text-align: left;padding-left: 0px;padding-right: 63px;margin-top: 1px;margin-bottom: 0px !important;text-indent: 11px;}
+.p26{text-align: left;padding-left: 0px;margin-top: 1px;margin-bottom: 0px !important;}
+.p27{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;}
+.p28{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p29{text-align: right;padding-right: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p30{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p31{text-align: left;padding-left: 0px;margin-top: 17px;margin-bottom: 0px !important;}
+.p32{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p33{text-align: right;padding-right: 42px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p34{text-align: left;padding-right: 168px;margin-top: 16px;margin-bottom: 0px !important;}
+.p35{text-align: left;padding-left: 0px;margin-top: 3px;margin-bottom: 0px !important;}
+.p36{text-align: left;margin-top: 15px;margin-bottom: 0px !important;}
+.p37{text-align: left;padding-right: 168px;margin-top: 5px;margin-bottom: 0px !important;}
+.p38{text-align: left;margin-top: 51px;margin-bottom: 0px !important;}
+.p39{text-align: left;margin-top: 17px;margin-bottom: 0px !important;}
+.p40{text-align: left;padding-left: 0px;padding-right: 63px;margin-top: 0px;margin-bottom: 0px !important;text-indent: 0.112px;}
+.p41{text-align: left;padding-left: 0px;margin-top: 36px;margin-bottom: 0px !important;}
+.p42{text-align: left;padding-left: 0px;padding-right: 63px;margin-top: 11px;margin-bottom: 0px !important;}
+.p43{text-align: left;padding-left: 0px;padding-right: 63px;margin-top: 2px;margin-bottom: 0px !important;text-indent: 11px;}
+.p44{text-align: left;padding-left: 0px;padding-right: 63px;margin-top: 7px;margin-bottom: 0px !important;text-indent: 11px;}
+.p45{text-align: left;margin-top: 1px;margin-bottom: 0px !important;}
+.p46{text-align: left;padding-right: 42px;margin-top: 0px;margin-bottom: 0px !important;}
+.p47{text-align: left;margin-top: 49px;margin-bottom: 0px !important;}
+.p48{text-align: left;padding-left: 0px;padding-right: 168px;margin-top: 20px;margin-bottom: 0px !important;}
+.p49{text-align: left;padding-right: 168px;margin-top: 12px;margin-bottom: 0px !important;text-indent: 11px;}
+.p50{text-align: left;padding-right: 168px;margin-top: 1px;margin-bottom: 0px !important;text-indent: 11px;}
+.p51{text-align: left;padding-right: 168px;margin-top: 0px;margin-bottom: 0px !important;text-indent: 11px;}
+.p52{text-align: left;padding-right: 168px;margin-top: 3px;margin-bottom: 0px !important;text-indent: 11px;}
+.p53{text-align: left;padding-right: 168px;margin-top: 2px;margin-bottom: 0px !important;text-indent: 11px;}
+.p54{text-align: left;padding-left: 460px;margin-top: 148px;margin-bottom: 0px !important;}
+.p55{text-align: left;padding-left: 0px;padding-right: 63px;margin-top: 20px;margin-bottom: 0px !important;}
+.p56{text-align: left;padding-left: 0px;padding-right: 63px;margin-top: 1px;margin-bottom: 0px !important;text-indent: 11px;}
+.p57{text-align: left;padding-left: 0px;padding-right: 63px;margin-top: 11px;margin-bottom: 0px !important;text-indent: 11px;}
+.p58{text-align: left;padding-left: 0px;margin-top: 52px;margin-bottom: 0px !important;}
+.p59{text-align: left;padding-left: 0px;margin-top: 17px;margin-bottom: 0px !important;}
+.p60{text-align: left;padding-left: 0px;padding-right: 63px;margin-top: 11px;margin-bottom: 0px !important;}
+.p61{text-align: left;margin-top: 40px;margin-bottom: 0px !important;}
+.p62{text-align: left;padding-left: 0px;padding-right: 168px;margin-top: 10px;margin-bottom: 0px !important;}
+.p63{text-align: left;padding-left: 0px;padding-right: 168px;margin-top: 2px;margin-bottom: 0px !important;text-indent: 11px;}
+.p64{text-align: left;padding-left: 0px;margin-top: 42px;margin-bottom: 0px !important;}
+.p65{text-align: left;padding-left: 0px;padding-right: 147px;margin-top: 11px;margin-bottom: 0px !important;}
+.p66{text-align: right;padding-right: 42px;margin-top: 3px;margin-bottom: 0px !important;}
+.p67{text-align: left;padding-left: 0px;padding-right: 63px;margin-top: 0px;margin-bottom: 0px !important;text-indent: 0.112px;}
+.p68{text-align: left;padding-left: 0px;margin-top: 35px;margin-bottom: 0px !important;}
+.p69{text-align: left;padding-left: 0px;margin-top: 12px;margin-bottom: 0px !important;}
+.p70{text-align: left;padding-left: 0px;margin-top: 32px;margin-bottom: 0px !important;}
+.p71{text-align: left;padding-left: 0px;padding-right: 63px;margin-top: 12px;margin-bottom: 0px !important;}
+.p72{text-align: left;padding-left: 0px;padding-right: 63px;margin-top: 3px;margin-bottom: 0px !important;text-indent: 11px;}
+.p73{text-align: left;padding-left: 0px;margin-top: 33px;margin-bottom: 0px !important;}
+.p74{text-align: left;padding-left: 0px;padding-right: 63px;margin-top: 11px;margin-bottom: 0px !important;}
+.p75{text-align: left;margin-top: 213px;margin-bottom: 0px !important;}
+.p76{text-align: left;padding-left: 0px;padding-right: 189px;margin-top: 16px;margin-bottom: 0px !important;}
+.p77{text-align: left;padding-left: 0px;padding-right: 168px;margin-top: 25px;margin-bottom: 0px !important;}
+.p78{text-align: left;padding-left: 0px;margin-top: 1px;margin-bottom: 0px !important;}
+.p79{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;}
+.p80{text-align: left;padding-left: 0px;padding-right: 168px;margin-top: 0px;margin-bottom: 0px !important;text-indent: 11px;}
+.p81{text-align: left;padding-left: 0px;padding-right: 168px;margin-top: 14px;margin-bottom: 0px !important;}
+.p82{text-align: left;padding-left: 0px;padding-right: 168px;margin-top: 1px;margin-bottom: 0px !important;text-indent: 11px;}
+.p83{text-align: left;padding-left: 0px;padding-right: 168px;margin-top: 2px;margin-bottom: 0px !important;}
+.p84{text-align: right;padding-right: 42px;margin-top: 283px;margin-bottom: 0px !important;}
+.p85{text-align: left;padding-left: 0px;padding-right: 0px;margin-top: 0px;margin-bottom: 0px !important;}
+.p86{text-align: left;margin-top: 739px;margin-bottom: 0px !important;}
+.p87{text-align: left;margin-top: 3px;margin-bottom: 0px !important;}
+.p88{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p89{text-align: left;padding-left: 180px;margin-top: 19px;margin-bottom: 0px !important;}
+.p90{text-align: left;padding-left: 0px;margin-top: 35px;margin-bottom: 0px !important;}
+.p91{text-align: left;padding-left: 160px;margin-top: 5px;margin-bottom: 0px !important;}
+.p92{text-align: left;padding-left: 0px;margin-top: 4px;margin-bottom: 0px !important;}
+.p93{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;}
+.p94{text-align: left;padding-left: 160px;margin-top: 12px;margin-bottom: 0px !important;}
+.p95{text-align: left;padding-left: 0px;margin-top: 39px;margin-bottom: 0px !important;}
+.p96{text-align: left;padding-left: 0px;margin-top: 19px;margin-bottom: 0px !important;}
+.p97{text-align: left;padding-left: 0px;margin-top: 18px;margin-bottom: 0px !important;}
+.p98{text-align: left;padding-left: 0px;padding-right: 105px;margin-top: 17px;margin-bottom: 0px !important;text-indent: 0.24px;}
+.p99{text-align: left;padding-left: 0px;padding-right: 105px;margin-top: 21px;margin-bottom: 0px !important;text-indent: 0.24px;}
+.p100{text-align: left;padding-left: 0px;padding-right: 105px;margin-top: 20px;margin-bottom: 0px !important;text-indent: 0.24px;}
+.p101{text-align: right;padding-right: 3px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p102{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p103{text-align: right;padding-right: 42px;margin-top: 0px;margin-bottom: 0px !important;}
+.p104{text-align: left;padding-left: 440px;margin-top: 3px;margin-bottom: 0px !important;}
+.p105{text-align: right;padding-right: 21px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p106{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p107{text-align: left;padding-left: 0px;padding-right: 84px;margin-top: 20px;margin-bottom: 0px !important;text-indent: 0.23px;}
+.p108{text-align: left;padding-left: 0px;padding-right: 84px;margin-top: 26px;margin-bottom: 0px !important;text-indent: 0.23px;}
+.p109{text-align: left;padding-left: 0px;padding-right: 84px;margin-top: 37px;margin-bottom: 0px !important;text-indent: 0.23px;}
+.p110{text-align: left;padding-left: 0px;padding-right: 84px;margin-top: 35px;margin-bottom: 0px !important;text-indent: 0.23px;}
+.p111{text-align: left;padding-left: 0px;padding-right: 105px;margin-top: 20px;margin-bottom: 0px !important;}
+.p112{text-align: left;padding-left: 0px;padding-right: 105px;margin-top: 70px;margin-bottom: 0px !important;text-indent: 0.24px;}
+.p113{text-align: left;padding-left: 0px;padding-right: 105px;margin-top: 72px;margin-bottom: 0px !important;text-indent: 0.24px;}
+.p114{text-align: left;padding-left: 0px;padding-right: 105px;margin-top: 59px;margin-bottom: 0px !important;text-indent: 0.24px;}
+.p115{text-align: left;padding-left: 0px;padding-right: 105px;margin-top: 15px;margin-bottom: 0px !important;text-indent: 0.11px;}
+.p116{text-align: left;padding-left: 0px;padding-right: 84px;margin-top: 19px;margin-bottom: 0px !important;}
+.p117{text-align: left;padding-left: 0px;padding-right: 84px;margin-top: 39px;margin-bottom: 0px !important;text-indent: 0.23px;}
+.p118{text-align: left;padding-left: 0px;padding-right: 84px;margin-top: 42px;margin-bottom: 0px !important;text-indent: 0.23px;}
+.p119{text-align: left;padding-left: 0px;padding-right: 84px;margin-top: 52px;margin-bottom: 0px !important;text-indent: 0.23px;}
+.p120{text-align: left;padding-left: 0px;padding-right: 84px;margin-top: 63px;margin-bottom: 0px !important;text-indent: 0.23px;}
+.p121{text-align: left;padding-left: 0px;padding-right: 84px;margin-top: 13px;margin-bottom: 0px !important;text-indent: 0.11px;}
+.p122{text-align: left;padding-left: 0px;padding-right: 105px;margin-top: 32px;margin-bottom: 0px !important;text-indent: 0.24px;}
+.p123{text-align: left;padding-left: 0px;padding-right: 105px;margin-top: 34px;margin-bottom: 0px !important;text-indent: 0.24px;}
+.p124{text-align: left;padding-left: 0px;padding-right: 105px;margin-top: 42px;margin-bottom: 0px !important;text-indent: 0.24px;}
+.p125{text-align: left;padding-left: 0px;padding-right: 105px;margin-top: 32px;margin-bottom: 0px !important;text-indent: 0.24px;}
+.p126{text-align: left;padding-left: 0px;padding-right: 105px;margin-top: 30px;margin-bottom: 0px !important;text-indent: 0.24px;}
+.p127{text-align: left;padding-left: 0px;margin-top: 46px;margin-bottom: 0px !important;}
+.p128{text-align: left;padding-left: 0px;padding-right: 105px;margin-top: 31px;margin-bottom: 0px !important;text-indent: 0.24px;}
+.p129{text-align: left;padding-left: 0px;margin-top: 13px;margin-bottom: 0px !important;}
+.p130{text-align: left;padding-left: 0px;margin-top: 21px;margin-bottom: 0px !important;}
+.p131{text-align: left;padding-left: 280px;margin-top: 55px;margin-bottom: 0px !important;}
+.p132{text-align: left;padding-left: 0px;margin-top: 23px;margin-bottom: 0px !important;}
+.p133{text-align: left;padding-left: 0px;margin-top: 13px;margin-bottom: 0px !important;}
+.p134{text-align: left;padding-left: 0px;margin-top: 12px;margin-bottom: 0px !important;}
+.p135{text-align: left;padding-left: 120px;padding-right: 84px;margin-top: 12px;margin-bottom: 0px !important;text-indent: 0.13px;}
+.p136{text-align: left;padding-left: 0px;margin-top: 14px;margin-bottom: 0px !important;}
+.p137{text-align: left;padding-left: 0px;padding-right: 84px;margin-top: 12px;margin-bottom: 0px !important;}
+.p138{text-align: left;padding-left: 0px;padding-right: 84px;margin-top: 20px;margin-bottom: 0px !important;}
+.p139{text-align: left;padding-left: 0px;margin-top: 14px;margin-bottom: 0px !important;}
+.p140{text-align: left;padding-left: 0px;padding-right: 84px;margin-top: 12px;margin-bottom: 0px !important;text-indent: 0.12px;}
+.p141{text-align: left;padding-left: 0px;padding-right: 84px;margin-top: 26px;margin-bottom: 0px !important;}
+.p142{text-align: left;padding-left: 0px;padding-right: 84px;margin-top: 19px;margin-bottom: 0px !important;}
+.p143{text-align: left;padding-left: 0px;margin-top: 15px;margin-bottom: 0px !important;}
+.p144{text-align: left;padding-left: 0px;padding-right: 105px;margin-top: 20px;margin-bottom: 0px !important;}
+.p145{text-align: left;padding-left: 0px;padding-right: 105px;margin-top: 39px;margin-bottom: 0px !important;}
+.p146{text-align: left;padding-left: 0px;margin-top: 17px;margin-bottom: 0px !important;}
+.p147{text-align: left;padding-left: 0px;margin-top: 29px;margin-bottom: 0px !important;}
+.p148{text-align: left;padding-left: 0px;padding-right: 105px;margin-top: 27px;margin-bottom: 0px !important;}
+.p149{text-align: left;padding-left: 0px;padding-right: 105px;margin-top: 11px;margin-bottom: 0px !important;text-indent: 0.4px;}
+.p150{text-align: left;padding-left: 0px;padding-right: 105px;margin-top: 16px;margin-bottom: 0px !important;text-indent: 0.4px;}
+.p151{text-align: left;padding-left: 0px;padding-right: 105px;margin-top: 39px;margin-bottom: 0px !important;}
+.p152{text-align: left;padding-left: 0px;margin-top: 16px;margin-bottom: 0px !important;}
+.p153{text-align: left;padding-left: 0px;padding-right: 105px;margin-top: 14px;margin-bottom: 0px !important;}
+.p154{text-align: left;padding-left: 0px;margin-top: 38px;margin-bottom: 0px !important;}
+.p155{text-align: left;padding-left: 0px;margin-top: 14px;margin-bottom: 0px !important;}
+.p156{text-align: left;padding-left: 0px;margin-top: 20px;margin-bottom: 0px !important;}
+.p157{text-align: left;padding-left: 0px;padding-right: 84px;margin-top: 24px;margin-bottom: 0px !important;}
+.p158{text-align: left;padding-left: 0px;padding-right: 84px;margin-top: 37px;margin-bottom: 0px !important;}
+.p159{text-align: left;padding-left: 0px;padding-right: 84px;margin-top: 20px;margin-bottom: 0px !important;}
+.p160{text-align: left;padding-left: 0px;margin-top: 15px;margin-bottom: 0px !important;}
+.p161{text-align: left;padding-left: 0px;padding-right: 84px;margin-top: 12px;margin-bottom: 0px !important;}
+.p162{text-align: left;padding-left: 0px;margin-top: 11px;margin-bottom: 0px !important;}
+.p163{text-align: left;padding-left: 0px;margin-top: 12px;margin-bottom: 0px !important;}
+.p164{text-align: left;padding-left: 0px;padding-right: 84px;margin-top: 13px;margin-bottom: 0px !important;}
+.p165{text-align: left;padding-left: 0px;margin-top: 10px;margin-bottom: 0px !important;}
+.p166{text-align: left;padding-left: 0px;padding-right: 84px;margin-top: 13px;margin-bottom: 0px !important;}
+.p167{text-align: left;padding-left: 0px;margin-top: 20px;margin-bottom: 0px !important;}
+.p168{text-align: left;padding-left: 0px;margin-top: 11px;margin-bottom: 0px !important;}
+.p169{text-align: left;padding-left: 0px;padding-right: 105px;margin-top: 11px;margin-bottom: 0px !important;text-indent: 0.16px;}
+.p170{text-align: left;padding-left: 0px;margin-top: 8px;margin-bottom: 0px !important;}
+.p171{text-align: left;padding-left: 0px;margin-top: 9px;margin-bottom: 0px !important;}
+.p172{text-align: left;padding-left: 0px;padding-right: 105px;margin-top: 10px;margin-bottom: 0px !important;text-indent: 0.14px;}
+.p173{text-align: left;padding-left: 0px;margin-top: 13px;margin-bottom: 0px !important;}
+.p174{text-align: left;padding-left: 0px;margin-top: 11px;margin-bottom: 0px !important;}
+.p175{text-align: left;padding-left: 0px;margin-top: 11px;margin-bottom: 0px !important;}
+.p176{text-align: left;padding-left: 0px;margin-top: 10px;margin-bottom: 0px !important;}
+.p177{text-align: left;padding-left: 0px;padding-right: 105px;margin-top: 11px;margin-bottom: 0px !important;}
+.p178{text-align: left;padding-left: 0px;margin-top: 12px;margin-bottom: 0px !important;}
+.p179{text-align: left;padding-left: 0px;padding-right: 105px;margin-top: 11px;margin-bottom: 0px !important;}
+.p180{text-align: left;padding-left: 0px;padding-right: 105px;margin-top: 10px;margin-bottom: 0px !important;}
+.p181{text-align: left;padding-left: 0px;margin-top: 5px;margin-bottom: 0px !important;}
+.p182{text-align: left;padding-left: 0px;margin-top: 2px;margin-bottom: 0px !important;}
+.p183{text-align: left;padding-left: 0px;margin-top: 19px;margin-bottom: 0px !important;}
+.p184{text-align: left;padding-left: 0px;padding-right: 105px;margin-top: 10px;margin-bottom: 0px !important;}
+.p185{text-align: left;padding-left: 0px;margin-top: 23px;margin-bottom: 0px !important;}
+.p186{text-align: left;padding-left: 0px;padding-right: 105px;margin-top: 11px;margin-bottom: 0px !important;}
+.p187{text-align: left;padding-left: 280px;margin-top: 20px;margin-bottom: 0px !important;}
+.p188{text-align: left;padding-left: 0px;padding-right: 84px;margin-top: 7px;margin-bottom: 0px !important;}
+.p189{text-align: left;padding-left: 0px;padding-right: 84px;margin-top: 9px;margin-bottom: 0px !important;}
+.p190{text-align: left;padding-left: 0px;padding-right: 84px;margin-top: 3px;margin-bottom: 0px !important;}
+.p191{text-align: left;padding-left: 0px;padding-right: 84px;margin-top: 9px;margin-bottom: 0px !important;}
+.p192{text-align: left;padding-left: 280px;margin-top: 16px;margin-bottom: 0px !important;}
+.p193{text-align: left;padding-left: 0px;margin-top: 7px;margin-bottom: 0px !important;}
+.p194{text-align: center;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p195{text-align: center;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p196{text-align: left;padding-left: 200px;margin-top: 21px;margin-bottom: 0px !important;}
+.p197{text-align: left;padding-left: 200px;margin-top: 19px;margin-bottom: 0px !important;}
+.p198{text-align: left;padding-left: 0px;margin-top: 17px;margin-bottom: 0px !important;}
+.p199{text-align: left;padding-left: 180px;margin-top: 0px;margin-bottom: 0px !important;}
+.p200{text-align: left;padding-left: 200px;margin-top: 25px;margin-bottom: 0px !important;}
+.p201{text-align: left;padding-left: 120px;margin-top: 16px;margin-bottom: 0px !important;}
+.p202{text-align: left;padding-left: 0px;margin-top: 8px;margin-bottom: 0px !important;}
+.p203{text-align: left;padding-left: 0px;margin-top: 9px;margin-bottom: 0px !important;}
+.p204{text-align: left;padding-left: 0px;padding-right: 105px;margin-top: 17px;margin-bottom: 0px !important;text-indent: 0.12px;}
+.p205{text-align: left;padding-left: 0px;padding-right: 105px;margin-top: 6px;margin-bottom: 0px !important;text-indent: 0.17px;}
+.p206{text-align: left;padding-left: 0px;padding-right: 105px;margin-top: 10px;margin-bottom: 0px !important;text-indent: 0.17px;}
+.p207{text-align: left;padding-left: 0px;padding-right: 105px;margin-top: 13px;margin-bottom: 0px !important;text-indent: 0.12px;}
+.p208{text-align: left;padding-left: 0px;padding-right: 105px;margin-top: 5px;margin-bottom: 0px !important;text-indent: 0.17px;}
+.p209{text-align: left;padding-left: 280px;margin-top: 20px;margin-bottom: 0px !important;}
+.p210{text-align: left;padding-left: 0px;margin-top: 21px;margin-bottom: 0px !important;}
+.p211{text-align: left;padding-left: 0px;padding-right: 84px;margin-top: 12px;margin-bottom: 0px !important;}
+.p212{text-align: left;padding-left: 0px;padding-right: 84px;margin-top: 13px;margin-bottom: 0px !important;text-indent: 0.12px;}
+.p213{text-align: left;padding-left: 0px;padding-right: 84px;margin-top: 8px;margin-bottom: 0px !important;text-indent: 0.12px;}
+.p214{text-align: left;padding-left: 280px;margin-top: 32px;margin-bottom: 0px !important;}
+.p215{text-align: left;padding-left: 160px;margin-top: 21px;margin-bottom: 0px !important;}
+.p216{text-align: left;padding-left: 0px;margin-top: 22px;margin-bottom: 0px !important;}
+.p217{text-align: left;padding-left: 0px;margin-top: 11px;margin-bottom: 0px !important;}
+.p218{text-align: left;padding-left: 0px;margin-top: 20px;margin-bottom: 0px !important;}
+.p219{text-align: left;padding-left: 0px;padding-right: 105px;margin-top: 313px;margin-bottom: 0px !important;text-indent: 0.12px;}
+.p220{text-align: left;padding-left: 200px;margin-top: 23px;margin-bottom: 0px !important;}
+.p221{text-align: left;padding-left: 160px;margin-top: 13px;margin-bottom: 0px !important;}
+.p222{text-align: left;padding-left: 0px;padding-right: 84px;margin-top: 20px;margin-bottom: 0px !important;text-indent: 0.12px;}
+.p223{text-align: left;padding-left: 0px;padding-right: 84px;margin-top: 9px;margin-bottom: 0px !important;text-indent: 0.12px;}
+.p224{text-align: left;padding-right: 63px;margin-top: 0px;margin-bottom: 0px !important;}
+.p225{text-align: left;padding-right: 63px;margin-top: 18px;margin-bottom: 0px !important;}
+.p226{text-align: left;padding-right: 63px;margin-top: 2px;margin-bottom: 0px !important;text-indent: 11px;}
+.p227{text-align: left;padding-right: 63px;margin-top: 3px;margin-bottom: 0px !important;text-indent: 11px;}
+.p228{text-align: left;padding-left: 0px;margin-top: 2px;margin-bottom: 0px !important;}
+.p229{text-align: left;padding-left: 0px;padding-right: 273px;margin-top: 0px;margin-bottom: 0px !important;}
+.p230{text-align: left;padding-left: 0px;padding-right: 168px;margin-top: 12px;margin-bottom: 0px !important;}
+.p231{text-align: left;padding-left: 220px;margin-top: 15px;margin-bottom: 0px !important;}
+.p232{text-align: left;padding-left: 0px;padding-right: 168px;margin-top: 0px;margin-bottom: 0px !important;text-indent: 11px;}
+.p233{text-align: left;padding-left: 0px;margin-top: 17px;margin-bottom: 0px !important;}
+.p234{text-align: right;padding-right: 42px;margin-top: 309px;margin-bottom: 0px !important;}
+.p235{text-align: left;margin-top: 376px;margin-bottom: 0px !important;}
+.p236{text-align: left;padding-left: 0px;padding-right: 273px;margin-top: 10px;margin-bottom: 0px !important;}
+.p237{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p238{text-align: right;padding-right: 84px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p239{text-align: left;padding-right: 0px;margin-top: 0px;margin-bottom: 0px !important;}
+.p240{text-align: left;padding-left: 0px;margin-top: 1px;margin-bottom: 0px !important;}
+.p241{text-align: left;padding-left: 0px;margin-top: 738px;margin-bottom: 0px !important;}
+.p242{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;}
+.p243{text-align: left;margin-top: 14px;margin-bottom: 0px !important;}
+.p244{text-align: left;padding-right: 63px;margin-top: 15px;margin-bottom: 0px !important;}
+.p245{text-align: left;padding-right: 63px;margin-top: 76px;margin-bottom: 0px !important;}
+
+.td0{padding: 0px;margin: 0px;width: 381px;vertical-align: bottom;}
+.td1{padding: 0px;margin: 0px;width: 145px;vertical-align: bottom;}
+.td2{border-bottom: #000000 1px solid;padding: 0px;margin: 0px;width: 381px;vertical-align: bottom;}
+.td3{border-bottom: #000000 1px solid;padding: 0px;margin: 0px;width: 145px;vertical-align: bottom;}
+.td4{padding: 0px;margin: 0px;width: 6px;vertical-align: bottom;}
+.td5{padding: 0px;margin: 0px;width: 390px;vertical-align: bottom;}
+.td6{padding: 0px;margin: 0px;width: 14px;vertical-align: bottom;}
+.td7{padding: 0px;margin: 0px;width: 46px;vertical-align: bottom;}
+.td8{padding: 0px;margin: 0px;width: 344px;vertical-align: bottom;}
+.td9{padding: 0px;margin: 0px;width: 52px;vertical-align: bottom;}
+.td10{padding: 0px;margin: 0px;width: 396px;vertical-align: bottom;}
+.td11{padding: 0px;margin: 0px;width: 36px;vertical-align: bottom;}
+.td12{padding: 0px;margin: 0px;width: 389px;vertical-align: bottom;}
+.td13{padding: 0px;margin: 0px;width: 103px;vertical-align: bottom;}
+.td14{padding: 0px;margin: 0px;width: 182px;vertical-align: bottom;}
+.td15{padding: 0px;margin: 0px;width: 280px;vertical-align: bottom;}
+.td16{padding: 0px;margin: 0px;width: 214px;vertical-align: bottom;}
+.td17{padding: 0px;margin: 0px;width: 106px;vertical-align: bottom;}
+.td18{padding: 0px;margin: 0px;width: 154px;vertical-align: bottom;}
+.td19{padding: 0px;margin: 0px;width: 54px;vertical-align: bottom;}
+.td20{padding: 0px;margin: 0px;width: 203px;vertical-align: bottom;}
+.td21{padding: 0px;margin: 0px;width: 80px;vertical-align: bottom;}
+.td22{padding: 0px;margin: 0px;width: 87px;vertical-align: bottom;}
+.td23{padding: 0px;margin: 0px;width: 35px;vertical-align: bottom;}
+.td24{padding: 0px;margin: 0px;width: 168px;vertical-align: bottom;}
+.td25{padding: 0px;margin: 0px;width: 208px;vertical-align: bottom;}
+.td26{padding: 0px;margin: 0px;width: 122px;vertical-align: bottom;}
+.td27{padding: 0px;margin: 0px;width: 129px;vertical-align: bottom;}
+.td28{padding: 0px;margin: 0px;width: 25px;vertical-align: bottom;}
+.td29{border-bottom: #000000 1px solid;padding: 0px;margin: 0px;width: 129px;vertical-align: bottom;}
+.td30{padding: 0px;margin: 0px;width: 63px;vertical-align: bottom;}
+.td31{padding: 0px;margin: 0px;width: 446px;vertical-align: bottom;}
+.td32{padding: 0px;margin: 0px;width: 468px;vertical-align: bottom;}
+.td33{padding: 0px;margin: 0px;width: 61px;vertical-align: bottom;}
+.td34{padding: 0px;margin: 0px;width: 201px;vertical-align: bottom;}
+.td35{padding: 0px;margin: 0px;width: 426px;vertical-align: bottom;}
+.td36{padding: 0px;margin: 0px;width: 69px;vertical-align: bottom;}
+.td37{border-top: #000000 1px solid;border-bottom: #000000 1px solid;padding: 0px;margin: 0px;width: 23px;vertical-align: bottom;}
+.td38{padding: 0px;margin: 0px;width: 299px;vertical-align: bottom;}
+.td39{padding: 0px;margin: 0px;width: 110px;vertical-align: bottom;}
+.td40{border-bottom: #000000 1px solid;padding: 0px;margin: 0px;width: 69px;vertical-align: bottom;}
+.td41{border-bottom: #000000 1px solid;padding: 0px;margin: 0px;width: 23px;vertical-align: bottom;}
+.td42{border-bottom: #000000 1px solid;padding: 0px;margin: 0px;width: 299px;vertical-align: bottom;}
+.td43{border-bottom: #000000 1px solid;padding: 0px;margin: 0px;width: 110px;vertical-align: bottom;}
+.td44{padding: 0px;margin: 0px;width: 9px;vertical-align: bottom;}
+.td45{padding: 0px;margin: 0px;width: 442px;vertical-align: bottom;}
+.td46{padding: 0px;margin: 0px;width: 373px;vertical-align: bottom;}
+.td47{border-bottom: #000000 1px solid;padding: 0px;margin: 0px;width: 373px;vertical-align: bottom;}
+.td48{border-bottom: #000000 1px solid;padding: 0px;margin: 0px;width: 35px;vertical-align: bottom;}
+.td49{padding: 0px;margin: 0px;width: 210px;vertical-align: bottom;}
+.td50{padding: 0px;margin: 0px;width: 3px;vertical-align: bottom;}
+.td51{padding: 0px;margin: 0px;width: 24px;vertical-align: bottom;}
+.td52{padding: 0px;margin: 0px;width: 118px;vertical-align: bottom;}
+.td53{border-bottom: #000000 1px solid;padding: 0px;margin: 0px;width: 24px;vertical-align: bottom;}
+.td54{padding: 0px;margin: 0px;width: 215px;vertical-align: bottom;}
+.td55{padding: 0px;margin: 0px;width: 159px;vertical-align: bottom;}
+.td56{padding: 0px;margin: 0px;width: 55px;vertical-align: bottom;}
+.td57{padding: 0px;margin: 0px;width: 197px;vertical-align: bottom;}
+.td58{padding: 0px;margin: 0px;width: 76px;vertical-align: bottom;}
+.td59{padding: 0px;margin: 0px;width: 30px;vertical-align: bottom;}
+.td60{padding: 0px;margin: 0px;width: 166px;vertical-align: bottom;}
+.td61{padding: 0px;margin: 0px;width: 138px;vertical-align: bottom;}
+.td62{border-bottom: #000000 1px solid;padding: 0px;margin: 0px;width: 76px;vertical-align: bottom;}
+.td63{border-bottom: #000000 1px solid;padding: 0px;margin: 0px;width: 52px;vertical-align: bottom;}
+.td64{padding: 0px;margin: 0px;width: 119px;vertical-align: bottom;}
+.td65{padding: 0px;margin: 0px;width: 412px;vertical-align: bottom;}
+.td66{padding: 0px;margin: 0px;width: 0px;vertical-align: bottom;}
+.td67{padding: 0px;margin: 0px;width: 77px;vertical-align: bottom;}
+.td68{padding: 0px;margin: 0px;width: 84px;vertical-align: bottom;}
+.td69{padding: 0px;margin: 0px;width: 161px;vertical-align: bottom;}
+.td70{padding: 0px;margin: 0px;width: 117px;vertical-align: bottom;}
+.td71{padding: 0px;margin: 0px;width: 236px;vertical-align: bottom;}
+.td72{padding: 0px;margin: 0px;width: 184px;vertical-align: bottom;}
+.td73{padding: 0px;margin: 0px;width: 421px;vertical-align: bottom;}
+
+.tr0{heightzzz: 27px;}
+.tr1{heightzzz: 24px;}
+.tr2{heightzzz: 18px;}
+.tr3{heightzzz: 22px;}
+.tr4{heightzzz: 15px;}
+.tr5{heightzzz: 16px;}
+.tr6{heightzzz: 21px;}
+.tr7{heightzzz: 23px;}
+.tr8{heightzzz: 26px;}
+.tr9{heightzzz: 8px;}
+.tr10{heightzzz: 28px;}
+.tr11{heightzzz: 14px;}
+.tr12{heightzzz: 12px;}
+.tr13{heightzzz: 13px;}
+.tr14{heightzzz: 20px;}
+.tr15{heightzzz: 10px;}
+.tr16{heightzzz: 4px;}
+.tr17{heightzzz: 9px;}
+.tr18{heightzzz: 19px;}
+.tr19{heightzzz: 40px;}
+.tr20{heightzzz: 34px;}
+.tr21{heightzzz: 25px;}
+.tr22{heightzzz: 7px;}
+.tr23{heightzzz: 36px;}
+.tr24{heightzzz: 31px;}
+.tr25{heightzzz: 30px;}
+
+.t0{width: 552px;margin-leftZ: 69px;margin-top: 11px;f:20px 'Verdana' !important;}
+.t1{width: 431px;margin-top: 16px;f:13px 'Verdana' !important;}
+.t2{width: 555px;f:20px 'Verdana' !important;}
+.t3{width: 485px;f:20px 'Verdana' !important;}
+.t4{width: 335px;margin-leftZ: 114px;margin-top: 15px;f:italic 13px 'Verdana' !important;}
+.t5{width: 432px;margin-leftZ: 114px;f:13px 'Verdana' !important;}
+.t6{width: 533px;margin-top: 285px;f:10px 'Verdana' !important;}
+.t7{width: 555px;margin-top: 8px;f:13px 'Verdana' !important;}
+.t8{width: 402px;f:20px 'Verdana' !important;}
+.t9{width: 555px;margin-leftZ: 68px;f:13px 'Verdana' !important;}
+.t10{width: 555px;margin-leftZ: 68px;f:20px 'Verdana' !important;}
+.t11{width: 525px;margin-leftZ: 3px;margin-top: 15px;f:9px 'Verdana' !important;}
+.t12{width: 473px;margin-leftZ: 27px;margin-top: 19px;f:7px 'Verdana' !important;}
+.t13{width: 525px;margin-leftZ: 84px;margin-top: 15px;f:8px 'Verdana' !important;}
+.t14{width: 372px;margin-leftZ: 108px;margin-top: 16px;f:9px 'Verdana' !important;}
+.t15{width: 336px;margin-leftZ: 68px;margin-top: 16px;f:italic 13px 'Verdana' !important;}
+.t16{width: 432px;margin-leftZ: 68px;f:13px 'Verdana' !important;}
+.t17{width: 557px;margin-leftZ: 6px;f:13px 'Verdana' !important;}
+.t18{width: 564px;f:13px 'Verdana' !important;}
+
+</STYLE>
+
+
+
+<DIV id="page_1">
+<DIV id="p1dimg1">
+<INGENBILD zsrc="HA031381x1.jpg/" id="p1img1">
+</DIV>
+
+
+<DIV class="dclr"></DIV>
+<P class="p0 ft0">Regeringens proposition 2022/23:138</P>
+<TABLE cellpadding=0 cellspacing=0 class="t0">
+<TR>
+	<TD class="tr0 td0"><SPAN class="p1 ft1">En gemensam laddningsstandard för viss</SPAN> </TD>
+	<TD class="tr0 td1"><SPAN class="p2 ft1">Prop.</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr1 td2"><SPAN class="p1 ft1">radioutrustning</SPAN> </TD>
+	<TD class="tr1 td3"><SPAN class="p2 ft1">2022/23:138</SPAN> </TD>
+</TR>
+</TABLE>
+<P class="p3 ft2">Regeringen överlämnar denna proposition till riksdagen.</P>
+<P class="p4 ft2">Stockholm den 31 augusti 2023</P>
+<P class="p5 ft3">Ulf Kristersson</P>
+<P class="p6 ft3">Erik Slottner <SPAN class="ft2">(Finansdepartementet)</SPAN></P>
+<P class="p7 ft1">Propositionens huvudsakliga innehåll</P>
+<P class="p8 ft2">I propositionen lämnas förslag till en ändring i radioutrustningslagen (2016:392) som innebär att regeringen eller den myndighet som regeringen bestämmer får meddela föreskrifter om skyldigheter för ekonomiska aktörer i fråga om radioutrustning, när det gäller tillhandahållande av utrustning med eller utan tillbehör. Hit hör kravet att om en ekonomisk aktör erbjuder konsumenter och andra slutanvändare att förvärva radioutrustning tillsammans med en laddningsenhet ska den ekonomiska aktören även erbjuda möjligheten att förvärva utrustningen utan laddningsenhet. Ändringen är en följd av Europaparlamentets och rådets direktiv (EU) 2022/2380 av den 23 november 2022 om ändring av direktiv 2014/53/EU om harmonisering av medlemsstaternas lagstiftning om tillhandahållande på marknaden av radioutrustning.</P>
+<P class="p9 ft2">Lagändringen föreslås träda i kraft den 28 december 2023.</P>
+<P class="p10 ft2">1</P>
+</DIV>
+<DIV id="page_2">
+
+
+<DIV>
+<DIV id="id_1">
+<P class="p11 ft2">Prop. 2022/23:138</P>
+<P class="p12 ft2">2</P>
+</DIV>
+<DIV id="id_2">
+<P class="p11 ft4">Innehållsförteckning</P>
+<TABLE cellpadding=0 cellspacing=0 class="t1">
+<TR>
+	<TD class="tr2 td4"><SPAN class="p13 ft2"><A href="#page_3">1</A></SPAN> </TD>
+	<TD colspan=2 class="tr2 td5"><SPAN class="p14 ft2"><A href="#page_3">Förslag till riksdagsbeslut .................................................................</A></SPAN> </TD>
+	<TD class="tr2 td6"><SPAN class="p15 ft2"><A href="#page_3">3</A></SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr3 td4"><SPAN class="p13 ft2"><A href="#page_4">2</A></SPAN> </TD>
+	<TD colspan=2 class="tr3 td5"><SPAN class="p14 ft2"><A href="#page_4">Förslag till lag om ändring i radioutrustningslagen (2016:392) ........</A></SPAN> </TD>
+	<TD class="tr3 td6"><SPAN class="p15 ft2"><A href="#page_4">4</A></SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr3 td4"><SPAN class="p13 ft2"><A href="#page_5">3</A></SPAN> </TD>
+	<TD colspan=2 class="tr3 td5"><SPAN class="p14 ft2"><A href="#page_5">Ärendet och dess beredning ..............................................................</A></SPAN> </TD>
+	<TD class="tr3 td6"><SPAN class="p15 ft2"><A href="#page_5">5</A></SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr3 td4"><SPAN class="p13 ft2"><A href="#page_5">4</A></SPAN> </TD>
+	<TD colspan=2 class="tr3 td5"><SPAN class="p14 ft2"><A href="#page_5">Ändringar i radioutrustningsdirektivet ..............................................</A></SPAN> </TD>
+	<TD class="tr3 td6"><SPAN class="p15 ft2"><A href="#page_5">5</A></SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr4 td4"><SPAN class="p13 ft5">&nbsp;</SPAN> </TD>
+	<TD class="tr4 td7"><SPAN class="p14 ft2"><A href="#page_5">4.1</A></SPAN> </TD>
+	<TD class="tr4 td8"><SPAN class="p16 ft2"><A href="#page_5">Bakgrund ............................................................................</A></SPAN> </TD>
+	<TD class="tr4 td6"><SPAN class="p15 ft2"><A href="#page_5">5</A></SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr5 td4"><SPAN class="p13 ft5">&nbsp;</SPAN> </TD>
+	<TD class="tr5 td7"><SPAN class="p14 ft2"><A href="#page_6">4.2</A></SPAN> </TD>
+	<TD class="tr5 td8"><SPAN class="p16 ft2"><A href="#page_6">Ändringsdirektivet..............................................................</A></SPAN> </TD>
+	<TD class="tr5 td6"><SPAN class="p15 ft2"><A href="#page_6">6</A></SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr6 td4"><SPAN class="p13 ft2"><A href="#page_7">5</A></SPAN> </TD>
+	<TD colspan=2 class="tr6 td5"><SPAN class="p14 ft2"><A href="#page_7">Skyldigheter för ekonomiska aktörer ................................................</A></SPAN> </TD>
+	<TD class="tr6 td6"><SPAN class="p15 ft2"><A href="#page_7">7</A></SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr3 td4"><SPAN class="p13 ft2"><A href="#page_8">6</A></SPAN> </TD>
+	<TD colspan=2 class="tr3 td5"><SPAN class="p14 ft2"><A href="#page_8">Ikraftträdande- och övergångsbestämmelser.....................................</A></SPAN> </TD>
+	<TD class="tr3 td6"><SPAN class="p15 ft2"><A href="#page_8">8</A></SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr3 td4"><SPAN class="p13 ft2"><A href="#page_8">7</A></SPAN> </TD>
+	<TD colspan=2 class="tr3 td5"><SPAN class="p14 ft2"><A href="#page_8">Konsekvenser....................................................................................</A></SPAN> </TD>
+	<TD class="tr3 td6"><SPAN class="p15 ft2"><A href="#page_8">8</A></SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr3 td4"><SPAN class="p13 ft2"><A href="#page_11">8</A></SPAN> </TD>
+	<TD colspan=2 class="tr3 td5"><SPAN class="p14 ft2"><A href="#page_11">Författningskommentar...................................................................</A></SPAN> </TD>
+	<TD class="tr3 td6"><SPAN class="p15 ft2"><A href="#page_11">11</A></SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=2 class="tr7 td9"><SPAN class="p13 ft2">Bilaga 1</SPAN> </TD>
+	<TD class="tr7 td8"><SPAN class="p16 ft2"><A href="#page_12">Europaparlamentets och rådets direktiv (EU)</A></SPAN> </TD>
+	<TD class="tr7 td6"><SPAN class="p13 ft5">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr4 td4"><SPAN class="p13 ft5">&nbsp;</SPAN> </TD>
+	<TD class="tr4 td7"><SPAN class="p13 ft5">&nbsp;</SPAN> </TD>
+	<TD class="tr4 td8"><SPAN class="p16 ft2"><A href="#page_12">2022/2380 av den 23 november 2022 om ändring av</A></SPAN> </TD>
+	<TD class="tr4 td6"><SPAN class="p13 ft5">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr4 td4"><SPAN class="p13 ft5">&nbsp;</SPAN> </TD>
+	<TD class="tr4 td7"><SPAN class="p13 ft5">&nbsp;</SPAN> </TD>
+	<TD class="tr4 td8"><SPAN class="p16 ft2"><A href="#page_12">direktiv 2014/53/EU om harmonisering av</A></SPAN> </TD>
+	<TD class="tr4 td6"><SPAN class="p13 ft5">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr5 td4"><SPAN class="p13 ft5">&nbsp;</SPAN> </TD>
+	<TD class="tr5 td7"><SPAN class="p13 ft5">&nbsp;</SPAN> </TD>
+	<TD class="tr5 td8"><SPAN class="p16 ft2"><A href="#page_12">medlemsstaternas lagstiftning om tillhandahållande</A></SPAN> </TD>
+	<TD class="tr5 td6"><SPAN class="p13 ft5">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr4 td4"><SPAN class="p13 ft5">&nbsp;</SPAN> </TD>
+	<TD class="tr4 td7"><SPAN class="p13 ft5">&nbsp;</SPAN> </TD>
+	<TD class="tr4 td8"><SPAN class="p16 ft2"><A href="#page_12">på marknaden av radioutrustning .....................................</A></SPAN> </TD>
+	<TD class="tr4 td6"><SPAN class="p15 ft2"><A href="#page_12">12</A></SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=2 class="tr3 td9"><SPAN class="p13 ft2">Bilaga 2</SPAN> </TD>
+	<TD class="tr3 td8"><SPAN class="p16 ft2"><A href="#page_27">Sammanfattning av promemorian En gemensam</A></SPAN> </TD>
+	<TD class="tr3 td6"><SPAN class="p13 ft5">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr4 td4"><SPAN class="p13 ft5">&nbsp;</SPAN> </TD>
+	<TD class="tr4 td7"><SPAN class="p13 ft5">&nbsp;</SPAN> </TD>
+	<TD class="tr4 td8"><SPAN class="p16 ft2"><A href="#page_27">laddningsstandard för viss radioutrustning.......................</A></SPAN> </TD>
+	<TD class="tr4 td6"><SPAN class="p15 ft2"><A href="#page_27">26</A></SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=2 class="tr3 td9"><SPAN class="p13 ft2">Bilaga 3</SPAN> </TD>
+	<TD class="tr3 td8"><SPAN class="p16 ft2"><A href="#page_28">Promemorians lagförslag..................................................</A></SPAN> </TD>
+	<TD class="tr3 td6"><SPAN class="p15 ft2"><A href="#page_28">27</A></SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=2 class="tr3 td9"><SPAN class="p13 ft2">Bilaga 4</SPAN> </TD>
+	<TD class="tr3 td8"><SPAN class="p16 ft2"><A href="#page_29">Förteckning över remissinstanserna .................................</A></SPAN> </TD>
+	<TD class="tr3 td6"><SPAN class="p15 ft2"><A href="#page_29">28</A></SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=2 class="tr3 td9"><SPAN class="p13 ft2">Bilaga 5</SPAN> </TD>
+	<TD class="tr3 td8"><SPAN class="p16 ft2"><A href="#page_30">Lagrådsremissens lagförslag ............................................</A></SPAN> </TD>
+	<TD class="tr3 td6"><SPAN class="p15 ft2"><A href="#page_30">29</A></SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=2 class="tr3 td9"><SPAN class="p13 ft2">Bilaga 6</SPAN> </TD>
+	<TD class="tr3 td8"><SPAN class="p16 ft2"><A href="#page_31">Lagrådets yttrande ............................................................</A></SPAN> </TD>
+	<TD class="tr3 td6"><SPAN class="p15 ft2"><A href="#page_31">30</A></SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=3 class="tr3 td10"><SPAN class="p13 ft2"><A href="#page_33">Utdrag ur protokoll vid regeringssammanträde den 31 augusti</A></SPAN> </TD>
+	<TD class="tr3 td6"><SPAN class="p13 ft5">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr5 td4"><SPAN class="p13 ft5">&nbsp;</SPAN> </TD>
+	<TD class="tr5 td7"><SPAN class="p13 ft5">&nbsp;</SPAN> </TD>
+	<TD class="tr5 td8"><SPAN class="p17 ft2"><A href="#page_33">2023 .......................................................................................</A></SPAN> </TD>
+	<TD class="tr5 td6"><SPAN class="p15 ft2"><A href="#page_33">32</A></SPAN> </TD>
+</TR>
+</TABLE>
+</DIV>
+</DIV>
+</DIV>
+<DIV id="page_3">
+
+
+<TABLE cellpadding=0 cellspacing=0 class="t2">
+<TR>
+	<TD rowspan=2 class="tr8 td11"><SPAN class="p18 ft1">1</SPAN> </TD>
+	<TD rowspan=2 class="tr8 td12"><SPAN class="p19 ft1">Förslag till riksdagsbeslut</SPAN> </TD>
+	<TD class="tr2 td13"><SPAN class="p13 ft2">Prop. 2022/23:138</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr9 td13"><SPAN class="p13 ft6">&nbsp;</SPAN> </TD>
+</TR>
+</TABLE>
+<P class="p20 ft2">Regeringens förslag:</P>
+<P class="p21 ft2">Riksdagen antar regeringens förslag till lag om ändring i radioutrustningslagen (2016:392).</P>
+<P class="p22 ft2">3</P>
+</DIV>
+<DIV id="page_4">
+
+
+<TABLE cellpadding=0 cellspacing=0 class="t3">
+<TR>
+	<TD class="tr10 td14"><SPAN class="p13 ft2">Prop. 2022/23:138 <SPAN class="ft7">2</SPAN></SPAN> </TD>
+	<TD class="tr10 td15"><SPAN class="p13 ft1">Förslag till lag om ändring i</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr3 td14"><SPAN class="p13 ft5">&nbsp;</SPAN> </TD>
+	<TD class="tr3 td15"><SPAN class="p13 ft1">radioutrustningslagen (2016:392)</SPAN> </TD>
+</TR>
+</TABLE>
+<P class="p23 ft2">Härigenom föreskrivs<SPAN class="ft8">1 </SPAN>att 7 § radioutrustningslagen (2016:392) ska ha följande lydelse.</P>
+<TABLE cellpadding=0 cellspacing=0 class="t4">
+<TR>
+	<TD class="tr4 td16"><SPAN class="p13 ft3">Nuvarande lydelse</SPAN> </TD>
+	<TD class="tr4 td17"><SPAN class="p13 ft9">Föreslagen lydelse</SPAN> </TD>
+</TR>
+</TABLE>
+<P class="p24 ft2">7 §</P>
+<P class="p25 ft2">Regeringen eller den myndighet som regeringen bestämmer får meddela föreskrifter om skyldigheter för ekonomiska aktörer i fråga om radioutrustning, när det gäller</P>
+<P class="p26 ft2"><SPAN class="ft2">1.</SPAN><SPAN class="ft10">registrering av utrustning,</SPAN></P>
+<P class="p27 ft2"><SPAN class="ft2">2.</SPAN><SPAN class="ft10">teknisk dokumentation,</SPAN></P>
+<P class="p26 ft2"><SPAN class="ft2">3.</SPAN><SPAN class="ft10">bedömning av överensstämmelse,</SPAN></P>
+<P class="p27 ft2"><SPAN class="ft2">4.</SPAN><NOBR><SPAN class="ft10">EU-försäkran</SPAN></NOBR> om överensstämmelse,</P>
+<P class="p27 ft2"><SPAN class="ft2">5.</SPAN><SPAN class="ft10">märkning av utrustning,</SPAN></P>
+<TABLE cellpadding=0 cellspacing=0 class="t5">
+<TR>
+	<TD colspan=2 class="tr5 td18"><SPAN class="p28 ft2">6. skadeförebyggande</SPAN> </TD>
+	<TD class="tr5 td19"><SPAN class="p29 ft11">arbete,</SPAN> </TD>
+	<TD colspan=3 class="tr5 td20"><SPAN class="p30 ft2">6. skadeförebyggande arbete,</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=2 class="tr4 td18"><SPAN class="p13 ft3">och</SPAN> </TD>
+	<TD class="tr4 td19"><SPAN class="p13 ft5">&nbsp;</SPAN> </TD>
+	<TD class="tr4 td21"><SPAN class="p13 ft5">&nbsp;</SPAN> </TD>
+	<TD class="tr4 td22"><SPAN class="p13 ft5">&nbsp;</SPAN> </TD>
+	<TD class="tr4 td23"><SPAN class="p13 ft5">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=2 class="tr4 td18"><SPAN class="p28 ft2">7. tillhandahållande av</SPAN> </TD>
+	<TD class="tr4 td19"><SPAN class="p29 ft2">bruks-</SPAN> </TD>
+	<TD colspan=2 class="tr4 td24"><SPAN class="p30 ft2">7. tillhandahållande av</SPAN> </TD>
+	<TD class="tr4 td23"><SPAN class="p15 ft2">bruks-</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=3 class="tr4 td25"><SPAN class="p29 ft2">anvisningar, säkerhetsinformation</SPAN> </TD>
+	<TD class="tr4 td21"><SPAN class="p13 ft2">anvisningar,</SPAN> </TD>
+	<TD colspan=2 class="tr4 td26"><SPAN class="p15 ft2">säkerhetsinformation</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=3 class="tr5 td25"><SPAN class="p29 ft2">och annan dokumentation eller</SPAN> </TD>
+	<TD class="tr5 td21"><SPAN class="p13 ft2">och annan</SPAN> </TD>
+	<TD class="tr5 td22"><SPAN class="p13 ft2">dokumentation</SPAN> </TD>
+	<TD class="tr5 td23"><SPAN class="p15 ft2">eller</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=2 class="tr4 td18"><SPAN class="p13 ft2">information<SPAN class="ft3">.</SPAN></SPAN> </TD>
+	<TD class="tr4 td19"><SPAN class="p13 ft5">&nbsp;</SPAN> </TD>
+	<TD colspan=2 class="tr4 td24"><SPAN class="p13 ft2">information<SPAN class="ft3">, och</SPAN></SPAN> </TD>
+	<TD class="tr4 td23"><SPAN class="p13 ft5">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr4 td27"><SPAN class="p13 ft5">&nbsp;</SPAN> </TD>
+	<TD class="tr4 td28"><SPAN class="p13 ft5">&nbsp;</SPAN> </TD>
+	<TD class="tr4 td19"><SPAN class="p13 ft5">&nbsp;</SPAN> </TD>
+	<TD colspan=3 class="tr4 td20"><SPAN class="p15 ft3">8. tillhandahållande av utrustning</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr4 td27"><SPAN class="p13 ft5">&nbsp;</SPAN> </TD>
+	<TD class="tr4 td28"><SPAN class="p13 ft5">&nbsp;</SPAN> </TD>
+	<TD class="tr4 td19"><SPAN class="p13 ft5">&nbsp;</SPAN> </TD>
+	<TD colspan=2 class="tr4 td24"><SPAN class="p13 ft3">med eller utan tillbehör.</SPAN> </TD>
+	<TD class="tr4 td23"><SPAN class="p13 ft5">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr4 td29"><SPAN class="p13 ft5">&nbsp;</SPAN> </TD>
+	<TD class="tr5 td28"><SPAN class="p13 ft5">&nbsp;</SPAN> </TD>
+	<TD class="tr5 td19"><SPAN class="p13 ft5">&nbsp;</SPAN> </TD>
+	<TD class="tr5 td21"><SPAN class="p13 ft5">&nbsp;</SPAN> </TD>
+	<TD class="tr5 td22"><SPAN class="p13 ft5">&nbsp;</SPAN> </TD>
+	<TD class="tr5 td23"><SPAN class="p13 ft5">&nbsp;</SPAN> </TD>
+</TR>
+</TABLE>
+<P class="p31 ft2">Denna lag träder i kraft den 28 december 2023.</P>
+<TABLE cellpadding=0 cellspacing=0 class="t6">
+<TR>
+	<TD class="tr11 td30"><SPAN class="p13 ft5">&nbsp;</SPAN> </TD>
+	<TD class="tr11 td31"><SPAN class="p32 ft13"><SPAN class="ft12">1 </SPAN>Jfr Europaparlamentets och rådets direktiv 2014/53/EU av den 16 april 2014 om</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr12 td30"><SPAN class="p13 ft5">&nbsp;</SPAN> </TD>
+	<TD class="tr12 td31"><SPAN class="p32 ft13">harmonisering av medlemsstaternas lagstiftning om tillhandahållande på marknaden av</SPAN> </TD>
+</TR>
+<TR>
+	<TD rowspan=2 class="tr0 td30"><SPAN class="p33 ft2">4</SPAN> </TD>
+	<TD class="tr13 td31"><SPAN class="p32 ft14">radioutrustning och om upphävande av direktiv 1999/5/EG, i lydelsen enligt</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr11 td31"><SPAN class="p32 ft15">Europaparlamentets och rådets direktiv (EU) 2022/2380.</SPAN> </TD>
+</TR>
+</TABLE>
+</DIV>
+<DIV id="page_5">
+
+
+<TABLE cellpadding=0 cellspacing=0 class="t2">
+<TR>
+	<TD rowspan=2 class="tr8 td11"><SPAN class="p18 ft1">3</SPAN> </TD>
+	<TD rowspan=2 class="tr8 td12"><SPAN class="p19 ft1">Ärendet och dess beredning</SPAN> </TD>
+	<TD class="tr2 td13"><SPAN class="p13 ft2">Prop. 2022/23:138</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr9 td13"><SPAN class="p13 ft6">&nbsp;</SPAN> </TD>
+</TR>
+</TABLE>
+<P class="p34 ft2">Den 23 november 2022 antog Europaparlamentet och rådet direktiv (EU) 2022/2380 om ändring av direktiv 2014/53/EU om harmonisering av medlemsstaternas lagstiftning om tillhandahållande på marknaden av radioutrustning, <SPAN class="ft3">bilaga 1</SPAN>. Med anledning av direktivet har promemorian En gemensam laddningsstandard för viss radioutrustning tagits fram inom Finansdepartementet. En sammanfattning av promemorian finns i <SPAN class="ft3">bilaga 2</SPAN>. Promemorians lagförslag finns i <SPAN class="ft3">bilaga 3</SPAN>. Promemorian har remissbehandlats. En förteckning över remissinstanserna finns i <SPAN class="ft3">bilaga 4</SPAN>. Remissvaren finns tillgängliga i Finansdepartementet (Fi2023/0126).</P>
+<P class="p35 ft2">I denna proposition behandlas promemorians lagförslag.</P>
+<P class="p36 ft3">Lagrådet</P>
+<P class="p37 ft2">Regeringen beslutade den 8 juni 2023 att inhämta Lagrådets yttrande över lagförslaget i <SPAN class="ft3">bilaga 5</SPAN>. Lagrådets yttrande finns i <SPAN class="ft3">bilaga 6. </SPAN>Regeringen har följt Lagrådets förslag. Lagrådets synpunkter behandlas i avsnitt 5 och i författningskommentaren. I förhållande till lagrådsremissen har dessutom vissa mindre språkliga ändringar gjorts.</P>
+<P class="p38 ft1"><SPAN class="ft1">4</SPAN><SPAN class="ft16">Ändringar i radioutrustningsdirektivet</SPAN></P>
+<P class="p39 ft17">4.1 Bakgrund</P>
+<TABLE cellpadding=0 cellspacing=0 class="t7">
+<TR>
+	<TD class="tr2 td32"><SPAN class="p13 ft2">Den 16 april 2014 antog Europaparlamentet och rådet direktiv 2014/53/EU</SPAN> </TD>
+	<TD class="tr2 td33"><SPAN class="p13 ft5">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr4 td32"><SPAN class="p13 ft2">om harmonisering av medlemsstaternas lagstiftning om tillhandahållande</SPAN> </TD>
+	<TD class="tr4 td33"><SPAN class="p13 ft5">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr4 td32"><SPAN class="p13 ft2">på marknaden av radioutrustning och om upphävande av direktiv</SPAN> </TD>
+	<TD class="tr4 td33"><SPAN class="p13 ft5">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr4 td32"><SPAN class="p13 ft2">1999/5/EG (radioutrustningsdirektivet). Syftet med direktivet är att upp-</SPAN> </TD>
+	<TD class="tr4 td33"><SPAN class="p13 ft5">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr5 td32"><SPAN class="p13 ft2">rätta en rättslig ram för att tillhandahålla och ta i bruk radioutrustning i</SPAN> </TD>
+	<TD class="tr5 td33"><SPAN class="p13 ft5">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr4 td32"><SPAN class="p13 ft2">EU. Radioutrustning definieras i direktivet som elektriska eller elek-</SPAN> </TD>
+	<TD class="tr4 td33"><SPAN class="p13 ft5">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr5 td32"><SPAN class="p13 ft2">troniska produkter som avsiktligt avger eller tar emot radiovågor för radio-</SPAN> </TD>
+	<TD class="tr5 td33"><SPAN class="p13 ft5">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr4 td32"><SPAN class="p13 ft2">kommunikation eller radiobestämning och elektriska eller elektroniska</SPAN> </TD>
+	<TD class="tr4 td33"><SPAN class="p13 ft5">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr4 td32"><SPAN class="p13 ft2">produkter som måste kompletteras med ett tillbehör, t.ex. en antenn, för att</SPAN> </TD>
+	<TD class="tr4 td33"><SPAN class="p13 ft5">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr4 td32"><SPAN class="p13 ft2">avsiktligt avge eller ta emot radiovågor för radiokommunikation eller</SPAN> </TD>
+	<TD class="tr4 td33"><SPAN class="p13 ft5">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr5 td32"><SPAN class="p13 ft2">radiobestämning.</SPAN> </TD>
+	<TD class="tr5 td33"><SPAN class="p13 ft5">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr4 td32"><SPAN class="p28 ft2">Radioutrustningsdirektivet innehåller centrala bestämmelser om att</SPAN> </TD>
+	<TD class="tr4 td33"><SPAN class="p13 ft5">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr4 td32"><SPAN class="p13 ft2">radioutrustning ska uppfylla väsentliga krav när det gäller hälsa och</SPAN> </TD>
+	<TD class="tr4 td33"><SPAN class="p13 ft5">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr5 td32"><SPAN class="p13 ft2">säkerhet, elektromagnetisk kompatibilitet och undvikande av skadlig</SPAN> </TD>
+	<TD class="tr5 td33"><SPAN class="p13 ft5">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr4 td32"><SPAN class="p13 ft2">störning. Det finns även bestämmelser som reglerar skyldigheter för de</SPAN> </TD>
+	<TD class="tr4 td33"><SPAN class="p13 ft5">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr4 td32"><SPAN class="p13 ft2">olika ekonomiska aktörerna, dvs. tillverkare, tillverkarens representant,</SPAN> </TD>
+	<TD class="tr4 td33"><SPAN class="p13 ft5">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr5 td32"><SPAN class="p13 ft2">importör och distributör. Vidare finns detaljerade bestämmelser om för-</SPAN> </TD>
+	<TD class="tr5 td33"><SPAN class="p13 ft5">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr4 td32"><SPAN class="p13 ft2">farandet för bedömning av överensstämmelse med de väsentliga kraven,</SPAN> </TD>
+	<TD class="tr4 td33"><SPAN class="p13 ft5">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr4 td32"><SPAN class="p13 ft2">om upprättande av <NOBR>EU-försäkran,</NOBR> om <NOBR>CE-märkning</NOBR> och om upprättande</SPAN> </TD>
+	<TD class="tr4 td33"><SPAN class="p13 ft5">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr5 td32"><SPAN class="p13 ft2">av teknisk dokumentation och om provning av radioutrustning. Dessutom</SPAN> </TD>
+	<TD class="tr5 td33"><SPAN class="p13 ft5">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr4 td32"><SPAN class="p13 ft2">innehåller direktivet bestämmelser om marknadskontroll och kontroll av</SPAN> </TD>
+	<TD class="tr4 td33"><SPAN class="p13 ft5">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr4 td32"><SPAN class="p13 ft2">utrustning som förs in i unionen och om förfaranden för att hantera</SPAN> </TD>
+	<TD class="tr4 td33"><SPAN class="p13 ft5">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr5 td32"><SPAN class="p13 ft2">radioutrustning som utgör en risk på nationell nivå m.m.</SPAN> </TD>
+	<TD rowspan=2 class="tr1 td33"><SPAN class="p15 ft2">5</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr9 td32"><SPAN class="p13 ft6">&nbsp;</SPAN> </TD>
+</TR>
+</TABLE>
+</DIV>
+<DIV id="page_6">
+
+
+<P class="p40 ft2">Prop. 2022/23:138 Radioutrustningsdirektivet har genomförts i svensk rätt genom radioutrustningslagen (2016:392). Lagen har utformats som en ramlag där de mer grundläggande bestämmelserna om villkoren för att släppa ut och tillhandahålla radioutrustning på marknaden och de ekonomiska aktörernas roller, liksom bestämmelserna om marknadskontroll, genomförts i lag. När det gäller de närmare kraven på radioutrustning och skyldigheterna för ekonomiska aktörer att vidta åtgärder med avseende på radioutrustning meddelas dessa i föreskrifter av regeringen eller den myndighet som regeringen bestämmer.</P>
+<P class="p41 ft17"><SPAN class="ft18">4.2</SPAN><SPAN class="ft19">Ändringsdirektivet</SPAN></P>
+<P class="p42 ft2">Den 23 november 2022 antog Europaparlamentet och rådet direktiv (EU) 2022/2380 om ändring av direktiv 2014/53/EU om harmonisering av medlemsstaternas lagstiftning om tillhandahållande på marknaden av radioutrustning (ändringsdirektivet).</P>
+<P class="p43 ft2">Ändringsdirektivet utgör en fortsättning på det arbete som pågått sedan 2009 på unionsnivå för att begränsa fragmenteringen av antalet laddningslösningar för mobiltelefoner och liknande radioutrustning. Även om de frivilliga initiativ som tagits har medfört en minskning av antalet olika laddningslösningar på marknaden uppfyller dessa initiativ inte helt unionens politiska mål att säkerställa konsumenters bekvämlighet, minska det elektroniska avfallet och undvika en fragmentering av marknaden för laddningsenheter.</P>
+<P class="p43 ft2">Ändringsdirektivet innebär att artiklarna 3, 10, 12, 13, 17, 40, 43, 44 och 47 i radioutrustningsdirektivet ändras. Det införs också en ny artikel 3a i radioutrustningsdirektivet. Den huvudsakliga innebörden av ändringarna i artikel 3 är att det införs ett krav på en gemensam standard för laddningsdon för vissa typer eller klasser av radioutrustning i form av USB typ C samt ett gemensamt kommunikationsprotokoll. I artikel 3a.1 införs det ett krav på att en ekonomisk aktör som erbjuder konsumenter eller andra slutanvändare att förvärva radioutrustning tillsammans med en laddningsenhet även ska erbjuda konsumenter och andra slutanvändare att förvärva radioutrustningen utan en laddningsenhet. Vidare stärks informationsskyldigheten för de ekonomiska aktörerna som tillhandahåller sådan radioutrustning i form av en skyldighet att informera om huruvida en laddningsenhet ingår tillsammans med radioutrustningen samt om radioutrustningens laddningskapacitet (artiklarna 3a.2, 10.8, 12.4 och 13.2). Tillverkarna av radioutrustningen ska även visa att radioutrustningen har utrustats med det laddningsgränssnitt och kommunikationsprotokoll som nu införs (artikel 17). Marknadskontrollmyndigheten får mandat att kontrollera att de nya förändringarna följs (artiklar 40 och 43). Ändringarna i artiklarna 44 och 47 gäller för kommissionen och behöver inte genomföras i svensk rätt.</P>
+<P class="p44 ft2">De föreskrifter som behövs för att genomföra ändringarna i artiklarna 3, 3a.2, 10, 12, 13 och 17 bör beslutas av regeringen eller den myndighet som regeringen bestämmer med stöd av de bemyndiganden som redan finns i radioutrustningslagen och radioutrustningsförordningen (2016:394). När det gäller artikel 40 och 43 finns det i befintlig svensk reglering möjlighet</P>
+<P class="p45 ft2">6</P>
+</DIV>
+<DIV id="page_7">
+<DIV id="p7dimg1">
+<INGENBILD zsrc="HA031387x1.jpg/" id="p7img1">
+</DIV>
+
+
+<P class="p46 ft2">för marknadskontrollmyndigheten att följa upp krav som tillkommer inom Prop. 2022/23:138 ramen för radioutrustningsdirektivet.</P>
+<P class="p47 ft1"><SPAN class="ft1">5</SPAN><SPAN class="ft16">Skyldigheter för ekonomiska aktörer</SPAN></P>
+<P class="p48 ft2"><SPAN class="ft20">Regeringens förslag: </SPAN>Regeringen eller den myndighet som regeringen bestämmer ska få meddela föreskrifter om skyldigheter för ekonomiska aktörer i fråga om radioutrustning, när det gäller tillhandahållande av utrustning med eller utan tillbehör.</P>
+<P class="p49 ft2"><SPAN class="ft20">Promemorians förslag </SPAN>överensstämmer i huvudsak med regeringens. Promemorian föreslår en annan språklig utformning av lagtexten.</P>
+<P class="p50 ft2"><SPAN class="ft20">Remissinstanserna: </SPAN>En majoritet av de remissinstanser som yttrar sig tillstyrker förslaget eller har inget att invända mot detta.</P>
+<P class="p51 ft2"><SPAN class="ft20">Skälen för regeringens förslag: </SPAN>Genom ändringsdirektivet införs en ny artikel 3a i radioutrustningsdirektivet. Artikel 3a.1 innebär en ny skyldighet för de ekonomiska aktörerna. Om en ekonomisk aktör erbjuder konsumenter och andra slutanvändare att förvärva vissa kategorier eller klasser av radioutrustning tillsammans med en laddningsenhet, ska dessa också erbjuda möjligheten att förvärva radioutrustningen utan en laddningsenhet. Syftet är att säkerställa att konsumenter och andra slutanvändare inte tvingas köpa en ny laddningsenhet vid varje köp av exempelvis en ny mobiltelefon eller liknande radioutrustning.</P>
+<P class="p52 ft2">I 7 § radioutrustningslagen anges att regeringen eller den myndighet som regeringen bestämmer får meddela föreskrifter om skyldigheter för ekonomiska aktörer i fråga om radioutrustning. Bemyndigandet i bestämmelsen omfattar inte den skyldighet som anges i artikel 3a.1. Det behöver därmed göras ett tillägg i 7 § radioutrustningslagen som innebär att denna skyldighet kan genomföras i svensk rätt.</P>
+<P class="p53 ft2"><SPAN class="ft3">Lagrådet </SPAN>anser att bemyndigandet bör utformas så att det blir tydligt vad som avses och att det därmed inte riskerar att bli för omfattande. Lagrådet föreslår därför att bemyndigandet ska ta sikte på att det handlar om ett tillhandahållande av utrustning med eller utan tillbehör. Regeringen delar Lagrådets bedömning och föreslår därför att tillägget i 7 § radioutrustningslagen utformas på så sätt att regeringen eller den myndighet som regeringen bestämmer får meddela föreskrifter om skyldigheter för ekonomiska aktörer i fråga om radioutrustning, när det gäller tillhandahållande av utrustning med eller utan tillbehör.</P>
+<P class="p54 ft2">7</P>
+</DIV>
+<DIV id="page_8">
+<DIV id="p8dimg1">
+<INGENBILD zsrc="HA031388x1.jpg/" id="p8img1">
+</DIV>
+
+
+<TABLE cellpadding=0 cellspacing=0 class="t8">
+<TR>
+	<TD class="tr10 td14"><SPAN class="p13 ft2">Prop. 2022/23:138 <SPAN class="ft7">6</SPAN></SPAN> </TD>
+	<TD class="tr10 td34"><SPAN class="p13 ft1">Ikraftträdande- och</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr3 td14"><SPAN class="p13 ft5">&nbsp;</SPAN> </TD>
+	<TD class="tr3 td34"><SPAN class="p13 ft1">övergångsbestämmelser</SPAN> </TD>
+</TR>
+</TABLE>
+<P class="p55 ft2"><SPAN class="ft20">Regeringens förslag: </SPAN>Den föreslagna ändringen ska träda i kraft den 28 december 2023.</P>
+<P class="p56 ft2"><SPAN class="ft20">Regeringens bedömning: </SPAN>Det finns inte behov av några övergångsbestämmelser.</P>
+<P class="p57 ft20">Promemorians förslag och bedömning <SPAN class="ft2">överensstämmer med regeringens.</SPAN></P>
+<P class="p25 ft2"><SPAN class="ft20">Remissinstanserna: </SPAN>En majoritet av de remissinstanser som yttrar sig tillstyrker förslaget och bedömningen eller har inget att invända mot dessa. <SPAN class="ft3">Svensk Handel </SPAN>menar att företagen behöver tid för att anpassa sig till de nya kraven och att de produkter som redan är satta på marknaden behöver, under en övergångsperiod, undantas de nya kraven.</P>
+<P class="p43 ft20">Skälen för regeringens förslag och bedömning: <SPAN class="ft2">Enligt artikel 2 i ändringsdirektivet ska medlemsstaterna senast den 28 december 2023 anta och offentliggöra de lagar och andra författningar som är nödvändiga för att följa ändringsdirektivet. Förslaget bör därför träda i kraft vid denna tidpunkt.</SPAN></P>
+<P class="p25 ft2"><SPAN class="ft3">Svensk Handel </SPAN>menar att företagen behöver tid för att anpassa sig till de nya kraven och att de produkter som finns på marknaden behöver, under en övergångstid, undantas kraven. Regeringen har förståelse för att nya krav avseende radioutrustning också kräver tid för anpassning. I ändringsdirektivet anges i artikel 2 att de nya kraven ska gälla fr.o.m. den 28 december 2024 och när det gäller bärbara datorer fr.o.m. den 28 april 2026. Regeringen anser att de ekonomiska aktörerna genom denna övergångsperiod ges tillräckligt med tid för att göra nödvändiga anpassningar. Mot den bakgrunden bedömer regeringen att det inte finns behov av några övergångsbestämmelser.</P>
+<P class="p58 ft1"><SPAN class="ft1">7</SPAN><SPAN class="ft21">Konsekvenser</SPAN></P>
+<P class="p59 ft17">Konsekvenser för användarna</P>
+<P class="p60 ft2">Förslaget innebär att regeringen eller den myndighet som regeringen bestämmer får meddela föreskrifter om skyldigheter för ekonomiska aktörer i fråga om radioutrustning, när det gäller tillhandahållande av utrustning med eller utan tillbehör. Med hänsyn till att förslaget alltså innebär ett utökat bemyndigande att meddela föreskrifter är effekterna för användarna av förslaget begränsade. Det kan dock antas att de nya kraven i sin helhet kommer att leda till förenklingar och ökad bekvämlighet för konsumenter och andra slutanvändare. Det beror på att konsumenterna nu endast kommer att behöva förhålla sig till en standard för laddningsdon.</P>
+<P class="p61 ft2">8</P>
+</DIV>
+<DIV id="page_9">
+
+
+<TABLE cellpadding=0 cellspacing=0 class="t9">
+<TR>
+	<TD class="tr14 td35"><SPAN class="p13 ft17">Konsekvenser för de ekonomiska aktörerna</SPAN> </TD>
+	<TD class="tr14 td13"><SPAN class="p13 ft2">Prop. 2022/23:138</SPAN> </TD>
+</TR>
+</TABLE>
+<P class="p62 ft2"><SPAN class="ft3">Regelrådet </SPAN>anser att förslagets påverkan på berörda företag, inklusive särskilda hänsyn till små företag vid reglernas utformning, endast redovisas delvis och översiktligt samt att det saknas en beskrivning av hur den svenska marknaden ser ut för berörda företag.</P>
+<P class="p63 ft2">Förslaget innebär att regeringen eller den myndighet som regeringen bestämmer får meddela föreskrifter om skyldigheter för ekonomiska aktörer i fråga om radioutrustning när det gäller tillhandahållande av utrustning med eller utan tillbehör. Med hänsyn till att förslaget alltså innebär ett utökat bemyndigande att meddela föreskrifter är effekterna för berörda företag av förslaget begränsade. Vilka de närmare konsekvenserna blir för svenska företag påverkas av vilka föreskrifter som framöver kommer att meddelas. Det kan dock antas att införandet av en gemensam standard för radioutrustningens laddningsdon initialt kan komma att medföra en viss ökning av kostnader för, i första hand, tillverkare av radioutrustning som inte har USB typ C som standard för dess laddningdon. Den omständigheten att vissa klasser eller kategorier av radioutrustning ska tillhandahållas även utan någon laddningsenhet kan tänkas medföra ökade kostnader för tillverkarna, särskilt i de fall nya förpackningar och förpackningsmetoder behöver tas fram. Utöver tillverkarna har även importörerna och distributörerna av radioutrustning nya skyldigheter att förhålla sig till i form av bl.a. utökade informationskrav. Eftersom radioutrustningsdirektivet redan ställer krav på grundläggande information om t.ex. säkerhet och tilltänkt användningsområde för radioutrustning får de ytterligare administrativa kostnaderna som eventuellt kan uppstå anses vara av begränsad omfattning och av engångskaraktär. Regelrådet anser att beskrivningen av konsekvenserna brister avseende redovisning av eventuellt behov av särskilda informationsinsatser. Enligt artikel 2 i ändringsdirektivet ska medlemsstaterna senast den 28 december 2023 anta och offentliggöra de lagar och andra författningar som är nödvändiga för att följa direktivet. De nya kraven ska dock gälla fr.o.m. den 28 december 2024 och när det gäller bärbara datorer fr.o.m. den 28 april 2026. Några ytterligare informationsinsatser bedöms inte vara nödvändiga.</P>
+<P class="p64 ft17">Effekter för miljön</P>
+<P class="p65 ft2">Förslaget innebär att regeringen eller den myndighet som regeringen bestämmer får meddela föreskrifter om skyldigheter för ekonomiska aktörer i fråga om radioutrustning, när det gäller tillhandahållande av utrustning med eller utan tillbehör. Med hänsyn härtill är bedömningen att effekterna för miljön är begränsade. Det kan däremot antas att de nya kraven i sin helhet kan få effekter för miljön. Europaparlamentet uppskattar att 11 000 ton elektriskt avfall skapas av slängda och oanvända laddare varje år i EU. Genom att införa en gemensam standard för laddningsdon och möjligheten att förvärva radioutrustning utan laddningsenhet kan det antas att de konsumenter och andra slutanvändare som redan har en laddningsenhet väljer radioutrustning utan en laddningsenhet när de</P>
+<P class="p66 ft2">9</P>
+</DIV>
+<DIV id="page_10">
+
+
+<P class="p67 ft2">Prop. 2022/23:138 köper nytt. Det minskar mängden laddningsenheter som produceras vilket minskar utvinningen av råvaror och sammankopplade koldioxidutsläpp. Genom den gemensamma standarden på laddningsdon kan en och samma laddningsenhet användas för att ladda flera olika typer av radioutrustning, vilket minskar antalet laddningslösningar på marknaden och därigenom behovet av flera olika laddningsenheter och i förlängningen det elektroniska avfallet.</P>
+<P class="p68 ft17">Offentligfinansiella effekter</P>
+<P class="p69 ft2">Förslaget bedöms inte leda till några offentligfinansiella effekter.</P>
+<P class="p70 ft17">Konsekvenser för myndigheter och domstolar</P>
+<P class="p71 ft2">Förslaget innebär att regeringen eller den myndighet som regeringen bestämmer får meddela föreskrifter om skyldigheter för ekonomiska aktörer i fråga om radioutrustning, när det gäller tillhandahållande av utrustning med eller utan tillbehör. Post- och telestyrelsen (PTS) är för närvarande den myndighet som utfärdar föreskrifter i fråga om radioutrustning och tanken är att utse PTS till den myndighet som även i det här fallet får meddela föreskrifter. Det innebär att PTS i viss mån kommer att få ökade kostnader för att ta fram nya föreskrifter och ett utökat tillsynsområde. De ökade kostnaderna för PTS bedöms rymmas inom PTS befintliga ekonomiska ramar.</P>
+<P class="p72 ft2">Förslaget bedöms inte påverka antalet mål i de allmänna förvaltningsdomstolarna.</P>
+<P class="p73 ft17">Övriga konsekvenser</P>
+<P class="p74 ft2">Förslaget bedöms inte påverka den kommunala självstyrelsen, brottsligheten, det brottsförebyggande arbetet, jämställdheten mellan män och kvinnor, sysselsättningen och den offentliga servicen i olika delar av landet eller möjligheten att nå de integrationspolitiska målen.</P>
+<P class="p75 ft2">10</P>
+</DIV>
+<DIV id="page_11">
+
+
+<TABLE cellpadding=0 cellspacing=0 class="t10">
+<TR>
+	<TD rowspan=2 class="tr8 td11"><SPAN class="p18 ft1">8</SPAN> </TD>
+	<TD rowspan=2 class="tr8 td12"><SPAN class="p19 ft1">Författningskommentar</SPAN> </TD>
+	<TD class="tr2 td13"><SPAN class="p13 ft2">Prop. 2022/23:138</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr9 td13"><SPAN class="p13 ft6">&nbsp;</SPAN> </TD>
+</TR>
+</TABLE>
+<P class="p76 ft17">Förslaget till lag om ändring i radioutrustningslagen (2016:392)</P>
+<P class="p77 ft23"><SPAN class="ft22">7 § </SPAN>Regeringen eller den myndighet som regeringen bestämmer får meddela föreskrifter om skyldigheter för ekonomiska aktörer i fråga om radioutrustning, när det gäller</P>
+<P class="p78 ft23"><SPAN class="ft23">1.</SPAN><SPAN class="ft24">registrering av utrustning,</SPAN></P>
+<P class="p79 ft23"><SPAN class="ft23">2.</SPAN><SPAN class="ft24">teknisk dokumentation,</SPAN></P>
+<P class="p79 ft23"><SPAN class="ft23">3.</SPAN><SPAN class="ft24">bedömning av överensstämmelse,</SPAN></P>
+<P class="p79 ft23"><SPAN class="ft23">4.</SPAN><NOBR><SPAN class="ft24">EU-försäkran</SPAN></NOBR> om överensstämmelse,</P>
+<P class="p79 ft11"><SPAN class="ft11">5.</SPAN><SPAN class="ft25">märkning av utrustning,</SPAN></P>
+<P class="p79 ft26"><SPAN class="ft26">6.</SPAN><SPAN class="ft27">skadeförebyggande arbete,</SPAN></P>
+<P class="p80 ft23"><SPAN class="ft23">7.</SPAN><SPAN class="ft24">tillhandahållande av bruksanvisningar, säkerhetsinformation och annan dokumentation eller information</SPAN><SPAN class="ft28">, och</SPAN></P>
+<P class="p79 ft9"><SPAN class="ft9">8.</SPAN><SPAN class="ft29">tillhandahållande av utrustning med eller utan tillbehör.</SPAN></P>
+<P class="p81 ft2">I paragrafen bemyndigas regeringen eller den myndighet som regeringen bestämmer att meddela föreskrifter om skyldigheter för ekonomiska aktörer i fråga om radioutrustning.</P>
+<P class="p82 ft2">Ändringen innebär att en ny <SPAN class="ft3">åttonde punkt </SPAN>läggs till i paragrafen. Med stöd av denna blir det möjligt att meddela föreskrifter om att radioutrustning ska tillhandahållas med eller utan tillbehör. Hit hör kravet att om en ekonomisk aktör tillhandahåller radioutrustning tillsammans med en laddningsenhet ska den ekonomiska aktören även tillhandahålla radioutrustningen utan laddningsenhet. Ändringen i paragrafen genomför artikel 3a.1 i radioutrustningsdirektivet enligt artikel 1.2 i ändringsdirektivet.</P>
+<P class="p83 ft2">Den nya åttonde punkten har utformats i enlighet med <SPAN class="ft3">Lagrådets </SPAN>förslag. Övervägandena finns i avsnitt 5.</P>
+<P class="p84 ft2">11</P>
+</DIV>
+<DIV id="page_12">
+
+
+<DIV>
+<DIV id="id_1">
+<P class="p85 ft2">Prop. 2022/23:138 Bilaga 1</P>
+<P class="p86 ft2">12</P>
+</DIV>
+<DIV id="id_2">
+<P class="p11 ft30">Europaparlamentets och rådets direktiv (EU) 2022/2380 av den 23 november 2022 om ändring av direktiv 2014/53/EU om harmonisering av medlemsstaternas lagstiftning om tillhandahållande på marknaden av radioutrustning</P>
+</DIV>
+</DIV>
+</DIV>
+<DIV id="page_13">
+<DIV id="p13dimg1">
+<INGENBILD zsrc="HA0313813x1.jpg/" id="p13img1">
+</DIV>
+
+
+<DIV id="id_1">
+<P class="p11 ft2">Prop. 2022/23:138</P>
+<P class="p87 ft2">Bilaga 1</P>
+<TABLE cellpadding=0 cellspacing=0 class="t11">
+<TR>
+	<TD class="tr12 td36"><SPAN class="p13 ft31">L 315/30</SPAN> </TD>
+	<TD class="tr15 td37"><SPAN class="p17 ft32">SV</SPAN> </TD>
+	<TD class="tr12 td38"><SPAN class="p88 ft31">Europeiska unionens officiella tidning</SPAN> </TD>
+	<TD class="tr12 td39"><SPAN class="p15 ft31">7.12.2022</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr16 td40"><SPAN class="p13 ft33">&nbsp;</SPAN> </TD>
+	<TD class="tr16 td41"><SPAN class="p13 ft33">&nbsp;</SPAN> </TD>
+	<TD class="tr16 td42"><SPAN class="p13 ft33">&nbsp;</SPAN> </TD>
+	<TD class="tr16 td43"><SPAN class="p13 ft33">&nbsp;</SPAN> </TD>
+</TR>
+</TABLE>
+<P class="p89 ft34">DIREKTIV</P>
+<P class="p90 ft35">EUROPAPARLAMENTETS OCH RÅDETS DIREKTIV (EU) 2022/2380</P>
+<P class="p91 ft35">av den 23 november 2022</P>
+<P class="p92 ft35">om ändring av direktiv 2014/53/EU om harmonisering av medlemsstaternas lagstiftning om</P>
+<P class="p93 ft35">tillhandahållande på marknaden av radioutrustning</P>
+<P class="p94 ft36">(Text av betydelse för EES)</P>
+<P class="p95 ft37">EUROPAPARLAMENTET OCH EUROPEISKA UNIONENS RÅD HAR ANTAGIT DETTA DIREKTIV</P>
+<P class="p96 ft38">med beaktande av fördraget om Europeiska unionens funktionssätt, särskilt artikel 114,</P>
+<P class="p97 ft38">med beaktande av Europeiska kommissionens förslag,</P>
+<P class="p97 ft38">efter översändande av utkastet till lagstiftningsakt till de nationella parlamenten,</P>
+<P class="p97 ft38">med beaktande av Europeiska ekonomiska och sociala kommitténs yttrande (<SPAN class="ft39">1</SPAN>),</P>
+<P class="p97 ft38">i enlighet med det ordinarie lagstiftningsförfarandet (<SPAN class="ft39">2</SPAN>), och</P>
+<P class="p97 ft38">av följande skäl:</P>
+<P class="p98 ft37"><SPAN class="ft40">(1)</SPAN><SPAN class="ft41">Ett av syftena med Europaparlamentets och rådets direktiv 2014/53/EU (</SPAN><SPAN class="ft42">3</SPAN>) är att säkerställa en välfungerande inre marknad. Enligt artikel 3.3 a i det direktivet är ett av de väsentliga krav som radioutrustning måste uppfylla att den samverkar med tillbehör, i synnerhet gemensamma laddare. I direktiv 2014/53/EU anges i detta sammanhang att driftskompatibilitet mellan radioutrustning och tillbehör såsom laddare förenklar användningen av radioutrustning och minskar onödigt avfall och onödiga kostnader och att det är nödvändigt att utveckla en gemensam laddare för särskilda kategorier eller klasser av radioutrustning, framför allt för konsumenter och andra slutanvändare.</P>
+<P class="p99 ft37"><SPAN class="ft40">(2)</SPAN><SPAN class="ft41">Sedan 2009 har ansträngningar gjorts på unionsnivå för att begränsa fragmenteringen av marknaden för laddnings­ gränssnitt för mobiltelefoner och liknande radioutrustning. Även om de frivilliga initiativ som tagits nyligen har medfört en ökad enhetlighet mellan laddningsenheter, som är den externa strömförsörjningsdelen av laddare, och en minskning av antalet olika laddningslösningar på marknaden uppfyller dessa initiativ inte helt unionens politiska mål att säkerställa konsumenternas bekvämlighet, minska det elektroniska avfallet och undvika en fragmentering av marknaden för laddningsenheter.</SPAN></P>
+<P class="p100 ft37"><SPAN class="ft40">(3)</SPAN><SPAN class="ft41">Unionen har åtagit sig att främja en effektiv resursanvändning genom att gå över till en ren, cirkulär ekonomi genom sådana initiativ som Europaparlamentets och rådets direktiv 2012/19/EU (</SPAN><SPAN class="ft42">4</SPAN>) och mer nyligen genom införandet av den europeiska gröna given, som fastställs av kommissionen i dess meddelande av den 11 december 2019. Det här direktivet syftar till att minska mängden elektroniskt avfall som genereras vid försäljning av radioutrustning och minska utvinningen av råvaror och koldioxidutsläppen från produktion, transport och bortskaffande av laddare, och därigenom främja en cirkulär ekonomi.</P>
+<TABLE cellpadding=0 cellspacing=0 class="t12">
+<TR>
+	<TD class="tr12 td44"><SPAN class="p101 ft40">(<SPAN class="ft42">1</SPAN>)</SPAN> </TD>
+	<TD class="tr12 td45"><SPAN class="p102 ft37">EUT C 152, 6.4.2022, s. 82.</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr15 td44"><SPAN class="p101 ft40">(<SPAN class="ft42">2</SPAN>)</SPAN> </TD>
+	<TD class="tr15 td45"><SPAN class="p102 ft40">Europaparlamentets ståndpunkt av den 4 oktober 2022 (ännu inte offentliggjord i EUT) och rådets beslut av den 24 oktober 2022.</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr17 td44"><SPAN class="p101 ft40">(<SPAN class="ft42">3</SPAN>)</SPAN> </TD>
+	<TD class="tr17 td45"><SPAN class="p102 ft40">Europaparlamentets och rådets direktiv 2014/53/EU av den 16 april 2014 om harmonisering av medlemsstaternas lagstiftning om</SPAN> </TD>
+</TR>
+<TR>
+	<TD rowspan=2 class="tr2 td44"><SPAN class="p101 ft40">(<SPAN class="ft42">4</SPAN>)</SPAN> </TD>
+	<TD class="tr17 td45"><SPAN class="p102 ft32">tillhandahållande på marknaden av radioutrustning och om upphävande av direktiv 1999/5/EG (EUT L 153, 22.5.2014, s. 62).</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr17 td45"><SPAN class="p102 ft32">Europaparlamentets och rådets direktiv 2012/19/EU av den 4 juli 2012 om avfall som utgörs av eller innehåller elektrisk och</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr15 td44"><SPAN class="p13 ft43">&nbsp;</SPAN> </TD>
+	<TD class="tr15 td45"><SPAN class="p102 ft37">elektronisk utrustning (WEEE) (EUT L 197, 24.7.2012, s. 38).</SPAN> </TD>
+</TR>
+</TABLE>
+</DIV>
+<DIV id="id_2">
+<P class="p11 ft2">12</P>
+</DIV>
+</DIV>
+<DIV id="page_14">
+<DIV id="p14dimg1">
+<INGENBILD zsrc="HA0313814x1.jpg/" id="p14img1">
+</DIV>
+
+
+<DIV id="id_1">
+<P class="p103 ft2">Prop. 2022/23:138</P>
+<P class="p104 ft2">Bilaga 1</P>
+<TABLE cellpadding=0 cellspacing=0 class="t13">
+<TR>
+	<TD class="tr12 td36"><SPAN class="p105 ft37">7.12.2022</SPAN> </TD>
+	<TD class="tr15 td37"><SPAN class="p17 ft32">SV</SPAN> </TD>
+	<TD class="tr12 td46"><SPAN class="p106 ft31">Europeiska unionens officiella tidning</SPAN> </TD>
+	<TD class="tr12 td23"><SPAN class="p13 ft37">L 315/31</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr16 td40"><SPAN class="p13 ft33">&nbsp;</SPAN> </TD>
+	<TD class="tr16 td41"><SPAN class="p13 ft33">&nbsp;</SPAN> </TD>
+	<TD class="tr16 td47"><SPAN class="p13 ft33">&nbsp;</SPAN> </TD>
+	<TD class="tr16 td48"><SPAN class="p13 ft33">&nbsp;</SPAN> </TD>
+</TR>
+</TABLE>
+<P class="p107 ft37"><SPAN class="ft40">(4)</SPAN><SPAN class="ft44">I kommissionens handlingsplan för den cirkulära ekonomin som fastställs i dess meddelande av den 11 mars 2020, presenteras initiativ för produkternas hela livscykel med inriktning på deras utformning, främjande av processer för den cirkulära ekonomin, främjande av hållbar konsumtion och som syftar till att säkerställa att de resurser som används bevaras i unionens ekonomi så länge som möjligt.</SPAN></P>
+<P class="p108 ft37"><SPAN class="ft40">(5)</SPAN><SPAN class="ft44">Kommissionen slutförde en konsekvensbedömning som visade att den inre marknaden inte utnyttjar sin fulla potential eftersom den fortsatta fragmenteringen av marknaden för laddningsgränssnitt och kommunikations­ protokoll för laddning av mobiltelefoner och annan liknande radioutrustning leder till bristande bekvämlighet för konsumenterna och en ökning av elektroniskt avfall.</SPAN></P>
+<P class="p108 ft37"><SPAN class="ft40">(6)</SPAN><SPAN class="ft44">Driftskompatibilitet mellan radioutrustning och tillbehör, såsom laddare, hämmas eftersom det finns olika laddningsgränssnitt för vissa kategorier eller klasser av radioutrustning som använder trådbunden laddning, såsom handhållna mobiltelefoner, datorplattor, digitalkameror, hörlurar eller headset, handhållna videospelskonsoler, bärbara högtalare, läsplattor, tangentbord, datormöss, bärbara navigeringssystem, öronsnäckor och bärbara datorer. Dessutom finns det flera typer av kommunikationsprotokoll för snabb laddning för vilka en miniminivå för prestanda inte alltid garanteras. Till följd av detta krävs unionsåtgärder för att främja en gemensam grad av driftskompatibilitet och tillhandahållande av information till konsumenter och andra slutanvändare om radioutrustningens laddningsegenskaper. Det är därför nödvändigt att i direktiv 2014/53/EU införa lämpliga krav avseende kommunikationsprotokoll för laddning, laddningsgränssnitt dvs. laddningsdon, för vissa kategorier eller klasser av radioutrustning, samt avseende den information som ska lämnas till konsumenter och andra slutanvändare om laddningsegenskaperna hos dessa kategorier eller klasser av radioutrustning, såsom information om den minimala och maximala effekt som krävs för att ladda radioutrustningen. Den minimala effekten bör uttrycka summan av den effekt som krävs för att hålla radioutrustningen i drift och den effekt som krävs för att batteriet ska börja ladda. Den maximala effekten bör uttrycka summan av den effekt som krävs för att hålla radioutrustningen i drift och den effekt som krävs för att uppnå högsta laddningshastighet.</SPAN></P>
+<P class="p109 ft37"><SPAN class="ft40">(7)</SPAN><SPAN class="ft44">Avsaknaden av harmonisering av laddningsgränssnitten och kommunikationsprotokollen för laddning kan leda till betydande skillnader mellan medlemsstaternas lagar och andra författningar eller praxis när det gäller driftskompa­ tibilitet mellan mobiltelefoner och liknande kategorier eller klasser av radioutrustning och deras laddningsenheter, och när det gäller tillhandahållandet av radioutrustning utan laddningsenheter.</SPAN></P>
+<P class="p108 ft37"><SPAN class="ft40">(8)</SPAN><SPAN class="ft44">Storleken på den inre marknaden för uppladdningsbara mobiltelefoner och liknande kategorier eller klasser av radioutrustning, spridningen av olika typer av laddningsenheter för sådan radioutrustning, bristande driftskompa­ tibilitet mellan radioutrustning och laddningsenheter och den betydande gränsöverskridande handeln med dessa produkter kräver kraftfullare lagstiftningsåtgärder på unionsnivå, snarare än på nationell nivå eller frivilliga åtgärder, för att den inre marknaden ska fungera smidigt, samtidigt som man säkerställer konsumenternas bekvämlighet och minskar miljöavfallet.</SPAN></P>
+<P class="p110 ft37"><SPAN class="ft40">(9)</SPAN><SPAN class="ft44">Det är därför nödvändigt att harmonisera laddningsgränssnitten och kommunikationsprotokollen för laddning för specifika kategorier eller klasser av radioutrustning som laddas genom trådbunden laddning. Det är också nödvändigt att skapa en grund för anpassning till den eventuella framtida vetenskapliga och tekniska utvecklingen eller marknadsutvecklingen, som kommer att övervakas kontinuerligt av kommissionen. I synnerhet bör införandet av en harmonisering av laddningsgränssnitt och kommunikationsprotokoll för laddning också beaktas i framtiden med avseende på radioutrustning som kan laddas på något annat sätt än genom trådbunden laddning, inbegripet laddning genom radiovågor (trådlös laddning). Dessutom bör inbegripande av ytterligare kategorier eller klasser av radioutrustning som laddas genom trådbunden laddning systematiskt beaktas i samband med en framtida anpassning av de harmoniserade laddningslösningarna, förutsatt att det är tekniskt möjligt att integrera de harmoniserade laddningslösningarna inom sådana ytterligare kategorier eller klasser av radioutrustning. En sådan harmonisering bör sträva mot målet att säkerställa konsumenternas bekvämlighet, minska miljöavfallet och undvika en fragmentering av marknaden mellan olika laddningsgränssnitt och kommunikationsprotokoll för laddning samt mellan initiativ på nationell nivå som kan orsaka handelshinder på den inre marknaden. Syftet med den framtida anpassningen av harmoniseringen av laddningsgränssnitten och kommunikationsprotokollen för laddning bör vara att fortsätta att sträva efter att uppnå dessa mål genom att säkerställa att den omfattar de lämpligaste tekniska lösningarna för laddningsgränssnitt och kommunikationsprotokoll för laddning för alla typer av laddningssätt. De harmoniserade laddningslösningarna bör återspegla den lämpligaste kombinationen av marknadsacceptans och uppfyllande av målen att säkerställa konsumenternas bekvämlighet, minska miljöavfallet och undvika marknadsfrag­ mentering. Relevanta tekniska standarder som uppfyller dessa mål och som har utvecklats på europeisk eller internationell nivå bör i första hand användas när det gäller att välja ut sådana laddningslösningar. I undantagsfall,</SPAN></P>
+</DIV>
+<DIV id="id_2">
+<P class="p11 ft2">13</P>
+</DIV>
+</DIV>
+<DIV id="page_15">
+<DIV id="p15dimg1">
+<INGENBILD zsrc="HA0313815x1.jpg/" id="p15img1">
+</DIV>
+
+
+<DIV id="id_1">
+<P class="p11 ft2">Prop. 2022/23:138</P>
+<P class="p87 ft2">Bilaga 1</P>
+<TABLE cellpadding=0 cellspacing=0 class="t11">
+<TR>
+	<TD class="tr12 td36"><SPAN class="p13 ft31">L 315/32</SPAN> </TD>
+	<TD class="tr15 td37"><SPAN class="p17 ft32">SV</SPAN> </TD>
+	<TD class="tr12 td38"><SPAN class="p88 ft31">Europeiska unionens officiella tidning</SPAN> </TD>
+	<TD class="tr12 td39"><SPAN class="p15 ft31">7.12.2022</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr16 td40"><SPAN class="p13 ft33">&nbsp;</SPAN> </TD>
+	<TD class="tr16 td41"><SPAN class="p13 ft33">&nbsp;</SPAN> </TD>
+	<TD class="tr16 td42"><SPAN class="p13 ft33">&nbsp;</SPAN> </TD>
+	<TD class="tr16 td43"><SPAN class="p13 ft33">&nbsp;</SPAN> </TD>
+</TR>
+</TABLE>
+<P class="p111 ft37">där det finns ett behov av att införa, lägga till eller ändra en befintlig teknisk specifikation i avsaknad av allmänt tillgängliga europeiska eller internationella standarder som uppfyller dessa mål, bör kommissionen kunna fastställa andra tekniska specifikationer, förutsatt att dessa tekniska specifikationer har utarbetats i enlighet med kriterierna om öppenhet, samförstånd och insyn och att de uppfyller kraven på neutralitet och stabilitet enligt bilaga II till Europaparlamentets och rådets förordning (EU) nr 1025/2012 (<SPAN class="ft42">5</SPAN>). Alla berörda intressenter inom sektorer som är representerade i kommissionens expertgrupp för radioutrustning måste involveras i processen under hela anpassningen av harmoniserade laddningslösningarna.</P>
+<P class="p112 ft37"><SPAN class="ft37">(10)</SPAN><SPAN class="ft45">En sådan harmonisering skulle dock vara ofullständig om den inte kombinerades med krav avseende den kombinerade försäljningen av radioutrustning och dess laddare och den information som tillhandahålls till konsumenter och andra slutanvändare. En fragmentering av medlemsstaternas strategier när det gäller saluföring av de berörda kategorierna eller klasserna av radioutrustning och deras laddningsenheter skulle hämma den gränsöver­ skridande handeln med dessa produkter, till exempel genom att ålägga ekonomiska aktörer att ompaketera sina produkter beroende på i vilken medlemsstat produkterna ska levereras. Detta skulle i sin tur leda till ökad olägenhet för konsumenterna och generera onödigt elektroniskt avfall, vilket skulle upphäva fördelarna med harmoniseringen av laddningsgränssnittet och kommunikationsprotokollen för laddning. Det är därför nödvändigt att införa krav för att säkerställa att konsumenter och andra slutanvändare inte tvingas köpa en ny laddningsenhet vid varje köp av en ny mobiltelefon eller liknande radioutrustning. Separat försäljning av laddningsenheter respektive försäljning av radioutrustning bör ge konsumenter och andra slutanvändare hållbara, tillgängliga, attraktiva och bekväma valmöjligheter. Med utgångspunkt i erfarenheterna från tillämpningen av kraven, de framväxande marknadstrenderna och den tekniska utvecklingen bör kommissionen överväga att utvidga kravet på att tillhandahålla laddningsenheter tillsammans med radioutrustning till att även omfatta kablar och/eller att göra separat tillhandahållande obligatoriskt i syfte att säkerställa att målen att säkerställa konsumenternas bekvämlighet och minska miljöavfallet eftersträvas så effektivt som möjligt. För att säkerställa att sådana krav är effektiva bör konsumenter och andra slutanvändare få nödvändig information om laddningsegenskaper när de köper en mobiltelefon eller liknande radioutrustning. Ett särskilt piktogram skulle göra det möjligt för konsumenter och andra slutanvändare att före köpet avgöra om en laddningsenhet ingår i radioutrustningen eller inte. Piktogrammet ska vara synligt vid alla former av tillhandahållande, inklusive distansförsäljning.</SPAN></P>
+<P class="p113 ft37"><SPAN class="ft37">(11)</SPAN><SPAN class="ft45">Det är tekniskt möjligt att definiera USB typ C som gemensamt laddningsdon för de relevanta kategorierna eller klasserna av radioutrustning, särskilt eftersom de redan har kapacitet att integrera ett sådant anslutningsdon. Den USB typ </SPAN><NOBR>C-teknik</NOBR> som används globalt har antagits på internationell standardiseringsnivå och har införlivats i det europeiska systemet av Europeiska kommittén för elektroteknisk standardisering (Cenelec) genom den europeiska standarden EN IEC <NOBR>62680–1-3:2021</NOBR> ”Gränssnitt för seriebuss för datakommunikation (USB) – Del <NOBR>1–3:</NOBR> Gemensamma komponenter – Specifikation för kabel och anslutningsdon USB Typ C®”.</P>
+<P class="p114 ft37"><SPAN class="ft37">(12)</SPAN><SPAN class="ft45">USB typ C är en teknik som redan är vanlig för många kategorier eller klasser av radioutrustning eftersom den tillhandahåller laddning och dataöverföring av hög kvalitet. Laddningsdonet för USB typ C kan, när det kombineras med kommunikationsprotokollet för laddning med strömförsörjning via </SPAN><NOBR>USB-port,</NOBR> tillhandahålla upp till 100 watts effekt och lämnar därför stort utrymme för vidareutveckling av snabbladdningslösningar, samtidigt som marknaden får möjlighet att erbjuda apparater med lägre kapacitet som inte behöver snabb laddning. Mobiltelefoner och liknande radioutrustning som stöder snabbladdning kan ha integrerade funktioner för strömförsörjning via USB- port enligt beskrivningen i europeiska standarden EN IEC <NOBR>62680-1-2:2021</NOBR> ”Gränssnitt för seriebuss för datakommunikation (USB) – Del <NOBR>1–2:</NOBR> Gemensamma komponenter – Specifikation för strömförsörjning (USB PD)”. Specifikationerna avseende USB utvecklas kontinuerligt. USB Implementers Forum har i detta avseende utarbetat en uppdaterad version av specifikationen för strömförsörjning via <NOBR>USB-port,</NOBR> vilken möjliggör stöd för en effekt på upp</P>
+<P class="p115 ft37">(<SPAN class="ft42">5</SPAN>) Europaparlamentets och rådets förordning (EU) nr 1025/2012 av den 25 oktober 2012 om europeisk standardisering och om ändring av rådets direktiv 89/686/EEG och 93/15/EEG samt av Europaparlamentets och rådets direktiv 94/9/EG, 94/25/EG, 95/16/EG, 97/23/EG, 98/34/EG, 2004/22/EG, 2007/23/EG, 2009/23/EG och 2009/105/EG samt om upphävande av rådets beslut 87/95/EEG och Europaparlamentets och rådets beslut 1673/2006/EG (EUT L 316, 14.11.2012, s. 12).</P>
+</DIV>
+<DIV id="id_2">
+<P class="p11 ft2">14</P>
+</DIV>
+</DIV>
+<DIV id="page_16">
+<DIV id="p16dimg1">
+<INGENBILD zsrc="HA0313816x1.jpg/" id="p16img1">
+</DIV>
+
+
+<DIV id="id_1">
+<P class="p103 ft2">Prop. 2022/23:138</P>
+<P class="p104 ft2">Bilaga 1</P>
+<TABLE cellpadding=0 cellspacing=0 class="t13">
+<TR>
+	<TD class="tr12 td36"><SPAN class="p105 ft37">7.12.2022</SPAN> </TD>
+	<TD class="tr15 td37"><SPAN class="p17 ft32">SV</SPAN> </TD>
+	<TD class="tr12 td46"><SPAN class="p106 ft31">Europeiska unionens officiella tidning</SPAN> </TD>
+	<TD class="tr12 td23"><SPAN class="p13 ft37">L 315/33</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr16 td40"><SPAN class="p13 ft33">&nbsp;</SPAN> </TD>
+	<TD class="tr16 td41"><SPAN class="p13 ft33">&nbsp;</SPAN> </TD>
+	<TD class="tr16 td47"><SPAN class="p13 ft33">&nbsp;</SPAN> </TD>
+	<TD class="tr16 td48"><SPAN class="p13 ft33">&nbsp;</SPAN> </TD>
+</TR>
+</TABLE>
+<P class="p116 ft31">till 240 watt. Anpassningar har också gjorts av specifikationen för USB typ C, som utvidgar kraven till att omfatta anslutningsdon och kablar så att de får stöd upp till 240 watt. Därmed kommer radioutrustning som kräver en sådan effektnivå att kunna beaktas för uppförande på förteckningen över radioutrustning som omfattas av detta direktiv.</P>
+<P class="p117 ft37"><SPAN class="ft37">(13)</SPAN><SPAN class="ft46">När det gäller laddning på annat sätt än genom trådbunden laddning kan olika lösningar utvecklas i framtiden, vilket kan få negativa konsekvenser för driftskompatibiliteten, konsumenternas bekvämlighet och miljön. Även om det är för tidigt att införa särskilda krav för sådana lösningar i detta skede bör kommissionen vidta åtgärder för att främja och harmonisera sådana lösningar för att undvika en fragmentering av den inre marknaden i framtiden.</SPAN></P>
+<P class="p118 ft37"><SPAN class="ft37">(14)</SPAN><SPAN class="ft46">Direktiv 2014/53/EU bör ändras så att den omfattar bestämmelser rörande laddningsgränssnitt och kommunika­ tionsprotokoll för laddning. De kategorier eller klasser av radioutrustning som specifikt omfattas av den nya bestämmelsen bör anges närmare i en ny bilaga till det direktivet. Inom dessa kategorier eller klasser av radioutrustning berörs endast radioutrustning som innehåller ett borttagbart eller inbyggt uppladdningsbart batteri. När det gäller digitalkameror omfattar den berörda radioutrustningen alla digitala foto- och videokameror, inklusive actionkameror. Digitalkameror som är utformade uteslutande för den audiovisuella sektorn eller för säkerhets- och övervakningssektorn bör inte omfattas av kravet på att integrera den harmoniserade laddningslösningen. När det gäller öronsnäckor beaktas den berörda radioutrustningen tillsammans med det särskilda laddningsetuiet, med tanke på att öronsnäckorna på grund av sin särskilda storlek och form sällan eller aldrig är åtskilda från laddningsetuiet. Laddningsetuiet för denna specifika typ av radioutrustning betraktas inte som en del av laddningsenheten. När det gäller bärbara datorer omfattar den berörda radioutrustningen varje dator som är bärbar, inbegripet bärbara datorer, små bärbara datorer, hybriddatorer samt minidatorer.</SPAN></P>
+<P class="p119 ft48"><SPAN class="ft37">(15)</SPAN><SPAN class="ft47">Direktiv 2014/53/EU bör också ändras för att införa krav rörande tillhandahållande av vissa kategorier eller klasser av radioutrustning utan laddningsenheter. De kategorier eller klasser av radioutrustning som berörs samt specifikationer avseende laddningslösningarna bör anges i en ny bilaga till det direktivet.</SPAN></P>
+<P class="p117 ft37"><SPAN class="ft37">(16)</SPAN><SPAN class="ft46">I direktiv 2014/53/EU föreskrivs vilken information som ska ingå i de bruksanvisningar som åtföljer radioutrustningen och därför bör ytterligare informationskrav införas i den relevanta artikeln i det direktivet. Innehållet i de nya kraven bör anges i den nya bilagan till det direktivet. Viss information bör tillhandahållas i visuell form för alla former av tillhandahållande, inbegripet för distansförsäljning. En särskild märkning som anger specifikationerna avseende laddningskapacitet och kompatibla laddningsenheter skulle göra det möjligt för konsumenter och andra slutanvändare att avgöra vilken laddningsenhet som är mest lämplig för att ladda deras radioutrustning. I syfte att tillhandahålla en användbar referens under radioutrustningens hela livscykel bör informationen om specifikationerna avseende laddningskapacitet och de kompatibla laddningsenheterna också ingå i de bruksanvisningar och den säkerhetsinformation som åtföljer radioutrustningen. Det bör vara möjligt att anpassa dessa informationskrav i framtiden för att återspegla eventuella ändringar av märkningskraven, särskilt för laddningsenheter, som kan komma att införas i enlighet med Europaparlamentets och rådets direktiv 2009/125/EG (</SPAN><SPAN class="ft42">6</SPAN>). Dessa informationskrav bör särskilt återspegla utvecklingen av de harmoniserade laddningslös­ ningarna och bör anpassas i enlighet med detta. I detta sammanhang skulle även införandet av ett system med färgkoder kunna övervägas.</P>
+<P class="p120 ft37"><SPAN class="ft37">(17)</SPAN><SPAN class="ft46">Med beaktande av att importörer och distributörer också kan tillhandahålla radioutrustning direkt till konsumenter och andra slutanvändare bör de åläggas skyldigheter som är identiska med dem som gäller för tillverkare i fråga om den information som ska tillhandahållas eller visas. Alla ekonomiska aktörer bör åläggas att uppfylla skyldigheten när det gäller det piktogram som visar huruvida en laddningsenhet ingår i radioutrustningen eller inte när de tillhandahåller radioutrustning för konsumenter och andra slutanvändare. Importörer och distributörer kan därför</SPAN></P>
+<P class="p121 ft37">(<SPAN class="ft42">6</SPAN>) Europaparlamentets och rådets direktiv 2009/125/EG av den 21 oktober 2009 om upprättande av en ram för att fastställa krav på ekodesign för energirelaterade produkter (EUT L 285, 31.10.2009, s. 10).</P>
+</DIV>
+<DIV id="id_2">
+<P class="p11 ft2">15</P>
+</DIV>
+</DIV>
+<DIV id="page_17">
+<DIV id="p17dimg1">
+<INGENBILD zsrc="HA0313817x1.jpg/" id="p17img1">
+</DIV>
+
+
+<DIV id="id_1">
+<P class="p11 ft2">Prop. 2022/23:138</P>
+<P class="p87 ft2">Bilaga 1</P>
+<TABLE cellpadding=0 cellspacing=0 class="t11">
+<TR>
+	<TD class="tr12 td36"><SPAN class="p13 ft31">L 315/34</SPAN> </TD>
+	<TD class="tr15 td37"><SPAN class="p17 ft32">SV</SPAN> </TD>
+	<TD class="tr12 td38"><SPAN class="p88 ft31">Europeiska unionens officiella tidning</SPAN> </TD>
+	<TD class="tr12 td39"><SPAN class="p15 ft31">7.12.2022</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr16 td40"><SPAN class="p13 ft33">&nbsp;</SPAN> </TD>
+	<TD class="tr16 td41"><SPAN class="p13 ft33">&nbsp;</SPAN> </TD>
+	<TD class="tr16 td42"><SPAN class="p13 ft33">&nbsp;</SPAN> </TD>
+	<TD class="tr16 td43"><SPAN class="p13 ft33">&nbsp;</SPAN> </TD>
+</TR>
+</TABLE>
+<P class="p111 ft48">erbjuda paket som skulle inbegripa radioutrustning och en tillhörande laddningsenhet, även när tillverkaren tillhandahåller sådan radioutrustning utan laddningsenhet, förutsatt att importörerna och distributörerna också erbjuder konsumenter och andra slutanvändare möjligheten att förvärva radioutrustningen utan laddningsenhet.</P>
+<P class="p122 ft37"><SPAN class="ft37">(18)</SPAN><SPAN class="ft45">I direktiv 2014/53/EU fastställs förfarandena för bedömning av överensstämmelse. Det bör ändras för att lägga till hänvisningar till de nya väsentliga krav. Tillverkare bör därför kunna välja att använda förfarandet för intern tillverkningskontroll för att visa överensstämmelse med dessa nya väsentliga krav.</SPAN></P>
+<P class="p123 ft37"><SPAN class="ft37">(19)</SPAN><SPAN class="ft45">Direktiv 2014/53/EU bör anpassas i enlighet med detta för att säkerställa att de nationella marknadskontrollmyn­ digheterna förfogar över de förfarandemässiga medel som krävs för att säkerställa efterlevnad av de nya kraven avseende det harmoniserade laddningsgränssnittet och kommunikationsprotokollet för laddning och tillhanda­ hållande av radioutrustning som omfattas av denna harmonisering. I synnerhet bör det införas en uttrycklig hänvisning till bristande överensstämmelse med de väsentliga kraven, som också omfattar de nyligen införda bestämmelserna om specifikationer avseende laddningskapacitet och kompatibla laddningsenheter. Med tanke på att dessa nya bestämmelser är inriktade på interoperabilitet är syftet med denna uttryckliga hänvisning att undvika olika tolkningar av huruvida det förfarande som fastställs i direktiv 2014/53/EU kan inledas även med avseende på radioutrustning som inte utgör någon risk för människors hälsa eller säkerhet eller för andra aspekter av skydd av allmänintresset.</SPAN></P>
+<P class="p124 ft31"><SPAN class="ft37">(20)</SPAN><SPAN class="ft49">I direktiv 2014/53/EU fastställs fall av formell bristande överensstämmelse. Med tanke på att detta direktiv innehåller nya krav som är tillämpliga på vissa kategorier eller klasser av radioutrustning bör direktiv 2014/53/EU ändras för att göra det möjligt för de nationella marknadskontrollmyndigheterna att effektivt säkerställa att dessa nya krav efterlevs.</SPAN></P>
+<P class="p125 ft38"><SPAN class="ft37">(21)</SPAN><SPAN class="ft50">Direktiv 2014/53/EU bör även ändras för att anpassa de hänvisningar de innehåller till de nya krav som införs genom det här direktivet.</SPAN></P>
+<P class="p126 ft37"><SPAN class="ft37">(22)</SPAN><SPAN class="ft45">Det är nödvändigt att säkerställa en minsta gemensam driftskompatibilitet mellan radioutrustning och laddningsenheter för sådan radioutrustning och för att hantera eventuell framtida marknadsutveckling, såsom framväxt av nya kategorier eller klasser av radioutrustning, i förhållande till vilka en betydande fragmentering av laddningsgränssnitten och laddningskommunikationsprotokollen sker, och eventuell utveckling av laddnings­ tekniken. Det är även nödvändigt att återspegla framtida ändringar i märkningskraven, t.ex. för externa nätaggregat eller laddningskablar, eller övrig teknisk utveckling. Befogenheten att anta akter i enlighet med artikel 290 i fördraget om Europeiska unionens funktionssätt bör därför delegeras till kommissionen med avseende på ändring av kategorier eller klasser av radioutrustning och specifikationerna avseende laddningsgränssnitt och laddningskom­ munikationsprotokoll för var och en av dem och ändring av informationskraven för laddningsgränssnitt och kommunikationsprotokoll för laddning. Det är särskilt viktigt att kommissionen genomför lämpliga samråd under sitt förberedande arbete, inklusive på expertnivå, och att dessa samråd genomförs i enlighet med principerna i det interinstitutionella avtalet av den 13 april 2016 om bättre lagstiftning (</SPAN><SPAN class="ft42">7</SPAN>). För att säkerställa lika stor delaktighet i förberedelsen av delegerade akter erhåller Europaparlamentet och rådet alla handlingar samtidigt som medlemsstaternas experter, och deras experter ges systematiskt tillträde till möten i kommissionens expertgrupper som arbetar med förberedelse av delegerade akter.</P>
+<P class="p127 ft38"><SPAN class="ft37">(23)</SPAN><SPAN class="ft50">Direktiv 2014/53/EU bör därför ändras i enlighet med detta.</SPAN></P>
+<P class="p128 ft37"><SPAN class="ft37">(24)</SPAN><SPAN class="ft45">Ekonomiska aktörer bör ges tillräckligt med tid för att göra de nödvändiga anpassningarna av radioutrustning som omfattas av detta direktiv och som de avser att släppa ut på unionsmarknaden.</SPAN></P>
+<P class="p129 ft37">(<SPAN class="ft42">7</SPAN>) EUT L 123, 12.5.2016, s. 1.</P>
+</DIV>
+<DIV id="id_2">
+<P class="p11 ft2">16</P>
+</DIV>
+</DIV>
+<DIV id="page_18">
+<DIV id="p18dimg1">
+<INGENBILD zsrc="HA0313818x1.jpg/" id="p18img1">
+</DIV>
+
+
+<DIV id="id_1">
+<P class="p103 ft2">Prop. 2022/23:138</P>
+<P class="p104 ft2">Bilaga 1</P>
+<TABLE cellpadding=0 cellspacing=0 class="t13">
+<TR>
+	<TD class="tr12 td36"><SPAN class="p105 ft37">7.12.2022</SPAN> </TD>
+	<TD class="tr15 td37"><SPAN class="p17 ft32">SV</SPAN> </TD>
+	<TD class="tr12 td46"><SPAN class="p106 ft31">Europeiska unionens officiella tidning</SPAN> </TD>
+	<TD class="tr12 td23"><SPAN class="p13 ft37">L 315/35</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr16 td40"><SPAN class="p13 ft33">&nbsp;</SPAN> </TD>
+	<TD class="tr16 td41"><SPAN class="p13 ft33">&nbsp;</SPAN> </TD>
+	<TD class="tr16 td47"><SPAN class="p13 ft33">&nbsp;</SPAN> </TD>
+	<TD class="tr16 td48"><SPAN class="p13 ft33">&nbsp;</SPAN> </TD>
+</TR>
+</TABLE>
+<P class="p130 ft37">HÄRIGENOM FÖRESKRIVS FÖLJANDE.</P>
+<P class="p131 ft38">Artikel 1</P>
+<P class="p132 ft38">Direktiv 2014/53/EU ska ändras på följande sätt:</P>
+<P class="p133 ft38"><SPAN class="ft37">1.</SPAN><SPAN class="ft50">Artikel 3 ska ändras på följande sätt:</SPAN></P>
+<P class="p134 ft38"><SPAN class="ft37">a)</SPAN><SPAN class="ft51">Punkt 3 första stycket a ska ersättas med</SPAN></P>
+<P class="p135 ft37">”a) Radioutrustningen samverkar med andra tillbehör än laddningsenheterna för de kategorier eller klasser av radioutrustning som anges i del I i bilaga Ia och som det särskilt hänvisas till i punkt 4 i denna artikel.”</P>
+<P class="p136 ft38"><SPAN class="ft37">b)</SPAN><SPAN class="ft51">Följande punkt ska läggas till:</SPAN></P>
+<P class="p137 ft38">”4. Radioutrustning av de kategorier eller klasser som anges i del I i bilaga Ia ska vara konstruerad så att den uppfyller de specifikationer avseende laddningskapacitet som anges i den bilagan för den relevanta kategorin eller klassen av radioutrustning.</P>
+<P class="p138 ft37">När det gäller radioutrustning som kan laddas genom trådbunden laddning ges kommissionen befogenhet att anta delegerade akter i enlighet med artikel 44 för att ändra del I i bilaga Ia mot bakgrund av den vetenskapliga och tekniska utvecklingen eller marknadsutvecklingen, för att säkerställa en minsta gemensam driftskompatibilitet mellan radioutrustningen och dess laddningsenheter samt för att öka konsumenternas bekvämlighet, minska miljöavfallet och undvika marknadsfragmentering, genom att</P>
+<P class="p139 ft38"><SPAN class="ft40">a)</SPAN><SPAN class="ft51">ändra, lägga till eller ta bort kategorier eller klasser av radioutrustning,</SPAN></P>
+<P class="p140 ft38"><SPAN class="ft40">b)</SPAN><SPAN class="ft51">ändra, lägga till eller ta bort tekniska specifikationer, inklusive hänvisningar och beskrivningar, med avseende på laddningsdon och kommunikationsprotokoll för laddning, för varje berörd kategori eller klass av radioutrustning.</SPAN></P>
+<P class="p138 ft37">Kommissionen ska kontinuerligt bedöma marknadsutvecklingen, marknadsfragmenteringen och den tekniska utvecklingen i syfte att identifiera kategorier eller klasser av radioutrustning som kan laddas genom trådbunden laddning och vars införande i del I i bilaga Ia skulle leda till ökad konsumentbekvämlighet och minskat miljöavfall.</P>
+<P class="p141 ft38">Kommissionen ska lägga fram en rapport om den bedömning som avses i tredje stycket till Europaparlamentet och rådet, första gången senast den 28 december 2025 och därefter vart femte år, och anta delegerade akter enligt andra stycket a i enlighet med detta.</P>
+<P class="p142 ft37">När det gäller radioutrustning som kan laddas på andra sätt än genom trådbunden laddning ges kommissionen befogenhet att anta delegerade akter i enlighet med artikel 44 för att ändra del I i bilaga Ia mot bakgrund av den vetenskapliga och tekniska utvecklingen eller marknadsutvecklingen, för att säkerställa en minsta gemensam driftskompatibilitet mellan radioutrustningen och dess laddningsenheter samt för att öka konsumenternas bekvämlighet, minska miljöavfallet och undvika marknadsfragmentering, genom att</P>
+<P class="p143 ft38"><SPAN class="ft40">a)</SPAN><SPAN class="ft51">införa, ändra, lägga till eller ta bort kategorier eller klasser av radioutrustning,</SPAN></P>
+<P class="p140 ft38"><SPAN class="ft40">b)</SPAN><SPAN class="ft51">införa, ändra, lägga till eller ta bort tekniska specifikationer, inklusive hänvisningar och beskrivningar, med avseende på laddningsgränssnitt och kommunikationsprotokoll för laddning, för varje berörd kategori eller klass av radioutrustning.</SPAN></P>
+</DIV>
+<DIV id="id_2">
+<P class="p11 ft2">17</P>
+</DIV>
+</DIV>
+<DIV id="page_19">
+<DIV id="p19dimg1">
+<INGENBILD zsrc="HA0313819x1.jpg/" id="p19img1">
+</DIV>
+
+
+<DIV id="id_1">
+<P class="p11 ft2">Prop. 2022/23:138</P>
+<P class="p87 ft2">Bilaga 1</P>
+<TABLE cellpadding=0 cellspacing=0 class="t11">
+<TR>
+	<TD class="tr12 td36"><SPAN class="p13 ft31">L 315/36</SPAN> </TD>
+	<TD class="tr15 td37"><SPAN class="p17 ft32">SV</SPAN> </TD>
+	<TD class="tr12 td38"><SPAN class="p88 ft31">Europeiska unionens officiella tidning</SPAN> </TD>
+	<TD class="tr12 td39"><SPAN class="p15 ft31">7.12.2022</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr16 td40"><SPAN class="p13 ft33">&nbsp;</SPAN> </TD>
+	<TD class="tr16 td41"><SPAN class="p13 ft33">&nbsp;</SPAN> </TD>
+	<TD class="tr16 td42"><SPAN class="p13 ft33">&nbsp;</SPAN> </TD>
+	<TD class="tr16 td43"><SPAN class="p13 ft33">&nbsp;</SPAN> </TD>
+</TR>
+</TABLE>
+<P class="p144 ft37">Kommissionen ska, i enlighet med artikel 10.1 i förordning (EU) nr 1025/2012, och senast den 28 december 2024 begära att en eller flera europeiska standardiseringsorganisationer utarbetar harmoniserade standarder med tekniska specifikationer för laddningsgränssnitt och kommunikationsprotokoll för laddning för radioutrustning som kan laddas på annat sätt än genom trådbunden laddning. I enlighet med förfarandet i artikel 10.2 i förordning (EU) nr 1025/2012 ska kommissionen samråda med den kommitté som inrättas genom artikel 45.1 i detta direktiv. Kraven vad gäller innehållet i de begärda harmoniserade standarderna ska baseras på en bedömning, som ska utföras av kommissionen, av statusen för trådlös laddningsteknik för radioutrustning, som särskilt ska omfatta marknadsutveckling, marknadspenetration, marknadsfragmentering, teknisk prestanda, driftskompatibilitet, energieffektivitet och laddningsprestanda.</P>
+<P class="p145 ft37">När kommissionen förbereder de delegerade akter som avses i denna artikel med avseende på radioutrustning som kan laddas genom trådbunden laddning samt med avseende på radioutrustning som kan laddas på annat sätt än genom trådbunden laddning ska den ta hänsyn till i vilken utsträckning marknaden godtar de tekniska specifikationer som övervägs och konsumenternas bekvämlighet ökar samt hur stor minskning av miljöavfallet och marknadsfragmenteringen som kan förväntas till följd av sådana tekniska specifikationer. Tekniska specifikationer som bygger på relevanta tillgängliga europeiska eller internationella standarder ska anses uppfylla de mål som anges i föregående mening. Där sådana europeiska eller internationella standarder inte finns, eller där kommissionen på grundval av sin tekniska bedömning fastställer att de inte uppfyller dessa mål på ett optimalt sätt, får kommissionen fastställa andra tekniska specifikationer som bättre uppfyller dessa mål.”</P>
+<P class="p146 ft38"><SPAN class="ft37">2.</SPAN><SPAN class="ft50">Följande artikel ska införas:</SPAN></P>
+<P class="p147 ft38">”Artikel 3a</P>
+<P class="p148 ft38">Möjlighet för konsumenter och andra slutanvändare att förvärva vissa kategorier eller klasser av radioutrustning utan laddningsenhet</P>
+<P class="p149 ft37"><SPAN class="ft37">1.</SPAN><SPAN class="ft52">Om en ekonomisk aktör erbjuder konsumenter och andra slutanvändare att förvärva den radioutrustning som avses i artikel 3.4 tillsammans med en laddningsenhet, ska den ekonomiska aktören även erbjuda konsumenterna och de andra slutanvändarna möjligheten att förvärva radioutrustningen utan laddningsenhet.</SPAN></P>
+<P class="p150 ft37"><SPAN class="ft37">2.</SPAN><SPAN class="ft52">Ekonomiska aktörer ska säkerställa att informationen om huruvida en laddningsenhet ingår i den radioutrustning som avses i artikel 3.4 eller inte visas i en grafisk form med hjälp av ett användarvänligt och lättillgängligt piktogram i enlighet med del III i bilaga Ia, när sådan radioutrustning tillhandahålls konsumenter och andra slutanvändare. Piktogrammet ska vara tryckt på förpackningen eller fäst på förpackningen som ett klistermärke. När radioutrustningen tillhandahålls konsumenter och andra slutanvändare ska piktogrammet visas på ett synligt och lättläst sätt och, vid distansförsäljning, nära prisuppgiften.</SPAN></P>
+<P class="p151 ft37">Kommissionen ges befogenhet att anta delegerade akter i enlighet med artikel 44 i syfte att ändra del III i bilaga Ia till följd av ändringar av delarna I och II i den bilagan eller framtida ändringar i märkningskraven, eller mot bakgrund av tekniska framsteg, genom att införa, ändra, lägga till eller ta bort grafiska eller textmässiga inslag.”</P>
+<P class="p152 ft38"><SPAN class="ft37">3.</SPAN><SPAN class="ft50">Artikel 10.8 ska ersättas med följande:</SPAN></P>
+<P class="p153 ft37">”8. Tillverkarna ska säkerställa att radioutrustningen åtföljs av bruksanvisningar och säkerhetsinformation. Bruksanvisningarna ska innehålla de uppgifter som behövs för att använda radioutrustningen på avsett sätt. I denna information ska, i tillämpliga fall, ingå en beskrivning av tillbehör och komponenter, däribland programvara, som möjliggör avsedd funktion hos radioutrustningen. Sådana bruksanvisningar och säkerhetsinformation liksom all märkning ska vara tydliga och lättbegripliga.</P>
+<P class="p154 ft38">Följande uppgifter ska också ingå i bruksanvisningarna i de fall då radioutrustning avsiktligt avger radiovågor:</P>
+<P class="p155 ft38"><SPAN class="ft40">a)</SPAN><SPAN class="ft51">Det eller de frekvensband där radioutrustningen arbetar.</SPAN></P>
+</DIV>
+<DIV id="id_2">
+<P class="p11 ft2">18</P>
+</DIV>
+</DIV>
+<DIV id="page_20">
+<DIV id="p20dimg1">
+<INGENBILD zsrc="HA0313820x1.jpg/" id="p20img1">
+</DIV>
+
+
+<DIV id="id_1">
+<P class="p103 ft2">Prop. 2022/23:138</P>
+<P class="p104 ft2">Bilaga 1</P>
+<TABLE cellpadding=0 cellspacing=0 class="t13">
+<TR>
+	<TD class="tr12 td36"><SPAN class="p105 ft37">7.12.2022</SPAN> </TD>
+	<TD class="tr15 td37"><SPAN class="p17 ft32">SV</SPAN> </TD>
+	<TD class="tr12 td46"><SPAN class="p106 ft31">Europeiska unionens officiella tidning</SPAN> </TD>
+	<TD class="tr12 td23"><SPAN class="p13 ft37">L 315/37</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr16 td40"><SPAN class="p13 ft33">&nbsp;</SPAN> </TD>
+	<TD class="tr16 td41"><SPAN class="p13 ft33">&nbsp;</SPAN> </TD>
+	<TD class="tr16 td47"><SPAN class="p13 ft33">&nbsp;</SPAN> </TD>
+	<TD class="tr16 td48"><SPAN class="p13 ft33">&nbsp;</SPAN> </TD>
+</TR>
+</TABLE>
+<P class="p156 ft38">b) Den maximala radiofrekvenseffekt som överförs inom det eller de frekvensband där radioutrustningen arbetar.</P>
+<P class="p157 ft37">När det gäller radioutrustning som avses i artikel 3.4 ska bruksanvisningarna omfatta information om de specifikationer som avser radioutrustnings laddningskapacitet och de kompatibla laddningsenheterna, i enlighet med del II i bilaga Ia. När tillverkare tillhandahåller sådan radioutrustning till konsumenter och andra slutanvändare ska informationen inte bara ingå i bruksanvisningarna, den ska också visas på en etikett, i enlighet med del IV i bilaga Ia. Etiketten ska vara tryckt på förpackningen eller fäst på förpackningen som ett klistermärke. Om det inte finns någon förpackning ska klistermärket med etiketten vara fäst på radioutrustningen. När radioutrustningen tillhandahålls konsumenter och andra slutanvändare ska etiketten visas på ett synligt och lättläst sätt och, vid distansförsäljning, nära prisuppgiften. Om radioutrustningens storlek eller beskaffenhet inte medger detta ska en etikett tryckas som ett separat dokument som åtföljer radioutrustningen.</P>
+<P class="p158 ft38">De bruksanvisningar och den säkerhetsinformation som avses i första, andra och tredje styckena i denna punkt ska vara på ett språk som lätt kan förstås av konsumenter och andra slutanvändare, enligt vad som fastställts av den berörda medlemsstaten.</P>
+<P class="p159 ft37">Kommissionen ges befogenhet att anta delegerade akter i enlighet med artikel 44 i syfte att ändra delarna II och IV i bilaga Ia, till följd av ändringar i del I i den bilagan eller som en följd av framtida ändringar i märkningskraven, eller mot bakgrund av tekniska framsteg, genom att införa, ändra, lägga till eller ta bort uppgifter avseende informationen eller grafiska eller skrivna inslag, enligt vad som anges i denna artikel.”</P>
+<P class="p160 ft38"><SPAN class="ft37">4.</SPAN><SPAN class="ft50">I artikel 12.4 ska följande stycke läggas till:</SPAN></P>
+<P class="p161 ft38">”Importörer ska, när de tillhandahåller radioutrustning som avses i artikel 3.4 till konsumenter och andra slutanvändare, säkerställa att</P>
+<P class="p162 ft38"><SPAN class="ft37">a)</SPAN><SPAN class="ft51">denna radioutrustning visar eller är försedd med en etikett i enlighet med artikel 10.8 tredje stycket,</SPAN></P>
+<P class="p134 ft38"><SPAN class="ft37">b)</SPAN><SPAN class="ft51">etiketten visas på ett synligt och lättläst sätt och, vid distansförsäljning, nära prisuppgiften.”</SPAN></P>
+<P class="p133 ft38"><SPAN class="ft37">5.</SPAN><SPAN class="ft50">I artikel 13.2 ska följande stycke läggas till:</SPAN></P>
+<P class="p161 ft38">”Distributörer ska, när de tillhandahåller radioutrustning som avses i artikel 3.4 för konsumenter och andra slutanvändare, säkerställa att</P>
+<P class="p162 ft38"><SPAN class="ft37">a)</SPAN><SPAN class="ft51">denna radioutrustning visar eller är försedd med en etikett i enlighet med artikel 10.8 tredje stycket,</SPAN></P>
+<P class="p134 ft38"><SPAN class="ft37">b)</SPAN><SPAN class="ft51">etiketten visas på ett synligt och lättläst sätt och, vid distansförsäljning, nära prisuppgiften.”</SPAN></P>
+<P class="p163 ft38"><SPAN class="ft37">6.</SPAN><SPAN class="ft50">I artikel 17.2, inledningen, ska orden ”artikel 3.1” ersättas med orden ”artikel 3.1 och 3.4”.</SPAN></P>
+<P class="p133 ft38"><SPAN class="ft37">7.</SPAN><SPAN class="ft50">Artikel 40 ska ändras på följande sätt:</SPAN></P>
+<P class="p134 ft38"><SPAN class="ft37">a)</SPAN><SPAN class="ft51">Rubriken ska ersättas med följande:</SPAN></P>
+<P class="p164 ft38">”Förfarande på nationell nivå för att hantera radioutrustning som utgör en risk eller inte uppfyller de väsentliga kraven”</P>
+<P class="p165 ft38"><SPAN class="ft37">b)</SPAN><SPAN class="ft51">Punkt 1 första stycket ska ersättas med följande:</SPAN></P>
+<P class="p166 ft37">”Om en medlemsstats marknadskontrollmyndigheter har tillräckliga skäl att anta att radioutrustning som omfattas av detta direktiv utgör en risk för människors hälsa eller säkerhet eller andra aspekter av skydd i allmänhetens intresse som omfattas av detta direktiv, eller inte uppfyller minst ett av de tillämpliga väsentliga krav som anges i artikel 3, ska de göra en utvärdering av utrustningen omfattande alla relevanta krav som fastställs i detta direktiv. De berörda ekonomiska aktörerna ska när så krävs samarbeta med marknadskontrollmyndigheterna i det syftet.”</P>
+</DIV>
+<DIV id="id_2">
+<P class="p11 ft2">19</P>
+</DIV>
+</DIV>
+<DIV id="page_21">
+<DIV id="p21dimg1">
+<INGENBILD zsrc="HA0313821x1.jpg/" id="p21img1">
+</DIV>
+
+
+<DIV id="id_1">
+<P class="p11 ft2">Prop. 2022/23:138</P>
+<P class="p87 ft2">Bilaga 1</P>
+<TABLE cellpadding=0 cellspacing=0 class="t11">
+<TR>
+	<TD class="tr12 td36"><SPAN class="p13 ft31">L 315/38</SPAN> </TD>
+	<TD class="tr15 td37"><SPAN class="p17 ft32">SV</SPAN> </TD>
+	<TD class="tr12 td38"><SPAN class="p88 ft31">Europeiska unionens officiella tidning</SPAN> </TD>
+	<TD class="tr12 td39"><SPAN class="p15 ft31">7.12.2022</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr16 td40"><SPAN class="p13 ft33">&nbsp;</SPAN> </TD>
+	<TD class="tr16 td41"><SPAN class="p13 ft33">&nbsp;</SPAN> </TD>
+	<TD class="tr16 td42"><SPAN class="p13 ft33">&nbsp;</SPAN> </TD>
+	<TD class="tr16 td43"><SPAN class="p13 ft33">&nbsp;</SPAN> </TD>
+</TR>
+</TABLE>
+<P class="p167 ft38"><SPAN class="ft37">8.</SPAN><SPAN class="ft50">Artikel 43.1 ska ändras på följande sätt:</SPAN></P>
+<P class="p168 ft38"><SPAN class="ft40">a)</SPAN><SPAN class="ft51">Följande led ska införas efter led f:</SPAN></P>
+<P class="p169 ft38">”fa) Det piktogram som avses i artikel 3a.2 eller den etikett som avses i artikel 10.8 har inte utformats på ett korrekt sätt.</P>
+<P class="p170 ft38">fb) Den etikett som avses i artikel 10.8 åtföljer inte den berörda radioutrustningen.</P>
+<P class="p169 ft38">fc) Det piktogram eller den etikett som inte är fastsatt eller visas i enlighet med artikel 3a.2 respektive artikel 10.8.”</P>
+<P class="p171 ft38"><SPAN class="ft40">b)</SPAN><SPAN class="ft51">Led h ska ersättas med följande:</SPAN></P>
+<P class="p172 ft37">”h) Den information som avses i artikel 10.8, <NOBR>EU-försäkran</NOBR> om överensstämmelse, som avses i artikel 10.9 eller den information om restriktioner för ibruktagandet som avses i artikel 10.10 åtföljer inte radioutrustningen.”</P>
+<P class="p173 ft38"><SPAN class="ft40">c)</SPAN><SPAN class="ft51">Led j ska ersättas med följande:</SPAN></P>
+<P class="p174 ft38">”j) Artikel 3a.1 eller artikel 5 efterlevs inte.”</P>
+<P class="p175 ft38"><SPAN class="ft37">9.</SPAN><SPAN class="ft50">Artikel 44 ska ändras på följande sätt:</SPAN></P>
+<P class="p176 ft38"><SPAN class="ft40">a)</SPAN><SPAN class="ft51">I punkt 2 ska följande mening föras in efter den första meningen:</SPAN></P>
+<P class="p177 ft37">”Den befogenhet att anta delegerade akter som avses i artikel 3.4, artikel 3a.2 andra stycket och artikel 10.8 femte stycket ska ges till kommissionen för en period på fem år från och med 27 december 2022.”</P>
+<P class="p178 ft38"><SPAN class="ft40">b)</SPAN><SPAN class="ft51">I punkt 3 ska första meningen ersättas med följande:</SPAN></P>
+<P class="p179 ft37">”Den delegering av befogenhet som avses i artikel 3.3 andra stycket, artikel 3.4, artikel 3a.2 andra stycket, artikel 4.2, artikel 5.2 samt artikel 10.8 femte stycket får när som helst återkallas av Europaparlamentet eller rådet.”</P>
+<P class="p173 ft38"><SPAN class="ft40">c)</SPAN><SPAN class="ft51">Följande punkt ska införas:</SPAN></P>
+<P class="p180 ft31">”3a. Innan kommissionen antar en delegerad akt ska den samråda med experter som utsetts av varje medlemsstat i enlighet med principerna i det interinstitutionella avtalet av den 13 april 2016 om bättre lagstiftning (*).</P>
+<P class="p181 ft53">_____________</P>
+<P class="p182 ft38"><SPAN class="ft40">(*)</SPAN><SPAN class="ft54">EUT L 123, 12.5.2016, s. 1.”</SPAN></P>
+<P class="p183 ft38"><SPAN class="ft40">d)</SPAN><SPAN class="ft51">Punkt 5 ska ersättas med följande:</SPAN></P>
+<P class="p184 ft37">”5. En delegerad akt som antas enligt artikel 3.3 andra stycket, artikel 3.4, artikel 3a.2 andra stycket, artikel 4.2, artikel 5.2 eller artikel 10.8 femte stycket, ska träda i kraft endast om varken Europaparlamentet eller rådet har gjort invändningar mot den delegerade akten inom en period av två månader från den dag då akten delgavs Europaparlamentet och rådet, eller om både Europaparlamentet och rådet, före utgången av den perioden, har underrättat kommissionen om att de inte kommer att invända. Denna period ska förlängas med två månader på Europaparlamentets eller rådets initiativ.”</P>
+<P class="p185 ft38"><SPAN class="ft37">10.</SPAN><SPAN class="ft51">I artikel 47 ska följande punkt läggas till:</SPAN></P>
+<P class="p186 ft37">”3. Senast den 28 december 2026 ska kommissionen lägga fram en rapport för Europaparlamentet och rådet om effekterna av möjligheten att förvärva radioutrustning utan laddningsenhet och utan kabel, särskilt med avseende på konsumenternas bekvämlighet, minskat miljöavfall, beteendeförändringar och utvecklingen av marknadspraxis. Rapporten ska vid behov åtföljas av ett lagstiftningsförslag om ändring av detta direktiv för att införa obligatoriskt separation av försäljning av laddningsenheter och kablar respektive försäljning av radioutrustning.”</P>
+<P class="p129 ft38"><SPAN class="ft37">11.</SPAN><SPAN class="ft51">Texten i bilagan till detta direktiv ska införas som bilaga Ia.</SPAN></P>
+</DIV>
+<DIV id="id_2">
+<P class="p11 ft2">20</P>
+</DIV>
+</DIV>
+<DIV id="page_22">
+<DIV id="p22dimg1">
+<INGENBILD zsrc="HA0313822x1.jpg/" id="p22img1">
+</DIV>
+
+
+<DIV id="id_1">
+<P class="p103 ft2">Prop. 2022/23:138</P>
+<P class="p104 ft2">Bilaga 1</P>
+<TABLE cellpadding=0 cellspacing=0 class="t13">
+<TR>
+	<TD class="tr12 td36"><SPAN class="p105 ft37">7.12.2022</SPAN> </TD>
+	<TD class="tr15 td37"><SPAN class="p17 ft32">SV</SPAN> </TD>
+	<TD class="tr12 td46"><SPAN class="p106 ft31">Europeiska unionens officiella tidning</SPAN> </TD>
+	<TD class="tr12 td23"><SPAN class="p13 ft37">L 315/39</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr16 td40"><SPAN class="p13 ft33">&nbsp;</SPAN> </TD>
+	<TD class="tr16 td41"><SPAN class="p13 ft33">&nbsp;</SPAN> </TD>
+	<TD class="tr16 td47"><SPAN class="p13 ft33">&nbsp;</SPAN> </TD>
+	<TD class="tr16 td48"><SPAN class="p13 ft33">&nbsp;</SPAN> </TD>
+</TR>
+</TABLE>
+<P class="p187 ft38">Artikel 2</P>
+<P class="p188 ft37"><SPAN class="ft37">1.</SPAN><SPAN class="ft41">Medlemsstaterna ska senast den 28 december 2023 anta och offentliggöra de lagar och andra författningar som är nödvändiga för att följa detta direktiv. De ska genast överlämna texten till dessa bestämmelser till kommissionen.</SPAN></P>
+<P class="p189 ft38">De ska tillämpa dessa bestämmelser från och med den 28 december 2024 för de kategorier eller klasser av radioutrustning som avses i del I punkterna <NOBR><A href="https://1.1�1.12">1.1–1.12</A></NOBR><A href="https://1.1�1.12"> </A>i bilaga Ia, och från och med den 28 april 2026 för de kategorier eller klasser av radioutrustning som avses i del I punkt 1.13 i bilaga Ia.</P>
+<P class="p190 ft37">När en medlemsstat antar dessa bestämmelser ska de innehålla en hänvisning till detta direktiv eller åtföljas av en sådan hänvisning när de offentliggörs. Närmare föreskrifter om hur hänvisningen ska göras ska varje medlemsstat själv utfärda.</P>
+<P class="p191 ft38"><SPAN class="ft37">2.</SPAN><SPAN class="ft55">Medlemsstaterna ska underrätta kommissionen om texten till de centrala bestämmelser i nationell rätt som de antar inom det område som omfattas av detta direktiv.</SPAN></P>
+<P class="p192 ft38">Artikel 3</P>
+<P class="p193 ft38">Detta direktiv träder i kraft den tjugonde dagen efter det att det har offentliggjorts i Europeiska unionens officiella tidning.</P>
+<TABLE cellpadding=0 cellspacing=0 class="t14">
+<TR>
+	<TD class="tr13 td49"><SPAN class="p13 ft43">&nbsp;</SPAN> </TD>
+	<TD colspan=3 class="tr13 td1"><SPAN class="p13 ft38">Artikel 4</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr18 td49"><SPAN class="p13 ft38">Detta direktiv riktar sig till medlemsstaterna.</SPAN> </TD>
+	<TD class="tr18 td50"><SPAN class="p13 ft43">&nbsp;</SPAN> </TD>
+	<TD class="tr18 td51"><SPAN class="p13 ft43">&nbsp;</SPAN> </TD>
+	<TD class="tr18 td52"><SPAN class="p13 ft43">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr19 td49"><SPAN class="p13 ft38">Utfärdat i Strasbourg den 23 november 2022.</SPAN> </TD>
+	<TD class="tr19 td50"><SPAN class="p13 ft43">&nbsp;</SPAN> </TD>
+	<TD class="tr19 td51"><SPAN class="p13 ft43">&nbsp;</SPAN> </TD>
+	<TD class="tr19 td52"><SPAN class="p13 ft43">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr20 td49"><SPAN class="p194 ft56">På Europaparlamentets vägnar</SPAN> </TD>
+	<TD class="tr20 td50"><SPAN class="p13 ft43">&nbsp;</SPAN> </TD>
+	<TD class="tr20 td51"><SPAN class="p13 ft43">&nbsp;</SPAN> </TD>
+	<TD class="tr20 td52"><SPAN class="p195 ft56">På rådets vägnar</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr13 td49"><SPAN class="p194 ft37">R. METSOLA</SPAN> </TD>
+	<TD class="tr13 td50"><SPAN class="p13 ft43">&nbsp;</SPAN> </TD>
+	<TD class="tr13 td51"><SPAN class="p13 ft43">&nbsp;</SPAN> </TD>
+	<TD class="tr13 td52"><SPAN class="p195 ft37">M. BEK</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr13 td49"><SPAN class="p194 ft40">Ordförande</SPAN> </TD>
+	<TD class="tr13 td50"><SPAN class="p13 ft43">&nbsp;</SPAN> </TD>
+	<TD class="tr13 td51"><SPAN class="p13 ft43">&nbsp;</SPAN> </TD>
+	<TD class="tr13 td52"><SPAN class="p195 ft40">Ordförande</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr8 td49"><SPAN class="p13 ft43">&nbsp;</SPAN> </TD>
+	<TD class="tr8 td50"><SPAN class="p13 ft43">&nbsp;</SPAN> </TD>
+	<TD class="tr21 td53"><SPAN class="p13 ft43">&nbsp;</SPAN> </TD>
+	<TD class="tr8 td52"><SPAN class="p13 ft43">&nbsp;</SPAN> </TD>
+</TR>
+</TABLE>
+</DIV>
+<DIV id="id_2">
+<P class="p11 ft2">21</P>
+</DIV>
+</DIV>
+<DIV id="page_23">
+<DIV id="p23dimg1">
+<INGENBILD zsrc="HA0313823x1.jpg/" id="p23img1">
+</DIV>
+
+
+<DIV id="id_1">
+<P class="p11 ft2">Prop. 2022/23:138</P>
+<P class="p87 ft2">Bilaga 1</P>
+<TABLE cellpadding=0 cellspacing=0 class="t11">
+<TR>
+	<TD class="tr12 td36"><SPAN class="p13 ft31">L 315/40</SPAN> </TD>
+	<TD class="tr15 td37"><SPAN class="p17 ft32">SV</SPAN> </TD>
+	<TD class="tr12 td38"><SPAN class="p88 ft31">Europeiska unionens officiella tidning</SPAN> </TD>
+	<TD class="tr12 td39"><SPAN class="p15 ft31">7.12.2022</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr16 td40"><SPAN class="p13 ft33">&nbsp;</SPAN> </TD>
+	<TD class="tr16 td41"><SPAN class="p13 ft33">&nbsp;</SPAN> </TD>
+	<TD class="tr16 td42"><SPAN class="p13 ft33">&nbsp;</SPAN> </TD>
+	<TD class="tr16 td43"><SPAN class="p13 ft33">&nbsp;</SPAN> </TD>
+</TR>
+</TABLE>
+<P class="p196 ft37">BILAGA</P>
+<P class="p197 ft37">”BILAGA Ia</P>
+<P class="p198 ft37">SPECIFIKATIONER OCH INFORMATION AVSEENDE LADDNING FÖR VISSA KATEGORIER ELLER KLASSER AV</P>
+<P class="p199 ft37">RADIOUTRUSTNING</P>
+<P class="p200 ft38">Del I</P>
+<P class="p201 ft35">Specifikationer avseende laddningskapacitet</P>
+<P class="p96 ft38"><SPAN class="ft37">1.</SPAN><SPAN class="ft54">Kraven i punkterna 2 och 3 i denna del ska tillämpas på följande kategorier eller klasser av radioutrustning:</SPAN></P>
+<P class="p202 ft38"><SPAN class="ft37">1.1</SPAN><SPAN class="ft50">Handhållna mobiltelefoner.</SPAN></P>
+<P class="p202 ft38"><SPAN class="ft37">1.2</SPAN><SPAN class="ft50">Datorplattor.</SPAN></P>
+<P class="p202 ft38"><SPAN class="ft37">1.3</SPAN><SPAN class="ft50">Digitalkameror.</SPAN></P>
+<P class="p203 ft38"><SPAN class="ft37">1.4</SPAN><SPAN class="ft50">Hörlurar.</SPAN></P>
+<P class="p202 ft38"><SPAN class="ft37">1.5</SPAN><SPAN class="ft50">Headset.</SPAN></P>
+<P class="p202 ft38"><SPAN class="ft37">1.6</SPAN><SPAN class="ft50">Handhållna videospelskonsoler.</SPAN></P>
+<P class="p202 ft38"><SPAN class="ft37">1.7</SPAN><SPAN class="ft50">Bärbara högtalare.</SPAN></P>
+<P class="p203 ft38"><SPAN class="ft37">1.8</SPAN><SPAN class="ft50">Läsplattor.</SPAN></P>
+<P class="p202 ft38"><SPAN class="ft37">1.9</SPAN><SPAN class="ft50">Tangentbord.</SPAN></P>
+<P class="p202 ft38"><SPAN class="ft37">1.10</SPAN><SPAN class="ft54">Datormöss.</SPAN></P>
+<P class="p203 ft38"><SPAN class="ft37">1.11</SPAN><SPAN class="ft54">Bärbara navigeringssystem.</SPAN></P>
+<P class="p202 ft38"><SPAN class="ft37">1.12</SPAN><SPAN class="ft54">Öronsnäckor.</SPAN></P>
+<P class="p202 ft38"><SPAN class="ft37">1.13</SPAN><SPAN class="ft54">Bärbara datorer.</SPAN></P>
+<P class="p204 ft38"><SPAN class="ft37">2.</SPAN><SPAN class="ft54">De kategorier eller klasser av radioutrustning som avses i punkt 1 i denna del ska, i den mån de kan laddas genom trådbunden laddning,</SPAN></P>
+<P class="p205 ft37"><SPAN class="ft37">2.1</SPAN><SPAN class="ft52">vara utrustade med ett don av USB typ C, enligt beskrivningen i standarden EN IEC </SPAN><NOBR>62680-1-3:2021</NOBR> ’Gränssnitt för seriebuss för datakommunikation (USB) – Del <NOBR>1–3:</NOBR> Gemensamma komponenter – Specifikation för kabel och anslutningsdon USB Typ C®’, som ständigt ska vara tillgängligt och funktionsdugligt,</P>
+<P class="p206 ft38"><SPAN class="ft37">2.2</SPAN><SPAN class="ft51">kunna laddas med kablar som uppfyller standarden EN IEC </SPAN><NOBR>62680-1-3:2021</NOBR> ’Gränssnitt för seriebuss för datakommunikation (USB) – Del <NOBR>1–3:</NOBR> Gemensamma komponenter – Specifikation för kabel och anslutningsdon USB Typ C®’.</P>
+<P class="p207 ft37"><SPAN class="ft37">3.</SPAN><SPAN class="ft57">De kategorier eller klasser av radioutrustning som avses i punkt 1 i denna del ska, i den mån de kan laddas genom trådbunden laddning vid spänning högre än 5 V eller ström högre än 3 A eller effekt högre än 15 W,</SPAN></P>
+<P class="p206 ft38"><SPAN class="ft37">3.1</SPAN><SPAN class="ft51">integrera strömförsörjning via </SPAN><NOBR>USB-port,</NOBR> enligt beskrivningen i standarden EN IEC <NOBR>62680-1-2:2021</NOBR> ’Gränssnitt för seriebuss för datakommunikation (USB) – Del <NOBR>1–2:</NOBR> Gemensamma komponenter – Specifikation för strömförsörjning (USB PD)’,</P>
+<P class="p208 ft38"><SPAN class="ft37">3.2</SPAN><SPAN class="ft51">säkerställa att eventuella ytterligare laddningsprotokoll möjliggör att den strömförsörjning via </SPAN><NOBR>USB-port</NOBR> som avses i punkt 3.1 fungerar fullt ut, oavsett vilken laddningsenhet som används.</P>
+</DIV>
+<DIV id="id_2">
+<P class="p11 ft2">22</P>
+</DIV>
+</DIV>
+<DIV id="page_24">
+<DIV id="p24dimg1">
+<INGENBILD zsrc="HA0313824x1.jpg/" id="p24img1">
+</DIV>
+
+
+<DIV id="id_1">
+<P class="p103 ft2">Prop. 2022/23:138</P>
+<P class="p104 ft2">Bilaga 1</P>
+<TABLE cellpadding=0 cellspacing=0 class="t13">
+<TR>
+	<TD class="tr12 td36"><SPAN class="p105 ft37">7.12.2022</SPAN> </TD>
+	<TD class="tr15 td37"><SPAN class="p17 ft32">SV</SPAN> </TD>
+	<TD class="tr12 td46"><SPAN class="p106 ft31">Europeiska unionens officiella tidning</SPAN> </TD>
+	<TD class="tr12 td23"><SPAN class="p13 ft37">L 315/41</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr16 td40"><SPAN class="p13 ft33">&nbsp;</SPAN> </TD>
+	<TD class="tr16 td41"><SPAN class="p13 ft33">&nbsp;</SPAN> </TD>
+	<TD class="tr16 td47"><SPAN class="p13 ft33">&nbsp;</SPAN> </TD>
+	<TD class="tr16 td48"><SPAN class="p13 ft33">&nbsp;</SPAN> </TD>
+</TR>
+</TABLE>
+<P class="p209 ft38">Del II</P>
+<P class="p210 ft35">Information om specifikationer avseende laddningskapacitet och kompatibla laddningsenheter</P>
+<P class="p211 ft37">När det gäller radioutrustning som omfattas av artikel 3.4 första stycket ska följande information anges i enlighet med kraven i artikel 10.8, och får dessutom göras tillgänglig med hjälp av <NOBR>QR-koder</NOBR> eller liknande elektroniska lösningar:</P>
+<P class="p212 ft37"><SPAN class="ft40">a)</SPAN><SPAN class="ft52">För alla kategorier eller klasser av radioutrustning som omfattas av de krav som anges i del I, en beskrivning av effektkraven för de trådlösa laddningsenheter som kan användas tillsammans med radioutrustningen, inklusive den minsta effekt som krävs för att ladda radioutrustningen och den maximala effekt som krävs för att ladda radioutrustningen i högsta laddningshastighet uttryckt i watt genom att visa texten ’Den effekt som levereras av laddaren måste ligga mellan minst [xx] watt och maximalt [xx] watt, vilket krävs för att ladda radioutrustningen i högsta laddningshastighet’. Antalet watt ska uttrycka den minimala effekt som radioutrustningen kräver respektive den maximala effekt som krävs för att radioutrustningen ska uppnå högsta laddningshastighet.</SPAN></P>
+<P class="p213 ft31"><SPAN class="ft40">b)</SPAN><SPAN class="ft58">När det gäller radioutrustning som omfattas av de krav som fastställs i punkt 3 i del I ska en beskrivning av specifika­ tionerna avseende radioutrustningens laddningskapacitet, i den mån den kan laddas genom trådbunden laddning vid spänning högre än 5 V eller ström högre än 3 A eller effekt högre än 15 W, inklusive en angivelse om att radioutrustningen stöder laddningsprotokollet för strömförsörjning via </SPAN><NOBR>USB-port</NOBR> genom att visa texten ’USB <NOBR>PD-snabbladdning’</NOBR> och en angivelse av eventuella andra laddningsprotokoll som stöds genom att deras namn visas i textformat.</P>
+<P class="p214 ft38">Del III</P>
+<P class="p215 ft35">Piktogram som visar huruvida en laddningsenhet ingår i radioutrustningen</P>
+<P class="p216 ft38"><SPAN class="ft37">1.</SPAN><SPAN class="ft51">Piktogrammet ska ha följande format:</SPAN></P>
+<P class="p217 ft38">1.1 Om en laddningsenhet ingår i radioutrustningen:</P>
+</DIV>
+<DIV id="id_2">
+<P class="p11 ft2">23</P>
+</DIV>
+</DIV>
+<DIV id="page_25">
+<DIV id="p25dimg1">
+<INGENBILD zsrc="HA0313825x1.jpg/" id="p25img1">
+</DIV>
+
+
+<DIV id="id_1">
+<P class="p11 ft2">Prop. 2022/23:138</P>
+<P class="p87 ft2">Bilaga 1</P>
+<TABLE cellpadding=0 cellspacing=0 class="t11">
+<TR>
+	<TD class="tr12 td36"><SPAN class="p13 ft31">L 315/42</SPAN> </TD>
+	<TD class="tr15 td37"><SPAN class="p17 ft32">SV</SPAN> </TD>
+	<TD class="tr12 td38"><SPAN class="p88 ft31">Europeiska unionens officiella tidning</SPAN> </TD>
+	<TD class="tr12 td39"><SPAN class="p15 ft31">7.12.2022</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr16 td40"><SPAN class="p13 ft33">&nbsp;</SPAN> </TD>
+	<TD class="tr16 td41"><SPAN class="p13 ft33">&nbsp;</SPAN> </TD>
+	<TD class="tr16 td42"><SPAN class="p13 ft33">&nbsp;</SPAN> </TD>
+	<TD class="tr16 td43"><SPAN class="p13 ft33">&nbsp;</SPAN> </TD>
+</TR>
+</TABLE>
+<P class="p218 ft38">1.2 Om en laddningsenhet inte ingår i radioutrustningen:</P>
+<P class="p219 ft37"><SPAN class="ft37">2.</SPAN><SPAN class="ft57">Piktogrammet får utformas på olika sätt (t.ex. när det gäller färg, fylld bild eller kontur, tjocklek på linjerna), förutsatt att det förblir synligt och läsbart. Om piktogrammet förminskas eller förstoras ska proportionerna i modellerna i punkt 1 i denna del behållas. Måttet ’a’ som anges i punkt 1 i denna del ska vara större än eller lika med 7 mm, oavsett variationen.</SPAN></P>
+<P class="p220 ft38">Del IV</P>
+<P class="p221 ft35">Etikettens innehåll och format</P>
+<P class="p152 ft38">1. Etiketten ska ha följande format:</P>
+</DIV>
+<DIV id="id_2">
+<P class="p11 ft2">24</P>
+</DIV>
+</DIV>
+<DIV id="page_26">
+<DIV id="p26dimg1">
+<INGENBILD zsrc="HA0313826x1.jpg/" id="p26img1">
+</DIV>
+
+
+<DIV id="id_1">
+<P class="p103 ft2">Prop. 2022/23:138</P>
+<P class="p104 ft2">Bilaga 1</P>
+<TABLE cellpadding=0 cellspacing=0 class="t13">
+<TR>
+	<TD class="tr12 td36"><SPAN class="p105 ft37">7.12.2022</SPAN> </TD>
+	<TD class="tr15 td37"><SPAN class="p17 ft32">SV</SPAN> </TD>
+	<TD class="tr12 td46"><SPAN class="p106 ft31">Europeiska unionens officiella tidning</SPAN> </TD>
+	<TD class="tr12 td23"><SPAN class="p13 ft37">L 315/43</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr16 td40"><SPAN class="p13 ft33">&nbsp;</SPAN> </TD>
+	<TD class="tr16 td41"><SPAN class="p13 ft33">&nbsp;</SPAN> </TD>
+	<TD class="tr16 td47"><SPAN class="p13 ft33">&nbsp;</SPAN> </TD>
+	<TD class="tr16 td48"><SPAN class="p13 ft33">&nbsp;</SPAN> </TD>
+</TR>
+</TABLE>
+<P class="p222 ft37"><SPAN class="ft37">2.</SPAN><SPAN class="ft52">Bokstäverna ’XX’ ska ersättas med den siffra som motsvarar den minsta effekt som krävs för att ladda radioutrustningen, vilket fastställer den minsta effekt som en laddningsenhet måste tillhandahålla för att ladda radioutrustningen. Bokstäverna ’YY’ ska ersättas med den siffra som motsvarar den maximala effekt som krävs för att radioutrustningen ska uppnå högsta laddningshastighet, vilket fastställer den effekt som en laddningsenhet åtminstone måste tillhandahålla för att uppnå högsta laddningshastighet. Förkortningen ’USB PD’ (USB Power Delivery) ska anges om radioutrustningen stöder detta kommunikationsprotokoll för laddning. ’USB PD’ är ett protokoll som åstadkommer den snabbaste överföringen av ström från laddningsenheten till radioutrustningen utan att batteriets livslängd förkortas.</SPAN></P>
+<P class="p223 ft37"><SPAN class="ft37">3.</SPAN><SPAN class="ft52">Etiketten får utformas på olika sätt (t.ex. när det gäller färg, fylld bild eller kontur, tjocklek på linjerna), förutsatt att den förblir synlig och läsbar. Om etiketten förminskas eller förstoras ska proportionerna i modellen i punkt 1 i denna del behållas. Måttet ’a’ som anges i punkt 1 i denna del ska vara större än eller lika med 7 mm, oavsett variationen.”</SPAN></P>
+</DIV>
+<DIV id="id_2">
+<P class="p11 ft2">25</P>
+</DIV>
+</DIV>
+<DIV id="page_27">
+
+
+<DIV id="id_1">
+<DIV id="id_1_1">
+<P class="p11 ft2">Prop. 2022/23:138 Bilaga 2</P>
+</DIV>
+<DIV id="id_1_2">
+<P class="p224 ft1">Sammanfattning av promemorian En gemensam laddningsstandard för viss radioutrustning</P>
+<P class="p225 ft2">I promemorian lämnas förslag till de ändringar i radioutrustningslagen (2016:392) och radioutrustningsförordningen (2016:394) som krävs för att genomföra Europaparlamentets och rådets direktiv (EU) 2022/2380 av den 23 november 2022 om ändring av direktiv 2014/53/EU om harmonisering av medlemsstaternas lagstiftning om tillhandahållande på marknaden av radioutrustning.</P>
+<P class="p226 ft2">Ändringsdirektivet innebär i huvudsak att det införs en gemensam laddningsstandard för bl.a. mobiltelefoner, läsplattor och hörlurar. Det införs också en skyldighet för en ekonomisk aktör som erbjuder konsumenter och andra slutanvändare att förvärva sådan radioutrustning tillsammans med en laddningsenhet, att även erbjuda en möjlighet att förvärva utrustningen utan en laddningsenhet. Vidare införs en skyldighet att informera om det ingår en laddningsenhet tillsammans med radioutrustningen samt om laddningsenhetens laddningskapacitet.</P>
+<P class="p227 ft2">I promemorian görs bedömningen att merparten av ändringarna i radioutrustningsdirektivets bestämmelser kan genomföras i föreskrifter utfärdade med stöd av befintliga bemyndiganden i radioutrustningslagen och radioutrustningsförordningen. När det gäller skyldigheten för ekonomiska aktörer att tillhandahålla radioutrustning med och utan en laddningsenhet till konsumenter och andra slutanvändare vid förvärv av radioutrustning behöver det göras ett tillägg i bemyndigandet i både radioutrustningslagen och radioutrustningsförordningen.</P>
+<P class="p228 ft2">Ändringarna föreslås träda i kraft den 28 december 2023.</P>
+</DIV>
+</DIV>
+<DIV id="id_2">
+<P class="p11 ft2">26</P>
+</DIV>
+</DIV>
+<DIV id="page_28">
+
+
+<DIV id="id_1">
+<DIV id="id_1_1">
+<P class="p11 ft1">Promemorians lagförslag</P>
+</DIV>
+<DIV id="id_1_2">
+<P class="p11 ft2">Prop. 2022/23:138 Bilaga 3</P>
+</DIV>
+</DIV>
+<DIV id="id_2">
+<P class="p229 ft17">Förslag till lag om ändring i radioutrustningslagen (2016:392)</P>
+<P class="p230 ft2">Härigenom föreskrivs att 7 § radioutrustningslagen (2016:392) ska ha följande lydelse.</P>
+<TABLE cellpadding=0 cellspacing=0 class="t15">
+<TR>
+	<TD class="tr5 td54"><SPAN class="p13 ft3">Nuvarande lydelse</SPAN> </TD>
+	<TD class="tr5 td17"><SPAN class="p13 ft9">Föreslagen lydelse</SPAN> </TD>
+</TR>
+</TABLE>
+<P class="p231 ft2">7 §</P>
+<P class="p232 ft2">Regeringen eller den myndighet som regeringen bestämmer får meddela föreskrifter om skyldigheter för ekonomiska aktörer i fråga om radioutrustning, när det gäller</P>
+<P class="p78 ft2"><SPAN class="ft2">1.</SPAN><SPAN class="ft59">registrering av utrustning,</SPAN></P>
+<P class="p78 ft2"><SPAN class="ft2">2.</SPAN><SPAN class="ft59">teknisk dokumentation,</SPAN></P>
+<P class="p79 ft2"><SPAN class="ft2">3.</SPAN><SPAN class="ft59">bedömning av överensstämmelse,</SPAN></P>
+<P class="p79 ft2"><SPAN class="ft2">4.</SPAN><NOBR><SPAN class="ft59">EU-försäkran</SPAN></NOBR> om överensstämmelse,</P>
+<P class="p78 ft2"><SPAN class="ft2">5.</SPAN><SPAN class="ft59">märkning av utrustning,</SPAN></P>
+<TABLE cellpadding=0 cellspacing=0 class="t16">
+<TR>
+	<TD colspan=3 class="tr4 td55"><SPAN class="p28 ft2">6. skadeförebyggande</SPAN> </TD>
+	<TD class="tr4 td56"><SPAN class="p29 ft2">arbete,</SPAN> </TD>
+	<TD colspan=2 class="tr4 td57"><SPAN class="p28 ft2">6. skadeförebyggande arbete,</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr4 td58"><SPAN class="p13 ft3">och</SPAN> </TD>
+	<TD class="tr4 td9"><SPAN class="p13 ft5">&nbsp;</SPAN> </TD>
+	<TD class="tr4 td59"><SPAN class="p13 ft5">&nbsp;</SPAN> </TD>
+	<TD class="tr4 td56"><SPAN class="p13 ft5">&nbsp;</SPAN> </TD>
+	<TD class="tr4 td60"><SPAN class="p13 ft5">&nbsp;</SPAN> </TD>
+	<TD class="tr4 td59"><SPAN class="p13 ft5">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=3 class="tr4 td55"><SPAN class="p28 ft2">7. tillhandahållande av</SPAN> </TD>
+	<TD class="tr4 td56"><SPAN class="p29 ft2">bruks-</SPAN> </TD>
+	<TD class="tr4 td60"><SPAN class="p28 ft2">7. tillhandahållande av</SPAN> </TD>
+	<TD class="tr4 td59"><SPAN class="p15 ft2">bruk-</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr5 td58"><SPAN class="p13 ft2">anvisningar,</SPAN> </TD>
+	<TD colspan=3 class="tr5 td61"><SPAN class="p29 ft2">säkerhetsinformation</SPAN> </TD>
+	<TD colspan=2 class="tr5 td57"><SPAN class="p13 ft2">sanvisningar, säkerhetsinformation</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr4 td58"><SPAN class="p13 ft2">och annan</SPAN> </TD>
+	<TD colspan=3 class="tr4 td61"><SPAN class="p29 ft2">dokumentation eller</SPAN> </TD>
+	<TD class="tr4 td60"><SPAN class="p13 ft2">och annan dokumentation</SPAN> </TD>
+	<TD class="tr4 td59"><SPAN class="p15 ft2">eller</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr4 td58"><SPAN class="p13 ft2">information<SPAN class="ft3">.</SPAN></SPAN> </TD>
+	<TD class="tr4 td9"><SPAN class="p13 ft5">&nbsp;</SPAN> </TD>
+	<TD class="tr4 td59"><SPAN class="p13 ft5">&nbsp;</SPAN> </TD>
+	<TD class="tr4 td56"><SPAN class="p13 ft5">&nbsp;</SPAN> </TD>
+	<TD class="tr4 td60"><SPAN class="p13 ft2">information<SPAN class="ft3">, och</SPAN></SPAN> </TD>
+	<TD class="tr4 td59"><SPAN class="p13 ft5">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr5 td58"><SPAN class="p13 ft5">&nbsp;</SPAN> </TD>
+	<TD class="tr5 td9"><SPAN class="p13 ft5">&nbsp;</SPAN> </TD>
+	<TD class="tr5 td59"><SPAN class="p13 ft5">&nbsp;</SPAN> </TD>
+	<TD class="tr5 td56"><SPAN class="p13 ft5">&nbsp;</SPAN> </TD>
+	<TD class="tr5 td60"><SPAN class="p28 ft3">8. förvärv av utrustning.</SPAN> </TD>
+	<TD class="tr5 td59"><SPAN class="p13 ft5">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr11 td62"><SPAN class="p13 ft60">&nbsp;</SPAN> </TD>
+	<TD class="tr11 td63"><SPAN class="p13 ft60">&nbsp;</SPAN> </TD>
+	<TD class="tr4 td59"><SPAN class="p13 ft5">&nbsp;</SPAN> </TD>
+	<TD class="tr4 td56"><SPAN class="p13 ft5">&nbsp;</SPAN> </TD>
+	<TD class="tr4 td60"><SPAN class="p13 ft5">&nbsp;</SPAN> </TD>
+	<TD class="tr4 td59"><SPAN class="p13 ft5">&nbsp;</SPAN> </TD>
+</TR>
+</TABLE>
+<P class="p233 ft2">Denna lag träder i kraft den 28 december 2023.</P>
+<P class="p234 ft2">27</P>
+</DIV>
+</DIV>
+<DIV id="page_29">
+
+
+<TABLE cellpadding=0 cellspacing=0 class="t17">
+<TR>
+	<TD class="tr1 td64"><SPAN class="p13 ft2">Prop. 2022/23:138</SPAN> </TD>
+	<TD class="tr1 td65"><SPAN class="p13 ft1">Förteckning över remissinstanserna</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr4 td64"><SPAN class="p13 ft2">Bilaga 4</SPAN> </TD>
+	<TD class="tr4 td65"><SPAN class="p13 ft5">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr14 td64"><SPAN class="p13 ft5">&nbsp;</SPAN> </TD>
+	<TD class="tr14 td65"><SPAN class="p13 ft2">Efter remiss har yttrande kommit in från Allmänna reklamationsnämnden,</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr5 td64"><SPAN class="p13 ft5">&nbsp;</SPAN> </TD>
+	<TD class="tr5 td65"><SPAN class="p13 ft2">Elsäkerhetsverket, Försvarets Materielverk, Försvarsmakten, Förvalt-</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr4 td64"><SPAN class="p13 ft5">&nbsp;</SPAN> </TD>
+	<TD class="tr4 td65"><SPAN class="p13 ft2">ningsrätten i Stockholm, Inspektionen för strategiska produkter,</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr5 td64"><SPAN class="p13 ft5">&nbsp;</SPAN> </TD>
+	<TD class="tr5 td65"><SPAN class="p13 ft2">Integritetsskyddsmyndigheten, Konkurrensverket, Kommerskollegium,</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr4 td64"><SPAN class="p13 ft5">&nbsp;</SPAN> </TD>
+	<TD class="tr4 td65"><SPAN class="p13 ft2">Konsumentverket, Myndigheten för digital förvaltning, Myndigheten för</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr4 td64"><SPAN class="p13 ft5">&nbsp;</SPAN> </TD>
+	<TD class="tr4 td65"><SPAN class="p13 ft2">samhällsskydd och beredskap, Patent- och registreringsverket, Post- och</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr4 td64"><SPAN class="p13 ft5">&nbsp;</SPAN> </TD>
+	<TD class="tr4 td65"><SPAN class="p13 ft2">telestyrelsen, Regelrådet, Statens Energimyndighet, Svensk handel,</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr5 td64"><SPAN class="p13 ft5">&nbsp;</SPAN> </TD>
+	<TD class="tr5 td65"><SPAN class="p13 ft2">Svenska institutet för standarder, Swedac, Tullverket och Verket för</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr4 td64"><SPAN class="p13 ft5">&nbsp;</SPAN> </TD>
+	<TD class="tr4 td65"><SPAN class="p13 ft2">innovationssystem.</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr5 td64"><SPAN class="p13 ft5">&nbsp;</SPAN> </TD>
+	<TD class="tr5 td65"><SPAN class="p28 ft11">Följande remissinstanser har inte svarat eller angett att de avstår från att</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr4 td64"><SPAN class="p13 ft5">&nbsp;</SPAN> </TD>
+	<TD class="tr4 td65"><SPAN class="p13 ft2">yttra sig: AB Electrolux, AB LM Ericsson, ABB Electrification Sweden</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr4 td64"><SPAN class="p13 ft5">&nbsp;</SPAN> </TD>
+	<TD class="tr4 td65"><SPAN class="p13 ft2">AB, Affärsverket svenska kraftnät, Atlas Copco AB, Business Sweden,</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr4 td64"><SPAN class="p13 ft5">&nbsp;</SPAN> </TD>
+	<TD class="tr4 td65"><SPAN class="p13 ft2">Chalmers tekniska högskola, Civic Tech Sweden, Combient AB,</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr5 td64"><SPAN class="p13 ft5">&nbsp;</SPAN> </TD>
+	<TD class="tr5 td65"><SPAN class="p13 ft2">Combitech AB, Dataföreningen, Elektronikbranchen, Energiföretagen,</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr4 td64"><SPAN class="p13 ft5">&nbsp;</SPAN> </TD>
+	<TD class="tr4 td65"><SPAN class="p13 ft2">Svensk Elektronik, Svensk Elstandard, Företagarna, Innovations-</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr5 td64"><SPAN class="p13 ft5">&nbsp;</SPAN> </TD>
+	<TD class="tr5 td65"><SPAN class="p13 ft2">företagen, Internationella Handelskammaren, Internetstiftelsen, IoT</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr4 td64"><SPAN class="p13 ft5">&nbsp;</SPAN> </TD>
+	<TD class="tr4 td65"><SPAN class="p13 ft2">Sverige, Kungliga Ingenjörsvetenskapsakademin, Kungliga Tekniska</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr4 td64"><SPAN class="p13 ft5">&nbsp;</SPAN> </TD>
+	<TD class="tr4 td65"><SPAN class="p13 ft2">högskolan, Lindholmen Science Park AB, Luleå tekniska universitet,</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr4 td64"><SPAN class="p13 ft5">&nbsp;</SPAN> </TD>
+	<TD class="tr4 td65"><SPAN class="p13 ft2">Lunds tekniska högskola, Näringslivets Regelnämnd, Power Circle AB,</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr5 td64"><SPAN class="p13 ft5">&nbsp;</SPAN> </TD>
+	<TD class="tr5 td65"><SPAN class="p13 ft2">Research Institutes of Sweden AB RISE, Svenska föreningen för IT och</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr4 td64"><SPAN class="p13 ft5">&nbsp;</SPAN> </TD>
+	<TD class="tr4 td65"><SPAN class="p13 ft2">juridik, Svenska informations- och telekommunikationsstandardiseringen</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr5 td64"><SPAN class="p13 ft5">&nbsp;</SPAN> </TD>
+	<TD class="tr5 td65"><SPAN class="p13 ft2">(ITS), Svenskt näringsliv, Sveriges Konsumenter, Swedsoft, Swedish</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr4 td64"><SPAN class="p13 ft5">&nbsp;</SPAN> </TD>
+	<TD class="tr4 td65"><SPAN class="p13 ft2">Medtech, Tech alliansen, TechSverige och Teknikföretagen.</SPAN> </TD>
+</TR>
+</TABLE>
+<P class="p235 ft2">28</P>
+</DIV>
+<DIV id="page_30">
+
+
+<TABLE cellpadding=0 cellspacing=0 class="t9">
+<TR>
+	<TD class="tr18 td66"></TD>
+	<TD rowspan=2 class="tr0 td35"><SPAN class="p13 ft1">Lagrådsremissens lagförslag</SPAN> </TD>
+	<TD class="tr18 td13"><SPAN class="p13 ft2">Prop. 2022/23:138</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr9 td66"></TD>
+	<TD rowspan=2 class="tr4 td13"><SPAN class="p13 ft2">Bilaga 5</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr22 td66"></TD>
+	<TD class="tr22 td35"><SPAN class="p13 ft61">&nbsp;</SPAN> </TD>
+</TR>
+</TABLE>
+<P class="p236 ft17">Förslag till lag om ändring i radioutrustningslagen (2016:392)</P>
+<P class="p230 ft2">Härigenom föreskrivs att 7 § radioutrustningslagen (2016:392) ska ha följande lydelse.</P>
+<TABLE cellpadding=0 cellspacing=0 class="t15">
+<TR>
+	<TD class="tr5 td54"><SPAN class="p13 ft3">Nuvarande lydelse</SPAN> </TD>
+	<TD class="tr5 td17"><SPAN class="p13 ft9">Föreslagen lydelse</SPAN> </TD>
+</TR>
+</TABLE>
+<P class="p231 ft2">7 §</P>
+<P class="p232 ft2">Regeringen eller den myndighet som regeringen bestämmer får meddela föreskrifter om skyldigheter för ekonomiska aktörer i fråga om radioutrustning, när det gäller</P>
+<P class="p78 ft2"><SPAN class="ft2">1.</SPAN><SPAN class="ft59">registrering av utrustning,</SPAN></P>
+<P class="p78 ft2"><SPAN class="ft2">2.</SPAN><SPAN class="ft59">teknisk dokumentation,</SPAN></P>
+<P class="p79 ft2"><SPAN class="ft2">3.</SPAN><SPAN class="ft59">bedömning av överensstämmelse,</SPAN></P>
+<P class="p79 ft2"><SPAN class="ft2">4.</SPAN><NOBR><SPAN class="ft59">EU-försäkran</SPAN></NOBR> om överensstämmelse,</P>
+<P class="p78 ft2"><SPAN class="ft2">5.</SPAN><SPAN class="ft59">märkning av utrustning,</SPAN></P>
+<TABLE cellpadding=0 cellspacing=0 class="t16">
+<TR>
+	<TD colspan=3 class="tr4 td55"><SPAN class="p28 ft2">6. skadeförebyggande</SPAN> </TD>
+	<TD class="tr4 td56"><SPAN class="p29 ft2">arbete,</SPAN> </TD>
+	<TD colspan=3 class="tr4 td57"><SPAN class="p28 ft2">6. skadeförebyggande arbete,</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr4 td58"><SPAN class="p13 ft3">och</SPAN> </TD>
+	<TD class="tr4 td9"><SPAN class="p13 ft5">&nbsp;</SPAN> </TD>
+	<TD class="tr4 td59"><SPAN class="p13 ft5">&nbsp;</SPAN> </TD>
+	<TD class="tr4 td56"><SPAN class="p13 ft5">&nbsp;</SPAN> </TD>
+	<TD class="tr4 td67"><SPAN class="p13 ft5">&nbsp;</SPAN> </TD>
+	<TD class="tr4 td68"><SPAN class="p13 ft5">&nbsp;</SPAN> </TD>
+	<TD class="tr4 td23"><SPAN class="p13 ft5">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=3 class="tr4 td55"><SPAN class="p28 ft2">7. tillhandahållande av</SPAN> </TD>
+	<TD class="tr4 td56"><SPAN class="p29 ft2">bruks-</SPAN> </TD>
+	<TD colspan=2 class="tr4 td69"><SPAN class="p28 ft2">7. tillhandahållande av</SPAN> </TD>
+	<TD class="tr4 td23"><SPAN class="p15 ft2">bruks-</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr5 td58"><SPAN class="p13 ft2">anvisningar,</SPAN> </TD>
+	<TD colspan=3 class="tr5 td61"><SPAN class="p29 ft2">säkerhetsinformation</SPAN> </TD>
+	<TD class="tr5 td67"><SPAN class="p13 ft2">anvisningar,</SPAN> </TD>
+	<TD colspan=2 class="tr5 td64"><SPAN class="p15 ft2">säkerhetsinformation</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr4 td58"><SPAN class="p13 ft2">och annan</SPAN> </TD>
+	<TD colspan=3 class="tr4 td61"><SPAN class="p29 ft2">dokumentation eller</SPAN> </TD>
+	<TD class="tr4 td67"><SPAN class="p13 ft2">och annan</SPAN> </TD>
+	<TD class="tr4 td68"><SPAN class="p13 ft2">dokumentation</SPAN> </TD>
+	<TD class="tr4 td23"><SPAN class="p15 ft2">eller</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr4 td58"><SPAN class="p13 ft2">information<SPAN class="ft3">.</SPAN></SPAN> </TD>
+	<TD class="tr4 td9"><SPAN class="p13 ft5">&nbsp;</SPAN> </TD>
+	<TD class="tr4 td59"><SPAN class="p13 ft5">&nbsp;</SPAN> </TD>
+	<TD class="tr4 td56"><SPAN class="p13 ft5">&nbsp;</SPAN> </TD>
+	<TD colspan=2 class="tr4 td69"><SPAN class="p13 ft2">information<SPAN class="ft3">, och</SPAN></SPAN> </TD>
+	<TD class="tr4 td23"><SPAN class="p13 ft5">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr5 td58"><SPAN class="p13 ft5">&nbsp;</SPAN> </TD>
+	<TD class="tr5 td9"><SPAN class="p13 ft5">&nbsp;</SPAN> </TD>
+	<TD class="tr5 td59"><SPAN class="p13 ft5">&nbsp;</SPAN> </TD>
+	<TD class="tr5 td56"><SPAN class="p13 ft5">&nbsp;</SPAN> </TD>
+	<TD colspan=2 class="tr5 td69"><SPAN class="p28 ft3">8. förvärv av utrustning.</SPAN> </TD>
+	<TD class="tr5 td23"><SPAN class="p13 ft5">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr11 td62"><SPAN class="p13 ft60">&nbsp;</SPAN> </TD>
+	<TD class="tr11 td63"><SPAN class="p13 ft60">&nbsp;</SPAN> </TD>
+	<TD class="tr4 td59"><SPAN class="p13 ft5">&nbsp;</SPAN> </TD>
+	<TD class="tr4 td56"><SPAN class="p13 ft5">&nbsp;</SPAN> </TD>
+	<TD class="tr4 td67"><SPAN class="p13 ft5">&nbsp;</SPAN> </TD>
+	<TD class="tr4 td68"><SPAN class="p13 ft5">&nbsp;</SPAN> </TD>
+	<TD class="tr4 td23"><SPAN class="p13 ft5">&nbsp;</SPAN> </TD>
+</TR>
+</TABLE>
+<P class="p233 ft2">Denna lag träder i kraft den 28 december 2023.</P>
+<P class="p234 ft2">29</P>
+</DIV>
+<DIV id="page_31">
+
+
+<TABLE cellpadding=0 cellspacing=0 class="t18">
+<TR>
+	<TD class="tr1 td70"><SPAN class="p17 ft2">Prop. 2022/23:138</SPAN> </TD>
+	<TD class="tr1 td71"><SPAN class="p237 ft1">Lagrådets yttrande</SPAN> </TD>
+	<TD class="tr1 td72"><SPAN class="p13 ft5">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr4 td70"><SPAN class="p17 ft2">Bilaga 6</SPAN> </TD>
+	<TD class="tr4 td71"><SPAN class="p13 ft5">&nbsp;</SPAN> </TD>
+	<TD class="tr4 td72"><SPAN class="p13 ft5">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr23 td70"><SPAN class="p13 ft5">&nbsp;</SPAN> </TD>
+	<TD colspan=2 class="tr23 td73"><SPAN class="p237 ft2">Utdrag ur protokoll vid sammanträde <NOBR>2023-06-21</NOBR></SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr24 td70"><SPAN class="p13 ft5">&nbsp;</SPAN> </TD>
+	<TD class="tr24 td71"><SPAN class="p237 ft2"><SPAN class="ft20">Närvarande: </SPAN>Justitierådet Mahmut</SPAN> </TD>
+	<TD class="tr24 td72"><SPAN class="p13 ft2">Baran, f.d. justitierådet Mari</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr4 td70"><SPAN class="p13 ft5">&nbsp;</SPAN> </TD>
+	<TD colspan=2 class="tr4 td73"><SPAN class="p237 ft2">Andersson och justitierådet Stefan Reimer</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr25 td70"><SPAN class="p13 ft5">&nbsp;</SPAN> </TD>
+	<TD colspan=2 class="tr25 td73"><SPAN class="p237 ft20">En gemensam laddningsstandard för viss radioutrustning</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr24 td70"><SPAN class="p13 ft5">&nbsp;</SPAN> </TD>
+	<TD colspan=2 class="tr24 td73"><SPAN class="p237 ft2">Enligt en lagrådsremiss den 8 juni 2023 har regeringen</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr5 td70"><SPAN class="p13 ft5">&nbsp;</SPAN> </TD>
+	<TD colspan=2 class="tr5 td73"><SPAN class="p237 ft2">(Finansdepartementet) beslutat inhämta Lagrådets yttrande över förslag</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr4 td70"><SPAN class="p13 ft5">&nbsp;</SPAN> </TD>
+	<TD colspan=2 class="tr4 td73"><SPAN class="p237 ft2">till lag om ändring i radioutrustningslagen (2016:392).</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr25 td70"><SPAN class="p13 ft5">&nbsp;</SPAN> </TD>
+	<TD colspan=2 class="tr25 td73"><SPAN class="p237 ft2">Förslaget har inför Lagrådet föredragits av rättssakkunnige Eric Enlund</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr5 td70"><SPAN class="p13 ft5">&nbsp;</SPAN> </TD>
+	<TD class="tr5 td71"><SPAN class="p237 ft2">Andersson.</SPAN> </TD>
+	<TD class="tr5 td72"><SPAN class="p13 ft5">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr24 td70"><SPAN class="p13 ft5">&nbsp;</SPAN> </TD>
+	<TD class="tr24 td71"><SPAN class="p237 ft2">Förslaget föranleder följande yttrande.</SPAN> </TD>
+	<TD class="tr24 td72"><SPAN class="p13 ft5">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr25 td70"><SPAN class="p13 ft5">&nbsp;</SPAN> </TD>
+	<TD class="tr25 td71"><SPAN class="p237 ft2">7 §</SPAN> </TD>
+	<TD class="tr25 td72"><SPAN class="p13 ft5">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr4 td70"><SPAN class="p13 ft5">&nbsp;</SPAN> </TD>
+	<TD colspan=2 class="tr4 td73"><SPAN class="p237 ft2">I lagrådsremissen föreslås att regeringen eller den myndighet som</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr5 td70"><SPAN class="p13 ft5">&nbsp;</SPAN> </TD>
+	<TD colspan=2 class="tr5 td73"><SPAN class="p237 ft2">regeringen bestämmer ska få meddela föreskrifter om skyldigheter för</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr4 td70"><SPAN class="p13 ft5">&nbsp;</SPAN> </TD>
+	<TD colspan=2 class="tr4 td73"><SPAN class="p237 ft2">ekonomiska aktörer i fråga om förvärv av radioutrustning. Det föreslagna</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr5 td70"><SPAN class="p13 ft5">&nbsp;</SPAN> </TD>
+	<TD colspan=2 class="tr5 td73"><SPAN class="p237 ft2">bemyndigandet är föranlett av Europaparlamentets och rådets direktiv</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr4 td70"><SPAN class="p13 ft5">&nbsp;</SPAN> </TD>
+	<TD colspan=2 class="tr4 td73"><SPAN class="p237 ft2">(EU) 2022/2380 om ändring av direktiv 2014/53/EU om harmonisering av</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr4 td70"><SPAN class="p13 ft5">&nbsp;</SPAN> </TD>
+	<TD colspan=2 class="tr4 td73"><SPAN class="p237 ft2">medlemsstaternas lagstiftning om tillhandahållande på marknaden av</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr4 td70"><SPAN class="p13 ft5">&nbsp;</SPAN> </TD>
+	<TD colspan=2 class="tr4 td73"><SPAN class="p237 ft2">radioutrustning (ändringsdirektivet). Enligt ändringsdirektivet ska en</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr5 td70"><SPAN class="p13 ft5">&nbsp;</SPAN> </TD>
+	<TD colspan=2 class="tr5 td73"><SPAN class="p237 ft2">ekonomisk aktör som erbjuder konsumenter och andra slutanvändare att</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr4 td70"><SPAN class="p13 ft5">&nbsp;</SPAN> </TD>
+	<TD colspan=2 class="tr4 td73"><SPAN class="p237 ft2">förvärva viss radioutrustning, t.ex. en telefon, tillsammans med en</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr5 td70"><SPAN class="p13 ft5">&nbsp;</SPAN> </TD>
+	<TD colspan=2 class="tr5 td73"><SPAN class="p237 ft11">laddningsenhet, även erbjuda konsumenterna och de andra slutanvändarna</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr4 td70"><SPAN class="p13 ft5">&nbsp;</SPAN> </TD>
+	<TD colspan=2 class="tr4 td73"><SPAN class="p237 ft2">möjligheten att förvärva radioutrustningen utan laddningsenhet.</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr25 td70"><SPAN class="p13 ft5">&nbsp;</SPAN> </TD>
+	<TD colspan=2 class="tr25 td73"><SPAN class="p237 ft2">Här i 7 § föreslås en bestämmelse om delegering av rätten att meddela</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr5 td70"><SPAN class="p13 ft5">&nbsp;</SPAN> </TD>
+	<TD colspan=2 class="tr5 td73"><SPAN class="p237 ft2">föreskrifter om skyldigheter för ekonomiska aktörer i fråga om</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr4 td70"><SPAN class="p13 ft5">&nbsp;</SPAN> </TD>
+	<TD colspan=2 class="tr4 td73"><SPAN class="p237 ft2">radioutrustning. Förslaget är att det ska läggas till en ny punkt 8 som ska</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr5 td70"><SPAN class="p13 ft5">&nbsp;</SPAN> </TD>
+	<TD colspan=2 class="tr5 td73"><SPAN class="p237 ft11">lyda ”förvärv av utrustning”. Vad som enligt lagrådsremissen ska omfattas</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr4 td70"><SPAN class="p13 ft5">&nbsp;</SPAN> </TD>
+	<TD colspan=2 class="tr4 td73"><SPAN class="p237 ft11">av bemyndigandet är att aktören som alternativ ska vara skyldig att erbjuda</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr4 td70"><SPAN class="p13 ft5">&nbsp;</SPAN> </TD>
+	<TD colspan=2 class="tr4 td73"><SPAN class="p237 ft2">konsumenten att förvärva radioutrustningen även utan laddningsenhet,</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr5 td70"><SPAN class="p13 ft5">&nbsp;</SPAN> </TD>
+	<TD colspan=2 class="tr5 td73"><SPAN class="p237 ft2">dvs. med eller utan laddningsenhet. Det blir därför alltför omfattande att</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr4 td70"><SPAN class="p13 ft5">&nbsp;</SPAN> </TD>
+	<TD colspan=2 class="tr4 td73"><SPAN class="p237 ft2">bara ange ordet utrustning. Det skulle ju kunna innefatta all utrustning,</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr4 td70"><SPAN class="p13 ft5">&nbsp;</SPAN> </TD>
+	<TD colspan=2 class="tr4 td73"><SPAN class="p237 ft2">t.ex. själva radioutrustningen, vilket inte synes vara avsikten. Det bör</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr5 td70"><SPAN class="p13 ft5">&nbsp;</SPAN> </TD>
+	<TD colspan=2 class="tr5 td73"><SPAN class="p237 ft11">snävas in så att det tydliggörs vad bemyndigandet avser. Lagrådet föreslår</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr4 td70"><SPAN class="p13 ft5">&nbsp;</SPAN> </TD>
+	<TD colspan=2 class="tr4 td73"><SPAN class="p237 ft2">därför att det i stället ska ta sikte på t.ex. ”med eller utan tillbehör till</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr4 td70"><SPAN class="p13 ft5">&nbsp;</SPAN> </TD>
+	<TD colspan=2 class="tr4 td73"><SPAN class="p237 ft11">utrustning”. Det innebär att det inte ska avse erbjudandet av utrustningen</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr5 td70"><SPAN class="p13 ft5">&nbsp;</SPAN> </TD>
+	<TD colspan=2 class="tr5 td73"><SPAN class="p237 ft2">som sådant utan enbart det förhållandet om det ska omfatta tillbehör av</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr4 td70"><SPAN class="p13 ft5">&nbsp;</SPAN> </TD>
+	<TD class="tr4 td71"><SPAN class="p237 ft2">visst slag eller ej.</SPAN> </TD>
+	<TD class="tr4 td72"><SPAN class="p13 ft5">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr24 td70"><SPAN class="p13 ft5">&nbsp;</SPAN> </TD>
+	<TD colspan=2 class="tr24 td73"><SPAN class="p237 ft2">Vidare är det inkonsekvent att använda ordet ”förvärv”. De föreskrifter</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr4 td70"><SPAN class="p13 ft5">&nbsp;</SPAN> </TD>
+	<TD colspan=2 class="tr4 td73"><SPAN class="p237 ft2">som kan meddelas på lägre nivå riktar sig ju till de ekonomiska aktörerna</SPAN> </TD>
+</TR>
+<TR>
+	<TD rowspan=2 class="tr3 td70"><SPAN class="p238 ft2">30</SPAN> </TD>
+	<TD class="tr4 td71"><SPAN class="p237 ft2">och de förvärvar inte utrustningen</SPAN> </TD>
+	<TD class="tr4 td72"><SPAN class="p13 ft2">utan ”tillhandahåller” den till</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr22 td71"><SPAN class="p13 ft61">&nbsp;</SPAN> </TD>
+	<TD class="tr22 td72"><SPAN class="p13 ft61">&nbsp;</SPAN> </TD>
+</TR>
+</TABLE>
+</DIV>
+<DIV id="page_32">
+
+
+<DIV>
+<DIV id="id_1">
+<P class="p239 ft2">konsumenterna. Punkten 7 i paragrafen inleds med orden ”tillhandahållande av”, vilket passar också här i den föreslagna punkten 8. Med Lagrådets förslag skulle punkten 8 därför kunna lyda.</P>
+<P class="p240 ft2">8. tillhandahållande av utrustning med eller utan tillbehör.</P>
+</DIV>
+<DIV id="id_2">
+<P class="p46 ft2">Prop. 2022/23:138 Bilaga 6</P>
+<P class="p241 ft2">31</P>
+</DIV>
+</DIV>
+</DIV>
+<DIV id="page_33">
+<DIV id="p33dimg1">
+<INGENBILD zsrc="HA0313833x1.jpg/" id="p33img1">
+</DIV>
+
+
+<DIV>
+<DIV id="id_1">
+<P class="p242 ft2">Prop. 2022/23:138</P>
+<P class="p12 ft2">32</P>
+</DIV>
+<DIV id="id_2">
+<P class="p11 ft1">Finansdepartementet</P>
+<P class="p243 ft2">Utdrag ur protokoll vid regeringssammanträde den 31 augusti 2023</P>
+<P class="p244 ft2">Närvarande: statsminister Kristersson, ordförande, och statsråden Busch, Billström, Svantesson, Ankarberg Johansson, Edholm, J Pehrson, Jonson, Strömmer, Roswall, Forssmed, Tenje, Forssell, Slottner, M Persson, Wykman, Malmer Stenergard, Kullgren, Liljestrand, Brandberg, Bohlin, Carlson, Pourmokhtari</P>
+<P class="p39 ft2">Föredragande: statsrådet Slottner</P>
+<P class="p245 ft2">Regeringen beslutar proposition En gemensam laddningsstandard för viss radioutrustning</P>
+</DIV>
+</DIV>
+</DIV>
+
+</div><style>
+
+
+TD,TD.p2h {
+zzzfont-size:90%;
+zzzmargin-right:2px;
+zzzoverflow:visable;
+zzzword-wrap: break-word;
+}
+
+P {
+zdisplay:block;
+}
+
+.divbreak {
+clear:both;
+display:block;
+zwidth: 100%;
+zheight: 1px;
+zword-wrap: break-word;
+}
+
+
+.xecp {
+  display:block;
+  margin: 0px !important;
+  padding: 0px !important;
+  
+}
+
+.ec {
+  border-style:solid;
+  border-width:1px;
+  display:block;
+  margin: 0px !important;
+  padding: 0px !important;
+}
+
+.TOPS {
+  overflow:visable;
+  margin:2px;
+  width:690px !important;
+}
+
+</style>

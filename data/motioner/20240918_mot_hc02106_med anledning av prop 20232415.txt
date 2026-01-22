@@ -1,0 +1,358 @@
+SEARCH TERM: AI
+DOCUMENT ID: hc02106
+TITLE: med anledning av prop. 2023/24:156 Ett levande hav – ökat skydd, minskad övergödning och ett hållbart fiske
+TYPE: mot
+SUBTYPE: Kommittémotion
+DATE: 2024-09-18
+PARLIAMENTARY YEAR: 2024/25
+ORGANISATION: MJU
+STATUS: Klar
+DOWNLOADED: 2026-01-22 10:25:11
+================================================================================
+
+<style><!-- 
+ @page Section1 { size:595.3pt 841.9pt; margin:35.45pt 85.05pt 56.7pt }
+div.Section1 { page:Section1 }
+div.pconf body { t-i:17pt; line-height:15pt; font-family:'Verdana'; font-size: 0.90em }
+div.pconf h1, h2, h3, h4, h5, h6, p { margin:0pt }
+div.pconf li, table { margin-top:0pt; margin-bottom:0pt }
+div.pconf h1 { margin-top:41pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:19.5pt; font-family:'Verdana'; font-size: 1.05em; font-weight:normal; color:#000000 }
+div.pconf h2 { margin-top:30pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:17pt; font-family:'Verdana'; font-size: 1.00em; font-weight:normal; color:#000000 }
+div.pconf h3 { margin-top:18pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:17pt; font-family:'Verdana'; font-size: 0.90em; font-weight:bold; color:#000000 }
+div.pconf h4 { margin-top:18pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:17pt; font-family:'Verdana'; font-size: 0.90em; font-weight:normal; font-style:italic; color:#000000 }
+div.pconf h5 { margin-top:15pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:17pt; font-family:'Verdana'; font-size: 0.90em; font-weight:bold; font-style:normal; color:#000000 }
+div.pconf h6 { margin-top:15pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:17pt; font-family:'Verdana'; font-size: 0.90em; font-weight:normal; font-style:italic; color:#000000 }
+.Heading7 { margin-top:15pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:17pt; font-family:'Verdana'; font-size: 0.90em; font-weight:normal; font-style:italic; color:#000000; -aw-style-name:heading7 }
+.Heading8 { margin-top:15pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:17pt; font-family:'Verdana'; font-size: 0.90em; font-weight:normal; font-style:italic; color:#000000; -aw-style-name:heading8 }
+.Heading9 { margin-top:0pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:17pt; font-family:'Verdana'; font-size: 0.90em; font-weight:normal; font-style:italic; color:#000000; -aw-style-name:heading9 }
+.BalloonText { margin-bottom:0pt; t-i:17pt; line-height:normal; font-family:'Segoe UI'; font-size: 0.90em }
+.Beteckning { margin-top:18pt; margin-bottom:0pt; t-i:14.2pt; page-break-inside:auto; page-break-after:auto; line-height:19.5pt; font-size: 1.05em }
+.BlockText, .Inramatstycke { margin-right:56.7pt; margin-left:56.7pt; margin-bottom:0pt; t-i:0pt; text-align:nojustify; line-height:15pt; border:0.75pt solid #000000; padding:10pt; font-size: 0.90em; font-style:italic; -aw-border:0.25pt single }
+.Citaticitat { margin-top:7.5pt; margin-left:34pt; margin-bottom:0pt; t-i:0pt; line-height:12pt; font-size: 0.90em }
+.Citaticitatmedindrag { margin-top:0pt; margin-left:34pt; margin-bottom:7.5pt; t-i:17pt; line-height:12pt; font-size: 0.90em }
+.Citatmedindrag { margin-top:0pt; margin-left:17pt; margin-bottom:0pt; t-i:17pt; line-height:12pt; font-size: 0.90em }
+.CommentSubject { margin-bottom:0pt; t-i:17pt; line-height:normal; font-size: 0.90em; font-weight:bold }
+.CommentText { margin-bottom:0pt; t-i:17pt; line-height:normal; font-size: 0.90em }
+.FSHLogo { margin-top:4pt; margin-bottom:0pt; t-i:0pt; line-height:normal; font-size: 0.90em }
+.FSHNormL { margin-top:4pt; margin-bottom:0pt; t-i:0pt; line-height:15pt; border-top:1.5pt solid #000000; padding-top:3pt; font-size: 0.90em }
+.FSHNormal { margin-top:4pt; margin-bottom:0pt; t-i:0pt; line-height:15pt; font-size: 0.90em }
+.FSHNormalS5 { margin-top:11.5pt; margin-bottom:26pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-size: 0.95em; font-weight:bold }
+.FSHRub1, .Rubrik1S5 { margin-top:135pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:16pt; font-size: 1.00em }
+.FSHRub2, .Rubrik1A4 { margin-top:50pt; margin-bottom:5pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:24pt; font-size: 1.05em }
+.FSHTitel, .Dokumentrubrik { margin-top:4pt; margin-bottom:4pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:20pt; border-bottom:0.75pt solid #000000; padding-bottom:3pt; font-size: 1.05em; -aw-border-bottom:0.5pt single }
+.Footer { margin-top:4pt; margin-bottom:0pt; t-i:0pt; text-align:center; line-height:normal; font-size: 0.90em }
+.FootnoteText { margin-top:0pt; margin-bottom:0pt; t-i:0pt; line-height:12pt; font-size: 0.90em }
+.Frslagsrubrik { margin-top:41pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:19.5pt; font-family:'Verdana'; font-size: 1.05em }
+.Frslagstext, .Hemstlatt, .Yrkande { margin-top:4pt; margin-left:19.85pt; margin-bottom:0pt; t-i:-19.85pt; line-height:15pt; font-size: 0.90em }
+.Header { margin-top:4pt; margin-bottom:0pt; t-i:0pt; line-height:normal; font-size: 0.90em }
+.KantRubrikS5H { margin-top:6pt; margin-right:2.85pt; margin-bottom:0pt; t-i:0pt; text-align:right; line-height:8pt; font-size: 0.90em }
+.KantRubrikS5Hrad2 { margin-top:0pt; margin-right:2.85pt; margin-bottom:0pt; t-i:0pt; text-align:right; line-height:10pt; font-size: 0.90em }
+.KantRubrikS5V { margin-top:6pt; margin-right:0pt; margin-bottom:0pt; t-i:0pt; text-align:left; line-height:8pt; font-size: 0.90em }
+.KantRubrikS5Vrad2 { margin-top:0pt; margin-right:0pt; margin-bottom:0pt; t-i:0pt; text-align:left; line-height:10pt; font-size: 0.90em }
+.KantrubrikH { margin-top:4pt; margin-right:-82.2pt; margin-bottom:0pt; t-i:0pt; text-align:right; line-height:15pt; font-size: 0.90em }
+.KantrubrikV { margin-top:4pt; margin-left:-85.05pt; margin-bottom:0pt; t-i:0pt; line-height:normal; font-size: 0.90em }
+.Klla { margin-top:0pt; margin-bottom:0pt; t-i:0pt; line-height:12pt; font-size: 0.90em }
+.Lagtext { margin-top:4pt; margin-bottom:0pt; t-i:0pt; line-height:normal; font-size: 0.90em }
+.Lagtextindrag { margin-top:4pt; margin-bottom:0pt; t-i:14.2pt; line-height:normal; font-size: 0.90em }
+.Lagtextrubrik { margin-top:4pt; margin-bottom:0pt; t-i:0pt; line-height:normal; font-size: 0.90em; font-style:italic; letter-spacing:1pt }
+.List { margin-top:7.5pt; margin-left:17pt; margin-bottom:7.5pt; t-i:-17pt; line-height:15pt; font-size: 0.90em }
+.ListBullet, .PunktlistaBomb { margin-top:4pt; margin-left:14.2pt; margin-bottom:0pt; t-i:-14.2pt; line-height:15pt; font-size: 0.90em }
+.ListNumber, .PunktlistaNummer { margin-top:4pt; margin-left:14.2pt; margin-bottom:0pt; t-i:-14.2pt; line-height:15pt; font-size: 0.90em }
+.ListParagraph { margin-left:36pt; margin-bottom:0pt; t-i:17pt; line-height:15pt; font-size: 0.90em }
+.ListaGemener { margin-top:7.5pt; margin-left:17pt; margin-bottom:7.5pt; t-i:-17pt; line-height:15pt; font-size: 0.90em }
+.ListaLinje { margin-top:7.5pt; margin-left:19pt; margin-bottom:7.5pt; t-i:-19pt; line-height:15pt; font-size: 0.90em }
+.ListaNummer { margin-top:7.5pt; margin-left:17pt; margin-bottom:7.5pt; t-i:-17pt; line-height:15pt; font-size: 0.90em }
+.ListaPunkt { margin-top:7.5pt; margin-left:17pt; margin-bottom:7.5pt; t-i:-17pt; line-height:15pt; font-size: 0.90em }
+.MotionTIllRiksdagen { margin-top:18pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:19.5pt; font-size: 1.05em }
+.Motionr { margin-top:14pt; margin-bottom:31.5pt; t-i:0pt; page-break-inside:avoid; line-height:15pt; font-size: 1.00em; font-weight:bold; font-style:normal }
+.Motiveringrubrik2numrerat1 { margin-top:30pt; margin-left:0pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:17pt; font-family:'Verdana'; font-size: 1.00em }
+.Motiveringrubrik3numrerat1 { margin-top:18pt; margin-left:0pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:17pt; font-family:'Verdana'; font-size: 0.90em; font-weight:bold }
+.Motiveringrubrik3numrerat11 { margin-top:18pt; margin-left:0pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:17pt; font-family:'Verdana'; font-size: 0.90em; font-weight:bold }
+.Motiveringrubrik4numrerat11 { margin-top:18pt; margin-left:0pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:17pt; font-family:'Verdana'; font-size: 0.90em; font-weight:normal; font-style:italic }
+.NormalIndent { margin-left:65.2pt; margin-bottom:0pt; t-i:17pt; line-height:15pt; font-size: 0.90em }
+.Normalutanindragellerluft { margin-top:4pt; margin-bottom:0pt; t-i:0pt; line-height:15pt; font-size: 0.90em }
+.Normal00 { margin-top:4pt; margin-bottom:0pt; t-i:0pt; line-height:normal; font-size: 0.90em }
+.NormalA4fot { margin-top:12pt; margin-bottom:0pt; t-i:0pt; text-align:center; line-height:normal; font-size: 0.90em }
+.NormalA4sidnr { margin-top:4pt; margin-bottom:12pt; t-i:0pt; text-align:center; line-height:normal; font-size: 0.90em }
+.NormalS5sidnrH { margin-top:4pt; margin-right:2.85pt; margin-bottom:0pt; t-i:0pt; text-align:right; line-height:normal; font-size: 0.90em }
+.NormalS5sidnrV { margin-top:4pt; margin-right:0pt; margin-bottom:0pt; t-i:0pt; text-align:left; line-height:normal; font-size: 0.90em }
+.PlainText { margin-bottom:0pt; t-i:0pt; line-height:12pt; font-family:'Verdana'; font-size: 0.90em }
+.Quote { margin-top:7.5pt; margin-left:17pt; margin-bottom:0pt; t-i:0pt; line-height:12pt; font-size: 0.90em }
+.R1 { margin-top:41pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:19.5pt; font-family:'Verdana'; font-size: 1.05em }
+.R2 { margin-top:30pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:17pt; font-family:'Verdana'; font-size: 1.00em }
+.R3 { margin-top:18pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:17pt; font-family:'Verdana'; font-size: 0.90em; font-weight:bold }
+.Rubrik1numrerat { margin-top:41pt; margin-left:0pt; margin-bottom:0pt; t-i:0pt; page-break-inside:auto; page-break-after:avoid; line-height:19.5pt; font-family:'Verdana'; font-size: 1.05em }
+.Rubrik2numrerat { margin-top:30pt; margin-left:0pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:17pt; font-family:'Verdana'; font-size: 1.00em }
+.Rubrik3numrerat { margin-top:18pt; margin-left:0pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:17pt; font-family:'Verdana'; font-size: 0.90em; font-weight:bold }
+.Rubrik4numrerat { margin-top:18pt; margin-left:0pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:17pt; font-family:'Verdana'; font-size: 0.90em; font-weight:normal; font-style:italic }
+.RubrikFrslagTIllRiksdagsbeslut { margin-top:41pt; margin-bottom:15pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:19.5pt; font-family:'Verdana'; font-size: 1.05em }
+.RubrikInnehllsf { margin-top:41pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:19.5pt; font-family:'Verdana'; font-size: 1.05em }
+.RubrikSammanf { margin-top:41pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:19.5pt; font-family:'Verdana'; font-size: 1.05em }
+.Salutation { margin-top:41pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:19.5pt; font-family:'Verdana'; font-size: 1.05em }
+.Streckkod { margin-top:12pt; margin-bottom:0pt; t-i:0pt; text-align:center; line-height:normal; font-family:IDAutomationHC39S; font-size: 1.00em }
+.Strecklista, .PunktlistaTankstreck { margin-top:4pt; margin-left:14.2pt; margin-bottom:0pt; t-i:-14.2pt; line-height:15pt; font-size: 0.90em }
+.Subtitle { margin-top:4pt; margin-bottom:0pt; t-i:0pt; line-height:15pt; font-family:'Verdana'; font-size: 0.90em; font-weight:bold }
+.TOC1 { margin-top:4pt; margin-bottom:0pt; t-i:0pt; line-height:15pt; font-size: 0.90em }
+.TOC2 { margin-top:4pt; margin-left:14.2pt; margin-bottom:0pt; t-i:0pt; line-height:15pt; font-size: 0.90em }
+.TOC3 { margin-top:4pt; margin-left:28.35pt; margin-bottom:0pt; t-i:0pt; line-height:15pt; font-size: 0.90em }
+.TOC4 { margin-top:4pt; margin-left:42.55pt; margin-bottom:0pt; t-i:0pt; line-height:15pt; font-size: 0.90em }
+.TOC5 { margin-top:4pt; margin-left:56.7pt; margin-bottom:0pt; t-i:0pt; line-height:15pt; font-size: 0.90em }
+.TOC6 { margin-top:4pt; margin-left:56.7pt; margin-bottom:0pt; t-i:0pt; line-height:15pt; font-size: 0.90em }
+.TOC7 { margin-top:15pt; margin-left:56.7pt; margin-bottom:0pt; t-i:14.2pt; page-break-inside:avoid; page-break-after:avoid; line-height:normal; font-family:'Verdana'; font-size: 0.90em; font-weight:normal; font-style:italic }
+.TOC8 { margin-top:15pt; margin-left:56.7pt; margin-bottom:0pt; t-i:14.2pt; page-break-inside:avoid; page-break-after:avoid; line-height:normal; font-family:'Verdana'; font-size: 0.90em; font-weight:normal; font-style:italic }
+.TOC9 { margin-top:15pt; margin-left:56.7pt; margin-bottom:0pt; t-i:14.2pt; page-break-inside:avoid; page-break-after:avoid; line-height:normal; font-family:'Verdana'; font-size: 0.90em; font-weight:normal; font-style:italic }
+.TOCHeading { margin-top:41pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:19.5pt; font-family:'Verdana'; font-size: 1.05em }
+.Tabellunderrubrik { margin-top:0pt; margin-bottom:0pt; t-i:0pt; page-break-after:avoid; line-height:15pt; font-size: 0.90em; font-weight:normal; font-style:italic }
+.Tabellrubrik { margin-top:7.5pt; margin-bottom:0pt; t-i:0pt; page-break-after:avoid; line-height:15pt; font-size: 0.90em; font-weight:bold }
+.Title { margin-top:41pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:19.5pt; font-family:'Verdana'; font-size: 1.05em }
+.Underskriftdatum { margin-top:24pt; margin-bottom:3pt; t-i:0pt; page-break-inside:avoid; line-height:15pt; font-size: 0.90em; font-style:normal }
+.Underskrifter { margin-top:15pt; margin-bottom:3pt; t-i:0pt; page-break-inside:avoid; line-height:15pt; font-size: 0.90em; font-style:italic }
+.Yrkandehnv, .Frslagspunkthnv { margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; font-size: 0.90em }
+span.BallongtextChar { font-family:'Segoe UI'; font-size: 0.90em }
+span.BeteckningChar { font-size:19.5pt }
+span.CommentReference { font-size:8pt }
+span.FSHRub2Char, span.Rubrik1A4Char { font-size:24pt }
+span.FollowedHyperlink { text-decoration:underline; color:#954f72 }
+span.FotnotstextChar { font-size:10pt }
+span.Hyperlink { text-decoration:underline; color:#0563c1; -aw-style-name:hyperlink }
+span.InledningChar { font-family:'Verdana'; font-size: 1.00em; font-weight:bold }
+span.IntenseReference { font-weight:normal; font-style:normal; font-variant:normal; text-decoration:none; text-transform:none; letter-spacing:0pt; vertical-align:0pt; color:#000000; display:inline }
+span.KommentarerChar { font-size:10pt }
+span.KommentarsmneChar { font-size:10pt; font-weight:bold }
+span.MotionTIllRiksdagenChar { font-size:19.5pt }
+span.OformateradtextChar { font-family:'Verdana'; font-size: 0.90em }
+span.PlaceholderText { color:#f4b083 }
+span.Rubrik1Char { font-family:'Verdana'; font-size: 1.05em }
+span.Rubrik2Char { font-family:'Verdana'; font-size: 1.00em }
+span.Rubrik3Char { font-family:'Verdana'; font-size: 0.90em; font-weight:bold }
+span.Rubrik4Char { font-family:'Verdana'; font-size: 0.90em; font-style:italic }
+span.Rubrik5Char { font-family:'Verdana'; font-weight:bold }
+span.Rubrik6Char { font-family:'Verdana'; font-style:italic }
+span.Rubrik7Char { font-family:'Verdana'; font-size: 0.90em; font-weight:bold }
+span.Rubrik8Char { font-family:'Verdana'; font-size: 0.90em; font-weight:bold }
+span.Rubrik9Char { font-family:'Verdana'; font-size: 0.90em; font-weight:bold }
+span.RubrikChar { font-family:'Verdana'; font-size: 1.00em; font-weight:bold }
+span.SidfotChar { font-size:11.5pt }
+span.UnderrubrikChar { font-family:'Verdana'; font-size: 0.90em; font-weight:bold }
+span.UnresolvedMention { color:#605e5c; background-color:#e1dfdd }
+.TableGrid {  }
+
+.pconf{width: 450px;margin-left:5px;overflow:visable;font-family:Verdana, Geneva, sans-serif;} 
+ .sidhuvud_publikation, .sidhuvud_beteckning{font-size:133%}
+.MotionarLista {font-size:122%}
+
+--></style><div class="pconf"><span class="sidhuvud_publikation">Motion till riksdagen</span><br/>
+<span class="sidhuvud_beteckning">2024/25:106</span><br/>
+<span class="MotionarLista">av Anna-Caren Sätherberg m.fl. (S)</span><br/>
+<h1>med anledning av prop. 2023/24:156 Ett levande hav – ökat skydd, minskad övergödning och ett hållbart fiske</h1>
+<hr class="sidhuvud_linje"/>
+
+
+		<div class="Section1">
+			<h1 style="margin-bottom:15pt">
+				<a name="_Toc106800475"></a><a name="_Toc106801300"><span style="-aw-sdt-tag:'CC_Boilerplate_4'; -aw-sdt-title:'CC_Boilerplate_4'"><span>Förslag till riksdagsbeslut</span></span><span style="-aw-bookmark-end:_Toc106800475"></span></a>
+			</h1>
+			<div style="-aw-sdt-tag:'f4211e54-696f-4587-9214-56112e6dfe20'; -aw-sdt-title:'Yrkande 1'">
+				<ol type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-left:14pt; t-i:0pt; padding-left:5.85pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att införa en återhämtningspaus med undantag för det småskaliga kustnära fisket och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'9ab012b8-1545-47ff-b2f4-69ada4586c08'; -aw-sdt-title:'Yrkande 2'">
+				<ol start="2" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; margin-left:14pt; t-i:0pt; padding-left:5.85pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om behovet av fler och skärpta kontroller av fisket och höjda straff vid avsiktlig felrapportering och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'e87ec3d6-0cb4-451f-887c-ae9fe0777280'; -aw-sdt-title:'Yrkande 3'">
+				<ol start="3" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; margin-left:14pt; t-i:0pt; padding-left:5.85pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att aktivt främja innovation och teknik som kan bidra till en långsiktigt hållbar förvaltning av våra hav och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'20fe04ad-bb4c-468a-8ab2-df21d4afcbdd'; -aw-sdt-title:'Yrkande 4'">
+				<ol start="4" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; margin-left:14pt; t-i:0pt; padding-left:5.85pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att regeringen omgående bör inleda förhandlingar med berörda länder för att säkerställa att trålgränsen flyttas ut till 12 nautiska mil utan undantag och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'7f20d25a-b7a9-411b-a972-ed035c9e0084'; -aw-sdt-title:'Yrkande 5'">
+				<ol start="5" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; margin-left:14pt; t-i:0pt; padding-left:5.85pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att skyddet av Sveriges marina områden bör utökas och förstärkas till 30 procent av de svenska haven, varav en tredjedel ska ges strikt skydd, och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'59b65de7-eb89-44a4-9ed3-793c20cecd21'; -aw-sdt-title:'Yrkande 6'">
+				<ol start="6" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; margin-left:14pt; t-i:0pt; padding-left:5.85pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om förbud mot bottentrålning i skyddade områden och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'9bcd2123-051d-462e-9f1b-a70332de21af'; -aw-sdt-title:'Yrkande 7'">
+				<ol start="7" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; margin-left:14pt; t-i:0pt; padding-left:5.85pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att skärpa förvaltningen av säl och skarv och att antalet skarvar måste minska kraftigt och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'0fda850e-95b0-42a7-ba48-f010ce40e0cd'; -aw-sdt-title:'Yrkande 8'">
+				<ol start="8" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; margin-left:14pt; t-i:0pt; padding-left:5.85pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om förbud mot utsläpp av skrubbervatten från fartyg och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'db52a6b5-c9b2-4eba-be23-84f7c33d002e'; -aw-sdt-title:'Yrkande 9'">
+				<ol start="9" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; margin-left:14pt; t-i:0pt; padding-left:5.85pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att etappmålet om övergödning måste vara kvantifierat och tidssatt och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'56ce56fb-483f-4407-b693-e3cd487970ec'; -aw-sdt-title:'Yrkande 10'">
+				<ol start="10" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; t-i:0pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om behovet av konkreta åtgärder för att nå övergödningsmålen och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'b0c4de8f-afc0-4ca0-a802-727e3f006816'; -aw-sdt-title:'Yrkande 11'">
+				<ol start="11" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; t-i:0pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om behovet av att säkerställa nödvändig finansiering för att uppfylla de uppsatta målen och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'CC_Motivering_Rubrik'; -aw-sdt-title:'CC_Motivering_Rubrik'">
+				<h1>
+					<a name="MotionsStart"></a><a name="_Toc106801301"></a><a name="_Toc106800476"><span>Motivering</span></a>
+				</h1>
+			</div>
+			<span style="-aw-bookmark-end:_Toc106801301">
+			</span>
+			<p class="Normalutanindragellerluft">
+				<span style="-aw-bookmark-end:_Toc106800476"></span><span>Flera av fiskbestånden i Östersjön är akut hotade. Övergödning, överfiske och miljö</span><span>&#xad;</span><span>föroreningar har skapat en kritisk situation där flera fiskarter är på väg att helt utrotas. Torsken har i princip redan försvunnit från Östersjön. Nu riskerar även sillen och strömmingen att kollapsa på samma sätt. Övergödningen bidrar dessutom till en ökad algblomning, vilket inte bara drabbar ekosystemen negativt utan även tvingar svenska badplatser att stänga på grund av de allvarliga hälsoriskerna. </span><span style="-aw-import:spaces">&#xa0;</span>
+			</p>
+			<p>
+				<span>Redan 1974 gjordes den första vetenskapliga uppskattningen av mängden sill i Östersjön. Sedan dess har beståndet minskat drastiskt med mer än 77 procent. Om inte kraftfulla åtgärder sätts in i tid riskerar bestånden att helt utraderas. Detta skulle få förödande konsekvenser på flera sätt. Sillen och strömmingen är inte bara viktiga för </span><span style="letter-spacing:-0.15pt">våra ekosystem och vår biologiska mångfald, utan också en betydande del av vårt svenska</span><span> kulturarv. Dessutom riskerar det småskaliga kustnära humankonsumtionsfisket att helt slås ut. Det är därför avgörande att regeringen skyndsamt gör vad de kan för att rädda havsmiljön och fiskbestånden i Östersjön. </span>
+			</p>
+			<p>
+				<span>Mot denna bakgrund är det anmärkningsvärt att regeringen valt att lägga fram en proposition som helt saknar skarpa och styrande åtgärder för att vända utvecklingen i Östersjön. Kraftfulla åtgärder behöver sättas in och försiktighetsprincipen måste tillämpas för att rädda de hårt pressade fiskbestånden, begränsa övergödningen och föreningarna, bekämpa nedskräpningen samt stärka skyddet för våra marina områden. </span>
+			</p>
+			<p>
+				<span>Vi socialdemokrater har under en längre tid arbetat målmedvetet för ett renare hav </span><span style="letter-spacing:-0.15pt">och välmående fiskebestånd. Bland annat har vi tillsatt flera av de utredningar som ligger</span><span> till grund för regeringens nya havsproposition. </span>
+			</p>
+			<p>
+				<span>För att rädda fiskebestånden av sill och strömming i Östersjön vill vi införa en åter</span><span>&#xad;</span><span style="letter-spacing:-0.15pt">hämtningspaus med undantag för det småskaliga kustnära fisket. Det storskaliga industri</span><span style="letter-spacing:-0.15pt">&#xad;</span><span style="letter-spacing:-0.15pt">fisket</span><span> med inriktning på produktion av fiskmjöl står för över 90 procent av strömmings</span><span>&#xad;</span><span>fångsterna i den svenska delen av Östersjöområdet. Vi socialdemokrater krävde att vi skulle följa EU-kommissionens rekommendationer och pausa fisket, men tyvärr valde regeringen att gå emot detta. </span>
+			</p>
+			<p>
+				<span>Vi har sedan tidigare varit tydliga med att kontrollerna mot det illegala fisket ska skärpas. Olagligt och oreglerat fiske är ett av de största hoten mot de marina ekosys</span><span>&#xad;</span><span>temen. Bara 3 procent av alla fiskefartygs fångster kontrollerades i fjol och Sverige får skarp kritik från EU om allvarliga och systematiska brister i fiskekontrollen. Vi social</span><span>&#xad;</span><span>demokrater vill se att övervakningen av fiskeindustrin stärks. Avsiktlig felrapportering av fiskefångster underminerar våra ansträngningar för hållbart fiske. Därför vill vi ha fler och skärpta kontroller av fisket och höjda straff vid avsiktlig felrapportering. </span>
+			</p>
+			<p>
+				<span>Ett viktigt verktyg för att säkerställa ett långsiktigt hållbart fiske och skyddet av våra marina ekosystem är ett aktivt arbete med att implementera och utveckla ny teknik och digitala lösningar. Genom att använda moderna övervakningssystem och dataanalys kan vi både förbättra efterlevnaden av befintliga fiskeregler och effektivisera insatserna för att återställa havsmiljön.</span>
+			</p>
+			<p>
+				<span>Digitala verktyg som satellitövervakning och AI-teknik erbjuder nya möjligheter att spåra och bekämpa illegalt fiske i realtid. Detta kan bidra till att minska överfiske och säkerställa att lagstiftning för hållbart fiske efterlevs. Dessutom kan digitalisering ge bättre insyn i hur fiskebestånd utvecklas och hur klimatförändringar påverkar våra hav. Genom avancerade modeller kan vi tidigt identifiera hot mot känsliga arter och marina områden, och därmed sätta in åtgärder på ett mer proaktivt och effektivt sätt.</span>
+			</p>
+			<p>
+				<span>Samtidigt kan digitaliseringen stötta de fiskare som verkar inom ramarna för hållbart fiske. Genom att erbjuda digitala verktyg och utbildningar kan mindre aktörer ges </span><span style="letter-spacing:-0.15pt">möjlighet att bättre följa hållbarhetskrav och därmed bidra till en mer levande havsmiljö</span><span>.</span>
+			</p>
+			<p>
+				<span>Det är därför av största vikt att inte bara fokusera på lagstiftning och regleringar, utan också aktivt främja innovation och teknik som kan bidra till en långsiktigt hållbar förvaltning av våra hav.</span>
+			</p>
+			<p>
+				<span>Ytterligare en viktig åtgärd för att vända utvecklingen i Östersjön är att flytta ut trål</span><span>&#xad;</span><span>gränsen för att skydda strömmingen och sillen. Det har konstaterats av en stor grupp forskare. När regeringen presenterade propositionen vid en presskonferens den 4 juni var klimat- och miljöminister Romina Pourmokhtari tydlig med att trålgränsen ska flyt</span><span>&#xad;</span><span>tas ut med 12 nautiska mil från Skanör till Haparanda inklusive Öland och Gotland. I propositionen saknas dessvärre skarpa förslag om detta. I stället anger regeringen att det ”bör tas fram permanenta regleringar avseende pelagiskt trålfiske inom hela området upp till 12 nautiska mil från baslinjen i svensk territorialzon i Östersjön”. Med begrepp som ”bör” och ”regleringar” är det otydligt vad regeringen faktiskt menar. Därtill kan formuleringen ”upp till 12 nautiska mil” tolkas på vitt skilda sätt. Vi förutsätter att det </span><span style="letter-spacing:-0.15pt">sagda ordet gäller. Regeringen måste därför omgående inleda förhandlingar med berörda</span><span> länder för att säkerställa att trålgränsen flyttas ut till 12 nautiska mil utan undantag.</span>
+			</p>
+			<p>
+				<span>Vi socialdemokrater har länge arbetat aktivt för att skydda känsliga områden från bottentrålning. Därför var det välkommet att regeringen under sin presskonferens med</span><span>&#xad;</span><span>delade att skyddet av Sveriges marina områden ska utökas och förstärkas till 30 procent av de svenska haven, varav 10 procent ska vara strikt skyddade. Men i propositionen är detta inte utskrivet. I stället skriver regeringen att ”Sverige ska utöka och förstärka skyddet av marina områden för att bidra till att nå den internationella målsättningen om 30 procent skyddade marina områden, varav en tredjedel strikt skyddade”. Att ”utöka och förstärka skyddet” för att ”bidra till” målsättningen framstår som en betydligt svagare formulering än den som regeringen använde under presskonferensen. Vi förutsätter att regeringen återkommer med förtydligande gällande detta.</span>
+			</p>
+			<p>
+				<span>Ett annat viktigt steg för att skydda fiskebestånden är att införa förbud mot botten</span><span>&#xad;</span><span>trålning i skyddade områden, vilket tydligt rekommenderas av forskningen. Men inte heller om detta har regeringen lagt fram skarpa förslag. I stället skriver regeringen att den ”avser att gå vidare med förslagen i betänkandet Förbud mot bottentrålning i marina skyddade områden (SOU 2023:20)”. I propositionen framgår varken </span><span style="font-style:italic">hur</span><span> eller </span><span style="font-style:italic">när</span><span> reger</span><span>&#xad;</span><span>ingen avser att gå vidare med förslagen. Vidare berör förslagen bara skyddade områden innanför trålgränsen. Flera skyddade områden finns utanför trålgränsen och det är av stor vikt att vidta åtgärder även för dessa områden. Här krävs förhandlingar med andra berörda länder. Därmed behöver regeringen utveckla sina avsikter gällande förbud mot bottentrålning. </span>
+			</p>
+			<p>
+				<span>Vad gäller en etisk ekosystembaserad förvaltning av säl och skarv är vi positiva till att regeringen fortsätter på den tidigare socialdemokratiska regeringens arbete med frågan. Vi anser att en sådan förvaltning är av stor vikt för att möjliggöra återhämtning av fiskebestånden. Förvaltningen av säl och skarv måste öka och antalet skarvar måste kraftigt minska för att rädda det småskaliga kustnära fisket.</span>
+			</p>
+			<p>
+				<span>Utsläpp av skrubbervatten från fartyg leder till allvarliga föroreningar som skadar havsmiljön. Det var därför efterlängtat att regeringen föreslår förbud mot detta i promemorian Förbud mot utsläpp från skrubbrar till vatten inom svenskt sjöterritorium. Men trots detta har regeringen valt att formulera sig betydligt vagare i sin proposition. Här skriver regeringen att ett nationellt förbud mot utsläpp av tvättvatten från skrubbrar </span><span style="letter-spacing:-0.15pt">”bör övervägas”. Varför formulerar sig regeringen inte skarpare i frågan när den i prome</span><span style="letter-spacing:-0.15pt">&#xad;</span><span style="letter-spacing:-0.15pt">morian</span><span> redan har föreslagit ett förbud? </span>
+			</p>
+			<p>
+				<span>Övergödningen är ett mycket allvarligt problem som påverkar både biologisk mång</span><span>&#xad;</span><span>fald och klimatet negativt. Det är forskningen överens om. Vi ser därför positivt på att </span><span style="letter-spacing:-0.1pt">regeringen inrättar ett etappmål om övergödning. Dessvärre är målet mycket vagt formu</span><span style="letter-spacing:-0.1pt">&#xad;</span><span style="letter-spacing:-0.1pt">lerat.</span><span> För att etappmål ska få den styrande effekt som är nödvändig behöver målen också vara kvantifierade och tidsatta. Det saknas i regeringens proposition. </span>
+			</p>
+			<p>
+				<span>Även de konkreta åtgärder som behövs för att nå övergödningsmålen lyser med sin frånvaro. En viktig del av lösningen för att komma åt övergödningen är att minska till</span><span>&#xad;</span><span>förseln av kväve och fosfor från land. Det gäller inte minst jordbruket som står för den största delen av näringstillförseln till Östersjön orsakad av människan. För att effektivt bekämpa övergödningen är det nödvändigt att utveckla stöd och andra åtgärder som ökar cirkulariteten och minskar näringsförlusterna från jordbruket. Men i regeringens proposition finns inte tillräckliga förslag på åtgärder för att uppnå detta.</span>
+			</p>
+			<p>
+				<span>Finansieringsfrågan är central för att kunna genomföra de åtgärder som krävs för att Östersjön ska må bra igen. Det är därför djupt oroväckande att regeringen har valt att skära ned anslagen till centrala förvaltningsmyndigheter. Detta har lett till att flera myndigheter behövt varsla om uppsägningar. Till exempel behövde Havs- och vatten</span><span>&#xad;</span><span style="letter-spacing:-0.15pt">myndigheten säga upp personal motsvarande 25 årsarbeten i juni, medan Naturvårdsverket</span><span> varslade om 65 tjänster i februari. Med sådana nedskärningar i myndigheternas budget är det oklart hur regeringen planerar att genomföra beslut på ett effektivt sätt. Vidare är det bekymmersamt att propositionen inte innehåller några förslag på hur regeringen ska säkerställa nödvändig finansiering för att uppfylla de uppsatta målen.</span>
+			</p>
+			<p>
+				<span>Vi tillstyrker propositionen, men eftersom den saknar tidsram, finansieringsförslag och skarpa åtgärdsförslag anser vi att regeringen snarast ska återkomma till riksdagen med dessa kompletteringar. </span><span style="-aw-import:spaces">&#xa0;</span>
+			</p>
+			<div style="-aw-sdt-tag:'CC_Underskrifter'; -aw-sdt-title:'CC_Underskrifter'">
+				<p>
+					<span style="-aw-import:ignore">&#xa0;</span>
+				</p>
+				<p>
+					<span style="-aw-import:ignore">&#xa0;</span>
+				</p>
+			</div>
+			<table cellspacing="0" cellpadding="0" style="width:100%; border-collapse:collapse">
+				<tr style="page-break-inside:avoid">
+					<td style="width:1%; padding-right:5.4pt; padding-left:5.4pt; vertical-align:bottom">
+						<p class="Underskrifter" style="margin-bottom:0pt">
+							<span>Anna-Caren Sätherberg (S)</span>
+						</p>
+					</td>
+					<td style="width:1%; padding-right:5.4pt; padding-left:5.4pt; vertical-align:bottom">
+						<p class="Underskrifter" style="margin-bottom:0pt">
+							<span style="-aw-import:ignore">&#xa0;</span>
+						</p>
+					</td>
+				</tr>
+				<tr style="page-break-inside:avoid">
+					<td style="width:1%; padding-right:5.4pt; padding-left:5.4pt; vertical-align:bottom">
+						<p class="Underskrifter" style="margin-bottom:0pt">
+							<span>Johan Löfstrand (S)</span>
+						</p>
+					</td>
+					<td style="width:1%; padding-right:5.4pt; padding-left:5.4pt; vertical-align:bottom">
+						<p class="Underskrifter" style="margin-bottom:0pt">
+							<span>Joakim Järrebring (S)</span>
+						</p>
+					</td>
+				</tr>
+				<tr style="page-break-inside:avoid">
+					<td style="width:1%; padding-right:5.4pt; padding-left:5.4pt; vertical-align:bottom">
+						<p class="Underskrifter" style="margin-bottom:0pt">
+							<span>Jytte Guteland (S)</span>
+						</p>
+					</td>
+					<td style="width:1%; padding-right:5.4pt; padding-left:5.4pt; vertical-align:bottom">
+						<p class="Underskrifter" style="margin-bottom:0pt">
+							<span>Malin Larsson (S)</span>
+						</p>
+					</td>
+				</tr>
+				<tr style="page-break-inside:avoid">
+					<td style="width:1%; padding-right:5.4pt; padding-left:5.4pt; vertical-align:bottom">
+						<p class="Underskrifter" style="margin-bottom:0pt">
+							<span>Tomas Kronståhl (S)</span>
+						</p>
+					</td>
+					<td style="width:1%; padding-right:5.4pt; padding-left:5.4pt; vertical-align:bottom">
+						<p class="Underskrifter" style="margin-bottom:0pt">
+							<span>Sofia Skönnbrink (S)</span>
+						</p>
+					</td>
+				</tr>
+			</table>
+			<p>
+				<span style="-aw-import:ignore">&#xa0;</span>
+			</p>
+		</div>
+	</div>

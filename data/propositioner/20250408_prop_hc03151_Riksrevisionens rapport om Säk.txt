@@ -1,0 +1,1752 @@
+SEARCH TERM: artificiell intelligens
+DOCUMENT ID: hc03151
+TITLE: Riksrevisionens rapport om Säkerhetspolisens verksamhet
+TYPE: prop
+SUBTYPE: skr
+DATE: 2025-04-08
+PARLIAMENTARY YEAR: 2024/25
+ORGANISATION: Justitiedepartementet
+STATUS: Klar
+DOWNLOADED: 2026-01-22 10:25:36
+================================================================================
+
+<div style="margin:3px;">
+<STYLE type="text/css">
+
+body {margin-top: 0px;margin-left: 0px;}
+
+#page_1 {position:relative; overflow: hidden;z:b;margin:10px 0px 21px 10px ;padding: 0px;border: none;width: 766px;}
+
+#page_1 #p1dimg1 {position:absolute;top:0px;left:546px;z-index:-1;width:53px;height:97px;}
+#page_1 #p1dimg1 #p1img1 {width:53px;height:97px;}
+
+
+
+
+#page_2 {position:relative; overflow: hidden;z:b;margin:14px 0px 21px 10px ;padding: 0px;border: none;width: 676px;}
+#page_2 #id_1 {border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 586px;overflow: hidden;}
+#page_2 #id_2 {border:none;z:b;margin:85px 0px 0px 10px ;padding: 0px;border:none;width: 676px;overflow: hidden;}
+
+
+
+
+
+#page_3 {position:relative; overflow: hidden;z:b;margin:15px 0px 21px 10px ;padding: 0px;border: none;width: 766px;}
+
+
+
+
+
+#page_4 {position:relative; overflow: hidden;z:b;margin:15px 0px 21px 10px ;padding: 0px;border: none;width: 676px;}
+
+
+
+
+
+#page_5 {position:relative; overflow: hidden;z:b;margin:15px 0px 21px 10px ;padding: 0px;border: none;width: 676px;}
+#page_5 #id_1 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 451px;overflow: hidden;}
+#page_5 #id_2 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 180px;overflow: hidden;}
+
+
+
+
+
+#page_6 {position:relative; overflow: hidden;z:b;margin:15px 0px 21px 10px ;padding: 0px;border: none;width: 676px;}
+
+
+
+
+
+#page_7 {position:relative; overflow: hidden;z:b;margin:15px 0px 21px 10px ;padding: 0px;border: none;width: 766px;}
+#page_7 #id_1 {border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 721px;overflow: hidden;}
+#page_7 #id_2 {border:none;z:b;margin:35px 0px 0px 10px ;padding: 0px;border:none;width: 45px;overflow: hidden;}
+
+#page_7 #p7dimg1 {position:absolute;top:46px;left:63px;z-index:-1;width:507px;height:703px;}
+#page_7 #p7dimg1 #p7img1 {width:507px;height:703px;}
+
+
+
+
+#page_8 {position:relative; overflow: hidden;z:b;margin:15px 0px 21px 10px ;padding: 0px;border: none;width: 676px;}
+#page_8 #id_1 {border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 631px;overflow: hidden;}
+#page_8 #id_2 {border:none;z:b;margin:24px 0px 0px 10px ;padding: 0px;border:none;width: 631px;overflow: hidden;}
+
+#page_8 #p8dimg1 {position:absolute;top:583px;left:42px;z-index:-1;width:98px;height:21px;}
+#page_8 #p8dimg1 #p8img1 {width:98px;height:21px;}
+
+
+
+
+#page_9 {position:relative; overflow: hidden;z:b;margin:15px 0px 21px 10px ;padding: 0px;border: none;width: 766px;}
+#page_9 #id_1 {border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 721px;overflow: hidden;}
+#page_9 #id_2 {border:none;z:b;margin:39px 0px 0px 10px ;padding: 0px;border:none;width: 45px;overflow: hidden;}
+
+#page_9 #p9dimg1 {position:absolute;top:105px;left:147px;z-index:-1;width:106px;height:108px;}
+#page_9 #p9dimg1 #p9img1 {width:106px;height:108px;}
+
+
+
+
+#page_10 {position:relative; overflow: hidden;z:b;margin:15px 0px 21px 10px ;padding: 0px;border: none;width: 676px;}
+#page_10 #id_1 {border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 90px;overflow: hidden;}
+#page_10 #id_2 {border:none;z:b;margin:101px 0px 0px 10px ;padding: 0px;border:none;width: 631px;overflow: hidden;}
+
+
+
+
+
+#page_11 {position:relative; overflow: hidden;z:b;margin:15px 0px 21px 10px ;padding: 0px;border: none;width: 766px;}
+#page_11 #id_1 {border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 721px;overflow: hidden;}
+#page_11 #id_2 {border:none;z:b;margin:62px 0px 0px 10px ;padding: 0px;border:none;width: 45px;overflow: hidden;}
+
+
+
+
+
+#page_12 {position:relative; overflow: hidden;z:b;margin:15px 0px 21px 10px ;padding: 0px;border: none;width: 676px;}
+#page_12 #id_1 {border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 631px;overflow: hidden;}
+#page_12 #id_2 {border:none;z:b;margin:14px 0px 0px 10px ;padding: 0px;border:none;width: 631px;overflow: hidden;}
+
+#page_12 #p12dimg1 {position:absolute;top:661px;left:63px;z-index:-1;width:122px;height:1px;font-size: 1px !important;l-h:nHeight;}
+#page_12 #p12dimg1 #p12img1 {width:122px;height:1px;}
+
+
+
+
+#page_13 {position:relative; overflow: hidden;z:b;margin:15px 0px 21px 10px ;padding: 0px;border: none;width: 766px;}
+#page_13 #id_1 {border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 721px;overflow: hidden;}
+#page_13 #id_2 {border:none;z:b;margin:14px 0px 0px 10px ;padding: 0px;border:none;width: 45px;overflow: hidden;}
+
+
+
+
+
+#page_14 {position:relative; overflow: hidden;z:b;margin:15px 0px 21px 10px ;padding: 0px;border: none;width: 766px;}
+#page_14 #id_1 {border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 721px;overflow: hidden;}
+#page_14 #id_2 {border:none;z:b;margin:14px 0px 0px 10px ;padding: 0px;border:none;width: 631px;overflow: hidden;}
+
+
+
+
+
+#page_15 {position:relative; overflow: hidden;z:b;margin:15px 0px 21px 10px ;padding: 0px;border: none;width: 766px;}
+#page_15 #id_1 {border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 721px;overflow: hidden;}
+#page_15 #id_2 {border:none;z:b;margin:14px 0px 0px 10px ;padding: 0px;border:none;width: 45px;overflow: hidden;}
+
+#page_15 #p15dimg1 {position:absolute;top:429px;left:147px;z-index:-1;width:365px;height:241px;}
+#page_15 #p15dimg1 #p15img1 {width:365px;height:241px;}
+
+
+
+
+#page_16 {position:relative; overflow: hidden;z:b;margin:15px 0px 21px 10px ;padding: 0px;border: none;width: 676px;}
+#page_16 #id_1 {border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 631px;overflow: hidden;}
+#page_16 #id_2 {border:none;z:b;margin:14px 0px 0px 10px ;padding: 0px;border:none;width: 631px;overflow: hidden;}
+
+#page_16 #p16dimg1 {position:absolute;top:650px;left:63px;z-index:-1;width:122px;height:1px;font-size: 1px !important;l-h:nHeight;}
+#page_16 #p16dimg1 #p16img1 {width:122px;height:1px;}
+
+
+
+
+#page_17 {position:relative; overflow: hidden;z:b;margin:15px 0px 21px 10px ;padding: 0px;border: none;width: 766px;}
+#page_17 #id_1 {border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 721px;overflow: hidden;}
+#page_17 #id_2 {border:none;z:b;margin:14px 0px 0px 10px ;padding: 0px;border:none;width: 45px;overflow: hidden;}
+
+#page_17 #p17dimg1 {position:absolute;top:536px;left:147px;z-index:-1;width:123px;height:1px;font-size: 1px !important;l-h:nHeight;}
+#page_17 #p17dimg1 #p17img1 {width:123px;height:1px;}
+
+
+
+
+#page_18 {position:relative; overflow: hidden;z:b;margin:15px 0px 21px 10px ;padding: 0px;border: none;width: 676px;}
+#page_18 #id_1 {border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 631px;overflow: hidden;}
+#page_18 #id_2 {border:none;z:b;margin:14px 0px 0px 10px ;padding: 0px;border:none;width: 631px;overflow: hidden;}
+
+
+
+
+
+#page_19 {position:relative; overflow: hidden;z:b;margin:15px 0px 21px 10px ;padding: 0px;border: none;width: 766px;}
+#page_19 #id_1 {border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 721px;overflow: hidden;}
+#page_19 #id_2 {border:none;z:b;margin:14px 0px 0px 10px ;padding: 0px;border:none;width: 45px;overflow: hidden;}
+
+#page_19 #p19dimg1 {position:absolute;top:632px;left:147px;z-index:-1;width:123px;height:1px;font-size: 1px !important;l-h:nHeight;}
+#page_19 #p19dimg1 #p19img1 {width:123px;height:1px;}
+
+
+
+
+#page_20 {position:relative; overflow: hidden;z:b;margin:15px 0px 21px 10px ;padding: 0px;border: none;width: 676px;}
+#page_20 #id_1 {border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 631px;overflow: hidden;}
+#page_20 #id_2 {border:none;z:b;margin:14px 0px 0px 10px ;padding: 0px;border:none;width: 631px;overflow: hidden;}
+
+#page_20 #p20dimg1 {position:absolute;top:596px;left:63px;z-index:-1;width:122px;height:1px;font-size: 1px !important;l-h:nHeight;}
+#page_20 #p20dimg1 #p20img1 {width:122px;height:1px;}
+
+
+
+
+#page_21 {position:relative; overflow: hidden;z:b;margin:15px 0px 21px 10px ;padding: 0px;border: none;width: 766px;}
+#page_21 #id_1 {border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 721px;overflow: hidden;}
+#page_21 #id_2 {border:none;z:b;margin:14px 0px 0px 10px ;padding: 0px;border:none;width: 45px;overflow: hidden;}
+
+#page_21 #p21dimg1 {position:absolute;top:661px;left:147px;z-index:-1;width:123px;height:1px;font-size: 1px !important;l-h:nHeight;}
+#page_21 #p21dimg1 #p21img1 {width:123px;height:1px;}
+
+
+
+
+#page_22 {position:relative; overflow: hidden;z:b;margin:15px 0px 21px 10px ;padding: 0px;border: none;width: 676px;}
+#page_22 #id_1 {border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 631px;overflow: hidden;}
+#page_22 #id_2 {border:none;z:b;margin:14px 0px 0px 10px ;padding: 0px;border:none;width: 631px;overflow: hidden;}
+
+#page_22 #p22dimg1 {position:absolute;top:661px;left:63px;z-index:-1;width:122px;height:1px;font-size: 1px !important;l-h:nHeight;}
+#page_22 #p22dimg1 #p22img1 {width:122px;height:1px;}
+
+
+
+
+#page_23 {position:relative; overflow: hidden;z:b;margin:15px 0px 21px 10px ;padding: 0px;border: none;width: 766px;}
+#page_23 #id_1 {border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 721px;overflow: hidden;}
+#page_23 #id_2 {border:none;z:b;margin:14px 0px 0px 10px ;padding: 0px;border:none;width: 45px;overflow: hidden;}
+
+#page_23 #p23dimg1 {position:absolute;top:669px;left:147px;z-index:-1;width:123px;height:1px;font-size: 1px !important;l-h:nHeight;}
+#page_23 #p23dimg1 #p23img1 {width:123px;height:1px;}
+
+
+
+
+#page_24 {position:relative; overflow: hidden;z:b;margin:15px 0px 21px 10px ;padding: 0px;border: none;width: 676px;}
+#page_24 #id_1 {border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 631px;overflow: hidden;}
+#page_24 #id_2 {border:none;z:b;margin:14px 0px 0px 10px ;padding: 0px;border:none;width: 631px;overflow: hidden;}
+
+#page_24 #p24dimg1 {position:absolute;top:669px;left:63px;z-index:-1;width:122px;height:1px;font-size: 1px !important;l-h:nHeight;}
+#page_24 #p24dimg1 #p24img1 {width:122px;height:1px;}
+
+
+
+
+#page_25 {position:relative; overflow: hidden;z:b;margin:15px 0px 21px 10px ;padding: 0px;border: none;width: 766px;}
+#page_25 #id_1 {border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 721px;overflow: hidden;}
+#page_25 #id_2 {border:none;z:b;margin:14px 0px 0px 10px ;padding: 0px;border:none;width: 45px;overflow: hidden;}
+
+#page_25 #p25dimg1 {position:absolute;top:660px;left:147px;z-index:-1;width:123px;height:1px;font-size: 1px !important;l-h:nHeight;}
+#page_25 #p25dimg1 #p25img1 {width:123px;height:1px;}
+
+
+
+
+#page_26 {position:relative; overflow: hidden;z:b;margin:15px 0px 21px 10px ;padding: 0px;border: none;width: 676px;}
+#page_26 #id_1 {border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 631px;overflow: hidden;}
+#page_26 #id_2 {border:none;z:b;margin:14px 0px 0px 10px ;padding: 0px;border:none;width: 631px;overflow: hidden;}
+
+
+
+
+
+#page_27 {position:relative; overflow: hidden;z:b;margin:15px 0px 21px 10px ;padding: 0px;border: none;width: 766px;}
+#page_27 #id_1 {border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 721px;overflow: hidden;}
+#page_27 #id_2 {border:none;z:b;margin:14px 0px 0px 10px ;padding: 0px;border:none;width: 45px;overflow: hidden;}
+
+#page_27 #p27dimg1 {position:absolute;top:650px;left:147px;z-index:-1;width:123px;height:1px;font-size: 1px !important;l-h:nHeight;}
+#page_27 #p27dimg1 #p27img1 {width:123px;height:1px;}
+
+
+
+
+#page_28 {position:relative; overflow: hidden;z:b;margin:15px 0px 21px 10px ;padding: 0px;border: none;width: 676px;}
+#page_28 #id_1 {border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 631px;overflow: hidden;}
+#page_28 #id_2 {border:none;z:b;margin:14px 0px 0px 10px ;padding: 0px;border:none;width: 631px;overflow: hidden;}
+
+#page_28 #p28dimg1 {position:absolute;top:642px;left:63px;z-index:-1;width:122px;height:1px;font-size: 1px !important;l-h:nHeight;}
+#page_28 #p28dimg1 #p28img1 {width:122px;height:1px;}
+
+
+
+
+#page_29 {position:relative; overflow: hidden;z:b;margin:15px 0px 21px 10px ;padding: 0px;border: none;width: 766px;}
+#page_29 #id_1 {border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 721px;overflow: hidden;}
+#page_29 #id_2 {border:none;z:b;margin:14px 0px 0px 10px ;padding: 0px;border:none;width: 45px;overflow: hidden;}
+
+
+
+
+
+#page_30 {position:relative; overflow: hidden;z:b;margin:15px 0px 21px 10px ;padding: 0px;border: none;width: 676px;}
+#page_30 #id_1 {border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 631px;overflow: hidden;}
+#page_30 #id_2 {border:none;z:b;margin:14px 0px 0px 10px ;padding: 0px;border:none;width: 631px;overflow: hidden;}
+
+
+
+
+
+#page_31 {position:relative; overflow: hidden;z:b;margin:15px 0px 21px 10px ;padding: 0px;border: none;width: 766px;}
+#page_31 #id_1 {border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 721px;overflow: hidden;}
+#page_31 #id_2 {border:none;z:b;margin:14px 0px 0px 10px ;padding: 0px;border:none;width: 45px;overflow: hidden;}
+
+
+
+
+
+#page_32 {position:relative; overflow: hidden;z:b;margin:15px 0px 21px 10px ;padding: 0px;border: none;width: 766px;}
+#page_32 #id_1 {border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 721px;overflow: hidden;}
+#page_32 #id_2 {border:none;z:b;margin:14px 0px 0px 10px ;padding: 0px;border:none;width: 631px;overflow: hidden;}
+
+
+
+
+
+#page_33 {position:relative; overflow: hidden;z:b;margin:15px 0px 21px 10px ;padding: 0px;border: none;width: 766px;}
+#page_33 #id_1 {border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 721px;overflow: hidden;}
+#page_33 #id_2 {border:none;z:b;margin:23px 0px 0px 10px ;padding: 0px;border:none;width: 45px;overflow: hidden;}
+
+#page_33 #p33dimg1 {position:absolute;top:46px;left:63px;z-index:-1;width:507px;height:703px;}
+#page_33 #p33dimg1 #p33img1 {width:507px;height:703px;}
+
+
+
+
+#page_34 {position:relative; overflow: hidden;z:b;margin:15px 0px 21px 10px ;padding: 0px;border: none;width: 676px;}
+#page_34 #id_1 {border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 676px;overflow: hidden;}
+#page_34 #id_2 {border:none;z:b;margin:77px 0px 0px 10px ;padding: 0px;border:none;width: 676px;overflow: hidden;}
+
+#page_34 #p34dimg1 {position:absolute;top:190px;left:105px;z-index:-1;width:112px;height:1px;font-size: 1px !important;l-h:nHeight;}
+#page_34 #p34dimg1 #p34img1 {width:112px;height:1px;}
+
+
+
+
+.dclr {clear:both;float:none;height:1px;margin:0px;padding:0px;overflow:hidden;}
+
+.ft0{font:  18px 'Verdana' !important;l-h: 32px;}
+.ft1{font:  14px 'Verdana' !important;l-h: 22px;}
+.ft2{font:  12px 'Verdana' !important;l-h: 15px;}
+.ft3{font: italic  12px 'Verdana' !important;l-h: 15px;}
+.ft4{font:  12px 'Verdana' !important;l-h: 17px;}
+.ft5{font: italic  12px 'Verdana' !important;l-h: 17px;}
+.ft6{font:  14px 'Verdana' !important;l-h: 20px;}
+.ft7{font:  10px 'Verdana' !important;l-h: 1px;}
+.ft8{font: italic  12px 'Verdana' !important;l-h: 16px;}
+.ft9{font:  12px 'Verdana' !important;l-h: 16px;}
+.ft10{font:  14px 'Verdana' !important;l-h: 19px;}
+.ft11{font:  14px 'Verdana' !important;margin-left: 39px;l-h: 19px;}
+.ft12{font:  12px 'Verdana' !important;l-h: 15px;}
+.ft13{font:  12px 'Verdana' !important;color: #a9a9a9;l-h: 16px;}
+.ft14{font:  18px 'Verdana' !important;color: #ffffff;l-h: 31px;}
+.ft15{font:  10px 'Verdana' !important;l-h: 13px;}
+.ft16{font:  10px 'Verdana' !important;l-h: 12px;}
+.ft17{font:  10px 'Verdana' !important;l-h: 10px;}
+.ft18{font:  14px 'Verdana' !important;l-h: 22px;}
+.ft19{font:  10px 'Verdana' !important;l-h: 14px;}
+.ft20{font:  10px 'Verdana' !important;l-h: 13px;}
+.ft21{font: bold  10px 'Verdana' !important;l-h: 11px;}
+.ft22{font: bold  14px 'Verdana' !important;l-h: 18px;}
+.ft23{font: bold  10px 'Verdana' !important;l-h: 10px;}
+.ft24{font:  10px 'Verdana' !important;margin-left: 11px;l-h: 11px;}
+.ft25{font:  10px 'Verdana' !important;l-h: 11px;}
+.ft26{font:  10px 'Verdana' !important;l-h: 1px;}
+.ft27{font:  10px 'Verdana' !important;l-h: 10px;}
+.ft28{font:  10px 'Verdana' !important;l-h: 9px;}
+.ft29{font: bold  12px 'Verdana' !important;l-h: 15px;}
+.ft30{font: bold  12px 'Verdana' !important;l-h: 14px;}
+.ft31{font:  10px 'Verdana' !important;l-h: 12px;}
+.ft32{font:  10px 'Verdana' !important;margin-left: 11px;l-h: 12px;}
+.ft33{font:  10px 'Verdana' !important;l-h: 8px;}
+.ft34{font:  10px 'Verdana' !important;l-h: 9px;}
+.ft35{font:  10px 'Verdana' !important;margin-left: 7px;l-h: 10px;}
+.ft36{font:  10px 'Verdana' !important;margin-left: 10px;l-h: 12px;}
+.ft37{font:  10px 'Verdana' !important;margin-left: 10px;l-h: 13px;}
+.ft38{font:  10px 'Courier New' !important;l-h: 12px;}
+.ft39{font:  10px 'Courier New' !important;l-h: 13px;}
+.ft40{font:  10px 'Courier New' !important;l-h: 12px;}
+.ft41{font:  10px 'Verdana' !important;margin-left: 10px;l-h: 13px;}
+.ft42{font: bold  14px 'Verdana' !important;margin-left: 24px;l-h: 18px;}
+.ft43{font: bold  12px 'Verdana' !important;margin-left: 17px;l-h: 15px;}
+.ft44{font: bold  12px 'Verdana' !important;margin-left: 15px;l-h: 15px;}
+.ft45{font:  10px 'Verdana' !important;l-h: 10px;}
+.ft46{font: bold  12px 'Verdana' !important;margin-left: 10px;l-h: 14px;}
+.ft47{font:  10px 'Verdana' !important;margin-left: 8px;l-h: 12px;}
+.ft48{font:  10px 'Verdana' !important;l-h: 5px;}
+.ft49{font:  10px 'Verdana' !important;margin-left: 12px;l-h: 7px;}
+.ft50{font:  10px 'Verdana' !important;l-h: 7px;}
+.ft51{font: bold  12px 'Verdana' !important;margin-left: 8px;l-h: 14px;}
+.ft52{font:  10px 'Verdana' !important;margin-left: 11px;l-h: 12px;}
+.ft53{font:  10px 'Verdana' !important;l-h: 12px;}
+.ft54{font:  10px 'Verdana' !important;l-h: 6px;}
+.ft55{font:  10px 'Verdana' !important;margin-left: 11px;l-h: 13px;}
+.ft56{font: bold  12px 'Verdana' !important;margin-left: 9px;l-h: 14px;}
+.ft57{font:  10px 'Verdana' !important;margin-left: 10px;l-h: 12px;}
+.ft58{font: bold  12px 'Verdana' !important;margin-left: 7px;l-h: 14px;}
+.ft59{font:  10px 'Verdana' !important;margin-left: 12px;l-h: 9px;}
+.ft60{font:  10px 'Verdana' !important;l-h: 9px;}
+.ft61{font:  10px 'Verdana' !important;margin-left: 12px;l-h: 9px;}
+.ft62{font:  10px 'Verdana' !important;margin-left: 12px;l-h: 8px;}
+.ft63{font:  10px 'Verdana' !important;l-h: 8px;}
+.ft64{font:  10px 'Verdana' !important;margin-left: 12px;l-h: 10px;}
+.ft65{font:  10px 'Verdana' !important;l-h: 10px;}
+.ft66{font:  10px 'Verdana' !important;l-h: 7px;}
+.ft67{font:  10px 'Verdana' !important;margin-left: 9px;l-h: 7px;}
+.ft68{font:  10px 'Verdana' !important;margin-left: 9px;l-h: 9px;}
+.ft69{font: bold  14px 'Verdana' !important;margin-left: 21px;l-h: 18px;}
+.ft70{font:  10px 'Verdana' !important;margin-left: 10px;l-h: 9px;}
+.ft71{font:  10px 'Verdana' !important;margin-left: 10px;l-h: 7px;}
+.ft72{font: bold  12px 'Verdana' !important;margin-left: 13px;l-h: 15px;}
+.ft73{font: bold  10px 'Verdana' !important;l-h: 7px;}
+.ft74{font:  10px 'Verdana' !important;margin-left: 9px;l-h: 9px;}
+.ft75{font: bold  12px 'Verdana' !important;margin-left: 12px;l-h: 15px;}
+.ft76{font:  10px 'Verdana' !important;margin-left: 11px;l-h: 13px;}
+.ft77{font:  10px 'Verdana' !important;margin-left: 13px;l-h: 12px;}
+.ft78{font:  10px 'Verdana' !important;margin-left: 9px;l-h: 13px;}
+.ft79{font:  10px 'Verdana' !important;margin-left: 9px;l-h: 13px;}
+.ft80{font:  10px 'Verdana' !important;margin-left: 9px;l-h: 12px;}
+.ft81{font:  10px 'Verdana' !important;l-h: 18px;}
+.ft82{font:  10px 'Verdana' !important;text-decoration: underline;l-h: 13px;}
+.ft83{font:  10px 'Verdana' !important;color: #ffffff;l-h: 7px;}
+.ft84{font: bold  12px 'Verdana' !important;color: #ffffff;l-h: 14px;}
+.ft85{font:  10px 'Verdana' !important;color: #ffffff;l-h: 13px;}
+.ft86{font:  10px 'Verdana' !important;color: #ffffff;l-h: 12px;}
+.ft87{font:  10px 'Verdana' !important;color: #ffffff;l-h: 12px;}
+.ft88{font:  12px 'Verdana' !important;l-h: 15px;position: relative; bottom: 7px;}
+
+.p0{text-align: left;padding-left: 0px;padding-right: 441px;margin-top: 22px;margin-bottom: 0px !important;}
+.p1{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p2{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p3{text-align: left;padding-left: 0px;margin-top: 17px;margin-bottom: 0px !important;}
+.p4{text-align: left;padding-left: 0px;margin-top: 16px;margin-bottom: 0px !important;}
+.p5{text-align: left;padding-left: 0px;margin-top: 31px;margin-bottom: 0px !important;}
+.p6{text-align: left;padding-left: 180px;padding-right: 378px;margin-top: 20px;margin-bottom: 0px !important;}
+.p7{text-align: left;padding-left: 0px;margin-top: 46px;margin-bottom: 0px !important;}
+.p8{text-align: left;padding-left: 0px;padding-right: 168px;margin-top: 28px;margin-bottom: 0px !important;}
+.p9{text-align: left;padding-left: 0px;padding-right: 168px;margin-top: 4px;margin-bottom: 0px !important;text-indent: 11px;}
+.p10{text-align: left;padding-left: 0px;padding-right: 168px;margin-top: 3px;margin-bottom: 0px !important;text-indent: 11px;}
+.p11{text-align: right;padding-right: 42px;margin-top: 57px;margin-bottom: 0px !important;}
+.p12{text-align: left;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p13{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p14{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p15{text-align: right;padding-right: 1px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p16{text-align: right;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p17{text-align: left;margin-top: 0px;margin-bottom: 0px !important;}
+.p18{text-align: right;padding-right: 21px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p19{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p20{text-align: left;padding-left: 0px;padding-right: 168px;margin-top: 10px;margin-bottom: 0px !important;}
+.p21{text-align: left;padding-left: 0px;padding-right: 168px;margin-top: 0px;margin-bottom: 0px !important;text-indent: 11px;}
+.p22{text-align: left;padding-left: 0px;margin-top: 43px;margin-bottom: 0px !important;}
+.p23{text-align: left;padding-left: 0px;padding-right: 168px;margin-top: 17px;margin-bottom: 0px !important;}
+.p24{text-align: left;padding-left: 0px;padding-right: 168px;margin-top: 1px;margin-bottom: 0px !important;text-indent: 11px;}
+.p25{text-align: left;padding-left: 0px;padding-right: 168px;margin-top: 2px;margin-bottom: 0px !important;text-indent: 11px;}
+.p26{text-align: right;padding-right: 42px;margin-top: 9px;margin-bottom: 0px !important;}
+.p27{text-align: left;padding-left: 0px;padding-right: 63px;margin-top: 0px;margin-bottom: 0px !important;text-indent: 0.112px;}
+.p28{text-align: left;padding-left: 0px;padding-right: 63px;margin-top: 3px;margin-bottom: 0px !important;text-indent: 11px;}
+.p29{text-align: left;padding-left: 0px;padding-right: 63px;margin-top: 1px;margin-bottom: 0px !important;text-indent: 11px;}
+.p30{text-align: left;padding-left: 0px;padding-right: 63px;margin-top: 0px;margin-bottom: 0px !important;text-indent: 11px;}
+.p31{text-align: left;padding-left: 0px;margin-top: 27px;margin-bottom: 0px !important;}
+.p32{text-align: left;padding-left: 0px;padding-right: 63px;margin-top: 12px;margin-bottom: 0px !important;}
+.p33{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p34{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p35{text-align: left;margin-top: 0px;margin-bottom: 0px !important;}
+.p36{text-align: left;margin-top: 0px;margin-bottom: 0px !important;text-indent: 11px;}
+.p37{text-align: left;margin-top: 10px;margin-bottom: 0px !important;text-indent: 11px;}
+.p38{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;}
+.p39{text-align: right;padding-right: 42px;margin-top: 752px;margin-bottom: 0px !important;}
+.p40{text-align: left;padding-left: 0px;padding-right: 63px;margin-top: 0px;margin-bottom: 0px !important;text-indent: 0.112px;}
+.p41{text-align: left;margin-top: 595px;margin-bottom: 0px !important;}
+.p42{text-align: right;padding-right: 63px;margin-top: 0px;margin-bottom: 0px !important;}
+.p43{text-align: left;padding-left: 440px;margin-top: 3px;margin-bottom: 0px !important;}
+.p44{text-align: left;padding-left: 0px;margin-top: 512px;margin-bottom: 0px !important;}
+.p45{text-align: left;padding-left: 0px;margin-top: 16px;margin-bottom: 0px !important;}
+.p46{text-align: left;margin-top: 3px;margin-bottom: 0px !important;}
+.p47{text-align: left;padding-left: 0px;padding-right: 168px;margin-top: 346px;margin-bottom: 0px !important;}
+.p48{text-align: left;padding-left: 0px;padding-right: 189px;margin-top: 6px;margin-bottom: 0px !important;}
+.p49{text-align: left;padding-left: 0px;margin-top: 124px;margin-bottom: 0px !important;}
+.p50{text-align: left;padding-left: 0px;margin-top: 1px;margin-bottom: 0px !important;}
+.p51{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;}
+.p52{text-align: left;padding-left: 120px;margin-top: 125px;margin-bottom: 0px !important;}
+.p53{text-align: left;padding-left: 120px;margin-top: 1px;margin-bottom: 0px !important;}
+.p54{text-align: left;padding-left: 120px;margin-top: 2px;margin-bottom: 0px !important;}
+.p55{text-align: left;padding-left: 120px;margin-top: 30px;margin-bottom: 0px !important;}
+.p56{text-align: left;padding-left: 120px;padding-right: 147px;margin-top: 17px;margin-bottom: 0px !important;}
+.p57{text-align: left;padding-left: 120px;margin-top: 32px;margin-bottom: 0px !important;}
+.p58{text-align: left;padding-left: 120px;padding-right: 126px;margin-top: 9px;margin-bottom: 0px !important;}
+.p59{text-align: left;padding-left: 120px;padding-right: 126px;margin-top: 5px;margin-bottom: 0px !important;}
+.p60{text-align: left;padding-left: 120px;margin-top: 36px;margin-bottom: 0px !important;}
+.p61{text-align: left;padding-left: 300px;margin-top: 1px;margin-bottom: 0px !important;}
+.p62{text-align: left;padding-left: 120px;margin-top: 27px;margin-bottom: 0px !important;}
+.p63{text-align: left;padding-left: 120px;margin-top: 5px;margin-bottom: 0px !important;}
+.p64{text-align: left;padding-left: 120px;margin-top: 4px;margin-bottom: 0px !important;}
+.p65{text-align: left;padding-left: 120px;margin-top: 70px;margin-bottom: 0px !important;}
+.p66{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p67{text-align: left;padding-left: 120px;margin-top: 0px;margin-bottom: 0px !important;}
+.p68{text-align: left;padding-left: 0px;margin-top: 70px;margin-bottom: 0px !important;}
+.p69{text-align: left;padding-left: 0px;padding-right: 168px;margin-top: 13px;margin-bottom: 0px !important;}
+.p70{text-align: left;padding-left: 0px;padding-right: 147px;margin-top: 8px;margin-bottom: 0px !important;}
+.p71{text-align: left;padding-left: 0px;padding-right: 147px;margin-top: 17px;margin-bottom: 0px !important;}
+.p72{text-align: left;padding-left: 0px;padding-right: 168px;margin-top: 8px;margin-bottom: 0px !important;}
+.p73{text-align: left;padding-left: 0px;padding-right: 168px;margin-top: 8px;margin-bottom: 0px !important;}
+.p74{text-align: left;padding-left: 0px;padding-right: 147px;margin-top: 9px;margin-bottom: 0px !important;}
+.p75{text-align: left;padding-left: 0px;margin-top: 12px;margin-bottom: 0px !important;}
+.p76{text-align: left;padding-left: 0px;padding-right: 168px;margin-top: 7px;margin-bottom: 0px !important;}
+.p77{text-align: left;padding-left: 0px;margin-top: 11px;margin-bottom: 0px !important;}
+.p78{text-align: left;padding-left: 0px;padding-right: 189px;margin-top: 6px;margin-bottom: 0px !important;text-indent: 0.15px;}
+.p79{text-align: left;padding-left: 0px;padding-right: 189px;margin-top: 51px;margin-bottom: 0px !important;text-indent: 0.13px;}
+.p80{text-align: left;padding-left: 0px;margin-top: 29px;margin-bottom: 0px !important;}
+.p81{text-align: left;padding-left: 120px;margin-top: 71px;margin-bottom: 0px !important;}
+.p82{text-align: left;padding-left: 140px;margin-top: 5px;margin-bottom: 0px !important;}
+.p83{text-align: left;padding-left: 160px;padding-right: 126px;margin-top: 6px;margin-bottom: 0px !important;text-indent: 0.15px;}
+.p84{text-align: left;padding-left: 160px;padding-right: 147px;margin-top: 3px;margin-bottom: 0px !important;text-indent: 0.15px;}
+.p85{text-align: left;padding-left: 140px;margin-top: 3px;margin-bottom: 0px !important;}
+.p86{text-align: left;padding-left: 160px;padding-right: 126px;margin-top: 5px;margin-bottom: 0px !important;text-indent: 0.13px;}
+.p87{text-align: left;padding-left: 160px;padding-right: 147px;margin-top: 3px;margin-bottom: 0px !important;text-indent: 0.13px;}
+.p88{text-align: left;padding-left: 160px;padding-right: 126px;margin-top: 5px;margin-bottom: 0px !important;text-indent: 0.13px;}
+.p89{text-align: left;padding-left: 160px;padding-right: 147px;margin-top: 7px;margin-bottom: 0px !important;text-indent: 0.15px;}
+.p90{text-align: left;padding-left: 160px;padding-right: 147px;margin-top: 7px;margin-bottom: 0px !important;text-indent: 0.15px;}
+.p91{text-align: left;padding-left: 160px;padding-right: 126px;margin-top: 5px;margin-bottom: 0px !important;text-indent: 0.15px;}
+.p92{text-align: left;padding-left: 400px;margin-top: 260px;margin-bottom: 0px !important;}
+.p93{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;}
+.p94{text-align: left;padding-left: 0px;margin-top: 3px;margin-bottom: 0px !important;}
+.p95{text-align: right;padding-right: 588px;margin-top: 680px;margin-bottom: 0px !important;}
+.p96{text-align: left;padding-left: 0px;margin-top: 70px;margin-bottom: 0px !important;}
+.p97{text-align: left;padding-left: 0px;margin-top: 13px;margin-bottom: 0px !important;}
+.p98{text-align: left;padding-left: 120px;padding-right: 126px;margin-top: 7px;margin-bottom: 0px !important;}
+.p99{text-align: left;padding-left: 120px;padding-right: 126px;margin-top: 17px;margin-bottom: 0px !important;}
+.p100{text-align: left;padding-left: 120px;margin-top: 9px;margin-bottom: 0px !important;}
+.p101{text-align: left;padding-left: 0px;margin-top: 9px;margin-bottom: 0px !important;}
+.p102{text-align: left;padding-left: 120px;padding-right: 126px;margin-top: 8px;margin-bottom: 0px !important;}
+.p103{text-align: left;padding-left: 0px;margin-top: 6px;margin-bottom: 0px !important;}
+.p104{text-align: left;padding-left: 140px;margin-top: 24px;margin-bottom: 0px !important;}
+.p105{text-align: left;padding-left: 140px;margin-top: 0px;margin-bottom: 0px !important;}
+.p106{text-align: left;padding-left: 140px;margin-top: 1px;margin-bottom: 0px !important;}
+.p107{text-align: left;padding-left: 120px;padding-right: 126px;margin-top: 27px;margin-bottom: 0px !important;}
+.p108{text-align: left;padding-left: 120px;margin-top: 96px;margin-bottom: 0px !important;}
+.p109{text-align: left;padding-left: 400px;margin-top: 32px;margin-bottom: 0px !important;}
+.p110{text-align: left;padding-left: 0px;margin-top: 71px;margin-bottom: 0px !important;}
+.p111{text-align: left;padding-left: 0px;padding-right: 168px;margin-top: 6px;margin-bottom: 0px !important;}
+.p112{text-align: left;padding-left: 0px;padding-right: 168px;margin-top: 8px;margin-bottom: 0px !important;}
+.p113{text-align: left;padding-left: 0px;margin-top: 10px;margin-bottom: 0px !important;}
+.p114{text-align: left;padding-left: 0px;margin-top: 5px;margin-bottom: 0px !important;}
+.p115{text-align: left;padding-left: 0px;margin-top: 6px;margin-bottom: 0px !important;}
+.p116{text-align: left;padding-left: 0px;padding-right: 315px;margin-top: 6px;margin-bottom: 0px !important;text-indent: 0.15px;}
+.p117{text-align: left;padding-left: 0px;padding-right: 189px;margin-top: 7px;margin-bottom: 0px !important;text-indent: 0.15px;}
+.p118{text-align: left;padding-left: 0px;margin-top: 10px;margin-bottom: 0px !important;}
+.p119{text-align: left;padding-left: 0px;padding-right: 168px;margin-top: 7px;margin-bottom: 0px !important;}
+.p120{text-align: left;padding-left: 0px;padding-right: 168px;margin-top: 10px;margin-bottom: 0px !important;text-indent: 0.15px;}
+.p121{text-align: left;padding-left: 0px;padding-right: 168px;margin-top: 7px;margin-bottom: 0px !important;text-indent: 0.15px;}
+.p122{text-align: left;padding-left: 0px;padding-right: 168px;margin-top: 7px;margin-bottom: 0px !important;text-indent: 0.15px;}
+.p123{text-align: left;padding-left: 0px;margin-top: 10px;margin-bottom: 0px !important;}
+.p124{text-align: left;padding-left: 0px;padding-right: 189px;margin-top: 8px;margin-bottom: 0px !important;text-indent: 0.15px;}
+.p125{text-align: left;padding-left: 0px;padding-right: 189px;margin-top: 5px;margin-bottom: 0px !important;text-indent: 0.15px;}
+.p126{text-align: left;padding-left: 0px;padding-right: 147px;margin-top: 11px;margin-bottom: 0px !important;}
+.p127{text-align: left;padding-left: 0px;margin-top: 34px;margin-bottom: 0px !important;}
+.p128{text-align: left;padding-left: 0px;margin-top: 3px;margin-bottom: 0px !important;}
+.p129{text-align: left;padding-left: 0px;margin-top: 2px;margin-bottom: 0px !important;}
+.p130{text-align: left;padding-left: 0px;margin-top: 32px;margin-bottom: 0px !important;}
+.p131{text-align: left;padding-left: 0px;margin-top: 71px;margin-bottom: 0px !important;}
+.p132{text-align: left;padding-left: 120px;padding-right: 126px;margin-top: 5px;margin-bottom: 0px !important;}
+.p133{text-align: left;padding-left: 120px;padding-right: 126px;margin-top: 18px;margin-bottom: 0px !important;}
+.p134{text-align: left;padding-left: 160px;padding-right: 126px;margin-top: 9px;margin-bottom: 0px !important;text-indent: 0.15px;}
+.p135{text-align: left;padding-left: 160px;padding-right: 168px;margin-top: 3px;margin-bottom: 0px !important;text-indent: 0.15px;}
+.p136{text-align: left;padding-left: 140px;margin-top: 4px;margin-bottom: 0px !important;}
+.p137{text-align: left;padding-left: 160px;padding-right: 147px;margin-top: 5px;margin-bottom: 0px !important;text-indent: 0.15px;}
+.p138{text-align: left;padding-left: 160px;padding-right: 126px;margin-top: 4px;margin-bottom: 0px !important;text-indent: 0.15px;}
+.p139{text-align: left;padding-left: 160px;padding-right: 126px;margin-top: 3px;margin-bottom: 0px !important;text-indent: 0.15px;}
+.p140{text-align: left;padding-left: 0px;margin-top: 12px;margin-bottom: 0px !important;}
+.p141{text-align: left;padding-left: 120px;padding-right: 126px;margin-top: 6px;margin-bottom: 0px !important;}
+.p142{text-align: left;padding-left: 140px;padding-right: 126px;margin-top: 66px;margin-bottom: 0px !important;text-indent: 0.14px;}
+.p143{text-align: left;padding-left: 140px;padding-right: 147px;margin-top: 0px;margin-bottom: 0px !important;text-indent: 0.14px;}
+.p144{text-align: left;padding-left: 140px;padding-right: 126px;margin-top: 0px;margin-bottom: 0px !important;text-indent: 0.14px;}
+.p145{text-align: left;padding-left: 140px;padding-right: 126px;margin-top: 4px;margin-bottom: 0px !important;text-indent: 0.14px;}
+.p146{text-align: left;padding-left: 400px;margin-top: 25px;margin-bottom: 0px !important;}
+.p147{text-align: left;padding-left: 0px;padding-right: 168px;margin-top: 72px;margin-bottom: 0px !important;}
+.p148{text-align: left;padding-left: 0px;padding-right: 168px;margin-top: 2px;margin-bottom: 0px !important;text-indent: 0.15px;}
+.p149{text-align: left;padding-left: 0px;padding-right: 168px;margin-top: 6px;margin-bottom: 0px !important;text-indent: 0.15px;}
+.p150{text-align: left;padding-left: 0px;margin-top: 7px;margin-bottom: 0px !important;}
+.p151{text-align: left;padding-left: 0px;padding-right: 147px;margin-top: 5px;margin-bottom: 0px !important;text-indent: 0.15px;}
+.p152{text-align: left;padding-left: 0px;padding-right: 168px;margin-top: 6px;margin-bottom: 0px !important;text-indent: 0.15px;}
+.p153{text-align: left;padding-left: 0px;padding-right: 168px;margin-top: 6px;margin-bottom: 0px !important;}
+.p154{text-align: left;padding-left: 0px;margin-top: 8px;margin-bottom: 0px !important;}
+.p155{text-align: left;padding-left: 0px;padding-right: 189px;margin-top: 5px;margin-bottom: 0px !important;text-indent: 0.15px;}
+.p156{text-align: left;padding-left: 0px;padding-right: 168px;margin-top: 7px;margin-bottom: 0px !important;text-indent: 0.15px;}
+.p157{text-align: left;padding-left: 0px;padding-right: 147px;margin-top: 6px;margin-bottom: 0px !important;text-indent: 0.15px;}
+.p158{text-align: left;padding-left: 0px;padding-right: 189px;margin-top: 6px;margin-bottom: 0px !important;text-indent: 0.15px;}
+.p159{text-align: left;padding-left: 0px;margin-top: 73px;margin-bottom: 0px !important;}
+.p160{text-align: left;padding-left: 120px;padding-right: 105px;margin-top: 6px;margin-bottom: 0px !important;}
+.p161{text-align: left;padding-left: 120px;padding-right: 126px;margin-top: 8px;margin-bottom: 0px !important;}
+.p162{text-align: left;padding-left: 120px;padding-right: 126px;margin-top: 5px;margin-bottom: 0px !important;}
+.p163{text-align: left;padding-left: 120px;padding-right: 126px;margin-top: 6px;margin-bottom: 0px !important;}
+.p164{text-align: left;padding-left: 0px;margin-top: 11px;margin-bottom: 0px !important;}
+.p165{text-align: left;padding-left: 120px;padding-right: 126px;margin-top: 6px;margin-bottom: 0px !important;}
+.p166{text-align: left;padding-left: 0px;margin-top: 19px;margin-bottom: 0px !important;}
+.p167{text-align: left;padding-left: 0px;margin-top: 5px;margin-bottom: 0px !important;}
+.p168{text-align: left;padding-left: 120px;padding-right: 147px;margin-top: 5px;margin-bottom: 0px !important;}
+.p169{text-align: left;padding-left: 120px;margin-top: 15px;margin-bottom: 0px !important;}
+.p170{text-align: left;padding-left: 120px;margin-top: 3px;margin-bottom: 0px !important;}
+.p171{text-align: left;padding-left: 140px;padding-right: 126px;margin-top: 3px;margin-bottom: 0px !important;text-indent: 0.14px;}
+.p172{text-align: left;padding-left: 400px;margin-top: 29px;margin-bottom: 0px !important;}
+.p173{text-align: left;padding-left: 0px;margin-top: 70px;margin-bottom: 0px !important;}
+.p174{text-align: left;padding-left: 0px;padding-right: 168px;margin-top: 13px;margin-bottom: 0px !important;}
+.p175{text-align: left;padding-left: 0px;margin-top: 11px;margin-bottom: 0px !important;}
+.p176{text-align: left;padding-left: 0px;padding-right: 168px;margin-top: 7px;margin-bottom: 0px !important;}
+.p177{text-align: left;padding-left: 0px;padding-right: 147px;margin-top: 5px;margin-bottom: 0px !important;}
+.p178{text-align: left;padding-left: 0px;padding-right: 168px;margin-top: 17px;margin-bottom: 0px !important;}
+.p179{text-align: left;padding-left: 0px;padding-right: 168px;margin-top: 81px;margin-bottom: 0px !important;text-indent: 0.14px;}
+.p180{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;}
+.p181{text-align: left;padding-left: 0px;padding-right: 189px;margin-top: 3px;margin-bottom: 0px !important;text-indent: 0.14px;}
+.p182{text-align: left;padding-left: 120px;padding-right: 126px;margin-top: 7px;margin-bottom: 0px !important;}
+.p183{text-align: left;padding-left: 120px;padding-right: 126px;margin-top: 17px;margin-bottom: 0px !important;}
+.p184{text-align: left;padding-left: 160px;padding-right: 147px;margin-top: 9px;margin-bottom: 0px !important;text-indent: 0.15px;}
+.p185{text-align: left;padding-left: 160px;padding-right: 147px;margin-top: 6px;margin-bottom: 0px !important;text-indent: 0.15px;}
+.p186{text-align: left;padding-left: 120px;padding-right: 126px;margin-top: 16px;margin-bottom: 0px !important;}
+.p187{text-align: left;padding-left: 120px;padding-right: 147px;margin-top: 8px;margin-bottom: 0px !important;}
+.p188{text-align: left;padding-left: 120px;padding-right: 126px;margin-top: 8px;margin-bottom: 0px !important;}
+.p189{text-align: left;padding-left: 120px;padding-right: 126px;margin-top: 5px;margin-bottom: 0px !important;}
+.p190{text-align: left;padding-left: 140px;padding-right: 147px;margin-top: 37px;margin-bottom: 0px !important;text-indent: 0.14px;}
+.p191{text-align: left;padding-left: 0px;padding-right: 147px;margin-top: 72px;margin-bottom: 0px !important;}
+.p192{text-align: left;padding-left: 0px;padding-right: 147px;margin-top: 18px;margin-bottom: 0px !important;}
+.p193{text-align: left;padding-left: 0px;padding-right: 168px;margin-top: 17px;margin-bottom: 0px !important;}
+.p194{text-align: left;padding-left: 0px;padding-right: 168px;margin-top: 9px;margin-bottom: 0px !important;}
+.p195{text-align: left;padding-left: 0px;padding-right: 168px;margin-top: 98px;margin-bottom: 0px !important;text-indent: 0.14px;}
+.p196{text-align: left;padding-left: 120px;padding-right: 126px;margin-top: 7px;margin-bottom: 0px !important;}
+.p197{text-align: left;padding-left: 120px;margin-top: 470px;margin-bottom: 0px !important;}
+.p198{text-align: left;padding-left: 400px;margin-top: 32px;margin-bottom: 0px !important;}
+.p199{text-align: left;padding-left: 0px;padding-right: 168px;margin-top: 13px;margin-bottom: 0px !important;}
+.p200{text-align: left;padding-left: 0px;padding-right: 168px;margin-top: 9px;margin-bottom: 0px !important;}
+.p201{text-align: left;padding-left: 0px;padding-right: 168px;margin-top: 10px;margin-bottom: 0px !important;}
+.p202{text-align: left;padding-left: 0px;padding-right: 147px;margin-top: 7px;margin-bottom: 0px !important;}
+.p203{text-align: left;padding-left: 0px;margin-top: 74px;margin-bottom: 0px !important;}
+.p204{text-align: left;padding-left: 120px;padding-right: 126px;margin-top: 7px;margin-bottom: 0px !important;}
+.p205{text-align: left;padding-left: 120px;padding-right: 126px;margin-top: 18px;margin-bottom: 0px !important;}
+.p206{text-align: left;padding-left: 120px;padding-right: 126px;margin-top: 18px;margin-bottom: 0px !important;}
+.p207{text-align: left;padding-left: 120px;padding-right: 126px;margin-top: 16px;margin-bottom: 0px !important;}
+.p208{text-align: left;padding-left: 120px;padding-right: 126px;margin-top: 29px;margin-bottom: 0px !important;}
+.p209{text-align: left;padding-left: 120px;margin-top: 24px;margin-bottom: 0px !important;}
+.p210{text-align: left;padding-left: 0px;padding-right: 147px;margin-top: 72px;margin-bottom: 0px !important;}
+.p211{text-align: left;padding-left: 0px;padding-right: 189px;margin-top: 11px;margin-bottom: 0px !important;text-indent: 0.31px;}
+.p212{text-align: left;padding-left: 0px;padding-right: 168px;margin-top: 8px;margin-bottom: 0px !important;}
+.p213{text-align: left;padding-left: 0px;padding-right: 147px;margin-top: 10px;margin-bottom: 0px !important;}
+.p214{text-align: left;padding-left: 0px;margin-top: 6px;margin-bottom: 0px !important;}
+.p215{text-align: left;padding-left: 0px;padding-right: 168px;margin-top: 7px;margin-bottom: 0px !important;}
+.p216{text-align: left;padding-left: 0px;padding-right: 168px;margin-top: 7px;margin-bottom: 0px !important;}
+.p217{text-align: left;padding-left: 0px;padding-right: 147px;margin-top: 10px;margin-bottom: 0px !important;}
+.p218{text-align: left;padding-left: 0px;padding-right: 168px;margin-top: 5px;margin-bottom: 0px !important;}
+.p219{text-align: left;padding-left: 0px;margin-top: 35px;margin-bottom: 0px !important;}
+.p220{text-align: left;padding-left: 120px;padding-right: 147px;margin-top: 72px;margin-bottom: 0px !important;}
+.p221{text-align: left;padding-left: 120px;padding-right: 126px;margin-top: 10px;margin-bottom: 0px !important;}
+.p222{text-align: left;padding-left: 120px;padding-right: 147px;margin-top: 8px;margin-bottom: 0px !important;}
+.p223{text-align: left;padding-left: 120px;padding-right: 126px;margin-top: 9px;margin-bottom: 0px !important;}
+.p224{text-align: left;padding-left: 120px;padding-right: 126px;margin-top: 11px;margin-bottom: 0px !important;}
+.p225{text-align: left;padding-left: 120px;padding-right: 126px;margin-top: 12px;margin-bottom: 0px !important;}
+.p226{text-align: left;padding-left: 120px;margin-top: 16px;margin-bottom: 0px !important;}
+.p227{text-align: left;padding-left: 0px;padding-right: 168px;margin-top: 72px;margin-bottom: 0px !important;}
+.p228{text-align: left;padding-left: 0px;padding-right: 168px;margin-top: 10px;margin-bottom: 0px !important;}
+.p229{text-align: left;padding-left: 0px;margin-top: 7px;margin-bottom: 0px !important;}
+.p230{text-align: left;padding-left: 0px;padding-right: 189px;margin-top: 5px;margin-bottom: 0px !important;text-indent: 0.15px;}
+.p231{text-align: left;padding-left: 0px;padding-right: 168px;margin-top: 6px;margin-bottom: 0px !important;text-indent: 0.15px;}
+.p232{text-align: left;padding-left: 0px;padding-right: 168px;margin-top: 3px;margin-bottom: 0px !important;text-indent: 0.15px;}
+.p233{text-align: left;padding-left: 0px;margin-top: 4px;margin-bottom: 0px !important;}
+.p234{text-align: left;padding-left: 0px;padding-right: 168px;margin-top: 4px;margin-bottom: 0px !important;text-indent: 0.14px;}
+.p235{text-align: left;padding-left: 0px;padding-right: 168px;margin-top: 3px;margin-bottom: 0px !important;text-indent: 0.14px;}
+.p236{text-align: left;padding-left: 0px;padding-right: 168px;margin-top: 5px;margin-bottom: 0px !important;text-indent: 0.14px;}
+.p237{text-align: left;padding-left: 0px;padding-right: 168px;margin-top: 7px;margin-bottom: 0px !important;text-indent: 0.15px;}
+.p238{text-align: left;padding-left: 0px;padding-right: 168px;margin-top: 17px;margin-bottom: 0px !important;text-indent: 0.14px;}
+.p239{text-align: left;padding-left: 0px;padding-right: 168px;margin-top: 1px;margin-bottom: 0px !important;text-indent: 0.14px;}
+.p240{text-align: left;padding-left: 160px;padding-right: 147px;margin-top: 72px;margin-bottom: 0px !important;text-indent: 0.15px;}
+.p241{text-align: left;padding-left: 160px;padding-right: 126px;margin-top: 7px;margin-bottom: 0px !important;text-indent: 0.15px;}
+.p242{text-align: left;padding-left: 400px;margin-top: 538px;margin-bottom: 0px !important;}
+.p243{text-align: left;padding-left: 0px;margin-top: 13px;margin-bottom: 0px !important;}
+.p244{text-align: left;padding-left: 0px;padding-right: 294px;margin-top: 7px;margin-bottom: 0px !important;}
+.p245{text-align: left;padding-left: 0px;margin-top: 8px;margin-bottom: 0px !important;}
+.p246{text-align: left;padding-left: 0px;margin-top: 7px;margin-bottom: 0px !important;}
+.p247{text-align: left;padding-left: 0px;padding-right: 189px;margin-top: 9px;margin-bottom: 0px !important;}
+.p248{text-align: left;padding-left: 0px;padding-right: 273px;margin-top: 9px;margin-bottom: 0px !important;}
+.p249{text-align: left;padding-left: 0px;margin-top: 9px;margin-bottom: 0px !important;}
+.p250{text-align: left;padding-left: 0px;padding-right: 189px;margin-top: 8px;margin-bottom: 0px !important;}
+.p251{text-align: left;padding-left: 0px;margin-top: 5px;margin-bottom: 0px !important;}
+.p252{text-align: left;padding-left: 0px;margin-top: 71px;margin-bottom: 0px !important;}
+.p253{text-align: left;padding-left: 120px;padding-right: 147px;margin-top: 7px;margin-bottom: 0px !important;}
+.p254{text-align: left;padding-left: 120px;padding-right: 105px;margin-top: 8px;margin-bottom: 0px !important;}
+.p255{text-align: left;padding-left: 120px;padding-right: 189px;margin-top: 8px;margin-bottom: 0px !important;}
+.p256{text-align: left;padding-left: 400px;margin-top: 493px;margin-bottom: 0px !important;}
+.p257{text-align: right;padding-right: 588px;margin-top: 680px;margin-bottom: 0px !important;}
+.p258{text-align: left;padding-left: 0px;margin-top: 63px;margin-bottom: 0px !important;}
+.p259{text-align: left;padding-left: 0px;margin-top: 31px;margin-bottom: 0px !important;}
+.p260{text-align: left;padding-left: 0px;padding-right: 168px;margin-top: 10px;margin-bottom: 0px !important;}
+.p261{text-align: left;padding-left: 120px;padding-right: 525px;margin-top: 404px;margin-bottom: 0px !important;}
+.p262{text-align: left;padding-left: 120px;padding-right: 483px;margin-top: 2px;margin-bottom: 0px !important;}
+.p263{text-align: left;padding-left: 0px;margin-top: 14px;margin-bottom: 0px !important;}
+.p264{text-align: left;padding-left: 0px;padding-right: 63px;margin-top: 16px;margin-bottom: 0px !important;}
+.p265{text-align: left;padding-left: 0px;margin-top: 13px;margin-bottom: 0px !important;}
+.p266{text-align: left;padding-left: 0px;margin-top: 75px;margin-bottom: 0px !important;}
+.p267{text-align: left;padding-left: 0px;margin-top: 1px;margin-bottom: 0px !important;}
+
+.td0{padding: 0px;margin: 0px;width: 403px;vertical-align: bottom;}
+.td1{padding: 0px;margin: 0px;width: 123px;vertical-align: bottom;}
+.td2{border-bottom: #000000 1px solid;padding: 0px;margin: 0px;width: 403px;vertical-align: bottom;}
+.td3{border-bottom: #000000 1px solid;padding: 0px;margin: 0px;width: 123px;vertical-align: bottom;}
+.td4{padding: 0px;margin: 0px;width: 108px;vertical-align: bottom;}
+.td5{padding: 0px;margin: 0px;width: 408px;vertical-align: bottom;}
+.td6{padding: 0px;margin: 0px;width: 14px;vertical-align: bottom;}
+.td7{padding: 0px;margin: 0px;width: 17px;vertical-align: bottom;}
+.td8{padding: 0px;margin: 0px;width: 390px;vertical-align: bottom;}
+.td9{padding: 0px;margin: 0px;width: 72px;vertical-align: bottom;}
+.td10{padding: 0px;margin: 0px;width: 318px;vertical-align: bottom;}
+.td11{padding: 0px;margin: 0px;width: 90px;vertical-align: bottom;}
+.td12{padding: 0px;margin: 0px;width: 36px;vertical-align: bottom;}
+.td13{padding: 0px;margin: 0px;width: 389px;vertical-align: bottom;}
+.td14{padding: 0px;margin: 0px;width: 96px;vertical-align: bottom;}
+.td15{padding: 0px;margin: 0px;width: 7px;vertical-align: bottom;}
+.td16{padding: 0px;margin: 0px;width: 122px;vertical-align: bottom;}
+.td17{padding: 0px;margin: 0px;width: 402px;vertical-align: bottom;}
+.td18{padding: 0px;margin: 0px;width: 525px;vertical-align: bottom;}
+.td19{padding: 0px;margin: 0px;width: 271px;vertical-align: bottom;}
+.td20{padding: 0px;margin: 0px;width: 77px;vertical-align: bottom;}
+.td21{padding: 0px;margin: 0px;width: 16px;vertical-align: bottom;}
+.td22{padding: 0px;margin: 0px;width: 255px;vertical-align: bottom;}
+.td23{padding: 0px;margin: 0px;width: 239px;vertical-align: bottom;}
+.td24{padding: 0px;margin: 0px;width: 93px;vertical-align: bottom;}
+.td25{padding: 0px;margin: 0px;width: 256px;vertical-align: bottom;}
+
+.tr0{heightzzz: 31px;}
+.tr1{heightzzz: 25px;}
+.tr2{heightzzz: 32px;}
+.tr3{heightzzz: 21px;}
+.tr4{heightzzz: 17px;}
+.tr5{heightzzz: 20px;}
+.tr6{heightzzz: 18px;}
+.tr7{heightzzz: 19px;}
+.tr8{heightzzz: 30px;}
+.tr9{heightzzz: 23px;}
+.tr10{heightzzz: 27px;}
+.tr11{heightzzz: 16px;}
+.tr12{heightzzz: 15px;}
+.tr13{heightzzz: 11px;}
+.tr14{heightzzz: 14px;}
+.tr15{heightzzz: 12px;}
+.tr16{heightzzz: 10px;}
+.tr17{heightzzz: 13px;}
+
+.t0{width: 552px;margin-leftZ: 69px;margin-top: 5px;f:20px 'Verdana' !important;}
+.t1{width: 556px;f:13px 'Verdana' !important;}
+.t2{width: 547px;margin-leftZ: 68px;f:20px 'Verdana' !important;}
+.t3{width: 557px;margin-top: 38px;f:13px 'Verdana' !important;}
+.t4{width: 366px;margin-leftZ: 158px;margin-top: 11px;f:9px 'Verdana' !important;}
+.t5{width: 366px;margin-leftZ: 158px;f:9px 'Verdana' !important;}
+
+</STYLE>
+
+
+
+<DIV id="page_1">
+<DIV id="p1dimg1">
+<INGENBILD zsrc="HC031511x1.jpg/" id="p1img1">
+</DIV>
+
+
+<DIV class="dclr"></DIV>
+<P class="p0 ft0">Regeringens skrivelse 2024/25:151</P>
+<TABLE cellpadding=0 cellspacing=0 class="t0">
+<TR>
+	<TD class="tr0 td0"><SPAN class="p1 ft1">Riksrevisionens rapport om Säkerhetspolisens</SPAN> </TD>
+	<TD class="tr0 td1"><SPAN class="p2 ft1">Skr.</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr1 td2"><SPAN class="p1 ft1">verksamhet</SPAN> </TD>
+	<TD class="tr1 td3"><SPAN class="p2 ft1">2024/25:151</SPAN> </TD>
+</TR>
+</TABLE>
+<P class="p3 ft2">Regeringen överlämnar denna skrivelse till riksdagen.</P>
+<P class="p4 ft2">Stockholm den 3 april 2025</P>
+<P class="p5 ft3">Elisabeth Svantesson</P>
+<P class="p6 ft5">Gunnar Strömmer <SPAN class="ft4">(Justitiedepartementet)</SPAN></P>
+<P class="p7 ft1">Skrivelsens huvudsakliga innehåll</P>
+<P class="p8 ft2">I denna skrivelse redovisar regeringen sin bedömning av de iakttagelser och rekommendationer som Riksrevisionen lämnar i sin granskningsrapport Säkerhetspolisens verksamhet (RiR 2024:24). Riksrevisionen har granskat Säkerhetspolisens säkerhetsunderrättelseverksamhet och arbete med säkerhetsskydd samt styrningen av myndigheten. Den tidsperiod som har granskats är från och med 2015, då Säkerhetspolisen blev en självständig myndighet, till och med oktober 2024. Riksrevisionens samlade bedömning är att det finns flera effektivitetsbrister i Säkerhetspolisens verksamhet. Bristerna är dock enligt Riksrevisionen möjliga att åtgärda. Riksrevisionen lyfter också fram att det pågår ett antal insatser som syftar till att utveckla verksamheten.</P>
+<P class="p9 ft2">Riksrevisionens rekommendation till regeringen är att utöva en mer aktiv styrning av Säkerhetspolisen genom att efterfråga mer information om hur verksamheten fortlöper. Regeringen instämmer inte i Riksrevisionens bedömning kring regeringens styrning av Säkerhetspolisen, utan anser att verksamheten följs noga. Regeringen instämmer däremot i Riksrevisionens bedömning att Säkerhetspolisens underrättelseprodukter är värdefulla för Regeringskansliet och att dessa bör delges Regeringskansliet i större utsträckning.</P>
+<P class="p10 ft4">I och med denna skrivelse anser regeringen att Riksrevisionens rapport är slutbehandlad.</P>
+<P class="p11 ft2">1</P>
+</DIV>
+<DIV id="page_2">
+
+
+<DIV id="id_1">
+<TABLE cellpadding=0 cellspacing=0 class="t1">
+<TR>
+	<TD class="tr2 td4"><SPAN class="p12 ft2">Skr. 2024/25:151</SPAN> </TD>
+	<TD colspan=3 class="tr2 td5"><SPAN class="p13 ft6">Innehållsförteckning</SPAN> </TD>
+	<TD class="tr2 td6"><SPAN class="p12 ft7">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr2 td4"><SPAN class="p12 ft7">&nbsp;</SPAN> </TD>
+	<TD class="tr2 td7"><SPAN class="p13 ft2">1</SPAN> </TD>
+	<TD colspan=2 class="tr2 td8"><SPAN class="p14 ft2">Ärendet och dess beredning ..............................................................</SPAN> </TD>
+	<TD class="tr2 td6"><SPAN class="p15 ft2">3</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr3 td4"><SPAN class="p12 ft7">&nbsp;</SPAN> </TD>
+	<TD class="tr3 td7"><SPAN class="p13 ft2">2</SPAN> </TD>
+	<TD colspan=2 class="tr3 td8"><SPAN class="p14 ft2">Riksrevisionens iakttagelser..............................................................</SPAN> </TD>
+	<TD class="tr3 td6"><SPAN class="p15 ft2">3</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr4 td4"><SPAN class="p12 ft7">&nbsp;</SPAN> </TD>
+	<TD class="tr4 td7"><SPAN class="p12 ft7">&nbsp;</SPAN> </TD>
+	<TD class="tr4 td9"><SPAN class="p14 ft2">2.1</SPAN> </TD>
+	<TD class="tr4 td10"><SPAN class="p12 ft2">Rekommendation till regeringen ........................................</SPAN> </TD>
+	<TD class="tr4 td6"><SPAN class="p15 ft2">4</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr5 td4"><SPAN class="p12 ft7">&nbsp;</SPAN> </TD>
+	<TD class="tr5 td7"><SPAN class="p13 ft2">3</SPAN> </TD>
+	<TD colspan=2 class="tr5 td8"><SPAN class="p14 ft2">Regeringens bedömning och åtgärder med anledning av</SPAN> </TD>
+	<TD class="tr5 td6"><SPAN class="p12 ft7">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr6 td4"><SPAN class="p12 ft7">&nbsp;</SPAN> </TD>
+	<TD class="tr6 td7"><SPAN class="p12 ft7">&nbsp;</SPAN> </TD>
+	<TD colspan=2 class="tr6 td8"><SPAN class="p14 ft2">Riksrevisionens iakttagelser och rekommendation ...........................</SPAN> </TD>
+	<TD class="tr6 td6"><SPAN class="p15 ft2">4</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr7 td4"><SPAN class="p12 ft7">&nbsp;</SPAN> </TD>
+	<TD colspan=2 class="tr7 td11"><SPAN class="p13 ft2">Bilaga 1</SPAN> </TD>
+	<TD class="tr7 td10"><SPAN class="p12 ft2">Riksrevisionens granskningsrapport om</SPAN> </TD>
+	<TD class="tr7 td6"><SPAN class="p12 ft7">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr6 td4"><SPAN class="p12 ft7">&nbsp;</SPAN> </TD>
+	<TD class="tr6 td7"><SPAN class="p12 ft7">&nbsp;</SPAN> </TD>
+	<TD class="tr6 td9"><SPAN class="p12 ft7">&nbsp;</SPAN> </TD>
+	<TD class="tr6 td10"><SPAN class="p12 ft2">Säkerhetspolisens verksamhet (RiR 2024:24)....................</SPAN> </TD>
+	<TD class="tr6 td6"><SPAN class="p15 ft2">7</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr3 td4"><SPAN class="p12 ft7">&nbsp;</SPAN> </TD>
+	<TD colspan=3 class="tr3 td5"><SPAN class="p13 ft2">Utdrag ur protokoll vid regeringssammanträde den 3 april 2025 ...........</SPAN> </TD>
+	<TD class="tr3 td6"><SPAN class="p16 ft2">34</SPAN> </TD>
+</TR>
+</TABLE>
+</DIV>
+<DIV id="id_2">
+<P class="p17 ft2">2</P>
+</DIV>
+</DIV>
+<DIV id="page_3">
+
+
+<TABLE cellpadding=0 cellspacing=0 class="t2">
+<TR>
+	<TD class="tr8 td12"><SPAN class="p18 ft1">1</SPAN> </TD>
+	<TD class="tr8 td13"><SPAN class="p19 ft1">Ärendet och dess beredning</SPAN> </TD>
+	<TD class="tr8 td14"><SPAN class="p12 ft2">Skr. 2024/25:151</SPAN> </TD>
+</TR>
+</TABLE>
+<P class="p20 ft9">Riksrevisionen har granskat Säkerhetspolisens verksamhet. Granskningen redovisas i rapporten Säkerhetspolisens verksamhet (RiR 2024:24), se <SPAN class="ft8">bilagan</SPAN>.</P>
+<P class="p21 ft2">Riksrevisionens rapport överlämnades av riksdagen till regeringen den 12 december 2024. Rapporten innehåller slutsatser och rekommendationer som avser regeringen och Säkerhetspolisen. Inom ramen för framtagandet av denna skrivelse har Säkerhetspolisen fått möjlighet att inkomma med synpunkter.</P>
+<P class="p21 ft9">I denna skrivelse behandlar regeringen de iakttagelser och den rekommendation som Riksrevisionen har riktat till regeringen samt iakttagelser som berör delgivning av underrättelseprodukter till Regeringskansliet, tillsynen av säkerhetsskyddet samt rättsliga förutsättningar avseende behandling av personuppgifter.</P>
+<P class="p22 ft1">2 Riksrevisionens iakttagelser</P>
+<P class="p23 ft9">Riksrevisionen har granskat Säkerhetspolisens säkerhetsunderrättelseverksamhet och arbete med säkerhetsskydd samt styrningen av myndigheten. Med säkerhetsunderrättelseverksamhet avses arbetet med kontraspionage, kontraterrorism samt författningsskydd.</P>
+<P class="p21 ft2">Riksrevisionens samlade bedömning är att det finns flera effektivitetsbrister i Säkerhetspolisens verksamhet. Bristerna är dock enligt Riksrevisionen möjliga att åtgärda. Riksrevisionen lyfter också fram att det pågår ett antal insatser som syftar till att utveckla verksamheten och att det även finns prov på avslutade utvecklingssatsningar med goda resultat, exempelvis genom att effektivisera registerkontrollen så att de tidigare långa handläggningstiderna numera är mycket korta.</P>
+<P class="p24 ft2">Riksrevisionen anser att regeringen inte varit tillräckligt aktiv i sin styrning av Säkerhetspolisen och enligt Riksrevisionen bör regeringen efterfråga mer information om tillståndet i verksamheten. Riksrevisionen bedömer att regeringen i högre grad borde säkerställa att Säkerhetspolisen arbetar effektivt, inte minst eftersom det är en av de viktigaste aktörerna för att upprätthålla säkerheten i Sverige.</P>
+<P class="p24 ft2">Enligt Riksrevisionens bedömning kan Regeringskansliet ha nytta av fler av Säkerhetspolisens underrättelseprodukter, exempelvis hotinformation samt strategiska och operativa analyser, för att få en bättre samlad lägesbild av tillgänglig underrättelseinformation och därmed bättre förutsättningar att styra riket.</P>
+<P class="p25 ft9">Riksrevisionen bedömer att tillsynen inom säkerhetsskydd alltför mycket är inriktad mot det som Riksrevisionen kallar företeelser som är förutsättningsskapande, dvs. säkerhetsskyddsanalyser, säkerhetsskyddsplaner och organisatorisk placering av säkerhetsskyddschef, och mindre mot faktiska åtgärder för att upprätthålla personalsäkerhet, fysisk säkerhet och informationssäkerhet.</P>
+<P class="p26 ft2">3</P>
+</DIV>
+<DIV id="page_4">
+
+
+<P class="p27 ft2">Skr. 2024/25:151 Riksrevisionen konstaterar också att det råder ett visst motsatsförhållande mellan att ge råd i specifika fall och att utöva tillsyn men menar att flera verksamhetsutövare efterfrågar mer rådgivning och att förarbetena till säkerhetsskyddslagen (prop. 2020/21:194 s. 78) lämnar ett visst utrymme för att lämna mer konkret stöd i frågor om säkerhetsskydd än vad Riksrevisionen ser görs i dag.</P>
+<P class="p28 ft2">Riksrevisionen konstaterar också att Säkerhetspolisen i dag inte får behandla personuppgifter under så lång tid som myndigheten själv anser att den behöver för att kunna utföra sitt uppdrag. Därtill anser Riksrevisionen att det är viktigt att Säkerhetspolisen har möjlighet att använda artificiell intelligens för att bearbeta de stora datamängder myndigheten behöver hantera för att klara sitt uppdrag.</P>
+<P class="p29 ft9">Enligt Riksrevisionen är det inte säkert att det integritetsintrång som sparade personuppgifter utgör väger tyngre än att ha bättre möjligheter att hantera eventuella hot mot människors liv och hälsa. Nuvarande gallringsregler framstår därför som effektivitetshindrande.</P>
+<P class="p30 ft9">Riksrevisionen konstaterar att det pågår en översyn av de bestämmelser som reglerar Säkerhetspolisens behandling av personuppgifter som rör nationell säkerhet (Ju 2023:02 Säkerhetspolisens informationshantering, dir. 2023:64).</P>
+<P class="p31 ft10"><SPAN class="ft10">2.1</SPAN><SPAN class="ft11">Rekommendation till regeringen</SPAN></P>
+<P class="p32 ft4">Utöva en mer aktiv styrning av Säkerhetspolisen genom att efterfråga mer information om hur verksamheten fortlöper.</P>
+<TABLE cellpadding=0 cellspacing=0 class="t3">
+<TR>
+	<TD class="tr0 td15"><SPAN class="p12 ft7">&nbsp;</SPAN> </TD>
+	<TD class="tr0 td16"><SPAN class="p33 ft1">3</SPAN> </TD>
+	<TD class="tr0 td17"><SPAN class="p34 ft1">Regeringens bedömning och åtgärder</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr9 td15"><SPAN class="p12 ft7">&nbsp;</SPAN> </TD>
+	<TD class="tr9 td16"><SPAN class="p12 ft7">&nbsp;</SPAN> </TD>
+	<TD class="tr9 td17"><SPAN class="p34 ft1">med anledning av Riksrevisionens</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr10 td15"><SPAN class="p12 ft7">&nbsp;</SPAN> </TD>
+	<TD class="tr10 td16"><SPAN class="p12 ft7">&nbsp;</SPAN> </TD>
+	<TD class="tr10 td17"><SPAN class="p34 ft1">iakttagelser och rekommendation</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr10 td15"><SPAN class="p12 ft7">&nbsp;</SPAN> </TD>
+	<TD colspan=2 class="tr10 td18"><SPAN class="p33 ft2">Riksrevisionens rekommendation till regeringen är att utöva en mer aktiv</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr11 td15"><SPAN class="p12 ft7">&nbsp;</SPAN> </TD>
+	<TD colspan=2 class="tr11 td18"><SPAN class="p33 ft2">styrning av Säkerhetspolisen genom att efterfråga mer information om hur</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr12 td15"><SPAN class="p12 ft7">&nbsp;</SPAN> </TD>
+	<TD colspan=2 class="tr12 td18"><SPAN class="p33 ft2">verksamheten fortlöper. Regeringen instämmer inte i Riksrevisionens</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr12 td15"><SPAN class="p12 ft7">&nbsp;</SPAN> </TD>
+	<TD colspan=2 class="tr12 td18"><SPAN class="p33 ft2">bedömning kring regeringens styrning av Säkerhetspolisen, utan anser att</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr11 td15"><SPAN class="p12 ft7">&nbsp;</SPAN> </TD>
+	<TD colspan=2 class="tr11 td18"><SPAN class="p33 ft2">verksamheten följs noga. Det försämrade säkerhetsläget har dessutom fört</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr12 td15"><SPAN class="p12 ft7">&nbsp;</SPAN> </TD>
+	<TD colspan=2 class="tr12 td18"><SPAN class="p33 ft2">med sig en betydande ökning av informationsflödet mellan Säkerhets-</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr12 td15"><SPAN class="p12 ft7">&nbsp;</SPAN> </TD>
+	<TD colspan=2 class="tr12 td18"><SPAN class="p33 ft2">polisen och regeringen. Regeringen ser inte att det är önskvärt med en</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr11 td15"><SPAN class="p12 ft7">&nbsp;</SPAN> </TD>
+	<TD colspan=2 class="tr11 td18"><SPAN class="p33 ft2">utveckling mot en mer detaljerad och administrativt tyngd styrning i</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr12 td15"><SPAN class="p12 ft7">&nbsp;</SPAN> </TD>
+	<TD colspan=2 class="tr12 td18"><SPAN class="p33 ft2">exempelvis myndighetens regleringsbrev.</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr12 td15"><SPAN class="p12 ft7">&nbsp;</SPAN> </TD>
+	<TD class="tr12 td16"><SPAN class="p12 ft7">&nbsp;</SPAN> </TD>
+	<TD class="tr12 td17"><SPAN class="p1 ft12">Regeringen har den 26 oktober 2023 fattat beslut om att göra en översyn</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr11 td15"><SPAN class="p12 ft7">&nbsp;</SPAN> </TD>
+	<TD colspan=2 class="tr11 td18"><SPAN class="p33 ft2">av underrättelseverksamheten till stöd för svensk <NOBR>utrikes-,</NOBR> säkerhets- och</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr12 td15"><SPAN class="p12 ft7">&nbsp;</SPAN> </TD>
+	<TD colspan=2 class="tr12 td18"><SPAN class="p33 ft2">försvarspolitik samt i övrigt för kartläggning av hot mot Sveriges säkerhet</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr12 td15"><SPAN class="p12 ft7">&nbsp;</SPAN> </TD>
+	<TD colspan=2 class="tr12 td18"><SPAN class="p33 ft2">(dir. 2023:150). Säkerhetspolisen är en av de myndigheter som omfattas</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr11 td15"><SPAN class="p12 ft7">&nbsp;</SPAN> </TD>
+	<TD colspan=2 class="tr11 td18"><SPAN class="p33 ft2">av översynen som ska redovisas till regeringen senast den 30 juni 2025.</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr12 td15"><SPAN class="p12 ft7">&nbsp;</SPAN> </TD>
+	<TD class="tr12 td16"><SPAN class="p12 ft7">&nbsp;</SPAN> </TD>
+	<TD class="tr12 td17"><SPAN class="p1 ft2">Regeringen instämmer i Riksrevisionens bedömning att Säkerhets-</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr5 td15"><SPAN class="p16 ft2">4</SPAN> </TD>
+	<TD colspan=2 class="tr5 td18"><SPAN class="p33 ft12">polisens underrättelseprodukter är värdefulla för Regeringskansliet och att</SPAN> </TD>
+</TR>
+</TABLE>
+</DIV>
+<DIV id="page_5">
+
+
+<DIV>
+<DIV id="id_1">
+<P class="p35 ft9">dessa bör delges Regeringskansliet i större utsträckning än tidigare. Underrättelserapporteringen har på regeringens initiativ vidareutvecklats under senare år och detta utvecklingsarbete behöver fortsätta.</P>
+<P class="p36 ft2">Det är, i linje med vad Riksrevisionen framhåller, önskvärt att Säkerhetspolisens tillsyn gällande säkerhetsskydd inte bara inriktas mot förutsättningsskapande företeelser såsom säkerhetsskyddsanalyser och säkerhetsskyddsplaner, utan även mot faktiska säkerhetsskyddsåtgärder. Regeringen noterar dock att de förutsättningsskapande åtgärderna är av central och grundläggande betydelse i verksamhetsutövares säkerhetsskyddsarbete. Säkerhetsskyddsanalysen är kärnan i ett väl anpassat säkerhetsskydd, för att identifiera skyddsvärde, hot och sårbarheter i en säkerhetskänslig verksamhet (prop. 2017/18:89 s. 56). En väl utförd säkerhetsskyddsanalys ger förutsättningar för adekvata säkerhetsskyddsåtgärder.</P>
+<P class="p36 ft2">Vad gäller Riksrevisionens synpunkter om utökat stöd till verksamhetsutövare, konstaterar regeringen följande. Det är en grundläggande princip inom säkerhetsskydd att den som bedriver säkerhetskänslig verksamhet ansvarar för säkerhetsskyddet i verksamheten (prop. 2017/18:89 s. 56 f. och prop. 2020/21:194 s. 19). Detta ställer stora krav på verksamhetsutövare som bedriver sådan verksamhet. Tillsyn utgör ett viktigt verktyg för att se till att verksamhetsutövarna uppfyller sina skyldigheter gällande säkerhetsskydd. Genom lagändringar som trädde i kraft den 1 december 2021 fick tillsynsmyndigheterna nya tillsynsbefogenheter och möjligheter att ingripa mot verksamhetsutövare som inte uppfyller säkerhetsskyddslagens krav. Ändringarna medförde att tillsynen ändrade karaktär från att vara i huvudsak stödjande och rådgivande, till tillsyn i mer traditionell mening. I förarbetena betonades dock att det är både nödvändigt och ofrånkomligt att tillsynsmyndigheterna även framöver ger verksamhetsutövarna stöd i säkerhetsskyddsarbetet. Som Riksrevisionen noterar, framhölls emellertid också att tillsynsmyndigheterna som utgångspunkt inte ska besvara frågor om vad som ska göras i ett specifikt fall utan snarare lämna upplysningar om innebörden av relevant reglering och hur den ska tolkas samt metoder för hur den kan uppfyllas. För att lämna sådant metodstöd har Säkerhetspolisen bland annat tagit fram vägledningar och exempel på hur säkerhetsskyddsanalyser kan utformas. Säkerhetspolisen strävar också mot att göra tillsynen mer användarvänlig och myndigheten ser löpande över behovet av ändringar i föreskrifter, vägledningar och interna rutiner. Till exempel strävar Säkerhetspolisen mot att vara tydlig i beskrivningen av brister eftersom det ökar förståelsen för vilka åtgärder som behöver vidtas.</P>
+<P class="p37 ft2">Regeringen arbetar kontinuerligt med att följa upp tillämpningen av samt förbättra och förtydliga säkerhetsskyddsregelverket. Som ett led i detta gav regeringen i februari 2024 tillsynsmyndigheterna på säkerhetsskyddsområdet i uppdrag att redovisa hur arbetet med tillsynsarbetet bedrivits (Ju2024/00356). Syftet med uppdraget var att utvärdera den nya tillsynsstrukturen och tillse att tillsynsarbetet är fungerande och effektivt. Inkomna utvärderingar analyseras för närvarande i Regeringskansliet. I december 2024 redovisade Utredningen om en förbättrad process för säkerhetsprövningar betänkandet Säkerhetsprövningar – nya regler (SOU 2024:88). I betänkandet lämnas bland annat förslag som tydliggör</P>
+</DIV>
+<DIV id="id_2">
+<P class="p38 ft2">Skr. 2024/25:151</P>
+<P class="p39 ft2">5</P>
+</DIV>
+</DIV>
+</DIV>
+<DIV id="page_6">
+
+
+<P class="p40 ft4">Skr. 2024/25:151 för verksamhetsutövare vad som ska ingå i en grundutredning i en säkerhetsprövning. Förslagen bereds i Regeringskansliet.</P>
+<P class="p30 ft2">Riksrevisionens slutsats att Säkerhetspolisen i dag inte får behandla personuppgifter under så lång tid som myndigheten anser att den behöver för att kunna utföra sitt uppdrag är något som redan är känt för regeringen. En utredning genomför på regeringens uppdrag en översyn av de bestämmelser som reglerar Säkerhetspolisens behandling av personuppgifter som rör nationell säkerhet (Ju 2023:02). Uppdraget ska redovisas i april 2025.</P>
+<P class="p29 ft4">Regeringen anser i och med detta att Riksrevisionens rapport är slutbehandlad.</P>
+<P class="p41 ft2">6</P>
+</DIV>
+<DIV id="page_7">
+<DIV id="p7dimg1">
+<IMG src="http://data.riksdagen.se/fil/HC03151/HC031517x1.jpg" style="width:528px;height:732px"  id="p7img1">
+</DIV>
+
+
+<DIV id="id_1">
+<P class="p42 ft2">Skr. 2024/25:151</P>
+<P class="p43 ft2">Bilaga</P>
+<P class="p44 ft13">RiR 2024:24</P>
+<P class="p45 ft14">Säkerhetspolisens verksamhet</P>
+</DIV>
+<DIV id="id_2">
+<P class="p17 ft2">7</P>
+</DIV>
+</DIV>
+<DIV id="page_8">
+<DIV id="p8dimg1">
+<INGENBILD zsrc="HC031518x1.jpg/" id="p8img1">
+</DIV>
+
+
+<DIV id="id_1">
+<P class="p17 ft2">Skr. 2024/25:151</P>
+<P class="p46 ft2">Bilaga</P>
+<P class="p47 ft15">Riksrevisionen är en myndighet under riksdagen med uppgift att granska statliga myndigheter och verksamheter. Vi bedriver både årlig revision och eﬀektivitetsrevision. Genom ett grundlagsskyddat oberoende har Riksrevisionen ett starkt mandat och är en viktig del av riksdagens kontrollmakt som bidrar till förbättringar och demokratisk insyn.</P>
+<P class="p48 ft15">Denna rapport har tagits fram inom eﬀektivitetsrevisionen, vars uppgift är att granska hur eﬀektiv den statliga verksamheten är. Vi lämnar även rekommendationer för att förbättra den granskade verksamheten. Eﬀektivitetsgranskningar lämnas direkt till riksdagen som bereder dem tillsammans med en svarsskrivelse från regeringen.</P>
+<P class="p49 ft16">Riksrevisionen</P>
+<P class="p50 ft16">RiR 2024:24</P>
+<P class="p50 ft16">ISBN <NOBR>978-91-7086-702-6</NOBR></P>
+<P class="p51 ft16">ISSN <NOBR>1652-6597</NOBR></P>
+<P class="p50 ft16">Tryck: Riksdagstryckeriet, Stockholm 2024</P>
+</DIV>
+<DIV id="id_2">
+<P class="p17 ft2">8</P>
+</DIV>
+</DIV>
+<DIV id="page_9">
+<DIV id="p9dimg1">
+<INGENBILD zsrc="HC031519x1.jpg/" id="p9img1">
+</DIV>
+
+
+<DIV id="id_1">
+<P class="p42 ft2">Skr. 2024/25:151</P>
+<P class="p43 ft2">Bilaga</P>
+<P class="p52 ft17">Beslutad: <NOBR>2024-11-29</NOBR></P>
+<P class="p53 ft17">Diarienummer: 2023/0508</P>
+<P class="p54 ft17">RiR 2024:24</P>
+<P class="p55 ft17">Till: Riksdagen</P>
+<P class="p56 ft17">Härmed överlämnas enligt 9 § lagen (2002:1022) om revision av statlig verksamhet m.m. följande granskningsrapport:</P>
+<P class="p57 ft18">Säkerhetspolisens verksamhet</P>
+<P class="p58 ft19">Riksrevisionen har granskat Säkerhetspolisens säkerhetsunderrättelseverksamhet och arbete med säkerhetsskydd samt styrningen av myndigheten. Resultatet av granskningen redovisas i denna granskningsrapport. Den innehåller slutsatser och rekommendationer som avser såväl Säkerhetspolisen som regeringen.</P>
+<P class="p59 ft20">Riksrevisionsdirektören Claudia Gardberg Morner har beslutat i detta ärende. Revisionsdirektören Per Dackenberg har varit föredragande. Revisorn Ylva Ericsson, revisionsdirektörerna Sascha Sohlman och Ertan Fiskin samt enhetschefen Jesper Antelius har medverkat i den slutliga handläggningen.</P>
+<P class="p60 ft16">Claudia Gardberg Morner</P>
+<P class="p61 ft16">Per Dackenberg</P>
+<P class="p62 ft21">För kännedom</P>
+<P class="p63 ft16">Regeringskansliet; Justitiedepartementet</P>
+<P class="p64 ft16">Säkerhetspolisen</P>
+</DIV>
+<DIV id="id_2">
+<P class="p17 ft2">9</P>
+</DIV>
+</DIV>
+<DIV id="page_10">
+
+
+<DIV id="id_1">
+<P class="p17 ft4">Skr. 2024/25:151 Bilaga</P>
+</DIV>
+<DIV id="id_2">
+<P class="p17 ft2">10</P>
+</DIV>
+</DIV>
+<DIV id="page_11">
+
+
+<DIV id="id_1">
+<P class="p42 ft2">Skr. 2024/25:151</P>
+<P class="p43 ft2">Bilaga</P>
+<P class="p65 ft22">Innehåll</P>
+<TABLE cellpadding=0 cellspacing=0 class="t4">
+<TR>
+	<TD colspan=2 class="tr13 td19"><SPAN class="p12 ft23">Sammanfattning</SPAN> </TD>
+	<TD class="tr13 td20"><SPAN class="p16 ft23">4</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr12 td21"><SPAN class="p12 ft23">1</SPAN> </TD>
+	<TD class="tr12 td22"><SPAN class="p66 ft23">Inledning</SPAN> </TD>
+	<TD class="tr12 td20"><SPAN class="p16 ft23">7</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr14 td21"><SPAN class="p12 ft16">1.1</SPAN> </TD>
+	<TD class="tr14 td22"><SPAN class="p66 ft16">Motiv till granskning</SPAN> </TD>
+	<TD class="tr14 td20"><SPAN class="p16 ft16">7</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr15 td21"><SPAN class="p12 ft16">1.2</SPAN> </TD>
+	<TD class="tr15 td22"><SPAN class="p66 ft16">Övergripande revisionsfråga och avgränsningar</SPAN> </TD>
+	<TD class="tr15 td20"><SPAN class="p16 ft16">7</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr15 td21"><SPAN class="p12 ft16">1.3</SPAN> </TD>
+	<TD class="tr15 td22"><SPAN class="p66 ft16">Bedömningsgrunder</SPAN> </TD>
+	<TD class="tr15 td20"><SPAN class="p16 ft16">8</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr15 td21"><SPAN class="p12 ft16">1.4</SPAN> </TD>
+	<TD class="tr15 td22"><SPAN class="p66 ft16">Metod och genomförande</SPAN> </TD>
+	<TD class="tr15 td20"><SPAN class="p16 ft16">11</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr11 td21"><SPAN class="p12 ft23">2</SPAN> </TD>
+	<TD class="tr11 td22"><SPAN class="p66 ft23">Kort om den granskade verksamheten</SPAN> </TD>
+	<TD class="tr11 td20"><SPAN class="p16 ft23">12</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr14 td21"><SPAN class="p12 ft16">2.1</SPAN> </TD>
+	<TD class="tr14 td22"><SPAN class="p66 ft16">Säkerhetsunderrättelseverksamheten</SPAN> </TD>
+	<TD class="tr14 td20"><SPAN class="p16 ft16">12</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr15 td21"><SPAN class="p12 ft16">2.2</SPAN> </TD>
+	<TD class="tr15 td22"><SPAN class="p66 ft16">Säkerhetsskyddsverksamheten</SPAN> </TD>
+	<TD class="tr15 td20"><SPAN class="p16 ft16">13</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr15 td21"><SPAN class="p12 ft16">2.3</SPAN> </TD>
+	<TD class="tr15 td22"><SPAN class="p66 ft16">Styrningen av Säkerhetspolisen</SPAN> </TD>
+	<TD class="tr15 td20"><SPAN class="p16 ft16">15</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr11 td21"><SPAN class="p12 ft23">3</SPAN> </TD>
+	<TD class="tr11 td22"><SPAN class="p66 ft23">Slutsatser och rekommendationer</SPAN> </TD>
+	<TD class="tr11 td20"><SPAN class="p16 ft23">16</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr14 td21"><SPAN class="p12 ft16">3.1</SPAN> </TD>
+	<TD class="tr14 td22"><SPAN class="p66 ft16">Begränsad delgivning av underrättelseprodukter</SPAN> </TD>
+	<TD class="tr14 td20"><SPAN class="p16 ft16">16</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr14 td21"><SPAN class="p12 ft16">3.2</SPAN> </TD>
+	<TD class="tr14 td22"><SPAN class="p66 ft16">Tillsynen inom säkerhetsskydd kan förbättras</SPAN> </TD>
+	<TD class="tr14 td20"><SPAN class="p16 ft16">17</SPAN> </TD>
+</TR>
+</TABLE>
+<P class="p67 ft25"><SPAN class="ft17">3.3</SPAN><SPAN class="ft24">Registerkontroller har blivit effektivare, men personliga samtal kan</SPAN></P>
+<TABLE cellpadding=0 cellspacing=0 class="t5">
+<TR>
+	<TD class="tr16 td21"><SPAN class="p12 ft26">&nbsp;</SPAN> </TD>
+	<TD class="tr16 td23"><SPAN class="p66 ft27">effektiviseras</SPAN> </TD>
+	<TD class="tr16 td24"><SPAN class="p16 ft27">18</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr15 td21"><SPAN class="p12 ft16">3.4</SPAN> </TD>
+	<TD class="tr15 td23"><SPAN class="p66 ft16">Regeringen styr i för liten utsträckning</SPAN> </TD>
+	<TD class="tr15 td24"><SPAN class="p16 ft16">18</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr17 td21"><SPAN class="p12 ft16">3.5</SPAN> </TD>
+	<TD class="tr17 td23"><SPAN class="p66 ft16">Den interna styrningen är delvis otydlig</SPAN> </TD>
+	<TD class="tr17 td24"><SPAN class="p16 ft16">18</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr15 td21"><SPAN class="p12 ft16">3.6</SPAN> </TD>
+	<TD class="tr15 td23"><SPAN class="p66 ft16">Civil beredskap</SPAN> </TD>
+	<TD class="tr15 td24"><SPAN class="p16 ft16">19</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr15 td21"><SPAN class="p12 ft16">3.7</SPAN> </TD>
+	<TD class="tr15 td23"><SPAN class="p66 ft16">Förutsättningarna är otillräckliga</SPAN> </TD>
+	<TD class="tr15 td24"><SPAN class="p16 ft16">19</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr15 td21"><SPAN class="p12 ft16">3.8</SPAN> </TD>
+	<TD class="tr15 td23"><SPAN class="p66 ft16">Rekommendationer</SPAN> </TD>
+	<TD class="tr15 td24"><SPAN class="p16 ft16">20</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=2 class="tr11 td25"><SPAN class="p12 ft23">Referenslista</SPAN> </TD>
+	<TD class="tr11 td24"><SPAN class="p16 ft23">22</SPAN> </TD>
+</TR>
+</TABLE>
+</DIV>
+<DIV id="id_2">
+<P class="p17 ft2">11</P>
+</DIV>
+</DIV>
+<DIV id="page_12">
+<DIV id="p12dimg1">
+<INGENBILD zsrc="HC0315112x1.jpg/" id="p12img1">
+</DIV>
+
+
+<DIV id="id_1">
+<P class="p17 ft2">Skr. 2024/25:151</P>
+<P class="p46 ft2">Bilaga</P>
+<P class="p68 ft22">Sammanfattning</P>
+<P class="p69 ft15">Riksrevisionen har granskat Säkerhetspolisens säkerhetsunderrättelseverksamhet<SPAN class="ft28">1 </SPAN>och arbete med säkerhetsskydd samt styrningen av myndigheten.</P>
+<P class="p70 ft19">Säkerhetspolisen är en myndighet som har stor betydelse för att skydda Sverige, vår demokrati och våra grundläggande fri- och rättigheter. Till följd av den senaste tidens kraftigt försämrade omvärldsläge samt en förhöjd terrorhotnivå i och mot Sverige har Säkerhetspolisen en synnerligen viktig uppgift att värna Sveriges säkerhet. Riksrevisionen har dessutom aldrig tidigare granskat Säkerhetspolisens verksamhet ur ett effektivitetsperspektiv, frånsett ett antal gånger i mycket begränsade delar när det haft bäring på andra myndigheter som granskats.</P>
+<P class="p71 ft20">Sedan Säkerhetspolisen avskildes från dåvarande Rikspolisstyrelsen och blev en självständig myndighet 2015 har myndigheten växt, sett till både pengar och personal. Under samma period ökade anslaget med 114 procent.</P>
+<P class="p72 ft20">Riksrevisionens samlade bedömning är att det finns flera effektivitetsbrister i Säkerhetspolisens verksamhet. Bristerna är dock enligt Riksrevisionen möjliga att åtgärda.</P>
+<P class="p73 ft20">Det finns otydligheter i Säkerhetspolisens interna styrning och kontroll. Förutsättningarna för att kunna bedriva verksamheten effektivt är också delvis otillräckliga, dels för att det finns författningar som lägger hinder i vägen, dels på grund av resursbrist.</P>
+<P class="p74 ft20">Granskningen visar också att det finns möjligheter att åstadkomma effektivitetsförbättringar i verksamheten. Det pågår ett antal insatser som syftar till att utveckla verksamheten, till exempel i fråga om intern utbildning. Det finns även prov på avslutade utvecklingssatsningar med goda resultat, exempelvis genom att effektivisera registerkontrollen så att de tidigare långa handläggningstiderna numera är mycket korta.</P>
+<P class="p75 ft29">Rekommendationer</P>
+<P class="p76 ft16">I syfte att stärka effektiviteten i Säkerhetspolisens verksamhet lämnar Riksrevisionen följande rekommendationer.</P>
+<P class="p77 ft30">Till regeringen</P>
+<P class="p78 ft16"><SPAN class="ft31">•</SPAN><SPAN class="ft32">Utöva en mer aktiv styrning av Säkerhetspolisen genom att efterfråga mer information om hur verksamheten fortlöper.</SPAN></P>
+<P class="p79 ft34"><SPAN class="ft33">1 </SPAN>Med säkerhetsunderrättelseverksamhet avses arbetet med kontraspionage, kontraterrorism samt författningsskydd.</P>
+<P class="p80 ft17"><SPAN class="ft17">4</SPAN><SPAN class="ft35">Riksrevisionen</SPAN></P>
+</DIV>
+<DIV id="id_2">
+<P class="p17 ft2">12</P>
+</DIV>
+</DIV>
+<DIV id="page_13">
+
+
+<DIV id="id_1">
+<P class="p42 ft2">Skr. 2024/25:151</P>
+<P class="p43 ft2">Bilaga</P>
+<P class="p81 ft30">Till Säkerhetspolisen</P>
+<P class="p82 ft16"><SPAN class="ft31">•</SPAN><SPAN class="ft36">Delge underrättelseprodukter till Regeringskansliet i större utsträckning.</SPAN></P>
+<P class="p83 ft15"><SPAN class="ft31">•</SPAN><SPAN class="ft37">Inrikta tillsynen av säkerhetsskyddet mer mot säkerhetsskyddsåtgärderna fysiskt skydd, informationssäkerhet och personalsäkerhet, genomför tillsyn i fler fall samt lämna mer stöd i enskilda fall till verksamhetsutövarna.</SPAN></P>
+<P class="p84 ft15"><SPAN class="ft31">•</SPAN><SPAN class="ft37">Delge alltid anmälda säkerhetshotande händelser skyndsamt till berörd tillsynsmyndighet för den verksamhetsutövare där händelsen har inträffat.</SPAN></P>
+<P class="p85 ft16"><SPAN class="ft31">•</SPAN><SPAN class="ft36">Ändra Säkerhetspolisens föreskrifter om säkerhetsskydd på följande sätt:</SPAN></P>
+<P class="p86 ft19"><SPAN class="ft38">o </SPAN>att verksamhetsutövare ska lämna grundutredningen till Säkerhetspolisen för dem som myndigheten ska hålla personliga samtal med</P>
+<P class="p87 ft20"><SPAN class="ft39">o </SPAN>att verksamhetsutövare vid beslut om fastställande eller uppdatering av säkerhetsskyddsanalys och säkerhetsskyddsplan ska lämna dessa till tillsynsmyndigheten, och till Säkerhetspolisen om annan myndighet än Säkerhetspolisen är tillsynsmyndighet</P>
+<P class="p88 ft16"><SPAN class="ft40">o </SPAN>att verksamhetsutövares säkerhetsskyddsorganisation ska vara beskriven i säkerhetsskyddsanalysen.</P>
+<P class="p89 ft16"><SPAN class="ft31">•</SPAN><SPAN class="ft36">Fastställ en tydlig rutin för särskilda personutredningar inklusive personliga samtal inför placering i säkerhetsklass.</SPAN></P>
+<P class="p90 ft20"><SPAN class="ft31">•</SPAN><SPAN class="ft41">Förtydliga och konkretisera den interna styrningen och processerna för den öppna informationsinhämtningen och informationsbearbetningen.</SPAN></P>
+<P class="p91 ft20"><SPAN class="ft31">•</SPAN><SPAN class="ft41">Öka bemanningen vid de regionala sektionerna så att de behov som finns kan tillgodoses, samt ge sektionerna ökade befogenheter vid samverkan med andra myndigheter regionalt.</SPAN></P>
+<P class="p92 ft17">Riksrevisionen 5</P>
+</DIV>
+<DIV id="id_2">
+<P class="p17 ft2">13</P>
+</DIV>
+</DIV>
+<DIV id="page_14">
+
+
+<DIV id="id_1">
+<P class="p93 ft2">Skr. 2024/25:151</P>
+<P class="p94 ft2">Bilaga</P>
+<P class="p95 ft17">6 Riksrevisionen</P>
+</DIV>
+<DIV id="id_2">
+<P class="p17 ft2">14</P>
+</DIV>
+</DIV>
+<DIV id="page_15">
+<DIV id="p15dimg1">
+<INGENBILD zsrc="HC0315115x1.jpg/" id="p15img1">
+</DIV>
+
+
+<DIV id="id_1">
+<P class="p42 ft2">Skr. 2024/25:151</P>
+<P class="p43 ft2">Bilaga</P>
+<P class="p96 ft22"><SPAN class="ft30">1</SPAN><SPAN class="ft42">Inledning</SPAN></P>
+<P class="p97 ft29"><SPAN class="ft21">1.1</SPAN><SPAN class="ft43">Motiv till granskning</SPAN></P>
+<P class="p98 ft19">Säkerhetspolisen är en myndighet som har stor betydelse för att skydda Sverige, vår demokrati och våra grundläggande fri- och rättigheter. Till följd av den senaste tidens kraftigt försämrade omvärldsläge samt en förhöjd terrorhotnivå i och mot Sverige har Säkerhetspolisen en synnerligen viktig uppgift att värna Sveriges säkerhet. Riksrevisionen har dessutom aldrig tidigare granskat Säkerhetspolisens verksamhet ur ett effektivitetsperspektiv, frånsett ett antal gånger i mycket begränsade delar när det haft bäring på andra myndigheter som granskats.</P>
+<P class="p99 ft20">Sedan Säkerhetspolisen avskildes från dåvarande Rikspolisstyrelsen och blev en självständig myndighet 2015 har myndigheten växt, sett till både pengar och personal. Under samma period ökade anslaget med 114 procent.</P>
+<P class="p100 ft16">Det finns således skäl att granska effektiviteten i Säkerhetspolisens verksamhet.</P>
+<P class="p101 ft29"><SPAN class="ft30">1.2</SPAN><SPAN class="ft44">Övergripande revisionsfråga och avgränsningar</SPAN></P>
+<P class="p102 ft19">Granskningens övergripande revisionsfråga är om Säkerhetspolisens arbete för att värna Sveriges säkerhet är effektivt.<SPAN class="ft45">2 </SPAN>Granskningen omfattar även hur regeringen har styrt Säkerhetspolisen. Den tidsperiod som har granskats är från och med 2015, då Säkerhetspolisen blev en självständig myndighet, till och med oktober 2024.</P>
+<P class="p103 ft30"><SPAN class="ft23">1.2.1</SPAN><SPAN class="ft46">Delfrågor</SPAN></P>
+<P class="p104 ft16"><SPAN class="ft17">1.</SPAN><SPAN class="ft47">Är Säkerhetspolisens säkerhetsunderrättelseverksamhet effektiv?</SPAN></P>
+<P class="p105 ft16"><SPAN class="ft17">2.</SPAN><SPAN class="ft47">Är Säkerhetspolisens arbete med säkerhetsskydd effektivt?</SPAN></P>
+<P class="p106 ft16"><SPAN class="ft17">3.</SPAN><SPAN class="ft47">Är styrningen av Säkerhetspolisen effektiv?</SPAN></P>
+<P class="p107 ft20">Säkerhetsunderrättelseverksamheten, som delfråga 1 avser, omfattar det arbete som bedrivs inom ramen för verksamhetsområdena kontraspionage, kontraterrorism och författningsskydd. Delfråga 3 avser såväl regeringens styrning av Säkerhetspolisen som dess interna styrning inklusive det egna säkerhetsskyddet. Se mer om detta i kapitel 2.</P>
+<P class="p108 ft50"><SPAN class="ft48">2</SPAN><SPAN class="ft49">Med effektivt avses resursutnyttjande och måluppfyllelse.</SPAN></P>
+<P class="p109 ft17">Riksrevisionen 7</P>
+</DIV>
+<DIV id="id_2">
+<P class="p17 ft2">15</P>
+</DIV>
+</DIV>
+<DIV id="page_16">
+<DIV id="p16dimg1">
+<INGENBILD zsrc="HC0315116x1.jpg/" id="p16img1">
+</DIV>
+
+
+<DIV id="id_1">
+<P class="p17 ft2">Skr. 2024/25:151</P>
+<P class="p46 ft2">Bilaga</P>
+<P class="p110 ft30"><SPAN class="ft21">1.2.2</SPAN><SPAN class="ft51">Avgränsningar</SPAN></P>
+<P class="p111 ft20">Riksrevisionen har i granskningens inledningsskede analyserat Säkerhetspolisens organisation och funnit att denna inriktning av granskningen omfattar det mest granskningsvärda i förhållande till såväl risker för potentiella effektivitetsbrister som det läge Sverige befinner sig i för närvarande.</P>
+<P class="p112 ft16">Av delfrågorna framgår granskningens omfattning. Granskningen omfattar dock inte följande delar av Säkerhetspolisens verksamhet:</P>
+<P class="p113 ft16"><SPAN class="ft31">•</SPAN><SPAN class="ft32">verksamhetsområde personskydd (skyddet av den centrala statsledningen)</SPAN></P>
+<P class="p114 ft16"><SPAN class="ft31">•</SPAN><SPAN class="ft32">brottsutredningar</SPAN></P>
+<P class="p115 ft16"><SPAN class="ft31">•</SPAN><SPAN class="ft32">utlänningsärenden</SPAN></P>
+<P class="p116 ft16"><SPAN class="ft31">•</SPAN><SPAN class="ft32">förhindrande av spridning, anskaffning och produktion av massförstörelsevapen</SPAN></P>
+<P class="p117 ft53"><SPAN class="ft31">•</SPAN><SPAN class="ft52">IT- och teknikavdelningens verksamhet, såvida det inte direkt påverkar säkerhetsunderrättelse- och säkerhetsskyddsverksamheten.</SPAN></P>
+<P class="p118 ft29"><SPAN class="ft30">1.3</SPAN><SPAN class="ft44">Bedömningsgrunder</SPAN></P>
+<P class="p119 ft16">Riksrevisionens utgångspunkter för att bedöma effektiviteten i Säkerhetspolisens arbete är följande.</P>
+<P class="p120 ft16"><SPAN class="ft31">•</SPAN><SPAN class="ft32">Säkerhetspolisens verksamhet ska leda till att hot och sårbarheter reduceras, så att Sveriges säkerhet kan upprätthållas.</SPAN><SPAN class="ft54">3</SPAN></P>
+<P class="p121 ft16"><SPAN class="ft31">•</SPAN><SPAN class="ft32">Säkerhetspolisens verksamhet ska bedrivas effektivt, enligt gällande rätt och ska fortlöpande utvecklas.</SPAN><SPAN class="ft54">4</SPAN></P>
+<P class="p122 ft53"><SPAN class="ft31">•</SPAN><SPAN class="ft52">Säkerhetspolisens myndighetsledning ska se till att det finns en process för intern styrning och kontroll som fungerar på ett betryggande sätt.</SPAN><SPAN class="ft33">5</SPAN></P>
+<P class="p123 ft16">Av dessa utgångspunkter följer till exempel att:</P>
+<P class="p124 ft20"><SPAN class="ft31">•</SPAN><SPAN class="ft55">Säkerhetspolisen ska ha förmåga att snabbt kunna anpassa sig till nya förhållanden och förutsättningar</SPAN></P>
+<P class="p125 ft20"><SPAN class="ft31">•</SPAN><SPAN class="ft55">Säkerhetspolisen ska ha förmåga att samverka med både andra relevanta myndigheter och underrättelse- och säkerhetstjänster</SPAN></P>
+<P class="p114 ft16"><SPAN class="ft31">•</SPAN><SPAN class="ft32">personalen ska ha den kompetens som behövs för att klara uppdraget.</SPAN></P>
+<P class="p126 ft16">Utgångspunkterna har sedan operationaliserats så att de ska motsvara rimliga krav att ställa på verksamheten.</P>
+<P class="p127 ft50"><SPAN class="ft48">3</SPAN><SPAN class="ft49">3 § polislagen (1984:387).</SPAN></P>
+<P class="p128 ft50"><SPAN class="ft48">4</SPAN><SPAN class="ft49">1 kap. 3 § budgetlagen (2011:203) samt 3 § och 6 § första stycket myndighetsförordningen (2007:515).</SPAN></P>
+<P class="p129 ft50"><SPAN class="ft48">5</SPAN><SPAN class="ft49">2 § förordningen (2007:603) om intern styrning och kontroll.</SPAN></P>
+<P class="p130 ft17"><SPAN class="ft17">8</SPAN><SPAN class="ft35">Riksrevisionen</SPAN></P>
+</DIV>
+<DIV id="id_2">
+<P class="p17 ft2">16</P>
+</DIV>
+</DIV>
+<DIV id="page_17">
+<DIV id="p17dimg1">
+<INGENBILD zsrc="HC0315117x1.jpg/" id="p17img1">
+</DIV>
+
+
+<DIV id="id_1">
+<P class="p42 ft2">Skr. 2024/25:151</P>
+<P class="p43 ft2">Bilaga</P>
+<P class="p131 ft30"><SPAN class="ft21">1.3.1</SPAN><SPAN class="ft56">Operationaliserade bedömningsgrunder till delfråga 1</SPAN></P>
+<P class="p132 ft19">För att svara på frågan om Säkerhetspolisens säkerhetsunderrättelsearbete är effektivt utgår vi från ovanstående utgångspunkter samt de författningsstyrda krav<SPAN class="ft45">6 </SPAN>och interna regler<SPAN class="ft45">7 </SPAN>som styr arbetet. Därutöver har vi gjort rimlighetsbedömningar med tonvikt på i vilken utsträckning verksamheten bidrar till att förebygga och avslöja brott mot Sveriges säkerhet samt bekämpa terrorism.</P>
+<P class="p133 ft16">Riksrevisionen bedömer att Säkerhetspolisens säkerhetsunderrättelseverksamhet är effektiv om:</P>
+<P class="p134 ft15"><SPAN class="ft31">•</SPAN><SPAN class="ft37">nödvändig inriktning, inhämtning, bearbetning, analys och delgivning av information sker när det är påkallat och leder till åtgärder</SPAN><SPAN class="ft28">8 </SPAN>som reducerar hoten</P>
+<P class="p135 ft20"><SPAN class="ft31">•</SPAN><SPAN class="ft41">Säkerhetspolisens styrning och processer för inriktning, inhämtning, bearbetning, analys och delgivning av information utgör ett stöd för verksamheten, och att dessa för arbetet framåt</SPAN></P>
+<P class="p136 ft16"><SPAN class="ft31">•</SPAN><SPAN class="ft36">personalen arbetar systematiskt, enhetligt och rättssäkert</SPAN></P>
+<P class="p137 ft53"><SPAN class="ft31">•</SPAN><SPAN class="ft57">det finns tillräckligt med administrativt och tekniskt stöd samt nödvändig kompetens, exempelvis inom språk, teknik och praktiskt utförande</SPAN></P>
+<P class="p138 ft15"><SPAN class="ft31">•</SPAN><SPAN class="ft37">resurserna används på ett effektivt sätt, exempelvis genom att personalen får arbetsuppgifter, att dessa motsvarar personalens kompetens samt att det finns mandat och andra förutsättningar som behövs för att utföra uppgifterna</SPAN></P>
+<P class="p139 ft16"><SPAN class="ft31">•</SPAN><SPAN class="ft36">Säkerhetspolisen har förmåga att samverka med andra relevanta myndigheter och underrättelse- och säkerhetstjänster.</SPAN></P>
+<P class="p140 ft30"><SPAN class="ft21">1.3.2</SPAN><SPAN class="ft58">Operationaliserade bedömningsgrunder till delfråga 2</SPAN></P>
+<P class="p141 ft16">För att svara på frågan om Säkerhetspolisens arbete med säkerhetsskydd är effektivt utgår vi från författningsstyrda krav<SPAN class="ft54">9 </SPAN>och rimlighetsbedömningar.</P>
+<P class="p142 ft60"><SPAN class="ft48">6</SPAN><SPAN class="ft59">Polislagen (1984:387); polisförordningen (2014:1104); förordningen (2022:1719) med instruktion för Säkerhetspolisen; lagen (2019:1182) om Säkerhetspolisens behandling av personuppgifter; polisdatalagen (2010:361); lagen (2016:774) om uppgiftsskyldighet vid samverkan mot viss organiserad brottslighet; lagen (2012:278) om inhämtning av uppgifter om elektronisk kommunikation i de brottsbekämpande myndigheternas underrättelseverksamhet; Ds (2018:35) Polisens tillgång till uppgifter från signalspaning.</SPAN></P>
+<P class="p143 ft34"><SPAN class="ft48">7</SPAN><SPAN class="ft61">Säkerhetspolisens arbetsordning, verksamhetsplaner och interna bestämmelser. Därutöver finns vägledningar, handböcker, mallar, etc.</SPAN></P>
+<P class="p144 ft63"><SPAN class="ft48">8</SPAN><SPAN class="ft62">Här avses i första hand åtgärder som Säkerhetspolisen vidtar, såsom avvärjning av attentat, förnyad underrättelseinriktning eller extern delgivning. Exempelvis kan extern delgivning av information om olovlig underrättelseverksamhet till Regeringskansliet leda till att regeringen förklarar en utländsk underrättelseofficer, som arbetar under diplomatisk täckmantel i Sverige, som icke önskvärd i landet, så kallad persona non grata (PNG).</SPAN></P>
+<P class="p145 ft65"><SPAN class="ft48">9</SPAN><SPAN class="ft64">De bestämmelser som styr arbetet med säkerhetsskydd finns framför allt i säkerhetsskyddslagen (2018:585), säkerhetsskyddsförordningen (2021:955) samt Säkerhetspolisens föreskrifter om säkerhetsskydd (PMFS 2022:1). I dessa finns bestämmelser om tillsyn och vägledning, säkerhetsprövning, informationssäkerhet, säkerhetsskyddsavtal samt internationella åtaganden om säkerhetsskydd.</SPAN></P>
+<P class="p146 ft17">Riksrevisionen 9</P>
+</DIV>
+<DIV id="id_2">
+<P class="p17 ft2">17</P>
+</DIV>
+</DIV>
+<DIV id="page_18">
+
+
+<DIV id="id_1">
+<P class="p17 ft2">Skr. 2024/25:151</P>
+<P class="p46 ft2">Bilaga</P>
+<P class="p147 ft16">Riksrevisionen bedömer att Säkerhetspolisens arbete med säkerhetsskydd är effektivt om:</P>
+<P class="p113 ft16"><SPAN class="ft31">•</SPAN><SPAN class="ft32">Säkerhetspolisens arbete bidrar till ett gott säkerhetsskydd</SPAN></P>
+<P class="p148 ft20"><SPAN class="ft31">•</SPAN><SPAN class="ft55">Säkerhetspolisens tillsyn av statliga myndigheters säkerhetsskydd sker med rimlig frekvens, prioriteras med utgångspunkt i identifierade risker samt följs upp på ett lämpligt sätt</SPAN></P>
+<P class="p149 ft16"><SPAN class="ft31">•</SPAN><SPAN class="ft32">de personer som arbetar med säkerhetsskydd har tillgång till de underrättelser de behöver</SPAN></P>
+<P class="p150 ft16"><SPAN class="ft31">•</SPAN><SPAN class="ft32">Säkerhetspolisens vägledningar har en rimlig grad av konkretion</SPAN></P>
+<P class="p151 ft20"><SPAN class="ft31">•</SPAN><SPAN class="ft55">Säkerhetspolisens samordningsansvar i relation till övriga tillsynsmyndigheter bedrivs så att en enhetlig och kvalitativ tillsyn säkerställs genom ett systematiskt informations- och erfarenhetsutbyte</SPAN></P>
+<P class="p152 ft53"><SPAN class="ft31">•</SPAN><SPAN class="ft52">Säkerhetspolisen samverkar med Försvarsmakten (Must) på ett lämpligt sätt med utgångspunkt i myndigheternas respektive samordningsansvar.</SPAN></P>
+<P class="p118 ft30"><SPAN class="ft30">1.3.3</SPAN><SPAN class="ft58">Operationaliserade bedömningsgrunder till delfråga 3</SPAN></P>
+<P class="p153 ft16">För att svara på frågan om styrningen av Säkerhetspolisen är effektiv använder vi oss av följande bedömningsgrunder.</P>
+<P class="p123 ft16">Riksrevisionen bedömer att styrningen av Säkerhetspolisens är effektiv om:</P>
+<P class="p154 ft16"><SPAN class="ft31">•</SPAN><SPAN class="ft32">regeringens inriktning av Säkerhetspolisen är tydlig</SPAN></P>
+<P class="p155 ft20"><SPAN class="ft31">•</SPAN><SPAN class="ft55">uppföljning och återrapportering av arbetet ger regeringen ett relevant beslutsunderlag för att styra Säkerhetspolisen</SPAN></P>
+<P class="p115 ft16"><SPAN class="ft31">•</SPAN><SPAN class="ft32">Säkerhetspolisens process för intern styrning och kontroll är spårbar</SPAN></P>
+<P class="p151 ft16"><SPAN class="ft31">•</SPAN><SPAN class="ft32">Säkerhetspolisen hanterar de risker i verksamheten som uppstår, i synnerhet de högre riskerna</SPAN></P>
+<P class="p156 ft20"><SPAN class="ft31">•</SPAN><SPAN class="ft55">Säkerhetspolisen säkerställer att det egna säkerhetsskyddet är ändamålsenligt sett till myndighetens uppdrag, vilket förutsätter en väl fungerande intern styrning i form av exempelvis tydliga styrdokument och strukturerad uppföljning och utvärdering</SPAN></P>
+<P class="p157 ft20"><SPAN class="ft31">•</SPAN><SPAN class="ft55">Säkerhetspolisen uppfyller de krav som finns i förordningen (2022:524) om statliga myndigheters beredskap om att minska sårbarheten i samhället samt att utveckla en god förmåga att hantera sina uppgifter vid fredstida krissituationer och höjd beredskap</SPAN></P>
+<P class="p158 ft20"><SPAN class="ft31">•</SPAN><SPAN class="ft55">Säkerhetspolisen i övrig skapat rimliga förutsättningar för civil beredskap i form av redundans, robusthet och prioriteringar.</SPAN></P>
+<P class="p159 ft17">10 Riksrevisionen</P>
+</DIV>
+<DIV id="id_2">
+<P class="p17 ft2">18</P>
+</DIV>
+</DIV>
+<DIV id="page_19">
+<DIV id="p19dimg1">
+<INGENBILD zsrc="HC0315119x1.jpg/" id="p19img1">
+</DIV>
+
+
+<DIV id="id_1">
+<P class="p42 ft2">Skr. 2024/25:151</P>
+<P class="p43 ft2">Bilaga</P>
+<P class="p131 ft29"><SPAN class="ft30">1.4</SPAN><SPAN class="ft44">Metod och genomförande</SPAN></P>
+<P class="p160 ft15">Företrädare för Regeringskansliet (Justitiedepartementet) och Säkerhetspolisen har fått tillfälle att faktagranska och i övrigt lämna synpunkter på ett utkast till granskningsrapport.</P>
+<P class="p161 ft19">Granskningen har av sekretess- och säkerhetsskäl till stora delar genomfört på plats på Säkerhetspolisens huvudkontor. Insamling av relevanta fakta har huvudsakligen genomförts genom intervjuer, dokumentgranskning och två enkätundersökningar.</P>
+<P class="p162 ft19">Det finns delar av verksamheten som är granskade, men som inte är möjliga att beskriva i denna rapport på grund av sekretess. Regeringskansliet och Säkerhetspolisen har i särskild ordning delgivits en närmare redogörelse för resultatet av granskningen.</P>
+<P class="p103 ft30"><SPAN class="ft21">1.4.1</SPAN><SPAN class="ft56">Intervjuer</SPAN></P>
+<P class="p163 ft20">Vi har intervjuat berörda avdelningschefer och enhetschefer på Säkerhetspolisen. Vi har också intervjuat ett antal sektionschefer, gruppchefer, operativa handläggare och olika specialistbefattningar. På Regeringskansliet har företrädare för Justitiedepartementet, Försvarsdepartementet, Utrikesdepartementet samt Statsrådsberedningen blivit intervjuade. Därutöver har vi intervjuat företrädare för Försvarsmakten (Must<SPAN class="ft66">10</SPAN>) och Försvarets radioanstalt (FRA). Sammanlagt har det skett vid 116 intervjutillfällen och berört 113 personer.<SPAN class="ft66">11</SPAN></P>
+<P class="p164 ft30"><SPAN class="ft21">1.4.2</SPAN><SPAN class="ft58">Dokumentgranskning</SPAN></P>
+<P class="p165 ft19">Vi har tagit del av ett omfattande antal dokument från Säkerhetspolisen. Det gäller olika styrdokument, rapporter från verksamhetskontrollen<SPAN class="ft45">12</SPAN>, internrevisionsrapporter, analysrapporter (strategiska, operativa och taktiska) samt ett flertal andra dokument med bäring på såväl kärnverksamheten som administrativt stöd. Vi har även tagit del av vissa dokument från Regeringskansliet. Utöver detta har vi i kompletterande syfte läst litteratur om underrättelse- och säkerhetsverksamhet.</P>
+<P class="p166 ft30"><SPAN class="ft21">1.4.3</SPAN><SPAN class="ft58">Enkätundersökning</SPAN></P>
+<P class="p132 ft19">Att granska säkerhetsunderrättelseverksamhet genom enkätundersökning är inte möjligt av sekretesskäl. När det gäller säkerhetsskyddet har vi dock bedömt att det är möjligt och därför genomfört två olika enkätundersökningar: dels till de civila myndigheter som utövar tillsyn och som Säkerhetspolisen har ett samordningsansvar för, dels till de myndigheter som står direkt under Säkerhetspolisens tillsyn.<SPAN class="ft45">13</SPAN></P>
+<P class="p167 ft30"><SPAN class="ft21">1.4.4</SPAN><SPAN class="ft58">Deltagande observation</SPAN></P>
+<P class="p168 ft16">Riksrevisionen har deltagit som observatör på plats på en myndighet som varit föremål för Säkerhetspolisens tillsyn avseende fysisk säkerhet.</P>
+<P class="p169 ft50"><SPAN class="ft48">10</SPAN><SPAN class="ft67">Militära underrättelse- och säkerhetstjänsten.</SPAN></P>
+<P class="p54 ft50"><SPAN class="ft48">11</SPAN><SPAN class="ft67">Några personer har blivit intervjuade vid flera tillfällen.</SPAN></P>
+<P class="p170 ft50"><SPAN class="ft48">12</SPAN><SPAN class="ft67">Verksamhetskontrollen är en myndighetsintern tillsynsverksamhet direkt underställd säkerhetspolischefen.</SPAN></P>
+<P class="p171 ft34"><SPAN class="ft48">13</SPAN><SPAN class="ft68">Tillsynsmyndigheterna och de myndigheter Säkerhetspolisen är tillsynsmyndighet för framgår av 8 kap. 1 § säkerhetsskyddsförordningen.</SPAN></P>
+<P class="p172 ft17">Riksrevisionen 11</P>
+</DIV>
+<DIV id="id_2">
+<P class="p17 ft2">19</P>
+</DIV>
+</DIV>
+<DIV id="page_20">
+<DIV id="p20dimg1">
+<INGENBILD zsrc="HC0315120x1.jpg/" id="p20img1">
+</DIV>
+
+
+<DIV id="id_1">
+<P class="p17 ft2">Skr. 2024/25:151</P>
+<P class="p46 ft2">Bilaga</P>
+<P class="p173 ft22"><SPAN class="ft22">2</SPAN><SPAN class="ft69">Kort om den granskade verksamheten</SPAN></P>
+<P class="p174 ft20">Säkerhetspolisen verkar inom fem områden, varav fyra är föremål för denna granskning: kontraspionage, kontraterror, författningsskydd och säkerhetsskydd. De tre förstnämnda områdena bedrivs inom ramen för det som kallas säkerhetsunderrättelseverksamhet. Här följer en kortfattad beskrivning av de granskade områdena.</P>
+<P class="p175 ft29"><SPAN class="ft30">2.1</SPAN><SPAN class="ft44">Säkerhetsunderrättelseverksamheten</SPAN></P>
+<P class="p176 ft19">En av Säkerhetspolisens huvuduppgifter är att förebygga, förhindra och upptäcka brottslig verksamhet som innefattar brott mot rikets säkerhet eller terrorbrott.<SPAN class="ft45">14 </SPAN>Tyngdpunkten i uppdraget är att förhindra att brott överhuvudtaget begås.<SPAN class="ft45">15</SPAN></P>
+<P class="p177 ft19">Säkerhetsunderrättelseverksamhet innebär enligt Säkerhetspolisens definition att inhämta information om hot och vidta åtgärder för att reducera hot. Utifrån hotens art hanteras de inom verksamhetsområdena kontraspionage, kontraterrorism och författningsskydd. Kontraspionage innebär att Säkerhetspolisen bedriver verksamhet för att motverka olovlig underrättelseverksamhet från främmande makt. Kontraterror handlar om att Säkerhetspolisen verkar för att förhindra terroristattentat och andra terrorbrott. För att motverka aktörer som på olika otillåtna sätt söker påverka det demokratiska statsskickets funktioner arbetar Säkerhetspolisen i verksamhetsområdet författningsskydd.</P>
+<P class="p178 ft19">En viktig förutsättning för att Säkerhetspolisen ska kunna utföra sitt uppdrag med goda resultat är att myndigheten kan identifiera och hämta in uppgifter om brottslig verksamhet på ett tidigt stadium, innan en person eller gruppering har konkreta planer eller har vidtagit åtgärder för att begå brott.<SPAN class="ft45">16 </SPAN>Detta sker bland annat i säkerhetsunderrättelseverksamheten genom inhämtning av relevanta uppgifter som sedan bearbetas och analyseras. Underrättelseprodukterna kan ligga till grund för intern eller extern<SPAN class="ft45">17 </SPAN>delgivning och utmynna i operativa åtgärder för att reducera säkerhetshot såsom spioneri, olovlig underrättelseverksamhet, subversion eller terrorism. Verksamheten syftar till att ge ett informationsövertag gentemot motståndaren och ska vara möjlig att agera på.<SPAN class="ft45">18</SPAN></P>
+<P class="p179 ft34"><SPAN class="ft48">14</SPAN><SPAN class="ft70">Se 3 § polislagen (1984:387) samt 1 och 3 §§ förordningen (2022:1719) med instruktion för Säkerhetspolisen. Instruktionen trädde i kraft den 1 januari 2023, men bestämmelserna hade motsvarande innehåll i den tidigare numera upphävda förordningen (2014:1103) med instruktion för Säkerhetspolisen.</SPAN></P>
+<P class="p180 ft50"><SPAN class="ft48">15</SPAN><SPAN class="ft71">SOU 2012:77 s. 56.</SPAN></P>
+<P class="p129 ft50"><SPAN class="ft48">16</SPAN><SPAN class="ft71">SOU 2010:103 s. 87.</SPAN></P>
+<P class="p128 ft50"><SPAN class="ft48">17</SPAN><SPAN class="ft71">Till exempel till Polismyndigheten eller Försvarsmakten (Must).</SPAN></P>
+<P class="p181 ft34"><SPAN class="ft48">18</SPAN><SPAN class="ft70">SOU 2002:87 s. 56; SOU 2010:103 s. 87; SOU 2012:77 s. 56 f; Säkerhetspolisen, ”Säkerhetspolisens uppdrag” samt ”Underrättelsearbete”, hämtad </SPAN><NOBR>2024-10-24.</NOBR></P>
+<P class="p80 ft17">12 Riksrevisionen</P>
+</DIV>
+<DIV id="id_2">
+<P class="p17 ft2">20</P>
+</DIV>
+</DIV>
+<DIV id="page_21">
+<DIV id="p21dimg1">
+<INGENBILD zsrc="HC0315121x1.jpg/" id="p21img1">
+</DIV>
+
+
+<DIV id="id_1">
+<P class="p42 ft2">Skr. 2024/25:151</P>
+<P class="p43 ft2">Bilaga</P>
+<P class="p131 ft29"><SPAN class="ft29">2.2</SPAN><SPAN class="ft72">Säkerhetsskyddsverksamheten</SPAN><SPAN class="ft73">19</SPAN></P>
+<P class="p182 ft19">Säkerhetspolisen har en central roll inom arbetet med säkerhetsskydd i Sverige. Med säkerhetsskydd avses framför allt skydd av säkerhetskänslig verksamhet mot spioneri, sabotage, terroristbrott och andra brott som kan hota verksamheten. Säkerhetskänslig verksamhet är sådan verksamhet som är av betydelse för Sveriges säkerhet eller som omfattas av ett för Sverige förpliktande internationellt åtagande om säkerhetsskydd. Sådan verksamhet bedrivs av flera statliga myndigheter, kommuner och regioner samt ett antal privata företag.</P>
+<P class="p183 ft20">Den som till någon del bedriver säkerhetskänslig verksamhet (verksamhetsutövaren) är skyldig att utreda behovet av säkerhetsskydd och dokumentera det i en säkerhetsskyddsanalys. Säkerhetsskyddsanalysen utgör grunden i ett systematiskt säkerhetsskyddsarbete, och ska svara på tre frågor.</P>
+<P class="p184 ft20"><SPAN class="ft31">•</SPAN><SPAN class="ft41">Hanterar verksamhetsutövaren säkerhetsskyddsklassificerade uppgifter eller disponerar den över anläggningar, objekt, system, egendom eller andra tillgångar av betydelse för Sveriges säkerhet? Det kan också vara fråga om det finns verksamhet som omfattas av ett för Sverige förpliktande internationellt åtagande om säkerhetsskydd.</SPAN></P>
+<P class="p185 ft20"><SPAN class="ft31">•</SPAN><SPAN class="ft41">Vilka säkerhetshot finns mot verksamheten, och vilka sårbarheter finns i verksamheten?</SPAN></P>
+<P class="p82 ft16"><SPAN class="ft31">•</SPAN><SPAN class="ft36">Vilka åtgärder bör vidtas för att skydda verksamheten?</SPAN></P>
+<P class="p186 ft20">Efter det att säkerhetsskyddsanalysen är fastställd ska verksamhetsutövaren utforma en säkerhetsskyddsplan. Denna ska beskriva hur behovet av åtgärder som identifierats i analysen ska omhändertas, när dessa ska vidtas och vem som ska göra det.</P>
+<P class="p187 ft15">Det är inom tre olika områden som åtgärder behöver vidtas för att uppnå ett gott säkerhetsskydd: informationssäkerhet, fysisk säkerhet och personalsäkerhet.</P>
+<P class="p188 ft19">Informationssäkerhet avser skydd för säkerhetsskyddsklassificerade uppgifter, såväl uppgifterna i sig som de tekniska system som handhar uppgifterna. Säkerhetsskyddet ska förebygga att uppgifter som är sekretessbelagda och har betydelse för Sveriges säkerhet obehörigen blir röjda, ändrade, förstörda eller otillgängliggjorda.</P>
+<P class="p189 ft19">Fysisk säkerhet avser skydd av områden, byggnader och andra anläggningar eller objekt där säkerhetsskyddsklassificerade uppgifter förvaras eller annars behandlas, eller där säkerhetskänslig verksamhet i övrigt bedrivs. Där ska det finnas funktioner för att upptäcka, försvåra och hantera obehörigt tillträde och skadlig inverkan.</P>
+<P class="p190 ft60"><SPAN class="ft48">19</SPAN><SPAN class="ft74">Avsnittet bygger på uppgifter från säkerhetsskyddslagen (2018:585), säkerhetsskyddsförordningen (2021:955) samt Säkerhetspolisen, ”Säkerhetsskydd”, hämtad </SPAN><NOBR>2024-11-12.</NOBR></P>
+<P class="p172 ft17">Riksrevisionen 13</P>
+</DIV>
+<DIV id="id_2">
+<P class="p17 ft2">21</P>
+</DIV>
+</DIV>
+<DIV id="page_22">
+<DIV id="p22dimg1">
+<INGENBILD zsrc="HC0315122x1.jpg/" id="p22img1">
+</DIV>
+
+
+<DIV id="id_1">
+<P class="p17 ft2">Skr. 2024/25:151</P>
+<P class="p46 ft2">Bilaga</P>
+<P class="p191 ft19">Personalsäkerhet avser personer som ska hantera säkerhetskänsliga uppgifter, och innebär att dessa ska bli säkerhetsprövade och utbildade i säkerhetsskydd. Säkerhetsprövningen ska klargöra om personerna är pålitliga från säkerhetssynpunkt, lojala mot skyddsvärdena samt om de kan vara sårbara i säkerhetshänseende. Säkerhetsprövningen omfattar en grundutredning samt registerkontroll och särskild personutredning. Som huvudregel är det den som beslutar om anställning eller annat deltagande i säkerhetskänslig verksamhet som genomför grundutredningen.</P>
+<P class="p192 ft19">Säkerhetspolisen genomför kontroller av de personer som ska delta i säkerhetskänslig verksamhet mot bland annat misstanke- och belastningsregistren. Registerkontrolldelegationen vid Säkerhets- och integritetsskyddsnämnden (SIN) beslutar om vilka uppgifter som får lämnas ut till den arbets- eller uppdragsgivare som har ansökt om registerkontrollen. För personer som får en befattning i den högsta säkerhetsklassen ska Säkerhetspolisen också genomföra ett personligt samtal om det inte står klart att samtalet inte behövs.</P>
+<P class="p71 ft19">Verksamhetsutövare som bedriver säkerhetskänslig verksamhet ska ha en säkerhetsskyddschef, om det inte är uppenbart obehövligt. Säkerhetsskyddschefen ska vara direkt underställd chefen för verksamhetsutövarens verksamhet, om en sådan chef finns, och annars verksamhetsutövarens ledning. Säkerhetsskyddschefen ska leda och samordna säkerhetsskyddsarbetet samt kontrollera att verksamheten bedrivs enligt säkerhetsskyddslagen, säkerhetsskyddsförordningen samt övriga föreskrifter som har meddelats i anslutning till säkerhetsskyddslagen.</P>
+<P class="p193 ft20">Säkerhetspolisen utövar tillsyn över ett antal<SPAN class="ft66">20 </SPAN>statliga myndigheters säkerhetsskyddsarbete samt tar fram vägledningar om säkerhetsskydd. Säkerhetspolisen är, tillsammans med Försvarsmakten, även samordningsmyndighet för övriga tillsynsmyndigheter inom säkerhetsskydd.</P>
+<P class="p194 ft19">Om det inträffar en säkerhetshotande händelse hos en verksamhetsutövare, ska den skyndsamt anmäla detta till Säkerhetspolisen. Säkerhetshotande händelser (nedan incidenter) kan vara att en säkerhetsskyddsklassificerad uppgift kan ha blivit tillgänglig för personer som inte har behörighet att ta del av den, exempelvis i ett informationssystem, eller att obehöriga har fått tillträde till fysiska platser där säkerhetskänslig verksamhet bedrivs. Den inrapporterade informationen ligger till grund för Säkerhetspolisens utredning av incidenten, och är en viktig del i det övergripande ansvaret för att skapa ett starkare nationellt säkerhetsskydd.</P>
+<P class="p195 ft34"><SPAN class="ft48">20</SPAN><SPAN class="ft70">Från och med den 1 februari 2024 ingår 130 myndigheter i Säkerhetspolisens tillsynsområde. Alla dessa har dock inte anmält att de bedriver säkerhetskänslig verksamhet.</SPAN></P>
+<P class="p80 ft17">14 Riksrevisionen</P>
+</DIV>
+<DIV id="id_2">
+<P class="p17 ft2">22</P>
+</DIV>
+</DIV>
+<DIV id="page_23">
+<DIV id="p23dimg1">
+<INGENBILD zsrc="HC0315123x1.jpg/" id="p23img1">
+</DIV>
+
+
+<DIV id="id_1">
+<P class="p42 ft2">Skr. 2024/25:151</P>
+<P class="p43 ft2">Bilaga</P>
+<P class="p131 ft29"><SPAN class="ft29">2.3</SPAN><SPAN class="ft75">Styrningen av Säkerhetspolisen</SPAN></P>
+<P class="p196 ft20">Säkerhetspolisen sorterar under Justitiedepartementet (polisenheten). Verksamheten leds av säkerhetspolischefen. Det finns också en biträdande säkerhetspolischef.<SPAN class="ft66">21 </SPAN>Under dessa befattningar är verksamheten indelad i avdelningar, som i sin tur är indelade i enheter, sektioner och grupper. Vid en av avdelningarna finns en regional enhet med sektioner placerade i Umeå, Uppsala, Linköping, Malmö, Göteborg och Örebro.</P>
+<P class="p197 ft50"><SPAN class="ft48">21</SPAN><SPAN class="ft67">Se 21 § förordningen (2022:1719) med instruktion för Säkerhetspolisen.</SPAN></P>
+<P class="p198 ft17">Riksrevisionen 15</P>
+</DIV>
+<DIV id="id_2">
+<P class="p17 ft2">23</P>
+</DIV>
+</DIV>
+<DIV id="page_24">
+<DIV id="p24dimg1">
+<INGENBILD zsrc="HC0315124x1.jpg/" id="p24img1">
+</DIV>
+
+
+<DIV id="id_1">
+<P class="p17 ft2">Skr. 2024/25:151</P>
+<P class="p46 ft2">Bilaga</P>
+<P class="p173 ft22"><SPAN class="ft22">3</SPAN><SPAN class="ft69">Slutsatser och rekommendationer</SPAN></P>
+<P class="p199 ft20">Riksrevisionen har granskat om Säkerhetspolisens arbete för att värna Sveriges säkerhet är effektivt. Även regeringen omfattas av granskningen. Nedan redovisas Riksrevisionens iakttagelser och slutsatser. Därefter följer Riksrevisionens rekommendationer till regeringen och Säkerhetspolisen. Av sekretesskäl redogör vi för delar av, men inte hela, granskningens resultat.</P>
+<P class="p200 ft20">Riksrevisionens samlade bedömning är att det finns flera effektivitetsbrister i Säkerhetspolisens verksamhet. Bristerna är dock enligt Riksrevisionen möjliga att åtgärda.</P>
+<P class="p73 ft20">Det finns otydligheter i Säkerhetspolisens interna styrning och kontroll. Förutsättningarna för att kunna bedriva verksamheten effektivt är också delvis otillräckliga, dels för att det finns författningar som lägger hinder i vägen, dels på grund av resursbrist.</P>
+<P class="p74 ft20">Granskningen visar också att det finns möjligheter att åstadkomma effektivitetsförbättringar i verksamheten. Det pågår ett antal insatser som syftar till att utveckla verksamheten, till exempel i fråga om intern utbildning. Det finns även prov på avslutade utvecklingssatsningar med goda resultat, exempelvis genom att effektivisera registerkontrollen så att de tidigare långa handläggningstiderna numera är mycket korta.</P>
+<P class="p201 ft20">Nedan följer en sammanfattande redogörelse för Riksrevisionens iakttagelser, slutsatser och rekommendationer. Riksrevisionen redovisar ytterst få iakttagelser och slutsatser beträffande säkerhetsunderrättelseverksamheten och verksamhetsområdena kontraspionage, kontraterror och författningsskydd av sekretesskäl.</P>
+<P class="p175 ft29"><SPAN class="ft30">3.1</SPAN><SPAN class="ft44">Begränsad delgivning av underrättelseprodukter</SPAN></P>
+<P class="p202 ft19">Samverkan mellan Säkerhetspolisen, andra myndigheter och utländska partner uppges fungera mycket väl. Säkerhetspolisen delger Regeringskansliet<SPAN class="ft45">22 </SPAN>information. Enligt Riksrevisionens bedömning kan dock Regeringskansliet ha nytta av fler av Säkerhetspolisens underrättelseprodukter, exempelvis hotinformation samt de strategiska och operativa analyserna. Detta för att få en bättre samlad lägesbild av underrättelseinformationen och bättre förutsättningar att styra riket. Först under år 2024, efter bildandet av Statsrådsberedningens underrättelsekansli, har Regeringskansliet börjat efterfråga sådana mer frekvent av Säkerhetspolisen.</P>
+<P class="p203 ft50"><SPAN class="ft48">22</SPAN><SPAN class="ft71">Framför allt Statsrådsberedningen samt </SPAN><NOBR>Justitie-,</NOBR> Försvars- och Utrikesdepartementen.</P>
+<P class="p130 ft17">16 Riksrevisionen</P>
+</DIV>
+<DIV id="id_2">
+<P class="p17 ft2">24</P>
+</DIV>
+</DIV>
+<DIV id="page_25">
+<DIV id="p25dimg1">
+<INGENBILD zsrc="HC0315125x1.jpg/" id="p25img1">
+</DIV>
+
+
+<DIV id="id_1">
+<P class="p42 ft2">Skr. 2024/25:151</P>
+<P class="p43 ft2">Bilaga</P>
+<P class="p131 ft29"><SPAN class="ft29">3.2</SPAN><SPAN class="ft75">Tillsynen inom säkerhetsskydd kan förbättras</SPAN></P>
+<P class="p204 ft19">Granskningen visar att tillsynen inom säkerhetsskydd alltför mycket är inriktad mot företeelser som är förutsättningsskapande (säkerhetsskyddsanalyser, säkerhetsskyddplaner och organisatorisk placering av säkerhetsskyddschef), och mindre mot faktiska åtgärder för att upprätthålla personalsäkerhet, fysisk säkerhet och informationssäkerhet. Riksrevisionen anser därför att det borde vara fler tillsynsärenden som genomförs, framför allt mot faktiska säkerhetsåtgärder.</P>
+<P class="p205 ft19">Riksrevisionen kan också konstatera att verksamhetsutövare inte delger sina säkerhetsskyddsanalyser och säkerhetsskyddsplaner till sina tillsynsmyndigheter. Verksamhetsutövarna är i dag inte skyldiga att delge säkerhetsskyddanalys, säkerhetsskyddsplan eller beskriva sin säkerhetsskyddsorganisation i säkerhetsskyddsanalysen. Enligt Riksrevisionens bedömning är det väsentliga brister som gör det svårare för tillsynsmyndigheterna att planera sin verksamhet.</P>
+<P class="p206 ft19">Säkerhetspolisens säkerhetsskyddsverksamhet är ett ansvarsområde som omgärdas av ett omfattande regelverk och komplexitet. Det finns omständigheter som har påverkat verksamheten negativt. Trots det har arbetet med registerkontrollen och med att utveckla områdena tillsyn och vägledning förbättrats. Säkerhetspolisen har också skrivit vägledningar, som Riksrevisionen bedömer, ger ett gott stöd åt verksamhetsutövarna. Tillsammans med Försvarsmakten har Säkerhetspolisen utvecklat samordningsansvaret för tillsynsmyndigheterna i en positiv riktning. Metodstöden för vägledning skulle dock kunna utvecklas än mer.</P>
+<P class="p207 ft19">Riksrevisionen konstaterar också att det råder ett visst motsatsförhållande mellan att ge råd i specifika fall och att utöva tillsyn, oavsett om råden ges i samband med ett pågående tillsynsärende eller inte. Vår enkät visar också att flera verksamhetsutövare efterfrågar mer rådgivning. De uttalanden som finns i förarbetena till den senaste översynen av säkerhetsskyddslagen är att tillsynsmyndigheterna som utgångspunkt inte bör lämna råd om vad som bör göras i ett specifikt fall utan i stället lämna upplysningar om regleringens innebörd, hur den ska tolkas samt metoder för hur regleringen ska uppfyllas. Riksrevisionen anser att förarbetena lämnar ett visst utrymme för att lämna mer konkret stöd i frågor om säkerhetsskydd.<SPAN class="ft45">23 </SPAN>Med beaktande av de konsekvenser ett bristande säkerhetsskydd kan få för Sveriges säkerhet bör Säkerhetspolisen i större utsträckning använda det utrymme som finns för att lämna mer stöd i enskilda fall än vad som sker i dag.</P>
+<P class="p208 ft19">När en incident har inträffat hos en verksamhetsutövare som bedriver säkerhetskänslig verksamhet ska detta snarast anmälas till Säkerhetspolisen. Enligt rådande rutin vid Säkerhetspolisen delges inte berörd tillsynsmyndighet<SPAN class="ft45">24 </SPAN>att det har skett en incident förrän Säkerhetspolisen har utrett incidenten. En incidentutredning kan ta lång tid, och under den tiden får berörd tillsynsmyndighet inte information av</P>
+<P class="p209 ft50"><SPAN class="ft48">23</SPAN><SPAN class="ft67">Prop. 2020/21:194, s. 78.</SPAN></P>
+<P class="p54 ft50"><SPAN class="ft48">24</SPAN><SPAN class="ft67">Annan tillsynsmyndighet än Säkerhetspolisen.</SPAN></P>
+<P class="p198 ft17">Riksrevisionen 17</P>
+</DIV>
+<DIV id="id_2">
+<P class="p17 ft2">25</P>
+</DIV>
+</DIV>
+<DIV id="page_26">
+
+
+<DIV id="id_1">
+<P class="p17 ft2">Skr. 2024/25:151</P>
+<P class="p46 ft2">Bilaga</P>
+<P class="p210 ft20">Säkerhetspolisen om att det skett en incident hos verksamhetsutövaren eller att Säkerhetspolisen utreder den. Särskilt viktigt för den berörda tillsynsmyndigheten är att veta om en incident har ägt rum och vad den omfattar, samt om det pågår eller planeras en tillsyn hos verksamhetsutövaren.</P>
+<P class="p211 ft29"><SPAN class="ft29">3.3</SPAN><SPAN class="ft75">Registerkontroller har blivit effektivare, men personliga samtal kan effektiviseras</SPAN></P>
+<P class="p212 ft20">Samtidigt som arbetet med registerkontroll har effektiviserats, bedömer Riksrevisionen att det finns en risk för att de personliga samtal som Säkerhetspolisen genomför med personer som kan komma att placeras i framför allt säkerhetsklass 1 nästan uteslutande informerar om risker och sårbarheter. Enligt Riksrevisionen behöver Säkerhetspolisen med tanke på det allvarligt försämrade omvärldsläget lägga större tonvikt vid att bedöma personernas lojalitet, pålitlighet och sårbarhet vid samtalet.</P>
+<P class="p213 ft19">Riksrevisionen bedömer vidare att Säkerhetspolisens arbete med personliga samtal och särskilda utredningar inför säkerhetsklassning kan behöva utvecklas både när det gäller inriktning och vilka underlag som ska användas. Det finns i dag till exempel inga krav på att verksamhetsutövaren som genomför grundutredningen ska lämna den till Säkerhetspolisen inför att myndigheten ska hålla personliga samtal.</P>
+<P class="p214 ft29">3.4 Regeringen styr i för liten utsträckning</P>
+<P class="p215 ft20">Regeringen har inte varit tillräckligt aktiv i sin styrning av Säkerhetspolisen och bör enligt Riksrevisionen efterfråga mer information om tillståndet i verksamheten. Riksrevisionen bedömer att regeringen i högre grad borde säkerställa att Säkerhetspolisen arbetar effektivt, inte minst eftersom det är en av de viktigaste aktörerna för att upprätthålla säkerheten i Sverige.</P>
+<P class="p175 ft29">3.5 Den interna styrningen är delvis otydlig</P>
+<P class="p216 ft20">Säkerhetspolisen styrs både vertikalt och horisontellt vilket gör den interna styrningen komplicerad. Ansvar och befogenheter över resurserna kan då bli otydligt. I förlängningen föreligger en risk att Säkerhetspolisen kan komma att agera sent för att förhindra oönskade företeelser. Den öppna informationsinhämtningen och informationsbearbetningen är två områden där den interna styrningen kan förtydligas och bli mer konkret.</P>
+<P class="p217 ft19">Den interna riskhanteringen är svår att bringa klarhet i. Detta eftersom det saknas spårbarhet i vad som har hänt mellan de tre uppföljningarna som sker av riskerna under ett verksamhetsår. Riksrevisionen kan inte utesluta att det finns en viss risk för att åtgärder som behöver genomföras fördröjs eller lämnas utan avseende.</P>
+<P class="p218 ft15">Säkerhetspolisens sex regionala sektioner har en varierande bemanning. Personalen vid dessa sektioner har bland mycket annat ansvar för att samverka med andra</P>
+<P class="p219 ft17">18 Riksrevisionen</P>
+</DIV>
+<DIV id="id_2">
+<P class="p17 ft2">26</P>
+</DIV>
+</DIV>
+<DIV id="page_27">
+<DIV id="p27dimg1">
+<INGENBILD zsrc="HC0315127x1.jpg/" id="p27img1">
+</DIV>
+
+
+<DIV id="id_1">
+<P class="p42 ft2">Skr. 2024/25:151</P>
+<P class="p43 ft2">Bilaga</P>
+<P class="p220 ft16">myndigheter på regional nivå. Vid denna samverkan har dock flera av de övriga myndigheterna större mandat på den regionala nivån.</P>
+<P class="p221 ft20">Säkerhetspolisen har även varit långsam med att fastställa en uppdaterad version av sin egen säkerhetsskyddsanalys som fastställdes 2020, vilket ska göras åtminstone vartannat år.<SPAN class="ft66">25 </SPAN>Det innebär att Säkerhetspolisen i den delen, fram till december 2023, inte har levt upp till de krav man ställer på de verksamhetsutövare som man utövar tillsyn över.</P>
+<P class="p164 ft29">3.6 Civil beredskap</P>
+<P class="p222 ft16">Säkerhetspolisen har sedan 2022 intensifierat sitt arbete med att planera för kriser och krig.</P>
+<P class="p164 ft29"><SPAN class="ft29">3.7</SPAN><SPAN class="ft75">Förutsättningarna är otillräckliga</SPAN></P>
+<P class="p196 ft20">Granskningen visar tydligt ett antal brister i förutsättningarna för att Säkerhetspolisens verksamhet ska kunna bedrivas effektivt. Det går att hänföra dessa brister till två kategorier: resursproblem och författningshinder.</P>
+<P class="p223 ft20">Resursproblemen har till exempel bestått i att den interna organisationen, främst inom enheter, har förändrats förhållandevis ofta. Detta har medfört att det har funnits personal som har behövt använda arbetstid till att ta fram nya interna processer och rutiner i stället för att ägna den åt myndighetens huvudsakliga uppgifter. Då finns en risk att missa väsentlig information i arbetet. Många chefstjänster bemannas också av tillförordnade chefer, ibland under relativt lång tid. Även om personer som haft tillgång till säkerhetsskyddsklassificerad information slutar behöver det inte innebära att erfarenheter används i andra syften än att värna Sveriges säkerhet, men det finns ändå en viss risk för det.</P>
+<P class="p224 ft20">Författningshindren består framför allt i att Säkerhetspolisen för att klara sitt uppdrag behöver behandla personuppgifter, ofta under lång tid. Säkerhetspolisen får i dag inte behandla personuppgifter så länge som myndigheten anser att den behöver för att kunna utföra sitt uppdrag.<SPAN class="ft66">26 </SPAN>Inte minst främmande statliga aktörer arbetar synnerligen långsiktigt, och då skulle det vara värdefullt att kunna få behandla personuppgifter under en längre tid än vad som är tillåtet i dag. Det är också viktigt att Säkerhetspolisen har möjlighet att kunna använda artificiell intelligens för att bearbeta de stora datamängder myndigheten behöver hantera för att klara sitt uppdrag. Det pågår en översyn av de bestämmelser som reglerar Säkerhetspolisens behandling av personuppgifter som rör nationell säkerhet.<SPAN class="ft66">27</SPAN></P>
+<P class="p225 ft15">Säkerhetspolisen behöver enligt Riksrevisionen ha bättre förutsättningar att kunna arbeta effektivt, inte minst genom att över lång tid kunna arbeta med att koppla</P>
+<P class="p226 ft50"><SPAN class="ft48">25</SPAN><SPAN class="ft67">2 kap. 1 § andra stycket säkerhetsskyddsförordningen (2021:955).</SPAN></P>
+<P class="p170 ft50"><SPAN class="ft48">26</SPAN><SPAN class="ft67">Se 4 kap. lagen (2019:1182) om Säkerhetspolisens behandling av personuppgifter.</SPAN></P>
+<P class="p54 ft50"><SPAN class="ft48">27</SPAN><SPAN class="ft67">Ju 2023:02, Säkerhetspolisens informationshantering (dir. 2023:64).</SPAN></P>
+<P class="p198 ft17">Riksrevisionen 19</P>
+</DIV>
+<DIV id="id_2">
+<P class="p17 ft2">27</P>
+</DIV>
+</DIV>
+<DIV id="page_28">
+<DIV id="p28dimg1">
+<INGENBILD zsrc="HC0315128x1.jpg/" id="p28img1">
+</DIV>
+
+
+<DIV id="id_1">
+<P class="p17 ft2">Skr. 2024/25:151</P>
+<P class="p46 ft2">Bilaga</P>
+<P class="p227 ft20">samman olika personer som utgör hot mot Sverige. Självfallet måste integritetsaspekter beaktas och vägas mot vilka möjligheter som finns för att göra Sverige säkrare. Enligt Riksrevisionen är det dock inte säkert att det integritetsintrång som sparade personuppgifter utgör skulle väga tyngre än att ha bättre möjligheter att hantera eventuella hot mot människors liv och hälsa. Nuvarande gallringsregler framstår därför som effektivitetshindrande.</P>
+<P class="p228 ft19">I jämförelse med Säkerhetspolisen har Försvarsmakten och Försvarets radioanstalt betydligt mer tillåtande regler för hur länge personuppgifter får sparas. Dessa får behandlas så länge det behövs med hänsyn till ändamålet.<SPAN class="ft45">28</SPAN></P>
+<P class="p229 ft29">3.8 Rekommendationer</P>
+<P class="p76 ft16">I syfte att stärka effektiviteten i Säkerhetspolisens verksamhet lämnar Riksrevisionen följande rekommendationer.</P>
+<P class="p75 ft30">Till regeringen</P>
+<P class="p230 ft20"><SPAN class="ft31">•</SPAN><SPAN class="ft55">Utöva en mer aktiv styrning av Säkerhetspolisen genom att efterfråga mer information om hur verksamheten fortlöper.</SPAN></P>
+<P class="p77 ft30">Till Säkerhetspolisen</P>
+<P class="p114 ft16"><SPAN class="ft31">•</SPAN><SPAN class="ft32">Delge underrättelseprodukter till Regeringskansliet i större utsträckning.</SPAN></P>
+<P class="p231 ft15"><SPAN class="ft31">•</SPAN><SPAN class="ft76">Inrikta tillsynen av säkerhetsskyddet mer mot säkerhetsskyddsåtgärderna fysiskt skydd, informationssäkerhet och personalsäkerhet, genomför tillsyn i fler fall samt lämna mer stöd i enskilda fall till verksamhetsutövarna.</SPAN></P>
+<P class="p232 ft15"><SPAN class="ft31">•</SPAN><SPAN class="ft76">Delge alltid anmälda säkerhetshotande händelser skyndsamt till berörd tillsynsmyndighet för den verksamhetsutövare där händelsen har inträffat.</SPAN><SPAN class="ft28">29</SPAN></P>
+<P class="p233 ft16"><SPAN class="ft31">•</SPAN><SPAN class="ft77">Ändra Säkerhetspolisens föreskrifter om säkerhetsskydd på följande sätt:</SPAN></P>
+<P class="p234 ft15"><SPAN class="ft40">o</SPAN><SPAN class="ft78">att verksamhetsutövare ska lämna grundutredningen till Säkerhetspolisen för dem som myndigheten ska hålla personliga samtal med</SPAN></P>
+<P class="p235 ft20"><SPAN class="ft40">o</SPAN><SPAN class="ft79">att verksamhetsutövare vid beslut om fastställande eller uppdatering av säkerhetsskyddsanalys och säkerhetsskyddsplan ska lämna dessa till tillsynsmyndigheten, och till Säkerhetspolisen om annan myndighet än Säkerhetspolisen är tillsynsmyndighet</SPAN></P>
+<P class="p236 ft16"><SPAN class="ft40">o</SPAN><SPAN class="ft80">att verksamhetsutövares säkerhetsskyddsorganisation ska vara beskriven i säkerhetsskyddsanalysen.</SPAN></P>
+<P class="p237 ft20"><SPAN class="ft31">•</SPAN><SPAN class="ft55">Fastställ en tydlig rutin för särskilda personutredningar inklusive personliga samtal inför placering i säkerhetsklass.</SPAN></P>
+<P class="p238 ft34"><SPAN class="ft48">28</SPAN><SPAN class="ft70">2 kap. 21 § lagen (2021:1171) om behandling av personuppgifter vid Försvarsmakten samt 2 kap. 19 § lagen (2021:1172) om behandling av personuppgifter vid Försvarets radioanstalt.</SPAN></P>
+<P class="p239 ft34"><SPAN class="ft48">29</SPAN><SPAN class="ft70">Om händelsen är av särskilt känslig natur bör delgivningen kunna begränsas av Säkerhetspolisen till det mest angelägna för tillsynsmyndigheten att känna till.</SPAN></P>
+<P class="p80 ft17">20 Riksrevisionen</P>
+</DIV>
+<DIV id="id_2">
+<P class="p17 ft2">28</P>
+</DIV>
+</DIV>
+<DIV id="page_29">
+
+
+<DIV id="id_1">
+<P class="p42 ft2">Skr. 2024/25:151</P>
+<P class="p43 ft2">Bilaga</P>
+<P class="p240 ft16"><SPAN class="ft31">•</SPAN><SPAN class="ft36">Förtydliga och konkretisera den interna styrningen och processerna för den öppna informationsinhämtningen och informationsbearbetningen.</SPAN></P>
+<P class="p241 ft20"><SPAN class="ft31">•</SPAN><SPAN class="ft41">Öka bemanningen vid de regionala sektionerna så att de behov som finns kan tillgodoses, samt ge sektionerna ökade befogenheter vid samverkan med andra myndigheter regionalt.</SPAN></P>
+<P class="p242 ft17">Riksrevisionen 21</P>
+</DIV>
+<DIV id="id_2">
+<P class="p17 ft2">29</P>
+</DIV>
+</DIV>
+<DIV id="page_30">
+
+
+<DIV id="id_1">
+<P class="p17 ft2">Skr. 2024/25:151</P>
+<P class="p46 ft2">Bilaga</P>
+<P class="p68 ft22">Referenslista</P>
+<P class="p243 ft29">Utredningar</P>
+<P class="p244 ft15">SOU 2002:87, Rikets säkerhet och den personliga integriteten. De svenska säkerhetstjänsternas författningsskyddande verksamhet sedan år 1945.</P>
+<P class="p245 ft16">SOU 2010:103, Särskilda spaningsmetoder.</P>
+<P class="p245 ft16">SOU 2012:77, En tydligare organisation för Säkerhetspolisen.</P>
+<P class="p245 ft16">Ds 2018:35, Polisens tillgång till uppgifter från signalspaning.</P>
+<P class="p123 ft29">Riksdagstryck</P>
+<P class="p245 ft16">Prop. 2020/21:194, Ett starkare skydd för Sveriges säkerhet.</P>
+<P class="p123 ft29">Författningar</P>
+<P class="p246 ft16">Polislag (1984:387).</P>
+<P class="p245 ft16">Budgetlag (2011:203).</P>
+<P class="p247 ft16">Lag (2012:278) om inhämtning av uppgifter om elektronisk kommunikation i de brottsbekämpande myndigheternas underrättelseverksamhet.</P>
+<P class="p248 ft16">Lag (2016:774) om uppgiftsskyldighet vid samverkan mot viss organiserad. Brottslighet.</P>
+<P class="p123 ft16">Säkerhetsskyddslag (2018:585).</P>
+<P class="p245 ft16">Lag (2019:1182) om Säkerhetspolisens behandling av personuppgifter.</P>
+<P class="p249 ft16">Polisdatalag (2010:361).</P>
+<P class="p245 ft16">Lag (2021:1171) om behandling av personuppgifter vid Försvarsmakten.</P>
+<P class="p250 ft81">Lag (2021:1172) om behandling av personuppgifter vid Försvarets radioanstalt. Säkerhetsskyddsförordning (2021:955).</P>
+<P class="p251 ft16">Förordning (2022:1719) med instruktion för Säkerhetspolisen.</P>
+<P class="p245 ft16">Myndighetsförordning (2007:515).</P>
+<P class="p249 ft16">Förordning (2007:603) om intern styrning och kontroll.</P>
+<P class="p245 ft16">Förordning (2022:1719) med instruktion för Säkerhetspolisen.</P>
+<P class="p245 ft16">Säkerhetspolisens föreskrifter om säkerhetsskydd (PMFS 2022:1).</P>
+<P class="p252 ft17">22 Riksrevisionen</P>
+</DIV>
+<DIV id="id_2">
+<P class="p17 ft2">30</P>
+</DIV>
+</DIV>
+<DIV id="page_31">
+
+
+<DIV id="id_1">
+<P class="p42 ft2">Skr. 2024/25:151</P>
+<P class="p43 ft2">Bilaga</P>
+<P class="p81 ft29">Webbsidor</P>
+<P class="p253 ft15">Säkerhetspolisen, ”Säkerhetspolisens uppdrag”, <SPAN class="ft82">https://sakerhetspolisen.se/om- </SPAN><NOBR><SPAN class="ft82">sakerhetspolisen/sakerhetspolisens-uppdrag.html</SPAN>,</NOBR> hämtad <NOBR>2024-10-24.</NOBR></P>
+<P class="p254 ft15">Säkerhetspolisen, ”Underrättelsearbete”, <SPAN class="ft82">https://sakerhetspolisen.se/verksamheten/underrattelsearbete.html</SPAN>, hämtad <NOBR>2024-10-24.</NOBR></P>
+<P class="p255 ft15">Säkerhetspolisen, ”Säkerhetsskydd”, <SPAN class="ft82">https://sakerhetspolisen.se/sakerhetsskydd.html</SPAN>, hämtad <NOBR>2024-11-12.</NOBR></P>
+<P class="p256 ft17">Riksrevisionen 23</P>
+</DIV>
+<DIV id="id_2">
+<P class="p17 ft2">31</P>
+</DIV>
+</DIV>
+<DIV id="page_32">
+
+
+<DIV id="id_1">
+<P class="p93 ft2">Skr. 2024/25:151</P>
+<P class="p94 ft2">Bilaga</P>
+<P class="p257 ft17">24 Riksrevisionen</P>
+</DIV>
+<DIV id="id_2">
+<P class="p17 ft2">32</P>
+</DIV>
+</DIV>
+<DIV id="page_33">
+<DIV id="p33dimg1">
+<INGENBILD zsrc="HC0315133x1.jpg/" id="p33img1">
+</DIV>
+
+
+<DIV id="id_1">
+<P class="p42 ft2">Skr. 2024/25:151</P>
+<P class="p43 ft2">Bilaga</P>
+<P class="p258 ft83">EN GRANSKNINGSRAPPORT FRÅN RIKSREVISIONEN</P>
+<P class="p259 ft84">Säkerhetspolisens verksamhet (RiR 2024:24)</P>
+<P class="p260 ft85">Riksrevisionen har granskat Säkerhetspolisens verksamhet inom områdena kontraspionage, kontraterror, författningsskydd samt säkerhetsskydd. Resultatet av granskningen, i form av samlade slutsatser och rekommendationer till regeringen och Säkerhetspolisen, redovisas i denna granskningsrapport.</P>
+<P class="p261 ft86">Riksrevisionen www.riksrevisionen.se S:t Eriksgatan 117</P>
+<P class="p262 ft87">Box 6181, 102 33 Stockholm <NOBR>08-5171</NOBR> 40 00</P>
+</DIV>
+<DIV id="id_2">
+<P class="p17 ft2">33</P>
+</DIV>
+</DIV>
+<DIV id="page_34">
+<DIV id="p34dimg1">
+<INGENBILD zsrc="HC0315134x1.jpg/" id="p34img1">
+</DIV>
+
+
+<DIV id="id_1">
+<P class="p17 ft1"><SPAN class="ft88">Skr. 2024/25:151 </SPAN>Justitiedepartementet</P>
+<P class="p263 ft2">Utdrag ur protokoll vid regeringssammanträde den 3 april 2025</P>
+<P class="p264 ft9">Närvarande: statsrådet Svantesson, ordförande, och statsråden Ankarberg Johansson, Edholm, Waltersson Grönvall, Strömmer, Forssmed, Forssell, Slottner, M Persson, Kullgren, Liljestrand, Bohlin, Carlson, Pourmokhtari, Rosencrantz, Dousa, Larsson</P>
+<P class="p265 ft2">Föredragande: statsrådet Strömmer</P>
+<P class="p266 ft2">Regeringen beslutar skrivelse Riksrevisionens rapport om</P>
+<P class="p267 ft2">Säkerhetspolisens verksamhet</P>
+</DIV>
+<DIV id="id_2">
+<P class="p17 ft2">34</P>
+</DIV>
+</DIV>
+
+</div><style>
+
+
+TD,TD.p2h {
+zzzfont-size:90%;
+zzzmargin-right:2px;
+zzzoverflow:visable;
+zzzword-wrap: break-word;
+}
+
+P {
+zdisplay:block;
+}
+
+.divbreak {
+clear:both;
+display:block;
+zwidth: 100%;
+zheight: 1px;
+zword-wrap: break-word;
+}
+
+
+.xecp {
+  display:block;
+  margin: 0px !important;
+  padding: 0px !important;
+  
+}
+
+.ec {
+  border-style:solid;
+  border-width:1px;
+  display:block;
+  margin: 0px !important;
+  padding: 0px !important;
+}
+
+.TOPS {
+  overflow:visable;
+  margin:2px;
+  width:690px !important;
+}
+
+</style>

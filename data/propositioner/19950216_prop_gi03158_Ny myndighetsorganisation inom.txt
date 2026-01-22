@@ -1,0 +1,358 @@
+SEARCH TERM: AI
+DOCUMENT ID: gi03158
+TITLE: Ny myndighetsorganisation inom arbetslivsområdet m.m.
+TYPE: prop
+SUBTYPE: prop
+DATE: 1995-02-16
+PARLIAMENTARY YEAR: 1994/95
+ORGANISATION: Arbetsmarknadsdepartementet
+STATUS: digitaliserad
+DOWNLOADED: 2026-01-22 10:29:17
+================================================================================
+
+<h1><a name="caption1"></a>Regeringens proposition<br>1994/95:158</h1>
+<h2>Ny myndighetsorganisation inom<br>arbetslivsområdet m.m.</h2><img src="https://data.riksdagen.se/fil/GI03158/prop_199495__158-1.png" style="width:37pt;height:48pt;"/>
+<p>Prop.</p>
+<p>1994/95:158</p>
+<p>Regeringen överlämnar denna proposition till riksdagen.</p>
+<p>Stockholm den 16 februari 1995</p>
+<p>Ingvar Carlsson</p>
+<p>Anders Sundström</p>
+<p>(Arbetsmarknadsdepartementet)</p>
+<h2>Propositionens huvudsakliga innehåll</h2>
+<p>I propositionen läggs förslag till en ny organisation för forskning och<br>utveckling inom arbetslivsområdet, som framför allt syftar till en bättre<br>samordning och en klar uppdelning mellan utförande verksamhet och<br>medelsbeviljning. Förslagen innebär att de verksamhetsutförande delarna<br>i Arbetsmiljöinstitutet, Institutet för arbetslivsforskning och Arbetsmil-<br>jöfonden samorganiseras i en ny Forsknings- och Uvecklingsmyndighet<br>samt att Arbetsmiljöfondens medelsbeviljande funktion överförs till ett<br>Råd för Forskning och Utveckling inom arbetslivsområdet. Den nya<br>organisationen föreslås träda i kraft den 1 juli 1995.</p>
+<p>Dessutom lämnas förslag om anslagsmedel till Arbetarskyddsverket<br>för budgetåret 1995/96.</p>
+<p>1 Riksdagen 1994/95. 1 saml. 158</p>
+<h2>Innehållsförteckning</h2>
+<p>Prop. 1994/95:158</p>
+<p>1 &nbsp;&nbsp;&nbsp;&nbsp;Förslag till riksdagsbeslut......................... 3</p>
+<p>2 &nbsp;&nbsp;&nbsp;&nbsp;Lagtext...................................... 4</p>
+<p>2.1 &nbsp;&nbsp;Förslag till lag om ändring i lagen (1981:691) om</p>
+<p>socialavgifter............................. 4</p>
+<p>2.2 &nbsp;&nbsp;Förslag till lag om tillfällig avvikelse från lagen</p>
+<p>(1989:484) om arbetsmiljöavgift &nbsp;............... 5</p>
+<p>3 &nbsp;&nbsp;&nbsp;&nbsp;Ärendet och dess beredning........................ 6</p>
+<p>4 &nbsp;&nbsp;&nbsp;&nbsp;En samordnad arbetslivspolitik ..................... 6</p>
+<p>5 &nbsp;&nbsp;&nbsp;&nbsp;Kunskapsbildning och kompetensfrågor&nbsp;i arbetslivet ...... 8</p>
+<p>6 &nbsp;&nbsp;&nbsp;&nbsp;Arbetslivsfonden ............................... 9</p>
+<p>7 &nbsp;&nbsp;&nbsp;Nuvarande FoU-myndigheter inom arbetslivsområdet ....&nbsp;&nbsp;10</p>
+<p>8 &nbsp;&nbsp;&nbsp;&nbsp;Förslag till ny myndighetsorganisation&nbsp;inom&nbsp;arbetslivsom-</p>
+<p>rådet ....................................... 12</p>
+<p>9 &nbsp;&nbsp;&nbsp;&nbsp;Institutet för FoU.............................. 14</p>
+<p>10 &nbsp;&nbsp;Rådet för FoU ............................... 18</p>
+<p>11 &nbsp;&nbsp;&nbsp;Vissa övergångsfrågor........................... 19</p>
+<p>12 &nbsp;&nbsp;&nbsp;Finansiering.................................. 20</p>
+<p>13 &nbsp;&nbsp;&nbsp;Anslagsfrågor for budgetåret 1995/96 ................ 21</p>
+<p>Utdrag ur protokoll vid regeringssammanträde den 16 februari</p>
+<p>1995 ........................................... 30</p>
+<h2>1 Förslag till riksdagsbeslut &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Prop. 1994/95:158</h2>
+<p>Regeringen föreslår att riksdagen</p>
+<p>1. &nbsp;&nbsp;&nbsp;antar regeringens förslag till lag om ändring i lagen (1981:691)<br>om socialavgifter (avsnitt 2.1),</p>
+<p>2. &nbsp;&nbsp;&nbsp;antar regeringens förslag till lag om tillfällig avvikelse från lagen<br>(1989:484) om arbetsmiljöavgift (avsnitt 2.2),</p>
+<p>3. &nbsp;&nbsp;godkänner vad regeringen i övrigt anför om Arbetslivsfonden<br>(avsnitt 6),</p>
+<p>4. &nbsp;&nbsp;godkänner vad regeringen föreslår om inrättande av två nya myn-<br>digheter inom arbetslivsområdet (avsnitt 8),</p>
+<p>5. &nbsp;&nbsp;godkänner vad regeringen anför om fördelning av medel som lö-<br>per över en längre period (avsnitt 10),</p>
+<p>6. &nbsp;&nbsp;&nbsp;godkänner vad regeringen föreslår om att Arbetsmiljöinstitutet,<br>Institutet för arbetslivsforskning och Arbetsmiljöfonden skall läg-<br>gas ned (avsnitt 11),</p>
+<p>7. &nbsp;&nbsp;godkänner vad regeringen föreslår om finansiering av de två nya<br>myndigheterna (avsnitt 12),</p>
+<p>8. &nbsp;&nbsp;godkänner vad regeringen anför om överföringen av medel från<br>fonden för arbetsmiljöförbättringar (avsnitt 13),</p>
+<p>9. &nbsp;&nbsp;godkänner inriktningen av de besparingsåtgärder som avser Arbe-<br>tarskyddsverket för budgetåren 1997 och 1998 som regeringen<br>förordar (avsnitt 13),</p>
+<p>10. &nbsp;&nbsp;till Arbetarskyddsverket för budgetåret 1995/96 under tionde hu-<br>vudtiteln anvisar ett ramanslag på 558 096 000 kr (avsnitt 13),</p>
+<p>11. &nbsp;godkänner inriktningen av de besparingsåtgärder som avser de<br>båda nya myndigheterna för budgetåren 1997 och 1998 som rege-<br>ringen förordar (avsnitt 13),</p>
+<p>12. &nbsp;&nbsp;till Myndigheter inom arbetslivsområdet för budgetåret 1995/96<br>under tionde huvudtiteln anvisar ett nytt ramanslag på<br>1 214 483 000 kr (avsnitt 13),</p>
+<p>13. &nbsp;&nbsp;godkänner vad regeringen anför om att anslagssparande eller an-<br>slagskredit budgetåret 1994/95 från ramanslagen Arbets-<br>miljöinstitutet och Institutet för arbetslivsforskning överförs till<br>anslaget Myndigheter inom Arbetslivsområdet (avsnitt 13).</p>
+<p>2 Lagtext &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Prop 1994/95:158</p>
+<p>2.1 Förslag till lag om ändring i lagen (1981:691) om soci-<br>alavgifter</p>
+<p>Härigenom föreskrivs att 4 kap. 8 § lagen (1981:691) om socialavgifter<sup>1<br></sup>skall ha följande lydelse.</p>
+<p>4 kap.</p>
+<p>8 §<sup>2</sup></p>
+<p>Nuvarande lydelse</p>
+<p>Av influtna arbetarskyddsavgifter<br>enligt 2 kap. 1 § förs 53,5 procent<br>till staten för finansiering av Arbe-<br>tarskyddsverkets, Arbetsmiljö-<br>institutets och Arbetslivscentrums<br>verksamhet.</p>
+<p>Återstoden av arbetarskyddsav-<br>giftema förs till Arbetsmiljö-<br>fonden.</p>
+<p>Föreslagen lydelse</p>
+<p>Arbetarskyddsavgifter enligt 2<br>kap. 1 § förs till staten för finans-<br>iering av Arbetarskyddsverkets<br>och övriga arbetslivsmyndigheters<br>verksamhet.</p>
+<p>Denna lag träder i kraft den 1 juli 1995.</p>
+<p><sup>1</sup> Lagen omtryckt 1989:633.</p>
+<p><sup>2</sup> Senaste lydelse 1994:198.</p>
+<p>2.2 Förslag till lag om tillfällig avvikelse från lagen<br>(1989:484) om arbetsmiljöavgift</p>
+<p>Prop. 1994/95:158</p>
+<p>Härigenom föreskrivs följande.</p>
+<p>Med avvikelse från 2 § lagen (1989:484) om arbetsmiljöavgift bemyn-<br>digas regeringen att för budgetåret 1995/96 disponera 600 miljoner kro-<br>nor från arbetslivsfonden till sysselsättningsskapande åtgärder.</p>
+<p>Denna lag träder i kraft den 1 juli 1995 och gäller till utgången av<br>december 1996.</p>
+<h2>3 Ärendet och dess beredning</h2>
+<p>Genom beslut den 20 oktober 1994 bemyndigade regeringen en särskild<br>utredare att göra en översyn av strukturer och resurser inom arbetsliv-<br>sområdet. Utredaren lämnade sitt förslag till regeringen den 20 decem-<br>ber 1994. Förslaget innebär att de verksamhetsutförande delarna i myn-<br>digheterna Arbetsmiljöinstitutet, Institutet för arbetslivsforskning samt<br>Arbetsmiljöfonden sammanförs i en myndighet. Vidare föreslås att Ar-<br>betsmiljöfondens nuvarande medelsbeviljande uppgifter överförs till ett<br>forsknings- och ett utvecklingsråd inom den nya myndigheten.</p>
+<p>I avsikt att närmare analysera förslaget bemyndigade regeringen den<br>22 december 1994 chefen för Arbetsmarknadsdepartementet att tillkalla<br>en arbetsgrupp med uppgift att närmare föreslå hur en konsoliderad<br>myndighet inom arbetslivsområdet skulle kunna skapas.</p>
+<p>Denna arbetsgrupp med chefen för Arbetsmiljöinstitutet och Institutet<br>för arbetslivsforskning och cheferna för Arbetsmiljöfonden och Arbetar-<br>skyddsstyrelsen samt representanter för Arbetsmiljöinstitutet, Institutet<br>för arbetslivsforskning och Arbetsmarknadsdepartementet har analyserat<br>förutsättningarna för att konsolidera ifrågavarande myndigheter till en<br>sammanhållen organisation för att samordna och utveckla arbetslivspoli-<br>tiken. Arbetsgruppen redovisade den 6 februari 1995 sin rapport.</p>
+<p>Arbetsgruppen har koncentrerat sin analys till organisatoriska frågor<br>och föreslagit att FoU-myndighetema inom arbetslivsområdet delas upp<br>i två: en som är verksamhetsutförande och en som är medelsbeviljande.<br>Detta menar arbetsgruppen skapar bättre förutsättningar för en effektiv<br>och tydlig organisationsstruktur inom arbetslivsområdet. Arbetsgruppen<br>har hållit arbetsmarknadens parter underrättade om arbetet.</p>
+<p>Prop. 1994/95:158</p>
+<h2>4 En samordnad arbetslivspolitik</h2>
+<p>Arbetslivspolitiken rör förhållandet på arbetsplatsen ur främst två aspek-<br>ter: arbetets villkor såsom framför allt arbetsmiljö, arbetsorganisation,<br>arbetstider och förhållandet mellan arbetsgivare och arbetstagare, dvs.<br>arbetsrätten. Inom arbetsrätten behandlas framför allt frågor om arbets-<br>tagarinflytande, förhandlingsregler m.m. och frågor om anställnings-<br>skydd. Begreppet arbetsmiljö innefattar inte bara frågor om säkerhet och<br>skydd mot fysiska och psykosociala risker, utan även möjligheten till<br>inflytande, delaktighet och utveckling.</p>
+<p>Arbetslivspolitikens grundläggande uppgift är att förebygga arbets-<br>skador och ohälsa och härigenom förhindra utslagning samt hjälpa män-<br>niskor som drabbats av ohälsa tillbaka till arbetslivet. Syftet med arbets-<br>livspolitiken är också att arbetslivet ska förändras så att människors<br>arbetsuppgifter blir mer stimulerande och utvecklande. Arbetslivspoliti-<br></p>
+<p>ken ska vidare medverka till att ansvar och befogenheter sprids i organi- Prop. 1994/95:158<br>sationen så att fler får lösa sina arbetsuppgifter i samverkan med andra.<br>Kunskap och kompetens får en allt större betydelse i dagens arbetsliv.<br>En annan viktig uppgift är att fora erfarenheter och kunskaper vidare så<br>att positiva förändringar som skett i arbetsmiljön och arbetsmiljöarbetet<br>förmedlas och används.</p>
+<p>En god arbetsmiljö och ett bra arbetsliv i övrigt hänger intimt samman<br>med möjligheterna att öka produktiviteten och stärka konkurrenskraften.<br>Goda arbetslivsbetingelser är med andra ord en förutsättning och ett<br>medel for produktivitet, effektivitet och kvalitet i verksamheten. Likaså<br>minskar det samhällets kostnader for ohälsa och utslagning. Det omvän-<br>da förhållandet, dvs att hög produktivitet medför goda arbetsförhållan-<br>den, gäller långt ifrån alltid. Det är därför viktigt att slå fast, att arbetet<br>med att öka tillväxten och skapa nya jobb alltid måste gå hand i hand<br>med ett aktivt arbetsmiljöarbete och fortsatt förnyelse av arbetslivet.</p>
+<p>En viktig uppgift inom arbetslivspolitiken är att föra erfarenheter och<br>kunskaper från bl.a. Arbetslivsfondens verksamhet vidare och att vid-<br>makthålla de positiva förändringar i arbetslivet som bl.a. denna verk-<br>samhet har bidragit till.</p>
+<p>Utveckling av arbetslivet förutsätter samverkan mellan arbetsgivare<br>och anställda. I takt med att arbetslivet förändras växer nya samarbets-<br>relationer fram. Detta får betydelse för utvecklingen av de arbetsrätts liga<br>reglerna, som måste bygga på dels de anställdas behov av trygghet och<br>rättssäkerhet, dels verksamheternas behov av flexibilitet. Hänsyn behö-<br>ver också tas till den ökande internationalisering som sker.</p>
+<p>Det är en viktig uppgift att inom ramen för arbetslivspolitiken under-<br>stödja goda relationer mellan arbetsgivare och de anställda. En viktig<br>del i förnyelsen av arbetslivet är därför att modernisera arbetsrätten.<br>Regeringen kommer inom kort att tillkalla en kommission för att söka<br>lösningar på de problem som arbetsmarknadens parter anser föreligger<br>på arbetsrättens område. Syftet är att under medverkan från parterna<br>finna former som medför att arbetsmarknadens parter själva i så stor<br>utsträckning som möjligt genom kollektivavtal kan ge de arbetsrättsliga<br>reglerna en sådan utformning att de fungerar väl i praktiken och blir så<br>enkla och effektiva som möjligt.</p>
+<p>Inom arbetstidsområdet har regeringen genom beslut den 26 januari<br>1995 tillsatt en parlamentarisk kommitté (dir. 1995:6) Effekter av olika<br>arbetstidsförändringar m.m. som har till uppgift att dels behandla de<br>långsiktiga konsekvenserna av alternativa arbetstidsförkortningar, dels<br>undersöka på vilket sätt flexibla arbetstidsregler kan införas i svensk<br>lagstiftning samt dels utreda konsekvenserna av EU:s arbetstidsdirektiv<br>för det svenska regelsystemet på arbetstidsområdet. Kommitténs arbete<br>skall vara avslutat före utgången av år 1995.</p>
+<p>De arbetslivspolitiska frågoma bör emellertid också ses i ett större<br>tillväxtpolitiskt sammanhang och då i samverkan med andra politikom-</p>
+<p>råden. Särskilt gäller detta insatser och resurser lokalt och regionalt,<br>nära arbetsplatserna. Som ett led i detta arbete avser regeringen senare<br>återkomma till riksdagen med förslag om hur dessa frågor och framför<br>allt kompetensfrågorna i arbetslivet bör lösas. I det sammanhanget avser<br>regeringen också återkomma till de förslag som utredningen (Dir<br>1993:15) om kunskapsspridning m.m. inom arbetslivsområdet (SOU<br>1994:48) presenterat.</p>
+<p>Regeringen kommer i det följande att som ett första steg föreslå en ny<br>myndighetsorganisation inom arbetslivsområdet. Arbetslivsfondens verk-<br>samhet kommer också att i korthet beröras i det följande men regeringen<br>avser att sedan de pågående utvärderingarna av fondens verksamhet<br>slutförts återkomma till riksdagen med en redovisning härom. Det fort-<br>satta arbetet med kunskapsbildning i arbetslivet kommer också att redo-<br>visas i följande. Slutligen behandlas anslag för budgetåret 1995/96 för<br>Arbetarskyddsverket och de två nya myndigheterna inom arbetslivsom-<br>rådet.</p>
+<p>Prop. 1994/95:158</p>
+<h2>5 Kunskapsbildning och kompetensfrågor i<br>arbetslivet</h2>
+<p>På regional nivå har flera aktörer med stor kompetens och fungerande<br>nätverk för arbetslivs- och verksamhetsutveckling vuxit fram. I exempel-<br>vis Västerbottens län finns A-forum Norr, som är ett regionalt kontakt-<br>och kunskapscentrum för förändrings- och utvecklingsarbete på arbets-<br>platserna. I Skaraborgs län pågår ett arbete med att bygga upp en lik-<br>nande verksamhet.</p>
+<p>Det är viktigt att de särskilda förutsättningar som finns inom vaije<br>region tas till vara och inte söka forma ett enhetligt system för vare sig<br>lokal eller regional kunskapsförmedling. I stället bör lokala och regiona-<br>la initiativ tas till att utveckla olika former av kunskapsbildning i före-<br>tagen. Däremot kan det finnas anledning att inom arbetslivsområdet på<br>olika sätt stimulera denna utveckling. En uppgift för de i det följande<br>föreslagna nya myndigheterna inom arbetslivsområdet, bör vara att på<br>olika sätt utveckla och stödja lokal och regional kunskapsförmedling<br>inom arbetslivsområdet, varvid en mångfald i ansatser bör eftersträvas.</p>
+<p>De vittförgrenade nätverk som byggts upp av Arbetslivsfonden och<br>Arbetsmiljöfonden bör tas tillvara. Samordning bör vidare ske med and-<br>ra myndigheter och organisationer som har till uppgift att stimulera<br>utveckling av framför allt små företag. Exempel på aktörer inom detta<br>område är förutom högskolor och de regionala utvecklingsbolagen även<br>myndigheter som länsarbetsnämnder och länsstyrelser. I sammanhanget<br>bör uppmärksammas att regeringen i sitt budgetförslag under närings-<br></p>
+<p>departementet föreslagit att 100 milj. kr. avsätts för att stärka kun- Prop. 1994/95:158<br>skapsförsöijningen till små och medelstora företag.</p>
+<p>Till detta kan läggas att genom Sveriges medlemskap i EU kommer<br>medel att kunna användas för projekt inom ramen för bl.a. mål 4 i Euro-<br>peiska socialfonden. Mål 4 syftar till att genom kompetensutveckling av<br>anställda, främst i små och medelstora företag, underlätta omställningar<br>vid strukturförändringar och förändring av produktionssystem. Åtgärder-<br>na skall vara förebyggande och bör bl.a. inriktas på att främja utveck-<br>lingen av företags och individers förmåga att efterfråga och använda ny<br>kompetens och främja stödjande strukturer bl.a. i form av nätverk. Pro-<br>grammet avser tidsperioden 1995-1999 och en särskild utredare (dir.<br>1994:139) har genom beslut den 22 december 1994 fått i uppdrag att till<br>den 15 mars 1995 utarbeta ett program för användningen av dessa me-<br>del.</p>
+<p>Regeringen avser att återkomma till riksdagen under våren med för-<br>slag till inriktning av projekten samt den anslagstekniska lösningen för<br>Sveriges medfinansiering. Även de förslag som regeringen presenterar i<br>det följande kan behöva kompletteras eller förändras med hänsyn till de<br>förslag som utredaren för Mål 4 kommer att lägga fram. Som nämnts i<br>det föregående avser regeringen senare också återkomma till riksdagen<br>med förslag hur framför allt kompetensfrågorna i arbetslivet kan lösas i<br>samverkan mellan flera politikområden.</p>
+<h2>6 &nbsp;&nbsp;Arbetslivs fonden</h2>
+<p>Regeringens förslag: 600 miljoner kronor från arbetslivsfonden<br>förs över till statsbudgetens inkomsttitel som delfinansiering av<br>vissa arbetsmarknadspolitiska satsningar.</p>
+<p>Arbetslivsfondens verksamhet upphör den 1 juli 1995 (prop.<br>1992/93:100 bil. 11, bet. AU12, rskr 203). Enligt uppgift från Arbets-<br>livsfonden beräknas minst 600 miljoner kronor återstå av fondens medel<br>vid utgången av juni 1995. Som delfinansiering av de arbetsmark-<br>nadspolitiska satsningarna som föreslagits i höstens ekonomisk-politiska<br>proposition föreslår regeringen att 600 miljoner kronor från arbetslivs-<br>fonden förs över till statsbudgetens inkomsttitel (2811) övriga inkomster<br>av statens verksamhet. För att möjliggöra en sådan överföring föreslår<br>regeringen en särskild tidsbegränsad lag om avvikelse från 2 § lagen<br>(1989:484) om arbetsmiljöavgift. I enlighet härmed har inom Arbets-<br>marknadsdepartementet upprättats förslag till lag om tillfällig avvikelse<br>från lagen (1989:484) om arbetsmiljöavgift. Det bör ankomma på rege-</p>
+<p>1 * Riksdagen 1994/95. 1 saml. 158<br></p>
+<p>ringen att med stöd av lagen besluta om överföringen av medlen under Prop. 1994/95:158<br>budgetåret 1995/96.</p>
+<p>Sedan den Centrala arbetslivsfonden kommit in till regeringen med sin<br>slutredovisning och de olika utvärderingar om fondens verksamhet slut-<br>förts avser regeringen återkomma till riksdagen med en närmare redo-<br>visning av de resultat och effekter som den Centrala och de Regionala<br>arbetslivsfondemas insatser har givit upphov till. Regeringen avser<br>vidare att senare ge Kammarkollegiet i uppdrag att efter samråd med det<br>nya FoU-institutet på arbetslivsområdet som regeringen kommer att<br>föreslå i det följande ansvara för den ekonomiska redovisning som av<br>praktiska och administrativa skäl kvarstår efter den 30 juni 1995.</p>
+<h2>7 Nuvarande FoU-myndigheter inom arbetslivs-<br>området</h2>
+<p>Ett viktigt område inom arbetslivspolitiken är de FoU-verksamheter som<br>bedrivs inom sektom. Dessa är av stor betydelse inte bara för den en-<br>skildes arbetsförhållanden utan även för näringslivet i stort.</p>
+<p>En stor del av statens resurser inom arbetslivsområdet används till<br>FoU-verksamhet vid särskilda institut och vid universitet och högskolor.<br>I dag finns tre myndigheter inom området: Arbetsmiljöinstitutet (AI),<br>Institutet för arbetslivsforskning (ALFI) och Arbetsmiljöfonden<br>(AMFO).</p>
+<p>Arbetsmiljöinstitutet</p>
+<p>Arbetsmiljöinstitutet inrättades som ett självständigt forskningsorgan<br>genom att forskningsavdelningen vid Arbetarskyddsstyrelsen bröts ur<br>styrelsen år 1987. Forskningsavdelningen hade i sin tur sitt ursprung i<br>det arbetsmedicinska institutet som fördes till Arbetarskyddsstyrelsen år<br>1972.</p>
+<p>Institutets uppgifter är enligt förordningen (1988:732) med instruktion<br>för Arbetsmiljöinstitutet att bedriva och främja forskning, utbildning och<br>dokumentation samt sprida information i syfte att förbättra arbetsmiljön.<br>Vid institutet arbetar ca 380 personer varav ca 310 i Solna och ca 70 i<br>Umeå.</p>
+<p>Forskning bedrivs inom ämnesområdena fysiologi, kemi, medicin,<br>psykologi, teknik och toxikologi. Vid institutet bedrivs både tillämpad<br>forskning och riktad grundforskning. Verksamheten bedrivs i samarbete<br>med högskolor, företagshälsovård och yrkesmedicinska kliniker, både<br>inom och utom Norden.</p>
+<p>10</p>
+<p>Institutet arbetar tvärvetenskapligt inom vissa prioriterade områden. Prop. 1994/95:158<br>Under budgetåret 1992/93 prioriteras följande tvärvetenskapliga områ-<br>den: belastningsskador, lungsjukdomar, cancer och genetiska skador,<br>hudsjukdomar, olycksfall, datom som hjälpmedel samt elektromagnetis-<br>ka fält. Vidare arbetar institutet inom fyra s.k. programområden: god<br>arbetsmiljö för ungdomar, god arbetsmiljö för äldre, god arbetsmiljö i<br>vården samt yrkesföramas arbetsmiljö.</p>
+<p>Institutet svarar också för utbildningen av personal inom företagshäl-<br>sovården och andra målgrupper. Vid institutet finns ett nationellt<br>ansvars- och expertbibliotek för arbetsmiljöområdet. Institutet har också<br>ett omfattande internationellt samarbete.</p>
+<p>Institutet för arbetslivsforskning</p>
+<p>Institutet för arbetslivsforskning, tidigare benämnt Arbetslivscentrum,<br>tillkom år 1976 för att bedriva och främja tvärvetenskapligt forsknings-<br>och utvecklingsarbete inom arbetslivsområdet. Efter beslut i riksdagen<br>våren 1991 har institutet genomgått en omfattande omstrukturering.<br>Institutet är numera ett renodlat forskningsinstitut. Institutets uppgift är<br>enligt förordningen (1988:1138) med instruktion för Institutet för arbets-<br>livsforskning att bedriva arbetsmarknads- och arbetslivsforskning som<br>rör relationerna på arbetsmarknaden och i arbetslivet samt produktivi-<br>tets- och inflytandefrågor och arbetsorganisation.</p>
+<p>Vid institutet arbetar ca 60 personer, varav 35 är fasta anställningar.</p>
+<p>Institutet har en mångvetenskaplig och interdisciplinär forskningsmiljö<br>och bedriver framför allt problemorienterad forskning. För närvarande<br>koncentreras forskningsinsatserna till fyra program: internationalisering<br>och europapolitik samt kompetens, produktivitet och arbetsplatsutveck-<br>ling, arbetsmarknadspolitik och partsintressenas omvandling samt kvin-<br>noforskning. Institutet samarbetar med högskolor och universitet, be-<br>driver doktorandutbildning och samarbetar med ett stort antal utländska<br>forskare.</p>
+<p>Arbetsmiljöfonden</p>
+<p>Arbetsmijöfonden är i dag landets största finansiär av forsknings- och<br>utvecklingsarbete inom arbetslivsområdet. Fondens intäkter från arbetar-<br>skyddsavgiften uppgår f.n. till ca 550 milj.kr.</p>
+<p>Arbetsmiljöfondens uppgifter är enligt förordningen (1991:1158) med<br>instruktion för Arbetsmiljöfonden att initiera och stödja sådan forskning<br>och utveckling samt utbildning, information och kunskapsförmedling<br>som kan motverka uppkomsten av arbetsskador eller i övrigt bidra till<br>en förbättrad arbetsmiljö samt om arbetslivsfrågor i övrigt.</p>
+<p>11</p>
+<p>En stor del av fondens FoU-stöd går till universitet och högskolor. Prop. 1994/95:158<br>Stödet sker i ökad utsträckning i form av samlade och långsiktiga sats-<br>ningar inom prioriterade områden. Utöver enskilda projekt finansierar<br>fonden ramprogram och tidsbegränsade anställningar som forskare. Däri-<br>genom stimuleras en långsiktig kunskapsuppbyggnad inom högskolan.</p>
+<p>Fondens satsning på samhällsvetenskaplig forskning har efter hand<br>ökat men fortfarande dominerar den medicinska, naturvetenskapliga och<br>tekniska forskningen. Inom de samhällsvetenskapliga och medicinska<br>områdena är fonden en av de största offentliga finansiärerna.</p>
+<p>Utöver stöd till arbetslivsforskningen ger fonden stöd till utveckling<br>av produkter, system och tjänster samt till försöksverksamhet på arbets-<br>platser. Det senare sker inom ramen för samlade utvecklingsprogram<br>med givna teman. Fonden ger också ett omfattande stöd till kunskaps-<br>förmedling och utveckling av nya former för denna. Stor vikt läggs vid<br>att skapa nätverk mellan olika aktörer och främja kontakter mellan for-<br>skare och arbetslivet liksom också vid att främja det internationella<br>utbytet inom området.</p>
+<p>Fonden ger även omfattande bidrag till utbildning och information<br>riktade till olika målgrupper, bl.a. till skyddsombud, arbetsledande per-<br>sonal m.fl. Dessutom ger fonden bidrag till verksamheten med regionala<br>skyddsombud.</p>
+<h2>8 Förslag till ny myndighetsorganisation inom ar<br>betslivsområdet</h2>
+<p>Regeringens förslag: Regeringen föreslår att en ny FoU-myndig-<br>het samt ett medelsbeviljande råd för forskning och utveckling<br>bildas inom arbetslivsområdet. Myndigheterna inrättas den 1 juli<br>1995.</p>
+<p>Skälen för regeringens förslag: En av landets viktigaste politiska<br>frågor är sysselsättningen. Den omfattande arbetslösheten riskerar inte<br>bara att skapa allvarliga marginaliseringsproblem och en uppdelning av<br>arbetsmarknaden utan den försvårar också arbetslivspolitikens mål att<br>skapa hälsosamma arbetsmiljöer och utvecklande arbeten.</p>
+<p>Arbetslöshetens många negativa effekter ställer såväl arbetsmarknads-<br>som arbetslivspolitiken inför nya utmaningar och problem. Dessutom<br>utvecklas arbetslivet och arbetsmarknadens förhållanden i en allt snab-<br>bare takt: ny teknik och flexibla produktionssystem skapar nya hälsop-<br>roblem och nya krav på kompetensutveckling. Löne- och anställnings-<br>villkoren har förändrats för många yrkesgrupper, arbetsmarknadens och</p>
+<p>12<br></p>
+<p>arbetslivets institutionella förhållanden och samarbetsformema mellan Prop. 1994/95:158<br>parterna har förändrats. Till den snabba utvecklingstakten kommer också<br>att förändringsmönstret är komplext och svårtolkat. Olika delområden<br>såsom arbetsmarknads- och sysselsättningsförhållanden påverkar och<br>påverkas av arbetslivspolitikens utformning inom områdena arbetsmiljö,<br>arbetsrätt och arbetsorganisation.</p>
+<p>Med utvecklingen följer att den arbetslivsforskning som utförs inom<br>området, måste organiseras och bedrivas på ett sådant sätt att den kan<br>bidra till kunskapsutveckling kring komplexa och sammansatta utveck-<br>lingsmönster. Detta förutsätter inte bara bättre överblick, nya priorite-<br>ringsmöjligheter inom forskningsfältet som helhet och bättre integration,<br>utan också att den forskning som bedrivs formas och utvecklas i takt<br>och samklang med de utvecklingsmönster och problem som präglar<br>arbetsliv och arbetsmarknad.</p>
+<p>För den sektorforskning som bedrivs vid Arbetsmiljöinstitutet och<br>Institutet för arbetslivsforskning är en sådan praktiknära och relevansori-<br>enterad forskningsinriktning särskilt viktig. Genom en samorganisation<br>och samverkan mellan olika verksamhetsgrenar som forskning, utbild-<br>ning, kompetensutveckling, kunskapsförmedling och praktisk arbetslivs-<br>utveckling stärks möjligheterna att upprätthålla en sådan forskningspro-<br>fil.</p>
+<p>Regeringen föreslår i enlighet med arbetsgruppens förslag att de verk-<br>samhetsutförande delarna i de tre berörda myndigheterna samorganiseras<br>i en ny FoU-myndighet. Regeringen anser att det är principiellt viktigt<br>att de huvudverksamheter som skall ingå i den nya myndigheten organi-<br>seras och bedrivs på sådant sätt att de bidrar till att upprätthålla och<br>stärka forskningens kvalitet och relevans, å ena sidan och till att, i vid<br>betydelse föra ut och tillämpa forskningens resultat å den andra. Utbild-<br>ningsinsatser, forskarstödda utvecklingsprojekt och informationsverk-<br>samheter är exempel på sådana verksamhetsåtaganden.</p>
+<p>Den nya FoU-myndighetens huvudsakliga verksamhet består i att<br>bedriva forskning och utveckling. Eftersom forskningsutförande och<br>medelstilldelning till forskningen av principiella skäl bör särskiljas före-<br>slår regeringen i likhet med arbetsgruppens förslag att Arbetsmiljö-<br>fondens nuvarande medelsbeviljande funktion överförs till ett Råd för<br>forskning och utveckling. Med ett fristående forsknings- och utveck-<br>lingsråd ges alla forskare lika möjligheter att konkurrera om medel,<br>vilket bidrar till att upprätthålla och höja den vetenskapliga kvaliteten på<br>forskningen.</p>
+<p>Det är viktigt att arbetsmarknadens parter och andra intressenter inom<br>arbetslivsområdet på lämpligt sätt ges goda möjligheter att delta och<br>utöva inflytande i såväl FoU-myndighetens verksamhetsområden som i<br>forsknings- och utvecklingsrådets verksamhet. Det är angeläget att verk-<br>samheterna organiseras och bedrivs på sådant sätt att det skapas goda</p>
+<p>13<br></p>
+<p>möjligheter för arbetslivets företrädare att såväl ta ansvar för som att Prop. 1994/95:158<br>kanalisera sina krav och förväntningar på verksamheterna.</p>
+<p>Regeringens förslag innebär att två nya myndigheter inrättas den 1 juli<br>1995 och ersätter de nuvarande myndigheterna Arbetsmiljöinstitutet,<br>Institutet för arbetslivsforskning och Arbetsmiljöfonden. Vissa över-<br>gångsfrågor behandlas i avsnitt 11.</p>
+<p>I det följande berörs först den föreslagna FoU-myndigheten nedan<br>benämnd institutet för FoU, därefter den föreslagna medelsbeviljnings-<br>myndigheten, nedan benämnd rådet för FoU.</p>
+<h2>9 Institutet för FoU</h2>
+<p>Regeringens förslag: En ny myndighet med uppgift att bl.a. be-<br>driva forskning, utbildning, kompetens- och arbetslivsutveckling<br>inom arbetslivsområdet inrättas.</p>
+<p>Skälen för regeringens förslag: I likhet med arbetsgruppens förslag<br>anser regeringen att utgångspunkten för den nya myndighetens verksam-<br>het är det som inryms i begreppet Forskning och Utveckling. Den hu-<br>vudsakliga verksamheten består i att bedriva forskning. I princip kan<br>forskningsverksamhetens nuvarande inriktning beskrivas som proble-<br>mområden.</p>
+<p>Arbetsmiljöforskningen som består av flera delområden och som sam-<br>mantagna utgör det största forskningsfältet.</p>
+<p>Forskning rörande arbetsorganisation, lokala samarbetsformer och i<br>övrigt förhållandena i arbetet och på arbetsplatsen.</p>
+<p>Forskning om arbetsmarknadsrelationer och arbetsrättsligt inriktad<br>forskning samt kvinno- och jämställdhetsforskning.</p>
+<p>Till forskningen kommer den nya myndighetens övriga delverksam-<br>heter, varav de viktigaste är: utbildning, kompetens- och arbetslivs-<br>utveckling, internationellt utbyte och samarbete samt information och<br>dokumentation.</p>
+<p>De olika verksamhetsområdena berörs kortfattat i det följande.</p>
+<p>Mångvetenskaplig forskning</p>
+<p>Den arbetslivsforskning som bedrivs vid Arbetsmiljöinstitutet och In-<br>stitutet för arbetslivsforskning har till uppgift att ta ansvar för ett flertal<br>åtaganden och forskningspolitiska perspektiv som kompletterar den<br>forskning och de forskningstraditioner som finns inom högskoleväsen-<br>det.</p>
+<p>14</p>
+<p>Den sektorsbedrivna arbetslivsforskningen vilar på speciella premisser Prop. 1994/95:158<br>i förhållande till forskningen vid universitet och högskolor. De kunskap-<br>straditioner som präglar universitet och högskola är huvudsakligen teore-<br>tiska. Med ett teoretiskt synsätt betraktas praktiken ofta som tillämpad<br>teori. Annorlunda blir utgångspunkten om forskningen - såsom fallet är<br>med en stor del av arbetslivsforskningen - utgår från problem i arbets-<br>livet. Då bildar praktiken grunden för själva kunskapssökandet och teo-<br>retiska kunskaper kan bidra med att öka förståelsen för de problem for-<br>skare och praktiskt verksamma möter.</p>
+<p>Därför bygger mycket av arbetslivsforskningen på ett nära samarbete<br>mellan praktiker och forskare och därför finns inga skarpa gränser mel-<br>lan forskningen, arbetslivets utveckling, utbildning och kunskapsförmed-<br>ling, utan alla skall uppfattas som viktiga delar i arbetslivsforskningens<br>kunskapsutveckling. Den nya myndighetens olika verksamhetsgrenar<br>skall således ses i ett sammanhang som syftar till att främja kunskaps-<br>flöde mellan dem.</p>
+<p>Ett viktigt kriterium för arbetslivsforskningen är dess relevans för<br>arbetslivets problem. Ett annat, som hänger nära samman med detta, är<br>kravet på breda forskningsinsatser med en mångfald av discipliner och<br>forskningsperspektiv. Utgångspunkten i komplexa arbetslivsproblem<br>leder ofta till ett överskridande av disciplinära gränser och tvingar till<br>vetenskaplig nyorientering.</p>
+<p>Gränsöverskridande forskning kräver noggrann kvalitetsbedömning.<br>Den i sin tur måste utföras av företrädare från forskarsamhället som har<br>djup förtrogenhet med de olika forskningsperspektiv som aktualiseras.</p>
+<p>Till sektorsforskningens uppgifter hör att ansvara för en kontinuerlig<br>och långsiktig kunskapsutveckling inom respektive sektor. Denna ut-<br>veckling skall präglas av en relevans- och problemorienterad forsknings-<br>ansats. Den sektorsbedrivna arbetslivsforskningen har ett långsiktigt<br>ansvar för en kunskapsutveckling som kan bidra till att beskriva, för-<br>klara och i förlängningen utveckla förhållandena på arbetsmarknaden<br>och i arbetslivet.</p>
+<p>I och med att arbetslivet har blivit alltmer sammansatt ställer detta<br>stora krav på arbetslivsforskningens långsiktiga förmåga att utveckla<br>problemorienterade och mångvetenskapliga angreppssätt.</p>
+<p>Den föreslagna samorganiseringen av den forskning och utbildning,<br>som bedrivs vid Arbetsmiljöinstitutet och Institutet för arbetslivsforsk-<br>ning, sammantaget med fortsatta och förnyade insatser rörande lokal och<br>regional arbetslivsutveckling främjar inte bara långsiktiga förutsättningar<br>för en mångvetenskaplig forskning om arbetsmarknad, arbetsliv, arbets-<br>miljö och arbetsrätt. Den ger också de organisatioriska förutsättningarna<br>för att långsiktigt stödja en praktiknära och relevansorienterad utveck-<br>ling av arbetslivsforskningen.</p>
+<p>Med samorganiseringen motverkas rådande barriärer mellan forskning<br>och teori å ena sidan och arbetslivets utveckling å den andra. Med en</p>
+<p>15<br></p>
+<p>gemensam FoU-myndighet för forskning, utbildning, insatser för arbets- Prop. 1994/95:158<br>livets utveckling och kompetensfömyelse stärks möjligheterna till nära<br>kontakt, samverkan och ömsesidig påverkan mellan forskningen och<br>arbetslivets utveckling.</p>
+<p>Samorganiseringen i en större FoU-myndighet ställer stora krav på<br>såväl forskningsintegritet som bevarad forskningsidentitet. Organisa-<br>tionen skall därför utformas på ett sådant sätt att det inom skilda forsk-<br>ningsinriktningar ges bästa förutsättningar för att åstadkomma forskning<br>av god kvalitet och god relevans inom arbetslivsområdet.</p>
+<p>Forskningsorganisationen bör utformas på sådant sätt att förekomman-<br>de och nya forskningsinriktningar ges institutionella och därmed fortsatt<br>goda möjligheter till en identitetsskapande utveckling.</p>
+<p>Utbildning</p>
+<p>Förmedling av forskningsresultat sker mest effektivt genom utbildnings-<br>insatser av olika slag. Den nya myndighetens utbildningsverksamhet<br>skall omfatta forskarutbildning, medverkan i utbildning vid högskolor<br>och universitet och vid andra extema utbildnings- och kursverksamheter<br>som rör myndighetens verksamhetsfält.</p>
+<p>Myndigheten skall ansvara för att på uppdragsbasis och genom samar-<br>bete med andra utbildningsarrangörer, arbetsmarknadens parter och kun-<br>skapsmiljöer på lokal och regional nivå arrangera och stödja utbildnings-<br>insatser av olika slag. Exempel på sådana utbildningsverksamheter som<br>myndigheten bör stödja är olika utbildningar inom arbetslivsområdet och<br>utbildning för företagshälsovård. Även verksamheten med regionala<br>skyddsombud bör stödjas av denna nya myndighet.</p>
+<p>Den nya FoU-myndigheten bör eftersträva en utökad medverkan i<br>sådana kurser och utbildningsinsatser som anordnas av arbetsmarkna-<br>dens parter. Där så bedöms lämpligt bör exempelvis myndighetens lärar-<br>kompetens tillvaratas vid sådana kurser och sådan utbildning som parter-<br>na var för sig och tillsammans bedriver i egen regi. Myndigheten bör i<br>sin utbildningsverksamhet eftersträva samarbete och samverkan även<br>med andra aktörer som bedriver olika former av arbetsmarknads- och<br>arbetslivsorienterad fort- och vidareutbildning.</p>
+<p>Kompetens och arbetslivsutveckling</p>
+<p>I den nya myndighetens åtaganden bör ingå att i lämpliga sammanhang<br>stimulera olika former av forskarmedverkan i utvecklingsprojekt. Dialog<br>och samarbete mellan myndighetens forskare och företrädare för lokalt<br>och regionalt arbetsliv, utgör en viktig grund både för att föra ut forsk-<br>ningsresultat och för att lägga grunden för en praktiknära och problem-<br>orienterad forskning vid myndigheten.</p>
+<p>16</p>
+<p>Både Arbetsmiljöinstitutet och Institutet för arbetslivsforskning har Prop. 1994/95:158<br>erfarenhet av medverkan i utvecklingsprojekt på arbetsplatsnivå. Denna<br>typ av verksamhet bör understödjas också i den nya myndigheten. Det<br>kan ske genom att stimulera den egna myndighetens forskare till att<br>initiera och aktivt medverka i lokala utvecklingsprojekt. Det kan också<br>ske genom att myndigheten på uppdragsbasis ekonomiskt och kompe-<br>tensmässigt stöder också andra intressenter att initiera och i samverkan<br>med myndigheten genomföra olika typer av utvecklingsprojekt.</p>
+<p>Viktiga samarbetspartners för detta verksamhetsområde är näringsliv<br>och offentlig sektor, arbetsmarknadens parter, små- och medelstora hög-<br>skolor, universitet och andra FoU-inriktade kompetensmiljöer på lokal<br>och regional nivå.</p>
+<p>Den nya myndigheten skall också ha ett ansvar för att utveckla kun-<br>skapsförmedling på lokal och regional nivå genom att bl.a. förmedla<br>resultat och erfarenheter från forskning och utbildningsverksamhet, ut-<br>veckla metoder och former för kunskapsspridning, samverka med andra<br>centrala myndigheter för att underlätta erforderlig samverkan på regional<br>nivå. Erfarenheterna från Arbetslivsfondens verksamhet bör ligga till<br>grund för denna verksamhet där främjande av kunskapsbildning skall<br>ske utifrån företagens och de anställdas villkor och behov.</p>
+<p>Information och dokumentation</p>
+<p>Insatserna inom detta område skall syfta till att sprida och förmedla<br>resultaten från myndighetens verksamhet till olika målgrupper. Genom<br>att göra myndigheten känd inom och utom landet, skapas förutsättningar<br>för dialog och erfarenhetsutbyte mellan myndigheten och externa aktörer<br>på berörda verksamhetsområden. Informationsinsatser och utåtriktade<br>aktiviteter kan på så sätt bidra till att skapa ett efterfrågetryck från om-<br>världen på myndighetens verksamheter. Sådana efterfrågesignaler bidrar<br>i sin tur till att identifiera och följa upp viktiga utvecklingsdrag på ar-<br>betsmarknad och i arbetsliv. Inom myndigheten kommer att finnas ett<br>ansvarsbibliotek för arbetslivsfrågor.</p>
+<p>Internationellt utbyte och samarbete</p>
+<p>Verksamheten vid den nya myndigheten kommer att påverka och på-<br>verkas av internationaliseringen och motsvarande forskning inom EU.<br>Ett omfattande samarbete och ett rikt kontaktnät finns idag mellan de<br>befintliga myndigheterna och institutioner och organisationer i en mång-<br>fald länder, däribland de nordiska, EU-ländema och USA. EU-medlem-<br>skapet kommer att innebära att det europeiska samarbetet inom FoU-<br>området kommer att intensifieras. Genom den gemensamma FoU-myn-</p>
+<p>17<br></p>
+<p>digheten ges bättre förutsättningar för att medverka i och aktivt påverka Prop. 1994/95:158<br>en arbetslivspolitisk FoU-verksamhet på EU-nivå.</p>
+<p>Organisation</p>
+<p>Institutet för FoU bör organiseras som ett enrådighetsverk med en gene-<br>raldirektör som chef. Generaldirektören bör anställas genom beslut av<br>regeringen. Det bör ankomma på myndigheten att forma sin inre organi-<br>sation. Regeringen anser vidare att ett särskilt råd bör inrättas vid in-<br>stitutet med representanter för bl.a. arbetsmarknadens parter och som får<br>till uppgift att säkerställa en fortlöpande insyn i verksamheten. Ledamö-<br>terna i rådet bör utses av regeringen.</p>
+<h2>10 Rådet för FoU</h2>
+<p>Regeringens förslag: Ett råd med uppgift att bevilja medel till<br>forsknings- och utveckling inom arbetslivsområdet inrättas.</p>
+<p>Skälen för regeringens förslag: I likhet med arbetsgruppens förslag<br>övertas Arbetsmiljöfondens medelsbeviljning av ett Råd för forskning<br>och utveckling inom arbetslivsområdet.</p>
+<p>Rådet skall ha till uppgift att bevilja medel till sådan forskning och<br>utveckling som är av stor betydelse för arbetslivets utveckling i vid<br>mening. Stödet skall i stor utsträckning ske inom ramen för långsiktiga<br>och programinriktade satsningar av stor samhällsrelevans. En viktig<br>uppgift bör också vara att efter ansökningsförfarande finansiera forsk-<br>nings- och avhandlingsprojekt vid högskolor och universitet samt ut-<br>vecklingsprojekt på arbetsplatser i företag och offentlig verksamhet.<br>Rådet kan på så sätt bidra till att utveckla den nationella kompetensen<br>på arbetslivsområdet och då inte minst i fråga om att utbilda forskare<br>med arbetsvetenskaplig inriktning.</p>
+<p>Utöver högskolan finns ett flertal organ som bedriver forskning och<br>utvecklingsprojekt av stor betydelse för arbetslivets utveckling. Som<br>exempel kan nämnas Institutet för Verkstadsteknisk Forskning (IVF),<br>Sveriges Provnings- och Forskningsinstitut AB (SP) och Institutet för<br>Vatten- och Luftvårdsforskning (IVL). Det är angeläget att forsknings-<br>och utvecklingsrådet kan stödja olika projekt vid dessa och andra in-<br>stitutioner som arbetar med utveckling av teknik, metoder m.m.</p>
+<p>Rådet skall se till att resultaten från det forsknings- och utvecklings-<br>arbete som finansieras av rådet kommer till nytta och praktisk använd-<br></p>
+<p>18<br></p>
+<p>ning. Rådet skall vidare i sin egenskap av finansiär främja internationellt Prop. 1994/95:158<br>samarbete och erfarenhetsutbyte.</p>
+<p>Rådets relevansorientering och inriktning mot inte bara forsknings-<br>finansiering utan också mot finansiering av olika typer av utveckling bör<br>återspeglas i rådets beslutsstruktur.</p>
+<p>Det är enligt regeringens mening naturligt att rådet har en styrelse som<br>utses av regeringen och som får en sammansättning som representerar<br>arbetsmarknadens parter och forskarsamhället. Det är betydelsefullt att<br>arbetsmarknadens parter ges inflytande och möjligheter att ta ansvar for<br>rådets verksamhet. Ett samarbete mellan parter och forskare ger förut-<br>sättningar för att tillvarata vetenskapliga krav och relevansorienterade<br>bedömningar.</p>
+<p>Under styrelsen bör rådet ledas av en chef som anställs av regeringen.</p>
+<p>Det bör ankomma på rådet att forma sin inre organisation.</p>
+<p>Rådet skall lägga stor vikt vid att återkommande låta expertis och<br>oberoende bedömare följa upp och utvärdera den forskning och utveck-<br>ling som finansieras. Det är vidare angeläget att rådet kan besluta om<br>fördelning av medel för projekt som löper över en längre period. Rege-<br>ringen anser att det bör vara möjligt för rådet att fatta sådana beslut för<br>en sexårsperiod. Det bör ankomma på regeringen att närmare precisera<br>en högsta ram för sådana åtaganden.</p>
+<h2>11 Vissa övergångsfrågor</h2>
+<p>Regeringens förslag: När de båda nya myndigheterna inrättas<br>den 1 juli 1995 skall Arbetsmiljöinstitutet, Institutet för arbetslivs-<br>forskning och Arbetsmiljöfonden läggas ned.</p>
+<p>Skälen för regeringens förslag: För att de föreslagna förändringarna i<br>myndighetsorganisationen skall kunna genomföras den 1 juli 1995 är det<br>angeläget att förberedelsearbetet påbörjas och bedrivs skyndsamt. Rege-<br>ringen kommer därför inom kort att tillkalla en organisationskommitté<br>med uppdrag att förbereda och genomföra den nya myndighetsorganisa-<br>tionen inom arbetslivsområdet. Detta bör ske i samverkan med arbets-<br>marknadens parter. Kommittén kommer naturligtvis att arbeta med för-<br>behåll för riksdagens beslut med anledning av denna proposition.</p>
+<p>I kommitténs uppdrag kommer det bl.a. att ingå att lämna förslag till<br>budget för de båda myndigheterna inför regeringens beslut om regle-<br>ringsbrev för budgetåret 1995/96 (se avsnitt 13). Den personal som<br>arbetar i de nuvarande myndigheterna övergår den 1 juli 1995 till de<br>nya myndigheterna.</p>
+<p>19</p>
+<p>De föreslagna förändringarna i myndighetsstrukturen är att betrakta Prop. 1994/95:158<br>som en ren omorganisation av en etablerad verksamhet. Den nuvarande<br>lokaliseringen av verksamheten bör därmed behållas så att huvuddelen<br>av verksamheten finns i Solna och Stockholm och att den nuvarande<br>forskningsverksamheten i Umeå behålls. En förutsättning för att kunna<br>genomföra den nya myndighetsorganisationen den 1 juli 1995 är att<br>nuvarande myndigheters lokaler kan utnyttjas.</p>
+<h2>12 Finansiering</h2>
+<p>Regeringens förslag: De båda myndigheterna finansieras helt över<br>statsbudgeten. Den medelsfond som idag finns knuten till Arbets-<br>miljöfonden avvecklas.</p>
+<p>Skälen för regeringens förslag: De nuvarande tre myndigheterna fi-<br>nansieras på olika sätt. Arbetsmiljöinstitutet och Institutet för arbetslivs-<br>forskning finansieras idag genom anslag över statsbudgeten. Arbetsmil-<br>jöfonden finansieras däremot genom arbetsgivaravgiften enligt lagen<br>(1981:691) om socialavgifter. Till Arbetsmiljöfonden finns knuten en<br>särskild medelsfond.</p>
+<p>Regeringen föreslår att de nya myndigheterna helt finansieras via<br>statsbudgeten. Detta förslag innebär ändring i lagen (1981:691) om soci-<br>alavgifter. Ändringen innebär att Arbetarskyddsverket och de båda nya<br>myndigheterna kommer att finansieras av arbetarskyddsavgiften men att<br>myndigheterna kommer att erhålla medel för sin verksamhet över stats-<br>budgeten. I enlighet härmed har inom Arbetsmarknadsdepartementet<br>upprättats ett förslag till ändring i nämnda lag. Lagändringen bör träda i<br>kraft den 1 juli 1995. Vidare föreslår regeringen att den medelsfond som<br>finns knuten till Arbetsmiljöfonden om ca 780 milj, kr avvecklas. På<br>detta sätt kan den samlade medelstilldelningen för de nya myndigheterna<br>disponeras under ett ramanslag (se nästa avsnitt). Regeringen har där-<br>med också i sin medelsberäkning tagit hänsyn till de långsiktiga avtal<br>som Arbetsmiljöfonden beslutat om och som förutsätter finansiering via<br>nämnda medelsfond. Det bör ankomma på regeringen att besluta hur<br>medelsfonden skall avvecklas under budgetåret 1995/96. Härmed till-<br>godoses också riksdagens generella önskemål om bruttoredovisning av<br>den statliga verksamheten på statsbudgeten</p>
+<p>20</p>
+<h2>13 Anslagsfrågor för budgetåret 1995/96&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Prop. 1994/95:158</h2>
+<p>I prop 1994/95:100 (bil.11) har regeringen föreslagit att riksdagen i<br>avvaktan på denna proposition beräknar medelstilldelning för Arbetar-<br>skyddsverket, Arbetsmiljöinstitutet, Institutet för arbetslivsforskning och<br>Arbetsmiljöfonden.</p>
+<p>Omfattningen av myndigheternas verksamhet framgår av nedanstående<br>tabell.</p>
+<p>Milj. kr.</p>
+<table border="1">
+<tr><td></td><td>
+<p>Utfall 1993/94</p></td><td>
+<p>Anslag 1994/95</p></td></tr>
+<tr><td>
+<p>Arbetarskydds-<br>verket</p></td><td>
+<p>362 415</p></td><td>
+<p>385 710</p></td></tr>
+<tr><td>
+<p>Arbetsmiljö-<br>institutet</p></td><td>
+<p>161 044</p></td><td>
+<p>172 744</p></td></tr>
+<tr><td>
+<p>Institutet för ar-<br>betslivs-forskning</p></td><td>
+<p>28 908</p></td><td>
+<p>34 512</p></td></tr>
+</table>
+<p>Milj. kr.</p>
+<table border="1">
+<tr><td></td><td>
+<p>Intäkter*</p>
+<p>1993/94</p></td><td>
+<p>Utgifter</p>
+<p>1993/94</p></td><td>
+<p>Medels-<br>fond per<br>den 1 juli<br>1994</p></td></tr>
+<tr><td>
+<p>Arbetsmiljö<br>fonden</p></td><td>
+<p>587 783</p></td><td>
+<p>625 029</p></td><td>
+<p>785 433 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|</p></td></tr>
+</table>
+<p>* inkl, finansiellt netto</p>
+<p>Regeringen återkommer nu till dessa frågor med utgångspunkt från att<br>två nya myndigheter inrättas den 1 juli 1995 och då ersätter Arbetsmil-<br>jöinstitutet, Institutet för arbetslivsforskning och Arbetsmiljöfonden.<br>Någon organisationsförändring vad avser Arbetarskyddsverket föreslås<br>inte.</p>
+<p>21</p>
+<p>Budgetförslaget innebär att den medelsanvisning som föreslås för de Prop. 1994/95:158<br>nya myndigheterna görs under det gemensamma ramanslaget B 2 Myn-<br>digheter inom arbetslivsområdet.</p>
+<p>TIONDE HUVUDTITELN</p>
+<h2>B. Arbetslivsfrågor</h2>
+<p>B1. Arbetarskyddsverket</p>
+<p>1993/94 Utgift</p>
+<p>1994/95 Anslag</p>
+<p>1995/96 Förslag</p>
+<p>varav</p>
+<p>362 415 000</p>
+<p>385 710 000</p>
+<p>558 096 000</p>
+<p>372 064 000 beräknat för juli 1995 - juni 1996</p>
+<p>Anslaget avser Arbetarskyddsverkets verksamhet. Arbetarskyddsverket<br>(AV) består av Arbetarskyddsstyrelsen (ASS) och Yrkesinspektionen<br>(Yl).</p>
+<p>ASS är central förvaltningsmyndighet för arbetsmiljö- och arbetstids-<br>frågor, utom i fråga om fartygsarbete, samt chefsmyndighet för Yl.</p>
+<p>Yl är regional tillsynsmyndighet på arbetsmiljö- och arbetstidsområ-<br>det.</p>
+<p>AV har enligt sin instruktion till uppgift att se till att arbetsmiljö- och<br>arbetstidslagstiftningen samt, inom arbetsmiljöområdet, lagstiftningen<br>om kemikaliekontroll och om tobak efterlevs. Vidare skall verket bl.a.<br>utarbeta och sprida information i syfte att förbättra arbetsmiljön .</p>
+<p>I regleringsbrevet för budgetåret 1994/95 formulerades ett antal över-<br>gripande mål och verksamhetsmål för AV:s verksamhet. De övergripan-<br>de målen är:</p>
+<p>- &nbsp;riskerna för ohälsa och olycksfall skall minska och</p>
+<p>- &nbsp;arbetsmiljön skall förbättras sedd ur ett helhetsperspektiv, dvs. från<br>såväl fysisk, psykisk som social och arbetsorganisatorisk synpunkt.</p>
+<p>AV:s inkomster i den avgiftsfinansierade verksamheten beräknas för<br>budgetåret 1995/96 uppgå till ca 75 900 000 kr varav 50 600 000 kr<br>beräknas för perioden juli 1995 till juni 1996. Verkets avgiftsinkomster<br>härrör till största delen från informationsverksamheten. En mindre del<br>kommer från ersättning för uttag ur Informationssystemet om arbetsska-<br>dor (ISA) samt ersättning för provnings- och granskningsverksamhet.</p>
+<p>En sammanfattande redogörelse för de verksamhetsmål som gällt för<br>AV under perioden 1992/93 - 1994/95 samt för resultatredovisnings-<br>delen i ASS:s första årsredovisning, som avsåg budgetåret 1992/93,</p>
+<p>22<br></p>
+<p>lämnades i 1994 års budgetproposition (prop. 1993/94:100 bil. 11, s. Prop. 1994/95:158<br>70-72).</p>
+<p>Arbetarskyddsstyrelsen</p>
+<p>Årsredovisningen</p>
+<p>Antalet arbetsskador har fortsatt att minska. ASS anser att AV genom<br>sin verksamhet i stor utsträckning har bidragit till den utvecklingen.</p>
+<p>Verksamheten delas in i tre verksamhetsgrenar nämligen Central myn-<br>dighetsutövning (tidigare Central tillsyn), Regional tillsyn och Särskild<br>informationsverksamhet. Resultatredovisningsdelen i årsredovisningen<br>för budgetåret 1993/94 har gjorts mer lättillgänglig, ökad tonvikt har<br>lagts på att redovisa verksamhetens resultat samt olika metoder och<br>insatser som bidrar till att öka kvaliteten i verksamheten. Vidare har<br>arbetet med att utveckla olika modeller för och hjälpmedel i tillsyns-<br>arbetet redovisats.</p>
+<p>De i årsredovisningen angivna metoderna för styrning av verksam-<br>heten och redovisning av verksamhetens resultat är i allt väsentligt jäm-<br>förbara med den information som lämnades förra året. Det grundläggan-<br>de resultatmåttet för AV:s verksamhet utgörs av ett antal väsentliga<br>prestationer. För uppföljning av resursernas användning används bl.a.<br>tidsredovisning. Utvecklingen av kostnadseffektiviteten inom verksam-<br>hetgrenama Central myndighetutövning och Regional tillsyn har belysts<br>i produktivitetstermer och inte med uppgifter om styckkostnader. ASS<br>anger därvid att produktionen av antalet prestationer har ökat samtidigt<br>som kostnaderna har minskat. För den del av verksamhetsgrenen Sär-<br>skild informationsverksamhet som finansieras med avgifter har informa-<br>tion om intäkter och kostnader per produktområde lämnats. Samman-<br>taget ges en positiv bild av AV:s insatser.</p>
+<p>De totala kostnaderna för AV för budgetåret 1993/94 uppgick enligt<br>bokslutet till ca 427 000 000 kr. Anslagskrediten uppgår till 19 285 500<br>kr.</p>
+<p>RRV:s revisionsberättelse innehåller inte några invändningar. RRV har<br>bedömt att årsredovisningen i allt väsentligt är rättvisande.</p>
+<p>Anslagsframställning</p>
+<p>ASS har för det utsträckta budgetåret 1995/96 lämnat en förenklad<br>anslagsframställning. ASS lyfter fram vissa områden som kommer att<br>ställa ökade krav på AV:s verksamhet under perioden, bl.a marknads-<br>kontroll av produkter på arbetsmiljöområdet, möjligheten att ålägga<br>arbetsgivare som bryter mot vissa föreskrifter beträffande bl.a. provning<br>och kontroll av tekniska anordningar en sanktionsavgift samt sektorsan-<br>svaret för officiell statistik över arbetsskador och arbetsmiljö.</p>
+<p>23</p>
+<p>Regeringens överväganden</p>
+<p>Sammanfattning</p>
+<p>Prop. 1994/95:158</p>
+<p>Övergripande mål</p>
+<p>De övergripande mål som gäller för perioden 1992/93 - 1994/95<br>bör ligga fast. Regeringen har den 23 september 1993 beslutat att<br>de övergripande mål och verksamhetsmål som gällt for perioden<br>1992/93 - 1994/95 utsträcks till att omfatta även budgetåret<br>1995/96.</p>
+<p>Resurser 1995/96</p>
+<p>Ramanslag &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;558 096 000 kr</p>
+<p>Beräknade avgiftsinkomster &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;75 900 000 kr</p>
+<p>Resultatbedömning</p>
+<p>Årsredovisningen ger uttryck for en hög måluppfyllelse. För verksam-<br>hetgrenen Regional tillsyn redovisas att den kontrollerande rollen har<br>stärkts ytterligare. Antalet arbetsställebesök har ökat avsevärt jämfört<br>med föregående år. Vidare leder en ökande andel av inspektionerna till<br>skriftliga krav, vilket är en indikator på att även precisionen när det<br>gäller att nå de sämsta arbetsmiljöerna har fortsatt att öka. Inriktningen<br>mot intemkontroll har varit betydande. ASS anger att arbetet med att<br>åstadkomma en fungerande integrering av arbetsmiljöarbetet med före-<br>tagens och förvaltningarnas verksamhet i övrigt rymmer många problem<br>och svårigheter och måste ses som en process på lång sikt.</p>
+<p>För verksamhetsgrenen Central myndighetutövning anges att genomfö-<br>randet av harmoniseringen av svenska arbetsmiljöregler till EG-direktiv<br>med anledning av EES-avtalet har medfört att antalet utfärdade författ-<br>ningar har ökat markant under perioden. Handläggningstiden for ärenden<br>har kortats ytterligare. ASS strävar efter att ha ett modernt, lättöverskåd-<br>ligt och väl fungerande regelverk. En kritisk utvärdering skall göras av<br>hela den nuvarande regelmassan. Det viktiga deltagandet i det europeis-<br>ka standardiseringsarbetet, i vilket ASS samverkar med de övriga nor-<br>diska centrala arbetarskyddsmyndighetema, har varit mycket framgångs-<br>rikt. AV har under perioden genomfört ett centralt tillsynsprojekt i syfte<br>att bättre kunna integrera frågor om kvinnors arbetsförhållanden i det<br>löpande tillsynsarbetet. Frågor om våld och hot, som är ett ökande ar-<br>betsmiljöproblem, har ägnats stor uppmärksamhet. S.k. temadagar har<br>anordnats kring frågor om bl.a. intemkontroll och kränkande särbehand-<br>ling. Samarbetet med Arbetslivsfonden, Arbetsmarknadsstyrelsen, Riks-</p>
+<p>24</p>
+<p>försäkringsverket och Socialstyrelsen i frågor rörande arbetsanpassning<br>och rehabilitering har varit omfattande. Ett antal uppföljningsbesök vid<br>Yrkesinspektionsdistrikten har genomförts. Vid besöken har tagits upp<br>frågor om bl.a. verksamhetens effektivitet, kvalitet och utveckling. In-<br>temutbildning är ett prioriterat område inom verket. ASS har målmedve-<br>tet satsat på att höja kompetensen hos Yrkesinspektionens personal, bl.a.<br>när det gäller belastningsergonomiska och arbetsorganisatoriska aspek-<br>ter.</p>
+<p>Skillnaden i resultat mellan olika produktområden som ingår i den<br>avgiftsfmansierade verksamhetsgrenen Särskild informationsverksamhet<br>har varit betydande även under den nu aktuella perioden. Liksom före-<br>gående år visar några av produktområdena underskott, men för den<br>samlade avgiftsbelagda informationsverksamheten kan ett mindre över-<br>skott noteras.</p>
+<p>Regeringen konstaterar att RRV inte har haft några invändningar i<br>revisionsberättelsen avseende AV.</p>
+<p>Prop. 1994/95:158</p>
+<p>Slutsatser</p>
+<p>AV:s insatser för att förebygga och minska riskerna för ohälsa och<br>olycksfall och förbättra arbetsmiljön utifrån ett helhetsperspektiv har<br>varit omfattande. Effektiviteten i verksamheten har ökat, inte minst när<br>det gäller Yrkesinspektionens insatser. Redovisningen avseende verk-<br>samhetens kostnadseffektivitet får anses tillfredsställande.</p>
+<p>Regeringen konstaterar med tillfredsställelse att AV utvecklar interna<br>metoder för att öka kvaliteten i verksamheten och låter utomstående<br>bedömare komma med synpunkter Det är angeläget att detta utveck-<br>lingsarbete och en löpande uppföljning fortsätter och att bedömningarna<br>redovisas i verkets årsredovisningar.</p>
+<p>En fortsatt positiv utveckling kräver även framdeles insatser säväl i<br>form av olika kompetenshöj ande åtgärder, utveckling av metoder och<br>tekniker i tillsynsarbetet som ytterligare koncentration kring frågor om<br>utveckling av metoder och system för uppföljning av mål och resultat i<br>verksamheten. Vidare är en fortsatt fruktbar dialog och samverkan mel-<br>lan verksamhetsgrenarna inom den egna organisationen men också mel-<br>lan verket och de två föreslagna myndigheterna inom arbetslivsområdet<br>av stor betydelse, bl.a. för att inspirera till kreativitet och problemlös-<br>ning inom de områden där behovet av insatser bedöms vara störst.</p>
+<p>Regeringen anser det angeläget att AV i anslutning till årsredovisning-<br>en för budgetåret 1994/95 närmare avrapporterar dittills vunna erfaren-<br>heter av arbetet med att åstadkomma en fungerande integrering av ar-<br>betsmiljöarbetet med företagens och förvaltningarnas verksamhet i öv-<br>rigt.</p>
+<p>25</p>
+<p>Sammantaget innebär bedömningen att de riktlinjer som lades fast vid<br>den fördjupade prövningen och som redovisades i 1992 års budgetpro-<br>position bör gälla även för budgetåret 1995/96.</p>
+<p>Villkoren för myndigheterna under regeringen har succesivt förändrats.<br>Utvecklingen har vidare gått i riktning mot att inom flera förvaltnings-<br>områden göra rationaliseringar, omstruktureringar eller sammanslagning-<br>ar, allt i syfte att effektivisera och modernisera dem. I vissa fall kan det<br>tex. vara rationellt att ett mindre antal, men större myndigheter genom-<br>för tillsyn. Arbetsmiljölagen är, med vissa undantag som inte är aktuella<br>i sammanhanget, övergripande i förhållande till annan lagstiftning när<br>det gäller förebyggande av och skydd mot ohälsa och olycksfall. När det<br>gäller personers säkerhet och hälsa finns det flera myndigheter som har<br>möjlighet att utfärda regler eller allmänna råd. Några av dessa myndig-<br>heter har också till uppgift att, var och en inom sitt verksamhetsområde<br>och med egna centrala, regionala eller lokala resurser, bedriva tillsyn<br>och utföra kontroll av bestämmelsernas efterlevnad på arbetsplatserna.<br>Regeringen avser att ta initiativ till en översyn av organisationen för den<br>offentliga tillsynen inom det aktuella förvaltningsområdet.</p>
+<p>Prop. 1994/95:158</p>
+<p>Medelsberäkning</p>
+<p>Vid beräkning av anslaget för AV har hänsyn tagits till pris- och<br>löneutvecklingen. AV omfattas av regeringens sparkrav på utgifter för<br>statlig konsumtion. Budgetåret 1995/96 har anslaget räknats ned med<br>28 929 000 kr (18 mån.). Vid årets utgång motsvarar besparingen en<br>nivåsänkning med fem procent. Är 1998 beräknas anslagsnivån ha<br>sänkts med 42 428 000 kr (12 mån) vilket motsvarar 11 procent. Med<br>anledning av de tekniska justeringar som gjordes inför budgetåret<br>1992/93 till följd av bl.a. övergången till lån i Riksgäldskontoret har vid<br>beräkningen av anslaget återförts 1 920 000 kr.</p>
+<p>De besparingskrav som i och med detta kommer att gälla för AV<br>ställer krav på ett omfattande förändringsarbete. Enligt vad regeringen<br>har inhämtat har AV startat ett sådant arbete som bl.a. innebär att orga-<br>nisationen och dess struktur ses över.</p>
+<p>ASS tillfördes under budgetåret 1991/92 visst belopp från fonden för<br>arbetsmiljöförbättringar till speciella arbetsmiljöinsatser för Östeuropa<br>(prop. 1991/92:100 bil. 11, bet. 1991/92:AU12, rskr. 251). Hittills ge-<br>nomförda insatser visar att arbetet har varit framgångsrikt men att stort<br>behov av stödåtgärder kvarstår. Arbetet bör därför utvidgas och fördju-<br>pas. Regeringen föreslår därför att ASS tillförs vissa ytterligare medel<br>för fortsatta speciella arbetsmiljöinsatser för de Baltiska staterna. Me-<br>delstilldelningen bör finansieras genom överföring av återstående medel<br>från fonden för arbetsmiljöförbättringar, ca 3 miljoner kronor, direkt till<br>ASS. Sedan denna överföring har genomförts kommer fonden för arbets-<br>miljöförbättringar att vara helt avvecklad.</p>
+<p>26</p>
+<p>Prop. 1994/95:158</p>
+<p>B2. Myndigheter inom arbetslivsområdet</p>
+<p>Nytt anslag (förslag) 1 214 483 000</p>
+<p>varav &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;809 655 000 är beräknat för juli 1995 - juni</p>
+<p>1996</p>
+<p>Från anslaget finansieras verksamheten vid det nya institutet och det nya<br>rådet för forskning- och utveckling inom arbetslivsområdet.</p>
+<p>Två av de nuvarande tre myndigheterna har lämnat anslagsframställ-<br>ning för budgetåret 1995/96. Arbetsmiljöfonden som hittills har erhållit<br>medel via arbetarskyddsavgiften enligt lagen (1981:691) om socialav-<br>gifter har inte lämnat någon anslagsframställning. Fonden har enligt sin<br>instruktion lämnat en verksamhetsplan.</p>
+<p>Regeringens överväganden</p>
+<p>Redovisningen av forskningsmyndigheternas, Arbetsmiljöinstitutet (AI)<br>och Institutet för arbetslivsforskning (ALFI), verksamhet under föregå-<br>ende och innevarande budgetår sker samlat med hänsyn till den föränd-<br>ring i myndighetsstruktur som regeringen föreslår.</p>
+<p>Resultatbedömning</p>
+<p>Arbetsmiljöinstitutet redovisar verksamheten i fyra verksamhetsgrenar:<br>Forskning, information, utbildning och bibliotek. För vaije verksamhets-<br>gren redovisas resultat avseende kostnader, finansiering och prestationer.<br>Som prestationer redovisas t.ex. antal vetenskapliga artiklar, forsknings-<br>rapporter, disputationer, handledda doktorander, konferenser, utbild-<br>ningstimmar. Dessutom redovisas hur resurser fördelas på prioriterade<br>forskningsområden och program. Inom vaije forskningsområde redovisas<br>resultat av verksamheten, effekter samt spridning av resultat. Verksam-<br>hetsmålen är satta utifrån de övergripande målen uttalade av regering<br>och riksdag.</p>
+<p>En omorganisation genomfördes under 1993 som innebar att antalet<br>forskningsenheter reducerades. Samtidigt genomfördes neddragninar i<br>verksamheten som innebar en besparing motsvarande 10,5 milj.kr. Dessa<br>neddragningar har till stor del skett genom personalminskningar. Ytterli-<br>gare översyner av verksamheten har gjorts.</p>
+<p>Arbetsmiljöinstitutet tillämpar ett system för bedömning av forsknings-<br>enheternas prestationer i syfte att höja forskningens kvalitet och produk-<br>tivitet. Systemet innebär att forskningsenheternas tilldelning av omkost-<br>nadsmedel står i direkt relation till deras prestationer avseende bl.a.</p>
+<p>27<br></p>
+<p>publikationer, undervisningstimmar, antal handledda doktorander och Prop. 1994/95:158<br>antal disputationer. Prestationerna tillmäts olika vikter i ett intemt po-<br>ängsystem. För de senaste fem åren finns nyckeltal som visar enheternas<br>samlade poäng i förhållande till resurser och antalet årsarbetskrafter.</p>
+<p>Den samlade forskningsverksamheten har under budgetåret bl a. resul-<br>terat i vetenskapliga rapporter och artiklar. Dessa har successivt ökat<br>under den senaste tioårsperioden.</p>
+<p>I samverkan med universitet och högskolor ansvarar institutet för att<br>nya forskare kommer fram inom arbetsmiljöområdet. Av årsredovisning-<br>en framgår bl.a. att antalet doktorander, i linje med riksdagens intentio-<br>ner, har ökat kraftigt under de senaste åren. Vid institutet handleds 80<br>doktorander, av vilka 15 disputerade under budgetåret.</p>
+<p>För att säkerställa vetenskaplig kvalitet och relevans inom forskningen<br>har institutet under den senaste tioårsperioden låtit utföra två breda ut-<br>värderingar. Utvärderingarna har utförts av från institutet fristående<br>expertis från Sverige och övriga Norden. De båda utvärderingarna visar<br>att Arbetsmiljöinstitutets forskning har hög produktivitet, relevans och<br>kvalitet. De rekommendationer som den senaste (1992) utvärderingen<br>utmynnade i har följts upp av institutet.</p>
+<p>Institutet för arbetslivsforskning har avgivit sin första årsredovisning<br>enligt förordningen (1993:134) om myndigheters årsredovisningar och<br>anslagsframställningar avseende budgetåret 1993/94.</p>
+<p>ALFI redovisar sin verksamhet, projekt för projekt, inom institutets<br>fyra programområden. Ett antal kvantitativa nyckeltal redovisas med<br>utgångspunkt från verksamhetsmålen, t.ex. pågående, påböljade och<br>avslutade projekt, antal doktorander, disputationer, genomförda dokto-<br>randkurser, gästforskare, publikationer och genomförda konferenser.</p>
+<p>Slutsatser</p>
+<p>Båda myndigheterna redovisar en indelning i verksamhetsgrenar som<br>är relevant i förhållande till regeringens krav.</p>
+<p>För att årsredovisningarna skall ha såväl ett informativt värde som<br>kunna tjäna som utgångspunkt för framtida styrning måste resultaten<br>kunna relateras till mål. Även om en viss koppling till målen gjorts bör<br>denna förbättras.</p>
+<p>AI har kommit långt i sin interna styrning. Ett resultatmåttssystem har<br>tagits fram som ger en bra grund för utvecklingen av den externa redo-<br>visningen.</p>
+<p>Medelsberäkning</p>
+<p>Som framgått ovan avser regeringen att ge den organisationskommitté<br>som skall förbereda och genomföra den nya myndighetsorganisationen i<br></p>
+<p>uppdrag att lämna förslag till budget för var och en av de nya myndig- Prop. 1994/95:158<br>hetema inför regeringens beslut om regleringsbrev för budgetåret<br>1995/96. Uppdraget innebär också att kommittén skall föreslå en för-<br>delning av anslaget för myndigheterna i fyra olika anslagsposter för<br>förvaltningskostnader och en för verksamheten för vardera myndigheter-</p>
+<p>na.</p>
+<p>Den föreslagna förändringen av myndighetsstrukturen ger enligt rege-<br>ringens bedömning utrymme för rationaliseringar i verksamheten. De<br>båda myndigheterna bör också så långt möjligt samordna lokaler och<br>administration.</p>
+<p>De nya myndigheterna omfattas av regeringens sparkrav. För budgetå-<br>ret 1995/96 har anslaget minskats med 12,8 milj, kr (12 mån) för statlig<br>konsumtion och 30 milj, kr (12 mån) för verksamheten i övrigt. För år<br>1998 gäller ett besparingskrav om 28,6 milj, kr för statlig konsumtion<br>vilket motsvarar 11 % och för verksamheten i övrigt en besparing på<br>130 milj. kr.</p>
+<p>För de båda myndigheterna föreslås ett ramsanslag av 1 214 483 000<br>kr varav 358 518 000 kr beräknas för förvaltningskostnader.</p>
+<p>Regeringen anser vidare att de nya myndigheterna bör få tillgodogöra<br>sig de nuvarande myndigheternas anslagssparande eller anslagskredit.</p>
+<p>29</p>
+<h2>Arbetsmarknadsdepartementet &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Prop. 1994/95:158</h2>
+<p>Utdrag ur protokoll vid regeringssammanträde den 16 februari 1995</p>
+<p>Närvarande: statsministern Carlsson, ordförande, och statsråden Sahlin,</p>
+<p>Hjelm-Wallén, Peterson, Thalén, Freivalds, Tham, Schori, Blomberg,</p>
+<p>Heckscher, Hedborg, Andersson, Winberg, Uusmann, Nygren,</p>
+<p>Ulvskog, Sundström, Lindh, Johansson</p>
+<p>Föredragande: statsrådet Sundström</p>
+<p>Regeringen beslutar proposition 1994/95:158 Ny myndighetsorganisa-<br>tion inom arbetslivsområdet m.m.</p>
+<p>30</p>
+<p>gotab 48038, Stockholm 1995</p>

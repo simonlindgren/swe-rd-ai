@@ -1,0 +1,530 @@
+SEARCH TERM: artificiell intelligens
+DOCUMENT ID: hc021382
+TITLE: Vattenförsörjning och vattenhantering
+TYPE: mot
+SUBTYPE: Kommittémotion
+DATE: 2024-10-02
+PARLIAMENTARY YEAR: 2024/25
+ORGANISATION: CU
+STATUS: Klar
+DOWNLOADED: 2026-01-22 10:24:42
+================================================================================
+
+<style><!-- 
+ @page Section1 { size:595.3pt 841.9pt; margin:35.45pt 85.05pt 56.7pt }
+div.Section1 { page:Section1 }
+div.pconf body { t-i:17pt; line-height:15pt; font-family:'Verdana'; font-size: 0.90em }
+div.pconf h1, h2, h3, h4, h5, h6, p { margin:0pt }
+div.pconf li, table { margin-top:0pt; margin-bottom:0pt }
+div.pconf h1 { margin-top:41pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:19.5pt; font-family:'Verdana'; font-size: 1.05em; font-weight:normal; color:#000000 }
+div.pconf h2 { margin-top:30pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:17pt; font-family:'Verdana'; font-size: 1.00em; font-weight:normal; color:#000000 }
+div.pconf h3 { margin-top:18pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:17pt; font-family:'Verdana'; font-size: 0.90em; font-weight:bold; color:#000000 }
+div.pconf h4 { margin-top:18pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:17pt; font-family:'Verdana'; font-size: 0.90em; font-weight:normal; font-style:italic; color:#000000 }
+div.pconf h5 { margin-top:15pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:17pt; font-family:'Verdana'; font-size: 0.90em; font-weight:bold; font-style:normal; color:#000000 }
+div.pconf h6 { margin-top:15pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:17pt; font-family:'Verdana'; font-size: 0.90em; font-weight:normal; font-style:italic; color:#000000 }
+.Heading7 { margin-top:15pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:17pt; font-family:'Verdana'; font-size: 0.90em; font-weight:normal; font-style:italic; color:#000000; -aw-style-name:heading7 }
+.Heading8 { margin-top:15pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:17pt; font-family:'Verdana'; font-size: 0.90em; font-weight:normal; font-style:italic; color:#000000; -aw-style-name:heading8 }
+.Heading9 { margin-top:0pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:17pt; font-family:'Verdana'; font-size: 0.90em; font-weight:normal; font-style:italic; color:#000000; -aw-style-name:heading9 }
+.BalloonText { margin-bottom:0pt; t-i:17pt; line-height:normal; font-family:'Segoe UI'; font-size: 0.90em }
+.Beteckning { margin-top:18pt; margin-bottom:0pt; t-i:14.2pt; page-break-inside:auto; page-break-after:auto; line-height:19.5pt; font-size: 1.05em }
+.BlockText, .Inramatstycke { margin-right:56.7pt; margin-left:56.7pt; margin-bottom:0pt; t-i:0pt; text-align:nojustify; line-height:15pt; border:0.75pt solid #000000; padding:10pt; font-size: 0.90em; font-style:italic; -aw-border:0.25pt single }
+.Citaticitat { margin-top:7.5pt; margin-left:34pt; margin-bottom:0pt; t-i:0pt; line-height:12pt; font-size: 0.90em }
+.Citaticitatmedindrag { margin-top:0pt; margin-left:34pt; margin-bottom:7.5pt; t-i:17pt; line-height:12pt; font-size: 0.90em }
+.Citatmedindrag { margin-top:0pt; margin-left:17pt; margin-bottom:0pt; t-i:17pt; line-height:12pt; font-size: 0.90em }
+.CommentSubject { margin-bottom:0pt; t-i:17pt; line-height:normal; font-size: 0.90em; font-weight:bold }
+.CommentText { margin-bottom:0pt; t-i:17pt; line-height:normal; font-size: 0.90em }
+.FSHLogo { margin-top:4pt; margin-bottom:0pt; t-i:0pt; line-height:normal; font-size: 0.90em }
+.FSHNormL { margin-top:4pt; margin-bottom:0pt; t-i:0pt; line-height:15pt; border-top:1.5pt solid #000000; padding-top:3pt; font-size: 0.90em }
+.FSHNormal { margin-top:4pt; margin-bottom:0pt; t-i:0pt; line-height:15pt; font-size: 0.90em }
+.FSHNormalS5 { margin-top:11.5pt; margin-bottom:26pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-size: 0.95em; font-weight:bold }
+.FSHRub1, .Rubrik1S5 { margin-top:135pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:16pt; font-size: 1.00em }
+.FSHRub2, .Rubrik1A4 { margin-top:50pt; margin-bottom:5pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:24pt; font-size: 1.05em }
+.FSHTitel, .Dokumentrubrik { margin-top:4pt; margin-bottom:4pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:20pt; border-bottom:0.75pt solid #000000; padding-bottom:3pt; font-size: 1.05em; -aw-border-bottom:0.5pt single }
+.Footer { margin-top:4pt; margin-bottom:0pt; t-i:0pt; text-align:center; line-height:normal; font-size: 0.90em }
+.FootnoteText { margin-top:0pt; margin-bottom:0pt; t-i:0pt; line-height:12pt; font-size: 0.90em }
+.Frslagsrubrik { margin-top:41pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:19.5pt; font-family:'Verdana'; font-size: 1.05em }
+.Frslagstext, .Hemstlatt, .Yrkande { margin-top:4pt; margin-left:19.85pt; margin-bottom:0pt; t-i:-19.85pt; line-height:15pt; font-size: 0.90em }
+.Header { margin-top:4pt; margin-bottom:0pt; t-i:0pt; line-height:normal; font-size: 0.90em }
+.KantRubrikS5H { margin-top:6pt; margin-right:2.85pt; margin-bottom:0pt; t-i:0pt; text-align:right; line-height:8pt; font-size: 0.90em }
+.KantRubrikS5Hrad2 { margin-top:0pt; margin-right:2.85pt; margin-bottom:0pt; t-i:0pt; text-align:right; line-height:10pt; font-size: 0.90em }
+.KantRubrikS5V { margin-top:6pt; margin-right:0pt; margin-bottom:0pt; t-i:0pt; text-align:left; line-height:8pt; font-size: 0.90em }
+.KantRubrikS5Vrad2 { margin-top:0pt; margin-right:0pt; margin-bottom:0pt; t-i:0pt; text-align:left; line-height:10pt; font-size: 0.90em }
+.KantrubrikH { margin-top:4pt; margin-right:-82.2pt; margin-bottom:0pt; t-i:0pt; text-align:right; line-height:15pt; font-size: 0.90em }
+.KantrubrikV { margin-top:4pt; margin-left:-85.05pt; margin-bottom:0pt; t-i:0pt; line-height:normal; font-size: 0.90em }
+.Klla { margin-top:0pt; margin-bottom:0pt; t-i:0pt; line-height:12pt; font-size: 0.90em }
+.Lagtext { margin-top:4pt; margin-bottom:0pt; t-i:0pt; line-height:normal; font-size: 0.90em }
+.Lagtextindrag { margin-top:4pt; margin-bottom:0pt; t-i:14.2pt; line-height:normal; font-size: 0.90em }
+.Lagtextrubrik { margin-top:4pt; margin-bottom:0pt; t-i:0pt; line-height:normal; font-size: 0.90em; font-style:italic; letter-spacing:1pt }
+.List { margin-top:7.5pt; margin-left:17pt; margin-bottom:7.5pt; t-i:-17pt; line-height:15pt; font-size: 0.90em }
+.ListBullet, .PunktlistaBomb { margin-top:4pt; margin-left:14.2pt; margin-bottom:0pt; t-i:-14.2pt; line-height:15pt; font-size: 0.90em }
+.ListNumber, .PunktlistaNummer { margin-top:4pt; margin-left:14.2pt; margin-bottom:0pt; t-i:-14.2pt; line-height:15pt; font-size: 0.90em }
+.ListParagraph { margin-left:36pt; margin-bottom:0pt; t-i:17pt; line-height:15pt; font-size: 0.90em }
+.ListaGemener { margin-top:7.5pt; margin-left:17pt; margin-bottom:7.5pt; t-i:-17pt; line-height:15pt; font-size: 0.90em }
+.ListaLinje { margin-top:7.5pt; margin-left:19pt; margin-bottom:7.5pt; t-i:-19pt; line-height:15pt; font-size: 0.90em }
+.ListaNummer { margin-top:7.5pt; margin-left:17pt; margin-bottom:7.5pt; t-i:-17pt; line-height:15pt; font-size: 0.90em }
+.ListaPunkt { margin-top:7.5pt; margin-left:17pt; margin-bottom:7.5pt; t-i:-17pt; line-height:15pt; font-size: 0.90em }
+.MotionTIllRiksdagen { margin-top:18pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:19.5pt; font-size: 1.05em }
+.Motionr { margin-top:14pt; margin-bottom:31.5pt; t-i:0pt; page-break-inside:avoid; line-height:15pt; font-size: 1.00em; font-weight:bold; font-style:normal }
+.Motiveringrubrik2numrerat1 { margin-top:30pt; margin-left:0pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:17pt; font-family:'Verdana'; font-size: 1.00em }
+.Motiveringrubrik3numrerat1 { margin-top:18pt; margin-left:0pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:17pt; font-family:'Verdana'; font-size: 0.90em; font-weight:bold }
+.Motiveringrubrik3numrerat11 { margin-top:18pt; margin-left:0pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:17pt; font-family:'Verdana'; font-size: 0.90em; font-weight:bold }
+.Motiveringrubrik4numrerat11 { margin-top:18pt; margin-left:0pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:17pt; font-family:'Verdana'; font-size: 0.90em; font-weight:normal; font-style:italic }
+.NormalIndent { margin-left:65.2pt; margin-bottom:0pt; t-i:17pt; line-height:15pt; font-size: 0.90em }
+.Normalutanindragellerluft { margin-top:4pt; margin-bottom:0pt; t-i:0pt; line-height:15pt; font-size: 0.90em }
+.Normal00 { margin-top:4pt; margin-bottom:0pt; t-i:0pt; line-height:normal; font-size: 0.90em }
+.NormalA4fot { margin-top:12pt; margin-bottom:0pt; t-i:0pt; text-align:center; line-height:normal; font-size: 0.90em }
+.NormalA4sidnr { margin-top:4pt; margin-bottom:12pt; t-i:0pt; text-align:center; line-height:normal; font-size: 0.90em }
+.NormalS5sidnrH { margin-top:4pt; margin-right:2.85pt; margin-bottom:0pt; t-i:0pt; text-align:right; line-height:normal; font-size: 0.90em }
+.NormalS5sidnrV { margin-top:4pt; margin-right:0pt; margin-bottom:0pt; t-i:0pt; text-align:left; line-height:normal; font-size: 0.90em }
+.PlainText { margin-bottom:0pt; t-i:0pt; line-height:12pt; font-family:'Verdana'; font-size: 0.90em }
+.Quote { margin-top:7.5pt; margin-left:17pt; margin-bottom:0pt; t-i:0pt; line-height:12pt; font-size: 0.90em }
+.R1 { margin-top:41pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:19.5pt; font-family:'Verdana'; font-size: 1.05em }
+.R2 { margin-top:30pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:17pt; font-family:'Verdana'; font-size: 1.00em }
+.R3 { margin-top:18pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:17pt; font-family:'Verdana'; font-size: 0.90em; font-weight:bold }
+.Rubrik1numrerat { margin-top:41pt; margin-left:0pt; margin-bottom:0pt; t-i:0pt; page-break-inside:auto; page-break-after:avoid; line-height:19.5pt; font-family:'Verdana'; font-size: 1.05em }
+.Rubrik2numrerat { margin-top:30pt; margin-left:0pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:17pt; font-family:'Verdana'; font-size: 1.00em }
+.Rubrik3numrerat { margin-top:18pt; margin-left:0pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:17pt; font-family:'Verdana'; font-size: 0.90em; font-weight:bold }
+.Rubrik4numrerat { margin-top:18pt; margin-left:0pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:17pt; font-family:'Verdana'; font-size: 0.90em; font-weight:normal; font-style:italic }
+.RubrikFrslagTIllRiksdagsbeslut { margin-top:41pt; margin-bottom:15pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:19.5pt; font-family:'Verdana'; font-size: 1.05em }
+.RubrikInnehllsf { margin-top:41pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:19.5pt; font-family:'Verdana'; font-size: 1.05em }
+.RubrikSammanf { margin-top:41pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:19.5pt; font-family:'Verdana'; font-size: 1.05em }
+.Salutation { margin-top:41pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:19.5pt; font-family:'Verdana'; font-size: 1.05em }
+.Streckkod { margin-top:12pt; margin-bottom:0pt; t-i:0pt; text-align:center; line-height:normal; font-family:IDAutomationHC39S; font-size: 1.00em }
+.Strecklista, .PunktlistaTankstreck { margin-top:4pt; margin-left:14.2pt; margin-bottom:0pt; t-i:-14.2pt; line-height:15pt; font-size: 0.90em }
+.Subtitle { margin-top:4pt; margin-bottom:0pt; t-i:0pt; line-height:15pt; font-family:'Verdana'; font-size: 0.90em; font-weight:bold }
+.TOC1 { margin-top:4pt; margin-bottom:0pt; t-i:0pt; line-height:15pt; font-size: 0.90em }
+.TOC2 { margin-top:4pt; margin-left:14.2pt; margin-bottom:0pt; t-i:0pt; line-height:15pt; font-size: 0.90em }
+.TOC3 { margin-top:4pt; margin-left:28.35pt; margin-bottom:0pt; t-i:0pt; line-height:15pt; font-size: 0.90em }
+.TOC4 { margin-top:4pt; margin-left:42.55pt; margin-bottom:0pt; t-i:0pt; line-height:15pt; font-size: 0.90em }
+.TOC5 { margin-top:4pt; margin-left:56.7pt; margin-bottom:0pt; t-i:0pt; line-height:15pt; font-size: 0.90em }
+.TOC6 { margin-top:4pt; margin-left:56.7pt; margin-bottom:0pt; t-i:0pt; line-height:15pt; font-size: 0.90em }
+.TOC7 { margin-top:15pt; margin-left:56.7pt; margin-bottom:0pt; t-i:14.2pt; page-break-inside:avoid; page-break-after:avoid; line-height:normal; font-family:'Verdana'; font-size: 0.90em; font-weight:normal; font-style:italic }
+.TOC8 { margin-top:15pt; margin-left:56.7pt; margin-bottom:0pt; t-i:14.2pt; page-break-inside:avoid; page-break-after:avoid; line-height:normal; font-family:'Verdana'; font-size: 0.90em; font-weight:normal; font-style:italic }
+.TOC9 { margin-top:15pt; margin-left:56.7pt; margin-bottom:0pt; t-i:14.2pt; page-break-inside:avoid; page-break-after:avoid; line-height:normal; font-family:'Verdana'; font-size: 0.90em; font-weight:normal; font-style:italic }
+.TOCHeading { margin-top:41pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:19.5pt; font-family:'Verdana'; font-size: 1.05em }
+.Tabellunderrubrik { margin-top:0pt; margin-bottom:0pt; t-i:0pt; page-break-after:avoid; line-height:15pt; font-size: 0.90em; font-weight:normal; font-style:italic }
+.Tabellrubrik { margin-top:7.5pt; margin-bottom:0pt; t-i:0pt; page-break-after:avoid; line-height:15pt; font-size: 0.90em; font-weight:bold }
+.Title { margin-top:41pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:19.5pt; font-family:'Verdana'; font-size: 1.05em }
+.Underskriftdatum { margin-top:24pt; margin-bottom:3pt; t-i:0pt; page-break-inside:avoid; line-height:15pt; font-size: 0.90em; font-style:normal }
+.Underskrifter { margin-top:15pt; margin-bottom:3pt; t-i:0pt; page-break-inside:avoid; line-height:15pt; font-size: 0.90em; font-style:italic }
+.Yrkandehnv, .Frslagspunkthnv { margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; font-size: 0.90em }
+span.BallongtextChar { font-family:'Segoe UI'; font-size: 0.90em }
+span.BeteckningChar { font-size:19.5pt }
+span.CommentReference { font-size:8pt }
+span.FSHRub2Char, span.Rubrik1A4Char { font-size:24pt }
+span.FotnotstextChar { font-size:10pt }
+span.Hyperlink { text-decoration:underline; color:#0563c1; -aw-style-name:hyperlink }
+span.InledningChar { font-family:'Verdana'; font-size: 1.00em; font-weight:bold }
+span.IntenseReference { font-weight:normal; font-style:normal; font-variant:normal; text-decoration:none; text-transform:none; letter-spacing:0pt; vertical-align:0pt; color:#000000; display:inline }
+span.KommentarerChar { font-size:10pt }
+span.KommentarsmneChar { font-size:10pt; font-weight:bold }
+span.MotionTIllRiksdagenChar { font-size:19.5pt }
+span.OformateradtextChar { font-family:'Verdana'; font-size: 0.90em }
+span.PlaceholderText { color:#f4b083 }
+span.Rubrik1Char { font-family:'Verdana'; font-size: 1.05em }
+span.Rubrik2Char { font-family:'Verdana'; font-size: 1.00em }
+span.Rubrik3Char { font-family:'Verdana'; font-size: 0.90em; font-weight:bold }
+span.Rubrik4Char { font-family:'Verdana'; font-size: 0.90em; font-style:italic }
+span.Rubrik5Char { font-family:'Verdana'; font-weight:bold }
+span.Rubrik6Char { font-family:'Verdana'; font-style:italic }
+span.Rubrik7Char { font-family:'Verdana'; font-size: 0.90em; font-weight:bold }
+span.Rubrik8Char { font-family:'Verdana'; font-size: 0.90em; font-weight:bold }
+span.Rubrik9Char { font-family:'Verdana'; font-size: 0.90em; font-weight:bold }
+span.RubrikChar { font-family:'Verdana'; font-size: 1.00em; font-weight:bold }
+span.SidfotChar { font-size:11.5pt }
+span.UnderrubrikChar { font-family:'Verdana'; font-size: 0.90em; font-weight:bold }
+.TableGrid {  }
+
+.pconf{width: 450px;margin-left:5px;overflow:visable;font-family:Verdana, Geneva, sans-serif;} 
+ .sidhuvud_publikation, .sidhuvud_beteckning{font-size:133%}
+.MotionarLista {font-size:122%}
+
+--></style><div class="pconf"><span class="sidhuvud_publikation">Motion till riksdagen</span><br/>
+<span class="sidhuvud_beteckning">2024/25:1382</span><br/>
+<span class="MotionarLista">av Mikael Eskilandersson m.fl. (SD)</span><br/>
+<h1>Vattenförsörjning och vattenhantering</h1>
+<hr class="sidhuvud_linje"/>
+
+
+		<div class="Section1">
+			<h1 style="margin-bottom:15pt">
+				<a name="_Toc106800475"></a><a name="_Toc106801300"><span style="-aw-sdt-tag:'CC_Boilerplate_4'; -aw-sdt-title:'CC_Boilerplate_4'"><span>Förslag till riksdagsbeslut</span></span><span style="-aw-bookmark-end:_Toc106800475"></span></a>
+			</h1>
+			<div style="-aw-sdt-tag:'f2a9d4f0-e5a3-46fb-b509-a9de6a246c78'; -aw-sdt-title:'Yrkande 1'">
+				<ol type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-left:14pt; t-i:0pt; padding-left:5.85pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om bred översyn av vattentjänstlagen och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'e20752a3-3ec6-4f1f-b661-71372a515b52'; -aw-sdt-title:'Yrkande 2'">
+				<ol start="2" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; margin-left:14pt; t-i:0pt; padding-left:5.85pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att effektivisera ansvaret för vatten- och dricksvattenförsörjning så att antalet ansvariga instanser blir lägre och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'c6381d0d-433a-4fa7-918d-6a5cf6ada222'; -aw-sdt-title:'Yrkande 3'">
+				<ol start="3" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; margin-left:14pt; t-i:0pt; padding-left:5.85pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att tillsätta en nationell vattensamordnare med övergripande ansvar för vattenhantering och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'3e35c95f-602c-4139-a3d3-207a61a8e985'; -aw-sdt-title:'Yrkande 4'">
+				<ol start="4" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; margin-left:14pt; t-i:0pt; padding-left:5.85pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att undersöka behovet av nationella riktlinjer för långsiktigt hållbara renoveringsplaner för va-systemen lokalt och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'3dcd788a-0d38-4c3c-b80a-20b57570f4d3'; -aw-sdt-title:'Yrkande 5'">
+				<ol start="5" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; margin-left:14pt; t-i:0pt; padding-left:5.85pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att införa en procentuell gräns för hur stort vattenläckaget får vara från va-ledningar och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'10fa717d-605d-4202-8dd0-773f7595492e'; -aw-sdt-title:'Yrkande 6'">
+				<ol start="6" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; margin-left:14pt; t-i:0pt; padding-left:5.85pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att kommuner ska ges möjlighet att fondera medel för reinvesteringar på va-taxan om maximalt 10</span><span>&#xa0;</span><span>procent och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'993a1326-65a2-4d5f-a77a-686432bc5d56'; -aw-sdt-title:'Yrkande 7'">
+				<ol start="7" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; margin-left:14pt; t-i:0pt; padding-left:5.85pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att planera för kompetensförsörjningsbehovet på va-området och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'2c76005c-08ed-4046-a97f-a26ffc023336'; -aw-sdt-title:'Yrkande 8'">
+				<ol start="8" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; margin-left:14pt; t-i:0pt; padding-left:5.85pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att lägga vikt vid forskning om och teknologisk utveckling av artificiell intelligens för vattenrening och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'fba564ad-f7ea-4228-9ee6-e821ffb00359'; -aw-sdt-title:'Yrkande 9'">
+				<ol start="9" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; margin-left:14pt; t-i:0pt; padding-left:5.85pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att kommuner i den upprättade vattentjänstplanen bör inkludera alternativ för återbruk av vatten och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'9ec27428-0dac-49cf-98eb-6ee7e1fc7ed6'; -aw-sdt-title:'Yrkande 10'">
+				<ol start="10" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; t-i:0pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att kommuner bör ha en långsiktig planering för att säkra tillgången av kemikalier för vattenrening och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'af93f6be-5ad0-4abb-8b5b-56b16441a478'; -aw-sdt-title:'Yrkande 11'">
+				<ol start="11" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; t-i:0pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att skapa en nationell övergripande strategi för hur oväder som för med sig exempelvis skyfall och översvämning ska hanteras och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'cf90ba3b-3f11-413b-9b1a-41bea1631434'; -aw-sdt-title:'Yrkande 12'">
+				<ol start="12" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; t-i:0pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att ta fram nationella riktlinjer för stadsplanering för vattenhantering ur beredskapssynpunkt i kommunerna och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'afe3d780-cda7-4558-82fd-787deafbcb20'; -aw-sdt-title:'Yrkande 13'">
+				<ol start="13" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; t-i:0pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att utreda om samtliga kommuner bör upprätta nödvattenplaner för krissituationer och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'ccbf9a43-a7f0-4401-b5c8-a283d0348e75'; -aw-sdt-title:'Yrkande 14'">
+				<ol start="14" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; t-i:0pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att skapa va-planer i nära samverkan med fastighetsägare och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'ab81d066-3321-454a-8cdd-5d9ec7ef8359'; -aw-sdt-title:'Yrkande 15'">
+				<ol start="15" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; t-i:0pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om flexibilitet i val av lösning för vatten och avlopp och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'450f0742-dad2-4d07-87bf-3c7acb29c558'; -aw-sdt-title:'Yrkande 16'">
+				<ol start="16" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; t-i:0pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att den som har ett enskilt avlopp som uppfyller gällande miljö- och hälsokrav i normalfallet inte ska påtvingas ett kommunalt avlopp och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'1e22318a-142b-4b26-920b-d53cac6717fe'; -aw-sdt-title:'Yrkande 17'">
+				<ol start="17" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; t-i:0pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om det negativa för husägare med införande av avloppsdeklarationer och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'CC_Motivering_Rubrik'; -aw-sdt-title:'CC_Motivering_Rubrik'">
+				<h1>
+					<a name="MotionsStart"></a><a name="_Toc106801301"></a><a name="_Toc106800476"><span>Motivering</span></a>
+				</h1>
+			</div>
+			<span style="-aw-bookmark-end:_Toc106801301">
+			</span>
+			<p class="Normalutanindragellerluft">
+				<span style="-aw-bookmark-end:_Toc106800476"></span><span>Förvaltarskapstanken är central för Sverigedemokraterna. Värnandet om Sverige, vår natur, naturresurser och inte minst vattnet är en mycket viktig del inom förvaltarskapet. Vi har en tydlig inriktning på att ta ansvar för och måna om det som tidigare genera</span><span>&#xad;</span><span>tioner skapat och att ta hand om vår miljö. </span>
+			</p>
+			<p>
+				<span>Vatten tas ofta för givet men är en livsviktig resurs som behöver underhållas och hanteras på bästa sätt för att fungera. Problematik såsom förorening, läckande eller förstörda va-ledningar, torrperioder och oväder som orsakar översvämning, visar hur sköra systemen kan vara, hur viktig vattenresursen är och hur svårt och kostsamt det kan bli att återupprätta system då de fallerat. Även säkerhetshot såsom sabotage och krig hotar dricksvattentillgången. Omvärldsläget nu och senare år inverkar till förhöjt försvar och civil beredskap. Här behöver vattenberedskapen utgöra en central del som prioriteras. Det råder ingen tvekan om att mer behöver göras i Sverige för att planera för, underhålla och höja beredskapen när det gäller vattenresurser och vattensystem.</span>
+			</p>
+			<h2>
+				<span>Översyn av vattentjänstlagen</span>
+			</h2>
+			<p class="Normalutanindragellerluft">
+				<span>Vattentjänster är olika tjänster för vattenförsörjning och avlopp. Vattentjänstlagen har som syfte att säkerställa att vattenförsörjning och avlopp ordnas med långsiktighet med hänsyn till miljön och människors hälsa. Kommunerna är skyldiga att ordna vatten</span><span>&#xad;</span><span>tjänster.</span>
+			</p>
+			<p>
+				<span>Med avseende på både vattenförsörjning och skydd av ekosystem ska tydliga regler och direktiv till våra kommuner säkerställa en god vattentillgång idag och till framtida </span><span style="letter-spacing:-0.1pt">generationer. Vårt vatten är en del av ett kretslopp; det påverkas av yttre omständigheter. </span><span>En ökad förståelse för en god och ansvarsfull vattenhushållning bidrar till att minska de effekter som påverkar vårt vattenkretslopp negativt. Tillgång till vatten och dricksvatten är livsavgörande och vi måste säkerställa en god vattenförsörjning och vattenkvalitet för Sveriges invånare.</span>
+			</p>
+			<p>
+				<span>Händelser såsom krig i vårt närområde innebär ökat fokus på försvaret och att en </span><span style="letter-spacing:-0.1pt">ökad civilberedskap i Sverige pågår. En förhöjd beredskap när det gäller vattenförsörjning</span><span> är nödvändig. Vi måste verka för att totalförsvarsaspekten bejakas då det även innefattar vattenförsörjningen i en nödsituation. Vid ett angrepp inom Sveriges gränser är risken för miljöbrott hög. Krig kan bedrivas i olika dimensioner. Historiskt sett vet vi att det är en del av krigföringen att störa ut ekosystem och att förstöra miljö. Det behöver även </span><span style="letter-spacing:-0.1pt">planeras för väderrelaterade händelser som orsakar förstörelse och omfattande kostnader. </span>
+			</p>
+			<p>
+				<span>Vattenlagstiftningen bör ses över när det gäller dessa aspekter. Den behöver anpassas till nya utmaningar kring hur vattenförsörjningen säkras samt hur vi ur ett resursbejakande perspektiv nyttjar vatten på ett mer miljövänligt och kostnadseffektivt sätt. Det kan bland annat handla om att ta fram ny lagstiftning kring bevattning, se över kommuners ansvar kring beredskap och tillgång på dricksvatten vid nödsituationer.</span>
+			</p>
+			<h2>
+				<span>Effektivisera ansvaret för vatten- och dricksvattenförsörjning så att antalet ansvariga instanser blir lägre </span>
+			</h2>
+			<p class="Normalutanindragellerluft">
+				<span>Ansvaret för rent vatten är uppdelat på olika ansvarsområden på olika nivåer i kommunal, regional och nationell regi. Kommunerna ansvarar för den allmänna dricksvattenförsörjningen och planeringen av vattenresurserna och har ansvaret vid kriser. Länsstyrelserna har övergripande samordningsansvar i länen. Flera olika statliga myndigheter har även olika delansvar för bland annat skydd av vatten. Dessutom pågår ett nationellt krisberedskapsarbete för dricksvattenförsörjningen. Det är inte minst viktigt då omvärldsläget är oroligt och behoven av att bygga ut vårt eget försvar och beredskapsplanera generellt är stora. </span>
+			</p>
+			<p>
+				<span>När det gäller ansvar för dricksvattenfrågor, vattentillgång och beredskap, tycks det behövas en förenklad, mer effektiv och mindre spridd ansvarsfördelning, så att administration, byråkrati, svårarbetbarhet och frågetecken minskas om vilken instans som ansvarar för vad och vilket arbete och vilken tillsyn som utförs.</span>
+			</p>
+			<h2>
+				<span>Nationell vattensamordnare</span><span style="-aw-import:spaces">&#xa0; </span>
+			</h2>
+			<p class="Normalutanindragellerluft">
+				<span>Vattenhanteringen är idag komplex och utspridd på ett stort antal myndigheter, länsstyrelser och kommuner. Den nuvarande organisationen innebär splittring och otydlighet när det gäller hantering av va-frågor i landet. Detta resulterar i en bristande effektivitet och ökar risken för fördröjningar vid akuta kriser. En nationell samordning av va-frågor krävs för att öka effektiviteten i arbetet och för att undvika att viktiga frågor och avgörande beslut faller mellan stolarna. </span>
+			</p>
+			<p>
+				<span>Genom att inrätta en nationell vattensamordnare kan arbetet effektiviseras och en tydligare ansvarsfördelning och styrning skapas för de övergripande vattenfrågorna som också regleras av EU:s dricksvattendirektiv. Den nationella samordnaren ska ha som uppgift att ansvara för riskbedömningar på nationell nivå och initiera det förebyggande arbetet. Att bistå kommuner med kompetensuppbyggnad och organisatoriskt stöd kommer att utgöra en del av samordningsarbetet. Samordnaren bör även agera som en sammanbindningscentral för övergripande vattenfrågor. </span>
+			</p>
+			<p>
+				<span>En nationell samordnare bidrar till en mer hållbar vattenanvändning vilket skapar goda incitament för samarbete mellan aktörer som sitter på rätt expertis, och det i sin tur skapar möjligheter till effektiviseringar och lägre underhållskostnader. </span>
+			</p>
+			<h2>
+				<span>Långsiktigt hållbara renoveringsplaner för va-systemen lokalt</span><span style="-aw-import:spaces">&#xa0; </span>
+			</h2>
+			<p class="Normalutanindragellerluft">
+				<span>Ledningsnäten är, och kommer på andra platser i en nära framtid att vara, i behov av underhåll. Det förekommer ofta läckage. Punktsatsningar för att lappa och laga utan en plan eller tillräcklig budget, blir i längden både kostsamt och ohållbart ur kvalitets- och beredskapssynpunkt. Investeringsbehovet är stort och det behövs tydliga och långsiktiga planer för underhållet av vatteninfrastrukturen. </span>
+			</p>
+			<p>
+				<span>Det krävs tydligare styrning eftersom det finns uppenbara brister. Det ligger ett stort ansvar på våra 290 kommuner att underhålla och förnya vatten- och avloppsstammarna. För att bibehålla en god vattenförsörjning i Sverige samt ett fullt fungerande avlopps</span><span>&#xad;</span><span>system så behövs ansvarsfull planering i kommunerna. Det bör undersökas om det finns behov av nationella riktlinjer för långsiktigt hållbara renoveringsplaner för va-systemen lokalt. Det finns också behov av att avsätta särskilda medel för nödvändigt underhåll och framtida utbyte av va-stammar. Plan för detta finns i vissa kommuner, men i många kommuner brister det. Kostnaderna är i samtliga fall mycket höga för den här typen av underhåll och utbyte. Bristen på en tydlig plan för dagens och framtidens renoverings</span><span>&#xad;</span><span>behov kan hämma utvecklingen för kommuner och regioner och innebära att kommuner tvingas kostnadsbespara inom andra samhällsviktiga områden. Det skulle kunna undvikas om särskilda medel fonderas.</span>
+			</p>
+			<p>
+				<span>Fjärrvärme är ett bra sätt att ta vara på överskottsvärme. Det är en bra förnybar energikälla. Elementen och vattnet värms många gånger av sådant som ej kan återvinnas och det bidrar till ett samband och ett positivt kretslopp för både hushåll och företag. Vårt vatten och våra stammar är en viktig del i att kunna bibehålla detta kretslopp. Även stammar för fjärrvärmen är i behov av regelbunden tillsyn och underhåll.</span>
+			</p>
+			<p>
+				<span>Att undersöka hur behovet ser ut av nationella riktlinjer för långsiktigt hållbara renoveringsplaner för va-systemen lokalt vore viktigt för att få en bild av behoven av nationellt stöd lokalt.</span>
+			</p>
+			<h2>
+				<span>Inför en gräns för vattenläckage från va-ledningar</span>
+			</h2>
+			<p class="Normalutanindragellerluft">
+				<span>Uppgifter visar att vattenförlusten uppgår till mellan 16 och 25 procent från lednings</span><span>&#xad;</span><span>näten. Ett gammalt ledningsnät och bristande underhåll riskerar att leda till allt större utläckage av dricksvatten. Det innebär förstås stora kostnader. </span>
+			</p>
+			<p>
+				<span>Det finns uppgifter om att i Danmark där man arbetar strategiskt mot utläckage, är läckaget endast sju procent. Där finns regler kring vattenläckaget från va-ledningar. Där finns ett krav på att läckage över en viss gräns inte får förekomma. Det kan vara ett bra sätt att ta kontroll över läckage och över den egna planeringen för vattenförsörjning i kommuner. Man bör undersöka möjligheterna att införa en rimlig procentuell gräns för vattenläckage från ledningar även i Sverige.</span>
+			</p>
+			<p>
+				<span>Detta skulle också vara ett konkret sätt att arbeta för ansvarsfull vattenhantering och för att möta upp EU:s dricksvattendirektiv, som reglerar skyldighet för medlemsstaterna att rapportera utläckage av dricksvatten och, om läckaget är för stort, kan bli ålagda att ta fram åtgärdsplaner.</span>
+			</p>
+			<h2>
+				<span>Fondera medel för reinvesteringar på va-taxan</span>
+			</h2>
+			<p class="Normalutanindragellerluft">
+				<span>Vatten- och avloppsledningar utgör en del av samhällsinfrastrukturen vilken är nödvändig för att ett samhälle ska kunna fungera. Underhållet av va-stammar är och kommer att innebära en betydande kostnad för Sveriges kommuner. För att minska kostnaden bör det finnas möjlighet för kommuner att via ett påslag på va-taxan fondera medel för framtida underhållsinvesteringar. </span>
+			</p>
+			<p>
+				<span>Kommuner behöver förbättra arbetet med att ta fram kalkyler och riskbedömningar </span><span style="letter-spacing:-0.1pt">kring de vatten- och avloppssystem man ansvarar för. Det minskar risken att kommunerna</span><span> tvingas ta lån med höga låneräntor för underhåll. </span>
+			</p>
+			<p>
+				<span>Idag tillåts enligt vattentjänstlagen fondering av kapital i 5</span><span>&#xa0;</span><span>år av medel för ny</span><span>&#xad;</span><span>investeringar, men inte för att investera i befintlig infrastruktur, där de största under</span><span>&#xad;</span><span>hålls- och investeringsbehoven finns. För att redan nu ta höjd för framtidens underhålls</span><span>&#xad;</span><span>behov bör kommuner ha möjlighet att via ett procentuellt påslag på va-taxan fondera för den här sortens underhåll samt eventuella framtida akuta åtgärder.</span><span style="-aw-import:spaces">&#xa0; </span>
+			</p>
+			<h2>
+				<span>Kompetensförsörjningsbehovet på va-området </span>
+			</h2>
+			<p class="Normalutanindragellerluft">
+				<span>Det behövs ett förebyggande arbete när det gäller att tillse att kompetensbehovet upp</span><span>&#xad;</span><span>fylls när det gäller kunskapsförsörjningen på va-området. Av en rapport om kompetens</span><span>&#xad;</span><span>försörjningsbehovet för Svenskt Vattens medlemmar från år 2020 framgår att va-branschen urholkas på kompetens och att det krävs ett strategiskt arbete i konkurrens med andra branscher. Branschen är samhällsbyggande och handlar om hållbarhet på centralt viktiga områden. </span>
+			</p>
+			<p>
+				<span>Det måste finnas personal med rätt kompetens som kan ta sig an arbetet med att underhålla och byta ut stora delar av vatteninfrastrukturen. Nu och framåt kommer stora delar av infrastrukturen för vatten och avlopp att behöva underhållas och bytas ut vilket innebär att efterfrågan på arbetskraft med rätt kompetens kommer att öka. För att inte stå oförberedda inför detta behöver ett initierat arbete ske med berörda instanser för att se till att rätt typ av och mängd utbildning för detta område säkerställs. Utbildnings</span><span>&#xad;</span><span>nivån behöver vara i fas med den omställning vi ser. Skolverket bör säkerställa att adekvata utbildningar planeras efter nutida och framtidens behov så att arbetskraft finns att tillgå för va-området. </span>
+			</p>
+			<p>
+				<span>Samverkan mellan kommuner och med närliggande kommuners hantering av va-system bör underlättas och uppmuntras eftersom det kan finnas synenergieffekter av ett sådant samarbete.</span>
+			</p>
+			<h2>
+				<span>Teknologisk utveckling av artificiell intelligens för vattenrening</span>
+			</h2>
+			<p class="Normalutanindragellerluft">
+				<span>Den högaktuella planeringen av att värna dricksvattenreserven är en viktig del i arbetet för att bibehålla en god tillgång och kvalitet på dricksvattnet i hela Sverige. Mindre än hälften av befolkningen får idag dricksvatten från ett vattenskyddsområde som har skydd enligt miljöbalken. Det är nödvändigt för kommunerna att skydda och förvalta strategiska dricksvattenförekomster. Samtidigt måste vattenskyddsområden bildas på rättssäkert sätt med skälig ersättning till markägarna och ersättningsformerna behöver utredas. Att behålla den höga kvaliteten och tillgången på dricksvatten är av stor vikt för ett fungerande samhälle och ur hälsosynpunkt.</span>
+			</p>
+			<p>
+				<span>Vid påverkan av väderhändelser sker påfrestningar på vattenbeståndet och det är viktigt att reningsverken håller en hög kvalitet. En stor del av avlopps- och vatten</span><span>&#xad;</span><span>reningsverken måste utvecklas eller förnyas så att de uppfyller aktuella krav på fram</span><span>&#xad;</span><span>tidens funktion och säkerhet. Reningen av dricksvattnet måste säkras och utvärdering av ny teknik ska ske fortlöpande. Artificiell intelligens, AI, ger framtida möjligheter till automatiserade system för bland annat vattenrening. Forskning och utveckling på området ska bevakas för att i framtiden vid behov implementera ny teknik i befintliga och nya va-system. </span>
+			</p>
+			<p>
+				<span>Mängden kemikalier som används i våra dagliga liv ökar, och en stor del av dessa kemikalier hamnar i vattenbeståndet. Mediciner, mikroplaster och antibiotika följer med i avloppsvattnet och risken är överhängande att det tas upp av våra kroppar. En fullgod läkemedelsrening av vatten måste ske och den teknikbaserade utrustningen kring reningsverken hålla hög standard. Behovet av läkemedelsrening kommer med stor säkerhet att öka eftersom läkemedelsindustrin ständigt utvecklas. Rening av vattnet måste hålla jämna steg med övrig utveckling, för att säkerställa en god vatten</span><span>&#xad;</span><span>renhållning. Den innovativa utvecklingen behöver följas och vid behov bör nuvarande reningssystem uppgraderas för att bidra till bättre vattenkvalitet. </span>
+			</p>
+			<h2>
+				<span>Återbruk av vatten </span>
+			</h2>
+			<p class="Normalutanindragellerluft">
+				<span>Kommuner bör, i den vattentjänstplan som kommuner ska upprätta, även inkludera alternativ för återbruk av vatten.</span>
+			</p>
+			<p>
+				<span style="letter-spacing:-0.1pt">I vissa fall kan återbruk av vatten vara resurseffektivt. Ett sådant användningsområde</span><span> är att i den mån det är möjligt undvika att använda dricksvatten för bevattning av planteringar och istället använda dagvatten (regnvatten). Det måste då säkerställas att de planteringar som bevattnas med dagvatten inte tar skada av ämnen som det uppsamlade regnvattnet, även kallat dagvatten, kan innehålla. </span>
+			</p>
+			<p>
+				<span>Dåligt planeringsarbete kan hämma resursanvändningen. Genom samordning kan tydliga direktiv ges och förutsättningar skapas för branschen att effektivisera verksam</span><span>&#xad;</span><span>heten, vilket kan bidra till en långsiktighet, hållbar för alla inblandade parter. En lång</span><span>&#xad;</span><span>siktig planering och effektivisering av återbruk av vatten bidrar till att ta till vara de samhällsviktiga resurserna. Kommuner vinner på att se över rutiner för att öka åter</span><span>&#xad;</span><span>bruket av vatten. Att följa utvecklingen och möjligheterna för industrin att återanvända processvatten är också ett av många intressanta områden som kan utvecklas i närtid.</span>
+			</p>
+			<h2>
+				<span>Kemikalier för vattenhantering </span>
+			</h2>
+			<p class="Normalutanindragellerluft">
+				<span>Den aktuella kemikaliebristen, som blivit allt mer påtaglig i och med krisen i Ukraina, har blottlagt sårbarheter i infrastrukturen för vattenförsörjning och avloppsrening. </span>
+			</p>
+			<p>
+				<span>Sverige behöver en robust krisberedskap för va-sektorn, inklusive etablering av beredskapslager av kritiska kemikalier. Rikets reningsverk ska hålla en hög kvalitet och för att upprätta en hög reningsnivå krävs rätt kemikalier. För att tillgodose behovet av nödvändiga kemikalier för vattenrening så kan det bli aktuellt att fler kommuner behöver organisatoriskt stöd och samordning, ett samarbete som sker med ansvariga länsstyrelser och den nationella samordnaren för nationell vattenförsörjning.</span>
+			</p>
+			<p>
+				<span>För att kunna hantera incidenter där kemikalier är en del av problemanalysen så är det viktigt att rätt expertis finns att tillgå och konsekvensanalyser görs för att beräkna framtida risker där bristen på rätt kemikalier kan bli en bristvara. </span>
+			</p>
+			<h2>
+				<span>Nationell strategi för vattenhantering och stadsplanering ur beredskapssynpunkt </span>
+			</h2>
+			<p class="Normalutanindragellerluft">
+				<span>I rådande samhällsklimat behövs en tydlig och fungerande krisberedskap och dialog inom va-sektorn. Det handlar om en tydligare samordning mellan myndigheter och andra instanser som ansvarar för krisberedskap där vattenhantering ingår och en nationell strategi för vattenhantering.</span>
+			</p>
+			<p>
+				<span>Kommuners beredskap för översvämningar behöver hålla en hög säkerhetsnivå då risken att vattenburna bakterier och sjukdomar kan spridas till vårt dricksvatten är överhängande, och det i sin tur kan få förödande konsekvenser för gamla, små barn och sjuka personer. För stora massor av vatten, som vid exempelvis översvämning, förstör mark, vegetation och anläggningar samt kan i allvarliga fall medföra förorening av dricksvatten. Inte sällan ställer oväder till stor förödelse och omfattande kostnader för att åtgärda förödelse som detta kan orsaka. Planering för vattenförsörjning vid risk för torka är ytterligare ett behov. Inte sällan saknas beredskap, planer och ekonomi för detta i kommunerna.</span>
+			</p>
+			<p>
+				<span>Avloppssystemen är gamla i Sverige och inte avsedda för att hantera flöden som uppkommer vid översvämningar och skyfall. Det saknas i många kommuner planering mot väderbetingade händelser såsom skyfall och översvämning. Vattenbrist kan också uppstå genom uteblivet regn. </span>
+			</p>
+			<p>
+				<span>Befintliga ledningsnät måste bytas ut eller rustas upp för att klara av stora skyfall och minska risken för samhällsförstörande översvämningar. Extremer måste hanteras och många av framtidens utmaningar består av att hantera stora mängder vatten under korta intensiva perioder. I många kommuner finns ett behov av förebyggande åtgärder samt att anpassa nuvarande va-system.</span>
+			</p>
+			<p>
+				<span>Ett stort antal kommuner saknar eller har brister i den kommunala planen för vatten</span><span>&#xad;</span><span>försörjningen vid akuta vattenmängder och skydd för allmän och privat egendom. Även när kommunen tar fram nya bostadsprojekt så ska stadsplaneringen präglas av ett helhetsperspektiv när det kommer till säkerhet, framtid och boendemiljö i hur man bemöter stora skyfall och risker för översvämningar.</span>
+			</p>
+			<p>
+				<span>Det saknas enligt expertis övergripande strategier nationellt för hur oväder som för med sig exempelvis skyfall och översvämning ska hanteras. Teknikkonsultföretag har föreslagit strategier för att säkra vattenförsörjningen och hanteringen av vatten</span><span>&#xad;</span><span>infrastrukturen, exempelvis genom att planerat återinföra utrymmen för vatten i städer och att samla upp vatten, inte endast leda bort det. Det kan ske genom naturliga sätt att leda, avskilja och lagra vatten, genom återöppning av åar och floder, skapande av bassänger, genomtränglig stenbeläggning, dagvattenbäddar och mer grönska i städer som håller fukt och står emot värme och torka. Vattenhantering vid vattenbrist kan exempelvis ske genom att återanvända och rena uppsamlat vatten och spillvatten. Olika kvaliteter på vatten för olika ändamål kan vara ett sätt att möta eventuell vattenbrist. </span>
+			</p>
+			<p>
+				<span>Det förebyggande arbetet för krissituationer är av stor vikt och arbetet i kommuner måste präglas av sannolikhetsbedömningar för att minska olika sorters sårbarheter.</span>
+			</p>
+			<p>
+				<span>Det bör ingå i kommuners planering att upprätta planer som innebär preventiv planering och skydd mot oväder såsom skyfall samt för planering för nödvatten</span><span>&#xad;</span><span>reservoarer och återanvändning av vatten. </span>
+			</p>
+			<p>
+				<span>Vattenlagstiftningen bör ses över så att den även svarar upp mot ett smartare sätt att stadsplanera för att bemöta stora plötsliga mängder vatten via exempelvis översvämning och att samla upp och återanvända vatten. Nationell och lokal krisberedskap behöver också vägas in i lagstiftningen.</span><span style="-aw-import:spaces">&#xa0; </span>
+			</p>
+			<p>
+				<span>Vi ser också ett behov av att stärka kunskaperna kring hanteringen av den lokala vattenförsörjningen som rening och skydd av dricksvattentäkter.</span>
+			</p>
+			<p>
+				<span>Vid läckage, naturkatastrofer eller annan yttre påverkan finns risken att farliga ämnen sprids i samhället via våra avlopps- och vattenledningar. Vi behöver se över den nationella samordningen och vid brister förbättra beredskapen. Det är en naturlig utveckling för att tydliggöra regeringens strategi för att förbättra krisberedskapen inom va-sektorn. </span>
+			</p>
+			<p>
+				<span>De översvämningar som drabbade Gävle i augusti 2021 och Götaland och Svealand 2022 orsakade omfattande skador, vilket drabbade privatpersoner och deras hus. Alla vattenskador är inte ersättningsbara. Information om vad som gäller behoven av skydd för privatpersoner och deras hus är inte lättillgänglig. Det finns behov av utökad information och samordnade insatser inom kommunikation till samhället och till privatpersoner om beredskap, skydd och planering till följd av skador från över</span><span>&#xad;</span><span>svämning, skred och ras. </span>
+			</p>
+			<h2>
+				<span>Nödvattenplan </span>
+			</h2>
+			<p class="Normalutanindragellerluft">
+				<span>Tillgången på rent vatten vid en nödsituation måste säkerställas och det bör utredas om kommuner i samarbete med berörda instanser bör ta fram nödvattenplaner för kommun</span><span>&#xad;</span><span>invånarna.</span>
+			</p>
+			<p>
+				<span>En nödvattenplan bör innehålla riktlinjer för hur man hanterar utmaningarna vid stora skyfall, även sabotage eller annat angrepp på vattenförsörjningen. Kommuner bör utse en krisberedskapsansvarig som kan agera skyndsamt vid brister i kommunens vattenförsörjning. Det kan även vara aktuellt att bredda utvecklingsarbetet, i vissa fall i samarbete med närliggande kommuner för att ta fram en överskådlig plan på hur man kommer hantera dricksvattenförsörjningen vid en krissituation.</span>
+			</p>
+			<p>
+				<span>Vi måste ta i beaktande att vid ett icke-fungerande va-system så kan enskilda fastigheters vattentillgång komplettera vattenförsörjningen under en begränsad tid i en kommun. Ur ett civilförsvarsperspektiv kan det vara bra med en viss mängd enskilda avlopp. Det bidrar till den civila beredskapen och kan vara en viktig del av kommunens nödvattenplan.</span>
+			</p>
+			<h2>
+				<span>Kommunal vatten- och avloppsplanering</span>
+			</h2>
+			<p class="Normalutanindragellerluft">
+				<span>Kommunala vatten- och avloppsplaner är viktiga för att skapa långsiktig planering för kommunens utbyggnad och framväxt. Va-planering handlar också om i vilken ordning olika geografiska områden ska åtgärdas, vem som ska utföra arbetet och hur delaktighet och engagemang hos berörda aktörer skapas. För att minska konflikter kring utbyggnad av kommunalt vatten och avlopp behöver dessa planer vara baserade på längre sikt för att skapa förutseende för fastighetsägare.</span>
+			</p>
+			<p>
+				<span>En investering i vatten och avlopp är mycket kostsam, varför fastighetsägare ska kunna känna sig trygga med hur planeringen ser ut i kommunen. Vid utbyggnad bör samråd vara ett obligatoriskt förfarande för att öka förståelsen för anslutning och med syftet att finna bästa lösningen. De hushåll som vill vänta med anslutning bör kunna göra det.</span>
+			</p>
+			<p>
+				<span>Vi menar, liksom i tillkännagivandet som har riktats till regeringen, att en fastighets</span><span>&#xad;</span><span>ägare med enskilt avlopp inte ska kunna tvingas att ansluta sig till det kommunala vatten- och avloppsnätet. Detta under förutsättning att det egna avloppet uppfyller de gällande miljö- och hälsokraven.</span>
+			</p>
+			<p>
+				<span>Det finns behov av större flexibilitet i val av lösning för vatten och avlopp på lands</span><span>&#xad;</span><span>bygden. Dagens regler om anslutning av enskilda avlopp till kommunala avloppsnät innebär oproportionerligt höga kostnader för den enskilde. Fastighetsägare som har ett enskilt avlopp som uppfyller gällande miljö- och hälsokrav ska inte behöva ansluta till ett kommunalt avlopp. Tvång innebär höga kostnader för fastighetsägare och det kan försämra krisberedskapen på landsbygden. Kommunen ansvarar för planläggningen av mark och vatten, för att marken används till det den är mest lämpad för och för att den bara planläggs om det är lämpligt från allmän synpunkt. I bedömningen av om marken är lämplig ska enligt Boverket och kommunen särskild hänsyn tas till bland annat hälsa och säkerhet, vattenförsörjning och avlopp samt olyckor, översvämning och erosion. Detta ansvar innebär att kommunen vid detaljplaneläggningen ska ha försäkrat sig om att dagvattenhanteringen går att lösa inom planområdet och att man kan visa hur det kan göras.</span>
+			</p>
+			<p>
+				<span>2022 behandlades i civilutskottet den föregående regeringens förslag i propositionen Vägar till hållbara vattentjänster som handlar om hantering av och planering för vatten- och avloppslösningar. Kommunen ska ta särskild hänsyn till förutsättningarna för att tillgodose behovet av en vattentjänst genom en enskild anläggning. Vi anser att aktuella regler ska ses över så att enskilda fastighetsägare som investerat i vatten- och avlopps</span><span>&#xad;</span><span>anläggningar inte per automatik ska tvingas överge befintlig anläggning till förmån för ett kommunalt va-system. Det föreslås också att varje kommun ska ha en vattentjänst</span><span>&#xad;</span><span>plan. Dessutom föreslås bemyndigande som möjliggör att meddela föreskrifter om skyldighet att kontrollera små avloppsanläggningars funktion och att lämna uppgifter till tillsynsmyndigheten. Vi är inte motståndare till kommunala va-planer, men de kommuner som önskar upprätta va-planer kan genomföra detta oberoende av om lagen införs eller ej. Vi är negativa till förslaget om bemyndigandet som möjliggör meddelande av föreskrifter och skyldighet gällande små avloppsanläggningar. Därigenom möjliggörs nämligen införande av avloppsdeklarationer, vilket kan bli mycket kostsamt och besvärligt för husägare.</span>
+			</p>
+			<p>
+				<span>En översyn bör göras av vad planen kan eller ska innehålla för att på bästa sätt skapa rätt förutsättningar för kommunen att planera utbyggnad och skapa goda samhälls</span><span>&#xad;</span><span>ekonomiska effekter samt för att på bästa sätt gynna enskilda fastighetsägare. Ansvaret kring vattenhanteringen bör bli tydligare och regeringen bör agera förebyggande genom att kräva att kommuner upprättar lokala underhålls- och åtgärdsplaner. </span>
+			</p>
+			<div style="-aw-sdt-tag:'CC_Underskrifter'; -aw-sdt-title:'CC_Underskrifter'">
+				<p>
+					<span style="-aw-import:ignore">&#xa0;</span>
+				</p>
+				<p>
+					<span style="-aw-import:ignore">&#xa0;</span>
+				</p>
+			</div>
+			<table cellspacing="0" cellpadding="0" style="width:100%; border-collapse:collapse">
+				<tr style="page-break-inside:avoid">
+					<td style="width:1%; padding-right:5.4pt; padding-left:5.4pt; vertical-align:bottom">
+						<p class="Underskrifter" style="margin-bottom:0pt">
+							<span>Mikael Eskilandersson (SD)</span>
+						</p>
+					</td>
+					<td style="width:1%; padding-right:5.4pt; padding-left:5.4pt; vertical-align:bottom">
+						<p class="Underskrifter" style="margin-bottom:0pt">
+							<span style="-aw-import:ignore">&#xa0;</span>
+						</p>
+					</td>
+				</tr>
+				<tr style="page-break-inside:avoid">
+					<td style="width:1%; padding-right:5.4pt; padding-left:5.4pt; vertical-align:bottom">
+						<p class="Underskrifter" style="margin-bottom:0pt">
+							<span>Roger Hedlund (SD)</span>
+						</p>
+					</td>
+					<td style="width:1%; padding-right:5.4pt; padding-left:5.4pt; vertical-align:bottom">
+						<p class="Underskrifter" style="margin-bottom:0pt">
+							<span>Björn Tidland (SD)</span>
+						</p>
+					</td>
+				</tr>
+				<tr style="page-break-inside:avoid">
+					<td style="width:1%; padding-right:5.4pt; padding-left:5.4pt; vertical-align:bottom">
+						<p class="Underskrifter" style="margin-bottom:0pt">
+							<span>Rashid Farivar (SD)</span>
+						</p>
+					</td>
+					<td style="width:1%; padding-right:5.4pt; padding-left:5.4pt; vertical-align:bottom">
+						<p class="Underskrifter" style="margin-bottom:0pt">
+							<span>Mats Hellhoff (SD)</span>
+						</p>
+					</td>
+				</tr>
+			</table>
+			<p>
+				<span style="-aw-import:ignore">&#xa0;</span>
+			</p>
+		</div>
+	</div>

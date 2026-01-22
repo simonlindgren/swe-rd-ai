@@ -1,0 +1,614 @@
+SEARCH TERM: AI
+DOCUMENT ID: hd023649
+TITLE: Konsumentpolitik
+TYPE: mot
+SUBTYPE: Kommittémotion
+DATE: 2025-10-07
+PARLIAMENTARY YEAR: 2025/26
+ORGANISATION: CU
+STATUS: Hänvisad
+DOWNLOADED: 2026-01-22 10:25:02
+================================================================================
+
+<style><!-- 
+ @page Section1 { size:595.3pt 841.9pt; margin:35.45pt 85.05pt 56.7pt }
+div.Section1 { page:Section1 }
+div.pconf body { t-i:14.2pt; line-height:150%; font-family:'Verdana'; font-size: 0.90em }
+div.pconf h1, h2, h3, h4, h5, h6, p { margin:0pt }
+div.pconf li, table { margin-top:0pt; margin-bottom:0pt }
+div.pconf h1 { margin-top:41pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:19.5pt; font-family:'Verdana'; font-size: 1.05em; font-weight:normal; color:#000000 }
+div.pconf h2 { margin-top:30pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:17pt; font-family:'Verdana'; font-size: 1.00em; font-weight:normal; color:#000000 }
+div.pconf h3 { margin-top:18pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:15pt; font-family:'Verdana'; font-size: 0.90em; font-weight:bold; color:#000000 }
+div.pconf h4 { margin-top:18pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:15pt; font-family:'Verdana'; font-size: 0.90em; font-weight:normal; font-style:italic; color:#000000 }
+div.pconf h5 { margin-top:15pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:15pt; font-family:'Verdana'; font-size: 0.90em; font-weight:bold; font-style:normal; color:#000000 }
+div.pconf h6 { margin-top:15pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:15pt; font-family:'Verdana'; font-size: 0.90em; font-weight:normal; font-style:italic; color:#000000 }
+.Heading7 { margin-top:15pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:15pt; font-family:'Verdana'; font-size: 0.90em; font-weight:normal; font-style:italic; color:#000000; -aw-style-name:heading7 }
+.Heading8 { margin-top:15pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:15pt; font-family:'Verdana'; font-size: 0.90em; font-weight:normal; font-style:italic; color:#000000; -aw-style-name:heading8 }
+.Heading9 { margin-top:0pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:15pt; font-family:'Verdana'; font-size: 0.90em; font-weight:normal; font-style:italic; color:#000000; -aw-style-name:heading9 }
+.BalloonText { margin-bottom:0pt; t-i:14.2pt; line-height:normal; font-family:'Segoe UI'; font-size: 0.90em }
+.Beteckning { margin-top:18pt; margin-bottom:0pt; t-i:14.2pt; page-break-inside:auto; page-break-after:auto; line-height:19.5pt; font-size: 1.05em }
+.BlockText, .Inramatstycke { margin-right:56.7pt; margin-left:56.7pt; margin-bottom:0pt; t-i:0pt; text-align:nojustify; line-height:150%; border:0.75pt solid #000000; padding:10pt; font-size: 0.90em; font-style:italic; -aw-border:0.25pt single }
+.Citaticitat { margin-top:7.5pt; margin-left:34pt; margin-bottom:0pt; t-i:0pt; line-height:150%; font-size: 0.90em }
+.Citaticitatmedindrag { margin-top:0pt; margin-left:34pt; margin-bottom:7.5pt; t-i:17pt; line-height:150%; font-size: 0.90em }
+.Citatmedindrag { margin-top:0pt; margin-left:17pt; margin-bottom:0pt; t-i:17pt; line-height:150%; font-size: 0.90em }
+.CommentSubject { margin-bottom:0pt; t-i:14.2pt; line-height:normal; font-size: 0.90em; font-weight:bold }
+.CommentText { margin-bottom:0pt; t-i:14.2pt; line-height:normal; font-size: 0.90em }
+.FSHLogo { margin-top:4pt; margin-bottom:0pt; t-i:0pt; line-height:normal; font-size: 0.90em }
+.FSHNormL { margin-top:4pt; margin-bottom:0pt; t-i:0pt; line-height:15pt; border-top:1.5pt solid #000000; padding-top:3pt; font-size: 0.90em }
+.FSHNormal { margin-top:4pt; margin-bottom:0pt; t-i:0pt; line-height:15pt; font-size: 0.90em }
+.FSHNormalS5 { margin-top:11.5pt; margin-bottom:26pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-size: 0.95em; font-weight:bold }
+.FSHRub1, .Rubrik1S5 { margin-top:135pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:16pt; font-size: 1.00em }
+.FSHRub2, .Rubrik1A4 { margin-top:50pt; margin-bottom:5pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:24pt; font-size: 1.05em }
+.FSHTitel, .Dokumentrubrik { margin-top:4pt; margin-bottom:4pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:20pt; border-bottom:0.75pt solid #000000; padding-bottom:3pt; font-size: 1.05em; -aw-border-bottom:0.5pt single }
+.Footer { margin-top:4pt; margin-bottom:0pt; t-i:0pt; text-align:center; line-height:normal; font-size: 0.90em }
+.FootnoteText { margin-top:0pt; margin-bottom:0pt; t-i:0pt; line-height:12pt; font-size: 0.90em }
+.Frslagsrubrik { margin-top:41pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:19.5pt; font-family:'Verdana'; font-size: 1.05em }
+.Frslagstext, .Hemstlatt, .Yrkande { margin-top:4pt; margin-left:19.85pt; margin-bottom:0pt; t-i:-19.85pt; line-height:150%; font-size: 0.90em }
+.Header { margin-top:4pt; margin-bottom:0pt; t-i:0pt; line-height:normal; font-size: 0.90em }
+.KantRubrikS5H { margin-top:6pt; margin-right:2.85pt; margin-bottom:0pt; t-i:0pt; text-align:right; line-height:8pt; font-size: 0.90em }
+.KantRubrikS5Hrad2 { margin-top:0pt; margin-right:2.85pt; margin-bottom:0pt; t-i:0pt; text-align:right; line-height:10pt; font-size: 0.90em }
+.KantRubrikS5V { margin-top:6pt; margin-right:0pt; margin-bottom:0pt; t-i:0pt; text-align:left; line-height:8pt; font-size: 0.90em }
+.KantRubrikS5Vrad2 { margin-top:0pt; margin-right:0pt; margin-bottom:0pt; t-i:0pt; text-align:left; line-height:10pt; font-size: 0.90em }
+.KantrubrikH { margin-top:4pt; margin-right:-82.2pt; margin-bottom:0pt; t-i:0pt; text-align:right; line-height:15pt; font-size: 0.90em }
+.KantrubrikV { margin-top:4pt; margin-left:-85.05pt; margin-bottom:0pt; t-i:0pt; line-height:normal; font-size: 0.90em }
+.Klla { margin-top:0pt; margin-bottom:0pt; t-i:0pt; line-height:12pt; font-size: 0.90em }
+.Lagtext { margin-top:4pt; margin-bottom:0pt; t-i:0pt; line-height:normal; font-size: 0.90em }
+.Lagtextindrag { margin-top:4pt; margin-bottom:0pt; t-i:14.2pt; line-height:normal; font-size: 0.90em }
+.Lagtextrubrik { margin-top:4pt; margin-bottom:0pt; t-i:0pt; line-height:normal; font-size: 0.90em; font-style:italic; letter-spacing:1pt }
+.List { margin-top:7.5pt; margin-left:17pt; margin-bottom:7.5pt; t-i:-17pt; line-height:150%; font-size: 0.90em }
+.ListBullet, .PunktlistaBomb { margin-top:4pt; margin-left:14.2pt; margin-bottom:0pt; t-i:-14.2pt; line-height:150%; font-size: 0.90em }
+.ListNumber, .PunktlistaNummer { margin-top:4pt; margin-left:14.2pt; margin-bottom:0pt; t-i:-14.2pt; line-height:150%; font-size: 0.90em }
+.ListParagraph { margin-left:36pt; margin-bottom:0pt; t-i:14.2pt; line-height:150%; font-size: 0.90em }
+.ListaGemener { margin-top:7.5pt; margin-left:17pt; margin-bottom:7.5pt; t-i:-17pt; line-height:150%; font-size: 0.90em }
+.ListaLinje { margin-top:7.5pt; margin-left:17pt; margin-bottom:7.5pt; t-i:-17pt; line-height:150%; font-size: 0.90em }
+.ListaNummer { margin-top:7.5pt; margin-left:17pt; margin-bottom:7.5pt; t-i:-17pt; line-height:150%; font-size: 0.90em }
+.ListaPunkt { margin-top:7.5pt; margin-left:17pt; margin-bottom:7.5pt; t-i:-17pt; line-height:150%; font-size: 0.90em }
+.MotionTIllRiksdagen { margin-top:18pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:19.5pt; font-size: 1.05em }
+.Motionr { margin-top:14pt; margin-bottom:31.5pt; t-i:0pt; page-break-inside:avoid; line-height:15pt; font-size: 1.00em; font-weight:bold; font-style:normal }
+.Motiveringrubrik2numrerat1 { margin-top:30pt; margin-left:0pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:17pt; font-family:'Verdana'; font-size: 1.00em }
+.Motiveringrubrik3numrerat1 { margin-top:18pt; margin-left:0pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:15pt; font-family:'Verdana'; font-size: 0.90em; font-weight:bold }
+.Motiveringrubrik3numrerat11 { margin-top:18pt; margin-left:0pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:15pt; font-family:'Verdana'; font-size: 0.90em; font-weight:bold }
+.Motiveringrubrik4numrerat11 { margin-top:18pt; margin-left:0pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:15pt; font-family:'Verdana'; font-size: 0.90em; font-weight:normal; font-style:italic }
+.NormalWeb { margin-bottom:0pt; t-i:14.2pt; line-height:150%; font-family:'Verdana'; font-size: 0.90em }
+.NormalIndent { margin-left:65.2pt; margin-bottom:0pt; t-i:14.2pt; line-height:150%; font-size: 0.90em }
+.Normalutanindragellerluft { margin-top:4pt; margin-bottom:0pt; t-i:0pt; line-height:150%; font-size: 0.90em }
+.Normal00 { margin-top:4pt; margin-bottom:0pt; t-i:0pt; line-height:normal; font-size: 0.90em }
+.NormalA4fot { margin-top:12pt; margin-bottom:0pt; t-i:0pt; text-align:center; line-height:normal; font-size: 0.90em }
+.NormalA4sidnr { margin-top:4pt; margin-bottom:12pt; t-i:0pt; text-align:center; line-height:normal; font-size: 0.90em }
+.NormalS5sidnrH { margin-top:4pt; margin-right:2.85pt; margin-bottom:0pt; t-i:0pt; text-align:right; line-height:normal; font-size: 0.90em }
+.NormalS5sidnrV { margin-top:4pt; margin-right:0pt; margin-bottom:0pt; t-i:0pt; text-align:left; line-height:normal; font-size: 0.90em }
+.PlainText { margin-bottom:0pt; t-i:0pt; line-height:12pt; font-family:'Verdana'; font-size: 0.90em }
+.Quote { margin-top:7.5pt; margin-left:17pt; margin-bottom:0pt; t-i:0pt; line-height:150%; font-size: 0.90em }
+.R1 { margin-top:41pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:19.5pt; font-family:'Verdana'; font-size: 1.05em }
+.R2 { margin-top:30pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:17pt; font-family:'Verdana'; font-size: 1.00em }
+.R3 { margin-top:18pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:15pt; font-family:'Verdana'; font-size: 0.90em; font-weight:bold }
+.Rubrik1numrerat { margin-top:41pt; margin-left:0pt; margin-bottom:0pt; t-i:0pt; page-break-inside:auto; page-break-after:avoid; line-height:19.5pt; font-family:'Verdana'; font-size: 1.05em }
+.Rubrik2numrerat { margin-top:30pt; margin-left:0pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:17pt; font-family:'Verdana'; font-size: 1.00em }
+.Rubrik3numrerat { margin-top:18pt; margin-left:0pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:15pt; font-family:'Verdana'; font-size: 0.90em; font-weight:bold }
+.Rubrik4numrerat { margin-top:18pt; margin-left:0pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:15pt; font-family:'Verdana'; font-size: 0.90em; font-weight:normal; font-style:italic }
+.RubrikFrslagTIllRiksdagsbeslut { margin-top:41pt; margin-bottom:15pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:19.5pt; font-family:'Verdana'; font-size: 1.05em }
+.RubrikInnehllsf { margin-top:41pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:19.5pt; font-family:'Verdana'; font-size: 1.05em }
+.RubrikSammanf { margin-top:41pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:19.5pt; font-family:'Verdana'; font-size: 1.05em }
+.Salutation { margin-top:41pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:19.5pt; font-family:'Verdana'; font-size: 1.05em }
+.Streckkod { margin-top:12pt; margin-bottom:0pt; t-i:0pt; text-align:center; line-height:normal; font-family:IDAutomationHC39S; font-size: 1.00em }
+.Strecklista, .PunktlistaTankstreck { margin-top:4pt; margin-left:14.2pt; margin-bottom:0pt; t-i:-14.2pt; line-height:150%; font-size: 0.90em }
+.Subtitle { margin-top:4pt; margin-bottom:0pt; t-i:0pt; line-height:150%; font-family:'Verdana'; font-size: 0.90em; font-weight:bold }
+.TOC1 { margin-top:4pt; margin-bottom:0pt; t-i:0pt; line-height:150%; font-size: 0.90em }
+.TOC2 { margin-top:4pt; margin-left:14.2pt; margin-bottom:0pt; t-i:0pt; line-height:150%; font-size: 0.90em }
+.TOC3 { margin-top:4pt; margin-left:28.35pt; margin-bottom:0pt; t-i:0pt; line-height:150%; font-size: 0.90em }
+.TOC4 { margin-top:4pt; margin-left:42.55pt; margin-bottom:0pt; t-i:0pt; line-height:150%; font-size: 0.90em }
+.TOC5 { margin-top:4pt; margin-left:56.7pt; margin-bottom:0pt; t-i:0pt; line-height:150%; font-size: 0.90em }
+.TOC6 { margin-top:4pt; margin-left:56.7pt; margin-bottom:0pt; t-i:0pt; line-height:150%; font-size: 0.90em }
+.TOC7 { margin-top:15pt; margin-left:56.7pt; margin-bottom:0pt; t-i:14.2pt; page-break-inside:avoid; page-break-after:avoid; line-height:normal; font-family:'Verdana'; font-size: 0.90em; font-weight:normal; font-style:italic }
+.TOC8 { margin-top:15pt; margin-left:56.7pt; margin-bottom:0pt; t-i:14.2pt; page-break-inside:avoid; page-break-after:avoid; line-height:normal; font-family:'Verdana'; font-size: 0.90em; font-weight:normal; font-style:italic }
+.TOC9 { margin-top:15pt; margin-left:56.7pt; margin-bottom:0pt; t-i:14.2pt; page-break-inside:avoid; page-break-after:avoid; line-height:normal; font-family:'Verdana'; font-size: 0.90em; font-weight:normal; font-style:italic }
+.TOCHeading { margin-top:41pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:19.5pt; font-family:'Verdana'; font-size: 1.05em }
+.Tabellunderrubrik { margin-top:0pt; margin-bottom:0pt; t-i:0pt; page-break-after:avoid; line-height:150%; font-size: 0.90em; font-weight:normal; font-style:italic }
+.Tabellrubrik { margin-top:7.5pt; margin-bottom:0pt; t-i:0pt; page-break-after:avoid; line-height:150%; font-size: 0.90em; font-weight:bold }
+.Title { margin-top:41pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:19.5pt; font-family:'Verdana'; font-size: 1.05em }
+.Underskriftdatum { margin-top:24pt; margin-bottom:3pt; t-i:0pt; page-break-inside:avoid; line-height:15pt; font-size: 0.90em; font-style:normal }
+.Underskrifter { margin-top:15pt; margin-bottom:3pt; t-i:0pt; page-break-inside:avoid; line-height:15pt; font-size: 0.90em; font-style:italic }
+.Yrkandehnv, .Frslagspunkthnv { margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; font-size: 0.90em }
+span.BallongtextChar { font-family:'Segoe UI'; font-size: 0.90em }
+span.BeteckningChar { font-size:19.5pt }
+span.CommentReference { font-size:8pt }
+span.FSHRub2Char, span.Rubrik1A4Char { font-size:24pt }
+span.FotnotstextChar { font-size:10pt }
+span.Hyperlink { text-decoration:underline; color:#0563c1; -aw-style-name:hyperlink }
+span.InledningChar { font-family:'Verdana'; font-size: 1.00em; font-weight:bold }
+span.IntenseReference { font-weight:normal; font-style:normal; font-variant:normal; text-decoration:none; text-transform:none; letter-spacing:0pt; vertical-align:0pt; color:#000000; display:inline }
+span.KommentarerChar { font-size:10pt }
+span.KommentarsmneChar { font-size:10pt; font-weight:bold }
+span.MotionTIllRiksdagenChar { font-size:19.5pt }
+span.OformateradtextChar { font-family:'Verdana'; font-size: 0.90em }
+span.PlaceholderText { color:#f4b083 }
+span.Rubrik1Char { font-family:'Verdana'; font-size: 1.05em }
+span.Rubrik2Char { font-family:'Verdana'; font-size: 1.00em }
+span.Rubrik3Char { font-family:'Verdana'; font-size: 0.90em; font-weight:bold }
+span.Rubrik4Char { font-family:'Verdana'; font-size: 0.90em; font-style:italic }
+span.Rubrik5Char { font-family:'Verdana'; font-weight:bold }
+span.Rubrik6Char { font-family:'Verdana'; font-style:italic }
+span.Rubrik7Char { font-family:'Verdana'; font-size: 0.90em; font-weight:bold }
+span.Rubrik8Char { font-family:'Verdana'; font-size: 0.90em; font-weight:bold }
+span.Rubrik9Char { font-family:'Verdana'; font-size: 0.90em; font-weight:bold }
+span.RubrikChar { font-family:'Verdana'; font-size: 1.00em; font-weight:bold }
+span.SidfotChar { font-size:11.5pt }
+span.UnderrubrikChar { font-family:'Verdana'; font-size: 0.90em; font-weight:bold }
+.TableGrid {  }
+
+.pconf{width: 450px;margin-left:5px;overflow:visable;font-family:Verdana, Geneva, sans-serif;} 
+ .sidhuvud_publikation, .sidhuvud_beteckning{font-size:133%}
+.MotionarLista {font-size:122%}
+
+--></style><div class="pconf"><span class="sidhuvud_publikation">Motion till riksdagen</span><br/>
+<span class="sidhuvud_beteckning">2025/26:3649</span><br/>
+<span class="MotionarLista">av Joakim Järrebring m.fl. (S)</span><br/>
+<h1>Konsumentpolitik</h1>
+<hr class="sidhuvud_linje"/>
+
+
+		<div class="Section1">
+			<p class="RubrikFrslagTIllRiksdagsbeslut">
+				<a name="_Toc106800475"></a><a name="_Toc106801300"><span style="-aw-sdt-tag:'CC_Boilerplate_4'; -aw-sdt-title:'CC_Boilerplate_4'"><span>Förslag till riksdagsbeslut</span></span><span style="-aw-bookmark-end:_Toc106800475"></span></a>
+			</p>
+			<div style="-aw-sdt-tag:'fec5eb9f-1d91-4019-8ff6-f1ae137720d9'; -aw-sdt-title:'Yrkande 1'">
+				<ol type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-left:14pt; t-i:0pt; padding-left:5.85pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om ett generellt förbud mot telefonförsäljning i enlighet med Konsumentverkets förslag och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'af54df33-1944-4f0f-b757-1a350ef1e3f2'; -aw-sdt-title:'Yrkande 2'">
+				<ol start="2" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; margin-left:14pt; t-i:0pt; padding-left:5.85pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att i andra hand ersätta dagens Nixregister med ett opt-in-system och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'3296e2a8-6dcd-4671-8a35-29b5d8be9ea0'; -aw-sdt-title:'Yrkande 3'">
+				<ol start="3" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; margin-left:14pt; t-i:0pt; padding-left:5.85pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om obligatorisk konsumentvägledning i varje kommun och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'6036bc93-bc72-4a41-9434-b7187186541c'; -aw-sdt-title:'Yrkande 4'">
+				<ol start="4" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; margin-left:14pt; t-i:0pt; padding-left:5.85pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att utreda hur en obligatorisk konsumentvägledning kan genomföras och finansieras och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'728d7a3c-41c6-467d-8017-a41d6c7203de'; -aw-sdt-title:'Yrkande 5'">
+				<ol start="5" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; margin-left:14pt; t-i:0pt; padding-left:5.85pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att se över om Konsumentverket har tillräckliga resurser och rätt kompetens för att klara tillsynen vad gäller bedrägerier på nätet, orimliga avtalsvillkor, bluffakturor m.m. och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'67dd1161-88ba-4e82-84c9-bdebf873247a'; -aw-sdt-title:'Yrkande 6'">
+				<ol start="6" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; margin-left:14pt; t-i:0pt; padding-left:5.85pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att se över möjligheten att stärka Konsumentverkets kompetens inom AI för effektivare tillsyn och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'d704d1a1-5c1c-40bf-9b9b-08e46e0267aa'; -aw-sdt-title:'Yrkande 7'">
+				<ol start="7" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; margin-left:14pt; t-i:0pt; padding-left:5.85pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om utökat anslag till Konsumentverket för fler kontroller och nya verktyg och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'54cecc59-2d90-45de-82fa-1e827a77df5c'; -aw-sdt-title:'Yrkande 8'">
+				<ol start="8" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; margin-left:14pt; t-i:0pt; padding-left:5.85pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att värna civilsamhällets viktiga roll och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'aa2c43e5-4784-409f-b9e0-6388a1a56203'; -aw-sdt-title:'Yrkande 9'">
+				<ol start="9" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; margin-left:14pt; t-i:0pt; padding-left:5.85pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att återställa anslaget till konsumentorganisationerna till 2023 års nivå och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'ad2e57a6-de33-412a-8961-1a2952199cf6'; -aw-sdt-title:'Yrkande 10'">
+				<ol start="10" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; t-i:0pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att skuldsanering bör beviljas tidigare och omfatta fler och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'a645da5e-337b-4814-b780-46c791a74568'; -aw-sdt-title:'Yrkande 11'">
+				<ol start="11" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; t-i:0pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att förkorta skuldsaneringstiden och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'1332e661-56c1-4566-a79b-90443fcd4b6d'; -aw-sdt-title:'Yrkande 12'">
+				<ol start="12" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; t-i:0pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att stärka incitament för arbete under saneringsperioden genom ett fast återbetalningsbelopp och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'81b485ba-e02d-47e9-8fb4-7b521714714a'; -aw-sdt-title:'Yrkande 13'">
+				<ol start="13" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; t-i:0pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om en ny huvudregel om avräkning vid utmätning och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'2580597d-4494-46b6-a9ce-7bdb84fbf5c5'; -aw-sdt-title:'Yrkande 14'">
+				<ol start="14" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; t-i:0pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att inrätta ett skuld- och kreditgivningsregister och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'308da381-c5cf-4de3-a04e-9e5253d34cbb'; -aw-sdt-title:'Yrkande 15'">
+				<ol start="15" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; t-i:0pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om fler åtgärder mot oseriösa kreditgivningsföretag och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'11ef850f-b4f6-446e-9f7d-81cd33cad5a3'; -aw-sdt-title:'Yrkande 16'">
+				<ol start="16" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; t-i:0pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att snabblåneföretag som brister i kreditprövning bör stå för en större kostnad vid verkställighet hos Kronofogden och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'11840a30-0640-4a84-9b7d-5457fae7bebb'; -aw-sdt-title:'Yrkande 17'">
+				<ol start="17" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; t-i:0pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att överväga att införa en karenstid för utbetalning av snabblån/sms-lån och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'9a582437-827d-4994-a9e8-d06db3b6eb39'; -aw-sdt-title:'Yrkande 18'">
+				<ol start="18" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; t-i:0pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att regeringen måste se över och utvärdera Bankföreningens frivilliga åtgärdspaket för bedrägerier och vid behov komma med förslag på lagstiftning på området och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'f21869b2-cd34-43ff-a592-c19bcc25fcf8'; -aw-sdt-title:'Yrkande 19'">
+				<ol start="19" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; t-i:0pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att överväga åtgärder för att öka skyddet mot bankbedrägerier också för småföretag och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'bbbf0cc7-a75d-45f7-a474-6ae882b64b07'; -aw-sdt-title:'Yrkande 20'">
+				<ol start="20" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; t-i:0pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om mer kännbara sanktioner och avgifter och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'f7eea3ad-5391-412f-9897-db2ac5c95e9f'; -aw-sdt-title:'Yrkande 21'">
+				<ol start="21" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; t-i:0pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om abonnemang och kundtjänst och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'adfd5590-0ed8-4685-9227-c4d8d5b1ef70'; -aw-sdt-title:'Yrkande 22'">
+				<ol start="22" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; t-i:0pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att stärka konsumenternas rätt till hemförsäkringar med rättsskydd som är tillämpligt direkt efter en separation eller skilsmässa eller att den försäkrade har lämnat en relation, och detta tillkännager riksdagen för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'bbae1df3-6489-4cff-bb11-12847fca7907'; -aw-sdt-title:'Yrkande 23'">
+				<ol start="23" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; t-i:0pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om markering av manipulerade bilder och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'CC_Motivering_Rubrik'; -aw-sdt-title:'CC_Motivering_Rubrik'">
+				<h1>
+					<a name="MotionsStart"></a><a name="_Toc106801301"></a><a name="_Toc106800476"><span>Motivering</span></a>
+				</h1>
+			</div>
+			<span style="-aw-bookmark-end:_Toc106801301">
+			</span>
+			<p class="Normalutanindragellerluft">
+				<span style="-aw-bookmark-end:_Toc106800476"></span><span>Konsumentfrågorna berör oss alla. Med ständigt nya varor och tjänster att köpa och konsumera är det viktigt att underlätta för människor att vara aktiva konsumenter, handla medvetet och bidra till en mer hållbar konsumtion. Vi socialdemokrater anser att alla konsumenter måste ges goda förutsättningar att kunna fatta rätt beslut utifrån vad de önskar köpa samt eventuellt avstå från att köpa. För det krävs att konsumenternas makt stärks, att informationen till konsumenten ökar och att kunskaperna hos den enskilde konsumenten blir större. Vi välkomnar också Konsumentverkets förslag om att förbjuda telefonförsäljning. I andra hand bör ett opt-in-system ersätta dagens Nix-register. En opt-in-lösning innebär att försäljningssamtal är tillåtna endast till konsumenter som i förväg har klargjort att de är positiva till att bli uppringda. </span>
+			</p>
+			<p>
+				<span>Den nya konsumentköplagen, som togs fram av den socialdemokratiska regeringen 2022, är bland det största som har hänt på det konsumenträttsliga området på 15–20 år. Det är en lag som stärker skyddet för alla svenska konsumenter. Lagen förlänger den så kallade omvända bevisbördan, i praktiken en lagstadgad garanti, från 6 månader till två år. Den nya konsumentköplagen ställer också krav på att den som tillhandahåller digitalt innehåll är skyldig att göra uppdateringar under en viss tid efter köpet för att säkerställa att innehållet fungerar.</span>
+			</p>
+			<h2>
+				<span>Konsumentvägledning i varje kommun</span>
+			</h2>
+			<p class="Normalutanindragellerluft">
+				<span>Det ska vara lätt för människor att vara aktiva konsumenter, handla medvetet och bidra till en mer hållbar konsumtion. Alla konsumenter måste ha goda förutsättningar för att fatta rätt beslut kring vad de ska köpa och inte köpa, vilka avtal de ska ingå och vilka de ska avstå ifrån.</span>
+			</p>
+			<p>
+				<span>SMS-lånen ökar, många luras av telefonförsäljare, nätcasinon gör att spelmissbrukare förbrukar hela sin lön och mer därtill, kriminella skickar ut bluffakturor, spädbarn får utslag av leksaker som beställs från mindre nogräknade länder och vi möts av reklam som vilseleder om produkters miljövänlighet.</span>
+			</p>
+			<p>
+				<span>Det förebyggande arbetet är viktigt och konsumentvägledning behöver vara tillgänglig oavsett var i landet man bor. Många konsumentområden präglas av ett överflöd av information snarare än informationsbrist, vilket gör det svårare att vara konsument. Då blir tillgången till kompetent oberoende rådgivning extra viktig. Den lokala rådgivningen har en viktig funktion, inte minst för utsatta konsumenter (med olika typer av funktionshinder, språksvårigheter med mera), som inte kan ersättas av Konsumentverkets centrala tjänst ”Hallå konsument”.</span>
+			</p>
+			<p>
+				<span>Dessvärre har många kommuner valt att montera ner sin konsumentvägledning under de senaste åren. Nuläget är att endast hälften av landets kommuner erbjuder konsumentstöd. Av de 145 kommuner som fortfarande har konsumentvägledning, erbjuder endast 88 kommuner ett fördjupat stöd där konsumenten exempelvis kan få hjälp att tolka avtal, hjälp att lösa en tvist eller hjälp med att upprätta en anmälan till ARN. Fördjupad vägledning förekommer främst i större städer och når cirka 53 procent av befolkningen. Grundläggande vägledning, vilket ungefär motsvarar nivån i Konsumentverkets vägledningstjänst, erbjuds i 39 kommuner och når tio procent av befolkningen. De som erbjuder vägledning på allmän nivå identifierar att det handlar om en konsumentfråga och hänvisar därefter konsumenten vidare till annat stöd. 18 kommuner erbjuder vägledning på denna nivå, vilket når fyra procent av befolkningen. Sammantaget innebär detta att en tredjedel av befolkningen saknar lokalt konsumentstöd och närmare hälften av befolkningen i Sverige saknar ett fördjupat stöd på lokal nivå. </span>
+			</p>
+			<p>
+				<span>När Budget- och skuldrådgivning (BUS) gjordes obligatorisk i kommunerna visade det snabbt positiva effekter. Fler fick tillgång till hjälp för att kunna genomföra en skuldsanering. Eftersom det är obligatoriskt har alla Sveriges invånare nu tillgång till BUS, även om kvalitén är varierande. Vad BUS saknar är möjligheten att arbeta förebyggande. Verksamheten kan hjälpa människor som är i skuld, men kan inte förhindra skuldfällor. Det gör däremot den kommunala konsumentvägledningen.</span>
+			</p>
+			<p>
+				<span>Konsumentvägledarna har möjlighet att vara ute i skolor och prata med elever om SMS-lån, vikten av att läsa avtal och vad du behöver tänka på när du ska köpa din första bil eller bostad. Detta förebyggande arbete är något BUS ofta meddelar att de inte hinner med.</span>
+			</p>
+			<p>
+				<span>Det är inte en slump att kommuner som har både BUS och kommunal konsumentvägledning oftast har verksamheterna vägg i vägg. Det sker en samverkan som ger positiva effekter för alla som söker hjälp. Kompetensen är komplett och samlad på samma ställe.</span>
+			</p>
+			<p>
+				<span>Det främsta argumentet mot att göra konsumentvägledningen till en obligatorisk uppgift för kommunerna brukar vara att det skulle bli en dyr investering för staten. Vi kan här påminna om att misslyckade köp av varor och tjänster kostar oss konsumenter 50 miljarder kronor årligen. Att människor gör dåliga affärer och hamnar i skuldfällor slår även hårt mot samhället som exempelvis kan få betala ut försörjningsstöd. Det finns flera exempel på kommuner som tydliggör att samhället de facto tjänar på att satsa på konsumentvägledning. Om vi vill förebygga överskuldsättning, öka incitamenten för hållbar konsumtion och stå på utsatta konsumenters sida mot oseriösa företag finns det bara en väg att gå: Alla konsumenter måste få tillgång till en fungerande konsumentvägledning i sin närhet.</span>
+			</p>
+			<p>
+				<span>Vi socialdemokrater vill därför att konsumentvägledning, i likhet med BUS, blir en obligatorisk uppgift för kommunerna. Då förutsättningarna i dag ser olika ut i kommunerna föreslår vi att en utredning ges i uppdrag att utarbeta förslag om hur en obligatorisk konsumentvägledning ska genomföras och finansieras.</span>
+			</p>
+			<h2>
+				<span>Konsumentverkets viktiga roll</span>
+			</h2>
+			<p class="Normalutanindragellerluft">
+				<span>Att vilseleda konsumenter är alltför enkelt i dag. Tillsynen är inte tillräckligt omfattande och avskräcker inte dem som har oärliga avsikter. Olika typer av abonnemangsfällor, bedrägerier på nätet, bluffakturor, orimliga avtalsvillkor, långtgående matfusk, integritetsintrång, oseriösa aktörer, oseriös reklam för spel och snabba krediter är några exempel. Listan kan göras lång. Myndigheter måste ges bättre verktyg och resurser för tillsyn och marknadskontroll. Vi måste också få kraftfulla sanktioner som på allvar kan skydda konsumenterna.</span>
+			</p>
+			<p>
+				<span>Det är angeläget att hinna med i den snabba utveckling som möjliggörs av ny teknik, t.ex. vad gäller AI. Generativ AI är, rätt använd, en teknik som kan betyda en positiv utveckling inom många områden. Men det finns samtidigt risker att AI kan missbrukas för t.ex. manipulation, desinformation och bedrägerier. Det är därför viktigt med tillsyn och att befintlig konsumentlagstiftning kan tillämpas i dessa fall samt att ny lagstiftning tas fram där den nuvarande inte räcker till. Här har Konsumentverket, som en bland flera myndigheter, en viktig roll.</span>
+			</p>
+			<p>
+				<span>Mot denna bakgrund är det viktigt att se över om Konsumentverket har tillräckliga resurser och rätt kompetensutveckling för att klara tillsynen. Konsumentverket pekar på att under de senaste decennierna har digitalisering och globalisering haft en avgörande inverkan på konsumentmarknaderna, inte minst när det gäller affärsmetoder, konsumtionsmönster och konsumentbeteenden. Digitaliseringen har revolutionerat företagens interaktion med konsumenter genom nya sätt att sälja, kommunicera och dela information. E-handel har blivit en central del av konsumtionen med dygnet-runt-tillgång till varor och tjänster. Globaliseringen har samtidigt utökat marknaderna och möjliggjort en snabb spridning av varor och tjänster över hela världen. Stora internationella företag har fått en dominerande roll, vilket påverkar både lokala marknader och globala konsumtionsmönster. Det går inte att blunda för det stora övertag som företagen har skapat sig genom de digitala affärsmodellerna. Företagens strategiska och algoritmstyrda metoder identifierar sårbarheter och skapar köpmiljöer som är ägnade att stressa konsumenten till köp de varken planerat eller vill göra. Detta i kombination med att oseriösa företag försvårar möjligheterna att t.ex. komma i kontakt med en kundtjänst, gör att det är allt svårare att vara konsument. Vi socialdemokrater anser att Konsumentverket behöver ytterligare resurser för sitt arbete. Vi har därför förslagit ett ökat anslag i vår budgetmotion. Fler kontroller (plus 30 miljoner kronor) och nya verktyg (plus 15 miljoner kronor).</span>
+			</p>
+			<h2>
+				<span>Civilsamhället har också en viktig roll</span>
+			</h2>
+			<p class="Normalutanindragellerluft">
+				<span>Som ett betydelsefullt komplement till Konsumentverket finns en rad olika organisationer i det civila samhället som utför ett viktigt arbete. Att regeringen i budgetpropositionen 2024 plötsligt halverade anslaget till dessa organisationer och dessutom aviserade en total avveckling är svårbegripligt. Särskilt mot denna bakgrund:</span>
+			</p>
+			<p>
+				<span>I vårändringsbudgeten 2023 gick regeringen ut med extra stöd till aktörer i civilsamhället som främjar konsumenterna. En miljon extra att dela på blev ett välbehövligt tillskott till organisationer för ekonomiskt utsatta konsumenter. Regeringen skrev bl.a. att man ville ”öka stödet till aktörer i civilsamhället som på olika sätt främjar konsumenters intressen. Att stödja ideella krafter är en viktig åtgärd eftersom dessa redan har etablerade nätverk och ofta utgör naturliga mötesplatser för människor i behov av hjälp.” (Debattartikel av finansminister Svantesson och konsumentminister Erik Slottner den 24 mars 2023).</span>
+			</p>
+			<p>
+				<span>Ett halvår senare, i budgetpropositionen, var budskapet från regeringen det rakt motsatta: Dessa organisationer behövs inte alls. 2024 halverades anslaget jämfört med tidigare år – till 7 miljoner kronor. För 2025 minskade det till 1,5 miljoner kronor i en något oklar restpost och från och med 2026 kommer det att vara helt avvecklat.</span>
+			</p>
+			<p>
+				<span>Sett ur konsumenternas perspektiv har absolut ingenting hänt som motiverar avvecklingen av anslaget till konsumentorganisationerna. Inflationen har drivit upp priser på mat, boende, kläder och mycket annat. Visserligen i något dämpad takt – men likväl fortsatt uppåt. Bedrägerierna mot framför allt äldre fortsätter oförtrutet. EU är på väg att stärka konsumentskyddet i unionen, bland annat på det digitala området och för produktsäkerhet och här behövs en stark, svensk konsumentröst. Samtidigt ska vi alla ställa om till en hållbar konsumtion, något som också EU arbetar mycket med.</span>
+			</p>
+			<p>
+				<span>Konsumentorganisationerna bedriver förebyggande arbete direkt mot den breda allmänheten genom oberoende granskningar och folkbildningsinsatser. EU-kommissionen understryker också vikten av att nationella konsumentorganisationer deltar i framtagandet av ny lagstiftning. Sveriges Konsumenter är den organisation som EU-kommissionen anger som samarbetspart i Sverige. Men från och med nästa år står svenska konsumenters representation på spel, då regeringen har strypt stödet till alla konsumentorganisationer.</span>
+			</p>
+			<p>
+				<span>I Socialdemokraternas budgetmotion återställer vi anslaget till tidigare (2023) nivå, 15 miljoner kronor. Vi socialdemokrater värnar den enskilda människans rätt i ett komplext samhälle och ser det stora värdet i frivilliga sammanslutningar utanför staten som bevakar den enskildes rätt. Det är svårt, för att inte säga omöjligt, att inte se det tvära kastet i frågan om stöd till konsumentorganisationer som del av större och mycket illavarslande strategi från den SD-styrda regeringen att angripa civilsamhällesorganisationer på bred front. En strategi som gör Sverige till ett både fattigare och farligare land.</span>
+			</p>
+			<h2>
+				<span>Överskuldsättning</span>
+			</h2>
+			<p class="Normalutanindragellerluft">
+				<span>Överskuldsättningen ökar, Sverige blir fattigare. Ofta är skulderna kopplade till olika typer av lån utan säkerhet. Bakom ökningen står banker, kreditföretag och bolag som köper förfallna skulder.</span>
+			</p>
+			<p>
+				<span>Ökningen av obetalda skulder drabbar de enskilda personerna, men även deras barn och släktingar. Idag har svenska konsumenter det tuffare än på länge. Högre boendekostnader samt högre energi-, bensin- och matpriser ökar risken för betalningssvårigheter. De som har så stora skulder att de inte kan betala tillbaka inom en överskådlig tid, kan ansöka om skuldsanering hos Kronofogden. Antalet ansökningar om skuldsanering har ökat kraftigt på senare år. Jämfört med första halvåret 2022 har ansökningarna under samma tid 2025 ökat med 29 procent. Störst är ökningen i den äldsta åldersgruppen, de över 65 år. Här har ansökningarna ökat med 15 procent jämfört med samma period 2024, och med 24 procent jämfört med första halvåret 2022. Många äldre har svårt att öka sina inkomster i takt med att kostnaderna ökar. Det är också ett faktum att många äldre ingår i den grupp som kallas evighetsgäldenärer, som haft skulder hos Kronofogden i över 20 år (källa: Kronofogden). </span>
+			</p>
+			<p>
+				<span>För att minska överskuldsättningen genomförde den socialdemokratiska regeringen ett flertal reformer. Ett räntetak för högkostnadskrediter infördes och skärpningar genomfördes av marknadsförings- och informationskraven. Marknadsföringen av konsumentkrediter ska vara måttfull. Den tidigare regeringen införde också krav på att kredit inte får vara förhandsvalt vid köp online.</span>
+			</p>
+			<p>
+				<span>Nu är det hög tid att gå vidare och vi socialdemokrater har konkreta följande förslag;</span>
+			</p>
+			<h3>
+				<span>Skuldsanering bör beviljas tidigare och omfatta fler </span>
+			</h3>
+			<p class="Normalutanindragellerluft">
+				<span>Skuldsanering för personer i arbetsför ålder skulle öka arbetsutbudet. Av de få som ansöker om skuldsanering är det i dagsläget framför allt äldre med små möjligheter att förbättra sin inkomst som beviljas det. Utökade möjligheter till skuldsanering tidigare och för fler skulle ge samhällsekonomiska vinster och bidra till ett mer ansvarsfullt kreditgivningssystem.</span>
+			</p>
+			<h3>
+				<span>Förkorta skuldsaneringstiden</span>
+			</h3>
+			<p class="Normalutanindragellerluft">
+				<span>En kortare betalningsplan, från fem till tre år, skulle ligga i linje med utvecklingen i andra nordiska länder och ge människor en chans att snabbare återgå till ett självständigt ekonomiskt liv.</span>
+			</p>
+			<h3>
+				<span>Stärk incitament för arbete under saneringsperioden genom ett fast återbetalningsbelopp</span>
+			</h3>
+			<p class="Normalutanindragellerluft">
+				<span>Eftersom återbetalningsbeloppet löpande justeras efter individens inkomst, innebär det att en ökad arbetsinsats inte leder till en förbättrad ekonomisk situation. Återbetalningsbeloppet bör i stället fastställas vid skuldsaneringens början.</span>
+			</p>
+			<h3>
+				<span>En ny huvudregel om avräkning vid utmätning</span>
+			</h3>
+			<p class="Normalutanindragellerluft">
+				<span>Många skuldsatta saknar ekonomiskt utrymme att ens betala räntekostnaderna för sina skulder respektive månad. Det gör att skulderna ökar på grund av den tillkommande räntan trots att konsumenten har visst utrymme att betala av på den totala skulden. Utifrån uppgifter från kommunernas budget- och skuldrådgivare har det framkommit att detta gäller många av de skuldsatta som de möter i sitt arbete. Även Kronofogdemyndigheten bekräftar bilden. Många gäldenärer hamnar på så sätt i en närmast hopplös ekonomisk situation som de saknar förmåga att ta sig ur på egen hand.</span>
+			</p>
+			<p>
+				<span>Utredningen (SOU 2023:28) pekar på en väg att skapa bättre förutsättningar för skuldsatta att kunna minska sin skuld när viss betalningsförmåga finns vore att införa en ändrad avräkningsordning. Med det menas en ordning enligt vilken medel som kommer in genom utmätning i första hand ska avräknas mot fordrans kapitalbelopp och därefter mot ränta och andra biförpliktelser – utan möjlighet för borgenären att påverka ordningen. Det skulle skapa bättre förutsättningar för skuldsatta att kunna betala sin skuld när det finns en viss betalningsförmåga. Det skulle i sin tur kunna motivera den enskilde gäldenären att betala tillbaka sin skuld. En ändrad avräkningsordning skulle bättre kunna hjälpa skuldsatta och överskuldsatta personer att ta sig ur sin skuldsituation.</span>
+			</p>
+			<h3>
+				<span>Inför ett skuld- och kreditgivningsregister</span>
+			</h3>
+			<p class="Normalutanindragellerluft">
+				<span>Den socialdemokratiska regeringen tillsatte en utredning, ”Motverka riskfylld kreditgivning och överskuldsättning” (SOU 2023:28), som bland annat hade i uppdrag att föreslå ett system för ett skuldregister. Utredningsuppdraget redovisades i juli 2023 och innehöll många förslag till åtgärder som det är hög tid att gå vidare med. Ett konkret förslag är att inrätta ett särskilt ”Skuld- och kreditgivningsregister”, vilket vi socialdemokrater anser vara ett kraftfullt verktyg för att säkerställa att de som beviljas lån också har förmåga att betala tillbaka. Till skillnad från regeringen så anser vi socialdemokrater att ett sådant register bör införas.</span>
+			</p>
+			<h2>
+				<span>Fler åtgärder mot oseriösa kreditgivningsföretag</span>
+			</h2>
+			<p class="Normalutanindragellerluft">
+				<span>Under 2025 har Sverige genomfört viktiga reformer av regelverket för konsumentkrediter, särskilt vad gäller så kallade snabblån. Från och med den 1 mars 2025 gäller ett striktare räntetak, där kreditkostnaden inte får överstiga referensräntan med mer än 20 procentenheter. Dessutom har kostnadstaket utvidgats till att omfatta fler typer av konsumentkrediter, vilket innebär att låntagaren aldrig ska behöva betala mer än det ursprungliga lånebeloppet i samlade avgifter och ränta. Uppläggningsavgifter har begränsats, kreditgivarna får endast förlänga lånet en gång, och reglerna kring marknadsföring och kreditprövning har skärpts.</span>
+			</p>
+			<p>
+				<span>Från den 1 juli 2025 gäller dessutom att företag som erbjuder konsumentkrediter måste ha tillstånd för bank- eller finansieringsrörelse. Detta är ett steg i rätt riktning och syftar till att rensa upp i en bransch där oseriösa aktörer länge kunnat verka utan tillräcklig tillsyn. Att även att kreditförmedlare omfattas av samma lagstiftning är dock en ordning som vi socialdemokrater ställt oss tveksamma till.</span>
+			</p>
+			<p>
+				<span>Trots dessa reformer finns det anledning att överväga ytterligare åtgärder för att stärka skyddet för konsumenter och minska överskuldsättning – i synnerhet bland unga och ekonomiskt utsatta grupper. I detta sammanhang bör Sverige ta intryck av det finska regelverket, som i flera avseenden går längre än det svenska, både i fråga om effektivitet och konsumentskydd.</span>
+			</p>
+			<p>
+				<span>Finland har till exempel infört kraftiga begränsningar i hur snabblån får marknadsföras, med särskilt fokus på att skydda sårbara målgrupper från att utsättas för vilseledande eller aggressiv reklam. Kreditprövningen är dessutom betydligt mer strikt och baseras ofta på samordnade kreditregister och digital verifiering. Dessa åtgärder har i Finland visat sig vara effektiva för att minska antalet överskuldsatta individer, och har bidragit till att skapa en mer ansvarsfull kreditmarknad.</span>
+			</p>
+			<p>
+				<span>Mot denna bakgrund bör regeringen tillsätta en utredning med uppdrag att analysera den finska modellen och föreslå vilka ytterligare åtgärder som bör införas i Sverige. Särskilt bör följande punkter ingå i utredningens uppdrag:</span>
+			</p>
+			<ul type="disc" style="margin:0pt; padding-left:0pt">
+				<li class="ListaPunkt" style="margin-left:10.52pt; margin-bottom:0pt; t-i:0pt; padding-left:6.48pt; font-family:serif; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''">
+					<span style="font-family:'Verdana'">Förbud eller kraftiga begränsningar av riktad och aggressiv marknadsföring av snabblån, särskilt i digitala kanaler.</span>
+				</li>
+				<li class="ListaPunkt" style="margin-top:0pt; margin-left:10.52pt; margin-bottom:0pt; t-i:0pt; padding-left:6.48pt; font-family:serif; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''">
+					<span style="font-family:'Verdana'">Skärpta krav på kreditprövning, inklusive krav på samordnade kreditregister och digital identifiering.</span>
+				</li>
+				<li class="ListaPunkt" style="margin-top:0pt; margin-left:10.52pt; t-i:0pt; padding-left:6.48pt; font-family:serif; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''">
+					<span style="font-family:'Verdana'">Förbud mot att kombinera flera kortfristiga krediter i syfte att kringgå gällande räntetak eller kostnadstak.</span>
+				</li>
+			</ul>
+			<p>
+				<span>Syftet med detta är inte att förbjuda snabblån som fenomen, utan att säkerställa att de som erbjuds sådana krediter verkligen har förmåga att återbetala dem, och att kreditgivning sker på ett sätt som är etiskt och samhällsekonomiskt hållbart. De reformer som införts i Sverige under 2025 är ett betydelsefullt steg i rätt riktning, men det finns anledning att nu gå vidare och harmonisera det svenska regelverket med de bästa internationella exemplen – där Finland framstår som ett föredöme.</span>
+			</p>
+			<p>
+				<span>Det är tämligen riskfritt för dessa företag att låna ut pengar, de har i många fall egna inkassoföretag och tjänar därmed ytterligare pengar på de låntagare som inte kan betala. I slutändan vänder företagen sig till Kronofogden för att driva in obetalda skulder. Det är inte acceptabelt, rimligen bör snabblåneföretag som brister i kreditprövning stå för en större kostnad vid verkställighet hos Kronofogden. Det skulle bidra till en mera seriös verksamhet.</span>
+			</p>
+			<h2>
+				<span>Karenstid för snabblån/sms-lån</span>
+			</h2>
+			<p class="Normalutanindragellerluft">
+				<span>För många människor kan snabblån/sms-lån bli till skuldfällor som kan vara mycket svåra att komma ur. SMS-lån är en bidragande faktor till många skulder hos Kronofogden. Marknadsföringen av dessa lån riktas särskilt mot konsumenter med låga inkomster och kreditprövningarna är många gånger bristfälliga. Enligt Finansinspektion borde ett av fem konsumtionslån aldrig ha beviljats. Ofta är marknadsföringen aggressiv och uppmuntrar till oöverlagda beslut av låntagaren. Det bör övervägas att införa en karenstid och ångerrätt för utbetalning av snabblån/sms-lån. En tid som måste passera mellan låneansökan och utbetalning av beviljat lån eller att lån inte kan beviljas och utbetalas under nattetid. Detta för att minska risken för ödesdigra impulslån.</span>
+			</p>
+			<h2>
+				<span>Bankbedrägerier</span>
+			</h2>
+			<p class="Normalutanindragellerluft">
+				<span>Antalet bankbedrägerier tredubblades mellan 2020 och 2023 och under första halvåret 2024 blev över 100 000 konsumenter lurade på 600 miljoner kronor (källa: Konsumentverket). Bankbedrägerier är brott där den utsatte konsumenten ofta själv får ta ansvaret för den ekonomiska förlusten. De som utsätts för bedrägerier behöver få stöd och rådgivning, något som är särskilt svårt vid en typ av brott som är förknippad med stor skam. Man ska på ett enklare och bättre sätt kunna få tillbaka det man har förlorat.</span>
+			</p>
+			<p>
+				<span>Det finns flera exempel på ersättningsmodeller internationellt. Europaparlamentet föreslår att bankerna ska bli återbetalningsskyldiga till kunder som lurats av bedragare, detta oavsett om bedragare uppgett sig för att vara från banken, från Skatteverket eller någon annan myndighet/organisation. I Storbritannien är bankerna skyldiga att offentligt redovisa bedrägerifall, och där får kundens bank och bedragarens mottagande bank dela på ersättningen till kunderna, vilket är ett bra incitament att lösa problemet från båda håll. </span>
+			</p>
+			<p>
+				<span>I Sverige har Bankföreningen tagit fram ett frivilligt åtgärdspaket för ersättning. Vi uppmanar regeringen att se över implementeringen av paketet och sätta upp ramar för dess utvärdering. Om förslaget visar sig otillräckligt måste regeringen även utreda och återkomma med ett lagförslag i frågan. Regeringen bör också utreda ett system för hur bankerna kan ta ett större finansiellt ansvar för de bedrägerier som möjliggörs av deras plattformar. I denna utredning bör ingå att se över hur en ökad transparens vad gäller bankernas redovisning kan uppnås.</span>
+			</p>
+			<p>
+				<span>Bedrägerier är ett växande samhällsproblem som drabbar både privatpersoner och företag. Men det finns en avgörande skillnad. Medan privatpersoner har ett relativt starkt konsumentskydd lämnas företagare i princip helt utan skydd när de blir utsatta för bedrägerier. Bedrägerierna fortsätter och breder ut sig som nu är ett växande samhällsproblem som göder den kriminella ekonomin. Sveriges småföretagare är måltavlor för många olika typer av bedrägerier. De har precis som privatpersoner, tillgång till sina pengar direkt via mobilen och har generellt mer kapital. Det bör därför övervägas åtgärder för att öka skyddet också för småföretagare.</span>
+			</p>
+			<h2>
+				<span>Mer kännbara sanktioner och avgifter</span>
+			</h2>
+			<p class="Normalutanindragellerluft">
+				<span>Den konsumenträttsliga lagstiftningen är till för att skydda konsumenter mot företag och influensers som inte följer överenskommelser, vilseleder och lurar konsumenter, använder falsk marknadsföring, ägnar sig åt ”green washing”, säljer undermåliga produkter eller på andra sätt bryter mot lagar och regler som gäller. Det är viktigt för att marknaden ska fungera på ett bra sätt, vara hållbar och rättvis både för konsumenter och näringsidkare.</span>
+			</p>
+			<p>
+				<span>Ett exempel på en oroande utveckling är de uppenbara problem som finns vid olika typer av realisationer, framför allt de som går under namnet ”Black Friday” och ”Black Week”. Trots skärpningen av Prisinformationslagen (2022), som innebär att reapriset ska jämföras med det lägsta priset som har varit aktuellt de senaste 30 dagarna som referenspris, har systematiska avvikelser konstaterats. Ett fuskande som innebär att priset för en vara höjs, ibland i smyg strax innan rean, och därmed är erbjudandet om ett reapris en chimär. I verkligheten har konsumenten lockats köpa något till samma eller t.o.m. ett högre pris. I dessa tider då konsumenterna redan är hårt ekonomiskt pressade står vi socialdemokrater på deras sida, också när det handlar om lurendrejeri vad gäller reapriser.</span>
+			</p>
+			<p>
+				<span>Det är i första hand Konsumentverket som har tillsynsansvaret för konsumentlagstiftningen som innefattar en rad olika lagar; Konsumentköplagen, Konsumenttjänstlagen, Köplagen, Paketreselagen, Lagen om distansavtal och avtal utanför affärslokaler, Marknadsföringslagen, E-handelslagen, Prisinformationslagen, Produktsäkerhetslagen och Avtalsvillkorslagen.</span>
+			</p>
+			<p>
+				<span>I Sverige kan konsumenter anmäla företag som de misstänker bryter mot lagen. Det räcker uppenbarligen inte, regeringen bör därför ta initiativ till att se över vilka ytterligare åtgärder som bör sättas in när lagstiftningen på olika vis sätts ur spel. Det är avgörande att de som bryter mot lagen får betydligt mer kännbara påföljder. Regeringen bör därför återkomma med förslag kring hur Konsumentverket kan få ökade möjligheter i form av sanktioner och avgifter i arbetet mot oseriösa företag. Det bör också prövas hur man kan använda AI-baserade verktyg för att spåra bluffreor, manipulativa gränssnitt och systematiska klagomål. Det bör även övervägas att ge Allmänna Reklamationsnämnden ökade befogenheter genom att kunna förelägga sanktioner mot företag som inte följer reglerna.</span>
+			</p>
+			<h2>
+				<span>Abonnemang och kundtjänst</span>
+			</h2>
+			<p class="Normalutanindragellerluft">
+				<span>Enligt konsumenträtten ska det vara minst lika enkelt att säga upp en tjänst, prenumeration eller annat avtal som det är att ingå det. Det vill säga lika lätt att hitta dit, nå fram på telefon, komma i kontakt via e-post och så vidare. Ett företag kan inte kräva att konsumenten ska säga upp avtalet på ett visst sätt, till exempel genom att ringa.</span>
+			</p>
+			<p>
+				<span>Men tyvärr nås vi av berättelser om att det är ofta är svårt för konsumenterna att säga upp en tjänst eller abonnemang/prenumeration. Särskilt svårt är det när man ska göra det åt någon annan, exempelvis när man ska försöka hjälpa sina gamla föräldrar som inte kan göra det själva. Det finns bolag/företag som utformar sina villkor och sin kundtjänst så att det i princip är omöjligt för dem som har ett arbete att sköta att komma fram. Konsumenter vittnar om att det inte går att mejla eller chatta för att säga upp ett abonnemang, endast telefonsamtal tillåts för uppsägning och då med väldigt lång kötid och ett kort tidsfönster för ringa in.</span>
+			</p>
+			<p>
+				<span>Samtidigt som det är väldigt lätt för bedragare att komma åt personliga uppgifter, är det mycket svårt för anhöriga att hjälpa sina föräldrar med bankärenden och abonnemang och avtal. Detta är inte rimligt. Åtgärder bör vidtas för att alla konsumenter och anhöriga ska kunna säga upp en tjänst, prenumeration eller annat avtal på samma enkla sätt som att teckna det aktuella avtalet.</span>
+			</p>
+			<h2>
+				<span>Brister i hemförsäkringar slår mot våldsutsatta kvinnor och barn</span>
+			</h2>
+			<p class="Normalutanindragellerluft">
+				<span>De stora svenska försäkringsbolagen tillämpar regeln att det är möjligt att använda rättsskyddet i hemförsäkringen för vårdnadstvister, endast om talan väcks i domstol senare än ett år efter separation/skilsmässa.</span>
+			</p>
+			<p>
+				<span>Många våldsutsatta kvinnor har få eller inga medel att själv betala hela tvistekostnaden med. Det är således svårt för en våldsutsatt kvinna att skydda sig mot förövarens fortsatta våld när han använder barnen i vårdnadstvister, för att komma åt både kvinnan och barnen. Hon kan inte heller efter en separation från en våldsam man ta hjälp av rättsskyddet för att kunna få juridisk hjälp att skydda sig själv och barnen.</span>
+			</p>
+			<p>
+				<span>Många står utan möjlighet till hjälp att betala ett ombud och det är allvarligt. Karensregeln är mycket oförmånlig för konsumenter. Väldigt många tvister uppstår i samband med att man skiljer sig. Det är få som skiljer sig, håller sams och sedan börja tvista. Denna regel verkar vara till för att försäkringsbolagen inte ska behöva betala för rättsskydd alltför ofta.</span>
+			</p>
+			<p>
+				<span>Domstolars beslut i vårdnadstvister kan försämras om den ena parten inte har råd med juridiskt biträde. Det kan leda till stor ojämlikhet i processen, och ytterst att den med svagare ekonomi ger upp och inte orkar strida för sina barns intressen. Detta drabbar i slutänden barn om beslut inte fattas i enlighet med deras bästa.</span>
+			</p>
+			<p>
+				<span>En översyn bör göras kring möjligheten att stärka konsumenternas rätt till hemförsäkringar med rättsskydd som är tillämpligt direkt efter en separation/skilsmässa/att den försäkrade har lämnat en relation.</span>
+			</p>
+			<h2>
+				<span>Markering av manipulerade bilder</span>
+			</h2>
+			<p class="Normalutanindragellerluft">
+				<span>Det är nästan omöjligt att bedöma om en bild är redigerad eller ej. I reklam och sociala medier finns det gott om manipulerade/retuscherade bilder som skapar unga människors orealistiska kroppsideal. AI-genererade bilder och filmer påverkar och i vissa fall missleder konsumenterna.</span>
+			</p>
+			<p>
+				<span>I Norge ska en ny lag motverka kroppshets i sociala medier. Lagen kräver att populära personer i sociala medier markerar om de retuscherat en bild som de använder för att marknadsföra en produkt. Även i Frankrike finns sedan 1 oktober 2017 en lag som säger att det måste framgå när kommersiella bilder har retuscherats så att en modells kroppsform har förändrats.</span>
+			</p>
+			<p>
+				<span>Kroppshetsen och trycket som unga ofta upplever är välkänt sedan tidigare. Genom sociala medier förstärks denna hets. Självklart är en lag om att markera retuscherade bilder inte hela lösningen på problemet. Det måste till många andra insatser för att stärka unga människor, men kända personer är förebilder för många och manipulerade bilder kan skapa orealistiska skönhetsideal.</span>
+			</p>
+			<div style="-aw-sdt-tag:'CC_Underskrifter'; -aw-sdt-title:'CC_Underskrifter'">
+				<p>
+					<span style="-aw-import:ignore">&#xa0;</span>
+				</p>
+				<p>
+					<span style="-aw-import:ignore">&#xa0;</span>
+				</p>
+			</div>
+			<table cellspacing="0" cellpadding="0" style="width:100%; border-collapse:collapse">
+				<tr style="page-break-inside:avoid">
+					<td style="width:1%; padding-right:5.4pt; padding-left:5.4pt; vertical-align:bottom">
+						<p class="Underskrifter" style="margin-bottom:0pt">
+							<span>Joakim Järrebring (S)</span>
+						</p>
+					</td>
+					<td style="width:1%; padding-right:5.4pt; padding-left:5.4pt; vertical-align:bottom">
+						<p class="Underskrifter" style="margin-bottom:0pt">
+							<span style="-aw-import:ignore">&#xa0;</span>
+						</p>
+					</td>
+				</tr>
+				<tr style="page-break-inside:avoid">
+					<td style="width:1%; padding-right:5.4pt; padding-left:5.4pt; vertical-align:bottom">
+						<p class="Underskrifter" style="margin-bottom:0pt">
+							<span>Leif Nysmed (S)</span>
+						</p>
+					</td>
+					<td style="width:1%; padding-right:5.4pt; padding-left:5.4pt; vertical-align:bottom">
+						<p class="Underskrifter" style="margin-bottom:0pt">
+							<span>Laila Naraghi (S)</span>
+						</p>
+					</td>
+				</tr>
+				<tr style="page-break-inside:avoid">
+					<td style="width:1%; padding-right:5.4pt; padding-left:5.4pt; vertical-align:bottom">
+						<p class="Underskrifter" style="margin-bottom:0pt">
+							<span>Denis Begic (S)</span>
+						</p>
+					</td>
+					<td style="width:1%; padding-right:5.4pt; padding-left:5.4pt; vertical-align:bottom">
+						<p class="Underskrifter" style="margin-bottom:0pt">
+							<span>Anna-Belle Strömberg (S)</span>
+						</p>
+					</td>
+				</tr>
+				<tr style="page-break-inside:avoid">
+					<td style="width:1%; padding-right:5.4pt; padding-left:5.4pt; vertical-align:bottom">
+						<p class="Underskrifter" style="margin-bottom:0pt">
+							<span>Markus Kallifatides (S)</span>
+						</p>
+					</td>
+					<td style="width:1%; padding-right:5.4pt; padding-left:5.4pt; vertical-align:bottom">
+						<p class="Underskrifter" style="margin-bottom:0pt">
+							<span style="-aw-import:ignore">&#xa0;</span>
+						</p>
+					</td>
+				</tr>
+			</table>
+			<p>
+				<span style="-aw-import:ignore">&#xa0;</span>
+			</p>
+		</div>
+	</div>

@@ -1,0 +1,1116 @@
+SEARCH TERM: artificiell intelligens
+DOCUMENT ID: hc023193
+TITLE: Utgiftsområde 1 Rikets styrelse
+TYPE: mot
+SUBTYPE: Kommittémotion
+DATE: 2024-10-04
+PARLIAMENTARY YEAR: 2024/25
+ORGANISATION: KU
+STATUS: Klar
+DOWNLOADED: 2026-01-22 10:24:38
+================================================================================
+
+<style><!-- 
+ @page Section1 { size:595.3pt 841.9pt; margin:35.45pt 85.05pt 56.7pt }
+div.Section1 { page:Section1 }
+div.pconf body { t-i:14.2pt; line-height:15pt; font-family:'Verdana'; font-size: 0.90em }
+div.pconf h1, h2, h3, h4, h5, h6, p { margin:0pt }
+div.pconf li, table { margin-top:0pt; margin-bottom:0pt }
+div.pconf h1 { margin-top:41pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:19.5pt; font-family:'Verdana'; font-size: 1.05em; font-weight:normal; color:#000000 }
+div.pconf h2 { margin-top:30pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:17pt; font-family:'Verdana'; font-size: 1.00em; font-weight:normal; color:#000000 }
+div.pconf h3 { margin-top:18pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:15pt; font-family:'Verdana'; font-size: 0.90em; font-weight:bold; color:#000000 }
+div.pconf h4 { margin-top:18pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:15pt; font-family:'Verdana'; font-size: 0.90em; font-weight:normal; font-style:italic; color:#000000 }
+div.pconf h5 { margin-top:15pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:15pt; font-family:'Verdana'; font-size: 0.90em; font-weight:bold; font-style:normal; color:#000000 }
+div.pconf h6 { margin-top:15pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:15pt; font-family:'Verdana'; font-size: 0.90em; font-weight:normal; font-style:italic; color:#000000 }
+.Heading7 { margin-top:15pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:15pt; font-family:'Verdana'; font-size: 0.90em; font-weight:normal; font-style:italic; color:#000000; -aw-style-name:heading7 }
+.Heading8 { margin-top:15pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:15pt; font-family:'Verdana'; font-size: 0.90em; font-weight:normal; font-style:italic; color:#000000; -aw-style-name:heading8 }
+.Heading9 { margin-top:0pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:15pt; font-family:'Verdana'; font-size: 0.90em; font-weight:normal; font-style:italic; color:#000000; -aw-style-name:heading9 }
+.BalloonText { margin-bottom:0pt; t-i:14.2pt; line-height:normal; font-family:'Segoe UI'; font-size: 0.90em }
+.Beteckning { margin-top:18pt; margin-bottom:0pt; t-i:14.2pt; page-break-inside:auto; page-break-after:auto; line-height:19.5pt; font-size: 1.05em }
+.BlockText, .Inramatstycke { margin-right:56.7pt; margin-left:56.7pt; margin-bottom:0pt; t-i:0pt; text-align:nojustify; line-height:15pt; border:0.75pt solid #000000; padding:10pt; font-size: 0.90em; font-style:italic; -aw-border:0.25pt single }
+.Citaticitat { margin-top:7.5pt; margin-left:34pt; margin-bottom:0pt; t-i:0pt; line-height:12pt; font-size: 0.90em }
+.Citaticitatmedindrag { margin-top:0pt; margin-left:34pt; margin-bottom:7.5pt; t-i:17pt; line-height:12pt; font-size: 0.90em }
+.Citatmedindrag { margin-top:0pt; margin-left:17pt; margin-bottom:0pt; t-i:17pt; line-height:12pt; font-size: 0.90em }
+.CommentSubject { margin-bottom:0pt; t-i:14.2pt; line-height:normal; font-size: 0.90em; font-weight:bold }
+.CommentText { margin-bottom:0pt; t-i:14.2pt; line-height:normal; font-size: 0.90em }
+.FSHLogo { margin-top:4pt; margin-bottom:0pt; t-i:0pt; line-height:normal; font-size: 0.90em }
+.FSHNormL { margin-top:4pt; margin-bottom:0pt; t-i:0pt; line-height:15pt; border-top:1.5pt solid #000000; padding-top:3pt; font-size: 0.90em }
+.FSHNormal { margin-top:4pt; margin-bottom:0pt; t-i:0pt; line-height:15pt; font-size: 0.90em }
+.FSHNormalS5 { margin-top:11.5pt; margin-bottom:26pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-size: 0.95em; font-weight:bold }
+.FSHRub1, .Rubrik1S5 { margin-top:135pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:16pt; font-size: 1.00em }
+.FSHRub2, .Rubrik1A4 { margin-top:50pt; margin-bottom:5pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:24pt; font-size: 1.05em }
+.FSHTitel, .Dokumentrubrik { margin-top:4pt; margin-bottom:4pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:20pt; border-bottom:0.75pt solid #000000; padding-bottom:3pt; font-size: 1.05em; -aw-border-bottom:0.5pt single }
+.Footer { margin-top:4pt; margin-bottom:0pt; t-i:0pt; text-align:center; line-height:normal; font-size: 0.90em }
+.FootnoteText { margin-top:0pt; margin-bottom:0pt; t-i:0pt; line-height:12pt; font-size: 0.90em }
+.Frslagsrubrik { margin-top:41pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:19.5pt; font-family:'Verdana'; font-size: 1.05em }
+.Frslagstext, .Hemstlatt, .Yrkande { margin-top:4pt; margin-left:19.85pt; margin-bottom:0pt; t-i:-19.85pt; line-height:15pt; font-size: 0.90em }
+.Header { margin-top:4pt; margin-bottom:0pt; t-i:0pt; line-height:normal; font-size: 0.90em }
+.KantRubrikS5H { margin-top:6pt; margin-right:2.85pt; margin-bottom:0pt; t-i:0pt; text-align:right; line-height:8pt; font-size: 0.90em }
+.KantRubrikS5Hrad2 { margin-top:0pt; margin-right:2.85pt; margin-bottom:0pt; t-i:0pt; text-align:right; line-height:10pt; font-size: 0.90em }
+.KantRubrikS5V { margin-top:6pt; margin-right:0pt; margin-bottom:0pt; t-i:0pt; text-align:left; line-height:8pt; font-size: 0.90em }
+.KantRubrikS5Vrad2 { margin-top:0pt; margin-right:0pt; margin-bottom:0pt; t-i:0pt; text-align:left; line-height:10pt; font-size: 0.90em }
+.KantrubrikH { margin-top:4pt; margin-right:-82.2pt; margin-bottom:0pt; t-i:0pt; text-align:right; line-height:15pt; font-size: 0.90em }
+.KantrubrikV { margin-top:4pt; margin-left:-85.05pt; margin-bottom:0pt; t-i:0pt; line-height:normal; font-size: 0.90em }
+.Klla { margin-top:0pt; margin-bottom:0pt; t-i:0pt; line-height:12pt; font-size: 0.90em }
+.Lagtext { margin-top:4pt; margin-bottom:0pt; t-i:0pt; line-height:normal; font-size: 0.90em }
+.Lagtextindrag { margin-top:4pt; margin-bottom:0pt; t-i:14.2pt; line-height:normal; font-size: 0.90em }
+.Lagtextrubrik { margin-top:4pt; margin-bottom:0pt; t-i:0pt; line-height:normal; font-size: 0.90em; font-style:italic; letter-spacing:1pt }
+.List { margin-top:7.5pt; margin-left:17pt; margin-bottom:7.5pt; t-i:-17pt; line-height:15pt; font-size: 0.90em }
+.ListBullet, .PunktlistaBomb { margin-top:4pt; margin-left:14.2pt; margin-bottom:0pt; t-i:-14.2pt; line-height:15pt; font-size: 0.90em }
+.ListNumber, .PunktlistaNummer { margin-top:4pt; margin-left:14.2pt; margin-bottom:0pt; t-i:-14.2pt; line-height:15pt; font-size: 0.90em }
+.ListParagraph { margin-left:36pt; margin-bottom:0pt; t-i:14.2pt; line-height:15pt; font-size: 0.90em }
+.ListaGemener { margin-top:7.5pt; margin-left:17pt; margin-bottom:7.5pt; t-i:-17pt; line-height:15pt; font-size: 0.90em }
+.ListaLinje { margin-top:7.5pt; margin-left:17pt; margin-bottom:7.5pt; t-i:-17pt; line-height:15pt; font-size: 0.90em }
+.ListaNummer { margin-top:7.5pt; margin-left:17pt; margin-bottom:7.5pt; t-i:-17pt; line-height:15pt; font-size: 0.90em }
+.ListaPunkt { margin-top:7.5pt; margin-left:17pt; margin-bottom:7.5pt; t-i:-17pt; line-height:15pt; font-size: 0.90em }
+.MotionTIllRiksdagen { margin-top:18pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:19.5pt; font-size: 1.05em }
+.Motionr { margin-top:14pt; margin-bottom:31.5pt; t-i:0pt; page-break-inside:avoid; line-height:15pt; font-size: 1.00em; font-weight:bold; font-style:normal }
+.Motiveringrubrik2numrerat1 { margin-top:30pt; margin-left:0pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:17pt; font-family:'Verdana'; font-size: 1.00em }
+.Motiveringrubrik3numrerat1 { margin-top:18pt; margin-left:0pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:15pt; font-family:'Verdana'; font-size: 0.90em; font-weight:bold }
+.Motiveringrubrik3numrerat11 { margin-top:18pt; margin-left:0pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:15pt; font-family:'Verdana'; font-size: 0.90em; font-weight:bold }
+.Motiveringrubrik4numrerat11 { margin-top:18pt; margin-left:0pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:15pt; font-family:'Verdana'; font-size: 0.90em; font-weight:normal; font-style:italic }
+.NormalWeb { margin-bottom:0pt; t-i:14.2pt; line-height:15pt; font-family:'Verdana'; font-size: 0.90em }
+.NormalIndent { margin-left:65.2pt; margin-bottom:0pt; t-i:14.2pt; line-height:15pt; font-size: 0.90em }
+.Normalutanindragellerluft { margin-top:4pt; margin-bottom:0pt; t-i:0pt; line-height:15pt; font-size: 0.90em }
+.Normal00 { margin-top:4pt; margin-bottom:0pt; t-i:0pt; line-height:normal; font-size: 0.90em }
+.NormalA4fot { margin-top:12pt; margin-bottom:0pt; t-i:0pt; text-align:center; line-height:normal; font-size: 0.90em }
+.NormalA4sidnr { margin-top:4pt; margin-bottom:12pt; t-i:0pt; text-align:center; line-height:normal; font-size: 0.90em }
+.NormalS5sidnrH { margin-top:4pt; margin-right:2.85pt; margin-bottom:0pt; t-i:0pt; text-align:right; line-height:normal; font-size: 0.90em }
+.NormalS5sidnrV { margin-top:4pt; margin-right:0pt; margin-bottom:0pt; t-i:0pt; text-align:left; line-height:normal; font-size: 0.90em }
+.PlainText { margin-bottom:0pt; t-i:0pt; line-height:12pt; font-family:'Verdana'; font-size: 0.90em }
+.Quote { margin-top:7.5pt; margin-left:17pt; margin-bottom:0pt; t-i:0pt; line-height:12pt; font-size: 0.90em }
+.R1 { margin-top:41pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:19.5pt; font-family:'Verdana'; font-size: 1.05em }
+.R2 { margin-top:30pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:17pt; font-family:'Verdana'; font-size: 1.00em }
+.R3 { margin-top:18pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:15pt; font-family:'Verdana'; font-size: 0.90em; font-weight:bold }
+.Rubrik1numrerat { margin-top:41pt; margin-left:0pt; margin-bottom:0pt; t-i:0pt; page-break-inside:auto; page-break-after:avoid; line-height:19.5pt; font-family:'Verdana'; font-size: 1.05em }
+.Rubrik2numrerat { margin-top:30pt; margin-left:0pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:17pt; font-family:'Verdana'; font-size: 1.00em }
+.Rubrik3numrerat { margin-top:18pt; margin-left:0pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:15pt; font-family:'Verdana'; font-size: 0.90em; font-weight:bold }
+.Rubrik4numrerat { margin-top:18pt; margin-left:0pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:15pt; font-family:'Verdana'; font-size: 0.90em; font-weight:normal; font-style:italic }
+.RubrikFrslagTIllRiksdagsbeslut { margin-top:41pt; margin-bottom:15pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:19.5pt; font-family:'Verdana'; font-size: 1.05em }
+.RubrikInnehllsf { margin-top:41pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:19.5pt; font-family:'Verdana'; font-size: 1.05em }
+.RubrikSammanf { margin-top:41pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:19.5pt; font-family:'Verdana'; font-size: 1.05em }
+.Salutation { margin-top:41pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:19.5pt; font-family:'Verdana'; font-size: 1.05em }
+.Streckkod { margin-top:12pt; margin-bottom:0pt; t-i:0pt; text-align:center; line-height:normal; font-family:IDAutomationHC39S; font-size: 1.00em }
+.Strecklista, .PunktlistaTankstreck { margin-top:4pt; margin-left:14.2pt; margin-bottom:0pt; t-i:-14.2pt; line-height:15pt; font-size: 0.90em }
+.Subtitle { margin-top:4pt; margin-bottom:0pt; t-i:0pt; line-height:15pt; font-family:'Verdana'; font-size: 0.90em; font-weight:bold }
+.TOC1 { margin-top:4pt; margin-bottom:0pt; t-i:0pt; line-height:15pt; font-size: 0.90em }
+.TOC2 { margin-top:4pt; margin-left:14.2pt; margin-bottom:0pt; t-i:0pt; line-height:15pt; font-size: 0.90em }
+.TOC3 { margin-top:4pt; margin-left:28.35pt; margin-bottom:0pt; t-i:0pt; line-height:15pt; font-size: 0.90em }
+.TOC4 { margin-top:4pt; margin-left:42.55pt; margin-bottom:0pt; t-i:0pt; line-height:15pt; font-size: 0.90em }
+.TOC5 { margin-top:4pt; margin-left:56.7pt; margin-bottom:0pt; t-i:0pt; line-height:15pt; font-size: 0.90em }
+.TOC6 { margin-top:4pt; margin-left:56.7pt; margin-bottom:0pt; t-i:0pt; line-height:15pt; font-size: 0.90em }
+.TOC7 { margin-top:15pt; margin-left:56.7pt; margin-bottom:0pt; t-i:14.2pt; page-break-inside:avoid; page-break-after:avoid; line-height:normal; font-family:'Verdana'; font-size: 0.90em; font-weight:normal; font-style:italic }
+.TOC8 { margin-top:15pt; margin-left:56.7pt; margin-bottom:0pt; t-i:14.2pt; page-break-inside:avoid; page-break-after:avoid; line-height:normal; font-family:'Verdana'; font-size: 0.90em; font-weight:normal; font-style:italic }
+.TOC9 { margin-top:15pt; margin-left:56.7pt; margin-bottom:0pt; t-i:14.2pt; page-break-inside:avoid; page-break-after:avoid; line-height:normal; font-family:'Verdana'; font-size: 0.90em; font-weight:normal; font-style:italic }
+.TOCHeading { margin-top:41pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:19.5pt; font-family:'Verdana'; font-size: 1.05em }
+.Tabellunderrubrik { margin-top:0pt; margin-bottom:0pt; t-i:0pt; page-break-after:avoid; line-height:15pt; font-size: 0.90em; font-weight:normal; font-style:italic }
+.Tabellrubrik { margin-top:7.5pt; margin-bottom:0pt; t-i:0pt; page-break-after:avoid; line-height:15pt; font-size: 0.90em; font-weight:bold }
+.Title { margin-top:41pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:19.5pt; font-family:'Verdana'; font-size: 1.05em }
+.Underskriftdatum { margin-top:24pt; margin-bottom:3pt; t-i:0pt; page-break-inside:avoid; line-height:15pt; font-size: 0.90em; font-style:normal }
+.Underskrifter { margin-top:15pt; margin-bottom:3pt; t-i:0pt; page-break-inside:avoid; line-height:15pt; font-size: 0.90em; font-style:italic }
+.Yrkandehnv, .Frslagspunkthnv { margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; font-size: 0.90em }
+span.BallongtextChar { font-family:'Segoe UI'; font-size: 0.90em }
+span.BeteckningChar { font-size:19.5pt }
+span.CommentReference { font-size:8pt }
+span.FSHRub2Char, span.Rubrik1A4Char { font-size:24pt }
+span.FotnotstextChar { font-size:10pt }
+span.Hyperlink { text-decoration:underline; color:#0563c1; -aw-style-name:hyperlink }
+span.InledningChar { font-family:'Verdana'; font-size: 1.00em; font-weight:bold }
+span.IntenseReference { font-weight:normal; font-style:normal; font-variant:normal; text-decoration:none; text-transform:none; letter-spacing:0pt; vertical-align:0pt; color:#000000; display:inline }
+span.KommentarerChar { font-size:10pt }
+span.KommentarsmneChar { font-size:10pt; font-weight:bold }
+span.MotionTIllRiksdagenChar { font-size:19.5pt }
+span.OformateradtextChar { font-family:'Verdana'; font-size: 0.90em }
+span.PlaceholderText { color:#f4b083 }
+span.Rubrik1Char { font-family:'Verdana'; font-size: 1.05em }
+span.Rubrik2Char { font-family:'Verdana'; font-size: 1.00em }
+span.Rubrik3Char { font-family:'Verdana'; font-size: 0.90em; font-weight:bold }
+span.Rubrik4Char { font-family:'Verdana'; font-size: 0.90em; font-style:italic }
+span.Rubrik5Char { font-family:'Verdana'; font-weight:bold }
+span.Rubrik6Char { font-family:'Verdana'; font-style:italic }
+span.Rubrik7Char { font-family:'Verdana'; font-size: 0.90em; font-weight:bold }
+span.Rubrik8Char { font-family:'Verdana'; font-size: 0.90em; font-weight:bold }
+span.Rubrik9Char { font-family:'Verdana'; font-size: 0.90em; font-weight:bold }
+span.RubrikChar { font-family:'Verdana'; font-size: 1.00em; font-weight:bold }
+span.SidfotChar { font-size:11.5pt }
+span.UnderrubrikChar { font-family:'Verdana'; font-size: 0.90em; font-weight:bold }
+.TableGrid {  }
+
+.pconf{width: 450px;margin-left:5px;overflow:visable;font-family:Verdana, Geneva, sans-serif;} 
+ .sidhuvud_publikation, .sidhuvud_beteckning{font-size:133%}
+.MotionarLista {font-size:122%}
+
+--></style><div class="pconf"><span class="sidhuvud_publikation">Motion till riksdagen</span><br/>
+<span class="sidhuvud_beteckning">2024/25:3193</span><br/>
+<span class="MotionarLista">av Ida Karkiainen m.fl. (S)</span><br/>
+<h1>Utgiftsområde 1 Rikets styrelse</h1>
+<hr class="sidhuvud_linje"/>
+
+
+		<div class="Section1">
+			<p class="RubrikFrslagTIllRiksdagsbeslut">
+				<a name="_Toc106800475"></a><a name="_Toc106801300"><span style="-aw-sdt-tag:'CC_Boilerplate_4'; -aw-sdt-title:'CC_Boilerplate_4'"><span>Förslag till riksdagsbeslut</span></span><span style="-aw-bookmark-end:_Toc106800475"></span></a>
+			</p>
+			<div style="-aw-sdt-tag:'53292b41-b52e-4f27-968a-4a1f244ade88'; -aw-sdt-title:'Yrkande 1'">
+				<ol type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-left:14pt; t-i:0pt; padding-left:5.85pt">
+						<span>Riksdagen anvisar anslagen för 2025 inom utgiftsområde 1 Rikets styrelse enligt förslaget i tabellen i motionen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'df990547-e053-47fe-8e9e-d97692056831'; -aw-sdt-title:'Yrkande 2'">
+				<ol start="2" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; margin-left:14pt; t-i:0pt; padding-left:5.85pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att ta fram en plan för ökat valdeltagande och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'858c64b0-d9e2-4866-8c79-f9cbf883d7c7'; -aw-sdt-title:'Yrkande 3'">
+				<ol start="3" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; margin-left:14pt; t-i:0pt; padding-left:5.85pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om en handlingsplan för att motverka hat och hot mot journalister och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'c7d26cd7-6c99-4e73-81b5-79363ab10a35'; -aw-sdt-title:'Yrkande 4'">
+				<ol start="4" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; margin-left:14pt; t-i:0pt; padding-left:5.85pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om sociala medier-plattformars ansvar för användarkännedom och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'55e562cd-f220-473c-9404-1d8eb5bcccac'; -aw-sdt-title:'Yrkande 5'">
+				<ol start="5" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; margin-left:14pt; t-i:0pt; padding-left:5.85pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att se över hur fungerande åldersgränser på sociala medier-plattformar kan införas, och detta tillkännager riksdagen för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'b9510fc7-880e-4f51-8cf6-561a26bb0aa1'; -aw-sdt-title:'Yrkande 6'">
+				<ol start="6" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; margin-left:14pt; t-i:0pt; padding-left:5.85pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om tydligare krav på algoritmer riktade till minderåriga och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'b2835543-3a34-40a2-930d-881b04444fbd'; -aw-sdt-title:'Yrkande 7'">
+				<ol start="7" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; margin-left:14pt; t-i:0pt; padding-left:5.85pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om en rimligare anslagsökning till Regeringskansliet och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'164b0324-1d81-4e46-8827-5e08a4d951d3'; -aw-sdt-title:'Yrkande 8'">
+				<ol start="8" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; margin-left:14pt; t-i:0pt; padding-left:5.85pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att länsstyrelsernas uppdrag att samordna måste kompletteras med motsvarande uppdrag för berörda myndigheter och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'3029e8ab-b4b6-4c48-ae3b-29e604600b70'; -aw-sdt-title:'Yrkande 9'">
+				<ol start="9" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; margin-left:14pt; t-i:0pt; padding-left:5.85pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om tilläggsdirektiv till partifinansieringsutredningen och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'9653d44e-742a-4966-b3a8-7dc032b22790'; -aw-sdt-title:'Yrkande 10'">
+				<ol start="10" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; t-i:0pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att ytterligare stärka regelverket kring övergångar från offentliga uppdrag och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'52dd517b-1e14-438a-83b1-f25a70587e72'; -aw-sdt-title:'Yrkande 11'">
+				<ol start="11" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; t-i:0pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att begränsa möjligheten att göra mycket känsliga personuppgifter sökbara och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'c39c2dbc-cce1-4cb4-968c-12a13ca86ddb'; -aw-sdt-title:'Yrkande 12'">
+				<ol start="12" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; t-i:0pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om omlokalisering av statliga jobb och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'737c08cf-463e-49e3-a439-83cfd8144a31'; -aw-sdt-title:'Yrkande 13'">
+				<ol start="13" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; t-i:0pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om en fortsatt etablering av statliga servicekontor och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'3ec6b532-6c78-4e83-b88a-b0f01c2c85c7'; -aw-sdt-title:'Yrkande 14'">
+				<ol start="14" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; t-i:0pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om mediestödets storlek och att det också ska tillfalla nischtidningar och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'f7d01f2e-0d8e-46aa-bff8-9a72620c5742'; -aw-sdt-title:'Yrkande 15'">
+				<ol start="15" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; t-i:0pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att tillsätta en parlamentarisk utredning för framtidens mediepolitik och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'1c1e2feb-8a11-4b6f-af77-6ec5777b111b'; -aw-sdt-title:'Yrkande 16'">
+				<ol start="16" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; t-i:0pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om anslagen till minoritetspolitiken och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'e03cdcae-2f5a-4466-8acd-b28dfafbe466'; -aw-sdt-title:'Yrkande 17'">
+				<ol start="17" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; t-i:0pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att säkra och permanenta satsningen på språkcentrum och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'fef7e333-5e1a-4b85-8512-72ff067e5cf7'; -aw-sdt-title:'Yrkande 18'">
+				<ol start="18" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; t-i:0pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att permanenta satsningarna på resursbibliotek och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'d1f91dd2-92c6-4451-9f48-9c17a323f120'; -aw-sdt-title:'Yrkande 19'">
+				<ol start="19" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; t-i:0pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om hågkomstresor till Förintelsens minnesplatser och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'30568b2b-3273-420a-a0db-81ca6bd24789'; -aw-sdt-title:'Yrkande 20'">
+				<ol start="20" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; t-i:0pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att ta till sig Sannings- och försoningskommissionen för tornedalingar, kväner och lantalaisets betänkande och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'b5cf2404-902e-40b7-9bc4-1f78463e09d1'; -aw-sdt-title:'Yrkande 21'">
+				<ol start="21" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; t-i:0pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om inrättandet av ett samiskt riksarkiv och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'839ff354-8cd3-4f11-962b-6b3ebc284c57'; -aw-sdt-title:'Yrkande 22'">
+				<ol start="22" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; t-i:0pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om repatriering av samiska kvarlevor och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'abba351e-46f4-42e1-a5bf-9d6e8fd47def'; -aw-sdt-title:'Yrkande 23'">
+				<ol start="23" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; t-i:0pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om älvdalskans språkstatus och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'188968f8-a6d9-468b-8164-9fc32f3c7b2d'; -aw-sdt-title:'Yrkande 24'">
+				<ol start="24" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; t-i:0pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om säkerhetshöjande åtgärder för organisationer inom civilsamhället och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'241c7a3b-e93f-4483-b4d4-da2ebb639428'; -aw-sdt-title:'Yrkande 25'">
+				<ol start="25" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; t-i:0pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att ett förbud mot rasistiska organisationer bör vara en del av grundlagsutredningen och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'CC_Motivering_Rubrik'; -aw-sdt-title:'CC_Motivering_Rubrik'">
+				<h1>
+					<a name="MotionsStart"></a><a name="_Toc106801301"></a><a name="_Toc106800476"><span>Motivering</span></a>
+				</h1>
+			</div>
+			<span style="-aw-bookmark-end:_Toc106801301">
+			</span>
+			<p class="Tabellrubrik">
+				<span style="-aw-bookmark-end:_Toc106800476"></span><span>Anslagsförslag för 2025 för utgiftsområde 1 Rikets styrelse</span>
+			</p>
+			<p style="margin-top:6.25pt; t-i:0pt; line-height:normal; font-size: 0.90em; background-color:#ffffff">
+				<span style="font-style:italic">Tusental kronor</span>
+			</p>
+			<table cellspacing="0" cellpadding="0" style="width:425.25pt; border-collapse:collapse">
+				<thead>
+					<tr style="height:8.5pt">
+						<td colspan="2" style="width:251.35pt; border-top-style:solid; border-top-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding:2.85pt 1.4pt 1.4pt; vertical-align:top; background-color:#ffffff">
+							<p style="t-i:0pt; line-height:12pt">
+								<span style="font-size:10pt; font-weight:bold">Anslag</span>
+							</p>
+						</td>
+						<td style="width:82.75pt; border-top-style:solid; border-top-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding:3.4pt 1.4pt 1pt; vertical-align:top; background-color:#ffffff">
+							<p style="t-i:0pt; text-align:right; line-height:12pt">
+								<span style="font-size:10pt; font-weight:bold">Regeringens förslag</span>
+							</p>
+						</td>
+						<td style="width:82.75pt; border-top-style:solid; border-top-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding:2.85pt 1.4pt 1.4pt; vertical-align:top; background-color:#ffffff">
+							<p style="t-i:0pt; text-align:right; line-height:12pt">
+								<span style="font-size:10pt; font-weight:bold">Avvikelse från regeringen</span>
+							</p>
+						</td>
+					</tr>
+				</thead>
+				<tbody>
+					<tr style="height:8.5pt">
+						<td style="width:18.5pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:top; background-color:#ffffff">
+							<p style="t-i:0pt; line-height:12pt">
+								<span style="font-size:10pt">1:1</span>
+							</p>
+						</td>
+						<td style="width:230.05pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; background-color:#ffffff">
+							<p style="t-i:0pt; line-height:12pt">
+								<span style="font-size:10pt">Kungliga hov- och slottsstaten</span>
+							</p>
+						</td>
+						<td style="width:82.75pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:bottom; background-color:#ffffff">
+							<p style="t-i:0pt; text-align:right; line-height:12pt">
+								<span style="font-size:10pt">190</span><span style="font-size:10pt">&#xa0;</span><span style="font-size:10pt">463</span>
+							</p>
+						</td>
+						<td style="width:82.75pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:bottom; background-color:#ffffff">
+							<p style="t-i:0pt; text-align:right; line-height:12pt">
+								<span style="font-size:10pt">±0</span>
+							</p>
+						</td>
+					</tr>
+					<tr style="height:8.5pt">
+						<td style="width:18.5pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:top; background-color:#ffffff">
+							<p style="t-i:0pt; line-height:12pt">
+								<span style="font-size:10pt">2:1</span>
+							</p>
+						</td>
+						<td style="width:230.05pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; background-color:#ffffff">
+							<p style="t-i:0pt; line-height:12pt">
+								<span style="font-size:10pt">Riksdagens ledamöter och partier m.m.</span>
+							</p>
+						</td>
+						<td style="width:82.75pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:bottom; background-color:#ffffff">
+							<p style="t-i:0pt; text-align:right; line-height:12pt">
+								<span style="font-size:10pt">1</span><span style="font-size:10pt">&#xa0;</span><span style="font-size:10pt">114</span><span style="font-size:10pt">&#xa0;</span><span style="font-size:10pt">343</span>
+							</p>
+						</td>
+						<td style="width:82.75pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:bottom; background-color:#ffffff">
+							<p style="t-i:0pt; text-align:right; line-height:12pt">
+								<span style="font-size:10pt">±0</span>
+							</p>
+						</td>
+					</tr>
+					<tr style="height:8.5pt">
+						<td style="width:18.5pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:top; background-color:#ffffff">
+							<p style="t-i:0pt; line-height:12pt">
+								<span style="font-size:10pt">2:2</span>
+							</p>
+						</td>
+						<td style="width:230.05pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; background-color:#ffffff">
+							<p style="t-i:0pt; line-height:12pt">
+								<span style="font-size:10pt">Riksdagens förvaltningsanslag</span>
+							</p>
+						</td>
+						<td style="width:82.75pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:bottom; background-color:#ffffff">
+							<p style="t-i:0pt; text-align:right; line-height:12pt">
+								<span style="font-size:10pt">1</span><span style="font-size:10pt">&#xa0;</span><span style="font-size:10pt">100</span><span style="font-size:10pt">&#xa0;</span><span style="font-size:10pt">317</span>
+							</p>
+						</td>
+						<td style="width:82.75pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:bottom; background-color:#ffffff">
+							<p style="t-i:0pt; text-align:right; line-height:12pt">
+								<span style="font-size:10pt">±0</span>
+							</p>
+						</td>
+					</tr>
+					<tr style="height:8.5pt">
+						<td style="width:18.5pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:top; background-color:#ffffff">
+							<p style="t-i:0pt; line-height:12pt">
+								<span style="font-size:10pt">2:3</span>
+							</p>
+						</td>
+						<td style="width:230.05pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; background-color:#ffffff">
+							<p style="t-i:0pt; line-height:12pt">
+								<span style="font-size:10pt">Riksdagens fastighetsanslag</span>
+							</p>
+						</td>
+						<td style="width:82.75pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:bottom; background-color:#ffffff">
+							<p style="t-i:0pt; text-align:right; line-height:12pt">
+								<span style="font-size:10pt">340</span><span style="font-size:10pt">&#xa0;</span><span style="font-size:10pt">000</span>
+							</p>
+						</td>
+						<td style="width:82.75pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:bottom; background-color:#ffffff">
+							<p style="t-i:0pt; text-align:right; line-height:12pt">
+								<span style="font-size:10pt">±0</span>
+							</p>
+						</td>
+					</tr>
+					<tr style="height:8.5pt">
+						<td style="width:18.5pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:top; background-color:#ffffff">
+							<p style="t-i:0pt; line-height:12pt">
+								<span style="font-size:10pt">2:4</span>
+							</p>
+						</td>
+						<td style="width:230.05pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; background-color:#ffffff">
+							<p style="t-i:0pt; line-height:12pt">
+								<span style="font-size:10pt">Riksdagens ombudsmän (JO)</span>
+							</p>
+						</td>
+						<td style="width:82.75pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:bottom; background-color:#ffffff">
+							<p style="t-i:0pt; text-align:right; line-height:12pt">
+								<span style="font-size:10pt">133</span><span style="font-size:10pt">&#xa0;</span><span style="font-size:10pt">625</span>
+							</p>
+						</td>
+						<td style="width:82.75pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:bottom; background-color:#ffffff">
+							<p style="t-i:0pt; text-align:right; line-height:12pt">
+								<span style="font-size:10pt">±0</span>
+							</p>
+						</td>
+					</tr>
+					<tr style="height:8.5pt">
+						<td style="width:18.5pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:top; background-color:#ffffff">
+							<p style="t-i:0pt; line-height:12pt">
+								<span style="font-size:10pt">2:5</span>
+							</p>
+						</td>
+						<td style="width:230.05pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; background-color:#ffffff">
+							<p style="t-i:0pt; line-height:12pt">
+								<span style="font-size:10pt">Riksrevisionen</span>
+							</p>
+						</td>
+						<td style="width:82.75pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:bottom; background-color:#ffffff">
+							<p style="t-i:0pt; text-align:right; line-height:12pt">
+								<span style="font-size:10pt">390</span><span style="font-size:10pt">&#xa0;</span><span style="font-size:10pt">897</span>
+							</p>
+						</td>
+						<td style="width:82.75pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:bottom; background-color:#ffffff">
+							<p style="t-i:0pt; text-align:right; line-height:12pt">
+								<span style="font-size:10pt">±0</span>
+							</p>
+						</td>
+					</tr>
+					<tr style="height:8.5pt">
+						<td style="width:18.5pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:top; background-color:#ffffff">
+							<p style="t-i:0pt; line-height:12pt">
+								<span style="font-size:10pt">3:1</span>
+							</p>
+						</td>
+						<td style="width:230.05pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; background-color:#ffffff">
+							<p style="t-i:0pt; line-height:12pt">
+								<span style="font-size:10pt">Sametinget</span>
+							</p>
+						</td>
+						<td style="width:82.75pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:bottom; background-color:#ffffff">
+							<p style="t-i:0pt; text-align:right; line-height:12pt">
+								<span style="font-size:10pt">70</span><span style="font-size:10pt">&#xa0;</span><span style="font-size:10pt">721</span>
+							</p>
+						</td>
+						<td style="width:82.75pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:bottom; background-color:#ffffff">
+							<p style="t-i:0pt; text-align:right; line-height:12pt">
+								<span style="font-size:10pt">±0</span>
+							</p>
+						</td>
+					</tr>
+					<tr style="height:8.5pt">
+						<td style="width:18.5pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:top; background-color:#ffffff">
+							<p style="t-i:0pt; line-height:12pt">
+								<span style="font-size:10pt">4:1</span>
+							</p>
+						</td>
+						<td style="width:230.05pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; background-color:#ffffff">
+							<p style="t-i:0pt; line-height:12pt">
+								<span style="font-size:10pt">Regeringskansliet m.m.</span>
+							</p>
+						</td>
+						<td style="width:82.75pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:bottom; background-color:#ffffff">
+							<p style="t-i:0pt; text-align:right; line-height:12pt">
+								<span style="font-size:10pt">10</span><span style="font-size:10pt">&#xa0;</span><span style="font-size:10pt">431</span><span style="font-size:10pt">&#xa0;</span><span style="font-size:10pt">470</span>
+							</p>
+						</td>
+						<td style="width:82.75pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:bottom; background-color:#ffffff">
+							<p style="t-i:0pt; text-align:right; line-height:12pt">
+								<span style="font-size:10pt">−420</span><span style="font-size:10pt">&#xa0;</span><span style="font-size:10pt">000</span>
+							</p>
+						</td>
+					</tr>
+					<tr style="height:8.5pt">
+						<td style="width:18.5pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:top; background-color:#ffffff">
+							<p style="t-i:0pt; line-height:12pt">
+								<span style="font-size:10pt">5:1</span>
+							</p>
+						</td>
+						<td style="width:230.05pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; background-color:#ffffff">
+							<p style="t-i:0pt; line-height:12pt">
+								<span style="font-size:10pt">Länsstyrelserna m.m.</span>
+							</p>
+						</td>
+						<td style="width:82.75pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:bottom; background-color:#ffffff">
+							<p style="t-i:0pt; text-align:right; line-height:12pt">
+								<span style="font-size:10pt">4</span><span style="font-size:10pt">&#xa0;</span><span style="font-size:10pt">180</span><span style="font-size:10pt">&#xa0;</span><span style="font-size:10pt">845</span>
+							</p>
+						</td>
+						<td style="width:82.75pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:bottom; background-color:#ffffff">
+							<p style="t-i:0pt; text-align:right; line-height:12pt">
+								<span style="font-size:10pt">±0</span>
+							</p>
+						</td>
+					</tr>
+					<tr style="height:8.5pt">
+						<td style="width:18.5pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:top; background-color:#ffffff">
+							<p style="t-i:0pt; line-height:12pt">
+								<span style="font-size:10pt">6:1</span>
+							</p>
+						</td>
+						<td style="width:230.05pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; background-color:#ffffff">
+							<p style="t-i:0pt; line-height:12pt">
+								<span style="font-size:10pt">Allmänna val och demokrati</span>
+							</p>
+						</td>
+						<td style="width:82.75pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:bottom; background-color:#ffffff">
+							<p style="t-i:0pt; text-align:right; line-height:12pt">
+								<span style="font-size:10pt">198</span><span style="font-size:10pt">&#xa0;</span><span style="font-size:10pt">640</span>
+							</p>
+						</td>
+						<td style="width:82.75pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:bottom; background-color:#ffffff">
+							<p style="t-i:0pt; text-align:right; line-height:12pt">
+								<span style="font-size:10pt">31</span><span style="font-size:10pt">&#xa0;</span><span style="font-size:10pt">000</span>
+							</p>
+						</td>
+					</tr>
+					<tr style="height:8.5pt">
+						<td style="width:18.5pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:top; background-color:#ffffff">
+							<p style="t-i:0pt; line-height:12pt">
+								<span style="font-size:10pt">6:2</span>
+							</p>
+						</td>
+						<td style="width:230.05pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; background-color:#ffffff">
+							<p style="t-i:0pt; line-height:12pt">
+								<span style="font-size:10pt">Justitiekanslern</span>
+							</p>
+						</td>
+						<td style="width:82.75pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:bottom; background-color:#ffffff">
+							<p style="t-i:0pt; text-align:right; line-height:12pt">
+								<span style="font-size:10pt">95</span><span style="font-size:10pt">&#xa0;</span><span style="font-size:10pt">967</span>
+							</p>
+						</td>
+						<td style="width:82.75pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:bottom; background-color:#ffffff">
+							<p style="t-i:0pt; text-align:right; line-height:12pt">
+								<span style="font-size:10pt">±0</span>
+							</p>
+						</td>
+					</tr>
+					<tr style="height:8.5pt">
+						<td style="width:18.5pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:top; background-color:#ffffff">
+							<p style="t-i:0pt; line-height:12pt">
+								<span style="font-size:10pt">6:3</span>
+							</p>
+						</td>
+						<td style="width:230.05pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; background-color:#ffffff">
+							<p style="t-i:0pt; line-height:12pt">
+								<span style="font-size:10pt">Integritetsskyddsmyndigheten</span>
+							</p>
+						</td>
+						<td style="width:82.75pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:bottom; background-color:#ffffff">
+							<p style="t-i:0pt; text-align:right; line-height:12pt">
+								<span style="font-size:10pt">219</span><span style="font-size:10pt">&#xa0;</span><span style="font-size:10pt">119</span>
+							</p>
+						</td>
+						<td style="width:82.75pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:bottom; background-color:#ffffff">
+							<p style="t-i:0pt; text-align:right; line-height:12pt">
+								<span style="font-size:10pt">±0</span>
+							</p>
+						</td>
+					</tr>
+					<tr style="height:8.5pt">
+						<td style="width:18.5pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:top; background-color:#ffffff">
+							<p style="t-i:0pt; line-height:12pt">
+								<span style="font-size:10pt">6:4</span>
+							</p>
+						</td>
+						<td style="width:230.05pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; background-color:#ffffff">
+							<p style="t-i:0pt; line-height:12pt">
+								<span style="font-size:10pt">Valmyndigheten</span>
+							</p>
+						</td>
+						<td style="width:82.75pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:bottom; background-color:#ffffff">
+							<p style="t-i:0pt; text-align:right; line-height:12pt">
+								<span style="font-size:10pt">170</span><span style="font-size:10pt">&#xa0;</span><span style="font-size:10pt">715</span>
+							</p>
+						</td>
+						<td style="width:82.75pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:bottom; background-color:#ffffff">
+							<p style="t-i:0pt; text-align:right; line-height:12pt">
+								<span style="font-size:10pt">±0</span>
+							</p>
+						</td>
+					</tr>
+					<tr style="height:8.5pt">
+						<td style="width:18.5pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:top; background-color:#ffffff">
+							<p style="t-i:0pt; line-height:12pt">
+								<span style="font-size:10pt">6:5</span>
+							</p>
+						</td>
+						<td style="width:230.05pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; background-color:#ffffff">
+							<p style="t-i:0pt; line-height:12pt">
+								<span style="font-size:10pt">Stöd till politiska partier</span>
+							</p>
+						</td>
+						<td style="width:82.75pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:bottom; background-color:#ffffff">
+							<p style="t-i:0pt; text-align:right; line-height:12pt">
+								<span style="font-size:10pt">169</span><span style="font-size:10pt">&#xa0;</span><span style="font-size:10pt">200</span>
+							</p>
+						</td>
+						<td style="width:82.75pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:bottom; background-color:#ffffff">
+							<p style="t-i:0pt; text-align:right; line-height:12pt">
+								<span style="font-size:10pt">±0</span>
+							</p>
+						</td>
+					</tr>
+					<tr style="height:8.5pt">
+						<td style="width:18.5pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:top; background-color:#ffffff">
+							<p style="t-i:0pt; line-height:12pt">
+								<span style="font-size:10pt">6:6</span>
+							</p>
+						</td>
+						<td style="width:230.05pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; background-color:#ffffff">
+							<p style="t-i:0pt; line-height:12pt">
+								<span style="font-size:10pt">Institutet för mänskliga rättigheter</span>
+							</p>
+						</td>
+						<td style="width:82.75pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:bottom; background-color:#ffffff">
+							<p style="t-i:0pt; text-align:right; line-height:12pt">
+								<span style="font-size:10pt">53</span><span style="font-size:10pt">&#xa0;</span><span style="font-size:10pt">851</span>
+							</p>
+						</td>
+						<td style="width:82.75pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:bottom; background-color:#ffffff">
+							<p style="t-i:0pt; text-align:right; line-height:12pt">
+								<span style="font-size:10pt">18</span><span style="font-size:10pt">&#xa0;</span><span style="font-size:10pt">000</span>
+							</p>
+						</td>
+					</tr>
+					<tr style="height:8.5pt">
+						<td style="width:18.5pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:top; background-color:#ffffff">
+							<p style="t-i:0pt; line-height:12pt">
+								<span style="font-size:10pt">7:1</span>
+							</p>
+						</td>
+						<td style="width:230.05pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; background-color:#ffffff">
+							<p style="t-i:0pt; line-height:12pt">
+								<span style="font-size:10pt">Åtgärder för nationella minoriteter</span>
+							</p>
+						</td>
+						<td style="width:82.75pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:bottom; background-color:#ffffff">
+							<p style="t-i:0pt; text-align:right; line-height:12pt">
+								<span style="font-size:10pt">157</span><span style="font-size:10pt">&#xa0;</span><span style="font-size:10pt">771</span>
+							</p>
+						</td>
+						<td style="width:82.75pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:bottom; background-color:#ffffff">
+							<p style="t-i:0pt; text-align:right; line-height:12pt">
+								<span style="font-size:10pt">41</span><span style="font-size:10pt">&#xa0;</span><span style="font-size:10pt">000</span>
+							</p>
+						</td>
+					</tr>
+					<tr style="height:8.5pt">
+						<td style="width:18.5pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:top; background-color:#ffffff">
+							<p style="t-i:0pt; line-height:12pt">
+								<span style="font-size:10pt">8:1</span>
+							</p>
+						</td>
+						<td style="width:230.05pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; background-color:#ffffff">
+							<p style="t-i:0pt; line-height:12pt">
+								<span style="font-size:10pt">Mediestöd</span>
+							</p>
+						</td>
+						<td style="width:82.75pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:bottom; background-color:#ffffff">
+							<p style="t-i:0pt; text-align:right; line-height:12pt">
+								<span style="font-size:10pt">991</span><span style="font-size:10pt">&#xa0;</span><span style="font-size:10pt">119</span>
+							</p>
+						</td>
+						<td style="width:82.75pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:bottom; background-color:#ffffff">
+							<p style="t-i:0pt; text-align:right; line-height:12pt">
+								<span style="font-size:10pt">50</span><span style="font-size:10pt">&#xa0;</span><span style="font-size:10pt">000</span>
+							</p>
+						</td>
+					</tr>
+					<tr style="height:8.5pt">
+						<td style="width:18.5pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:top; background-color:#ffffff">
+							<p style="t-i:0pt; line-height:12pt">
+								<span style="font-size:10pt">8:2</span>
+							</p>
+						</td>
+						<td style="width:230.05pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; background-color:#ffffff">
+							<p style="t-i:0pt; line-height:12pt">
+								<span style="font-size:10pt">Mediemyndigheten</span>
+							</p>
+						</td>
+						<td style="width:82.75pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:bottom; background-color:#ffffff">
+							<p style="t-i:0pt; text-align:right; line-height:12pt">
+								<span style="font-size:10pt">88</span><span style="font-size:10pt">&#xa0;</span><span style="font-size:10pt">182</span>
+							</p>
+						</td>
+						<td style="width:82.75pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:bottom; background-color:#ffffff">
+							<p style="t-i:0pt; text-align:right; line-height:12pt">
+								<span style="font-size:10pt">±0</span>
+							</p>
+						</td>
+					</tr>
+					<tr style="height:8.5pt">
+						<td style="width:18.5pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:top; background-color:#ffffff">
+							<p style="t-i:0pt; line-height:12pt">
+								<span style="font-size:10pt">9:1</span>
+							</p>
+						</td>
+						<td style="width:230.05pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; background-color:#ffffff">
+							<p style="t-i:0pt; line-height:12pt">
+								<span style="font-size:10pt">Svenska institutet för europapolitiska studier samt EU</span><span style="font-size:10pt">&#x2011;</span><span style="font-size:10pt">information</span>
+							</p>
+						</td>
+						<td style="width:82.75pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:bottom; background-color:#ffffff">
+							<p style="t-i:0pt; text-align:right; line-height:12pt">
+								<span style="font-size:10pt">33</span><span style="font-size:10pt">&#xa0;</span><span style="font-size:10pt">736</span>
+							</p>
+						</td>
+						<td style="width:82.75pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:bottom; background-color:#ffffff">
+							<p style="t-i:0pt; text-align:right; line-height:12pt">
+								<span style="font-size:10pt">±0</span>
+							</p>
+						</td>
+					</tr>
+					<tr style="height:8.5pt">
+						<td colspan="2" style="width:248.5pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding:3.4pt 4.25pt 1pt 1.4pt; background-color:#ffffff; -aw-border-bottom:0.5pt single">
+							<p style="t-i:0pt; line-height:12pt">
+								<span style="font-size:10pt; font-weight:bold">Summa</span>
+							</p>
+						</td>
+						<td style="width:82.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding:3.4pt 1.4pt 1pt; vertical-align:bottom; background-color:#ffffff; -aw-border-bottom:0.5pt single">
+							<p style="t-i:0pt; text-align:right; line-height:12pt">
+								<span style="font-size:10pt; font-weight:bold">20</span><span style="font-size:10pt; font-weight:bold">&#xa0;</span><span style="font-size:10pt; font-weight:bold">130</span><span style="font-size:10pt; font-weight:bold">&#xa0;</span><span style="font-size:10pt; font-weight:bold">981</span>
+							</p>
+						</td>
+						<td style="width:82.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding:3.4pt 1.4pt 1pt; vertical-align:bottom; background-color:#ffffff; -aw-border-bottom:0.5pt single">
+							<p style="t-i:0pt; text-align:right; line-height:12pt">
+								<span style="font-size:10pt; font-weight:bold">−280</span><span style="font-size:10pt; font-weight:bold">&#xa0;</span><span style="font-size:10pt; font-weight:bold">000</span>
+							</p>
+						</td>
+					</tr>
+				</tbody>
+			</table>
+			<h2>
+				<span>Anslagsförändringar, sammanfattning</span>
+			</h2>
+			<ul type="disc" style="margin:0pt; padding-left:0pt">
+				<li class="ListaPunkt" style="margin-left:10.52pt; margin-bottom:0pt; t-i:0pt; padding-left:6.48pt; font-family:serif; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''">
+					<span style="font-family:'Verdana'">Anslag 4:1 Regeringskansliet minskas med 420 miljoner kronor då de föreslagna kostnadsökningarna inte kunnat motiveras väl av regeringen.</span>
+				</li>
+				<li class="ListaPunkt" style="margin-top:0pt; margin-left:10.52pt; margin-bottom:0pt; t-i:0pt; padding-left:6.48pt; font-family:serif; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''">
+					<span style="font-family:'Verdana'">Anslag 6:1 Allmänna val och demokrati ökas med totalt 31 miljoner kronor där 26 miljoner kronor är för ytterligare anslag till säkerhetshöjande åtgärder till organisationer inom det civila samhället och 5 miljoner kronor för ytterligare anslag till hågkomstresor till Förintelsens minnesplatser. </span>
+				</li>
+				<li class="ListaPunkt" style="margin-top:0pt; margin-left:10.52pt; margin-bottom:0pt; t-i:0pt; padding-left:6.48pt; font-family:serif; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''">
+					<span style="font-family:'Verdana'">Anslag 6:6 Institutet för mänskliga rättigheter tillförs 18 miljoner kronor för att nå den anslagsnivå som var avsedd för 2025 när institutet inrättades.</span>
+				</li>
+				<li class="ListaPunkt" style="margin-top:0pt; margin-left:10.52pt; margin-bottom:0pt; t-i:0pt; padding-left:6.48pt; font-family:serif; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''">
+					<span style="font-family:'Verdana'">Anslag 7:1 Åtgärder för nationella minoriteter får ökade anslag om 41 miljoner kronor där 31 miljoner kronor är för att upprätthålla verksamheten i de språkcentrum för minoritets- och urfolksspråk som regeringen vill säkra i och 10 miljoner kronor ges till ökade grundanslag för minoritetspolitiken.</span>
+				</li>
+				<li class="ListaPunkt" style="margin-top:0pt; margin-left:10.52pt; t-i:0pt; padding-left:6.48pt; font-family:serif; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''">
+					<span style="font-family:'Verdana'">Anslag 8:1 Mediestöd ges 50 miljoner kronor mer än regeringens förslag då vi motsätter oss den neddragning som finns i budgetpropositionen för 2025. </span>
+				</li>
+			</ul>
+			<h2>
+				<span>Ett Sverige som står upp för demokratin</span>
+			</h2>
+			<p class="Normalutanindragellerluft">
+				<span>I utgiftsområdet behandlas själva grunderna för vår demokrati och vårt statsskick. Vi socialdemokrater har sedan det socialdemokratiska partiet bildades stått upp för de demokratiska värderingarna och allas rätt att delta i vår demokrati. Utvecklingen mot mer demokrati, både i Sverige och globalt, verkade länge självklar men på senare år har vi sett hur det runt om i världen skett en tillbakagång. Allt fler människor finner sig leva utanför demokratier. Det är en mycket oroande utveckling och inte heller i Europa är vi </span><span style="letter-spacing:-0.1pt">förskonade när rättsstatsprinciper försvagas, kritiska röster tystas och mediers oberoende</span><span> inskränks. Det pågår ett krig i Europa där folkrätten utmanas av auktoritära ledares stormaktsambitioner. Också i Sverige finns oroande tendenser. Vi har i flera val sett ett sjunkande valdeltagande och enligt Varieties of Democracy (V-Dem) vid Göteborgs universitet har den svenska demokratin försvagats jämfört med 2013, om än från en mycket hög nivå. Det påminner oss om att kampen för demokrati, frihet och jämlikhet måste utkämpas varje dag och inga av de värden vi i Sverige står för går att ta för givna. Vi måste vara vaksamma mot auktoritära tendenser, politik som splittrar, korruption och de som vill använda sin politiska makt för att attackera sina motståndare. Detta är en uppgift för varje demokratiskt sinnad person och en plikt för varje politiker som säger sig stå för demokrati.</span>
+			</p>
+			<p>
+				<span>Yttrandefriheten är grundläggande för en stark demokrati och bara genom att ingen är förhindrad att uttrycka sin mening kan vi säkerställa att varje perspektiv, varje ny tanke eller idé, varje lösning på ett problem kan komma fram. Genom att inte hindra någon att kritisera, granska och ifrågasätta ges möjlighet att störta gamla sanningar och utkräva ansvar från de med makt.</span>
+			</p>
+			<p>
+				<span>Utan en vidsträckt yttrandefrihet stagnerar ett samhälle och de första stegen mot en auktoritär och förtryckande regim tas. Det finns dock gränser för den yttrandefrihet som ett demokratiskt samhälle kan tolerera. Brott mot immateriella rättigheter, statshemlig</span><span>&#xad;</span><span>heter och hot är några exempel där de flesta är överens om att begränsningar är nöd</span><span>&#xad;</span><span>vändiga. Varje inskränkning kräver synnerligen goda, väl övervägda argument och får inte sträcka sig så långt att den utgör en fara för den fria åsiktsbildningen. </span>
+			</p>
+			<p>
+				<span>Människors vilja och möjlighet att delta i samhället är central för en välfungerande demokrati. Alla ska kunna organisera sig i fackföreningar, ideella föreningar och politiska partier för att göra sin röst hörd och ställa krav. Var och en ska kunna åta sig uppdrag och axla ansvaret som förtroendevald. Ett allt mer polariserat samhällsklimat där hat och hot blivit vanligare, inte minst på de digitala plattformarna, gör att fler väljer att inte delta i samhällsdebatten eller engagera sig politiskt. Det försvagar vår demokrati och vi måste ta detta på allvar. </span>
+			</p>
+			<p>
+				<span>De senaste åren har vi sett hur AI-teknik gjorts tillgänglig och vi har fått en försmak på dess enorma potential. Det väcker också funderingar och kommer troligen i närtid ställa oss inför svåra etiska och politiska frågeställningar. Här måste politiken bejaka teknikutvecklingens möjligheter, men samtidigt hantera dess risker och se till med</span><span>&#xad;</span><span>borgarnas säkerhet och integritet.</span>
+			</p>
+			<p>
+				<span>Vi har blivit allt mer varse om att främmande makter genom påverkansoperationer vill lägga sig i och sabotera också i vårt land, men hoten kommer också inifrån. Vår demokrati och öppenhet används av de som vill oss illa och inför detta får vi inte vara naiva. Samtidigt kan vi inte i vår strävan att skydda oss tumma på rättsstatens principer eller låta de värden vi vill försvara offras. Detta dilemma ställer särskilt höga krav på politiken att inte hemfalla åt enkla och populistiska lösningar på svåra problem – istället krävs mer gemensamma ansatser för att behålla vår starka demokrati. </span>
+			</p>
+			<h2>
+				<span>Fler måste delta i demokratiska val</span>
+			</h2>
+			<p class="Normalutanindragellerluft">
+				<span>I riksdagsvalet 2022 var valdeltagandet tre procentenheter lägre än föregående riksdags</span><span>&#xad;</span><span>val. I valet till Europaparlamentet 2024 var valdeltagandet cirka två procentenheter lägre än föregående Europaparlamentsval. Detta är en oroande tendens och något att ta på allvar. När människor inte röstar kan det vara ett uttryck för politisk apati eller känsla av avståndstagande från samhället. Det är viktigt att man redan som ung kan delta i de demokratiska processerna och det är därför mycket olyckligt att många skolor inte låter de politiska ungdomsförbunden besöka skolorna och prata politik. Vi tror att det demokratiska samtalet skulle tjäna på att det i samband med val fanns möjlighet att interagera med de politiska ungdomsförbunden i skolorna i större utsträckning. </span>
+			</p>
+			<p>
+				<span>Den sittande regeringen har också tagit steg som riskerar att försvaga demokratin i landet när stödet till civilsamhällets organisationer dras in och stramas åt. Det är en allmänt oroande utveckling och vi bär alla ett stort ansvar för att bevaka demokratins ställning och funktionssätt i vårt samhälle. </span>
+			</p>
+			<p>
+				<span>För att öka valdeltagandet brukar det i samband med val göras en del insatser, men det är uppenbart att dessa inte är tillräckliga. Vi vill därför att regeringen tar fram en plan för att öka valdeltagandet i hela landet. </span>
+			</p>
+			<h2>
+				<span>Hot och hat mot journalister måste stoppas</span>
+			</h2>
+			<p class="Normalutanindragellerluft">
+				<span>Hot och hat mot journalister, opinionsbildare, politiker och kulturarbetare är ett kraftigt och snabbt växande problem. Enskilda drabbas men i förlängningen drabbas också demokratin. Fyra av tio journalister uppgav i en stor undersökning som Journalist</span><span>&#xad;</span><span>förbundet tillsammans med Göteborgs universitet genomförde 2019 att de avstått från att rapportera om ett ämne för att undvika att utsättas för hat och hot. Inget tyder på att situationen förbättrats. Liknande tendenser kan ses hos politiskt engagerade, kultur</span><span>&#xad;</span><span>arbetare och företrädare för det civila samhället. När hot och hat begränsar vad vi vågar uttrycka och diskutera försämras snabbt det demokratiska samtalet och den aggressive kan styra debatten. Utvecklingen påverkar också allmänhetens vilja att engagera sig politiskt och fullt ut nyttja sin yttrandefrihet i samhällsdebatten. Politiska krafter i Sverige – inte minst trollfabriker och propagandacentraler på den extrema högerkanten – underblåser den här utvecklingen. Vissa lagskärpningar har skett och Mediemyndig</span><span>&#xad;</span><span>heten har fått i uppdrag att följa arbetet med journalisters säkerhet i Sverige. Det är vällovligt men långt ifrån nog. Vi vill se att regeringen tar fram en konkret handlings</span><span>&#xad;</span><span>plan för att angripa detta problem.</span>
+			</p>
+			<h2>
+				<span>De digitala plattformarna måste ta ett större ansvar</span>
+			</h2>
+			<p class="Normalutanindragellerluft">
+				<span>De stora digitala plattformarna med användargenererat innehåll har blivit viktiga förmedlare av det fria ordet och en del av det demokratiska samtalet. Utan höga trösklar ges var och en möjlighet att föra fram sin åsikt och interagera på de globala digitala torg som uppkommit. Samtidigt som digitala plattformar vitaliserat och underlättat utbytet av information och åsikter tjänar de stora pengar på polariserande innehåll. Vi ser också hur de blivit arenor för utländska påverkansoperationer genom desinformation och ryktesspridning, hat och hot mot meningsmotståndare, politiker och journalister och en plats där kriminella nätverk rekryterar ungdomar. Vi måste ställa högre krav på de som tillhandahåller plattformarna. Trollfabrikerna måste stängas ner och vi kräver att platt</span><span>&#xad;</span><span>formarna ska veta vem som står bakom ett konto hos dem. Att kunna delta i debatten anonymt är fortsatt viktig, men för brottsbekämpande syften måste de som tillhanda</span><span>&#xad;</span><span>håller tjänsterna ha en bättre vetskap om vem som står bakom ett konto. Det är också viktigt för att kunna hindra att någon skapar en stor mängd konton i mening att styra algoritmer och skapa falska opinioner online. Detta bör ske genom en EU</span><span>&#x2011;</span><span>lagstiftning och Sverige bör vara drivande i denna fråga. </span>
+			</p>
+			<p>
+				<span>Vi måste också skydda våra barn och unga på internet. Plattformarna tjänar idag stora pengar på cyniska affärsmodeller som är skapade för att fånga vår uppmärksamhet och hålla användarna kvar i flödena. En fungerande åldersgräns på sociala medier måste </span><span style="letter-spacing:-0.1pt">komma på plats och vi måste kunna hindra algoritmerna från att premiera desinformation,</span><span> extremism, gängvåld och hat på sociala medier – särskilt när det riktar sig till unga.</span>
+			</p>
+			<h2>
+				<a name="_Hlk178343097"><span>Regeringskansliet kan inte svälla när andra måste spara </span></a>
+			</h2>
+			<p class="Normalutanindragellerluft">
+				<a name="_Hlk178342421"><span style="-aw-bookmark-end:_Hlk178343097"></span><span>I budgeten finns stora anslagsökningar till Regeringskansliet. Budgeten för 2025 är nästan 700 miljoner kronor högre än den för 2024. Ser man över mandatperioden är anslagsökningen som aviserats för 2026 jämfört med budgetanslaget för 2022 2,3 miljarder kronor högre – en ökning med nästan 30 procent. Även om ett ökat anslag kan vara motiverat, inte minst som en följd av krav på ökad säkerhet och allmän löne- och kostnadsuppräkning, framstår en 30-procentig ökning över en mandatperiod som för stor mot bakgrund till det ekonomiska läget som ställer stora sparkrav på välfärden när kommuner och regioners ekonomi pressas hårt. I årets budget motiveras 300 miljoner kronor i ökat anslag med ”fullfölja regeringens reformagenda”, något som får anses ligga inom Regeringskansliets grunduppgifter. Regeringen har helt enkelt inte på ett trovärdigt sätt kunnat motivera den stora ökningen av anslagen till Regeringskansliet varför vi föreslår att Regeringskansliets anslag minskar med 420 miljoner kronor i förhållande till regeringens förslag. </span></a>
+			</p>
+			<h2>
+				<span style="-aw-bookmark-end:_Hlk178342421"></span><span>Länsstyrelser för en effektiv statlig förvaltning i hela landet</span>
+			</h2>
+			<p class="Normalutanindragellerluft">
+				<span>Sveriges 21 länsstyrelser är centrala för en effektiv statsförvaltning. De har många uppdrag inom ett stort antal politikområden och ska verka för att många nationella mål får genomslag i länen, samtidigt som hänsyn tas till regionala förhållanden och förut</span><span>&#xad;</span><span>sättningar. Dessutom ska länsstyrelserna med ett helhetsperspektiv arbeta för att främja länets utveckling och samverkan mellan kommuner, regioner, statliga myndig</span><span>&#xad;</span><span>heter och andra relevanta aktörer i länet. Därtill ansvarar länsstyrelserna för en rad tillstånds</span><span>&#xad;</span><span>prövningar, inte minst inom områden som är viktiga för den gröna omställningen i hela landet. För att länsstyrelserna ska kunna upprätthålla sin verksamhet på ett tillfreds</span><span>&#xad;</span><span>ställande sätt i hela landet, men också för att påskynda för Sverige viktiga </span><span style="letter-spacing:-0.1pt">tillstånds</span><span style="letter-spacing:-0.1pt">&#xad;</span><span style="letter-spacing:-0.1pt">processer, inte minst för att säkra energiförsörjningen, behövs ett substantiellt ökat anslag.</span><span> En stor del av de anslagsökningar som regeringen nu slutligen ger länsstyrelserna är pengar avsedda för specifika, om än viktiga, ändamål. Det riskerar i förlängningen göra det mycket svårt för länsstyrelserna att bedriva en ändamålsenlig verksamhet när möjligheten att själva styra och prioritera över de ekonomiska medlen begränsas. Vi kommer fortsätta bevaka att länsstyrelserna har den finansiering de behöver för att både klara sitt uppdrag och öka takten i tillståndsprocesser. </span>
+			</p>
+			<p>
+				<span>För att länsstyrelserna ska kunna fungera som en samordnande kraft i länen måste deras uppdrag att samordna statens myndigheter i länen kompletteras med ett motsvarande uppdrag till berörda myndigheter</span>
+			</p>
+			<h2>
+				<a name="_Hlk178322611"><span>Finansiering av partier och lobbyism behöver bli mer transparent </span></a>
+			</h2>
+			<p class="Normalutanindragellerluft">
+				<span>Möjligheten att påverka politiska beslut genom dialog med politiker är en självklar del i en demokrati, men det får inte avgöras av ekonomiska förutsättningar. När företag och andra intressen lägger allt mer pengar på lobbyism är det uppenbart att deras röst stärks på bekostnad av ideella krafter eller enskilda medborgare som saknar sådana resurser. Ekonomisk styrka får inte bli det som avgör möjlighet till inflytande över politiska beslut och det är väljarnas rätt att veta vilka ekonomiska intressen som finns i bakgrunden. </span>
+			</p>
+			<p>
+				<span>Det finns idag lagar som reglerar hur bidrag till de politiska partierna ska redovisas. Det finns till för att medborgarna ska få insyn i hur partierna finansierar sin verksamhet och själva kunna bedöma om intressekonflikter riskerar att uppstå. Öppenhet och transparens kring de bidrag politiska partier får är en hygienfråga i en välfungerande demokrati. Att de partier som tar emot bidrag följer de regler som finns ska vara en självklarhet. Därför är det oacceptabelt att partier på mer eller mindre kreativa sätt har försökt kringgå den lag som finns gällande insyn i finansieringen. Ett sådant agerande är helt i strid med lagens syfte, försvårar allmänhetens insyn och riskerar att urholka förtroendet för politiker och partierna. </span>
+			</p>
+			<p>
+				<span>Regeringen har tillsatt en parlamentarisk kommitté som ska se över finansieringen av politiska partier och reglerna kring kontakter mellan politiker och lobbyister. Här anser vi att det är viktigt att inte på förhand utesluta åtgärder som lobbyregister och redovis</span><span>&#xad;</span><span>nings</span><span>&#xad;</span><span>plikt. Det finns delar av utredningsdirektiven som vi ställer oss positiva till men vi är också mycket kritiska till exempelvis att utredningen ska överväga att införa åtgärder som försvårar för fackförbund att stödja politiska partier men inte åtgärder för att stoppa att partibidrag som är avsedda för det lokala demokratiarbetet slussas uppåt i partier för att användas av partiledningar. Inte heller ska utredningen se över om det är rimligt att statligt ägda bolag genom sina avgifter till arbetsgivarorganisationer är med och finan</span><span>&#xad;</span><span>sierar högerns opinionsbildning. Vi vill att även de delarna inkluderas i utredningen genom ett tilläggsdirektiv, eller att de utreds separat. Utöver denna ensidiga utredning har också regeringen och SD låtit utreda hur lotterier som inkomstkälla för partier ska kunna stoppas. Utredningen har mötts av mycket hård kritik från flera remissinstanser och flera pekar på bristen i proportionalitet i förslaget samt att det eventuellt strider mot både svensk grundlag och internationella konventioner. Det framträder en samlad bild av en strategi som går ut på att genom lagstiftning försvåra för oppositionen att verka politiskt. </span>
+			</p>
+			<h2>
+				<span style="-aw-bookmark-end:_Hlk178322611"></span><span>Kraftfulla åtgärder mot korruption och organiserad brottslighet</span>
+			</h2>
+			<p class="Normalutanindragellerluft">
+				<span>Sverige tillhör världstoppen över länder med minst korruption när jämförelser görs, men vi är inte förskonade. Arbetet mot korruption måste ständigt fortgå och det finns oroande tendenser, inte minst kopplade till organiserad brottslighet som ger sig in i välfärdssystemen. Att individer från kriminella nätverk tillskansar sig fördelar genom att utöva påtryckningar mot offentliga tjänstemän att dela information eller skriva ut intyg eller genom att skrämma till passivitet är en reell risk och något att ta på stort allvar. Det drabbar främst de som arbetar närmast människor som exempelvis social</span><span>&#xad;</span><span>sekreterare, tillståndshandläggare, men också politiska beslutsfattare – och i förläng</span><span>&#xad;</span><span>ningen drabbar det hela samhället. </span>
+			</p>
+			<p>
+				<span>De senaste åren har kriminella nätverk infiltrerat det offentliga och fått makt och inflytande. Det är ett utbrett problem och en stor inkomstkälla för den organiserade brottsligheten. Infiltrationen av de offentliga systemen riskerar förtroendet och skapar möjligheter till en stor inkomstkälla. När välfärdssystemen utnyttjas av kriminella minskar förtroendet för systemen och det riskerar att drabba de personer för vilka systemen är avsedda, både genom misstänkliggörande och genom utarmande av resurser. Vi har i närtid också sett exempel på hur rättsvårdande myndigheter drabbats av infiltration från organiserad brottslighet. </span>
+			</p>
+			<p>
+				<span>När allt större delar av tidigare offentlig verksamhet sker i privat regi öppnas nya vägar in för den organiserade brottligheten till att tjäna pengar på samhällets bekostnad. Detta är ett i raden av marknadsmisslyckanden som en utökad privatisering lett till. </span>
+			</p>
+			<p>
+				<span>Vi behöver säkerställa att samhället vidtar tillräckliga åtgärder, både på kort och på lång sikt, för att förebygga och bekämpa otillåten påverkan, korruption och infiltration. Det handlar om att skydda grundläggande demokratiska principer om likabehandling, rättssäkerhet och effektivitet. Det handlar också om att motverka tystnadskulturer och framväxten av parallella samhällsstrukturer. För att upprätthålla ett högt förtroende för den offentliga förvaltningen och välfärdssystemen måste medborgarna ha tilltro till att verksamheten bedrivs på ett korrekt sätt och att offentliga medel inte används på felaktiga grunder. </span>
+			</p>
+			<p>
+				<a name="_Hlk177992738"><span>I början på året tillsattes en utredning som ska se över lagstiftningen om korruption och tjänstefel. Det är bra att frågan utreds men det är viktigt att fokus ligger på att stoppa de kriminella från möjligheten till otillbörlig påverkan och korruption. Vi tror därför att kraftfullare åtgärder behöver sättas in för att förhindra att maffialiknande strukturer växer fram och blir starkare. Vi vill därför införa en svensk RICO-lagstiftning för att bekämpa den organiserade brottsligheten, beslagta deras tillgångar och gripa och lagföra ledarna. Ett samlat och nytt angreppsätt som går att läsa mer om i social</span><span>&#xad;</span><span>demo</span><span>&#xad;</span><span>kraternas kommittémotion för UO4. </span></a>
+			</p>
+			<h2>
+				<span>Stärkta övergångsregler för ökat förtroende för det offentliga </span>
+			</h2>
+			<p class="Normalutanindragellerluft">
+				<span>När personer med centrala positioner och mycket inflytande i det offentliga i nära anslutning till avslutat uppdrag går till privata verksamheter inom liknande områden väcks alltid misstankar om intressekonflikter. Det handlar om att personer kan ha fått löfte om nya anställningar medan de fortfarande uppbär uppdrag där de har chans att påverka omständigheter eller förutsättningar eller dela information till fördel för den kommande uppdragsgivaren. Men det kan också handla om att en person som lämnat ett uppdrag eller arbete inom det offentliga kan ha tillägnat sig information och kontakter som kan utnyttjas på ett orättvist sätt till den nya uppdragsgivarens fördel. </span>
+			</p>
+			<p>
+				<span style="letter-spacing:-0.05pt">Det finns idag en reglering om övergångsrestriktioner för statsråd och stats</span><span style="letter-spacing:-0.05pt">&#xad;</span><span style="letter-spacing:-0.05pt">sekreterare.</span><span> När den infördes var det ett mycket viktigt steg för att stärka förtroendet för offentlig verksamhet och motverka att intressekonflikter uppstår. Även om ytterligare några uppdrag inom det offentliga också omfattas av övergångsrestriktioner är det fortfarande en begränsad grupp och det finns all anledning att se över om fler borde omfattas.</span>
+			</p>
+			<p>
+				<span>Hösten 2023 presenterades en utredning som utvärderade nuvarande lagstiftning men också föreslog en ny lagstiftning som möjliggör att fler med ledande befattningar kan komma att omfattas av restriktioner. Regeringen har ännu inte återkommit i frågan och vi förutsätter att regeringen kommer med förslag som ytterligare stärker regelverket som </span><span style="letter-spacing:-0.05pt">syftar till att säkerställa att övergångar från centrala offentliga uppdrag till icke-offentliga</span><span> uppdrag inte riskerar det offentligas integritet. </span>
+			</p>
+			<h2>
+				<span>Värna känsliga personuppgifter</span>
+			</h2>
+			<p class="Normalutanindragellerluft">
+				<span>Via internet finns lättillgängliga databaser som publicerar mycket omfattande person</span><span>&#xad;</span><span>uppgifter om människor i kommersiellt syfte – allt från adress och telefonnummer till eventuella förekomster i brottsregister eller om psykisk tvångsvård förekommit. Även om utgångspunkten i vårt samhälle är offentlighetsprincipen utgör webbplatserna allvarliga ingrepp i enskildas personliga integritet och har visat sig vara användbara verktyg för kriminella som vill kartlägga individer. Det går inte heller att förutse vilka konsekvenser dessa öppna databaser kommer få när de kombineras med användning av nya verktyg med artificiell intelligens. Innehållet på de aktuella webbplatserna skyddas av grundlag, oftast genom att de har ett så kallat utgivningsbevis för verksamheten. </span>
+			</p>
+			<p>
+				<span>För dessa webbplatser har Sverige fått kritik av EU-kommissionen, något som i förlängningen kan leda till vite. Den föregående regeringen agerade för att skapa en bättre balans mellan integritetsskyddet och yttrandefriheten genom att föreslå begräns</span><span>&#xad;</span><span>ningar i grundlagsskyddet för de mest integritetskänsliga söktjänsterna, ett förslag som stoppades av en högermajoritet i riksdagen. Den borgerliga regeringen tvingades hösten 2023 tillsätta en utredning som återigen ska se över frågan om grundlagsskyddet för söktjänster som offentliggör personuppgifter om lagöverträdelser och söktjänster som offentliggör personuppgifter om adress, telefonnummer, civilstånd och andra uppgifter som rör enskildas personliga förhållanden. Avvägningen mellan personlig integritet och </span><span style="letter-spacing:-0.1pt">yttrandefrihet bör regleras av svensk lag och vi socialdemokrater förutsätter att regeringen</span><span> skyndsamt kommer gå vidare med lagstiftning. </span>
+			</p>
+			<h2>
+				<a name="_Hlk178339537"><span>Statlig närvaro i hela landet</span></a>
+			</h2>
+			<p class="Normalutanindragellerluft">
+				<span>Utbyggnaden av den statliga närvaron och servicen behöver fortsätta i hela landet. Genom fler servicekontor, beslut om omlokalisering och nyinrättade myndigheter samt Försvarsmaktens, Polismyndighetens och Kriminalvårdens pågående expansion finns förutsättningar för tusentals nya statliga jobb runt om i landet. Riksrevisionen har tidigare i en granskning konstaterat att omlokaliseringen av statliga myndigheter haft flera av de positiva effekter som var avsikten när den tidigare socialdemokratiska regeringen påbörjade arbetet. Arbetet måste fortsätta, och de omlokaliseringar som gjorts måste försvaras så att det inte sker en tillbakagång. Här ser vi oroande tendenser som pekar mot att denna regering saknar förståelse för vikten av omlokaliseringsarbetet. Det sker också en smygcentralisering där myndigheter har huvudkontoret på en ort, men ändå placerar mycket personal på en annan ort, oftast Stockholm.</span>
+			</p>
+			<p>
+				<span>Servicekontoren är mycket uppskattade med över 2,6 miljoner besök under 2023 och en kundnöjdhet på 96</span><span>&#xa0;</span><span>%. Sverigedemokraterna och regeringens förslag i </span><span style="letter-spacing:-0.05pt">budget</span><span style="letter-spacing:-0.05pt">&#xad;</span><span style="letter-spacing:-0.05pt">proposi</span><span style="letter-spacing:-0.05pt">&#xad;</span><span style="letter-spacing:-0.05pt">tionen för 2025 om att skära ner på servicekontoren är därför en helt felaktig prioritering</span><span> som kommer slå hårt mot kommuner runt om i Sverige. Vi socialdemo</span><span>&#xad;</span><span>krater anser tvärtom att servicekontoren ska fortsätta utvecklas och att fler verksamheter ska kunna knytas dit. Det är avgörande att inte enbart ett effektivitetsperspektiv får styra utbygg</span><span>&#xad;</span><span>naden av nya servicekontor, utan en politisk bedömning som tar hänsyn till fler aspekter måste ligga till grund för besluten. Det regionala perspektivet ska finnas med i varje beslut om var statlig verksamhet ska placeras och arbetet med omlokaliseringar av statliga jobb och etableringen av nya servicekontor ska fortsätta. </span>
+			</p>
+			<h2>
+				<a name="_Hlk178343334"><span style="-aw-bookmark-end:_Hlk178339537"></span><span>Mediepolitik för mediemångfald och journalistik i hela landet </span></a>
+			</h2>
+			<p class="Normalutanindragellerluft">
+				<a name="_Hlk178343489"><span style="-aw-bookmark-end:_Hlk178343334"></span><span>Att kunna ta del av fri och oberoende journalistik är en förutsättning för att delta i det demokratiska samtalet, bilda sig en välgrundad uppfattning och kunna ta del av ansvarsutkrävning och granskning av makten. En stark, självständig och livskraftig mediesektor i hela landet är kort sagt en grundbult i vår demokrati. På många håll i landet är de ekonomiska förutsättningarna att bedriva journalistik utmanande och därför är det är bra att det nya mediestödet har kommit på plats. Samtidigt ser vi att de risker vi varnade för när stödet infördes nu ser ut att ha blivit verklighet. Betoningen på den geografiska spridningen har lett till att mediemångfalden på nationell nivå har prioriterats ner och flera medier som tidigare fått stöd nu har blivit utan. Kvartal, Hemmets vän, Flamman och Altinget är några exempel på medier som med viss nisch av innehåll bidragit till den journalistiska mångfalden med olika samhällspolitiska perspektiv, infallsvinklar och nyhetsvärdering. Vi ser därför ett behov att den utvärdering som ska ske i samband med budgetpropositionen för 2027 behöver tidigareläggas så att inte medier som kunnat överleva försvinner i onödan. </span></a>
+			</p>
+			<p>
+				<span>Alla pengar som anslagits för mediestödet ser inte ut att betalas ut. Därför vill vi också se att ändringar görs i förordningen så att i första hand de nationella nischmedier som tidigare haft stöd men nu blivit utan kan få ta del av stödet. Det är orimligt att Mediemyndigheten betalar tillbaka pengar till staten samtidigt som uppskattade och för mediemångfalden viktiga medier riskerar att försvinna. Vi motsätter oss också den neddragning av stödet som regeringen föreslår i budgetpropositionen för 2025 och föreslår därför att ytterligare 50 miljoner kronor läggs på mediestöd.</span>
+			</p>
+			<p>
+				<span>Medielandskapet förändras fortsatt mycket hastigt och de stora framstegen som gjorts inom AI kan ytterligare drastiskt förändra förutsättningarna att bedriva medier och journalistik. Därför är det nya mediestödet, även om de uppenbara bristerna skulle rättas till, inte en lösning på längre sikt. Vi vill se att en bred parlamentarisk utredning får i uppgift att ta fram en mediepolitik för framtiden. </span>
+			</p>
+			<h2>
+				<span style="-aw-bookmark-end:_Hlk178343489"></span><span>En aktiv politik för minoritets- och urfolk </span>
+			</h2>
+			<p class="Normalutanindragellerluft">
+				<span>Minoritetspolitiken har länge fått stå tillbaka och blivit utan ökad resurstilldelning. Vi ser ett behov av stärkta resurser och en början är en ökning med 10 miljoner kronor i grundanslag för 2025. </span>
+			</p>
+			<h3>
+				<a name="_Hlk178502659"><span>Språkcentrum</span></a>
+			</h3>
+			<p class="Normalutanindragellerluft">
+				<a name="_Hlk178343810"><span>De nationella minoritetsspråken och kulturerna måste bevaras, utvecklas och föras över till framtida generationer. De har länge varit en viktig del av vårt lands kulturella och språkliga mångfald. De språkcentrum som stöds av staten har visat sig vara centrala aktörer i att bevara och utveckla språken och kulturarvet hos dessa minoriteter. Genom att ge dem möjlighet att arbeta långsiktigt och stabilt kan vi säkerställa att deras värde</span><span>&#xad;</span><span>fulla arbete kan fortsätta. Nu har regeringen valt att kraftigt skära ner finansieringen, från 28 miljoner kronor för språkcentrum för finska, jiddisch, meänkieli och romani chib och 11 miljoner kronor för samiska språkcentrum, till att de ska dela på 8,5 miljoner kronor. Det innebär i praktiken att centren får läggas ner. Det skulle vara ett dråpslag mot minoritetsspråken och mycket av det arbete som gjorts skulle vara förgäves. Vi vill därför se att finansieringen fortsätter och permanentas om sammanlagt 39 miljoner kronor årligen för språkcentrum för finska, jiddisch, meänkieli och romani chib och samiska. </span></a>
+			</p>
+			<h3>
+				<span style="-aw-bookmark-end:_Hlk178502659"></span><span>Fortsatt satsning på nationella minoriteters bibliotek</span>
+			</h3>
+			<p class="Normalutanindragellerluft">
+				<span>Den nationella satsningen på nationella minoritetsbibliotek är ett initiativ som syftar till att stärka och främja tillgången till litteratur, kultur och information för Sveriges nationella minoriteter. Dessa minoriteter, som inkluderar samer, tornedalingar, sverige</span><span>&#xad;</span><span>finnar, romer och judar, har alla unika språk och kulturella traditioner som är viktiga att bevara och vidareutveckla. Genom att inrätta och stödja minoritetsbibliotek, både fysiska och digitala, kan man säkerställa att de nationella minoritetsgrupperna ges bättre möjligheter att tillgå material på sina modersmål och om sina kulturer.</span>
+			</p>
+			<p>
+				<span>En central del av satsningen är att förbättra samlingen av böcker och media på minoritetsspråken. Detta inkluderar allt från barnböcker till akademisk litteratur och populärlitteratur. Genom att tillgängliggöra dessa resurser på bibliotek runt om i landet kan fler människor få möjlighet att utforska och upprätthålla sitt språkliga och kulturella arv. Det kan handla om allt från författarbesök och bokcirklar till språkkurser och kultu</span><span>&#xad;</span><span>rella utställningar. Genom att vara dynamiska mötesplatser kan minoritets</span><span>&#xad;</span><span>biblio</span><span>&#xad;</span><span>teken bidra till att stärka sammanhållningen inom minoritetsgrupperna samt mellan dem och majoritetssamhället. De nationella minoritetsbiblioteken/resursbiblioteken servar kommuner, skolor och folkbiblioteken i hela Sverige.</span>
+			</p>
+			<p>
+				<span>Den nationella satsningen är en del av Sveriges åtaganden enligt internationella konventioner och den nationella minoritetspolitiken. Genom att stödja minoritets</span><span>&#xad;</span><span>bibliotek visar staten sitt engagemang för att skydda och främja de nationella minori</span><span>&#xad;</span><span>teternas rättigheter, inklusive rätten till språk och kultur. Satsningen på nationella minoritetsbibliotek är därför en viktig del av arbetet för att främja mångfald, stärka minoriteternas kulturella självbestämmande och säkerställa att Sveriges kulturarv är inkluderande och representativt för alla dess invånare.</span>
+			</p>
+			<p>
+				<span>Vi socialdemokrater menar att satsningar på de nationella minoritetsspråken och minoritetsbiblioteken ska stärkas och permanentas. </span>
+			</p>
+			<h3>
+				<a name="_Hlk178592712"><span>Den judiska minoriteten</span></a>
+			</h3>
+			<p class="Normalutanindragellerluft">
+				<span>Den judiska minoriteten är på ett särskilt sätt utsatt för hat och hot från extrema grupper av olika slag. Det är fullständigt oacceptabelt. Ett fortsatt arbete för att stärka säkerheten kring judiska institutioner och för att öka tryggheten för judar i Sverige är helt nöd</span><span>&#xad;</span><span>vändigt. Polisen bör få ett särskilt uppdrag att stärka säkerheten kring utsatta arrange</span><span>&#xad;</span><span>mang och institutioner. </span>
+			</p>
+			<p>
+				<span>Judiska och andra organisationer inom civilsamhället gör också mycket själva för att öka säkerheten. Vi vill se ökade resurser för detta samt att de som mottar pengarna får en större frihet att själva bestämma vilka åtgärder som ska prioriteras.</span>
+			</p>
+			<p>
+				<span>Vissa av samhället finansierade verksamheter, så som skolan, ska bidra till att motverka antisemitism. Många lärare ser idag ökad antisemitism och har svårt att tala om exempelvis Förintelsen och nutida konflikter med eleverna. Det är därför viktigt att lärare får det stöd och material de behöver för att kunna hantera dessa frågor och Skolverket bör därför få i uppdrag att se över undervisningsmaterialet och i uppgift att sprida kunskapen till lärare.</span>
+			</p>
+			<p>
+				<span>Sveriges museum om Förintelsen är en viktig institution för att fördjupa kunskaperna om de fruktansvärda gärningar som begicks. Det är viktigt att sprida och fördjupa kunskapen till nuvarande och framtida generationer. De hågkomstresor till förintelsens minnesplatser som genomförs för att öka kunskapen om antisemitism och rasism, ur ett historiskt och samtida perspektiv bland svenska ungdomar och lärare är ett viktigt inslag i kampen mot antisemitism och behovet är större än på länge. Regeringen gör flera </span><span style="letter-spacing:-0.05pt">viktiga insatser på området som vi välkomnar, men vi tror att ytterligare tillskott behövs. </span><span>Därför vill vi se att 5 miljoner kronor extra läggs på hågkomstresorna och bredda satsningen till att också omfatta lärarfortbildning. </span>
+			</p>
+			<h3>
+				<span style="-aw-bookmark-end:_Hlk178592712"></span><span>Tornedalingar, kväner och lantalaiset</span>
+			</h3>
+			<p class="Normalutanindragellerluft">
+				<span>En sannings- och försoningskommission för granskning av kränkningar och övergrepp mot tornedalingar, kväner och lantalaiset lämnade i slutet av 2023 över sitt slut</span><span>&#xad;</span><span>betänkande. Det är ett gediget arbete som tydligt visar på det tryck den svenska staten satte på tornedalingar för språklig, religiös och kulturell assimilation. Försvensknings</span><span>&#xad;</span><span>politiken har inneburit att minoritetens språk, kultur och identitet nedvärderats, skambelagts och osynliggjorts. Konsekvensen har blivit att meänkieli minskat i användning och inte förts vidare till nästa generation annat än i begränsad utsträckning. Där konstateras att staten och kyrkan har ett moraliskt ansvar att gottgöra minoriteten för den skada som blivit konsekvensen av assimileringspolitiken och att denna gottgörelse och försoning behöver ta avstamp i minoritetens behov i dag. Regeringen har gett Forum för levande historia i uppdrag att ta fram en populärversion av Sannings- och försoningskommissionens arbete – något vi välkomnar. Vi förutsätter att regeringen fortsätter att ta Sannings- och försoningskommissionens utredning till sig och i första hand erkänner de historiska kränkningar som har begåtts mot minoriteten, men också överväger andra förslag från utredningen. </span>
+			</p>
+			<h3>
+				<span>Den romska minoriteten </span>
+			</h3>
+			<p class="Normalutanindragellerluft">
+				<span>Det finns en långsiktig strategi för romsk inkludering som löper fram till 2032. Genomförandet ska präglas av romsk delaktighet och romskt inflytande med inriktning på förstärkt genomförande och kontinuerlig uppföljning av romers tillgång till de mänskliga rättigheterna på lokal, regional och nationell nivå. Det övergripande målet är att den rom som fyller 20 år 2032 ska ha likvärdiga möjligheter i livet som den som är icke-rom. Det viktiga arbetet måste fortsätta. Skolverket och Socialstyrelsen har fått i uppdrag att säkerställa att lämplig utbildning tas fram och görs tillgänglig 2022–2024 för personer med romsk språk- och kulturkompetens för arbete inom förskola, förskole</span><span>&#xad;</span><span>klass, skola, fritidshem, vuxenutbildning och socialtjänst eller hälso- och sjukvård. </span>
+			</p>
+			<h3>
+				<span>Urfolket samerna</span>
+			</h3>
+			<p class="Normalutanindragellerluft">
+				<span>Det viktiga arbete som sanningskommissionen gör för att kartlägga och granska den politik som förts gentemot samerna måste fortsätta. Under den gångna mandatperioden röstade riksdagen igenom den förra regeringens initiativ om inrättandet av en konsulta</span><span>&#xad;</span><span>tionsordning, något Sverigedemokraterna, Moderaterna och Kristdemokraterna motsatte sig. Det är ett viktigt steg i att stärka samernas möjlighet till inflytande och delaktighet i frågor som rör samiska förhållanden.</span>
+			</p>
+			<p>
+				<span>För att stärka det samiska folkets rättigheter att bevara och utveckla sitt språk, sin kultur, sina näringar och sitt samhällsliv är arbetet med en nordisk samekonvention centralt och arbetet med konventionen pågår. En annan åtgärd är att vi vill se ett samiskt riksarkiv som ska hanteras av Sametinget. En motsvarande lösning finns i bland annat Finland genom ett samarbete mellan Sametinget och det finska riksarkivet, medan Sverige saknar ett samlat samiskt arkiv. </span>
+			</p>
+			<p>
+				<span>Hos flera statliga institutioner finns kvarlevor från det samiska urfolket. Det har sedan länge funnits ett krav om att dessa ska återföras – så kallad repatriering. Det är rimligt att staten tar sitt ansvar och vi förutsätter ett fortsatt arbete med repatrieringen. </span>
+			</p>
+			<h2>
+				<span>Älvdalskans språkstatus </span>
+			</h2>
+			<p class="Normalutanindragellerluft">
+				<span>Älvdalska har en lång historia i Sverige och bär uråldriga särdrag som nästan inte längre går att återfinna i någon annan del av det nordiska språkområdet. Att älvdalskan bär spår från fornnordiska gör den till en levande del av vår språkhistoria och är en viktig del av Sveriges språkliga och kulturella mångfald. Trots det klassas älvdalskan som dialekt. Vi vill att man utreder möjligheten att ge älvdalskan språkstatus, vilket också Europarådets expertkommitté uppmanat Sverige att göra. </span>
+			</p>
+			<h2>
+				<a name="_Hlk178343145"></a><a name="_Hlk178592741"><span>Säkerhetshöjande åtgärder för organisationer inom det civila samhället</span></a>
+			</h2>
+			<p class="Normalutanindragellerluft">
+				<a name="_Hlk178343152"><span style="-aw-bookmark-end:_Hlk178343145"></span><span>Många civilsamhällesorganisationer upplever en ökad hotbild mot verksamheten, lokaler och mot företrädare. Inte minst religiösa samfund är utsatta för hot och våld där det finns uppgifter om församlingar som lägger så mycket som 25 procent av sin budget på säkerhetsåtgärder. Omvärldshändelser och pågående konflikter har också påverkat säkerheten för religiösa grupper i Sverige. Att skydda civilsamhällets organisationer är självklart i huvudsak polisens uppgift men det finns många enklare säkerhetshöjande åtgärder som kan göras för att göra verksamheten tryggare. Statskontoret har tidigare sett över hur statsbidraget för säkerhetshöjande åtgärder till organisationer inom det civila samhället fungerar och kommit med flera förslag på hur arbetet kan struktureras. Idag fördelas 74 miljoner kronor för detta ändamål, vi vill att denna summa utökas till 100 miljoner kronor för 2025, samt att de som mottar pengarna får större utrymme att själva styra över hur pengarna ska användas. </span></a>
+			</p>
+			<h2>
+				<span style="-aw-bookmark-end:_Hlk178343152"></span><span style="-aw-bookmark-end:_Hlk178592741"></span><span>Förbud mot rasistiska organisationer</span>
+			</h2>
+			<p class="Normalutanindragellerluft">
+				<span>Vi socialdemokrater står i alla sammanhang upp för människovärdet och kräver krafttag mot de hatbrott som begås på grund av rasism, främlingsfientlighet eller homofobi. Vi kommer aldrig att acceptera att otryggheten breder ut sig eller att hot och hat tar över vårt demokratiska samhälle. Diskriminering på grund av kön, ålder, funktionsned</span><span>&#xad;</span><span>sättning, hudfärg, tro eller sexuell läggning är oacceptabel i Sverige. </span>
+			</p>
+			<p>
+				<span>Det är viktigt att samhället visar sitt avståndstagande mot rasistiska och nazistiska organisationer som sådana. De utgör ett särskilt hot mot samhället och demokratin, eftersom de i sitt själva syfte strävar efter att undergräva eller avskaffa demokratin och andras fri- och rättigheter. Deras existens är ett hot mot andras frihet och utgör därför ett hot mot demokratin som vi inte kan tolerera.</span>
+			</p>
+			<p>
+				<span>En utredning har föreslagit förbud mot organisationer vars verksamhet innebär förföljelse av vissa folkgrupper inom ramen för den nuvarande grundlagen. Det finns farhågor att en sådan lagstiftning skulle bli svår att tillämpa på grund av de strikta ramar regeringsformen sätter. Eftersom regeringen tillsatt en grundlagsutredning som ser över om det bör införas utökade möjligheter att begränsa föreningsfriheten i förhållande till kriminella sammanslutningar vore det lämpligt att också utreda frågan i förhållande till rasistiska organisationer. Vi är mycket kritiska till att regeringen inte verkar vilja ta i denna fråga. Vi vill att man genom ett tilläggsdirektiv till grundlagsutredningen också ger den i uppdrag att se över möjligheten att begränsa föreningsfriheten i förhållande till rasistiska organisationer. </span>
+			</p>
+			<h2>
+				<span>Förstärkning av Institutet för mänskliga rättigheter</span>
+			</h2>
+			<p class="Normalutanindragellerluft">
+				<span>Institutet för mänskliga rättigheter har som uppgift att genom att värna efterföljandet av de mänskliga rättigheterna i Sverige med utgångspunkt i hur de kommer till uttryck i grundlag och internationella överenskommelser. Genom att följa, undersöka, rapportera och lämna förslag till regeringen arbetar institutet för att förbättra situationen i Sverige. Detta sker också genom att främja utbildning, forskning och kompetensutveckling på området. MR-institutet har också en viktig roll i kontakterna med internationella organisationer och internationellt samarbete. </span>
+			</p>
+			<p>
+				<span>Efter inrättandet 2022 fanns en plan för hur institutet skulle utvecklas och växa till en tilltänkt nivå. De successiva anslagsökningarna har inte materialiserats och nu måste institutet växa till den nivå som det var tänkt. Därför vill vi att anslaget för 2025 ska vara 72 miljoner kronor. </span>
+			</p>
+			<div style="-aw-sdt-tag:'CC_Underskrifter'; -aw-sdt-title:'CC_Underskrifter'">
+				<p>
+					<span style="-aw-bookmark-end:_Hlk177992738"></span><span style="-aw-import:ignore">&#xa0;</span>
+				</p>
+				<p>
+					<span style="-aw-import:ignore">&#xa0;</span>
+				</p>
+			</div>
+			<table cellspacing="0" cellpadding="0" style="width:100%; border-collapse:collapse">
+				<tr style="page-break-inside:avoid">
+					<td style="width:1%; padding-right:5.4pt; padding-left:5.4pt; vertical-align:bottom">
+						<p class="Underskrifter" style="margin-bottom:0pt">
+							<span>Ida Karkiainen (S)</span>
+						</p>
+					</td>
+					<td style="width:1%; padding-right:5.4pt; padding-left:5.4pt; vertical-align:bottom">
+						<p class="Underskrifter" style="margin-bottom:0pt">
+							<span style="-aw-import:ignore">&#xa0;</span>
+						</p>
+					</td>
+				</tr>
+				<tr style="page-break-inside:avoid">
+					<td style="width:1%; padding-right:5.4pt; padding-left:5.4pt; vertical-align:bottom">
+						<p class="Underskrifter" style="margin-bottom:0pt">
+							<span>Hans Ekström (S)</span>
+						</p>
+					</td>
+					<td style="width:1%; padding-right:5.4pt; padding-left:5.4pt; vertical-align:bottom">
+						<p class="Underskrifter" style="margin-bottom:0pt">
+							<span>Per-Arne Håkansson (S)</span>
+						</p>
+					</td>
+				</tr>
+				<tr style="page-break-inside:avoid">
+					<td style="width:1%; padding-right:5.4pt; padding-left:5.4pt; vertical-align:bottom">
+						<p class="Underskrifter" style="margin-bottom:0pt">
+							<span>Mirja Räihä (S)</span>
+						</p>
+					</td>
+					<td style="width:1%; padding-right:5.4pt; padding-left:5.4pt; vertical-align:bottom">
+						<p class="Underskrifter" style="margin-bottom:0pt">
+							<span>Amalia Rud Stenlöf (S)</span>
+						</p>
+					</td>
+				</tr>
+				<tr style="page-break-inside:avoid">
+					<td style="width:1%; padding-right:5.4pt; padding-left:5.4pt; vertical-align:bottom">
+						<p class="Underskrifter" style="margin-bottom:0pt">
+							<span>Peter Hedberg (S)</span>
+						</p>
+					</td>
+					<td style="width:1%; padding-right:5.4pt; padding-left:5.4pt; vertical-align:bottom">
+						<p class="Underskrifter" style="margin-bottom:0pt">
+							<span style="-aw-import:ignore">&#xa0;</span>
+						</p>
+					</td>
+				</tr>
+			</table>
+			<p>
+				<span style="-aw-import:ignore">&#xa0;</span>
+			</p>
+		</div>
+	</div>

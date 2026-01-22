@@ -1,0 +1,2278 @@
+SEARCH TERM: AI
+DOCUMENT ID: h503197
+TITLE: Fler bygglovsbefriade åtgärder
+TYPE: prop
+SUBTYPE: prop
+DATE: 2018-03-21
+PARLIAMENTARY YEAR: 2017/18
+ORGANISATION: Näringsdepartementet
+STATUS: Klar
+DOWNLOADED: 2026-01-22 10:27:18
+================================================================================
+
+<div style="margin:3px;">
+<STYLE type="text/css">
+
+body {margin-top: 0px;margin-left: 0px;}
+
+#page_1 {position:relative; overflow: hidden;z:b;margin:10px 0px 21px 10px ;padding: 0px;border: none;width: 766px;}
+
+#page_1 #dimg1z{position:absolute;top:0px;left:546px;z-index:-1;width:54px;height:97px;}
+#page_1 #dimg1 #img1  {width:54px;height:97px;}
+
+
+
+
+#page_2 {position:relative; overflow: hidden;z:b;margin:15px 0px 21px 10px ;padding: 0px;border: none;width: 676px;}
+
+
+
+
+
+#page_3 {position:relative; overflow: hidden;z:b;margin:15px 0px 21px 10px ;padding: 0px;border: none;width: 676px;}
+
+
+
+
+
+#page_4 {position:relative; overflow: hidden;z:b;margin:14px 0px 21px 10px ;padding: 0px;border: none;width: 766px;}
+#page_4 #id_1 {border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 676px;overflow: hidden;}
+#page_4 #id_2 {border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 451px;overflow: hidden;}
+#page_4 #id_2 #id_2_1 {float:left;border:none;z:b;margin:1px 0px 0px 10px ;padding: 0px;border:none;width: 270px;overflow: hidden;}
+#page_4 #id_2 #id_2_2 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 225px;overflow: hidden;}
+#page_4 #id_3 {border:none;z:b;margin:10px 0px 0px 10px ;padding: 0px;border:none;width: 721px;overflow: hidden;}
+
+
+
+
+
+#page_5 {position:relative; overflow: hidden;z:b;margin:15px 0px 21px 10px ;padding: 0px;border: none;width: 676px;}
+#page_5 #id_1 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 451px;overflow: hidden;}
+#page_5 #id_2 {float:left;border:none;z:b;margin:2px 0px 0px 10px ;padding: 0px;border:none;width: 135px;overflow: hidden;}
+
+#page_5 #dimg1z{position:absolute;top:479px;left:0px;z-index:-1;width:123px;height:1px;font-size: 1px !important;l-h:nHeight;}
+#page_5 #dimg1 #img1  {width:123px;height:1px;}
+
+
+
+
+#page_6 {position:relative; overflow: hidden;z:b;margin:13px 0px 21px 10px ;padding: 0px;border: none;width: 676px;}
+
+
+
+
+
+#page_7 {position:relative; overflow: hidden;z:b;margin:15px 0px 21px 10px ;padding: 0px;border: none;width: 586px;}
+
+
+
+
+
+#page_8 {position:relative; overflow: hidden;z:b;margin:15px 0px 20px 10px ;padding: 0px;border: none;width: 631px;}
+
+
+
+
+
+#page_9 {position:relative; overflow: hidden;z:b;margin:14px 0px 21px 10px ;padding: 0px;border: none;width: 586px;}
+
+
+
+
+
+#page_10 {position:relative; overflow: hidden;z:b;margin:15px 0px 21px 10px ;padding: 0px;border: none;width: 721px;}
+
+
+
+
+
+#page_11 {position:relative; overflow: hidden;z:b;margin:15px 0px 21px 10px ;padding: 0px;border: none;width: 676px;}
+#page_11 #id_1 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 451px;overflow: hidden;}
+#page_11 #id_2 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 135px;overflow: hidden;}
+
+
+
+
+
+#page_12 {position:relative; overflow: hidden;z:b;margin:15px 0px 21px 10px ;padding: 0px;border: none;width: 721px;}
+
+
+
+
+
+#page_13 {position:relative; overflow: hidden;z:b;margin:15px 0px 20px 10px ;padding: 0px;border: none;width: 676px;}
+#page_13 #id_1 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 451px;overflow: hidden;}
+#page_13 #id_2 {float:left;border:none;z:b;margin:2px 0px 0px 10px ;padding: 0px;border:none;width: 135px;overflow: hidden;}
+
+
+
+
+
+#page_14 {position:relative; overflow: hidden;z:b;margin:15px 0px 21px 10px ;padding: 0px;border: none;width: 721px;}
+
+
+
+
+
+#page_15 {position:relative; overflow: hidden;z:b;margin:15px 0px 21px 10px ;padding: 0px;border: none;width: 676px;}
+#page_15 #id_1 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 451px;overflow: hidden;}
+#page_15 #id_2 {float:left;border:none;z:b;margin:1px 0px 0px 10px ;padding: 0px;border:none;width: 135px;overflow: hidden;}
+
+
+
+
+
+#page_16 {position:relative; overflow: hidden;z:b;margin:15px 0px 21px 10px ;padding: 0px;border: none;width: 721px;}
+
+
+
+
+
+#page_17 {position:relative; overflow: hidden;z:b;margin:15px 0px 21px 10px ;padding: 0px;border: none;width: 676px;}
+#page_17 #id_1 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 451px;overflow: hidden;}
+#page_17 #id_2 {float:left;border:none;z:b;margin:2px 0px 0px 10px ;padding: 0px;border:none;width: 135px;overflow: hidden;}
+
+
+
+
+
+#page_18 {position:relative; overflow: hidden;z:b;margin:15px 0px 21px 10px ;padding: 0px;border: none;width: 721px;}
+
+
+
+
+
+#page_19 {position:relative; overflow: hidden;z:b;margin:15px 0px 21px 10px ;padding: 0px;border: none;width: 676px;}
+#page_19 #id_1 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 451px;overflow: hidden;}
+#page_19 #id_2 {float:left;border:none;z:b;margin:2px 0px 0px 10px ;padding: 0px;border:none;width: 135px;overflow: hidden;}
+
+
+
+
+
+#page_20 {position:relative; overflow: hidden;z:b;margin:14px 0px 21px 10px ;padding: 0px;border: none;width: 721px;}
+
+#page_20 #dimg1z{position:absolute;top:519px;left:105px;z-index:-1;width:394px;height:53px;}
+#page_20 #dimg1 #img1  {width:394px;height:53px;}
+
+
+
+
+#page_21 {position:relative; overflow: hidden;z:b;margin:15px 0px 21px 10px ;padding: 0px;border: none;width: 676px;}
+
+
+
+
+
+#page_22 {position:relative; overflow: hidden;z:b;margin:15px 0px 21px 10px ;padding: 0px;border: none;width: 721px;}
+
+
+
+
+
+#page_23 {position:relative; overflow: hidden;z:b;margin:15px 0px 21px 10px ;padding: 0px;border: none;width: 766px;}
+
+
+
+
+
+#page_24 {position:relative; overflow: hidden;z:b;margin:13px 0px 21px 10px ;padding: 0px;border: none;width: 721px;}
+
+
+
+
+
+#page_25 {position:relative; overflow: hidden;z:b;margin:15px 0px 21px 10px ;padding: 0px;border: none;width: 766px;}
+
+
+
+
+
+#page_26 {position:relative; overflow: hidden;z:b;margin:15px 0px 21px 10px ;padding: 0px;border: none;width: 721px;}
+#page_26 #id_1 {border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 586px;overflow: hidden;}
+#page_26 #id_1 #id_1_1 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 90px;overflow: hidden;}
+#page_26 #id_1 #id_1_2 {float:left;border:none;z:b;margin:1px 0px 0px 10px ;padding: 0px;border:none;width: 451px;overflow: hidden;}
+#page_26 #id_2 {border:none;z:b;margin:15px 0px 0px 10px ;padding: 0px;border:none;width: 676px;overflow: hidden;}
+
+
+
+
+
+#page_27 {position:relative; overflow: hidden;z:b;margin:15px 0px 21px 10px ;padding: 0px;border: none;width: 766px;}
+#page_27 #id_1 {border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 631px;overflow: hidden;}
+#page_27 #id_1 #id_1_1 {float:left;border:none;z:b;margin:1px 0px 0px 10px ;padding: 0px;border:none;width: 451px;overflow: hidden;}
+#page_27 #id_1 #id_1_2 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 135px;overflow: hidden;}
+#page_27 #id_2 {border:none;z:b;margin:4px 0px 0px 10px ;padding: 0px;border:none;width: 721px;overflow: hidden;}
+
+
+
+
+
+#page_28 {position:relative; overflow: hidden;z:b;margin:15px 0px 21px 10px ;padding: 0px;border: none;width: 721px;}
+#page_28 #id_1 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 135px;overflow: hidden;}
+#page_28 #id_2 {float:left;border:none;z:b;margin:1px 0px 0px 10px ;padding: 0px;border:none;width: 541px;overflow: hidden;}
+
+#page_28 #dimg1z{position:absolute;top:294px;left:126px;z-index:-1;width:70px;height:1px;font-size: 1px !important;l-h:nHeight;}
+#page_28 #dimg1 #img1  {width:70px;height:1px;}
+
+
+
+
+#page_29 {position:relative; overflow: hidden;z:b;margin:15px 0px 21px 10px ;padding: 0px;border: none;width: 766px;}
+#page_29 #id_1 {border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 631px;overflow: hidden;}
+#page_29 #id_1 #id_1_1 {float:left;border:none;z:b;margin:1px 0px 0px 10px ;padding: 0px;border:none;width: 451px;overflow: hidden;}
+#page_29 #id_1 #id_1_2 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 135px;overflow: hidden;}
+#page_29 #id_2 {border:none;z:b;margin:3px 0px 0px 10px ;padding: 0px;border:none;width: 676px;overflow: hidden;}
+
+
+
+
+
+#page_30 {position:relative; overflow: hidden;z:b;margin:15px 0px 21px 10px ;padding: 0px;border: none;width: 721px;}
+#page_30 #id_1 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 135px;overflow: hidden;}
+#page_30 #id_2 {float:left;border:none;z:b;margin:1px 0px 0px 10px ;padding: 0px;border:none;width: 541px;overflow: hidden;}
+
+
+
+
+
+#page_31 {position:relative; overflow: hidden;z:b;margin:15px 0px 21px 10px ;padding: 0px;border: none;width: 766px;}
+
+#page_31 #dimg1z{position:absolute;top:190px;left:63px;z-index:-1;width:112px;height:1px;font-size: 1px !important;l-h:nHeight;}
+#page_31 #dimg1 #img1  {width:112px;height:1px;}
+
+
+
+
+.dclr {clear:both;float:none;height:1px;margin:0px;padding:0px;overflow:hidden;}
+
+.ft0{font:  18px 'Verdana' !important;l-h: 32px;}
+.ft1{font:  14px 'Verdana' !important;l-h: 22px;}
+.ft2{font:  10px 'Verdana' !important;l-h: 1px;}
+.ft3{font:  12px 'Verdana' !important;l-h: 15px;}
+.ft4{font: italic  12px 'Verdana' !important;l-h: 15px;}
+.ft5{font:  12px 'Verdana' !important;l-h: 15px;}
+.ft6{font:  12px 'Verdana' !important;l-h: 17px;}
+.ft7{font:  14px 'Verdana' !important;l-h: 22px;position: relative; bottom: -6px;}
+.ft8{font: italic  12px 'Verdana' !important;l-h: 16px;}
+.ft9{font:  12px 'Verdana' !important;l-h: 16px;}
+.ft10{font: italic  12px 'Verdana' !important;l-h: 15px;}
+.ft11{font: bold  12px 'Verdana' !important;l-h: 15px;}
+.ft12{font:  10px 'Verdana' !important;l-h: 12px;position: relative; bottom: 5px;}
+.ft13{font:  12px 'Verdana' !important;margin-left: 3px;l-h: 15px;}
+.ft14{font:  12px 'Verdana' !important;margin-left: 4px;l-h: 17px;}
+.ft15{font: italic  12px 'Verdana' !important;l-h: 17px;}
+.ft16{font:  12px 'Verdana' !important;margin-left: 4px;l-h: 15px;}
+.ft17{font: italic  12px 'Verdana' !important;l-h: 17px;}
+.ft18{font:  12px 'Verdana' !important;l-h: 17px;}
+.ft19{font:  10px 'Verdana' !important;l-h: 8px;position: relative; bottom: 4px;}
+.ft20{font:  12px 'Verdana' !important;l-h: 14px;}
+.ft21{font:  12px 'Verdana' !important;l-h: 14px;}
+.ft22{font:  10px 'Verdana' !important;l-h: 6px;}
+.ft23{font:  10px 'Verdana' !important;l-h: 13px;}
+.ft24{font: bold  12px 'Verdana' !important;l-h: 15px;}
+.ft25{font:  12px 'Verdana' !important;l-h: 16px;}
+.ft26{font: italic  12px 'Verdana' !important;l-h: 16px;}
+.ft27{font:  12px 'Verdana' !important;l-h: 13px;}
+.ft28{font:  14px 'Verdana' !important;margin-left: 50px;l-h: 26px;}
+.ft29{font:  14px 'Verdana' !important;l-h: 26px;}
+.ft30{font: bold  12px 'Verdana' !important;l-h: 17px;}
+.ft31{font: bold  12px 'Verdana' !important;l-h: 16px;}
+.ft32{font: bold  12px 'Verdana' !important;l-h: 16px;}
+.ft33{font:  14px 'Verdana' !important;l-h: 19px;}
+.ft34{font:  14px 'Verdana' !important;margin-left: 38px;l-h: 19px;}
+.ft35{font:  14px 'Verdana' !important;l-h: 19px;}
+.ft36{font:  14px 'Verdana' !important;margin-left: 39px;l-h: 19px;}
+.ft37{font:  14px 'Verdana' !important;l-h: 22px;}
+.ft38{font: italic bold  12px 'Verdana' !important;l-h: 14px;}
+.ft39{font: italic  12px 'Verdana' !important;l-h: 14px;}
+.ft40{font: italic  12px 'Verdana' !important;margin-left: 4px;l-h: 14px;}
+.ft41{font: italic  12px 'Verdana' !important;margin-left: 4px;l-h: 15px;}
+.ft42{font: bold  12px 'Verdana' !important;l-h: 14px;}
+.ft43{font:  12px 'Verdana' !important;l-h: 14px;}
+.ft44{font:  12px 'Verdana' !important;margin-left: 4px;l-h: 15px;}
+.ft45{font:  12px 'Verdana' !important;margin-left: 4px;l-h: 14px;}
+.ft46{font:  12px 'Verdana' !important;l-h: 13px;}
+.ft47{font:  12px 'Verdana' !important;margin-left: 3px;l-h: 13px;}
+.ft48{font: italic  12px 'Verdana' !important;l-h: 13px;}
+.ft49{font:  12px 'Verdana' !important;margin-left: 3px;l-h: 14px;}
+.ft50{font:  12px 'Verdana' !important;margin-left: 4px;l-h: 13px;}
+.ft51{font:  12px 'Verdana' !important;margin-left: 3px;l-h: 15px;}
+.ft52{font: italic  12px 'Verdana' !important;margin-left: 3px;l-h: 13px;}
+.ft53{font:  14px 'Verdana' !important;l-h: 25px;}
+.ft54{font: italic  12px 'Verdana' !important;margin-left: 3px;l-h: 16px;}
+.ft55{font: italic  12px 'Verdana' !important;margin-left: 6px;l-h: 15px;}
+.ft56{font:  12px 'Verdana' !important;l-h: 18px;}
+.ft57{font:  12px 'Verdana' !important;text-decoration: underline;l-h: 15px;}
+
+.p0{text-align: left;padding-left: 0px;padding-right: 420px;margin-top: 22px;margin-bottom: 0px !important;}
+.p1{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p2{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p3{text-align: left;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p4{text-align: left;padding-left: 0px;margin-top: 18px;margin-bottom: 0px !important;}
+.p5{text-align: left;padding-left: 0px;margin-top: 15px;margin-bottom: 0px !important;}
+.p6{text-align: left;padding-left: 0px;margin-top: 32px;margin-bottom: 0px !important;}
+.p7{text-align: left;padding-left: 180px;margin-top: 18px;margin-bottom: 0px !important;}
+.p8{text-align: left;padding-left: 180px;margin-top: 2px;margin-bottom: 0px !important;}
+.p9{text-align: left;padding-left: 0px;margin-top: 51px;margin-bottom: 0px !important;}
+.p10{text-align: left;padding-left: 0px;padding-right: 147px;margin-top: 25px;margin-bottom: 0px !important;}
+.p11{text-align: left;padding-left: 0px;margin-top: 6px;margin-bottom: 0px !important;}
+.p12{text-align: right;padding-right: 42px;margin-top: 230px;margin-bottom: 0px !important;}
+.p13{text-align: left;margin-top: 0px;margin-bottom: 0px !important;}
+.p14{text-align: left;padding-left: 0px;margin-top: 19px;margin-bottom: 0px !important;}
+.p15{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p16{text-align: right;padding-right: 1px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p17{text-align: right;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p18{text-align: left;margin-top: 249px;margin-bottom: 0px !important;}
+.p19{text-align: right;padding-right: 21px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p20{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p21{text-align: left;padding-right: 168px;margin-top: 13px;margin-bottom: 0px !important;}
+.p22{text-align: left;padding-left: 460px;margin-top: 694px;margin-bottom: 0px !important;}
+.p23{text-align: left;padding-left: 0px;padding-right: 105px;margin-top: 9px;margin-bottom: 0px !important;}
+.p24{text-align: left;padding-left: 0px;margin-top: 1px;margin-bottom: 0px !important;}
+.p25{text-align: left;padding-left: 260px;margin-top: 11px;margin-bottom: 0px !important;}
+.p26{text-align: left;padding-left: 280px;margin-top: 0px;margin-bottom: 0px !important;}
+.p27{text-align: left;padding-left: 280px;padding-right: 63px;margin-top: 0px;margin-bottom: 0px !important;text-indent: 11px;}
+.p28{text-align: left;padding-left: 300px;margin-top: 2px;margin-bottom: 0px !important;}
+.p29{text-align: left;padding-left: 280px;padding-right: 63px;margin-top: 0px;margin-bottom: 0px !important;text-indent: 11px;}
+.p30{text-align: left;padding-left: 280px;padding-right: 63px;margin-top: 1px;margin-bottom: 0px !important;text-indent: 11px;}
+.p31{text-align: left;padding-left: 260px;margin-top: 9px;margin-bottom: 0px !important;}
+.p32{text-align: left;padding-left: 0px;padding-right: 63px;margin-top: 0px;margin-bottom: 0px !important;text-indent: 11px;}
+.p33{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;}
+.p34{text-align: left;padding-right: 0px;margin-top: 0px;margin-bottom: 0px !important;text-indent: 11px;}
+.p35{text-align: left;padding-right: 0px;margin-top: 9px;margin-bottom: 0px !important;text-indent: 11px;}
+.p36{text-align: left;margin-top: 2px;margin-bottom: 0px !important;}
+.p37{text-align: left;padding-right: 0px;margin-top: 1px;margin-bottom: 0px !important;text-indent: 11px;}
+.p38{text-align: left;padding-right: 5px;margin-top: 0px;margin-bottom: 0px !important;text-indent: 11px;}
+.p39{text-align: left;margin-top: 0px;margin-bottom: 0px !important;text-indent: 11px;}
+.p40{text-align: right;padding-right: 462px;margin-top: 0px;margin-bottom: 0px !important;}
+.p41{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;}
+.p42{text-align: left;padding-right: 0px;margin-top: 0px;margin-bottom: 0px !important;text-indent: 11px;}
+.p43{text-align: right;padding-right: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p44{text-align: left;padding-left: 180px;padding-right: 0px;margin-top: 0px;margin-bottom: 0px !important;text-indent: 11px;}
+.p45{text-align: left;padding-right: 0px;margin-top: 0px;margin-bottom: 0px !important;text-indent: 11px;}
+.p46{text-align: left;padding-left: 0px;margin-top: 28px;margin-bottom: 0px !important;}
+.p47{text-align: left;padding-left: 0px;margin-top: 752px;margin-bottom: 0px !important;}
+.p48{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p49{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p50{text-align: left;padding-left: 0px;margin-top: 43px;margin-bottom: 0px !important;}
+.p51{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p52{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p53{text-align: right;padding-right: 42px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p54{text-align: left;margin-top: 0px;margin-bottom: 0px !important;text-indent: 11px;}
+.p55{text-align: left;padding-right: 105px;margin-top: 1px;margin-bottom: 0px !important;}
+.p56{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p57{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;text-indent: 0.112px;}
+.p58{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p59{text-align: left;padding-left: 0px;padding-right: 63px;margin-top: 0px;margin-bottom: 0px !important;text-indent: 0.112px;}
+.p60{text-align: left;padding-left: 0px;padding-right: 63px;margin-top: 2px;margin-bottom: 0px !important;text-indent: 11px;}
+.p61{text-align: left;padding-left: 0px;padding-right: 63px;margin-top: 0px;margin-bottom: 0px !important;text-indent: 11px;}
+.p62{text-align: left;padding-left: 0px;padding-right: 63px;margin-top: 3px;margin-bottom: 0px !important;text-indent: 11px;}
+.p63{text-align: left;padding-left: 0px;padding-right: 63px;margin-top: 0px;margin-bottom: 0px !important;text-indent: 11px;}
+.p64{text-align: left;padding-left: 0px;padding-right: 63px;margin-top: 16px;margin-bottom: 0px !important;text-indent: 11px;}
+.p65{text-align: left;padding-left: 0px;padding-right: 63px;margin-top: 22px;margin-bottom: 0px !important;text-indent: 11px;}
+.p66{text-align: left;padding-right: 0px;margin-top: 0px;margin-bottom: 0px !important;}
+.p67{text-align: left;margin-top: 12px;margin-bottom: 0px !important;}
+.p68{text-align: left;padding-right: 0px;margin-top: 3px;margin-bottom: 0px !important;}
+.p69{text-align: left;padding-right: 0px;margin-top: 0px;margin-bottom: 0px !important;text-indent: 11px;}
+.p70{text-align: left;padding-right: 0px;margin-top: 3px;margin-bottom: 0px !important;text-indent: 11px;}
+.p71{text-align: left;padding-right: 0px;margin-top: 1px;margin-bottom: 0px !important;text-indent: 11px;}
+.p72{text-align: left;padding-right: 0px;margin-top: 5px;margin-bottom: 0px !important;text-indent: 11px;}
+.p73{text-align: left;margin-top: 18px;margin-bottom: 0px !important;}
+.p74{text-align: left;padding-right: 0px;margin-top: 5px;margin-bottom: 0px !important;}
+.p75{text-align: left;padding-left: 0px;margin-top: 752px;margin-bottom: 0px !important;}
+.p76{text-align: left;padding-left: 0px;padding-right: 63px;margin-top: 1px;margin-bottom: 0px !important;text-indent: 11px;}
+.p77{text-align: left;padding-left: 0px;padding-right: 63px;margin-top: 22px;margin-bottom: 0px !important;text-indent: 11px;}
+.p78{text-align: left;padding-left: 0px;padding-right: 63px;margin-top: 5px;margin-bottom: 0px !important;text-indent: 11px;}
+.p79{text-align: left;padding-left: 0px;padding-right: 84px;margin-top: 17px;margin-bottom: 0px !important;}
+.p80{text-align: left;padding-left: 0px;padding-right: 63px;margin-top: 0px;margin-bottom: 0px !important;}
+.p81{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;}
+.p82{text-align: left;padding-right: 1px;margin-top: 0px;margin-bottom: 0px !important;}
+.p83{text-align: left;margin-top: 16px;margin-bottom: 0px !important;text-indent: 11px;}
+.p84{text-align: left;padding-right: 1px;margin-top: 23px;margin-bottom: 0px !important;text-indent: 11px;}
+.p85{text-align: left;margin-top: 2px;margin-bottom: 0px !important;text-indent: 11px;}
+.p86{text-align: left;margin-top: 4px;margin-bottom: 0px !important;text-indent: 11px;}
+.p87{text-align: left;padding-left: 0px;padding-right: 63px;margin-top: 4px;margin-bottom: 0px !important;text-indent: 11px;}
+.p88{text-align: left;padding-left: 0px;margin-top: 19px;margin-bottom: 0px !important;}
+.p89{text-align: left;padding-left: 0px;padding-right: 63px;margin-top: 4px;margin-bottom: 0px !important;}
+.p90{text-align: left;padding-left: 0px;padding-right: 63px;margin-top: 3px;margin-bottom: 0px !important;text-indent: 11px;}
+.p91{text-align: left;margin-top: 38px;margin-bottom: 0px !important;}
+.p92{text-align: left;padding-right: 21px;margin-top: 0px;margin-bottom: 0px !important;}
+.p93{text-align: left;margin-top: 21px;margin-bottom: 0px !important;text-indent: 11px;}
+.p94{text-align: left;padding-left: 0px;padding-right: 63px;margin-top: 0px;margin-bottom: 0px !important;text-indent: 0.112px;}
+.p95{text-align: left;padding-left: 0px;padding-right: 63px;margin-top: 2px;margin-bottom: 0px !important;text-indent: 11px;}
+.p96{text-align: left;padding-left: 0px;padding-right: 63px;margin-top: 12px;margin-bottom: 0px !important;}
+.p97{text-align: left;padding-left: 0px;padding-right: 63px;margin-top: 2px;margin-bottom: 0px !important;}
+.p98{text-align: left;padding-right: 0px;margin-top: 0px;margin-bottom: 0px !important;}
+.p99{text-align: left;padding-right: 0px;margin-top: 21px;margin-bottom: 0px !important;text-indent: 11px;}
+.p100{text-align: left;padding-right: 0px;margin-top: 19px;margin-bottom: 0px !important;text-indent: 11px;}
+.p101{text-align: left;padding-right: 0px;margin-top: 4px;margin-bottom: 0px !important;text-indent: 11px;}
+.p102{text-align: left;margin-top: 13px;margin-bottom: 0px !important;}
+.p103{text-align: left;padding-right: 0px;margin-top: 5px;margin-bottom: 0px !important;}
+.p104{text-align: left;padding-left: 0px;padding-right: 63px;margin-top: 0px;margin-bottom: 0px !important;text-indent: 0.112px;}
+.p105{text-align: left;padding-left: 0px;padding-right: 63px;margin-top: 24px;margin-bottom: 0px !important;text-indent: 11px;}
+.p106{text-align: left;padding-left: 0px;margin-top: 20px;margin-bottom: 0px !important;}
+.p107{text-align: left;padding-left: 0px;padding-right: 63px;margin-top: 3px;margin-bottom: 0px !important;}
+.p108{text-align: left;padding-right: 0px;margin-top: 2px;margin-bottom: 0px !important;text-indent: 11px;}
+.p109{text-align: left;padding-right: 0px;margin-top: 3px;margin-bottom: 0px !important;text-indent: 11px;}
+.p110{text-align: left;padding-right: 0px;margin-top: 4px;margin-bottom: 0px !important;text-indent: 11px;}
+.p111{text-align: left;margin-top: 6px;margin-bottom: 0px !important;}
+.p112{text-align: left;padding-left: 0px;padding-right: 63px;margin-top: 9px;margin-bottom: 0px !important;}
+.p113{text-align: left;padding-left: 0px;padding-right: 63px;margin-top: 0px;margin-bottom: 0px !important;}
+.p114{text-align: left;padding-left: 160px;padding-right: 273px;margin-top: 42px;margin-bottom: 0px !important;text-indent: 0.60px;}
+.p115{text-align: left;padding-left: 0px;padding-right: 63px;margin-top: 11px;margin-bottom: 0px !important;text-indent: 0.10px;}
+.p116{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;}
+.p117{text-align: left;padding-left: 0px;padding-right: 63px;margin-top: 9px;margin-bottom: 0px !important;text-indent: 11px;}
+.p118{text-align: left;padding-right: 42px;margin-top: 0px;margin-bottom: 0px !important;}
+.p119{text-align: left;margin-top: 1px;margin-bottom: 0px !important;}
+.p120{text-align: left;margin-top: 48px;margin-bottom: 0px !important;}
+.p121{text-align: left;margin-top: 17px;margin-bottom: 0px !important;}
+.p122{text-align: left;padding-right: 168px;margin-top: 9px;margin-bottom: 0px !important;}
+.p123{text-align: left;padding-right: 147px;margin-top: 3px;margin-bottom: 0px !important;text-indent: 11px;}
+.p124{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;}
+.p125{text-align: left;padding-left: 0px;margin-top: 27px;margin-bottom: 0px !important;}
+.p126{text-align: left;padding-left: 0px;padding-right: 63px;margin-top: 10px;margin-bottom: 0px !important;}
+.p127{text-align: left;padding-left: 0px;padding-right: 63px;margin-top: 1px;margin-bottom: 0px !important;text-indent: 11px;}
+.p128{text-align: left;padding-left: 0px;padding-right: 63px;margin-top: 4px;margin-bottom: 0px !important;text-indent: 11px;}
+.p129{text-align: left;padding-left: 0px;padding-right: 63px;margin-top: 12px;margin-bottom: 0px !important;}
+.p130{text-align: left;margin-top: 11px;margin-bottom: 0px !important;}
+.p131{text-align: right;padding-right: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p132{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p133{text-align: left;padding-left: 0px;padding-right: 168px;margin-top: 5px;margin-bottom: 0px !important;}
+.p134{text-align: left;padding-left: 0px;padding-right: 147px;margin-top: 5px;margin-bottom: 0px !important;text-indent: 11px;}
+.p135{text-align: left;padding-left: 0px;margin-top: 36px;margin-bottom: 0px !important;}
+.p136{text-align: left;padding-left: 0px;padding-right: 168px;margin-top: 12px;margin-bottom: 0px !important;}
+.p137{text-align: right;padding-right: 42px;margin-top: 273px;margin-bottom: 0px !important;}
+.p138{text-align: left;padding-left: 0px;padding-right: 105px;margin-top: 0px;margin-bottom: 0px !important;}
+.p139{text-align: left;padding-left: 0px;margin-top: 6px;margin-bottom: 0px !important;}
+.p140{text-align: left;padding-left: 0px;padding-right: 63px;margin-top: 1px;margin-bottom: 0px !important;}
+.p141{text-align: left;padding-left: 0px;margin-top: 1px;margin-bottom: 0px !important;}
+.p142{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;}
+.p143{text-align: left;padding-left: 0px;padding-right: 63px;margin-top: 11px;margin-bottom: 0px !important;}
+.p144{text-align: left;padding-left: 0px;padding-right: 63px;margin-top: 0px;margin-bottom: 0px !important;text-indent: 11px;}
+.p145{text-align: left;margin-top: 42px;margin-bottom: 0px !important;}
+.p146{text-align: left;padding-left: 0px;padding-right: 168px;margin-top: 0px;margin-bottom: 0px !important;}
+.p147{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;}
+.p148{text-align: left;padding-left: 0px;padding-right: 168px;margin-top: 0px;margin-bottom: 0px !important;text-indent: 11px;}
+.p149{text-align: left;padding-left: 0px;padding-right: 147px;margin-top: 0px;margin-bottom: 0px !important;text-indent: 11px;}
+.p150{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;}
+.p151{text-align: left;padding-left: 0px;margin-top: 5px;margin-bottom: 0px !important;}
+.p152{text-align: right;padding-right: 42px;margin-top: 211px;margin-bottom: 0px !important;}
+.p153{text-align: left;padding-right: 21px;margin-top: 0px;margin-bottom: 0px !important;}
+.p154{text-align: left;padding-right: 5px;margin-top: 9px;margin-bottom: 0px !important;}
+.p155{text-align: left;padding-right: 5px;margin-top: 1px;margin-bottom: 0px !important;text-indent: 11px;}
+.p156{text-align: left;margin-top: 3px;margin-bottom: 0px !important;text-indent: 11px;}
+.p157{text-align: left;padding-right: 5px;margin-top: 17px;margin-bottom: 0px !important;text-indent: 11px;}
+.p158{text-align: left;padding-right: 5px;margin-top: 4px;margin-bottom: 0px !important;text-indent: 11px;}
+.p159{text-align: left;margin-top: 3px;margin-bottom: 0px !important;}
+.p160{text-align: left;padding-left: 0px;padding-right: 189px;margin-top: 0px;margin-bottom: 0px !important;}
+.p161{text-align: left;padding-left: 0px;padding-right: 189px;margin-top: 4px;margin-bottom: 0px !important;}
+.p162{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;}
+.p163{text-align: left;padding-left: 220px;margin-top: 11px;margin-bottom: 0px !important;}
+.p164{text-align: left;padding-left: 220px;margin-top: 15px;margin-bottom: 0px !important;}
+.p165{text-align: left;padding-left: 240px;margin-top: 0px;margin-bottom: 0px !important;}
+.p166{text-align: left;padding-left: 240px;padding-right: 147px;margin-top: 0px;margin-bottom: 0px !important;text-indent: 11px;}
+.p167{text-align: left;padding-left: 260px;margin-top: 3px;margin-bottom: 0px !important;}
+.p168{text-align: left;padding-left: 240px;padding-right: 168px;margin-top: 0px;margin-bottom: 0px !important;text-indent: 11px;}
+.p169{text-align: left;padding-left: 260px;margin-top: 0px;margin-bottom: 0px !important;}
+.p170{text-align: left;padding-left: 240px;padding-right: 168px;margin-top: 0px;margin-bottom: 0px !important;}
+.p171{text-align: left;padding-left: 220px;margin-top: 12px;margin-bottom: 0px !important;}
+.p172{text-align: left;padding-left: 220px;margin-top: 14px;margin-bottom: 0px !important;}
+.p173{text-align: left;padding-left: 0px;padding-right: 168px;margin-top: 0px;margin-bottom: 0px !important;text-indent: 11px;}
+.p174{text-align: left;padding-left: 0px;padding-right: 168px;margin-top: 1px;margin-bottom: 0px !important;text-indent: 11px;}
+.p175{text-align: right;padding-right: 42px;margin-top: 15px;margin-bottom: 0px !important;}
+.p176{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;}
+.p177{text-align: left;padding-left: 0px;margin-top: 2px;margin-bottom: 0px !important;}
+.p178{text-align: left;margin-top: 738px;margin-bottom: 0px !important;}
+.p179{text-align: left;padding-right: 63px;margin-top: 0px;margin-bottom: 0px !important;text-indent: 11px;}
+.p180{text-align: right;padding-right: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p181{text-align: left;padding-left: 180px;padding-right: 63px;margin-top: 0px;margin-bottom: 0px !important;text-indent: 11px;}
+.p182{text-align: left;padding-right: 63px;margin-top: 0px;margin-bottom: 0px !important;text-indent: 11px;}
+.p183{text-align: left;padding-left: 0px;padding-right: 105px;margin-top: 0px;margin-bottom: 0px !important;}
+.p184{text-align: left;padding-left: 0px;padding-right: 105px;margin-top: 21px;margin-bottom: 0px !important;text-indent: 11px;}
+.p185{text-align: left;padding-left: 0px;padding-right: 105px;margin-top: 7px;margin-bottom: 0px !important;text-indent: 11px;}
+.p186{text-align: right;margin-top: 203px;margin-bottom: 0px !important;}
+.p187{text-align: left;margin-top: 33px;margin-bottom: 0px !important;}
+.p188{text-align: left;padding-right: 63px;margin-top: 16px;margin-bottom: 0px !important;}
+.p189{text-align: left;margin-top: 9px;margin-bottom: 0px !important;}
+.p190{text-align: left;padding-right: 63px;margin-top: 3px;margin-bottom: 0px !important;}
+.p191{text-align: left;padding-right: 63px;margin-top: 10px;margin-bottom: 0px !important;}
+.p192{text-align: left;padding-left: 0px;margin-top: 10px;margin-bottom: 0px !important;}
+.p193{text-align: left;padding-left: 0px;margin-top: 13px;margin-bottom: 0px !important;}
+.p194{text-align: left;padding-left: 0px;padding-right: 168px;margin-top: 3px;margin-bottom: 0px !important;}
+.p195{text-align: left;padding-left: 0px;margin-top: 76px;margin-bottom: 0px !important;}
+.p196{text-align: right;padding-right: 42px;margin-top: 518px;margin-bottom: 0px !important;}
+
+.td0{padding: 0px;margin: 0px;width: 338px;vertical-align: bottom;}
+.td1{padding: 0px;margin: 0px;width: 189px;vertical-align: bottom;}
+.td2{border-bottom: #000000 1px solid;padding: 0px;margin: 0px;width: 338px;vertical-align: bottom;}
+.td3{border-bottom: #000000 1px solid;padding: 0px;margin: 0px;width: 189px;vertical-align: bottom;}
+.td4{padding: 0px;margin: 0px;width: 6px;vertical-align: bottom;}
+.td5{padding: 0px;margin: 0px;width: 390px;vertical-align: bottom;}
+.td6{padding: 0px;margin: 0px;width: 14px;vertical-align: bottom;}
+.td7{padding: 0px;margin: 0px;width: 72px;vertical-align: bottom;}
+.td8{padding: 0px;margin: 0px;width: 318px;vertical-align: bottom;}
+.td9{padding: 0px;margin: 0px;width: 78px;vertical-align: bottom;}
+.td10{padding: 0px;margin: 0px;width: 396px;vertical-align: bottom;}
+.td11{padding: 0px;margin: 0px;width: 36px;vertical-align: bottom;}
+.td12{padding: 0px;margin: 0px;width: 389px;vertical-align: bottom;}
+.td13{padding: 0px;margin: 0px;width: 103px;vertical-align: bottom;}
+.td14{padding: 0px;margin: 0px;width: 182px;vertical-align: bottom;}
+.td15{padding: 0px;margin: 0px;width: 319px;vertical-align: bottom;}
+.td16{padding: 0px;margin: 0px;width: 214px;vertical-align: bottom;}
+.td17{padding: 0px;margin: 0px;width: 106px;vertical-align: bottom;}
+.td18{padding: 0px;margin: 0px;width: 215px;vertical-align: bottom;}
+.td19{padding: 0px;margin: 0px;width: 197px;vertical-align: bottom;}
+.td20{padding: 0px;margin: 0px;width: 131px;vertical-align: bottom;}
+.td21{padding: 0px;margin: 0px;width: 401px;vertical-align: bottom;}
+.td22{padding: 0px;margin: 0px;width: 532px;vertical-align: bottom;}
+.td23{padding: 0px;margin: 0px;width: 63px;vertical-align: bottom;}
+.td24{padding: 0px;margin: 0px;width: 469px;vertical-align: bottom;}
+.td25{padding: 0px;margin: 0px;width: 11px;vertical-align: bottom;}
+.td26{padding: 0px;margin: 0px;width: 456px;vertical-align: bottom;}
+.td27{padding: 0px;margin: 0px;width: 61px;vertical-align: bottom;}
+.td28{padding: 0px;margin: 0px;width: 413px;vertical-align: bottom;}
+.td29{padding: 0px;margin: 0px;width: 54px;vertical-align: bottom;}
+.td30{border-left: #000000 1px solid;border-right: #000000 1px solid;border-top: #000000 1px solid;padding: 0px;margin: 0px;width: 411px;vertical-align: bottom;}
+.td31{border-left: #000000 1px solid;border-right: #000000 1px solid;padding: 0px;margin: 0px;width: 411px;vertical-align: bottom;}
+.td32{border-left: #000000 1px solid;padding: 0px;margin: 0px;width: 10px;vertical-align: bottom;}
+.td33{border-right: #000000 1px solid;padding: 0px;margin: 0px;width: 401px;vertical-align: bottom;}
+.td34{border-left: #000000 1px solid;border-bottom: #000000 1px solid;padding: 0px;margin: 0px;width: 10px;vertical-align: bottom;}
+.td35{border-right: #000000 1px solid;border-bottom: #000000 1px solid;padding: 0px;margin: 0px;width: 401px;vertical-align: bottom;}
+.td36{padding: 0px;margin: 0px;width: 468px;vertical-align: bottom;}
+.td37{padding: 0px;margin: 0px;width: 402px;vertical-align: bottom;}
+.td38{padding: 0px;margin: 0px;width: 426px;vertical-align: bottom;}
+.td39{padding: 0px;margin: 0px;width: 295px;vertical-align: bottom;}
+.td40{padding: 0px;margin: 0px;width: 65px;vertical-align: bottom;}
+.td41{padding: 0px;margin: 0px;width: 465px;vertical-align: bottom;}
+.td42{padding: 0px;margin: 0px;width: 43px;vertical-align: bottom;}
+.td43{padding: 0px;margin: 0px;width: 383px;vertical-align: bottom;}
+.td44{padding: 0px;margin: 0px;width: 198px;vertical-align: bottom;}
+
+.tr0{heightzzz: 31px;}
+.tr1{heightzzz: 23px;}
+.tr2{heightzzz: 22px;}
+.tr3{heightzzz: 21px;}
+.tr4{heightzzz: 18px;}
+.tr5{heightzzz: 20px;}
+.tr6{heightzzz: 15px;}
+.tr7{heightzzz: 16px;}
+.tr8{heightzzz: 27px;}
+.tr9{heightzzz: 32px;}
+.tr10{heightzzz: 19px;}
+.tr11{heightzzz: 14px;}
+.tr12{heightzzz: 41px;}
+.tr13{heightzzz: 29px;}
+.tr14{heightzzz: 24px;}
+.tr15{heightzzz: 6px;}
+.tr16{heightzzz: 13px;}
+.tr17{heightzzz: 17px;}
+.tr18{heightzzz: 34px;}
+.tr19{heightzzz: 28px;}
+.tr20{heightzzz: 47px;}
+
+.t0{width: 552px;margin-leftZ: 69px;margin-top: 5px;f:20px 'Verdana' !important;}
+.t1{width: 431px;margin-leftZ: 114px;margin-top: 16px;f:13px 'Verdana' !important;}
+.t2{width: 555px;f:20px 'Verdana' !important;}
+.t3{width: 525px;f:20px 'Verdana' !important;}
+.t4{width: 335px;margin-leftZ: 114px;margin-top: 15px;f:italic 13px 'Verdana' !important;}
+.t5{width: 432px;f:13px 'Verdana' !important;}
+.t6{width: 557px;f:13px 'Verdana' !important;}
+.t7{width: 557px;margin-top: 14px;f:13px 'Verdana' !important;}
+.t8{width: 555px;margin-top: 38px;f:13px 'Verdana' !important;}
+.t9{width: 555px;f:italic 13px 'Verdana' !important;}
+.t10{width: 500px;margin-leftZ: 6px;f:20px 'Verdana' !important;}
+.t11{width: 555px;margin-top: 27px;f:13px 'Verdana' !important;}
+.t12{width: 555px;margin-leftZ: 68px;f:17px 'Verdana' !important;}
+.t13{width: 399px;margin-leftZ: 6px;f:20px 'Verdana' !important;}
+.t14{width: 555px;margin-leftZ: 68px;f:bold 12px 'Verdana' !important;}
+.t15{width: 336px;margin-leftZ: 68px;margin-top: 16px;f:italic 13px 'Verdana' !important;}
+.t16{width: 555px;margin-leftZ: 68px;f:13px 'Verdana' !important;}
+
+</STYLE>
+
+
+
+<DIV id="page_1">
+<DIV id="dimg1">
+<INGENBILD zsrc="H5031971x1.jpg/" id="img1">
+</DIV>
+
+
+<DIV class="dclr"></DIV>
+<P class="p0 ft0">Regeringens proposition 2017/18:197</P>
+<TABLE cellpadding=0 cellspacing=0 class="t0">
+<TR>
+	<TD class="tr0 td0"><SPAN class="p1 ft1">Fler bygglovsbefriade åtgärder</SPAN> </TD>
+	<TD class="tr0 td1"><SPAN class="p2 ft1">Prop.</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr1 td2"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr1 td3"><SPAN class="p2 ft1">2017/18:197</SPAN> </TD>
+</TR>
+</TABLE>
+<P class="p4 ft3">Regeringen överlämnar denna proposition till riksdagen.</P>
+<P class="p5 ft3">Linköping den 15 mars 2018</P>
+<P class="p6 ft4">Stefan Löfven</P>
+<P class="p7 ft4">Peter Eriksson</P>
+<P class="p8 ft3">(Näringsdepartementet)</P>
+<P class="p9 ft1">Propositionens huvudsakliga innehåll</P>
+<P class="p10 ft5">Som ett led i regeringens arbete med att förenkla regelsystemet för bygglov, överlämna ett större ansvar till de enskilda fastighetsägarna och avlasta byggnadsnämnderna och rättsväsendet föreslår regeringen att fler åtgärder undantas från kravet på bygglov i plan- och bygglagen. Förslagen i denna proposition syftar också till att underlätta och påskynda omvandlingen till förnybar el. Ändringarna innebär att det inte ska krävas bygglov för att på en byggnad inom ett detaljplanelagt område montera solcellspaneler och solfångare som följer byggnadens form. Åtgärderna ska följa gällande detaljplan. Kommunen ska ha möjlighet att återinföra lovplikt i detaljplan.</P>
+<P class="p11 ft3">Lagändringarna föreslås träda i kraft den 1 augusti 2018.</P>
+<P class="p12 ft3">1</P>
+</DIV>
+<DIV id="page_2">
+
+
+<P class="p13 ft3">Prop. 2017/18:197</P>
+<P class="p14 ft1">Innehållsförteckning</P>
+<TABLE cellpadding=0 cellspacing=0 class="t1">
+<TR>
+	<TD class="tr2 td4"><SPAN class="p3 ft3"><A href="#page_3">1</A></SPAN> </TD>
+	<TD colspan=2 class="tr2 td5"><SPAN class="p15 ft3"><A href="#page_3">Förslag till riksdagsbeslut .................................................................</A></SPAN> </TD>
+	<TD class="tr2 td6"><SPAN class="p16 ft3"><A href="#page_3">3</A></SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr2 td4"><SPAN class="p3 ft3"><A href="#page_4">2</A></SPAN> </TD>
+	<TD colspan=2 class="tr2 td5"><SPAN class="p15 ft3"><A href="#page_4">Förslag till lag om ändring i plan- och bygglagen (2010:900)..........</A></SPAN> </TD>
+	<TD class="tr2 td6"><SPAN class="p16 ft3"><A href="#page_4">4</A></SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr2 td4"><SPAN class="p3 ft3"><A href="#page_6">3</A></SPAN> </TD>
+	<TD colspan=2 class="tr2 td5"><SPAN class="p15 ft3"><A href="#page_6">Ärendet och dess beredning ..............................................................</A></SPAN> </TD>
+	<TD class="tr2 td6"><SPAN class="p16 ft3"><A href="#page_6">6</A></SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr2 td4"><SPAN class="p3 ft3"><A href="#page_6">4</A></SPAN> </TD>
+	<TD colspan=2 class="tr2 td5"><SPAN class="p15 ft3"><A href="#page_6">Bakgrund...........................................................................................</A></SPAN> </TD>
+	<TD class="tr2 td6"><SPAN class="p16 ft3"><A href="#page_6">6</A></SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr3 td4"><SPAN class="p3 ft3"><A href="#page_7">5</A></SPAN> </TD>
+	<TD colspan=2 class="tr3 td5"><SPAN class="p15 ft3"><A href="#page_7">Slopat krav på bygglov för solcellspaneler och solfångare som</A></SPAN> </TD>
+	<TD class="tr3 td6"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr4 td4"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD colspan=2 class="tr4 td5"><SPAN class="p15 ft3"><A href="#page_7">följer byggnadens form .....................................................................</A></SPAN> </TD>
+	<TD class="tr4 td6"><SPAN class="p16 ft3"><A href="#page_7">7</A></SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr5 td4"><SPAN class="p3 ft3"><A href="#page_20">6</A></SPAN> </TD>
+	<TD colspan=2 class="tr5 td5"><SPAN class="p15 ft3"><A href="#page_20">Förslaget om bygglovsbefrielse för altaner bereds vidare...............</A></SPAN> </TD>
+	<TD class="tr5 td6"><SPAN class="p17 ft3"><A href="#page_20">20</A></SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr2 td4"><SPAN class="p3 ft3"><A href="#page_20">7</A></SPAN> </TD>
+	<TD colspan=2 class="tr2 td5"><SPAN class="p15 ft3"><A href="#page_20">Ikraftträdande- och övergångsbestämmelser...................................</A></SPAN> </TD>
+	<TD class="tr2 td6"><SPAN class="p17 ft3"><A href="#page_20">20</A></SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr3 td4"><SPAN class="p3 ft3"><A href="#page_21">8</A></SPAN> </TD>
+	<TD colspan=2 class="tr3 td5"><SPAN class="p15 ft3"><A href="#page_21">Konsekvenser..................................................................................</A></SPAN> </TD>
+	<TD class="tr3 td6"><SPAN class="p17 ft3"><A href="#page_21">21</A></SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr6 td4"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr6 td7"><SPAN class="p15 ft3"><A href="#page_21">8.1</A></SPAN> </TD>
+	<TD class="tr6 td8"><SPAN class="p3 ft3"><A href="#page_21">Konsekvenser för staten ...................................................</A></SPAN> </TD>
+	<TD class="tr6 td6"><SPAN class="p17 ft3"><A href="#page_21">21</A></SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr7 td4"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr7 td7"><SPAN class="p15 ft3"><A href="#page_21">8.2</A></SPAN> </TD>
+	<TD class="tr7 td8"><SPAN class="p3 ft3"><A href="#page_21">Konsekvenser för kommuner ...........................................</A></SPAN> </TD>
+	<TD class="tr7 td6"><SPAN class="p17 ft3"><A href="#page_21">21</A></SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr6 td4"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr6 td7"><SPAN class="p15 ft3"><A href="#page_22">8.3</A></SPAN> </TD>
+	<TD class="tr6 td8"><SPAN class="p3 ft3"><A href="#page_22">Konsekvenser för företag .................................................</A></SPAN> </TD>
+	<TD class="tr6 td6"><SPAN class="p17 ft3"><A href="#page_22">22</A></SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr6 td4"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr6 td7"><SPAN class="p15 ft3"><A href="#page_22">8.4</A></SPAN> </TD>
+	<TD class="tr6 td8"><SPAN class="p3 ft3"><A href="#page_22">Konsekvenser för enskilda ...............................................</A></SPAN> </TD>
+	<TD class="tr6 td6"><SPAN class="p17 ft3"><A href="#page_22">22</A></SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr7 td4"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr7 td7"><SPAN class="p15 ft3"><A href="#page_23">8.5</A></SPAN> </TD>
+	<TD class="tr7 td8"><SPAN class="p3 ft3"><A href="#page_23">Konsekvenser för miljön ..................................................</A></SPAN> </TD>
+	<TD class="tr7 td6"><SPAN class="p17 ft3"><A href="#page_23">23</A></SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr4 td4"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr4 td7"><SPAN class="p15 ft3"><A href="#page_23">8.6</A></SPAN> </TD>
+	<TD class="tr4 td8"><SPAN class="p3 ft3"><NOBR><A href="#page_23">EU-rätten ..........................................................................</A></NOBR></SPAN> </TD>
+	<TD class="tr4 td6"><SPAN class="p17 ft3"><A href="#page_23">23</A></SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr5 td4"><SPAN class="p3 ft3"><A href="#page_24">9</A></SPAN> </TD>
+	<TD colspan=2 class="tr5 td5"><SPAN class="p15 ft3"><A href="#page_24">Författningskommentar...................................................................</A></SPAN> </TD>
+	<TD class="tr5 td6"><SPAN class="p17 ft3"><A href="#page_24">24</A></SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=2 class="tr3 td9"><SPAN class="p3 ft3">Bilaga 1</SPAN> </TD>
+	<TD class="tr3 td8"><SPAN class="p3 ft3"><A href="#page_26">Sammanfattning av Boverkets rapport</A></SPAN> </TD>
+	<TD class="tr3 td6"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr6 td4"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr6 td7"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr6 td8"><SPAN class="p3 ft3"><A href="#page_26">Altaner, solcellspaneler och solfångare i PBL</A></SPAN> </TD>
+	<TD class="tr6 td6"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr4 td4"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr4 td7"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr4 td8"><SPAN class="p3 ft3"><A href="#page_26">(Rapport 2017:26) ............................................................</A></SPAN> </TD>
+	<TD class="tr4 td6"><SPAN class="p17 ft3"><A href="#page_26">26</A></SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=2 class="tr3 td9"><SPAN class="p3 ft3">Bilaga 2</SPAN> </TD>
+	<TD class="tr3 td8"><SPAN class="p3 ft3"><A href="#page_27">Rapportens lagförslag.......................................................</A></SPAN> </TD>
+	<TD class="tr3 td6"><SPAN class="p17 ft3"><A href="#page_27">27</A></SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=2 class="tr2 td9"><SPAN class="p3 ft3">Bilaga 3</SPAN> </TD>
+	<TD class="tr2 td8"><SPAN class="p3 ft3"><A href="#page_29">Förteckning över remissinstanserna .................................</A></SPAN> </TD>
+	<TD class="tr2 td6"><SPAN class="p17 ft3"><A href="#page_29">29</A></SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=2 class="tr2 td9"><SPAN class="p3 ft3">Bilaga 4</SPAN> </TD>
+	<TD class="tr2 td8"><SPAN class="p3 ft3"><A href="#page_30">Lagrådets yttrande ............................................................</A></SPAN> </TD>
+	<TD class="tr2 td6"><SPAN class="p17 ft3"><A href="#page_30">30</A></SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=3 class="tr2 td10"><SPAN class="p3 ft3"><A href="#page_31">Utdrag ur protokoll vid regeringssammanträde den 15 mars 2018.........</A></SPAN> </TD>
+	<TD class="tr2 td6"><SPAN class="p17 ft3"><A href="#page_31">31</A></SPAN> </TD>
+</TR>
+</TABLE>
+<P class="p18 ft3">2</P>
+</DIV>
+<DIV id="page_3">
+
+
+<TABLE cellpadding=0 cellspacing=0 class="t2">
+<TR>
+	<TD class="tr8 td11"><SPAN class="p19 ft1">1</SPAN> </TD>
+	<TD class="tr8 td12"><SPAN class="p20 ft1">Förslag till riksdagsbeslut</SPAN> </TD>
+	<TD class="tr8 td13"><SPAN class="p3 ft3">Prop. 2017/18:197</SPAN> </TD>
+</TR>
+</TABLE>
+<P class="p21 ft6">Regeringen föreslår att riksdagen antar regeringens förslag till lag om ändring i plan- och bygglagen (2010:900).</P>
+<P class="p22 ft3">3</P>
+</DIV>
+<DIV id="page_4">
+
+
+<DIV id="id_1">
+<TABLE cellpadding=0 cellspacing=0 class="t3">
+<TR>
+	<TD class="tr9 td14"><SPAN class="p3 ft3">Prop. 2017/18:197 <SPAN class="ft7">2</SPAN></SPAN> </TD>
+	<TD class="tr9 td15"><SPAN class="p3 ft1">Förslag till lag om ändring i plan- och</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr8 td14"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr8 td15"><SPAN class="p3 ft1">bygglagen (2010:900)</SPAN> </TD>
+</TR>
+</TABLE>
+<P class="p23 ft9">Härigenom föreskrivs i fråga om plan- och bygglagen (2010:900) <SPAN class="ft8">dels </SPAN>att 9 kap. 8 § ska ha följande lydelse,</P>
+<P class="p24 ft3"><SPAN class="ft4">dels </SPAN>att det ska införas en ny paragraf, 9 kap. 3 c §, av följande lydelse.</P>
+<TABLE cellpadding=0 cellspacing=0 class="t4">
+<TR>
+	<TD class="tr10 td16"><SPAN class="p3 ft4">Nuvarande lydelse</SPAN> </TD>
+	<TD class="tr10 td17"><SPAN class="p3 ft10">Föreslagen lydelse</SPAN> </TD>
+</TR>
+</TABLE>
+<P class="p25 ft11">9 kap.</P>
+<P class="p26 ft4">3 c §</P>
+<P class="p27 ft4">Trots 2 § första stycket 3 c krävs det inte bygglov för att på en byggnad montera solcellspaneler och solfångare som följer byggnadens form även om byggnadens yttre utseende påverkas avsevärt.</P>
+<P class="p28 ft4">Första stycket gäller inte om</P>
+<P class="p29 ft8">1. kommunen enligt 8 § första stycket 9 har bestämt att åtgärden kräver bygglov,</P>
+<P class="p27 ft4">2. åtgärden vidtas på en byggnad eller inom ett bebyggelseområde som avses i 8 kap. 13 §, eller</P>
+<P class="p30 ft8">3. åtgärden vidtas inom eller i anslutning till sådana områden som avses i 3 kap. 9 § andra stycket miljöbalken.</P>
+<P class="p31 ft3">8 §<A href="#page_4"><SPAN class="ft12">1</SPAN></A></P>
+<P class="p32 ft9">Utöver det som följer av <NOBR>2–7</NOBR> §§ krävs det bygglov i den utsträckning som framgår av</P>
+<P class="p33 ft3"><SPAN class="ft3">1.</SPAN><SPAN class="ft13">föreskrifter som har meddelats med stöd av 16 kap. 7 §,</SPAN></P>
+<P class="p33 ft3"><SPAN class="ft3">2.</SPAN><SPAN class="ft13">det som kommunen för ett område som utgör en värdefull miljö</SPAN></P>
+</DIV>
+<DIV id="id_2">
+<DIV id="id_2_1">
+<P class="p34 ft6"><SPAN class="ft3">a)</SPAN><SPAN class="ft14">i en detaljplan har bestämt </SPAN><SPAN class="ft15">för </SPAN>att vidta en åtgärd som avses i 4 § första stycket 3 eller 4 <NOBR>a–4</NOBR> c §§,</P>
+<P class="p35 ft3"><SPAN class="ft3">b)</SPAN><SPAN class="ft16">i en detaljplan eller områdesbestämmelser har bestämt </SPAN><SPAN class="ft4">för </SPAN>att underhålla eller ändra ett byggnadsverk eller bebyggelseområde</P>
+<P class="p36 ft3">som avses i 8 kap. 13 §,</P>
+<P class="p37 ft18">3. det som kommunen i områdesbestämmelser har bestämt <SPAN class="ft17">för </SPAN>att utanför en sammanhållen bebyggelse</P>
+</DIV>
+<DIV id="id_2_2">
+<P class="p38 ft9">a) i en detaljplan har bestämt <SPAN class="ft8">i fråga om </SPAN>att vidta en åtgärd som avses i 4 § första stycket 3 eller 4 <NOBR>a–4</NOBR> c §§,</P>
+<P class="p38 ft3">b) i en detaljplan eller områdesbestämmelser har bestämt <SPAN class="ft4">i fråga om </SPAN>att underhålla eller ändra ett byggnadsverk eller bebyggelseområde som avses i 8 kap. 13 §,</P>
+<P class="p39 ft18">3. det som kommunen i områdesbestämmelser har bestämt <SPAN class="ft17">i fråga om </SPAN>att utanför en sammanhållen bebyg-</P>
+</DIV>
+</DIV>
+<DIV id="id_3">
+<P class="p40 ft20"><SPAN class="ft19">1 </SPAN>Senaste lydelse 2017:424.</P>
+<P class="p41 ft3">4</P>
+</DIV>
+</DIV>
+<DIV id="page_5">
+<DIV id="dimg1">
+<INGENBILD zsrc="H5031975x1.jpg/" id="img1">
+</DIV>
+
+
+<DIV>
+<DIV id="id_1">
+<TABLE cellpadding=0 cellspacing=0 class="t5">
+<TR>
+	<TD class="tr5 td18"><SPAN class="p3 ft3">vidta åtgärder som avses i 6 § första</SPAN> </TD>
+	<TD class="tr5 td19"><SPAN class="p3 ft5">gelse vidta åtgärder som avses i 6 §</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr11 td18"><SPAN class="p3 ft21">stycket 1 och 2,</SPAN> </TD>
+	<TD class="tr11 td19"><SPAN class="p3 ft21">första stycket 1 och 2,</SPAN> </TD>
+</TR>
+</TABLE>
+<P class="p42 ft9">4. det som kommunen i områdesbestämmelser har bestämt i fråga om ekonomibyggnader för jordbruk, skogsbruk eller liknande näring,</P>
+<TABLE cellpadding=0 cellspacing=0 class="t5">
+<TR>
+	<TD class="tr7 td18"><SPAN class="p43 ft3">5. det som kommunen i en detalj-</SPAN> </TD>
+	<TD class="tr7 td19"><SPAN class="p17 ft3">5. det som kommunen i en detalj-</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr6 td18"><SPAN class="p43 ft3">plan eller områdesbestämmelser har</SPAN> </TD>
+	<TD class="tr6 td19"><SPAN class="p17 ft3">plan eller områdesbestämmelser har</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr6 td18"><SPAN class="p43 ft5">bestämt <SPAN class="ft10">för </SPAN>att anordna eller väsent-</SPAN> </TD>
+	<TD class="tr6 td19"><SPAN class="p17 ft5">bestämt <SPAN class="ft10">i fråga om </SPAN>att anordna eller</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr7 td18"><SPAN class="p43 ft3">ligt ändra anläggningar för sådana</SPAN> </TD>
+	<TD class="tr7 td19"><SPAN class="p17 ft5">väsentligt ändra anläggningar för så-</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr6 td18"><SPAN class="p43 ft3">grundvattentäkter som avses i</SPAN> </TD>
+	<TD class="tr6 td19"><SPAN class="p17 ft5">dana grundvattentäkter som avses i</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr6 td18"><SPAN class="p3 ft3">11 kap. 11 § 1 miljöbalken,</SPAN> </TD>
+	<TD class="tr6 td19"><SPAN class="p3 ft3">11 kap. 11 § 1 miljöbalken,</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr7 td18"><SPAN class="p43 ft3">6. det som kommunen i en detalj-</SPAN> </TD>
+	<TD class="tr7 td19"><SPAN class="p17 ft3">6. det som kommunen i en detalj-</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr6 td18"><SPAN class="p43 ft3">plan har bestämt <SPAN class="ft4">för </SPAN>att i området</SPAN> </TD>
+	<TD class="tr6 td19"><SPAN class="p17 ft5">plan har bestämt <SPAN class="ft10">i fråga om </SPAN>att i om-</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr6 td18"><SPAN class="p43 ft3">färga om, byta fasadbeklädnad eller</SPAN> </TD>
+	<TD class="tr6 td19"><SPAN class="p17 ft3">rådet färga om, byta fasad-</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr7 td18"><SPAN class="p3 ft3">byta taktäckningsmaterial,</SPAN> </TD>
+	<TD class="tr7 td19"><SPAN class="p17 ft3">beklädnad eller byta taktäcknings-</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr6 td18"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr6 td19"><SPAN class="p3 ft3">material,</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr6 td18"><SPAN class="p43 ft3">7. det som kommunen i områdes-</SPAN> </TD>
+	<TD class="tr6 td19"><SPAN class="p17 ft3">7. det som kommunen i områdes-</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr7 td18"><SPAN class="p43 ft3">bestämmelser har bestämt <SPAN class="ft4">för </SPAN>att i</SPAN> </TD>
+	<TD class="tr7 td19"><SPAN class="p17 ft3">bestämmelser har bestämt <SPAN class="ft4">i fråga</SPAN></SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr6 td18"><SPAN class="p43 ft3">området byta en byggnads färg,</SPAN> </TD>
+	<TD class="tr6 td19"><SPAN class="p17 ft3"><SPAN class="ft4">om </SPAN>att i området byta en byggnads</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr6 td18"><SPAN class="p43 ft3">fasadbeklädnad eller taktäcknings-</SPAN> </TD>
+	<TD class="tr6 td19"><SPAN class="p17 ft3">färg, fasadbeklädnad eller tak-</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr7 td18"><SPAN class="p43 ft3">material eller vidta någon annan åt-</SPAN> </TD>
+	<TD class="tr7 td19"><SPAN class="p17 ft3">täckningsmaterial eller vidta någon</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr6 td18"><SPAN class="p43 ft3">gärd som avsevärt påverkar bygg-</SPAN> </TD>
+	<TD class="tr6 td19"><SPAN class="p17 ft5">annan åtgärd som avsevärt påverkar</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr6 td18"><SPAN class="p3 ft3">nadens yttre utseende,</SPAN> </TD>
+	<TD class="tr6 td19"><SPAN class="p3 ft3">byggnadens yttre utseende,</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr7 td18"><SPAN class="p43 ft3">8. det som kommunen i en detalj-</SPAN> </TD>
+	<TD class="tr7 td19"><SPAN class="p17 ft3">8. det som kommunen i en detalj-</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr6 td18"><SPAN class="p43 ft3">plan har bestämt i fråga om en så-</SPAN> </TD>
+	<TD class="tr6 td19"><SPAN class="p17 ft3">plan har bestämt i fråga om en så-</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr6 td18"><SPAN class="p3 ft3">dan tillbyggnad som avses i 5 a §<SPAN class="ft4">.</SPAN></SPAN> </TD>
+	<TD class="tr6 td19"><SPAN class="p3 ft3">dan tillbyggnad som avses i 5 a §<SPAN class="ft4">,</SPAN></SPAN> </TD>
+</TR>
+</TABLE>
+<P class="p44 ft4">9. det som kommunen i en detaljplan har bestämt i fråga om en sådan åtgärd som avses i 3 c §.</P>
+<P class="p45 ft6">Första stycket 4 och 5 gäller endast om det finns särskilda skäl för en bygglovsprövning.</P>
+<P class="p46 ft3">Denna lag träder i kraft den 1 augusti 2018.</P>
+</DIV>
+<DIV id="id_2">
+<P class="p13 ft3">Prop. 2017/18:197</P>
+<P class="p47 ft3">5</P>
+</DIV>
+</DIV>
+</DIV>
+<DIV id="page_6">
+
+
+<TABLE cellpadding=0 cellspacing=0 class="t6">
+<TR>
+	<TD class="tr12 td20"><SPAN class="p3 ft3">Prop. 2017/18:197 <SPAN class="ft7">3</SPAN></SPAN> </TD>
+	<TD class="tr12 td21"><SPAN class="p48 ft1">Ärendet och dess beredning</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=2 class="tr1 td22"><SPAN class="p49 ft3">Regeringen beslutade den 16 mars 2017 att uppdra åt Boverket att bl.a.</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=2 class="tr7 td22"><SPAN class="p49 ft3">utreda förutsättningarna för ett generellt undantag från kravet på bygglov</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=2 class="tr6 td22"><SPAN class="p49 ft5">för altaner i anslutning till en- och tvåbostadshus och montering av solcells-</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=2 class="tr6 td22"><SPAN class="p49 ft3">paneler och solfångare på byggnader (dnr N2017/02045/PBB). I uppdraget</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=2 class="tr7 td22"><SPAN class="p49 ft5">ingick även att utreda förutsättningarna för ett generellt undantag från kravet</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=2 class="tr6 td22"><SPAN class="p49 ft3">på bygglov för byte av färg, fasadbeklädnad och taktäckningsmaterial på</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=2 class="tr6 td22"><SPAN class="p49 ft3">andra byggnader än en- och tvåbostadshus, liksom att se över kraven på</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=2 class="tr7 td22"><SPAN class="p49 ft3">anmälan. Regeringen beslutade den 14 september 2017 att ge ett tilläggs-</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=2 class="tr6 td22"><SPAN class="p49 ft3">uppdrag till Boverket att bl.a. utreda förutsättningarna för att öka ytan för</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=2 class="tr7 td22"><SPAN class="p49 ft5">bygglovsbefriade komplementbyggnader och komplementbostadshus (dnr</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=2 class="tr6 td22"><SPAN class="p49 ft3">N2017/05714/PBB).</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr6 td20"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr6 td21"><SPAN class="p3 ft3">Boverket redovisade den första delen av grunduppdraget i rapporten</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=2 class="tr6 td22"><SPAN class="p49 ft5">Altaner, solcellspaneler och solfångare i PBL (Rapport 2017:26). En samman-</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=2 class="tr7 td22"><SPAN class="p49 ft5">fattning av rapporten finns i <SPAN class="ft10">bilaga 1</SPAN>. Rapportens lagförslag finns i <SPAN class="ft10">bilaga 2</SPAN>.</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr6 td20"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr6 td21"><SPAN class="p3 ft3">Boverkets rapport har remissbehandlats. En förteckning över remiss-</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=2 class="tr7 td22"><SPAN class="p49 ft5">instanserna finns i <SPAN class="ft10">bilaga 3 </SPAN>och en sammanställning av remissvaren finns till-</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=2 class="tr6 td22"><SPAN class="p49 ft3">gänglig i Näringsdepartementet (dnr N2017/06521/SPN).</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr6 td20"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr6 td21"><SPAN class="p3 ft3">I denna proposition behandlas Boverkets förslag i fråga om solcells-</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=2 class="tr6 td22"><SPAN class="p49 ft5">paneler och solfångare. Förslaget om altaner bereds vidare inom Regerings-</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=2 class="tr7 td22"><SPAN class="p49 ft3">kansliet.</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr6 td20"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr6 td21"><SPAN class="p3 ft5">Riksdagen har tillkännagett för regeringen att plan- och bygglagen behöver</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=2 class="tr7 td22"><SPAN class="p49 ft3">förenklas och att fler åtgärder bör bli bygglovsbefriade (bet. 2013/14:CU10</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=2 class="tr6 td22"><SPAN class="p49 ft3">punkt 1, rskr. 2013/14:187; bet. 2015/16:CU1 punkt 8, rskr. 2015/16:79</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=2 class="tr6 td22"><SPAN class="p49 ft3">och bet. 2016/17:CU15 punkt 1, rskr. 2016/17:234). Genom de förslag som</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=2 class="tr4 td22"><SPAN class="p49 ft3">nu lämnas behandlas delar av riksdagens tillkännagivanden.</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=2 class="tr13 td22"><SPAN class="p49 ft4">Lagrådet</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=2 class="tr10 td22"><SPAN class="p49 ft3">Regeringen beslutade den 22 februari 2018 att inhämta Lagrådets yttrande</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=2 class="tr7 td22"><SPAN class="p49 ft3">över ett lagförslag som överensstämmer med lagförslaget i denna propo-</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=2 class="tr6 td22"><SPAN class="p49 ft3">sition. Lagrådet lämnade förslaget utan erinran. Lagrådets yttrande finns i</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=2 class="tr4 td22"><SPAN class="p49 ft4">bilaga 4<SPAN class="ft3">.</SPAN></SPAN> </TD>
+</TR>
+</TABLE>
+<P class="p50 ft1">4 Bakgrund</P>
+<TABLE cellpadding=0 cellspacing=0 class="t7">
+<TR>
+	<TD class="tr5 td23"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr5 td24"><SPAN class="p51 ft3">Regler om vilka åtgärder som kräver bygglov och vilka åtgärder som är</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr7 td23"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr7 td24"><SPAN class="p51 ft5">undantagna från kravet på bygglov framgår av 9 kap. plan- och bygglagen</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr6 td23"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr6 td24"><SPAN class="p51 ft3">(2010:900), förkortad PBL, och 6 kap. plan- och byggförordningen</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr6 td23"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr6 td24"><SPAN class="p51 ft3">(2011:338), förkortad PBF. I 6 kap. PBF finns även regler om krav på an-</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr7 td23"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr7 td24"><SPAN class="p51 ft3">mälan för åtgärder som inte kräver bygglov (jfr 9 kap. 16 § PBL).</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr6 td23"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr6 td24"><SPAN class="p52 ft5">Antalet åtgärder som är undantagna från kravet på bygglov utökades den</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr6 td23"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr6 td24"><SPAN class="p51 ft3">1 juli 2017 genom de förslag som lämnades i propositionen Fler steg för en</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr7 td23"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr7 td24"><SPAN class="p51 ft3">effektivare plan- och bygglag (prop. 2016/17:151). Då infördes bl.a. undan-</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr6 td23"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr6 td24"><SPAN class="p51 ft5">tag för vissa fasadåtgärder på andra byggnader än en- och tvåbostadshus, fler</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr6 td23"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr6 td24"><SPAN class="p51 ft5">typer av mindre tillbyggnader på en- och tvåbostadshus liksom mindre bygg-</SPAN> </TD>
+</TR>
+<TR>
+	<TD rowspan=2 class="tr14 td23"><SPAN class="p53 ft3">6</SPAN> </TD>
+	<TD class="tr4 td24"><SPAN class="p51 ft3">nader på allmän plats.</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr15 td24"><SPAN class="p3 ft22">&nbsp;</SPAN> </TD>
+</TR>
+</TABLE>
+</DIV>
+<DIV id="page_7">
+
+
+<P class="p54 ft9">Regeringens övergripande skäl för att undanta fler åtgärder från kravet Prop. 2017/18:197 på bygglov har varit att förenkla regelsystemet, överlämna ett större ansvar</P>
+<P class="p55 ft9">till de enskilda fastighetsägarna och avlasta byggnadsnämnderna och rättsväsendet. Gemensamt för de åtgärder som har undantagits är att de bedöms ha en sådan begränsad påverkan på allmänna och enskilda intressen att det inte är motiverat att samhället kontrollerar dem i förväg (se prop. 2016/17: 151 sid. 44 f.).</P>
+<TABLE cellpadding=0 cellspacing=0 class="t8">
+<TR>
+	<TD class="tr0 td25"><SPAN class="p16 ft1">5</SPAN> </TD>
+	<TD colspan=2 class="tr0 td26"><SPAN class="p48 ft1">Slopat krav på bygglov för</SPAN> </TD>
+	<TD class="tr0 td27"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr1 td25"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD colspan=2 class="tr1 td26"><SPAN class="p48 ft1">solcellspaneler och solfångare</SPAN> </TD>
+	<TD class="tr1 td27"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr8 td25"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD colspan=2 class="tr8 td26"><SPAN class="p48 ft1">som följer byggnadens form</SPAN> </TD>
+	<TD class="tr8 td27"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=2 class="tr16 td28"><SPAN class="p3 ft23">&nbsp;</SPAN> </TD>
+	<TD class="tr16 td29"><SPAN class="p3 ft23">&nbsp;</SPAN> </TD>
+	<TD class="tr16 td27"><SPAN class="p3 ft23">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=2 class="tr17 td30"><SPAN class="p56 ft5"><SPAN class="ft24">Regeringens förslag: </SPAN>Bygglov ska inte krävas för att på en byggnad inom</SPAN> </TD>
+	<TD class="tr4 td29"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr4 td27"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=2 class="tr6 td31"><SPAN class="p56 ft5">detaljplanelagt område montera solcellspaneler och solfångare som följer</SPAN> </TD>
+	<TD class="tr6 td29"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr6 td27"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=2 class="tr7 td31"><SPAN class="p56 ft3">byggnadens form, under förutsättning att åtgärden följer detaljplanen.</SPAN> </TD>
+	<TD class="tr7 td29"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr7 td27"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=2 class="tr6 td31"><SPAN class="p56 ft5">En sådan åtgärd får inte vidtas utan bygglov på byggnader eller inom be-</SPAN> </TD>
+	<TD class="tr6 td29"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr6 td27"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=2 class="tr6 td31"><SPAN class="p56 ft3">byggelseområden som är särskilt värdefulla från historisk, kulturhisto-</SPAN> </TD>
+	<TD class="tr6 td29"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr6 td27"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=2 class="tr7 td31"><SPAN class="p56 ft3">risk, miljömässig eller konstnärlig synpunkt. En sådan åtgärd får inte</SPAN> </TD>
+	<TD class="tr7 td29"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr7 td27"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=2 class="tr6 td31"><SPAN class="p56 ft5">heller vidtas utan bygglov inom eller i anslutning till ett område som utgör</SPAN> </TD>
+	<TD class="tr6 td29"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr6 td27"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=2 class="tr6 td31"><SPAN class="p56 ft3">riksintresse för totalförsvaret.</SPAN> </TD>
+	<TD class="tr6 td29"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr6 td27"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr7 td32"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr7 td33"><SPAN class="p56 ft3">Kommunen ska ha möjlighet att återinföra lovplikt i detaljplan.</SPAN> </TD>
+	<TD class="tr7 td29"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr7 td27"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr5 td34"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr5 td35"><SPAN class="p56 ft3">Vidare ska några språkliga justeringar göras.</SPAN> </TD>
+	<TD class="tr3 td29"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr3 td27"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr5 td25"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD colspan=2 class="tr5 td26"><SPAN class="p3 ft3"><SPAN class="ft11">Rapportens förslag: </SPAN>Överensstämmer i huvudsak med regeringens för-</SPAN> </TD>
+	<TD class="tr5 td27"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=3 class="tr7 td36"><SPAN class="p3 ft3">slag. Boverket föreslår inte att undantaget från krav på bygglov ska begrän-</SPAN> </TD>
+	<TD class="tr7 td27"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=3 class="tr6 td36"><SPAN class="p3 ft3">sas till att inte gälla inom eller i anslutning till ett område som utgör riks-</SPAN> </TD>
+	<TD class="tr6 td27"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=3 class="tr6 td36"><SPAN class="p3 ft3">intresse för totalförsvaret.</SPAN> </TD>
+	<TD class="tr6 td27"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr7 td25"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD colspan=2 class="tr7 td26"><SPAN class="p3 ft3"><SPAN class="ft11">Remissinstanserna: </SPAN>De flesta av remissinstanserna är positiva eller har</SPAN> </TD>
+	<TD class="tr7 td27"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=3 class="tr6 td36"><SPAN class="p3 ft4"><SPAN class="ft3">inga synpunkter på förslaget: </SPAN>Riksdagens ombudsmän<SPAN class="ft3">, </SPAN>Växjö tingsrätt</SPAN> </TD>
+	<TD class="tr6 td27"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=3 class="tr6 td36"><SPAN class="p3 ft4"><SPAN class="ft3">(</SPAN>mark- och miljödomstolen<SPAN class="ft3">), </SPAN>Blekinge Tekniska Högskola<SPAN class="ft3">, </SPAN>Elsäkerhetsverket<SPAN class="ft3">,</SPAN></SPAN> </TD>
+	<TD class="tr6 td27"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=3 class="tr7 td36"><SPAN class="p3 ft4">Formas<SPAN class="ft3">, </SPAN>Fortifikationsverket<SPAN class="ft3">, </SPAN>Försvarets materielverk<SPAN class="ft3">, </SPAN>Naturvårdsverket<SPAN class="ft3">,</SPAN></SPAN> </TD>
+	<TD class="tr7 td27"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=3 class="tr6 td36"><SPAN class="p3 ft4">Energimyndigheten<SPAN class="ft3">, </SPAN>Statens fastighetsverk<SPAN class="ft3">, </SPAN>Konkurrensverket<SPAN class="ft3">, </SPAN>Lantmäteriet<SPAN class="ft3">,</SPAN></SPAN> </TD>
+	<TD class="tr6 td27"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=3 class="tr6 td36"><SPAN class="p3 ft4">länsstyrelserna i Gävleborgs, Skåne <SPAN class="ft3">och </SPAN>Östergötlands län<SPAN class="ft3">, </SPAN>Eskilstuna<SPAN class="ft3">,</SPAN></SPAN> </TD>
+	<TD class="tr6 td27"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=3 class="tr7 td36"><SPAN class="p3 ft4">Göteborgs<SPAN class="ft3">, </SPAN>Haninge<SPAN class="ft3">, </SPAN>Stockholms<SPAN class="ft3">, </SPAN>Strömsunds<SPAN class="ft3">, </SPAN>Tranås <SPAN class="ft3">och </SPAN>Vaxholms kom-</SPAN> </TD>
+	<TD class="tr7 td27"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=3 class="tr6 td36"><SPAN class="p3 ft4">muner<SPAN class="ft3">, </SPAN>Sveriges Kommuner och Landsting<SPAN class="ft3">, </SPAN>Samhällsbyggnadsnämnden</SPAN> </TD>
+	<TD class="tr6 td27"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=3 class="tr6 td36"><SPAN class="p3 ft4">Bergslagen<SPAN class="ft3">, </SPAN>Högskolan Dalarna<SPAN class="ft3">, </SPAN>Byggherrarna<SPAN class="ft3">, </SPAN>Fastighetsägarna<SPAN class="ft3">, </SPAN>Sam-</SPAN> </TD>
+	<TD class="tr6 td27"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=3 class="tr7 td36"><SPAN class="p3 ft4">hällsbyggarna<SPAN class="ft3">, </SPAN>SABO<SPAN class="ft3">, </SPAN>Sveriges Byggindustrier<SPAN class="ft3">, </SPAN>Solelkommissionen<SPAN class="ft3">, </SPAN>Svensk</SPAN> </TD>
+	<TD class="tr7 td27"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=3 class="tr6 td36"><SPAN class="p3 ft4">Solenergi<SPAN class="ft3">, </SPAN>Villaägarnas Riksförbund<SPAN class="ft3">, </SPAN>Vattenfall AB<SPAN class="ft3">, </SPAN>E.ON Sverige AB (Eon)</SPAN> </TD>
+	<TD class="tr6 td27"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=3 class="tr6 td36"><SPAN class="p3 ft3">och <SPAN class="ft4">HSB.</SPAN></SPAN> </TD>
+	<TD class="tr6 td27"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr7 td25"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD colspan=2 class="tr7 td26"><SPAN class="p3 ft3">Enligt Vaxholms kommun ligger Boverkets förslag i linje med hur kom-</SPAN> </TD>
+	<TD class="tr7 td27"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=3 class="tr6 td36"><SPAN class="p3 ft3">munen hanterar solcellspaneler och solfångare. Svensk Solenergi, Vatten-</SPAN> </TD>
+	<TD class="tr6 td27"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=3 class="tr6 td36"><SPAN class="p3 ft3">fall AB och HSB anser att förslaget kommer att innebära minskade kostnader</SPAN> </TD>
+	<TD class="tr6 td27"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=3 class="tr7 td36"><SPAN class="p3 ft3">vid installation av en solenergianläggning för många fastighetsägare, vilket</SPAN> </TD>
+	<TD class="tr7 td27"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=3 class="tr6 td36"><SPAN class="p3 ft3">bedöms höja utbyggnadstakten och gynna branschen. <SPAN class="ft4">Länsstyrelsen i Hallands</SPAN></SPAN> </TD>
+	<TD class="tr6 td27"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=3 class="tr6 td36"><SPAN class="p3 ft3"><SPAN class="ft4">län </SPAN>är positiv till att bygglovsbefrielsen ökar i takt med stöden för dessa an-</SPAN> </TD>
+	<TD class="tr6 td27"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=3 class="tr7 td36"><SPAN class="p3 ft3">läggningar och <SPAN class="ft4">Stockholms kommun </SPAN>ser att förenklingen kan underlätta för</SPAN> </TD>
+	<TD class="tr7 td27"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=3 class="tr17 td36"><SPAN class="p3 ft3">kommunen att uppfylla målsättningarna kring solenergiutbyggnad. <SPAN class="ft4">Läns-</SPAN></SPAN> </TD>
+	<TD rowspan=2 class="tr1 td27"><SPAN class="p17 ft3">7</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr15 td25"><SPAN class="p3 ft22">&nbsp;</SPAN> </TD>
+	<TD class="tr15 td37"><SPAN class="p3 ft22">&nbsp;</SPAN> </TD>
+	<TD class="tr15 td29"><SPAN class="p3 ft22">&nbsp;</SPAN> </TD>
+</TR>
+</TABLE>
+</DIV>
+<DIV id="page_8">
+
+
+<P class="p57 ft26"><SPAN class="ft25">Prop. 2017/18:197 </SPAN>styrelserna i Skåne <SPAN class="ft25">och </SPAN>Östergötlands län<SPAN class="ft25">, </SPAN>Eskilstuna kommun <SPAN class="ft25">och </SPAN>Sveriges Byggindustrier <SPAN class="ft25">välkomnar enhetligare regler på området. </SPAN>Byggherrarna <SPAN class="ft25">anser</SPAN></P>
+<TABLE cellpadding=0 cellspacing=0 class="t6">
+<TR>
+	<TD class="tr4 td23"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr4 td24"><SPAN class="p51 ft3">att förslaget innebär en rimlig avvägning mellan önskemålet att öka antalet</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr6 td23"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr6 td24"><SPAN class="p51 ft3">solenergianläggningar och intresset att värna den byggda miljön.</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr7 td23"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr7 td24"><SPAN class="p52 ft3">Ett antal remissinstanser är negativa till förslaget: <SPAN class="ft4">Försvarsmakten</SPAN>, <SPAN class="ft4">För-</SPAN></SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr6 td23"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr6 td24"><SPAN class="p51 ft4">svarets radioanstalt (FRA)<SPAN class="ft3">, </SPAN>Riksantikvarieämbetet<SPAN class="ft3">, </SPAN>Gotlands kommun<SPAN class="ft3">,</SPAN></SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr6 td23"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr6 td24"><SPAN class="p51 ft4">Sveriges Arkitekter <SPAN class="ft3">och </SPAN>Sveriges Stadsarkitektförening.</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr7 td23"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr7 td24"><SPAN class="p52 ft5"><SPAN class="ft10">Försvarsmakten </SPAN>anser att bygglovskrav kan behöva finnas kvar med hän-</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr6 td23"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr6 td24"><SPAN class="p51 ft5">syn till solcellsanläggningars tekniska utformning och deras elektromagne-</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr6 td23"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr6 td24"><SPAN class="p51 ft3">tiska påverkan på omkringliggande verksamheter. Denna påverkan är inte</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr7 td23"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr7 td24"><SPAN class="p51 ft5">tillräckligt utredd i Boverkets rapport för att kunna stödja slutsatsen att det</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr6 td23"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr6 td24"><SPAN class="p51 ft5">inte finns tillräckliga skäl att begränsa undantaget med hänsyn till riksintresset</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr6 td23"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr6 td24"><SPAN class="p51 ft5">för totalförsvaret. Med samma utgångspunkt som Försvarsmakten avstyrker</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr7 td23"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr7 td24"><SPAN class="p51 ft3"><SPAN class="ft4">FRA </SPAN>förslaget.</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr6 td23"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr6 td24"><SPAN class="p52 ft3"><SPAN class="ft4">Sveriges Stadsarkitektförening </SPAN>avstyrker förslaget eftersom solenergi-</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr6 td23"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr6 td24"><SPAN class="p51 ft3">anläggningar, genom sin stora synlighet i taklandskapet, riskerar att skada</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr7 td23"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr7 td24"><SPAN class="p51 ft5">stads- och landskapsbilden och kulturhistoriska och arkitektoniska värden.</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr6 td23"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr6 td24"><SPAN class="p51 ft5"><SPAN class="ft10">Riksantikvarieämbetet </SPAN>avstyrker förslaget eftersom det har negativa konse-</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr7 td23"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr7 td24"><SPAN class="p51 ft3">kvenser för kommunens möjlighet att ta tillvara och utveckla kulturmiljön.</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr6 td23"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr6 td24"><SPAN class="p51 ft3">Tidigare införda undantags inverkan på bl.a. kulturmiljön bör utvärderas</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr6 td23"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr6 td24"><SPAN class="p51 ft5">innan fler undantag införs. Åtgärder på tak och fasad kan medföra ingrepp</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr7 td23"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr7 td24"><SPAN class="p51 ft3">i ytor som kan påverka kulturvärden och vara mycket svåra att återställa.</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr6 td23"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr6 td24"><SPAN class="p51 ft3">Om förslaget genomförs blir miljömålet God bebyggd miljö ännu svårare</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr6 td23"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr6 td24"><SPAN class="p51 ft5">att uppnå. Även <SPAN class="ft10">Sveriges Arkitekter </SPAN>avstyrker förslaget och anser att bygg-</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr6 td23"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr6 td24"><SPAN class="p51 ft3">lovsplikten ska behållas. Enligt <SPAN class="ft4">Gotlands kommun </SPAN>skapar förslaget gräns-</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr7 td23"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr7 td24"><SPAN class="p51 ft5">dragningsproblem och risker kring enskildas investeringar. Det oklara rätts-</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr6 td23"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr6 td24"><SPAN class="p51 ft5">läget och det förhållandet att anmälningsplikten inte är utredd i delrapporten</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr7 td23"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr7 td24"><SPAN class="p51 ft3">talar starkt för att Boverkets uppdrag bör beredas i sin helhet. Med fler</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr6 td23"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr6 td24"><SPAN class="p51 ft5">undantag blir regelverket svårare att tillämpa för enskilda och kommunerna,</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr6 td23"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr6 td24"><SPAN class="p51 ft3">som även får lägga tid och resurser på rådgivning och ökat antal tillsyns-</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr6 td23"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr6 td24"><SPAN class="p51 ft3">ärenden till följd av enskildas felbedömningar. Tillsynsärenden påverkar</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr7 td23"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr7 td24"><SPAN class="p51 ft3">kommunernas ekonomi eftersom de är skattefinansierade.</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr6 td23"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr6 td24"><SPAN class="p52 ft5">Som utvecklas nedan är det flera remissinstanser, positiva såväl som nega-</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr7 td23"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr7 td24"><SPAN class="p51 ft3">tiva, som har synpunkter på Boverkets förslag. Ett antal remissinstanser</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr6 td23"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr6 td24"><SPAN class="p51 ft3">anser att systemet med bygglovsplikt blir alltmer komplext och svåröver-</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr6 td23"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr6 td24"><SPAN class="p51 ft5">skådligt när antalet undantag ökar, bl.a. <SPAN class="ft10">Svea hovrätt </SPAN>(<SPAN class="ft10">Mark- och miljööver-</SPAN></SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr7 td23"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr7 td24"><SPAN class="p51 ft10">domstolen<SPAN class="ft5">), </SPAN>Växjö tingsrätt <SPAN class="ft5">(</SPAN>mark- och miljödomstolen<SPAN class="ft5">), </SPAN>länsstyrelserna i</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr6 td23"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr6 td24"><SPAN class="p51 ft10">Hallands<SPAN class="ft5">, </SPAN>Stockholms <SPAN class="ft5">och </SPAN>Östergötlands län<SPAN class="ft5">, </SPAN>Torsås <SPAN class="ft5">och </SPAN>Vaxholms kommu-</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr6 td23"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr6 td24"><SPAN class="p51 ft10">ner<SPAN class="ft5">, </SPAN>Sveriges Kommuner och Landsting<SPAN class="ft5">, </SPAN>Högskolan Dalarna<SPAN class="ft5">, </SPAN>Fastighets-</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr7 td23"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr7 td24"><SPAN class="p51 ft5"><SPAN class="ft10">ägarna </SPAN>och <SPAN class="ft10">Sveriges Arkitekter. </SPAN>Enligt Sveriges Kommuner och Landsting</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr6 td23"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr6 td24"><SPAN class="p51 ft3">bör Boverket ges i uppdrag att på ett systematiskt sätt omarbeta relevanta</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr6 td23"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr6 td24"><SPAN class="p51 ft3">delar av lagstiftningen. Svea hovrätt (Mark- och miljööverdomstolen) och</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr7 td23"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr7 td24"><SPAN class="p51 ft5">Vaxholms kommun m.fl. remissinstanser anser att förslaget inte bör genom-</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr6 td23"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr6 td24"><SPAN class="p51 ft3">föras innan konsekvenserna av övriga undantagsbestämmelser i PBL har</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr6 td23"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr6 td24"><SPAN class="p51 ft3">analyserats.</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr7 td23"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr7 td24"><SPAN class="p52 ft4"><SPAN class="ft3">Flera remissinstanser, bl.a. </SPAN>länsstyrelserna i Stockholms <SPAN class="ft3">och </SPAN>Östergöt-</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr6 td23"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr6 td24"><SPAN class="p51 ft3"><SPAN class="ft4">lands län</SPAN>, anser att det är bra att undantaget inte föreslås gälla för sådan</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr6 td23"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr6 td24"><SPAN class="p51 ft3">bebyggelse som omfattas av kraven i 8 kap. 13 § PBL. Länsstyrelsen i</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr7 td23"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr7 td24"><SPAN class="p51 ft3">Stockholms län framhåller samtidigt att begränsningen är svår för enskilda</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr6 td23"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr6 td24"><SPAN class="p51 ft3">att tillämpa. Riksantikvarieämbetet påpekar att en sådan begränsning kom-</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr4 td23"><SPAN class="p53 ft3">8</SPAN> </TD>
+	<TD class="tr4 td24"><SPAN class="p51 ft3">mer att ställa högre krav på antikvarisk kompetens inom kommunerna.</SPAN> </TD>
+</TR>
+</TABLE>
+</DIV>
+<DIV id="page_9">
+
+
+<TABLE cellpadding=0 cellspacing=0 class="t9">
+<TR>
+	<TD class="tr3 td38"><SPAN class="p3 ft3"><SPAN class="ft4">Sveriges Byggindustrier </SPAN>anser att det tydligt måste definieras vilka bygg-</SPAN> </TD>
+	<TD class="tr3 td13"><SPAN class="p17 ft3">Prop. 2017/18:197</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr7 td38"><SPAN class="p3 ft3">nader och bebyggelseområden som omfattas av 8 kap. 13 § för att undvika</SPAN> </TD>
+	<TD class="tr7 td13"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr6 td38"><SPAN class="p3 ft3">olika tolkningar i olika kommuner. Enligt <SPAN class="ft4">Växjö tingsrätt </SPAN>(<SPAN class="ft4">mark- och miljö-</SPAN></SPAN> </TD>
+	<TD class="tr6 td13"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr6 td38"><SPAN class="p3 ft3"><SPAN class="ft4">domstolen</SPAN>) innebär förslaget inte någon lättnad mot bygglovspliktiga åt-</SPAN> </TD>
+	<TD class="tr6 td13"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr7 td38"><SPAN class="p3 ft3">gärder eftersom även bygglovsbefriade åtgärder ska prövas mot kraven i</SPAN> </TD>
+	<TD class="tr7 td13"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr6 td38"><SPAN class="p3 ft3">8 kap. 13, 14 och 17 §§. Förslaget kan därför bli verkningslöst och skapar</SPAN> </TD>
+	<TD class="tr6 td13"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr6 td38"><SPAN class="p3 ft3">snarare större problem vid uppförande av solenergianläggningar än färre</SPAN> </TD>
+	<TD class="tr6 td13"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr7 td38"><SPAN class="p3 ft3">på grund av risk för ingripanden i efterhand.</SPAN> </TD>
+	<TD class="tr7 td13"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr6 td38"><SPAN class="p58 ft5">Flera remissinstanser har synpunkter på förslagets avgränsning. <SPAN class="ft10">Svea hov-</SPAN></SPAN> </TD>
+	<TD class="tr6 td13"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr6 td38"><SPAN class="p3 ft4">rätt <SPAN class="ft3">(</SPAN>Mark- och miljööverdomstolen<SPAN class="ft3">) och </SPAN>Energimyndigheten <SPAN class="ft3">anser att det</SPAN></SPAN> </TD>
+	<TD class="tr6 td13"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr7 td38"><SPAN class="p3 ft3">framstår som ologiskt att anläggningar som integreras i tak eller fasad och</SPAN> </TD>
+	<TD class="tr7 td13"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr6 td38"><SPAN class="p3 ft3">som innebär en mindre väsentlig ändring än utanpåliggande anläggningar</SPAN> </TD>
+	<TD class="tr6 td13"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr6 td38"><SPAN class="p3 ft10"><SPAN class="ft5">fortsatt ska kräva bygglov. </SPAN>Växjö tingsrätt <SPAN class="ft5">(</SPAN>mark- och miljödomstolen<SPAN class="ft5">) anser</SPAN></SPAN> </TD>
+	<TD class="tr6 td13"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr7 td38"><SPAN class="p3 ft3">att frågan om tillägg till byggnader som inte följer byggnadens form, höjd</SPAN> </TD>
+	<TD class="tr7 td13"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr6 td38"><SPAN class="p3 ft3">och fasad bör utredas vidare då frågan om solcellspaneler och solfångare</SPAN> </TD>
+	<TD class="tr6 td13"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr6 td38"><SPAN class="p3 ft5">även har påverkan på prövningen av antenner, skorstenar, ventilationshuvar</SPAN> </TD>
+	<TD class="tr6 td13"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr7 td38"><SPAN class="p3 ft3">och fläktrum ovanpå byggnader. <SPAN class="ft4">Sveriges Arkitekter </SPAN>anser att formulering-</SPAN> </TD>
+	<TD class="tr7 td13"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr6 td38"><SPAN class="p3 ft3">en av förslaget är problematisk eftersom montering av solenergianläggning-</SPAN> </TD>
+	<TD class="tr6 td13"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr7 td38"><SPAN class="p3 ft3">ar kan uppfattas innebära ett byte av färg, fasadbeklädnad eller taktäck-</SPAN> </TD>
+	<TD class="tr7 td13"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr6 td38"><SPAN class="p3 ft3">ningsmaterial, vilket ska hanteras i Boverkets fortsatta utredningsuppdrag.</SPAN> </TD>
+	<TD class="tr6 td13"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr6 td38"><SPAN class="p3 ft3">Ett antal remissinstanser anser att fler solenergianläggningar bör omfattas</SPAN> </TD>
+	<TD class="tr6 td13"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr7 td38"><SPAN class="p3 ft5">av undantaget och att bygglovsplikten bör ses över för fristående anläggning-</SPAN> </TD>
+	<TD class="tr7 td13"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr6 td38"><SPAN class="p3 ft10"><SPAN class="ft5">ar, däribland </SPAN>Högskolan Dalarna<SPAN class="ft5">, </SPAN>länsstyrelserna i Hallands <SPAN class="ft5">och </SPAN>Skåne län<SPAN class="ft5">,</SPAN></SPAN> </TD>
+	<TD class="tr6 td13"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr6 td38"><SPAN class="p3 ft10">Sveriges Byggindustrier<SPAN class="ft5">, </SPAN>Svensk Solenergi <SPAN class="ft5">och </SPAN>Eon<SPAN class="ft5">. </SPAN>Naturvårdsverket <SPAN class="ft5">anser</SPAN></SPAN> </TD>
+	<TD class="tr6 td13"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr6 td38"><SPAN class="p3 ft3">att det finns en viss risk för suboptimering, eftersom förslaget skulle kunna</SPAN> </TD>
+	<TD class="tr6 td13"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr7 td38"><SPAN class="p3 ft3">leda till att fastighetsägare väljer en lösning som följer byggnadens form</SPAN> </TD>
+	<TD class="tr7 td13"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr6 td38"><SPAN class="p3 ft3">även om en uppvinklad lösning skulle ge mer energi. Ett par remissinstanser,</SPAN> </TD>
+	<TD class="tr6 td13"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr7 td38"><SPAN class="p3 ft5">bl.a. <SPAN class="ft10">Länsstyrelsen i Värmlands län</SPAN>, anser att innebörden av att en solenergi-</SPAN> </TD>
+	<TD class="tr7 td13"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr6 td38"><SPAN class="p3 ft3">anläggning följer byggnadens form bör definieras. <SPAN class="ft4">Länsstyrelsen i Stock-</SPAN></SPAN> </TD>
+	<TD class="tr6 td13"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr6 td38"><SPAN class="p3 ft3"><SPAN class="ft4">holms län </SPAN>anser att de solenergianläggningar som omfattas av undantaget</SPAN> </TD>
+	<TD class="tr6 td13"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr6 td38"><SPAN class="p3 ft3">bör begränsas till ytan.</SPAN> </TD>
+	<TD class="tr6 td13"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr7 td38"><SPAN class="p58 ft3"><SPAN class="ft4">Tranås kommun </SPAN>och <SPAN class="ft4">Vattenfall AB </SPAN>anser att de bygglovsbefriade sol-</SPAN> </TD>
+	<TD class="tr7 td13"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr6 td38"><SPAN class="p3 ft3">energianläggningarna ska få kunna strida mot detaljplan. Tranås kommun</SPAN> </TD>
+	<TD class="tr6 td13"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr7 td38"><SPAN class="p3 ft3">bedömer att det inte finns några risker med att totalhöjden kan överskridas</SPAN> </TD>
+	<TD class="tr7 td13"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr6 td38"><SPAN class="p3 ft3">genom solenergianläggningar eller att solenergianläggningar får en annan</SPAN> </TD>
+	<TD class="tr6 td13"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr6 td38"><SPAN class="p3 ft3">färg än vad som är begränsat i detaljplan.</SPAN> </TD>
+	<TD class="tr6 td13"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr7 td38"><SPAN class="p58 ft10">Riksantikvarieämbetet<SPAN class="ft5">, </SPAN>Gotlands kommun <SPAN class="ft5">och </SPAN>Länsstyrelsen i Gävleborgs</SPAN> </TD>
+	<TD class="tr7 td13"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr6 td38"><SPAN class="p3 ft3"><SPAN class="ft4">län </SPAN>anser inte att förslaget kan motiveras av att det är lättare att återställa en</SPAN> </TD>
+	<TD class="tr6 td13"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr6 td38"><SPAN class="p3 ft5">byggnad efter montering av utanpåliggande solceller eller solpaneler än efter</SPAN> </TD>
+	<TD class="tr6 td13"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr7 td38"><SPAN class="p3 ft3">upptagande av ett nytt fönster eller en ny dörr.</SPAN> </TD>
+	<TD class="tr7 td13"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr6 td38"><SPAN class="p58 ft3">Sveriges Kommuner och Landsting anser att lagstiftning bör vara teknik-</SPAN> </TD>
+	<TD class="tr6 td13"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr4 td38"><SPAN class="p3 ft3">neutral för att inte bli ifrånsprungen av teknikutvecklingen.</SPAN> </TD>
+	<TD class="tr4 td13"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr18 td38"><SPAN class="p3 ft11">Skälen för regeringens förslag</SPAN> </TD>
+	<TD class="tr18 td13"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr10 td38"><SPAN class="p3 ft4">Gällande rätt</SPAN> </TD>
+	<TD class="tr10 td13"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr5 td38"><SPAN class="p3 ft3">Montering av solcellspaneler och solfångare på befintliga byggnader om-</SPAN> </TD>
+	<TD class="tr5 td13"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr6 td38"><SPAN class="p3 ft3">fattas inte av uppräkningen av bygglovspliktiga åtgärder i 9 kap. 2 § PBL</SPAN> </TD>
+	<TD class="tr6 td13"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr6 td38"><SPAN class="p3 ft3">eller bygglovspliktiga anläggningar i 6 kap. 1 § PBF. Någon generell bygg-</SPAN> </TD>
+	<TD class="tr6 td13"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr7 td38"><SPAN class="p3 ft3">lovsplikt för en sådan åtgärd finns därför inte. Trots det kan en sådan mon-</SPAN> </TD>
+	<TD class="tr7 td13"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr4 td38"><SPAN class="p3 ft3">tering vara bygglovspliktig inom ett detaljplanelagt område om åtgärden</SPAN> </TD>
+	<TD class="tr4 td13"><SPAN class="p17 ft3">9</SPAN> </TD>
+</TR>
+</TABLE>
+</DIV>
+<DIV id="page_10">
+
+
+<P class="p59 ft3">Prop. 2017/18:197 innebär att byggnaden byter färg, fasadbeklädnad eller taktäckningsmaterial eller om byggnadens yttre utseende avsevärt påverkas på annat sätt (9 kap. 2 § första stycket 3 c och andra stycket PBL). Det saknas dock vägledande rättspraxis i fråga om bygglovsplikten för solenergianläggningar på byggnader inom detaljplanelagda områden.</P>
+<P class="p60 ft3">Utanför detaljplanelagt område är montering av solcellspaneler och solfångare på byggnader bara bygglovspliktigt om kommunen har bestämt det genom områdesbestämmelser (9 kap. 2 § andra stycket och 8 § första stycket 7).</P>
+<P class="p61 ft3">För att en åtgärd ska anses avsevärt påverka en byggnads yttre utseende ska det vara fråga om inte alltför obetydliga ingrepp eller ändringar i byggnadens substans. Exempel på åtgärder som enligt praxis har bedömts påverka byggnadens yttre utseende avsevärt och därför krävt bygglov är upptagande av nya fönster och dörrar och utvändig tilläggsisolering (se bl.a. RÅ 1986 ref. 156 och RÅ 2001 not. 123, jfr även prop. 1985/86:1 s. 693 f. och prop. 2009/10:170 del 1 s. 272 f. och 467).</P>
+<P class="p62 ft25">Bygglovsplikt för åtgärder som innebär att en byggnad byter färg, fasadbeklädnad eller taktäckningsmaterial inträder enligt förarbetena om byggnaden färgas om till en ny kulör och om fasadbeklädnaden eller taktäckningsmaterialet ändras till ett annat material (prop. 1985/86:1 s. 694).</P>
+<P class="p63 ft5">För en- och tvåbostadshus och tillhörande komplementbyggnader inom ett detaljplanelagt område krävs det inte bygglov för att färga om, byta fasadbeklädnad eller byta taktäckningsmaterial, om åtgärden inte väsentligt ändrar byggnadens eller områdets karaktär (9 kap. 5 §). För andra byggnader än en- och tvåbostadshus och tillhörande komplementbyggnader inom ett detaljplanelagt område finns det ett generellt undantag från bygglovskravet för att färga om, byta fasadbeklädnad eller byta taktäckningsmaterial på fasad eller tak som vetter mot kringbyggd gård (9 kap. 6 a §). Det saknas motsvarande undantag från kravet på bygglov för åtgärder som innebär att byggnadens yttre utseende avsevärt påverkas på annat sätt.</P>
+<P class="p64 ft5">Bygglovsbefriade åtgärder måste utföras så att de bl.a. uppfyller de s.k. utformningskraven när det gäller god <NOBR>form-,</NOBR> färg- och materialverkan samt kraven på tekniska egenskaper, i den mån det är skäligt med hänsyn till åtgärdens art och omfattning (8 kap. <NOBR>1–8</NOBR> §§). Därtill ska bygglovsbefriade ändringsåtgärder på byggnader utföras så att byggnader eller bebyggelseområden som är särskilt värdefulla från historisk, kulturhistorisk, miljömässig eller konstnärlig synpunkt inte förvanskas. Åtgärderna ska utföras varsamt så att man tar hänsyn till byggnadens och bebyggelsens karaktärsdrag och tar tillvara byggnadens tekniska, historiska, kulturhistoriska, miljömässiga och konstnärliga värden (8 kap. 13 och 17 §§ och 2 kap. 6 § tredje stycket). Utformningen av åtgärderna ska ske på ett sätt som är lämpligt med hänsyn till bl.a. stads- och landskapsbilden, natur- och kulturvärdena på platsen och intresset av en god helhetsverkan (2 kap. 6 § första stycket). Utformningen får inte leda till att betydande olägenheter för omgivningen uppstår (2 kap. 9 §). Det är byggherrens ansvar att åtgärderna genomförs i enlighet med de krav som gäller för åtgärden enligt PBL eller föreskrifter eller beslut som har meddelats med stöd av lagen (10 kap. 5 §).</P>
+<P class="p65 ft25">Om bygglovsbefriade åtgärder utförts så att de strider mot lag, föreskrifter eller beslut som meddelats med stöd av lagen, får byggnadsnämnden enligt reglerna i 11 kap. PBL vidta tillsynsåtgärder och exempelvis förelägga den</P>
+<P class="p13 ft3">10</P>
+</DIV>
+<DIV id="page_11">
+
+
+<DIV>
+<DIV id="id_1">
+<P class="p66 ft6">som äger fastigheten eller byggnadsverket som en åtgärd har vidtagits på att vidta rättelse inom en viss tid, s.k. rättelseföreläggande.</P>
+<P class="p67 ft4">Rättsliga utgångspunkter</P>
+<P class="p68 ft25">Som nämns ovan saknas det uttryckliga bestämmelser i plan- och bygglagstiftningen om krav på bygglov för solcellspaneler och solfångare som monteras på byggnader. Likaså saknas det vägledande rättspraxis.</P>
+<P class="p69 ft5">I rapporten redovisar Boverket sin uppfattning om rättsläget när det gäller hur bygglovsplikten för solenergianläggningar bör bedömas. Enligt Boverket är det endast solenergianläggningar som integreras i en byggnads fasad eller tak som omfattas av bygglovsplikten för byte av färg, fasadbeklädnad eller taktäckningsmaterial. Det innebär att solenergianläggningar som ersätter en byggnads tidigare färg, fasadbeklädnad eller taktäckningsmaterial kan vidtas utan bygglov med stöd av de undantag som finns enligt PBL för byte av färg, fasadbeklädnad eller taktäckningsmaterial (se 9 kap. 5 och 6 a §§). Enligt Boverket kan solcellspaneler eller solfångare som monteras utanpå en byggnads tak eller fasad kräva bygglov om åtgärden innebär att byggnadens yttre utseende påverkas avsevärt. Något undantag från kravet på bygglov för sådana solenergianläggningar finns inte. <SPAN class="ft10">Länsstyrelsen i Hallands län </SPAN>pekar samtidigt på att flera kommuner tillämpar undantaget i 9 kap. 5 § för byte av färg, fasadbeklädnad och taktäckningsmaterial även för solenergianläggningar som monteras utanpå en byggnads fasad- eller takmaterial. Mot den bakgrunden anser regeringen att rättsläget bör förtydligas.</P>
+<P class="p70 ft5">I förarbetena till den äldre plan- och bygglagen (1987:10) beskrevs hur bygglovsplikten för fasadändringar skulle förstås. Med byte av fasadbeklädnad eller taktäckningsmaterial avsågs en ändring till ett annat material (prop. 1985/86:1 s. 693 f.). I samband med införandet av PBL har någon ändring av bygglovsplikten inte varit avsedd (prop. 2009/10:170 del 1 s. 273 och 467).</P>
+<P class="p71 ft5">Enligt regeringens mening bör solenergianläggningar som monteras på en byggnad inte likställas med att byggnadens fasad- eller takmaterial byts ut. Bygglovsplikt för utanpåliggande solenergianläggningar bör därför utifrån gällande bestämmelser endast kunna uppstå om åtgärden innebär att byggnadens yttre utseende påverkas avsevärt. Med den utgångspunkten saknas det alltså undantagsbestämmelser som kan tillämpas för bygglovspliktiga solenergianläggningar som monteras på en byggnad.</P>
+<P class="p72 ft3">Regeringen gav Boverket i uppdrag att utreda förutsättningarna för ett generellt undantag från krav på bygglov för solcellspaneler och solfångare på byggnader. I delrapporten hänvisar Boverket till att solcellspaneler och solfångare som är tak- och fasadintegrerade kommer att redovisas i uppdragets slutrapport, då ytterligare undantag från krav på bygglov för byte av färg, fasadbeklädnad och taktäckningsmaterial ska behandlas. Regeringens förslag i detta lagstiftningsärende begränsas därför till solenergianläggningar som monteras på en byggnad.</P>
+<P class="p73 ft4">Omställning till förnybar el underlättas</P>
+<P class="p74 ft25">Solen är vår renaste energikälla. Den ger jorden dess enda verkliga tillskott av energi. I dag används solens energi för produktion av både el och värme genom solceller respektive solfångare. Sådan produktion kan spela en viktig roll i ett framtida hållbart energisystem. De senaste tio åren har det skett en snabb ökning av solenergi och den installerade effekten i världen har ökat</P>
+</DIV>
+<DIV id="id_2">
+<P class="p13 ft3">Prop. 2017/18:197</P>
+<P class="p75 ft3">11</P>
+</DIV>
+</DIV>
+</DIV>
+<DIV id="page_12">
+
+
+<P class="p59 ft3">Prop. 2017/18:197 nära femtio gånger. Användningen i Sverige är dock fortfarande relativt liten. Endast 0,1 procent av elen i Sverige kommer från solkraft, men intresset hos privatpersoner och företag att använda solenergi är stort. Många människor vill göra en aktiv insats för att helt ställa om till förnybar el och regeringen vill underlätta sådana insatser.</P>
+<P class="p76 ft5">Enligt budgetpropositionen för 2018 (prop. 2017/18:1 utg.omr. 21) avsätter regeringen drygt 900 miljoner kronor per år under perioden <NOBR>2018–2020</NOBR> till investeringsstöd för solceller. Den stora efterfrågan på solinvesteringsstödet visar att det finns goda möjligheter att skynda på utbyggnadstakten (jfr förordningen [2009:689] om statligt stöd till solceller).</P>
+<P class="p76 ft5">Enligt regeringen är en reform som påskyndar och underlättar omställningen till förnybar el angelägen. Att undanta solenergianläggningar från kravet på bygglov är ett ytterligare sätt att underlätta för fastighetsägare och byggherrar. Enligt regeringen bör bygglovsplikten inte omfatta fler åtgärder än vad som är nödvändigt för att säkerställa samhällets och grannars intressen. Regeringen bedömer att sådana solenergianläggningar som omfattas av förslaget har en sådan begränsad påverkan på allmänna och enskilda intressen att de bör kunna undantas från samhällets prövning och en större frihet överlåtas på byggherrarna. Till det kommer att riksdagen har tillkännagett för regeringen att plan- och bygglagen behöver förenklas och att fler åtgärder bör bli bygglovsbefriade (bet. 2013/14:CU10 punkt 1, rskr. 2013/14:187; bet. 2015/16:CU1 punkt 8, rskr. 2015/16:79 och bet. 2016/17:CU15 punkt 1, rskr. 2016/17:234). Att fler undantag från bygglovskravet för solenergianläggningar kan komma att införas efter Boverkets slutrapport ser regeringen, till skillnad från ett par remissinstanser, inte som ett tillräckligt skäl att avvakta genomförandet av aktuellt förslag. Eftersom förslaget har flera likheter med andra bygglovsbefriade åtgärder (se nedan), bör tillämpningen liksom kommunernas eventuella rådgivning kring det underlättas.</P>
+<P class="p77 ft3">Flera remissinstanser anser, i anslutning till vad Boverket för fram i sin rapport, att ändringarna i fråga om bygglovskrav under senare år bl.a. har lett till att PBL har blivit svårläst och att regleringen bör ses över och utvärderas innan fler undantag införs. Regeringen anser dock inte att ändringar i fråga om slopat bygglovskrav för solcellspaneler och solfångare nämnvärt påverkar reglernas komplexitet. Inte heller motiverar sådana ändringar att regleringen behöver ses över.</P>
+<P class="p78 ft3">Regeringen delar inte den tveksamhet som <SPAN class="ft4">Sveriges Kommuner och Landsting </SPAN>uttrycker kring att peka ut en särskild teknik i lagstiftningen. Enligt regeringen omfattar uttrycken solcellspaneler och solfångare de tekniker som visat sig vara gångbara i Sverige när det gäller att ta tillvara solenergi. Något bredare begrepp har inte aktualiserats i beredningen av detta förslag, varför det saknas underlag att inom ramen för detta lagstiftningsärende införa ett sådant.</P>
+<P class="p79 ft8">Undantag för solenergianläggningar som monteras på en byggnad och följer byggnadens form</P>
+<P class="p80 ft25">Enligt Boverket kräver en montering av solcellspaneler och solfångare utanpå byggnader bygglov endast om byggnadens yttre utseende påverkas avsevärt. För att avgöra om bygglov krävs behöver en bedömning göras i varje enskilt fall, något som gör det svårt att på ett generellt sätt beskriva bygg-</P>
+<P class="p81 ft27">lovsplikten för sådana solenergianläggningar. Anläggningens utförande och</P>
+<P class="p13 ft3">12</P>
+</DIV>
+<DIV id="page_13">
+
+
+<DIV>
+<DIV id="id_1">
+<P class="p82 ft9">placering och byggnadens storlek, karaktär, utseende och material har betydelse för om påverkan är avsevärd, vilket kan innebära att en viss ändring på en byggnad kräver bygglov men att samma ändring på en annan byggnad inte gör det.</P>
+<P class="p39 ft5">Eftersom det inte finns någon specifik reglering kring solenergianläggningar i PBL eller tillhörande författningar och det även saknas vägledande rättspraxis om bygglovspliktens omfattning, gör kommunerna olika tolkningar av vilka åtgärder som är bygglovspliktiga. Tillämpningsproblemen beror till viss del på att regeln om vilka åtgärder som kräver bygglov lämnar ett stort utrymme för bedömningar i det enskilda fallet. Även om det inte finns någon specifik regel om lovplikt för solenergianläggningar från vilken undantag kan införas anser regeringen, till skillnad från <SPAN class="ft10">Vaxholms kommun</SPAN>, att det går att minska tillämpningsproblemen genom att införa undantag från bygglovskravet för ändring av en byggnad.</P>
+<P class="p83 ft5">Enligt Boverkets förslag ska solcellspaneler och solfångare som monteras utanpå en byggnads tak- eller fasadmaterial och följer byggnadens form inte kräva bygglov, även om de påverkar byggnadens yttre utseende avsevärt på annat sätt än genom byte av färg, fasadbeklädnad eller taktäckningsmaterial. Begränsningen att anläggningarna ska följa byggnadens form motiveras av att solenergianläggningar som monteras uppvinklat från tak eller utvinklat från fasader får en större påverkan på byggnaders gestaltning och i högre grad kan inverka negativt på stadsbilden. Boverket har även valt att inte undanta solenergianläggningar som monteras uppvinklat på låglutande tak som endast i begränsad omfattning är synliga från omgivande mark. Skälet för det är att det skulle förutsätta att fastighetsägare och byggnadsnämnder tvingas göra besvärliga bedömningar av anläggningarnas synlighet och påverkan på omgivningen. Ett sådant undantags tillämplighet skulle dessutom i stor utsträckning vara beroende av omgivande topografi. Uppvinklade solenergianläggningar som påverkar byggnadens yttre utseende avsevärt får därför även fortsättningsvis prövas i bygglov. Regeringen anser, i likhet med Boverket, att ett undantag i enlighet med förslaget är lätt att förstå och tillämpa, vilket i praktiken bör underlätta tillämpningen för byggherrar som vill montera solenergianläggningar på en byggnad. När det gäller den lagtekniska utformningen anser regeringen att det är tillräckligt att det framgår att undantaget omfattar solcellspaneler och solfångare som monteras på en byggnad för att utesluta solenergianläggningar som integreras i byggnadens fasad eller tak från tillämpningen (jfr författningskommentaren).</P>
+<P class="p84 ft4"><SPAN class="ft3">Flera remissinstanser, t.ex. </SPAN>Vattenfall AB <SPAN class="ft3">och </SPAN>Sveriges Byggindustrier<SPAN class="ft3">, för fram förslag på andra lagändringar än de som omfattas av Boverkets rapport. Med hänsyn till rapportens avgränsning saknas dock förutsättningar för att inom ramen för detta lagstiftningsärende föreslå andra undantag från kravet på bygglov eller ändra kravet på bygglov.</SPAN></P>
+<P class="p85 ft5">Regeringen anser, i anslutning till vad bl.a. <SPAN class="ft10">länsstyrelserna i Stockholms </SPAN>och <SPAN class="ft10">Värmlands län </SPAN>anför, att det är svårt av både arkitektoniska och tekniska skäl att generellt ange hur långt ut från fasaden eller taket som solenergianläggningen ska få monteras, liksom hur stora anläggningar på byggnader får vara. Enligt regeringen skulle också sådana begränsningar kunna medföra oönskade hinder i valet av anläggning och dess utformning.</P>
+<P class="p86 ft6">En ytterligare fråga är om särskilda regler om solcellspaneler och solfångare kan komma i konflikt med bestämmelserna om undantag för mindre tillbyggnader i form av bl.a. uppstickande byggnadsdelar. I ett domstols-</P>
+</DIV>
+<DIV id="id_2">
+<P class="p13 ft3">Prop. 2017/18:197</P>
+<P class="p75 ft3">13</P>
+</DIV>
+</DIV>
+</DIV>
+<DIV id="page_14">
+
+
+<P class="p59 ft3">Prop. 2017/18:197 avgörande har uppvinklade solfångare på taket till en komplementbyggnad inte bedömts tillföra byggnaden någon byggnadsvolym (Växjö tingsrätts [mark- och miljödomstolen] dom den 30 juni 2016 i mål P <NOBR>2501-15).</NOBR> Mot den bakgrunden bedömer regeringen att risken är liten för att de olika regleringarna, som <SPAN class="ft4">Tranås kommun </SPAN>har farhågor om, kan komma i konflikt med varandra.</P>
+<P class="p87 ft3">Många remissinstanser motsätter sig fler bygglovsbefriade åtgärder med hänsyn till att det kan leda till att kommunernas verksamhet skiftar från lovgivning till tillsyn. <SPAN class="ft4">Riksantikvarieämbetet </SPAN>framhåller att det ställer högre krav på antikvarisk kompetens och medverkan i kommunernas tillsynsarbete. Enligt Vaxholms kommun tenderar tillsynsarbetet att kräva mer arbete än bygglovsärendena. Samtidigt uppger majoriteten av de kommuner som Bo- verket har kontaktat att tillsynsanmälningar när det gäller solenergianläggningar inte har förekommit i deras kommun. Eftersom förslaget inte omfattar alla typer av solenergianläggningar som kan uppföras inom detaljplanelagda områden, bedömer regeringen risken för att förslaget kommer att öka antalet tillsynsärenden som liten. För det fall ändringen kan leda till en viss ökning av antalet tillsynsärenden är det enligt regeringen en effekt som inte förtar mervärdet av förslaget.</P>
+<P class="p88 ft4">Möjlighet att återinföra lovplikt i detaljplan</P>
+<P class="p89 ft3">Boverket föreslår att kommunerna ska ges möjlighet att i detaljplan återinföra lovplikt för undantagna solcellspaneler och solfångare. För sådana åtgärder som utförs på byggnader som inte omfattas av bestämmelsen i 8 kap. 13 § PBL (se nedan) innebär förslaget att kommunerna ges en möjlighet att avgöra om det ändå ska ställas krav på bygglov. På så sätt kan kommunerna begränsa åtgärders påverkan på områdets karaktär. Regeringen instämmer i Boverkets förslag. Motsvarande möjlighet för kommunerna finns för andra fasadåtgärder som undantagits från kravet på bygglov (se 9 kap. 5, 6 a och 8 §§).</P>
+<P class="p90 ft3">Till skillnad från Vattenfall AB och Sveriges Byggindustrier anser regeringen att det, i samband med att bestämmelser om undantag från bygglovsplikten införs, finns ett behov av viss flexibilitet i regelsystemet som ger kommunerna frihet att göra egna bedömningar och anpassa reglerna efter sina lokala förutsättningar. Att kommunerna kan återinföra lovplikt i detaljplan för undantagna åtgärder ger en sådan möjlighet.</P>
+<P class="p60 ft3">I ett pågående arbete med att ta fram nya detaljplaner eller områdesbestämmelser är bebyggelsens utformning ofta redan känd, vilket gör det lättare att förutse åtgärders effekter och införa särskilda bestämmelser om lovplikt för åtgärder som kommunen bedömer bör kräva en förprövning genom bygglov. För befintliga detaljplaner bedömer regeringen att förslagets begränsningar att byggnader och bebyggelseområden som avses i 8 kap. 13 § och att områden som är av intresse för riksintresset för totalförsvaret (se nedan) inte omfattas av undantaget, bör medföra att det endast är i få detaljplaner som lovplikten behöver återinföras.</P>
+<P class="p78 ft6">I samband med denna lagändring bör några språkliga justeringar göras i samma bestämmelse (jfr författningskommentaren till 9 kap. 8 §).</P>
+<P class="p91 ft3">14</P>
+</DIV>
+<DIV id="page_15">
+
+
+<DIV>
+<DIV id="id_1">
+<P class="p92 ft8">Krav på bygglov för solenergianläggningar på byggnader eller inom bebyggelseområden som är särskilt värdefulla</P>
+<P class="p82 ft5">PBL innehåller regler om förvanskningsförbud, vilket innebär att byggnader eller bebyggelseområden som är särskilt värdefulla från historisk, kulturhistorisk, miljömässig eller konstnärlig synpunkt inte får förvanskas. Vidare finns krav på att ändringar av en byggnad ska utföras varsamt, så att man tar hänsyn till byggnadens karaktärsdrag och tar till vara dess tekniska, historiska, kulturhistoriska, miljömässiga och konstnärliga värden (8 kap. 13 och 17 §§). Åtgärder på byggnader ska genomföras så att även bebyggelseområdets karaktärsdrag respekteras och tillvaratas. Utformningen av åtgärderna ska ske på ett sätt som är lämpligt med hänsyn till bl.a. stads- och landskapsbilden, natur- och kulturvärdena på platsen och intresset av en god helhetsverkan (2 kap. 6 §). Dessa regler och krav gäller oavsett om en ändringsåtgärd är bygglovspliktig eller bygglovsbefriad (prop. 2009/10: 170 del 1 s. 259 f. och prop. 2013/14:127 s. 48 f.). Vid sidan av reglerna om förvanskningsförbud finns regler om god <NOBR>form-,</NOBR> färg- och materialverkan samt krav på tekniska egenskaper (8 kap. <NOBR>1–8</NOBR> §§). Utgångspunkten vid tilllämpning av dessa bestämmelser ska vara att nya åtgärder tillför helhetsbilden positiva värden och inte förvanskar egenskaper som kan anses vara värda att bevara (prop. 1997/98:117 s. 16).</P>
+<P class="p93 ft5">Flera åtgärder som annars är undantagna från kravet på bygglov, exempelvis mindre tillbyggnader och komplementbyggnader, kräver bygglov om de vidtas på byggnader eller inom bebyggelseområden som enligt 8 kap. 13 § är särskilt värdefulla från historisk, kulturhistorisk, miljömässig eller konstnärlig synpunkt (se 9 kap. 3 b, 4 d, 5 a och 6 a §§). Boverket föreslår att även undantaget för solcellspaneler och solfångare ska begränsas på motsvarande sätt för att minska risken för att sådana värden går förlorade. På så sätt kan byggnadsnämnden genom en bygglovsprövning säkerställa att den tilltänkta åtgärden är lämpligt utformad och utförd med tillräcklig hänsyn till bl.a. kulturmiljön. Även <SPAN class="ft10">Svea hovrätt </SPAN>(<SPAN class="ft10">Mark- och miljööverdomstolen</SPAN>) och flera länsstyrelser, bl.a. <SPAN class="ft10">länsstyrelserna i Hallands </SPAN>och <SPAN class="ft10">Stockholms län</SPAN>, anser att det är positivt med en begränsning av förslaget med hänvisning till 8 kap. 13 §. Flera remissinstanser, bl.a. <SPAN class="ft10">Sveriges Stadsarkitektförening </SPAN>och <SPAN class="ft10">Riksantikvarieämbetet</SPAN>, ser dock farhågor med att förslaget kan skada viktiga värden och att miljömålet God bebyggd miljö blir ännu svårare att uppnå.</P>
+<P class="p84 ft5">Regeringens tidigare ställningstagande om att begränsa undantag från krav på bygglov med hänsyn till särskilt värdefulla kulturmiljöer gör sig gällande även i fråga om de aktuella åtgärderna (jfr prop. 2016/17:151 s. 53). Ett av skälen för att tidigare begränsa undantag från bygglovsplikten till att inte gälla för byggnader eller bebyggelseområden som omfattas av 8 kap. 13 § har varit för att minska påverkan på generationsmålet och miljökvalitetsmålen, främst God bebyggd miljö. Enligt regeringen är det alltjämt nödvändigt att begränsa påverkan på områden med störst allmänt intresse. Därutöver anser regeringen, till skillnad från bl.a. <SPAN class="ft10">Riksantikvarieämbetet </SPAN>och <SPAN class="ft10">Länsstyrelsen i Gävleborgs län</SPAN>, att förslaget kan motiveras av att en fasad eller ett tak är lättare att återställa efter bortmontering av utanpåliggande solcellsanläggningar än efter exempelvis upptagande av ett nytt fönster eller en ny dörr, som också kan påverka en byggnads yttre utseende</P>
+</DIV>
+<DIV id="id_2">
+<P class="p13 ft3">Prop. 2017/18:197</P>
+<P class="p75 ft3">15</P>
+</DIV>
+</DIV>
+</DIV>
+<DIV id="page_16">
+
+
+<P class="p94 ft9">Prop. 2017/18:197 avsevärt men inte är undantaget från kravet på bygglov. <SPAN class="ft8">Länsstyrelsen i Skåne län </SPAN>delar den bedömningen.</P>
+<P class="p63 ft3">Som påpekats i tidigare lagstiftningsärenden är en nackdel med den föreslagna begränsningen att särskilt värdefulla byggnader eller områden inte behöver vara utpekade i förväg för att vara giltiga och att den slutgiltiga bedömningen görs i det enskilda fallet (se t.ex. prop. 2016/17:151 s. 53). Detta ställer krav på den enskilde byggherren att bedöma byggnadens och områdets karaktär och i tveksamma fall ta kontakt med byggnadsnämnden för att bedöma om det är fråga om bygglovsplikt.</P>
+<P class="p95 ft5">Trots de tillämpningsproblem en begränsning med hänvisning till 8 kap. 13 § kan medföra, anser regeringen att det är nödvändigt med en bygglovsprövning för solenergianläggningar som avsevärt påverkar byggnaders yttre utseende på sådana byggnader och inom sådana bebyggelseområden som avses i bestämmelsen. Syftet med detta är att minska risken för att historiska, kulturhistoriska, miljömässiga och konstnärliga värden ska gå förlorade.</P>
+<P class="p95 ft5">För att motverka tillämpningssvårigheter är det av stor vikt att kommunerna genomför informationsinsatser för att sprida kunskap om hur undantaget är tänkt att fungera och vilka krav som följer av PBL och gällande detaljplaner. Detta är inget främmande inslag i byggnadsnämndernas arbete. Regeringen bedömer att eventuella kompetensinsatser när det gäller tillämpningen av exempelvis 8 kap. 13 § kan rymmas inom Boverkets regeringsuppdrag som ska bidra till att skapa en enhetlig och effektiv tillämpning av plan- och bygglagen i hela landet, även benämnt PBL Kompetens.</P>
+<P class="p90 ft3">Enligt Riksantikvarieämbetet saknas såväl aktuella kulturmiljöprogram som antikvarisk kompetens i en stor andel av Sveriges kommuner. Enligt regeringen kan dock kommunen, för att underlätta för sig själv och för den enskilde byggherren, ta fram underlag för bedömning av vilka byggnader och områden som anses vara särskilt värdefulla enligt 8 kap. 13 §. Länsstyrelserna har relevant kompetens och kan vägleda kommunen i detta arbete. Kommunerna kan även genomföra informationsinsatser för att säkerställa att kulturmiljövärden bevaras, införa skyddsbestämmelser i detaljplan eller områdesbestämmelser eller införa utökad lovplikt för sådana byggnader eller bebyggelseområden.</P>
+<P class="p78 ft6">Sammantaget bedöms förslaget inte medföra något merarbete för kommunerna.</P>
+<P class="p96 ft4">Krav på bygglov inom och i anslutning till områden som är av riksintresse för totalförsvaret</P>
+<P class="p97 ft3">Tidigare införda bestämmelser om undantag från krav på bygglov för bl.a. komplementbostadshus begränsas till att inte gälla inom eller i anslutning till områden som är av riksintresse för totalförsvaret, om det är fråga om flygplatser och övnings- eller skjutfält (9 kap. 4 d §). Boverket har övervägt om ett undantag från krav på bygglov för solenergianläggningar kan leda till ökad risk för skada i form av elektromagnetiskt brus i sådana områden och om undantaget därför bör begränsas för områden som är av riksintresse för totalförsvaret.</P>
+<P class="p62 ft25">I dagsläget är solcellspaneler och solfångare som monteras på byggnader inom områden som inte omfattas av en detaljplan generellt inte bygglovspliktiga. Enligt Boverket gäller det även fristående anläggningar inom alla</P>
+<P class="p81 ft27">typer av områden. Ett stort antal av de solenergianläggningar som finns</P>
+<P class="p13 ft3">16</P>
+</DIV>
+<DIV id="page_17">
+
+
+<DIV>
+<DIV id="id_1">
+<P class="p98 ft25">omfattas alltså inte av något krav på bygglov, vilket innebär att t.ex. grannar eller andra intressenter inte kan påverka sådana åtgärder innan de vidtas.</P>
+<P class="p69 ft5">Inom detaljplanelagt område ska riksintressefrågor hanteras i detaljplaneprocessen. Eftersom solenergianläggningar som undantas från krav på bygglov enligt Boverkets förslag inte får strida mot detaljplan enligt ovan kommer de avtryck som riksintressefrågorna har gett i sådana planer att gälla. Enligt Boverket finns det därför inte tillräckliga skäl att begränsa förslaget med hänsyn till riksintresset för totalförsvaret. Det finns dock både gällande detaljplaner som är äldre än riksintressesystemet och sådana som är upprättade innan ett visst riksintresseområde har pekats ut. Detta innebär enligt regeringen att den påverkan som solenergianläggningar kan få på anläggningar inom områden för riksintresset för totalförsvaret inte med säkerhet beaktats i alla detaljplaner. Till skillnad från Boverket ser regeringen därför skäl att begränsa förslaget för att inte riskera att den elektromagnetiska störning som <SPAN class="ft10">Försvarsmakten </SPAN>och <SPAN class="ft10">Försvarets radioanstalt </SPAN>beskrivit ska påverka viktiga försvarsintressen. Enligt regeringens bedömning bör därför undantaget från bygglovskravet för solenergianläggningar inte gälla inom områden som är av riksintresse för totalförsvaret enligt 3 kap. 9 § andra stycket miljöbalken. Dessa områden hör till det planeringsunderlag som kommunerna ska redovisa i sina översiktsplaner och som därmed är tillgängligt för t.ex. byggherrar (se 3 kap. 4 § och 5 § 3).</P>
+<P class="p99 ft5">För att bli ändamålsenlig bör dock begränsningen av undantaget inte bara omfatta de områden som är av riksintresse för totalförsvaret, utan ett större område runt dessa. Syftet med detta är att undvika elektromagnetiska störningar från solenergianläggningar på verksamhet inom totalförsvaret. Be- gränsningen bör därför även omfatta områden i anslutning till de aktuella riksintresseområdena, motsvarande de s.k. influensområden som framgår av Försvarsmaktens redovisning till länsstyrelsen av riksintressen för totalförsvarets anläggningar (jfr förordningen [1998:896] om hushållning med mark- och vattenområden). Ofta redovisar kommunerna, förutom områden av riksintresse för totalförsvaret, även dessa influensområden i sina översiktsplaner. Det finns därför goda möjligheter för enskilda som överväger att montera solcellspaneler eller solfångare att själva kontrollera om platsen där åtgärden ska vidtas ligger inom ett område av riksintresse för totalförsvaret eller inom ett influensområde.</P>
+<P class="p100 ft3">Begränsningen innebär att nya solenergianläggningar inom dessa områden måste föregås av en bygglovsprövning, där bl.a. åtgärdens omgivningspåverkan ingår (jfr 2 kap. 9 §). Det bör dock noteras att det faktum att krav på bygglov gäller inom dessa områden inte innebär något generellt förbud mot att montera solenergianläggningar på byggnader.</P>
+<P class="p101 ft25">Regeringen avser för övrigt att ta initiativ till att utreda frågan om vilken effekt elektromagnetiska störningar generellt har på områden för riksintresset för totalförsvaret eller dess influensområden. Regeringen kommer därefter att ta ställning till hur förslagen som redovisas ska tas vidare.</P>
+<P class="p102 ft4">Förhållandet till detaljplan</P>
+<P class="p103 ft25">Bygglovsbefriade åtgärder ska som huvudregel följa den detaljplan eller de områdesbestämmelser som gäller för området (10 kap. 2 § PBL). Bakgrunden till regleringen är att det finns gemensamma bestämmelser i PBL som prövas vid såväl planläggning som bygglov. Det gäller bl.a. bestämmelser om krav</P>
+</DIV>
+<DIV id="id_2">
+<P class="p13 ft3">Prop. 2017/18:197</P>
+<P class="p75 ft3">17</P>
+</DIV>
+</DIV>
+</DIV>
+<DIV id="page_18">
+
+
+<P class="p104 ft3">Prop. 2017/18:197 på byggnaders placering och utformning i 2 och 8 kap. PBL. Det innebär att bestämmelser i detaljplaner eller områdesbestämmelser kan träda i stället för motsvarande krav i lagen och få samma rättsliga effekt som ett lovbeslut. Det har därför ansetts naturligt att bestämmelser i detaljplan eller områdesbestämmelser ska följas även för bygglovsbefriade åtgärder.</P>
+<P class="p60 ft3">Boverket föreslår att undantagna solcellspaneler och solfångare ska följa gällande detaljplan av samma skäl som anförts till stöd för en sådan reglering för andra bygglovsbefriade åtgärder (se prop. 2016/17:151 s. 72 f.), en bedömning som <SPAN class="ft4">Stockholms kommun </SPAN>instämmer i. Den ordningen gäller redan för montering av solcellspaneler och solfångare på byggnader inom områden med områdesbestämmelser.</P>
+<P class="p76 ft5">Regeringen håller inte med t.ex. <SPAN class="ft10">Östersunds kommun </SPAN>som ser det som ett problem att åtgärder som inte kräver bygglov ska följa gällande detaljplan. Enligt Boverket är det i praktiken endast ett fåtal planbestämmelser som direkt eller indirekt reglerar utformningen av de solenergianläggningar som omfattas av det föreslagna undantaget. Ett exempel på en sådan planbestämmelse är totalhöjd, som inte sällan grundar sig på omfattande utredningar. Boverket anser inte att det finns skäl att tillåta att sådana solenergianläggningar som omfattas av det föreslagna undantaget ska få strida mot en sådan bestämmelse och sticka upp högre än den maximala totalhöjden samtidigt som andra tillbehör till byggnader inte får göra det. Om solenergianläggningar tillåts strida mot detaljplan, är dessutom risken större att de inte heller kommer att uppfylla kraven i PBL. Att solenergianläggningar som omfattas av det föreslagna undantaget ska följa detaljplanen skapar enligt regeringen en större förutsägbarhet för den som ska montera en sådan anläggning. Det finns även ett värde i att kommunen har en möjlighet att i detaljplan t.ex. reglera att solenergianläggningar inte ska få monteras på en byggnad som har ett kulturhistoriskt värde eller inom ett område där ett av karaktärsdragen är att byggnaderna har tak med röda takpannor. Syftet med detta är att säkerställa att kravet på anpassning till stadsbilden och förvanskningsförbudet uppfylls.</P>
+<P class="p105 ft3"><SPAN class="ft4">Länsstyrelsen i Värmlands län </SPAN>pekar på att en byggnad kan omfattas av bestämmelser i en detaljplan där material och färg är reglerade för fasader och tak. Även om solenergianläggningarna ska monteras utanpå tak- eller fasadmaterialet kan det finnas risk för att åtgärden strider mot syftet med planbestämmelserna. Regeringen instämmer i detta. Som nämnts ovan ställer PBL upp regler för och krav på hur ändringar av en byggnad får utföras och som en byggherre måste beakta oavsett om en åtgärd är bygglovspliktig eller inte. På samma sätt som en byggherre måste beakta kraven i dag vid montering av solenergianläggningar som inte omfattas av något krav på bygglov, måste byggherrarna även göra det för de anläggningar som föreslås undantas från kravet på bygglov. Som <SPAN class="ft4">Högskolan Dalarna </SPAN>anför kan kommunerna enligt förslaget även införa lovplikt för solenergianläggningar för att beakta byggnaders eller bebyggelseområdens specifika karaktärsdrag eller kulturhistoriska värde.</P>
+<P class="p106 ft4">Särskilt angående krav på anmälan och rätten att överklaga</P>
+<P class="p107 ft9">Även om fasadändringar kan vara undantagna från kravet på bygglov kan de i stället vara anmälningspliktiga, exempelvis om åtgärden innebär att</P>
+<P class="p81 ft27">konstruktionen av byggnadens bärande delar berörs eller brandskyddet i en</P>
+<P class="p13 ft3">18</P>
+</DIV>
+<DIV id="page_19">
+
+
+<DIV>
+<DIV id="id_1">
+<P class="p66 ft3">byggnad påverkas väsentligt (9 kap. 16 § och 16 kap. 8 § PBL samt 6 kap. 5 § första stycket 3 och 6 PBF). Anmälningspliktiga åtgärder kräver startbesked från byggnadsnämnden innan de får påbörjas, liksom slutbesked innan de får tas i bruk (10 kap. 3 och 4 §§ PBL). Med ett startbesked ska byggnadsnämnden bl.a. ta ställning till om åtgärden kan antas uppfylla de krav som ställs i PBL eller föreskrifter som har meddelats med stöd av lagen (10 kap. 23 § PBL).</P>
+<P class="p108 ft3">Boverket har inte lämnat förslag om att sådana solcellspaneler och solfångare som omfattas av undantaget ska vara anmälningspliktiga. Däremot påpekar Boverket att åtgärderna kan vara anmälningspliktiga enligt gällande regler, främst med hänsyn till hållfasthet och brandskydd (6 kap. 5 § första stycket 3 och 6 PBF). Anmälningsplikten kommer att behandlas i Boverkets slutrapport, då Boverket ska se över kraven på anmälan i stort.</P>
+<P class="p109 ft3">Till skillnad från flera remissinstanser, bl.a. <SPAN class="ft4">Eskilstuna </SPAN>och <SPAN class="ft4">Gotlands kommuner</SPAN>, bedömer regeringen att förslaget kan genomföras innan anmälningsplikten har utretts. På samma sätt som solenergianläggningar som inte omfattas av något krav på bygglov kan vara anmälningspliktiga, kan de solenergianläggningar som omfattas av förslaget kräva en anmälan. Enligt regeringen är det angeläget att påskynda och underlätta omställningen till förnybar el.</P>
+<P class="p70 ft5">När åtgärder undantas från kravet på bygglov innebär det att grannars, närboendes och andra berördas möjligheter att få sina intressen beaktade i en bygglovsprövning tas bort. Att en sådan ordning kan vara förenlig med bestämmelserna om rätt till domstolsprövning och egendomsskydd i den europeiska konventionen om skydd för de mänskliga rättigheterna och de grundläggande friheterna, Europakonventionen, har behandlats i tidigare lagstiftningsärenden (prop. 2013/14:127 s. 58 f. och prop. 2016/17:151 s. 75 f.).</P>
+<P class="p71 ft25">Vid bedömningen av om ett undantag från bygglovsplikten är förenligt med konventionskraven i fråga om berördas möjlighet till domstolsprövning, är det av betydelse vilken omgivningspåverkan åtgärden kan ge upphov till.</P>
+<P class="p69 ft5">Som några remissinstanser påpekar, bl.a. <SPAN class="ft10">Sveriges Arkitekter</SPAN>, kan solenergianläggningar påverka omgivningen t.ex. genom solreflexer. Mark- och miljööverdomstolen har i ett avgörande uttalat att solreflexer från tak måste ha både en starkt bländande effekt och förekomma med hög frekvens för att anses vara en betydande olägenhet (Svea hovrätts [Mark- och miljööverdomstolen] dom den 23 juni 2015 i mål P <NOBR>6062-14).</NOBR> I ett annat avgörande gjordes bedömningen att 100 kvm solceller som placerats på ett tak inte medförde betydande olägenhet på grund av bländning (Växjö tingsrätts [mark- och miljödomstolen] dom den 18 maj 2015 i mål P <NOBR>1675-15).</NOBR></P>
+<P class="p110 ft9">Mot den bakgrunden och i linje med hur regeringen har bedömt tidigare undantag från bygglovsplikten som införts, bedömer regeringen att inte heller de aktuella åtgärdernas omgivningspåverkan når upp till en sådan nivå att de kräver rätt till domstolsprövning enligt Europakonventionen.</P>
+<P class="p67 ft4">Bestämmelserna</P>
+<P class="p111 ft3">Bestämmelserna finns i 9 kap. 3 c och 8 §§ PBL.</P>
+</DIV>
+<DIV id="id_2">
+<P class="p13 ft3">Prop. 2017/18:197</P>
+<P class="p75 ft3">19</P>
+</DIV>
+</DIV>
+</DIV>
+<DIV id="page_20">
+<DIV id="dimg1">
+<INGENBILD zsrc="H50319720x1.jpg/" id="img1">
+</DIV>
+
+
+<TABLE cellpadding=0 cellspacing=0 class="t10">
+<TR>
+	<TD class="tr9 td14"><SPAN class="p3 ft3">Prop. 2017/18:197 <SPAN class="ft7">6</SPAN></SPAN> </TD>
+	<TD class="tr9 td39"><SPAN class="p3 ft1">Förslaget om bygglovsbefrielse för</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr8 td14"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr8 td39"><SPAN class="p3 ft1">altaner bereds vidare</SPAN> </TD>
+</TR>
+</TABLE>
+<P class="p112 ft3">I rapporten föreslår Boverket även ett undantag från kravet på bygglov för altaner i anslutning till en- och tvåbostadshus. Undantaget föreslås gälla under förutsättning att altanen inte är högre än 1,8 meter över marken, anordnas inom 3,6 meter från bostadshuset och inte placeras närmare gränsen än 4,5 meter. Med altaner avses i förslaget en ”upphöjd golvkonstruktion som utan att vara tak till byggnad är placerad på mark och avsedd att användas som uteplats”. Boverket tar inte ställning till om de altaner som omfattas av undantaget uttryckligen ska kräva anmälan, utan hänvisar till att den frågan kommer att redovisas i slutrapporten.</P>
+<P class="p62 ft9">De synpunkter som remissinstanserna har lämnat är blandade. Remissinstanser som är tillstyrker eller är positiva till förslagen är <SPAN class="ft8">Växjö tingsrätt</SPAN></P>
+<P class="p113 ft4"><SPAN class="ft3">(</SPAN>Mark- och miljödomstolen), länsstyrelserna i Östergötlands<SPAN class="ft3">, </SPAN>Skånes <SPAN class="ft3">och </SPAN>Gävleborgs län<SPAN class="ft3">, </SPAN>Göteborgs<SPAN class="ft3">, </SPAN>Stockholms <SPAN class="ft3">och </SPAN>Tranås kommuner<SPAN class="ft3">, </SPAN>Sveriges byggindustrier <SPAN class="ft3">och </SPAN>Villaägarnas Riksförbund<SPAN class="ft3">. Remissinstanser som avstyrker eller är negativa till förslaget är bl.a. </SPAN>Sveriges Kommuner och Landsting<SPAN class="ft3">, </SPAN>länsstyrelserna i Hallands <SPAN class="ft3">och </SPAN>Stockholms län<SPAN class="ft3">, </SPAN>Riksantikvarieämbetet<SPAN class="ft3">, </SPAN>Eskilstuna<SPAN class="ft3">, </SPAN>Gotlands<SPAN class="ft3">, </SPAN>Haninge<SPAN class="ft3">, </SPAN>Torsås <SPAN class="ft3">och </SPAN>Vaxholms kommuner<SPAN class="ft3">, </SPAN>Samhällsbyggnadsnämnden Bergslagen<SPAN class="ft3">, </SPAN>Sveriges Arkitekter <SPAN class="ft3">och </SPAN>Sveriges Stadsarkitektförening<SPAN class="ft3">.</SPAN></P>
+<P class="p90 ft6">Boverkets förslag om altaner behandlas inte i denna proposition. Förslaget bereds vidare inom Regeringskansliet. Regeringen avser att återkomma med förslag i denna del.</P>
+<P class="p114 ft29"><SPAN class="ft1">7</SPAN><SPAN class="ft28">Ikraftträdande- och övergångsbestämmelser</SPAN></P>
+<P class="p115 ft6"><SPAN class="ft30">Regeringens förslag: </SPAN>Lagförslagen ska träda i kraft den 1 augusti 2018. <SPAN class="ft30">Regeringens bedömning: </SPAN>Det behöver inte införas några övergångs-</P>
+<P class="p116 ft3">bestämmelser.</P>
+<P class="p117 ft9"><SPAN class="ft31">Rapportens förslag: </SPAN>Något förslag lämnas inte i fråga om tidpunkt för ikraftträdande eller övergångsbestämmelser.</P>
+<P class="p63 ft3"><SPAN class="ft11">Remissinstanserna: </SPAN><SPAN class="ft4">Svensk Solenergi </SPAN>anser att lagförslagen ska träda i kraft den 1 juli 2018. <SPAN class="ft4">Haninge kommun </SPAN>anser att en övergångsbestämmelse, likt punkt 3 i lagförslaget i prop. 2013/14:127, kanske bör införas för att en detaljplanebestämmelse, enligt vilken kommunen har reglerat takmaterialet, även ska kunna omfatta utanpåliggande solenergianläggningar.</P>
+<P class="p63 ft32">Skälen för regeringens förslag och bedömning: <SPAN class="ft25">De föreslagna bestämmelserna bör träda i kraft så snart som möjligt vilket, med hänsyn till den tid riksdagen behöver för att behandla förslaget, innebär den 1 augusti 2018.</SPAN></P>
+<P class="p61 ft3">Regeringen bedömer att det inte behövs några övergångsbestämmelser. Eftersom det saknas undantagsbestämmelser i PBL för åtgärder som mot-</P>
+<P class="p81 ft3">svarar de nu föreslagna åtgärderna, och som en kommun kan ha infört lov-</P>
+<P class="p13 ft3">20</P>
+</DIV>
+<DIV id="page_21">
+
+
+<P class="p118 ft9">plikt för i en detaljplanebestämmelse, bedömer regeringen att det inte finns Prop. 2017/18:197 behov av någon övergångsbestämmelse av det slag som <SPAN class="ft8">Haninge kommun</SPAN></P>
+<P class="p119 ft3">pekar på. Bestämmelserna bör bli generellt tillämpliga när de träder i kraft.</P>
+<P class="p120 ft1">8 Konsekvenser</P>
+<P class="p121 ft33"><SPAN class="ft33">8.1</SPAN><SPAN class="ft34">Konsekvenser för staten</SPAN></P>
+<P class="p122 ft3">Konsekvenserna av förslaget bedöms för statens del vara små. I de fall staten agerar i egenskap av byggherre eller fastighetsägare påverkas staten på samma sätt som företagen. Förslaget kommer att medföra att Boverket behöver ta fram lämplig vägledning till berörda aktörer. Boverket gör i rapporten bedömningen att detta behov av information bör kunna hanteras inom ramen för Boverkets ordinarie vägledningsansvar.</P>
+<P class="p123 ft9">Risken för att den elektromagnetiska störning som solenergianläggningar kan ha på Försvarsmaktens anläggningar ska öka bedöms vara liten eftersom förslaget inte omfattar sådana områden som omfattas av riksintresset för totalförsvaret inklusive dess influensområden.</P>
+<P class="p124 ft3">Förslaget bedöms inte ha några konsekvenser för domstolarna.</P>
+<TABLE cellpadding=0 cellspacing=0 class="t11">
+<TR>
+	<TD class="tr19 td23"><SPAN class="p3 ft33">8.2</SPAN> </TD>
+	<TD class="tr19 td37"><SPAN class="p3 ft33">Konsekvenser för kommuner</SPAN> </TD>
+	<TD class="tr19 td40"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=2 class="tr14 td41"><SPAN class="p3 ft3">Förslaget innebär att byggnadsnämnderna får ett minskat antal bygglovs-</SPAN> </TD>
+	<TD class="tr14 td40"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=2 class="tr7 td41"><SPAN class="p3 ft3">ärenden, vilket bidrar till att resurser kan läggas på andra åtgärder. Förslaget</SPAN> </TD>
+	<TD class="tr7 td40"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=2 class="tr6 td41"><SPAN class="p3 ft3">innebär också att byggnadsnämndernas roll förskjuts från att pröva kraven</SPAN> </TD>
+	<TD class="tr6 td40"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=2 class="tr6 td41"><SPAN class="p3 ft3">enligt PBL i förväg till att vid behov pröva kraven i efterhand när åtgärden</SPAN> </TD>
+	<TD class="tr6 td40"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=2 class="tr7 td41"><SPAN class="p3 ft3">redan är utförd. Detta ställer krav på att byggnadsnämnderna anpassar sina</SPAN> </TD>
+	<TD class="tr7 td40"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=2 class="tr6 td41"><SPAN class="p3 ft3">organisationer och utbildar sin personal för att kunna möta denna förändring.</SPAN> </TD>
+	<TD class="tr6 td40"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=2 class="tr6 td41"><SPAN class="p3 ft3">Om tillsynsärendena ökar innebär det en påverkan på kommunernas kost-</SPAN> </TD>
+	<TD class="tr6 td40"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=2 class="tr7 td41"><SPAN class="p3 ft3">nader eftersom tillsynsärenden inte är avgiftsbelagda utan skattefinansierade.</SPAN> </TD>
+	<TD class="tr7 td40"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=2 class="tr6 td41"><SPAN class="p58 ft3">Förslaget kan medföra ett ökat rådgivningsbehov hos byggherrarna, som</SPAN> </TD>
+	<TD class="tr6 td40"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=2 class="tr6 td41"><SPAN class="p3 ft3">byggnadsnämnderna behöver möta. Kommunerna kan i sådana fall få stöd</SPAN> </TD>
+	<TD class="tr6 td40"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=2 class="tr7 td41"><SPAN class="p3 ft3">för detta inom ramen för Boverkets uppdrag PBL Kompetens. Vidare kan</SPAN> </TD>
+	<TD class="tr7 td40"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=2 class="tr6 td41"><SPAN class="p3 ft3">förslaget leda till att antalet ansökningar om frivilliga bygglov kommer att</SPAN> </TD>
+	<TD class="tr6 td40"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr6 td23"><SPAN class="p3 ft3">öka.</SPAN> </TD>
+	<TD class="tr6 td37"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr6 td40"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=2 class="tr7 td41"><SPAN class="p58 ft3">Enligt förslaget begränsas undantaget till att inte gälla för särskilt värde-</SPAN> </TD>
+	<TD class="tr7 td40"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=2 class="tr6 td41"><SPAN class="p3 ft3">fulla byggnader och områden. Detta ställer krav på kommunerna att inven-</SPAN> </TD>
+	<TD class="tr6 td40"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=2 class="tr6 td41"><SPAN class="p3 ft3">tera och peka ut sådana byggnader och områden samt tillhandahålla under-</SPAN> </TD>
+	<TD class="tr6 td40"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=2 class="tr7 td41"><SPAN class="p3 ft3">lag som redovisar vilka byggnader och områden som anses särskilt värde-</SPAN> </TD>
+	<TD class="tr7 td40"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=2 class="tr6 td41"><SPAN class="p3 ft3">fulla inom kommunen. Det kräver i sin tur att kommunerna har tillgång till</SPAN> </TD>
+	<TD class="tr6 td40"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=2 class="tr6 td41"><SPAN class="p3 ft3">antikvarisk kompetens. Kommunernas planavdelningar kommer också att</SPAN> </TD>
+	<TD class="tr6 td40"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=2 class="tr7 td41"><SPAN class="p3 ft3">aktivt behöva ta ställning till om bygglovsplikt för solenergianläggningar</SPAN> </TD>
+	<TD class="tr7 td40"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=2 class="tr6 td41"><SPAN class="p3 ft3">ska återinföras eller inte för byggnader eller bebyggelseområden där sådana</SPAN> </TD>
+	<TD class="tr6 td40"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=2 class="tr6 td41"><SPAN class="p3 ft3">åtgärder inte omfattas av skyddet i 8 kap. 13 § PBL.</SPAN> </TD>
+	<TD class="tr6 td40"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=2 class="tr7 td41"><SPAN class="p58 ft3">Sammanfattningsvis bedömer regeringen dock att konsekvenserna för</SPAN> </TD>
+	<TD class="tr7 td40"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=2 class="tr6 td41"><SPAN class="p3 ft3">kommunerna av förslaget om undantag från krav på bygglov kommer att</SPAN> </TD>
+	<TD class="tr6 td40"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=2 class="tr3 td41"><SPAN class="p3 ft3">vara begränsade och leda till marginella kostnadsökningar.</SPAN> </TD>
+	<TD class="tr3 td40"><SPAN class="p17 ft3">21</SPAN> </TD>
+</TR>
+</TABLE>
+</DIV>
+<DIV id="page_22">
+
+
+<P class="p59 ft9">Prop. 2017/18:197 Som anförts ovan innebär förslaget om ytterligare åtgärder som kan genomföras utan krav på bygglov att byggnadsnämndernas roll förskjuts från att pröva kraven enligt PBL i förväg, till att vid behov pröva kraven i efterhand. Kommunerna ges dock en möjlighet att återinföra lovplikten i detaljplan och områdesbestämmelser. Sammantaget bedöms inte förslagen medföra någon negativ inverkan på den kommunala självstyrelsen.</P>
+<P class="p125 ft33"><SPAN class="ft35">8.3</SPAN><SPAN class="ft36">Konsekvenser för företag</SPAN></P>
+<P class="p126 ft9">Sådana företag som tillverkar, säljer och installerar solenergianläggningar berörs av förslaget eftersom Boverket bedömer att förslaget kan komma att medföra att fler solenergianläggningar tillverkas, säljs, monteras och underhålls.</P>
+<P class="p61 ft3">I de fall företag agerar som byggherre innebär förslaget att företagen enklare kan avgöra om en åtgärd som ska utföras är bygglovspliktig eller inte. Om åtgärden omfattas av undantaget, behöver den som vill installera en solenergianläggning inte söka eller betala avgift för bygglov.</P>
+<P class="p61 ft3">Solenergianläggningar som omfattas av undantaget ska följa gällande detaljplan, vilket innebär att byggherren måste göra en egen bedömning av om den montering som ska vidtas är förenlig med detaljplanen. Det motsvarar vad som gäller för motsvarande åtgärd inom områden med områdesbestämmelser.</P>
+<P class="p127 ft3">Byggherren behöver liksom i dag vara medveten om vilka krav som ställs i PBL för att sätta upp solenergianläggningar. När bygglov inte längre krävs minskar dialogen mellan byggherren och kommunen. Detta ställer större krav på företaget att självständigt ta reda på vilka krav som finns och bedöma om kraven uppfylls. Företaget kan dock även fortsättningsvis söka råd hos kommunen i fråga om vilka krav som ställs.</P>
+<P class="p60 ft3">Företag behöver också förstå att det finns en viss osäkerhet med att bedöma vilka byggnader eller områden som är särskilt värdefulla enligt 8 kap. 13 § PBL och vad som därmed utgör en begränsning för när undantagen från krav på bygglov inte gäller. I vissa fall kommer troligtvis byggherrar att behöva ansöka om ett frivilligt bygglov, vilket kan innebära att denna form av lov blir vanligare än i dag.</P>
+<P class="p128 ft25">De byggherrar som genomför åtgärder som inte uppfyllt kraven enligt PBL eller gällande detaljplaner eller områdesbestämmelser riskerar att drabbas av att byggnadsnämnden ingriper i efterhand. De regler och krav som gäller för byggnadsverk, t.ex. planenlighet, gäller dock oavsett om åtgärden är bygglovsbefriad eller inte. Den enda skillnaden är att byggnadsnämnden inte kontrollerar att kraven uppfylls innan åtgärden utförs.</P>
+<P class="p125 ft33"><SPAN class="ft35">8.4</SPAN><SPAN class="ft36">Konsekvenser för enskilda</SPAN></P>
+<P class="p129 ft9">Förslaget innebär främst förenklingar för enskilda som vill montera en sådan solenergianläggning som omfattas av förslaget. I de fall privatpersoner genomför en sådan åtgärd påverkas de på samma sätt som byggherrar och fastighetsägare.</P>
+<P class="p130 ft3">22</P>
+</DIV>
+<DIV id="page_23">
+
+
+<TABLE cellpadding=0 cellspacing=0 class="t12">
+<TR>
+	<TD class="tr14 td42"><SPAN class="p131 ft33">8.5</SPAN> </TD>
+	<TD class="tr14 td43"><SPAN class="p132 ft33">Konsekvenser för miljön</SPAN> </TD>
+	<TD class="tr14 td13"><SPAN class="p3 ft3">Prop. 2017/18:197</SPAN> </TD>
+</TR>
+</TABLE>
+<P class="p133 ft3">Förslaget bedöms få en begränsad påverkan på generationsmålet och miljökvalitetsmålen, främst God bebyggd miljö, eftersom undantaget inte gäller för särskilt värdefulla byggnader eller bebyggelseområden. Det finns dock en ökad risk för skador på kulturvärden om kommunen inte i förväg har pekat ut byggnader eller områden av särskilt intresse. För att minska risken ges kommunen möjligheten att efter lämplig avvägning återinföra krav på bygglov i detaljplan.</P>
+<P class="p134 ft5">Förslaget kan komma i konflikt med målen för arkitektur, formgivning och design, bl.a. avseende att kulturhistoriska och estetiska värden i befintliga miljöer ska tas till vara och förstärkas samt att kvalitet och skönhetsaspekter inte ska underställas kortsiktiga ekonomiska överväganden. Kulturmiljölagen (1988:950) anger vidare att det är en nationell angelägenhet att skydda och vårda kulturmiljön. Ansvaret för kulturmiljön delas av alla. Såväl enskilda som myndigheter ska visa hänsyn till och aktsamhet om kulturmiljön. Den som planerar eller utför ett arbete ska se till att skador på kulturmiljön undviks eller begränsas. Riksdagen har därutöver antagit nationella mål för kulturmiljöarbetet som slår fast att kulturmiljöarbetet bl.a. ska främja ett hållbart samhälle med en mångfald av kulturmiljöer som bevaras, används och utvecklas samt en helhetssyn på förvaltningen av landskapet som innebär att kulturmiljön tas till vara i samhällsutvecklingen. För dessa övergripande målsättningar bedöms dock risken för mer påtagliga konsekvenser som liten eftersom de byggnadsåtgärder som förslaget avser är begränsade.</P>
+<P class="p135 ft33"><SPAN class="ft33">8.6</SPAN><NOBR><SPAN class="ft34">EU-rätten</SPAN></NOBR></P>
+<P class="p136 ft9">Förslaget överensstämmer med de skyldigheter som följer av Sveriges anslutning till Europeiska unionen. Förslaget bedöms inte heller ha några konsekvenser för den fria handeln med varor och tjänster eller strida mot Europakonventionen.</P>
+<P class="p137 ft3">23</P>
+</DIV>
+<DIV id="page_24">
+
+
+<TABLE cellpadding=0 cellspacing=0 class="t13">
+<TR>
+	<TD class="tr20 td14"><SPAN class="p3 ft3">Prop. 2017/18:197 <SPAN class="ft7">9</SPAN></SPAN> </TD>
+	<TD class="tr20 td44"><SPAN class="p3 ft1">Författningskommentar</SPAN> </TD>
+</TR>
+</TABLE>
+<P class="p138 ft37">Förslaget till lag om ändring i plan- och bygglagen (2010:900)</P>
+<P class="p139 ft11">9 kap. Bygglov, rivningslov och marklov m.m.</P>
+<P class="p139 ft24">Undantag för ekonomibyggnader m.m.</P>
+<P class="p140 ft39"><SPAN class="ft38">3 c § </SPAN>Trots 2 § första stycket 3 c krävs det inte bygglov för att på en byggnad montera solcellspaneler och solfångare som följer byggnadens form även om byggnadens yttre utseende påverkas avsevärt.</P>
+<P class="p141 ft10">Första stycket gäller inte om</P>
+<P class="p142 ft39">1. kommunen enligt 8 § första stycket 9 har bestämt att åtgärden kräver bygglov,</P>
+<P class="p61 ft39"><SPAN class="ft39">2.</SPAN><SPAN class="ft40">åtgärden vidtas på en byggnad eller inom ett bebyggelseområde som avses i 8 kap. 13 §, eller</SPAN></P>
+<P class="p61 ft10"><SPAN class="ft10">3.</SPAN><SPAN class="ft41">åtgärden vidtas inom eller i anslutning till sådana områden som avses i 3 kap. 9 § andra stycket miljöbalken.</SPAN></P>
+<P class="p143 ft9">Paragrafen, som är ny, innehåller bestämmelser om undantag från kravet i 2 § första stycket 3 c på bygglov för ändring av en byggnad. Övervägandena finns i avsnitt 5.</P>
+<P class="p63 ft5"><SPAN class="ft10">Första stycket </SPAN>innebär att det inte krävs bygglov för att inom detaljplanelagt område montera solcellspaneler och solfångare om de monteras på en byggnad och följer byggnadens form (jfr även 2 § andra stycket). Genom kravet på att de aktuella anläggningarna monteras på en byggnad omfattar undantaget inte sådana solcellspaneler och solfångare som integreras i byggnaden och därmed ingår i byggnadens fasadbeklädnad eller taktäckningsmaterial. Undantaget omfattar inte heller solcellspaneler och solfångare som är uppvinklade eller utvinklade från byggnadens form.</P>
+<P class="p142 ft3">Åtgärden ska följa gällande detaljplan, något som följer av 10 kap. 2 §.</P>
+<P class="p144 ft9">I <SPAN class="ft8">andra stycket </SPAN>räknas tre situationer upp när undantaget enligt första stycket inte gäller, vilket innebär att åtgärden kräver bygglov.</P>
+<P class="p61 ft9">Av <SPAN class="ft8">punkten 1 </SPAN>följer att undantaget inte gäller för det fall kommunen i en detaljplan har bestämt att åtgärden kräver bygglov.</P>
+<P class="p61 ft3">Enligt <SPAN class="ft4">punkten 2 </SPAN>gäller undantaget inte om åtgärden vidtas på en byggnad eller inom ett bebyggelseområde som vid tillämpning av 8 kap. 13 § anses vara särskilt värdefullt från historisk, kulturhistorisk, miljömässig eller konstnärlig synpunkt (jfr prop. 1985/86:1 s. 509 f. och prop. 2009/10:170 del 1 s. 464).</P>
+<P class="p95 ft5">Av <SPAN class="ft10">punkten 3 </SPAN>följer att undantaget inte gäller för det fall åtgärden vidtas inom eller i anslutning till sådana områden som enligt 3 kap. 9 § andra stycket miljöbalken är av riksintresse på grund av att de behövs för totalförsvarets anläggningar. Med ”i anslutning till” avses de s.k. influensområden som omger aktuella riksintressen och som framgår av Försvarsmaktens redovisning till länsstyrelsen av riksintressen för totalförsvarets anläggningar (jfr förordningen [1998:896] om hushållning med mark- och vattenområden). Angående redovisningen av riksintressen i översiktsplaner, som ofta även omfattar sådana influensområden, se 3 kap. 4 och 5 §§.</P>
+<P class="p145 ft3">24</P>
+</DIV>
+<DIV id="page_25">
+
+
+<TABLE cellpadding=0 cellspacing=0 class="t14">
+<TR>
+	<TD class="tr2 td38"><SPAN class="p3 ft24">Krav i detaljplan eller områdesbestämmelser</SPAN> </TD>
+	<TD class="tr2 td13"><SPAN class="p3 ft3">Prop. 2017/18:197</SPAN> </TD>
+</TR>
+</TABLE>
+<P class="p146 ft43"><SPAN class="ft42">8 § </SPAN>Utöver det som följer av <NOBR>2–7</NOBR> §§ krävs det bygglov i den utsträckning som framgår av</P>
+<P class="p147 ft5"><SPAN class="ft5">1.</SPAN><SPAN class="ft44">föreskrifter som har meddelats med stöd av 16 kap. 7 §,</SPAN></P>
+<P class="p147 ft43"><SPAN class="ft43">2.</SPAN><SPAN class="ft45">det som kommunen för ett område som utgör en värdefull miljö</SPAN></P>
+<P class="p148 ft46"><SPAN class="ft46">a)</SPAN><SPAN class="ft47">i en detaljplan har bestämt </SPAN><SPAN class="ft48">i fråga om </SPAN>att vidta en åtgärd som avses i 4 § första stycket 3 eller 4 <NOBR>a–4</NOBR> c §§,</P>
+<P class="p148 ft43"><SPAN class="ft43">b)</SPAN><SPAN class="ft49">i en detaljplan eller områdesbestämmelser har bestämt </SPAN><SPAN class="ft39">i fråga om </SPAN>att underhålla eller ändra ett byggnadsverk eller bebyggelseområde som avses i 8 kap. 13 §,</P>
+<P class="p149 ft43"><SPAN class="ft43">3.</SPAN><SPAN class="ft45">det som kommunen i områdesbestämmelser har bestämt </SPAN><SPAN class="ft39">i fråga om </SPAN>att utanför en sammanhållen bebyggelse vidta åtgärder som avses i 6 § första stycket 1 och 2,</P>
+<P class="p148 ft43"><SPAN class="ft43">4.</SPAN><SPAN class="ft45">det som kommunen i områdesbestämmelser har bestämt i fråga om ekonomibyggnader för jordbruk, skogsbruk eller liknande näring,</SPAN></P>
+<P class="p148 ft46"><SPAN class="ft46">5.</SPAN><SPAN class="ft50">det som kommunen i en detaljplan eller områdesbestämmelser har bestämt </SPAN><SPAN class="ft48">i fråga om </SPAN>att anordna eller väsentligt ändra anläggningar för sådana grundvattentäkter som avses i 11 kap. 11 § 1 miljöbalken,</P>
+<P class="p147 ft5"><SPAN class="ft5">6.</SPAN><SPAN class="ft51">det som kommunen i en detaljplan har bestämt </SPAN><SPAN class="ft10">i fråga om </SPAN>att i området färga</P>
+<P class="p150 ft5">om, byta fasadbeklädnad eller byta taktäckningsmaterial,</P>
+<P class="p148 ft46"><SPAN class="ft46">7.</SPAN><SPAN class="ft50">det som kommunen i områdesbestämmelser har bestämt </SPAN><SPAN class="ft48">i fråga om </SPAN>att i området byta en byggnads färg, fasadbeklädnad eller taktäckningsmaterial eller vidta någon annan åtgärd som avsevärt påverkar byggnadens yttre utseende<SPAN class="ft48">,</SPAN></P>
+<P class="p148 ft5"><SPAN class="ft5">8.</SPAN><SPAN class="ft44">det som kommunen i en detaljplan har bestämt i fråga om en sådan tillbyggnad som avses i 5 a §</SPAN><SPAN class="ft10">,</SPAN></P>
+<P class="p148 ft48"><SPAN class="ft48">9.</SPAN><SPAN class="ft52">det som kommunen i en detaljplan har bestämt i fråga om en sådan åtgärd som avses i 3 c §.</SPAN></P>
+<P class="p147 ft5">Första stycket 4 och 5 gäller endast om det finns särskilda skäl för en bygglovs-</P>
+<P class="p150 ft5">prövning.</P>
+<P class="p136 ft9">Paragrafen innehåller bestämmelser om när kommunen, utöver vad som följer av <NOBR>2–7</NOBR> §§, kan bestämma att det krävs bygglov. Första stycket har ändrats genom att det har införts en ny punkt. Därutöver har språkliga justeringar gjorts. Övervägandena finns i avsnitt 5.</P>
+<P class="p148 ft9">Av <SPAN class="ft8">första stycket 9 </SPAN>följer att kommunen i en detaljplan får bestämma att bygglov krävs för en åtgärd som avses i 3 c §, dvs. montering av solcellspaneler och solfångare på en byggnad som följer byggnadens form.</P>
+<P class="p4 ft11">Ikraftträdande</P>
+<P class="p151 ft3">Denna lag träder i kraft den 1 augusti 2018.</P>
+<P class="p152 ft3">25</P>
+</DIV>
+<DIV id="page_26">
+
+
+<DIV id="id_1">
+<DIV id="id_1_1">
+<P class="p13 ft3">Prop. 2017/18:197</P>
+<P class="p36 ft3">Bilaga 1</P>
+</DIV>
+<DIV id="id_1_2">
+<P class="p153 ft53">Sammanfattning av Boverkets rapport Altaner, solcellspaneler och solfångare i PBL (Rapport 2017:26)</P>
+<P class="p154 ft3">Regeringen har gett Boverket i uppdrag att bland annat utreda förutsättningarna för ytterligare undantag från krav på bygglov för altaner, solcellspaneler och solfångare samt föreslå en definition av begreppet altan. I denna delrapport lämnar Boverket förslag på sådana undantag och på en definition.</P>
+<P class="p155 ft3">Undantaget för altaner ska enligt Boverkets förslag samordnas med de nuvarande undantagen för skärmtak, mur och plank vid skyddad uteplats i 9 kap 4 § plan- och bygglagen (2010:900), PBL. Undantaget ska omfatta altaner i anslutning till en- och tvåbostadshus som utgör golv till en skyddad uteplats, anordnas inom 3,6 meter från bostadshuset, tillsammans med mur och plank sammantaget inte har en höjd som överstiger 1,8 meter och inte placeras närmare gränsen än 4,5 meter om inte berörda grannar medger det.</P>
+<P class="p156 ft9">För att underlätta tillämpningen av det föreslagna undantaget för altaner föreslår Boverket att det även införs en definition av begreppet altan. Altan är enligt förslaget ”Upphöjd golvkonstruktion som utan att vara tak till byggnad är placerad på mark och avsedd att användas som uteplats.”.</P>
+<P class="p39 ft5">Undantaget för solcellspaneler och solfångare ska enligt Boverkets förslag omfatta solcellspaneler och solfångare som följer byggnadens form och ska gälla även om dessa påverkar byggnadens yttre utseende avsevärt på annat sätt än genom byte av färg, fasadbeklädnad eller taktäckningsmaterial. Undantaget ska inte gälla för sådana byggnader eller bebyggelseområden som är särskilt värdefulla i enlighet med 8 kap 13 § PBL. Undantaget ska enligt förslaget gälla för alla typer av byggnader men begränsas till solcellspaneler och solfångare som placeras utanpå byggnader och som följer byggnadens form. Den senare begränsningen innebär att solcellspaneler som är uppvinklade och därmed inte följer byggnadens form eller som är integrerade i fasad eller tak inte omfattas av undantaget. De solcellspaneler och solfångare som är tak- eller fasadintegrerade kommer Boverket att återkomma till i samband med slutredovisningen av uppdraget. Då kommer bland annat ytterligare undantag från krav på bygglov för byte av färg, fasadbeklädnad och taktäckningsmaterial att behandlas.</P>
+<P class="p157 ft3">Boverket föreslår dessutom att altaner som omfattas av undantag från krav på bygglov i likhet med skärmtak, murar och plank ska få strida mot detaljplan och områdesbestämmelser. Solcellspaneler och solfångare som omfattas av undantag från krav på bygglov får däremot även fortsättningsvis inte strida mot detaljplan och områdesbestämmelser.</P>
+<P class="p158 ft9">I rapporten pekar Boverket på några tillämpningsproblem som inte kan åtgärdas med undantagsregler och därmed inte kan hanteras inom ramen för detta uppdrag. Det är tillämpningsproblem som i huvudsak beror på oklarheter i huvudreglerna om bygglov.</P>
+</DIV>
+</DIV>
+<DIV id="id_2">
+<P class="p13 ft3">26</P>
+</DIV>
+</DIV>
+<DIV id="page_27">
+
+
+<DIV id="id_1">
+<DIV id="id_1_1">
+<P class="p13 ft1">Rapportens lagförslag</P>
+</DIV>
+<DIV id="id_1_2">
+<P class="p13 ft3">Prop. 2017/18:197</P>
+<P class="p159 ft3">Bilaga 2</P>
+</DIV>
+</DIV>
+<DIV id="id_2">
+<P class="p160 ft37">Nedan återges Boverkets lagförslag endast i fråga om solcellspaneler och solfångare</P>
+<P class="p161 ft6">Härigenom föreskrivs i fråga om plan- och bygglagen (2010:900) <SPAN class="ft15">dels </SPAN>att [– – <NOBR>–]</NOBR> 9 kap. [– – <NOBR>–]</NOBR> 8 § ska ha följande lydelse,</P>
+<P class="p162 ft3"><SPAN class="ft4">dels </SPAN>att det ska införas en ny paragraf, 9 kap. 3 c §.</P>
+<TABLE cellpadding=0 cellspacing=0 class="t15">
+<TR>
+	<TD class="tr10 td18"><SPAN class="p3 ft4">Nuvarande lydelse</SPAN> </TD>
+	<TD class="tr10 td17"><SPAN class="p3 ft10">Föreslagen lydelse</SPAN> </TD>
+</TR>
+</TABLE>
+<P class="p163 ft3">[ – – – ]</P>
+<P class="p164 ft11">9 kap.</P>
+<P class="p165 ft4">3 c §</P>
+<P class="p166 ft4">Trots 2 § första stycket 3 c krävs det inte bygglov för att på en byggnad montera solcellspaneler och solfångare som följer byggnadens form även om dess yttre utseende påverkas avsevärt på annat sätt än genom byte av färg, fasadbeklädnad eller taktäckningsmaterial.</P>
+<P class="p167 ft4">Första stycket gäller inte</P>
+<P class="p168 ft8"><SPAN class="ft4">1.</SPAN><SPAN class="ft54">om kommunen enligt 8 § första stycket 9 bestämt att åtgärden kräver bygglov, eller</SPAN></P>
+<P class="p169 ft4"><SPAN class="ft4">2.</SPAN><SPAN class="ft55">på byggnader eller inom be-</SPAN></P>
+<P class="p170 ft15">byggelseområden som avses i 8 kap. 13 §.</P>
+<P class="p171 ft3">[ – – – ]</P>
+<P class="p172 ft3">8 §</P>
+<P class="p173 ft9">Utöver det som följer av <NOBR>2–7</NOBR> §§ krävs det bygglov i den utsträckning som framgår av</P>
+<P class="p147 ft3"><SPAN class="ft3">1.</SPAN><SPAN class="ft13">föreskrifter som har meddelats med stöd av 16 kap. 7 §,</SPAN></P>
+<P class="p147 ft3"><SPAN class="ft3">2.</SPAN><SPAN class="ft13">det som kommunen för ett område som utgör en värdefull miljö</SPAN></P>
+<P class="p147 ft3"><SPAN class="ft3">a)</SPAN><SPAN class="ft13">i en detaljplan har bestämt för att vidta en åtgärd som avses i 4 § första</SPAN></P>
+<P class="p150 ft3">stycket 3 eller 4 <NOBR>a–4</NOBR> c §§,</P>
+<P class="p148 ft9">b) i en detaljplan eller områdesbestämmelser har bestämt för att underhålla eller ändra ett byggnadsverk eller bebyggelseområde som avses i 8 kap. 13 §,</P>
+<P class="p148 ft3">3. det som kommunen i områdesbestämmelser har bestämt för att utanför en sammanhållen bebyggelse vidta åtgärder som avses i 6 § första stycket 1 och 2,</P>
+<P class="p174 ft6">4. det som kommunen i områdesbestämmelser har bestämt i fråga om ekonomibyggnader för jordbruk, skogsbruk eller liknande näring,</P>
+<P class="p175 ft3">27</P>
+</DIV>
+</DIV>
+<DIV id="page_28">
+<DIV id="dimg1">
+<INGENBILD zsrc="H50319728x1.jpg/" id="img1">
+</DIV>
+
+
+<DIV>
+<DIV id="id_1">
+<P class="p176 ft3">Prop. 2017/18:197</P>
+<P class="p177 ft3">Bilaga 2</P>
+<P class="p178 ft3">28</P>
+</DIV>
+<DIV id="id_2">
+<P class="p179 ft9">5. det som kommunen i en detaljplan eller områdesbestämmelser har bestämt för att anordna eller väsentligt ändra anläggningar för sådana grundvattentäkter som avses i 11 kap. 11 § 1 miljöbalken,</P>
+<P class="p179 ft3"><SPAN class="ft3">6.</SPAN><SPAN class="ft13">det som kommunen i en detaljplan har bestämt för att i området färga om, byta fasadbeklädnad eller byta taktäckningsmaterial,</SPAN></P>
+<P class="p179 ft3"><SPAN class="ft3">7.</SPAN><SPAN class="ft13">det som kommunen i områdesbestämmelser har bestämt för att i området byta en byggnads färg, fasadbeklädnad eller taktäckningsmaterial eller vidta någon annan åtgärd som avsevärt påverkar byggnadens yttre</SPAN></P>
+<P class="p119 ft3">utseende,</P>
+<TABLE cellpadding=0 cellspacing=0 class="t5">
+<TR>
+	<TD class="tr17 td16"><SPAN class="p180 ft3">8. det som kommunen i en detalj-</SPAN> </TD>
+	<TD class="tr17 td44"><SPAN class="p17 ft3">8. det som kommunen i en detalj-</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr7 td16"><SPAN class="p180 ft3">plan har bestämt i fråga om en</SPAN> </TD>
+	<TD class="tr7 td44"><SPAN class="p17 ft3">plan har bestämt i fråga om en</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr6 td16"><SPAN class="p43 ft5">sådan tillbyggnad som avses i 5 a §<SPAN class="ft10">.</SPAN></SPAN> </TD>
+	<TD class="tr6 td44"><SPAN class="p16 ft5">sådan tillbyggnad som avses i 5 a §<SPAN class="ft10">,</SPAN></SPAN> </TD>
+</TR>
+</TABLE>
+<P class="p181 ft4">9. det som kommunen i en detaljplan har bestämt i fråga om en sådan ändringsåtgärd som avses i 3 c §.</P>
+<P class="p182 ft6">Första stycket 4 och 5 gäller endast om det finns särskilda skäl för en bygglovsprövning.</P>
+<P class="p46 ft3">Denna lag träder i kraft den xx.</P>
+</DIV>
+</DIV>
+</DIV>
+<DIV id="page_29">
+
+
+<DIV id="id_1">
+<DIV id="id_1_1">
+<P class="p13 ft1">Förteckning över remissinstanserna</P>
+</DIV>
+<DIV id="id_1_2">
+<P class="p13 ft3">Prop. 2017/18:197</P>
+<P class="p159 ft3">Bilaga 3</P>
+</DIV>
+</DIV>
+<DIV id="id_2">
+<P class="p183 ft5">Följande har inkommit med yttranden: Riksdagens ombudsmän (JO), Svea hovrätt (Mark- och miljööverdomstolen), Växjö tingsrätt (mark- och miljödomstolen), Blekinge tekniska högskola, Elsäkerhetsverket, Forskningsrådet för miljö, areella näringar och samhällsbyggande (Formas), Fortifikationsverket, Försvarets materielverk (FMV), Försvarets radioanstalt (FRA), Försvarsmakten, Högskolan i Dalarna, Centrum för solenergiforskning, Konkurrensverket, Lantmäteriet, Länsstyrelsen i Östergötlands län, Länsstyrelsen i Skåne län, Länsstyrelsen i Hallands län, Länsstyrelsen i Värmlands län, Länsstyrelsen i Gävleborgs län, Naturvårdsverket, Riksantikvarieämbetet, Statens energimyndighet, Statens fastighetsverk, Haninge kommun, Stockholms kommun, Vaxholms kommun, Eskilstuna kommun, Tranås kommun, Torsås kommun, Gotlands kommun, Eslövs kommun, Gullspångs kommun, Göteborgs kommun, Nora kommun, Strömsunds kommun, Östersunds kommun, Vindelns kommun, Byggherrarna Sverige AB, Fastighetsägarna Sverige, IQ Samhällsbyggnad, Samhällsbyggarna, Sveriges Allmännyttiga Bostadsbolag (SABO), Sveriges Arkitekter, Sveriges Byggindustrier, Svensk Solenergi, Sveriges Kommuner och Landsting (SKL), Sveriges Stadsarkitektförening, Villaägarnas Riksförbund.</P>
+<P class="p184 ft3">Följande har givits tillfälle att inkomma med synpunkter: Nacka tingsrätt (mark- och miljödomstolen), Lunds universitet (juridiska fakulteten), Länsstyrelsen i Dalarnas län, Länsstyrelsen i Västernorrlands län, Statens centrum för arkitektur och design, Tillväxtverket, Totalförsvarets forskningsinstitut (FOI), Regelrådet, Värmdö kommun, Östhammars kommun, Nyköpings kommun, Kinda kommun, Nässjö kommun, Tingsryds kommun, Älmhults kommun, Borgholms kommun, Karlskrona kommun, Sölvesborgs kommun, Klippans kommun, Tjörns kommun, Karlskoga kommun, Umeå kommun, Gällivare kommun, Funktionsrätt Sverige, Föreningen för samhällsplanering, Föreningen Sveriges Bygglovgranskare och Byggnadsnämndssekreterare (FSBS), Föreningen Sveriges stadsbyggare, Kulturmiljöfrämjandet, Lika Unika, Federationen mänskliga rättigheter för personer med funktionsnedsättning, Näringslivets regelnämnd, PRO, Småkom, SPF Seniorerna, <NOBR>VVS-företagen.</NOBR></P>
+<P class="p185 ft6">Därutöver har följande inkommit med synpunkter: Vattenfall AB, HSB, E.ON Sverige AB, Solelkommissionen, Länsstyrelsen i Stockholms län.</P>
+<P class="p186 ft3">29</P>
+</DIV>
+</DIV>
+<DIV id="page_30">
+
+
+<DIV>
+<DIV id="id_1">
+<P class="p176 ft3">Prop. 2017/18:197</P>
+<P class="p177 ft3">Bilaga 4</P>
+<P class="p178 ft3">30</P>
+</DIV>
+<DIV id="id_2">
+<P class="p13 ft1">Lagrådets yttrande</P>
+<P class="p187 ft3">Utdrag ur protokoll vid sammanträde <NOBR>2018-02-28</NOBR></P>
+<P class="p188 ft6"><SPAN class="ft30">Närvarande: </SPAN>F.d. justitieråden Karin Almgren och Christer Silfverberg samt justitierådet Dag Mattsson</P>
+<P class="p189 ft11">Fler bygglovsbefriade åtgärder</P>
+<P class="p190 ft6">Enligt en lagrådsremiss den 22 februari 2018 har regeringen (Näringsdepartementet) beslutat inhämta Lagrådets yttrande över förslag till lag om ändring i plan- och bygglagen (2010:900).</P>
+<P class="p191 ft56">Förslaget har inför Lagrådet föredragits av rättssakkunniga Charlotte Jansson, biträdd av departementssekreteraren Cecilia von Schéele.</P>
+<P class="p130 ft3"><SPAN class="ft57">Lagrådet </SPAN>lämnar förslaget utan erinran.</P>
+</DIV>
+</DIV>
+</DIV>
+<DIV id="page_31">
+<DIV id="dimg1">
+<INGENBILD zsrc="H50319731x1.jpg/" id="img1">
+</DIV>
+
+
+<TABLE cellpadding=0 cellspacing=0 class="t16">
+<TR>
+	<TD class="tr8 td38"><SPAN class="p3 ft1">Näringsdepartementet</SPAN> </TD>
+	<TD class="tr8 td13"><SPAN class="p3 ft3">Prop. 2017/18:197</SPAN> </TD>
+</TR>
+</TABLE>
+<P class="p192 ft3">Utdrag ur protokoll vid regeringssammanträde den 15 mars 2018</P>
+<P class="p193 ft3">Närvarande: statsminister Löfven, ordförande, och statsråden Lövin,</P>
+<P class="p194 ft9">M Johansson, Baylan, Hallengren, Bucht, Hultqvist, Hellmark Knutsson, Bolund, Bah Kuhnke, Shekarabi, Fridolin, Eriksson, Skog, Ekström, Fritzon, Eneroth</P>
+<P class="p193 ft3">Föredragande: statsrådet Eriksson</P>
+<P class="p195 ft3">Regeringen beslutar proposition Fler bygglovsbefriade åtgärder</P>
+<P class="p196 ft3">31</P>
+</DIV>
+
+</div><style>
+
+
+TD,TD.p2h {
+zzzfont-size:90%;
+zzzmargin-right:2px;
+zzzoverflow:visable;
+zzzword-wrap: break-word;
+}
+
+P {
+zdisplay:block;
+}
+
+.divbreak {
+clear:both;
+display:block;
+zwidth: 100%;
+zheight: 1px;
+zword-wrap: break-word;
+}
+
+
+.xecp {
+  display:block;
+  margin: 0px !important;
+  padding: 0px !important;
+  
+}
+
+.ec {
+  border-style:solid;
+  border-width:1px;
+  display:block;
+  margin: 0px !important;
+  padding: 0px !important;
+}
+
+.TOPS {
+  overflow:visable;
+  margin:2px;
+  width:690px !important;
+}
+
+</style>

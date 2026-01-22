@@ -1,0 +1,811 @@
+SEARCH TERM: artificiell intelligens
+DOCUMENT ID: hb022562
+TITLE: Internationell samverkan
+TYPE: mot
+SUBTYPE: Kommittémotion
+DATE: 2023-10-05
+PARLIAMENTARY YEAR: 2023/24
+ORGANISATION: UU
+STATUS: Klar
+DOWNLOADED: 2026-01-22 10:24:45
+================================================================================
+
+<style><!-- 
+ @page Section1 { size:595.3pt 841.9pt; margin:35.45pt 85.05pt 56.7pt }
+div.Section1 { page:Section1 }
+div.pconf body { t-i:17pt; line-height:15pt; font-family:'Verdana'; font-size: 0.90em }
+div.pconf h1, h2, h3, h4, h5, h6, p { margin:0pt }
+div.pconf li, table { margin-top:0pt; margin-bottom:0pt }
+div.pconf h1 { margin-top:41pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:19.5pt; font-family:'Verdana'; font-size: 1.05em; font-weight:normal; color:#000000 }
+div.pconf h2 { margin-top:30pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:17pt; font-family:'Verdana'; font-size: 1.00em; font-weight:normal; color:#000000 }
+div.pconf h3 { margin-top:18pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:17pt; font-family:'Verdana'; font-size: 0.90em; font-weight:bold; color:#000000 }
+div.pconf h4 { margin-top:18pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:17pt; font-family:'Verdana'; font-size: 0.90em; font-weight:normal; font-style:italic; color:#000000 }
+div.pconf h5 { margin-top:15pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:17pt; font-family:'Verdana'; font-size: 0.90em; font-weight:bold; font-style:normal; color:#000000 }
+div.pconf h6 { margin-top:15pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:17pt; font-family:'Verdana'; font-size: 0.90em; font-weight:normal; font-style:italic; color:#000000 }
+.Heading7 { margin-top:15pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:17pt; font-family:'Verdana'; font-size: 0.90em; font-weight:normal; font-style:italic; color:#000000; -aw-style-name:heading7 }
+.Heading8 { margin-top:15pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:17pt; font-family:'Verdana'; font-size: 0.90em; font-weight:normal; font-style:italic; color:#000000; -aw-style-name:heading8 }
+.Heading9 { margin-top:0pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:17pt; font-family:'Verdana'; font-size: 0.90em; font-weight:normal; font-style:italic; color:#000000; -aw-style-name:heading9 }
+.BalloonText { margin-bottom:0pt; t-i:17pt; line-height:normal; font-family:'Segoe UI'; font-size: 0.90em }
+.Beteckning { margin-top:18pt; margin-bottom:0pt; t-i:14.2pt; page-break-inside:auto; page-break-after:auto; line-height:19.5pt; font-size: 1.05em }
+.BlockText, .Inramatstycke { margin-right:56.7pt; margin-left:56.7pt; margin-bottom:0pt; t-i:0pt; text-align:nojustify; line-height:15pt; border:0.75pt solid #000000; padding:10pt; font-size: 0.90em; font-style:italic; -aw-border:0.25pt single }
+.Citaticitat { margin-top:7.5pt; margin-left:34pt; margin-bottom:0pt; t-i:0pt; line-height:12pt; font-size: 0.90em }
+.Citaticitatmedindrag { margin-top:0pt; margin-left:34pt; margin-bottom:7.5pt; t-i:17pt; line-height:12pt; font-size: 0.90em }
+.Citatmedindrag { margin-top:0pt; margin-left:17pt; margin-bottom:0pt; t-i:17pt; line-height:12pt; font-size: 0.90em }
+.CommentSubject { margin-bottom:0pt; t-i:17pt; line-height:normal; font-size: 0.90em; font-weight:bold }
+.CommentText { margin-bottom:0pt; t-i:17pt; line-height:normal; font-size: 0.90em }
+.FSHLogo { margin-top:4pt; margin-bottom:0pt; t-i:0pt; line-height:normal; font-size: 0.90em }
+.FSHNormL { margin-top:4pt; margin-bottom:0pt; t-i:0pt; line-height:15pt; border-top:1.5pt solid #000000; padding-top:3pt; font-size: 0.90em }
+.FSHNormal { margin-top:4pt; margin-bottom:0pt; t-i:0pt; line-height:15pt; font-size: 0.90em }
+.FSHNormalS5 { margin-top:11.5pt; margin-bottom:26pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-size: 0.95em; font-weight:bold }
+.FSHRub1, .Rubrik1S5 { margin-top:135pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:16pt; font-size: 1.00em }
+.FSHRub2, .Rubrik1A4 { margin-top:50pt; margin-bottom:5pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:24pt; font-size: 1.05em }
+.FSHTitel, .Dokumentrubrik { margin-top:4pt; margin-bottom:4pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:20pt; border-bottom:0.75pt solid #000000; padding-bottom:3pt; font-size: 1.05em; -aw-border-bottom:0.5pt single }
+.Footer { margin-top:4pt; margin-bottom:0pt; t-i:0pt; text-align:center; line-height:normal; font-size: 0.90em }
+.FootnoteText { margin-top:0pt; margin-bottom:0pt; t-i:0pt; line-height:12pt; font-size: 0.90em }
+.Frslagsrubrik { margin-top:41pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:19.5pt; font-family:'Verdana'; font-size: 1.05em }
+.Frslagstext, .Hemstlatt, .Yrkande { margin-top:4pt; margin-left:19.85pt; margin-bottom:0pt; t-i:-19.85pt; line-height:15pt; font-size: 0.90em }
+.Header { margin-top:4pt; margin-bottom:0pt; t-i:0pt; line-height:normal; font-size: 0.90em }
+.KantRubrikS5H { margin-top:6pt; margin-right:2.85pt; margin-bottom:0pt; t-i:0pt; text-align:right; line-height:8pt; font-size: 0.90em }
+.KantRubrikS5Hrad2 { margin-top:0pt; margin-right:2.85pt; margin-bottom:0pt; t-i:0pt; text-align:right; line-height:10pt; font-size: 0.90em }
+.KantRubrikS5V { margin-top:6pt; margin-right:0pt; margin-bottom:0pt; t-i:0pt; text-align:left; line-height:8pt; font-size: 0.90em }
+.KantRubrikS5Vrad2 { margin-top:0pt; margin-right:0pt; margin-bottom:0pt; t-i:0pt; text-align:left; line-height:10pt; font-size: 0.90em }
+.KantrubrikH { margin-top:4pt; margin-right:-82.2pt; margin-bottom:0pt; t-i:0pt; text-align:right; line-height:15pt; font-size: 0.90em }
+.KantrubrikV { margin-top:4pt; margin-left:-85.05pt; margin-bottom:0pt; t-i:0pt; line-height:normal; font-size: 0.90em }
+.Klla { margin-top:0pt; margin-bottom:0pt; t-i:0pt; line-height:12pt; font-size: 0.90em }
+.Lagtext { margin-top:4pt; margin-bottom:0pt; t-i:0pt; line-height:normal; font-size: 0.90em }
+.Lagtextindrag { margin-top:4pt; margin-bottom:0pt; t-i:14.2pt; line-height:normal; font-size: 0.90em }
+.Lagtextrubrik { margin-top:4pt; margin-bottom:0pt; t-i:0pt; line-height:normal; font-size: 0.90em; font-style:italic; letter-spacing:1pt }
+.List { margin-top:7.5pt; margin-left:17pt; margin-bottom:7.5pt; t-i:-17pt; line-height:15pt; font-size: 0.90em }
+.ListBullet, .PunktlistaBomb { margin-top:4pt; margin-left:14.2pt; margin-bottom:0pt; t-i:-14.2pt; line-height:15pt; font-size: 0.90em }
+.ListNumber, .PunktlistaNummer { margin-top:4pt; margin-left:14.2pt; margin-bottom:0pt; t-i:-14.2pt; line-height:15pt; font-size: 0.90em }
+.ListParagraph { margin-left:36pt; margin-bottom:0pt; t-i:17pt; line-height:15pt; font-size: 0.90em }
+.ListaGemener { margin-top:7.5pt; margin-left:17pt; margin-bottom:7.5pt; t-i:-17pt; line-height:15pt; font-size: 0.90em }
+.ListaLinje { margin-top:7.5pt; margin-left:19pt; margin-bottom:7.5pt; t-i:-19pt; line-height:15pt; font-size: 0.90em }
+.ListaNummer { margin-top:7.5pt; margin-left:17pt; margin-bottom:7.5pt; t-i:-17pt; line-height:15pt; font-size: 0.90em }
+.ListaPunkt { margin-top:7.5pt; margin-left:17pt; margin-bottom:7.5pt; t-i:-17pt; line-height:15pt; font-size: 0.90em }
+.MotionTIllRiksdagen { margin-top:18pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:19.5pt; font-size: 1.05em }
+.Motionr { margin-top:14pt; margin-bottom:31.5pt; t-i:0pt; page-break-inside:avoid; line-height:15pt; font-size: 1.00em; font-weight:bold; font-style:normal }
+.Motiveringrubrik2numrerat1 { margin-top:30pt; margin-left:0pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:17pt; font-family:'Verdana'; font-size: 1.00em }
+.Motiveringrubrik3numrerat1 { margin-top:18pt; margin-left:0pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:17pt; font-family:'Verdana'; font-size: 0.90em; font-weight:bold }
+.Motiveringrubrik3numrerat11 { margin-top:18pt; margin-left:0pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:17pt; font-family:'Verdana'; font-size: 0.90em; font-weight:bold }
+.Motiveringrubrik4numrerat11 { margin-top:18pt; margin-left:0pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:17pt; font-family:'Verdana'; font-size: 0.90em; font-weight:normal; font-style:italic }
+.NormalIndent { margin-left:65.2pt; margin-bottom:0pt; t-i:17pt; line-height:15pt; font-size: 0.90em }
+.Normalutanindragellerluft { margin-top:4pt; margin-bottom:0pt; t-i:0pt; line-height:15pt; font-size: 0.90em }
+.Normal00 { margin-top:4pt; margin-bottom:0pt; t-i:0pt; line-height:normal; font-size: 0.90em }
+.NormalA4fot { margin-top:12pt; margin-bottom:0pt; t-i:0pt; text-align:center; line-height:normal; font-size: 0.90em }
+.NormalA4sidnr { margin-top:4pt; margin-bottom:12pt; t-i:0pt; text-align:center; line-height:normal; font-size: 0.90em }
+.NormalS5sidnrH { margin-top:4pt; margin-right:2.85pt; margin-bottom:0pt; t-i:0pt; text-align:right; line-height:normal; font-size: 0.90em }
+.NormalS5sidnrV { margin-top:4pt; margin-right:0pt; margin-bottom:0pt; t-i:0pt; text-align:left; line-height:normal; font-size: 0.90em }
+.PlainText { margin-bottom:0pt; t-i:0pt; line-height:12pt; font-family:'Verdana'; font-size: 0.90em }
+.Quote { margin-top:7.5pt; margin-left:17pt; margin-bottom:0pt; t-i:0pt; line-height:12pt; font-size: 0.90em }
+.R1 { margin-top:41pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:19.5pt; font-family:'Verdana'; font-size: 1.05em }
+.R2 { margin-top:30pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:17pt; font-family:'Verdana'; font-size: 1.00em }
+.R3 { margin-top:18pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:17pt; font-family:'Verdana'; font-size: 0.90em; font-weight:bold }
+.Rubrik1numrerat { margin-top:41pt; margin-left:0pt; margin-bottom:0pt; t-i:0pt; page-break-inside:auto; page-break-after:avoid; line-height:19.5pt; font-family:'Verdana'; font-size: 1.05em }
+.Rubrik2numrerat { margin-top:30pt; margin-left:0pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:17pt; font-family:'Verdana'; font-size: 1.00em }
+.Rubrik3numrerat { margin-top:18pt; margin-left:0pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:17pt; font-family:'Verdana'; font-size: 0.90em; font-weight:bold }
+.Rubrik4numrerat { margin-top:18pt; margin-left:0pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:17pt; font-family:'Verdana'; font-size: 0.90em; font-weight:normal; font-style:italic }
+.RubrikFrslagTIllRiksdagsbeslut { margin-top:41pt; margin-bottom:15pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:19.5pt; font-family:'Verdana'; font-size: 1.05em }
+.RubrikInnehllsf { margin-top:41pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:19.5pt; font-family:'Verdana'; font-size: 1.05em }
+.RubrikSammanf { margin-top:41pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:19.5pt; font-family:'Verdana'; font-size: 1.05em }
+.Salutation { margin-top:41pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:19.5pt; font-family:'Verdana'; font-size: 1.05em }
+.Streckkod { margin-top:12pt; margin-bottom:0pt; t-i:0pt; text-align:center; line-height:normal; font-family:IDAutomationHC39S; font-size: 1.00em }
+.Strecklista, .PunktlistaTankstreck { margin-top:4pt; margin-left:14.2pt; margin-bottom:0pt; t-i:-14.2pt; line-height:15pt; font-size: 0.90em }
+.Subtitle { margin-top:4pt; margin-bottom:0pt; t-i:0pt; line-height:15pt; font-family:'Verdana'; font-size: 0.90em; font-weight:bold }
+.TOC1 { margin-top:4pt; margin-bottom:0pt; t-i:0pt; line-height:15pt; font-size: 0.90em }
+.TOC2 { margin-top:4pt; margin-left:14.2pt; margin-bottom:0pt; t-i:0pt; line-height:15pt; font-size: 0.90em }
+.TOC3 { margin-top:4pt; margin-left:28.35pt; margin-bottom:0pt; t-i:0pt; line-height:15pt; font-size: 0.90em }
+.TOC4 { margin-top:4pt; margin-left:42.55pt; margin-bottom:0pt; t-i:0pt; line-height:15pt; font-size: 0.90em }
+.TOC5 { margin-top:4pt; margin-left:56.7pt; margin-bottom:0pt; t-i:0pt; line-height:15pt; font-size: 0.90em }
+.TOC6 { margin-top:4pt; margin-left:56.7pt; margin-bottom:0pt; t-i:0pt; line-height:15pt; font-size: 0.90em }
+.TOC7 { margin-top:15pt; margin-left:56.7pt; margin-bottom:0pt; t-i:14.2pt; page-break-inside:avoid; page-break-after:avoid; line-height:normal; font-family:'Verdana'; font-size: 0.90em; font-weight:normal; font-style:italic }
+.TOC8 { margin-top:15pt; margin-left:56.7pt; margin-bottom:0pt; t-i:14.2pt; page-break-inside:avoid; page-break-after:avoid; line-height:normal; font-family:'Verdana'; font-size: 0.90em; font-weight:normal; font-style:italic }
+.TOC9 { margin-top:15pt; margin-left:56.7pt; margin-bottom:0pt; t-i:14.2pt; page-break-inside:avoid; page-break-after:avoid; line-height:normal; font-family:'Verdana'; font-size: 0.90em; font-weight:normal; font-style:italic }
+.TOCHeading { margin-top:41pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:19.5pt; font-family:'Verdana'; font-size: 1.05em }
+.Tabellunderrubrik { margin-top:0pt; margin-bottom:0pt; t-i:0pt; page-break-after:avoid; line-height:15pt; font-size: 0.90em; font-weight:normal; font-style:italic }
+.Tabellrubrik { margin-top:7.5pt; margin-bottom:0pt; t-i:0pt; page-break-after:avoid; line-height:15pt; font-size: 0.90em; font-weight:bold }
+.Title { margin-top:41pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:19.5pt; font-family:'Verdana'; font-size: 1.05em }
+.Underskriftdatum { margin-top:24pt; margin-bottom:3pt; t-i:0pt; page-break-inside:avoid; line-height:15pt; font-size: 0.90em; font-style:normal }
+.Underskrifter { margin-top:15pt; margin-bottom:3pt; t-i:0pt; page-break-inside:avoid; line-height:15pt; font-size: 0.90em; font-style:italic }
+.Yrkandehnv, .Frslagspunkthnv { margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; font-size: 0.90em }
+span.BallongtextChar { font-family:'Segoe UI'; font-size: 0.90em }
+span.BeteckningChar { font-size:19.5pt }
+span.CommentReference { font-size:8pt }
+span.FSHRub2Char, span.Rubrik1A4Char { font-size:24pt }
+span.FotnotstextChar { font-size:10pt }
+span.Hyperlink { text-decoration:underline; color:#0563c1; -aw-style-name:hyperlink }
+span.InledningChar { font-family:'Verdana'; font-size: 1.00em; font-weight:bold }
+span.IntenseReference { font-weight:normal; font-style:normal; font-variant:normal; text-decoration:none; text-transform:none; letter-spacing:0pt; vertical-align:0pt; color:#000000; display:inline }
+span.KommentarerChar { font-size:10pt }
+span.KommentarsmneChar { font-size:10pt; font-weight:bold }
+span.MotionTIllRiksdagenChar { font-size:19.5pt }
+span.OformateradtextChar { font-family:'Verdana'; font-size: 0.90em }
+span.PlaceholderText { color:#f4b083 }
+span.Rubrik1Char { font-family:'Verdana'; font-size: 1.05em }
+span.Rubrik2Char { font-family:'Verdana'; font-size: 1.00em }
+span.Rubrik3Char { font-family:'Verdana'; font-size: 0.90em; font-weight:bold }
+span.Rubrik4Char { font-family:'Verdana'; font-size: 0.90em; font-style:italic }
+span.Rubrik5Char { font-family:'Verdana'; font-weight:bold }
+span.Rubrik6Char { font-family:'Verdana'; font-style:italic }
+span.Rubrik7Char { font-family:'Verdana'; font-size: 0.90em; font-weight:bold }
+span.Rubrik8Char { font-family:'Verdana'; font-size: 0.90em; font-weight:bold }
+span.Rubrik9Char { font-family:'Verdana'; font-size: 0.90em; font-weight:bold }
+span.RubrikChar { font-family:'Verdana'; font-size: 1.00em; font-weight:bold }
+span.SidfotChar { font-size:11.5pt }
+span.UnderrubrikChar { font-family:'Verdana'; font-size: 0.90em; font-weight:bold }
+.TableGrid {  }
+
+.pconf{width: 450px;margin-left:5px;overflow:visable;font-family:Verdana, Geneva, sans-serif;} 
+ .sidhuvud_publikation, .sidhuvud_beteckning{font-size:133%}
+.MotionarLista {font-size:122%}
+
+--></style><div class="pconf"><span class="sidhuvud_publikation">Motion till riksdagen</span><br/>
+<span class="sidhuvud_beteckning">2023/24:2562</span><br/>
+<span class="MotionarLista">av Morgan Johansson m.fl. (S)</span><br/>
+<h1>Internationell samverkan</h1>
+<hr class="sidhuvud_linje"/>
+
+
+		<div class="Section1">
+			<h1 style="margin-bottom:15pt">
+				<a name="_Toc106800475"></a><a name="_Toc106801300"><span style="-aw-sdt-tag:'CC_Boilerplate_4'; -aw-sdt-title:'CC_Boilerplate_4'"><span>Förslag till riksdagsbeslut</span></span><span style="-aw-bookmark-end:_Toc106800475"></span></a>
+			</h1>
+			<div style="-aw-sdt-tag:'8a79757d-42ae-45a1-814d-190603bc9df3'; -aw-sdt-title:'Yrkande 1'">
+				<ol type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-left:14pt; t-i:0pt; padding-left:5.85pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att Sverige ska vara en stark röst globalt och vara en aktiv internationell kraft och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'ad38b5a0-6c08-4904-9246-4aecce3e654f'; -aw-sdt-title:'Yrkande 2'">
+				<ol start="2" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; margin-left:14pt; t-i:0pt; padding-left:5.85pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att Rysslands anfallskrig är oprovocerat, olagligt och oförsvarligt och att Sveriges militära, ekonomiska och humanitära stöd till Ukraina ska fortsätta och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'d29aa5a1-51ba-4330-b9fc-a03f098a25c1'; -aw-sdt-title:'Yrkande 3'">
+				<ol start="3" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; margin-left:14pt; t-i:0pt; padding-left:5.85pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att Sverige ska fortsätta att stödja de insatser som görs för att samla in bevis och bygga åtal mot de ryska förövarna och beslutsfattarna för att kunna ställa dem till ansvar för deras förbrytelser och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'e6962279-0439-4c55-be36-41fa18f81312'; -aw-sdt-title:'Yrkande 4'">
+				<ol start="4" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; margin-left:14pt; t-i:0pt; padding-left:5.85pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att sanktionerna mot Ryssland och ryska beslutsfattare och oligarker bör bestå och om hur ryska frysta tillgångar kan användas i återuppbyggnaden av Ukraina och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'896167e3-e707-4668-922b-989ae56bd00f'; -aw-sdt-title:'Yrkande 5'">
+				<ol start="5" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; margin-left:14pt; t-i:0pt; padding-left:5.85pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att hålla fast vid den framgångsrika feministiska utrikespolitiken, jämställdhet och arbetet för alla kvinnors och flickors rättigheter inklusive SRHR och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'d65eae53-f90a-42ce-81be-7d3b8cbd3dd2'; -aw-sdt-title:'Yrkande 6'">
+				<ol start="6" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; margin-left:14pt; t-i:0pt; padding-left:5.85pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att stödja den feministiska revolutionen i Iran och att terrorlista det islamiska revolutionsgardet och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'a79d8de1-b4f6-441f-a789-b45c0889b9da'; -aw-sdt-title:'Yrkande 7'">
+				<ol start="7" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; margin-left:14pt; t-i:0pt; padding-left:5.85pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att stå upp för det multilaterala systemet och att Sverige ska fortsätta att vara en ansvarsfull och engagerad medlem av dessa organisationer och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'a3685664-bb3c-4f9f-b535-69881b8130ba'; -aw-sdt-title:'Yrkande 8'">
+				<ol start="8" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; margin-left:14pt; t-i:0pt; padding-left:5.85pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att användningen av AI bör regleras globalt och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'e8c54946-3385-4912-8292-832508453fe2'; -aw-sdt-title:'Yrkande 9'">
+				<ol start="9" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; margin-left:14pt; t-i:0pt; padding-left:5.85pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att vårt mål är en värld utan kärnvapen och att Sverige ska fortsätta arbetet med att åstadkomma konkreta steg för kärnvapennedrustning inom ramen för icke-spridningsfördraget (NPT) och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'7ba60e46-86b6-4638-8a50-c0982739f677'; -aw-sdt-title:'Yrkande 10'">
+				<ol start="10" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; t-i:0pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att FN utgör navet i det globala samarbetet för internationell fred och säkerhet och spelar en viktig roll för fred och säkerhet, folkrätten, mänskliga rättigheter och utveckling och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'43ad6de2-892e-4829-a613-1da2d479a510'; -aw-sdt-title:'Yrkande 11'">
+				<ol start="11" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; t-i:0pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att stärka den samlade europeiska försvarsförmågan samt EU:s handlingsförmåga som säkerhetspolitisk aktör och förmåga att ta ansvar för unionens och närområdets säkerhet och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'2fd9441f-1724-45b2-84e7-5dc091ac6bac'; -aw-sdt-title:'Yrkande 12'">
+				<ol start="12" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; t-i:0pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om Sveriges kommande Natomedlemskap och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'320aa4d7-3be8-4a76-8547-045e9fc0a8c0'; -aw-sdt-title:'Yrkande 13'">
+				<ol start="13" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; t-i:0pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om det nordiska samarbetet och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'150433b2-a309-4fb3-9dcb-7471412d0625'; -aw-sdt-title:'Yrkande 14'">
+				<ol start="14" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; t-i:0pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att Arktis är en viktig del av vårt närområde och att Sveriges engagemang för området bör öka och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'CC_Motivering_Rubrik'; -aw-sdt-title:'CC_Motivering_Rubrik'">
+				<h1>
+					<a name="MotionsStart"></a><a name="_Toc106801301"></a><a name="_Toc106800476"><span>En omvärld i förändring – Sverige går från att vara en aktiv och internationell aktör, till att bli passivt och provinsiellt</span></a>
+				</h1>
+			</div>
+			<span style="-aw-bookmark-end:_Toc106801301">
+			</span>
+			<p class="Normalutanindragellerluft">
+				<span style="-aw-bookmark-end:_Toc106800476"></span><span>Rysslands invasionskrig i Ukraina är den senaste och kanske tydligaste utmaningen mot den regelbaserade världsordningen. Men inte den enda. Efter flera år av positiv global utveckling har vi de senaste åren sett en tillbakagång för värden som demokrati, frihet och multilateralism. Nya ekonomier växer sig allt starkare och USA:s och västvärldens framträdande roll, som varit rådande i världen sedan det kalla kriget, utmanas från flera håll. </span>
+			</p>
+			<p>
+				<span>Kina och Ryssland fortsätter att etablera sig i afrikanska och latinamerikanska länder och knyta dem närmare sig, med både handel och stöd. Sedan 2020 sveper en kuppvåg över delar av Afrika och destabiliserar området. Ryska Wagnersoldater har skickats till flera afrikanska länder i utbyte mot exploatering av energi och mineraler. Regionala stormakter växer fram samtidigt som västländernas andel av den globala ekonomin minskar. </span>
+			</p>
+			<p>
+				<span>I kampen om en ny världsordning är det avgörande att Sverige och övriga EU kan verka för värden som mänskliga rättigheter, demokrati, frihet och ekonomisk utveckling och samtidigt fortsätta arbetet för klimatomställningen.</span>
+			</p>
+			<p>
+				<span>Sverige måste fortsätta att vara en stark röst globalt. Vi ser därför med stor oro på hur regeringen väljer att ta flera steg tillbaka och dra sig undan från den globala scenen. Det är regeringens ensidiga fokus på närområdet och Europa ett tydligt tecken på. Svensk utrikespolitik blir passiv och provinsiell, istället för aktiv och internationell. </span>
+			</p>
+			<p>
+				<span>En aktiv utrikespolitik är av grundläggande betydelse. Världen är mer samman</span><span>&#xad;</span><span>länkad än någonsin tidigare, vilket innebär att händelser och beslut i ett land kan få direkta eller indirekta konsekvenser för andra delar av världen. En provinsiell utrikes</span><span>&#xad;</span><span>politik kan leda till isolering och förlust av möjligheter till samarbete och utbyte med andra nationer. Globala utmaningar som klimatförändringar, terrorism, handel och människorättsfrågor är inte begränsade till nationella gränser. En aktiv utrikespolitik är nödvändig för att hantera dessa frågor effektivt genom internationellt samarbete och diplomati. Att likt nuvarande regering endast inta en mer provinsiell hållning i sin utrikespolitik kan göra det svårt att påverka globala lösningar på dessa problem.</span>
+			</p>
+			<p>
+				<span>Sverige har under decennier byggt upp ett mycket gott anseende när det gäller fredsarbete, demokrati, mänskliga rättigheter, nedrustning, fattigdomsbekämpning, klimatomställning och jämställdhet. Det är ett arbete som behöver fortsätta i ljuset av de krafter som nu flyttar fram sina positioner i världen. Regeringen skadar nu detta anseende med sin inåtvända utrikespolitik.</span>
+			</p>
+			<p>
+				<span>Sverige ska ha en aktiv Europapolitik och EU är Sveriges viktigaste utrikes- och säkerhetspolitiska arena. Men världen är större än Europa. Det som händer i Latin</span><span>&#xad;</span><span>amerika, Mellanöstern, Afrika och Asien påverkar också vårt land. </span>
+			</p>
+			<p>
+				<span>Sedan många år är Ryssland och Kina djupt involverade och driver ett mycket aktivt påverkansarbete i Latinamerika, Mellanöstern, Afrika och Asien. Detta som ett led i att påverka politiker och makthavare, bygga politiskt stöd och säkra naturtillgångar, utan motkrav på reformer för att bygga demokrati och garantera mänskliga rättigheter. Dessa kontinenter är ett slagfält – militärt, politiskt, ekonomiskt och värderingsmässigt. </span>
+			</p>
+			<p>
+				<span>Krig, fattigdom, droghandel, människohandel, illegal vapenhandel, miljöförstöring och utsläpp som driver på den globala uppvärmningen påverkar oss alla, var vi än bor. Därför är den snäva utrikespolitik som regeringen lagt om till djupt bekymmersam. </span>
+			</p>
+			<h1>
+				<span>Fortsatt starkt stöd för Ukraina</span>
+			</h1>
+			<p class="Normalutanindragellerluft">
+				<span>Den 24 februari 2022 inledde Ryssland ett oprovocerat, olagligt och oförsvarligt krig mot sin granne, det demokratiska Ukraina. Rysslands aggression är ett flagrant brott mot folkrätten och bryter mot den europeiska säkerhetsordningen. </span>
+			</p>
+			<p>
+				<span>Den ryska regimens brutala grymheter har inte undgått någon. Civila som mördas, hela städer som bombas sönder, missiler riktade mot barn på flykt, massgravar, tortyr och sexuella övergrepp. Dessa krigsförbrytelser får inte gå ostraffade. Sverige ska fortsätta att stödja de insatser som nu görs bl.a. av EU för att samla in bevis och bygga åtal mot de ryska förövarna och beslutsfattarna, för att i en framtid kunna ställa dem till svars för deras förbrytelser. Sanktionerna mot Ryssland och ryska beslutsfattare och oligarker bör bestå.</span>
+			</p>
+			<p>
+				<span>Det här kriget handlar inte bara om Ukrainas frihet och demokrati, utan om hela Europas framtid. Sedan 2014 har Ryssland brutit sönder den europeiska säkerhets</span><span>&#xad;</span><span>ordningen och gång på gång visat att de är ett hot mot det demokratiska Europa. Det finns ingenting i Rysslands agerande som tyder på att det här kommer att förändras inom överskådlig tid. Tvärtom har man stärkt greppet över det ryska folket, man har etablerat ett övergripande mål om rysk dominans och man verkar vara beredd att acceptera hur stora mänskliga och materiella förluster som helst för att nå det målet. Det här handlar inte bara om geopolitik utan om en djup värderingskonflikt mellan demokrati och auktoritärt styre.</span>
+			</p>
+			<p>
+				<span>Rysslands krig innebär en ny och farligare verklighet för Europa och Sverige. Det här är det största hotet mot den europeiska säkerhetsordningen under hela efterkrigs</span><span>&#xad;</span><span>tiden. Sverige och EU kommer med stor sannolikhet att leva under ett latent hot om militär konflikt under mycket lång tid framöver. Detta kräver bland annat en höjd militär tröskel för rysk aggression som vi utformar tillsammans med Sveriges allierade och en höjd beredskap för alla typer av långsiktiga hot mot vårt samhälle som på</span><span>&#xad;</span><span>verkansoperationer, hybridkrigföring och sabotage.</span>
+			</p>
+			<p>
+				<span>Det finns ett före och ett efter den 24 februari 2022. Vi befinner oss i ett helt nytt säkerhetspolitiskt läge, vilket i grunden har påverkat Sveriges agerande. Den social</span><span>&#xad;</span><span>demokratiska regeringen drog slutsatsen att Ukrainas frihet och självständighet i förlängningen också handlar om vår frihet och självständighet. Därför genomfördes ett omfattande stöd till Ukraina, både militärt, ekonomiskt och humanitärt. S-regeringen tog ett historiskt beslut genom att, för första gången sedan 1939, skicka vapen till ett land som befinner sig i pågående krig. Både det militära stödet och även det humanitära och ekonomiska har fortsatt och måste fortsätta och anpassas efter läget på marken och Ukrainas önskemål och behov. Vi stöder den arbetsgrupp inom EU som jobbar med hur ryska frysta tillgångar kan användas i återuppbyggnaden av Ukraina. </span>
+			</p>
+			<h1>
+				<span>Feministisk utrikespolitik gör skillnad, men regeringen sviker flickor och kvinnor</span>
+			</h1>
+			<p class="Normalutanindragellerluft">
+				<span>Den feministiska utrikespolitiken handlade om att säkerställa flickors och kvinnors rättigheter, resurser och representation i en värld som fortfarande präglas av en systematisk underordning av flickor och kvinnor. Det är därför djupt olyckligt att regeringen valde att avveckla den feministiska utrikespolitik som berör utrikespolitikens samtliga områden. Vi socialdemokrater anser tvärtom att det är viktigare än någonsin att återinföra och utveckla den feministiska utrikespolitiken där flickors och kvinnors rättigheter, resurser och representation prioriteras.</span>
+			</p>
+			<p>
+				<span>Kvinnor och flickor ska ha samma möjlighet till socialt, ekonomiskt och politiskt inflytande som män och pojkar. Flickors och kvinnors rättigheter och livsvillkor måste stärkas globalt. I en tid när konservativa högerkrafter globalt ifrågasätter och attackerar kvinnors och flickors rättigheter, bland annat när det gäller sexuell och reproduktiv hälsa och rättigheter (SRHR), är det viktigare än någonsin att Sverige står upp för jämställdhet, lika rättigheter, lika representation och lika resurser för kvinnor och män. I det arbetet krävs insatser som inkluderar pojkar och män för att motverka destruktiva och skadliga maskulinitetsnormer som bidrar till att ojämställdhet befästs istället för att minska. </span>
+			</p>
+			<p>
+				<span>Att ge kvinnor och flickor makt över deras egna liv och främja deras medborgerliga, politiska, ekonomiska, sociala och kulturella rättigheter är det bästa sättet att bekämpa fattigdom och nå ekonomisk tillväxt och mänsklig utveckling. Kvinnors representation i fredsprocesser är också en nyckel för att nå en hållbar fred i samhällen som plågats av väpnade konflikter. Trots detta är kvinnor kraftigt underrepresenterade i fredsför</span><span>&#xad;</span><span>handlingar. Det är därför ett svek när den nya regeringen väljer att avveckla den feministiska utrikespolitiken, trots att en lång rad länder – till exempel Frankrike, Tyskland, Kanada och Mexiko – följt vårt exempel. </span>
+			</p>
+			<p>
+				<span>I en forskarrapport från Expertgruppen för biståndsanalys (EBA) i slutet av augusti 2023 drar man slutsatsen att den feministiska utrikespolitiken gjort stort avtryck i utrikesförvaltningens arbete tvärtemot vad regeringen påstår. Sverige har under lång tid varit en föregångare på jämställdhetsområdet och den tidigare S-regeringens feministiska utrikespolitik innebar höjda ambitioner som bidragit till jämställds</span><span>&#xad;</span><span>integration i arbetet inom internationella organisationer. Att regeringen tagit av sig ledartröjan på jämställdhetsområdet och valt att bli en följare istället för en framgångs</span><span>&#xad;</span><span style="letter-spacing:-0.1pt">rik ledare i världen är pinsamt. Det skadar bilden av Sverige och vårt rykte internationellt. </span>
+			</p>
+			<p>
+				<span>I Iran pågår en feministisk revolution mot den brutala regim som länge förtryckt sitt folk och där diskriminering av kvinnor finns inskrivet i lagen. Det handlar om ett strukturellt förtryck och diskriminering. De nuvarande protesterna har pågått sen september 2022 och Irans kvinnorättsförsvarare och folk som kämpar för sin frihet och demokrati behöver stöd från det internationella samfundet. Politiskt såväl som ekonomiskt. </span>
+			</p>
+			<p>
+				<span>Under det här året har vi sett hur den iranska regimen, via det iranska islamistiska revolutionsgardet, besvarat frihetskampen med en enorm brutalitet – med våld, med mord och med tortyr. Under året drev vi socialdemokrater på för att regeringen skulle agera för att EU ska terrorlista det islamiska revolutionsgardet. I maj ställde sig till slut en enig riksdag bakom tillkännagivandet till regeringen att verka för att skapa enighet inom EU för att terrorlista det islamiska revolutionsgardet. Trots det har regeringen inte agerat för att verkställa det. Att regeringen väljer att avvakta i denna fråga är ett allvarligt svek mot de kvinnor och män som kämpar för sin frihet och demokrati i Iran.</span>
+			</p>
+			<h1>
+				<span>Multilateralism för ett ökat globalt samarbete och en tryggare värld</span>
+			</h1>
+			<p class="Normalutanindragellerluft">
+				<span>Genom medlemskap i internationella organisationer möjliggörs genomslag för Sveriges utrikes- och säkerhetspolitik. Ett starkt engagemang inom de multilaterala organisa</span><span>&#xad;</span><span>tionerna är också centralt för genomförandet av Agenda 2030, klimatomställningen, freds- och jämställdhetsarbetet samt hanteringen av de kvardröjande effekterna av covid-19-pandemin och Rysslands invasion av Ukraina. Sverige ska fortsätta att vara en ansvarsfull och engagerad medlem av dessa organisationer med arbetet inriktat på bred internationell samverkan och samarbete.</span>
+			</p>
+			<p>
+				<span>Ett välfungerande internationellt samarbete är grunden för en regelbaserad världs</span><span>&#xad;</span><span>ordning byggd på folkrätten. Multilateralism är nödvändigt för att trygga fred, säkerhet och hållbar utveckling för alla. Men detta fundament utmanas när universella regler och värden, däribland folkrätten, mänskliga rättigheter och humanitär rätt, blir ifrågasatta eller utnyttjas. </span>
+			</p>
+			<p>
+				<span>När något land bryter mot dessa värden måste världssamfundet agera för att upp</span><span>&#xad;</span><span>rätthålla dem. Tilltron till det multilaterala systemet minskar och det internationella samarbetet försvåras när länder kliver av globala samarbeten och vill introducera egna, unilaterala, lösningar. Multilateralismen behöver utvecklas för att kunna möta nya globala utmaningar och omständigheter. Den regelbaserade världsordningen, det multilaterala systemet, universella värden samt internationella regler, normer och överenskommelser måste försvaras.</span>
+			</p>
+			<h1>
+				<span>Artificiell intelligens</span>
+			</h1>
+			<p class="Normalutanindragellerluft">
+				<span>Artificiell intelligens (AI) utgör ett av de mest omvälvande teknologiska sprången i vår tid och innebär både stora möjligheter och utmaningar för världssamfundet. För att säkerställa en ansvarsfull och etisk användning av AI är det av yttersta vikt att reglera denna teknologi inom EU och i ett vidare grepp även på global nivå. En av de främsta utmaningarna med AI är att det har potentialen att påverka alla aspekter av samhället, från ekonomi och arbetsmarknad till etik och säkerhet. Utan adekvat global reglering kan det uppstå en snedvriden användning av AI som kan leda till ekonomisk ojämlikhet, överträdelser av mänskliga rättigheter och till och med vapenteknologiska risker.</span>
+			</p>
+			<h1>
+				<span>Fredsfrämjande – att arbeta för en fredligare och säkrare värld </span>
+			</h1>
+			<p class="Normalutanindragellerluft">
+				<span>Diplomati och dialog är våra främsta verktyg för en fredlig utveckling. För oss är det centralt att värna ett välfungerande internationellt samarbete mellan länder för att säkerställa gemensam säkerhet och uppnå vår strävan efter fred och frihet. </span>
+			</p>
+			<p>
+				<span>Sverige ska fortsätta att bidra till internationell civil och militär krishantering och fredsfrämjande insatser. Vi ska vara en tydlig förespråkare för mänskliga rättigheter, demokratisk utveckling, rättsstatens principer och jämställdhet och bidra till att dessa kärnvärden beaktas i det internationella fredsfrämjande arbetet. För att öka kvinnors deltagande i fredsprocesser är det svenska kvinnliga medlingsnätverk som infördes av den socialdemokratiskt ledda regeringen ett konkret och viktigt verktyg. Det är ett misstag av regeringen att signalera att det ska läggas ner. </span>
+			</p>
+			<p>
+				<span>Sveriges arbete för en fredligare och säkrare värld ska bedrivas inom och i nära samarbete med organisationer som FN, EU, OSSE och, på vägen till fullständigt medlemskap, inom ramen för partnerskapet med Nato.</span>
+			</p>
+			<h1>
+				<span>Nedrustning – en värld utan kärnvapen</span>
+			</h1>
+			<p class="Normalutanindragellerluft">
+				<span>Vårt mål är en värld utan kärnvapen. Nedrustning och icke-spridning av kärnvapen är en central utrikes- och säkerhetspolitisk prioritering. Normen mot användning och innehav av kärnvapen måste förstärkas. Icke-spridningsfördraget (NPT) har varit framgångsrikt för att förhindra spridning av kärnvapen, minska kärnvapenarsenalerna och underlätta fredlig användning av kärnenergi. </span>
+			</p>
+			<p>
+				<span>Trots de många framsteg som gjorts tidigare går utvecklingen idag åt fel håll. Länder rustar upp och moderniserar sina kärnvapenarsenaler, misstron mellan länder har ökat och Ryssland har lyft upp kärnvapnens roll i den egna militärdoktrinen. Behovet av åt</span><span>&#xad;</span><span>gärder som minskar riskerna för kärnvapenanvändning och som bidrar till ett bättre samarbetsklimat kunde inte vara större. Bristen på tillit mellan länder är ett akut problem och Rysslands invasion av Ukraina och hot om kärnvapenanvändning är mycket oroväckande. Behovet av åtgärder som minskar riskerna för kärnvapenanvändning och som bidrar till ett bättre samarbetsklimat är enormt. </span>
+			</p>
+			<p>
+				<span>För oss socialdemokrater är det självklart att Sverige fortsatt ska ta ansvar för att försöka överbrygga skillnader mellan länder med och utan kärnvapen och driva på för konkreta åtaganden och framsteg. </span>
+			</p>
+			<p>
+				<span>Vårt mål är en kärnvapenfri värld. Icke-spridningsfördraget måste stärkas och kärn</span><span>&#xad;</span><span>vapenmakternas vilja till nedrustning öka. Sverige ska ha en ledande roll i arbetet för kärnvapennedrustning. Denna nedrustning kan inte vara ensidig – den måste vara ömsesidig. Vi vill att Sverige som observatör till FN:s konvention om kärnvapenförbud (TPNW) aktivt ska bidra till att konventionen utvecklas så att den blir så effektiv som möjligt, vinner stöd globalt och leder till verklig nedrustning. </span>
+			</p>
+			<p>
+				<span>Stockholmsinitiativet, som inleddes under vår regeringstid och som under svensk-tyskt ledarskap samlar en grupp länder, har lagt konkreta förslag vad gäller nedrustning och icke-spridning. Flera av Stockholmsinitiativets förslag fanns återgivna i det slut</span><span>&#xad;</span><span>dokument från NPT:s översynskonferens i augusti 2022 som skulle antas. Ryssland valde dessvärre att återigen agera oansvarigt genom att blockera konsensus och för</span><span>&#xad;</span><span>hindra ett antagande. Vi socialdemokrater kommer emellertid att fortsätta att verka konstruktivt och brobyggande för att åstadkomma konkreta steg för kärnvapennedrustning inom ramen för icke-spridningsfördraget (NPT). Sverige ska värna det internationella atomenergiorganet IAEA:s uppdrag att förhindra spridning av kärnvapen, liksom dess roll för strålsäkerhet och nukleärt säkerhetsskydd. </span>
+			</p>
+			<h1>
+				<span>Ett FN bättre rustat för morgondagens globala utmaningar och hot</span>
+			</h1>
+			<p class="Normalutanindragellerluft">
+				<span>Ett starkt engagemang för FN är en hörnsten i socialdemokratisk utrikes- och säkerhets</span><span>&#xad;</span><span>politik och ska fortsätta att vara en central arena för Sveriges arbete med de globala utmaningarna. Vi lever i en tid då oro och hot inte bara drabbar enskilda länder utan i många fall påverkar flera länder och stora delar av världen. Då är det viktigt att vi också kan samarbeta och hitta gemensamma lösningar globalt. </span>
+			</p>
+			<p>
+				<span>FN utgör navet i det globala samarbetet för internationell fred och säkerhet och spelar en viktig roll för fred och säkerhet, folkrätten, mänskliga rättigheter och ut</span><span>&#xad;</span><span>veckling. Vi vill aktivt medverka till att FN står bättre rustat att hantera morgondagens globala utmaningar och hot. Det är avgörande att FN är en enande och mobiliserande kraft i genomförandet av Parisavtalet och Agenda 2030. </span>
+			</p>
+			<p>
+				<span>Genom kärnstöden till FN och dess organisationer bidrar Sverige till att uppnå organisationernas resultat och därmed till att skapa förutsättningar för bättre levnads</span><span>&#xad;</span><span>villkor för människor som lever i fattigdom och förtryck. Att i en säkerhetspolitiskt mycket orolig tid, med klimatkris och ökad global fattigdom, skära ner på kärnstöden och försvaga FN är direkt kontraproduktivt och ett allvarligt misstag från regeringens sida.</span>
+			</p>
+			<h1>
+				<span>Samarbetet inom EU är avgörande för Sverige</span>
+			</h1>
+			<p class="Normalutanindragellerluft">
+				<span>EU är Sveriges viktigaste utrikes- och säkerhetspolitiska arena. I en osäker tid står medlemsländerna starkare tillsammans. Vi ska fortsätta att bygga ett allt närmare samarbete inom EU, liksom med våra nordiska och baltiska grannar. EU ska fortsätta att utveckla relationerna till, och de ömsesidiga samarbetena med, Europas grannländer.</span>
+			</p>
+			<p>
+				<span>EU måste vara en kraftfull global röst för fred, frihet och demokrati; det är genom en stark svensk röst i EU som vi stärker Sveriges inflytande internationellt. EU:s gemen</span><span>&#xad;</span><span>samma utrikes- och säkerhetspolitik ska stärkas i syfte att försvara EU:s intressen och värden globalt. </span>
+			</p>
+			<p>
+				<span>Europa måste långsiktigt ta ansvar för sin egen säkerhet. Det är avgörande att stärka den samlade europeiska försvarsförmågan samt EU:s handlingsförmåga som säker</span><span>&#xad;</span><span>hetspolitisk aktör och förmåga att ta ansvar för unionens och närområdets säkerhet. Vi står upp för EU:s solidaritetsklausul. EU ska fortsätta att vara en trovärdig säkerhets</span><span>&#xad;</span><span>politisk aktör som tar ansvar för sin egen säkerhet och samtidigt agerar globalt med partners utifrån en bredd av civila och militära verktyg. Sverige har ett ansvar gentemot EU:s medlemsstater och omfattas av den solidaritet som EU-medlemskapet innebär. Medlemsländerna tar gemensamt ett solidariskt ansvar för Europas säkerhet. För EU-medlemmar som också är allierade i Nato utgör Natomedlemskapet grunden för det kollektiva försvaret. </span>
+			</p>
+			<p>
+				<span>Det europeiska samarbetet är avgörande för Sverige. Det handlar om jobben, eftersom EU är vår viktigaste marknad. Det handlar om fred och säkerhet, både i vårt närområde och längre bort. Klimat, migration och bekämpandet av den gränsöver</span><span>&#xad;</span><span>skridande och organiserade brottsligheten är frågor som behöver hanteras i samarbete med andra. </span>
+			</p>
+			<p>
+				<span>EU-samarbetet bygger på gemensamma värderingar. EU-länder som inte respekterar mänskliga rättigheter och demokratiska principer som oberoende domstolar, en fri akademi och fria medier ska inte få del av EU-medel. </span>
+			</p>
+			<h1>
+				<span>Stärk Organisationen för säkerhet och samarbete i Europa (OSSE)</span>
+			</h1>
+			<p class="Normalutanindragellerluft">
+				<span>Vi har flera säkerhetspolitiska verktyg för att hantera krisen för säkerheten i Europa. OSSE är ett av dessa verktyg. Sverige ska fortsätta arbetet för att stärka OSSE:s roll som plattform för dialog, konfliktlösning och ansvarsutkrävande. Vi stödjer OSSE:s breda säkerhetsbegrepp som länkar samman säkerhet med mänskliga rättigheter, demokrati och rättsstatens principer.</span>
+			</p>
+			<h1>
+				<span>Svenskt Natomedlemskap</span>
+			</h1>
+			<p class="Normalutanindragellerluft">
+				<span>Ett kommande svenskt Natomedlemskap kommer att öka säkerheten för Sverige och i Norden. Det är positivt att alla nordiska länder kommer att samlas i en gemensam försvarsallians. Sverige försvaras bäst inom Nato. Som medlem i Nato kommer Sverige att omfattas av de ömsesidiga försvarsgarantier som följer av artikel</span><span>&#xa0;</span><span>5 i nordatlantiska fördraget. Genom medlemskapet blir Nato Sveriges viktigaste försvarspolitiska arena.</span>
+			</p>
+			<p>
+				<span>Rysslands fullskaliga invasion av Ukraina och den hårdnande geopolitiska maktkampen påverkar den säkerhetspolitiska situationen i vårt närområde och fick oss socialdemokrater att ompröva den svenska alliansfriheten och söka medlemskap i Nato i maj 2022. </span>
+			</p>
+			<p>
+				<span>Finlands Natomedlemskap och Sveriges kommande Natomedlemskap stärker Nato. </span>
+			</p>
+			<p>
+				<span>När Sverige godkänns som Natomedlem kommer alla EU-länder och nordiska länder runt Östersjön vara bundna av samma ömsesidiga och trovärdiga försvarsgaranti. Våra länders samlade försvarsförmåga kommer att öka.</span>
+			</p>
+			<p>
+				<span>Den breda parlamentariska enigheten för ett Natomedlemskap är en styrka för vårt </span><span style="letter-spacing:-0.1pt">land. Vi socialdemokrater samarbetar med regeringen för att säkerställa att medlemskapet </span><span>blir av och att det vi tidigare lovat fullföljs. Det innebär också att vi står fast vid att Sverige i samband med Natoanslutningen, i likhet med Danmark och Norge, inte ska ha kärnvapen och permanenta baser på svenskt territorium. Vi kan inte se hur kärnvapen på svensk mark skulle öka säkerheten i vår del av världen. Det är snarare tvärtom. Världen behöver färre kärnvapen, inte fler. Vi utgår ifrån att regeringen håller fast vid det som den tidigare socialdemokratiska regeringen, med stöd av riksdagen, sa vid ansökan om medlemskap. Kärnvapen eller permanenta baser ska inte placeras på svenskt territorium.</span>
+			</p>
+			<h1>
+				<span>Nordiskt samarbete, Östersjöregionen och Arktis</span>
+			</h1>
+			<p class="Normalutanindragellerluft">
+				<span>Vi prioriterar det nordiska samarbetet och vill att det ska stärkas ytterligare. Nordiska rådet och ministerrådet ska vara en mobiliserande kraft för fördjupat samarbete. Visionen om Norden som världens mest hållbara och integrerade region ska fortsätta att vägleda samarbetet. Det ska vara enkelt att bo och arbeta i hela Norden och arbetet med att riva fler gränshinder ska vara prioriterat. Det nordiska kultursamarbetet är en viktig del i den gemenskap som binder samman de nordiska länderna. I det säkerhetspolitiska läge som vi befinner oss i finns det anledning att fördjupa det nordiska samarbetet ytterligare. Vi föreslår att en nordisk försvars- och säkerhetspolitisk kommission tillsätts med förankring i samtliga nordiska parlament. </span>
+			</p>
+			<p>
+				<span>Vi vill att arbetet inom EU:s Östersjöstrategi med att länka samman regionen, rädda havsmiljön och öka välståndet utvecklas för att gemensamt hantera utmaningar och arbeta tillsammans. Demokratiska och välmående grannländer är en förutsättning för fortsatt säkerhet i vårt närområde.</span>
+			</p>
+			<p>
+				<span>Arktis utgör en viktig del av vårt närområde, med en ökad strategisk och ekonomisk betydelse. Fokus ska vara på människorna, freden och klimatet. Vi vill att Sveriges engagemang för Arktis ska stärkas och att vi ska fortsätta att bidra till att utvecklingen i Arktis sker på ett fredligt och hållbart sätt. Respekten för folkrätten är särskilt viktig i den förändring vi ser i området. </span>
+			</p>
+			<p>
+				<span>Många länder har ökade politiska, militära och ekonomiska intressen i regionen, vilket medfört att Arktis fått en ökad säkerhets- och försvarspolitisk betydelse. Sverige är ett av de åtta arktiska länderna, och Arktiska rådet är det centrala forumet för sam</span><span>&#xad;</span><span>arbete i Arktis. Sverige ska driva på arbetet för internationell samverkan, säkerhet och stabilitet, klimat och miljö, hållbar ekonomisk utveckling och goda levnadsvillkor för befolkningen i regionen, inklusive urfolken. </span>
+			</p>
+			<p style="margin-bottom:12pt; t-i:14.2pt; line-height:normal">
+				<br style="page-break-before:always; clear:both">
+			</p>
+			<h1>
+				<span>Anslagsförslag 2024 för utgiftsområde 5 Internationell samverkan</span>
+			</h1>
+			<p class="Tabellrubrik" style="page-break-inside:avoid">
+				<span>Tabell 1 Socialdemokraternas förslag till anslag för 2024 för utgiftsområde 5 uttryckt som differens gentemot regeringens förslag</span>
+			</p>
+			<p class="Tabellunderrubrik" style="page-break-inside:avoid">
+				<span>Tusental kronor</span>
+			</p>
+			<table cellspacing="0" cellpadding="0" style="width:425.25pt; border-collapse:collapse">
+				<tr style="height:8.5pt">
+					<td colspan="2" style="width:253.05pt; border-top-style:solid; border-top-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding:2.85pt 1.4pt 1.4pt; vertical-align:top; background-color:#ffffff">
+						<p style="t-i:0pt; font-size: 0.90em">
+							<span style="font-weight:bold">Ramanslag</span>
+						</p>
+					</td>
+					<td style="width:81.9pt; border-top-style:solid; border-top-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding:3.4pt 1.4pt 1pt; vertical-align:bottom; background-color:#ffffff">
+						<p style="t-i:0pt; text-align:right; font-size: 0.90em">
+							<span style="font-weight:bold">Regeringens förslag</span>
+						</p>
+					</td>
+					<td style="width:81.9pt; border-top-style:solid; border-top-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding:2.85pt 1.4pt 1.4pt; vertical-align:bottom; background-color:#ffffff">
+						<p style="t-i:0pt; text-align:right; font-size: 0.90em">
+							<span style="font-weight:bold">Avvikelse från regeringen</span>
+						</p>
+					</td>
+				</tr>
+				<tr style="height:8.5pt">
+					<td style="width:26.1pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:top; background-color:#ffffff">
+						<p style="t-i:0pt; font-size: 0.90em">
+							<span>1:1</span>
+						</p>
+					</td>
+					<td style="width:224.15pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:middle; background-color:#ffffff">
+						<p style="t-i:0pt; font-size: 0.90em">
+							<span>Avgifter till internationella organisationer</span>
+						</p>
+					</td>
+					<td style="width:81.9pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:bottom; background-color:#ffffff">
+						<p style="t-i:0pt; text-align:right; font-size: 0.90em">
+							<span>1</span><span>&#xa0;</span><span>473</span><span>&#xa0;</span><span>554</span>
+						</p>
+					</td>
+					<td style="width:81.9pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:bottom; background-color:#ffffff">
+						<p style="t-i:0pt; text-align:right; font-size: 0.90em">
+							<span>±0</span>
+						</p>
+					</td>
+				</tr>
+				<tr style="height:8.5pt">
+					<td style="width:26.1pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:top; background-color:#ffffff">
+						<p style="t-i:0pt; font-size: 0.90em">
+							<span>1:2</span>
+						</p>
+					</td>
+					<td style="width:224.15pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:middle; background-color:#ffffff">
+						<p style="t-i:0pt; font-size: 0.90em">
+							<span>Freds- och säkerhetsfrämjande verksamhet</span>
+						</p>
+					</td>
+					<td style="width:81.9pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:bottom; background-color:#ffffff">
+						<p style="t-i:0pt; text-align:right; font-size: 0.90em">
+							<span>183</span><span>&#xa0;</span><span>441</span>
+						</p>
+					</td>
+					<td style="width:81.9pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:bottom; background-color:#ffffff">
+						<p style="t-i:0pt; text-align:right; font-size: 0.90em">
+							<span>±0</span>
+						</p>
+					</td>
+				</tr>
+				<tr style="height:8.5pt">
+					<td style="width:26.1pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:top; background-color:#ffffff">
+						<p style="t-i:0pt; font-size: 0.90em">
+							<span>1:3</span>
+						</p>
+					</td>
+					<td style="width:224.15pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:middle; background-color:#ffffff">
+						<p style="t-i:0pt; font-size: 0.90em">
+							<span>Nordiskt samarbete</span>
+						</p>
+					</td>
+					<td style="width:81.9pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:bottom; background-color:#ffffff">
+						<p style="t-i:0pt; text-align:right; font-size: 0.90em">
+							<span>16 295</span>
+						</p>
+					</td>
+					<td style="width:81.9pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:bottom; background-color:#ffffff">
+						<p style="t-i:0pt; text-align:right; font-size: 0.90em">
+							<span>±0</span>
+						</p>
+					</td>
+				</tr>
+				<tr style="height:8.5pt">
+					<td style="width:26.1pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:top; background-color:#ffffff">
+						<p style="t-i:0pt; font-size: 0.90em">
+							<span>1:4</span>
+						</p>
+					</td>
+					<td style="width:224.15pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:middle; background-color:#ffffff">
+						<p style="t-i:0pt; font-size: 0.90em">
+							<span>Ekonomiskt bistånd till enskilda utomlands samt diverse kostnader för rättsväsendet</span>
+						</p>
+					</td>
+					<td style="width:81.9pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:bottom; background-color:#ffffff">
+						<p style="t-i:0pt; text-align:right; font-size: 0.90em">
+							<span>4</span><span>&#xa0;</span><span>826</span>
+						</p>
+					</td>
+					<td style="width:81.9pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:bottom; background-color:#ffffff">
+						<p style="t-i:0pt; text-align:right; font-size: 0.90em">
+							<span>±0</span>
+						</p>
+					</td>
+				</tr>
+				<tr style="height:8.5pt">
+					<td style="width:26.1pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:top; background-color:#ffffff">
+						<p style="t-i:0pt; font-size: 0.90em">
+							<span>1:5</span>
+						</p>
+					</td>
+					<td style="width:224.15pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:middle; background-color:#ffffff">
+						<p style="t-i:0pt; font-size: 0.90em">
+							<span>Inspektionen för strategiska produkter</span>
+						</p>
+					</td>
+					<td style="width:81.9pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:bottom; background-color:#ffffff">
+						<p style="t-i:0pt; text-align:right; font-size: 0.90em">
+							<span>143 855</span>
+						</p>
+					</td>
+					<td style="width:81.9pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:bottom; background-color:#ffffff">
+						<p style="t-i:0pt; text-align:right; font-size: 0.90em">
+							<span>±0</span>
+						</p>
+					</td>
+				</tr>
+				<tr style="height:8.5pt">
+					<td style="width:26.1pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:top; background-color:#ffffff">
+						<p style="t-i:0pt; font-size: 0.90em">
+							<span>1:6</span>
+						</p>
+					</td>
+					<td style="width:224.15pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:middle; background-color:#ffffff">
+						<p style="t-i:0pt; font-size: 0.90em">
+							<span>Forskning, utredningar och andra insatser rörande säkerhetspolitik, nedrustning och icke-spridning</span>
+						</p>
+					</td>
+					<td style="width:81.9pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:bottom; background-color:#ffffff">
+						<p style="t-i:0pt; text-align:right; font-size: 0.90em">
+							<span>83 358</span>
+						</p>
+					</td>
+					<td style="width:81.9pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:bottom; background-color:#ffffff">
+						<p style="t-i:0pt; text-align:right; font-size: 0.90em">
+							<span>±0</span>
+						</p>
+					</td>
+				</tr>
+				<tr style="height:8.5pt">
+					<td style="width:26.1pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:top; background-color:#ffffff">
+						<p style="t-i:0pt; font-size: 0.90em">
+							<span>1:7</span>
+						</p>
+					</td>
+					<td style="width:224.15pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:middle; background-color:#ffffff">
+						<p style="t-i:0pt; font-size: 0.90em">
+							<span>Bidrag till Stockholms internationella fredsforskningsinstitut (SIPRI)</span>
+						</p>
+					</td>
+					<td style="width:81.9pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:bottom; background-color:#ffffff">
+						<p style="t-i:0pt; text-align:right; font-size: 0.90em">
+							<span>28</span><span>&#xa0;</span><span>402</span>
+						</p>
+					</td>
+					<td style="width:81.9pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:bottom; background-color:#ffffff">
+						<p style="t-i:0pt; text-align:right; font-size: 0.90em">
+							<span>±0</span>
+						</p>
+					</td>
+				</tr>
+				<tr style="height:8.5pt">
+					<td style="width:26.1pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:top; background-color:#ffffff">
+						<p style="t-i:0pt; font-size: 0.90em">
+							<span>1:8</span>
+						</p>
+					</td>
+					<td style="width:224.15pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:middle; background-color:#ffffff">
+						<p style="t-i:0pt; font-size: 0.90em">
+							<span>Bidrag till Utrikespolitiska institutet (UI)</span>
+						</p>
+					</td>
+					<td style="width:81.9pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:bottom; background-color:#ffffff">
+						<p style="t-i:0pt; text-align:right; font-size: 0.90em">
+							<span>19</span><span>&#xa0;</span><span>175</span>
+						</p>
+					</td>
+					<td style="width:81.9pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:bottom; background-color:#ffffff">
+						<p style="t-i:0pt; text-align:right; font-size: 0.90em">
+							<span>±0</span>
+						</p>
+					</td>
+				</tr>
+				<tr style="height:8.5pt">
+					<td style="width:26.1pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:top; background-color:#ffffff">
+						<p style="t-i:0pt; font-size: 0.90em">
+							<span>1:9</span>
+						</p>
+					</td>
+					<td style="width:224.15pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:middle; background-color:#ffffff">
+						<p style="t-i:0pt; font-size: 0.90em">
+							<span>Svenska institutet</span>
+						</p>
+					</td>
+					<td style="width:81.9pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:bottom; background-color:#ffffff">
+						<p style="t-i:0pt; text-align:right; font-size: 0.90em">
+							<span>135 328</span>
+						</p>
+					</td>
+					<td style="width:81.9pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:bottom; background-color:#ffffff">
+						<p style="t-i:0pt; text-align:right; font-size: 0.90em">
+							<span>±0</span>
+						</p>
+					</td>
+				</tr>
+				<tr style="height:8.5pt">
+					<td style="width:26.1pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:top; background-color:#ffffff">
+						<p style="t-i:0pt; font-size: 0.90em">
+							<span>1:10</span>
+						</p>
+					</td>
+					<td style="width:224.15pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:middle; background-color:#ffffff">
+						<p style="t-i:0pt; font-size: 0.90em">
+							<span>Information om Sverige i utlandet</span>
+						</p>
+					</td>
+					<td style="width:81.9pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:bottom; background-color:#ffffff">
+						<p style="t-i:0pt; text-align:right; font-size: 0.90em">
+							<span>15</span><span>&#xa0;</span><span>475</span>
+						</p>
+					</td>
+					<td style="width:81.9pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:bottom; background-color:#ffffff">
+						<p style="t-i:0pt; text-align:right; font-size: 0.90em">
+							<span>±0</span>
+						</p>
+					</td>
+				</tr>
+				<tr style="height:8.5pt">
+					<td style="width:26.1pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:top; background-color:#ffffff">
+						<p style="t-i:0pt; font-size: 0.90em">
+							<span>1:11</span>
+						</p>
+					</td>
+					<td style="width:224.15pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:middle; background-color:#ffffff">
+						<p style="t-i:0pt; font-size: 0.90em">
+							<span>Samarbete inom Östersjöregionen</span>
+						</p>
+					</td>
+					<td style="width:81.9pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:bottom; background-color:#ffffff">
+						<p style="t-i:0pt; text-align:right; font-size: 0.90em">
+							<span>170</span><span>&#xa0;</span><span>215</span>
+						</p>
+					</td>
+					<td style="width:81.9pt; padding-top:3.4pt; padding-right:1.4pt; padding-left:1.4pt; vertical-align:bottom; background-color:#ffffff">
+						<p style="t-i:0pt; text-align:right; font-size: 0.90em">
+							<span>±0</span>
+						</p>
+					</td>
+				</tr>
+				<tr style="height:8.5pt">
+					<td colspan="2" style="width:250.2pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding:3.4pt 4.25pt 1pt 1.4pt; vertical-align:middle; background-color:#ffffff">
+						<p style="t-i:0pt; font-size: 0.90em">
+							<span style="font-weight:bold">Summa</span>
+						</p>
+					</td>
+					<td style="width:81.9pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding:3.4pt 1.4pt 1pt; vertical-align:bottom; background-color:#ffffff">
+						<p style="t-i:0pt; text-align:right; font-size: 0.90em">
+							<span style="font-weight:bold">2</span><span style="font-weight:bold">&#xa0;</span><span style="font-weight:bold">273</span><span style="font-weight:bold">&#xa0;</span><span style="font-weight:bold">924</span>
+						</p>
+					</td>
+					<td style="width:81.9pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding:3.4pt 1.4pt 1pt; vertical-align:bottom; background-color:#ffffff">
+						<p style="t-i:0pt; text-align:right; font-size: 0.90em">
+							<span style="font-weight:bold">±0</span>
+						</p>
+					</td>
+				</tr>
+			</table>
+			<h1>
+				<span>Socialdemokraternas överväganden</span>
+			</h1>
+			<p class="Normalutanindragellerluft">
+				<span>Socialdemokraterna har inga förslag till förändringar vad gäller anslagsnivåer. Däremot har vi som synes starka uppfattningar om hur dessa medel bör användas effektivare. </span>
+			</p>
+			<div style="-aw-sdt-tag:'CC_Underskrifter'; -aw-sdt-title:'CC_Underskrifter'">
+				<p>
+					<span style="-aw-import:ignore">&#xa0;</span>
+				</p>
+				<p>
+					<span style="-aw-import:ignore">&#xa0;</span>
+				</p>
+			</div>
+			<table cellspacing="0" cellpadding="0" style="width:100%; border-collapse:collapse">
+				<tr style="page-break-inside:avoid">
+					<td style="width:1%; padding-right:5.4pt; padding-left:5.4pt; vertical-align:bottom">
+						<p class="Underskrifter" style="margin-bottom:0pt">
+							<span>Morgan Johansson (S)</span>
+						</p>
+					</td>
+					<td style="width:1%; padding-right:5.4pt; padding-left:5.4pt; vertical-align:bottom">
+						<p class="Underskrifter" style="margin-bottom:0pt">
+							<span style="-aw-import:ignore">&#xa0;</span>
+						</p>
+					</td>
+				</tr>
+				<tr style="page-break-inside:avoid">
+					<td style="width:1%; padding-right:5.4pt; padding-left:5.4pt; vertical-align:bottom">
+						<p class="Underskrifter" style="margin-bottom:0pt">
+							<span>Alexandra Völker (S)</span>
+						</p>
+					</td>
+					<td style="width:1%; padding-right:5.4pt; padding-left:5.4pt; vertical-align:bottom">
+						<p class="Underskrifter" style="margin-bottom:0pt">
+							<span>Olle Thorell (S)</span>
+						</p>
+					</td>
+				</tr>
+				<tr style="page-break-inside:avoid">
+					<td style="width:1%; padding-right:5.4pt; padding-left:5.4pt; vertical-align:bottom">
+						<p class="Underskrifter" style="margin-bottom:0pt">
+							<span>Linnéa Wickman (S)</span>
+						</p>
+					</td>
+					<td style="width:1%; padding-right:5.4pt; padding-left:5.4pt; vertical-align:bottom">
+						<p class="Underskrifter" style="margin-bottom:0pt">
+							<span>Tomas Eneroth (S)</span>
+						</p>
+					</td>
+				</tr>
+				<tr style="page-break-inside:avoid">
+					<td style="width:1%; padding-right:5.4pt; padding-left:5.4pt; vertical-align:bottom">
+						<p class="Underskrifter" style="margin-bottom:0pt">
+							<span>Johan Büser (S)</span>
+						</p>
+					</td>
+					<td style="width:1%; padding-right:5.4pt; padding-left:5.4pt; vertical-align:bottom">
+						<p class="Underskrifter" style="margin-bottom:0pt">
+							<span>Azra Muranovic (S)</span>
+						</p>
+					</td>
+				</tr>
+				<tr style="page-break-inside:avoid">
+					<td style="width:1%; padding-right:5.4pt; padding-left:5.4pt; vertical-align:bottom">
+						<p class="Underskrifter" style="margin-bottom:0pt">
+							<span>Matilda Ernkrans (S)</span>
+						</p>
+					</td>
+					<td style="width:1%; padding-right:5.4pt; padding-left:5.4pt; vertical-align:bottom">
+						<p class="Underskrifter" style="margin-bottom:0pt">
+							<span style="-aw-import:ignore">&#xa0;</span>
+						</p>
+					</td>
+				</tr>
+			</table>
+			<p>
+				<span style="-aw-import:ignore">&#xa0;</span>
+			</p>
+		</div>
+	</div>

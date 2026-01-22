@@ -1,0 +1,1876 @@
+SEARCH TERM: AI
+DOCUMENT ID: gx03163
+TITLE: Vissa metrologifrågor
+TYPE: prop
+SUBTYPE: prop
+DATE: 2010-03-23
+PARLIAMENTARY YEAR: 2009/10
+ORGANISATION: N
+STATUS: hämtad_2
+DOWNLOADED: 2026-01-22 10:28:34
+================================================================================
+
+<div style="margin:3px;">
+<STYLE type="text/css">
+
+body {margin-top: 0px;margin-left: 0px;}
+
+#page_1 {position:relative; overflow: hidden;z:b;margin:10px 0px 21px 10px ;padding: 0px;border: none;width: 766px;}
+
+#page_1 #dimg1z{position:absolute;top:0px;left:546px;z-index:-1;width:54px;height:96px;}
+#page_1 #dimg1 #img1  {width:54px;height:96px;}
+
+
+
+
+#page_2 {position:relative; overflow: hidden;z:b;margin:15px 0px 21px 10px ;padding: 0px;border: none;width: 676px;}
+#page_2 #id_1 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 451px;overflow: hidden;}
+#page_2 #id_2 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 225px;overflow: hidden;}
+
+
+
+
+
+#page_3 {position:relative; overflow: hidden;z:b;margin:15px 0px 21px 10px ;padding: 0px;border: none;width: 676px;}
+
+
+
+
+
+#page_4 {position:relative; overflow: hidden;z:b;margin:15px 0px 21px 10px ;padding: 0px;border: none;width: 766px;}
+#page_4 #id_1 {border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 676px;overflow: hidden;}
+#page_4 #id_2 {border:none;z:b;margin:5px 0px 0px 10px ;padding: 0px;border:none;width: 676px;overflow: hidden;}
+#page_4 #id_2 #id_2_1 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 225px;overflow: hidden;}
+#page_4 #id_2 #id_2_2 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 496px;overflow: hidden;}
+#page_4 #id_3 {border:none;z:b;margin:6px 0px 0px 10px ;padding: 0px;border:none;width: 721px;overflow: hidden;}
+
+
+
+
+
+#page_5 {position:relative; overflow: hidden;z:b;margin:15px 0px 21px 10px ;padding: 0px;border: none;width: 676px;}
+
+#page_5 #dimg1z{position:absolute;top:169px;left:0px;z-index:-1;width:123px;height:1px;font-size: 1px !important;l-h:nHeight;}
+#page_5 #dimg1 #img1  {width:123px;height:1px;}
+
+
+
+
+#page_6 {position:relative; overflow: hidden;z:b;margin:15px 0px 21px 10px ;padding: 0px;border: none;width: 676px;}
+
+#page_6 #dimg1z{position:absolute;top:625px;left:0px;z-index:-1;width:394px;height:66px;}
+#page_6 #dimg1 #img1  {width:394px;height:66px;}
+
+
+
+
+#page_7 {position:relative; overflow: hidden;z:b;margin:15px 0px 21px 10px ;padding: 0px;border: none;width: 676px;}
+
+#page_7 #dimg1z{position:absolute;top:460px;left:0px;z-index:-1;width:394px;height:65px;}
+#page_7 #dimg1 #img1  {width:394px;height:65px;}
+
+
+
+
+#page_8 {position:relative; overflow: hidden;z:b;margin:15px 0px 21px 10px ;padding: 0px;border: none;width: 676px;}
+
+
+
+
+
+#page_9 {position:relative; overflow: hidden;z:b;margin:15px 0px 21px 10px ;padding: 0px;border: none;width: 676px;}
+
+
+
+
+
+#page_10 {position:relative; overflow: hidden;z:b;margin:15px 0px 21px 10px ;padding: 0px;border: none;width: 676px;}
+#page_10 #id_1 {float:left;border:none;z:b;margin:2px 0px 0px 10px ;padding: 0px;border:none;width: 451px;overflow: hidden;}
+#page_10 #id_2 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 225px;overflow: hidden;}
+
+
+
+
+
+#page_11 {position:relative; overflow: hidden;z:b;margin:15px 0px 21px 10px ;padding: 0px;border: none;width: 766px;}
+#page_11 #id_1 {border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 631px;overflow: hidden;}
+#page_11 #id_1 #id_1_1 {float:left;border:none;z:b;margin:3px 0px 0px 10px ;padding: 0px;border:none;width: 451px;overflow: hidden;}
+#page_11 #id_1 #id_1_2 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 135px;overflow: hidden;}
+#page_11 #id_2 {border:none;z:b;margin:9px 0px 0px 10px ;padding: 0px;border:none;width: 721px;overflow: hidden;}
+
+#page_11 #dimg1z{position:absolute;top:299px;left:63px;z-index:-1;width:123px;height:1px;font-size: 1px !important;l-h:nHeight;}
+#page_11 #dimg1 #img1  {width:123px;height:1px;}
+
+
+
+
+#page_12 {position:relative; overflow: hidden;z:b;margin:15px 0px 21px 10px ;padding: 0px;border: none;width: 766px;}
+#page_12 #id_1 {border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 676px;overflow: hidden;}
+#page_12 #id_1 #id_1_1 {float:left;border:none;z:b;margin:3px 0px 0px 10px ;padding: 0px;border:none;width: 451px;overflow: hidden;}
+#page_12 #id_1 #id_1_2 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 225px;overflow: hidden;}
+#page_12 #id_2 {border:none;z:b;margin:4px 0px 0px 10px ;padding: 0px;border:none;width: 631px;overflow: hidden;}
+
+
+
+
+
+#page_13 {position:relative; overflow: hidden;z:b;margin:15px 0px 21px 10px ;padding: 0px;border: none;width: 676px;}
+#page_13 #id_1 {border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 631px;overflow: hidden;}
+#page_13 #id_1 #id_1_1 {float:left;border:none;z:b;margin:3px 0px 0px 10px ;padding: 0px;border:none;width: 451px;overflow: hidden;}
+#page_13 #id_1 #id_1_2 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 135px;overflow: hidden;}
+#page_13 #id_2 {border:none;z:b;margin:10px 0px 0px 10px ;padding: 0px;border:none;width: 631px;overflow: hidden;}
+#page_13 #id_3 {border:none;z:b;margin:6px 0px 0px 10px ;padding: 0px;border:none;width: 586px;overflow: hidden;}
+#page_13 #id_3 #id_3_1 {float:left;border:none;z:b;margin:1px 0px 0px 10px ;padding: 0px;border:none;width: 315px;overflow: hidden;}
+#page_13 #id_3 #id_3_2 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 360px;overflow: hidden;}
+
+#page_13 #dimg1z{position:absolute;top:117px;left:63px;z-index:-1;width:25px;height:11px;font-size: 1px !important;l-h:nHeight;}
+#page_13 #dimg1 #img1  {width:25px;height:11px;}
+
+
+
+
+#page_14 {position:relative; overflow: hidden;z:b;margin:15px 0px 21px 10px ;padding: 0px;border: none;width: 766px;}
+#page_14 #id_1 {border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 721px;overflow: hidden;}
+#page_14 #id_2 {border:none;z:b;margin:6px 0px 0px 10px ;padding: 0px;border:none;width: 631px;overflow: hidden;}
+#page_14 #id_2 #id_2_1 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 315px;overflow: hidden;}
+#page_14 #id_2 #id_2_2 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 405px;overflow: hidden;}
+#page_14 #id_3 {border:none;z:b;margin:11px 0px 0px 10px ;padding: 0px;border:none;width: 90px;overflow: hidden;}
+
+#page_14 #dimg1z{position:absolute;top:71px;left:63px;z-index:-1;width:87px;height:655px;}
+#page_14 #dimg1 #img1  {width:87px;height:655px;}
+
+
+
+
+#page_15 {position:relative; overflow: hidden;z:b;margin:15px 0px 21px 10px ;padding: 0px;border: none;width: 676px;}
+
+#page_15 #dimg1z{position:absolute;top:74px;left:63px;z-index:-1;width:350px;height:559px;}
+#page_15 #dimg1 #img1  {width:350px;height:559px;}
+
+
+
+
+#page_16 {position:relative; overflow: hidden;z:b;margin:15px 0px 21px 10px ;padding: 0px;border: none;width: 766px;}
+#page_16 #id_1 {border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 721px;overflow: hidden;}
+#page_16 #id_2 {border:none;z:b;margin:6px 0px 0px 10px ;padding: 0px;border:none;width: 631px;overflow: hidden;}
+#page_16 #id_2 #id_2_1 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 315px;overflow: hidden;}
+#page_16 #id_2 #id_2_2 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 405px;overflow: hidden;}
+#page_16 #id_3 {border:none;z:b;margin:3px 0px 0px 10px ;padding: 0px;border:none;width: 631px;overflow: hidden;}
+#page_16 #id_3 #id_3_1 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 315px;overflow: hidden;}
+#page_16 #id_3 #id_3_2 {float:left;border:none;z:b;margin:1px 0px 0px 10px ;padding: 0px;border:none;width: 405px;overflow: hidden;}
+#page_16 #id_4 {border:none;z:b;margin:2px 0px 0px 10px ;padding: 0px;border:none;width: 496px;overflow: hidden;}
+#page_16 #id_4 #id_4_1 {float:left;border:none;z:b;margin:5px 0px 0px 10px ;padding: 0px;border:none;width: 270px;overflow: hidden;}
+#page_16 #id_4 #id_4_2 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 225px;overflow: hidden;}
+#page_16 #id_5 {border:none;z:b;margin:64px 0px 0px 10px ;padding: 0px;border:none;width: 90px;overflow: hidden;}
+
+#page_16 #dimg1z{position:absolute;top:71px;left:126px;z-index:-1;width:235px;height:345px;}
+#page_16 #dimg1 #img1  {width:235px;height:345px;}
+
+
+
+
+#page_17 {position:relative; overflow: hidden;z:b;margin:15px 0px 21px 10px ;padding: 0px;border: none;width: 676px;}
+#page_17 #id_1 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 451px;overflow: hidden;}
+#page_17 #id_2 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 135px;overflow: hidden;}
+
+#page_17 #dimg1z{position:absolute;top:186px;left:0px;z-index:-1;width:110px;height:1px;font-size: 1px !important;l-h:nHeight;}
+#page_17 #dimg1 #img1  {width:110px;height:1px;}
+
+
+
+
+#page_18 {position:relative; overflow: hidden;z:b;margin:14px 0px 21px 10px ;padding: 0px;border: none;width: 676px;}
+
+
+
+
+
+.dclr {clear:both;float:none;height:1px;margin:0px;padding:0px;overflow:hidden;}
+
+.ft0{font:  18px 'Verdana' !important;l-h: 32px;}
+.ft1{font:  14px 'Verdana' !important;l-h: 20px;}
+.ft2{font:  10px 'Verdana' !important;l-h: 1px;}
+.ft3{font:  12px 'Verdana' !important;l-h: 15px;}
+.ft4{font: italic  12px 'Verdana' !important;l-h: 15px;}
+.ft5{font:  12px 'Verdana' !important;l-h: 16px;}
+.ft6{font:  12px 'Verdana' !important;l-h: 17px;position: relative; bottom: 4px;}
+.ft7{font:  14px 'Verdana' !important;l-h: 22px;}
+.ft8{font:  12px 'Verdana' !important;l-h: 17px;}
+.ft9{font:  12px 'Verdana' !important;margin-left: 6px;l-h: 15px;}
+.ft10{font:  12px 'Verdana' !important;margin-left: 8px;l-h: 16px;}
+.ft11{font: italic  12px 'Verdana' !important;l-h: 16px;}
+.ft12{font: italic  12px 'Verdana' !important;l-h: 17px;}
+.ft13{font:  14px 'Verdana' !important;margin-left: 51px;l-h: 23px;}
+.ft14{font:  14px 'Verdana' !important;l-h: 23px;}
+.ft15{font:  14px 'Verdana' !important;l-h: 17px;}
+.ft16{font:  14px 'Verdana' !important;margin-left: 41px;l-h: 19px;}
+.ft17{font:  14px 'Verdana' !important;l-h: 19px;}
+.ft18{font: bold  12px 'Verdana' !important;l-h: 16px;}
+.ft19{font: bold  12px 'Verdana' !important;l-h: 15px;}
+.ft20{font:  10px 'Verdana' !important;l-h: 12px;position: relative; bottom: 6px;}
+.ft21{font: italic  10px 'Verdana' !important;l-h: 10px;position: relative; bottom: 6px;}
+.ft22{font:  14px 'Verdana' !important;margin-left: 41px;l-h: 17px;}
+.ft23{font:  10px 'Verdana' !important;l-h: 6px;}
+.ft24{font:  12px 'Verdana' !important;margin-left: 3px;l-h: 14px;}
+.ft25{font:  12px 'Verdana' !important;l-h: 14px;}
+.ft26{font:  12px 'Verdana' !important;margin-left: 3px;l-h: 13px;}
+.ft27{font:  12px 'Verdana' !important;l-h: 13px;}
+.ft28{font:  12px 'Verdana' !important;margin-left: 3px;l-h: 12px;}
+.ft29{font:  12px 'Verdana' !important;l-h: 12px;}
+.ft30{font:  12px 'Verdana' !important;margin-left: 3px;l-h: 11px;}
+.ft31{font:  12px 'Verdana' !important;l-h: 11px;}
+.ft32{font:  10px 'Verdana' !important;l-h: 13px;position: relative; bottom: 6px;}
+.ft33{font: italic  12px 'Verdana' !important;l-h: 15px;}
+.ft34{font:  14px 'Verdana' !important;l-h: 21px;}
+.ft35{font:  10px 'Verdana' !important;color: #020202;l-h: 10px;}
+.ft36{font:  10px 'Verdana' !important;l-h: 6px;}
+.ft37{font:  10px 'Verdana' !important;l-h: 5px;}
+.ft38{font:  12px 'Verdana' !important;color: #020202;l-h: 14px;}
+.ft39{font: bold  10px 'Verdana' !important;color: #020202;l-h: 14px;}
+.ft40{font: bold  10px 'Verdana' !important;color: #020202;l-h: 11px;}
+.ft41{font:  10px 'Verdana' !important;color: #020202;l-h: 10px;}
+.ft42{font:  10px 'Verdana' !important;color: #020202;l-h: 5px;position: relative; bottom: 2px;}
+.ft43{font:  10px 'Verdana' !important;color: #020202;l-h: 8px;}
+.ft44{font:  10px 'Verdana' !important;color: #020202;margin-left: 15px;l-h: 10px;}
+.ft45{font:  10px 'Verdana' !important;color: #020202;l-h: 5px;position: relative; bottom: 3px;}
+.ft46{font:  10px 'Verdana' !important;color: #020202;l-h: 8px;}
+.ft47{font:  10px 'Verdana' !important;l-h: 8px;}
+.ft48{font:  10px 'Verdana' !important;color: #020202;l-h: 5px;position: relative; bottom: 2px;}
+.ft49{font:  10px 'Verdana' !important;color: #020202;l-h: 9px;}
+.ft50{font:  10px 'Verdana' !important;color: #020202;l-h: 7px;}
+.ft51{font:  10px 'Verdana' !important;color: #020202;margin-left: 15px;l-h: 9px;}
+.ft52{font:  10px 'Verdana' !important;l-h: 10px;}
+.ft53{font:  10px 'Verdana' !important;l-h: 9px;}
+.ft54{font:  10px 'Verdana' !important;l-h: 4px;}
+.ft55{font:  10px 'Verdana' !important;l-h: 8px;}
+.ft56{font:  10px 'Verdana' !important;margin-left: 15px;l-h: 10px;}
+.ft57{font:  10px 'Verdana' !important;l-h: 10px;}
+.ft58{font:  10px 'Verdana' !important;margin-left: 11px;l-h: 10px;}
+.ft59{font:  10px 'Verdana' !important;l-h: 5px;position: relative; bottom: 3px;}
+.ft60{font: italic  10px 'Verdana' !important;l-h: 9px;}
+.ft61{font: bold  10px 'Verdana' !important;l-h: 11px;}
+.ft62{font:  10px 'Verdana' !important;margin-left: 5px;l-h: 10px;}
+.ft63{font:  10px 'Verdana' !important;l-h: 5px;position: relative; bottom: 2px;}
+.ft64{font:  10px 'Verdana' !important;margin-left: 4px;l-h: 10px;}
+.ft65{font: italic  10px 'Verdana' !important;l-h: 11px;}
+.ft66{font:  10px 'Verdana' !important;l-h: 6px;position: relative; bottom: 3px;}
+.ft67{font:  10px 'Verdana' !important;margin-left: 5px;l-h: 21px;}
+.ft68{font:  10px 'Verdana' !important;l-h: 21px;}
+.ft69{font:  10px 'Verdana' !important;color: #020202;l-h: 7px;}
+.ft70{font:  10px 'Verdana' !important;l-h: 7px;}
+.ft71{font:  10px 'Verdana' !important;color: #020202;l-h: 6px;}
+.ft72{font:  10px 'Verdana' !important;color: #020202;l-h: 6px;position: relative; bottom: 3px;}
+.ft73{font:  10px 'Verdana' !important;color: #020202;l-h: 10px;position: relative; bottom: -2px;}
+.ft74{font:  10px 'Verdana' !important;l-h: 9px;}
+.ft75{font:  10px 'Verdana' !important;color: #020202;margin-left: 4px;l-h: 10px;}
+.ft76{font: italic  10px 'Verdana' !important;color: #020202;l-h: 9px;}
+.ft77{font: italic  10px 'Verdana' !important;color: #020202;l-h: 6px;}
+.ft78{font: italic  10px 'Verdana' !important;color: #020202;l-h: 8px;}
+.ft79{font: bold  12px 'Verdana' !important;l-h: 15px;}
+.ft80{font:  10px 'Verdana' !important;l-h: 12px;}
+.ft81{font:  10px 'Verdana' !important;l-h: 13px;}
+.ft82{font:  12px 'Verdana' !important;l-h: 15px;}
+.ft83{font:  12px 'Verdana' !important;l-h: 14px;}
+.ft84{font:  10px 'Verdana' !important;l-h: 14px;}
+
+.p0{text-align: left;padding-left: 0px;padding-right: 399px;margin-top: 22px;margin-bottom: 0px !important;}
+.p1{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p2{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p3{text-align: left;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p4{text-align: left;padding-left: 0px;margin-top: 19px;margin-bottom: 0px !important;}
+.p5{text-align: left;padding-left: 0px;margin-top: 15px;margin-bottom: 0px !important;}
+.p6{text-align: left;padding-left: 0px;margin-top: 32px;margin-bottom: 0px !important;}
+.p7{text-align: left;padding-left: 180px;margin-top: 18px;margin-bottom: 0px !important;}
+.p8{text-align: left;padding-left: 180px;margin-top: 2px;margin-bottom: 0px !important;}
+.p9{text-align: left;padding-left: 0px;margin-top: 51px;margin-bottom: 0px !important;}
+.p10{text-align: left;padding-left: 0px;padding-right: 168px;margin-top: 28px;margin-bottom: 0px !important;}
+.p11{text-align: left;padding-left: 0px;margin-top: 2px;margin-bottom: 0px !important;}
+.p12{text-align: right;padding-right: 42px;margin-top: 267px;margin-bottom: 0px !important;}
+.p13{text-align: left;margin-top: 0px;margin-bottom: 0px !important;}
+.p14{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p15{text-align: right;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p16{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p17{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p18{text-align: left;padding-left: 0px;margin-top: 753px;margin-bottom: 0px !important;}
+.p19{text-align: right;padding-right: 21px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p20{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p21{text-align: left;padding-right: 168px;margin-top: 9px;margin-bottom: 0px !important;}
+.p22{text-align: left;padding-left: 460px;margin-top: 702px;margin-bottom: 0px !important;}
+.p23{text-align: left;padding-left: 0px;padding-right: 63px;margin-top: 0px;margin-bottom: 0px !important;text-indent: 0.59px;}
+.p24{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;}
+.p25{text-align: left;padding-right: 189px;margin-top: 12px;margin-bottom: 0px !important;text-indent: 11px;}
+.p26{text-align: left;padding-right: 6px;margin-top: 30px;margin-bottom: 0px !important;text-indent: 11px;}
+.p27{text-align: left;padding-right: 6px;margin-top: 3px;margin-bottom: 0px !important;text-indent: 11px;}
+.p28{text-align: left;padding-right: 7px;margin-top: 0px;margin-bottom: 0px !important;text-indent: 11px;}
+.p29{text-align: left;padding-right: 7px;margin-top: 2px;margin-bottom: 0px !important;text-indent: 11px;}
+.p30{text-align: left;padding-right: 6px;margin-top: 0px;margin-bottom: 0px !important;text-indent: 11px;}
+.p31{text-align: left;padding-right: 7px;margin-top: 0px;margin-bottom: 0px !important;}
+.p32{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;}
+.p33{text-align: left;margin-top: 16px;margin-bottom: 0px !important;}
+.p34{text-align: left;padding-left: 0px;padding-right: 189px;margin-top: 0px;margin-bottom: 0px !important;text-indent: 11px;}
+.p35{text-align: left;padding-left: 0px;padding-right: 189px;margin-top: 1px;margin-bottom: 0px !important;text-indent: 11px;}
+.p36{text-align: left;padding-left: 0px;padding-right: 189px;margin-top: 3px;margin-bottom: 0px !important;text-indent: 11px;}
+.p37{text-align: left;padding-left: 0px;padding-right: 168px;margin-top: 1px;margin-bottom: 0px !important;text-indent: 11px;}
+.p38{text-align: left;padding-left: 220px;margin-top: 0px;margin-bottom: 0px !important;}
+.p39{text-align: left;padding-left: 0px;padding-right: 189px;margin-top: 0px;margin-bottom: 0px !important;text-indent: 11px;}
+.p40{text-align: right;padding-right: 63px;margin-top: 1px;margin-bottom: 0px !important;}
+.p41{text-align: left;padding-left: 180px;padding-right: 42px;margin-top: 0px;margin-bottom: 0px !important;text-indent: 11px;}
+.p42{text-align: left;padding-left: 180px;padding-right: 168px;margin-top: 0px;margin-bottom: 0px !important;}
+.p43{text-align: left;padding-left: 0px;margin-top: 18px;margin-bottom: 0px !important;}
+.p44{text-align: left;padding-left: 460px;margin-top: 584px;margin-bottom: 0px !important;}
+.p45{text-align: left;padding-right: 189px;margin-top: 9px;margin-bottom: 0px !important;}
+.p46{text-align: left;padding-right: 189px;margin-top: 4px;margin-bottom: 0px !important;text-indent: 11px;}
+.p47{text-align: left;margin-top: 22px;margin-bottom: 0px !important;}
+.p48{text-align: left;padding-right: 189px;margin-top: 10px;margin-bottom: 0px !important;}
+.p49{text-align: left;padding-left: 0px;padding-right: 189px;margin-top: 37px;margin-bottom: 0px !important;text-indent: 0.60px;}
+.p50{text-align: left;padding-left: 0px;padding-right: 189px;margin-top: 9px;margin-bottom: 0px !important;text-indent: 0.60px;}
+.p51{text-align: left;padding-left: 0px;padding-right: 189px;margin-top: 25px;margin-bottom: 0px !important;}
+.p52{text-align: right;padding-right: 42px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p53{text-align: left;padding-left: 0px;padding-right: 42px;margin-top: 0px;margin-bottom: 0px !important;text-indent: 11px;}
+.p54{text-align: left;padding-left: 0px;padding-right: 168px;margin-top: 0px;margin-bottom: 0px !important;}
+.p55{text-align: left;padding-left: 0px;padding-right: 168px;margin-top: 2px;margin-bottom: 0px !important;text-indent: 11px;}
+.p56{text-align: left;padding-left: 0px;padding-right: 168px;margin-top: 3px;margin-bottom: 0px !important;text-indent: 11px;}
+.p57{text-align: left;padding-left: 0px;padding-right: 168px;margin-top: 0px;margin-bottom: 0px !important;text-indent: 11px;}
+.p58{text-align: left;padding-left: 0px;margin-top: 27px;margin-bottom: 0px !important;}
+.p59{text-align: left;padding-left: 0px;padding-right: 168px;margin-top: 28px;margin-bottom: 0px !important;}
+.p60{text-align: left;padding-left: 0px;padding-right: 168px;margin-top: 15px;margin-bottom: 0px !important;text-indent: 11px;}
+.p61{text-align: left;padding-left: 0px;margin-top: 31px;margin-bottom: 0px !important;}
+.p62{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;}
+.p63{text-align: left;padding-left: 460px;margin-top: 0px;margin-bottom: 0px !important;}
+.p64{text-align: left;padding-right: 63px;margin-top: 0px;margin-bottom: 0px !important;text-indent: 11px;}
+.p65{text-align: left;padding-right: 189px;padding-top: 3px;margin-top: 1px;margin-bottom: 0px !important;}
+.p66{text-align: left;padding-right: 189px;margin-top: 0px;margin-bottom: 0px !important;text-indent: 11px;}
+.p67{text-align: left;padding-right: 189px;margin-top: 3px;margin-bottom: 0px !important;text-indent: 11px;}
+.p68{text-align: left;padding-right: 189px;margin-top: 1px;margin-bottom: 0px !important;text-indent: 11px;}
+.p69{text-align: left;margin-top: 255px;margin-bottom: 0px !important;}
+.p70{text-align: left;margin-top: 0px;margin-bottom: 0px !important;}
+.p71{text-align: left;padding-left: 460px;margin-top: 0px;margin-bottom: 0px !important;}
+.p72{text-align: left;padding-left: 0px;padding-right: 105px;margin-top: 9px;margin-bottom: 0px !important;}
+.p73{text-align: right;margin-top: 670px;margin-bottom: 0px !important;}
+.p74{text-align: left;padding-right: 42px;margin-top: 0px;margin-bottom: 0px !important;}
+.p75{text-align: left;margin-top: 8px;margin-bottom: 0px !important;}
+.p76{text-align: left;padding-right: 0px;margin-top: 16px;margin-bottom: 0px !important;}
+.p77{text-align: left;margin-top: 1px;margin-bottom: 0px !important;}
+.p78{text-align: left;padding-left: 0px;margin-top: 738px;margin-bottom: 0px !important;}
+.p79{text-align: left;padding-right: 0px;margin-top: 14px;margin-bottom: 0px !important;text-indent: 11px;}
+.p80{text-align: left;padding-left: 160px;margin-top: 10px;margin-bottom: 0px !important;}
+.p81{text-align: left;padding-right: 0px;margin-top: 1px;margin-bottom: 0px !important;text-indent: 11px;}
+.p82{text-align: left;padding-left: 180px;padding-right: 0px;margin-top: 0px;margin-bottom: 0px !important;text-indent: 11px;}
+.p83{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;}
+.p84{text-align: right;padding-right: 42px;margin-top: 454px;margin-bottom: 0px !important;}
+.p85{text-align: left;padding-left: 0px;padding-right: 105px;margin-top: 0px;margin-bottom: 0px !important;}
+.p86{text-align: right;margin-top: 385px;margin-bottom: 0px !important;}
+.p87{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p88{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p89{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p90{text-align: left;padding-left: 180px;margin-top: 27px;margin-bottom: 0px !important;}
+.p91{text-align: left;padding-left: 160px;padding-right: 273px;margin-top: 25px;margin-bottom: 0px !important;text-indent: 0.79px;}
+.p92{text-align: left;padding-left: 180px;padding-right: 126px;margin-top: 2px;margin-bottom: 0px !important;text-indent: 0.159px;}
+.p93{text-align: left;padding-left: 160px;margin-top: 4px;margin-bottom: 0px !important;}
+.p94{text-align: left;padding-right: 21px;margin-top: 0px;margin-bottom: 0px !important;}
+.p95{text-align: left;padding-right: 21px;margin-top: 18px;margin-bottom: 0px !important;}
+.p96{text-align: left;margin-top: 20px;margin-bottom: 0px !important;}
+.p97{text-align: left;padding-right: 21px;margin-top: 20px;margin-bottom: 0px !important;}
+.p98{text-align: left;margin-top: 19px;margin-bottom: 0px !important;}
+.p99{text-align: left;padding-left: 0px;padding-right: 21px;margin-top: 20px;margin-bottom: 0px !important;text-indent: 0.23px;}
+.p100{text-align: left;padding-left: 0px;padding-right: 21px;margin-top: 15px;margin-bottom: 0px !important;text-indent: 0.23px;}
+.p101{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p102{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p103{text-align: left;padding-left: 0px;padding-right: 42px;margin-top: 0px;margin-bottom: 0px !important;}
+.p104{text-align: left;padding-left: 0px;padding-right: 42px;margin-top: 23px;margin-bottom: 0px !important;text-indent: 0.23px;}
+.p105{text-align: left;padding-left: 0px;padding-right: 42px;margin-top: 21px;margin-bottom: 0px !important;text-indent: 0.23px;}
+.p106{text-align: left;padding-left: 0px;padding-right: 42px;margin-top: 22px;margin-bottom: 0px !important;text-indent: 0.23px;}
+.p107{text-align: left;padding-left: 0px;padding-right: 42px;margin-top: 25px;margin-bottom: 0px !important;text-indent: 0.23px;}
+.p108{text-align: left;padding-left: 0px;padding-right: 42px;margin-top: 19px;margin-bottom: 0px !important;text-indent: 0.23px;}
+.p109{text-align: right;padding-right: 63px;margin-top: 0px;margin-bottom: 0px !important;}
+.p110{text-align: left;padding-left: 420px;margin-top: 1px;margin-bottom: 0px !important;}
+.p111{text-align: right;padding-right: 21px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p112{text-align: left;padding-left: 0px;padding-right: 21px;margin-top: 0px;margin-bottom: 0px !important;text-indent: 0.23px;}
+.p113{text-align: left;padding-left: 0px;padding-right: 21px;margin-top: 25px;margin-bottom: 0px !important;text-indent: 0.23px;}
+.p114{text-align: left;padding-left: 0px;padding-right: 21px;margin-top: 26px;margin-bottom: 0px !important;text-indent: 0.23px;}
+.p115{text-align: left;padding-left: 0px;padding-right: 21px;margin-top: 24px;margin-bottom: 0px !important;text-indent: 0.23px;}
+.p116{text-align: left;margin-top: 28px;margin-bottom: 0px !important;}
+.p117{text-align: left;padding-left: 0px;margin-top: 26px;margin-bottom: 0px !important;}
+.p118{text-align: left;padding-left: 0px;margin-top: 6px;margin-bottom: 0px !important;}
+.p119{text-align: left;margin-top: 5px;margin-bottom: 0px !important;}
+.p120{text-align: left;margin-top: 27px;margin-bottom: 0px !important;}
+.p121{text-align: left;padding-left: 0px;padding-right: 21px;margin-top: 27px;margin-bottom: 0px !important;text-indent: 0.12px;}
+.p122{text-align: left;margin-top: 26px;margin-bottom: 0px !important;}
+.p123{text-align: left;padding-left: 0px;margin-top: 27px;margin-bottom: 0px !important;}
+.p124{text-align: left;margin-top: 12px;margin-bottom: 0px !important;}
+.p125{text-align: left;padding-left: 0px;margin-top: 23px;margin-bottom: 0px !important;}
+.p126{text-align: left;padding-left: 0px;padding-right: 84px;margin-top: 6px;margin-bottom: 0px !important;}
+.p127{text-align: left;margin-top: 21px;margin-bottom: 0px !important;}
+.p128{text-align: left;padding-left: 0px;padding-right: 84px;margin-top: 23px;margin-bottom: 0px !important;text-indent: 0.11px;}
+.p129{text-align: left;padding-left: 0px;margin-top: 15px;margin-bottom: 0px !important;}
+.p130{text-align: left;padding-left: 0px;padding-right: 84px;margin-top: 6px;margin-bottom: 0px !important;}
+.p131{text-align: left;padding-left: 0px;margin-top: 21px;margin-bottom: 0px !important;}
+.p132{text-align: left;padding-left: 0px;padding-right: 84px;margin-top: 0px;margin-bottom: 0px !important;}
+.p133{text-align: left;padding-left: 0px;padding-right: 84px;margin-top: 31px;margin-bottom: 0px !important;}
+.p134{text-align: left;padding-left: 0px;padding-right: 84px;margin-top: 17px;margin-bottom: 0px !important;}
+.p135{text-align: left;padding-left: 0px;padding-right: 84px;margin-top: 21px;margin-bottom: 0px !important;text-indent: 0.11px;}
+.p136{text-align: left;padding-left: 0px;margin-top: 19px;margin-bottom: 0px !important;}
+.p137{text-align: left;padding-left: 0px;padding-right: 84px;margin-top: 23px;margin-bottom: 0px !important;text-indent: 0.11px;}
+.p138{text-align: left;padding-left: 0px;margin-top: 17px;margin-bottom: 0px !important;}
+.p139{text-align: left;padding-left: 0px;padding-right: 84px;margin-top: 5px;margin-bottom: 0px !important;}
+.p140{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p141{text-align: right;padding-right: 7px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p142{text-align: right;padding-right: 1px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p143{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p144{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p145{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p146{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p147{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p148{text-align: left;padding-left: 0px;padding-right: 126px;margin-top: 2px;margin-bottom: 0px !important;text-indent: 0.8px;}
+.p149{text-align: left;padding-left: 0px;padding-right: 126px;margin-top: 43px;margin-bottom: 0px !important;}
+.p150{text-align: left;padding-left: 0px;padding-right: 126px;margin-top: 17px;margin-bottom: 0px !important;}
+.p151{text-align: left;padding-left: 460px;margin-top: 34px;margin-bottom: 0px !important;}
+.p152{text-align: right;padding-right: 21px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p153{text-align: left;padding-left: 0px;padding-right: 21px;margin-top: 22px;margin-bottom: 0px !important;text-indent: 0.11px;}
+.p154{text-align: left;padding-left: 0px;margin-top: 13px;margin-bottom: 0px !important;}
+.p155{text-align: left;padding-right: 84px;margin-top: 16px;margin-bottom: 0px !important;}
+.p156{text-align: left;padding-left: 0px;margin-top: 15px;margin-bottom: 0px !important;}
+.p157{text-align: left;padding-left: 0px;margin-top: 6px;margin-bottom: 0px !important;}
+.p158{text-align: left;padding-right: 84px;margin-top: 4px;margin-bottom: 0px !important;}
+.p159{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;}
+.p160{text-align: left;padding-right: 21px;margin-top: 4px;margin-bottom: 0px !important;}
+.p161{text-align: left;padding-right: 21px;margin-top: 23px;margin-bottom: 0px !important;}
+.p162{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;}
+.p163{text-align: left;padding-left: 0px;margin-top: 6px;margin-bottom: 0px !important;}
+.p164{text-align: left;margin-top: 4px;margin-bottom: 0px !important;}
+.p165{text-align: left;margin-top: 24px;margin-bottom: 0px !important;}
+.p166{text-align: center;padding-right: 21px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p167{text-align: center;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p168{text-align: center;padding-right: 21px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p169{text-align: left;margin-top: 14px;margin-bottom: 0px !important;}
+.p170{text-align: left;padding-right: 0px;margin-top: 15px;margin-bottom: 0px !important;}
+.p171{text-align: left;margin-top: 13px;margin-bottom: 0px !important;}
+.p172{text-align: left;margin-top: 60px;margin-bottom: 0px !important;}
+.p173{text-align: left;padding-left: 0px;margin-top: 753px;margin-bottom: 0px !important;}
+.p174{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p175{text-align: left;padding-left: 460px;margin-top: 535px;margin-bottom: 0px !important;}
+
+.td0{padding: 0px;margin: 0px;width: 294px;vertical-align: bottom;}
+.td1{padding: 0px;margin: 0px;width: 233px;vertical-align: bottom;}
+.td2{border-bottom: #000000 1px solid;padding: 0px;margin: 0px;width: 294px;vertical-align: bottom;}
+.td3{border-bottom: #000000 1px solid;padding: 0px;margin: 0px;width: 233px;vertical-align: bottom;}
+.td4{padding: 0px;margin: 0px;width: 7px;vertical-align: bottom;}
+.td5{padding: 0px;margin: 0px;width: 390px;vertical-align: bottom;}
+.td6{padding: 0px;margin: 0px;width: 13px;vertical-align: bottom;}
+.td7{padding: 0px;margin: 0px;width: 47px;vertical-align: bottom;}
+.td8{padding: 0px;margin: 0px;width: 343px;vertical-align: bottom;}
+.td9{padding: 0px;margin: 0px;width: 397px;vertical-align: bottom;}
+.td10{padding: 0px;margin: 0px;width: 36px;vertical-align: bottom;}
+.td11{padding: 0px;margin: 0px;width: 389px;vertical-align: bottom;}
+.td12{padding: 0px;margin: 0px;width: 103px;vertical-align: bottom;}
+.td13{padding: 0px;margin: 0px;width: 468px;vertical-align: bottom;}
+.td14{padding: 0px;margin: 0px;width: 61px;vertical-align: bottom;}
+.td15{padding: 0px;margin: 0px;width: 214px;vertical-align: bottom;}
+.td16{padding: 0px;margin: 0px;width: 106px;vertical-align: bottom;}
+.td17{padding: 0px;margin: 0px;width: 68px;vertical-align: bottom;}
+.td18{border-top: #020202 1px solid;padding: 0px;margin: 0px;width: 23px;vertical-align: bottom;}
+.td19{padding: 0px;margin: 0px;width: 284px;vertical-align: bottom;}
+.td20{border-bottom: #020202 1px solid;padding: 0px;margin: 0px;width: 67px;vertical-align: bottom;}
+.td21{border-top: #020202 1px solid;border-bottom: #020202 1px solid;padding: 0px;margin: 0px;width: 1px;vertical-align: bottom;}
+.td22{border-top: #020202 1px solid;border-bottom: #020202 1px solid;padding: 0px;margin: 0px;width: 23px;vertical-align: bottom;}
+.td23{border-bottom: #020202 1px solid;padding: 0px;margin: 0px;width: 284px;vertical-align: bottom;}
+.td24{border-bottom: #020202 1px solid;padding: 0px;margin: 0px;width: 103px;vertical-align: bottom;}
+.td25{padding: 0px;margin: 0px;width: 9px;vertical-align: bottom;}
+.td26{padding: 0px;margin: 0px;width: 152px;vertical-align: bottom;}
+.td27{padding: 0px;margin: 0px;width: 30px;vertical-align: bottom;}
+.td28{padding: 0px;margin: 0px;width: 22px;vertical-align: bottom;}
+.td29{padding: 0px;margin: 0px;width: 12px;vertical-align: bottom;}
+.td30{border-bottom: #020202 1px solid;padding: 0px;margin: 0px;width: 48px;vertical-align: bottom;}
+.td31{padding: 0px;margin: 0px;width: 113px;vertical-align: bottom;}
+.td32{padding: 0px;margin: 0px;width: 161px;vertical-align: bottom;}
+.td33{padding: 0px;margin: 0px;width: 34px;vertical-align: bottom;}
+.td34{padding: 0px;margin: 0px;width: 217px;vertical-align: bottom;}
+.td35{padding: 0px;margin: 0px;width: 219px;vertical-align: bottom;}
+.td36{padding: 0px;margin: 0px;width: 29px;vertical-align: bottom;}
+.td37{padding: 0px;margin: 0px;width: 67px;vertical-align: bottom;}
+.td38{border-bottom: #000000 1px solid;padding: 0px;margin: 0px;width: 1px;vertical-align: bottom;}
+.td39{border-top: #000000 1px solid;border-bottom: #000000 1px solid;padding: 0px;margin: 0px;width: 23px;vertical-align: bottom;}
+.td40{padding: 0px;margin: 0px;width: 352px;vertical-align: bottom;}
+.td41{padding: 0px;margin: 0px;width: 35px;vertical-align: bottom;}
+.td42{border-bottom: #020202 1px solid;padding: 0px;margin: 0px;width: 1px;vertical-align: bottom;}
+.td43{border-bottom: #020202 1px solid;padding: 0px;margin: 0px;width: 23px;vertical-align: bottom;}
+.td44{border-bottom: #020202 1px solid;padding: 0px;margin: 0px;width: 352px;vertical-align: bottom;}
+.td45{border-bottom: #020202 1px solid;padding: 0px;margin: 0px;width: 35px;vertical-align: bottom;}
+.td46{padding: 0px;margin: 0px;width: 1px;vertical-align: bottom;}
+.td47{padding: 0px;margin: 0px;width: 15px;vertical-align: bottom;}
+.td48{padding: 0px;margin: 0px;width: 79px;vertical-align: bottom;}
+.td49{padding: 0px;margin: 0px;width: 39px;vertical-align: bottom;}
+.td50{padding: 0px;margin: 0px;width: 24px;vertical-align: bottom;}
+.td51{padding: 0px;margin: 0px;width: 172px;vertical-align: bottom;}
+.td52{padding: 0px;margin: 0px;width: 141px;vertical-align: bottom;}
+.td53{padding: 0px;margin: 0px;width: 127px;vertical-align: bottom;}
+.td54{padding: 0px;margin: 0px;width: 45px;vertical-align: bottom;}
+.td55{padding: 0px;margin: 0px;width: 23px;vertical-align: bottom;}
+.td56{border-top: #020202 1px solid;border-bottom: #020202 1px solid;padding: 0px;margin: 0px;width: 7px;vertical-align: bottom;}
+.td57{border-top: #020202 1px solid;border-bottom: #020202 1px solid;padding: 0px;margin: 0px;width: 15px;vertical-align: bottom;}
+.td58{border-bottom: #020202 1px solid;padding: 0px;margin: 0px;width: 79px;vertical-align: bottom;}
+.td59{border-bottom: #020202 1px solid;padding: 0px;margin: 0px;width: 61px;vertical-align: bottom;}
+.td60{border-bottom: #020202 1px solid;padding: 0px;margin: 0px;width: 39px;vertical-align: bottom;}
+.td61{border-bottom: #020202 1px solid;padding: 0px;margin: 0px;width: 15px;vertical-align: bottom;}
+.td62{border-bottom: #020202 1px solid;padding: 0px;margin: 0px;width: 24px;vertical-align: bottom;}
+.td63{border-bottom: #020202 1px solid;padding: 0px;margin: 0px;width: 47px;vertical-align: bottom;}
+.td64{padding: 0px;margin: 0px;width: 244px;vertical-align: bottom;}
+.td65{border-right: #020202 1px solid;padding: 0px;margin: 0px;width: 60px;vertical-align: bottom;}
+.td66{border-right: #020202 1px solid;padding: 0px;margin: 0px;width: 78px;vertical-align: bottom;}
+.td67{border-right: #020202 1px solid;border-bottom: #020202 1px solid;padding: 0px;margin: 0px;width: 38px;vertical-align: bottom;}
+.td68{border-right: #020202 1px solid;padding: 0px;margin: 0px;width: 38px;vertical-align: bottom;}
+.td69{border-right: #020202 1px solid;border-bottom: #020202 1px solid;padding: 0px;margin: 0px;width: 60px;vertical-align: bottom;}
+.td70{border-right: #020202 1px solid;border-bottom: #020202 1px solid;padding: 0px;margin: 0px;width: 23px;vertical-align: bottom;}
+.td71{border-bottom: #020202 1px solid;padding: 0px;margin: 0px;width: 95px;vertical-align: bottom;}
+.td72{padding: 0px;margin: 0px;width: 92px;vertical-align: bottom;}
+.td73{padding: 0px;margin: 0px;width: 95px;vertical-align: bottom;}
+.td74{border-right: #020202 1px solid;padding: 0px;margin: 0px;width: 23px;vertical-align: bottom;}
+.td75{border-right: #020202 1px solid;border-bottom: #020202 1px solid;padding: 0px;margin: 0px;width: 156px;vertical-align: bottom;}
+.td76{border-right: #020202 1px solid;border-top: #020202 1px solid;border-bottom: #020202 1px solid;padding: 0px;margin: 0px;width: 70px;vertical-align: bottom;}
+.td77{border-right: #020202 1px solid;border-top: #020202 1px solid;border-bottom: #020202 1px solid;padding: 0px;margin: 0px;width: 28px;vertical-align: bottom;}
+.td78{border-right: #020202 1px solid;border-top: #020202 1px solid;border-bottom: #020202 1px solid;padding: 0px;margin: 0px;width: 69px;vertical-align: bottom;}
+.td79{border-top: #020202 1px solid;border-bottom: #020202 1px solid;padding: 0px;margin: 0px;width: 29px;vertical-align: bottom;}
+.td80{padding: 0px;margin: 0px;width: 135px;vertical-align: bottom;}
+.td81{padding: 0px;margin: 0px;width: 55px;vertical-align: bottom;}
+.td82{padding: 0px;margin: 0px;width: 143px;vertical-align: bottom;}
+.td83{padding: 0px;margin: 0px;width: 138px;vertical-align: bottom;}
+.td84{padding: 0px;margin: 0px;width: 134px;vertical-align: bottom;}
+.td85{padding: 0px;margin: 0px;width: 115px;vertical-align: bottom;}
+.td86{border-bottom: #000000 1px solid;padding: 0px;margin: 0px;width: 143px;vertical-align: bottom;}
+.td87{border-bottom: #000000 1px solid;padding: 0px;margin: 0px;width: 138px;vertical-align: bottom;}
+.td88{border-bottom: #000000 1px solid;padding: 0px;margin: 0px;width: 134px;vertical-align: bottom;}
+.td89{padding: 0px;margin: 0px;width: 249px;vertical-align: bottom;}
+
+.tr0{heightzzz: 27px;}
+.tr1{heightzzz: 21px;}
+.tr2{heightzzz: 23px;}
+.tr3{heightzzz: 19px;}
+.tr4{heightzzz: 18px;}
+.tr5{heightzzz: 15px;}
+.tr6{heightzzz: 16px;}
+.tr7{heightzzz: 17px;}
+.tr8{heightzzz: 22px;}
+.tr9{heightzzz: 25px;}
+.tr10{heightzzz: 20px;}
+.tr11{heightzzz: 11px;}
+.tr12{heightzzz: 10px;}
+.tr13{heightzzz: 6px;}
+.tr14{heightzzz: 5px;}
+.tr15{heightzzz: 12px;}
+.tr16{heightzzz: 8px;}
+.tr17{heightzzz: 9px;}
+.tr18{heightzzz: 13px;}
+.tr19{heightzzz: 24px;}
+.tr20{heightzzz: 14px;}
+.tr21{heightzzz: 4px;}
+.tr22{heightzzz: 46px;}
+.tr23{heightzzz: 38px;}
+.tr24{heightzzz: 39px;}
+.tr25{heightzzz: 7px;}
+.tr26{heightzzz: 31px;}
+.tr27{heightzzz: 28px;}
+.tr28{heightzzz: 33px;}
+
+.t0{width: 552px;margin-leftZ: 69px;margin-top: 7px;f:18px 'Verdana' !important;}
+.t1{width: 431px;margin-top: 16px;f:13px 'Verdana' !important;}
+.t2{width: 555px;f:18px 'Verdana' !important;}
+.t3{width: 555px;margin-top: 11px;f:13px 'Verdana' !important;}
+.t4{width: 555px;margin-leftZ: 70px;f:18px 'Verdana' !important;}
+.t5{width: 335px;margin-top: 13px;f:italic 13px 'Verdana' !important;}
+.t6{width: 502px;f:8px 'Verdana' !important;color: #020202;}
+.t7{width: 237px;margin-top: 16px;f:8px 'Verdana' !important;color: #020202;}
+.t8{width: 260px;margin-leftZ: 23px;margin-top: 2px;f:8px 'Verdana' !important;color: #020202;}
+.t9{width: 502px;margin-leftZ: 75px;margin-top: 40px;f:8px 'Verdana' !important;}
+.t10{width: 550px;f:8px 'Verdana' !important;color: #020202;}
+.t11{width: 502px;margin-leftZ: 75px;margin-top: 40px;f:8px 'Verdana' !important;color: #020202;}
+.t12{width: 210px;margin-leftZ: 16px;margin-top: 16px;f:8px 'Verdana' !important;color: #020202;}
+.t13{width: 200px;f:italic 7px 'Verdana' !important;color: #020202;}
+.t14{width: 557px;f:bold 12px 'Verdana' !important;}
+
+</STYLE>
+
+
+
+<DIV id="page_1">
+<DIV id="dimg1">
+<INGENBILD zsrc="GX031631x1.jpg/" id="img1">
+</DIV>
+
+
+<DIV class="dclr"></DIV>
+<P class="p0 ft0">Regeringens proposition 2009/10:163</P>
+<TABLE cellpadding=0 cellspacing=0 class="t0">
+<TR>
+	<TD class="tr0 td0"><SPAN class="p1 ft1">Vissa metrologifrågor</SPAN> </TD>
+	<TD class="tr0 td1"><SPAN class="p2 ft1">Prop.</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr1 td2"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr1 td3"><SPAN class="p2 ft1">2009/10:163</SPAN> </TD>
+</TR>
+</TABLE>
+<P class="p4 ft3">Regeringen överlämnar denna proposition till riksdagen.</P>
+<P class="p5 ft3">Stockholm den 18 mars 2010</P>
+<P class="p6 ft4">Fredrik Reinfeldt</P>
+<P class="p7 ft4">Åsa Torstensson</P>
+<P class="p8 ft3">(Näringsdepartementet)</P>
+<P class="p9 ft1">Propositionens huvudsakliga innehåll</P>
+<P class="p10 ft3">I propositionen föreslås ett bemyndigande till regeringen eller den myndighet regeringen bestämmer om att få meddela föreskrifter om avgifter för kontroll av mätdon och färdigförpackade varor som omfattas av myndighetens tillsyn. Bemyndigandet ska tas in i lagen (1992:1514) om måttenheter, mätningar och mätdon. Vidare föreslås vissa redaktionella ändringar i den lagen för att tydliggöra att svensk rätt är förenlig med <NOBR>EU-rätten.</NOBR></P>
+<P class="p11 ft3">Lagändringarna föreslås träda i kraft den 1 juli 2010.</P>
+<P class="p12 ft3">1</P>
+</DIV>
+<DIV id="page_2">
+
+
+<DIV>
+<DIV id="id_1">
+<P class="p13 ft1">Innehållsförteckning</P>
+<TABLE cellpadding=0 cellspacing=0 class="t1">
+<TR>
+	<TD class="tr2 td4"><SPAN class="p3 ft3">1</SPAN> </TD>
+	<TD colspan=2 class="tr2 td5"><SPAN class="p14 ft3">Förslag till riksdagsbeslut.................................................................</SPAN> </TD>
+	<TD class="tr2 td6"><SPAN class="p15 ft3">3</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr3 td4"><SPAN class="p3 ft3">2</SPAN> </TD>
+	<TD colspan=2 class="tr3 td5"><SPAN class="p14 ft3">Förslag till lag om ändring i lagen (1992:1514) om</SPAN> </TD>
+	<TD class="tr3 td6"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr4 td4"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD colspan=2 class="tr4 td5"><SPAN class="p14 ft3">måttenheter, mätningar och mätdon..................................................</SPAN> </TD>
+	<TD class="tr4 td6"><SPAN class="p15 ft3">4</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr1 td4"><SPAN class="p3 ft3">3</SPAN> </TD>
+	<TD colspan=2 class="tr1 td5"><SPAN class="p14 ft3">Ärendet och dess beredning..............................................................</SPAN> </TD>
+	<TD class="tr1 td6"><SPAN class="p15 ft3">6</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr1 td4"><SPAN class="p3 ft3">4</SPAN> </TD>
+	<TD colspan=2 class="tr1 td5"><SPAN class="p14 ft3">Ändring i lagen (1992:1514) om måttenheter, mätningar och</SPAN> </TD>
+	<TD class="tr1 td6"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr5 td4"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD colspan=2 class="tr5 td5"><SPAN class="p14 ft3">mätdon ..............................................................................................</SPAN> </TD>
+	<TD class="tr5 td6"><SPAN class="p15 ft3">6</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr5 td4"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr5 td7"><SPAN class="p14 ft3">4.1</SPAN> </TD>
+	<TD class="tr5 td8"><SPAN class="p16 ft3">Bemyndigande att få meddela föreskrifter om</SPAN> </TD>
+	<TD class="tr5 td6"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr6 td4"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr6 td7"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr6 td8"><SPAN class="p16 ft3">avgifter för tillsyn...............................................................</SPAN> </TD>
+	<TD class="tr6 td6"><SPAN class="p15 ft3">6</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr7 td4"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr7 td7"><SPAN class="p14 ft3">4.2</SPAN> </TD>
+	<TD class="tr7 td8"><SPAN class="p16 ft3">Skyldigheten att använda vissa måttenheter.......................</SPAN> </TD>
+	<TD class="tr7 td6"><SPAN class="p15 ft3">7</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr1 td4"><SPAN class="p3 ft3">5</SPAN> </TD>
+	<TD colspan=2 class="tr1 td5"><SPAN class="p14 ft3">Konsekvenser....................................................................................</SPAN> </TD>
+	<TD class="tr1 td6"><SPAN class="p15 ft3">9</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=3 class="tr1 td9"><SPAN class="p3 ft3">Bilaga 1 Utdrag ur sammanfattningen av betänkandet Vissa</SPAN> </TD>
+	<TD class="tr1 td6"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr7 td4"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr7 td7"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr7 td8"><SPAN class="p17 ft3">metrologifrågor (SOU 2007:97) ...........................................</SPAN> </TD>
+	<TD class="tr7 td6"><SPAN class="p15 ft3">10</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=3 class="tr1 td9"><SPAN class="p3 ft3">Bilaga 2 Utdrag ur betänkandets lagförslag........................................</SPAN> </TD>
+	<TD class="tr1 td6"><SPAN class="p15 ft3">11</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=3 class="tr8 td9"><SPAN class="p3 ft3">Bilaga 3 Förteckning över remissinstanserna .....................................</SPAN> </TD>
+	<TD class="tr8 td6"><SPAN class="p15 ft3">12</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=3 class="tr1 td9"><SPAN class="p3 ft3">Bilaga 4 Europaparlamentets och rådets direktiv 2009/3/EG av</SPAN> </TD>
+	<TD class="tr1 td6"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr6 td4"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr6 td7"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr6 td8"><SPAN class="p17 ft3">den 11 mars 2009 om ändring av rådets direktiv</SPAN> </TD>
+	<TD class="tr6 td6"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr5 td4"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr5 td7"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr5 td8"><SPAN class="p17 ft3">80/181/EEG om tillnärmning av medlemsstaternas</SPAN> </TD>
+	<TD class="tr5 td6"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr7 td4"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr7 td7"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr7 td8"><SPAN class="p17 ft3">lagstiftning för måttenheter ..................................................</SPAN> </TD>
+	<TD class="tr7 td6"><SPAN class="p15 ft3">13</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=3 class="tr1 td9"><SPAN class="p3 ft3">Utdrag ur protokoll vid regeringssammanträde den 18 mars 2010.........</SPAN> </TD>
+	<TD class="tr1 td6"><SPAN class="p15 ft3">17</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=3 class="tr8 td9"><SPAN class="p3 ft3">Rättsdatablad ..........................................................................................</SPAN> </TD>
+	<TD class="tr8 td6"><SPAN class="p15 ft3">18</SPAN> </TD>
+</TR>
+</TABLE>
+</DIV>
+<DIV id="id_2">
+<P class="p13 ft3">Prop. 2009/10:163</P>
+<P class="p18 ft3">2</P>
+</DIV>
+</DIV>
+</DIV>
+<DIV id="page_3">
+
+
+<TABLE cellpadding=0 cellspacing=0 class="t2">
+<TR>
+	<TD class="tr9 td10"><SPAN class="p19 ft1">1</SPAN> </TD>
+	<TD class="tr9 td11"><SPAN class="p20 ft1">Förslag till riksdagsbeslut</SPAN> </TD>
+	<TD class="tr9 td12"><SPAN class="p3 ft3">Prop. 2009/10:163</SPAN> </TD>
+</TR>
+</TABLE>
+<P class="p21 ft5">Regeringen föreslår att riksdagen antar regeringens förslag till lag om ändring i lagen (1992:1514) om måttenheter, mätningar och mätdon.</P>
+<P class="p22 ft3">3</P>
+</DIV>
+<DIV id="page_4">
+
+
+<DIV id="id_1">
+<P class="p23 ft7">2 Förslag till lag om ändring i lagen <SPAN class="ft6">Prop. 2009/10:163 </SPAN>(1992:1514) om måttenheter, mätningar och</P>
+<P class="p24 ft1">mätdon</P>
+<P class="p25 ft8">Härigenom föreskrivs att 1 och 4 §§ lagen (1992:1514) om måttenheter, mätningar och mätdon ska ha följande lydelse.</P>
+</DIV>
+<DIV id="id_2">
+<DIV id="id_2_1">
+<P class="p13 ft4">Nuvarande lydelse</P>
+<P class="p26 ft3">För att uppfylla <SPAN class="ft4">Sveriges åtaganden enligt avtalet om Europeiska ekonomiska samarbetsområdet </SPAN><NOBR><SPAN class="ft4">(EES-avtalet)</SPAN></NOBR><SPAN class="ft4"> skall </SPAN>vad som sägs i denna paragraf gälla vid mätningar, som görs i ekonomiskt, hälsovårdande, skyddande eller administrativt syfte.</P>
+<P class="p27 ft3">Vid mätningar som avses i första stycket <SPAN class="ft4">skall </SPAN>mätdonen, enligt närmare föreskrifter av regeringen eller den myndighet som regeringen bestämmer, vara graderade i och mätresultaten uttryckta i</P>
+<P class="p27 ft3"><SPAN class="ft3">1.</SPAN><SPAN class="ft9">måttenheter, som ingår i det internationella måttenhetssystem </SPAN><NOBR>(SI-systemet)</NOBR> som har antagits av Allmänna konferensen för mått och vikt,</P>
+<P class="p28 ft3"><SPAN class="ft3">2.</SPAN><SPAN class="ft9">måttenheter, som har tillåtits för bruk tillsammans med SI- enheter enligt beslut av Internationella kommittén för mått och vikt, eller</SPAN></P>
+<P class="p29 ft5"><SPAN class="ft3">3.</SPAN><SPAN class="ft10">andra särskilda måttenheter, som får användas enligt </SPAN><SPAN class="ft11">Sveriges åtaganden enligt </SPAN><NOBR><SPAN class="ft11">EES-avtalet</SPAN>.</NOBR></P>
+<P class="p30 ft3">Regeringen eller den myndighet som regeringen bestämmer får i fråga om kommunikationer <SPAN class="ft4">föreskriva </SPAN>om undantag från andra stycket, om det är förenligt med</P>
+<P class="p31 ft12">Sveriges åtaganden enligt EES- avtalet<SPAN class="ft8">.</SPAN></P>
+</DIV>
+<DIV id="id_2_2">
+<P class="p32 ft4">Föreslagen lydelse</P>
+<P class="p33 ft3">1 §</P>
+<P class="p34 ft3">För att uppfylla <SPAN class="ft4">de förpliktelser som följer av Sveriges medlemskap i Europeiska unionen ska </SPAN>vad som sägs i denna paragraf gälla vid mätningar.</P>
+<P class="p35 ft3">Vid mätningar som avses i första stycket <SPAN class="ft4">ska </SPAN>mätdonen, enligt närmare föreskrifter av regeringen eller den myndighet som regeringen bestämmer, vara graderade i och mätresultaten uttryckta i</P>
+<P class="p36 ft3"><SPAN class="ft3">1.</SPAN><SPAN class="ft9">måttenheter, som ingår i det internationella måttenhetssystem </SPAN><NOBR>(SI-systemet)</NOBR> som har antagits av Allmänna konferensen för mått och vikt,</P>
+<P class="p35 ft3"><SPAN class="ft3">2.</SPAN><SPAN class="ft9">måttenheter, som har tillåtits för bruk tillsammans med SI- enheter enligt beslut av Internationella kommittén för mått och vikt, eller</SPAN></P>
+<P class="p37 ft5"><SPAN class="ft3">3.</SPAN><SPAN class="ft10">andra särskilda måttenheter, som får användas enligt </SPAN><SPAN class="ft11">de förpliktelser som följer av Sveriges medlemskap i Europeiska unionen</SPAN>.</P>
+<P class="p34 ft3">Regeringen eller den myndighet som regeringen bestämmer får i fråga om kommunikationer <SPAN class="ft4">meddela föreskrifter </SPAN>om undantag från andra stycket, om det är förenligt med <SPAN class="ft4">de förpliktelser som följer av Sveriges medlemskap i Europeiska unionen</SPAN>.</P>
+</DIV>
+</DIV>
+<DIV id="id_3">
+<P class="p38 ft3">4 §</P>
+<P class="p39 ft5">Tillsyn över efterlevnaden av denna lag och föreskrifter meddelade med stöd av lagen utövas för visst område av den myndighet som regeringen bestämmer.</P>
+<P class="p40 ft3">4</P>
+</DIV>
+</DIV>
+<DIV id="page_5">
+<DIV id="dimg1">
+<INGENBILD zsrc="GX031635x1.jpg/" id="img1">
+</DIV>
+
+
+<P class="p41 ft11">Regeringen, eller efter rege- <SPAN class="ft5">Prop. 2009/10:163 </SPAN>ringens bemyndigande tillsyns-</P>
+<P class="p42 ft4">myndigheten, får meddela föreskrifter om avgifter för kontroll av mätdon och färdigförpackade varor som omfattas av myndighetens tillsyn enligt första stycket. Avgifterna disponeras av regeringen, eller den myndighet regeringen bestämmer.</P>
+<P class="p43 ft3">Denna lag träder i kraft den 1 juli 2010.</P>
+<P class="p44 ft3">5</P>
+</DIV>
+<DIV id="page_6">
+<DIV id="dimg1">
+<INGENBILD zsrc="GX031636x1.jpg/" id="img1">
+</DIV>
+
+
+<TABLE cellpadding=0 cellspacing=0 class="t2">
+<TR>
+	<TD class="tr9 td10"><SPAN class="p19 ft1">3</SPAN> </TD>
+	<TD class="tr9 td11"><SPAN class="p20 ft1">Ärendet och dess beredning</SPAN> </TD>
+	<TD class="tr9 td12"><SPAN class="p3 ft3">Prop. 2009/10:163</SPAN> </TD>
+</TR>
+</TABLE>
+<P class="p45 ft3">Den 30 november 2006 bemyndigade regeringen chefen för Näringsdepartementet att tillkalla en särskild utredare med uppdrag att utreda reglering, omfattning, ansvar, finansiering, m.m. avseende legal metrologi, spårbar tid och frekvens samt riksmätplatser. Utredningen, som antog namnet Utredningen om legal metrologi, tid och frekvens samt riksmätplatser, överlämnade den 14 december 2007 betänkandet Vissa metrologifrågor (SOU 2007:97). I betänkande föreslås bland annat en ändring av 4 § lagen (1992:1514) om måttenheter, mätningar och mätdon. Förslaget behandlas i denna proposition. En sammanfattning av betänkandet i denna del finns i <SPAN class="ft4">bilaga 1</SPAN>. Betänkandets lagförslag i denna del finns i <SPAN class="ft4">bilaga </SPAN>2. Betänkandet har remissbehandlats. En förteckning av remissinstanserna finns i <SPAN class="ft4">bilaga 3</SPAN>. En sammanställning av remissyttrandena finns tillgänglig i Näringsdepartementet (dnr N2007/10167/FIN).</P>
+<P class="p46 ft5">I propositionen lämnas också förslag till en konsekvensändring som är nödvändig för att Europaparlamentets och rådets direktiv 2009/3/EG av den 11 mars 2009 om ändring av rådets direktiv 80/181/EEG om tillnärmning av medlemsstaternas lagstiftning för måttenheter (EUT L 114, 7.5.2009, s. 10, Celex 32009L0003) ska vara fullt ut genomfört i svensk rätt. Direktivet återfinns i <SPAN class="ft11">bilaga 4</SPAN>.</P>
+<P class="p47 ft4">Lagrådet</P>
+<P class="p48 ft5">Ändringarna består <SPAN class="ft11">dels </SPAN>i att det i lag regleras vad som redan gäller enligt riksdagsbeslut, <SPAN class="ft11">dels </SPAN>att det görs en redaktionell ändring i syfte att säkerställa fullständigt genomförande av ett direktiv. Några förändringar i sak innebär detta inte. Regeringen anser sammantaget att ändringarna är av sådan beskaffenhet att Lagrådets hörande skulle sakna betydelse.</P>
+<P class="p49 ft14"><SPAN class="ft1">4</SPAN><SPAN class="ft13">Ändring i lagen (1992:1514) om måttenheter, mätningar och mätdon</SPAN></P>
+<P class="p50 ft17"><SPAN class="ft15">4.1</SPAN><SPAN class="ft16">Bemyndigande att få meddela föreskrifter om avgifter för tillsyn</SPAN></P>
+<P class="p51 ft5"><SPAN class="ft18">Regeringens förslag: </SPAN>Riksdagens bemyndigande till regeringen eller den myndighet regeringen bestämmer att få meddela föreskrifter om avgifter för kontroll av mätdon och färdigförpackade varor som omfattas av myndighetens tillsyn ska föras över till lag.</P>
+<TABLE cellpadding=0 cellspacing=0 class="t3">
+<TR>
+	<TD class="tr10 td13"><SPAN class="p52 ft3"><SPAN class="ft19">Utredningens förslag: </SPAN>Överensstämmer delvis med regeringens.</SPAN> </TD>
+	<TD class="tr10 td14"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr5 td13"><SPAN class="p52 ft3">Utredningen föreslog dock att bemyndigandet endast skulle omfatta</SPAN> </TD>
+	<TD class="tr5 td14"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr6 td13"><SPAN class="p3 ft3">mätdon.</SPAN> </TD>
+	<TD class="tr6 td14"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr5 td13"><SPAN class="p52 ft4"><SPAN class="ft19">Remissinstanserna: </SPAN>Ekonomistyrningsverket (ESV) <SPAN class="ft3">tillstyrker för-</SPAN></SPAN> </TD>
+	<TD class="tr5 td14"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr4 td13"><SPAN class="p3 ft3">slaget. Övriga remissinstanser har inte haft något att erinra mot förslaget.</SPAN> </TD>
+	<TD class="tr4 td14"><SPAN class="p15 ft3">6</SPAN> </TD>
+</TR>
+</TABLE>
+</DIV>
+<DIV id="page_7">
+<DIV id="dimg1">
+<INGENBILD zsrc="GX031637x1.jpg/" id="img1">
+</DIV>
+
+
+<P class="p53 ft5"><SPAN class="ft18">Bakgrund: </SPAN>Enligt 8 § förordningen (1993:1066) om måttenheter, mät- Prop. 2009/10:163 ningar och mätdon får Styrelsen för ackreditering och teknisk kontroll</P>
+<P class="p54 ft3">(Swedac) besluta om avgifter för mätdon som omfattas av myndighetens tillsyn enligt förordningen. Riksdagens bemyndigande till regeringen eller den myndighet regeringen bestämmer att få besluta om sådana avgifter har inte givits i lag, utan i ett riksdagsbeslut<SPAN class="ft20">1</SPAN>. På regeringens uppdrag redovisade ESV 2005 rapporten <SPAN class="ft4">Finansiering av metrologiverksamhet</SPAN><SPAN class="ft21">2</SPAN>. I rapporten anförde ESV bland annat att det nu gällande bemyndigandet är mycket vittomfattande och inte tillräckligt tydligt.</P>
+<P class="p55 ft3"><SPAN class="ft19">Skälen för regeringens förslag: </SPAN>Regeringen delar utredningens och ESV:s uppfattning att riksdagens avgiftsbemyndigande bör vara placerat i lag. Dagens avgiftsmodell är väl etablerad och fungerar bra på de områden där den används. Bemyndigandet kan därför hållas övergripande och kortfattat. Intentionen är att Swedac även fortsättningsvis ska få disponera intäkterna från de avgifter myndigheten har rätt att besluta om. Liksom gäller i dag ska även fortsättningsvis det ekonomiska målet med avgiftsuttaget vara full kostnadstäckning för tillsynen. Det nu gällande bemyndigandet omfattar även en möjlighet att ta ut avgifter för kontroll av färdigförpackade varor. Enligt regeringens bedömning saknas det anledning att begränsa området för när det ska vara möjligt att göra avgiftsuttag till att avse endast mätdon.</P>
+<P class="p56 ft5">Tillsyn ska ske i enlighet med vad regeringen har bedömt lämpligt i skrivelsen En tydlig, rättssäker och effektiv tillsyn (skr. 2009/10:79).</P>
+<P class="p57 ft8">Lagändringen föreslås träda i kraft den 1 juli 2010. Några särskilda övergångsbestämmelser är inte nödvändiga.</P>
+<P class="p58 ft15"><SPAN class="ft15">4.2</SPAN><SPAN class="ft22">Skyldigheten att använda vissa måttenheter</SPAN></P>
+<P class="p59 ft5"><SPAN class="ft18">Regeringens förslag: </SPAN>Tillämpningsområdet för när skyldigheten, till följd av de förpliktelser som följer av Sveriges medlemskap i Europeiska unionen, att använda i lagen angivna måttenheter ändras i syfte att svensk rätt ska vara i överensstämmelse med <NOBR>EU-rätten.</NOBR></P>
+<P class="p60 ft3"><SPAN class="ft19">Bakgrund: </SPAN>Av rådets direktiv 80/181/EEG av den 20 december 1979 om tillnärmning av medlemsstaternas lagstiftning för måttenheter och om upphävande av direktiv 71/354/EEG<SPAN class="ft20">3 </SPAN>(grunddirektivet) framgick ursprungligen att skyldigheten att använda vissa i direktivet angivna måttenheter ”avser mätdon som används, mätningar som utförs och värden på storheter som anges med hjälp av måttenheter, <SPAN class="ft4">i ekonomiskt, hälsovårdande, skyddande eller administrativt syfte</SPAN>”. Vid utformandet av 1 § lagen (1992:1514) om måttenheter, mätningar och mätdon användes samma ordalydelse (ovan kursiverad) för att uttrycka bestämmelsens tillämpningsområde<SPAN class="ft20">4</SPAN>.</P>
+<P class="p61 ft25"><SPAN class="ft23">1</SPAN><SPAN class="ft24">Bet. 1993/94:NU21, rskr. 1993/94:328, jfr. prop. 1993/94:161.</SPAN></P>
+<P class="p62 ft27"><SPAN class="ft23">2</SPAN><SPAN class="ft26">Ekonomistyrningsverket 2005:28.</SPAN></P>
+<P class="p62 ft29"><SPAN class="ft23">3</SPAN><SPAN class="ft28">EGT L 39, 15.2.1980, s. 40 (Celex 31980L0181).</SPAN></P>
+<P class="p62 ft31"><SPAN class="ft23">4</SPAN><SPAN class="ft30">Prop. 1992/93:47, bet. 1992/93:NU13, rskr. 1992/93:96.</SPAN></P>
+<P class="p63 ft3">7</P>
+</DIV>
+<DIV id="page_8">
+
+
+<P class="p64 ft5">Genom Europaparlamentets och rådets direktiv 2009/3/EG av den Prop. 2009/10:163 11 mars 2009 om ändring av rådets direktiv 80/181/EEG om tillnärmning</P>
+<P class="p65 ft3">av medlemsstaternas lagstiftning för måttenheter<SPAN class="ft20">5 </SPAN>(ändringsdirektivet) har den ovan kursiverade ordalydelsen av tillämpningsområdet tagits bort med motiveringen att det är lämpligt att klargöra att tillämpningsområdet för grunddirektivet överensstämmer med de mål som avses i artikel 95 i <NOBR>EG-fördraget</NOBR> (artikel 114 i <NOBR>EUF-fördraget)</NOBR> och att direktivet inte är begränsat till något särskilt område av gemenskapens verksamhet (se artikel 1.2 och skäl 2 i ändringsdirektivet).</P>
+<P class="p66 ft3">Initiativet till ändringsdirektivet togs av <NOBR>EU-kommissionen</NOBR> som i ett s.k. Explanatory Memorandum<SPAN class="ft20">6 </SPAN>anförde att tillämpningsområdet för det ursprungliga direktivet är brett, att i grunddirektivet reglerade måttenheter redan används när det gäller till exempel konsument- och miljöskydd och att de i grunddirektivet uppräknade områdena omfattas av artikel 95 i <NOBR>EG-fördraget,</NOBR> som är rättslig grund för grunddirektivet, och att de därför inte särskilt behöver omnämnas i direktivet. Kommissionen anför således att ändringen är av administrativ natur och inte bedöms föranleda några vidare kostnader.</P>
+<P class="p67 ft5">Ändringsdirektivet skulle har varit genomfört senast den 31 december 2009. Övriga delar av direktivet har genomförts genom Styrelsens för ackreditering och teknisk kontroll (Swedac) föreskrifter.<SPAN class="ft32">7</SPAN></P>
+<P class="p66 ft3"><SPAN class="ft19">Skälen för regeringens förslag: </SPAN>För att säkerställa att ändringsdirektivet är genomfört fullt ut i svensk rätt bör ordalydelsen i den svenska lagstiftningen ändras på motsvarande sätt som gjorts i grunddirektivet.</P>
+<P class="p66 ft3">I samband härmed bör ytterligare en ändring i 1 § lagen (1992:1514) om måttenheter, mätningar och mätdon göras genom att begreppet ”Sveriges åtaganden enligt avtalet om Europeiska ekonomiska samarbetsområdet” genomgående byts ut mot ”de förpliktelser som följer av Sveriges medlemskap i Europeiska unionen”.</P>
+<P class="p68 ft5">Lagändringarna föreslås träda i kraft den 1 juli 2010. Några särskilda övergångsbestämmelser är inte nödvändiga.</P>
+<P class="p69 ft25"><SPAN class="ft23">5</SPAN><SPAN class="ft24">EUT L 114, 7.5.2009, s. 10 (Celex 32009L0003).</SPAN></P>
+<P class="p70 ft29"><SPAN class="ft23">6</SPAN><SPAN class="ft28">COM(2007) 510 final.</SPAN></P>
+<P class="p70 ft31"><SPAN class="ft23">7</SPAN><SPAN class="ft30">STAFS 2009:26.</SPAN></P>
+<P class="p71 ft3">8</P>
+</DIV>
+<DIV id="page_9">
+
+
+<TABLE cellpadding=0 cellspacing=0 class="t4">
+<TR>
+	<TD class="tr9 td10"><SPAN class="p19 ft1">5</SPAN> </TD>
+	<TD class="tr9 td11"><SPAN class="p20 ft1">Konsekvenser</SPAN> </TD>
+	<TD class="tr9 td12"><SPAN class="p3 ft3">Prop. 2009/10:163</SPAN> </TD>
+</TR>
+</TABLE>
+<P class="p72 ft5">Förslaget att lägga bemyndigandet att få besluta om avgifter för tillsyn i lag avser endast att tydliggöra vad som redan gäller enligt riksdagsbeslut. I övrigt föreslås endast vissa redaktionella ändringar. De föreslagna ändringarna medför således inga särskilda konsekvenser.</P>
+<P class="p73 ft3">9</P>
+</DIV>
+<DIV id="page_10">
+
+
+<DIV>
+<DIV id="id_1">
+<P class="p74 ft14">Utdrag ur sammanfattningen av betänkandet Vissa metrologifrågor (SOU 2007:97)</P>
+<P class="p75 ft3">Legal form för avgiftsuttag</P>
+<P class="p76 ft5">Dagens bemyndigande för SWEDAC om att besluta om avgifter på mätdon som omfattas av styrelsens tillsyn har inte givits i lag, utan i ett riksdagsbeslut. Utredningen föreslår att detta bemyndigande istället anges i lag, genom en ändring i lagen om måttenheter, mätningar och mätdon.</P>
+</DIV>
+<DIV id="id_2">
+<P class="p13 ft3">Prop. 2009/10:163</P>
+<P class="p77 ft3">Bilaga 1</P>
+<P class="p78 ft3">10</P>
+</DIV>
+</DIV>
+</DIV>
+<DIV id="page_11">
+<DIV id="dimg1">
+<INGENBILD zsrc="GX0316311x1.jpg/" id="img1">
+</DIV>
+
+
+<DIV id="id_1">
+<DIV id="id_1_1">
+<P class="p13 ft1">Utdrag ur betänkandets lagförslag</P>
+<P class="p79 ft5">Härigenom föreskrivs i fråga om lagen (1992:1514) om måttenheter, mätningar och mätdon att 4 § skall ha följande lydelse.</P>
+<TABLE cellpadding=0 cellspacing=0 class="t5">
+<TR>
+	<TD class="tr10 td15"><SPAN class="p3 ft4">Nuvarande lydelse</SPAN> </TD>
+	<TD class="tr10 td16"><SPAN class="p3 ft33">Föreslagen lydelse</SPAN> </TD>
+</TR>
+</TABLE>
+<P class="p80 ft3">4 §</P>
+<P class="p81 ft5">Tillsyn över efterlevnaden av denna lag och föreskrifter meddelade med stöd av lagen utövas för visst område av den myndighet som regeringen bestämmer.</P>
+<P class="p82 ft11">I de fall som regeringen bestämmer får tillsynsmyndigheten besluta om avgifter på mätdon som omfattas av dess tillsyn enligt första stycket. Sådana avgifter disponeras av myndigheten.</P>
+</DIV>
+<DIV id="id_1_2">
+<P class="p13 ft3">Prop. 2009/10:163</P>
+<P class="p77 ft3">Bilaga 2</P>
+</DIV>
+</DIV>
+<DIV id="id_2">
+<P class="p83 ft3">Denna lag träder i kraft den</P>
+<P class="p84 ft3">11</P>
+</DIV>
+</DIV>
+<DIV id="page_12">
+
+
+<DIV id="id_1">
+<DIV id="id_1_1">
+<P class="p13 ft1">Förteckning över remissinstanserna</P>
+</DIV>
+<DIV id="id_1_2">
+<P class="p13 ft3">Prop. 2009/10:163</P>
+<P class="p77 ft3">Bilaga 3</P>
+</DIV>
+</DIV>
+<DIV id="id_2">
+<P class="p85 ft3">Arbetsgivarverket, Arbetsmiljöverket, Banverket, Boverket, Ekonomistyrningsverket, Elsäkerhetsverket, Statens energimyndighet, Försvarets materielverk, Kemikalieinspektionen, Kommerskollegium, Konkurrensverket, Konsumentverket, Krisberedskapsmyndigheten, Kärnkraftsinspektionen, Livsmedelsverket, Luftfartsstyrelsen, Luftfartsverket, Post- och telestyrelsen, Rymdstyrelsen, Sjöfartsverket, Skatteverket, Statens strålskyddsinstitut, Statens väg- och transportforskningsinstitut, Statskontoret, Styrelsen för ackreditering och teknisk kontroll, Totalförsvarets forskningsinstitut, Verket för näringslivsutveckling, Verket för förvaltningsutveckling, Verket för innovationssystem, Vetenskapsrådet, Vägverket, Eurolab/Eurachem Sverige, Föreningen Ackrediterade Laboratorier, Företagarna, <NOBR>IT-företagen,</NOBR> <NOBR>ITS-Informationstekniska</NOBR> Standardiseringen, Ingenjörsvetenskapsakademien IVA, Landsorganisationen i Sverige, Lantbrukarnas Riksförbund, Näringslivets Regelnämnd, Näringspunkten, Metrologirådet, <NOBR>SEK-Svensk</NOBR> Elstandard, Skogsindustrierna, Stockholms Handelskammare, Swedish Association for Testing, Inspection and Certification, SIS Swedish Standards Institute, Svenska Föreningen för Klinisk Kemi, Svenska Föreningen för Mikrobiologi, Svensk Handel, Svenskt Näringsliv, Sveriges Exportråd, Sveriges Akademikers Centralorganisation, Sveriges Kommuner och Landsting, Sveriges Konsumenter, Teknikföretagen, Tjänstemännens Centralorganisation, AB Svensk Bilprovning, Inspecta Analys AB, Ireco Holding AB, Svenska rymdaktiebolaget, SP Sveriges Tekniska Forskningsinstitut AB.</P>
+<P class="p86 ft3">12</P>
+</DIV>
+</DIV>
+<DIV id="page_13">
+<DIV id="dimg1">
+<INGENBILD zsrc="GX0316313x1.jpg/" id="img1">
+</DIV>
+
+
+<DIV id="id_1">
+<DIV id="id_1_1">
+<P class="p13 ft34">Europaparlamentets och rådets direktiv 2009/3/EG av den 11 mars 2009 om ändring av rådets direktiv 80/181/EEG om tillnärmning av medlemsstaternas lagstiftning för måttenheter</P>
+</DIV>
+<DIV id="id_1_2">
+<P class="p13 ft3">Prop. 2009/10:163</P>
+<P class="p77 ft3">Bilaga 4</P>
+</DIV>
+</DIV>
+<DIV id="id_2">
+<TABLE cellpadding=0 cellspacing=0 class="t6">
+<TR>
+	<TD colspan=2 class="tr11 td17"><SPAN class="p87 ft35">L 114/10</SPAN> </TD>
+	<TD class="tr12 td18"><SPAN class="p88 ft35">SV</SPAN> </TD>
+	<TD class="tr11 td19"><SPAN class="p89 ft35">Europeiska unionens officiella tidning</SPAN> </TD>
+	<TD class="tr11 td12"><SPAN class="p15 ft35">7.5.2009</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr13 td20"><SPAN class="p3 ft36">&nbsp;</SPAN> </TD>
+	<TD class="tr14 td21"><SPAN class="p3 ft37">&nbsp;</SPAN> </TD>
+	<TD class="tr14 td22"><SPAN class="p3 ft37">&nbsp;</SPAN> </TD>
+	<TD class="tr13 td23"><SPAN class="p3 ft36">&nbsp;</SPAN> </TD>
+	<TD class="tr13 td24"><SPAN class="p3 ft36">&nbsp;</SPAN> </TD>
+</TR>
+</TABLE>
+<P class="p90 ft38">DIREKTIV</P>
+<P class="p91 ft39">EUROPAPARLAMENTETS OCH RÅDETS DIREKTIV 2009/3/EG av den 11 mars 2009</P>
+<P class="p92 ft40">om ändring av rådets direktiv 80/181/EEG om tillnärmning av medlemsstaternas lagstiftning för måttenheter</P>
+<P class="p93 ft40">(Text av betydelse för EES)</P>
+</DIV>
+<DIV id="id_3">
+<DIV id="id_3_1">
+<P class="p94 ft35">EUROPAPARLAMENTET OCH EUROPEISKA UNIONENS RÅD HAR ANTAGIT DETTA DIREKTIV</P>
+<P class="p95 ft35">med beaktande av fördraget om upprättandet av Europeiska gemenskapen, särskilt artikel 95,</P>
+<P class="p96 ft35">med beaktande av kommissionens förslag,</P>
+<P class="p97 ft35">med beaktande av Europeiska ekonomiska och sociala kommit<SPAN class="ft41">­ </SPAN>téns yttrande (<SPAN class="ft42">1</SPAN>),</P>
+<P class="p98 ft35">i enlighet med förfarandet i artikel 251 i fördraget (<SPAN class="ft42">2</SPAN>), och</P>
+<P class="p96 ft35">av följande skäl:</P>
+<P class="p99 ft35"><SPAN class="ft43">(1)</SPAN><SPAN class="ft44">Enligt rådets direktiv 80/181/EEG (</SPAN><SPAN class="ft45">3</SPAN>) ska Förenade kunga<SPAN class="ft41">­ </SPAN>riket och Irland bestämma ett datum då undantagen, i de fall de fortfarande tillämpas, för de måttenheter som går under beteckningarna pint för mjölk i returflaskor samt för öl och cider på fat, mile för vägskyltar och hastig<SPAN class="ft41">­ </SPAN>hetsangivelser, samt troy ounce för handel med ädelme<SPAN class="ft41">­ </SPAN>taller, ska upphöra att gälla. Erfarenheten har dock visat att eftersom undantagen tillämpas endast i vissa områden och för ett begränsat antal produkter, skulle det inte innebära något <NOBR>icke-tariffärt</NOBR> hinder för handeln om un<SPAN class="ft41">­ </SPAN>dantagen bibehålls, och det är därför inte längre nödvän<SPAN class="ft41">­ </SPAN>digt att avskaffa dem.</P>
+<P class="p100 ft35"><SPAN class="ft43">(2)</SPAN><SPAN class="ft44">Det är lämpligt att klargöra att tillämpningsområdet för direktiv 80/181/EEG överensstämmer med de mål som avses i artikel 95 i fördraget och att direktivet inte är begränsat till något särskilt område av gemenskapens verksamhet.</SPAN></P>
+<TABLE cellpadding=0 cellspacing=0 class="t7">
+<TR height=0>
+	<TD width=9px></TD>
+	<TD width=37px></TD>
+	<TD width=108px></TD>
+	<TD width=29px></TD>
+	<TD width=21px></TD>
+	<TD width=12px></TD>
+</TR>
+<TR>
+	<TD class="tr15 td25"><SPAN class="p3 ft43">(3)</SPAN> </TD>
+	<TD colspan=2 class="tr15 td26"><SPAN class="p101 ft35">Genom direktiv 80/181/EEG tillåts,</SPAN> </TD>
+	<TD class="tr15 td27"><SPAN class="p3 ft35">till och</SPAN> </TD>
+	<TD class="tr15 td28"><SPAN class="p102 ft35">med</SPAN> </TD>
+	<TD class="tr15 td29"><SPAN class="p15 ft35">den</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr12 td25"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD colspan=2 class="tr12 td26"><SPAN class="p101 ft35">31 december 2009, kompletterande</SPAN> </TD>
+	<TD class="tr12 td27"><SPAN class="p3 ft35">visning</SPAN> </TD>
+	<TD class="tr12 td28"><SPAN class="p3 ft35">utöver</SPAN> </TD>
+	<TD class="tr12 td29"><SPAN class="p15 ft35">de</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=2 class="tr12 td30"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr11 td31"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr11 td27"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr11 td28"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr11 td29"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=3 class="tr16 td32"><SPAN class="p3 ft46">(<SPAN class="ft42">1</SPAN>) EUT C 120, 16.5.2008, s. 14.</SPAN> </TD>
+	<TD class="tr16 td27"><SPAN class="p3 ft47">&nbsp;</SPAN> </TD>
+	<TD class="tr16 td28"><SPAN class="p3 ft47">&nbsp;</SPAN> </TD>
+	<TD class="tr16 td29"><SPAN class="p3 ft47">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=3 class="tr17 td32"><SPAN class="p3 ft43">(<SPAN class="ft48">2</SPAN>) Europaparlamentets lagstiftningsresolution av</SPAN> </TD>
+	<TD class="tr17 td27"><SPAN class="p1 ft49">den 29</SPAN> </TD>
+	<TD colspan=2 class="tr17 td33"><SPAN class="p15 ft43">november</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr16 td25"><SPAN class="p3 ft47">&nbsp;</SPAN> </TD>
+	<TD colspan=5 class="tr16 td34"><SPAN class="p15 ft46">2007 (EUT C 297 E, 20.11.2008, s. 105), rådets gemensamma</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr16 td25"><SPAN class="p3 ft47">&nbsp;</SPAN> </TD>
+	<TD colspan=5 class="tr16 td34"><SPAN class="p15 ft46">ståndpunkt av den 18 november 2008 (EUT C 330 E,</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr16 td25"><SPAN class="p3 ft47">&nbsp;</SPAN> </TD>
+	<TD colspan=5 class="tr16 td34"><SPAN class="p15 ft43">30.12.2008, s. 1) och Europaparlamentets ståndpunkt av den 16 de<SPAN class="ft50">­</SPAN></SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr16 td25"><SPAN class="p3 ft47">&nbsp;</SPAN> </TD>
+	<TD colspan=2 class="tr16 td26"><SPAN class="p87 ft43">cember 2008 (ännu ej offentliggjord i EUT).</SPAN> </TD>
+	<TD class="tr16 td27"><SPAN class="p3 ft47">&nbsp;</SPAN> </TD>
+	<TD class="tr16 td28"><SPAN class="p3 ft47">&nbsp;</SPAN> </TD>
+	<TD class="tr16 td29"><SPAN class="p3 ft47">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr18 td25"><SPAN class="p3 ft35">(<SPAN class="ft42">3</SPAN>)</SPAN> </TD>
+	<TD colspan=2 class="tr18 td26"><SPAN class="p87 ft35">EGT L 39, 15.2.1980, s. 40.</SPAN> </TD>
+	<TD class="tr18 td27"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr18 td28"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr18 td29"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+</TABLE>
+</DIV>
+<DIV id="id_3_2">
+<P class="p103 ft35">författningsenliga enheter som fastställs i kapitel I i bila<SPAN class="ft41">­ </SPAN>gan till direktivet. För att undvika att hinder skapas för de gemenskapsföretag som exporterar till vissa tredjeländer som kräver att produkter märks med andra enheter än dem som fastställs i kapitel I, bör dock användning av kompletterande visning fortsätta vara tillåten.</P>
+<P class="p104 ft35"><SPAN class="ft43">(4)</SPAN><SPAN class="ft44">Direktiv 80/181/EEG bidrar till att den inre marknaden fungerar smidigt genom den nivå det föreskriver för har</SPAN><SPAN class="ft41">­ </SPAN>moniseringen av måttenheter. Mot den bakgrunden är det lämpligt att kommissionen övervakar den marknads<SPAN class="ft41">­ </SPAN>utveckling som har samband med det direktivet och ge<SPAN class="ft41">­ </SPAN>nomförandet av detsamma, med särskilt fokus på even<SPAN class="ft41">­ </SPAN>tuella hinder för den inre marknadens funktion och be<SPAN class="ft41">­ </SPAN>hovet av ytterligare harmonisering för att övervinna dessa hinder.</P>
+<P class="p105 ft35"><SPAN class="ft43">(5)</SPAN><SPAN class="ft44">Det är lämpligt att kommissionen, inom ramen för sina handelsförbindelser med tredjeländer, däribland det trans</SPAN><SPAN class="ft41">­ </SPAN>atlantiska ekonomiska rådet, fortsätter att kraftfullt verka för att varor som är märkta endast med enheter enligt internationella enhetssystemet SI accepteras på markna<SPAN class="ft41">­ </SPAN>derna i tredjeländer.</P>
+<P class="p106 ft35"><SPAN class="ft43">(6)</SPAN><SPAN class="ft44">Kompletterande visning kan också göra det möjligt att gradvis och smidigt införa nya metriska enheter som kan komma att utvecklas på internationell nivå.</SPAN></P>
+<P class="p107 ft35"><SPAN class="ft43">(7)</SPAN><SPAN class="ft44">Allmänna konferensen för vikt och mått beslutade 1995 att avskaffa </SPAN><NOBR>SI-klassen</NOBR> supplementenheter som en separat klass inom SI och att tolka enheterna ”radian” och ”ste<SPAN class="ft41">­ </SPAN>radian” som dimensionslösa <NOBR>SI-härledda</NOBR> enheter, vars be<SPAN class="ft41">­ </SPAN>nämningar och beteckningar kan, men inte behöver, an<SPAN class="ft41">­ </SPAN>vändas i uttryck för andra <NOBR>SI-härledda</NOBR> enheter, om det är lämpligt.</P>
+<P class="p108 ft49"><SPAN class="ft43">(8)</SPAN><SPAN class="ft51">Allmänna konferensen för vikt och mått antog 1999, inom ramen för </SPAN><NOBR>SI-systemet,</NOBR> ”katal” med beteckningen ”kat” som <NOBR>SI-enhet</NOBR> för katalytisk aktivitet. Denna nya harmoniserade <NOBR>SI-enhet</NOBR> skulle garantera samstämmig och enhetlig visning av måttenheter inom medicin och</P>
+<TABLE cellpadding=0 cellspacing=0 class="t8">
+<TR>
+	<TD class="tr18 td35"><SPAN class="p3 ft35">biokemi och därmed undanröja risken för missförstånd</SPAN> </TD>
+	<TD class="tr18 td36"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr12 td35"><SPAN class="p3 ft35">som kan uppstå vid användning av icke harmoniserade</SPAN> </TD>
+	<TD rowspan=2 class="tr19 td36"><SPAN class="p15 ft3">13</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr20 td35"><SPAN class="p3 ft35">enheter.</SPAN> </TD>
+</TR>
+</TABLE>
+</DIV>
+</DIV>
+</DIV>
+<DIV id="page_14">
+<DIV id="dimg1">
+<INGENBILD zsrc="GX0316314x1.jpg/" id="img1">
+</DIV>
+
+
+<DIV id="id_1">
+<P class="p109 ft3">Prop. 2009/10:163</P>
+<P class="p110 ft3">Bilaga 4</P>
+<TABLE cellpadding=0 cellspacing=0 class="t9">
+<TR>
+	<TD class="tr15 td37"><SPAN class="p111 ft52">7.5.2009</SPAN> </TD>
+	<TD class="tr11 td38"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr12 td39"><SPAN class="p88 ft53">SV</SPAN> </TD>
+	<TD class="tr15 td40"><SPAN class="p89 ft52">Europeiska unionens officiella tidning</SPAN> </TD>
+	<TD class="tr15 td41"><SPAN class="p3 ft52">L 114/11</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr21 td20"><SPAN class="p3 ft54">&nbsp;</SPAN> </TD>
+	<TD class="tr21 td42"><SPAN class="p3 ft54">&nbsp;</SPAN> </TD>
+	<TD class="tr21 td43"><SPAN class="p3 ft54">&nbsp;</SPAN> </TD>
+	<TD class="tr21 td44"><SPAN class="p3 ft54">&nbsp;</SPAN> </TD>
+	<TD class="tr21 td45"><SPAN class="p3 ft54">&nbsp;</SPAN> </TD>
+</TR>
+</TABLE>
+</DIV>
+<DIV id="id_2">
+<DIV id="id_2_1">
+<P class="p112 ft52"><SPAN class="ft55">(9)</SPAN><SPAN class="ft56">Allmänna konferensen om vikt och mått antog 2007 en not om definitionen av ”kelvin”, i syfte att eliminera en av huvudkällorna till den iakttagna variabiliteten mellan de olika realiseringarna av trippelpunkten för vatten. En ”kelvin” definieras som en bråkdel av den termodyna</SPAN><SPAN class="ft57">­ </SPAN>miska temperaturen vid vattnets trippelpunkt. Noten av<SPAN class="ft57">­ </SPAN>ser vatten med en viss isotopisk sammansättning.</P>
+<P class="p113 ft52"><SPAN class="ft55">(10)</SPAN><SPAN class="ft58">Då ”acre” inte längre används inom lantmäteri i Förenade kungariket och Irland finns det inte längre behov av undantag för denna enhet.</SPAN></P>
+<P class="p114 ft52"><SPAN class="ft55">(11)</SPAN><SPAN class="ft58">I enlighet med punkt 34 i det interinstitutionella avtalet om bättre lagstiftning (</SPAN><SPAN class="ft59">1</SPAN>) uppmuntras medlemsstaterna att för sin egen skull och i gemenskapens intresse upp<SPAN class="ft57">­ </SPAN>rätta egna tabeller som så långt det är möjligt redovisar det inbördes förhållandet mellan detta direktiv och inför<SPAN class="ft57">­ </SPAN>livandeåtgärderna, samt offentliggöra dessa tabeller..</P>
+<P class="p115 ft52"><SPAN class="ft55">(12)</SPAN><SPAN class="ft58">Direktiv 80/181/EEG bör därför ändras i enlighet med detta.</SPAN></P>
+<P class="p116 ft52">HÄRIGENOM FÖRESKRIVS FÖLJANDE.</P>
+<P class="p117 ft60">Artikel 1</P>
+<P class="p118 ft61">Ändringar</P>
+<P class="p119 ft52">Direktiv 80/181/EEG ska ändras på följande sätt:</P>
+<P class="p120 ft52"><SPAN class="ft52">1.</SPAN><SPAN class="ft62">Artikel 1 b ska ersättas med följande:</SPAN></P>
+<P class="p121 ft52">”b) de enheter som anges i bilagans kapitel II, men endast i de medlemsstater där de var tillåtna den 21 april 1973.”</P>
+<P class="p120 ft52"><SPAN class="ft52">2.</SPAN><SPAN class="ft62">Artikel 2 a ska ersättas med följande:</SPAN></P>
+<P class="p121 ft52">”a) Skyldigheterna enligt artikel 1 avser mätdon som an<SPAN class="ft57">­ </SPAN>vänds, mätningar som utförs och värden på storheter som anges med hjälp av måttenheter.”</P>
+<P class="p122 ft52"><SPAN class="ft52">3.</SPAN><SPAN class="ft62">Artikel 3.2 ska ersättas med följande:</SPAN></P>
+<P class="p123 ft52">”2. Kompletterande visning ska vara tillåten.”</P>
+<P class="p124 ft52">(<SPAN class="ft63">1</SPAN>) EUT C 321, 31.12.2003, s. 1.</P>
+</DIV>
+<DIV id="id_2_2">
+<P class="p70 ft52"><SPAN class="ft52">4.</SPAN><SPAN class="ft64">Följande artikel ska införas:</SPAN></P>
+<P class="p125 ft60">”Artikel 6b</P>
+<P class="p126 ft52">Kommissionen ska övervaka den marknadsutveckling som har samband med detta direktiv och genomförandet av det<SPAN class="ft57">­ </SPAN>samma med avseende på en väl fungerande inre marknad och internationell handel och ska lägga fram en rapport, om det är lämpligt tillsammans med förslag, för Europaparla<SPAN class="ft57">­ </SPAN>mentet och rådet senast den 31 december 2019.”</P>
+<P class="p127 ft52"><SPAN class="ft52">5.</SPAN><SPAN class="ft64">Bilagan ska ändras på följande sätt:</SPAN></P>
+<P class="p128 ft60"><SPAN class="ft55">a)</SPAN><SPAN class="ft62">I kapitel I punkt 1.1 ska stycket med rubriken ”</SPAN>Grunden<SPAN class="ft65">­ </SPAN>heten för termodynamisk temperatur<SPAN class="ft52">” ersättas med följande:</SPAN></P>
+<P class="p129 ft52">”Grundenheten för termodynamisk temperatur</P>
+<P class="p130 ft52">En kelvin, enhet för termodynamisk temperatur, är bråk<SPAN class="ft57">­ </SPAN>delen 1/273,16 av den termodynamiska temperaturen vid vattnets trippelpunkt.</P>
+<P class="p131 ft52">Denna definition avser vatten med en isotopisk samman<SPAN class="ft57">­</SPAN></P>
+<P class="p132 ft52">sättning som definieras genom följande substansmängds<SPAN class="ft57">­ </SPAN>förhållanden: 0,00015576 mol <SPAN class="ft66">2</SPAN>H per mol <SPAN class="ft66">1</SPAN>H, 0,0003799 mol <SPAN class="ft66">17</SPAN>O per mol <SPAN class="ft66">16</SPAN>O och 0,0020052 mol <SPAN class="ft66">18</SPAN>O per mol <SPAN class="ft66">16</SPAN>O.</P>
+<P class="p133 ft52">(CGPM 1967, trettonde konferensen, resolution nr 4 och CGPM 2007, tjugotredje konferensen, resolution nr 10)”</P>
+<P class="p125 ft52"><SPAN class="ft55">b)</SPAN><SPAN class="ft62">I kapitel I punkt 1.1.1 ska rubriken ersättas med följande:</SPAN></P>
+<P class="p134 ft52">”Särskild benämning och beteckning för den härledda SI- enheten för temperatur vid angivelse av Celsiustempera<SPAN class="ft57">­ </SPAN>tur”</P>
+<P class="p135 ft68"><SPAN class="ft55">c)</SPAN><SPAN class="ft67">I kapitel I punkt 1.2 ska rubriken ersättas med följande: ”1.2. Härledda </SPAN><NOBR>SI-enheter”;</NOBR></P>
+<P class="p136 ft52"><SPAN class="ft55">d)</SPAN><SPAN class="ft62">I kapitel I ska punkt 1.2.1 utgå.</SPAN></P>
+<P class="p137 ft52"><SPAN class="ft55">e)</SPAN><SPAN class="ft62">I kapitel I ska punkterna 1.2.2 och 1.2.3 ersättas med följande:</SPAN></P>
+<P class="p138 ft52">”1.2.2. Allmän regel för härledda <NOBR>SI-enheter</NOBR></P>
+<P class="p139 ft52">Enheter, samstämt härledda från <NOBR>SI-grundenheter,</NOBR> ut<SPAN class="ft57">­ </SPAN>tryckta algebraiskt som en produkt av potenser av SI- grundenheter med en numerisk faktor lika med 1.</P>
+</DIV>
+</DIV>
+<DIV id="id_3">
+<P class="p13 ft3">14</P>
+</DIV>
+</DIV>
+<DIV id="page_15">
+<DIV id="dimg1">
+<INGENBILD zsrc="GX0316315x1.jpg/" id="img1">
+</DIV>
+
+
+<TABLE cellpadding=0 cellspacing=0 class="t10">
+<TR>
+	<TD class="tr10 td37"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr10 td46"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr10 td4"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr10 td47"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr10 td48"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr10 td14"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr10 td49"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr10 td49"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr10 td47"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr10 td50"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD colspan=3 class="tr10 td51"><SPAN class="p140 ft3">Prop. 2009/10:163</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr4 td37"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr4 td46"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr4 td4"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr4 td47"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr4 td48"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr4 td14"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr4 td49"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr4 td49"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr4 td47"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr4 td50"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD colspan=3 class="tr4 td51"><SPAN class="p140 ft3">Bilaga 4</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=2 rowspan=2 class="tr22 td17"><SPAN class="p87 ft35">L 114/12</SPAN> </TD>
+	<TD colspan=2 class="tr23 td43"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD rowspan=2 class="tr22 td48"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD colspan=3 rowspan=2 class="tr22 td52"><SPAN class="p141 ft35">Europeiska unionens officiella tidning</SPAN> </TD>
+	<TD class="tr24 td47"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr24 td50"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD colspan=2 rowspan=2 class="tr22 td53"><SPAN class="p142 ft35">7.5.2009</SPAN> </TD>
+	<TD class="tr24 td54"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD colspan=2 class="tr25 td55"><SPAN class="p88 ft69">SV</SPAN> </TD>
+	<TD class="tr25 td47"><SPAN class="p3 ft70">&nbsp;</SPAN> </TD>
+	<TD class="tr25 td50"><SPAN class="p3 ft70">&nbsp;</SPAN> </TD>
+	<TD class="tr25 td54"><SPAN class="p3 ft70">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr13 td20"><SPAN class="p3 ft36">&nbsp;</SPAN> </TD>
+	<TD class="tr14 td21"><SPAN class="p3 ft37">&nbsp;</SPAN> </TD>
+	<TD class="tr14 td56"><SPAN class="p3 ft37">&nbsp;</SPAN> </TD>
+	<TD class="tr14 td57"><SPAN class="p3 ft37">&nbsp;</SPAN> </TD>
+	<TD class="tr13 td58"><SPAN class="p3 ft36">&nbsp;</SPAN> </TD>
+	<TD class="tr13 td59"><SPAN class="p3 ft36">&nbsp;</SPAN> </TD>
+	<TD class="tr13 td60"><SPAN class="p3 ft36">&nbsp;</SPAN> </TD>
+	<TD class="tr13 td60"><SPAN class="p3 ft36">&nbsp;</SPAN> </TD>
+	<TD class="tr13 td61"><SPAN class="p3 ft36">&nbsp;</SPAN> </TD>
+	<TD class="tr13 td62"><SPAN class="p3 ft36">&nbsp;</SPAN> </TD>
+	<TD class="tr13 td58"><SPAN class="p3 ft36">&nbsp;</SPAN> </TD>
+	<TD class="tr13 td63"><SPAN class="p3 ft36">&nbsp;</SPAN> </TD>
+	<TD class="tr25 td54"><SPAN class="p3 ft70">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr0 td37"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr0 td46"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD colspan=6 class="tr0 td64"><SPAN class="p141 ft35">1.2.3. Härledda <NOBR>SI-enheter</NOBR> med särskilda namn och beteckningar</SPAN> </TD>
+	<TD class="tr0 td47"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr0 td50"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr0 td48"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr0 td7"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr0 td54"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr4 td37"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr4 td46"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr4 td4"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr7 td61"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr7 td58"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr7 td59"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr7 td60"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr7 td60"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr7 td61"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr7 td62"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr7 td58"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr4 td7"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr4 td54"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr12 td37"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr12 td46"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr12 td4"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr12 td47"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr12 td48"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr12 td65"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD colspan=2 class="tr12 td66"><SPAN class="p143 ft43">Enhet</SPAN> </TD>
+	<TD class="tr12 td47"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr12 td50"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD colspan=3 class="tr12 td51"><SPAN class="p144 ft43">Uttryckt i</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr13 td37"><SPAN class="p3 ft36">&nbsp;</SPAN> </TD>
+	<TD class="tr13 td46"><SPAN class="p3 ft36">&nbsp;</SPAN> </TD>
+	<TD class="tr13 td4"><SPAN class="p3 ft36">&nbsp;</SPAN> </TD>
+	<TD class="tr13 td47"><SPAN class="p3 ft36">&nbsp;</SPAN> </TD>
+	<TD rowspan=2 class="tr15 td48"><SPAN class="p145 ft43">Storhet</SPAN> </TD>
+	<TD class="tr13 td65"><SPAN class="p3 ft36">&nbsp;</SPAN> </TD>
+	<TD class="tr14 td60"><SPAN class="p3 ft37">&nbsp;</SPAN> </TD>
+	<TD class="tr14 td67"><SPAN class="p3 ft37">&nbsp;</SPAN> </TD>
+	<TD class="tr14 td61"><SPAN class="p3 ft37">&nbsp;</SPAN> </TD>
+	<TD class="tr14 td62"><SPAN class="p3 ft37">&nbsp;</SPAN> </TD>
+	<TD class="tr14 td58"><SPAN class="p3 ft37">&nbsp;</SPAN> </TD>
+	<TD class="tr13 td7"><SPAN class="p3 ft36">&nbsp;</SPAN> </TD>
+	<TD class="tr13 td54"><SPAN class="p3 ft36">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr13 td37"><SPAN class="p3 ft36">&nbsp;</SPAN> </TD>
+	<TD class="tr13 td46"><SPAN class="p3 ft36">&nbsp;</SPAN> </TD>
+	<TD class="tr13 td4"><SPAN class="p3 ft36">&nbsp;</SPAN> </TD>
+	<TD class="tr13 td47"><SPAN class="p3 ft36">&nbsp;</SPAN> </TD>
+	<TD class="tr13 td65"><SPAN class="p3 ft36">&nbsp;</SPAN> </TD>
+	<TD rowspan=3 class="tr20 td68"><SPAN class="p1 ft43">Benämning</SPAN> </TD>
+	<TD rowspan=3 class="tr20 td68"><SPAN class="p146 ft71">Beteckning</SPAN> </TD>
+	<TD colspan=2 rowspan=2 class="tr12 td68"><SPAN class="p88 ft43">andra SI-</SPAN> </TD>
+	<TD colspan=3 rowspan=3 class="tr20 td51"><SPAN class="p14 ft43"><NOBR>SI-grundenhet</NOBR></SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr21 td37"><SPAN class="p3 ft54">&nbsp;</SPAN> </TD>
+	<TD class="tr21 td46"><SPAN class="p3 ft54">&nbsp;</SPAN> </TD>
+	<TD class="tr21 td4"><SPAN class="p3 ft54">&nbsp;</SPAN> </TD>
+	<TD class="tr21 td47"><SPAN class="p3 ft54">&nbsp;</SPAN> </TD>
+	<TD class="tr21 td48"><SPAN class="p3 ft54">&nbsp;</SPAN> </TD>
+	<TD class="tr21 td65"><SPAN class="p3 ft54">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr21 td37"><SPAN class="p3 ft54">&nbsp;</SPAN> </TD>
+	<TD class="tr21 td46"><SPAN class="p3 ft54">&nbsp;</SPAN> </TD>
+	<TD class="tr21 td4"><SPAN class="p3 ft54">&nbsp;</SPAN> </TD>
+	<TD class="tr21 td47"><SPAN class="p3 ft54">&nbsp;</SPAN> </TD>
+	<TD class="tr21 td48"><SPAN class="p3 ft54">&nbsp;</SPAN> </TD>
+	<TD class="tr21 td65"><SPAN class="p3 ft54">&nbsp;</SPAN> </TD>
+	<TD colspan=2 rowspan=2 class="tr16 td68"><SPAN class="p147 ft43">enheter</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr21 td37"><SPAN class="p3 ft54">&nbsp;</SPAN> </TD>
+	<TD class="tr21 td46"><SPAN class="p3 ft54">&nbsp;</SPAN> </TD>
+	<TD class="tr21 td4"><SPAN class="p3 ft54">&nbsp;</SPAN> </TD>
+	<TD class="tr21 td47"><SPAN class="p3 ft54">&nbsp;</SPAN> </TD>
+	<TD class="tr21 td48"><SPAN class="p3 ft54">&nbsp;</SPAN> </TD>
+	<TD class="tr21 td65"><SPAN class="p3 ft54">&nbsp;</SPAN> </TD>
+	<TD class="tr21 td68"><SPAN class="p3 ft54">&nbsp;</SPAN> </TD>
+	<TD class="tr21 td68"><SPAN class="p3 ft54">&nbsp;</SPAN> </TD>
+	<TD class="tr21 td48"><SPAN class="p3 ft54">&nbsp;</SPAN> </TD>
+	<TD class="tr21 td7"><SPAN class="p3 ft54">&nbsp;</SPAN> </TD>
+	<TD class="tr21 td54"><SPAN class="p3 ft54">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr14 td37"><SPAN class="p3 ft37">&nbsp;</SPAN> </TD>
+	<TD class="tr14 td46"><SPAN class="p3 ft37">&nbsp;</SPAN> </TD>
+	<TD class="tr14 td4"><SPAN class="p3 ft37">&nbsp;</SPAN> </TD>
+	<TD class="tr21 td61"><SPAN class="p3 ft54">&nbsp;</SPAN> </TD>
+	<TD class="tr21 td58"><SPAN class="p3 ft54">&nbsp;</SPAN> </TD>
+	<TD class="tr21 td69"><SPAN class="p3 ft54">&nbsp;</SPAN> </TD>
+	<TD class="tr21 td67"><SPAN class="p3 ft54">&nbsp;</SPAN> </TD>
+	<TD class="tr21 td67"><SPAN class="p3 ft54">&nbsp;</SPAN> </TD>
+	<TD class="tr21 td61"><SPAN class="p3 ft54">&nbsp;</SPAN> </TD>
+	<TD class="tr21 td70"><SPAN class="p3 ft54">&nbsp;</SPAN> </TD>
+	<TD class="tr21 td58"><SPAN class="p3 ft54">&nbsp;</SPAN> </TD>
+	<TD class="tr14 td7"><SPAN class="p3 ft37">&nbsp;</SPAN> </TD>
+	<TD class="tr14 td54"><SPAN class="p3 ft37">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr10 td37"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr10 td46"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr10 td4"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD colspan=2 class="tr3 td71"><SPAN class="p87 ft35">Plan vinkel</SPAN> </TD>
+	<TD class="tr3 td69"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr3 td67"><SPAN class="p1 ft35">radian</SPAN> </TD>
+	<TD class="tr3 td67"><SPAN class="p1 ft35">rad</SPAN> </TD>
+	<TD class="tr3 td61"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr3 td70"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr3 td58"><SPAN class="p1 ft35">m <SPAN class="ft41">· </SPAN><NOBR>m<SPAN class="ft72">–1</SPAN></NOBR></SPAN> </TD>
+	<TD colspan=2 class="tr10 td72"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr10 td37"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr10 td46"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr10 td4"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD colspan=2 class="tr3 td71"><SPAN class="p87 ft35">Rymdvinkel</SPAN> </TD>
+	<TD class="tr3 td69"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr3 td67"><SPAN class="p1 ft35">steradian</SPAN> </TD>
+	<TD class="tr3 td67"><SPAN class="p1 ft35">sr</SPAN> </TD>
+	<TD class="tr3 td61"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr3 td70"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr3 td58"><SPAN class="p1 ft72"><SPAN class="ft35">m</SPAN>2 <SPAN class="ft41">· </SPAN><NOBR><SPAN class="ft35">m</SPAN>–2</NOBR></SPAN> </TD>
+	<TD colspan=2 class="tr10 td72"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr1 td37"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr1 td46"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr1 td4"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD colspan=2 class="tr10 td71"><SPAN class="p87 ft35">Frekvens</SPAN> </TD>
+	<TD class="tr10 td69"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr10 td67"><SPAN class="p1 ft35">hertz</SPAN> </TD>
+	<TD class="tr10 td67"><SPAN class="p1 ft35">Hz</SPAN> </TD>
+	<TD class="tr10 td61"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr10 td70"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr10 td58"><SPAN class="p1 ft71"><NOBR><SPAN class="ft73">s</SPAN>–1</NOBR></SPAN> </TD>
+	<TD colspan=2 class="tr1 td72"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr10 td37"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr10 td46"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr10 td4"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD colspan=2 class="tr3 td71"><SPAN class="p87 ft35">Kraft</SPAN> </TD>
+	<TD class="tr3 td69"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr3 td67"><SPAN class="p1 ft35">newton</SPAN> </TD>
+	<TD class="tr3 td67"><SPAN class="p1 ft35">N</SPAN> </TD>
+	<TD class="tr3 td61"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr3 td70"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr3 td58"><SPAN class="p1 ft35">m <SPAN class="ft41">· </SPAN>kg <SPAN class="ft41">· </SPAN><NOBR>s<SPAN class="ft72">–2</SPAN></NOBR></SPAN> </TD>
+	<TD colspan=2 class="tr10 td72"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr10 td37"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr10 td46"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr10 td4"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD colspan=2 class="tr3 td71"><SPAN class="p87 ft35">Tryck</SPAN> </TD>
+	<TD class="tr3 td69"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr3 td67"><SPAN class="p1 ft35">pascal</SPAN> </TD>
+	<TD class="tr3 td67"><SPAN class="p1 ft35">Pa</SPAN> </TD>
+	<TD class="tr3 td61"><SPAN class="p1 ft35">N <SPAN class="ft41">·</SPAN></SPAN> </TD>
+	<TD class="tr3 td70"><SPAN class="p87 ft71"><NOBR><SPAN class="ft73">m</SPAN>–2</NOBR></SPAN> </TD>
+	<TD class="tr3 td58"><SPAN class="p1 ft35"><NOBR>m<SPAN class="ft72">–1</SPAN></NOBR><SPAN class="ft72"> </SPAN><SPAN class="ft41">· </SPAN>kg <SPAN class="ft41">· </SPAN><NOBR>s<SPAN class="ft72">–2</SPAN></NOBR></SPAN> </TD>
+	<TD colspan=2 class="tr10 td72"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr1 td37"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr1 td46"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr1 td4"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD colspan=2 class="tr10 td71"><SPAN class="p87 ft43">Energi, arbete, värmemängd</SPAN> </TD>
+	<TD class="tr10 td69"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr10 td67"><SPAN class="p1 ft35">joule</SPAN> </TD>
+	<TD class="tr10 td67"><SPAN class="p1 ft35">J</SPAN> </TD>
+	<TD class="tr10 td61"><SPAN class="p1 ft35">N <SPAN class="ft41">·</SPAN></SPAN> </TD>
+	<TD class="tr10 td70"><SPAN class="p87 ft35">m</SPAN> </TD>
+	<TD class="tr10 td58"><SPAN class="p1 ft35">m<SPAN class="ft72">2 </SPAN><SPAN class="ft41">· </SPAN>kg <SPAN class="ft41">· </SPAN><NOBR>s<SPAN class="ft72">–2</SPAN></NOBR></SPAN> </TD>
+	<TD colspan=2 class="tr1 td72"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr10 td37"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr10 td46"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr10 td4"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD colspan=2 class="tr3 td71"><SPAN class="p87 ft35">Effekt (<SPAN class="ft42">1</SPAN>), strålningsflöde</SPAN> </TD>
+	<TD class="tr3 td69"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr3 td67"><SPAN class="p1 ft35">watt</SPAN> </TD>
+	<TD class="tr3 td67"><SPAN class="p1 ft35">W</SPAN> </TD>
+	<TD colspan=2 class="tr3 td67"><SPAN class="p1 ft35">J <SPAN class="ft41">· </SPAN><NOBR>s<SPAN class="ft72">–1</SPAN></NOBR></SPAN> </TD>
+	<TD class="tr3 td58"><SPAN class="p1 ft35">m<SPAN class="ft72">2 </SPAN><SPAN class="ft41">· </SPAN>kg <SPAN class="ft41">· </SPAN><NOBR>s<SPAN class="ft72">–3</SPAN></NOBR></SPAN> </TD>
+	<TD colspan=2 class="tr10 td72"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr18 td37"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr18 td46"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr18 td4"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD colspan=2 class="tr18 td73"><SPAN class="p87 ft35">Elmängd, laddning</SPAN> </TD>
+	<TD class="tr18 td65"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr18 td68"><SPAN class="p1 ft35">coulomb</SPAN> </TD>
+	<TD class="tr18 td68"><SPAN class="p1 ft35">C</SPAN> </TD>
+	<TD class="tr18 td47"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr18 td74"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD colspan=3 class="tr18 td51"><SPAN class="p1 ft35">s <SPAN class="ft41">· </SPAN>A</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr25 td37"><SPAN class="p3 ft70">&nbsp;</SPAN> </TD>
+	<TD class="tr25 td46"><SPAN class="p3 ft70">&nbsp;</SPAN> </TD>
+	<TD class="tr25 td4"><SPAN class="p3 ft70">&nbsp;</SPAN> </TD>
+	<TD class="tr13 td61"><SPAN class="p3 ft36">&nbsp;</SPAN> </TD>
+	<TD class="tr13 td58"><SPAN class="p3 ft36">&nbsp;</SPAN> </TD>
+	<TD class="tr13 td69"><SPAN class="p3 ft36">&nbsp;</SPAN> </TD>
+	<TD class="tr13 td67"><SPAN class="p3 ft36">&nbsp;</SPAN> </TD>
+	<TD class="tr13 td67"><SPAN class="p3 ft36">&nbsp;</SPAN> </TD>
+	<TD colspan=2 class="tr13 td67"><SPAN class="p3 ft36">&nbsp;</SPAN> </TD>
+	<TD class="tr13 td58"><SPAN class="p3 ft36">&nbsp;</SPAN> </TD>
+	<TD class="tr25 td7"><SPAN class="p3 ft70">&nbsp;</SPAN> </TD>
+	<TD class="tr25 td54"><SPAN class="p3 ft70">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr18 td37"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr18 td46"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr18 td4"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD colspan=2 class="tr18 td73"><SPAN class="p87 ft35">Elektrisk spänning, elektrisk</SPAN> </TD>
+	<TD class="tr18 td65"><SPAN class="p3 ft35">potential, elektro<SPAN class="ft41">­</SPAN></SPAN> </TD>
+	<TD class="tr18 td68"><SPAN class="p1 ft35">volt</SPAN> </TD>
+	<TD class="tr18 td68"><SPAN class="p1 ft35">V</SPAN> </TD>
+	<TD colspan=2 class="tr18 td68"><SPAN class="p1 ft35">W <SPAN class="ft41">· </SPAN><NOBR>A<SPAN class="ft72">–1</SPAN></NOBR></SPAN> </TD>
+	<TD colspan=3 class="tr18 td51"><SPAN class="p1 ft35">m<SPAN class="ft72">2 </SPAN><SPAN class="ft41">· </SPAN>kg <SPAN class="ft41">· </SPAN><NOBR>s<SPAN class="ft72">–3</SPAN></NOBR><SPAN class="ft72"> </SPAN><SPAN class="ft41">· </SPAN><NOBR>A<SPAN class="ft72">–1</SPAN></NOBR></SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr17 td37"><SPAN class="p3 ft74">&nbsp;</SPAN> </TD>
+	<TD class="tr17 td46"><SPAN class="p3 ft74">&nbsp;</SPAN> </TD>
+	<TD class="tr17 td4"><SPAN class="p3 ft74">&nbsp;</SPAN> </TD>
+	<TD colspan=2 class="tr17 td73"><SPAN class="p87 ft49">motorisk kraft</SPAN> </TD>
+	<TD class="tr17 td65"><SPAN class="p3 ft74">&nbsp;</SPAN> </TD>
+	<TD class="tr17 td68"><SPAN class="p3 ft74">&nbsp;</SPAN> </TD>
+	<TD class="tr17 td68"><SPAN class="p3 ft74">&nbsp;</SPAN> </TD>
+	<TD class="tr17 td47"><SPAN class="p3 ft74">&nbsp;</SPAN> </TD>
+	<TD class="tr17 td74"><SPAN class="p3 ft74">&nbsp;</SPAN> </TD>
+	<TD class="tr17 td48"><SPAN class="p3 ft74">&nbsp;</SPAN> </TD>
+	<TD class="tr17 td7"><SPAN class="p3 ft74">&nbsp;</SPAN> </TD>
+	<TD class="tr17 td54"><SPAN class="p3 ft74">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr25 td37"><SPAN class="p3 ft70">&nbsp;</SPAN> </TD>
+	<TD class="tr25 td46"><SPAN class="p3 ft70">&nbsp;</SPAN> </TD>
+	<TD class="tr25 td4"><SPAN class="p3 ft70">&nbsp;</SPAN> </TD>
+	<TD class="tr13 td61"><SPAN class="p3 ft36">&nbsp;</SPAN> </TD>
+	<TD class="tr13 td58"><SPAN class="p3 ft36">&nbsp;</SPAN> </TD>
+	<TD class="tr13 td69"><SPAN class="p3 ft36">&nbsp;</SPAN> </TD>
+	<TD class="tr13 td67"><SPAN class="p3 ft36">&nbsp;</SPAN> </TD>
+	<TD class="tr13 td67"><SPAN class="p3 ft36">&nbsp;</SPAN> </TD>
+	<TD colspan=2 class="tr13 td67"><SPAN class="p3 ft36">&nbsp;</SPAN> </TD>
+	<TD class="tr13 td58"><SPAN class="p3 ft36">&nbsp;</SPAN> </TD>
+	<TD class="tr25 td7"><SPAN class="p3 ft70">&nbsp;</SPAN> </TD>
+	<TD class="tr25 td54"><SPAN class="p3 ft70">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr10 td37"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr10 td46"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr10 td4"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD colspan=2 class="tr3 td71"><SPAN class="p87 ft35">Resistans</SPAN> </TD>
+	<TD class="tr3 td69"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr3 td67"><SPAN class="p1 ft35">ohm</SPAN> </TD>
+	<TD class="tr3 td67"><SPAN class="p1 ft41">O</SPAN> </TD>
+	<TD colspan=2 class="tr3 td67"><SPAN class="p1 ft35">V <SPAN class="ft41">· </SPAN><NOBR>A<SPAN class="ft72">–1</SPAN></NOBR></SPAN> </TD>
+	<TD class="tr3 td58"><SPAN class="p1 ft35">m<SPAN class="ft72">2 </SPAN><SPAN class="ft41">· </SPAN>kg <SPAN class="ft41">· </SPAN><NOBR>s<SPAN class="ft72">–3</SPAN></NOBR><SPAN class="ft72"> </SPAN><SPAN class="ft41">· </SPAN><NOBR>A<SPAN class="ft72">–2</SPAN></NOBR></SPAN> </TD>
+	<TD colspan=2 class="tr10 td72"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr1 td37"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr1 td46"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr1 td4"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD colspan=2 class="tr10 td71"><SPAN class="p87 ft35">Konduktans</SPAN> </TD>
+	<TD class="tr10 td69"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr10 td67"><SPAN class="p1 ft35">siemens</SPAN> </TD>
+	<TD class="tr10 td67"><SPAN class="p1 ft35">S</SPAN> </TD>
+	<TD colspan=2 class="tr10 td67"><SPAN class="p1 ft35">A <SPAN class="ft41">· </SPAN><NOBR>V<SPAN class="ft72">–1</SPAN></NOBR></SPAN> </TD>
+	<TD class="tr10 td58"><SPAN class="p1 ft72"><NOBR><SPAN class="ft35">m</SPAN>–2</NOBR> <SPAN class="ft41">· </SPAN><NOBR><SPAN class="ft35">kg</SPAN>–1</NOBR> <SPAN class="ft41">· </SPAN><SPAN class="ft35">s</SPAN>3 <SPAN class="ft41">· </SPAN><SPAN class="ft35">A</SPAN>2</SPAN> </TD>
+	<TD colspan=2 class="tr1 td72"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr10 td37"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr10 td46"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr10 td4"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD colspan=2 class="tr3 td71"><SPAN class="p87 ft35">Kapacitans</SPAN> </TD>
+	<TD class="tr3 td69"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr3 td67"><SPAN class="p1 ft35">farad</SPAN> </TD>
+	<TD class="tr3 td67"><SPAN class="p1 ft35">F</SPAN> </TD>
+	<TD colspan=2 class="tr3 td67"><SPAN class="p1 ft35">C <SPAN class="ft41">· </SPAN><NOBR>V<SPAN class="ft72">–1</SPAN></NOBR></SPAN> </TD>
+	<TD class="tr3 td58"><SPAN class="p1 ft72"><NOBR><SPAN class="ft35">m</SPAN>–2</NOBR> <SPAN class="ft41">· </SPAN><NOBR><SPAN class="ft35">kg</SPAN>–1</NOBR> <SPAN class="ft41">· </SPAN><SPAN class="ft35">s</SPAN>4 <SPAN class="ft41">· </SPAN><SPAN class="ft35">A</SPAN>2</SPAN> </TD>
+	<TD colspan=2 class="tr10 td72"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr10 td37"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr10 td46"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr10 td4"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD colspan=2 class="tr3 td71"><SPAN class="p87 ft35">Magnetiskt flöde</SPAN> </TD>
+	<TD class="tr3 td69"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr3 td67"><SPAN class="p1 ft35">weber</SPAN> </TD>
+	<TD class="tr3 td67"><SPAN class="p1 ft35">Wb</SPAN> </TD>
+	<TD class="tr3 td61"><SPAN class="p1 ft35">V <SPAN class="ft41">·</SPAN></SPAN> </TD>
+	<TD class="tr3 td70"><SPAN class="p3 ft35">s</SPAN> </TD>
+	<TD class="tr3 td58"><SPAN class="p1 ft35">m<SPAN class="ft72">2 </SPAN><SPAN class="ft41">· </SPAN>kg <SPAN class="ft41">· </SPAN><NOBR>s<SPAN class="ft72">–2</SPAN></NOBR><SPAN class="ft72"> </SPAN><SPAN class="ft41">· </SPAN><NOBR>A<SPAN class="ft72">–1</SPAN></NOBR></SPAN> </TD>
+	<TD colspan=2 class="tr10 td72"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr1 td37"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr1 td46"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr1 td4"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD colspan=2 class="tr10 td71"><SPAN class="p87 ft35">Magnetisk flödestäthet</SPAN> </TD>
+	<TD class="tr10 td69"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr10 td67"><SPAN class="p1 ft35">tesla</SPAN> </TD>
+	<TD class="tr10 td67"><SPAN class="p1 ft35">T</SPAN> </TD>
+	<TD colspan=2 class="tr10 td67"><SPAN class="p1 ft35">Wb <SPAN class="ft41">· </SPAN><NOBR>m<SPAN class="ft72">–2</SPAN></NOBR></SPAN> </TD>
+	<TD class="tr10 td58"><SPAN class="p1 ft35">kg <SPAN class="ft41">· </SPAN><NOBR>s<SPAN class="ft72">–2</SPAN></NOBR><SPAN class="ft72"> </SPAN><SPAN class="ft41">· </SPAN><NOBR>A<SPAN class="ft72">–1</SPAN></NOBR></SPAN> </TD>
+	<TD colspan=2 class="tr1 td72"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr10 td37"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr10 td46"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr10 td4"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD colspan=2 class="tr3 td71"><SPAN class="p87 ft35">Induktans</SPAN> </TD>
+	<TD class="tr3 td69"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr3 td67"><SPAN class="p1 ft35">henry</SPAN> </TD>
+	<TD class="tr3 td67"><SPAN class="p1 ft35">H</SPAN> </TD>
+	<TD colspan=2 class="tr3 td67"><SPAN class="p1 ft35">Wb <SPAN class="ft41">· </SPAN><NOBR>A<SPAN class="ft72">–1</SPAN></NOBR></SPAN> </TD>
+	<TD class="tr3 td58"><SPAN class="p1 ft35">m<SPAN class="ft72">2 </SPAN><SPAN class="ft41">· </SPAN>kg <SPAN class="ft41">· </SPAN><NOBR>s<SPAN class="ft72">–2</SPAN></NOBR><SPAN class="ft72"> </SPAN><SPAN class="ft41">· </SPAN><NOBR>A<SPAN class="ft72">–2</SPAN></NOBR></SPAN> </TD>
+	<TD colspan=2 class="tr10 td72"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr18 td37"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr18 td46"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr18 td4"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD colspan=2 class="tr18 td73"><SPAN class="p87 ft35">Ljusflöde</SPAN> </TD>
+	<TD class="tr18 td65"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr18 td68"><SPAN class="p1 ft35">lumen</SPAN> </TD>
+	<TD class="tr18 td68"><SPAN class="p1 ft35">lm</SPAN> </TD>
+	<TD colspan=2 class="tr18 td68"><SPAN class="p1 ft35">cd <SPAN class="ft41">· </SPAN>sr</SPAN> </TD>
+	<TD colspan=3 class="tr18 td51"><SPAN class="p1 ft35">cd</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr25 td37"><SPAN class="p3 ft70">&nbsp;</SPAN> </TD>
+	<TD class="tr25 td46"><SPAN class="p3 ft70">&nbsp;</SPAN> </TD>
+	<TD class="tr25 td4"><SPAN class="p3 ft70">&nbsp;</SPAN> </TD>
+	<TD class="tr13 td61"><SPAN class="p3 ft36">&nbsp;</SPAN> </TD>
+	<TD class="tr13 td58"><SPAN class="p3 ft36">&nbsp;</SPAN> </TD>
+	<TD class="tr13 td69"><SPAN class="p3 ft36">&nbsp;</SPAN> </TD>
+	<TD class="tr13 td67"><SPAN class="p3 ft36">&nbsp;</SPAN> </TD>
+	<TD class="tr13 td67"><SPAN class="p3 ft36">&nbsp;</SPAN> </TD>
+	<TD colspan=2 class="tr13 td67"><SPAN class="p3 ft36">&nbsp;</SPAN> </TD>
+	<TD class="tr13 td58"><SPAN class="p3 ft36">&nbsp;</SPAN> </TD>
+	<TD class="tr25 td7"><SPAN class="p3 ft70">&nbsp;</SPAN> </TD>
+	<TD class="tr25 td54"><SPAN class="p3 ft70">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr1 td37"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr1 td46"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr1 td4"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD colspan=2 class="tr10 td71"><SPAN class="p87 ft35">Belysning</SPAN> </TD>
+	<TD class="tr10 td69"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr10 td67"><SPAN class="p1 ft35">lux</SPAN> </TD>
+	<TD class="tr10 td67"><SPAN class="p1 ft35">lx</SPAN> </TD>
+	<TD colspan=2 class="tr10 td67"><SPAN class="p1 ft35">lm <SPAN class="ft41">· </SPAN><NOBR>m<SPAN class="ft72">–2</SPAN></NOBR></SPAN> </TD>
+	<TD class="tr10 td58"><SPAN class="p1 ft35"><NOBR>m<SPAN class="ft72">–2</SPAN></NOBR><SPAN class="ft72"> </SPAN><SPAN class="ft41">· </SPAN>cd</SPAN> </TD>
+	<TD colspan=2 class="tr1 td72"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr10 td37"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr10 td46"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr10 td4"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD colspan=2 class="tr3 td71"><SPAN class="p87 ft35">Aktivitet (inom radiologin)</SPAN> </TD>
+	<TD class="tr3 td69"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr3 td67"><SPAN class="p1 ft35">becquerel</SPAN> </TD>
+	<TD class="tr3 td67"><SPAN class="p1 ft35">Bq</SPAN> </TD>
+	<TD class="tr3 td61"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr3 td70"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr3 td58"><SPAN class="p1 ft71"><NOBR><SPAN class="ft73">s</SPAN>–1</NOBR></SPAN> </TD>
+	<TD colspan=2 class="tr10 td72"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr10 td37"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr10 td46"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr10 td4"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD colspan=3 class="tr3 td75"><SPAN class="p87 ft35">Absorberad dos (inom radiologin)</SPAN> </TD>
+	<TD class="tr3 td67"><SPAN class="p1 ft35">gray</SPAN> </TD>
+	<TD class="tr3 td67"><SPAN class="p1 ft35">Gy</SPAN> </TD>
+	<TD colspan=2 class="tr3 td67"><SPAN class="p1 ft35">J <SPAN class="ft41">· </SPAN><NOBR>kg<SPAN class="ft72">–1</SPAN></NOBR></SPAN> </TD>
+	<TD class="tr3 td58"><SPAN class="p1 ft72"><SPAN class="ft35">m</SPAN>2 <SPAN class="ft41">· </SPAN><NOBR><SPAN class="ft35">s</SPAN>–2</NOBR></SPAN> </TD>
+	<TD colspan=2 class="tr10 td72"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr1 td37"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr1 td46"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr1 td4"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD colspan=2 class="tr10 td71"><SPAN class="p87 ft35">Dosekvivalent</SPAN> </TD>
+	<TD class="tr10 td69"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr10 td67"><SPAN class="p1 ft35">sievert</SPAN> </TD>
+	<TD class="tr10 td67"><SPAN class="p1 ft35">Sv</SPAN> </TD>
+	<TD colspan=2 class="tr10 td67"><SPAN class="p1 ft35">J <SPAN class="ft41">· </SPAN><NOBR>kg<SPAN class="ft72">–1</SPAN></NOBR></SPAN> </TD>
+	<TD class="tr10 td58"><SPAN class="p1 ft72"><SPAN class="ft35">m</SPAN>2 <SPAN class="ft41">· </SPAN><NOBR><SPAN class="ft35">s</SPAN>–2</NOBR></SPAN> </TD>
+	<TD colspan=2 class="tr1 td72"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr10 td37"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr10 td46"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr10 td4"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD colspan=2 class="tr3 td71"><SPAN class="p87 ft35">Katalytisk aktivitet</SPAN> </TD>
+	<TD class="tr3 td69"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr3 td67"><SPAN class="p1 ft35">katal</SPAN> </TD>
+	<TD class="tr3 td67"><SPAN class="p1 ft35">kat</SPAN> </TD>
+	<TD class="tr3 td61"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr3 td70"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr3 td58"><SPAN class="p1 ft35">mol <SPAN class="ft41">· </SPAN><NOBR>s<SPAN class="ft72">–1</SPAN></NOBR></SPAN> </TD>
+	<TD colspan=2 class="tr10 td72"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+</TABLE>
+<P class="p148 ft43">(<SPAN class="ft48">1</SPAN>) Särskilda benämningar på effektenheten: voltampere, med beteckningen VA, för skenbar växelströmseffekt; var, med beteck<SPAN class="ft50">­ </SPAN>ningen var, för reaktiv växelströmseffekt. Enheten var ingår inte i någon <NOBR>CPGM-resolution.</NOBR></P>
+<P class="p149 ft35">Enheter som härletts ur <NOBR>SI-grundenheter</NOBR> kan uttryckas med hjälp av de enheter som räknats upp i kapitel I.</P>
+<P class="p150 ft35">Särskilt kan härledda enheter i SI uttryckas med hjälp av de benämningar och beteckningar som anges i tabellen ovan. <NOBR>SI-enheten</NOBR> för dynamisk viskositet kan till exempel uttryckas som <NOBR>m<SPAN class="ft72">-1</SPAN></NOBR><SPAN class="ft72"> </SPAN><SPAN class="ft41">· </SPAN>kg <SPAN class="ft41">· </SPAN><NOBR>s<SPAN class="ft72">-1</SPAN></NOBR><SPAN class="ft72"> </SPAN>eller N <SPAN class="ft41">· </SPAN>s <SPAN class="ft41">· </SPAN><NOBR>m<SPAN class="ft72">-2</SPAN></NOBR><SPAN class="ft72"> </SPAN>eller Pa <SPAN class="ft41">· </SPAN>s.”</P>
+<P class="p151 ft3">15</P>
+</DIV>
+<DIV id="page_16">
+<DIV id="dimg1">
+<INGENBILD zsrc="GX0316316x1.jpg/" id="img1">
+</DIV>
+
+
+<DIV id="id_1">
+<P class="p109 ft3">Prop. 2009/10:163</P>
+<P class="p110 ft3">Bilaga 4</P>
+<TABLE cellpadding=0 cellspacing=0 class="t11">
+<TR>
+	<TD class="tr15 td37"><SPAN class="p152 ft35">7.5.2009</SPAN> </TD>
+	<TD class="tr11 td42"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr12 td22"><SPAN class="p88 ft49">SV</SPAN> </TD>
+	<TD class="tr15 td40"><SPAN class="p89 ft35">Europeiska unionens officiella tidning</SPAN> </TD>
+	<TD class="tr15 td41"><SPAN class="p3 ft35">L 114/13</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr14 td20"><SPAN class="p3 ft37">&nbsp;</SPAN> </TD>
+	<TD class="tr14 td42"><SPAN class="p3 ft37">&nbsp;</SPAN> </TD>
+	<TD class="tr14 td43"><SPAN class="p3 ft37">&nbsp;</SPAN> </TD>
+	<TD class="tr14 td44"><SPAN class="p3 ft37">&nbsp;</SPAN> </TD>
+	<TD class="tr14 td45"><SPAN class="p3 ft37">&nbsp;</SPAN> </TD>
+</TR>
+</TABLE>
+</DIV>
+<DIV id="id_2">
+<DIV id="id_2_1">
+<P class="p13 ft35">f) I kapitel II ska följande rad utgå ur tabellen:</P>
+<TABLE cellpadding=0 cellspacing=0 class="t12">
+<TR>
+	<TD class="tr4 td76"><SPAN class="p3 ft35">”Lantmäteri</SPAN> </TD>
+	<TD class="tr4 td77"><SPAN class="p1 ft35">acre</SPAN> </TD>
+	<TD class="tr4 td78"><SPAN class="p1 ft35">1 ac = 4 047 m<SPAN class="ft72">2</SPAN></SPAN> </TD>
+	<TD class="tr4 td79"><SPAN class="p1 ft35">ac”</SPAN> </TD>
+</TR>
+</TABLE>
+<P class="p153 ft35"><SPAN class="ft35">g)</SPAN><SPAN class="ft75">I kapitel II ska den sista meningen ersättas med följande: ”Sammansatta enheter får bildas genom att enheter som upptas i detta kapitel sätts samman med varandra eller med enheter som upptas i kapitel I.”</SPAN></P>
+<P class="p154 ft76">Artikel 2</P>
+</DIV>
+<DIV id="id_2_2">
+<P class="p13 ft35">hänvisningen ska göras ska varje medlemsstat själv utfärda.</P>
+<P class="p155 ft35">2. Medlemsstaterna ska till kommissionen överlämna texten till de centrala bestämmelser i nationell lagstiftning som de antar inom det område som omfattas av detta direktiv.</P>
+<P class="p156 ft76">Artikel 3</P>
+<P class="p157 ft40">Ikraftträdande</P>
+<P class="p158 ft76"><SPAN class="ft35">Detta direktiv träder i kraft den tjugonde dagen efter det att det har offentliggjorts i </SPAN>Europeiska unionens officiella tidning<SPAN class="ft35">.</SPAN></P>
+</DIV>
+</DIV>
+<DIV id="id_3">
+<DIV id="id_3_1">
+<P class="p159 ft40">Införlivande</P>
+<P class="p160 ft35">1. Medlemsstaterna ska senast den 31 december 2009 anta och offentliggöra de bestämmelser i lagar och andra författ<SPAN class="ft41">­ </SPAN>ningar som är nödvändiga för att följa detta direktiv. De ska genast överlämna texten till dessa bestämmelser till kommissio<SPAN class="ft41">­ </SPAN>nen.</P>
+<P class="p161 ft35">De ska tillämpa dessa bestämmelser från och med den 1 januari 2010.</P>
+</DIV>
+<DIV id="id_3_2">
+<P class="p162 ft76">Artikel 4</P>
+<P class="p163 ft40">Adressater</P>
+<P class="p164 ft35">Detta direktiv riktar sig till medlemsstaterna.</P>
+<P class="p165 ft35">Utfärdat i Strasbourg den 11 mars 2009.</P>
+</DIV>
+</DIV>
+<DIV id="id_4">
+<DIV id="id_4_1">
+<P class="p70 ft35">När de antas av medlemsstaterna ska dessa bestämmelser inne<SPAN class="ft41">­ </SPAN>hålla en hänvisning till detta direktiv eller åtföljas av en sådan hänvisning när de offentliggörs. Närmare föreskrifter om hur</P>
+</DIV>
+<DIV id="id_4_2">
+<TABLE cellpadding=0 cellspacing=0 class="t13">
+<TR>
+	<TD class="tr18 td80"><SPAN class="p166 ft77">På Europaparlamentets vägnar</SPAN> </TD>
+	<TD class="tr18 td81"><SPAN class="p167 ft78">På rådets vägnar</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr18 td80"><SPAN class="p168 ft43"><NOBR>H.-G.</NOBR> PÖTTERING</SPAN> </TD>
+	<TD class="tr18 td81"><SPAN class="p167 ft43">A. VONDRA</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr15 td80"><SPAN class="p166 ft77">Ordförande</SPAN> </TD>
+	<TD class="tr15 td81"><SPAN class="p167 ft77">Ordförande</SPAN> </TD>
+</TR>
+</TABLE>
+</DIV>
+</DIV>
+<DIV id="id_5">
+<P class="p13 ft3">16</P>
+</DIV>
+</DIV>
+<DIV id="page_17">
+<DIV id="dimg1">
+<INGENBILD zsrc="GX0316317x1.jpg/" id="img1">
+</DIV>
+
+
+<DIV>
+<DIV id="id_1">
+<P class="p13 ft1">Näringsdepartementet</P>
+<P class="p169 ft3">Utdrag ur protokoll vid regeringssammanträde den 18 mars 2010.</P>
+<P class="p170 ft5">Närvarande: Statsministern Reinfeldt, ordförande, och statsråden Odell, Ask, Husmark Pehrsson, Larsson, Erlandsson, Torstensson, Carlgren, Hägglund, Björklund, Carlsson, Littorin, Borg, Sabuni, Billström, Adelsohn Liljeroth, Tolgfors, Krantz, Ohlsson.</P>
+<P class="p171 ft3">Föredragande: Statsrådet Torstensson.</P>
+<P class="p172 ft3">Regeringen beslutar proposition 2009/10:163 Vissa metrologifrågor.</P>
+</DIV>
+<DIV id="id_2">
+<P class="p13 ft3">Prop. 2009/10:163</P>
+<P class="p173 ft3">17</P>
+</DIV>
+</DIV>
+</DIV>
+<DIV id="page_18">
+
+
+<TABLE cellpadding=0 cellspacing=0 class="t14">
+<TR>
+	<TD class="tr26 td82"><SPAN class="p102 ft1">Rättsdatablad</SPAN> </TD>
+	<TD class="tr26 td83"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr26 td84"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr26 td85"><SPAN class="p174 ft3">Prop. 2009/10:163</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr2 td86"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr2 td87"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr2 td88"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr19 td85"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr27 td82"><SPAN class="p102 ft79">Författningsrubrik</SPAN> </TD>
+	<TD class="tr27 td83"><SPAN class="p3 ft79">Bestämmelser som</SPAN> </TD>
+	<TD colspan=2 class="tr27 td89"><SPAN class="p3 ft79">Celexnummer för</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr6 td82"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr6 td83"><SPAN class="p3 ft79">inför, ändrar, upp-</SPAN> </TD>
+	<TD colspan=2 class="tr6 td89"><SPAN class="p3 ft79">bakomliggande EG-</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr7 td82"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr7 td83"><SPAN class="p3 ft79">häver eller upprepar</SPAN> </TD>
+	<TD colspan=2 class="tr7 td89"><SPAN class="p3 ft79">regler</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr6 td82"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr6 td83"><SPAN class="p3 ft79">ett normgivnings-</SPAN> </TD>
+	<TD class="tr6 td84"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr6 td85"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr7 td82"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr7 td83"><SPAN class="p3 ft79">bemyndigande</SPAN> </TD>
+	<TD class="tr7 td84"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr7 td85"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr15 td86"><SPAN class="p3 ft80">&nbsp;</SPAN> </TD>
+	<TD class="tr15 td87"><SPAN class="p3 ft80">&nbsp;</SPAN> </TD>
+	<TD class="tr15 td88"><SPAN class="p3 ft80">&nbsp;</SPAN> </TD>
+	<TD class="tr18 td85"><SPAN class="p3 ft81">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr28 td82"><SPAN class="p102 ft82">Lag om ändring i lagen</SPAN> </TD>
+	<TD class="tr28 td83"><SPAN class="p3 ft82">1 och 4 §§</SPAN> </TD>
+	<TD colspan=2 class="tr28 td89"><SPAN class="p3 ft82">32009L0003</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr20 td82"><SPAN class="p102 ft83">(1992:1514) om mått-</SPAN> </TD>
+	<TD class="tr20 td83"><SPAN class="p3 ft84">&nbsp;</SPAN> </TD>
+	<TD class="tr20 td84"><SPAN class="p3 ft84">&nbsp;</SPAN> </TD>
+	<TD class="tr20 td85"><SPAN class="p3 ft84">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr20 td82"><SPAN class="p102 ft83">enheter, mätningar och</SPAN> </TD>
+	<TD class="tr20 td83"><SPAN class="p3 ft84">&nbsp;</SPAN> </TD>
+	<TD class="tr20 td84"><SPAN class="p3 ft84">&nbsp;</SPAN> </TD>
+	<TD class="tr20 td85"><SPAN class="p3 ft84">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr6 td82"><SPAN class="p102 ft82">mätdon</SPAN> </TD>
+	<TD class="tr6 td83"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr6 td84"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr6 td85"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+</TABLE>
+<P class="p175 ft3">18</P>
+</DIV>
+
+</div><style>
+
+
+TD,TD.p2h {
+zzzfont-size:90%;
+zzzmargin-right:2px;
+zzzoverflow:visable;
+zzzword-wrap: break-word;
+}
+
+P {
+zdisplay:block;
+}
+
+.divbreak {
+clear:both;
+display:block;
+zwidth: 100%;
+zheight: 1px;
+zword-wrap: break-word;
+}
+
+
+.xecp {
+  display:block;
+  margin: 0px !important;
+  padding: 0px !important;
+  
+}
+
+.ec {
+  border-style:solid;
+  border-width:1px;
+  display:block;
+  margin: 0px !important;
+  padding: 0px !important;
+}
+
+.TOPS {
+  overflow:visable;
+  margin:2px;
+  width:690px !important;
+}
+
+</style>

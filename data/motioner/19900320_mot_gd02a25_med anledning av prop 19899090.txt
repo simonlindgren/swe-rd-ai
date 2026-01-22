@@ -1,0 +1,98 @@
+SEARCH TERM: AI
+DOCUMENT ID: gd02a25
+TITLE: med anledning av prop. 1989/90:90 om forskning
+TYPE: mot
+SUBTYPE: 
+DATE: 1990-03-20
+PARLIAMENTARY YEAR: 1989/90
+ORGANISATION: AU
+STATUS: 
+DOWNLOADED: 2026-01-22 10:25:23
+================================================================================
+
+<div class="dok" ><style>
+div.dok p,span {
+	font-size:12px;
+	font-family:verdana;
+	white-space:nowrap;
+}
+
+div.sida {
+	border-bottom: 1px solid #ddd;
+	width:550px;
+}
+
+
+div.block {
+	margin:2px;
+	display:block;
+}
+
+div.brask {
+	padding:5px 5px;
+	background:#eee;
+	border: 1px solid #999;
+	width:540px;
+}
+
+.skannad, td {
+	border: 1px solid #ccc;
+	padding:2px;
+	border-collapse: collapse;
+	white-space: nowrap;
+	text-align:center;
+	font-size:90%;
+}
+
+.ml7 {margin-left:70px}
+.ml6 {margin-left:60px}
+.ml5 {margin-left:50px}
+.ml4 {margin-left:40px}
+.ml3 {margin-left:30px}
+.ml2 {margin-left:20px}
+.ml1 {margin-left:10px}
+
+</style><div class="brask">
+Observera att dokumentet är inskannat och fel kan förekomma.
+</div> 
+<div class="sida"> 
+<div class="block ml_4"><p>Motion till riksdagen<br /> 
+1989/90:A25</p>
+<p>av Sven-Åke Nygårds m.fl. (s)</p>
+<p>med anledning av prop. 1989/90:90 om forskning</p>
+</div> 
+ 
+<div class="block ml_3"><p>Förhållandena inom arbetsmiljöområdet har rönt en stegrande uppmärksamhet<br />
+under senare år. Detta visas av att en arbetsmiljökommission har tillsatts.</p>
+<p>Inrättandet av en arbetslivsfond talar samma språk.</p>
+<p>I den forskningspolitiska propositionen 1989/90:90 har inte detta slagit igenom<br />
+på samma sätt.</p>
+<p>För oss är det uppenbart att miljöhänsyn även måste omfatta arbetsmiljö.<br /> 
+Ett uttalande från riksdagen bör göras med innebörden att sambandet mellan<br />
+arbetsmiljöforskning och övrig miljöforskning bör förstärkas.</p>
+<p>Den förra forskningspolitiska propositionen innehöll förslag om inrättande<br />
+av arbetsmiljöinstitutet (AI). Därmed lyftes forskningsavdelningen ut<br /> 
+från arbetarskyddsstyrelsen. Motiven för bildandet av AI var att ytterligare<br /> 
+markera arbetsmiljöforskningens betydelse. Detta bör enligt vår mening<br /> 
+fullföljas med all kraft. Då är det viktigt att möjligheten att inom detta område<br />
+inrätta professurer även utanför högskolan kvarstår.</p>
+<p>Hemställan</p>
+<p>Med hänvisning till det anförda hemställs</p>
+<p style="margin-left:29px;">att riksdagen som sin mening ger regeringen till känna vad i motionen<br />
+anförts om behovet av ett förstärkt samband mellan arbetsmiljöforskning<br />
+och annan miljöforskning samt en ytterligare markering av<br /> 
+arbetsmiljöforskningens betydelse.</p>
+<p>Stockholm den 20 mars 1990</p>
+<p>Sven-Åke Nygårds (s)</p>
+<p>Bo Finnkvist (s) Anita Johansson (s)</p>
+</div> 
+ 
+<div class="block ml_4"><p>Oskar Lindkvist (s)</p>
+</div> 
+ 
+<div class="block ml_24"><p style="margin-left:6px;">Anita Modin (s)</p>
+</div> 
+ 
+<div class="block ml_4" /> 
+</div> 
+</div>

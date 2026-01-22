@@ -1,0 +1,361 @@
+SEARCH TERM: AI
+DOCUMENT ID: hc022343
+TITLE: Kompetensförsörjningsinsatser i norra Sverige
+TYPE: mot
+SUBTYPE: Enskild motion
+DATE: 2024-10-03
+PARLIAMENTARY YEAR: 2024/25
+ORGANISATION: UbU
+STATUS: Klar
+DOWNLOADED: 2026-01-22 10:25:09
+================================================================================
+
+<style><!-- 
+ @page Section1 { size:595.3pt 841.9pt; margin:35.45pt 85.05pt 56.7pt }
+div.Section1 { page:Section1 }
+div.pconf body { t-i:14.2pt; line-height:15pt; font-family:'Verdana'; font-size: 0.90em }
+div.pconf h1, h2, h3, h4, h5, h6, p { margin:0pt }
+div.pconf li, table { margin-top:0pt; margin-bottom:0pt }
+div.pconf h1 { margin-top:41pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:19.5pt; font-family:'Verdana'; font-size: 1.05em; font-weight:normal; color:#000000 }
+div.pconf h2 { margin-top:30pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:17pt; font-family:'Verdana'; font-size: 1.00em; font-weight:normal; color:#000000 }
+div.pconf h3 { margin-top:18pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:15pt; font-family:'Verdana'; font-size: 0.90em; font-weight:bold; color:#000000 }
+div.pconf h4 { margin-top:18pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:15pt; font-family:'Verdana'; font-size: 0.90em; font-weight:normal; font-style:italic; color:#000000 }
+div.pconf h5 { margin-top:15pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:15pt; font-family:'Verdana'; font-size: 0.90em; font-weight:bold; font-style:normal; color:#000000 }
+div.pconf h6 { margin-top:15pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:15pt; font-family:'Verdana'; font-size: 0.90em; font-weight:normal; font-style:italic; color:#000000 }
+.Heading7 { margin-top:15pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:15pt; font-family:'Verdana'; font-size: 0.90em; font-weight:normal; font-style:italic; color:#000000; -aw-style-name:heading7 }
+.Heading8 { margin-top:15pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:15pt; font-family:'Verdana'; font-size: 0.90em; font-weight:normal; font-style:italic; color:#000000; -aw-style-name:heading8 }
+.Heading9 { margin-top:0pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:15pt; font-family:'Verdana'; font-size: 0.90em; font-weight:normal; font-style:italic; color:#000000; -aw-style-name:heading9 }
+.BalloonText { margin-bottom:0pt; t-i:14.2pt; line-height:normal; font-family:'Segoe UI'; font-size: 0.90em }
+.Beteckning { margin-top:18pt; margin-bottom:0pt; t-i:14.2pt; page-break-inside:auto; page-break-after:auto; line-height:19.5pt; font-size: 1.05em }
+.BlockText, .Inramatstycke { margin-right:56.7pt; margin-left:56.7pt; margin-bottom:0pt; t-i:0pt; text-align:nojustify; line-height:15pt; border:0.75pt solid #000000; padding:10pt; font-size: 0.90em; font-style:italic; -aw-border:0.25pt single }
+.Citaticitat { margin-top:7.5pt; margin-left:34pt; margin-bottom:0pt; t-i:0pt; line-height:12pt; font-size: 0.90em }
+.Citaticitatmedindrag { margin-top:0pt; margin-left:34pt; margin-bottom:7.5pt; t-i:17pt; line-height:12pt; font-size: 0.90em }
+.Citatmedindrag { margin-top:0pt; margin-left:17pt; margin-bottom:0pt; t-i:17pt; line-height:12pt; font-size: 0.90em }
+.CommentSubject { margin-bottom:0pt; t-i:14.2pt; line-height:normal; font-size: 0.90em; font-weight:bold }
+.CommentText { margin-bottom:0pt; t-i:14.2pt; line-height:normal; font-size: 0.90em }
+.FSHLogo { margin-top:4pt; margin-bottom:0pt; t-i:0pt; line-height:normal; font-size: 0.90em }
+.FSHNormL { margin-top:4pt; margin-bottom:0pt; t-i:0pt; line-height:15pt; border-top:1.5pt solid #000000; padding-top:3pt; font-size: 0.90em }
+.FSHNormal { margin-top:4pt; margin-bottom:0pt; t-i:0pt; line-height:15pt; font-size: 0.90em }
+.FSHNormalS5 { margin-top:11.5pt; margin-bottom:26pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-size: 0.95em; font-weight:bold }
+.FSHRub1, .Rubrik1S5 { margin-top:135pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:16pt; font-size: 1.00em }
+.FSHRub2, .Rubrik1A4 { margin-top:50pt; margin-bottom:5pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:24pt; font-size: 1.05em }
+.FSHTitel, .Dokumentrubrik { margin-top:4pt; margin-bottom:4pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:20pt; border-bottom:0.75pt solid #000000; padding-bottom:3pt; font-size: 1.05em; -aw-border-bottom:0.5pt single }
+.Footer { margin-top:4pt; margin-bottom:0pt; t-i:0pt; text-align:center; line-height:normal; font-size: 0.90em }
+.FootnoteText { margin-top:0pt; margin-bottom:0pt; t-i:0pt; line-height:12pt; font-size: 0.90em }
+.Frslagsrubrik { margin-top:41pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:19.5pt; font-family:'Verdana'; font-size: 1.05em }
+.Frslagstext, .Hemstlatt, .Yrkande { margin-top:4pt; margin-left:19.85pt; margin-bottom:0pt; t-i:-19.85pt; line-height:15pt; font-size: 0.90em }
+.Header { margin-top:4pt; margin-bottom:0pt; t-i:0pt; line-height:normal; font-size: 0.90em }
+.KantRubrikS5H { margin-top:6pt; margin-right:2.85pt; margin-bottom:0pt; t-i:0pt; text-align:right; line-height:8pt; font-size: 0.90em }
+.KantRubrikS5Hrad2 { margin-top:0pt; margin-right:2.85pt; margin-bottom:0pt; t-i:0pt; text-align:right; line-height:10pt; font-size: 0.90em }
+.KantRubrikS5V { margin-top:6pt; margin-right:0pt; margin-bottom:0pt; t-i:0pt; text-align:left; line-height:8pt; font-size: 0.90em }
+.KantRubrikS5Vrad2 { margin-top:0pt; margin-right:0pt; margin-bottom:0pt; t-i:0pt; text-align:left; line-height:10pt; font-size: 0.90em }
+.KantrubrikH { margin-top:4pt; margin-right:-82.2pt; margin-bottom:0pt; t-i:0pt; text-align:right; line-height:15pt; font-size: 0.90em }
+.KantrubrikV { margin-top:4pt; margin-left:-85.05pt; margin-bottom:0pt; t-i:0pt; line-height:normal; font-size: 0.90em }
+.Klla { margin-top:0pt; margin-bottom:0pt; t-i:0pt; line-height:12pt; font-size: 0.90em }
+.Lagtext { margin-top:4pt; margin-bottom:0pt; t-i:0pt; line-height:normal; font-size: 0.90em }
+.Lagtextindrag { margin-top:4pt; margin-bottom:0pt; t-i:14.2pt; line-height:normal; font-size: 0.90em }
+.Lagtextrubrik { margin-top:4pt; margin-bottom:0pt; t-i:0pt; line-height:normal; font-size: 0.90em; font-style:italic; letter-spacing:1pt }
+.List { margin-top:7.5pt; margin-left:17pt; margin-bottom:7.5pt; t-i:-17pt; line-height:15pt; font-size: 0.90em }
+.ListBullet, .PunktlistaBomb { margin-top:4pt; margin-left:14.2pt; margin-bottom:0pt; t-i:-14.2pt; line-height:15pt; font-size: 0.90em }
+.ListNumber, .PunktlistaNummer { margin-top:4pt; margin-left:14.2pt; margin-bottom:0pt; t-i:-14.2pt; line-height:15pt; font-size: 0.90em }
+.ListParagraph { margin-left:36pt; margin-bottom:0pt; t-i:14.2pt; line-height:15pt; font-size: 0.90em }
+.ListaGemener { margin-top:7.5pt; margin-left:17pt; margin-bottom:7.5pt; t-i:-17pt; line-height:15pt; font-size: 0.90em }
+.ListaLinje { margin-top:7.5pt; margin-left:17pt; margin-bottom:7.5pt; t-i:-17pt; line-height:15pt; font-size: 0.90em }
+.ListaNummer { margin-top:7.5pt; margin-left:17pt; margin-bottom:7.5pt; t-i:-17pt; line-height:15pt; font-size: 0.90em }
+.ListaPunkt { margin-top:7.5pt; margin-left:17pt; margin-bottom:7.5pt; t-i:-17pt; line-height:15pt; font-size: 0.90em }
+.MotionTIllRiksdagen { margin-top:18pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:19.5pt; font-size: 1.05em }
+.Motionr { margin-top:14pt; margin-bottom:31.5pt; t-i:0pt; page-break-inside:avoid; line-height:15pt; font-size: 1.00em; font-weight:bold; font-style:normal }
+.Motiveringrubrik2numrerat1 { margin-top:30pt; margin-left:0pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:17pt; font-family:'Verdana'; font-size: 1.00em }
+.Motiveringrubrik3numrerat1 { margin-top:18pt; margin-left:0pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:15pt; font-family:'Verdana'; font-size: 0.90em; font-weight:bold }
+.Motiveringrubrik3numrerat11 { margin-top:18pt; margin-left:0pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:15pt; font-family:'Verdana'; font-size: 0.90em; font-weight:bold }
+.Motiveringrubrik4numrerat11 { margin-top:18pt; margin-left:0pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:15pt; font-family:'Verdana'; font-size: 0.90em; font-weight:normal; font-style:italic }
+.NormalWeb { margin-bottom:0pt; t-i:14.2pt; line-height:15pt; font-family:'Verdana'; font-size: 0.90em }
+.NormalIndent { margin-left:65.2pt; margin-bottom:0pt; t-i:14.2pt; line-height:15pt; font-size: 0.90em }
+.Normalutanindragellerluft { margin-top:4pt; margin-bottom:0pt; t-i:0pt; line-height:15pt; font-size: 0.90em }
+.Normal00 { margin-top:4pt; margin-bottom:0pt; t-i:0pt; line-height:normal; font-size: 0.90em }
+.NormalA4fot { margin-top:12pt; margin-bottom:0pt; t-i:0pt; text-align:center; line-height:normal; font-size: 0.90em }
+.NormalA4sidnr { margin-top:4pt; margin-bottom:12pt; t-i:0pt; text-align:center; line-height:normal; font-size: 0.90em }
+.NormalS5sidnrH { margin-top:4pt; margin-right:2.85pt; margin-bottom:0pt; t-i:0pt; text-align:right; line-height:normal; font-size: 0.90em }
+.NormalS5sidnrV { margin-top:4pt; margin-right:0pt; margin-bottom:0pt; t-i:0pt; text-align:left; line-height:normal; font-size: 0.90em }
+.PlainText { margin-bottom:0pt; t-i:0pt; line-height:12pt; font-family:'Verdana'; font-size: 0.90em }
+.Quote { margin-top:7.5pt; margin-left:17pt; margin-bottom:0pt; t-i:0pt; line-height:12pt; font-size: 0.90em }
+.R1 { margin-top:41pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:19.5pt; font-family:'Verdana'; font-size: 1.05em }
+.R2 { margin-top:30pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:17pt; font-family:'Verdana'; font-size: 1.00em }
+.R3 { margin-top:18pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:15pt; font-family:'Verdana'; font-size: 0.90em; font-weight:bold }
+.Rubrik1numrerat { margin-top:41pt; margin-left:0pt; margin-bottom:0pt; t-i:0pt; page-break-inside:auto; page-break-after:avoid; line-height:19.5pt; font-family:'Verdana'; font-size: 1.05em }
+.Rubrik2numrerat { margin-top:30pt; margin-left:0pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:17pt; font-family:'Verdana'; font-size: 1.00em }
+.Rubrik3numrerat { margin-top:18pt; margin-left:0pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:15pt; font-family:'Verdana'; font-size: 0.90em; font-weight:bold }
+.Rubrik4numrerat { margin-top:18pt; margin-left:0pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:15pt; font-family:'Verdana'; font-size: 0.90em; font-weight:normal; font-style:italic }
+.RubrikFrslagTIllRiksdagsbeslut { margin-top:41pt; margin-bottom:15pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:19.5pt; font-family:'Verdana'; font-size: 1.05em }
+.RubrikInnehllsf { margin-top:41pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:19.5pt; font-family:'Verdana'; font-size: 1.05em }
+.RubrikSammanf { margin-top:41pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:19.5pt; font-family:'Verdana'; font-size: 1.05em }
+.Salutation { margin-top:41pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:19.5pt; font-family:'Verdana'; font-size: 1.05em }
+.Streckkod { margin-top:12pt; margin-bottom:0pt; t-i:0pt; text-align:center; line-height:normal; font-family:IDAutomationHC39S; font-size: 1.00em }
+.Strecklista, .PunktlistaTankstreck { margin-top:4pt; margin-left:14.2pt; margin-bottom:0pt; t-i:-14.2pt; line-height:15pt; font-size: 0.90em }
+.Subtitle { margin-top:4pt; margin-bottom:0pt; t-i:0pt; line-height:15pt; font-family:'Verdana'; font-size: 0.90em; font-weight:bold }
+.TOC1 { margin-top:4pt; margin-bottom:0pt; t-i:0pt; line-height:15pt; font-size: 0.90em }
+.TOC2 { margin-top:4pt; margin-left:14.2pt; margin-bottom:0pt; t-i:0pt; line-height:15pt; font-size: 0.90em }
+.TOC3 { margin-top:4pt; margin-left:28.35pt; margin-bottom:0pt; t-i:0pt; line-height:15pt; font-size: 0.90em }
+.TOC4 { margin-top:4pt; margin-left:42.55pt; margin-bottom:0pt; t-i:0pt; line-height:15pt; font-size: 0.90em }
+.TOC5 { margin-top:4pt; margin-left:56.7pt; margin-bottom:0pt; t-i:0pt; line-height:15pt; font-size: 0.90em }
+.TOC6 { margin-top:4pt; margin-left:56.7pt; margin-bottom:0pt; t-i:0pt; line-height:15pt; font-size: 0.90em }
+.TOC7 { margin-top:15pt; margin-left:56.7pt; margin-bottom:0pt; t-i:14.2pt; page-break-inside:avoid; page-break-after:avoid; line-height:normal; font-family:'Verdana'; font-size: 0.90em; font-weight:normal; font-style:italic }
+.TOC8 { margin-top:15pt; margin-left:56.7pt; margin-bottom:0pt; t-i:14.2pt; page-break-inside:avoid; page-break-after:avoid; line-height:normal; font-family:'Verdana'; font-size: 0.90em; font-weight:normal; font-style:italic }
+.TOC9 { margin-top:15pt; margin-left:56.7pt; margin-bottom:0pt; t-i:14.2pt; page-break-inside:avoid; page-break-after:avoid; line-height:normal; font-family:'Verdana'; font-size: 0.90em; font-weight:normal; font-style:italic }
+.TOCHeading { margin-top:41pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:19.5pt; font-family:'Verdana'; font-size: 1.05em }
+.Tabellunderrubrik { margin-top:0pt; margin-bottom:0pt; t-i:0pt; page-break-after:avoid; line-height:15pt; font-size: 0.90em; font-weight:normal; font-style:italic }
+.Tabellrubrik { margin-top:7.5pt; margin-bottom:0pt; t-i:0pt; page-break-after:avoid; line-height:15pt; font-size: 0.90em; font-weight:bold }
+.Title { margin-top:41pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:19.5pt; font-family:'Verdana'; font-size: 1.05em }
+.Underskriftdatum { margin-top:24pt; margin-bottom:3pt; t-i:0pt; page-break-inside:avoid; line-height:15pt; font-size: 0.90em; font-style:normal }
+.Underskrifter { margin-top:15pt; margin-bottom:3pt; t-i:0pt; page-break-inside:avoid; line-height:15pt; font-size: 0.90em; font-style:italic }
+.Yrkandehnv, .Frslagspunkthnv { margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; font-size: 0.90em }
+span.BallongtextChar { font-family:'Segoe UI'; font-size: 0.90em }
+span.BeteckningChar { font-size:19.5pt }
+span.CommentReference { font-size:8pt }
+span.FSHRub2Char, span.Rubrik1A4Char { font-size:24pt }
+span.FotnotstextChar { font-size:10pt }
+span.Hyperlink { text-decoration:underline; color:#0563c1; -aw-style-name:hyperlink }
+span.InledningChar { font-family:'Verdana'; font-size: 1.00em; font-weight:bold }
+span.IntenseReference { font-weight:normal; font-style:normal; font-variant:normal; text-decoration:none; text-transform:none; letter-spacing:0pt; vertical-align:0pt; color:#000000; display:inline }
+span.KommentarerChar { font-size:10pt }
+span.KommentarsmneChar { font-size:10pt; font-weight:bold }
+span.MotionTIllRiksdagenChar { font-size:19.5pt }
+span.OformateradtextChar { font-family:'Verdana'; font-size: 0.90em }
+span.PlaceholderText { color:#f4b083 }
+span.Rubrik1Char { font-family:'Verdana'; font-size: 1.05em }
+span.Rubrik2Char { font-family:'Verdana'; font-size: 1.00em }
+span.Rubrik3Char { font-family:'Verdana'; font-size: 0.90em; font-weight:bold }
+span.Rubrik4Char { font-family:'Verdana'; font-size: 0.90em; font-style:italic }
+span.Rubrik5Char { font-family:'Verdana'; font-weight:bold }
+span.Rubrik6Char { font-family:'Verdana'; font-style:italic }
+span.Rubrik7Char { font-family:'Verdana'; font-size: 0.90em; font-weight:bold }
+span.Rubrik8Char { font-family:'Verdana'; font-size: 0.90em; font-weight:bold }
+span.Rubrik9Char { font-family:'Verdana'; font-size: 0.90em; font-weight:bold }
+span.RubrikChar { font-family:'Verdana'; font-size: 1.00em; font-weight:bold }
+span.SidfotChar { font-size:11.5pt }
+span.UnderrubrikChar { font-family:'Verdana'; font-size: 0.90em; font-weight:bold }
+.TableGrid {  }
+
+.pconf{width: 450px;margin-left:5px;overflow:visable;font-family:Verdana, Geneva, sans-serif;} 
+ .sidhuvud_publikation, .sidhuvud_beteckning{font-size:133%}
+.MotionarLista {font-size:122%}
+
+--></style><div class="pconf"><span class="sidhuvud_publikation">Motion till riksdagen</span><br/>
+<span class="sidhuvud_beteckning">2024/25:2343</span><br/>
+<span class="MotionarLista">av Isak From m.fl. (S)</span><br/>
+<h1>Kompetensförsörjningsinsatser i norra Sverige</h1>
+<hr class="sidhuvud_linje"/>
+
+
+		<div class="Section1">
+			<p class="RubrikFrslagTIllRiksdagsbeslut">
+				<a name="_Toc106800475"></a><a name="_Toc106801300"><span style="-aw-sdt-tag:'CC_Boilerplate_4'; -aw-sdt-title:'CC_Boilerplate_4'"><span>Förslag till riksdagsbeslut</span></span><span style="-aw-bookmark-end:_Toc106800475"></span></a>
+			</p>
+			<div style="-aw-sdt-tag:'b13161c9-6de7-4cd8-ba17-aa2173012baf'; -aw-sdt-title:'Yrkande 1'">
+				<ol type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-left:14pt; t-i:0pt; padding-left:5.85pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om behov av kompetensförsörjningsinsatser i norra Sverige och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'9b17650d-33ac-44af-bd69-578fe9f735f3'; -aw-sdt-title:'Yrkande 2'">
+				<ol start="2" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; margin-left:14pt; t-i:0pt; padding-left:5.85pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om folkbildningens betydelse i små kommuner och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'1b1ca6fe-94ec-4b70-b9ca-f4c27bd83803'; -aw-sdt-title:'Yrkande 3'">
+				<ol start="3" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; margin-left:14pt; t-i:0pt; padding-left:5.85pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om behov av en stark och lokalt lokaliserad folkbildning och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'243516e7-5fba-45ac-8b4c-b402486cff60'; -aw-sdt-title:'Yrkande 4'">
+				<ol start="4" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; margin-left:14pt; t-i:0pt; padding-left:5.85pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om behovet av lärcentrum i hela landet och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<h1>
+				<a name="MotionsStart"></a><a name="_Toc106800476"></a><a name="_Toc106801301"><span style="-aw-bookmark-end:MotionsStart"></span><span style="-aw-sdt-tag:'CC_Motivering_Rubrik'; -aw-sdt-title:'CC_Motivering_Rubrik'"><span>Motivering</span></span><span style="-aw-bookmark-end:_Toc106800476"></span></a>
+			</h1>
+			<p class="Normalutanindragellerluft">
+				<span>Den rådande lågkonjunkturen fortsätter att ge avtryck på arbetsmarknaden. En svagare ekonomisk utveckling har minskat efterfrågan på arbetskraft vilket lett till att antalet inskrivna arbetslösa har stigit under det senaste året. Under det andra kvartalet 2024 var den relativa arbetslöshetsnivån i riket i genomsnitt 6,5 procent, vilket kan jämföras med </span><span style="letter-spacing:-0.05pt">6,1 procent under samma period 2023. Antalet inskrivna arbetslösa har ökat med omkring</span><span> 23</span><span>&#xa0;</span><span>000 personer under perioden.</span>
+			</p>
+			<p>
+				<span>I Arbetsförmedlingens rapport för andra kvartalet 2024 framgår att utvecklingen skiljer sig kraftigt åt i olika delar av landet. I flera av länen i södra Sverige, däribland storstadslänen, har antalet inskrivna arbetslösa ökat tydligt mellan det andra kvartalet 2023 och det andra kvartalet 2024. I flera län i mellersta och norra Sverige är utveck</span><span>&#xad;</span><span>lingen den motsatta och betydligt starkare. Det råder en stor obalans, i norra Sverige behövs stora mängder utbildad arbetskraft och i södra Sverige finns arbetslöshet. Det borde gå åtgärda.</span>
+			</p>
+			<p>
+				<span>Från Ludvika till Kiruna står länen i centrum för en snabb omställning av världens industri, transport- och energisystem till gröna och fossilfria produktionssätt. Detta är inte längre en framtidsvision pådriven av enskilda aktörer, utan en pågående realitet i många länder. En brytpunkt har nåtts, där många företag och en tydlig ekonomisk logik driver på utvecklingen, med starkt stöd av nya och skarpare regleringar och stöd i en lång rad länder. EU har lagstiftat om att minska sina utsläpp med 55</span><span>&#xa0;</span><span>% till 2030 och nå klimatneutralitet 2050.</span>
+			</p>
+			<p>
+				<span>De regleringar som styr mot dessa mål, som utsläppshandelssystemet (EU ETS) med gradvis utfasning av utsläppsrättigheter, eller importavgifter på koldioxid (CBAM) innebär ökade kostnader för traditionella varor och tjänster med ett stort klimatavtryck. Inom överskådlig framtid förlorar dessa i konkurrenskraft. Exempelvis förväntas kostnaden för dagens fossila stål öka med över 30</span><span>&#xa0;</span><span>% 2035, på grund av kostnaden för utsläppsrättigheter för koldioxid.</span>
+			</p>
+			<p>
+				<span>Parallellt sätter företag i hela världen allt aggressivare klimatmål: Fler än 4</span><span>&#xa0;</span><span>000 storföretag har tillkännagivit att de går med i Science Based Target initiative (SBTi), med vilket de förbinder sig till kraftigt reducerade utsläpp genom hela värdekedjan. Staten måste utveckla kompetens för att driva en aktiv industripolitik. Detta innebär att sätta tydliga mål, uppföljning, ansvarsutkrävande, möjlighet att styra om projekt som inte fungerar samt lära sig av både misstag och framgång. Idag är mycket av industri</span><span>&#xad;</span><span>politiken (industriklivet, klimatklivet, de gröna kreditgarantierna) uppsplittrad på olika myndigheter, och universiteten och lärosätena står vid sidan om.</span>
+			</p>
+			<p>
+				<span>Överflyttning i värdekedjorna och industriell samverkan kan skapa nya innovationer och produkter som utvecklas från de råvaror och energilösningar som planeras.</span>
+			</p>
+			<p>
+				<span>I norra Sverige har flera betydande ankarföretag etablerats och andra håller på att ställa om sin produktion. Dessa stora, kunskapsintensiva företag är viktiga kompetens</span><span>&#xad;</span><span>baser och tenderar också att vara plantskolor där anställda går vidare till andra företag eller startar avknoppningsföretag. Rätt hanterat kan det i kölvattnet av industrisatsning</span><span>&#xad;</span><span>arna etableras möjlighet till nya forskningsmiljöer i nära samarbete mellan akademin och industrin.</span>
+			</p>
+			<p>
+				<span>Det innebär att en ny kunskapsbas håller på att bildas samtidigt som näringslivet håller på att förändrats, drivet av kraven på en grön omställning.</span>
+			</p>
+			<p>
+				<span>Regeringens utredare Peter Larsson skriver att ”de nya etableringarna och stora expansionerna kommer att kräva många nya medarbetare. Rekryteringen i sig är primärt en uppgift för företagen. Utmaningen är dock så stor att det kräver samverkan mellan företagen och kommuner/regioner. Det ligger också ett egenintresse hos de senare att medverka till att den anlitade arbetskraften i alla fall på sikt blir lokalt förankrad.”</span>
+			</p>
+			<p>
+				<span>Lokalt förankrad arbetskraft bidrar den till en växande skattekraft. Ett alternativ där arbetskraften baseras på personer som är på plats under kortare perioder, ”flyin/flyout”, har utredaren uppfattat att såväl företag som kommuner vill motverka.</span>
+			</p>
+			<p>
+				<span style="letter-spacing:-0.05pt">Kompetensförsörjningen i norra Sverige skiljer sig från andra delar av landet eftersom</span><span> det från start råder brist på arbetskraft då arbetslösheten är väsentligt lägre. </span>
+			</p>
+			<p>
+				<span>Kompetensbehoven inom offentlig sektor är stora men har heller inte fått samma uppmärksamhet som behoven inom industrin.</span>
+			</p>
+			<p>
+				<span>Den gröna industriomställningen är avgörande för framtiden. Sverige har satt ett mål om att vara klimatneutralt 2045. För att kunna säkra kompetensförsörjningen inom bland annat denna framväxande bransch måste vi kunna säkerställa att utbildning kan ges på distans eller på glesbefolkade orter för att människor ska kunna bo kvar och samtidigt utbilda sig.</span>
+			</p>
+			<p>
+				<span>Det finns klara brister i samordningen. Det handlar om regelverkens förmåga att möta helt nya situationer och behov. En orsak till det är att huvudmannaskapet är olika </span><span style="letter-spacing:-0.1pt">för de olika utbildningsformerna. Vuxenutbildningen är kommunal men med ett nationellt</span><span> regelverk och statlig delfinansiering. Yrkesutbildningen finansieras genom Myndig</span><span>&#xad;</span><span>heten för yrkeshögskolan och där prövas varje ansökan enligt ett särskilt regelverk. Högskoleutbildningen finansieras genom basanslag till respektive lärosäte.</span><span>&#xa0;</span><span>Utöver utmaningen med flera huvudmän och källor till finansiering har man också mött flera andra svårigheter. Volymen av antalet aktuella för utbildning förväntades öka med en faktor 10. För att kunna bygga upp den kapaciteten hade man behövt en längre framför</span><span>&#xad;</span><span>hållning i medelstilldelning. Anslag som beslutas per år och ofta i ett sent skede ger inte nödvändig säkerhet. </span>
+			</p>
+			<p>
+				<span>Ett annat problem som diskuterats är den kommunala finansieringsprincipen. En stor del av dem som skulle behöva utbildas kunde vara hemmahörande i annan kommun. En kommun får inte finansiera verksamhet som berör en individ i en annan kommun. Det har varit svårt att</span><span>&#xa0;</span><span>precisera utbildningsbehov och inriktning eftersom företagens verksamhet inte är färdig. Lite tillspetsat kan man säga att utbildningen i högre grad behöver vara bred och det behövs många vanliga yrkeskategorier som ingenjörer, fordonsmekaniker, chaufförer och elektriker, undersköterskor och lärare. Detta under</span><span>&#xad;</span><span>stryker att etablering av en ny bransch kräver ett agilt tänkande från alla inblandade. Det går inte att på förhand beskriva exakt vilka yrkeskategorier som behövs.</span>
+			</p>
+			<p>
+				<span>En ny rapport visar att hela 47</span><span>&#xa0;</span><span>700 personer behöver rekryteras till norra Sveriges inland de kommande två åren. Flera branscher inom både offentlig sektor och närings</span><span>&#xad;</span><span>livet skriker efter kompetens. Här är en lista på de mest eftertraktade yrkena i norr. Hela 47</span><span>&#xa0;</span><span>700 personer väntas behöva rekryteras de kommande två åren.</span>
+			</p>
+			<p>
+				<span>Lägger vi till de industritunga städerna vid Norrlandskusten blir behoven det dubbla.</span>
+			</p>
+			<p>
+				<span>De branscher som skriker efter folk i norr är främst vård och omsorg, industrin, fordonsmekaniker, chaufförer, elektriker och pedagogiska yrken. Det är här, i norra Sverige, det händer. Vi kan erbjuda oändligt med jobb inom flera olika branscher. Här får man chansen att göra karriär.</span>
+			</p>
+			<p>
+				<span>&#xa0;</span><span>Undersökningen redogör också för vilken typ av kompetensutveckling som är mest aktuell de två kommande åren framöver. I topp ligger digitalisering. Behovet inkluderar utbildningar inom IT-säkerhet, automatisering och AI och e-handel. Rapporten visar också på att ledarskapsutveckling kommer att vara en eftertraktad kompetens. Här är kunskaper såsom coachande ledarskap, beslutsfattande och problemlösning viktiga.</span><span>&#xa0;</span>
+			</p>
+			<p>
+				<span>Arbetsmarknaden är i snabb förändring. Yrken försvinner och skapas i takt med digitaliseringen och den snabba teknikutvecklingen. Kompetenser som är högaktuella idag kan vara irrelevanta imorgon. Det här ställer krav på flexibilitet från både arbets</span><span>&#xad;</span><span>tagare och arbetsgivare. Arbetsgivare behöver i hög grad prioritera kompetens</span><span>&#xad;</span><span>utveckling för sina anställda, och arbetstagare behöver i sin tur ha kunskap om det nyligen införda omställningsstudiestödet. Arbetstagaren har den trygghet som en anställning ger, samtidigt som hen kan uppdatera sina kompetenser.</span>
+			</p>
+			<p>
+				<span>Redan idag är arbetsmarknadens behov av personal och kompetens stora och i framtiden ser den prognosen ut att hålla i sig och växa. Kompetensförsörjningsbehoven för skolan, vården och omsorgen beräknas öka ytterligare på grund av att fler söker sig till alla gröna nya industrijobb som kommer i spåren av alla nya industrietableringar. Det tycker vi är positivt, men vi ser också att vi måste möta de stora kommande förändringarna kopplade till demografins förändring och en åldrande befolkning.</span>
+			</p>
+			<p>
+				<span>Vi vill därför se en sammanhållen nationell planering för att möta kompetens</span><span>&#xad;</span><span>försörjnings</span><span>&#xad;</span><span>bristen inom vård och omsorg där framtagandet av välfärdsteknik ingår.</span>
+			</p>
+			<p>
+				<span>För att vi ska klara klimatomställningen behövs kompetens för att ta de nya jobben som är grunden för en hållbar framtid. Inte minst i norra Sverige är dessa områden viktiga. Kompetensförsörjningens område spänner över alltifrån utbildningssystemet och arbetslöshet till näringspolitik och framtidsutsikter. För att möta behoven vill vi se utbildningsformer för kompetensutveckling under anställning där risken delas mellan arbetsgivare, arbetstagare och samhället.</span>
+			</p>
+			<p>
+				<span>Arbetsmarknaden ser inte ut som den gjorde för 30 år sedan. Idag behöver vi se på lärande som något aktivt; vi behöver kunna utveckla nya kunskaper och lära oss nya saker genom hela våra yrkesliv. Den nya reformen med omställningsstudiestöd behöver säkerställas. Det kräver utökade möjligheter till rådgivning och vägledning; det för</span><span>&#xad;</span><span>bättrar förutsättningarna för omskolning till arbetstagarens fördel.</span>
+			</p>
+			<p>
+				<span>Det måste säkerställas att Arbetsförmedlingen har förutsättningarna att hantera de nya möjligheterna. Vi socialdemokrater vill säkra en stark grundfinansiering av Arbets</span><span>&#xad;</span><span>förmedlingen (AF) och verka för en större frihet åt de lokala kontoren. AF:s uppdrag </span><span style="letter-spacing:-0.1pt">utgör en samhällsviktig funktion och ska därför inte äventyras genom privata experiment.</span><span> AF-kontoren ska utifrån sina egna lokala förutsättningar ges möjlighet att hantera de specifika utmaningar som finns på den lokala platsen.</span>
+			</p>
+			<p>
+				<span>Idag står vi inför en realitet där vissa grupper står längre ifrån arbetsmarknaden än andra. Unga och personer med utländsk bakgrund tillhör de som idag drabbas värst av arbetslöshet. Det är en orättvisa som vi socialdemokrater aldrig kan acceptera. Vårt samhälle håller inte ihop om den här utvecklingen håller i sig, och därför måste vägarna till arbete och utbildning bli fler och mer lättillgängliga. För alla.</span>
+			</p>
+			<p>
+				<span>Folkhögskolorna och studieförbunden är viktiga för alla människors rätt till kunskap, utbildning och utveckling, och inte minst för att ge unga som inte klarat skolan en andra chans. Därför behöver folkbildningens villkor förbättras.</span>
+			</p>
+			<p>
+				<span>Att folkbildningen finns över hela landet och erbjuder sin verksamhet till en stor del av befolkningen är en resurs för hela samhället att ta vara på. Folkbildningen har en extra viktig roll i fråga om att erbjuda en möjlighet till utbildning i områden där det saknas andra utbildningsaktörer; särskilt i landsbygdskommuner är studieförbunden helt avgörande som aktörer för att nå traditionellt studiesvaga grupper. Folkbildningen har en särskild betydelse på platser i landet där tillgången till andra former av utbildning är låg och folkbildningen ökar möjligheterna till bildning på landsbygden genom möten och nätverksbyggande. Folkbildningen kan alltså vara ett viktigt steg till fortsatt utbildning, företagande eller arbete.</span>
+			</p>
+			<p>
+				<span>Genom folkbildning skapas tillgång till bildning och utbildning över hela landet, och i förlängningen får människor en väg till vidare studier och till arbete.</span>
+			</p>
+			<p>
+				<span>Vi vill se en organisation för arbetsmarknadspolitiken, vuxenutbildningen och gymnasieskolan som utgörs av ett sammanhållet system som kan ta ansvar och planera utifrån lokala behov samt en säkrad grundfinansiering för vuxenutbildningen.</span>
+			</p>
+			<p>
+				<span>Pandemiåren 2020–2021 har utan tvekan visat att den digitalisering som ägt rum ställt gamla synsätt och sanningar på ända. Uppfattningen om hur vi jobbar, var vi jobbar och när vi jobbar har för många yrkesgrupper förändrats. Det här ger en möjlig</span><span>&#xad;</span><span>het att tänka nytt i fråga om hur arbete generellt ska organiseras. Fler arbetstillfällen kan flyttas från kontor i storstäderna ut i landet, detta oavsett placering av huvudsäte.</span>
+			</p>
+			<p>
+				<span>Lärcentrum har en avgörande betydelse för att främja livslångt lärande, särskilt i glest befolkade områden där avstånden är långa. Men också för att säkerställa tillgång till utbildning av hög kvalitet för alla. Lärcentrum fungerar som infrastruktur för kunskap och kompetensutveckling och spelar en viktig roll i att främja regional hållbar utveckling.</span>
+			</p>
+			<p>
+				<span>För många invånare i norra Sverige är avståndet till traditionella utbildnings</span><span>&#xad;</span><span>institutioner ett hinder för att få tillgång till utbildning och kompetensutveckling. Lärcentrum kan erbjuda en lösning på detta problem genom att erbjuda tillgång till utbildningsresurser och stöd lokalt. Genom att erbjuda en rad olika utbildningsprogram, kurser och tjänster möjliggör lärcentrum att en större del av befolkningen får möjlighet att förvärva nya kunskaper, förbättra sina yrkesfärdigheter och förverkliga sina karriär</span><span>&#xad;</span><span>ambitioner utan att behöva flytta.</span>
+			</p>
+			<p>
+				<span>En av de viktigaste funktionerna är flexibilitet. Lärcentrum kan anpassas efter lokala utbildningsbehov och andra intressen som exempelvis vid företagsetableringar. Detta gör det möjligt för invånare i norra Sverige att utveckla kompetenser som är efter</span><span>&#xad;</span><span>frågade på arbetsmarknaden. Något som bidrar till att stärka regionens konkurrenskraft och hållbarhet.</span>
+			</p>
+			<p>
+				<span>Förutom att erbjuda utbildning och kompetensutveckling för alla spelar lärcentrum också en viktig roll på lokal nivå som sociala och kulturella nav. De kan fungera som mångsidiga mötesplatser. Flexibla nog för att hantera föränderliga behov och efter</span><span>&#xad;</span><span>frågan hos olika målgrupper. Där människor utbyter idéer, erfarenheter och kunskaper.</span>
+			</p>
+			<p>
+				<span>För att säkerställa att lärcentrum fortsätter att vara effektiva och relevanta för samhällena i norra Sverige är det viktigt att de får tillräckligt med resurser och stöd från både offentliga och privata aktörer. Därför behöver den nationella nivån främja att regionala och lokala aktörer tillsammans utvecklar metoder som skapar långsiktighet i hur arbetet är organiserat och finansierat och kopplar an till annat arbete med lokal och regional kompetensförsörjning.</span>
+			</p>
+			<p>
+				<span>Det finns också behov av att dela erfarenheter och kunskap mellan olika län. Mål</span><span>&#xad;</span><span>bilden är att lärcentrum kan bidra till att både privata och offentliga arbetsgivare får tillgång till rätt kompetens i den pågående samhällsomvandlingen i norra Sverige. Genom att utveckla och stärka lärcentrum kan orter i norra Sverige visa att livslångt lärande är tillgängligt för alla.</span>
+			</p>
+			<p>
+				<span style="letter-spacing:-0.1pt">Vi anser att principen utbildning till folket, inte folket till utbildning ska vara grunden!</span><span> </span><span style="letter-spacing:-0.1pt">Människor som bor i stora delar av vårt fantastiska och till ytan stora land är idag tvungna</span><span> att flytta långt för sin utbildning. Konsekvenserna av detta är dels att glesbygden förlorar unga som väljer att flytta, dels att alla som bor långt ifrån campusorter inte får tillgång till utbildning om de inte också är villiga att flytta, med en överhängande risk att aldrig komma tillbaka.</span>
+			</p>
+			<div style="-aw-sdt-tag:'CC_Underskrifter'; -aw-sdt-title:'CC_Underskrifter'">
+				<p>
+					<span style="-aw-import:ignore">&#xa0;</span>
+				</p>
+				<p>
+					<span style="-aw-import:ignore">&#xa0;</span>
+				</p>
+			</div>
+			<table cellspacing="0" cellpadding="0" style="width:100%; border-collapse:collapse">
+				<tr style="page-break-inside:avoid">
+					<td style="width:1%; padding-right:5.4pt; padding-left:5.4pt; vertical-align:bottom">
+						<p class="Underskrifter" style="margin-bottom:0pt">
+							<span>Isak From (S)</span>
+						</p>
+					</td>
+					<td style="width:1%; padding-right:5.4pt; padding-left:5.4pt; vertical-align:bottom">
+						<p class="Underskrifter" style="margin-bottom:0pt">
+							<span style="-aw-import:ignore">&#xa0;</span>
+						</p>
+					</td>
+				</tr>
+				<tr style="page-break-inside:avoid">
+					<td style="width:1%; padding-right:5.4pt; padding-left:5.4pt; vertical-align:bottom">
+						<p class="Underskrifter" style="margin-bottom:0pt">
+							<span>Sanna Backeskog (S)</span>
+						</p>
+					</td>
+					<td style="width:1%; padding-right:5.4pt; padding-left:5.4pt; vertical-align:bottom">
+						<p class="Underskrifter" style="margin-bottom:0pt">
+							<span>Anna-Caren Sätherberg (S)</span>
+						</p>
+					</td>
+				</tr>
+				<tr style="page-break-inside:avoid">
+					<td style="width:1%; padding-right:5.4pt; padding-left:5.4pt; vertical-align:bottom">
+						<p class="Underskrifter" style="margin-bottom:0pt">
+							<span>Malin Larsson (S)</span>
+						</p>
+					</td>
+					<td style="width:1%; padding-right:5.4pt; padding-left:5.4pt; vertical-align:bottom">
+						<p class="Underskrifter" style="margin-bottom:0pt">
+							<span>Zara Leghissa (S)</span>
+						</p>
+					</td>
+				</tr>
+				<tr style="page-break-inside:avoid">
+					<td style="width:1%; padding-right:5.4pt; padding-left:5.4pt; vertical-align:bottom">
+						<p class="Underskrifter" style="margin-bottom:0pt">
+							<span>Lars Isacsson (S)</span>
+						</p>
+					</td>
+					<td style="width:1%; padding-right:5.4pt; padding-left:5.4pt; vertical-align:bottom">
+						<p class="Underskrifter" style="margin-bottom:0pt">
+							<span style="-aw-import:ignore">&#xa0;</span>
+						</p>
+					</td>
+				</tr>
+			</table>
+			<p>
+				<span style="-aw-import:ignore">&#xa0;</span>
+			</p>
+		</div>
+	</div>

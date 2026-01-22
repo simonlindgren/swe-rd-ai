@@ -1,0 +1,814 @@
+SEARCH TERM: AI
+DOCUMENT ID: hb022450
+TITLE: En förstärkning av det civila försvaret och krisberedskapen
+TYPE: mot
+SUBTYPE: Kommittémotion
+DATE: 2023-10-05
+PARLIAMENTARY YEAR: 2023/24
+ORGANISATION: FöU
+STATUS: Klar
+DOWNLOADED: 2026-01-22 10:25:13
+================================================================================
+
+<style><!-- 
+ @page Section1 { size:595.3pt 841.9pt; margin:35.45pt 85.05pt 56.7pt }
+div.Section1 { page:Section1 }
+div.pconf body { t-i:17pt; line-height:15pt; font-family:'Verdana'; font-size: 0.90em }
+div.pconf h1, h2, h3, h4, h5, h6, p { margin:0pt }
+div.pconf li, table { margin-top:0pt; margin-bottom:0pt }
+div.pconf h1 { margin-top:41pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:19.5pt; font-family:'Verdana'; font-size: 1.05em; font-weight:normal; color:#000000 }
+div.pconf h2 { margin-top:30pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:17pt; font-family:'Verdana'; font-size: 1.00em; font-weight:normal; color:#000000 }
+div.pconf h3 { margin-top:18pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:17pt; font-family:'Verdana'; font-size: 0.90em; font-weight:bold; color:#000000 }
+div.pconf h4 { margin-top:18pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:17pt; font-family:'Verdana'; font-size: 0.90em; font-weight:normal; font-style:italic; color:#000000 }
+div.pconf h5 { margin-top:15pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:17pt; font-family:'Verdana'; font-size: 0.90em; font-weight:bold; font-style:normal; color:#000000 }
+div.pconf h6 { margin-top:15pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:17pt; font-family:'Verdana'; font-size: 0.90em; font-weight:normal; font-style:italic; color:#000000 }
+.Heading7 { margin-top:15pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:17pt; font-family:'Verdana'; font-size: 0.90em; font-weight:normal; font-style:italic; color:#000000; -aw-style-name:heading7 }
+.Heading8 { margin-top:15pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:17pt; font-family:'Verdana'; font-size: 0.90em; font-weight:normal; font-style:italic; color:#000000; -aw-style-name:heading8 }
+.Heading9 { margin-top:0pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:17pt; font-family:'Verdana'; font-size: 0.90em; font-weight:normal; font-style:italic; color:#000000; -aw-style-name:heading9 }
+.BalloonText { margin-bottom:0pt; t-i:17pt; line-height:normal; font-family:'Segoe UI'; font-size: 0.90em }
+.Beteckning { margin-top:18pt; margin-bottom:0pt; t-i:14.2pt; page-break-inside:auto; page-break-after:auto; line-height:19.5pt; font-size: 1.05em }
+.BlockText, .Inramatstycke { margin-right:56.7pt; margin-left:56.7pt; margin-bottom:0pt; t-i:0pt; text-align:nojustify; line-height:15pt; border:0.75pt solid #000000; padding:10pt; font-size: 0.90em; font-style:italic; -aw-border:0.25pt single }
+.Citaticitat { margin-top:7.5pt; margin-left:34pt; margin-bottom:0pt; t-i:0pt; line-height:12pt; font-size: 0.90em }
+.Citaticitatmedindrag { margin-top:0pt; margin-left:34pt; margin-bottom:7.5pt; t-i:17pt; line-height:12pt; font-size: 0.90em }
+.Citatmedindrag { margin-top:0pt; margin-left:17pt; margin-bottom:0pt; t-i:17pt; line-height:12pt; font-size: 0.90em }
+.CommentSubject { margin-bottom:0pt; t-i:17pt; line-height:normal; font-size: 0.90em; font-weight:bold }
+.CommentText { margin-bottom:0pt; t-i:17pt; line-height:normal; font-size: 0.90em }
+.FSHLogo { margin-top:4pt; margin-bottom:0pt; t-i:0pt; line-height:normal; font-size: 0.90em }
+.FSHNormL { margin-top:4pt; margin-bottom:0pt; t-i:0pt; line-height:15pt; border-top:1.5pt solid #000000; padding-top:3pt; font-size: 0.90em }
+.FSHNormal { margin-top:4pt; margin-bottom:0pt; t-i:0pt; line-height:15pt; font-size: 0.90em }
+.FSHNormalS5 { margin-top:11.5pt; margin-bottom:26pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-size: 0.95em; font-weight:bold }
+.FSHRub1, .Rubrik1S5 { margin-top:135pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:16pt; font-size: 1.00em }
+.FSHRub2, .Rubrik1A4 { margin-top:50pt; margin-bottom:5pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:24pt; font-size: 1.05em }
+.FSHTitel, .Dokumentrubrik { margin-top:4pt; margin-bottom:4pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:20pt; border-bottom:0.75pt solid #000000; padding-bottom:3pt; font-size: 1.05em; -aw-border-bottom:0.5pt single }
+.Footer { margin-top:4pt; margin-bottom:0pt; t-i:0pt; text-align:center; line-height:normal; font-size: 0.90em }
+.FootnoteText { margin-top:0pt; margin-bottom:0pt; t-i:0pt; line-height:12pt; font-size: 0.90em }
+.Frslagsrubrik { margin-top:41pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:19.5pt; font-family:'Verdana'; font-size: 1.05em }
+.Frslagstext, .Hemstlatt, .Yrkande { margin-top:4pt; margin-left:19.85pt; margin-bottom:0pt; t-i:-19.85pt; line-height:15pt; font-size: 0.90em }
+.Header { margin-top:4pt; margin-bottom:0pt; t-i:0pt; line-height:normal; font-size: 0.90em }
+.KantRubrikS5H { margin-top:6pt; margin-right:2.85pt; margin-bottom:0pt; t-i:0pt; text-align:right; line-height:8pt; font-size: 0.90em }
+.KantRubrikS5Hrad2 { margin-top:0pt; margin-right:2.85pt; margin-bottom:0pt; t-i:0pt; text-align:right; line-height:10pt; font-size: 0.90em }
+.KantRubrikS5V { margin-top:6pt; margin-right:0pt; margin-bottom:0pt; t-i:0pt; text-align:left; line-height:8pt; font-size: 0.90em }
+.KantRubrikS5Vrad2 { margin-top:0pt; margin-right:0pt; margin-bottom:0pt; t-i:0pt; text-align:left; line-height:10pt; font-size: 0.90em }
+.KantrubrikH { margin-top:4pt; margin-right:-82.2pt; margin-bottom:0pt; t-i:0pt; text-align:right; line-height:15pt; font-size: 0.90em }
+.KantrubrikV { margin-top:4pt; margin-left:-85.05pt; margin-bottom:0pt; t-i:0pt; line-height:normal; font-size: 0.90em }
+.Klla { margin-top:0pt; margin-bottom:0pt; t-i:0pt; line-height:12pt; font-size: 0.90em }
+.Lagtext { margin-top:4pt; margin-bottom:0pt; t-i:0pt; line-height:normal; font-size: 0.90em }
+.Lagtextindrag { margin-top:4pt; margin-bottom:0pt; t-i:14.2pt; line-height:normal; font-size: 0.90em }
+.Lagtextrubrik { margin-top:4pt; margin-bottom:0pt; t-i:0pt; line-height:normal; font-size: 0.90em; font-style:italic; letter-spacing:1pt }
+.List { margin-top:7.5pt; margin-left:17pt; margin-bottom:7.5pt; t-i:-17pt; line-height:15pt; font-size: 0.90em }
+.ListBullet, .PunktlistaBomb { margin-top:4pt; margin-left:14.2pt; margin-bottom:0pt; t-i:-14.2pt; line-height:15pt; font-size: 0.90em }
+.ListNumber, .PunktlistaNummer { margin-top:4pt; margin-left:14.2pt; margin-bottom:0pt; t-i:-14.2pt; line-height:15pt; font-size: 0.90em }
+.ListParagraph { margin-left:36pt; margin-bottom:0pt; t-i:17pt; line-height:15pt; font-size: 0.90em }
+.ListaGemener { margin-top:7.5pt; margin-left:17pt; margin-bottom:7.5pt; t-i:-17pt; line-height:15pt; font-size: 0.90em }
+.ListaLinje { margin-top:7.5pt; margin-left:19pt; margin-bottom:7.5pt; t-i:-19pt; line-height:15pt; font-size: 0.90em }
+.ListaNummer { margin-top:7.5pt; margin-left:17pt; margin-bottom:7.5pt; t-i:-17pt; line-height:15pt; font-size: 0.90em }
+.ListaPunkt { margin-top:7.5pt; margin-left:17pt; margin-bottom:7.5pt; t-i:-17pt; line-height:15pt; font-size: 0.90em }
+.MotionTIllRiksdagen { margin-top:18pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:19.5pt; font-size: 1.05em }
+.Motionr { margin-top:14pt; margin-bottom:31.5pt; t-i:0pt; page-break-inside:avoid; line-height:15pt; font-size: 1.00em; font-weight:bold; font-style:normal }
+.Motiveringrubrik2numrerat1 { margin-top:30pt; margin-left:0pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:17pt; font-family:'Verdana'; font-size: 1.00em }
+.Motiveringrubrik3numrerat1 { margin-top:18pt; margin-left:0pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:17pt; font-family:'Verdana'; font-size: 0.90em; font-weight:bold }
+.Motiveringrubrik3numrerat11 { margin-top:18pt; margin-left:0pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:17pt; font-family:'Verdana'; font-size: 0.90em; font-weight:bold }
+.Motiveringrubrik4numrerat11 { margin-top:18pt; margin-left:0pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:17pt; font-family:'Verdana'; font-size: 0.90em; font-weight:normal; font-style:italic }
+.NormalWeb { margin-bottom:0pt; t-i:17pt; line-height:15pt; font-family:'Verdana'; font-size: 0.90em }
+.NormalIndent { margin-left:65.2pt; margin-bottom:0pt; t-i:17pt; line-height:15pt; font-size: 0.90em }
+.Normalutanindragellerluft { margin-top:4pt; margin-bottom:0pt; t-i:0pt; line-height:15pt; font-size: 0.90em }
+.Normal00 { margin-top:4pt; margin-bottom:0pt; t-i:0pt; line-height:normal; font-size: 0.90em }
+.NormalA4fot { margin-top:12pt; margin-bottom:0pt; t-i:0pt; text-align:center; line-height:normal; font-size: 0.90em }
+.NormalA4sidnr { margin-top:4pt; margin-bottom:12pt; t-i:0pt; text-align:center; line-height:normal; font-size: 0.90em }
+.NormalS5sidnrH { margin-top:4pt; margin-right:2.85pt; margin-bottom:0pt; t-i:0pt; text-align:right; line-height:normal; font-size: 0.90em }
+.NormalS5sidnrV { margin-top:4pt; margin-right:0pt; margin-bottom:0pt; t-i:0pt; text-align:left; line-height:normal; font-size: 0.90em }
+.PlainText { margin-bottom:0pt; t-i:0pt; line-height:12pt; font-family:'Verdana'; font-size: 0.90em }
+.Quote { margin-top:7.5pt; margin-left:17pt; margin-bottom:0pt; t-i:0pt; line-height:12pt; font-size: 0.90em }
+.R1 { margin-top:41pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:19.5pt; font-family:'Verdana'; font-size: 1.05em }
+.R2 { margin-top:30pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:17pt; font-family:'Verdana'; font-size: 1.00em }
+.R3 { margin-top:18pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:17pt; font-family:'Verdana'; font-size: 0.90em; font-weight:bold }
+.Rubrik1numrerat { margin-top:41pt; margin-left:0pt; margin-bottom:0pt; t-i:0pt; page-break-inside:auto; page-break-after:avoid; line-height:19.5pt; font-family:'Verdana'; font-size: 1.05em }
+.Rubrik2numrerat { margin-top:30pt; margin-left:0pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:17pt; font-family:'Verdana'; font-size: 1.00em }
+.Rubrik3numrerat { margin-top:18pt; margin-left:0pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:17pt; font-family:'Verdana'; font-size: 0.90em; font-weight:bold }
+.Rubrik4numrerat { margin-top:18pt; margin-left:0pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:17pt; font-family:'Verdana'; font-size: 0.90em; font-weight:normal; font-style:italic }
+.RubrikFrslagTIllRiksdagsbeslut { margin-top:41pt; margin-bottom:15pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:19.5pt; font-family:'Verdana'; font-size: 1.05em }
+.RubrikInnehllsf { margin-top:41pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:19.5pt; font-family:'Verdana'; font-size: 1.05em }
+.RubrikSammanf { margin-top:41pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:19.5pt; font-family:'Verdana'; font-size: 1.05em }
+.Salutation { margin-top:41pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:19.5pt; font-family:'Verdana'; font-size: 1.05em }
+.Streckkod { margin-top:12pt; margin-bottom:0pt; t-i:0pt; text-align:center; line-height:normal; font-family:IDAutomationHC39S; font-size: 1.00em }
+.Strecklista, .PunktlistaTankstreck { margin-top:4pt; margin-left:14.2pt; margin-bottom:0pt; t-i:-14.2pt; line-height:15pt; font-size: 0.90em }
+.Subtitle { margin-top:4pt; margin-bottom:0pt; t-i:0pt; line-height:15pt; font-family:'Verdana'; font-size: 0.90em; font-weight:bold }
+.TOC1 { margin-top:4pt; margin-bottom:0pt; t-i:0pt; line-height:15pt; font-size: 0.90em }
+.TOC2 { margin-top:4pt; margin-left:14.2pt; margin-bottom:0pt; t-i:0pt; line-height:15pt; font-size: 0.90em }
+.TOC3 { margin-top:4pt; margin-left:28.35pt; margin-bottom:0pt; t-i:0pt; line-height:15pt; font-size: 0.90em }
+.TOC4 { margin-top:4pt; margin-left:42.55pt; margin-bottom:0pt; t-i:0pt; line-height:15pt; font-size: 0.90em }
+.TOC5 { margin-top:4pt; margin-left:56.7pt; margin-bottom:0pt; t-i:0pt; line-height:15pt; font-size: 0.90em }
+.TOC6 { margin-top:4pt; margin-left:56.7pt; margin-bottom:0pt; t-i:0pt; line-height:15pt; font-size: 0.90em }
+.TOC7 { margin-top:15pt; margin-left:56.7pt; margin-bottom:0pt; t-i:14.2pt; page-break-inside:avoid; page-break-after:avoid; line-height:normal; font-family:'Verdana'; font-size: 0.90em; font-weight:normal; font-style:italic }
+.TOC8 { margin-top:15pt; margin-left:56.7pt; margin-bottom:0pt; t-i:14.2pt; page-break-inside:avoid; page-break-after:avoid; line-height:normal; font-family:'Verdana'; font-size: 0.90em; font-weight:normal; font-style:italic }
+.TOC9 { margin-top:15pt; margin-left:56.7pt; margin-bottom:0pt; t-i:14.2pt; page-break-inside:avoid; page-break-after:avoid; line-height:normal; font-family:'Verdana'; font-size: 0.90em; font-weight:normal; font-style:italic }
+.TOCHeading { margin-top:41pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:19.5pt; font-family:'Verdana'; font-size: 1.05em }
+.Tabellunderrubrik { margin-top:0pt; margin-bottom:0pt; t-i:0pt; page-break-after:avoid; line-height:15pt; font-size: 0.90em; font-weight:normal; font-style:italic }
+.Tabellrubrik { margin-top:7.5pt; margin-bottom:0pt; t-i:0pt; page-break-after:avoid; line-height:15pt; font-size: 0.90em; font-weight:bold }
+.Title { margin-top:41pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:19.5pt; font-family:'Verdana'; font-size: 1.05em }
+.Underskriftdatum { margin-top:24pt; margin-bottom:3pt; t-i:0pt; page-break-inside:avoid; line-height:15pt; font-size: 0.90em; font-style:normal }
+.Underskrifter { margin-top:15pt; margin-bottom:3pt; t-i:0pt; page-break-inside:avoid; line-height:15pt; font-size: 0.90em; font-style:italic }
+.Yrkandehnv, .Frslagspunkthnv { margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; font-size: 0.90em }
+span.BallongtextChar { font-family:'Segoe UI'; font-size: 0.90em }
+span.BeteckningChar { font-size:19.5pt }
+span.CommentReference { font-size:8pt }
+span.FSHRub2Char, span.Rubrik1A4Char { font-size:24pt }
+span.FotnotstextChar { font-size:10pt }
+span.Hyperlink { text-decoration:underline; color:#0563c1; -aw-style-name:hyperlink }
+span.InledningChar { font-family:'Verdana'; font-size: 1.00em; font-weight:bold }
+span.IntenseReference { font-weight:normal; font-style:normal; font-variant:normal; text-decoration:none; text-transform:none; letter-spacing:0pt; vertical-align:0pt; color:#000000; display:inline }
+span.KommentarerChar { font-size:10pt }
+span.KommentarsmneChar { font-size:10pt; font-weight:bold }
+span.MotionTIllRiksdagenChar { font-size:19.5pt }
+span.OformateradtextChar { font-family:'Verdana'; font-size: 0.90em }
+span.PlaceholderText { color:#f4b083 }
+span.Rubrik1Char { font-family:'Verdana'; font-size: 1.05em }
+span.Rubrik2Char { font-family:'Verdana'; font-size: 1.00em }
+span.Rubrik3Char { font-family:'Verdana'; font-size: 0.90em; font-weight:bold }
+span.Rubrik4Char { font-family:'Verdana'; font-size: 0.90em; font-style:italic }
+span.Rubrik5Char { font-family:'Verdana'; font-weight:bold }
+span.Rubrik6Char { font-family:'Verdana'; font-style:italic }
+span.Rubrik7Char { font-family:'Verdana'; font-size: 0.90em; font-weight:bold }
+span.Rubrik8Char { font-family:'Verdana'; font-size: 0.90em; font-weight:bold }
+span.Rubrik9Char { font-family:'Verdana'; font-size: 0.90em; font-weight:bold }
+span.RubrikChar { font-family:'Verdana'; font-size: 1.00em; font-weight:bold }
+span.SidfotChar { font-size:11.5pt }
+span.UnderrubrikChar { font-family:'Verdana'; font-size: 0.90em; font-weight:bold }
+.TableGrid {  }
+
+.pconf{width: 450px;margin-left:5px;overflow:visable;font-family:Verdana, Geneva, sans-serif;} 
+ .sidhuvud_publikation, .sidhuvud_beteckning{font-size:133%}
+.MotionarLista {font-size:122%}
+
+--></style><div class="pconf"><span class="sidhuvud_publikation">Motion till riksdagen</span><br/>
+<span class="sidhuvud_beteckning">2023/24:2450</span><br/>
+<span class="MotionarLista">av Emma Berginger m.fl. (MP)</span><br/>
+<h1>En förstärkning av det civila försvaret och krisberedskapen</h1>
+<hr class="sidhuvud_linje"/>
+
+
+		<div class="Section1">
+			<h1 style="margin-bottom:15pt">
+				<a name="_Toc106800475"></a><a name="_Toc106801300"><span style="-aw-sdt-tag:'CC_Boilerplate_4'; -aw-sdt-title:'CC_Boilerplate_4'"><span>Förslag till riksdagsbeslut</span></span><span style="-aw-bookmark-end:_Toc106800475"></span></a>
+			</h1>
+			<div style="-aw-sdt-tag:'34d2337c-7bb0-449f-be8b-5d44c9ec82d9'; -aw-sdt-title:'Yrkande 1'">
+				<ol type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-left:14pt; t-i:0pt; padding-left:5.85pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att stärka det civila försvaret och krisberedskapen och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'eaa8363b-1a77-4eeb-a666-dfae71a6c2f8'; -aw-sdt-title:'Yrkande 2'">
+				<ol start="2" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; margin-left:14pt; t-i:0pt; padding-left:5.85pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att öka takten med att klimatanpassa hela samhället för att möta effekterna av klimatförändringarna och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'4102b829-2099-4989-93a8-64692e320757'; -aw-sdt-title:'Yrkande 3'">
+				<ol start="3" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; margin-left:14pt; t-i:0pt; padding-left:5.85pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att utifrån ett perspektiv att minimera riskerna för långtgående klimatförändringar utöka åtgärderna för att snarast minska utsläppen av växthusgaser och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'4af99a07-618b-4ca7-8968-251786e0db44'; -aw-sdt-title:'Yrkande 4'">
+				<ol start="4" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; margin-left:14pt; t-i:0pt; padding-left:5.85pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att regeringen bör ge FOI ett tydligt uppdrag och medel till att bredda och fördjupa forskningen kring det civila försvaret och krisberedskapen och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'af546583-6f9c-4adf-8c8a-7f9ae9925b3c'; -aw-sdt-title:'Yrkande 5'">
+				<ol start="5" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; margin-left:14pt; t-i:0pt; padding-left:5.85pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att stärka cybersäkerheten i offentlig sektor och särskilt samhällsviktiga delar av den privata sektorn och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'a243e0ad-3a37-4c86-84fd-a718ff6275ef'; -aw-sdt-title:'Yrkande 6'">
+				<ol start="6" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; margin-left:14pt; t-i:0pt; padding-left:5.85pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att Sverige bör upprätta en nationell säkerhetsstrategi för hur AI ska kunna användas på ett säkert sätt till gagn för utvecklingen och inte bli ett hot mot personlig integritet och säkerhet och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'f427e2b9-520c-429d-8cd2-ba2f0b9fe8db'; -aw-sdt-title:'Yrkande 7'">
+				<ol start="7" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; margin-left:14pt; t-i:0pt; padding-left:5.85pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att en eller flera myndigheter bör ges i uppdrag att ta fram en nationell strategi för stärkt motståndskraft mot desinformation och propaganda så att medie- och informationskunnigheten kan stärkas och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'3f15a97f-bc9c-4391-84eb-ccc52ab4a2ca'; -aw-sdt-title:'Yrkande 8'">
+				<ol start="8" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; margin-left:14pt; t-i:0pt; padding-left:5.85pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att samarbeta inom EU och med andra stora demokratier för att kunna sätta gemensam press på de sociala mediejättarna så att de inte tillåter att desinformation sprids på deras plattformar och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'2c42b326-1154-4300-84cd-b53dacdba0aa'; -aw-sdt-title:'Yrkande 9'">
+				<ol start="9" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; margin-left:14pt; t-i:0pt; padding-left:5.85pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att stärka hela vård- och omsorgsverksamheten så att förutsättningar finns för bättre funktion i stora kriser och i krig och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'270ae554-764f-42e7-862c-79d30cb0f4b3'; -aw-sdt-title:'Yrkande 10'">
+				<ol start="10" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; t-i:0pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att vård- och omsorgsverksamheten bör arbeta med att klimatanpassa sin verksamhet, t.ex. ha tillgång till kylanläggningar för värmeböljor, och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'75b57995-6b8b-4f1b-aa06-34bfae42637f'; -aw-sdt-title:'Yrkande 11'">
+				<ol start="11" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; t-i:0pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att antalet vårdplatser ska kunna öka avsevärt även i fredstida kriser med ökad kapacitet i hela vårdkedjan och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'9d163720-ad84-4ddb-be3c-8f2fa963f0ff'; -aw-sdt-title:'Yrkande 12'">
+				<ol start="12" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; t-i:0pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att sjuktransporter, lager av sjukvårdsmateriel och spridning av vårdinrättningar bör planeras så att sjukvård som inte kan anstå kan bedrivas i hela landet även vid störningar och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'38f3b2e4-77a4-4c06-a379-83a82c92f9d8'; -aw-sdt-title:'Yrkande 13'">
+				<ol start="13" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; t-i:0pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att hälso- och sjukvården ska ha en strategi för delning av data, kunskap och resurser som medger tillräcklig snabbhet för effektiv smittspårning samt aktiv bekämpning av smitta och som är tillräckligt robust för att fungera även med stora störningar i samhällets infrastruktur och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'b605cb3a-1654-4bd0-b8d1-1b6e1447f826'; -aw-sdt-title:'Yrkande 14'">
+				<ol start="14" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; t-i:0pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att begränsa utländskt ägande av samhällsviktig infrastruktur och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'6fe3b987-5207-443f-ac4d-1bbee6d237d8'; -aw-sdt-title:'Yrkande 15'">
+				<ol start="15" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; t-i:0pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att förstärka vatten- och avloppsnäten så att skador eller elavbrott inte leder till längre avbrott i vattenförsörjningen och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'5b386aee-6850-4745-8a95-7ee62648cd46'; -aw-sdt-title:'Yrkande 16'">
+				<ol start="16" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; t-i:0pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att säkra tillgången till dricksvatten i hela landet genom att bistå kommuner att säkra invånarnas vattenförsörjning och vattenrening, hindra att vatten förorenas och öka den vattenhållande förmågan genom olika klimatanpassningsåtgärder, t.ex. genom att anlägga våtmarker, och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'17d9d6f9-1c57-43be-a206-44b8ca6417bc'; -aw-sdt-title:'Yrkande 17'">
+				<ol start="17" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; t-i:0pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att skydda vattentäkterna och tillse att fungerande reservvattentäkter finns och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'7ff7d32d-1122-4c01-8704-219351f634f6'; -aw-sdt-title:'Yrkande 18'">
+				<ol start="18" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; t-i:0pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att motsvarande myndighetssamarbete som finns kring dricksvatten även bör finnas när det handlar om avlopp och kretslopp och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'4671b91c-182e-42fd-af91-683e75b6224d'; -aw-sdt-title:'Yrkande 19'">
+				<ol start="19" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; t-i:0pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att säkra en betydligt större grad av självförsörjning av livsmedel inom landet och skydda ekosystemen så att jordbruk och fiske kan bidra till försörjningen och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'c102dba8-e7d7-4275-ab3c-16a5a77236f8'; -aw-sdt-title:'Yrkande 20'">
+				<ol start="20" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; t-i:0pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att öka den ekologiska produktionen av livsmedel och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'78069b3a-3b55-4f19-8b86-e3f0782bfd87'; -aw-sdt-title:'Yrkande 21'">
+				<ol start="21" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; t-i:0pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att ställa om jordbruket, transportsektorn och stödja forskning och innovation för att göra livsmedelssektorn robust så att livsmedelsförsörjningen kan fungera även vid större omfattande kriser och krig och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'96232e0d-e8f2-42ef-8f63-1e13e7612750'; -aw-sdt-title:'Yrkande 22'">
+				<ol start="22" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; t-i:0pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att använda ny teknik för att minska resursförbrukning och svinn i livsmedelssektorn, öka den inhemska odlingen av protein, minska beroendet av import av gödning och minimera användningen av bekämpningsmedel och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'17fd1fef-5fc7-4bd8-9e71-6be9141b5dc5'; -aw-sdt-title:'Yrkande 23'">
+				<ol start="23" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; t-i:0pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att staten bör ta ansvar för att bygga upp beredskapslager och tillsammans med näringsliv, kommuner och regioner säkerställa att lagerhållningen i samhällskritiska försörjningskedjor är tillräcklig för att klara kriser och krig och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'81ff8cc9-8d00-44ba-ab26-fc2bfe7664d3'; -aw-sdt-title:'Yrkande 24'">
+				<ol start="24" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; t-i:0pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att möjligheterna till ökad varuförsörjning genom inhemsk produktion bör utredas och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'3166e0e3-83f9-4bb5-a945-5e3fda37b657'; -aw-sdt-title:'Yrkande 25'">
+				<ol start="25" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; t-i:0pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att bygga ut fiber och snabbt mobilnät i hela Sverige genom att staten tar ett ökat ansvar för finansiering av utbyggnaden i glesbygd och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'fc9f7116-1b31-440e-b5dc-e5b0624928e0'; -aw-sdt-title:'Yrkande 26'">
+				<ol start="26" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; t-i:0pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att höja beredskapsavgifterna så att mer resurser kan avsättas för att göra internet robustare genom offentlig-privat samverkan mellan bredbandsleverantörerna och Post- och telestyrelsen och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'6d6cc274-62d4-4216-ac26-504fcf80ad56'; -aw-sdt-title:'Yrkande 27'">
+				<ol start="27" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; t-i:0pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att uppgradera det svenska elnätet så att hela landet får ett smart, flexibelt och robust elnät som klarar av en ökad andel förnybar el, står emot cyberattacker och extremväder bättre och klarar ö-drift så att telekommunikationer och värmeförsörjning kan upprätthållas även vid kriser och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'b81fbf5d-e44d-4937-ac4f-7e5068c1333c'; -aw-sdt-title:'Yrkande 28'">
+				<ol start="28" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; t-i:0pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att avveckla kärnkraften och genomföra en stor utbyggnad av förnybar energi som vindkraft, solel och solvärme, särskilt i södra Sverige, med hänsyn till och bevarande av väl fungerande ekosystem och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'92081738-ee61-4b4c-a687-dc09a32af01c'; -aw-sdt-title:'Yrkande 29'">
+				<ol start="29" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; t-i:0pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att underlätta för lokal produktion av förnybar energi som solel och solvärme och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'b5c277af-6714-4d7d-8c73-63e7bba6db52'; -aw-sdt-title:'Yrkande 30'">
+				<ol start="30" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; t-i:0pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att underlätta installation av energilager som kan användas för att jämna ut elproduktionen och balansera elnätet men också kan nyttjas vid elavbrott och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'22b575fb-daac-4127-8ca2-af75a65aedf8'; -aw-sdt-title:'Yrkande 31'">
+				<ol start="31" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; t-i:0pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att ta fram en nationell strategi för energilager och införa ett teknikneutralt stöd för energilager och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'abc4bf15-e599-4978-8953-4e28fad99872'; -aw-sdt-title:'Yrkande 32'">
+				<ol start="32" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; t-i:0pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att ta fram en nationell strategi för solenergi för produktion av el och värme och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'a240a033-f3e6-48e0-aa1b-9456ece2b139'; -aw-sdt-title:'Yrkande 33'">
+				<ol start="33" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; t-i:0pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att halvera tiden för byggande av elnät och förkorta byggtiden av stamnät med minst två år genom regelförändringar, bättre samordning samt kraftfulla investeringar i ny nätkapacitet och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'e8f334c4-a60b-45ab-a2f1-04a01ece09ae'; -aw-sdt-title:'Yrkande 34'">
+				<ol start="34" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; t-i:0pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att planera energiförsörjningen av transportsektorn så att inhemskt producerad förnybar energi och inhemskt producerat förnybart bränsle kan användas i kris och krig och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'1c703318-af0e-4888-9e46-7f9dcdcc4b56'; -aw-sdt-title:'Yrkande 35'">
+				<ol start="35" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; t-i:0pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att planera för att även Försvarsmaktens fordon ska kunna fungera som en del av totalförsvaret i framtidens energisystem som baseras på el och förnybara bränslen och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'652dda09-20ec-478d-838a-845f26fffcdd'; -aw-sdt-title:'Yrkande 36'">
+				<ol start="36" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; t-i:0pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att ge Trafikverket i uppdrag att ta ett helhetsgrepp om transportfrågan och försörjningstryggheten vid kris och krig på samma sätt som Energimyndigheten i dag tar ett helhetsgrepp om energisystemet och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'3c8b465a-ce15-404a-bedc-484d99d46515'; -aw-sdt-title:'Yrkande 37'">
+				<ol start="37" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; t-i:0pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att Trafikverket ska ta fram ett system för ansvarsfördelning och fortsatt drift av transportsystemet som fungerar i både kris och krig och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'165189da-fc81-43d9-ae87-564404c78b36'; -aw-sdt-title:'Yrkande 38'">
+				<ol start="38" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; t-i:0pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om behovet av en finansiell beredskap och behovet av förberedelser som syftar till att upprätthålla det finansiella systemets grundläggande funktionalitet även vid allvarliga störningar och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'8cf67362-66e2-4559-8fba-bfc9175b3104'; -aw-sdt-title:'Yrkande 39'">
+				<ol start="39" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; t-i:0pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att tillse att Säkerhetspolisen har resurser och får ta del av verktyg som krävs för att förhindra terrorism och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'7e655a07-33a6-45df-be07-efb0fdaa5f8e'; -aw-sdt-title:'Yrkande 40'">
+				<ol start="40" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; t-i:0pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att terrororganisationer ska kunna förbjudas eller på annat sätt begränsas och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'962d6317-61ce-4a79-bda4-4ec1db8b58e3'; -aw-sdt-title:'Yrkande 41'">
+				<ol start="41" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; t-i:0pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att stärka relevanta myndigheters kapacitet att förhindra finansiering av terrorism och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'9a426bbb-eab5-4c70-8321-321f4b7be943'; -aw-sdt-title:'Yrkande 42'">
+				<ol start="42" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; t-i:0pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att stärka arbetet inom Centrum mot våldsbejakande extremism och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'24d389f5-9a09-42ab-9ac4-5e1cd5d3adee'; -aw-sdt-title:'Yrkande 43'">
+				<ol start="43" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; t-i:0pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att inleda ett nationellt program för att underlätta avhopp från extremiströrelser och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'97fee5a5-01df-46be-b670-353738a3970e'; -aw-sdt-title:'Yrkande 44'">
+				<ol start="44" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; t-i:0pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att syftet med underrättelseverksamhet är att värna det öppna och demokratiska samhället, den fria åsiktsbildningen samt Sveriges frihet och oberoende och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'59643634-cfd0-4b42-8e0f-be9b0ee038c5'; -aw-sdt-title:'Yrkande 45'">
+				<ol start="45" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; t-i:0pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att ha en effektiv underrättelseverksamhet som är tydligt reglerad, avgränsad och ändamålsenlig för att avslöja och motverka destabiliserande verksamhet från främmande makt och hot från terrorister och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'7d7a6af2-2eb8-464c-9492-a6b4bc36536c'; -aw-sdt-title:'Yrkande 46'">
+				<ol start="46" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; t-i:0pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att komplettera den militära värnplikten med en civilplikt i form av en resilienstjänstgöring som innehåller grundutbildning och repetitionsutbildning och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'61a24e7c-dd0a-4e40-b15e-ce8e45a6def8'; -aw-sdt-title:'Yrkande 47'">
+				<ol start="47" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; t-i:0pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att deltagande i civilplikt med resilienstjänstgöring ska berättiga till tjänstledighet och motsvarande ekonomiska ersättning som för värnplikten och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'aa7aa88a-3b91-474a-b798-23ce0ac534ad'; -aw-sdt-title:'Yrkande 48'">
+				<ol start="48" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; t-i:0pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att förstärka räddningstjänsten och förbättra förutsättningarna att arbeta för räddningstjänsten och i ideell verksamhet, även på deltid, och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'795bc938-4d9c-459b-9992-380b7777475f'; -aw-sdt-title:'Yrkande 49'">
+				<ol start="49" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; t-i:0pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att Kustbevakningen och Tullverket behöver förstärkningar för att svara upp mot den breddade hotbilden mot Sverige och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'f3ab7b1f-df6a-4372-88e3-24c551a247ea'; -aw-sdt-title:'Yrkande 50'">
+				<ol start="50" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; t-i:0pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att förbättra förutsättningarna för civilpersoner att kunna delta i utbildning och träningsverksamhet inom de frivilliga försvarsorganisationerna och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'85fd8051-ce12-4863-a762-0eab9f331072'; -aw-sdt-title:'Yrkande 51'">
+				<ol start="51" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; t-i:0pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om nordiskt samarbete inom ramen för civilt försvar och krisberedskap och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'CC_Motivering_Rubrik'; -aw-sdt-title:'CC_Motivering_Rubrik'">
+				<h1>
+					<a name="MotionsStart"></a><a name="_Hlk153280499"></a><a name="_Toc106801301"></a><a name="_Toc106800476"><span>Motivering</span></a>
+				</h1>
+			</div>
+			<span style="-aw-bookmark-end:_Toc106801301">
+			</span>
+			<p class="Normalutanindragellerluft">
+				<span style="-aw-bookmark-end:_Toc106800476"></span><span>Miljöpartiet de gröna uppstod ur rörelser för miljö, solidaritet, jämställdhet och fred. Vi strävar efter en värld där solidaritet och respekt för mänskliga rättigheter kombineras med hållbar utveckling och klimaträttvisa över hela jordklotet. Vår politik tar sin utgångspunkt i tre solidariteter – med djur och natur, världens alla folk och framtida generationer. Vi menar att en rättvis och hållbar värld är möjlig, men då måste politiken vara solidarisk och hänga samman.</span>
+			</p>
+			<p>
+				<span>Därför är det naturligt för oss att ekologisk, social och ekonomisk hållbarhet hänger samman. En är inte möjlig utan de andra två. Världen kommer inte klara klimat- och miljökrisen utan att samtidigt bekämpa fattigdom, krig och orättvisor. Och de proble</span><span>&#xad;</span><span>men kan inte på allvar mötas utan en kraftfull politik för en grön omställning. Fred är inte bara målet utan också vägen. Fred är en förutsättning för att samhället ska kunna utvecklas och att vi ska kunna arbeta med en hållbar utveckling. Samtidigt är också en grön omställning där vi bryter vårt beroende av fossila energikällor och minskar påverkan på klimat och natur ett sätt att minska risken för kris och krig.</span>
+			</p>
+			<p>
+				<span>Att värna mänsklig säkerhet kräver en politik som kan svara upp mot ett brett spektrum av säkerhetshot. Angrepp på demokratin och yttrandefriheten, cyberattacker, klimatförändringarnas effekter liksom pandemier och den osäkerhet som kan uppstå i gränslandet mellan fred och krig, så kallad gråzonsproblematik, är konkreta hot som vi behöver skydda oss mot och som hos oss överskuggar traditionella hot såsom militära angrepp.</span>
+			</p>
+			<p>
+				<span>Den snabba digitaliseringen och hastigheten i informationssamhället gör frågor om sårbarhet och motståndskraft i våra samhällssystem allt mer högaktuella. Desinforma</span><span>&#xad;</span><span>tion är vanligt förekommande. Påverkanskampanjer har ökat.</span>
+			</p>
+			<p>
+				<span>Under det senaste decenniet har den säkerhetspolitiska situationen i Sveriges närområde försämrats, demokratin i världen har försvagats och nationalismen har vunnit mark på bekostnad av internationellt samarbete. Rysslands invasion förändrar drama</span><span>&#xad;</span><span>tiskt ett redan försämrat säkerhetsläge i Europa och innebär ett dramatiskt skifte med långtgående följdverkningar, också för Sverige. Det ryska anfallskriget manifesterar riskerna med auktoritära ledare, militarism och massförstörelsevapen, liksom vikten av att omvärlden står enad i sitt försvar för folkrätten, människovärdet och freden.</span>
+			</p>
+			<p>
+				<span>Samtidigt har Sverige haft att utgå från en situation där återuppbyggnad av såväl det civila som det militära försvaret måste ske från historiskt låg förmåga, då många funk</span><span>&#xad;</span><span>tioner mer eller mindre avskaffats i ett tidigare skede.</span>
+			</p>
+			<p>
+				<span>Svagheter i Sveriges grundläggande infrastruktur, försörjning och andra viktiga samhällsfunktioner innebär sårbarhet både för angrepp och andra störningar. Händelser i andra länder kan indirekt drabba Sverige på olika sätt, då ekonomi och andra system hänger samman. Kriget i Ukraina har orsakat inflation och prisökningar på energi och livsmedel, vilket påverkar hela samhället.</span>
+			</p>
+			<p>
+				<span>Det förebyggande arbetet är avgörande för ett väl fungerande totalförsvar. Motståndskraften i samhällsfunktionerna måste därför öka, mer insatser göras för att förebygga kriser och det civila försvaret behöver stärkas.</span>
+			</p>
+			<p>
+				<span>Ett ökat samarbete vad gäller krishantering och civilt försvar är centralt. Vi såg att hjälp från annat land var av stor betydelse när det brann som värst i skogen 2018. Räddningstjänst och försörjningsberedskap är två områden där samverkan interna</span><span>&#xad;</span><span>tionellt är av stor vikt.</span>
+			</p>
+			<p>
+				<span>I tider av samhällsomvälvningar är det avgörande att samhället kan stå starkt och bidra till trygghet och tillförsikt. Det krävs ett starkt civilt försvar. När vi stärker det civila försvaret stärker vi också krisberedskapen och vice versa. Vi vill se ett grönt, välplanerat och välfungerande civilt försvar, ett välplanerat arbete med en förebyggande krisberedskap, liksom en snabb och effektiv krisberedskap.</span>
+			</p>
+			<h2>
+				<span>Stärk samhällets motståndskraft</span>
+			</h2>
+			<p class="Normalutanindragellerluft">
+				<span>Det civila försvaret, som i princip avskaffades helt efter kalla kriget, har i försvars</span><span>&#xad;</span><span>beslutet 2021 fått särskilda medel avsatta för uppbyggnad, mycket tack vare oss i Miljöpartiet de gröna. I nuvarande läge finns dock fortfarande stora behov av att under många år stärka totalförsvarets civila delar. Det råder obalans mellan det militära och det civila försvaret, och de båda delarna är starkt beroende av varandra.</span>
+			</p>
+			<h2>
+				<span>Klimatförändringarnas betydelse för säkerheten</span>
+			</h2>
+			<p class="Normalutanindragellerluft">
+				<span>Klimatfrågan är mänsklighetens stora ödesfråga. De beslut vi tar nu är avgörande för livet idag och kommande generationer. Den globala uppvärmningen leder till att stora områden där människor levt och försörjt sig under tusentals år förändras snabbt. Förlust av jordbruksmark och skog, smältande inlandsisar och glaciärer, stigande havsnivåer, översvämningar, utarmning av den biologiska mångfalden, torka och bränder sker över hela jorden.</span>
+			</p>
+			<p>
+				<span>FN:s klimatpanel har slagit fast att extremväder har en tydlig koppling till klimat</span><span>&#xad;</span><span>förändringarna och bevisen för att extremväder är kopplat till mänsklig påverkan är tydliga. Det är en utveckling som bara kan hållas på en hanterbar nivå genom snabbt och resolut samarbete för att skydda miljön, minska utsläppen av växthusgaser för att bromsa klimatförändringarna och bevara och stärka den biologiska mångfalden.</span>
+			</p>
+			<p>
+				<span>Eftersom befintliga utsläpp i atmosfären kommer att fortsätta vara en drivande faktor för den klimatförändring som pågår också många år framöver, även om vi skulle sluta släppa ut växthusgaser i detta nu, så kräver effekterna av klimatförändringarna långt</span><span>&#xad;</span><span>gående anpassningsåtgärder för att kunna upprätthålla mänsklig säkerhet.</span>
+			</p>
+			<p>
+				<span>Sverige behöver snabba på arbetet med att öka försörjningsberedskapen för att säkerställa rent dricksvatten, matproduktionen och ett tryggt hem för Sveriges invånare. Risken för skred och erosion ökar i takt med att regnen blir allt kraftigare. Över</span><span>&#xad;</span><span>svämmade städer, bränder, förstörda skördar och kontaminerat dricksvatten är några av de konsekvenser som många svenskar kommer att uppleva. Vi måste därför säkerställa vår beredskap för konsekvenserna av klimatförändringarna och satsa betydligt mer på att klimatanpassa vårt samhälle.</span>
+			</p>
+			<h2>
+				<span>Forskning om civilt försvar</span>
+			</h2>
+			<p class="Normalutanindragellerluft">
+				<span>Totalförsvarets forskningsinstitut, FOI, gör ett gediget arbete med forskning för Försvarsmakten och regeringen, mestadels inriktad på det militära försvaret. FOI bör få ett omfattande uppdrag av regeringen att forska kring det civila försvaret. I reglerings</span><span>&#xad;</span><span>brevet för myndigheten står: ”Totalförsvarets forskningsinstitut ska bidra till det över</span><span>&#xad;</span><span>gripande målet för totalförsvaret och målet för det militära försvaret.” Vi hade velat se att även målen för det civila försvaret fanns med här.</span>
+			</p>
+			<h2>
+				<span>Cyberförsvar och psykologiskt försvar</span>
+			</h2>
+			<p class="Normalutanindragellerluft">
+				<span>Modern krigföring utnyttjar svagheter i samhället för att aktivt bidra till polarisering och skapa oro som sedan kan användas för att kontrollera att samhället styrs på ett sätt som passar de egna syftena. Påverkan av opinionen i Sverige och andra länder i syfte att destabilisera samhället sker fortlöpande. Det sker genom att öka motsättningarna mellan grupper. Många aktörer är intresserade av detta. Ryssland och Kina är exempel på stormakter som bedriver sådan verksamhet mot hela EU, och extremistiska rörelser ideologiskt baserade på religion eller annan övertygelse, har splittring som mål och medel i sin verksamhet.</span>
+			</p>
+			<p>
+				<span>Påverkan består bland annat av att ifrågasätta demokratisk legitimitet och rätts</span><span>&#xad;</span><span>statens principer, att sprida extrema åsikter, rena lögner, och polarisera den offentliga debatten. Spridning av desinformation på olika internetplattformar görs både av stater och av privatpersoner och organisationer för att tjäna pengar. Särskilt i krissituationer utnyttjas människors rädsla och oro.</span>
+			</p>
+			<p>
+				<span>Cyberangrepp pågår från flera olika aktörer. Kina är ett exempel på en stormakt som bedriver avancerat cyberspionage för att främja sin egen ekonomiska utveckling och utveckla sin militära förmåga. Det sker genom omfattande underrättelseinhämtning och stöld av teknologi, forskning och utveckling.</span>
+			</p>
+			<p>
+				<span>De flesta angrepp mot digitala system sker av ekonomiska skäl och en mindre andel sker av militära eller politiska skäl. Även om de flesta angrepp är brottslighet i ekono</span><span>&#xad;</span><span>miskt syfte, kan ändå resultatet bli allvarliga störningar av stora och viktiga verksam</span><span>&#xad;</span><span>heter i samhället, och svagheterna kan utnyttjas för angrepp på en stat. Cybersäkerheten behöver höjas i alla verksamheter i samhället både i offentlig sektor och privat sektor, och Sverige behöver stärka sin förmåga att förebygga och bemöta cyberattacker. Att den digitala infrastrukturen är global och tillgänglig är avgörande för att företag och organi</span><span>&#xad;</span><span>sationer ska kunna bedriva sin verksamhet och dela kunskap mellan människor i olika länder. En öppen värld gynnar Sverige på många sätt och är en förutsättning för att miljöhot och säkerhetshot ska kunna hanteras. Miljöpartiet vill utveckla och säkerställa resurser både till det nationella cybersäkerhetscentret och internationella cybersäkerhetssamarbeten.</span>
+			</p>
+			<p>
+				<span>Inom EU pågår lagstiftningsprocess runt AI, den så kallade AI-akten. De nya reglerna som arbetats fram fastställer skyldigheter för leverantörer och användare beroende på den risknivå som AI kan generera. Även om många AI-system utgör en minimal risk måste de genomgå en bedömning. Vi välkomnar detta arbete men menar att Sverige som nation måste bygga upp en egen nationell säkerhetsstrategi och att frågan måste få en framträdande position i regeringens arbete.</span>
+			</p>
+			<p>
+				<span>Det psykologiska försvaret handlar om att bygga upp motståndskraften i samhället mot desinformation och påverkanskampanjer. Det handlar bland annat om att höja förmågan att skilja på pålitliga källor och källor som inte är pålitliga. Myndigheten för psykologiskt försvar ska identifiera, analysera och kunna möta otillbörlig informations</span><span>&#xad;</span><span>påverkan och annan vilseledande information som riktas mot Sverige eller svenska intressen. Myndighetens uppdrag ska alltid vara att värna demokrati och mänskliga rättigheter med full respekt för yttrande- och pressfrihet.</span>
+			</p>
+			<h2>
+				<span>Värna fria medier och yttrandefrihet</span>
+			</h2>
+			<p class="Normalutanindragellerluft">
+				<span>Fria och oberoende medier är under stark press runt om i världen. Allvarligast är utvecklingen i de länder som inskränker pressfriheten genom lagar eller styrning av diskussionen i statliga medier. Strategin att så tvivel om etablerade fakta används av flera stater för att försvaga demokratin och öka polariseringen i andra länder. I flera fall använder odemokratiska regimer desinformation även mot den egna befolkningen för att stärka sin egen makt.</span>
+			</p>
+			<p>
+				<span>Det påminner oss om att aldrig ta demokratin för given utan arbeta aktivt för att bevara och utveckla förutsättningarna för demokrati och yttrandefrihet såväl i Sverige som i andra länder. På så sätt hänger försvars- och säkerhetsfrågorna noga samman med frågor kring fria och oberoende val samt medias och övriga kulturlivets frihet och självständighet.</span>
+			</p>
+			<h2>
+				<span>Desinformation och yttrandefrihet i sociala medier</span>
+			</h2>
+			<p class="Normalutanindragellerluft">
+				<span>Desinformation innebär avsiktligt spridande av falsk eller vilseledande information för att åstadkomma skada eller påverka människors attityder, ställningstaganden och handlande i en viss riktning. Desinformation sprids med syftet att exempelvis skada förtroendet för Sverige och det öppna demokratiska samhället. För att möta hotet från desinformation krävs insatser från många myndigheter och aktörer; det krävs dock en samordning. I SOU 2020:56 förordas att det ska tas fram en nationell strategi för stärkt motståndskraft mot desinformation, propaganda och näthat. Vi menar att Myndigheten för psykologiskt försvar borde få ett uppdrag att ta fram en sådan strategi.</span>
+			</p>
+			<p>
+				<span>Stora sociala medier har tagit fram och börjat använda policies för att markera när yttranden från ledare strider mot etablerade fakta. Arbetet med detta behöver intensi</span><span>&#xad;</span><span>fieras och gemensamma principer som utgår från Europakonventionen behöver fast</span><span>&#xad;</span><span>ställas av EU.</span>
+			</p>
+			<p>
+				<span>I länder som inskränker yttrandefriheten men fortfarande är öppna mot omvärlden spelar oberoende sociala medier en viktig roll för demokratirörelsen. I dessa samman</span><span>&#xad;</span><span>hang kan de globala plattformarna med majoriteten användare i demokratiska stater vara bärare av värderingar om frihet och mänskliga rättigheter.</span>
+			</p>
+			<p>
+				<span>Sociala medier har möjlighet att sätta regler för innehållet på de egna plattformarna och behöver ta det ansvaret tydligare än idag, men de behöver också stöd av demokra</span><span>&#xad;</span><span>tiska stater och demokratiska samarbeten som EU för att kunna göra det i längden. EU behöver sätta ramarna både för när innehåll i sociala medier kränker mänskliga rättigheter och för när censur eller begränsning av innehåll gör det.</span>
+			</p>
+			<h2>
+				<span>Hälso- och sjukvård</span>
+			</h2>
+			<p class="Normalutanindragellerluft">
+				<span>Hälso- och sjukvården behöver planeras så att situationer med många skadade kan hanteras samtidigt som stora sjukdomsutbrott eller pandemier. Vi behöver en allmän förstärkning av vården och en ökad förmåga i hela vårdkedjan samordnat. En motståndskraftig vård i vardagen ger oss en bättre krisberedskap vid allvarliga händelser.</span>
+			</p>
+			<p>
+				<span>I alla typer av kriser är tillgången till rätt personal på rätt plats avgörande. Personalen är vårdens viktigaste resurs och tillgång till utbildad personal är en stor utmaning. Vi anser att vårdpersonal måste få bättre förutsättningar på många plan så att yrket blir attraktivt att söka sig till.</span>
+			</p>
+			<p>
+				<span>Att försörja hälso- och sjukvårdssystemet med materiel måste planeras för och egen produktionsförmåga av viss materiel och vissa grundkomponenter inom medicin kan behövas i vissa fall. Lärdomarna från covid-19-pandemin behöver tas om hand och åtgärdas där vi bland annat behöver skapa en bättre smittspårning.</span>
+			</p>
+			<p>
+				<span>Hälso- och sjukvården behöver bli bättre på att ta del av och implementera den kunskap och de forskningsresultat som tagits fram inom katastrofmedicinska centra för att stärka beredskapen i hela vårdkedjan. Vi ställer oss positiva till att kunskaperna ökar inom katastrofmedicin genom att göra katastrofmedicin till en obligatorisk del i grundutbildningen för personal inom hälso- och sjukvården. Arbetet med att klimat</span><span>&#xad;</span><span>anpassa t.ex. vårdinrättningar och äldreboenden för att klara av värmeböljor behöver också skyndas på.</span>
+			</p>
+			<h2>
+				<span>Säkra infrastruktur och försörjning</span>
+			</h2>
+			<p class="Normalutanindragellerluft">
+				<span>Mat, vatten och värmereglering är grundläggande behov som alltid behöver tillgodoses. För att kunna göra det till hela befolkningen är samhället beroende av fungerande elförsörjning, transporter och i allt större utsträckning fungerande internetförbindelser och telefoni. En robust infrastruktur är avgörande för motståndskraften och gör det svårare att angripa samhällets stabilitet. Även med en mycket robust infrastruktur och försörjning behövs en buffert vid plötsliga kriser i form av beredskapslager och egna lager i hushållen.</span>
+			</p>
+			<p>
+				<span>Sverige ska behålla kontrollen över kritisk infrastruktur. Möjligheten att andra stater kan påverka den genom kontroll av företag med verksamhet i Sverige behöver be</span><span>&#xad;</span><span>gränsas. Samtidigt behövs samarbete för att utveckla och driva de tekniskt avancerade system som krävs för ett modernt samhälle. Därför är goda förutsättningar för tekniskt samarbete med stabila demokratier mycket viktigt för Sveriges säkerhet i framtiden.</span>
+			</p>
+			<p>
+				<span>Befolkningsskyddet i Sverige behöver ses över så att ansvariga myndigheter och befolkningen har uppdaterad information om hur det ser ut i dagsläget. Åtgärderna i SOU 2022:57 Ett stärkt skydd för civilbefolkningen vid höjd beredskap behöver beaktas.</span>
+			</p>
+			<h2>
+				<span>Rent vatten och en robust livsmedelsförsörjning</span>
+			</h2>
+			<p class="Normalutanindragellerluft">
+				<span>Det finns inget som är lika avgörande för möjligheten att överleva som rent vatten. Underhållet av vatten- och avloppsnäten är eftersatt i många kommuner och renings</span><span>&#xad;</span><span>verken behöver bli effektivare; därför behöver stora investeringar göras under de närmaste decennierna. I samband med det behöver också nätet förstärkas så att skador kan hanteras utan längre avbrott i vattenförsörjningen. Vattenförvaltningen är splittrad mellan olika nivåer och investeringsbehovet i vatten- och avloppssystem är mycket stort. Det behövs nya finansieringslösningar och förändringar i LAV (lag om allmänna vattentjänster) för att det ska vara möjligt att fondera medel till långsiktiga investeringar.</span>
+			</p>
+			<p>
+				<span>Vattentäkterna och grundvattnet behöver skyddas mot föroreningar; fler våtmarker behöver anläggas för att fördröja avrinningen vid skyfall, förbättra vattenreningen och hålla kvar vattnet i markerna vid torka. Fler reservvattentäkter behövs och dessa behöver göras redo för att tas i drift med kort varsel. Dricksvattensamarbetet har förbättrats med ett samordningsansvar hos Livsmedelsverket, men ett motsvarande myndighetssamarbete behövs också för avloppsvatten och dagvatten, samt för uppströmsarbetet och för vattentäkter.</span>
+			</p>
+			<p>
+				<span>Översvämningar i samband med skyfallsliknande regn blir alltmer vanligt förekommande och drabbar samhällen och städer med stor kraft. Alltför få samhällen och städer har klimatanpassat infrastruktur, vägar, avloppsanläggningar och vatten</span><span>&#xad;</span><span>försörjning tillräckligt mycket för att klara de stora vattenmassor som det handlar om. Det kan därför leda till bland annat kontaminering av dricksvattnet under lång tid, och till skred. Det behövs ett skyndsamt arbete med klimatanpassning på många platser i vårt land.</span>
+			</p>
+			<p>
+				<span>För att öka försörjningsförmågan och kunna klara en situation med stängda gränser är det avgörande att svenskt jordbruk kan drivas utan import av drivmedel och insats</span><span>&#xad;</span><span>varor. Ekosystemens skydd behöver förstärkas kraftigt; både hav, skog och jordbruks</span><span>&#xad;</span><span>mark behöver ökat skydd så att inte ekosystemtjänsterna kollapsar och försörjnings</span><span>&#xad;</span><span>förmågan urholkas. För att uppnå en hållbar livsmedelsproduktion som inte belastar de ekologiska systemen behöver andelen ekologisk livsmedelsproduktion öka.</span>
+			</p>
+			<h2>
+				<span>Försörjningsberedskap</span>
+			</h2>
+			<p class="Normalutanindragellerluft">
+				<span>Livsmedel, sjukvårdsmaterial, läkemedel, reservdelar och bränsle är exempel på varor som behöver finnas i lager för att samhället ska få tid till omställning vid störd handel. Nuvarande lagerhållning är inte tillräckligt omfattande och ansvarsförhållandena oklara. Lagerhållningen behöver därför förbättras steg för steg under flera decennier och hela tiden anpassas till de behov som finns i samhället. En del lagerhållning behöver ske centralt i statlig regi, men lager måste också finnas nära människor och verksamheter, och därför behöver alla delar av offentlig sektor samarbeta med näringslivet om lager</span><span>&#xad;</span><span>hållning av varor som är kritiska för försörjningen. Det bör också undersökas vilka varor som det går att starta upp eller utöka inhemsk produktion av.</span>
+			</p>
+			<h2>
+				<span>Bredband och telefoni som fungerar även vid störningar</span>
+			</h2>
+			<p class="Normalutanindragellerluft">
+				<span>Tillgången till fungerande internettjänster och telefoni för samhällets infrastruktur, kommunikation och administration underlättar påtagligt för att snabbt ställa om samhället. Att ha fungerande system för att kunna ta del av information och att kunna kommunicera, exempelvis för att larma, är centralt för ett fungerande samhälle, särskilt vid kriser och andra samhällsstörningar. De privata operatörerna betalar redan idag beredskapsavgifter som används för att höja robustheten, men ytterligare medel behövs och mer långsiktiga investeringar behöver göras.</span>
+			</p>
+			<h2>
+				<span>Ett robust elsystem</span>
+			</h2>
+			<p class="Normalutanindragellerluft">
+				<span>Elförsörjningen är ett troligt förstahandsmål för en angripare – utan el slutar det mesta att fungera. Omfattande och långvariga elavbrott kan vara mycket demoraliserande. Elsystemets centrala betydelse för samhället kommer att öka ytterligare i framtiden, med elektrifiering av transporter, industri och uppvärmning.</span>
+			</p>
+			<p>
+				<span>Kärnkraften medför i sig stora säkerhetsrisker, både vid drift och vid avfallets hantering. Det har blivit uppenbart t.ex. i kärnavtalet med Iran, att det som börjar med kärnkraft för energi kan bli startskott för kärnvapen i takt med ökad anrikning av uran. Civil kärnkraft kan användas för att tillverka plutonium till kärnvapen, som i Nord</span><span>&#xad;</span><span>korea. Det är alltså inte enbart kärnavfallet som är en säkerhetsrisk. Ju mer världen ”löser” klimatkrisen med kärnkraft, desto mer ökar risken för fler kärnvapen i världen.</span>
+			</p>
+			<p>
+				<span>Därtill behöver vi också skärskåda hur ny kärnkraft byggs och hur den upprätthålls där tillgången till uran är avgörande för drift och kostnaderna för själva byggnationen är enorma. Ryssland och Kina har helt avgörande roller både för finansieringen av byggnation och vid drift. De flesta nya reaktorer som byggs är på ett eller annat sätt beroende av finansiering av den kinesiska eller ryska staten. Det är ingen nyhet att dessa antidemokratiska krafter har en expansiv geopolitisk och ekonomisk agenda, men nu spelar också kärnkraften en nyckelroll i deras maktstrategi.</span>
+			</p>
+			<p>
+				<span>Den befintliga vattenkraften, den snabbt ökande andelen vind- och solkraft har skapat en ny situation. Där tidigare något hundratal kraftverk dominerade kraft</span><span>&#xad;</span><span>produktionen kommer i framtiden tusentals vindkraftverk och hundratusentals ”prosumenter” med solelanläggningar att stå för den övervägande delen av elproduk</span><span>&#xad;</span><span>tionen. Denna extremt decentraliserade elproduktion kan, rätt hanterad, bli en mycket robust hörnsten i framtidens hållbara samhälle.</span>
+			</p>
+			<p>
+				<span>Målet är ett robust ”smart elnät” som står emot digitala och avsevärda fysiska attacker. I Sveriges fall innebär det att vindkraft och solel behöver byggas ut i södra Sverige, samtidigt som elnätet förstärks och automatiseras. Energilager behöver byggas i anslutning till bostäder och kommersiell verksamhet. Utöver det behövs planering för hur särskilt viktiga verksamheter ska hållas igång vid störningar och vad det kräver i form av ödrift av elnätet, lokal reservkraft eller batterilager.</span>
+			</p>
+			<h2>
+				<span>Transporter utan behov av bränsleimport</span>
+			</h2>
+			<p class="Normalutanindragellerluft">
+				<span>Åttiofem procent av Sveriges befolkning och över hälften av världens befolkning bor i städer eller tätorter. Det medför stora behov av godstransporter, som är avgörande för försörjningstryggheten. Järnvägsnätet har en viktig roll för att snabbt kunna förflytta många människor vid kris.</span>
+			</p>
+			<p>
+				<span>Fungerande transporter är beroende av att den offentliga infrastrukturen i form av vägar och järnvägar fungerar men också av en säker elförsörjning. Det behövs också en inhemsk produktion av bränsle, som t.ex. biobränslen, biogas, etanol och vätgas.</span>
+			</p>
+			<p>
+				<span>Logistikplanering och själva transporterna utförs av tiotusentals privata aktörer. Ett stort antal myndigheter och företag ansvarar för samhällskritisk verksamhet som är beroende av transporter. Det är därför svårt för en enskild myndighet att göra prioriteringen av transporter. Ett system för ansvarsfördelning och fortsatt drift av transportsystemet, som fungerar både i kris och krig, behöver tas fram. Även Försvarsmaktens fordon ska kunna fungera som en del av totalförsvaret i framtidens energi- och bränslesystem.</span>
+			</p>
+			<h2>
+				<span>Finansiell beredskap</span>
+			</h2>
+			<p class="Normalutanindragellerluft">
+				<span>Det finansiella systemet stöds av en infrastruktur koncentrerad till ett fåtal aktörer. Banksektorn är koncentrerad till ett mindre antal stora aktörer med likartade affärs</span><span>&#xad;</span><span>modeller. Både bankerna och infrastrukturföretagen är nära sammanlänkade. Det innebär att problem hos en aktör snabbt kan spridas till andra.</span>
+			</p>
+			<p>
+				<span>Funktionaliteten i det finansiella systemet och underliggande infrastrukturer behöver kunna upprätthållas även vid fredstida kriser samt under höjd beredskap och då ytterst i krig. Grundläggande ekonomiska transaktionsmöjligheter måste alltid kunna upprätt</span><span>&#xad;</span><span>hållas genom tillgång till kontanter, alternativa betalningsmedel eller någon form av statliga krediter. Förberedelser som syftar till att upprätthålla det finansiella systemets grundläggande funktionalitet även vid allvarliga störningar behöver vara välövade så att vi vet att de fungerar både i kris och krig. De statliga myndigheterna behöver fortsätta arbetet med att stärka beredskapen för dessa uppgifter. Det har blottlagts känsligheter inom betalningssystemet och det måste följas upp.</span>
+			</p>
+			<h2>
+				<span>Motverka terrorism och våldsbejakande extremism</span>
+			</h2>
+			<p class="Normalutanindragellerluft">
+				<span>Terrorism är ett allvarligt hot mot det fria demokratiska samhället. Arbetet mot terror måste bedrivas såväl i Sverige som i samarbete med andra länder. Det finns mer eller mindre organiserade våldsbejakande extremister. Några har en global spännvidd. Miljöpartiet de gröna vill att terrororganisationer ska kunna förbjudas.</span>
+			</p>
+			<p>
+				<span>Säkerhetspolisen ansvarar för terrorbekämpningen i Sverige. Säpos resurser har stärkts och flera nya lagar har kommit på plats för att förhindra terror. Exempelvis har att bistå terrororganisationer, eller resor i syfte att ansluta sig till dessa, kriminaliserats. Det är angeläget också framöver att Säpo har tillräckliga resurser för att arbeta effektivt med terrorbekämpning. I takt med att Säpos uppdrag utvidgas och blir mer komplext måste vi även stärka den interna granskningen av myndighetens arbete, så att dess insatser och utredningar sker på ett rättssäkert sätt.</span>
+			</p>
+			<p>
+				<span>Att förhindra radikalisering till våldsbejakande extremism är att förebygga terror. 2017 inrättades Centrum mot våldsbejakande extremism, och Miljöpartiet de gröna vill att det ska stärkas och ges en mer operativ roll. Samarbetet med kommunerna är avgörande för att i tid upptäcka radikaliseringsprocesser hos grupper eller individer och platser där det finns särskilt stor risk att radikalisering kan ske.</span>
+			</p>
+			<p>
+				<span>Vi behöver också ett kraftfullt förebyggande arbete för att minska risken att utsatta, marginaliserade människor blir indragna i extremistiska miljöer. Det kräver lång</span><span>&#xad;</span><span>siktighet och att åtgärder som genomförs inte är enskilda och lösryckta. Vi vill se en grundläggande social rättvisa som kompletteras med ett nationellt program, som komplement till den verksamhet som bedrivs i olika regioner, för att underlätta avhopp från extremistmiljöer. Människor ska inte behöva känna sig så trängda socialt och ekonomiskt att de finner extremistiska miljöer attraktiva. Sådana insatser behövs för att det ska bli svårare att rekrytera till brottslig verksamhet. Vi bör även satsa särskilt på att motarbeta finansiering av terrorism. Där gäller det både att bekämpa finansiering av terrororganisationer inom Sverige och att förhindra att pengar från Sverige bidrar till terror utomlands. I relation till de målen är det internationella samarbetet oerhört viktigt, särskilt inom EU och genom Europol, för att kartlägga finansieringskällor och överföringsmetoder. För att bekämpa terrorfinansiering effektivt bör vi även stärka arbetet mot penningtvätt.</span>
+			</p>
+			<h2>
+				<span>Underrättelseverksamhet</span>
+			</h2>
+			<p class="Normalutanindragellerluft">
+				<span>Att förebygga, upptäcka och motverka säkerhetshot som riktas mot Sverige är underrättelseverksamhetens främsta uppgift. Utan effektiv underrättelseverksamhet saknas den kunskap som krävs för att bland annat kunna göra en sammanhållen analys av cyberhot mot Sverige och informationspåverkan i syfte att destabilisera samhället.</span>
+			</p>
+			<p>
+				<span>Sveriges förmåga till underrättelseverksamhet, cyberförsvar och psykologiskt försvar kommer alltid att vara begränsad i relation till de hot som riktas mot oss och de svagheter som måste hanteras. Därför är samarbete mellan cybersäkerhetscentret, Myndigheten för psykologiskt försvar, underrättelseverksamheten och de myndigheter som ansvarar för dessa frågor mycket viktigt. Försvarsmakten ansvarar för Sveriges offensiva cyberförsvarsförmåga. Cyberrymden är en av flera domäner där Försvars</span><span>&#xad;</span><span>makten ska kunna möta ett antagonistiskt hot med stöd av andra myndigheter som till exempel FRA, Säkerhetspolisen och Myndigheten för samhällsskydd och beredskap. Att andra länder tar sig in i olika system och hämtar information om både privat</span><span>&#xad;</span><span>personer, politiker, organisationer och företag är tyvärr inte ovanligt alls.</span>
+			</p>
+			<p>
+				<span>Hoten mot Sverige och andra demokratier kommer från många olika organisationer över hela världen, vilket gör att samarbete med myndigheter i andra länder är viktigt. Det krävs tydlig reglering för att breda samarbeten på dessa områden inte ska vara hot i sig, mot integritet och andra mänskliga rättigheter. För att inleda samarbeten krävs möjlighet till oberoende granskning, även om granskningen i sig antagligen måste ske under sekretess. Det internationella samarbetet är ovärderligt när det gäller att bekämpa terrorism. De svenska myndigheterna ska samverka med sina europeiska motsvarig</span><span>&#xad;</span><span>heter.</span>
+			</p>
+			<h2>
+				<span>Civilplikt med resilienstjänst stärker kapaciteten i det civila försvaret och krisberedskapen</span>
+			</h2>
+			<p class="Normalutanindragellerluft">
+				<span>Sverige ska ha en väl uppbyggd organisation för att hantera kriser och konflikter. Dagens värnplikt bygger normalt sett på frivillighet. Detta är möjligt genom att bara en liten andel av varje årskull behövs för det militära försvarets behov och då räcker det att en liten andel fullgör plikttjänstgöring. Ett fungerande totalförsvar behöver betydligt större resurser än så. Det kräver en organisation för omfördelning av resurser i hela samhället men också frivilliga som efter utbildning kan vara en förstärkning vid olika typer av kriser, till exempel skogsbränder och omfattande kris i vård och omsorg. En viktig del i uppbyggnaden av det civila försvaret är att kommunerna ingår avtal med de frivilliga försvarsorganisationerna om deras roll vid kris och konflikt så att rollerna är tydliga när krisen kommer.</span>
+			</p>
+			<p>
+				<span>Miljöpartiet de gröna vill att en civilplikt med resilienstjänstgöring ska komplettera den militära värnplikten och på så sätt bredda rekryteringen till verksamhet också i det civila försvaret. Valet att delta i det militära försvaret ska, så långt som möjligt, bygga på frivillighet och det ska alltid finnas möjlighet till vapenfri tjänst.</span>
+			</p>
+			<p>
+				<span>Resilienstjänstens civila utbildningar kan genomföras inom ramen för någon av de frivilliga försvarsorganisationernas arbete eller i lämplig offentlig organisation. En sådan tjänstgöring kommer att, utöver att stärka Sveriges krisberedskap, utgöra en viktig del i att skapa bättre mellanmänsklig tillit inom landet och förebygga polarisering.</span>
+			</p>
+			<h2>
+				<span>Räddningstjänsten</span>
+			</h2>
+			<p class="Normalutanindragellerluft">
+				<span>Räddningstjänsten är den viktigaste resursen för snabba insatser vid olyckor, mot bränder och översvämningar. Räddningstjänsten behöver förstärkas och rekryteringen av deltidspersonal behöver underlättas så att en god krisberedskap alltid finns i hela landet. Räddningstjänsten behöver tillgång till materiel för att bättre kunna verka vid höjd beredskap.</span>
+			</p>
+			<p>
+				<span>Räddningstjänst är, med undantag för statens ansvar för ett fåtal utpekade uppgifter, kommunens ansvar enligt lagen om skydd mot olyckor. Ideella organisationer som Sjöräddningssällskapet och Fjällräddningen är viktiga samarbetspartners. Ofta organiseras kommunal räddningstjänst gemensamt av flera kommuner i särskilda kommunalförbund. Moderna, säkra kommunikationslösningar som fungerar digitalt överallt är nödvändigt i den moderna räddningstjänsten. Räddningstjänsten är central i totalförsvaret. En fungerande räddningstjänst stärker alla andra delar av totalförsvaret.</span>
+			</p>
+			<h2>
+				<span>Tullverket, Kustbevakningen och polisen</span>
+			</h2>
+			<p class="Normalutanindragellerluft">
+				<span>För att bevara trygghet, motverka terrorism och i tid upptäcka faror som kan påverka Sverige eller delar av Sverige negativt är dessa tre myndigheter av stor vikt. Det är viktigt att komma ihåg att polisen samarbetar mycket med både Tullverket och Kust</span><span>&#xad;</span><span>bevakningen, och de är avhängiga varandras kompetens och insatser. Det betyder att även Kustbevakningen och Tullverket behöver förstärkningar för att svara upp mot den breddade hotbilden mot Sverige.</span>
+			</p>
+			<h2>
+				<span>Frivilliga försvarsorganisationer</span>
+			</h2>
+			<p class="Normalutanindragellerluft">
+				<span>Samhällets beredskap är helt beroende av arbetet som görs inom de olika frivilliga försvarsorganisationerna. För att kompetens och resurser inom de olika organisationerna ska kunna nyttjas fullt ut vid exempelvis höjd beredskap behöver roller tydliggöras i relationen mellan olika aktörer. Myndigheten för samhällsskydd och beredskap (MSB) bör koordinera det arbetet, och i samarbete med respektive länsstyrelse se till att beredskap för olika typer av kriser finns på plats i hela Sverige, där och när det behövs.</span>
+			</p>
+			<p>
+				<span>De frivilliga försvarsorganisationerna behöver också kunna förnya sina material</span><span>&#xad;</span><span>förråd för att kunna fungera väl utefter dagens behov. Miljöpartiet vill verka för att Frivilliga resursgruppen, som samlar de frivilliga försvarsorganisationernas kompe</span><span>&#xad;</span><span>tenser på lokal nivå, ska finnas i varje kommun, så att det innan krisen kommer finns en tydlig samverkan mellan kommunen och frivilliginsatser.</span>
+			</p>
+			<div style="-aw-sdt-tag:'CC_Underskrifter'; -aw-sdt-title:'CC_Underskrifter'">
+				<p>
+					<span style="-aw-import:ignore">&#xa0;</span>
+				</p>
+				<p>
+					<span style="-aw-import:ignore">&#xa0;</span>
+				</p>
+			</div>
+			<table cellspacing="0" cellpadding="0" style="width:100%; border-collapse:collapse">
+				<tr style="page-break-inside:avoid">
+					<td style="width:1%; padding-right:5.4pt; padding-left:5.4pt; vertical-align:bottom">
+						<p class="Underskrifter" style="margin-bottom:0pt">
+							<span>Emma Berginger (MP)</span>
+						</p>
+					</td>
+					<td style="width:1%; padding-right:5.4pt; padding-left:5.4pt; vertical-align:bottom">
+						<p class="Underskrifter" style="margin-bottom:0pt">
+							<span style="-aw-import:ignore">&#xa0;</span>
+						</p>
+					</td>
+				</tr>
+				<tr style="page-break-inside:avoid">
+					<td style="width:1%; padding-right:5.4pt; padding-left:5.4pt; vertical-align:bottom">
+						<p class="Underskrifter" style="margin-bottom:0pt">
+							<span>Janine Alm Ericson (MP)</span>
+						</p>
+					</td>
+					<td style="width:1%; padding-right:5.4pt; padding-left:5.4pt; vertical-align:bottom">
+						<p class="Underskrifter" style="margin-bottom:0pt">
+							<span>Jacob Risberg (MP)</span>
+						</p>
+					</td>
+				</tr>
+			</table>
+			<p>
+				<span style="-aw-import:ignore">&#xa0;</span>
+			</p>
+		</div>
+	</div>

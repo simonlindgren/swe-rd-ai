@@ -1,0 +1,772 @@
+SEARCH TERM: artificiell intelligens
+DOCUMENT ID: hd023365
+TITLE: Livslångt lärande och forskning för ett hållbart samhälle
+TYPE: mot
+SUBTYPE: Kommittémotion
+DATE: 2025-10-06
+PARLIAMENTARY YEAR: 2025/26
+ORGANISATION: UbU
+STATUS: Hänvisad
+DOWNLOADED: 2026-01-22 10:24:34
+================================================================================
+
+<style><!-- 
+ @page Section1 { size:595.3pt 841.9pt; margin:35.45pt 85.05pt 56.7pt }
+div.Section1 { page:Section1 }
+div.pconf body { t-i:14.2pt; line-height:150%; font-family:'Verdana'; font-size: 0.90em }
+div.pconf h1, h2, h3, h4, h5, h6, p { margin:0pt }
+div.pconf li, table { margin-top:0pt; margin-bottom:0pt }
+div.pconf h1 { margin-top:41pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:19.5pt; font-family:'Verdana'; font-size: 1.05em; font-weight:normal; color:#000000 }
+div.pconf h2 { margin-top:30pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:17pt; font-family:'Verdana'; font-size: 1.00em; font-weight:normal; color:#000000 }
+div.pconf h3 { margin-top:18pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:15pt; font-family:'Verdana'; font-size: 0.90em; font-weight:bold; color:#000000 }
+div.pconf h4 { margin-top:18pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:15pt; font-family:'Verdana'; font-size: 0.90em; font-weight:normal; font-style:italic; color:#000000 }
+div.pconf h5 { margin-top:15pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:15pt; font-family:'Verdana'; font-size: 0.90em; font-weight:bold; font-style:normal; color:#000000 }
+div.pconf h6 { margin-top:15pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:15pt; font-family:'Verdana'; font-size: 0.90em; font-weight:normal; font-style:italic; color:#000000 }
+.Heading7 { margin-top:15pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:15pt; font-family:'Verdana'; font-size: 0.90em; font-weight:normal; font-style:italic; color:#000000; -aw-style-name:heading7 }
+.Heading8 { margin-top:15pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:15pt; font-family:'Verdana'; font-size: 0.90em; font-weight:normal; font-style:italic; color:#000000; -aw-style-name:heading8 }
+.Heading9 { margin-top:0pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:15pt; font-family:'Verdana'; font-size: 0.90em; font-weight:normal; font-style:italic; color:#000000; -aw-style-name:heading9 }
+.BalloonText { margin-bottom:0pt; t-i:14.2pt; line-height:normal; font-family:'Segoe UI'; font-size: 0.90em }
+.Beteckning { margin-top:18pt; margin-bottom:0pt; t-i:14.2pt; page-break-inside:auto; page-break-after:auto; line-height:19.5pt; font-size: 1.05em }
+.BlockText, .Inramatstycke { margin-right:56.7pt; margin-left:56.7pt; margin-bottom:0pt; t-i:0pt; text-align:nojustify; line-height:150%; border:0.75pt solid #000000; padding:10pt; font-size: 0.90em; font-style:italic; -aw-border:0.25pt single }
+.Citaticitat { margin-top:7.5pt; margin-left:34pt; margin-bottom:0pt; t-i:0pt; line-height:150%; font-size: 0.90em }
+.Citaticitatmedindrag { margin-top:0pt; margin-left:34pt; margin-bottom:7.5pt; t-i:17pt; line-height:150%; font-size: 0.90em }
+.Citatmedindrag { margin-top:0pt; margin-left:17pt; margin-bottom:0pt; t-i:17pt; line-height:150%; font-size: 0.90em }
+.CommentSubject { margin-bottom:0pt; t-i:14.2pt; line-height:normal; font-size: 0.90em; font-weight:bold }
+.CommentText { margin-bottom:0pt; t-i:14.2pt; line-height:normal; font-size: 0.90em }
+.FSHLogo { margin-top:4pt; margin-bottom:0pt; t-i:0pt; line-height:normal; font-size: 0.90em }
+.FSHNormL { margin-top:4pt; margin-bottom:0pt; t-i:0pt; line-height:15pt; border-top:1.5pt solid #000000; padding-top:3pt; font-size: 0.90em }
+.FSHNormal { margin-top:4pt; margin-bottom:0pt; t-i:0pt; line-height:15pt; font-size: 0.90em }
+.FSHNormalS5 { margin-top:11.5pt; margin-bottom:26pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-size: 0.95em; font-weight:bold }
+.FSHRub1, .Rubrik1S5 { margin-top:135pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:16pt; font-size: 1.00em }
+.FSHRub2, .Rubrik1A4 { margin-top:50pt; margin-bottom:5pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:24pt; font-size: 1.05em }
+.FSHTitel, .Dokumentrubrik { margin-top:4pt; margin-bottom:4pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:20pt; border-bottom:0.75pt solid #000000; padding-bottom:3pt; font-size: 1.05em; -aw-border-bottom:0.5pt single }
+.Footer { margin-top:4pt; margin-bottom:0pt; t-i:0pt; text-align:center; line-height:normal; font-size: 0.90em }
+.FootnoteText { margin-top:0pt; margin-bottom:0pt; t-i:0pt; line-height:12pt; font-size: 0.90em }
+.Frslagsrubrik { margin-top:41pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:19.5pt; font-family:'Verdana'; font-size: 1.05em }
+.Frslagstext, .Hemstlatt, .Yrkande { margin-top:4pt; margin-left:19.85pt; margin-bottom:0pt; t-i:-19.85pt; line-height:150%; font-size: 0.90em }
+.Header { margin-top:4pt; margin-bottom:0pt; t-i:0pt; line-height:normal; font-size: 0.90em }
+.KantRubrikS5H { margin-top:6pt; margin-right:2.85pt; margin-bottom:0pt; t-i:0pt; text-align:right; line-height:8pt; font-size: 0.90em }
+.KantRubrikS5Hrad2 { margin-top:0pt; margin-right:2.85pt; margin-bottom:0pt; t-i:0pt; text-align:right; line-height:10pt; font-size: 0.90em }
+.KantRubrikS5V { margin-top:6pt; margin-right:0pt; margin-bottom:0pt; t-i:0pt; text-align:left; line-height:8pt; font-size: 0.90em }
+.KantRubrikS5Vrad2 { margin-top:0pt; margin-right:0pt; margin-bottom:0pt; t-i:0pt; text-align:left; line-height:10pt; font-size: 0.90em }
+.KantrubrikH { margin-top:4pt; margin-right:-82.2pt; margin-bottom:0pt; t-i:0pt; text-align:right; line-height:15pt; font-size: 0.90em }
+.KantrubrikV { margin-top:4pt; margin-left:-85.05pt; margin-bottom:0pt; t-i:0pt; line-height:normal; font-size: 0.90em }
+.Klla { margin-top:0pt; margin-bottom:0pt; t-i:0pt; line-height:12pt; font-size: 0.90em }
+.Lagtext { margin-top:4pt; margin-bottom:0pt; t-i:0pt; line-height:normal; font-size: 0.90em }
+.Lagtextindrag { margin-top:4pt; margin-bottom:0pt; t-i:14.2pt; line-height:normal; font-size: 0.90em }
+.Lagtextrubrik { margin-top:4pt; margin-bottom:0pt; t-i:0pt; line-height:normal; font-size: 0.90em; font-style:italic; letter-spacing:1pt }
+.List { margin-top:7.5pt; margin-left:17pt; margin-bottom:7.5pt; t-i:-17pt; line-height:150%; font-size: 0.90em }
+.ListBullet, .PunktlistaBomb { margin-top:4pt; margin-left:14.2pt; margin-bottom:0pt; t-i:-14.2pt; line-height:150%; font-size: 0.90em }
+.ListNumber, .PunktlistaNummer { margin-top:4pt; margin-left:14.2pt; margin-bottom:0pt; t-i:-14.2pt; line-height:150%; font-size: 0.90em }
+.ListParagraph { margin-left:36pt; margin-bottom:0pt; t-i:14.2pt; line-height:150%; font-size: 0.90em }
+.ListaGemener { margin-top:7.5pt; margin-left:17pt; margin-bottom:7.5pt; t-i:-17pt; line-height:150%; font-size: 0.90em }
+.ListaLinje { margin-top:7.5pt; margin-left:17pt; margin-bottom:7.5pt; t-i:-17pt; line-height:150%; font-size: 0.90em }
+.ListaNummer { margin-top:7.5pt; margin-left:17pt; margin-bottom:7.5pt; t-i:-17pt; line-height:150%; font-size: 0.90em }
+.ListaPunkt { margin-top:7.5pt; margin-left:17pt; margin-bottom:7.5pt; t-i:-17pt; line-height:150%; font-size: 0.90em }
+.MotionTIllRiksdagen { margin-top:18pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:19.5pt; font-size: 1.05em }
+.Motionr { margin-top:14pt; margin-bottom:31.5pt; t-i:0pt; page-break-inside:avoid; line-height:15pt; font-size: 1.00em; font-weight:bold; font-style:normal }
+.Motiveringrubrik2numrerat1 { margin-top:30pt; margin-left:0pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:17pt; font-family:'Verdana'; font-size: 1.00em }
+.Motiveringrubrik3numrerat1 { margin-top:18pt; margin-left:0pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:15pt; font-family:'Verdana'; font-size: 0.90em; font-weight:bold }
+.Motiveringrubrik3numrerat11 { margin-top:18pt; margin-left:0pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:15pt; font-family:'Verdana'; font-size: 0.90em; font-weight:bold }
+.Motiveringrubrik4numrerat11 { margin-top:18pt; margin-left:0pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:15pt; font-family:'Verdana'; font-size: 0.90em; font-weight:normal; font-style:italic }
+.NormalWeb { margin-bottom:0pt; t-i:14.2pt; line-height:150%; font-family:'Verdana'; font-size: 0.90em }
+.NormalIndent { margin-left:65.2pt; margin-bottom:0pt; t-i:14.2pt; line-height:150%; font-size: 0.90em }
+.Normalutanindragellerluft { margin-top:4pt; margin-bottom:0pt; t-i:0pt; line-height:150%; font-size: 0.90em }
+.Normal00 { margin-top:4pt; margin-bottom:0pt; t-i:0pt; line-height:normal; font-size: 0.90em }
+.NormalA4fot { margin-top:12pt; margin-bottom:0pt; t-i:0pt; text-align:center; line-height:normal; font-size: 0.90em }
+.NormalA4sidnr { margin-top:4pt; margin-bottom:12pt; t-i:0pt; text-align:center; line-height:normal; font-size: 0.90em }
+.NormalS5sidnrH { margin-top:4pt; margin-right:2.85pt; margin-bottom:0pt; t-i:0pt; text-align:right; line-height:normal; font-size: 0.90em }
+.NormalS5sidnrV { margin-top:4pt; margin-right:0pt; margin-bottom:0pt; t-i:0pt; text-align:left; line-height:normal; font-size: 0.90em }
+.PlainText { margin-bottom:0pt; t-i:0pt; line-height:12pt; font-family:'Verdana'; font-size: 0.90em }
+.Quote { margin-top:7.5pt; margin-left:17pt; margin-bottom:0pt; t-i:0pt; line-height:150%; font-size: 0.90em }
+.R1 { margin-top:41pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:19.5pt; font-family:'Verdana'; font-size: 1.05em }
+.R2 { margin-top:30pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:17pt; font-family:'Verdana'; font-size: 1.00em }
+.R3 { margin-top:18pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:15pt; font-family:'Verdana'; font-size: 0.90em; font-weight:bold }
+.Rubrik1numrerat { margin-top:41pt; margin-left:0pt; margin-bottom:0pt; t-i:0pt; page-break-inside:auto; page-break-after:avoid; line-height:19.5pt; font-family:'Verdana'; font-size: 1.05em }
+.Rubrik2numrerat { margin-top:30pt; margin-left:0pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:17pt; font-family:'Verdana'; font-size: 1.00em }
+.Rubrik3numrerat { margin-top:18pt; margin-left:0pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:15pt; font-family:'Verdana'; font-size: 0.90em; font-weight:bold }
+.Rubrik4numrerat { margin-top:18pt; margin-left:0pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:15pt; font-family:'Verdana'; font-size: 0.90em; font-weight:normal; font-style:italic }
+.RubrikFrslagTIllRiksdagsbeslut { margin-top:41pt; margin-bottom:15pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:19.5pt; font-family:'Verdana'; font-size: 1.05em }
+.RubrikInnehllsf { margin-top:41pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:19.5pt; font-family:'Verdana'; font-size: 1.05em }
+.RubrikSammanf { margin-top:41pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:19.5pt; font-family:'Verdana'; font-size: 1.05em }
+.Salutation { margin-top:41pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:19.5pt; font-family:'Verdana'; font-size: 1.05em }
+.Streckkod { margin-top:12pt; margin-bottom:0pt; t-i:0pt; text-align:center; line-height:normal; font-family:IDAutomationHC39S; font-size: 1.00em }
+.Strecklista, .PunktlistaTankstreck { margin-top:4pt; margin-left:14.2pt; margin-bottom:0pt; t-i:-14.2pt; line-height:150%; font-size: 0.90em }
+.Subtitle { margin-top:4pt; margin-bottom:0pt; t-i:0pt; line-height:150%; font-family:'Verdana'; font-size: 0.90em; font-weight:bold }
+.TOC1 { margin-top:4pt; margin-bottom:0pt; t-i:0pt; line-height:150%; font-size: 0.90em }
+.TOC2 { margin-top:4pt; margin-left:14.2pt; margin-bottom:0pt; t-i:0pt; line-height:150%; font-size: 0.90em }
+.TOC3 { margin-top:4pt; margin-left:28.35pt; margin-bottom:0pt; t-i:0pt; line-height:150%; font-size: 0.90em }
+.TOC4 { margin-top:4pt; margin-left:42.55pt; margin-bottom:0pt; t-i:0pt; line-height:150%; font-size: 0.90em }
+.TOC5 { margin-top:4pt; margin-left:56.7pt; margin-bottom:0pt; t-i:0pt; line-height:150%; font-size: 0.90em }
+.TOC6 { margin-top:4pt; margin-left:56.7pt; margin-bottom:0pt; t-i:0pt; line-height:150%; font-size: 0.90em }
+.TOC7 { margin-top:15pt; margin-left:56.7pt; margin-bottom:0pt; t-i:14.2pt; page-break-inside:avoid; page-break-after:avoid; line-height:normal; font-family:'Verdana'; font-size: 0.90em; font-weight:normal; font-style:italic }
+.TOC8 { margin-top:15pt; margin-left:56.7pt; margin-bottom:0pt; t-i:14.2pt; page-break-inside:avoid; page-break-after:avoid; line-height:normal; font-family:'Verdana'; font-size: 0.90em; font-weight:normal; font-style:italic }
+.TOC9 { margin-top:15pt; margin-left:56.7pt; margin-bottom:0pt; t-i:14.2pt; page-break-inside:avoid; page-break-after:avoid; line-height:normal; font-family:'Verdana'; font-size: 0.90em; font-weight:normal; font-style:italic }
+.TOCHeading { margin-top:41pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:19.5pt; font-family:'Verdana'; font-size: 1.05em }
+.Tabellunderrubrik { margin-top:0pt; margin-bottom:0pt; t-i:0pt; page-break-after:avoid; line-height:150%; font-size: 0.90em; font-weight:normal; font-style:italic }
+.Tabellrubrik { margin-top:7.5pt; margin-bottom:0pt; t-i:0pt; page-break-after:avoid; line-height:150%; font-size: 0.90em; font-weight:bold }
+.Title { margin-top:41pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:19.5pt; font-family:'Verdana'; font-size: 1.05em }
+.Underskriftdatum { margin-top:24pt; margin-bottom:3pt; t-i:0pt; page-break-inside:avoid; line-height:15pt; font-size: 0.90em; font-style:normal }
+.Underskrifter { margin-top:15pt; margin-bottom:3pt; t-i:0pt; page-break-inside:avoid; line-height:15pt; font-size: 0.90em; font-style:italic }
+.Yrkandehnv, .Frslagspunkthnv { margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; font-size: 0.90em }
+span.BallongtextChar { font-family:'Segoe UI'; font-size: 0.90em }
+span.BeteckningChar { font-size:19.5pt }
+span.CommentReference { font-size:8pt }
+span.FSHRub2Char, span.Rubrik1A4Char { font-size:24pt }
+span.FotnotstextChar { font-size:10pt }
+span.Hyperlink { text-decoration:underline; color:#0563c1; -aw-style-name:hyperlink }
+span.InledningChar { font-family:'Verdana'; font-size: 1.00em; font-weight:bold }
+span.IntenseReference { font-weight:normal; font-style:normal; font-variant:normal; text-decoration:none; text-transform:none; letter-spacing:0pt; vertical-align:0pt; color:#000000; display:inline }
+span.KommentarerChar { font-size:10pt }
+span.KommentarsmneChar { font-size:10pt; font-weight:bold }
+span.MotionTIllRiksdagenChar { font-size:19.5pt }
+span.OformateradtextChar { font-family:'Verdana'; font-size: 0.90em }
+span.PlaceholderText { color:#f4b083 }
+span.Rubrik1Char { font-family:'Verdana'; font-size: 1.05em }
+span.Rubrik2Char { font-family:'Verdana'; font-size: 1.00em }
+span.Rubrik3Char { font-family:'Verdana'; font-size: 0.90em; font-weight:bold }
+span.Rubrik4Char { font-family:'Verdana'; font-size: 0.90em; font-style:italic }
+span.Rubrik5Char { font-family:'Verdana'; font-weight:bold }
+span.Rubrik6Char { font-family:'Verdana'; font-style:italic }
+span.Rubrik7Char { font-family:'Verdana'; font-size: 0.90em; font-weight:bold }
+span.Rubrik8Char { font-family:'Verdana'; font-size: 0.90em; font-weight:bold }
+span.Rubrik9Char { font-family:'Verdana'; font-size: 0.90em; font-weight:bold }
+span.RubrikChar { font-family:'Verdana'; font-size: 1.00em; font-weight:bold }
+span.SidfotChar { font-size:11.5pt }
+span.UnderrubrikChar { font-family:'Verdana'; font-size: 0.90em; font-weight:bold }
+.TableGrid {  }
+
+.pconf{width: 450px;margin-left:5px;overflow:visable;font-family:Verdana, Geneva, sans-serif;} 
+ .sidhuvud_publikation, .sidhuvud_beteckning{font-size:133%}
+.MotionarLista {font-size:122%}
+
+--></style><div class="pconf"><span class="sidhuvud_publikation">Motion till riksdagen</span><br/>
+<span class="sidhuvud_beteckning">2025/26:3365</span><br/>
+<span class="MotionarLista">av Camilla Hansén m.fl. (MP)</span><br/>
+<h1>Livslångt lärande och forskning för ett hållbart samhälle</h1>
+<hr class="sidhuvud_linje"/>
+
+
+		<div class="Section1">
+			<p class="Normalutanindragellerluft">
+				<a name="_Toc106800475"></a><a name="_Toc106801300"><span style="-aw-import:ignore">&#xa0;</span></a>
+			</p>
+			<p class="RubrikFrslagTIllRiksdagsbeslut">
+				<span style="-aw-sdt-tag:'CC_Boilerplate_4'; -aw-sdt-title:'CC_Boilerplate_4'"><span>Förslag till riksdagsbeslut</span></span><span style="-aw-bookmark-end:_Toc106800475"></span><span style="-aw-bookmark-end:_Toc106801300"></span>
+			</p>
+			<div style="-aw-sdt-tag:'eca1333d-dd60-48ee-bcd8-6db317086c7b'; -aw-sdt-title:'Yrkande 1'">
+				<ol type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-left:14pt; t-i:0pt; padding-left:5.85pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att politiken bör skapa starka förutsättningar för ett livslångt lärande för att kunna hantera de globala megatrenderna och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'a068121b-e1ec-4f4b-aee4-86af7ce05bfb'; -aw-sdt-title:'Yrkande 2'">
+				<ol start="2" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; margin-left:14pt; t-i:0pt; padding-left:5.85pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att stärka vuxenutbildning och yrkeshögskolan och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'bee9ab2c-ceca-453e-8d98-41b4df626496'; -aw-sdt-title:'Yrkande 3'">
+				<ol start="3" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; margin-left:14pt; t-i:0pt; padding-left:5.85pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att öka kvaliteten på sfi och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'62b6bd68-e2ca-442f-8404-9209f2d4b2d0'; -aw-sdt-title:'Yrkande 4'">
+				<ol start="4" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; margin-left:14pt; t-i:0pt; padding-left:5.85pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om ett grönt kunskapslyft för att underlätta omställning till en hållbar arbetsmarknad, motverka arbetslöshet och skapa hållbara jobb för unga och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'466470c0-c983-4355-928c-9ac6d3c3ecb1'; -aw-sdt-title:'Yrkande 5'">
+				<ol start="5" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; margin-left:14pt; t-i:0pt; padding-left:5.85pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om lärcentrum för att ge tillgång till högre utbildning i hela Sverige och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'719552cf-9393-4f8c-8b7e-f2710cdfa7b3'; -aw-sdt-title:'Yrkande 6'">
+				<ol start="6" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; margin-left:14pt; t-i:0pt; padding-left:5.85pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att ge ukrainska flyktingar bättre möjligheter till utbildning och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'e3a8a0fe-1f66-4879-8d99-b5e4afb628c8'; -aw-sdt-title:'Yrkande 7'">
+				<ol start="7" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; margin-left:14pt; t-i:0pt; padding-left:5.85pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att stärka skyddet för den akademiska friheten i grundlag och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'0b473880-a66c-4d2e-8d26-819c3e1a470a'; -aw-sdt-title:'Yrkande 8'">
+				<ol start="8" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; margin-left:14pt; t-i:0pt; padding-left:5.85pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om högre utbildning som en kraft för omställningen och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'da67433a-1a1f-4ad4-b2c4-7fea6d145ef6'; -aw-sdt-title:'Yrkande 9'">
+				<ol start="9" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; margin-left:14pt; t-i:0pt; padding-left:5.85pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att produktivitetsavdraget ska avvecklas för att stärka lärosätenas finansiering och oberoende och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'9a5e4c74-2c7b-48ef-8ccf-fc9a60b5e2a2'; -aw-sdt-title:'Yrkande 10'">
+				<ol start="10" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; t-i:0pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att utreda lärosätenas ökade kostnader för lokaler och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'363b4097-b156-4c76-9e0e-3e1e37b926a6'; -aw-sdt-title:'Yrkande 11'">
+				<ol start="11" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; t-i:0pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om forskningspolitikens mål för jämställdhet och samverkan och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'d384e513-9a4f-4c0d-ac13-185540ff4dca'; -aw-sdt-title:'Yrkande 12'">
+				<ol start="12" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; t-i:0pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att stärka miljö- och klimatforskningen och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'9e906a5a-b458-4941-be90-41329dd29297'; -aw-sdt-title:'Yrkande 13'">
+				<ol start="13" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; t-i:0pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att stärka forskning med särskilt fokus på resurseffektivitet och cirkularitet och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'aef7d422-dad9-447f-93e0-d6b54c8371b1'; -aw-sdt-title:'Yrkande 14'">
+				<ol start="14" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; t-i:0pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att stärka havsmiljöforskningen och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'b9b23cd8-aedf-4fcf-b1da-28e8cbcfd2fd'; -aw-sdt-title:'Yrkande 15'">
+				<ol start="15" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; t-i:0pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att säkerställa finansiering av svensk utvecklingsforskning och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'2683611b-536e-4e2c-b59a-05a07f91bd54'; -aw-sdt-title:'Yrkande 16'">
+				<ol start="16" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; t-i:0pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om permanenta anslag för praktiknära forskning i skolan och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'c57fe954-3537-4fde-92b2-d4d8c4efbf85'; -aw-sdt-title:'Yrkande 17'">
+				<ol start="17" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; t-i:0pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om forskning för patientsäkerhet och vård och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'ff4c910d-de99-4c0a-8b51-3a9405b071af'; -aw-sdt-title:'Yrkande 18'">
+				<ol start="18" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; t-i:0pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att utreda behov av att inkludera praktiktjänstgöring i psykologutbildningen och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'6d554659-9d1d-4b87-bebc-9c11b7c75b2b'; -aw-sdt-title:'Yrkande 19'">
+				<ol start="19" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; t-i:0pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om forskningsinfrastruktur och ny isbrytare och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'daa1a918-b09a-40f6-9bf9-c3b0c934a78f'; -aw-sdt-title:'Yrkande 20'">
+				<ol start="20" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; t-i:0pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om vikten av samhällsvetenskaplig, humanistisk och konstnärlig forskning och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'f46be08c-7e68-40e7-9893-a494de106afc'; -aw-sdt-title:'Yrkande 21'">
+				<ol start="21" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; t-i:0pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om AI inom forskning och utbildning och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'82da8615-039a-436c-9a87-6e1763af9184'; -aw-sdt-title:'Yrkande 22'">
+				<ol start="22" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; t-i:0pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att ta fram en nationell plan för att fasa ut plågsamma djurförsök och gå över till djurförsöksfri forskning och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'86629218-07f5-4d6c-a1f2-8386adc47b67'; -aw-sdt-title:'Yrkande 23'">
+				<ol start="23" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; t-i:0pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att organisationer som företräder djurskyddsintressen ska få rätt att överklaga beslut i de djurförsöksetiska nämnderna och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'bfb00b2b-2ffe-47ff-8db0-337da299e153'; -aw-sdt-title:'Yrkande 24'">
+				<ol start="24" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; t-i:0pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om forskning kring beredskap och ett robustare samhälle och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'51fb8c00-e6e5-4149-85f7-55d90f894e9f'; -aw-sdt-title:'Yrkande 25'">
+				<ol start="25" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; t-i:0pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att flytta Sveriges lantbruksuniversitet (SLU) under Utbildningsdepartementet, likt övriga högskolor i Sverige, och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'46ce1a2f-44c3-40e0-b0aa-c3aa718c6851'; -aw-sdt-title:'Yrkande 26'">
+				<ol start="26" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; t-i:0pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om mer lärarledd undervisning i högskolan och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'a246ec0a-f6b2-41d7-9f95-050f04b33b84'; -aw-sdt-title:'Yrkande 27'">
+				<ol start="27" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; t-i:0pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om internationalisering och mobilitet och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'d8362668-db18-49bb-88b1-512c9f44ca9d'; -aw-sdt-title:'Yrkande 28'">
+				<ol start="28" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; t-i:0pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att införa ett Students at Risk-program i samverkan med Utrikesdepartementet och svenska högskolor och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'260098ff-ec31-4332-a1db-6b24e4df124d'; -aw-sdt-title:'Yrkande 29'">
+				<ol start="29" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; t-i:0pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om studenters ekonomiska trygghet och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'1291f3dc-5cec-469d-9fa7-4507687330d4'; -aw-sdt-title:'Yrkande 30'">
+				<ol start="30" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; t-i:0pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om omställningsstudiestöd och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'be11705e-0ca7-4739-9831-8fbf03854106'; -aw-sdt-title:'Yrkande 31'">
+				<ol start="31" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; t-i:0pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att utveckla och stärka studenthälsan och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'e1a5a1ee-77a6-4638-bee7-bb244a20fd24'; -aw-sdt-title:'Yrkande 32'">
+				<ol start="32" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; t-i:0pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om sjukskrivning och rehabilitering för studenter och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'291ece4b-ba26-4157-b67a-a759d460647a'; -aw-sdt-title:'Yrkande 33'">
+				<ol start="33" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; t-i:0pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att finansiera lagstadgade uppdrag och säkra studenters demokratiska inflytande och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'CC_Motivering_Rubrik'; -aw-sdt-title:'CC_Motivering_Rubrik'">
+				<h1>
+					<a name="MotionsStart"></a><a name="_Toc106801301"></a><a name="_Toc106800476"><span>Motivering</span></a>
+				</h1>
+			</div>
+			<span style="-aw-bookmark-end:_Toc106801301">
+			</span>
+			<p class="Normalutanindragellerluft">
+				<span style="-aw-bookmark-end:_Toc106800476"></span><span>Livslångt lärande, utbildning, folkbildning, forskarutbildning och forskning är avgörande för att hitta svaren på de utmaningar vårt samhälle står inför. Vuxenutbildning, folkbildning och folkhögskolor erbjuder nya vägar till utbildning och bildning genom hela livet. Högre utbildning, forskarutbildning och forskning är drivande för Sverige som kunskapsnation. Det livslånga lärandet och vår struktur för utbildning och bildning är som ett komplext ekosystem där alla delar behöver vara livskraftiga.</span>
+			</p>
+			<h2>
+				<span>Livslångt lärande</span>
+			</h2>
+			<p class="Normalutanindragellerluft">
+				<span>Miljöpartiets menar att det krävs en helhetssyn på utbildning och forskning som en del av det livslånga lärandet i en föränderlig omvärld. Vår samtid präglas av ett antal stora globala megatrender som påverkar vårt system för utbildning och forskning behöver organiseras för att stärka hela vårt samhälle. Bland det som kallas globala megatrender brukar nämnas klimatförändringar, globalisering, digitalisering och teknisk utveckling, urbanisering och demografiska förändringar. Dagens barn, elever och studenter – alla vi som lever här i Sverige – är världsmedborgare och makthavare som har förmågan att vara en del av det hållbara samhällsbygget i ljuset av de globala megatrender som påverka dem och vårt samhälle nu såväl som under hela deras livstid. </span>
+			</p>
+			<p>
+				<span>Politikens uppgift är att skapa förutsättningar </span><span class="FrslagstextChar">för ett livslångt lärande för hela befolkningen så att vi kan hantera konsekvenserna av de globala megatrenderna och skapa ett tryggt och hållbart samhälle tillsammans.</span>
+			</p>
+			<h3>
+				<span>Vuxenutbildning och yrkeshögskola</span>
+			</h3>
+			<p class="Normalutanindragellerluft">
+				<span>Alla behövs på svensk arbetsmarknad. Med hög arbetslöshet och branscher som inte hittar sökande till sina tjänster behövs alla möjligheter att byta yrke eller öka sin kompetens. Vuxenutbildningen och yrkeshögskolan är bärande komponenter för det livslånga lärandet. Komvux erbjuder sfi samt grund- och gymnasieutbildningar till den som behöver stärka sin position på arbetsmarknaden. Särskilt viktiga är de olika yrkespaketen som leder till branschcertifieringar. Komvux är också en utbildningsform som öppnar dörren till högre studier. Yrkeshögskolan erbjuder eftergymnasiala utbildningar över hela landet med nära anknytning till arbetsmarknadens behov och där studenterna i hög grad får jobb direkt efter avslutade studier. Det är en viktig utbildningsform för att motverka kompetensbrist inom viktiga yrkesområden, och det finns potential för utbyggnad som behöver ske i så hög takt som möjligt med bibehållen hög kvalitet. </span>
+			</p>
+			<h3>
+				<span>Öka kvalitet på svenska för invandrare (sfi)</span>
+			</h3>
+			<p class="Normalutanindragellerluft">
+				<span>Att lära sig ett nytt språk är nyckeln till integration, arbete och delaktighet i demokratin. Att neka människor denna möjlighet efter en alltför skarp och kort tidsgräns som regeringen nu föreslår är att aktivt skapa utanförskap. Det är en kortsiktig och inhuman politik som Sverige inte ska bedriva.</span>
+			</p>
+			<p>
+				<span>Utbildningsformen svenska för invandare står inför förändringar. De senaste tio åren har antalet nyanlända minskat, men fortfarande finns behov av språkutbildning i flera grupper, bl.a. av personer som varit i Sverige ganska länge och ännu inte lärt sig svenska, vilket också blir ett hinder för deltagande i samhällsliv och arbetsliv. Sfi behöver öppna för fler och ha mer uppsökande verksamhet för att nå de som behöver utbildningen.</span>
+			</p>
+			<p>
+				<span>Miljöpartiet anser att vägen till en effektivare sfi går via investeringar i kvalitet, individanpassning och större möjlighet att kombinera sfi och jobb, inte genom alltför strikta tidsgränser. Vi vill se en utbildning som bygger på varje individs potential och som ger reella förutsättningar för ett livslångt lärande. </span>
+			</p>
+			<p>
+				<span>Det behövs resurser för att ge högre kvalitet genom mindre grupper, högre lärartäthet, legitimerade lärare och bra anställningsvillkor. Kvalitet på undervisningen kan ökas genom större omfattning av svenska som andraspråk för sfi-lärare, som idag får en termins studier i SVA järmfört med gymnasierlärare som har tre terminer. Det är också viktigt att lagens krav på legitimation för ämnen man är anställd för att undervisa i verkligen uppfylls, och att arbetsgivare ställer tydliga krav på och ger stöd till medarbetare som ännu inte är legitimerade.</span>
+			</p>
+			<h3>
+				<span>Ett grönt kunskapslyft</span>
+			</h3>
+			<p class="Normalutanindragellerluft">
+				<span>Miljöpartiet vill att alla människor ska ges möjligheten att bidra till omställningen. Bygget av framtidens hållbara Sverige kommer att skapa tusentals och åter tusentals arbetstillfällen. För att den mångfald av kompetens och erfarenhet som många redan besitter ska förvaltas på bästa sätt måste människor erbjudas möjligheten att om- och vidareutbilda sig under hela yrkeslivet. När fossila verksamheter fasas ut behöver staten skapa goda förutsättningar för investeringar i grön industri och gröna innovationer i hela landet för att genom klimatomställningen skapa nya gröna jobb. Staten bör ta ett särskilt ansvar för trygghetssystem och skyddsnät under omställningen. Därför bör regeringen lansera ett grönt kunskapslyft med syftet att underlätta teknik- och kompetensskifte och omställning till en hållbar arbetsmarknad. Kunskapslyftet bör genomföras som en arbetsmarknadspolitisk åtgärd inom vuxenutbildningen, yrkeshögskolan samt gymnasieskola och högskola i syfte att se till att det kompetens som nu krävs faktiskt finns. Vi behöver de unga, det som ännu inte har ett arbete och de som behöver uppdatera sina kunskaper för det nya hållbarhetsjobben.</span>
+			</p>
+			<h3>
+				<span>Lärcentrum</span>
+			</h3>
+			<p class="Normalutanindragellerluft">
+				<span>Högre utbildning behövs i hela landet, och är en nödvändighet för kompetensförsörjning inom en bredd av områden, t.ex. lärare, sjuksköterskor eller ingenjörer. På ett lärcentrum kan studenterna ta del av högre utbildning vid en högskola eller yrkeshögskola, men även komvux. Där finns studielokaler, utrustning för att följa föreläsningar gemensamt och stöd från handledare. Dels kan man läsa en utbildning med fjärrundervisning, dels kan man genomföra tentamen på en distansutbildning på sitt lokala lärcentrum. Lärcentra kan erbjuda olika typer av stöd till studenter, beroende på kommunens uppdrag. Lärcentra kan spela en viktig roll för kompetensförsörjningen i stora delar av landet genom att öka tillgången till utbildning och ett sammanhang för studenterna att genomföra sina studier i. De lokala behoven av kompetens och förutsättningarna för studier, t.ex. beroende på geografiska avstånd eller specifika branschers behov är olika. Det växer nu fram olika strukturer där kommuner och regioner tar stort ansvar för investeringar i olika lärmiljöer. Här behövs en långsiktig finansiering där staten tar sin del av ansvaret för den lokala och regionala kompetensförsörjningen av t.ex. lärare, sjuksköterskor och andra viktiga samhällsbärande yrken inom industri och transport. Behoven ser olika ut i Norrbottens gruvområden, Smålands och Dalsland landsbygder och det expanderande Mälardalen. </span>
+			</p>
+			<p>
+				<span>Vad gäller just lärare föreslår utredningen ”Ämneskunskaper och lärarskicklighet – en reformerad lärarutbildning, SOU 2024:81” att pengar avsätts för att utveckla och stödja samverkan mellan lärosäten och lärcentrum. Det är viktigt att satsningarna följs upp och ges ett förutsägbart ekonomiskt stöd, dels vad gäller lärarutbildningar, dels vad gäller övriga utbildningar som behövs i hela landet. För Miljöpartiet är det viktigt att det går att utbilda sig i hela landet och att studenter får bra förutsättningar att genomföra sina studier, även om de bort lång bort från närmsta campus. </span>
+			</p>
+			<h3>
+				<span>I solidaritet med Ukraina</span>
+			</h3>
+			<p class="Normalutanindragellerluft">
+				<span>Ukrainska flyktingar har rätt att arbeta i Sverige, men många har fortfarande svårt att komma in på arbetsmarknaden på grund av att de inte kan tillräckligt bra svenska. Sedan sommaren 2023 är det möjligt för kommunerna att erbjuda dem som har flytt från Ukraina kommunal vuxenutbildning i svenska för invandrare, sfi. För Miljöpartiet är det däremot tydligt att denna åtgärd inte är tillräcklig. Det är bra att många kommuner erbjuder sfi och att de får ersättning för det, men möjligheten för ukrainare att lära sig svenska och därmed förbättra sina möjligheter på arbetsmarknaden ska inte vara beroende av vilken kommun man bor i. Medel för sfi ska heller inte dras från kommunersättningar för flyktingmottagande, som regeringen föreslår. Till skillnad från regeringen vill vi i Miljöpartiet att alla flyktingar ska ha rätt till sfi, det ska inte bara vara något som kommunerna kan erbjuda. </span>
+			</p>
+			<p>
+				<span>Många ukrainska flyktingar har värdefull kompetens som efterfrågas på den svenska arbetsmarknaden och viljan att arbeta är stark – ändå saknar många arbete. Vi vet att språkbarriärer är ett hinder in till arbetsmarknaden, därför måste kommunerna bli skyldiga att erbjuda svenskundervisning. Det är bra för att stärka den svenska arbetsmarknaden men också för att ge ukrainare möjligheter att leva och trivas i Sverige. På lång sikt är det dessutom värdefullt att de som senare återvänder till ett fritt och fredligt Ukraina behärskar svenska och har positiva erfarenheter från sin tid i Sverige. Det kan i synnerhet underlätta genomförandet av svenska hjälpinsatser i återuppbyggandet av det krigsskadade Ukraina. </span>
+			</p>
+			<p>
+				<span>I massflyktsdirektivet anges att ukrainska flyktingar ska tillåtas delta i utbildnings-möjligheter för vuxna, yrkesutbildning och praktisk arbetsplatsorientering. Massflykts-direktivets krav är EU:s minimikrav, men det finns ingenting som hindrar Sverige från att gå längre. Ukrainska flyktingar ska ges bättre möjligheter till utbildning som gör det möjligt för dem att få arbete i Sverige. Miljöpartiet står i solidaritet med det ukrainska folket.</span>
+			</p>
+			<h2>
+				<span>Högre utbildning och forskning</span>
+			</h2>
+			<h3>
+				<span>Akademisk frihet behöver skyddas i grundlag</span>
+			</h3>
+			<p class="Normalutanindragellerluft">
+				<span>En stark och levande demokrati bygger bl.a. på grundläggande principer om fri akademi, fria domstolar, fri press och fri kultur. Politiskt inflytande och kortsiktiga intressen får inte definiera vilka ämnen som får forskas på eller undervisas om inom våra lärosäten. Akademisk frihet är mer än enbart den nu grundlagsskyddade friheten att fritt välja forskningsfrågor, forskningsmetod och publicering av resultatet. Akademisk frihet omfattar också högre utbildning, lärosätenas organisering och finansiering och utnämningar av styrelse och rektorer. </span>
+			</p>
+			<p>
+				<span>Skyddet för den akademiska friheten behöver stärkas i grundlag. Regeringen aviserade två nya utredningar i forskningspropositionen som rör den akademiska friheten, dels om lärosätenas organisering, dels om akademisk frihet. Det finns tyvärr inte stöd i riksdagen för att utreda lärosätenas organisering, där det utöver associationsform också skulle vara möjligt att utreda hur den akademiska friheten kan stärkas inom en modern myndighetsorganisation på snabbast möjliga sätt. Det som krävs för starkare är en omfattande grundlagsutredning med uppdrag att stärka skyddet för den akademiska friheten i sin helhet. </span>
+			</p>
+			<p>
+				<span>Av Universitetskanslersämbetets rapport Akademisk frihet i Sverige (2024) framgår att varannan lärare, forskare och doktorand anser att den akademiska friheten vid svenska lärosäten i dag är utmanad. Detta är en hög siffra som ger skäl till eftertanke och reflektion. Det i särklass vanligaste skälet till att den akademiska friheten anses utmanas är genom politisk påverkan samt genom hur forskningsfinansieringssystemet är uppbyggt och fungerar. Detta sker även i en kombination av varandra där den politiska styrningen manifesteras genom forskningsfinansieringen, t.ex. genom riktade utlysningar och strategiska satsningar. En tredjedel uppger dessutom att deras egen akademiska frihet har utmanats. I svaren lyfts bl.a. att forskare har bytt fokus för sin forskning på grund av vad de har upplevt som homogenitet och likriktning inom de akademiska miljöerna. Detta är allvarligt och en fråga som berör hela samhället. </span>
+			</p>
+			<p>
+				<span>Miljöpartiet noterar att regeringen i sin redogörelse av UKÄ:s rapport avstår från att nämna just hotet från politisk påverkan, vilket är anmärkningsvärt. I ljuset av det är det än viktigare att regeringen initierar en utredning som tar ett brett grepp om akademisk frihet i grundlagen, och även föreslår ett stärkt skydd för akademisk frihet i hela lag-stiftningskedjan som omfattar såväl högre utbildning och forskning som lärosätenas organisationsform, finansiering och utnämningar.</span><span style="-aw-import:spaces">&#xa0; </span>
+			</p>
+			<h3>
+				<span>Högre utbildning och forskning som kraft för omställningen i hela Sverige</span>
+			</h3>
+			<p class="Normalutanindragellerluft">
+				<span>Vår samtid präglas av ett antal stora globala megatrender som påverkar hur vårt system för utbildning och forskning behöver organiseras för att stärka vårt samhälle. Bland det som kallas globala megatrender brukar nämnas klimatförändringar och förlust av biologisk mångfald, globalisering, digitalisering och teknisk utveckling, urbanisering och demografiska förändringar. Forskning och högre utbildning står inför en intensiv tid av förändring och utveckling för att möta behoven som dessa megatrender skapar.</span>
+			</p>
+			<p>
+				<span>Den samhällsomvandling som krävs för att bromsa och hantera konsekvenserna av klimatförändringarna utgör en delvis oöverblickbar utmaning. Högre utbildning och forskning har en nyckelroll att spela för att möjliggöra omställningen till ett hållbart samhälle. I såväl grundlagen som högskolelagen finns redan mandat att aktivt arbeta för att främja hållbar utveckling, och genom mångvetenskapligt angreppssätt får samhället en bred bild av klimatförändringarnas orsaker, utveckling och konsekvenser. </span>
+			</p>
+			<p>
+				<span>Förutom en forskning som ger oss insikter i klimatforskningen behövs även forskning för att förstå och hitta de rätta lösningarna för att både sänka utsläppen och förhindra de negativa effekterna av klimatförändringarna. Här behövs en bredd av forskning inom naturvetenskap, ekonomi, teknik, samhällsvetenskap m.fl. som i samverkan kan hjälpa samhället i denna ödesfråga. Den kunskapen är grunden till hur vi sänker utsläppen och anpassar samhället. </span>
+			</p>
+			<p>
+				<span>Lärosätena har en enorm potential att utgöra en stark kraft i omställningen – genom utbildning, forskning, samverkan och omställning av den egna verksamheten – men liksom andra aktörer behöver lärosätenas arbete med att främja hållbar utveckling intensifieras, uppdragen förtydligas och resurser tillsättas.</span>
+			</p>
+			<p>
+				<span>Den samlade vetenskapens besked om vad som krävs för att undvika de värsta följderna av klimatförändringarna är en snabb och genomgripande omställning. Det är med andra ord ingen liten uppgift som åsyftas i högskolelagen, som anger att lärosätena i sin verksamhet ska främja en utveckling som innebär att nuvarande och kommande generationer tillförsäkras en hälsosam och god miljö, ekonomisk och social välfärd och rättvisa. För att lärosätena ska uppfylla sitt uppdrag att främja hållbar utveckling krävs att de genom utbildning, forskning och samverkan bidrar till en snabb och genomgripande förändring vars motstycke saknas i historien.</span>
+			</p>
+			<p>
+				<span>För Miljöpartiet är vetenskap och forskning ett fundament. Vi ser med största allvar på politikens roll att ge förutsättningar för den fria akademin att ge oss kunskaperna vi behöver för att kunna genomföra en rättvis omställning till ett hållbart samhälle, med bibehållen respekt för akademins frihet och oberoende.</span>
+			</p>
+			<h3>
+				<span>Produktivitetsavdraget ska avvecklas</span>
+			</h3>
+			<p class="Normalutanindragellerluft">
+				<span>I dag pågår en orimlig urholkning av lärosätenas finansiering genom produktivitetsavdraget som gör att finansieringen för högre utbildning och forskning krymper. Det leder till färre undervisningstimmar för studenterna och till lärare och forskare som ska producera mer världsledande forskning på kortare tid. Miljöpartiet vill avskaffa produktivitetsavdraget och därmed tillföra lärosätena ökade resurser. De medel som avser forskning och utbildning på forskarnivå skulle med Miljöpartiets ekonomiska politik redan 2025 ha inneburit en förstärkning på 308 miljoner. För 2026 innebär det en förstärkning på 202 miljoner kronor och för 2027 en förstärkning utöver regeringens budget på 208 miljoner kronor. Miljöpartiet avser att motsvarande medel även kommer att gälla för 2028. Det räcker inte för att finansiera världsledande högre utbildning, men det sätter stopp för urholkningen av högskolans finansiering.</span>
+			</p>
+			<h3>
+				<span>Utred lärosätenas ökade kostnader för lokaler </span>
+			</h3>
+			<p class="Normalutanindragellerluft">
+				<span>Akademiska Hus har i dag ett avkastningskrav på 6 procent över en konjunkturcykel och har de senaste åren överträffat detta. Den största delen av lärosätenas lokaler hyrs av Akademiska Hus och de höga lokalhyrorna tar i dag en allt större del av lärosätenas anslag. Flera lärosäten uttrycker en förtvivlan över rådande system där statens önskemål om avkastning från Akademiska Hus och utbildningspolitiken inte är förenliga med varandra. Regeringen behöver utreda en förändring för att lärosätenas kostnader för lokaler genom Akademiska Hus ska vara rimliga utifrån de anslag som lärosätena tilldelas.</span><span style="-aw-import:spaces">&#xa0; </span>
+			</p>
+			<h2>
+				<span>Målet med forskningspolitiken</span>
+			</h2>
+			<p class="Normalutanindragellerluft">
+				<span>Det övergripande målet med den svenska forskningspolitiken är väl etablerat: ”Sverige ska vara ett av världens främsta forsknings- och innovationsländer och en ledande kunskapsnation, där högkvalitativ forskning, högre utbildning och innovation leder till samhällets utveckling och välfärd, näringslivets konkurrenskraft och svarar mot de samhällsutmaningar vi står inför, både i Sverige och globalt.” I den forskningspolitiska propositionen från 2016 (prop. 2016/17:50 Kunskap i samverkan – för samhällets utmaningar och stärkt konkurrenskraft) aviserade den tidigare regeringen med Miljöpartiet och Socialdemokraterna det forskningspolitiska målet och det är kvar även i 2024 års forskningsproposition.</span>
+			</p>
+			<h3>
+				<span>Jämställdhetsmålet ska vara kvar</span>
+			</h3>
+			<p class="Normalutanindragellerluft">
+				<span>Regeringen tagit bort delmålet om att jämställdheten inom högre utbildning och forskning ska öka. Som delmål i den förra forskningspropositionen Forskning, frihet, framtid – kunskap och innovation för Sverige (prop. 2020/21:60) fanns målet att jämställdheten ska öka, men Tidö-regeringen tog bort det i forskningsproposition ”Forskning och innovation för framtid, nyfikenhet och nytta (prop 2024/25:60). Miljöpartiet menar att jämställdhetsmålet ska återinföras ör att betona värdet av jämställdhet inom forskningen och för att över tid följa andelen män och kvinnor bland nyrekryterade professorer och lektorer.</span><span style="-aw-import:spaces">&#xa0;&#xa0; </span>
+			</p>
+			<h3>
+				<span>Samverkan är nyckeln till framgång – målet om samverkan återinföras</span>
+			</h3>
+			<p class="Normalutanindragellerluft">
+				<span>Regeringen har också tagit bort delmålet om samverkan och samhällspåverkantill förmån för ett mål om innovation i ett globalt perspektiv. Miljöpartiet anser att delmålet om samverkan och samhällspåverkan ska vara kvar, och vill understryka vikten av att lärosäten har förmåga att samverka med det omgivande samhället. Särskilt viktigt är att vara en levande del av samhällsdebatten.</span>
+			</p>
+			<h2>
+				<span>Forskning för ett hållbart samhälle</span>
+			</h2>
+			<h3>
+				<span>Nytt nationellt forskningsprogram om klimat efter 2028</span>
+			</h3>
+			<p class="Normalutanindragellerluft">
+				<span>Förlängningarna av det nationella forskningsprogrammet om klimat i forskningspropositionen verkar främst vara för utvärdering. Det är viktigt att forskning utvärderas och att ny kunskap och nya erfarenheter tas vidare. Men det kan inte stanna vid en utvärdering. Miljöpartiet avser att finansiera en fortsättning även efter 2028. En fortsättning av det nationella forskningsprogrammet om klimat avser även en ökad samverkan kring berörda forskningsområden för att hitta de rätta lösningarna för att både sänka utsläppen och förhindra de negativa effekterna av klimatförändringarna. Här ligger även den viktiga frågan kring stärkt forskning kring klimatanpassning. </span>
+			</p>
+			<h3>
+				<span>Stärkt miljöforskning i takt med tiden</span>
+			</h3>
+			<p class="Normalutanindragellerluft">
+				<span>Även anslagen till miljöforskning behöver öka för att vi ska kunna upprätthålla den höga nivån och fortsätta arbetet med att täcka kunskapsluckor som kan ligga till grund för ett stärkt åtgärdsarbete. En nivåhöjning här möjliggör fler parallella projekt, och kan exempelvis täcka viktiga områden som cirkulär ekonomi, spridning av miljögifter och miljöeffekter av havsbaserad vindkraft, där myndigheterna redan har identifierat behov av mer forskning. </span>
+			</p>
+			<h3>
+				<span>Särskilt fokus på resurseffektivitet och cirkularitet</span>
+			</h3>
+			<p class="Normalutanindragellerluft">
+				<span>Användningen av naturresurser har ökat nära fyra gånger under de senaste 50 åren. Om utvecklingen fortsätter som hittills är det sannolikt att resursanvändningen ökar med minst 60 procent till 2060 jämfört med 2020 års nivå. Att öka resurseffektiviteten och cirkulariteten är helt avgörande för att hålla ekonomin inom planetens gränser och därmed bevara livsuppehållande ekosystemtjänster. Miljöpartiet föreslår att regeringen säkerställer ett särskilt fokus på resurseffektivitet och cirkularitet. </span>
+			</p>
+			<p>
+				<span>Det behövs stärkt forskning och innovation inom t.ex. byggsektorn, transporter, metaller och mineral, biomassa men även textilier. Med en stärkt forskning kan det cirkulära samhället utvecklas allt snabbare och här finns sannolikt både banbrytande och helt avgörande framsteg framför oss – bokstavligt talat. Samhället behöver bättre än i dag stödja utveckling och samverkan genom forskning och innovation som leder fram till nya affärsmodeller. Det här är en möjlighet för både miljön och näringslivet i omställningen till cirkulär ekonomi och ett hållbart samhälle. </span>
+			</p>
+			<p>
+				<span>Det behövs mer kunskap om miljögifter och t.ex. hur den ökande PFAS-problematiken ska hanteras. Därför prioriterar Miljöpartiet forskningsområden som kan leda till utveckling av tekniker för exempelvis rening av miljögifter från mark och vatten. Samhället behöver vara bättre förberett på att hantera både nya och redan kända kemikalier, andra ämnen och material i omlopp. </span>
+			</p>
+			<h3>
+				<span>Stärk havsmiljöforskningen</span>
+			</h3>
+			<p class="Normalutanindragellerluft">
+				<span>Det saknas forskning och kunskap inom flera områden som är väsentliga för att vidta rätt åtgärder för att kunna nå miljömålet Hav i balans samt levande kust och skärgård. Miljöpartiet anser, i likhet med Miljömålsberedningen, att det behövs ett nytt anslag inom utgiftsområde 20 Klimat, miljö och natur, med benämningen Havs- och vatten-miljöforskning främst till stöd för forskning inom arbetet med miljökvalitetsmålet Hav i balans samt levande kust och skärgård. Regeringens satsningar är otillräckliga och Miljöpartiet ville lägga 200 miljoner kronor mer än regeringen inom havsmiljöforskningen i forskningspropositionen.</span>
+			</p>
+			<h3>
+				<span>Utvecklingsforskning för en robust värld fri från fattigdom och förtryck</span>
+			</h3>
+			<p class="Normalutanindragellerluft">
+				<span>Miljöpartiet vill säkerställa en långsiktig finansieringsmodell för svensk utvecklings-forskning och underlätta för forskningssamarbeten med forskare i låginkomstländer. Vi oroas när viktiga områden där Sverige bidragit till det internationella vetenskapssamhället prioriteras bort av regeringen, som när regeringen 2023 med kort varsel beslutade att stoppa finansiering av utvecklingsforskning via Vetenskapsrådet.</span>
+			</p>
+			<p>
+				<span>Vetenskapsrådet finansierar utvecklingsforskningen med medel från biståndsbudgeten för forskning av hög kvalitet om fattigdomsbekämpning, hållbar utveckling och samarbeten med fattiga länder sedan 2013. Vetenskapsrådets rapport om arbetet fram till 2023 visar att det haft betydelse som en stabil bas i finansieringen av utvecklingsforskningen, gett unga forskare möjlighet att etablera sig, varit en arena för att bygga upp specialistkunskap samt bidragit till internationalisering. Den internationaliseringen har betydelse för både samarbetsländerna och Sverige, vilket t.ex. blev tydligt med utbrottet av afrikansk svinpest i Dalarna. </span>
+			</p>
+			<p>
+				<span>För att bygga en robust värld fri från fattigdom och förtryck krävs kunskap om vad som behöver göras och kompetens nog för att göra det på bästa sätt. Svensk utvecklingsforskning omfattar vitt skilda områden som skuldhållbarhet, energiomställning, epidemier och jordbruksutveckling, men också sådant som rör kvinnors och flickors sexuella och reproduktiva hälsa och rättigheter. Den ger värdefull kunskap som är viktig även för oss i Sverige. Det finns tydliga och starka kopplingar mellan utveckling, klimat, demokrati, säkerhet och hälsa. Statistik från FN visar att investeringar i konfliktförebyggande och utveckling ger stora besparingar vad gäller framtida insatser. Regeringen bör återkomma med förslag kring hur man avser att säkerställa långsiktig och stabil finansiering av utvecklingsforskningen.</span>
+			</p>
+			<h3>
+				<span>Permanenta anslag för praktiknära forskning i skolan</span><span style="-aw-import:spaces">&#xa0; </span>
+			</h3>
+			<p class="Normalutanindragellerluft">
+				<span>ULF står för utbildning, lärande, forskning och syftet är att främja en långsiktig utveckling av svensk skola genom samverkan mellan skolhuvudmän och lärosäten kring praktiknära forskning. Försöksverksamheten startade 2017 och övergick till permanent verksamhet den 1 januari 2025 i och med att det första tioåriga avtalet tecknades mellan forskningsinstitutet Ifous och Sveriges universitets- och högskoleförbund (SUHF). Den breda utbildningen i Sverige gynnas av ett utvecklat samverkansarbete och inte minst praktiknära forskning. Miljöpartiet är positivt till satsningen och understryker vikten av att säkra en långsiktig finansiering genom anslag för forskning och utbildning på forskarnivå vid Uppsala universitet, Göteborgs universitet, Umeå universitet, Karlstads universitet och Stockholms universitet för att leda de fem regionala noderna.</span>
+			</p>
+			<h3>
+				<span>Stärkt forskning för patientsäkerhet och vård </span>
+			</h3>
+			<p class="Normalutanindragellerluft">
+				<span>Säkerheten i svensk sjukvård ska vara hög. Undvikbara skador, ofta kallade vårdskador, vållar såväl personligt lidande som stora samhälleliga kostnader. Svensk forskning kring patientsäkerhet är tyvärr liten i förhållande till problemets storlek och inget forskningsråd eller någon organisation har i dag ett ansvar för forskning eller koordinering av forskning inom området. Dessutom är resultaten från internationell forskning på området svåra att omsätta i Sverige, detta då lösningar är starkt kontextberoende. Även andra aktörer, bl.a. Patientsäkerhetsutredningen och Riksrevisionen, har vid sina granskningar lyft fram behovet av kunskap och forskning.</span>
+			</p>
+			<p>
+				<span>Vi föreslår att regeringen påbörjar ett arbete för ett specifikt forskningsprogram för patientsäkerhet. Ett sådant program bör dels ta fram ett antal prioriterade teman för fortsatt forskning, dels stödja den praktiska användningen så att kunskapen nyttiggörs och blir användbar för profession och vårdgivare. </span>
+			</p>
+			<h4>
+				<span>Patientsäkerhet i vårdutbildningar</span>
+			</h4>
+			<p class="Normalutanindragellerluft">
+				<span>Grunden för patientsäkerhet är att det är färdigheter studenter från vårdutbildningarna får med sig i sin utbildning. Nu har det nya läkarprogrammet kommit igång, där hela utbildningen fram till legitimation ryms inom programmet i och med att den tidigare AT-tjänstgöringen är inkluderas. Bland vårdutbildningarna har ännu inte psykolog</span><span>&#xad;</span><span>programmet den konstruktionen, och det är ett problem för patientsäkerheten. Eftersom det nu råder stor brist på PTP-tjänster för psykologer att veta att en legitimeras psykolog har erfarenhet av kliniskt patientarbete, eftersom PTP-tjänstgöringen kan ha gjorts utan patientkontakt. Det innebär en risk för patientsäkerheten. Det vore värdefullt att utreda om PTP-tjänstgöringen skulle kunna inkluderas i psykologutbildningen på samma sätt som läkarnas AT-tjänstgöring nu är en del av utbildningen. Det skulle säkerställa att det finns platser att tillgå och innehåll som blir en del av utbildningens helhet.</span>
+			</p>
+			<h3>
+				<span>Forskningsinfrastruktur: isbrytare, databaser och rymdanläggningar</span>
+			</h3>
+			<p class="Normalutanindragellerluft">
+				<span>Miljöpartiet ser betydelsen av både nationella och internationella forskningsinfrastrukturer. Det är mycket angeläget att svenska och internationella forskare kan utnyttja de främsta anläggningarna för mätningar, beräkningar, observationer och tillgång till databaser.</span>
+			</p>
+			<p>
+				<span>En kritisk forskningsinfrastruktur är isbrytaren Oden som under flera decennier varit en av världens främsta infrastrukturer för forskning i polarhaven. Sverige kan tack vare fartyget Oden bedriva polarforskning i världsklass i extrema miljöer och genom fartyget finns en etablerad plattform för internationella samarbeten där även andra aktörer betalar för att ges möjlighet att använda fartyget. Oden har passerat slutet på sin beräknade livslängd som forskningsinfrastruktur för polarforskning. Sveriges tillgång till en forskningsisbrytare i polarområdena behöver säkras och detta är av stor vikt för internationell polarforskning. Ett beslut om ett nytt forskningsfartyg som ersätter Oden behövs i närtid och regeringen bör öka takten och prioritera upp förberedelser och finansiering av för ett nytt polarforskningsfartyg i världsklass.</span>
+			</p>
+			<h3>
+				<span>Mer samhällsvetenskaplig, humanistisk och konstnärlig forskning behövs </span>
+			</h3>
+			<p class="Normalutanindragellerluft">
+				<span>Sverige är ett bildningsland och vi har allt att vinna på att ha en stark forskning inom en bredd av forskningsområden. Samhällsvetenskap och humaniora ger oss i grunden en ökad förståelse för vårt samhälle och ökar på samma sätt som andra forskningsområden den generella allmänbildningen och förståelsen för samhälle och miljö. Sverige ska fortsätta att vara ett bildningsland och då behöver forskningen vara bred, öppen och fri även inom samhällsvetenskaplig, humanistisk och konstnärlig forskning. </span>
+			</p>
+			<p>
+				<span>I ett samhällsklimat med allt större sociala och ekonomiska skillnader ökar även polariseringar i samhället. Det blir allt viktigare att förstå mekanismer som bidrar till och förstärker utanförskap och vilka åtgärder som kan främja ett samhälle med minskade klyftor. Inom implementeringar av klimatåtgärder finns ett ökat behov av att förstå de sociala och samhällsvetenskapliga aspekterna för att möjliggöra ännu större förutsättningar i samhället för att sänka utsläppen och skapa ökad resiliens i enlighet med den breda kunskap och samstämmighet som finns inom internationell naturvetenskaplig forskning om människans påverkan på vårt klimat. Här ligger inte minst betydelsen av forskning kring hållbara transporter och transporteffektivt samhälle. Den naturvetenskapliga forskningen behöver alltså kombineras med den samhällsvetenskapliga, humanistiska och konstnärliga forskningen för att nå målet om ett socialt, ekonomiskt och ekologiskt hållbart samhälle.</span>
+			</p>
+			<p>
+				<span>Den konstnärliga forskningen har, utöver sitt självklara egenvärde, en viktig roll i den hållbara omställningen där konsten och kulturen har förmågan att granska mänskliga värden, väcka känslor och visualisera framtidsvisioner. Miljöpartiet ser den konstnärliga utbildningens och forskningens viktiga plats i samhället.</span>
+			</p>
+			<p>
+				<span>Samhällsvetenskaplig forskning berör även forskning kring våld i nära relationer såsom hedersvåld och mäns våld mot kvinnor. Det är framför allt män som utövar våld – fysiskt, psykiskt, sexuellt och ekonomiskt – både mot andra män och mot kvinnor och här behövs mer forskning för att bryta denna utveckling och öka tryggheten i hela samhället. Forskningsområdet kopplat till spelfrågor bör ses över avseende hur hemvisten ska se ut för denna typ av forskning för att den ska kunna hitta möjlig finansiering. </span>
+			</p>
+			<h3>
+				<span>AI inom forskning och utbildning</span>
+			</h3>
+			<p class="Normalutanindragellerluft">
+				<span>Miljöpartiet välkomnar forskning inom artificiell intelligens (AI) för såväl utveckling som tillämpningar, inom exempelvis hälso- och life scienceområdena, liksom för områden som klimat, trafik och flera andra områden. Den snabba digitala omvandlingen i samhället är såväl en utmaning som en möjlighet, där utvecklingen av artificiell intelligens är väldigt kraftfull. Förändringarna går mycket fort och påverkar oundvikligen alla samhällssektorer. Regeringen behöver agera både snabbt och eftertänksamt för att öka hela samhällets möjligheter att använda AI som en möjlighet och stå bättre rustade inför möjliga följdverkningar av AI. </span>
+			</p>
+			<p>
+				<span>AI i utbildning och forskning handlar om att förbereda studenter för ett arbetsliv i snabb utveckling, att lärosäten i förvaltning, utbildning och forskning kan använda AI och andra avancerade tekniker på ett adekvat sätt för samhällsutvecklingens bästa. </span>
+			</p>
+			<p>
+				<span>AI-kommissionens förslag om excellenscentrum och satsningar på AI-forskning rimmar väl med sådana ambitioner. Samtidigt är det viktigt att AI är en del av utbildning på grundnivå och avancerad nivå, forskarutbildning och i forskning – både som verktyg och som föremål för forskning.</span>
+			</p>
+			<p>
+				<span>Miljöpartiet vill understryka att forskningsinsatser också måste finansieras och genomföras avseende de samhälleliga och mänskliga följdverkningar som AI kan ha. Vi har redan hört farhågor uttryckas kring flera mycket olika områden som autonoma vapensystem och ägande av omfattande datamaterial om enskilda människor, integritetsfrågor om övervakning och arbetsmarknadsfrågor vad gäller både trygghet och utbildning. Det finns också betydande frågetecken kring de enorma klimat</span><span>&#xad;</span><span>påfrestningarna i form av förbrukning av såväl energi som material som AI-utvecklingen för med sig. Det är därför utomordentligt angeläget att uppdrag till exempelvis Vetenskapsrådet för samordning av AI-forskning omfattar också dessa perspektiv.</span>
+			</p>
+			<p>
+				<span>Miljöpartiet vill lyfta fram AI-kommissionens förslag kring kompetenslyft för att säkerställa kompetensutveckling och att utbildningar på detta sätt framtidssäkras. Miljöpartiet vill samtidigt understryka vikten av att det även i den högre utbildningen också inkluderas frågor kring användningen av AI ur perspektiven mänskliga rättigheter, integritet och klimat. </span>
+			</p>
+			<h3>
+				<span>Satsa på forskning utan försöksdjur</span>
+			</h3>
+			<p class="Normalutanindragellerluft">
+				<span>Miljöpartiet är rösten för de som inte har en egen röst. Miljöpartiet vill att Sverige tar fram en handlingsplan för att så långt möjligt gå över till forskning fri från djurförsök. Vi vill också öka de statliga anslagen till forskning fri från djurförsök och förbättra möjligheten till validering av alternativa metoder. Organisationer som företräder djurskyddsintressen ska få rätt att överklaga beslut i de djurförsöksetiska nämnderna.</span>
+			</p>
+			<p>
+				<span>Vid användning av försöksdjur är grundförutsättningen att djur får användas bara om syftet med försöket inte kan uppnås utan användning av djur, att så få djur som möjligt används och att djuren inte utsätts för större lidande än vad som är absolut nödvändigt. Det är angeläget att alternativa metoder till djurförsök utvecklas. Forskning om alternativ till djurförsök utgår från den s.k. 3R-principen. Sverige kan bli världsledande inom alternativa metoder, vilket kan bidra till såväl nya jobb som nya företag. Efterfrågan på snabbare, billigare och säkrare testmetoder är stor. Med alternativa metoder kan såväl kostnaderna som tiderna för forskningen reduceras. </span>
+			</p>
+			<h3>
+				<span>Stärkt beredskap och ett robustare samhälle</span>
+			</h3>
+			<p class="Normalutanindragellerluft">
+				<span>Totalförsvarets forskningsinstitut (FOI) gör ett gediget arbete med forskning för Försvarsmakten och regeringen, mestadels inriktad på det militära försvaret. FOI bör få ett omfattande uppdrag av regeringen att forska även kring det civila försvaret. Samtidigt kvarstår ständigt behovet av att följa utvecklingen av militära hot som uppstår med anledning av teknikutvecklingen och hur vi kan skydda oss mot samt bemöta dessa. För att öka vår försörjningsförmåga och kunna klara en situation med stängda gränser är det avgörande att svenskt jordbruk kan drivas utan import av drivmedel och insatsvaror. Vi stöder forskning och innovation för att göra bl.a. livsmedelssektorn mer robust och hållbar så att den kan fungera även vid omfattande kriser och krig. </span>
+			</p>
+			<h2>
+				<span>Högre utbildning för samtiden och framtiden</span>
+			</h2>
+			<h3>
+				<span>Högre kvalitet - mer lärarledd undervisning i högskolan</span>
+			</h3>
+			<p class="Normalutanindragellerluft">
+				<span>Det finns inga genvägar till högre kvalitet i undervisningen i högskolan. Lärarledd tid är avgörande för studenternas möjlighet att tillgodogöra sig kurslitteratur och för att höja undervisningens kvalitet. </span>
+			</p>
+			<p>
+				<span>Universitetskanslersämbetet har kartlagt hur mycket studenterna i högskolan träffar sina lärare. Av deras rapport Lärarledd tid i den svenska högskolan (rapport 2018:15) framgår att en svensk student i genomsnitt träffar sina lärare elva timmar per vecka under sin första termin på högskolan. Variationerna är dock mycket stora. Studerande inom ämnesområdena humaniora, samhällsvetenskap, teologi och juridik har genomsnitt endast åtta timmars lärarledd undervisning per vecka. Minst lärarledd tid har studenter som läser sociologi, litteraturvetenskap och historia som bara erbjuds mellan sex och sju timmar lärarledd tid per vecka. Enligt Universitetskanslersämbetet är det alltför lite tid för att skapa en utbildning av hög kvalitet. Hur den lärarledda undervisningstiden på högskolan kan öka, i synnerhet på de utbildningar där den är som lägst, behöver ses över för att målet om likvärdighet i utbildningen ska nås.</span>
+			</p>
+			<h3>
+				<span>Internationalisering och mobilitet</span>
+			</h3>
+			<p class="Normalutanindragellerluft">
+				<span>Mobilitet mellan svenska studenter och utländska studenter är viktigt, oavsett om det sker vid lärosäten i Sverige eller på andra platser i världen. Vi ser att regeringens höjda studieavgifter för internationella studenter är ett hinder för detta. Regeringens förslag om nedskärningar i Erasmus är ytterligare ett steg i fel riktning. Sverige kan arbeta mer intensivt för att få fler internationella studenter, men även för att fler svenska studenter ska studera utomlands. Det lägger grunden för stärkt internationalisering för doktorander och forskare. </span>
+			</p>
+			<p>
+				<span>EU:s ramprogram för forskning och innovation – Horisont Europa – är världens största forskningsprogram och en viktig finansieringskälla för att utveckla forskning och innovation av hög kvalitet. Dessvärre har Sverige både ett lägre söktryck och en lägre beviljandegrad jämfört med såväl våra grannländer Danmark, Finland och Norge som EU i snitt. Detta är en utveckling som vi som land behöver vända.</span>
+			</p>
+			<p>
+				<span>Världsläget är dock en utmaning för internationellt utbyte inom högre utbildning och forskning, vilket Sverige precis som EU och andra länder behöver förhålla sig till. I och med den fullskaliga ryska invasionen av Ukraina förändrades säkerhetsläget i världen betydligt. Sanktioner har införts mot Ryssland och det finns i dag ingen reell möjlighet till forskningssamarbete med Ryssland. Men även andra länder uppträder alltmer på ett sätt som gör att det blir allt känsligare av säkerhetspolitiska eller folkrättsliga skäl att utbyta information och uppgifter mellan forskare knutna till vissa länder. Det försämrade säkerhetsläget påverkar även möjligheten till fri forskning och ett öppet samtal och utbyte av information och kunskap. </span>
+			</p>
+			<p>
+				<span>Miljöpartiet vill Sverige inrättar ett ”Students at Risk”-program i samverkan med Utrikesdepartementet och svenska högskolor, samt driver på för ett sådant program inom EU. Det innebär att studenter som riskerar sin rätt till utbildning genom exempelvis engagemang för mänskliga rättigheter får stöd att fortsätta sina studier i en trygg miljö i ett annat land. För forskare finns den möjligheten via programmet ”Scholars at Risk”. </span>
+			</p>
+			<h2>
+				<span>Livet som student</span>
+			</h2>
+			<h3>
+				<span>Studenter ekonomiska trygghet</span>
+			</h3>
+			<p class="Normalutanindragellerluft">
+				<span>Man ska kunna studera på högskola eller universitet oavsett var man kommer ifrån i samhället och landet. Miljöpartiet vill göra det enklare att ta steget att studera vidare genom att förbättra studenters bostadssituation och ekonomiska trygghet. </span>
+			</p>
+			<p>
+				<span>När Miljöpartiet satt i regeringen drev vi igenom en höjning av studiebidraget med 300 kronor i månaden och såg till att studenter med särskilda skäl får sjukskriva sig på deltid (2019). Vi vill jobba vidare för att alla studenter ska omfattas av a-kassa och sjukförsäkring på samma villkor som de yrkesarbetande har. Studenter behöver ha rätt till sjukskrivning och rehabilitering på villkor som är likvärdiga arbetstagare.</span>
+			</p>
+			<p>
+				<span>Studenter är en grupp med mycket små ekonomiska marginaler och den ekonomiska stressen påverkar många studenter negativt. Bidragsdelen i studiemedlet har länge släpat efter prisutvecklingen och singelstudenthushåll tillhör den grupp som drabbas värst av den höga inflationen. Därför vill vi höja studiebidraget med ytterligare 300 kronor i månaden och vi vill se över regelverket för fribeloppet till att enbart gälla under terminstiderna. En höjning av studiemedlet och större möjligheter att ha inkomster mellan terminerna skapar bättre förutsättningar för att fler ska välja att vidareutbilda sig och för de som väljer att göra det att klara sig ekonomiskt. Miljöpartiet vill dessutom utöka antalet veckor som en kan ta ut studiemedel från CSN.</span>
+			</p>
+			<p>
+				<span>För att ytterligare undanröja att den egna ekonomin blir ett hinder för vidareutbildning, har omställningsstudiestödet introducerats som ett studiemedel för personer mitt i arbetslivet. Genom omställningsstudiestödet ges människor en chans att fortbilda sig inom sitt yrke, eller att välja en ny väg i livet genom att utbilda sig inom ett nytt område. Att anställda ges en möjlighet till omställningsstudiestöd stärker deras position på arbetsmarknaden, samtidigt som rörligheten och matchningen främjas genom att en ersättare anställs under utbildningstiden. Men det är mycket viktigt att det tillförs medel för omställningsstudiestödet, då efterfrågan är så mycket större än det finns medel avsatta och många har blivit utan på grund av administrativa kapacitetsbrister hos CSN.</span>
+			</p>
+			<p>
+				<span>Miljöpartiet vill vidare att det ska vara möjligt att efter en tid återkvalificera sig för att få möjlighet att söka ytterligare perioder med omställningsstöd för att möjliggöra omställning flera gånger under arbetslivet.</span>
+			</p>
+			<h3>
+				<span>Stärk studenternas psykosociala hälsa</span>
+			</h3>
+			<p class="Normalutanindragellerluft">
+				<span>Den psykiska ohälsan är i dag alltför utbredd bland studenter vid Sveriges lärosäten. Folkhälsomyndighetens enkätundersökningar visar att högskolestudenter mellan 18 och 29 år oftare lider av ett nedsatt psykiskt välbefinnande jämfört med yrkesarbetande i samma åldersgrupp.</span>
+			</p>
+			<p>
+				<span>Miljöpartiet ser att det behövs en genomgripande nationell kartläggning av studenters psykiska hälsa och de olika vårdaktörernas ansvarsområden, med förslag till åtgärder. Idag slussas studenter mellan studenthälsan och primärvården helt i onödan. I kartläggningen behöver dessutom studenters möjligheter till sjukskrivning och rehabilitering på samma villkor som anställda belysas. Studenthälsan på landets lärosäten bör inkludera även icke-studierelaterade problem för att komma till bukt med problemen, suicidprevention i synnerhet. Studenthälsan bör även få rätten att remittera vidare studenter om behovet anses så pass stort att det är befogat. </span>
+			</p>
+			<h3>
+				<span>Studentinflytande</span>
+			</h3>
+			<p class="Normalutanindragellerluft">
+				<span>Studenternas påverkan på svensk högre utbildning är lagstadgad och utförs genom studentkårer på landets lärosäten och genom Sveriges förenade studentkårer (SFS). Majoriteten av deras verksamheter finansieras av statliga bidrag, och en mindre del genom medlemsavgifter. Detta system infördes 2010 som en kompensation för minskade medlemsantal i samband med att det slutade vara obligatoriskt att vara med i en studentkår. Miljöpartiet vidhåller vikten av säkrad finansiering till landets studentkårer och avser långsiktigt säkra studenternas demokratiska inflytande på högskolorna. </span>
+			</p>
+			<div style="-aw-sdt-tag:'CC_Underskrifter'; -aw-sdt-title:'CC_Underskrifter'">
+				<p>
+					<span style="-aw-import:ignore">&#xa0;</span>
+				</p>
+				<p>
+					<span style="-aw-import:ignore">&#xa0;</span>
+				</p>
+			</div>
+			<table cellspacing="0" cellpadding="0" style="width:100%; border-collapse:collapse">
+				<tr style="page-break-inside:avoid">
+					<td style="width:1%; padding-right:5.4pt; padding-left:5.4pt; vertical-align:bottom">
+						<p class="Underskrifter" style="margin-bottom:0pt">
+							<span>Camilla Hansén (MP)</span>
+						</p>
+					</td>
+					<td style="width:1%; padding-right:5.4pt; padding-left:5.4pt; vertical-align:bottom">
+						<p class="Underskrifter" style="margin-bottom:0pt">
+							<span style="-aw-import:ignore">&#xa0;</span>
+						</p>
+					</td>
+				</tr>
+				<tr style="page-break-inside:avoid">
+					<td style="width:1%; padding-right:5.4pt; padding-left:5.4pt; vertical-align:bottom">
+						<p class="Underskrifter" style="margin-bottom:0pt">
+							<span>Jan Riise (MP)</span>
+						</p>
+					</td>
+					<td style="width:1%; padding-right:5.4pt; padding-left:5.4pt; vertical-align:bottom">
+						<p class="Underskrifter" style="margin-bottom:0pt">
+							<span>Mats Berglund (MP)</span>
+						</p>
+					</td>
+				</tr>
+				<tr style="page-break-inside:avoid">
+					<td style="width:1%; padding-right:5.4pt; padding-left:5.4pt; vertical-align:bottom">
+						<p class="Underskrifter" style="margin-bottom:0pt">
+							<span>Annika Hirvonen (MP)</span>
+						</p>
+					</td>
+					<td style="width:1%; padding-right:5.4pt; padding-left:5.4pt; vertical-align:bottom">
+						<p class="Underskrifter" style="margin-bottom:0pt">
+							<span>Ulrika Westerlund (MP)</span>
+						</p>
+					</td>
+				</tr>
+				<tr style="page-break-inside:avoid">
+					<td style="width:1%; padding-right:5.4pt; padding-left:5.4pt; vertical-align:bottom">
+						<p class="Underskrifter" style="margin-bottom:0pt">
+							<span>Nils Seye Larsen (MP)</span>
+						</p>
+					</td>
+					<td style="width:1%; padding-right:5.4pt; padding-left:5.4pt; vertical-align:bottom">
+						<p class="Underskrifter" style="margin-bottom:0pt">
+							<span style="-aw-import:ignore">&#xa0;</span>
+						</p>
+					</td>
+				</tr>
+			</table>
+			<p>
+				<span style="-aw-import:ignore">&#xa0;</span>
+			</p>
+		</div>
+	</div>

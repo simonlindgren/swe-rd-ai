@@ -1,0 +1,781 @@
+SEARCH TERM: artificiell intelligens
+DOCUMENT ID: hc021366
+TITLE: Socialtjänsten
+TYPE: mot
+SUBTYPE: Kommittémotion
+DATE: 2024-10-02
+PARLIAMENTARY YEAR: 2024/25
+ORGANISATION: SoU
+STATUS: Klar
+DOWNLOADED: 2026-01-22 10:24:42
+================================================================================
+
+<style><!-- 
+ @page Section1 { size:595.3pt 841.9pt; margin:35.45pt 85.05pt 56.7pt }
+div.Section1 { page:Section1 }
+div.pconf body { t-i:17pt; line-height:15pt; font-family:'Verdana'; font-size: 0.90em }
+div.pconf h1, h2, h3, h4, h5, h6, p { margin:0pt }
+div.pconf li, table { margin-top:0pt; margin-bottom:0pt }
+div.pconf h1 { margin-top:41pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:19.5pt; font-family:'Verdana'; font-size: 1.05em; font-weight:normal; color:#000000 }
+div.pconf h2 { margin-top:30pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:17pt; font-family:'Verdana'; font-size: 1.00em; font-weight:normal; color:#000000 }
+div.pconf h3 { margin-top:18pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:17pt; font-family:'Verdana'; font-size: 0.90em; font-weight:bold; color:#000000 }
+div.pconf h4 { margin-top:18pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:17pt; font-family:'Verdana'; font-size: 0.90em; font-weight:normal; font-style:italic; color:#000000 }
+div.pconf h5 { margin-top:15pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:17pt; font-family:'Verdana'; font-size: 0.90em; font-weight:bold; font-style:normal; color:#000000 }
+div.pconf h6 { margin-top:15pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:17pt; font-family:'Verdana'; font-size: 0.90em; font-weight:normal; font-style:italic; color:#000000 }
+.Heading7 { margin-top:15pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:17pt; font-family:'Verdana'; font-size: 0.90em; font-weight:normal; font-style:italic; color:#000000; -aw-style-name:heading7 }
+.Heading8 { margin-top:15pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:17pt; font-family:'Verdana'; font-size: 0.90em; font-weight:normal; font-style:italic; color:#000000; -aw-style-name:heading8 }
+.Heading9 { margin-top:0pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:17pt; font-family:'Verdana'; font-size: 0.90em; font-weight:normal; font-style:italic; color:#000000; -aw-style-name:heading9 }
+.BalloonText { margin-bottom:0pt; t-i:17pt; line-height:normal; font-family:'Segoe UI'; font-size: 0.90em }
+.Beteckning { margin-top:18pt; margin-bottom:0pt; t-i:14.2pt; page-break-inside:auto; page-break-after:auto; line-height:19.5pt; font-size: 1.05em }
+.BlockText, .Inramatstycke { margin-right:56.7pt; margin-left:56.7pt; margin-bottom:0pt; t-i:0pt; text-align:nojustify; line-height:15pt; border:0.75pt solid #000000; padding:10pt; font-size: 0.90em; font-style:italic; -aw-border:0.25pt single }
+.Citaticitat { margin-top:7.5pt; margin-left:34pt; margin-bottom:0pt; t-i:0pt; line-height:12pt; font-size: 0.90em }
+.Citaticitatmedindrag { margin-top:0pt; margin-left:34pt; margin-bottom:7.5pt; t-i:17pt; line-height:12pt; font-size: 0.90em }
+.Citatmedindrag { margin-top:0pt; margin-left:17pt; margin-bottom:0pt; t-i:17pt; line-height:12pt; font-size: 0.90em }
+.CommentSubject { margin-bottom:0pt; t-i:17pt; line-height:normal; font-size: 0.90em; font-weight:bold }
+.CommentText { margin-bottom:0pt; t-i:17pt; line-height:normal; font-size: 0.90em }
+.FSHLogo { margin-top:4pt; margin-bottom:0pt; t-i:0pt; line-height:normal; font-size: 0.90em }
+.FSHNormL { margin-top:4pt; margin-bottom:0pt; t-i:0pt; line-height:15pt; border-top:1.5pt solid #000000; padding-top:3pt; font-size: 0.90em }
+.FSHNormal { margin-top:4pt; margin-bottom:0pt; t-i:0pt; line-height:15pt; font-size: 0.90em }
+.FSHNormalS5 { margin-top:11.5pt; margin-bottom:26pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-size: 0.95em; font-weight:bold }
+.FSHRub1, .Rubrik1S5 { margin-top:135pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:16pt; font-size: 1.00em }
+.FSHRub2, .Rubrik1A4 { margin-top:50pt; margin-bottom:5pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:24pt; font-size: 1.05em }
+.FSHTitel, .Dokumentrubrik { margin-top:4pt; margin-bottom:4pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:20pt; border-bottom:0.75pt solid #000000; padding-bottom:3pt; font-size: 1.05em; -aw-border-bottom:0.5pt single }
+.Footer { margin-top:4pt; margin-bottom:0pt; t-i:0pt; text-align:center; line-height:normal; font-size: 0.90em }
+.FootnoteText { margin-top:0pt; margin-bottom:0pt; t-i:0pt; line-height:12pt; font-size: 0.90em }
+.Frslagsrubrik { margin-top:41pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:19.5pt; font-family:'Verdana'; font-size: 1.05em }
+.Frslagstext, .Hemstlatt, .Yrkande { margin-top:4pt; margin-left:19.85pt; margin-bottom:0pt; t-i:-19.85pt; line-height:15pt; font-size: 0.90em }
+.Header { margin-top:4pt; margin-bottom:0pt; t-i:0pt; line-height:normal; font-size: 0.90em }
+.KantRubrikS5H { margin-top:6pt; margin-right:2.85pt; margin-bottom:0pt; t-i:0pt; text-align:right; line-height:8pt; font-size: 0.90em }
+.KantRubrikS5Hrad2 { margin-top:0pt; margin-right:2.85pt; margin-bottom:0pt; t-i:0pt; text-align:right; line-height:10pt; font-size: 0.90em }
+.KantRubrikS5V { margin-top:6pt; margin-right:0pt; margin-bottom:0pt; t-i:0pt; text-align:left; line-height:8pt; font-size: 0.90em }
+.KantRubrikS5Vrad2 { margin-top:0pt; margin-right:0pt; margin-bottom:0pt; t-i:0pt; text-align:left; line-height:10pt; font-size: 0.90em }
+.KantrubrikH { margin-top:4pt; margin-right:-82.2pt; margin-bottom:0pt; t-i:0pt; text-align:right; line-height:15pt; font-size: 0.90em }
+.KantrubrikV { margin-top:4pt; margin-left:-85.05pt; margin-bottom:0pt; t-i:0pt; line-height:normal; font-size: 0.90em }
+.Klla { margin-top:0pt; margin-bottom:0pt; t-i:0pt; line-height:12pt; font-size: 0.90em }
+.Lagtext { margin-top:4pt; margin-bottom:0pt; t-i:0pt; line-height:normal; font-size: 0.90em }
+.Lagtextindrag { margin-top:4pt; margin-bottom:0pt; t-i:14.2pt; line-height:normal; font-size: 0.90em }
+.Lagtextrubrik { margin-top:4pt; margin-bottom:0pt; t-i:0pt; line-height:normal; font-size: 0.90em; font-style:italic; letter-spacing:1pt }
+.List { margin-top:7.5pt; margin-left:17pt; margin-bottom:7.5pt; t-i:-17pt; line-height:15pt; font-size: 0.90em }
+.ListBullet, .PunktlistaBomb { margin-top:4pt; margin-left:14.2pt; margin-bottom:0pt; t-i:-14.2pt; line-height:15pt; font-size: 0.90em }
+.ListNumber, .PunktlistaNummer { margin-top:4pt; margin-left:14.2pt; margin-bottom:0pt; t-i:-14.2pt; line-height:15pt; font-size: 0.90em }
+.ListParagraph { margin-left:36pt; margin-bottom:0pt; t-i:17pt; line-height:15pt; font-size: 0.90em }
+.ListaGemener { margin-top:7.5pt; margin-left:17pt; margin-bottom:7.5pt; t-i:-17pt; line-height:15pt; font-size: 0.90em }
+.ListaLinje { margin-top:7.5pt; margin-left:19pt; margin-bottom:7.5pt; t-i:-19pt; line-height:15pt; font-size: 0.90em }
+.ListaNummer { margin-top:7.5pt; margin-left:17pt; margin-bottom:7.5pt; t-i:-17pt; line-height:15pt; font-size: 0.90em }
+.ListaPunkt { margin-top:7.5pt; margin-left:17pt; margin-bottom:7.5pt; t-i:-17pt; line-height:15pt; font-size: 0.90em }
+.MotionTIllRiksdagen { margin-top:18pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:19.5pt; font-size: 1.05em }
+.Motionr { margin-top:14pt; margin-bottom:31.5pt; t-i:0pt; page-break-inside:avoid; line-height:15pt; font-size: 1.00em; font-weight:bold; font-style:normal }
+.Motiveringrubrik2numrerat1 { margin-top:30pt; margin-left:0pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:17pt; font-family:'Verdana'; font-size: 1.00em }
+.Motiveringrubrik3numrerat1 { margin-top:18pt; margin-left:0pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:17pt; font-family:'Verdana'; font-size: 0.90em; font-weight:bold }
+.Motiveringrubrik3numrerat11 { margin-top:18pt; margin-left:0pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:17pt; font-family:'Verdana'; font-size: 0.90em; font-weight:bold }
+.Motiveringrubrik4numrerat11 { margin-top:18pt; margin-left:0pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:17pt; font-family:'Verdana'; font-size: 0.90em; font-weight:normal; font-style:italic }
+.NormalIndent { margin-left:65.2pt; margin-bottom:0pt; t-i:17pt; line-height:15pt; font-size: 0.90em }
+.Normalutanindragellerluft { margin-top:4pt; margin-bottom:0pt; t-i:0pt; line-height:15pt; font-size: 0.90em }
+.Normal00 { margin-top:4pt; margin-bottom:0pt; t-i:0pt; line-height:normal; font-size: 0.90em }
+.NormalA4fot { margin-top:12pt; margin-bottom:0pt; t-i:0pt; text-align:center; line-height:normal; font-size: 0.90em }
+.NormalA4sidnr { margin-top:4pt; margin-bottom:12pt; t-i:0pt; text-align:center; line-height:normal; font-size: 0.90em }
+.NormalS5sidnrH { margin-top:4pt; margin-right:2.85pt; margin-bottom:0pt; t-i:0pt; text-align:right; line-height:normal; font-size: 0.90em }
+.NormalS5sidnrV { margin-top:4pt; margin-right:0pt; margin-bottom:0pt; t-i:0pt; text-align:left; line-height:normal; font-size: 0.90em }
+.PlainText { margin-bottom:0pt; t-i:0pt; line-height:12pt; font-family:'Verdana'; font-size: 0.90em }
+.Quote { margin-top:7.5pt; margin-left:17pt; margin-bottom:0pt; t-i:0pt; line-height:12pt; font-size: 0.90em }
+.R1 { margin-top:41pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:19.5pt; font-family:'Verdana'; font-size: 1.05em }
+.R2 { margin-top:30pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:17pt; font-family:'Verdana'; font-size: 1.00em }
+.R3 { margin-top:18pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:17pt; font-family:'Verdana'; font-size: 0.90em; font-weight:bold }
+.Revision { margin-bottom:0pt; t-i:0pt; font-size: 0.90em }
+.Rubrik1numrerat { margin-top:41pt; margin-left:0pt; margin-bottom:0pt; t-i:0pt; page-break-inside:auto; page-break-after:avoid; line-height:19.5pt; font-family:'Verdana'; font-size: 1.05em }
+.Rubrik2numrerat { margin-top:30pt; margin-left:0pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:17pt; font-family:'Verdana'; font-size: 1.00em }
+.Rubrik3numrerat { margin-top:18pt; margin-left:0pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:17pt; font-family:'Verdana'; font-size: 0.90em; font-weight:bold }
+.Rubrik4numrerat { margin-top:18pt; margin-left:0pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:17pt; font-family:'Verdana'; font-size: 0.90em; font-weight:normal; font-style:italic }
+.RubrikFrslagTIllRiksdagsbeslut { margin-top:41pt; margin-bottom:15pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:19.5pt; font-family:'Verdana'; font-size: 1.05em }
+.RubrikInnehllsf { margin-top:41pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:19.5pt; font-family:'Verdana'; font-size: 1.05em }
+.RubrikSammanf { margin-top:41pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:19.5pt; font-family:'Verdana'; font-size: 1.05em }
+.Salutation { margin-top:41pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:19.5pt; font-family:'Verdana'; font-size: 1.05em }
+.Streckkod { margin-top:12pt; margin-bottom:0pt; t-i:0pt; text-align:center; line-height:normal; font-family:IDAutomationHC39S; font-size: 1.00em }
+.Strecklista, .PunktlistaTankstreck { margin-top:4pt; margin-left:14.2pt; margin-bottom:0pt; t-i:-14.2pt; line-height:15pt; font-size: 0.90em }
+.Subtitle { margin-top:4pt; margin-bottom:0pt; t-i:0pt; line-height:15pt; font-family:'Verdana'; font-size: 0.90em; font-weight:bold }
+.TOC1 { margin-top:4pt; margin-bottom:0pt; t-i:0pt; line-height:15pt; font-size: 0.90em }
+.TOC2 { margin-top:4pt; margin-left:14.2pt; margin-bottom:0pt; t-i:0pt; line-height:15pt; font-size: 0.90em }
+.TOC3 { margin-top:4pt; margin-left:28.35pt; margin-bottom:0pt; t-i:0pt; line-height:15pt; font-size: 0.90em }
+.TOC4 { margin-top:4pt; margin-left:42.55pt; margin-bottom:0pt; t-i:0pt; line-height:15pt; font-size: 0.90em }
+.TOC5 { margin-top:4pt; margin-left:56.7pt; margin-bottom:0pt; t-i:0pt; line-height:15pt; font-size: 0.90em }
+.TOC6 { margin-top:4pt; margin-left:56.7pt; margin-bottom:0pt; t-i:0pt; line-height:15pt; font-size: 0.90em }
+.TOC7 { margin-top:15pt; margin-left:56.7pt; margin-bottom:0pt; t-i:14.2pt; page-break-inside:avoid; page-break-after:avoid; line-height:normal; font-family:'Verdana'; font-size: 0.90em; font-weight:normal; font-style:italic }
+.TOC8 { margin-top:15pt; margin-left:56.7pt; margin-bottom:0pt; t-i:14.2pt; page-break-inside:avoid; page-break-after:avoid; line-height:normal; font-family:'Verdana'; font-size: 0.90em; font-weight:normal; font-style:italic }
+.TOC9 { margin-top:15pt; margin-left:56.7pt; margin-bottom:0pt; t-i:14.2pt; page-break-inside:avoid; page-break-after:avoid; line-height:normal; font-family:'Verdana'; font-size: 0.90em; font-weight:normal; font-style:italic }
+.TOCHeading { margin-top:41pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:19.5pt; font-family:'Verdana'; font-size: 1.05em }
+.Tabellunderrubrik { margin-top:0pt; margin-bottom:0pt; t-i:0pt; page-break-after:avoid; line-height:15pt; font-size: 0.90em; font-weight:normal; font-style:italic }
+.Tabellrubrik { margin-top:7.5pt; margin-bottom:0pt; t-i:0pt; page-break-after:avoid; line-height:15pt; font-size: 0.90em; font-weight:bold }
+.Title { margin-top:41pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:19.5pt; font-family:'Verdana'; font-size: 1.05em }
+.Underskriftdatum { margin-top:24pt; margin-bottom:3pt; t-i:0pt; page-break-inside:avoid; line-height:15pt; font-size: 0.90em; font-style:normal }
+.Underskrifter { margin-top:15pt; margin-bottom:3pt; t-i:0pt; page-break-inside:avoid; line-height:15pt; font-size: 0.90em; font-style:italic }
+.Yrkandehnv, .Frslagspunkthnv { margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; font-size: 0.90em }
+span.BallongtextChar { font-family:'Segoe UI'; font-size: 0.90em }
+span.BeteckningChar { font-size:19.5pt }
+span.CommentReference { font-size:8pt }
+span.FSHRub2Char, span.Rubrik1A4Char { font-size:24pt }
+span.FootnoteReference { vertical-align:super }
+span.FotnotstextChar { font-size:10pt }
+span.Hyperlink { text-decoration:underline; color:#0563c1; -aw-style-name:hyperlink }
+span.InledningChar { font-family:'Verdana'; font-size: 1.00em; font-weight:bold }
+span.IntenseReference { font-weight:normal; font-style:normal; font-variant:normal; text-decoration:none; text-transform:none; letter-spacing:0pt; vertical-align:0pt; color:#000000; display:inline }
+span.KommentarerChar { font-size:10pt }
+span.KommentarsmneChar { font-size:10pt; font-weight:bold }
+span.MotionTIllRiksdagenChar { font-size:19.5pt }
+span.OformateradtextChar { font-family:'Verdana'; font-size: 0.90em }
+span.PlaceholderText { color:#f4b083 }
+span.Rubrik1Char { font-family:'Verdana'; font-size: 1.05em }
+span.Rubrik2Char { font-family:'Verdana'; font-size: 1.00em }
+span.Rubrik3Char { font-family:'Verdana'; font-size: 0.90em; font-weight:bold }
+span.Rubrik4Char { font-family:'Verdana'; font-size: 0.90em; font-style:italic }
+span.Rubrik5Char { font-family:'Verdana'; font-weight:bold }
+span.Rubrik6Char { font-family:'Verdana'; font-style:italic }
+span.Rubrik7Char { font-family:'Verdana'; font-size: 0.90em; font-weight:bold }
+span.Rubrik8Char { font-family:'Verdana'; font-size: 0.90em; font-weight:bold }
+span.Rubrik9Char { font-family:'Verdana'; font-size: 0.90em; font-weight:bold }
+span.RubrikChar { font-family:'Verdana'; font-size: 1.00em; font-weight:bold }
+span.SidfotChar { font-size:11.5pt }
+span.UnderrubrikChar { font-family:'Verdana'; font-size: 0.90em; font-weight:bold }
+span.UnresolvedMention { color:#605e5c; background-color:#e1dfdd }
+.TableGrid {  }
+
+.pconf{width: 450px;margin-left:5px;overflow:visable;font-family:Verdana, Geneva, sans-serif;} 
+ .sidhuvud_publikation, .sidhuvud_beteckning{font-size:133%}
+.MotionarLista {font-size:122%}
+
+--></style><div class="pconf"><span class="sidhuvud_publikation">Motion till riksdagen</span><br/>
+<span class="sidhuvud_beteckning">2024/25:1366</span><br/>
+<span class="MotionarLista">av Carina Ståhl Herrstedt m.fl. (SD)</span><br/>
+<h1>Socialtjänsten</h1>
+<hr class="sidhuvud_linje"/>
+
+
+		<div class="Section1">
+			<h1 style="margin-bottom:15pt">
+				<a name="_Toc106800475"></a><a name="_Toc106801300"><span style="-aw-sdt-tag:'CC_Boilerplate_4'; -aw-sdt-title:'CC_Boilerplate_4'"><span>Förslag till riksdagsbeslut</span></span><span style="-aw-bookmark-end:_Toc106800475"></span></a>
+			</h1>
+			<div style="-aw-sdt-tag:'c9e91916-e6b1-4fdb-892c-54551dab747b'; -aw-sdt-title:'Yrkande 1'">
+				<ol type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-left:14pt; t-i:0pt; padding-left:5.85pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att fortsätta arbetet med vägledning om barnkonventionen och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'44ba8544-2e46-4c69-8873-f0d830e2c35e'; -aw-sdt-title:'Yrkande 2'">
+				<ol start="2" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; margin-left:14pt; t-i:0pt; padding-left:5.85pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att förbättra socialtjänsternas arbetsmiljö och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'a77f6187-f2a1-4282-b46c-9b89e85d2db6'; -aw-sdt-title:'Yrkande 3'">
+				<ol start="3" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; margin-left:14pt; t-i:0pt; padding-left:5.85pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om bättre utbildning och specialisering för socionomer och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'432d60b9-8940-4eb4-abf7-eb5ff5d9e370'; -aw-sdt-title:'Yrkande 4'">
+				<ol start="4" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; margin-left:14pt; t-i:0pt; padding-left:5.85pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att överväga att införa socialtjänstassistenter och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'67b270b2-6518-4170-8378-0cd71b50d7ff'; -aw-sdt-title:'Yrkande 5'">
+				<ol start="5" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; margin-left:14pt; t-i:0pt; padding-left:5.85pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om stärkt tillsyn över socialtjänsten och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'925d9f7e-e222-4844-abb5-20f70531523b'; -aw-sdt-title:'Yrkande 6'">
+				<ol start="6" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; margin-left:14pt; t-i:0pt; padding-left:5.85pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att införa en nationell socialtjänstdatabas och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'9286a98c-c2ab-4be8-9be8-0d70330437f8'; -aw-sdt-title:'Yrkande 7'">
+				<ol start="7" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; margin-left:14pt; t-i:0pt; padding-left:5.85pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om åtgärder för att stödja kommunerna med digitala verktyg för förebyggande insatser och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'fff93fb7-8cd7-4cf4-b579-8845f81543b4'; -aw-sdt-title:'Yrkande 8'">
+				<ol start="8" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; margin-left:14pt; t-i:0pt; padding-left:5.85pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om tydligare bestämmelser kring oanmälda hembesök och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'c6ec631c-536e-4343-8990-29658b377dc3'; -aw-sdt-title:'Yrkande 9'">
+				<ol start="9" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; margin-left:14pt; t-i:0pt; padding-left:5.85pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att bekämpa korruption och infiltration från gängkriminella och klaner och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'c01f2dc3-d920-4bf8-9c15-e234d19faee0'; -aw-sdt-title:'Yrkande 10'">
+				<ol start="10" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; t-i:0pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om nationell uppföljning av antalet barn som placeras ett och samma familjehem och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'ed182942-75d2-4458-aeca-bb198994eb93'; -aw-sdt-title:'Yrkande 11'">
+				<ol start="11" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; t-i:0pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att fler placerade barn ska klara skolan och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'9f87e07d-7956-4c43-b609-b2821d90e8bd'; -aw-sdt-title:'Yrkande 12'">
+				<ol start="12" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; t-i:0pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om uppföljning av barn som farit illa under placering, och detta tillkännager riksdagen för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'8338fb3b-7d27-4bdf-8ea7-c10777e148e8'; -aw-sdt-title:'Yrkande 13'">
+				<ol start="13" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; t-i:0pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om förlängd familjehemsplacering vid studier och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'0e7ff75b-ff29-4914-a9fe-31198e645ca5'; -aw-sdt-title:'Yrkande 14'">
+				<ol start="14" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; t-i:0pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om möjligheten att införa barnombud för placerade barn och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'5037e113-aa92-4b6c-a29d-b630973f669a'; -aw-sdt-title:'Yrkande 15'">
+				<ol start="15" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; t-i:0pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om möjligheten att införa ett stöd för barn i tvister mellan vårdnadshavare och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'f5522176-3b9a-4907-a201-778adcb1a26e'; -aw-sdt-title:'Yrkande 16'">
+				<ol start="16" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; t-i:0pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om kompetens om utsatta barns behov hos all personal som arbetar med barn, och detta tillkännager riksdagen för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'102e983d-0fca-471f-ae16-2a59e4af149d'; -aw-sdt-title:'Yrkande 17'">
+				<ol start="17" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; t-i:0pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att se över möjligheten till ökat stöd till barnrättsorganisationer och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'dc15b108-8c0e-4332-bf2a-e7854631f6f3'; -aw-sdt-title:'Yrkande 18'">
+				<ol start="18" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; t-i:0pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att regeringen bör se över hur en mer kvalitetssäker finansiering av adoptionsverksamheterna kan se ut och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'66a4a85d-a0f1-4a6a-9133-b556ff4ee4cc'; -aw-sdt-title:'Yrkande 19'">
+				<ol start="19" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; t-i:0pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om möjligheten att stärka adoptionsstödet och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'cd529ef6-79b8-4647-aba2-d8ba2aebf306'; -aw-sdt-title:'Yrkande 20'">
+				<ol start="20" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; t-i:0pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att utvidga bestämmelserna om orosanmälan till att också omfatta vuxna som utsätts för våld inom en relation, och detta tillkännager riksdagen för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'18bdcfe0-a8c5-4ed3-a8a1-67cbe3a51c35'; -aw-sdt-title:'Yrkande 21'">
+				<ol start="21" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; t-i:0pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att hedersförtryck av alla slag ska föranleda orosanmälan och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'87509443-6a49-4182-8876-6346c076aff4'; -aw-sdt-title:'Yrkande 22'">
+				<ol start="22" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; t-i:0pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om mer forskning kring våldsutövare och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'5eda47ff-b90d-4253-a049-446d098bf92d'; -aw-sdt-title:'Yrkande 23'">
+				<ol start="23" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; t-i:0pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att ställa krav på aktiva rehabiliterande åtgärder för att erhålla försörjningsstöd och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'8d6922c0-88a2-430d-9409-d0b815e3f7c4'; -aw-sdt-title:'Yrkande 24'">
+				<ol start="24" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; t-i:0pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att stoppa försörjningsstödet till illegala migranter och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'8fc20ff5-53d8-4be1-ab78-f7127d67001e'; -aw-sdt-title:'Yrkande 25'">
+				<ol start="25" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; t-i:0pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att begränsa möjligheterna att missbruka försörjningsstödet och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'CC_Motivering_Rubrik'; -aw-sdt-title:'CC_Motivering_Rubrik'">
+				<h1>
+					<a name="MotionsStart"></a><a name="_Toc106801301"></a><a name="_Toc106800476"><span>Motivering</span></a>
+				</h1>
+			</div>
+			<span style="-aw-bookmark-end:_Toc106801301">
+			</span>
+			<p class="Normalutanindragellerluft">
+				<span style="-aw-bookmark-end:_Toc106800476"></span><span>Socialtjänsten är det svenska samhällets yttersta skyddsnät. Den finns till för att hjälpa människor i nöd, ge dem en grundläggande trygghet och bistå dem att återigen bli en aktiv del av vårt samhälle. Den finns också till för att förebygga missförhållanden, stödja särskilt familjer och skydda barn och andra grupper i behov av stöd. Ett väl fungerande skyddsnät är grundläggande för den individuella och gemensamma trygg</span><span>&#xad;</span><span>heten, och socialtjänstens funktion är helt avgörande för en fungerande tillvaro för individer i behov av stöd och sociala insatser. </span>
+			</p>
+			<p>
+				<span>Vid åtgärder som rör barn ska barnets bästa alltid beaktas. Att väl avvägda insatser, hjälp och stöd sätts in för att ge utsatta barn en trygg och säker uppväxt är kanske ett av socialtjänstens allra viktigaste uppdrag. Arbetet med att förebygga en ogynnsam utveckling och minska risken för omfattande social problematik bland barn, unga och familjer och för att stärka förmågan och möjligheten till social delaktighet för människor i ekonomiskt och socialt utsatta situationer samt att stärka skyddet för utsatta barn, unga och vuxna är av oerhörd vikt. Målet är att alla barn ska få växa upp under trygga förhållanden, att främja förutsättningarna för goda levnadsförhållanden, motverka kriminalitet, missbruk och utanförskap och upptäcka och skydda utsatta för våld och hedersrelaterat våld och förtryck. </span>
+			</p>
+			<p>
+				<span>Socialtjänsten är i dag satt under hård press och personalen inom socialtjänstens olika verksamheter uttrycker oro över att inte räcka till. Med en hög arbetsbelastning ökar stress, oro och press, och viktiga livsavgörande beslut tas under dessa förhållanden. Risken att utsättas för hot och våld har ökat, och socialtjänstens medarbetare är efter en allvarlig desinformationskampanj extra utsatta. Det finns en fara att nödvändiga beslut </span><span style="letter-spacing:-0.05pt">dröjer eller i värsta fall uteblir på grund av rädsla. De centrala statsmakterna måste arbeta</span><span> </span><span style="letter-spacing:-0.05pt">för att socialtjänsten ges de redskap som krävs för att kunna fungera. Därför har Sverige</span><span style="letter-spacing:-0.05pt">&#xad;</span><span style="letter-spacing:-0.05pt">demokraterna lyft vikten av stöd och handledning samt möjligheten till specialist-</span><span> och vidareutbildning för att stärka kompetensen hos personalen.</span>
+			</p>
+			<h2>
+				<span>Barnkonventionen</span>
+			</h2>
+			<p class="Normalutanindragellerluft">
+				<span>FN:s barnkonvention antogs den 20 november 1989. Konventionen innehåller bestämmelser om barns mänskliga rättigheter. Sverige var ett av de första länderna som skrev under konventionen, redan 1990. Sedan dess har statsmakterna kontinuerligt arbetat för att införa konventionens innehåll till svensk lag genom lagändringar och beslut, så kallad transformation. En särskild parlamentarisk kommitté, Barnkommittén, utredde också frågan närmare, och diskuterade särskilt ifall konventionen skulle över</span><span>&#xad;</span><span>föras till svensk lag i sin helhet, ord för ord, så kallad inkorporering. Man kom dock </span><span style="letter-spacing:-0.05pt">fram till att nackdelarna med en sådan metod övervägde fördelarna. Den förra regeringen</span><span> beslutade dock att göra det ändå år 2020. </span>
+			</p>
+			<p>
+				<span>Sverigedemokraterna ställde sig vid det tillfället tveksamma till tillvägagångssättet och såg istället fördelen med att fortsätta transformera svensk lag efter konventionen. Det är så den svenska demokratin arbetat med internationella konventioner i alla tider och garanterar att konventionen genomförs på rätt sätt. Konventioner är skrivna för att gälla mellan stater i enlighet med internationell rätt, och inte mellan enskilda individer, varför språket inte är lika precist, och processen att skriva konventioner är helt annorlunda. Det enda undantaget från denna regel är generellt sett Europakonventionen, som inkorporerades 1994, efter mer än fyra decennier av kontinuerlig transformering. Den är också relativt unik bland konventioner i det att det finns en särskild domstol, Europadomstolen, som kontinuerligt tolkar och utvecklar betydelsen av konventionen. </span>
+			</p>
+			<p>
+				<span>Under tiden regeringen föreslog att barnkonventionen skulle bli svensk lag pågick dessutom redan ett omfattande utredningsarbete för att identifiera kvarvarande skillnader mellan svenska lagar och konventionens bestämmelser, genom Barnkonven</span><span>&#xad;</span><span>tionsutredningen. Att konventionen mitt i utredningsarbetet blev lag förändrade inte utredningens arbete alls. </span>
+			</p>
+			<p>
+				<span>Sverigedemokraterna ansåg också att en ny parlamentarisk kommitté skulle utreda det fortsatta arbetet med att införliva barnkonventionen i svensk rätt och hur det skulle göras på bästa sätt. </span>
+			</p>
+			<p>
+				<span>Oavsett vilken juridisk form barnkonventionen har i svensk rätt är det centrala för Sverigedemokraterna alltid att barnets bästa ska sättas i främsta rummet, och att vi måste fortsätta arbeta med att stärka barns rättigheter, precis som vi gjort i vårt land i generationer.</span>
+			</p>
+			<p>
+				<span>Flertalet kommuner har rapporterat om svårigheter att anpassa sin verksamhet till barnkonventionen, vilket visar på fortsatt stora brister i den förra regeringens tillvägagångssätt. Sverigedemokraterna ser därför det som nödvändigt att fortsatt kartlägga och analysera behoven av eventuell fortsatt vägledning med tolkning och tillämpning.</span>
+			</p>
+			<h1>
+				<span>Socialtjänstens arbete</span>
+			</h1>
+			<h2 style="margin-top:22pt">
+				<span>Förbättra socialsekreterarnas arbetsmiljö</span>
+			</h2>
+			<p class="Normalutanindragellerluft">
+				<span>Socialtjänsten har det yttersta ansvaret för människors ekonomiska och sociala trygghet. De står ofta inför viktiga beslut som påverkar människors liv, och då inte sällan barns. Erfarenhet, kontinuitet och förtroende är viktiga förutsättningar för arbetet. </span>
+			</p>
+			<p>
+				<span>Tyvärr är personalomsättningen hög bland socialarbetare och ofta tvingas man ta in hyrpersonal. Anledningen är ofta arbetsmiljön. Psykiska påfrestningar, såsom sömn</span><span>&#xad;</span><span>besvär, oro och ångest är vanligt. Flera studier från Arbetsmiljöverket visar att personer som jobbar inom sociala tjänster och offentlig förvaltning ligger över snittet vad gäller arbetsrelaterade besvär, och bland socialsekreterare var det i en studie så många som 34 procent som upplevt arbetsrelaterade besvär de senaste tolv månaderna. Arbetsmiljö</span><span>&#xad;</span><span>verkets granskning från 2018 visar på ”uppseendeväckande hög personalomsättning med tydligt tecken på flykt från arbetsplatsen och till viss del från yrket”.</span><a name="_ftnref1"></a><a href="#_ftn1" style="text-decoration:none"><span class="FootnoteReference" style="font-size:8pt; color:#000000">[1]</span></a><span> Fackföreningen Vision visade i en rapport år 2022 att hälften av deras medlemmar inom socialt arbete överväger att lämna yrket. Det är uppenbart att socialarbetarnas arbets</span><span>&#xad;</span><span>miljö brister. Utöver detta är det också fråga om hotfulla och våldsamma situationer. Mer än var tredje person inom yrket uppger att de blivit utsatta för sådan behandling enligt Arbetsmiljöverkets granskning, men benägenheten att anmäla hot och våld är liten. Socialsekreterarna måste få stöd och hjälp i att anmäla mer och att känna sig trygga i detta. Ett viktigt steg har redan tagits, i och med de förslag som Utredningen om åtgärder för att minska offentliganställdas utsatthet presenterade i betänkandet Ett starkare skydd för offentliganställda mot våld, hot och trakasserier (SOU 2024:1). Frågan måste dock följas noga, så att hot och våld mot socialtjänsten inte normaliseras.</span>
+			</p>
+			<p>
+				<span>Socialtjänsten är främst kommunernas ansvar. Att problemet är nationellt, och att arbetsmiljölagstiftning liksom socialtjänstlagstiftningen i stort är nationell, innebär dock att även statsmakterna har ett ansvar. Regeringen måste se till att socialtjänsten fungerar i hela landet och att kommunerna tar sitt ansvar. </span>
+			</p>
+			<h2>
+				<span>Bättre utbildning och mer specialisering för socionomer</span>
+			</h2>
+			<p class="Normalutanindragellerluft">
+				<span>Grunden för socialtjänstens arbete är dess personal och den kompetens de besitter. Det finns tecken på att nyexaminerade socionomer lider av bristande kunskap kring hur man arbetar med unga kriminella. Vi är därför glada över att regeringen tillsammans med Sverigedemokraterna kunnat ta initiativ till en utredning om reformer i socionom</span><span>&#xad;</span><span>utbildningen. Utredningen (U 2023:04) skall senast i december 2024 lägga fram förslag kring bland annat att socionomstudenter skall få den kunskap och förmåga som krävs för att dels förebygga att barn och unga börjar begå brott, dels bryta en brottslig utveckling och förebygga återfall i brott. Även möjligheten till specialisering kring ungdomsbrottslighet och socialt arbete skall ses över. Sverigedemokraterna ser fram emot resultatet av utredningen och förutsätter att regeringen genomför de åtgärder som behövs för att ge socialtjänstens framtida anställde de förutsättningar som behövs för att förebygga brott och ta itu med vår tids samhällsutmaningar. </span>
+			</p>
+			<h2>
+				<span>Inför socialtjänstassistenter</span>
+			</h2>
+			<p class="Normalutanindragellerluft">
+				<span>Som tidigare nämnts är socialtjänstens arbete påfrestande, och det finns problem med kompetensbrist, som ställs mot ökade personalbehov. Samtidigt finns dock en stor bredd i socialtjänstens arbete och en variation i vilka krav som ställs på personalen beroende på ärendetyper. </span>
+			</p>
+			<p>
+				<span>I andra liknande yrken, såsom undersköterskor, sjuksköterskor och läkare inom sjukvården, eller assistenter, handläggare och beslutsfattare på flera statliga myndig</span><span>&#xad;</span><span>heter, gör man en uppdelning beroende på utbildning och arbetsuppgifter. Det är rimligt att enklare uppgifter går till personal med kortare utbildning och mindre erfarenhet och svårare uppgifter till personal med längre utbildning och mer erfarenhet. </span>
+			</p>
+			<p>
+				<span>Det torde finnas goda möjligheter att på liknande sätt avlasta socialsekreterare genom att införa socialtjänstassistenter som kan ta över vissa arbetsuppgifter. Regeringen bör låta utreda frågan.</span>
+			</p>
+			<h2>
+				<span>Stärkt tillsyn och sanktioner</span>
+			</h2>
+			<p class="Normalutanindragellerluft">
+				<span>Inspektionen för vård och omsorg (Ivo) granskar den svenska vården och omsorgen utifrån lagar och regler. Ivo har vid flera tillfällen funnit att det förekommer allvarliga brister i socialtjänstens handläggning av ärenden som rör barn och unga. I Ivos slutredovisning av ett uppdrag att analysera socialtjänsternas arbete med barn- och ungdomsvård (S2019/01922) framgick till exempel att det fanns brister i dokumentation, barns delaktighet och handläggning av ärenden för barn och unga inom hela kedjan, från hantering av orosanmälningar till uppföljning av insatser och egenkontroll. Flera av bristerna var återkommande och kända sedan tidigare. Bristerna innebar att barn och unga riskerade att inte få sina behov av stöd, skydd och hjälp utredda och tillgodosedda. I värsta fall kunde det bidra till att barn skadades eller till och med avled. </span>
+			</p>
+			<p>
+				<span>Socialtjänsten är samhällets yttersta skyddsmekanism, särskilt för barn som far illa. Det är inte acceptabelt att kommunernas socialtjänster återkommande misslyckas med sina kärnuppgifter. Tillsynen av socialtjänsten måste därför stärkas och det måste genomföras tydliga följdåtgärder vid allvarliga brister och upprepade försummelser. Vid upprepade brister inom landets socialtjänster måste tillsynen och sanktionerna vara tydliga.</span>
+			</p>
+			<p>
+				<span>Det är därför glädjande att Utredningen om en effektivare tillsyn över socialtjänsten lagt fram sitt slutbetänkande En mer effektiv tillsyn över socialtjänsten (SOU 2024:25), med flera förslag om hur Ivos förmåga att utöva tillsyn och följa upp ärenden kan förbättras. Regeringen bör skyndsamt omsätta förslagen i konkret lagstiftning.</span>
+			</p>
+			<h2>
+				<span>Inför en nationell socialtjänstdatabas</span>
+			</h2>
+			<p class="Normalutanindragellerluft">
+				<span>Socialtjänstens arbete utgår från de 290 kommunerna, och var och en av dessa har stor frihet i att på eget vis organisera socialtjänstens arbete. Detta gäller även användandet av digitala tjänster och verktyg, inklusive databaser och register. Sekretessbestämmel</span><span>&#xad;</span><span>serna är många och starka, vilket fått till följd att socialtjänsterna i olika kommuner har svårigheter att kommunicera med varandra, inte bara på grund av skillnader i system, men också rädsla för att göra fel i förhållande till sekretesslagstiftningen. Samtidigt är människor rörliga, reser och flyttar, varför det är vanligt att samma individ kan förekomma i olika kommuners socialtjänsters system.</span>
+			</p>
+			<p>
+				<span>Problemet är välkänt och har varit föremål för utredningsarbeten i flera år. År 2019 skrev exempelvis Socialstyrelsen om behovet av att se över regelverket kring gallring och sökbarhet av orosanmälningar (</span><span style="font-style:italic">Att göra anmälningar som gäller barn sökbara</span><span>), medan Brottsförebyggande rådet (Brå) år 2021 skrev rapporten </span><span style="font-style:italic">Informationsdelning mellan socialtjänst och polis</span><span>. Den förra regeringen lät utreda frågan närmare, vilket efter tilläggsdirektiv från den nuvarande regeringen utmynnade i en departements</span><span>&#xad;</span><span>promemoria i maj 2023, </span><span style="font-style:italic">Fler verktyg i socialtjänsternas arbete för att förebygga brott och stärka skyddet för barn</span><span> (Ds 2023:15), i vilken bland annat föreslogs lättnader kring sekretessen, särskilt mellan socialtjänster. </span>
+			</p>
+			<p>
+				<span>I samtliga fall är det dock tal om kommuners egna databaser och ärendesystem, som förblir avskilda från övriga myndigheter. Ingenstans har frågan om en nationell databas för socialtjänsten tagits upp. En sådan databas skulle dels befria kommunerna från ansvaret att skapa egna databaser, dels drastiskt öka möjligheterna till samverkan mellan kommunerna. Samtidigt skulle Socialstyrelsens och andra myndigheters möjlighet att utöva tillsyn förbättras. Det skulle också minska risken att enskilda i behov av social</span><span>&#xad;</span><span>tjänstens stöd faller mellan stolarna och inte får det stöd från samhället de har rätt till. En sådan reform skulle slutligen gå i linje med trenden inom välfärden, mot mer gemensam infrastruktur och förenade system, och färre stuprör och vattentäta skott mellan verksamheter, såsom när det gäller journalsystemen inom sjukvården. Frågan bör utredas närmare. </span>
+			</p>
+			<h2>
+				<span>Digitala verktyg för förebyggande insatser</span>
+			</h2>
+			<p class="Normalutanindragellerluft">
+				<span>En av socialtjänstens mest centrala uppgifter är att trygga människors sociala trygghet. Detta innebär ofta insatser för människor i kris, men även förebyggande arbete så att en kris inte uppstår senare. Ett exempel är arbetet kring separationer och skilsmässor. För de flesta föräldrar och deras barn utgör en separation eller skilsmässa en livskris, som kan få svåra följder på sikt när det gäller stress, ångest och depression. Det ligger i samhällets intresse att dessa kriser mildras, så att eventuella följdverkningar förebyggs. Av det skälet har man i Danmark tagit fram ett särskilt digitalt verktyg, </span><span style="font-style:italic">samarbejde efter skilsmesse</span><span>, som framgångsrikt använts i flera svenska kommuner. Att använda sig av digitala lösningar innebär att många människor kan nås på kort tid för en mycket liten kostnad, vilket gör programmet till ett synnerligen effektivt sätt att förbättra människors sociala trygghet. </span>
+			</p>
+			<p>
+				<span>Även om detta program, och andra liknande digitala verktyg för socialtjänsten, fått viss spridning, har kommunerna emellanåt svårigheter att på egen hand använda sig av digitala lösningar. Myndigheten för digital förvaltning (Digg), E-hälsomyndigheten, och Socialstyrelsen gör redan nu vissa insatser i dessa frågor. Till exempel gav regeringen de tre nämnda myndigheterna i uppdrag att stödja kommunerna i hur de på ett ändamålsenligt och kostnadseffektivt sätt kan använda artificiell intelligens (AI) inom socialtjänsten, ett uppdrag som slutrapporterades i januari 2024.</span><a name="_ftnref2"></a><a href="#_ftn2" style="text-decoration:none"><span class="FootnoteReference" style="font-size:8pt; color:#000000">[2]</span></a><span> Sveriges kommuner och regioner (SKR) kom i sin tur med en rapport i april 2024 om vad det skulle kosta kommunerna att investera i digitala lösningar för socialtjänsten.</span><a name="_ftnref3"></a><a href="#_ftn3" style="text-decoration:none"><span class="FootnoteReference" style="font-size:8pt; color:#000000">[3]</span></a><span> </span>
+			</p>
+			<p>
+				<span>Det är tydligt att det behövs vidare insatser från nationellt håll för att få till stånd effektiva digitala lösningar och verktyg i detta område. Vanliga människor bör kunna få stöd via socialtjänstens verktyg utan att i sig kontakta socialtjänsten. I längden skulle sådana investeringar innebära en besparing, särskilt sett till de skador som kan före</span><span>&#xad;</span><span>byggas. Det skulle innebära en vinst inte bara för den enskilde och för familjerna, men också för samhället i stort. Regeringen bör vidtaga åtgärder för att stödja kommunerna i detta arbete.</span>
+			</p>
+			<h2>
+				<span>Oanmälda hembesök</span>
+			</h2>
+			<p class="Normalutanindragellerluft">
+				<span>Socialtjänstens uppgifter är många och sträcker sig från att vaka över barns trygghet till att betala ut försörjningsstöd till personer som inte kan försörja sig själva. Det är självklart att ett visst mått av tillsyn och kontroll måste ingå för att säkerställa att barn inte far illa eller att det fuskas med försörjningsstödet. Socialtjänsten har därtill ett generellt förvaltningsrättsligt ansvar att utreda ärenden ordentligt och motverka fusk och missförhållanden.</span>
+			</p>
+			<p>
+				<span>Även om socialtjänsten har flera olika verktyg för att kunna följa upp och kontrollera ärenden vid behov, saknas i princip en möjlighet att göra hembesök hos den enskilde, exempelvis för att kontrollera barns levnadsvillkor eller huruvida villkoren för försörjningsstöd är uppfyllda. Det är förstås rimligt att den enskilde gentemot det allmänna är skyddad mot husrannsakan och liknande intrång. Barns väl och ve är dock av sådan vikt att det måste finnas en tydlig möjlighet för socialtjänsten att likväl göra oanmälda hembesök om det kan gagna barnets bästa. Arbetet med att bekämpa välfärdsbrottslighet och bidragsfusk är också avgörande för samhället i stort, och inte minst den enskilda kommunen, varför det bör anses naturligt att en mottagare av försörjningsstöd tar emot oanmälda hembesök från socialtjänsten. </span>
+			</p>
+			<p>
+				<span>Frågan har länge diskuterats i kommunerna, och Justitieombudsmannen har vid ett flertal tillfällen uttalat sig kritiskt om kommuner som genomfört oanmälda hembesök. Det är tydligt att frågan behöver regleras ordentligt i lag, för att färre människor skall fara illa, och för att bekämpa bidragsfusket.</span>
+			</p>
+			<h2>
+				<span>Bekämpa korruption och infiltration från gängkriminella och klaner</span>
+			</h2>
+			<p class="Normalutanindragellerluft">
+				<span>Massinvandringen till Sverige har fått svåra konsekvenser för hela samhället, i allt från bostadsbrist till massarbetslöshet, fattigdom och bidragsberoende, kriminalitet och otrygghet. Invandringen från vissa kulturer har dessutom medfört att en för Sverige sedan många århundraden främmande företeelse fått allt större spridning, nämligen klaner och klanvälde. Dessa släktbaserade nätverk existerar bortom staten och dess normala institutioner och utgör i själva verket ett alternativ till staten, med egna trygghetssystem och rättskipningsanstalter, som i flera fall är djupt oförenliga, rentav fientliga, till grundläggande svenska värderingar och lagar.</span>
+			</p>
+			<p>
+				<span>Dessa släktbaserade nätverk har ofta en stark koppling till regelrätta kriminella organisationer, gäng och ligor. Exempelvis kan en kärna i ett kriminellt nätverk vara släktbaserat. </span>
+			</p>
+			<p>
+				<span>Dessa klaner och nätverk har fått en sådan stor spridning i samhället att det numera föreligger en allvarlig risk att de skall infiltrera samhällsorgan och myndigheter. Det har i media och i rapporter beskrivits hur anställda på flera myndigheter sagts upp efter att det framkommit att de spridit hemligstämplad information till sådana nätverk eller fattat oriktiga beslut för att gynna dem. Eftersom socialtjänsten även arbetar med personer med skyddad identitet är detta särskilt farligt för exempelvis våldsutsatta kvinnor. Statsmakterna bör därför särskilt vinnlägga sig om att socialtjänsten får det stöd och det regelverk som behövs för att effektivt skydda sig från infiltration från släktbaserade och kriminella nätverk. Detta måste omfatta såväl sekretesslagstiftning som bestämmelser kring anställningsförfaranden, frågor om kommunala verksamheters skyddsklassning, och ett närmare samarbete med Polismyndigheten, liksom andra myndigheter.</span>
+			</p>
+			<h1>
+				<span>Trygga placeringar med barnets bästa i fokus</span>
+			</h1>
+			<h2 style="margin-top:22pt">
+				<span>Antal barn som placeras i familjehem</span>
+			</h2>
+			<p class="Normalutanindragellerluft">
+				<span>Barn som behöver samhällets vård kan bland annat få denna genom att placeras i ett jour- eller familjehem. Sådana hem utgörs av familjer som är villiga att ta in behövande barn för att bo med dem, antingen under en kort tid, som jourhem, eller för en längre tid, som familjehem. Jour- och familjehem utses av kommunernas socialtjänster.</span>
+			</p>
+			<p>
+				<span>Socialtjänsten skall enligt lag anmäla till Ivo om fler än tre barn kommer placeras i ett och samma jour- eller familjehem. Det finns dock egentligen ingen övre gräns för </span><span style="letter-spacing:-0.05pt">hur många barn som faktiskt får placeras i ett familjehem samtidigt. Om flera kommuner</span><span> placerar i samma hem kan ansvaret gentemot Ivo dessutom missas. En kommuns socialtjänst behöver heller inte inledningsvis få eller ha vetskap om att fler barn är eller blir placerade i samma boende. Risken finns att socialtjänsten inte förmår säkerställa att placeringen är lämplig för barnet. Det finns alltså uppenbarligen luckor i regelverket, något som kan riskera barns bästa. Det har i media framkommit uppgifter om att bland annat ett familjehem i Skåne haft tio barn placerade hos sig samtidigt. </span>
+			</p>
+			<p>
+				<span>När stat och kommun omhändertar barn är det för att barnet ska få en bättre tillvaro, bli sett, få omsorg, stöd och hjälp och få vara en del av en familj. Det kan säkerligen finnas hem som kan hantera ett större antal barn, och de bör då på något sätt certifieras </span><span style="letter-spacing:-0.05pt">för detta. Det är dock ytterst tveksamt om dagens regelverk har barnets bästa för ögonen.</span><span> Det behövs regelverk som är mer kvalitetssäkrat, för att säkerställa statistik och registrering av hur många barn ett familjehem har placerat hos sig. </span>
+			</p>
+			<p>
+				<span>Sverigedemokraterna noterar därvidlag att Utredningen om barn och unga i samhällets vård (S 2021:06) i november 2023 presenterade betänkandet För barn och unga i samhällsvård (SOU 2023:66), i vilket bland annat föreslås att Ivo skall upprätt</span><span>&#xad;</span><span>hålla ett register över familjehem. Vi välkomnar detta som ett första steg mot en bättre fungerande ordning för denna viktiga omvårdnadsanstalt och emotser kommande lagförslag som tryggar utsatta barns rättigheter. </span>
+			</p>
+			<h2>
+				<span>Fler placerade barn skall klara skolan</span>
+			</h2>
+			<p class="Normalutanindragellerluft">
+				<span>Barn som placerats i samhällets vård har det ofta svårt i skolan. Av Socialstyrelsens rapport Individ- och familjeomsorg Lägesrapport 2024, framgår att knappt hälften av de barn som placerats i samhällets vård var behöriga till gymnasiet vid 17 års ålder, mot 85</span><span>&#xa0;</span><span>procent av icke-placerade. Bland icke-placerade hade över 80</span><span>&#xa0;</span><span>procent en treårig gymnasieutbildning vid 20 års ålder, men bland placerade var det närmare 45</span><span>&#xa0;</span><span>procent. Resultaten har varit i princip oförändrade i flera år. </span>
+			</p>
+			<p>
+				<span>Ofta beror placerade barns skolmisslyckanden på den utsatthet de levt med, men även på luckor i skolgången och stress i kombination med låga förväntningar. Något som dock givit lovande resultat för dessa barn är de modeller för ett strukturerat samarbete mellan skola och socialtjänst kring placerade barns skolgång som utvecklats i vissa kommuner och där man systematiskt följt upp barnens kunskapsnivå. Här kan särskilt SkolFam – skolsatsning för barn i familjehem nämnas. Det finns forskning som visar att godkända skolresultat har en stor skyddande verkan för dessa barn och att det går att vända resultaten. Socialstyrelsen har också, tillsammans med Specialpedagogiska skolmyndigheten och Skolverket, tagit fram ett särskilt stöd för socialtjänsten för att placerade barn och unga ska få en kontinuerlig skolgång när placeringen innebär skolbyte. </span>
+			</p>
+			<p>
+				<span>Regeringen bör därför agera för att barn som placerats i samhällets vård skall få det stöd och den hjälp som krävs för att klara skolan och få goda förutsättningar inför vuxenlivet. </span>
+			</p>
+			<h2>
+				<span>Uppföljning av barn som farit illa under placering</span>
+			</h2>
+			<p class="Normalutanindragellerluft">
+				<span>Oavsett hur hårt samhället arbetar finns alltid en risk att barn i samhällets vård far illa som en följd av sin placering. Det kan exempelvis röra sig om olämpliga familje</span><span>&#xad;</span><span>hems</span><span>&#xad;</span><span>föräldrar, olämplig personal i ett hem för vård och boende (HVB-hem), eller andra barn i statliga Sis-boenden. Över tid har flera fall uppdagats då barn som farit illa sedan lämnats vind för våg utan någon särskild uppföljning som kan tänkas påkallad efter exempelvis trauman. Behovet av eftervård är stort och därför skall sådan erbjudas i högre grad än i dag.</span>
+			</p>
+			<p>
+				<span>Lagstiftningen har i viss mån rört sig i denna riktning på senare tid. År 2022 infördes den så kallade </span><span style="font-style:italic">lex Lilla Hjärtat</span><span>, om uppföljning av situationen för tidigare placerade barn. Lagändringen kom till med anledning av det ökända fallet med flickan som kallats Lilla Hjärtat, som efter en långvarig familjehemsplacering tvingades flytta hem till sina biologiska föräldrar, som snart efteråt orsakade flickans brutala död. Fallet fäste uppmärksamheten på vikten av att följa upp socialtjänstens placeringar och att det allmännas ansvar inte slutar efter en placering. Detta blir än viktigare när det rör sig om barn som farit illa under placeringen.</span>
+			</p>
+			<p>
+				<span>Det allmänna måste därför säkerställa att korrekt och rimlig behandling i högre utsträckning än i dag erbjuds barn som varit placerade och farit illa. Det måste ske individanpassat och målmedvetet, så att barn som redan är i en utsatt situation kan få det stöd de behöver, och hjälp att i framtiden leva ett bättre och mer självständigt liv. Regeringen bör låta utreda frågan vidare. </span>
+			</p>
+			<h2>
+				<span>Förlängd familjehemsplacering vid studier</span>
+			</h2>
+			<p class="Normalutanindragellerluft">
+				<span>Föräldrar är underhållsskyldiga gentemot sina barn till dess att de fyller 18 år. Går barnet i skolan efter denna tidpunkt kvarstår underhållsskyldigheten till dess att barnet fyller 21 år. Detta innebär i praktiken en rätt enligt lag att få bo kvar med sin familj. </span>
+			</p>
+			<p>
+				<span>Detta gäller dock inte unga som är familjehemsplacerade. Det finns inget krav i lag att erbjuda dessa ungdomar fortsatt placering, och de förlorar därför ofta sitt familjehem när de fyller 18 år. För en del av dessa unga vuxna fungerar övergången till ett eget liv med egen bostad bra, medan andra har mycket svårare att hantera separationen och förändringen när de ofrivilligt tvingas flytta från sitt ”hem”. Det är inte sällan unga som har en tuff barndom bakom sig, med separationer och trauman, och de har inte alltid ett eget skyddsnät att falla tillbaka på. Parallellt med eventuella studier på gymnasiet skall de söka bostad och klara sig själva. Vi menar att unga som före 18 årsdagen har varit familjehemsplacerade ska få vara kvar i familjen efter myndighetsdagen om de själva önskar det, och till dess att de har slutfört sin gymnasieutbildning alternativt fyllt 21 år.</span>
+			</p>
+			<p>
+				<span>Vi ser därför med glädje på att Utredningen om barn och unga i samhällets vård i sitt betänkande </span><span style="font-style:italic">För barn och unga i samhällsvård</span><span> (SOU 2023:66), i enlighet med riksdagens uppmaning, har föreslagit just reformer i denna riktning. Vi förutsätter att regeringen skyndsamt implementerar denna reform, som kommer ge fler unga människor i behov av stöd en ärlig chans att växa upp och bli en del av samhället.</span>
+			</p>
+			<h2>
+				<span>Reformering av tvångsvården av barn</span>
+			</h2>
+			<p class="Normalutanindragellerluft">
+				<span>Det är nu mer än åtta år sedan Utredningen om tvångsvård för barn och unga lade fram sitt slutbetänkande </span><span style="font-style:italic">Barns och ungas rätt vid tvångsvård – Förslag till ny LVU</span><span> (SOU 2015:71). De förslag som utredningen lämnade skulle stärka barnrättsperspektivet och ge ökad rättssäkerhet för barn och unga, där barnets bästa stärks särskilt för dem som är i behov av samhällets vård eller tvångsvård. Dessvärre finns alltjämt stora brister. </span>
+			</p>
+			<p>
+				<span>Sveriges tvångsvård av barn och ungdomar har istället länge omgärdats av ständig rapportering om missförhållanden och vanvård, inte minst när det gäller de boenden som Statens institutionsstyrelse, Sis, ansvarar för. Det har förekommit öppen drog</span><span>&#xad;</span><span>användning, personal som själva engagerats i brottslighet, våld och övergrepp mellan barn, och stark närvaro av kriminella organisationer. </span>
+			</p>
+			<p>
+				<span>Det är uppenbart att samhället misslyckats när det gäller att vårda de barn som behöver allra mest stöd och hjälp. Inte bara regelverket för omhändertagande av barn, men också former och systemet för detta, måste förändras. Sverigedemokraterna har därför tillsammans med regeringen beslutat Utredningen om en reform av den statliga barn- och ungdomsvården för en trygg och kvalitativ vård (S 2024:01), som senast den 25 april 2025 skall se över den statliga barn- och ungdomsvårdens uppdrag och organisation, och föreslå åtgärder för att stärka barnrätts- och rättssäkerhetsperspektivet inom den statliga barn- och ungdomsvården. Vi förutsätter att regeringen gör sitt yttersta för att komma till rätta med bristerna, och fortsätter följa denna viktiga fråga.</span>
+			</p>
+			<h1>
+				<span>Barns rätt till hjälp och stöd i samhället</span>
+			</h1>
+			<h2 style="margin-top:22pt">
+				<span>Barnombud</span>
+			</h2>
+			<p class="Normalutanindragellerluft">
+				<span>Barn som är placerade i hem enligt socialtjänstlagen (2001:453) eller placerade enligt lagen (1990:52) med särskilda bestämmelser om vård av unga (LVU) på institutioner känner ofta att ingen lyssnar på dem. Redan utsatta barn och unga som befinner sig under samhällets vård för att skyddas och vårdas har vittnat om hur de utsatts för övergrepp, men inte blivit trodda eller lyssnade på. Att befinna sig i en sådan utsatt situation utan att på något sätt kunna påverka sin egen situation ger en känsla av vanmakt och kan resultera i revolt, självskadebeteende eller annat destruktivt beteende.</span>
+			</p>
+			<p>
+				<span>Barnens rätt i samhället måste stärkas. Vi måste säkerställa att deras röster blir hörda, att missförhållanden uppdagas för att kunna säkerställa ett tryggt och säkert omhändertagande och att placeringarna fyller sitt syfte. </span>
+			</p>
+			<p>
+				<span>Utredningen om barns möjligheter att utkräva sina rättigheter, föreslog i sitt betänkande </span><span style="font-style:italic">Förbättrade möjligheter för barn att utkräva sina rättigheter enligt barnkonventionen</span><span> (SOU 2023:40), från augusti 2023, en försöksverksamhet med statsbidrag till barnrättsbyråer som bedriver verksamhet med barnombud. Frågan bereds i detta nu av regeringen, och Sverigedemokraterna följer frågan med stort intresse. På samma sätt föreslog Utredningen om barn och unga i samhällets vård i betänkandet </span><span style="font-style:italic">För barn och unga i samhällsvård</span><span> (SOU 2023:66) att barn och unga i samhällsvård ska få en särskilt utsedd barn- och ungdomshandläggare som på olika sätt skall ansvara för att barnet får den vård som beslutats, på rätt sätt. I detta förslag är dock handläggaren alltjämt en tjänsteman hos socialtjänsten, vilket framstår som otillfredsställande ifall barnets rättigheter också mot socialtjänsten skall tillvaratas. </span>
+			</p>
+			<p>
+				<span>Sverigedemokraterna föreslår därför införandet av barnombud, som är oberoende av socialtjänsten och andra myndigheter. Barnombudet ska finnas som stöd för den unge, mellan familjehem, institution och socialtjänst. De ska ges möjlighet till insyn i barnets förhållanden, boendemiljö och övriga omständigheter av vikt, såsom hur det omkost</span><span>&#xad;</span><span>nads</span><span>&#xad;</span><span>bidrag som ges för att stärka barnets ekonomiska rätt används för familjehems</span><span>&#xad;</span><span>placerade. Regeringen bör låta utreda frågan vidare. </span>
+			</p>
+			<h2>
+				<span>Barns rätt och stöd i tvister mellan vårdnadshavare </span>
+			</h2>
+			<p class="Normalutanindragellerluft">
+				<span>Vårdnadstvister är svåra, inte minst när det går så långt att frågan måste avgöras i domstol. Det är särskilt slitsamt och destruktivt för barnen. Trots att vårdnadstvister i allra högsta grad handlar om barnen, är det inte sällan just de som råkar mest illa ut och kan hamna i kläm när föräldrarna inte är överens. Av denna anledning är det av extra stor vikt att barnet ges ett ordentligt stöd genom processen. Barnet behöver ges relevant information och rätt att komma till tals i olika instanser som hanterar vårdnadstvister, även i de fall då samtycke saknas från en förälder. Barn har rätt till sina föräldrar, inte tvärtom. Fokus ska ligga på barnen vid vårdnadstvist i domstol. </span>
+			</p>
+			<p>
+				<span>För att säkerställa att barnets bästa alltid beaktas bör barnet få stöd i vårdnads</span><span>&#xad;</span><span>processen genom en särskild stödperson som är med genom hela processen. Personen kan med fördel utses av socialförvaltningen och är då barnets stöd under och efter en vårdnadstvist. Frågan bör utredas närmare. </span>
+			</p>
+			<h2>
+				<span>Kompetens om utsatta barns behov hos all personal som arbetar med barn</span>
+			</h2>
+			<p class="Normalutanindragellerluft">
+				<span>All personal som arbetar med barn, såsom personal inom förskola och skola, behöver ha kompetens för att kunna uppmärksamma signaler hos barn som far illa. Det kan exempelvis gälla barn som är utsatta för övergrepp, utnyttjande eller vanvård. Denna kompetens behöver ingå i utbildningar för förskole- och skolpersonal, det behöver finnas handlingsplaner i förskolor och skolor och det behöver förtydligas i berörda tjänster. Personalen har anmälningsplikt sedan mycket länge, vilket är bra och nödvändigt. Vi noterar också att en utökad anmälningsplikt utreds, för att exempelvis kunna rädda barn som tvingas leva illegalt i Sverige som en del av skuggsamhället. </span>
+			</p>
+			<p>
+				<span>Trots detta missas uppmärksammandet av barn som far illa i hemmet, i skolan eller på annan plats i livet. Det är ofta svårt att veta hur ett barn har det, men det förekommer också att barn saknar uppmärksamma vuxna för stöd. Regeringen bör därför säkerställa att det på alla nivåer och instanser finns rätt kompetens kring dessa frågor, bland personer som arbetar med barn.</span>
+			</p>
+			<h2>
+				<span>Ökat stöd till barnrättsorganisationer</span>
+			</h2>
+			<p class="Normalutanindragellerluft">
+				<span>Det offentliga, med stat, region och kommun, har det yttersta ansvaret för att barn inte far illa i samhället. Det är dock inte alltid det offentliga räcker till, av flera olika anledningar. Det kan också finnas tillfällen då andra parter kan göra ett bättre jobb, exempelvis olika organisationer och föreningar. </span>
+			</p>
+			<p>
+				<span>Det finns flera organisationer och föreningar som verkar för barns bästa. Deras verksamhet, som innebär direkt stöd till barn och ungdomar i besvärliga situationer, är ovärderlig. En sådan organisation är Barnens Rätt i Samhället (Bris). De bedriver bred verksamhet, exempelvis i form av hjälplinjer dit barn kan ringa in och prata med en kurator, projekt för att bryta psykisk ohälsa, skydd och stöd vid upplevt våld med mera. Även påverkansarbete bedrivs, för att barns röster och rättigheter ska lyftas fram. En annan organisation är Ecpat, som arbetar för att motverka sexuell exploatering av barn, exempelvis genom en anmälningsfunktion och samverkan med polis och internet</span><span>&#xad;</span><span>leverantörer. Organisationen Maskrosbarn vänder sig till barn och ungdomar som växer upp med föräldrar som har missbruk eller psykisk ohälsa och/eller utsätter barnet för våld. Stödet innebär bland annat samtalsstöd, stöd i gruppform med andra ungdomar samt olika stärkande och avlastande aktiviteter. </span>
+			</p>
+			<p>
+				<span>För flera av organisationerna bygger verksamheten på olika former av gåvor från företag och privatpersoner eller från medel från fonder samt bidrag. Mot bakgrund av det angelägna arbete som organisationerna bedriver bör möjligheten till ökat nationellt stöd riktat till projekt och stödverksamhet för utsatta barn i Sverige ses över. </span>
+			</p>
+			<h2>
+				<span>En kvalitetssäker finansiering av adoptionsverksamheterna</span>
+			</h2>
+			<p class="Normalutanindragellerluft">
+				<span>Att adoptera är en fantastisk möjlighet att bli förälder, bilda familj och välkomna en ny medlem till familjen. Det är också en möjlighet och en ljusglimt för de barn som saknar familj och som erbjuder dem en möjlighet att få en trygg och familjär uppväxt. Samtidigt är det viktigt att varje adoption alltid utgår från barnets bästa. Adoption är reglerat i såväl svensk lag som mellanfolkliga konventioner, och det är viktigt att internationella adoptioner är säkra och sköts på rätt sätt. De adoptioner från Chile som ägde rum mellan 1970 och 1990, då barn togs från sina föräldrar och adopterades bort mot deras vilja och kännedom, får inte upprepas. Staten måste så långt som möjligt garantera att var internationell adoption sker på ett lagligt och etiskt sätt. Av det skälet är huvudregeln i Sverige att internationella adoptioner skall göras genom särskilt auktoriserade adoptionsorganisationer. Endast i undantagsfall tillåts så kallad </span><span style="font-style:italic">enskild adoption</span><span>, som vid släktskap.</span>
+			</p>
+			<p>
+				<span>Under de senaste åren har dock antalet adoptioner sjunkit markant. I början av 00</span><span>&#x2011;</span><span>talet skedde över 1</span><span>&#xa0;</span><span>000 internationella adoptioner om året, mot färre än 150 de senaste åren, en minskning mer än närmare 90 procent. </span><span style="-aw-import:spaces">&#xa0;</span><span>Trenden är densamma i hela västvärlden.</span>
+			</p>
+			<p>
+				<span>Minskningen av antalet förmedlade barn påverkar den ekonomiska situationen för de auktoriserade organisationer som arbetar med adoption. Detta riskerar att leda till att barnets bästa blir sekundärt för dessa organisationer. Sverigedemokraterna anser därför att regeringen bör se över hur en mer kvalitetssäker och långsiktig finansiering av adoptionsverksamheterna kan se ut.</span>
+			</p>
+			<h2>
+				<span>Ett stärkt adoptionsstöd</span>
+			</h2>
+			<p class="Normalutanindragellerluft">
+				<span>Vid internationella adoptioner kan adoptanter, alltså de som vill adoptera ett barn, ansöka om ett adoptionsbidrag hos Försäkringskassan. Bidraget uppgår till 75</span><span>&#xa0;</span><span>000 kr. Då bidraget infördes var det för att även hushåll med svag ekonomi skulle ha möjlighet att adoptera, till gagn för både barnet och samhället. Kostnaden för adoptioner har dock stigit markant de senaste åren medan bidraget har varit oförändrat sedan 2001. Detta försämrar förutsättningarna för främst resurssvaga hushåll att adoptera, vilket påtalades i Inspektionen för socialförsäkringens rapport Att adoptera, en ekonomisk fråga (ISF Rapport 2016:9). Av rapporten framgick bland annat följande:</span>
+			</p>
+			<p class="Quote">
+				<span>Adoptionsbidraget utgörs av ett fast belopp som har varit nominellt oförändrat sedan år 2001. I reala termer har bidraget därför sjunkit.</span><span style="-aw-import:spaces">&#xa0; </span><span>Samtidigt har kostnaderna för adoption ökat kraftigt, mycket snabbare än konsumentpriserna och den genomsnittliga lönenivån, under samma period. Idag täcker adoptionsbidraget cirka 20 procent av den genomsnittliga kostnaden för adoption. </span><a name="_ftnref4"></a><a href="#_ftn4" style="text-decoration:none"><span class="FootnoteReference" style="font-size:8pt; color:#000000">[4]</span></a>
+			</p>
+			<p class="Normalutanindragellerluft" style="margin-top:7.5pt">
+				<span>Inspektionen nådde slutsatsen att adoptionsbidraget ökar benägenheten att adoptera, främst för familjer med lägre inkomster. Ett stärkt bidrag har en omfördelande effekt som gör att även hushåll med medelinkomst eller låg inkomst får en större möjlighet att adoptera. Inspektionen rekommenderade att adoptionsbidraget skulle höjas, uppräknas löpande mot exempelvis konsumentprisindex, och att en behovsprövning borde utredas. </span>
+			</p>
+			<p>
+				<span>Sverigedemokraterna ansluter sig till fullo till inspektionens rekommendationer och anser att frågorna bör utredas så att möjligheten till adoption inte blir en klassfråga, utan öppen för alla, och att alla barn kan få ett kärleksfullt hem.</span>
+			</p>
+			<h1>
+				<span>Våld i nära relation – ett stort samhälls- och folkhälsoproblem och ett brott mot mänskliga rättigheter</span>
+			</h1>
+			<h2 style="margin-top:22pt">
+				<span>Förebyggande arbete – orosanmälan för våld i relationer</span>
+			</h2>
+			<p class="Normalutanindragellerluft">
+				<span>Våld i nära relationer har varit ett gissel i alla tider, men på senare tid har det uppmärk</span><span>&#xad;</span><span>sammats mer och mer inom såväl medierapportering som forskning. Enligt Brotts</span><span>&#xad;</span><span>före</span><span>&#xad;</span><span>byggande rådets statistik polisanmäldes 30</span><span>&#xa0;</span><span>600 fall av misshandel av kvinnor över 18 år under 2023. I 80 procent av fallen var kvinnan bekant med förövaren. Dessutom anmäldes 1</span><span>&#xa0;</span><span>137 fall av grov kvinnofridskränkning. Mörkertalet är dock stort eftersom en stor andel våldsutsatta aldrig anmäler de övergrepp som de utsätts för i den nära rela</span><span>&#xad;</span><span>tio</span><span>&#xad;</span><span>nen. En uppskattning är att runt en fjärdedel av våldet i nära relationer polisanmäls. </span>
+			</p>
+			<p>
+				<span>Samtidigt finns stora brister i samhällets förmåga att hantera relationsvåldet. I en nylig rapport om kommuners och regioners arbete med olika former av relationsvåld konstaterade Inspektionen för vård och omsorg, Ivo, mycket omfattande brister i stora delar av landet.</span><a name="_ftnref5"></a><a href="#_ftn5" style="text-decoration:none"><span class="FootnoteReference" style="font-size:8pt; color:#000000">[5]</span></a><span> Det är uppenbart att det är svårt att bekämpa våldet, i synnerhet om det råder brist på information och om missförhållanden kommer i dagen först när våldet är ett faktum. Det behövs ordentliga åtgärder för att öka tillgången till information om missförhållanden och förebygga våldet.</span>
+			</p>
+			<p>
+				<span>Samhället har över tid rört sig mer och mer mot att just förebygga olika former av missförhållanden och asocialt beteende, snarare än att endast svara på det när det väl är för handen. Ett exempel är Utredningen Framtidens socialtjänsts betänkande </span><span style="font-style:italic">Hållbar socialtjänst En ny socialtjänstlag</span><span> (SOU 2020:47), som föreslagit att socialtjänsten i större utsträckning skall arbeta förebyggande. Betänkandet bereds för närvarande i Regeringskansliet, och vi ser fram emot att den omsätts i lagstiftning så snart som möjligt. </span>
+			</p>
+			<p>
+				<span>Ett grundläggande problem är dock att socialtjänsten saknar information om sådana missförhållanden som faller inom ramen för våld i nära relationer. Det finns visserligen ett sedan åtminstone år 1918 lagstadgat krav på alla offentliganställda att utan dröjsmål anmäla oro att barn far illa, en så kallad orosanmälan. Detta gäller dock endast barn. När en 17-åring fyller 18 finns alltså ingen skyldighet att orosanmäla, och i princip inte heller om det är modern i familjen som blir utsatt för våld, snarare än barnet. Detta är förstås orimligt, och innebär ett tydligt hinder i arbetet att förebygga våld i relationer.</span>
+			</p>
+			<p>
+				<span>Lagkravet att orosanmäla bör således utvidgas till att inte endast gälla föräldrars våld och bristande omvårdnad av sina barn, utan även vuxna i en relation, oavsett om det finns barn i relationen. Detta skulle innebära att det offentliga kunde få vetskap om missförhållanden och risker, samt sätta in åtgärder, innan ett barn kommit till världen. Det skulle också innebära att samhället på allvar kunde arbeta preventivt med våld inom relationer.</span>
+			</p>
+			<p>
+				<span style="letter-spacing:-0.1pt">Kravet att orosanmäla gäller som sagt endast offentliganställda, men sedan åtminstone </span><span>70-talet uppmanas var och en att orosanmäla. När detta för första gången föreslogs, av barnavårdskommitténs utredningsbetänkande år 1957, förkastades förslaget, bland annat när flera remissinstanser uttryckte stark kritik om att förslaget var ”främmande för svensk rättsordning, saknar praktisk betydelse och torde vara ägnad att ge upphov till ett angiveri av icke önskvärd karaktär”.</span><a name="_ftnref6"></a><a href="#_ftn6" style="text-decoration:none"><span class="FootnoteReference" style="font-size:8pt; color:#000000">[6]</span></a><span> Likväl infördes en sådan bestämmelse om ”angiveri”, och torde i dag vara fullständigt självklar i samhället. Rimligtvis bör det förhålla sig på ett likartat sätt när det gäller orosanmälan om våld i relationer mellan vuxna: alla människor bör uppmanas att meddela socialtjänsten ifall de befarar våld eller liknande missförhållanden i en relation. </span>
+			</p>
+			<p>
+				<span>Vad gäller vilka specifika förhållanden som skall föranleda en orosanmälan av detta slag bör saken bli föremål för en särskild utredning. Det torde dock vara självklart att bedömningen bör vara lika bred som när den gäller orosanmälan gentemot ett barn. I valet mellan att orosanmäla eller inte, kräver omtanken om människors väl och ve att man anmäler.</span>
+			</p>
+			<h2>
+				<span>Hedersförtryck skall föranleda orosanmälan</span>
+			</h2>
+			<p class="Normalutanindragellerluft">
+				<span>Orosanmälningar bygger på socialtjänstlagens skrivning om att anmäla till social</span><span>&#xad;</span><span>tjänsten vid misstanke eller oro att ”barn far illa”. Uttrycket ”far illa” är relativt brett definierat, och kan omfatta mycket. Socialstyrelsen skriver i sin handbok (2022): </span>
+			</p>
+			<p class="Quote">
+				<span>Det kan exempelvis handla om barn och ungdomar som i hemmet utsätts för fysiskt </span><span style="letter-spacing:-0.1pt">eller psykiskt våld, sexuella övergrepp, kränkningar, fysisk eller psykisk försummelse</span><span> eller familjer där det förekommer allvarliga relationsproblem mellan barnet och övriga familjen.</span>
+			</p>
+			<p class="Normalutanindragellerluft" style="margin-top:7.5pt">
+				<span>Denna breda definition kan vara till fördel för att så många former av missförhållanden som möjligt skall uppmärksammas. Den kan dock även bidra till ett bristande djup, med följden att viktiga faktorer inte tas på tillräckligt stort allvar. Socialstyrelsen har exempelvis givit ut broschyren </span><span style="font-style:italic">Att möta barn som kan vara utsatta för hedersrelaterat våld och förtryck</span><span>, som är riktad mot anställda inom hälso- och sjukvården. I broschyren beskrivs hur hälso- och sjukvården i vid misstänkta fall av hedersförtryck skall ”överväga” att orosanmäla, snarare än att utgå från att man alltid skall orosanmäla i sådana fall. Detta blir än mer stötande när man beaktar att de konkreta passagerna handlar om barn som utsatts för brutal könsstympning eller där föräldrarna vill att sjukvården anställer en oskuldskontroll. I sådana fall måste det anses otänkbart att inte omedelbart orosanmäla.</span>
+			</p>
+			<p>
+				<span>För att samhället skall stå bättre rustat att bekämpa denna typ av nya, osvenska värderingar och former av förtryck, bör statsmakterna tillse att ansvariga myndigheter tar olika former av hedersförtryck eller annat våld på större allvar. Det kan ske dels genom ett förtydligande i socialtjänstlagen, dels genom att Socialstyrelsen eller annan lämplig myndighet får i uppdrag att genom föreskrifter inskärpa allvaret i heders</span><span>&#xad;</span><span>förtrycket.</span>
+			</p>
+			<h2>
+				<span>Mer forskning kring våldsutövare</span>
+			</h2>
+			<p class="Normalutanindragellerluft">
+				<span>De som utsätter närstående för våld är en heterogen grupp. Det finns de med missbruks-problem och andra som behöver kvalificerad psykiatrisk vård. En del är, förutom sitt våldsutövande, väl fungerande personer i samhället, och andra utövar våld mot såväl andra som närstående. Utbudet av insatser mot den som utövar våld behöver därför vara mycket brett – alltifrån omhändertagande av Kriminalvården, rättspsykiatrin eller andra myndigheter till någon form av kvalificerad vård- och behandlingsinsats, eller insatser från socialtjänsten. Ibland kan enklare samtalsstöd och andra insatser av mindre ingripande karaktär vara tillräckligt. </span>
+			</p>
+			<p>
+				<span>Hanteringen av våldsutövare i Sverige har tidigare haft sin tyngdpunkt kring våld som ett brott och har kretsat kring kriminalvård (SOU 2015:55). Därför är det angeläget att forskning genomförs och att det stöd och den vård som socialtjänsten ålagts bygger på evidensbaserade metoder. De modeller som används i Sverige i dag är ofta hämtade från andra länder eftersom forskning som rör insatser för våldsutövare görs i väldigt liten omfattning i Sverige. Socialstyrelsen har dock genomfört några analyser där resultat tyder på att flera av dessa program visar på försiktigt positivt resultat. Det är dock uppenbart att det råder en kunskapsbrist och att mer forskning behövs för att kunna förstå hur personer som kan begå våld i relationer kan identifieras, deras gärningar förebyggas och de själva rehabiliteras. </span>
+			</p>
+			<h1>
+				<span>Försörjningsstödet</span>
+			</h1>
+			<h2 style="margin-top:22pt">
+				<span>Ställ krav på aktivt deltagande i behandling för att erhålla försörjningsstöd</span>
+			</h2>
+			<p class="Normalutanindragellerluft">
+				<span>Försörjningsstödet är ett viktigt skyddsnät för att människor som hamnat snett i livet skall få möjlighet att ta sig upp igen. Med försörjningsstöd kan individer få tillfällig hjälp med livets nödtorft, såsom pengar till hyra, mat, kläder, hygienartiklar och liknande. Samtidigt måste försörjningsstödet skyddas från missbruk, och därmed omgärdas av skyddsmekanismer så det inte används på fel sätt. </span>
+			</p>
+			<p>
+				<span>En självklarhet i alla tider har exempelvis varit att individen ställer sig till arbets</span><span>&#xad;</span><span>marknadens förfogande för att kunna erhålla försörjningsstöd. Med tiden har detta rekvisit utvidgats på ett föredömligt vis, exempelvis genom att invandrare skall lära sig svenska, något som infördes så sent som år 2021, med stöd av Sverigedemokraterna. Det finns dock andra grupper vars rätt till försörjningsstöd bör villkoras av särskilda krav, till gagn för både individen och samhället.</span>
+			</p>
+			<p>
+				<span>Det ställs i dagsläget inga tydliga lagstadgade krav på exempelvis missbrukare att delta i missbruksvård, olika program eller motiverande insatser. I vissa kommuner förekommer exempelvis utandningskontroller så att bistånd inte lämnas i händerna på uppenbart berusade personer, som kan förväntas använda pengarna i fel syfte. Även när det gäller personer som uppvisar tecken på psykiska problem är socialtjänsten principiellt förhindrad att villkora försörjningsstödet med att individen tar kontakt med sjukvården för att få hjälp med sina besvär. Resultatet blir att socialtjänsten istället möjliggör för människor att permanentas i ett utanförskap som gör dem än mer sjuka.</span>
+			</p>
+			<p>
+				<span>Socialtjänsten bör alltså få större möjligheter att ställa krav på att personer i behov av stöd också själva tar ansvar för sin vandel, så att individen och det offentliga arbetar tillsammans för en ökad självständighet och trygghet.</span>
+			</p>
+			<h2>
+				<span>Begränsa överföringar av skattemedel till illegala migranter</span>
+			</h2>
+			<p class="Normalutanindragellerluft">
+				<span>Socialtjänsten är det yttersta skyddsnätet i vårt land, ett arv från tiden då socknarna skulle ta hand om sina egna fattiga. Detta är en väl fungerande ordning, och bör fortsätta. Den är dock inte alltid anpassad till vår tids utmaningar, vilket blir särskilt tydligt när det gäller migration. </span>
+			</p>
+			<p>
+				<span>Det är en självklarhet att vi kollektivt skall ta hand om vårt eget folk, våra grannar och även de invandrare som tagit sig tid och möda och invandrat till Sverige i enlighet med lagar och regler. Det är en annan sak ifall man rest hit utan tillstånd, eller rentav går under jorden och ansluter sig till skuggsamhället. En sådan person bryter aktivt mot svensk lag och kan per definition inte livnära sig på ett ärligt vis, utan bidrar medvetet eller omedvetet till kriminalitet. Detta kan inte accepteras. </span>
+			</p>
+			<p>
+				<span>Den nya regeringen har med stöd från Sverigedemokraterna tagit krafttag för att bekämpa skuggsamhället och stärka rättsstaten. Då är det orimligt att vissa kommuner väljer att stödja illegal migration och hjälpa illegala migranter att hålla sig undan från rättvisan. Det måste upphöra. Socialtjänsten skall alltså inte kunna ge stöd till illegala migranter överhuvudtaget annat än i yttersta nödfall. </span>
+			</p>
+			<h2>
+				<span>Förbättra försörjningsstödet så att det inte bekostar missbruk</span>
+			</h2>
+			<p class="Normalutanindragellerluft">
+				<span>Missbruket av försörjningsstödet måste beivras även i andra fall än vad som ovan diskuterats. Det kan till exempel inte vara rimligt att försörjningsstödet går till att bekosta olika former av missbruk såsom av droger, tobak eller alkohol. Det kan inte heller vara meningen att en person som lever på försörjningsstöd skall använda pengarna till att bekosta rena semesterresor utomlands. Likaså vore det orimligt om pengarna gick till överföringar till släktingar i utlandet, något som snarast kan vara en täckmantel för stöd till odemokratiska eller till och med terrorrelaterade organisationer. </span>
+			</p>
+			<p>
+				<span>Det finns redan i dag vissa möjligheter för kommunerna att anpassa biståndet ifall det befaras att det kommer missbrukas. Regelverket är dock krångligt, och kommun</span><span>&#xad;</span><span>er</span><span>&#xad;</span><span>nas handlingsutrymme är mycket begränsat. Detta i ett läge då kommunernas ekonomier är ansträngda och mer resurser krävs för andra ändamål. Möjligheterna för kommunerna att exempelvis ge försörjningsstöd med hjälp av matkuponger eller så kallad rekvisition är starkt begränsad. Av Socialstyrelsens handbok för ekonomiskt bistånd framgår till exempel att det ”bör endast användas i yttersta undantagsfall, om mycket speciella omständigheter föreligger”.</span><a name="_ftnref7"></a><a href="#_ftn7" style="text-decoration:none"><span class="FootnoteReference" style="font-size:8pt; color:#000000">[7]</span></a><span> </span>
+			</p>
+			<p>
+				<span>Bestämmelserna kring försörjningsstöd bör följaktligen ändras så att skattebetalarnas pengar inte kan gå till sådant missbruk. Förslagsvis kan det delas upp så att mottagaren får mindre möjlighet att fritt disponera pengarna, som istället knyts till vissa ändamål, eller beviljas genom exempelvis matkuponger eller motsvarande så kallade rekvisition.</span>
+			</p>
+			<div style="-aw-sdt-tag:'CC_Underskrifter'; -aw-sdt-title:'CC_Underskrifter'">
+				<p>
+					<span style="-aw-import:ignore">&#xa0;</span>
+				</p>
+				<p>
+					<span style="-aw-import:ignore">&#xa0;</span>
+				</p>
+			</div>
+			<table cellspacing="0" cellpadding="0" style="width:100%; border-collapse:collapse">
+				<tr style="page-break-inside:avoid">
+					<td style="width:1%; padding-right:5.4pt; padding-left:5.4pt; vertical-align:bottom">
+						<p class="Underskrifter" style="margin-bottom:0pt">
+							<span>Carina Ståhl Herrstedt (SD)</span>
+						</p>
+					</td>
+					<td style="width:1%; padding-right:5.4pt; padding-left:5.4pt; vertical-align:bottom">
+						<p class="Underskrifter" style="margin-bottom:0pt">
+							<span style="-aw-import:ignore">&#xa0;</span>
+						</p>
+					</td>
+				</tr>
+				<tr style="page-break-inside:avoid">
+					<td style="width:1%; padding-right:5.4pt; padding-left:5.4pt; vertical-align:bottom">
+						<p class="Underskrifter" style="margin-bottom:0pt">
+							<span>Carita Boulwén (SD)</span>
+						</p>
+					</td>
+					<td style="width:1%; padding-right:5.4pt; padding-left:5.4pt; vertical-align:bottom">
+						<p class="Underskrifter" style="margin-bottom:0pt">
+							<span>Mona Olin (SD)</span>
+						</p>
+					</td>
+				</tr>
+				<tr style="page-break-inside:avoid">
+					<td style="width:1%; padding-right:5.4pt; padding-left:5.4pt; vertical-align:bottom">
+						<p class="Underskrifter" style="margin-bottom:0pt">
+							<span>Leonid Yurkovskiy (SD)</span>
+						</p>
+					</td>
+					<td style="width:1%; padding-right:5.4pt; padding-left:5.4pt; vertical-align:bottom">
+						<p class="Underskrifter" style="margin-bottom:0pt">
+							<span>Christian Lindefjärd (SD)</span>
+						</p>
+					</td>
+				</tr>
+			</table>
+			<p>
+				<span style="-aw-import:ignore">&#xa0;</span>
+			</p>
+		</div>
+		<hr style="width:33%; height:1px; text-align:left; -aw-footnote-numberstyle:0; -aw-footnote-startnumber:1; -aw-footnote-type:0">
+		<div id="_ftn1" style="-aw-footnote-isauto:1">
+			<p class="FootnoteText">
+				<a href="#_ftnref1" style="text-decoration:none"><span class="FootnoteReference" style="font-size:6.67pt; color:#000000">[1]</span></a><span> Arbetsmiljöverket 2015/051465, s. 16.</span>
+			</p>
+		</div>
+		<div id="_ftn2" style="-aw-footnote-isauto:1">
+			<p class="FootnoteText">
+				<a href="#_ftnref2" style="text-decoration:none"><span class="FootnoteReference" style="font-size:6.67pt; color:#000000">[2]</span></a><span> Diggs ärendenummer: 2023–3313, Regeringskansliets ärende Fi2023/02301.</span>
+			</p>
+		</div>
+		<div id="_ftn3" style="-aw-footnote-isauto:1">
+			<p class="FootnoteText">
+				<a href="#_ftnref3" style="text-decoration:none"><span class="FootnoteReference" style="font-size:6.67pt; color:#000000">[3]</span></a><span>&#xa0;</span><span>https://skr.se/skr/integrationsocialomsorg/socialomsorg/digitaliseringinomsocialtjansten/verktygochutvecklingsarbeten/kostnaderdigitaliseringsocialtjansten.32340.html.</span>
+			</p>
+		</div>
+		<div id="_ftn4" style="-aw-footnote-isauto:1">
+			<p class="FootnoteText">
+				<a href="#_ftnref4" style="text-decoration:none"><span class="FootnoteReference" style="font-size:6.67pt; color:#000000">[4]</span></a><span> ISF Rapport 2016:9 s. 5. Det bör betonas att adoptionsbidraget vid den tiden uppgick till 40</span><span>&#xa0;</span><span>000 kr, men höjdes år 2017 till 75</span><span>&#xa0;</span><span>000 kr, vilket då skulle motsvara ca 33</span><span>&#xa0;</span><span>procent av adoptionskostnaden (prop. 2016/17:1 Utgiftsområde 12, s. 34). På grund av kostnadsutvecklingen täcks en mycket mindre del av kostnaden i dag av bidraget, varför kärnproblemet kvarstår i princip oförändrat.</span>
+			</p>
+		</div>
+		<div id="_ftn5" style="-aw-footnote-isauto:1">
+			<p class="FootnoteText">
+				<a href="#_ftnref5" style="text-decoration:none"><span class="FootnoteReference" style="font-size:6.67pt; color:#000000">[5]</span></a><span> Ivo: Slutredovisning av regeringsuppdrag A2021/01714.</span>
+			</p>
+		</div>
+		<div id="_ftn6" style="-aw-footnote-isauto:1">
+			<p class="FootnoteText">
+				<a href="#_ftnref6" style="text-decoration:none"><span class="FootnoteReference" style="font-size:6.67pt; color:#000000">[6]</span></a><span> Prop. 1960:10, s. 383.</span>
+			</p>
+		</div>
+		<div id="_ftn7" style="-aw-footnote-isauto:1">
+			<p class="FootnoteText">
+				<a href="#_ftnref7" style="text-decoration:none"><span class="FootnoteReference" style="font-size:6.67pt; color:#000000">[7]</span></a><span> Socialstyrelsen, Ekonomiskt bistånd Handbok för socialtjänsten, art. nr. 2021-5-7389, s. 97.</span>
+			</p>
+		</div>
+	</div>

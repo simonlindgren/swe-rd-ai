@@ -1,0 +1,983 @@
+SEARCH TERM: artificiell intelligens
+DOCUMENT ID: ha02181
+TITLE: Stärk demokratin och de mänskliga rättigheterna
+TYPE: mot
+SUBTYPE: Partimotion
+DATE: 2022-11-16
+PARLIAMENTARY YEAR: 2022/23
+ORGANISATION: KU
+STATUS: Klar
+DOWNLOADED: 2026-01-22 10:24:49
+================================================================================
+
+<style><!-- 
+ @page Section1 { size:595.3pt 841.9pt; margin:35.45pt 85.05pt }
+div.Section1 { page:Section1 }
+div.pconf body { t-i:17pt; line-height:15pt; font-family:'Verdana'; font-size: 0.90em }
+div.pconf h1, h2, h3, h4, h5, h6, p { margin:0pt }
+div.pconf li, table { margin-top:0pt; margin-bottom:0pt }
+div.pconf h1 { margin-top:41pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:19.5pt; font-family:'Verdana'; font-size: 1.05em; font-weight:normal; color:#000000 }
+div.pconf h2 { margin-top:30pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:17pt; font-family:'Verdana'; font-size: 1.00em; font-weight:normal; color:#000000 }
+div.pconf h3 { margin-top:18pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:17pt; font-family:'Verdana'; font-size: 0.90em; font-weight:bold; color:#000000 }
+div.pconf h4 { margin-top:18pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:17pt; font-family:'Verdana'; font-size: 0.90em; font-weight:normal; font-style:italic; color:#000000 }
+div.pconf h5 { margin-top:15pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:17pt; font-family:'Verdana'; font-size: 0.90em; font-weight:bold; font-style:normal; color:#000000 }
+div.pconf h6 { margin-top:15pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:17pt; font-family:'Verdana'; font-size: 0.90em; font-weight:normal; font-style:italic; color:#000000 }
+.Heading7 { margin-top:15pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:17pt; font-family:'Verdana'; font-size: 0.90em; font-weight:normal; font-style:italic; color:#000000; -aw-style-name:heading7 }
+.Heading8 { margin-top:15pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:17pt; font-family:'Verdana'; font-size: 0.90em; font-weight:normal; font-style:italic; color:#000000; -aw-style-name:heading8 }
+.Heading9 { margin-top:0pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:17pt; font-family:'Verdana'; font-size: 0.90em; font-weight:normal; font-style:italic; color:#000000; -aw-style-name:heading9 }
+.BalloonText { margin-bottom:0pt; t-i:17pt; line-height:normal; font-family:'Segoe UI'; font-size: 0.90em }
+.Beteckning { margin-top:18pt; margin-bottom:0pt; t-i:14.2pt; page-break-inside:auto; page-break-after:auto; line-height:19.5pt; font-size: 1.05em }
+.BlockText, .Inramatstycke { margin-right:56.7pt; margin-left:56.7pt; margin-bottom:0pt; t-i:0pt; text-align:nojustify; line-height:15pt; border:0.75pt solid #000000; padding:10pt; font-size: 0.90em; font-style:italic; -aw-border:0.25pt single }
+.Citaticitat { margin-top:7.5pt; margin-left:34pt; margin-bottom:0pt; t-i:0pt; line-height:12pt; font-size: 0.90em }
+.Citaticitatmedindrag { margin-top:0pt; margin-left:34pt; margin-bottom:7.5pt; t-i:17pt; line-height:12pt; font-size: 0.90em }
+.Citatmedindrag { margin-top:0pt; margin-left:17pt; margin-bottom:0pt; t-i:17pt; line-height:12pt; font-size: 0.90em }
+.CommentSubject { margin-bottom:0pt; t-i:17pt; line-height:normal; font-size: 0.90em; font-weight:bold }
+.CommentText { margin-bottom:0pt; t-i:17pt; line-height:normal; font-size: 0.90em }
+.FSHLogo { margin-top:4pt; margin-bottom:0pt; t-i:0pt; line-height:normal; font-size: 0.90em }
+.FSHNormL { margin-top:4pt; margin-bottom:0pt; t-i:0pt; line-height:15pt; border-top:1.5pt solid #000000; padding-top:3pt; font-size: 0.90em }
+.FSHNormal { margin-top:4pt; margin-bottom:0pt; t-i:0pt; line-height:15pt; font-size: 0.90em }
+.FSHNormalS5 { margin-top:11.5pt; margin-bottom:26pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-size: 0.95em; font-weight:bold }
+.FSHRub1, .Rubrik1S5 { margin-top:135pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:16pt; font-size: 1.00em }
+.FSHRub2, .Rubrik1A4 { margin-top:50pt; margin-bottom:5pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:24pt; font-size: 1.05em }
+.FSHTitel, .Dokumentrubrik { margin-top:4pt; margin-bottom:4pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:20pt; border-bottom:0.75pt solid #000000; padding-bottom:3pt; font-size: 1.05em; -aw-border-bottom:0.5pt single }
+.Footer { margin-top:4pt; margin-bottom:0pt; t-i:0pt; text-align:center; line-height:normal; font-size: 0.90em }
+.FootnoteText { margin-top:0pt; margin-bottom:0pt; t-i:0pt; line-height:12pt; font-size: 0.90em }
+.Frslagsrubrik { margin-top:41pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:19.5pt; font-family:'Verdana'; font-size: 1.05em }
+.Frslagstext, .Hemstlatt, .Yrkande { margin-top:4pt; margin-left:19.85pt; margin-bottom:0pt; t-i:-19.85pt; line-height:15pt; font-size: 0.90em }
+.Header { margin-top:4pt; margin-bottom:0pt; t-i:0pt; line-height:normal; font-size: 0.90em }
+.KantRubrikS5H { margin-top:6pt; margin-right:2.85pt; margin-bottom:0pt; t-i:0pt; text-align:right; line-height:8pt; font-size: 0.90em }
+.KantRubrikS5Hrad2 { margin-top:0pt; margin-right:2.85pt; margin-bottom:0pt; t-i:0pt; text-align:right; line-height:10pt; font-size: 0.90em }
+.KantRubrikS5V { margin-top:6pt; margin-right:0pt; margin-bottom:0pt; t-i:0pt; text-align:left; line-height:8pt; font-size: 0.90em }
+.KantRubrikS5Vrad2 { margin-top:0pt; margin-right:0pt; margin-bottom:0pt; t-i:0pt; text-align:left; line-height:10pt; font-size: 0.90em }
+.KantrubrikH { margin-top:4pt; margin-right:-82.2pt; margin-bottom:0pt; t-i:0pt; text-align:right; line-height:15pt; font-size: 0.90em }
+.KantrubrikV { margin-top:4pt; margin-left:-85.05pt; margin-bottom:0pt; t-i:0pt; line-height:normal; font-size: 0.90em }
+.Klla { margin-top:0pt; margin-bottom:0pt; t-i:0pt; line-height:12pt; font-size: 0.90em }
+.Lagtext { margin-top:4pt; margin-bottom:0pt; t-i:0pt; line-height:normal; font-size: 0.90em }
+.Lagtextindrag { margin-top:4pt; margin-bottom:0pt; t-i:14.2pt; line-height:normal; font-size: 0.90em }
+.Lagtextrubrik { margin-top:4pt; margin-bottom:0pt; t-i:0pt; line-height:normal; font-size: 0.90em; font-style:italic; letter-spacing:1pt }
+.List { margin-top:7.5pt; margin-left:17pt; margin-bottom:7.5pt; t-i:-17pt; line-height:15pt; font-size: 0.90em }
+.ListBullet, .PunktlistaBomb { margin-top:4pt; margin-left:14.2pt; margin-bottom:0pt; t-i:-14.2pt; line-height:15pt; font-size: 0.90em }
+.ListNumber, .PunktlistaNummer { margin-top:4pt; margin-left:14.2pt; margin-bottom:0pt; t-i:-14.2pt; line-height:15pt; font-size: 0.90em }
+.ListParagraph { margin-left:36pt; margin-bottom:0pt; t-i:17pt; line-height:15pt; font-size: 0.90em }
+.ListaGemener { margin-top:7.5pt; margin-left:17pt; margin-bottom:7.5pt; t-i:-17pt; line-height:15pt; font-size: 0.90em }
+.ListaLinje { margin-top:7.5pt; margin-left:19pt; margin-bottom:7.5pt; t-i:-19pt; line-height:15pt; font-size: 0.90em }
+.ListaNummer { margin-top:7.5pt; margin-left:17pt; margin-bottom:7.5pt; t-i:-17pt; line-height:15pt; font-size: 0.90em }
+.ListaPunkt { margin-top:7.5pt; margin-left:17pt; margin-bottom:7.5pt; t-i:-17pt; line-height:15pt; font-size: 0.90em }
+.MotionTIllRiksdagen { margin-top:18pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:19.5pt; font-size: 1.05em }
+.Motionr { margin-top:14pt; margin-bottom:31.5pt; t-i:0pt; page-break-inside:avoid; line-height:15pt; font-size: 1.00em; font-weight:bold; font-style:normal }
+.NormalIndent { margin-left:65.2pt; margin-bottom:0pt; t-i:17pt; line-height:15pt; font-size: 0.90em }
+.Normalutanindragellerluft { margin-top:4pt; margin-bottom:0pt; t-i:0pt; line-height:15pt; font-size: 0.90em }
+.Normal00 { margin-top:4pt; margin-bottom:0pt; t-i:0pt; line-height:normal; font-size: 0.90em }
+.NormalA4fot { margin-top:12pt; margin-bottom:0pt; t-i:0pt; text-align:center; line-height:normal; font-size: 0.90em }
+.NormalA4sidnr { margin-top:4pt; margin-bottom:12pt; t-i:0pt; text-align:center; line-height:normal; font-size: 0.90em }
+.NormalS5sidnrH { margin-top:4pt; margin-right:2.85pt; margin-bottom:0pt; t-i:0pt; text-align:right; line-height:normal; font-size: 0.90em }
+.NormalS5sidnrV { margin-top:4pt; margin-right:0pt; margin-bottom:0pt; t-i:0pt; text-align:left; line-height:normal; font-size: 0.90em }
+.PlainText { margin-bottom:0pt; t-i:0pt; line-height:12pt; font-family:'Verdana'; font-size: 0.90em }
+.Quote { margin-top:7.5pt; margin-left:17pt; margin-bottom:0pt; t-i:0pt; line-height:12pt; font-size: 0.90em }
+.R1 { margin-top:41pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:19.5pt; font-family:'Verdana'; font-size: 1.05em }
+.R2 { margin-top:30pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:17pt; font-family:'Verdana'; font-size: 1.00em }
+.R3 { margin-top:18pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:17pt; font-family:'Verdana'; font-size: 0.90em; font-weight:bold }
+.Rubrik1numrerat { margin-top:41pt; margin-left:0pt; margin-bottom:0pt; t-i:0pt; page-break-inside:auto; page-break-after:avoid; line-height:19.5pt; font-family:'Verdana'; font-size: 1.05em }
+.Rubrik2numrerat { margin-top:30pt; margin-left:0pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:17pt; font-family:'Verdana'; font-size: 1.00em }
+.Rubrik3numrerat { margin-top:18pt; margin-left:0pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:17pt; font-family:'Verdana'; font-size: 0.90em; font-weight:bold }
+.Rubrik4numrerat { margin-top:18pt; margin-left:0pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:17pt; font-family:'Verdana'; font-size: 0.90em; font-weight:normal; font-style:italic }
+.RubrikFrslagTIllRiksdagsbeslut { margin-top:41pt; margin-bottom:15pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:19.5pt; font-family:'Verdana'; font-size: 1.05em }
+.RubrikInnehllsf { margin-top:41pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:19.5pt; font-family:'Verdana'; font-size: 1.05em }
+.RubrikSammanf { margin-top:41pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:19.5pt; font-family:'Verdana'; font-size: 1.05em }
+.Salutation { margin-top:41pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:19.5pt; font-family:'Verdana'; font-size: 1.05em }
+.Streckkod { margin-top:12pt; margin-bottom:0pt; t-i:0pt; text-align:center; line-height:normal; font-family:IDAutomationHC39S; font-size: 1.00em }
+.Strecklista, .PunktlistaTankstreck { margin-top:4pt; margin-left:14.2pt; margin-bottom:0pt; t-i:-14.2pt; line-height:15pt; font-size: 0.90em }
+.Subtitle { margin-top:4pt; margin-bottom:0pt; t-i:0pt; line-height:15pt; font-family:'Verdana'; font-size: 0.90em; font-weight:bold }
+.TOC1 { margin-top:4pt; margin-bottom:0pt; t-i:0pt; line-height:15pt; font-size: 0.90em }
+.TOC2 { margin-top:4pt; margin-left:14.2pt; margin-bottom:0pt; t-i:0pt; line-height:15pt; font-size: 0.90em }
+.TOC3 { margin-top:4pt; margin-left:28.35pt; margin-bottom:0pt; t-i:0pt; line-height:15pt; font-size: 0.90em }
+.TOC4 { margin-top:4pt; margin-left:42.55pt; margin-bottom:0pt; t-i:0pt; line-height:15pt; font-size: 0.90em }
+.TOC5 { margin-top:4pt; margin-left:56.7pt; margin-bottom:0pt; t-i:0pt; line-height:15pt; font-size: 0.90em }
+.TOC6 { margin-top:4pt; margin-left:56.7pt; margin-bottom:0pt; t-i:0pt; line-height:15pt; font-size: 0.90em }
+.TOC7 { margin-top:15pt; margin-left:56.7pt; margin-bottom:0pt; t-i:14.2pt; page-break-inside:avoid; page-break-after:avoid; line-height:normal; font-family:'Verdana'; font-size: 0.90em; font-weight:normal; font-style:italic }
+.TOC8 { margin-top:15pt; margin-left:56.7pt; margin-bottom:0pt; t-i:14.2pt; page-break-inside:avoid; page-break-after:avoid; line-height:normal; font-family:'Verdana'; font-size: 0.90em; font-weight:normal; font-style:italic }
+.TOC9 { margin-top:15pt; margin-left:56.7pt; margin-bottom:0pt; t-i:14.2pt; page-break-inside:avoid; page-break-after:avoid; line-height:normal; font-family:'Verdana'; font-size: 0.90em; font-weight:normal; font-style:italic }
+.TOCHeading { margin-top:41pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:19.5pt; font-family:'Verdana'; font-size: 1.05em }
+.Tabellunderrubrik { margin-top:0pt; margin-bottom:0pt; t-i:0pt; page-break-after:avoid; line-height:15pt; font-size: 0.90em; font-weight:normal; font-style:italic }
+.Tabellrubrik { margin-top:7.5pt; margin-bottom:0pt; t-i:0pt; page-break-after:avoid; line-height:15pt; font-size: 0.90em; font-weight:bold }
+.Title { margin-top:41pt; margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:19.5pt; font-family:'Verdana'; font-size: 1.05em }
+.Underskriftdatum { margin-top:24pt; margin-bottom:3pt; t-i:0pt; page-break-inside:avoid; line-height:15pt; font-size: 0.90em; font-style:normal }
+.Underskrifter { margin-top:15pt; margin-bottom:3pt; t-i:0pt; page-break-inside:avoid; line-height:15pt; font-size: 0.90em; font-style:italic }
+.Yrkandehnv, .Frslagspunkthnv { margin-bottom:0pt; t-i:0pt; page-break-inside:avoid; page-break-after:avoid; font-size: 0.90em }
+span.BallongtextChar { font-family:'Segoe UI'; font-size: 0.90em }
+span.BeteckningChar { font-size:19.5pt }
+span.CommentReference { font-size:8pt }
+span.FSHRub2Char, span.Rubrik1A4Char { font-size:24pt }
+span.FotnotstextChar { font-size:10pt }
+span.Hyperlink { text-decoration:underline; color:#0563c1; -aw-style-name:hyperlink }
+span.InledningChar { font-family:'Verdana'; font-size: 1.00em; font-weight:bold }
+span.IntenseReference { font-weight:normal; font-style:normal; font-variant:normal; text-decoration:none; text-transform:none; letter-spacing:0pt; vertical-align:0pt; color:#000000; display:inline }
+span.KommentarerChar { font-size:10pt }
+span.KommentarsmneChar { font-size:10pt; font-weight:bold }
+span.MotionTIllRiksdagenChar { font-size:19.5pt }
+span.OformateradtextChar { font-family:'Verdana'; font-size: 0.90em }
+span.PlaceholderText { color:#f4b083 }
+span.Rubrik1Char { font-family:'Verdana'; font-size: 1.05em }
+span.Rubrik2Char { font-family:'Verdana'; font-size: 1.00em }
+span.Rubrik3Char { font-family:'Verdana'; font-size: 0.90em; font-weight:bold }
+span.Rubrik4Char { font-family:'Verdana'; font-size: 0.90em; font-style:italic }
+span.Rubrik5Char { font-family:'Verdana'; font-weight:bold }
+span.Rubrik6Char { font-family:'Verdana'; font-style:italic }
+span.Rubrik7Char { font-family:'Verdana'; font-size: 0.90em; font-weight:bold }
+span.Rubrik8Char { font-family:'Verdana'; font-size: 0.90em; font-weight:bold }
+span.Rubrik9Char { font-family:'Verdana'; font-size: 0.90em; font-weight:bold }
+span.RubrikChar { font-family:'Verdana'; font-size: 1.00em; font-weight:bold }
+span.SidfotChar { font-size:11.5pt }
+span.UnderrubrikChar { font-family:'Verdana'; font-size: 0.90em; font-weight:bold }
+.TableGrid {  }
+
+.pconf{width: 450px;margin-left:5px;overflow:visable;font-family:Verdana, Geneva, sans-serif;} 
+ .sidhuvud_publikation, .sidhuvud_beteckning{font-size:133%}
+.MotionarLista {font-size:122%}
+
+--></style><div class="pconf"><span class="sidhuvud_publikation">Motion till riksdagen</span><br/>
+<span class="sidhuvud_beteckning">2022/23:181</span><br/>
+<span class="MotionarLista">av Märta Stenevi m.fl. (MP)</span><br/>
+<h1>Stärk demokratin och de mänskliga rättigheterna</h1>
+<hr class="sidhuvud_linje"/>
+
+
+		<div class="Section1">
+			<div style="-aw-sdt-tag:'CC_Boilerplate_4'; -aw-sdt-title:'CC_Boilerplate_4'">
+				<h1 style="margin-bottom:15pt">
+					<a name="_Toc106801300"></a><a name="_Toc106800475"><span>Förslag till riksdagsbeslut</span></a>
+				</h1>
+			</div>
+			<div style="-aw-sdt-tag:'2cb33181-dbf0-480f-b789-9ae938160baa'; -aw-sdt-title:'Yrkande 1'">
+				<ol type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-left:14pt; t-i:0pt; padding-left:5.85pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att tillsätta en ny maktutredning och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'38ae4230-68de-47a7-a276-5abaaae1a289'; -aw-sdt-title:'Yrkande 2'">
+				<ol start="2" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; margin-left:14pt; t-i:0pt; padding-left:5.85pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om sänkt rösträttsålder och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'6885cbc7-9949-4f37-bacb-d5490bebe3ea'; -aw-sdt-title:'Yrkande 3'">
+				<ol start="3" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; margin-left:14pt; t-i:0pt; padding-left:5.85pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att öka och bredda valdeltagandet och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'aa1011fd-844a-4941-a48e-86e0833b5023'; -aw-sdt-title:'Yrkande 4'">
+				<ol start="4" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; margin-left:14pt; t-i:0pt; padding-left:5.85pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att införa ett nationellt medborgarinitiativ och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'6baf8ed1-0809-4015-8583-642a8bdd4dc1'; -aw-sdt-title:'Yrkande 5'">
+				<ol start="5" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; margin-left:14pt; t-i:0pt; padding-left:5.85pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att stärka medie- och informationskunnigheten och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'8a6b390e-74e9-4a15-abb9-e7749267a2b2'; -aw-sdt-title:'Yrkande 6'">
+				<ol start="6" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; margin-left:14pt; t-i:0pt; padding-left:5.85pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att stoppa hot och hat och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'f12a8286-814c-438e-86dc-bd47d8c1b943'; -aw-sdt-title:'Yrkande 7'">
+				<ol start="7" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; margin-left:14pt; t-i:0pt; padding-left:5.85pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att stärka arbetet med öppenhet och utöka meddelarskyddet och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'f8063f52-2473-4016-873d-916b41789fa6'; -aw-sdt-title:'Yrkande 8'">
+				<ol start="8" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; margin-left:14pt; t-i:0pt; padding-left:5.85pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att öka transparensen inom lobbyismen och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'e7c8fe18-1c01-46b5-8a69-934030e1a792'; -aw-sdt-title:'Yrkande 9'">
+				<ol start="9" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; margin-left:14pt; t-i:0pt; padding-left:5.85pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att friskolor ska omfattas av offentlighetsprincipen och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'ce2ecae7-c774-4d48-915f-6d2c358e01f1'; -aw-sdt-title:'Yrkande 10'">
+				<ol start="10" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; t-i:0pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att skärpa lagstiftningen om insyn i finansiering av partier och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'886d7146-a264-4d70-97e2-3c0c4780c8e8'; -aw-sdt-title:'Yrkande 11'">
+				<ol start="11" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; t-i:0pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att stärka civilsamhällets förutsättningar och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'cd8055df-62bd-40b3-9ba5-544cf8a1e223'; -aw-sdt-title:'Yrkande 12'">
+				<ol start="12" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; t-i:0pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att stärka principen om fri kultur och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'de9281a2-72f8-45c0-8a2c-8e9dc6a374dc'; -aw-sdt-title:'Yrkande 13'">
+				<ol start="13" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; t-i:0pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att grundlagsskydda public service och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'d39c1f5d-84df-45ea-a5d7-f21559da4812'; -aw-sdt-title:'Yrkande 14'">
+				<ol start="14" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; t-i:0pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att säkerställa mediemångfald på lokal och nationell nivå och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'c265fc66-60bb-4510-8c9b-a2ff0e2a0f40'; -aw-sdt-title:'Yrkande 15'">
+				<ol start="15" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; t-i:0pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att stärka skyddet mot diskriminering och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'af47904e-ba02-44f1-bac5-d933e270f6da'; -aw-sdt-title:'Yrkande 16'">
+				<ol start="16" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; t-i:0pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att stärka asylsökandes och flyktingars rättigheter och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'d5d049e6-9154-4761-84e1-09406ff21fe6'; -aw-sdt-title:'Yrkande 17'">
+				<ol start="17" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; t-i:0pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om stärkta rättigheter för nationella minoriteter och urfolket samerna och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'d847c209-38c8-450c-b405-eedeffc1271b'; -aw-sdt-title:'Yrkande 18'">
+				<ol start="18" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; t-i:0pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om stärkta rättigheter för hbtqi-personer och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'0192e64b-4a48-43f3-8809-2f06d306b662'; -aw-sdt-title:'Yrkande 19'">
+				<ol start="19" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; t-i:0pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om stärkta rättigheter för personer med funktionsnedsättning och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'9bd51a59-7f80-45b4-ac1c-9da1a8338d12'; -aw-sdt-title:'Yrkande 20'">
+				<ol start="20" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; t-i:0pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att ratificera det tredje tilläggsprotokollet till FN:s barnkonvention och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'aeee618c-7eb5-49aa-97bf-b70e4b37ed25'; -aw-sdt-title:'Yrkande 21'">
+				<ol start="21" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; t-i:0pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att tillsätta en utredning om hur svensk lagstiftning bäst bör utformas för att fullt ut leva upp till FN:s kvinnokonvention och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'c9650896-ca04-48d2-b83e-8ee3c1005f43'; -aw-sdt-title:'Yrkande 22'">
+				<ol start="22" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; t-i:0pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att grundlagsskydda aborträtten och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'67076220-9bf6-4969-b294-57445809cf77'; -aw-sdt-title:'Yrkande 23'">
+				<ol start="23" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; t-i:0pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att tillsätta en utredning om hur svensk lagstiftning bäst bör utformas för att fullt ut leva upp till FN:s konvention om rasdiskriminering och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'dcae7125-cef1-4934-bddc-bd2db0cdfd10'; -aw-sdt-title:'Yrkande 24'">
+				<ol start="24" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; t-i:0pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att inrätta en nationell demokratifunktion och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'fcf84f51-9b81-4ab9-b740-0d0215955c96'; -aw-sdt-title:'Yrkande 25'">
+				<ol start="25" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; t-i:0pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att ge länsstyrelserna ett demokratifrämjande uppdrag och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'5c27a723-d8e4-4457-b917-c4725c0b7d2c'; -aw-sdt-title:'Yrkande 26'">
+				<ol start="26" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; t-i:0pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att förtydliga skolans demokratiuppdrag och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'21875b38-abd3-4fc3-b9ea-865fca6f78e7'; -aw-sdt-title:'Yrkande 27'">
+				<ol start="27" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; t-i:0pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att försvåra grundlagsändringar och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'161c9b3f-f746-4517-86d7-863820653c44'; -aw-sdt-title:'Yrkande 28'">
+				<ol start="28" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; t-i:0pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att stärka domstolarnas oberoende och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'db224d40-c912-4179-9603-dbf470d63455'; -aw-sdt-title:'Yrkande 29'">
+				<ol start="29" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; t-i:0pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att bekämpa våldsbejakande extremism och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'764fbcc9-69fd-4954-bc9a-81ffac76af2d'; -aw-sdt-title:'Yrkande 30'">
+				<ol start="30" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; t-i:0pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att värna integriteten i det digitala samhället och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'e9b5380e-bdb0-4b46-b7c3-1e53686fcb12'; -aw-sdt-title:'Yrkande 31'">
+				<ol start="31" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; t-i:0pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att vidareutveckla Institutet för mänskliga rättigheter och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'0842bee2-c66b-4c3a-a9f1-c821d8348821'; -aw-sdt-title:'Yrkande 32'">
+				<ol start="32" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; t-i:0pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om Sveriges demokratiska röst i världen och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'a5fd2c03-dddd-4f11-962e-82e6f12047f7'; -aw-sdt-title:'Yrkande 33'">
+				<ol start="33" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; t-i:0pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att Sverige ska driva på för ett mer demokratiskt EU och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'18df69ea-0f11-4875-b592-6ddafe44dc95'; -aw-sdt-title:'Yrkande 34'">
+				<ol start="34" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; t-i:0pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att stärka FN:s arbete med demokrati och mänskliga rättigheter och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<div style="-aw-sdt-tag:'a154f4b6-eca2-4473-a719-639beaf05c49'; -aw-sdt-title:'Yrkande 35'">
+				<ol start="35" type="1" style="margin:0pt; padding-left:0pt">
+					<li class="Frslagstext" style="margin-top:0pt; t-i:0pt">
+						<span>Riksdagen ställer sig bakom det som anförs i motionen om att Sverige ska driva på för ett mer demokratiskt Nato och tillkännager detta för regeringen.</span>
+					</li>
+				</ol>
+			</div>
+			<span style="-aw-bookmark-end:_Toc106801300">
+			</span>
+			<div style="-aw-sdt-tag:'CC_Motivering_Rubrik'; -aw-sdt-title:'CC_Motivering_Rubrik'">
+				<h1>
+					<span style="-aw-bookmark-end:_Toc106800475"></span><a name="MotionsStart"></a><a name="_Toc106801301"></a><a name="_Toc106800476"><span>Stärk medborgarnas möjlighet att påverka</span></a>
+				</h1>
+			</div>
+			<span style="-aw-bookmark-end:_Toc106801301">
+			</span>
+			<h2 style="margin-top:22pt">
+				<span style="-aw-bookmark-end:_Toc106800476"></span><span>Tillsätt en ny maktutredning</span>
+			</h2>
+			<p class="Normalutanindragellerluft">
+				<span>Den senaste maktutredningen lämnade sin slutrapport för över 30</span><span>&#xa0;</span><span>år sedan. Kommittén </span><span style="letter-spacing:-0.05pt">hade till uppgift att fördjupa kunskaperna om demokratins villkor, medborgarnas möjlig</span><span style="letter-spacing:-0.05pt">&#xad;</span><span style="letter-spacing:-0.05pt">heter</span><span> att påverka och vilka faktorer som skapar makt att forma Sverige.</span>
+			</p>
+			<p>
+				<span>Sedan dess har mycket hänt. Idag påverkas demokratin av ökade klyftor och polarisering i den politiska debatten. Enligt en ny rapport vågar fler än hälften av alla svenskar inte uttrycka sina åsikter i politiska frågor. Det finns enligt rapporten en ut</span><span>&#xad;</span><span>bredd kultur med självcensur i Sverige. En stor andel av de tillfrågade i undersökningen är också beredda att dra in grundläggande demokratiska fri- och rättigheter för grupper som de inte gillar. Dessutom är en av demokratins största utmaningar att många inte känner sig delaktiga i den. Hat och hot mot förtroendevalda och andra som uttrycker politiska åsikter hämmar också viljan och möjligheten att engagera sig för att påverka samhället.</span>
+			</p>
+			<p>
+				<span>För att stärka allas rätt att påverka vill vi analysera hur det demokratiska inflytandet ser ut idag och vad vi kan göra för att öka det. Därför vill vi tillsätta en ny maktutred</span><span>&#xad;</span><span>ning som ska lämna förslag på hur vi bygger en demokrati som representerar allas intressen på bästa sätt.</span>
+			</p>
+			<h2>
+				<span>Sänk rösträttsåldern till 16</span><span>&#xa0;</span><span>år </span>
+			</h2>
+			<p class="Normalutanindragellerluft">
+				<span>Demokratin behöver utvecklas och breddas på flera olika sätt, bland annat genom att inkludera fler unga människor. I länder som Österrike, Skottland, Malta, Argentina, Brasilien och Ecuador får 16-åringar rösta, så även i delar av USA, Tyskland och Estland. Vi anser att det är hög tid för en sänkning även i Sverige och att rösträttsåldern bör sänkas till 16</span><span>&#xa0;</span><span>år i kommun-, region- och riksdagsvalen. En försöksverksamhet på kommunal nivå bör inledas.</span>
+			</p>
+			<p>
+				<span>År 1909 införde allmän rösträtt för män och en rösträttsålder på 24</span><span>&#xa0;</span><span>år. Därefter gjordes ett antal viktiga reformer. I år är det 100 år sedan kvinnor för första gången kunde utnyttja sin rösträtt. Rösträttsåldern sänktes successivt under seklets gång. År 1945 till 21</span><span>&#xa0;</span><span>år, tjugo år senare till 20</span><span>&#xa0;</span><span>år och så år 1975 till dagens rösträttsålder – 18</span><span>&#xa0;</span><span>år. Snart har det gått ett halvt sekel sedan dess. Vi anser nu att det är dags för en ytterligare sänkning, i syfte att bredda och stärka demokratin. Det är viktigt av flera skäl, bland annat eftersom varannan ung person inte känner sig inkluderad i samhället och de flesta upplever att de inte har inflytande över det politiska beslutsfattandet. Samtidigt ser vi hur unga engagerar sig i viktiga samhällsfrågor, till exempel klimatfrågan. Vi ser också </span><span style="letter-spacing:-0.05pt">fördelar med att de flesta skulle gå i gymnasieskolan med goda möjligheter till kunskaps</span><span style="letter-spacing:-0.05pt">&#xad;</span><span style="letter-spacing:-0.05pt">inhämtning</span><span> det år de får rösta för första gången. Unga vill vara med och påverka! Vi är övertygade om att ungas tilltro till det politiska systemet skulle öka om de fick delta i det.</span>
+			</p>
+			<p>
+				<span>Demokratiutredningen, som lämnade sitt betänkande 2016, föreslog att en försöks</span><span>&#xad;</span><span>verksamhet med en rösträttsålder på 16</span><span>&#xa0;</span><span>år skulle genomföras vid lokala val, något som ännu inte har blivit verklighet. Genomsnittsåldern för förstagångsväljare i Sverige är idag 20</span><span>&#xa0;</span><span>år, Europas högsta. Med en sänkning till en rösträttsålder på 16</span><span>&#xa0;</span><span>år skulle denna snittålder sänkas till 18</span><span>&#xa0;</span><span>år. Vi anser att en försöksverksamhet vore ett bra sätt att testa hur en generell sänkning skulle falla ut.</span>
+			</p>
+			<h2>
+				<span>Öka och bredda valdeltagandet</span>
+			</h2>
+			<p class="Normalutanindragellerluft">
+				<span>Vi har ett högt valdeltagande i Sverige, men vid årets val såg vi för första gången på länge ett trendbrott. I riksdagsvalet 2018 deltog 87,2 procent av de röstberättigade. I</span><span>&#xa0;</span><span>riksdagsvalet 2022 deltog 84,2 procent av de röstberättigade, en nedgång med 3</span><span>&#xa0;</span><span>procentenheter. Även om dessa siffror fortsatt är höga ur ett internationellt perspektiv innebär det att 16</span><span>&#xa0;</span><span>procent inte röstade i det senaste riksdagsvalet. Det innebär en stor outnyttjad potential och många människor som inte använder en av de viktigaste möjlig</span><span>&#xad;</span><span>heterna att påverka samhället. Vi kan dessutom inte utgå ifrån att valdeltagandet inte kommer att fortsätta att minska. Vi behöver därför hela tiden utveckla de verktyg som finns för att involvera människor i de politiska beslut som styr deras vardag.</span>
+			</p>
+			<p>
+				<span>Valmyndigheten ansvarar centralt för genomförandet av val och landsomfattande folkomröstningar och dessutom för olika uppgifter kopplade till valet, bland annat att ge information om när, var och hur man röstar. Myndigheten för ungdoms- och civilsam</span><span>&#xad;</span><span>hälles</span><span>&#xad;</span><span>frågor (MUCF) har haft i uppdrag att genomföra skolval. Men det finns ingen myndighet som har ett uttryckligt uppdrag att öka valdeltagandet i Sverige. De politiska partierna genomför viktiga informationsinsatser, men vi tror att åtgärder också behöver vidtas av oberoende myndigheter – som ju har en annan roll och plattform för dialog med medborgarna. Vi anser därför att en eller flera myndigheter bör ges i uppdrag att genomföra insatser för att öka valdeltagandet och att en utredning bör analysera förut</span><span>&#xad;</span><span>sättningarna för detta. Arbetet bör särskilt fokuseras på att öka valdeltagandet i utsatta områden och bland grupper som röstar i lägre utsträckning.</span>
+			</p>
+			<h2>
+				<span>Inför ett system med nationella medborgarinitiativ</span>
+			</h2>
+			<p class="Normalutanindragellerluft">
+				<span>Ett medborgarinitiativ är ett direktdemokratiskt verktyg som möjliggör för enskilda att ge förslag till samhällsförändringar, till exempel lagförslag eller folkomröstningar. I Sverige finns verktyget på kommun- och regionnivå, men inte på nationell nivå. Olika system med medborgarinitiativ finns till exempel i Finland, Schweiz, Storbritannien, Polen, Rumänien och Brasilien. Sedan 2012 finns ett system inom EU där enskilda medborgare får samma möjlighet som Europaparlamentet, nämligen att uppmana Europeiska kommissionen att lägga fram lagförslag. För ett medborgarinitiativ krävs stödförklaringar från en miljon EU-medborgare i minst sju av 27 EU-länder.</span>
+			</p>
+			<p>
+				<span>Ett förslag som Demokratiutredningen lämnade i sitt betänkande 2016 var att införa folkmotioner till riksdagen och till kommun- och regionfullmäktige. Det innebär att en enskild individ kan väcka ett förslag och om detta får stöd av en procent av de röst</span><span>&#xad;</span><span>berättigade till riksdagen eller av de folkbokförda i en kommun eller ett landsting (numera region) ska det tas upp som en motion. Om motionen fått tillräckligt stöd väcks den i riksdagen på samma sätt som motioner av riksdagsledamöter och behandlas i ansvarigt utskott.</span>
+			</p>
+			<p>
+				<span>Vi anser att införandet av ett system med folkmotioner, eller någon annan form av nationellt medborgarinitiativ, vore ett viktigt steg mot att stärka den svenska demokratin </span><span style="letter-spacing:-0.05pt">och öka medborgarnas inflytande i samhället. Det ska också vara möjligt för medborgare</span><span> att ta initiativ till folkomröstningar på nationell nivå.</span>
+			</p>
+			<h2>
+				<span>Stärk medie- och informationskunnigheten</span>
+			</h2>
+			<p class="Normalutanindragellerluft">
+				<span>I en tid där de flesta människor, inte minst unga, tillbringar mycket tid i den digitala miljön och där exponeras för en flod av olika budskap är förmågan att kritiskt analysera information och olika källor viktigare än någonsin tidigare. Utan en sådan förmåga ökar sårbarheten för propaganda, felaktigheter och förvanskade budskap av olika slag. Den som saknar förmåga att särskilja sant från falskt, eller inte kan sätta information i rätt sammanhang, får svårare att bygga solid kunskap. Det ökar också risken för att anti</span><span>&#xad;</span><span>demokratiska budskap får genomslag. Därför har det som brukar kallas för medie- och informationskunnighet (MIK) en självklar plats i skolan. </span>
+			</p>
+			<p>
+				<span>Miljöpartiet vill därför att uppdraget att undervisa i medie- och informationskunnig</span><span>&#xad;</span><span>het ska stärkas i grund- och gymnasieskolans läroplaner och examensmål. Vi vill också att samordningen av MIK-frågor ska förbättras mellan samhällets olika sektorer. Som ett naturligt nästa steg anser Miljöpartiet att en nationell strategi för MIK bör tas fram. Ett sådant arbete bör ske i nära samarbete med de aktörer som påverkas i störst mån.</span>
+			</p>
+			<p>
+				<span>Avgörande för att alla elever ska lyckas i sin skolgång är biblioteken. Därför måste skolbiblioteken vara bemannade med utbildad personal. Vi vill att alla skolelever ska ha tillgång till bibliotek som är bemannade med rätt kompetens och att skolbiblioteken ska bistå skolan i MIK-arbetet. </span>
+			</p>
+			<p>
+				<span>MIK kan underlätta det demokratiska samtalet i en alltmer digital tid. Samtidigt måste vi vara medvetna om att det i grunden handlar om tillit – eller bristen på tillit – till samhällets kunskapsproducerande institutioner, som massmedia, skolor, bibliotek, högskolor och andra myndigheter. Därför bör skolan inte enbart förmedla kunskaper och färdigheter i MIK utan även bygga tillit till kunskapsproducerande och kunskaps</span><span>&#xad;</span><span>förmedlande institutioner. Då biblioteken är en institution som många människor känner tillit till kan folkbiblioteken bidra till en levande dialog om MIK och stötta andra yrkes</span><span>&#xad;</span><span>grupper i lokalsamhället.</span>
+			</p>
+			<h2>
+				<span>Stoppa hot och hat och öka tryggheten</span>
+			</h2>
+			<p class="Normalutanindragellerluft">
+				<span>Hot, hat och våld mot förtroendevalda får omedelbara konsekvenser för individen men hotar också det demokratiska systemet i stort. Tyvärr är det vanligt förekommande i Sverige. I Politikernas trygghetsundersökning (PTU) rapporterade Brottsförebyggande rådet (Brå) att var fjärde politiker utsattes för trakasserier, hot eller våld under 2020. 26</span><span>&#xa0;</span><span>procent av politikerna uppger att de har påverkats i sitt förtroendeuppdrag på grund av utsatthet eller oro för att utsättas. Kvinnor uppger i högre utsträckning än män att </span><span style="letter-spacing:-0.05pt">deras uppdrag har påverkats, 31</span><span style="letter-spacing:-0.05pt">&#xa0;</span><span style="letter-spacing:-0.05pt">procent jämfört med 23</span><span style="letter-spacing:-0.05pt">&#xa0;</span><span style="letter-spacing:-0.05pt">procent. 25</span><span style="letter-spacing:-0.05pt">&#xa0;</span><span style="letter-spacing:-0.05pt">procent av kommun</span><span style="letter-spacing:-0.05pt">&#xad;</span><span style="letter-spacing:-0.05pt">politikerna</span><span> och 30</span><span>&#xa0;</span><span>procent av regionpolitikerna har utsatts för hat och hot, enligt Sveriges kommuner och regioner, SKR. </span>
+			</p>
+			<p>
+				<span>Förtroendevalda i kommuner och regioner omfattas inte av arbetsmiljölagstift</span><span>&#xad;</span><span>ningen, eftersom de inte är anställda. Det är i stället kommun- och regionfullmäktige som bär ansvaret, vilket innebär att olika politiska beslut kan fattas avseende hur hoten ska hanteras. Det är viktigt att arbeta för att öka tryggheten för förtroendevalda och att klargöra ansvarsfördelningen, så att det blir tydligt vilka instanser som ansvarar för att säkerställa tryggheten.</span>
+			</p>
+			<p>
+				<span>Hot och hat är också ett stort hinder för journalister, föreningslivet och enskilda opinionsbildare som undviker att göra sina röster hörda på grund av risken för att utsättas. Här behövs ett samlat strategiskt arbete som kombinerar ett stärkt rättsväsende och stöd till det civila samhället med satsningar på medie- och informationskunnighet, insatser mot desinformation samt krav på de globala plattformsföretagen. En ny samlad strategi för ökad motståndskraft mot desinformation och näthat behövs. </span>
+			</p>
+			<p>
+				<span>I regering tog vi fram handlingsplanen Till det fria ordets försvar (Ku 17:04), i syfte att motverka hot och hat mot journalister, förtroendevalda och konstnärer. Handlings</span><span>&#xad;</span><span>planen bör nu uppdateras. Civilsamhället är en av grundpelarna i den svenska demokra</span><span>&#xad;</span><span>tin. På senare tid har vi sett flera exempel på när organisationers arbete ifrågasätts, vilket är en trend som känns igen runtom i Europa. I arbetet med handlingsplanen behövs därför bland annat en kartläggning av den aktuella hotbilden mot civilsamhället och konkreta åtgärder för att värna och vidga det demokratiska utrymmet. Att involvera civilsamhällets aktörer i arbetet är av central betydelse.</span>
+			</p>
+			<h1>
+				<span>Öka transparensen och bekämpa korruption</span>
+			</h1>
+			<h2 style="margin-top:22pt">
+				<span>Stärk arbetet med öppenhet och utöka meddelarskyddet </span>
+			</h2>
+			<p class="Normalutanindragellerluft">
+				<span>Av en rapport från Fackförbundet ST framgår att många statsanställda är rädda för att larma om missförhållanden och framföra kritik. Var femte statsanställd har avstått från att kritisera eller larma om missförhållanden på arbetsplatsen och tre av tio känner en oro för repressalier om de framför kritik. Det är mycket oroväckande och ett underbetyg </span><span style="letter-spacing:-0.05pt">för staten och myndigheterna. Det finns ett behov av att säkerställa kvaliteten på den nya statliga introduktionsutbildningen vad gäller exempelvis yttrandefrihet och meddelar</span><span style="letter-spacing:-0.05pt">&#xad;</span><span style="letter-spacing:-0.05pt">frihet.</span><span> Det finns också ett behov av att stärka uppföljningen av myndigheternas arbete med öppenhet. </span>
+			</p>
+			<p>
+				<span>Det finns också goda skäl att utvidga meddelarskyddet så att fler omfattas. Miljö</span><span>&#xad;</span><span>partiet var pådrivande i att stärka meddelarskyddet för privatanställda i offentligt finansierad verksamhet. Vi anser att det är rimligt att verksamhet som finansieras med skattemedel omfattas av samma krav. Därför vill vi införa meddelarskydd även för anställda i statliga bolag och anställda i företag som utför tjänster som upphandlats av statliga myndigheter. </span>
+			</p>
+			<h2>
+				<span>Ökad transparens inom lobbyismen</span>
+			</h2>
+			<p class="Normalutanindragellerluft">
+				<span>Lobbying är ett viktigt verktyg som används av bland annat många intresseorganisa</span><span>&#xad;</span><span>tioner för att åstadkomma förändringar i till exempel politik och lagstiftning. Denna möjlighet att påverka politiken bidrar till en levande demokrati och leder till värdefulla kontaktytor och utbyte av kunskap mellan olika samhällsaktörer. </span>
+			</p>
+			<p>
+				<span>På senare år har marknaden för public affairs-företag vuxit. I Sverige saknas regler för transparens för den här typen av verksamhet, vilket försvårar möjligheterna att granska beslutsprocesser och potentiellt ensidiga eller tvivelaktiga kontakter mellan beslutsfattare och intresseorganisationer. Ibland finns det också brister i transparensen gentemot beslutsfattare själva. Det är viktigt att verksamheten blir mer transparent, så att medborgare har insyn i vilka intressen som är med och påverkar de politiska besluten.</span>
+			</p>
+			<p>
+				<span>Miljöpartiet vill därför inrätta ett transparensregister över lobbyister som agerar för olika intressen gentemot riksdagsledamöter och anställda vid partikanslier och myndig</span><span>&#xad;</span><span>heter. Registret bör hanteras av det offentliga och public affairs-företag ska vara skyldiga att öppet redovisa uppdragsgivare, inriktning på uppdrag samt kundlistor. </span>
+			</p>
+			<h2>
+				<span>Friskolor ska omfattas av offentlighetsprincipen</span>
+			</h2>
+			<p class="Normalutanindragellerluft">
+				<span>Offentlighetsprincipen är en hörnsten i den svenska demokratin och infördes genom antagandet av tryckfrihetsförordningen 1766. Principen innebär rätt för enskilda att ta del av allmänna handlingar. Grundtanken är att detta ska skapa ett samhällsklimat präglat av insyn och transparens som möjliggör för allmänheten att granska offentlig verksamhet. Principen hänger samman med folkstyret – att det är folket som styr riket och som därför också har rätt till insyn i hur det styrs.</span>
+			</p>
+			<p>
+				<span>En av det svenska samhällets viktigaste gemensamma institutioner är skolan, och det finns mycket starka skäl att säkerställa en god insyn i skolornas verksamhet. Samtidigt undantas friskolor enligt nuvarande ordning från offentlighetsprincipen, till skillnad från kommunala skolor. Vi måste kunna känna oss trygga med att alla skolhuvudmän tar uppdraget på största allvar och lever upp till det gemensammas förväntningar på kvalitet och värdegrund.</span>
+			</p>
+			<p>
+				<span>Många privaträttsliga organ som utför uppdrag åt det offentliga omfattas redan av offentlighetsprincipen. Bland de organ som omfattas av skyldigheten, och räknas upp i en bilaga till offentlighets- och sekretesslagen, finns bland annat privat drivna högskolor som Chalmers och Handelshögskolan men även föreningar såsom Synskadades riks</span><span>&#xad;</span><span>förbund och Stim.</span>
+			</p>
+			<p>
+				<span>Den som driver en skola måste klara den insyn som offentlighetsprincipen medför. Miljöpartiet anser därför att även fristående skolor ska omfattas av offentlighets</span><span>&#xad;</span><span>principen i samma utsträckning som andra skolor.</span>
+			</p>
+			<h2>
+				<span>Skärp lagstiftningen om insyn i finansiering av partier</span>
+			</h2>
+			<p class="Normalutanindragellerluft">
+				<span>Enligt svensk lag får inte partier och deras sidoorganisationer, ledamöter och ersättare för ledamöter samt valkandidater ta emot anonyma bidrag till den del värdet överstiger 0,05 prisbasbelopp, vilket i år är 2</span><span>&#xa0;</span><span>415 kronor. Reglerna finns till för att säkerställa transparens och bekämpa korruption. TV4:s Kalla fakta visade i ett program i augusti 2022 hur fem av riksdagens åtta partier aktivt försökt att kringgå lagen.</span>
+			</p>
+			<p>
+				<span>Miljöpartiet anser att en översyn av lagstiftningen behövs. Den bör innehålla åtgär</span><span>&#xad;</span><span>der för att skärpa lagen så att partier inte kan komma runt reglerna, inklusive hur så kallade bulvanupplägg kan förhindras. En annan viktig fråga är hur lagstiftningen bör hantera anonyma bidrag från partisympatiserande stiftelser och föreningar. Vidare har </span><span style="letter-spacing:-0.05pt">Sverige tidigare fått kritik från Europarådets antikorruptionsenhet Greco för att anonyma</span><span> gåvor kan delas upp och på så vis undgå insyn, ett upplägg som även förekom i Kalla Faktas avslöjande 2022. Även detta bör omfattas av översynen. Vi vill dessutom att översynen tar upp frågan om hur ett lämpligt straffansvar för överträdelser bör regleras. </span>
+			</p>
+			<h1>
+				<span>Stärk civilsamhället, kulturen och medierna</span>
+			</h1>
+			<h2 style="margin-top:22pt">
+				<span>Stärk civilsamhällets förutsättningar</span>
+			</h2>
+			<p class="Normalutanindragellerluft">
+				<span>Civilsamhället spelar en mycket viktig roll i demokratin. Det svenska föreningslivet är en bärande samhällskraft. Det är avgörande för en levande demokrati, för fri åsikts</span><span>&#xad;</span><span>bildning, för ett samhälle som håller ihop och för en rik fritid för både barn och vuxna. Miljöpartiet gick till val på att ge civilsamhället bättre förutsättningar.</span>
+			</p>
+			<p>
+				<span>Föreningslivet ska kunna agera oberoende och långsiktigt utifrån sin egen idé. Staten måste ge goda förutsättningar men låta organisationerna göra resten. Vi vill därför öka det ekonomiska stödet till civilsamhället. Den självständiga kritiska rösten ska värnas. Vi vill bryta civilsamhällets beroende av projektstöd och se en riktad och långsiktig finansiering. Därför föreslår Miljöpartiet en permanent miljard till det civila samhällets organisationer.</span>
+			</p>
+			<p>
+				<span>Politiken har ett ansvar att göra det så lätt som möjligt för människor att ge av sin tid och energi till det gemensamma och att stärka folkrörelserna som bidrar till demokrati, folkhälsa och integration. Vi vill se ett förstärkt arbete mot hot och hat, som slår särskilt hårt mot ideella organisationer med knappa resurser. Vi vill också stärka den statliga finansieringen av barn- och ungdomsorganisationer. Organisationer som leds av unga själva stärker det demokratiska deltagandet och ger unga en politisk röst som de annars hade saknat, samtidigt som de erbjuder viktiga sammanhang och aktiviteter för ung</span><span>&#xad;</span><span>domar här och nu.</span>
+			</p>
+			<h2>
+				<span>Skydda och stärk den fria kulturen</span>
+			</h2>
+			<p class="Normalutanindragellerluft">
+				<span>Vi i Miljöpartiet är övertygade om att generella och omfattande civila, sociala och politiska rättigheter gör samhället bättre och friare. Den gröna visionen är ett samhälle där människor och kulturyttringar möts, där människor är fria att tänka och tycka efter eget huvud – där tankar, visioner och olikheter respekteras och utgör en grogrund för kreativa tankar, nya idéer och initiativ.</span>
+			</p>
+			<p>
+				<span>Den fria kulturen och konsten bidrar till att nya konstnärliga och intellektuella områden kan upptäckas och att rådande ordningar ifrågasätts. Därför måste kultur och konst stå fri från politisk påverkan och kortsiktiga kommersiella villkor. Principen om att politiken ska hålla sig på en armlängds avstånd från kulturen ska upprätthållas och utvecklas. </span>
+			</p>
+			<p>
+				<span>Biblioteken är viktiga institutioner i samhället. De är en arena för läsning och litteratur, bildning och fri åsiktsbildning. Vi vill fortsätta att stärka folkbiblioteken och för att värna bibliotekens oberoende från politisk styrning vill vi se över hur principen om en armlängds avstånd kan skrivas in i bibliotekslagen.</span>
+			</p>
+			<p>
+				<span>Den ekonomiska och sociala tryggheten för konstnärer och kulturskapare bör stärkas. Ett fritt och tillgängligt kulturarv ska värnas. Därför bör ett kulturarvslyft genomföras för att öka tillgängligheten till kulturarvet, genom både upprustning av fysiska miljöer och en digitaliseringssatsning.</span>
+			</p>
+			<h2>
+				<span>Skydda public service i grundlag</span>
+			</h2>
+			<p class="Normalutanindragellerluft">
+				<span>En mångfald av starka och oberoende medier i hela landet är en förutsättning för en stark demokrati. Alla människor, oavsett var i landet man bor, ska ha tillgång till ett allsidigt nyhets- och medieutbud av hög kvalitet, som kan fördjupa, skildra, granska och förklara samhällets skeenden. Medborgarna måste ha möjlighet att fatta beslut med tillräcklig och tillförlitlig kunskap som grund.</span>
+			</p>
+			<p>
+				<span>Att det finns oberoende medier som kan förmedla sakliga nyheter och granska regering, riksdag och myndigheter är centralt för att kunna upprätthålla en vital demokrati. I en tid när traditionella prenumererade dagstidningar når allt färre är det viktigare än kanske någonsin förr att public service kan vidmakthålla sitt uppdrag i allmänhetens tjänst. I vår omvärld har vi samtidigt sett hur auktoritära regeringar kort efter att de tillträtt har kunnat ta kontroll över landets tidigare public service och om</span><span>&#xad;</span><span>vandla den till regeringsstyrda propagandakanaler, som ett led i en avdemokratiserings</span><span>&#xad;</span><span>process.</span>
+			</p>
+			<p>
+				<span>Vi är inte immuna mot att en sådan utveckling sker också i Sverige. En rapport från Reportrar utan gränser i Sverige från 2020 visar att det finns ett tydligt hot mot public service-medier även i Sverige.</span>
+			</p>
+			<p>
+				<span>Även om SVT, SR och UR idag ges ett starkt oberoende i den lagstiftning som reglerar verksamheten kan lagar ändras med ett klubbslag i riksdagen. Det bör därför införas skydd för public services oberoende också i grundlag, så att möjligheterna för en regering som vill styra innehållet i programbolagens sändningar försvåras.</span>
+			</p>
+			<h2>
+				<span>Säkerställ mediemångfald på lokal och nationell nivå</span>
+			</h2>
+			<p class="Normalutanindragellerluft">
+				<span>Vi lever i ett medielandskap under stor och snabb omvandling, där tidigare förutsätt</span><span>&#xad;</span><span>ningar för mediekonsumtion och nyhetsförmedling ställts på ända. Tillgången till medier och information har blivit bättre, meningsutbyten och åsiktsyttringar har under</span><span>&#xad;</span><span>lättats och fler kan producera och publicera medialt innehåll. Samtidigt skapar det nya medielandskapet utmaningar i form av urholkade affärsmodeller, medial polarisering, misstro mot medier och geografiska områden som ibland helt saknar journalistisk bevakning.</span>
+			</p>
+			<p>
+				<span>En ambitiös mediepolitik strävar efter en levande mediemångfald, där starka, ansvarstagande och oberoende medier i hela landet kan bidra till att händelser i sam</span><span>&#xad;</span><span>hället belyses ur olika perspektiv. Mediernas ekonomi var redan före coronapandemin hårt ansträngd med mycket små marginaler. Nyhetsmedier har avgörande betydelse för samhällets funktion i en kris och är av MSB definierade som samhällsviktig verksam</span><span>&#xad;</span><span>het. Om den ordinarie nyhetsförmedlingen upphör, t.ex. genom att dagstidningen slutar att ges ut, skulle det kraftigt försämra allmänhetens tillgång till information och dess</span><span>&#xad;</span><span>utom skapa oro som allvarligt kan förvärra den pågående krisen.</span>
+			</p>
+			<p>
+				<span>Mediestödsutredningen redovisade sitt förslag den 27</span><span>&#xa0;</span><span>juni 2022. Miljöpartiet är positivt till att fokuset i det nya stödet är att det ska finnas nyhetsmedier över hela landet. Den lokala journalistiken spelar en viktig roll i att säkerställa tillgången till information för alla som bor i Sverige, en central del av en fungerande och livskraftig demokrati. Vi är dock oroade för att mediemångfalden på nationell nivå riskerar att tappa mark på så sätt att företag av mindre storlek riskerar att möta en tuff ekonomisk situation. Det är viktigt att säkerställa ett bra stöd till dessa medier. Vi är beredda att skjuta till ökade medel för att övergången till ett nytt system ska fungera och undvika negativa effekter. Vi vill också se en snar tillsättning av en utredning som ser över stödet till tidskrifterna, som också fyller en viktig demokratisk funktion i att fördjupa bevakningen inom olika ämnesområden. Miljöpartiet anser dessutom att nollmoms för tidningar och tidskrifter vore ett välbehövligt komplement till det vanliga mediestödet.</span>
+			</p>
+			<h1>
+				<span>Stärk skyddet för särskilt utsatta grupper</span>
+			</h1>
+			<h2 style="margin-top:22pt">
+				<span>Stärk skyddet mot diskriminering</span>
+			</h2>
+			<p class="Normalutanindragellerluft">
+				<span>Idag är diskriminering en del av många människors vardag. För att vi ska få ett samhälle fritt från diskriminering behöver lagstiftningen utvecklas där det finns brister.</span>
+			</p>
+			<p>
+				<span>En utredning bör tillsättas om hur diskrimineringslagen kan stärkas. Lagen bör anpassas för att i större utsträckning kunna tillämpas vid diskriminering på grund av hudfärg, språk eller religion. En del i den utredningen bör vara att överväga språk som diskrimineringsgrund. Diskrimineringslagen ska också ta hänsyn till att diskriminerings</span><span>&#xad;</span><span>grunder kan samspela och möjliggöra för ett intersektionellt perspektiv i implementer</span><span>&#xad;</span><span>ingen. Kränkande reklam bör också omfattas av diskrimineringslagen. </span>
+			</p>
+			<p>
+				<span>Fler ska få möjlighet att söka upprättelse när de utsatts för diskriminering. Därför bör en utredning tillsättas om hur rättshjälpssystemet kan göras mer generöst. Anti</span><span>&#xad;</span><span>diskrimineringsbyråerna bör också få ökad finansiering.</span>
+			</p>
+			<h2>
+				<span>Stärk asylsökandes och flyktingars rättigheter </span>
+			</h2>
+			<p class="Normalutanindragellerluft">
+				<span>Aldrig förr har så många människor varit på flykt i världen som nu. Samtidigt vill allt fler stänga dörrarna för dem som tvingas fly. Det gör inte vi. Rätten att söka asyl är en mänsklig rättighet och måste försvaras. Människor som flyr för sina liv ska inte mötas av murar, utan Sverige ska tillsammans med övriga Europa ta ansvar och stå upp för öppenhet och medmänsklighet. Människor som kommer hit och har rätt till uppehålls</span><span>&#xad;</span><span>tillstånd ska ges möjlighet att snabbt inkluderas i samhället. Sverige ska ta vara på den stora kraft som finns i nya invånares vilja att delta i samhället. Nyanländas rättigheter behöver stärkas, inte begränsas. Särskilt ska barnperspektivet genomsyra migrations</span><span>&#xad;</span><span>lagarna så att barn på flykt prioriteras. </span>
+			</p>
+			<p>
+				<span>Fler länder behöver ta ett större ansvar för att ta emot flyktingar och vi vill att Sverige tillsammans med andra EU-länder förbinder sig att öka antalet kvotflyktingar. Den som flyr ska ha fler lagliga vägar för att ta sig till säkerhet. </span>
+			</p>
+			<p>
+				<span>Integrationen börjar redan under asyltiden. Att få möjlighet att lära sig svenska från dag ett, kunna jobba och ha en meningsfull tid som asylsökande stärker individers möjligheter till snabbare etablering på arbetsmarknaden och i samhällslivet när de har fått uppehållstillstånd. Som ett led i detta måste de långa handläggningstiderna för uppehållstillstånd kortas ned så att det går fortare att komma in i samhället. Handlägg</span><span>&#xad;</span><span>ningstiderna i asylärenden leder till psykiskt lidande, brister i rättssäkerhet och hinder för integration. </span>
+			</p>
+			<p>
+				<span>Permanenta uppehållstillstånd ska återinföras. Det är bättre både för individen som får en trygghet och stabilitet och för samhället eftersom möjligheterna till etablering förbättras. Människor behöver känna trygghet för att våga satsa och bygga upp ett nytt liv. Ovisshet om framtiden och hur länge man kommer att få stanna, oro över familje</span><span>&#xad;</span><span>medlemmar och en försämrad psykisk hälsa gör det svårt för många nyanlända med tillfälliga uppehållstillstånd att fokusera på etablering och försörjning. </span>
+			</p>
+			<p>
+				<span>Inget barn som har flytt ska behöva oroa sig för att inte få stanna. Därför ska barn särskilt prioriteras för permanenta uppehållstillstånd vid första asylansökan. Sedan barnkonventionen blev lag i Sverige har vi ett särskilt ansvar att sätta barnens bästa i fokus under asylprocessen. Därför vill vi ge familjer full rätt och möjlighet att åter</span><span>&#xad;</span><span>förenas så att inga asylsökande barn ska kunna skiljas från sina föräldrar. Familjer ska få återförenas utan krav på inkomst eller storlek på bostad i Sverige. Det är också dags att förbjuda minderåriga i förvar. Att låsa in asylsökande barn som fått avslag på sin asylansökan är inhumant. </span>
+			</p>
+			<p>
+				<span>Vi vill stärka rättssäkerheten i asylprocessen. Framför allt måste stödet till och kunskapen om HBTQI-flyktingar, de som flyr religiöst förtryck och andra sårbara grupper öka. En oberoende utredning bör tillsättas för att granska rättssäkerheten i asylärenden och asylmål, med fokus på särskilt utsatta grupper, och utbildningsinsatser bör riktas till tolkar, offentliga biträden och Migrationsverkets tjänstepersoner. </span>
+			</p>
+			<h2>
+				<span>Stärkta rättigheter för nationella minoriteter och urfolket samerna</span>
+			</h2>
+			<p class="Normalutanindragellerluft">
+				<span>Eftersom judar, romer, samer, sverigefinnar och tornedalingar erkänts som nationella minoriteter i Sverige, har individer som tillhör dessa grupper särskilda rättigheter som rör språk, kultur och inflytande. Som part i Europarådets ramkonvention till skydd för de nationella minoriteterna och den europeiska stadgan om landsdels- eller minoritets</span><span>&#xad;</span><span>språk har Sverige en skyldighet att bevara, skydda och utveckla de särskilda rättigheter som tillhör nationella minoriteter. Det innebär bland annat att diskriminering av personer tillhörande en nationell minoritet är förbjuden och att staten måste vidta åtgärder för att uppnå jämlikhet mellan majoritetsbefolkningen och minoriteterna.</span>
+			</p>
+			<p>
+				<span>För att säkerställa Sveriges internationella åtaganden krävs ett aktivt och förstärkt arbete för nationella minoriteter. Miljöpartiet står upp för de nationella minoriteternas rättigheter och har under den gångna mandatperioden drivit på för en högre ambition i minoritetspolitiken och gör det fortsatt. Vi har fått mycket gjort men mer återstår och behöver göras.</span>
+			</p>
+			<p>
+				<span>Vi vill se en språksatsning för att bevara minoritetsspråken. För att ytterligare revita</span><span>&#xad;</span><span>lisera och stärka minoritetsspråken i Sverige bör nya bestämmelser om undervisning i nationella minoritetsspråk införas för alla de obligatoriska skolformerna, för gymnasie</span><span>&#xad;</span><span>skolan och gymnasiesärskolan. Det är viktigt att minoritetsspråken garanteras en större undervisningstid inom ramen för skoldagen. Vi vill också permanenta finansieringen av minoritetsspråkens språkcentrum och resursbiblioteken efter 2024. Dessutom vill vi utöka public services programutbud på minoritetsspråken, bland annat för att synliggöra de nationella minoriteterna och öka medvetenheten och kunskapen bland allmänheten. Med ett utökad utbud ges minoritetsspråken en mer självklar plats i samhället och de yngre generationernas möjligheter att hålla sitt språk och sin kultur levande främjas. </span>
+			</p>
+			<p>
+				<span>Vi vill se en kunskapssatsning i fråga om de nationella minoriteterna. Miljöpartiet </span><span style="letter-spacing:-0.05pt">driver på för en kunskapshöjning i fråga om de nationella minoriteternas rättigheter, kultur och språk såväl bland allmänheten som hos minoritetsgrupperna själva. Inrättandet </span><span>av informationscentrum för de nationella minoritetsgrupperna är ett viktigt insats i detta. Sametinget har sedan flera år tillbaka ett nationellt ansvar att via Samiskt informations</span><span>&#xad;</span><span>centrum informera om samer och samisk kultur. För att stärka och öka informationen om judar, romer, sverigefinnar och tornedalingar vill Miljöpartiet inrätta informations</span><span>&#xad;</span><span>centrum även för dessa minoritetsgrupper. Vi vill också se ett kunskapslyft i fråga om nationella minoriteters språkliga och kulturella rättigheter riktat till tjänstepersoner och offentligt anställda. Ju fler tjänstepersoner som känner till vilka rättigheter minoritets</span><span>&#xad;</span><span>grupper har, desto bättre kan servicen bli. Miljöpartiet vill dessutom säkerställa att alla kommuner ska få stöd och resurser för att leva upp till sina skyldigheter enligt grund</span><span>&#xad;</span><span>skyddet för nationella minoriteter – och att staten ska följa upp hur arbetet går.</span>
+			</p>
+			<p>
+				<span style="letter-spacing:-0.05pt">Miljöpartiet vill också stärka genomförandet av minoritetspolitiken. Diskriminerings</span><span style="letter-spacing:-0.05pt">&#xad;</span><span style="letter-spacing:-0.05pt">lagen</span><span> i dess nuvarande form innehåller bestämmelser som skyddar bland annat de nationella minoriteterna. De diskrimineringsgrunder i lagen som kan vara aktuella i fråga om de nationella minoriteterna är ”etnisk tillhörighet” och ”religion eller annan trosuppfattning”. Samtidigt har det visat sig att den diskriminering som de nationella minoriteterna utsätts för ofta påverkar rätten att använda deras minoritetsspråk, vilket inte regleras tillräckligt av befintliga diskrimineringsgrunder. Miljöpartiet vill se över hur diskrimineringslagen ska kunna tillämpas bättre vid diskriminering på grund av språk. En sådan översyn bör överväga att lägga till språk som diskrimineringsgrund, något som både statliga utredningar och Europarådet har rekommenderat Sverige att göra. </span>
+			</p>
+			<p>
+				<span>Uppdraget att samordna och följa upp minoritetspolitiken behöver förtydligas och få mer resurser. Utredningen ”Högre växel i minoritetspolitiken – Stärkt samordning och uppföljning” (SOU 2020:27) pekar på ett fortsatt behov av att förbättra styrkedjan och ansvaret för samordning och uppföljning av minoritetspolitiken. För det krävs en mer långsiktig och strategisk inriktning samt en tydligare målsättning och en mer ändamåls</span><span>&#xad;</span><span>enlig och effektiv styrning. </span>
+			</p>
+			<p>
+				<span>Vi vill dessutom stärka organisationer som representerar minoriteter. Vi vill därför att EU-bidrag som är öronmärkta för att stärka nationella och etniska minoriteter ska gå direkt till minoritetsorganisationer istället för via medlemsstaterna.</span>
+			</p>
+			<p>
+				<span>Miljöpartiet vill också se en rad specifika satsningar för varje enskild nationell minoritet. Vi vill bland annat fortsätta att stärka arbetet med romsk inkludering och arbetet med att främja judiskt liv i Sverige samt öka satsningarna på tornedalingars och sverigefinnars språk och kultur. Dessa förslag utvecklas i detalj i kommittémotionen </span><span style="font-style:italic">Politik för de nationella minoriteterna</span><span>. Slutligen vill vi stärka samers rättigheter som urfolk, däribland genom att ratificera ILO-konvention 169. Vi utvecklar politiken i denna del i kommittémotionen </span><span style="font-style:italic">Politik för det samiska folket</span><span>.</span>
+			</p>
+			<h2>
+				<span>Stärkta rättigheter för HBTQI-personer</span>
+			</h2>
+			<p class="Normalutanindragellerluft">
+				<span>En ny modern könstillhörighetslag är ett viktigt steg för att stärka transpersoners rättig</span><span>&#xad;</span><span>heter och något som Miljöpartiet har drivit på för under lång tid. En ny modern köns</span><span>&#xad;</span><span>tillhörighetslag har livsavgörande betydelse för de personer som berörs. Den måste </span><span style="letter-spacing:-0.1pt">komma på plats så snart som möjligt. I den lagrådsremiss som lades fram av S</span><span style="letter-spacing:-0.1pt">&#x2011;</span><span style="letter-spacing:-0.1pt">regeringen</span><span> finns dock ett antal brister som behöver åtgärdas. För även om förslaget innehåller vissa förbättringar, som sänkt åldersgräns för att byta juridiskt kön från 18</span><span>&#xa0;</span><span>år till 16</span><span>&#xa0;</span><span>år och ett slopat krav på tillstånd från Rättsliga rådet för underlivskirurgi gällande vuxna, så saknas det som får ses som själva grundpoängen med en ändrad könstillhörighetslag – att självbestämmande är det som ska ligga till grund för det juridiska könet. Vi menar att könsidentiteten ska ges juridiskt erkännande. I det nu framlagda förslaget kvarstår kravet på en bedömning av någon annan; det handlar alltså inte om självbestämmande, även om förslaget betonar att processen ska förenklas och förkortas.</span>
+			</p>
+			<p>
+				<span>Miljöpartiet vill se en ny könstillhörighetslag, som i linje med den promemoria som gick ut på remiss hösten 2021 bygger på självidentifikation. I kommittémotionen </span><span style="font-style:italic">En ny könstillhörighetslag</span><span> utvecklar vi förslagen mer i detalj. </span>
+			</p>
+			<p>
+				<span>Rättigheterna för intersexpersoner behöver också stärkas. Än idag görs operationer av barns könsorgan utan deras samtycke. Barnen registreras sedan som det juridiska kön de opererats till. Det innebär att könskorrigerande operationer görs utan medicinsk motivering och samtycke. Vi vill tillsätta en utredning om att stärka intersexpersoners kroppsliga integritet och utreda förbud mot medicinskt omotiverade ingrepp och behandlingar på intersexpersoner som inte har gett sitt eget samtycke.</span>
+			</p>
+			<p>
+				<span>Miljöpartiet vill att omvändelseförsök ska förbjudas och kriminaliseras i Sverige. Sverige ska vara en trygg plats där alla, oavsett sexuell läggning, könsidentitet eller könsuttryck, behandlas lika. Det finns verksamheter i Sverige idag där barn och unga tvingas till att delta i omvändelseförsök – det är ett oacceptabelt ingrepp i hbtqi</span><span>&#x2011;</span><span>perso</span><span>&#xad;</span><span>ners frihet och integritet. Miljöpartiet vill se en utredning om att förbjuda omvändelse</span><span>&#xad;</span><span>försök av hbtqi-personer. Det är av största vikt att utredningen täcker påtryckningar om att förändra såväl sexuell läggning som könsidentitet och könsuttryck. </span>
+			</p>
+			<p>
+				<span>Det finns troligen ett mörkertal när det kommer till diskriminering och hatbrott mot hbtqi-personer, enligt MUCF:s rapport Jag är inte ensam, det finns andra som jag (2021). Myndigheten menar att det finns ett behov av kompetenshöjande insatser för aktörer inom rättsväsendet. Samhället behöver också säkerställa att det finns ett hbtqi-perspektiv i arbetet med att motverka våld i nära relationer och hedersrelaterat våld och förtryck. Detta perspektiv är något som saknas i Tidöavtalet, det vill säga fokus på hat</span><span>&#xad;</span><span>brott och diskriminering, eller åtgärder för att förbättra kompetens i syfte att förbättra bemötande etc. Regeringen bör ge Polismyndigheten i uppdrag att genomföra kompe</span><span>&#xad;</span><span>tenshöjande insatser med hbtqi-perspektiv i fråga om hatbrott, hedersrelaterade brott, våld i nära relationer och prostitution. </span>
+			</p>
+			<h2>
+				<span>Stärkta rättigheter för personer med funktionsnedsättning</span>
+			</h2>
+			<p class="Normalutanindragellerluft">
+				<span>Alla människor, oavsett funktionsvariation eller förmåga, ska ha lika rättigheter och möjligheter. Samtidigt vet vi att svensk lagstiftning på flera håll brister när det gäller att säkerställa detta. Miljöpartiet vill därför att en utredning tillsätts för att ta fram ett över</span><span>&#xad;</span><span>skådligt förslag på hur svensk lagstiftning bäst bör utformas för att fullt ut leva upp till FN:s konvention om rättigheter för personer med funktionsnedsättning. Utredningen bör bland annat ta ställning till om funktionsrättskonventionen, likt barnkonventionen, bör gälla som svensk lag.</span>
+			</p>
+			<p>
+				<span>Hot och hat mot funktionsnedsatta måste få ett slut. Idag skyddas funktionsnedsattas rätt till icke-diskriminering genom diskrimineringslagen. Funktionsnedsättning är alltså en särskild diskrimineringsgrund, precis som kön, könsidentitet eller könsuttryck, etnisk tillhörighet och religion eller annan trosuppfattning. Men medan de flesta andra diskri</span><span>&#xad;</span><span>mineringsgrunder också finns med i brottsbalkens paragraf om hets mot folkgrupp, omfattas inte funktionsnedsättning. Miljöpartiet vill därför tillsätta en utredning om hur det straffrättsliga skyddet kan stärkas. Lagstiftning har en betydande inverkan på människors attityder. Genom lagstiftning signalerar samhället vad som är rätt och fel och i det här fallet att hatiska och fördomsfulla uttalanden mot funktionsnedsatta grupper eller individer är ett brott.</span>
+			</p>
+			<h2>
+				<span>Ratificera det tredje tilläggsprotokollet till FN:s barnkonvention</span>
+			</h2>
+			<p class="Normalutanindragellerluft">
+				<span>Barnkonventionen är svensk lag sedan den 1</span><span>&#xa0;</span><span>januari 2020. Men Sverige har fortfarande inte ratificerat det tredje tilläggsprotokollet till konventionen. Det skulle göra det möjligt för barn som upplever att deras rättigheter har kränkts att klaga till FN:s barn</span><span>&#xad;</span><span>rättskommitté. Ett av de viktigaste verktygen för att förverkliga barns rättigheter är just möjligheten att utkräva rättigheter och få upprättelse. Regeringen har tillsatt en utred</span><span>&#xad;</span><span>ning som ska se över barns möjligheter att utkräva sina rättigheter (dir. 2022:35), där ratificeringen av det tredje tilläggsprotokollet är en viktig del. Miljöpartiet kommer att följa utredningens arbete och vill att Sverige skyndsamt ratificerar tilläggsprotokollet. </span>
+			</p>
+			<h2>
+				<span>Se till att Sverige lever upp till FN:s kvinnokonvention</span>
+			</h2>
+			<p class="Normalutanindragellerluft">
+				<span>Trots att Sverige är ett av världens mest jämställda länder har vi fortfarande en lång väg kvar innan vi är ett jämställt land. Vi vet att det inom grupperna kvinnor och män finns stora skillnader men samtidigt finns det strukturer vi inte kan bortse från om vi ska kunna öka jämställdheten. Miljöpartiet ser att jämställdheten inte kan lösas vid sidan av, utan behöver integreras i alla politikområden. Ett led i detta är att säkerställa att lag</span><span>&#xad;</span><span>stiftningen genomsyras av ett jämställdhetsperspektiv. </span>
+			</p>
+			<p>
+				<span>Miljöpartiet vill därför att en utredning tillsätts för att ta fram ett överskådligt förslag på hur svensk lagstiftning bäst bör utformas för att fullt ut leva upp till FN:s kvinno</span><span>&#xad;</span><span>konvention. Utredningen bör bland annat ta ställning till om kvinnokonventionen, likt barnkonventionen, bör gälla som svensk lag.</span>
+			</p>
+			<h2>
+				<span>Grundlagsskydda aborträtten</span>
+			</h2>
+			<p class="Normalutanindragellerluft">
+				<span>Genom en historisk dom i USA:s högsta domstol förlorade landets kvinnor den rätt till fri abort som de hade haft i 49 år. Beslutet innebar att delstater nu kan upphäva abort</span><span>&#xad;</span><span>rätten. Även om stödet till fri abort är stort i Sverige finns ett motstånd även här. Det finns inga garantier för att motståndet inte växer och att fler röster kommer att kräva att </span><span style="letter-spacing:-0.05pt">aborträtten urholkas eller avskaffas. Miljöpartiet vill därför att aborträtten ska grundlags</span><span style="letter-spacing:-0.05pt">&#xad;</span><span style="letter-spacing:-0.05pt">skyddas</span><span> och att frågan ska utredas på lämpligt sätt.</span>
+			</p>
+			<h2>
+				<span>Se till att Sverige lever upp till FN:s konvention om rasdiskriminering</span>
+			</h2>
+			<p class="Normalutanindragellerluft">
+				<span>Rasismen har ingen plats i Sverige. Sverige har fått svidande kritik från FN för ”stort antal hatbrott och fortsatt rasistiskt våld” särskilt mot muslimer och afrosvenskar. FN:s rasdiskrimineringskommitté är oroad över rapporter om fortsatta rasistiska hatbrott mot afrosvenskar, judar, muslimer och romer i Sverige. Särskilt allvarligt är att det sker under valkampanjer, i medier och på internet. En utredning har lämnat förslag på ett förbud mot rasistiska organisationer, ett viktigt steg i rätt riktning. Med anledning av den allvarliga situationen med diskriminering på grund av etnicitet i Sverige bör ytter</span><span>&#xad;</span><span>ligare förstärkningar ses över.</span>
+			</p>
+			<p>
+				<span>Miljöpartiet vill därför att en utredning tillsätts för att ta fram ett överskådligt förslag på hur svensk lagstiftning bäst bör utformas för att fullt ut leva upp till konventionen om rasdiskriminering. Utredningen bör bland annat ta ställning till om rasdiskriminerings</span><span>&#xad;</span><span>konventionen, likt barnkonventionen, bör gälla som svensk lag.</span>
+			</p>
+			<h1>
+				<span>Stärk skyddet för demokratin över tid</span>
+			</h1>
+			<h2 style="margin-top:22pt">
+				<span>Inrätta en nationell demokratifunktion</span>
+			</h2>
+			<p class="Normalutanindragellerluft">
+				<span>Kommittén Demokratin 100 år har haft i uppdrag att planera, samordna och genomföra en samling av insatser och aktiviteter för en stark demokrati under åren 2018–2021. När kommittén presenterade sitt betänkande i juni 2022 lämnade den flera förslag för att stärka demokratin.</span>
+			</p>
+			<p>
+				<span>Kommittén bedömer bland annat att det finns behov av en nationell samordning av myndigheter och andra aktörer som genomför demokratifrämjande insatser. För detta föreslår kommittén att en nationell demokratifunktion inrättas med uppdrag att öka kunskaperna om demokratin. Demokratifunktionen skulle utgöra kunskapsstöd kring metoder för att öka deltagande och delaktighet i demokratin samt analysera och ta fram lägesuppdateringar om tillståndet i den svenska demokratin.</span>
+			</p>
+			<p>
+				<span>Det saknas idag en nationell aktör som samlar och samordnar demokratiarbetet. Med hänsyn till arbetets omfattning – och de potentiella konsekvenserna av att inte prioritera demokratiarbetet på högsta nivå – anser Miljöpartiet att en nationell demokratifunktion behövs. Vi delar dessutom kommitténs bedömning om risken för att de resurser som läggs på demokratistärkande arbete inte får genomslag utan nationell samordning.</span>
+			</p>
+			<h2>
+				<span>Ge länsstyrelserna ett demokratifrämjande uppdrag</span>
+			</h2>
+			<p class="Normalutanindragellerluft">
+				<span>Kommittén Demokratin 100 år föreslår också att länsstyrelserna ges ett långsiktigt </span><span style="letter-spacing:-0.1pt">demokratifrämjande uppdrag. Kommittén motiverar detta med att regeringens demokrati</span><span style="letter-spacing:-0.1pt">&#xad;</span><span style="letter-spacing:-0.1pt">politik</span><span> på så vis kan föras ut i hela landet och frågor som rör medborgarnas kunskap om och delaktighet i demokratin ges större utrymme. Enligt förslaget ska länsstyrelserna förse regeringen med lokala och regionala analyser på demokratiområdet. Länsstyrel</span><span>&#xad;</span><span>serna är redan idag ansvariga för flera frågor som rör demokratiområdet och har en central samverkansroll. Däremot saknar länsstyrelserna ett demokratifrämjande upp</span><span>&#xad;</span><span>drag. Miljöpartiet anser att ett demokratifrämjande uppdrag är ett naturligt nästa steg i länsstyrelsernas arbete för en starkare demokrati. Utifrån länsstyrelsernas arbete finns redan kunskap och arbetssätt som med fördel kan tillämpas i samordningen och utveck</span><span>&#xad;</span><span>lingen av ett demokratiuppdrag.</span>
+			</p>
+			<h2>
+				<span>Förtydliga skolans demokratiuppdrag</span>
+			</h2>
+			<p class="Normalutanindragellerluft">
+				<span>Miljöpartiet står också bakom kommittén Demokratin 100 års förslag om att skolans demokratiuppdrag bör förtydligas genom att Skolverket ges i uppdrag att utforma rekommendationer, allmänna råd och inspirationsmaterial. Redan idag spelar skolan en central roll i det demokratiska systemet genom sitt uppdrag att förmedla och förankra kunskap och demokratiska värden. Det finns dock oklarheter i synen på hur skolans demokrati ska tolkas och omsättas i praktiken. På sikt kan detta innebära att alla barn och unga inte ges samma möjlighet att utbildas till medvetna och kompetenta samhälls</span><span>&#xad;</span><span>medborgare. Eftersom demokratiuppdraget är centralt för att bygga våra framtida demokratiska medborgare behöver denna fråga tas på stort allvar. Vi delar dessutom kommitténs bedömning att Skolverket bör utvärdera konsekvenserna av att politiska företrädare numera allt mer sällan bjuds in till skolorna. </span>
+			</p>
+			<h2>
+				<span>Försvåra grundlagsändringar</span>
+			</h2>
+			<p class="Normalutanindragellerluft">
+				<span>I februari 2020 tillsatte regeringen en parlamentarisk kommitté för att utreda ett förstärkt skydd för demokratin och domstolarnas oberoende (Grundlagskommittén). Bland många viktiga frågor ser kommittén över formerna för ändring av grundlagar.</span>
+			</p>
+			<p>
+				<span>Miljöpartiet ser att demokratin och rättsstatens principer motarbetas, hotas och urholkas på många håll i världen. Vi ser också att Sverige inte är undantaget från sådana angrepp – varken idag eller i framtiden. Därför bör det vara svårare än idag att ändra en grundlag, i syfte att skydda landets demokratiska styrelseskick och rättsstaten.</span>
+			</p>
+			<p>
+				<span>För att ändra en grundlag krävs det idag två riksdagsbeslut med ett mellanliggande val, en viktig garant mot hastiga politiska beslut som kan urholka demokratin. Enligt den ordning som gäller idag kan det mellanliggande riksdagsvalet vara antingen ett ordinarie val eller ett extraval. Vi anser att det mellanliggande valet enbart ska vara ett ordinarie val, i syfte att ytterligare skydda grundlagarna från alltför snabba förändringar som inte bygger på tillräckliga överväganden och diskussioner.</span>
+			</p>
+			<h2>
+				<span>Stärk domstolarnas oberoende</span>
+			</h2>
+			<p class="Normalutanindragellerluft">
+				<span>Grundlagskommittén ser för närvarande över hur domstolarnas oberoende kan stärkas, något Miljöpartiet arbetat för under lång tid. Fria och oberoende domstolar utgör en grundpelare i den svenska demokratin. Alla medborgare ska kunna lita på att dom</span><span>&#xad;</span><span>stolarna fattar riktiga och rättvisa beslut.</span>
+			</p>
+			<p>
+				<span>I Grundlagskommitténs arbete anser Miljöpartiet att det är särskilt viktigt att det uttryckligen framgår av regeringsformen att domstolarnas oberoende ska värnas. Det skulle dels tydligt markera oberoendets centrala betydelse för demokratin, dels göra det svårare att i framtiden urholka principen och undergräva domstolarnas roll och arbete.</span>
+			</p>
+			<h2>
+				<span>Bekämpa våldsbejakande extremism</span>
+			</h2>
+			<p class="Normalutanindragellerluft">
+				<span>Våldsbejakande extremism utgör ett hot mot demokratin. Samhället kan inte tolerera våld oavsett vilken ideologi som ligger bakom, inklusive såväl högerextremism och vänsterextremism som våldsbejakande islamism. Miljöpartiet vill förebygga att extre</span><span>&#xad;</span><span>mistiska och våldsbejakande attityder uppstår och agera när de omsätts i handling, med rättssäkerheten som grund, eftersom det är just det öppna samhällets värderingar vi ska försvara. </span>
+			</p>
+			<p>
+				<span>I regering har Miljöpartiet inrättat ett centrum mot våldsbejakande extremism. Polisen behöver nu ges fler möjligheter att samarbeta bättre med utländska myndigheter för att bekämpa terrorism och brottslighet över landsgränserna.</span>
+			</p>
+			<p>
+				<span>Arbetet mot antidemokratiska och våldsbejakande aktörer behöver stärkas. Det kräver ett effektivt arbete mot de värderingar som dessa organisationer står för. Vi har därför i regering tillsatt en utredning som ska överväga en kriminalisering av bl.a. för</span><span>&#xad;</span><span>nekelse av Förintelsen, folkmord, brott mot mänskligheten och krigsförbrytelser. Vi vill också se ett förbud mot rasistiska organisationer, så som har föreslagits av Kommittén om förbud mot rasistiska organisationer (SOU 2021:27). </span>
+			</p>
+			<h2>
+				<span>Värna integriteten i det digitala samhället</span>
+			</h2>
+			<p class="Normalutanindragellerluft">
+				<span>Den snabba utvecklingen av artificiell intelligens (AI) innebär stora möjligheter men också risker. Miljöpartiet vill att ett internationellt etiskt regelverk för AI tas fram. Regelverket ska baseras på FN:s deklaration om mänskliga rättigheter, EU:s grund</span><span>&#xad;</span><span>läggande rättigheter och gemensamma värderingar. Det behövs dessutom nationella riktlinjer för hur man ska tillämpa och utveckla AI på ett etiskt sätt. För att skapa en robust samordning behövs också ett offentligt organ med övergripande ansvar för att följa utvecklingen av AI och mänskliga rättigheter i samverkan med relevanta myndig</span><span>&#xad;</span><span>heter och aktörer i näringslivet och civilsamhället. </span>
+			</p>
+			<p>
+				<span>Diskriminering måste förebyggas och motverkas. Det behövs satsningar dels på kvalitativ utbildning för barn och unga om hur AI ska utvecklas och användas på ett etiskt och jämlikt sätt, dels på lättillgänglig och begriplig information om detta för alla medborgare med särskilt fokus på äldre, minoritetsgrupper och personer med funktions</span><span>&#xad;</span><span>nedsättning. Vi vill också ställa krav på transparens kring data som används vid träning av AI, hur AI-systemet är uppbyggt och hur det fungerar samt att det redovisas hur och när AI används. Det behövs dessutom en juridisk översyn av lagstiftningen gällande ansvarsfrågan när AI används som beslutsstöd.</span>
+			</p>
+			<p>
+				<span>Slutligen behövs ett förbud mot försäljning och användning av AI-system som kränker mänskliga rättigheter. Sverige ska vidare arbeta för ett totalförbud mot att använda autonoma vapensystem. </span>
+			</p>
+			<h2>
+				<span>Vidareutveckla Institutet för mänskliga rättigheter</span>
+			</h2>
+			<p class="Normalutanindragellerluft">
+				<span>Genom inrättandet av ett nationellt institut för mänskliga rättigheter tar Sverige nu steg mot ett bättre förverkligande av de mänskliga rättigheterna. I betänkandet till den utred</span><span>&#xad;</span><span>ning som ligger till grund för inrättandet av institutet identifierades ett antal frågor som ansågs angelägna för framtida utredningar och översyner. Vi anser att arbetet med flera av dessa frågor med fördel kan inledas redan nu.</span>
+			</p>
+			<p>
+				<span>Utredaren föreslog att en grundlagsreglering av institutets uppgifter och lednings</span><span>&#xad;</span><span>form bör utredas, ett förslag som tillstyrkts av flera remissinstanser.</span>
+			</p>
+			<p>
+				<span>Med hänsyn till institutets viktiga uppgift att övervaka hur bl.a. regeringen och statliga myndigheter efterlever mänskliga rättigheter bör institutet garanteras en stark ställning som inte kan rubbas lättvindigt. En grundlagsreglering skulle säkerställa institutets långsiktiga existens och stärka dess möjlighet att behålla en oberoende och stark ställning över tid. Vi anser därför att förutsättningarna för en grundlagsreglering bör utredas.</span>
+			</p>
+			<p>
+				<span>Utredaren ansåg att det bör utredas om regeringen ska åläggas en lagreglerad skyldighet att för riksdagen redovisa arbetet med att säkerställa full respekt för Sveriges internationella åtaganden om mänskliga rättigheter. Vi anser att det finns skäl att överväga en sådan redovisningsskyldighet, i syfte att säkerställa riksdagens insyn i hur arbetet fortskrider.</span>
+			</p>
+			<h1>
+				<span>Stärk det internationella demokratiarbetet</span>
+			</h1>
+			<h2 style="margin-top:22pt">
+				<span>Sveriges demokratiska röst i världen </span>
+			</h2>
+			<p class="Normalutanindragellerluft">
+				<span>För Miljöpartiet är det oerhört viktigt att Sverige även i fortsättningen är en global röst för demokrati och mänskliga rättigheter. Vi vill att Sverige ska ledas av och fortsätta att genomföra en feministisk utrikes- och utvecklingspolitik. Med fokus på jämställdhet och kvinnors och flickors rättigheter ökar den ekonomiska utvecklingen och demokratin stärks. Ett ökat fokus på sexuell och reproduktiv hälsa och rättigheter har lett till bättre mödravård, bättre sexualundervisning och säkrare aborter. </span>
+			</p>
+			<p>
+				<span>Sverige har enligt OECD ett av världens mest generösa och effektiva bistånd. Vi ska fortsätta att leda vägen genom att driva på för ett utvecklingssamarbete som bidrar till att bygga demokratiska samhällen och förebygger konflikter. Biståndet bör också användas till att påskynda den gröna omställningen och utfasningen av fossil energi och möjliggöra att investeringar i förnybart också når de allra fattigaste.</span>
+			</p>
+			<p>
+				<span>Det är därför mycket oroväckande att regeringen och Sverigedemokraterna nu vill slopa enprocentsmålet och kraftigt skära ned på biståndet. Vi beklagar djupt Tidö</span><span>&#xad;</span><span>avtalets skrivningar om att biståndspolitiken ska fokuseras för att utgöra ett verktyg för att motverka irreguljär migration och öka återvändandet. Syftet med utvecklingssamar</span><span>&#xad;</span><span>bete är att bekämpa fattigdom och uppfylla de globala utvecklingsmålen – inte att kontrollera migration. </span>
+			</p>
+			<p>
+				<span>Miljöpartiet vill öka biståndet till 1,25 procent av BNI. Både humanitärt bistånd och </span><span style="letter-spacing:-0.05pt">utvecklingsbistånd behövs. Sverige ska fortsatt spela en viktig roll på den internationella</span><span> arenan och bidra till att stärka demokratier globalt.</span>
+			</p>
+			<p>
+				<span>De utsända kulturråden bör värnas. Kulturrådens uppgift är främst att främja svenskt kulturutbyte med och stimulera den kulturella dialogen mellan länderna. Det handlar också om att främja demokratiska värderingar. Råden fyller en viktig funktion såväl för kulturlivets internationalisering som för främjandet av demokrati världen över.</span>
+			</p>
+			<h2>
+				<span>Sverige ska driva på för ett mer demokratiskt EU </span>
+			</h2>
+			<p class="Normalutanindragellerluft">
+				<span>EU spelar en central roll i att försvara demokratin och mänskliga rättigheter, både i och utanför Europa. Sverige bör fortsätta driva på för att EU stärker sitt arbete med mänsk</span><span>&#xad;</span><span>liga rättigheter, såväl i medlemsländerna som i relationer med andra länder, genom att utveckla bättre verktyg för att bekämpa kränkningar av dessa rättigheter.</span>
+			</p>
+			<p>
+				<span>Sverige bör även i fortsättningen driva hållningen att EU ska dra in stödet till länder som inte lever upp till rättsstatens principer, så att EU och medlemsländerna lever upp till de värderingar som är grunden för det europeiska samarbetet – demokrati, mänskliga fri- och rättigheter och rättsstatens principer. Detta ska gälla i såväl interna som externa relationer. </span>
+			</p>
+			<p>
+				<span>Sverige bör också driva på för att EU:s demokratiska brister åtgärdas och för att det folkliga inflytandet stärks. Lobbyismen bör regleras så att allmänintressen som konsu</span><span>&#xad;</span><span>mentskydd och miljöskydd främjas. För att ge bättre möjlighet till insyn, granskning och ansvarsutkrävande bör offentlighetsprincipen och meddelarfriheten, enligt svensk modell, gälla också i EU. </span>
+			</p>
+			<p>
+				<span>För att öka medborgarnas möjlighet att påverka vill vi se över om EU-parlamentet bör få rätt att vid sidan om kommissionen lägga fram lagförslag. Alla EU-medborgare bör också ha rätt att få veta vilken linje deras regeringar driver i ministerrådet. </span>
+			</p>
+			<h2>
+				<span>Stärk FN:s arbete med demokrati och mänskliga rättigheter </span>
+			</h2>
+			<p class="Normalutanindragellerluft">
+				<span>Miljöpartiet vill se ett starkt internationellt samarbete med FN som central aktör för fred och mänskliga rättigheter. Vi arbetar för ett FN som har handlingskraft att fullfölja sina uppgifter. De rika resursstarka ländernas dominans i FN-systemet måste brytas och de ekonomiskt svaga länderna måste ges en starkare röst. </span>
+			</p>
+			<p>
+				<span>Sverige ska fortsatt bidra till att finansiera FN-organen. Finansieringen till organ som har till uppgift att granska medlemsstaternas arbete med mänskliga rättigheter bör öka. Vi vill se ett mer demokratiskt och rättvist FN där beslutsfattandet reformeras och säkerhetsrådets sammansättning förändras.</span>
+			</p>
+			<p>
+				<span>Det bör finnas ett demokratikrav för medlemskap i FN:s råd för mänskliga rättighe</span><span>&#xad;</span><span>ter. FN:s medlemsstater har enats om att rådets medlemsländer ska bidra till främjandet av respekten för demokrati och mänskliga rättigheter, vilket dock inte alltid överens</span><span>&#xad;</span><span>stämmer med verkligheten. Med medlemmar som Kina, Ryssland, Libyen och Saudi</span><span>&#xad;</span><span>arabien riskeras legitimiteten och tilltron till rådet.</span>
+			</p>
+			<p>
+				<span>Vi vill se över möjligheten till ett världsmedborgarinitiativ i FN:s regi, som skulle möjliggöra för människor att lägga fram förslag kring globala nyckelfrågor. Vi vill dessutom inrätta ett FN-sändebud för civilsamhället för att möjliggöra större deltagande av representanter för civilsamhället.</span>
+			</p>
+			<p>
+				<span>FN bör prioritera det freds- och konfliktförebyggande arbetet och inkludera fler kvinnor i fredsförhandlingar och försoningsarbete. Sverige bör även fortsatt ge bistånd till FN:s arbete med rättsstatsuppbyggnad och att stärka demokratiska institutioner. </span>
+			</p>
+			<p>
+				<span>Unescos konvention om skydd för världens kultur- och naturarv, Världsarvskonven</span><span>&#xad;</span><span>tionen, fyller 50</span><span>&#xa0;</span><span>år i år. Våra gemensamma kulturarv är viktiga byggstenar i att skapa varaktig fred och samhörighet mellan världens folk. </span>
+			</p>
+			<p>
+				<span>FN:s arbete med världsarven bidrar till en global demokratisering genom ökad kunskap om och förståelse för andra kulturer. Sverige bör även fortsatt bidra till detta viktiga arbete.</span>
+			</p>
+			<h2>
+				<span>Sverige ska driva på för ett mer demokratiskt Nato</span>
+			</h2>
+			<p class="Normalutanindragellerluft">
+				<span>Sverige har en stolt tradition av transparens, där offentlighetsprincipen är en viktig beståndsdel. Sverige ska vara pådrivande för att förbättra insynen i Nato och pådrivande för att de nationella parlamenten i medlemsländerna måste skärpa sin granskning av Natos angelägenheter så att ansvarsutkrävande kan ske.</span>
+			</p>
+			<p>
+				<span>Vi oroas över den demokratiska tillbakagång som vi ser idag, även i flera länder som är medlemmar i Nato. Vi ser nu Natoländer där grundläggande mänskliga rättigheter utmanas allt oftare. Journalister fängslas, media och universitet kontrolleras och rätts</span><span>&#xad;</span><span>statens principer ifrågasätts. Det är oroande trender som måste brytas. Därför bör Sverige verka för att Nato inför ett demokratikrav. </span>
+			</p>
+			<div style="-aw-sdt-tag:'CC_Underskrifter'; -aw-sdt-title:'CC_Underskrifter'">
+				<p>
+					<span style="-aw-import:ignore">&#xa0;</span>
+				</p>
+				<p>
+					<span style="-aw-import:ignore">&#xa0;</span>
+				</p>
+			</div>
+			<table cellspacing="0" cellpadding="0" style="width:100%; border-collapse:collapse">
+				<tr style="page-break-inside:avoid">
+					<td style="width:1%; padding-right:5.4pt; padding-left:5.4pt; vertical-align:bottom">
+						<p class="Underskrifter">
+							<span>Märta Stenevi (MP)</span>
+						</p>
+					</td>
+					<td style="width:1%; padding-right:5.4pt; padding-left:5.4pt; vertical-align:bottom">
+						<p class="Underskrifter">
+							<span>Per Bolund (MP)</span>
+						</p>
+					</td>
+				</tr>
+				<tr style="page-break-inside:avoid">
+					<td style="width:1%; padding-right:5.4pt; padding-left:5.4pt; vertical-align:bottom">
+						<p class="Underskrifter">
+							<span>Amanda Lind (MP)</span>
+						</p>
+					</td>
+					<td style="width:1%; padding-right:5.4pt; padding-left:5.4pt; vertical-align:bottom">
+						<p class="Underskrifter">
+							<span>Jan Riise (MP)</span>
+						</p>
+					</td>
+				</tr>
+				<tr style="page-break-inside:avoid">
+					<td style="width:1%; padding-right:5.4pt; padding-left:5.4pt; vertical-align:bottom">
+						<p class="Underskrifter">
+							<span>Ulrika Westerlund (MP)</span>
+						</p>
+					</td>
+					<td style="width:1%; padding-right:5.4pt; padding-left:5.4pt; vertical-align:bottom">
+						<p class="Underskrifter">
+							<span>Camilla Hansén (MP)</span>
+						</p>
+					</td>
+				</tr>
+				<tr style="page-break-inside:avoid">
+					<td style="width:1%; padding-right:5.4pt; padding-left:5.4pt; vertical-align:bottom">
+						<p class="Underskrifter">
+							<span>Janine Alm Ericson (MP)</span>
+						</p>
+					</td>
+					<td style="width:1%; padding-right:5.4pt; padding-left:5.4pt; vertical-align:bottom">
+						<p class="Underskrifter">
+							<span>Nicklas Attefjord (MP)</span>
+						</p>
+					</td>
+				</tr>
+				<tr style="page-break-inside:avoid">
+					<td style="width:1%; padding-right:5.4pt; padding-left:5.4pt; vertical-align:bottom">
+						<p class="Underskrifter">
+							<span>Emma Berginger (MP)</span>
+						</p>
+					</td>
+					<td style="width:1%; padding-right:5.4pt; padding-left:5.4pt; vertical-align:bottom">
+						<p class="Underskrifter">
+							<span>Daniel Helldén (MP)</span>
+						</p>
+					</td>
+				</tr>
+				<tr style="page-break-inside:avoid">
+					<td style="width:1%; padding-right:5.4pt; padding-left:5.4pt; vertical-align:bottom">
+						<p class="Underskrifter">
+							<span>Annika Hirvonen (MP)</span>
+						</p>
+					</td>
+					<td style="width:1%; padding-right:5.4pt; padding-left:5.4pt; vertical-align:bottom">
+						<p class="Underskrifter">
+							<span>Marielle Lahti (MP)</span>
+						</p>
+					</td>
+				</tr>
+				<tr style="page-break-inside:avoid">
+					<td style="width:1%; padding-right:5.4pt; padding-left:5.4pt; vertical-align:bottom">
+						<p class="Underskrifter">
+							<span>Rebecka Le Moine (MP)</span>
+						</p>
+					</td>
+					<td style="width:1%; padding-right:5.4pt; padding-left:5.4pt; vertical-align:bottom">
+						<p class="Underskrifter">
+							<span>Katarina Luhr (MP)</span>
+						</p>
+					</td>
+				</tr>
+				<tr style="page-break-inside:avoid">
+					<td style="width:1%; padding-right:5.4pt; padding-left:5.4pt; vertical-align:bottom">
+						<p class="Underskrifter">
+							<span>Bassem Nasr (MP)</span>
+						</p>
+					</td>
+					<td style="width:1%; padding-right:5.4pt; padding-left:5.4pt; vertical-align:bottom">
+						<p class="Underskrifter">
+							<span>Emma Nohrén (MP)</span>
+						</p>
+					</td>
+				</tr>
+				<tr style="page-break-inside:avoid">
+					<td style="width:1%; padding-right:5.4pt; padding-left:5.4pt; vertical-align:bottom">
+						<p class="Underskrifter">
+							<span>Jacob Risberg (MP)</span>
+						</p>
+					</td>
+					<td style="width:1%; padding-right:5.4pt; padding-left:5.4pt; vertical-align:bottom">
+						<p class="Underskrifter">
+							<span>Elin Söderberg (MP)</span>
+						</p>
+					</td>
+				</tr>
+			</table>
+			<p>
+				<span style="-aw-import:ignore">&#xa0;</span>
+			</p>
+		</div>
+	</div>

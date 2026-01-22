@@ -1,0 +1,976 @@
+SEARCH TERM: AI
+DOCUMENT ID: gj0383
+TITLE: Säkrare finansiering av framtida kärnavfallskostnader m.m.
+TYPE: prop
+SUBTYPE: prop
+DATE: 1995-10-19
+PARLIAMENTARY YEAR: 1995/96
+ORGANISATION: Miljödepartementet
+STATUS: digitaliserad
+DOWNLOADED: 2026-01-22 10:29:16
+================================================================================
+
+<h1><a name="caption1"></a>Regeringens proposition<br>1995/96:83</h1>
+<h2>Säkrare finansiering av framtida kärnavfallskost-<br>nader m.m.</h2><img src="https://data.riksdagen.se/fil/GJ0383/prop_199596__83-1.png" style="width:36pt;height:21pt;"/>
+<p>Prop.</p>
+<p>1995/96:83</p>
+<p>Regeringen överlämnar denna proposition till riksdagen.</p>
+<p>Stockholm den 19 oktober 1995</p>
+<p>Ingvar Carlsson</p>
+<p>Anna Lindh</p>
+<p>(Miljödepartementet)</p>
+<h2>Propositionens huvudsakliga innehåll</h2>
+<p>I propositionen föreslås vissa ändringar i lagen (1992:1537) om<br>finansiering av framtida utgifter for använt kärnbränsle m.m. (finansie-<br>ringslagen) och lagen (1988:1597) om finansiering av hanteringen av<br>visst radioaktivt avfåll m.m. (Studsvikslagen).</p>
+<p>I syfte att säkra finansieringen av de framtida avfallskostnadema<br>föreslås att reaktorinnehavarnas nuvarande skyldighet att betala avgifter<br>enligt finansieringslagen skall kompletteras med en skyldighet att ställa<br>säkerheter för dessa kostnader. Det kostnadsansvar som åligger reaktorin-<br>nehavama även för statens kostnader skall tillämpas fullt ut. Statens råd<br>för kämavfallsffågor (KASAM) föreslås därför finansieras genom<br>finansieringslagen. För att uppnå en högre avkastning på de avgifter som<br>inbetalas bör medlen förvaltas i en särskild fond, Kämavfallsfonden. I<br>stället för att placeras på konto i Riksbanken skall medlen placeras i<br>Riksgäldskontoret. Avgiftsmedlen som fonderas enligt Studsvikslagen bör<br>förvaltas på motsvarande sätt.</p>
+<p>Lagändringarna föreslås träda i kraft den 1 januari 1996.</p>
+<p>1 Riksdagen 1995/96. 1 saml. Nr 83</p>
+<h2>Innehållsförteckning</h2>
+<p>Prop. 1995/96:83</p>
+<p>1 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Förslag till riksdagsbeslut...................... 4</p>
+<p>2 &nbsp;&nbsp;&nbsp;&nbsp;Lagtext ................................. 5</p>
+<p>2.1 &nbsp;&nbsp;Förslag till lag om ändring i lagen (1992:1537) om</p>
+<p>finansiering av framtida utgifter for använt kärn-<br>bränsle m.m. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;..................... 5</p>
+<p>2.2 &nbsp;&nbsp;Förslag till lag om ändring av lagen (1988:1597) om</p>
+<p>finansiering av hanteringen av visst radioaktivt avfall<br>m.m............................... 11</p>
+<p>3 &nbsp;&nbsp;&nbsp;&nbsp;Ärendet och dess beredning .................... 12</p>
+<p>4 &nbsp;&nbsp;&nbsp;&nbsp;Det nuvarande finansieringssystemet ............... 13</p>
+<p>5 &nbsp;&nbsp;&nbsp;&nbsp;Allmänt om behovet av lagstiftningsåtgärder........... 15</p>
+<p>6 &nbsp;&nbsp;&nbsp;&nbsp;Ett tillförlitligare finansieringssystem............... 19</p>
+<p>6.1 &nbsp;&nbsp;Säkerheter för att säkerställa fonduppbyggnaden vid</p>
+<p>en eventuell avstängning av en reaktor innan reak-<br>torns intjänandetid gått ut (säkerhetsbelopp I) .....20</p>
+<p>6.1.1 Grundbelopp .....................20</p>
+<p>6.2 &nbsp;&nbsp;Säkerheter för att säkerställa finansieringen av</p>
+<p>omhändertagandet om fondbehållningen visar sig<br>otillräcklig efter det att samtliga reaktorer ställts av<br>(säkerhetsbelopp II) .................... 21</p>
+<p>6.3 &nbsp;&nbsp;Fullgoda säkerheter .....................22</p>
+<p>6.4 &nbsp;&nbsp;Beräkning av den årliga&nbsp;avgiften.............. 22</p>
+<p>6.5 &nbsp;&nbsp;Realräntan...........................23</p>
+<p>6.6 &nbsp;&nbsp;Återbetalning av fondmedel................. 24</p>
+<p>7 &nbsp;&nbsp;&nbsp;&nbsp;En säkrare förvaltning av&nbsp;fondmedlen ..............25</p>
+<p>8 &nbsp;&nbsp;&nbsp;&nbsp;Statens kostnader m.m........................28</p>
+<p>9 &nbsp;&nbsp;&nbsp;&nbsp;Studsvikslagen.............................29</p>
+<p>10 &nbsp;&nbsp;Författningskommentar........................ 30</p>
+<p>10.1 &nbsp;Förslaget till lag om ändring i lagen (1992:1537) om</p>
+<p>finansiering av framtida utgifter för använt kärn-<br>bränsle m.m.......................... 30</p>
+<p>10.2 &nbsp;Förslaget till lag om ändring i lagen (1988:1597) om</p>
+<p>finansiering av hanteringen av visst radioaktivt<br>avfall m.m............................ 34</p>
+<p>Bilaga 1 Sammanfattning av Kämbränslefondsutredningens<br>betänkande (SOU 1994:107) Säkrare finansiering</p>
+<p>av framtida kämavfallskostnader.............. 36 &nbsp;Prop. 1995/96:83</p>
+<p>Bilaga 2 Förfettningsforslag i Kämbränslefonds-<br>utredningens betänkande (SOU 1994:107)</p>
+<p>Säkrare finansiering av framtida kämavfallskostnader . 48</p>
+<p>Bilaga 3 Sammanställning av remissyttranden - Säkrare<br>finansiering av framtida kämavfallskostnader<br>(SOU 1994:107 och SOU 1994:108)........... 55</p>
+<p>Bilaga 4 Sammanfattning av Riksrevisionsverkets<br>rapport RRV 1995:22 Kämavfallsprogrammet -<br>Producentansvar och statlig tillsyn............. 64</p>
+<p>Bilaga 5 Sammanfattning av Riksrevisionsverkets rapport<br>F 1993:30 - Avfall - Avveckling - Avkastning<br>- kassahållning i kämavfallsfonden ............ 67</p>
+<p>Bilaga 6 Protokoll fört vid sammanträde den 3 oktober 1995</p>
+<p>om förslag till ändringar i lagen (1992:1537)</p>
+<p>om finansiering av vissa framtida utgifter<br>för använt kärnbränsle m.m................68</p>
+<p>Bilaga 7 &nbsp;&nbsp;&nbsp;&nbsp;Lagrådsremissens lagförslag ................71</p>
+<p>Bilaga 8 &nbsp;&nbsp;&nbsp;&nbsp;Lagrådets yttrande ......................78</p>
+<p>Utdrag ur protokoll vid regeringssammanträde den<br>19 oktober 1995 ................................ 79</p>
+<p>Rättsdatablad.................................. 80</p>
+<h2>1 Förslag till riksdagsbeslut</h2>
+<p>Regeringen föreslår att riksdagen</p>
+<p>Prop. 1995/96:83</p>
+<p>antar regeringens förslag till</p>
+<p>1. lag om ändring i lagen (1992:1537) om finansiering av framtida<br>utgifter för använt kärnbränsle m.m.,</p>
+<p>2. lag om ändring i lagen (1988:1597) om finansiering av hanteringen<br>av visst radioaktivt avfall m.m.</p>
+<h2>2 Lagtext</h2>
+<p>Regeringen har följande förslag till lagtext.</p>
+<p>Prop. 1995/96:83</p>
+<h3>2.1 Förslag till lag om ändring i lagen (1992:1537) om<br>finansiering av framtida utgifter för använt kärnbränsle m.m.</h3>
+<p>Härigenom föreskrivs i fråga om lagen (1992:1537) om finansiering av<br>framtida utgifter för använt kärnbränsle m.m.,</p>
+<p>dels att nuvarande 7 § skall betecknas 1 a §,</p>
+<p>dels att den nya 1 a § skall ha följande lydelse,</p>
+<p>dels att 1, 2, 3, 4, 6, 8 och 9 §§ skall ha följande lydelse,</p>
+<p>dels att det i lagen skall införas sju nya paragrafer, 2 a, 7 - 7 b och<br>8a - 8 c §§, av följande lydelse.</p>
+<p>Nuvarande lydelse</p>
+<p>Avgifter skall betalas enligt<br>denna lag för att finansiera dels<br>omhändertagande av använt<br>kärnbränsle och annat radioaktivt<br>avfall från kämkraftsreaktorer,<br>dels vissa kostnader som staten<br>har enligt denna lag och enligt<br>lagen (1984:3) om kärnteknisk<br>verksamhet.</p>
+<p>Avgift skall betalas av den som<br>har tillstånd att inneha eller driva<br>en kämkraftsreaktor (reaktorin-<br>nehavaren). Avgiften skall beta-<br>las årligen så länge reaktorn är i<br>drift.</p>
+<p>(7 § första meningen)</p>
+<p>Avgiften skall betalas till den<br>myndighet som regeringen be-<br>stämmer.</p>
+<p>Föreslagen lydelse</p>
+<h4>1 §</h4>
+<p>Avgifter skall betalas enligt<br>denna lag för att finansiera dels<br>omhändertagande av använt<br>kärnbränsle och annat radioaktivt<br>avfall från kämkraftsreaktorer,<br>dels vissa andra kostnader enligt<br>denna lag och enligt lagen<br>(1984:3) om kärnteknisk verk-<br>samhet.</p>
+<p>För sådana kostnader för om-<br>händertagande som inte täcks av<br>inbetalade avgiftsmedel skall<br>säkerheter ställas.</p>
+<p>Avgift skall betalas och säker-<br>heter ställas av den som har till-<br>stånd att inneha eller driva en<br>kämkraftsreaktor (reaktorinneha-<br>varen). Avgiften skall betalas<br>årligen så länge reaktorn är i<br>drift.</p>
+<p>lal</p>
+<p>Avgiften skall betalas till den<br>myndighet som regeringen be-<br>stämmer. Dessa avgiftsmedel<br>skall föras över till en fond, be-<br>nämnd Kämavfallsfonden.</p>
+<h4>2 §</h4>
+<p>Avgiftsskyldigheten avseende &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Skyldigheten att betala avgift</p>
+<p>omhändertagande omfattar kost- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;och ställa säkerheter för omhän-</p>
+<p>nader för &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;dertagande omfattar kostnader</p>
+<p>för</p>
+<p>Prop. 1995/96:83</p>
+<p>1. en säker hantering och slutförvaring av i reaktorn använt kärnbränsle<br>och radioaktivt avfall som härrör från detta efter det att kärnbränslet eller<br>avfallet har förts bort från anläggningen,</p>
+<p>2. en säker avveckling och rivning av reaktoranläggningen,</p>
+<p>3. den forsknings- och utvecklingsverksamhet som behövs för att vad<br>som avses i 1 och 2 skall kunna fullgöras.</p>
+<p>2al</p>
+<p>Reaktorinnehavaren skall ställa<br>fullgoda säkerheter till den myn-<br>dighet som regeringen bestäm-<br>mer. Säkerheterna skall motsvara<br>de kostnaderför omhändertagan-<br>de som anges i 3 § första stycket<br>2 och 3. Säkerheter behöver inte<br>ställas för belopp som täcks av<br>reaktorinnehavarens andel av<br>medlen i Kämavfallsfonden.</p>
+<p>En fastighet på vilken det be-<br>drivs kärnteknisk verksamhet får<br>inte utgöra säkerhet.</p>
+<p>Regeringen eller den myndighet<br>som regeringen bestämmer skall<br>pröva säkerheterna. Ett beslut<br>som rör den ställda säkerheten<br>får ändras när det finns anled-<br>ning till det.</p>
+<p>Reaktorinnehavaren skall i<br>samråd med övriga reaktorin-<br>nehavare beräkna kostnaderna<br>för omhändertagandet. En sådan<br>beräkning skall innehålla en<br>uppskattning av dels kostnader-<br>na för samtliga de åtgärder som<br>kan behövas, dels kostnaderna<br>för de åtgärder som avses bli<br>vidtagna inom en tidrymd om<br>minst tre år.</p>
+<h4>3 §</h4>
+<p>Reaktorinnehavaren skall i<br>samråd med övriga reaktorin-<br>nehavare beräkna kostnaderna<br>för omhändertagandet. En sådan<br>beräkning skall innehålla en<br>uppskattning av 1. kostnaderna<br>för samtliga åtgärder som kan<br>behövas då reaktorn drivits i 25<br>år samt, om drifttiden för reak-<br>torn överstiger 25 år, kostnaden<br>för tillkommande åtgärder varje<br>är därutöver (belopp för avgifts-<br>underlag),</p>
+<p>2. de kostnader enligt 1 som</p>
+<p>kan hänföras till det kärnbränsle Prop. 1995/96:83<br>som har använts när beräkningen<br>görs (grundbelopp), om driftti-<br>den för reaktorn understiger 25<br>är,</p>
+<p>3. skäliga kostnader för till-<br>kommande åtgärder som beror<br>på oplanerade händelser (till-<br>läggsbelopp).</p>
+<p>Av beräkningen skall dessutom<br>framgå kostnaderna for de åt-<br>gärder som avses bli vidtagna<br>inom en tidrymd om minst tre<br>år.</p>
+<p>Kostnadsberäkningen skall vaije år ses över och lämnas till regeringen<br>eller den myndighet som regeringen bestämmer.</p>
+<h4>4</h4>
+<p>Utöver kostnaderna for omhän-<br>dertagande skall avgifterna täcka<br>statens kostnader för att</p>
+<p>§</p>
+<p>Utöver kostnader för omhän-<br>dertagande skall avgifterna täcka<br>statens kostnader för att</p>
+<p>1. komplettera forsknings- och utvecklingsverksamhet som avses i 2 §</p>
+<p>3 samt pröva frågor härom,</p>
+<p>2. pröva frågor som avses i 5<br>§ första stycket och 8 § andra<br>stycket denna lag,</p>
+<p>2. pröva frågor som avses i</p>
+<p>2 a § tredje stycket, 5 § första<br>stycket, 8 b och 8 c §§ denna<br>lag,</p>
+<p>3. pröva frågor om övervakning och kontroll av slutförvar enligt 16 §<br>lagen (1984:3) om kärnteknisk verksamhet.</p>
+<p>Avgiften bestäms så att de<br>sammanlagda avgiftsbeloppen<br>som betalas under reaktorns<br>drifttid täcker kostnaderna för</p>
+<p>Avgifterna skall vidare täcka<br>kostnaderna för Kämavfalls-<br>fondens förvaltning samt de<br>kostnader som reaktorinnehavar-<br>na, staten eller kommunerna har<br>för information till allmänheten i<br>frågor som rör hantering och<br>slutförvaring av använt kärn-<br>bränsle och kärnavfall.</p>
+<p>§</p>
+<p>Avgiften bestäms så att de sam-<br>manlagda avgiftsbeloppen täcker<br>de kostnader för omhändertagan-<br>det som avses i 3 § första stycket</p>
+<p>omhändertagandet och statens<br>kostnader enligt 4 §.</p>
+<p>1 och kostnaderna enligt 4 §. Prop. 1995/96:83</p>
+<p>Vid avgiftsberäkningen skall hänsyn tas till tidigare åtgärder för<br>omhändertagande av använt kärnbränsle och radioaktivt avfall som härrör<br>från detta, reaktoranläggningens beskaffenhet och övriga omständigheter<br>som kan påverka avgiftens storlek.</p>
+<h4>75</h4>
+<p>Kämavfallsfonden leds av en<br>styrelse, som skall förvalta med-<br>len i fonden enligt 7 a och<br>7 b §§. Styrelsen skall årligen<br>till regeringen lämna en redovis-<br>ning som avser förvaltningen<br>under det gångna året.</p>
+<p>Regeringen utser styrelse i<br>Kämavfallsfonden och förordnar<br>om revisorer för granskning av<br>styrelsens förvaltning.</p>
+<p>(7 § andra meningen)<br>Myndigheten skall sätta in med-<br>len på räntebärande konto i<br>Riksbanken.</p>
+<p>(7 § tredje meningen)</p>
+<p>Räntan skall läggas till kapitalet</p>
+<p>7 a §</p>
+<p>Kämavfallsfondens medel skall<br>placeras på konto i Riksgälds-<br>kontoret.</p>
+<p>Medlen i Kämavfallsfonden<br>skall förvaltas så att kraven på<br>en god avkastning och en<br>tillfredsställande betalningsbe-<br>redskap tillgodoses.</p>
+<p>Avkastningen på fondens medel<br>skall läggas till kapitalet.</p>
+<p>7 b §</p>
+<p>Regeringen får meddela närma-<br>re föreskrifter om Kämavfalls-<br>fonden och om fondens förvalt-<br>ning.</p>
+<p>(8 § första stycket)</p>
+<p>De avgifter som betalats av<br>reaktorinnehavaren skall använ-<br>das för att ersätta innehavaren<br>för kostnader for omhänderta-<br>gandet samt för att täcka statens<br>kostnader för åtgärder enligt 4 §<br>hänförliga till reaktorn och<br>bränsle som använts i reaktorn.<br></p>
+<p>Reaktorinnehavarens andel av<br>medlen i Kämavfallsfonden skall<br>användas för att ersätta inne-<br>havaren för kostnader för om-<br>händertagandet samt för att täcka<br>kostnader for åtgärder enligt 4 §<br>hänförliga till reaktorn och<br>bränsle som använts i reaktorn.</p>
+<p>( 8 § andra stycket)</p>
+<p>Frågor om användning av av-<br>giftsmedlen prövas av regeringen<br>eller den myndighet som rege-<br>ringen bestämmer.</p>
+<p>Reaktorinnehavaren skall på<br>begäran lämna de upplysningar<br>och tillhandahålla de handlingar<br>som behövs for att regeringen<br>eller den myndighet som rege-<br>ringen bestämmer skall kunna</p>
+<p>8 ai</p>
+<p>Medel i Kämavfallsfonden som<br>inte behövs för det ändamål som<br>anges i 8 § skall återbetalas till<br>reaktorinnehavaren när</p>
+<p>1. allt det kärnbränsle som an-<br>vänts i reaktorn och allt det<br>radioaktiva avfall som härrör<br>från detta har placerats i slutför-<br>var och</p>
+<p>2. &nbsp;reaktoranläggningen har<br>avvecklats och rivits.</p>
+<p>Medel i fonden som inte behövs<br>får återbetalas innan dess, om<br>det finns särskilda skäl för det.</p>
+<p>8 bi</p>
+<p>Om medlen i Kämavfallsfonden<br>visar sig otillräckliga och åt-<br>gärder för omhändertagande<br>som avses i 2 § inte vidtas av<br>reaktorinnehavaren, får rege-<br>ringen besluta att säkerheterna<br>skall utnyttjas för att finansiera<br>åtgärderna. Om reaktorn drivs<br>kortare tid än 25 år, får rege-<br>ringen dessutom besluta att<br>säkerheterna får utnyttjas för att<br>tillföra Kämavfallsfonden medel<br>som motsvarar de avgifter som<br>beräknas falla bort på grund av<br>den begränsade drifttiden.</p>
+<p>8ci</p>
+<p>Frågor om användning och<br>återbetalning av avgiftsmedlen<br>prövas av regeringen eller den<br>myndighet som regeringen be-<br>stämmer.</p>
+<p>§</p>
+<p>Reaktorinnehavaren skall på<br>begäran lämna de upplysningar<br>och tillhandahålla de handlingar<br>som behövs för att regeringen<br>eller den myndighet som rege-<br>ringen bestämmer skall kunna<br></p>
+<p>Prop. 1995/96:83</p>
+<p>fastställa avgiftens storlek och<br>pröva frågor om användningen<br>av medlen. I den utsträckning<br>det behövs skall reaktorinnehava-<br>ren på begäran även lämna<br>tillträde till anläggningar eller<br>platser där använt kärnbränsle<br>eller radioaktivt avfall som<br>härrör från detta förvaras eller<br>hanteras.</p>
+<p>fastställa avgiftens storlek och<br>behovet av säkerheter samt pröva<br>frågor om användningen av med-<br>len. I den utsträckning det be-<br>hövs skall reaktorinnehavaren på<br>begäran även lämna tillträde till<br>anläggningar eller platser där<br>använt kärnbränsle eller radio-<br>aktivt avfall som härrör från<br>detta förvaras eller hanteras.</p>
+<p>Prop. 1995/96:83</p>
+<p>1. Denna lag träder i kraft den 1 januari 1996.</p>
+<p>2. Behållningen av de avgifter som inbetalats före ikraftträdandet skall<br>föras över till Kämavfallsfonden för förvaltning enligt denna hg.</p>
+<p>10</p>
+<h3>2.2 Förslag till lag om ändring av lagen (1988:1597) om Prop. 1995/96:83<br>finansiering av hanteringen av visst radioaktivt avfall m.m.</h3>
+<p>Härigenom föreskrivs att 3 § lagen (1988:1597) om finansiering av<br>hanteringen av visst radioaktivt avfall m.m. skall ha följande lydelse.</p>
+<p>Nuvarande lydelse &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Föreslagen lydelse</p>
+<h4>3 §’</h4>
+<p>Avgiften är 0,15 öre för varje levererad kilowattimme elström.</p>
+<p>Avgiften skall betalas till Statens kämkraftinspektion.</p>
+<p>Avgiftsmedlen skall föras över<br>till Kämavfallsfonden som för-<br>valtar medlen särskilt. För för-<br>valtningen i övrigt gäller regler-<br>na i 7 - 7 b §§ lagen (1992:-<br>1537) om finansiering av fram-<br>tida utgifter för använt kärn-<br>bränsle m.m.</p>
+<p>1. Denna lag träder i kraft den 1 januari 1996.</p>
+<p>2. Behållningen av de avgifter som inbetalats före ikraftträdandet skall<br>föras över till Kämavfallsfonden för förvaltning enligt denna lag.</p>
+<p>'Senaste lydelse 1993:1667.</p>
+<p>11</p>
+<h2>3 Ärendet och dess beredning</h2>
+<p>I sin fördjupade anslagsframställning för budgetåren 1992/93 - 1994/95<br>framhöll dåvarande Statens kämbränslenämnd att den nuvarande<br>ordningen i fråga om placering av fondmedel inte ger den avkastning som<br>borde vara möjlig. En friare placering av fondmedlen enligt mer gängse<br>förvaltningsprinciper vore önskvärd enligt Statens kämbränslenämnds<br>uppfattning.</p>
+<p>Regeringen bemyndigade den 6 maj 1993 miljöministern att tillkalla en<br>särskild utredare med uppdrag att göra en översyn av kapitalförvaltningen<br>m.m. enligt lagen (1992:1537) om finansiering av framtida utgifter för<br>använt kärnbränsle m.m. (finansieringslagen). Utredningen antog namnet<br>Kämbränslefondsutredningen.</p>
+<p>Kämbränslefondutredningen överlämnade till regeringen i juni 1994<br>betänkandet Säkrare finansiering av fiamtida kämavfallskostnader (SOU<br>1994:107). I betänkandet presenteras överväganden och förslag om ett<br>tillförlitligare finansieringssystem än det nuvarande samt förslag om<br>friare placering av fondmedlen.</p>
+<p>De underlagsrapporter som legat till grund for utredningens över-<br>väganden har redovisats i en särskild publikation, SOU 1994:108.</p>
+<p>En sammanfattning av utredningens betänkande återfinns i bilaga 1. De<br>lagförslag som läggs fram i betänkandet finns i bilaga 2.</p>
+<p>Betänkandet har remissbehandlats. En förteckning över remissinstanser-<br>na samt en sammanställning över remissyttrandena finns i bilaga 3.</p>
+<p>Riksrevisionsverket (RRV) har inom ramen för sin effektivitetsrevision<br>granskat den tillsyn som Statens kämkraftinspektion (SKI) utövar med<br>stöd av finansieringslagen. Resultatet av granskningen redovisas i<br>revisionsrapporten Producentansvar och statlig tillsyn (RRV 1995:22)<br>som överlämnades till regeringen den 29 maj 1995. Flera av de förslag<br>RRV för fram berör SKI:s roll i finansieringssystemet enligt finan-<br>sieringslagen. RRV:s förslag redovisas i bilaga 4. SKI har den 21 juni<br>1995 inkommit till departementet med en skrivelse som kommenterar<br>RRV:s rapport. Skrivelsen finns hos Miljödepartementet (dnr.<br>M95/2412/5).</p>
+<p>RRV har i en tidigare rapport, Avfall-Avveckling-Avkastning<br>(Fl993:30), redovisat vissa förslag som rör kassahållningen i kämbräns-<br>lefondema. RRV:s förslag i den delen redovisas i bilaga 5. Rapporten<br>har remissbehandlats varvid Svensk Kämbränslehantering AB (SKB) och<br>SKI inkommit med remissyttranden. Remissyttrandena finns hos<br>Miljödepartementet (dnr. M93/3874/6).</p>
+<p>SKI har i olika sammanhang, bland annat i sitt remissvar på Kämbräns-<br>lefondsutredningens betänkande, föreslagit att även de medel som<br>fonderas enligt Studsvikslagen skall ges en friare förvaltning.</p>
+<p>Miljödepartementet har inbjudit berörda myndigheter och företag till<br>ett möte den 3 oktober 1995. Vid mötet har inhämtats synpunkter på<br>regeringens förslag på hur medlen enligt finansieringslagen och Studs-<br>vikslagen skall förvaltas. Vidare har vid mötet inhämtats synpunkter på<br>frågan hur KASAM (Statens råd för kämavfallsfrågor) och kostnaderna<br>för den information som ges till allmänheten i olika sammanhang skall<br></p>
+<p>Prop. 1995/96:83</p>
+<p>12</p>
+<p>finansieras. Skriftliga synpunkter har inkommit efter mötet. En för- Prop. 1995/96:83<br>teckning över de närvarande vid mötet och en sammanställning av<br>remissynpunkterna finns i bilaga 6.</p>
+<p>Regeringen beslutade den 5 oktober att inhämta lagrådets yttrande över<br>de lagförslag som finns i bilaga 7. Lagrådet har lämnat förslagen utan<br>erinran. Lagrådets yttrande har tagits in som bilaga 8. Vissa redaktionel-<br>la ändringar har gjorts i texten.</p>
+<h2>4 Det nuvarande finansieringssystemet</h2>
+<p>I förarbetena till finansieringslagen (prop. 1980/81:90, s. 609 f.) anges<br>några av de grundläggande principerna för lagstiftningen på kämener-<br>giområdet. Dessa innebär dels att kostnaderna för hanteringen av använt<br>kärnbränsle och kärnavfall skall täckas av intäkterna från den produktion<br>av energi som gett upphov till dem, dels att den som bedriver en<br>verksamhet där radioaktiva restprodukter uppkommer också skall svara<br>för att dessa restprodukter tas om hand på ett säkert sätt. En tredje<br>grundläggande princip är att staten har ett övergripande och långsiktigt<br>ansvar för det radioaktiva avfallet. Dessa tre grundprinciper har kommit<br>till uttryck i lagstiftningen på följande sätt.</p>
+<p>Enligt lagen (1984:3) om kärnteknisk verksamhet (kämtekniklagen) är<br>en innehavare av tillstånd till kärnteknisk verksamhet skyldig att svara för<br>att allt i verksamheten uppkommet kärnavfall och använt kärnbränsle<br>hanteras och slutförvaras på ett säkert sätt och att den anläggning i vilken<br>verksamheten bedrivs avvecklas och rivs på ett säkert sätt, sedan<br>verksamheten har upphört (10 §). Dessa åtaganden innebär enligt<br>förarbetena (prop. 1983/84:60) också ett ansvar för att klarlägga vilka<br>åtgärder som behövs och hur dessa åtgärder skall kunna genomföras.</p>
+<p>I det ansvar som enligt 10 § kämtekniklagen läggs på reaktorinnehava-<br>re och övriga innehavare av tillstånd till kärnteknisk verksamhet ingår att<br>svara för de faktiska kostnader som behövs för avfallshanteringen. Som<br>påpekades av Lagrådet i yttrandet över den tidigare finansieringslagen<br>(prop. 1980/81:90 s. 637) omfattar tillståndshavarens skyldigheter även<br>att ansvara med återstoden av sin förmögenhet för kostnader som staten<br>skulle kunna ådra sig för sådana åtaganden, ifall tillståndshavaren skulle<br>underlåta att fullgöra sina skyldigheter och staten därför nödgas vidta<br>åtgärderna.</p>
+<p>Enligt finansieringslagen skall den som har tillstånd att inneha och<br>driva en kämkraftreaktor (reaktorinnehavaren) årligen, så länge reaktorn<br>är i drift, betala en avgift för att finansiera omhändertagande av använt<br>kärnbränsle och annat radioaktivt avfall. Med omhändertagande avses<br>enligt lagen en säker hantering och slutförvaring av i reaktorn använt<br>kärnbränsle och radioaktivt avfall som härrör från reaktorn efter det att<br>kärnbränslet eller kärnavfallet förts bort från anläggningen, en säker<br>avveckling och rivning av reaktoranläggningen samt den forsknings- och<br>utvecklingsverksamhet som behövs för att kunna fullgöra detta. Avgiften &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;13</p>
+<p>skall också täcka de kostnader som staten i dessa avseenden har enligt<br></p>
+<p>kämtekniklagen och finansieringslagen, bl.a. tillsyn och sådan forskning Prop. 1995/96:83<br>som behövs för att komplettera reaktorinnehavarnas forsknings- och<br>utvecklingsverksamhet. Medlen skall enligt lagen vara placerade på<br>räntebärande konto i Riksbanken. Räntan skall läggas till kapitalet.</p>
+<p>Avgiftens storlek bestäms enligt följande ordning. Reaktorinnehavaren<br>beräknar i samråd med övriga reaktorinnehavare kostnaderna för<br>omhändertagandet. En sådan beräkning skall innehålla dels en uppskatt-<br>ning av kostnaderna för samtliga åtgärder fram till ca år 2060 då allt<br>använt kärnbränsle beräknas ha blivit placerat i slutförvar, dels en<br>beräkning av kostnaderna för verksamheten de närmaste tre åren.</p>
+<p>Kostnadsberäkningen lämnas in till SKI. Med utgångspunkt i sin<br>granskning av beräkningen lämnar SKI den vidare till regeringen med ett<br>eget yttrande och ett förslag till avgifter för nästföljande kalenderår. SKI<br>bygger för närvarande sin beräkning av avgiftens storlek på en årspro-<br>duktion motsvarande ca 67 TWh kärnkraft, en 25-årig intjänandetid per<br>reaktor samt på att de fonderade medlen skall ge en real avkastning om<br>2,5 % per år. Avgiftens storlek fastställs årligen för nästföljande<br>kalenderår av regeringen.</p>
+<p>Regeringen angav i sitt beslut den 22 december 1992 (M92/3665/6) om<br>avgifter för år 1993 för finansiering av framtida utgifter för använt<br>kärnbränsle m.m. att en intjänandetid på 25 år är en riktig utgångspunkt<br>för beräkningen av avgiften.</p>
+<p>Vaije reaktorinnehavare skall betala en avgift som bestäms med hänsyn<br>till den uppskattade totala mängden energi som levereras under in-<br>tjänandetiden. Det innebär att avgiften beräknas per kilowattimme (kWh).<br>Eftersom de beräknade totalkostnaderna varierar mellan de olika<br>reaktorinnehavama så bestäms avgiften individuellt för varje verk. För<br>år 1995 beslutade regeringen om följande avgifter per kWh: Forsmark<br>Kraftgrupp AB, 1,9 öre, OKG AB (Oskarshamn) 1,7 öre, Vattenfall AB<br>(Ringhals) 1,9 öre och Barsebäck Kraft AB, 2,2 öre. Beloppen är<br>desamma som gällt sedan 1987. Den genomsnittliga avgiftsnivån för de<br>fyra kärnkraftverken, nämligen 1,9 öre/kWh, har dock varit oförändrad<br>sedan 1984, då den genomsnittliga avgiftsnivån höjdes från 1,7 öre/kWh.</p>
+<p>För att uppfylla de skyldigheter som kämtekniklagen och finan-<br>sieringslagen föreskriver har de fyra reaktorinnehavama i Sverige bildat<br>ett särskilt företag, Svensk kärnbränslehantering AB, SKB. Det är alltså<br>SKB som är huvudaktör och ansvarig när det gäller omhändertagandet av<br>använt kärnbränsle och annat radioaktivt avfall liksom när det gäller att<br>finna en plats lämplig för slutförvar av använt kärnbränsle och för att<br>uppföra och så småningom driva slutförvaret. Det är också SKB som<br>svarar för den kostnadsberäkning som vaije år lämnas till SKI.</p>
+<p>Avgiften skall erläggas kvartalsvis och inbetalas senast en månad efter<br>vaije kvartals utgång. De avgifter som betalas in av reaktorinnehavama<br>skall användas för att ersätta innehavaren för kostnader för omhän-<br>dertagandet. Det innebär att pengar går tillbaka till SKB för kostnader<br>som behövs för att fullgöra omhändertagandet. Utbetalning av medel sker<br>förskottsvis för kalenderkvartal för åtgärder som beräknas inträda under<br>kvartalet. SKI beslutar hur och i vilken utsträckning avgiftsmedlen får &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;14</p>
+<p>användas.</p>
+<p>Sedan år 1982, då finansieringssystemet trädde i kraft, har t.o.m. år Prop. 1995/96:83<br>1994 totalt 16 721 miljoner kronor betalats in via avgifter. I detta belopp<br>ingår den inbetalning på 2 285 miljoner kronor som kämkraftföretagen<br>gjorde år 1982 och som utgjordes av de interna avsättningar som<br>företagen tidigare gjort i sina bokslut. Under samma period har<br>sammanlagt 7 267 miljoner kronor i räntor tillförts de fonderade medlen.<br>Tillsammans med vissa andra inbetalningar innebär detta att finan-<br>sieringssystemet tillförts totalt 24 009 miljoner kronor.</p>
+<p>Under samma tid har de sammanlagda utbetalningarna ur fonden varit</p>
+<p>8 568 miljoner kronor. Behållningen var sålunda 15 441 miljoner kronor<br>vid utgången av år 1994.</p>
+<p>De totala framtida kostnaderna för hantering av det använda kärnbräns-<br>let och kärnavfallet samt för rivning av kärnkraftverken har SKI beräknat<br>till 45 200 miljoner kronor.</p>
+<p>De delar av avfallsystemet som nu är i drift och som helt bekostas av<br>avgiftsmedel är det centrala mellanlagret för använt kärnbränsle i<br>Oskarshamn, CLAB, samt transportsystemet, dvs. transportfartyget<br>Sigyn, transportbehållare, specialtruckar m.m.</p>
+<p>Avgiftsmedlen används även för att bekosta en mindre del - ca 3 % -<br>av kostnaderna för slutförvaret för radioaktivt driftavfall, SFR. Dessa<br>kostnader avser omhändertagandet av driftavfallet från CLAB. Vidare har<br>avgiftsmedel utgått för att betala ersättning för upparbetning i Cogéma,<br>Frankrike och i Sellafield, Storbritannien, enligt tidigare träffande avtal.<br>Dessutom används avgiftsmedel för att täcka SKB:s och statens kostnader<br>i samband med slutförvaringsprocessen. Avgiftsmedel används även för<br>SKB:s informationsinsatser avseende den avgiftsfinansierade verksam-<br>heten.</p>
+<h2>5 Allmänt om behovet av lagstiftningsåtgärder</h2>
+<p>Regeringens bedömning och förslag: Tillförlitligheten i det<br>nuvarande finansieringssystemet bör förstärkas. Avgiftsmedlen bör<br>förvaltas på ett sådant sätt att avkastningen blir bättre. Finan-<br>sieringslagen kompletteras så att de grundläggande principerna för<br>kostnadsansvaret för använt kärnbränsle och kärnavfall tydligt<br>framgår.</p>
+<p>Utredningens bedömning: Överensstämmer i allt väsentligt med<br>regeringens.</p>
+<p>Remissinstanserna: De remissinstanser som yttrat sig delar i stort de<br>överväganden som förs fram i utredningens betänkande. RRV anser dock<br>att utredningens överväganden innehåller vissa osäkerheter och pekar på<br>flera frågor som enligt RRV:s uppfattning bör belysas på ett bättre sätt.<br>Samhällsvetenskapliga fakultetsnämnden vid Umeå universitet har i<br>allmänna ordalag yttrat sig negativt över utredningens förslag.</p>
+<p>15</p>
+<p>Skälen för regeringens bedömning och förslag: Som tidigare Prop. 1995/96:83<br>redovisats utgör den grundläggande principen bakom den nuvarande<br>lagstiftningen att det är intäkterna från kämkraftproduktionen som skall<br>täcka samtliga kostnader som har samband med hanteringen av de<br>restprodukter som verksamheten gett upphov till. Verksamheten kan<br>således sägas utgöra ett exempel på ett producentansvar genomfört i<br>praktiken.</p>
+<p>Med hänsyn till den långa tid som krävs för hantering och förvaring av<br>kärnavfallet och övriga restprodukter måste man räkna med att utgifter<br>kommer att uppstå långt efter det att produktionen har upphört. Därmed<br>finns då inte heller några löpande inkomster att disponera för att täcka<br>utgifterna.</p>
+<p>Dessa förhållanden innebär att medel för att täcka framtida utgifter för<br>verksamheten måste tas ut i förväg ur de löpande intäkterna från<br>kämkraftproduktionen och därefter hållas samlade på ett sådant sätt att<br>de med säkerhet kan disponeras för avsett ändamål, när behov mera<br>successivt uppkommer. Dispositionen av medel sker såväl under den<br>period produktionen pågår som under avsevärd tid därefter. Avfallshante-<br>ringen kan väntas behöva pågå i ca 50 år efter det att ett kärnkraftverk<br>stängts av. Det kan därefter finnas behov av olika former av övervakning<br>för dels fysiskt skydd, dels kontroll av det klyvbara material som<br>fortfarande finns i det använda kärnbränslet. Finansieringssystemet skall<br>därför garantera att ett tillräckligt stort kapital finns fonderat för att<br>möjliggöra alla de investeringar som uppförandet av ett slutförvar för det<br>långlivade och högaktiva kärnavfallet innebär. Det skall också garantera<br>att medel finns tillgängliga för att täcka övriga kostnader som hanteringen<br>for med sig, inklusive administrations- och planeringskostnader,<br>forskningsprogram m.m.</p>
+<p>Det nuvarande finansieringssystemets tillförlitlighet bygger på att<br>regeringen kan fastställa en avgift som skall kunna täcka de framtida<br>kostnaderna. Om kostnaderna ändå skulle visa sig högre än väntat finns,<br>under förutsättning att kämkraftsproduktionen inte upphört, möjligheter<br>att höja avgiften. För att kontinuerligt kontrollera de antaganden som<br>görs i kostnadsberäkningarna prövas avgiften för ett kalenderår i taget.<br>Om elproduktionen från kärnkraftverken av olika skäl skulle upphöra<br>eller minska betydligt, försvinner eller minskar dock möjligheterna att<br>justera avgiften. Skulle, som ett annat exempel, kostnaderna för<br>rivningen av kärnkraftverken visa sig underskattade finns inga möjlig-<br>heter att ta ut dessa merkostnader via avgifter på kämkraftsproduktionen,<br>eftersom denna då har upphört.</p>
+<p>För att minska riskerna för framtida underskott finns möjligheten för<br>regeringen att ta in ett större avgiftsbelopp än vad som beräknas som<br>nödvändigt för att täcka de kostnader reaktorinnehavama utgått ifrån. Att<br>ta in avgifter för kostnader som endast blir aktuella under vissa mindre<br>sannolika förhållanden är enligt regeringens uppfattning emellertid inte<br>ett tillfredsställande sätt att säkerställa att medel finns tillgängliga. En<br>ökad avgift leder till att kostnaderna kan komma att belasta konsumenter-<br>na av el vilket kan medföra negativa effekter för såväl hushållen som &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;16</p>
+<p>industrin. Sådana effekter kan komma i konflikt med övergripande</p>
+<p>ekonomisk-politiska målsättningar. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Prop. 1995/96:83</p>
+<p>Detta visar att det nuvarande finansieringssystemet under vissa<br>förutsättningar inte förmår att garantera finansieringen av de framtida<br>kostnaderna för slutförvaring av använt kärnbränsle och kärnavfall så<br>som lagstiftaren utgått ifrån. Det är emellertid angeläget att stärka<br>finansieringssystemets förmåga att fylla sitt syfte även vid oplanerade<br>händelser och därigenom öka systemets tillförlitlighet. I detta samman-<br>hang är det också viktigt att även beakta att delar av avfallshanteringen<br>med tiden kan bli billigare att genomföra än vad som beräknats. Detta<br>leder till att finansieringssystemet även bör uppfylla krav på flexibilitet<br>om kostnaderna skulle visa sig lägre än väntat.</p>
+<p>Realränteantagandet spelar idag en central roll vid avgiftsberäk-<br>ningama. Fondmedlens realavkastning - liksom följaktligen en prognos<br>av densamma - blir beroende av hur medlen placeras. Mot bakgrund av<br>bedömningar som Kämbränslefondutredningen redovisar förefaller det<br>knappast rimligt att räkna med 2,5 % som en genomsnittlig rea! avkast-<br>ning för perioden fram till år 2060, om man inte övergår till någon annan<br>form av förvaltning av fondmedlen. Regeringens slutsats är att det är<br>nödvändigt att göra sådana kompletteringar av finansieringssystemet att<br>dess nuvarande beroende av ett &quot;rätt&quot; realränteantagande kan minskas<br>avsevärt.</p>
+<p>Avgörande för tillförlitligheten i det nuvarande finansieringssystemet<br>är dock reaktorinnehavamas ekonomiska ställning. Reaktorinnehavamas<br>förmåga att uppfylla sina åtaganden vad avser kostnaderna för hantering<br>av kämkraftsavfall, rivning m.m. beror i realiteten bl.a. på deras<br>finansiella stabilitet. Den undersökning utredningen låtit göra beträffande<br>tillståndshavama i detta avseende visar på begränsningar hos tre av<br>reaktorinnehavama. Dessa saknar nämligen andra intäkter än de som<br>kommer från driften av kärnkrafts reaktorerna. Reaktorinnehavamas<br>fortlevnad och finansiella ställning är således helt beroende av kämkrafts-<br>reaktoremas lönsamhet.</p>
+<p>En konsekvens av dessa förhållanden är att det inte kan uteslutas - för<br>det fall verksamheten vid kärnkraftverken upphört och de fonderade<br>medlen visar sig otillräckliga - att tillståndshavama inte kommer att ha<br>ekonomisk förmåga att ta sitt ansvar enligt kämtekniklagen. Om<br>fondbehållningen i framtiden skulle visa sig vara otillräcklig och<br>möjligheterna att ta ut avgifter upphört eller reducerats, kan staten och<br>därigenom framtida generationer under sådana förutsättningar komma att<br>belastas med merkostnaderna for avfallshanteringen. Syftet med avgifts-<br>systemet har i ett sådant fall inte uppnåtts. Det är naturligtvis angeläget<br>att denna risk för sårbarhet i det befintliga finansieringssystemet<br>undanröjs.</p>
+<p>Osäkerheterna i avgiftsberäkningama gäller antagandena om framtida<br>kostnader, framtida elleveranser och, inte minst, den reala avkastningen<br>på fonderade medel. Dessa osäkerheter kan reduceras successivt genom<br>att samtliga prognosfäktorer omprövas årligen i samband med avgiftsbe-<br>sluten. Mot bakgrund av att merparten av kostnaderna liksom en<br>betydande del av ränteintäkterna uppkommer efter det att avgifts- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;17</p>
+<p>intäkterna beräknas ha upphört, kvarstår emellertid vissa osäkerheter i</p>
+<p>2 Riksdagen 1995/96. 1 saml. Nr 85</p>
+<p>systemet. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Prop. 1995/96:83</p>
+<p>Även med ett reviderat finansieringssystem, i vilket realräntean-<br>tagandets roll for finansieringssystemets tillförlitlighet minskas avsevärt,<br>är förvaltningen av fondmedlen en central del av finansieringssystemet.<br>Det är en förutsättning för en god förvaltning och ekonomi att fondmed-<br>len kan placeras så att de ger en hög avkastning under betryggande<br>former. Den ränta som idag ges på fondmedlen är den s.k. statslånerän-<br>tan. Räntesatsen baseras därvid på den 10-åriga statsobligationsräntan,<br>medan räntebindningen endast är en månad. Denna form av specialinlå-<br>ning är allmänt sett en ofördelaktig konstruktion om man ser till<br>avkastningen på fondmedlen, även om avkastningen de senaste åren varit<br>förhållandevis god på grund av det höga ränteläget.</p>
+<p>Vidare kan den nuvarande placeringen av fondmedlen innebära en risk<br>på så sätt att inflationen kan komma att överstiga avkastningen på<br>medlen. Kreditrisk och likviditetsrisk är emellertid mycket små.<br>Kämbränslefondutredningen har jämfört hur avkastningen med finan-<br>sieringslagens placeringsregler förhåller sig till annan statlig medelsför-<br>valtning. Utredningen konstaterar med de reservationer som vidlåder en<br>sådan jämförelse att avkastningen på de i Riksbanken inlånade medlen<br>varit låg jämfört med den som givits andra statliga räntebärande<br>placerare.</p>
+<p>Riksbanken framhåller i sitt remissyttrande att banken inte kan erbjuda<br>högre ränta än vad 10-åriga statsobligationer ger och den är möjlig att<br>uppnå genom att köpa obligationerna på marknaden. Riksbanken<br>framhåller vidare att det nuvarande omhändertagandet av fondmedlen mot<br>bakgrund av bankens huvuduppgifter - att föra penningpolitik och verka<br>för ett stabilt och effektivt betalningssystem - kommit att framstå som en<br>udda uppgift för banken. Det är enligt vad Riksbanken redovisar inte<br>angeläget för banken att ha medel av nu aktuellt slag om hand.</p>
+<p>Mot denna bakgrund bör, enligt regeringens bedömning, den nuvarande<br>regeln i finansieringslagen med krav på inlåning i Riksbanken ändras till<br>en annan placering.</p>
+<p>18</p>
+<h2>6 Ett tillförlitligare finansieringssystem</h2>
+<p>Prop. 1995/96:83</p>
+<p>Regeringens förslag: Finansieringslagen kompletteras med regler<br>som innebär att reaktorinnehavama skall ställa sådana säkerheter<br>for kostnader för omhändertagande som inte täcks av inbetalade<br>avgiftsmedel. Säkerheterna skall dels säkerställa fonduppbyggnaden<br>vid en eventuell avstängning före reaktorns intjänandetid, dels<br>säkerställa finansieringen vid en eventuell fondbrist efter det att alla<br>reaktorer stängts av. Den årliga avgiften beräknas med utgångs-<br>punkt från samtliga åtgärder som efter 25 års drift kan behövas för<br>att ta om hand det använda kärnbränsle och kärnavfall som då<br>genererats samt - om drifttiden överstigit 25 år - kostnaden för<br>tillkommande åtgärder vaije år därutöver. Medel som inte behövs<br>för ändamålet skall betalas tillbaka till reaktorinnehavaren.</p>
+<p>Utredningens förslag: Överensstämmer med regeringens.</p>
+<p>Remissinstanserna: Utredningens förslag tillstyrks eller godtas i stort<br>sett av remissinstanserna. Samhällsvetenskapliga fekultetsnämnden vid<br>Umeå universitet är dock tveksam till om förslaget leder till de för-<br>bättringar av systemet som åsyftas.</p>
+<p>Skälen för regeringens förslag: Avgörande för tillförlitligheten i<br>finansieringssystemet utgör reaktorinnehavarens förmåga att uppfylla de<br>ekonomiska skyldigheterna enligt kämtekniklagen och finansieringslagen.<br>Kämbränslefondsutredningen har i sin utredning funnit att det lämpligaste<br>sättet att säkerställa att denna skyldighet uppfylls är att ställa krav på<br>reaktorinnehavama att lämna säkerheter till staten för täckande av<br>framtida kostnader för avfallshanteringen om fonderingen enligt<br>finansieringslagen skulle visa sig otillräcklig. Man har således funnit att<br>denna metod är att föredra framför att höja avgifterna, av skäl som<br>redogjorts för i avsnitt 5. En sådan skyldighet gentemot staten konkretise-<br>rar också det krav på reaktorinnehavamas ekonomiska förmåga som<br>kämtekniklagen förutsätter. Redan den utredning som låg till grund för<br>finansieringslagen framhöll f.ö. i sitt betänkande Kärnkraftens avfåll -<br>organisation och finansiering (SOU 1980:14 s. 198) att säkerhet för att<br>erforderliga medel finns tillgängliga bör skapas genom olika former av<br>bindande åtaganden och förbindelser.</p>
+<p>Säkerheterna syftar till att täcka de ekonomiska konsekvenserna av att<br>de fonderade medlen inte skulle räcka till. Genom detta kan finan-<br>sieringen med en högre grad av sannolikhet än för närvarande sägas vara<br>tryggad på förhand. Säkerheterna bör täcka två olika situationer, för vilka<br>redogörs i det följande.</p>
+<p>19</p>
+<h3>6.1 &nbsp;Säkerheter för att säkerställa fonduppbyggnaden vid en<br>eventuell avstängning av en reaktor innan reaktorns intjänan-<br>detid gått ut (säkerhetsbelopp I)</h3>
+<p>För att kompensera för de avgiftsintäkter som fonden skulle förlora om<br>en reaktor vid ett kärnkraftverk skulle stängas av innan reaktorns<br>intjänandetid löpt ut, dvs. 25 års drifttid, bör reaktorinnehavaren ställa<br>godtagbara säkerheter (säkerhetsbelopp I). En sådan säkerhet innebär att<br>fonden kommer att tillföras pengar i samma takt som skulle varit fallet<br>om reaktorn varit i drift. Härigenom uppnås den reala avkastning på<br>medlen som krävs för att fondbehållningen skall kunna byggas upp som<br>planerat. I och med detta sker också fonduppbyggnaden som planerat,<br>oavsett om någon eller några reaktorer ställts av innan de varit i drift i<br>25 år.</p>
+<p>I takt med att fondmedlen ökar som en följd av avgiftsinbetalningar och<br>realavkastning kan säkerhetsbelopp I successivt skrivas ned. Detta kan<br>ske med belopp som innebär att fondbehållning och säkerhetsbelopp I<br>sammantaget hela tiden uppgår till grundbeloppet.</p>
+<p>6.1.1 Grundbelopp</p>
+<p>Storleken av säkerhetsbelopp I bör bestämmas med utgångspunkt i ett för<br>ändamålet beräknat belopp som omfattar de beräknade kostnaderna för<br>alla framtida åtgärder för omhändertagandet av det använda kärnbränsle<br>och kärnavfall som genererats t.o.m. det år beräkningen utförs. Detta<br>belopp benämns grundbelopp. I grundbeloppet ingår även kostnaderna för<br>rivning av kärnkraftverken. Mot bakgrund av att en stor del av kost-<br>naderna är fasta bör de tänkta anläggningarna för omhändertagandet<br>dimensioneras utifrån ett rimligt antagande om produktionen. Den mängd<br>använt kärnbränsle och kärnavfall som genererats under den 25-åriga<br>intjänandetiden bör kunna ligga till grund för en dimensionering av de<br>tänkta anläggningarna.</p>
+<p>Reaktorinnehavaren skall i samråd med övriga reaktorinnehavare<br>beräkna storleken av grundbeloppet. I praktiken torde detta komma att<br>ske av SKB. I beräkningen bör inte ingå kostnad spåslag för oplanerade<br>händelser.</p>
+<p>Kostnadsberäkningen skall lämnas in till SKI som granskar denna. Med<br>utgångspunkt i sin granskning lämnar SKI kostnadsberäkningen till<br>regeringen med ett eget yttrande samt ett förslag till grundbelopp. I<br>samband därmed bör de framtida kostnaderna diskonteras på samma sätt<br>som gäller i samband med avgiftsberäkningen.</p>
+<p>Beräkningen bör utföras vaije år i anslutning till beräkningen av<br>kostnaderna för den årliga avgiften. Grundbeloppet bör fördelas mellan<br>tillståndshavama på liknande sätt som nu sker i samband med att de<br>årliga avgifterna fastställs.</p>
+<p>Till skillnad mot det belopp, som efter kostnadsberäkning ligger till<br>grund för att fastställa den årliga avgiften, omfattar grundbeloppet således<br>endast kostnader för det avfall som producerats t.o.m. ett visst år. Ju<br></p>
+<p>1995/96:83</p>
+<p>20</p>
+<p>närmare man kommer det år en viss reaktor gått i 25 år (intjänandeti- Prop. 1995/96:83<br>den), desto mindre blir skillnaden mellan dessa båda belopp. Om en<br>reaktor går mer än 25 år är grundbeloppet och beloppet för att bestämma<br>den årliga avgiften lika. De omfattar alla framtida kostnader för det<br>avfall som producerats vid en viss aktuell tidpunkt.</p>
+<h3>6.2 Säkerheter för att säkerställa finansieringen av omhän-<br>dertagandet om fondbehållningen visar sig otillräcklig efter<br>det att samtliga reaktorer ställts av (säkerhetsbelopp II)</h3>
+<p>För att beakta riskerna för att fondbehållningen efter det att samtliga<br>reaktorer ställts av skulle visa sig vara otillräcklig för finansieringen av<br>omhändertagandet av det använda kärnbränslet och kärnavfallet m.m. bör<br>reaktorinnehavaren ställa godtagbara säkerheter som täcker en sådan brist<br>i fonden (säkerhetsbelopp II). Även om fonduppbyggnaden skett som<br>planerat kan en sådan brist i fonden uppstå om vissa åtgärder visar sig<br>vara dyrare än planerat, om delar av åtgärdsprogrammet måste vidtas<br>tidigare än beräknat eller om den realränta som antagits i samband med<br>avgiftssättningen visar sig vara en överskattning av den ränta som i<br>verkligheten erhållits på de fonderade medlen.</p>
+<p>Om det skulle visa sig vara lämpligt bör en successiv uppbyggnad av<br>säkerhetsbelopp II kunna ske. Skälet för en successiv uppbyggnad skulle<br>kunna vara att den fondbrist som eventuellt kan uppkomma ligger långt<br>fram i tiden mot bakgrund av att vissa omfattande åtgärder inte planeras<br>förrän efter år 2000. Storleken av säkerhetsbelopp II bör även bestämmas<br>med hänsyn till i vilken takt som kärnkraftverken ställs av mot bakgrund<br>av att beloppets storlek i viss mån bestäms av möjligheterna till ökat<br>avgiftsuttag från reaktorinnehavama.</p>
+<p>Reaktorinnehavama bör ställa säkerheter motsvarande säkerhetsbelopp</p>
+<p>II även efter det att samtliga reaktorer vid ett kärnkraftverk ställts av.<br>Reaktorinnehavamas ansvar enligt kämtekniklagen för att ta om hand och<br>slutförvara använt kärnbränsle och kärnavfall kvarstår ju även om driften<br>av kärnkraftverket har upphört.</p>
+<p>En löpande prövning av säkerhetsbelopp II innebär att omfattningen av<br>säkerhetsbeloppen kommer att variera med den riskbedömning som görs<br>vid olika tidpunkter. Säkerhetsbelopp II kan därför komma att minska om<br>programmet för omhändertagande av använt kärnbränsle och kärnavfall<br>fortskrider planenligt. Det kan också komma att öka till följd av obeak-<br>tade händelser. En löpande prövning gör det möjligt att säkerställa att<br>realvärdet av säkerhetsbelopp II bevaras över tiden.</p>
+<p>Storleken av säkerhetsbelopp II bör bestämmas med utgångspunkt i ett<br>för ändamålet beräknat belopp som omfattar kostnader för tillkommande<br>åtgärder som beror på oplanerade händelser. Detta belopp benämns<br>tilläggsbelopp.</p>
+<p>I likhet med vad som föreslagits beträffande beräkningen av grundbe-<br>loppet skall reaktorinnehavaren i samråd med övriga reaktorinnehavare<br>beräkna storleken av tilläggsbeloppet. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2j</p>
+<p>Kostnadsberäkningen skall lämnas in till SKI som granskar denna. Med<br></p>
+<p>utgångspunkt i sin granskning lämnar SKI kostnadsberäkningen till Prop. 1995/96:83<br>regeringen med ett eget yttrande samt ett förslag till tilläggsbelopp. I<br>samband därmed bör de framtida kostnaderna diskonteras på samma sätt<br>som gäller i samband med avgiftsberäkningen. Tilläggsbeloppet bör<br>fördelas mellan tillståndshavama på liknande sätt som nu sker i samband<br>med att de årliga avgifterna fastställs.</p>
+<p>Beräkningen bör utföras vaije år i anslutning till beräkningen for kost-<br>naderna för den årliga avgiften.</p>
+<h3>6.3 &nbsp;Fullgoda säkerheter</h3>
+<p>Säkerheterna, säkerhetsbelopp I och II, skall prövas av regeringen eller<br>den myndighet som regeringen bestämmer. Reaktorinnehavama skall<br>ställa säkerheterna till den myndighet som regeringen bestämmer som har<br>att förvalta dessa.</p>
+<p>Säkerheter som normalt bör kunna godkännas är kreditförsäkringar,<br>borgensåtaganden eller fastighetsinteckningar. Även andra säkerheter som<br>prövas lämpliga skall kunna komma ifråga. Regeringen eller den<br>myndighet regeringen bestämmer skall ha rätt att löpande kunna ompröva<br>formen för säkerheten och kräva ny typ av säkerhet, t.ex. realsäkerhet<br>i stället for ett borgensåtagande, om detta skulle visa sig vara motiverat.<br>En sådan anledning till omprövning skulle kunna vara förändringar i<br>ägarbilden beträffande reaktorinnehavaren eller den juridiska person som<br>svarar för en säkerhet. Det får antas att det är ägaren som i flera fall<br>kommer att behöva ställa säkerheter, eftersom reaktorinnehavarens<br>tillgångar i flera fall består av kärnkraftverket och vad dess produktion<br>kan generera. Emellertid ligger det i sakens natur att verken som sådana<br>inte kan utgöra säkerhet i någon form för de ändamål som anges i lagen,<br>varför en uttrycklig regel om detta föreslås. Det sagda innebär att<br>pantförskrivning av den fastighet som kärnkraftverket är tillbehör till inte<br>kan godtas som säkerhet.</p>
+<h3>6.4 &nbsp;Beräkning av den årliga avgiften</h3>
+<p>Liksom vad som nu gäller enligt finansieringslagen skall reaktorinneha-<br>vama vaije år i samråd med övriga reaktorinnehavare beräkna kost-<br>naderna för att ta hand om den mängd använt kärnbränsle och kärnavfall<br>m.m. som genereras vid en drift av reaktorerna i 25 år (&quot;intjänandeti-<br>den&quot;), eller om reaktorn går mer än 25 år, den avfallsmängd som då<br>producerats. På samma sätt som nu bör kostnaderna diskonteras vid<br>avgiftsberäkningen. Beräkningarna skall leda fram till ett belopp, som är<br>avsett att ligga till grund för att fastställa den årliga avgiften till fonden.<br>Beloppet för avgiftsunderlaget bör anges som odiskonterade kostnader i<br>årets penningvärde och bör fördelas mellan tillståndshavama på<br>motsvarande sätt som idag.</p>
+<p>Avgiftens storlek bör som hittills bedömas med utgångspunkt i de<br>framtida elleveransema samt den reala förräntningen av fondbehåll-</p>
+<p>22</p>
+<p>ningen. Summan av fondbehållningen och nuvärdet av framtida intäkter<br>under 25 års drift, eller om reaktorn drivits i mer än 25 år, året för<br>beräkningen, skall motsvara nuvärdet av framtida kostnader.</p>
+<p>I beloppet för avgiftsunderlag bör dock inte ingå påslag för mindre<br>troliga händelser som kan tänkas påverka utformningen av nya an-<br>läggningar. Det slaget av osäkerheter hanteras i stället vid beräkningen<br>av tilläggsbeloppet. Den ändrade förvaltning av fondmedlen som föreslås<br>kan komma att medföra att variationerna i fondens marknadsvärde kan<br>bli större över tiden än vad som är fallet är idag. Detta är en viktig<br>faktor att ta hänsyn till i samband med avgiftssättningen. För att inte<br>skapa onödiga förändringar i avgiftsnivån bör någon form av långsiktig<br>bedömning av fondbehållningen läggas till grund för avgiftssättningen.</p>
+<p>Beräkningen skall lämnas in till den myndighet som regeringen<br>bestämmer, (för närvarande är det SKI), som granskar den gjorda<br>kostnadsberäkningen. Med utgångspunkt i sin granskning lämnar SKI den<br>gjorda beräkningen till regeringen med ett eget yttrande samt ett förslag<br>till avgift för nästkommande kalenderår.</p>
+<p>Regeringen eller den myndighet regeringen bestämmer fastställer<br>avgiftens storlek för nästföljande kalenderår.</p>
+<p>Prop. 1995/96:83</p>
+<h3>6.5 Realräntan</h3>
+<p>En viktig faktor vid beräkningen av den avgift som reaktorinnehavama<br>skall betala in till staten, är den förväntade reala förräntningen av<br>fondmedlen. Med realränta avses den förräntning som erhålls sedan<br>hänsyn tagits till inflationstakten.</p>
+<p>Avgifterna enligt finansieringslagen har beräknats från förutsättningen<br>att medel kommer att avsättas fram t.o.m. 25 år efter det att en reaktor<br>togs i drift och behöva utnyttjas t.o.m. 2050-talet, alltså under en<br>tidsrymd av sammanlagt ca 60 år. Den reala förräntning som genomsnitt-<br>ligt kan uppnås på avsatta medel har därför mycket stor betydelse när det<br>gäller bidraget till finansieringen av de framtida utbetalningarna.<br>Avkastningen på fonderade medel kan under olika realränteantaganden<br>beräknas svara för mellan en fjärdedel och ca hälften av det framtida<br>kapitalbehovet.</p>
+<p>Realränteantagandet speglar ett genomsnittsvärde över en mycket lång<br>period framåt i tiden. Det gäller därför att på grundval av historiskt<br>material göra en så god prognos som möjligt på den reala avkastning<br>fonduppbyggnaden kan väntas medföra.</p>
+<p>Kämbränslefondutredningen fick i uppdrag att föreslå vilka real-<br>räntemått som bör användas vid beräkningen av avgiften enligt finan-<br>sieringslagen. Utredningen kommer därvid fram till att det inte är möjligt<br>att fastställa något fast realräntemått.</p>
+<p>Kämkraftinspektioncn tillämpar för närvarande antagandet att den reala<br>avkastningen för perioden fram till år 2050 uppgår till 2,5 % per år.<br>Kämbränslefondutredningen noterar i sitt betänkande att realräntans<br>utveckling under 1900-talet kännetecknats av stora variationer. Real-<br>räntan har under 1900-talet varit negativ under flera perioder. 1970-talet<br></p>
+<p>är ett exempel på en sådan period. 1980-talet och början av 1990-talet Prop. 1995/96:83<br>utgör å andra sidan exempel på en längre period med synnerligen hög<br>realränta. Det är också under denna period som de aktuella medlen varit<br>fonderade och uppburit avkastning.</p>
+<p>I en underlagsrapport till utredningen från kapitalförvaltningsav-<br>delningen vid Sparbanken Sverige anges som ett referensfall en lång real-<br>ränta i storleksordningen 2-2,5 % för åren fram till 2010. På ännu längre<br>sikt skisseras att långa realräntor skulle ligga kring 2 % per år.</p>
+<p>I pensionsarbetsgruppens betänkande (SOU 1994:20) &quot;Reformerat<br>pensionssystem&quot; anges som ett försiktigt scenario att realräntan och den<br>ekonomiska tillväxten skulle vara ca 1,5 % per år i genomsnitt under<br>perioden 1995-2050.</p>
+<p>Med böljan i april månad 1994 började Riksgäldskontoret ta upp lån<br>genom s.k. realränteobligationer på den svenska marknaden. Den<br>förväntade genomsnittliga realräntan under tjugoårsperioden fram till år<br>2014 skulle enligt detta utfall på obligationsmarknaden ligga runt 4 % per<br>år.</p>
+<p>Fondmedlens realavkastning är beroende av hur medlen är placerade.<br>Antaganden om en långsiktig real avkastning på fondmedlen bör därför<br>utgå från hur medlen är placerade. I det följande kommer regeringen att<br>föreslå en ny organisation för förvaltningen av fondmedlen. En lämplig<br>ordning när det gäller att bestämma vilket realräntemått som lämpligen<br>bör användas är att den föreslagna nya organisationen årligen lämnar en<br>rekommendation till SKI om vilket realränteantagande som bör användas<br>vid avgiftsberäkningen.</p>
+<h3>6.6 Återbetalning av fondmedel</h3>
+<p>Sedan det använda bränslet och kärnavfallet placerats i ett slutförvar som<br>tillslutits och reaktoranläggningen avvecklats och rivits är det möjligt att<br>det faktiskt återstår fondmedel. Skulle en sådan situation inträffa föreslår<br>regeringen att reaktorinnehavama får rätt till återbetalning av resterande<br>fondmedel. Regeringen bör även ha möjlighet att medge tidigare<br>återbetalning om kostnaderna för åtgärderna är lägre än vad som antagits<br>och fondbehållningen är av sådan omfattning att en återbetalning inte<br>bedöms innebära någon risk för framtida brist på fondmedel.</p>
+<p>Tillståndshavama bör få rätt till återbetalning i relation till deras andel</p>
+<p>i fonden.</p>
+<p>24</p>
+<h2>7 En säkrare förvaltning av fondmedlen</h2>
+<p>Regeringens förslag: Den nuvarande regeln i finansieringslagen<br>med krav på inlåning i Riksbanken slopas. Lagen kompletteras med<br>en regel som innebär att avgiftsmedlen skall överföras till en<br>särskild fond benämnd Kämavfallsfonden. Fondens medel skall<br>placeras i Riksgäldskontoret.</p>
+<p>Utredningens förslag: Fonden skall ledas av en styrelse med ansvar<br>för att förvalta fondmedlen. Fondstyrelsen utses av regeringen. Fondsty-<br>relsen ges möjlighet att genom en friare förvaltning öka fondens<br>avkastning genom att placera medlen i aktier, obligationer och andra<br>finansiella instrument. Regler med särskilda restriktioner för hur<br>Kämavfallsfondens medel får placeras införs i finansieringslagen.</p>
+<p>Remissinstanserna: Utredningens förslag tillstyrktes eller godtogs i<br>stort sett av remissinstanserna.</p>
+<p>Skälen för regeringens förslag: Regeringen delar utredningens<br>bedömning att medlen som är avsatta enligt finansieringslagen inte bör<br>vara placerade på konto i Riksbanken. De närmare skälen för detta<br>ställningstagande fiamgår av kapitel 5.</p>
+<p>Utredningen övervägde två olika alternativ som kan tillgodose högt<br>ställda krav på säker och real avkastning; dels inlåning till real av-<br>kastning i Riksgäldskontoret, dels en friare förvaltning av medlen.<br>Utredningen valde det senare förslaget eftersom det innebar möjligheter<br>till en långsiktigt hög avkastning. Den högre avkastningen skulle enligt<br>utredningen uppnås genom placering av medlen i skuldförbindelser med<br>låg kreditrisk, i aktier i Sverige och utomlands eller på konto i Riks-<br>banken och Riksgäldskontoret. Det andra alternativet utredningen<br>studerade, inflationsskyddad inlåning i Riksgäldskontoret, ansågs vara<br>särskilt ägnat för långsiktiga placeringar av medel av ifrågavarande slag.<br>Utredningen fann emellertid att Riksgäldskontorets realränteinlåning var<br>för ny, att villkoren inte gick att specificera och alternativet därför var<br>för oklart till sitt innehåll. Alternativet med inflationsskyddad och riskfri<br>inlåning i Riksgäldskontoret ansågs ändå kunna ha väsentliga fördelar och<br>man förordade därför att regeringen ytterligare lät undersöka möjlig-<br>heterna till detta alternativ.</p>
+<p>En förutsättning för att Riksgäldskontoret skall kunna erbjuda en<br>inflationsskyddad inlåning är att kontoret kan fastställa en marknads-<br>mässig ränta. En sådan erhålles normalt via en väl fungerande real-<br>ränteobligationsmarknad. Riksgäldskontoret har hittills emitterat två<br>obligationslån med en återstående löptid på 9 respektive 19 år. Kontoret<br>uppger sig numera ha goda erfarenheter av sina emissioner. Efterfrågan<br>på realränteobligationer är dock fortfarande förhållandevis svag, men det<br>kan förklaras av att det finns trögheter i systemen och att kunskapen om<br>reallånens fördelar ännu inte vunnit insteg. Mot bakgrund av att<br>marknaden expanderar och att reala investeringar fyller en viktig<br>ekonomisk funktion för långsiktiga placeringar är det emellertid rimligt<br></p>
+<p>Prop. 1995/96:83</p>
+<p>25</p>
+<p>att anta att Sveriges marknad utvecklas åt ett positivt håll. En marknad Prop. 1995/96:83<br>for realränteobligationer existerar idag och den marknaden är tillräckligt<br>utvecklad för att det skall vara fullt möjligt att prissätta inlåning till real<br>avkastning för de medel som behandlas i detta sammanhang. Priser kan<br>alltså ställas även för löptider som inte är noterade på marknaden. Detta<br>innebär att fonden får tillgång till reala placeringar i större utsträckning<br>än vad som kunde erbjudas när utredningen lade sitt förslag. Det kan<br>således konstateras att alternativet med inlåning i Riksgäldskontoret<br>numera blivit praktiskt genomförbart.</p>
+<p>Både utredningens förslag och en inlåning i Riksgäldskontoret förväntas<br>ge en högre avkastning än den nuvarande inlåningen i Riksbanken och<br>möjliggör placeringar som skyddar mot inflationsrisken. Det kan hävdas<br>att fondaltemativet ger den högsta avkastningen på sikt genom en aktiv<br>förvaltning med placering i aktier och annat än statsgaranterade<br>obligationer. En sådan avkastning är emellertid vad placeraren får i<br>ersättning för att han är villig att ta en högre risk i förhållande till den<br>som enbart placerar i statsgaranterade värdepapper. Avkastningen i detta<br>alternativ kan således förväntas vara högre därför att risknivån är högre.<br>Vid valet av förvaltningsform måste denna risk vägas mot de åtaganden<br>som lagstiftningen skall garantera. I sammanhanget måste påpekas att<br>risken för att pengar inte finns för framtida ändamål ytterst är en risk<br>som staten tar. I första hand är det emellertid reaktorinnehavaren som har<br>att svara för de kostnader som uppstår och staten som har det omedelbara<br>ansvaret för att avgiftsmedlen förvaltas väl. Vidare är det allmänna<br>samhällsintresset mycket stort för att medlen finns tillgängliga när<br>tidpunkten för de stora investeringarna infäller. Dessa förhållanden talar<br>för att det är olämpligt att låta förvalta medlen med risk. Möjligheten till<br>högre avkastning är underordnad de säkerhetskrav som ställs på dessa<br>medel. Allmänt kan sägas att medel som skall skyddas från urholkning<br>av kapitalet till följd av inflation, eller som skall säkerställa en viss<br>framtida konsumtion som kan förväntas vara knuten till konsument-<br>prisernas utveckling är särskilt lämpade för reala placeringar. Investe-<br>ringarna för kärnavfallets slutförvar är mycket långsiktiga och passar väl<br>in på denna beskrivning. Det talar för att real inlåning i Riksgäldskonto-<br>ret är att föredra framför utredningens förslag med högre risk och en<br>oförutsägbar avkastning. Inlåning i Riksgäldskontoret är riskfri och kan<br>därjämte ge en förutsägbar real avkastning. Förutsägbarheten har<br>dessutom ett egenvärde vid avgiftsberäkningen och vid likviditetsplane-<br>ringen.</p>
+<p>En annan, ur samhällsekonomisk synvinkel, positiv bieffekt som följer<br>med denna lösning är att statens upplåningsbehov kommer att minska i<br>motsvarande mån som inlåningen i Riksgäldskontoret ökar. Mot<br>bakgrund av den statsfinansiella situationen är denna verkan naturligtvis<br>positiv. En placering hos Riksgäldskontoret av medel som inbetalats<br>enligt finansieringslagen ändrar inte i något avseende de förutsättningar<br>för medlens användande som följer av denna lag och som riksdagen<br>beslutat.</p>
+<p>Regeringen föreslår således att medlen som är avsatta enligt lagen &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;26</p>
+<p>placeras hos Riksgäldskontoret. Finansieringslagen kompletteras med en<br></p>
+<p>regel som innebär att avgiftsmedlen förs över till en särskild fond Prop. 1995/96:83<br>benämnd Kämavfallsfonden, vars medel skall placeras hos Riksgäldskon-<br>toret. Fonden skall ledas av en styrelse, utsedd av regeringen, med<br>ansvar för att förvaltningen tillgodoser kraven på långsiktigt god<br>avkastning och tillfredsställande betalningsberedskap. Den skall således<br>ta ett aktivt ansvar för förvaltningen och bestämma lämplig kombination<br>av inlåning i Riksgäldskontoret. Dess funktion blir främst att utgöra<br>förhandlingspart gentemot Riksgäldskontoret som skall &quot;tillhandahålla<br>sådan utlåning som riksdagen har beslutat om och ta emot medel på<br>konto. Målet för denna verksamhet skall vara att ge i första hand andra<br>statliga myndigheter lån och placeringsmöjligheter till så goda villkor<br>som möjligt, utan att myndigheternas verksamheter subventioneras.&quot;<br>(Riksgäldskontorets instruktion 1 § andra punkten).</p>
+<p>Styrelsen bör inte enbart vara hänvisad till real inlåning utan skall<br>kunna välja inlåning i nominella termer om det bedöms ge bättre<br>avkastning eller av andra skäl. För inlåning med kort löptid kan t. ex.<br>nominell inlåning vara att föredra eftersom det då är enklare att bedöma<br>inflationsutvecklingen.</p>
+<p>I styrelsen bör ingå personer med god sakkunskap inom finansiell<br>ekonomi, det aktuella ämnesområdet och samhällslivet i övrigt. Styrelsen<br>bör begränsas till att bestå av högst sju ledamöter i syfte att nå en så<br>effektiv beslutskapacitet som möjligt.</p>
+<p>Kämavfallsfonden, som denna nya myndighet lämpligen kan benämnas,<br>torde behöva endast en liten organisation till sitt förfogande för admini-<br>strativa tjänster. Dessa tjänster kan troligen med fördel skötas av ett<br>redan existerande organ.</p>
+<p>Kämavfållsfondens uppgift bör omfatta enbart förvaltning av fondmed-<br>len och inte omfatta några myndighetsuppgifter i övrigt. Statens käm-<br>kraftinspektion bör alltså även i fortsättningen pröva frågor om avgifter<br>och om användningen av avgiftsmedel. SKI bör därvid ha rätt att begära<br>utbetalning av medel för de ändamål de är avsedda för. Samtidigt bör<br>emellertid Kämavfallsfonden kunna kräva att SKI regelbundet inkommer<br>med utbetalningsplaner på olika sikt och i övrigt lämnar de upplysningar<br>som är ändamålsenliga för en effektiv fondförvaltning. I sammanhanget<br>kan nämnas att regeringen avser att avvakta med överväganden<br>beträffande SKI:s tillsynsroll tills efter det att den internationella<br>granskningen av den svenska tillsynsverksamheten på reaktorsäkerhets -<br>och kämavfallsområdena lagt sitt betänkande (M 1994:02, dir. 1994:21).</p>
+<p>27</p>
+<h2>8 Statens kostnader m.m.</h2>
+<p>Prop. 1995/96:83</p>
+<p>Regeringens förslag: Statens råd för kämavfallsfrågor (KASAM)<br>skall finansieras genom finansieringslagen. Statens, reaktorinneha-<br>varnas och kommunernas kostnader för information till allmän-<br>heten i frågor som rör hantering och slutförvaring av använt<br>kärnbränsle och kärnavfall skall också finansieras genom finan-<br>sieringslagen.</p>
+<p>Remissinstanserna: Närmast berörda remissinstanser har förklarat sig<br>inte ha några invändningar mot regeringens förslag.</p>
+<p>Skälen för regeringens bedömning och förslag: Som redan betonats<br>skall intäkterna från kämkraftproduktionen täcka samtliga kostnader som<br>har samband med de restprodukter som verksamheten har gett upphov<br>till. Även statens kostnader skall täckas. Det är fråga om kostnader för<br>att komplettera reaktorinnehavamas forsknings- och utvecklingsarbete,<br>för att pröva frågor om avgiftens storlek och användning och för att<br>pröva frågor om övervakning och kontroll av slutförvar. Det arbete som<br>föranleder dessa statens kostnader utförs till stor del av SKI.</p>
+<p>SKI är den centrala förvaltningsmyndighet som har till uppgift att<br>övervaka säkerheten vid kärnteknisk verksamhet på olika sätt, bland<br>annat genom att initiera forskning och utveckling som rör säkerhetsfrågor<br>inom området. Verksamheten, som till övervägande del är avgiftsfinan-<br>sierad, är uppdelad på olika program, varav ett rör kämavfallssäkerhet.</p>
+<p>Den statliga organisationen på kämavfallsområdet har ändrats vid flera<br>tillfällen. Senast skedde det år 1992, då SKI övertog en del av Statens<br>Kämbränslenämnds (SKN) uppgifter. SKN upphörde samtidigt som<br>statlig myndighet. En annan del av SKN:s verksamhet övertogs samtidigt<br>av Statens råd for kämavfallsfrågor (KASAM), nämligen den att granska<br>den forsknings- och utvecklingsverksamhet som bedrivs av SKB och att<br>var tredje år avge rapport till regeringen. I den proposition som föregick<br>riksdagens beslut om omorganisation (prop. 1991/92:99, bet. 1991/92:-<br>NU22, rskr. 1991/92:226) betonades KASAM:s fristående ställning.<br>Vidare framhölls behovet av ett statligt organ med uppgift att övervaka<br>det vetenskapliga arbetet beträffande metod och plats för ett slutförvar för<br>det använda kärnbränslet och kärnavfallet. KASAM, som före år 1992<br>var knuten till SKN som ett vetenskapligt råd, organiserades som en<br>kommitté att finansieras via utredningsanslagen. Enligt direktiven (dir.<br>1992:72) har KASAM till uppgift - förutom den ovan nämnda - att som<br>särskild kommitté med vetenskaplig inriktning självständigt bedöma<br>kunskapsläget på kämavfallsområdet och att lämna råd i ärenden med<br>anknytning till kämavfallsområdet till Statens kämkraftinspektion och<br>Statens strålskyddsinstitut. I mån av behov och tillgång på medel skall<br>kommittén få företa utrikes resor och anordna seminarier kring över-<br>gripande frågor inom kämavfållshanteringen.</p>
+<p>Ledamöterna i KASAM håller hög vetenskaplig nivå, representerar ett<br>flertal vetenskapliga discipliner och har anlagt ett brett samhällsveten-<br></p>
+<p>28</p>
+<p>skapligt perspektiv på frågor kring kärnavfall och slutförvar. Med hänsyn Prop. 1995/96:83<br>till innehållet i KASAM:s vetenskapliga verksamhet omfattas den i<br>princip av reaktorinnehavamas kostnadsansvar. Kostnaden för KASAM<br>utgör således en kostnad för staten enligt 4 § 1 punkten finansieringsla-<br>gen. Denna kostnad uppgår till ca 1,8 miljoner kronor årligen.</p>
+<p>Det finns knappast några sakliga skäl att göra en åtskillnad mellan SKI<br>och KASAM vad gäller verksamheternas finansiering. Ovannämnda<br>principer vad avser kämkraftsproduktionens kostnadsansvar bör därför<br>tillämpas även beträffande KASAM:s verksamhet. Även statsfinansiella<br>skäl talar starkt för denna lösning. KASAM:s fristående ställning torde<br>garanteras inte minst genom dess unika sammansättning. Den föreslagna<br>ändringen i fråga om KASAM :s finansiering ändrar i sak inget övrigt<br>beträffande KASAM.</p>
+<p>Som angetts under kapitel 4 används i dag avgiftsmedel för SKB:s<br>informationsinsatser avseende den avgiftsfinansierade verksamheten. SKI<br>och SSI har under en lång följd av år på olika sätt informerat allmän-<br>heten i frågor som rör hantering och slutförvaring av använt kärnbränsle<br>och kärnavfall. Även KASAM:s verksamhet består till en inte obetydlig<br>del av information till allmänheten. Regeringen har dessutom genom<br>beslut den 27 januari 1994 och 18 maj 1995 gjort det möjligt att bl.a. låta<br>kommuner erhålla avgiftsmedel<br>frågor.</p>
+<p>Frågor som rör slutförvar av<br>flera avseenden komplicerade<br></p>
+<p>allmänheten ges insyn i och information om den verksamhet som i landet<br>bedrivs på kärnenergiområdet har fått förnyad aktualitet i samband med<br>att SKB påböijat arbetet med att finna platser lämpliga for slutförvar. Det<br>finns mot denna bakgrund särskilda skäl att i de kommuner där undersök-<br>ningsarbeteten avseende slutförvaret pågår lokalt kunna lämna in-<br>formation till allmänheten.</p>
+<p>för att informera allmänheten i dessa</p>
+<p>använt kärnbränsle och kärnavfall är i<br>och svårbedömbara. Vikten av att</p>
+<p>Det bör klart komma till uttryck i lagtexten att nämnda verksamheter<br>omfattas av kostnadsansvaret enligt kämtekniklagen och finansieringsla-<br>gen. Reaktorinnehavares, statens och kommuners informationsinsatser till<br>allmänheten bör således finansieras genom avgiftsmedlen.</p>
+<h2>9 Studsvikslagen</h2>
+<p>Regeringens förslag: Lagen (1988:1597) om finansiering av<br>hanteringen av visst radioaktivt avfall m.m. (Studsvikslagen)<br>kompletteras, i likhet med vad som föreslås om finansieringslagen,<br>med en regel som innebär att avgiftsmedlen skall förvaltas på<br>samma sätt som fonderade medel enligt finansieringslagen.</p>
+<p>Remissinstanserna: Remissinstanserna har inte haft någon erinran mot<br>regeringens förslag.</p>
+<p>29</p>
+<p>Skälen för regeringens förslag: Enligt Studsvikslagen betalar de fyra Prop. 1995/96:83<br>reaktorinnehavama i Sverige en avgift till staten som ett bidrag till<br>kostnaderna för den verksamhet som bedrivits vid Studsvik AB och som<br>har samband med framväxten av det svenska kämkraftprogrammet.<br>Avgiften skall täcka kostnader för bl. a. dekontaminering och ned-<br>läggning av forskningsreaktorema i Studsvik, kraftvärmereaktom i<br>Ågesta och vissa andra kärntekniska anläggningar i Studsvik. Vidare<br>avser avgiften kostnader för hantering och slutförvaring av kärnavfall och<br>bränslerester som härrör från samarbetet med kämkraftföretagen.</p>
+<p>Avgiften utgår enligt lagen med 0,15 öre per levererad kilowattimme<br>elström från kärnkraftverken. Medlen sätts enligt en regel i förordningen<br>till lagen in på ett räntebärande konto i Riksbanken. SKI beslutar om<br>utbetalningar från detta konto.</p>
+<p>De betalningsskyldiga skall vaije år lämna in en beräkning till SKI över<br>kostnaderna för den verksamhet som lagen avser. SKI skall senast den<br>1 september vaije år anmäla till regeringen om avgiften behöver ändras.</p>
+<p>Reaktorinnehavama har gemensamt bildat bolaget AB SVAFO för att<br>ansvara for hanteringen av den aktuella verksamheten.</p>
+<p>De fonderade avgiftsmedlen (Studsviksfonden) uppgick den 1 januari<br>1995 till ca 81 miljoner kronor. I syfte att öka avkastningen bör dessa<br>medel förvaltas på samma sätt som nu föreslås beträffande de medel som<br>betalas in enligt finansieringslagen.</p>
+<h2>10 Författningskommentar</h2>
+<h3>10.1 Förslaget till lag om ändring i lagen (1992:1537) om<br>finansiering av framtida utgifter för använt kärnbränsle m.m.</h3>
+<p>1 §</p>
+<p>Paragrafen har kompletterats med en hänvisning till skyldigheten att ställa<br>säkerheter för de kostnader för omhändertagande som inte täcks av<br>inbetalade avgiftsmedel. Vad omhändertagande omfattar definieras i 2 §.<br>Eftersom det i 4 § föreslås att även andra kostnader än statens skall<br>ersättas har hänvisats till vissa kostnader. Skyldigheten att ställa säkerhet<br>ankommer - liksom skyldigheten att betala avgifter - på reaktorinnehava-<br>ren.</p>
+<p>1 a §</p>
+<p>Paragrafen är ny. Första stycket motsvaras av nuvarande 7 § första<br>meningen. Andra meningen innehåller en bestämmelse om att avgiftsmed-<br>len skall överföras till en särskild fond, Kämavfallsfonden.</p>
+<p>2 §</p>
+<p>Paragrafen har kompletterats med hänsyn till skyldigheten att ställa<br>säkerheter. Ramen för kostnadsansvaret för omhändertagande som<br>reaktorinnehavaren svarar för har inte ändrats.</p>
+<p>2 a §&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Prop. 1995/96:83</p>
+<p>Paragrafen är ny och behandlar skyldigheten att ställa säkerheter för</p>
+<p>kostnader som inte täcks av avgiftsmedel. Enligt första stycket skall<br>reaktorinnehavaren till den myndighet som regeringen bestämmer ställa<br>fullgoda säkerheter som motsvarar de kostnader för omhändertagande<br>som avses i 3 § första stycket 2 och 3. Säkerheter behöver dock inte<br>ställas för belopp som täcks av reaktorinnehavarens andel av medlen i<br>Kämavfallsfonden. Således behöver säkerheter för grundbeloppet i 3 §<br>första stycket 2 ställas endast om kostnaderna som utgör grundbeloppet<br>överstiger reaktorinnehavarens andel av medlen i Kämavfallsfonden.<br>Tilläggsbeloppet i 3 § första stycket 3 täcks däremot inte av avgifts-<br>medel. De kostnader som ingår i tilläggsbeloppet måste därför alltid<br>motsvaras av ställda säkerheter.</p>
+<p>Med fullgoda säkerheter avses t. ex. borgen, kreditförsäkringar och<br>fästighetsinteckningar. Det ligger i sakens natur att den kärntekniska<br>verksamheten inte bör användas som säkerhet i någon form. En uttrycklig<br>regel har därför tagits in i andra stycket om att en fastighet på vilken det<br>bedrivs kärnteknisk verksamhet inte får utgöra säkerhet. Att föreskriva<br>att kärnkraftverket eller någon verksamhet med sådan anknytning inte<br>heller får utgöra säkerhet får anses överflödigt.</p>
+<p>I tredje stycket anges att regeringen eller den myndighet som regering-<br>en bestämmer skall pröva säkerheterna. I denna prövning ligger att<br>bedöma om säkerheterna som sådana är godtagbara, tillräckliga till<br>belopp och om den beräkning avseende grundbelopp och tilläggsbelopp<br>som lämnats av reaktorinnehavaren enligt 3 § kan godtas. Åtminstone<br>inledningsvis bör denna prövning utföras av regeringen, som erhåller ett<br>underlag för prövningen från SKI eller annan myndighet. Normalt bör<br>en sådan prövning äga rum vaije år sedan kostnadsberäkningen enligt 3 §<br>getts in. Det kan vid prövningen av säkerheter även framkomma att<br>säkerheterna uppgår till för högt belopp. I sådana fall får de säkerheter<br>som inte behövs återlämnas alternativt sättas ned. Hur säkerheternas<br>storlek kan komma att variera över tiden finns närmare beskrivet i avsnitt<br>6.1 och 6.2.</p>
+<p>3 §</p>
+<p>Paragrafen reglerar innehållet i den kostnadsberäkning som årligen skall<br>lämnas av reaktorinnehavama och som ligger till grund för avgiftsbe-<br>räkningen såvitt gäller kostnader för omhändertagande.</p>
+<p>Första stycket har kompletterats så att det framgår att kostnadsbe-<br>räkningen skall omfatta tre olika belopp. Dessa belopp ligger till grund<br>för beräkningen av avgiften och for att bestämma hur stora säkerheter<br>som krävs. Enligt punkt 1 skall kostnaderna för samtliga åtgärder som<br>kan behövas då reaktorn drivits i 25 år redovisas, med tillägg för de<br>årliga kostnader som tillkommer om reaktorn drivs en längre tid. Detta<br>belopp för avgiftsunderlag omfattar samtliga de kostnader för omhän-<br>dertagande som anges i 2 §. Beräkningssättet med en intjänandetid på 25<br>år motsvarar det som i dag används i praktiken när underlaget tas fram<br>för beslut om avgifternas storlek. I motsats till vad som gäller i dag skall &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;31</p>
+<p>dock skäliga kostnader för tillkommande åtgärder som beror på oplanera-<br></p>
+<p>de händelser redovisas separat som ett tilläggsbelopp enligt punkt 3. Prop. 1995/96:83<br>Härmed avses inte mindre fördyringar som erfarenhetsmässigt ofta<br>förekommer vid genomförandet av ett planerat framtida projekt, t.ex.</p>
+<p>normala mindre påslag för ökningar i byggkostnaderna. Sådana påslag<br>bör ingå i beloppet för avgiftsunderlaget. Med oplanerade händelser<br>menas i stället händelser som påverkar planeringen för omhändertagandet<br>på ett mera grundläggande sätt, exempelvis genom att en teknisk lösning<br>som ligger till grund för beräkningarna inte visar sig möjlig att genom-<br>föra i praktiken, utan måste ersättas av en annan lösning. Vissa åtgärder<br>måste kanske tidigareläggas. Det kan också vara fråga om att realräntan<br>blir lägre än vad som antagits vid avgiftsberäkningen. Tilläggsbeloppet<br>omfattar endast skäliga kostnader. En riktlinje för bedömningen av vilka<br>kostnader som bör beaktas är att händelser som visserligen är mindre<br>sannolika men ändå framstår som möjliga skall beaktas vid beräkningen.<br>Det ligger i sakens natur att en ökad säkerhet om vari dessa kostnader<br>och händelser består kommer att nås med tiden. Enligt punkt 2 skall ett<br>grundbelopp redovisas om reaktorn drivits kortare tid än 25 år. Grundbe-<br>loppet beräknas på samma sätt som beloppet för avgiftsunderlaget, men<br>bara det bränsle som har använts när beräkningen sker beaktas och<br>hänsyn tas inte till den framtida bränsleanvändningen. Kostnader för<br>avveckling och rivning av reaktoranläggningen enligt 2 § 2 och för<br>forsknings- och utvecklingsverksamhet enligt 2 § 3 ingår.</p>
+<p>Grundbeloppet och tilläggsbeloppet används för att bestämma hur stora<br>säkerheter som krävs.</p>
+<p>Andra stycket motsvarar det sista ledet i första stycket andra meningen</p>
+<p>i den äldre lydelsen.</p>
+<p>Liksom tidigare gäller enligt tredje stycket att kostnadsberäkningen<br>vaije år skall ses över och lämnas till regeringen eller den myndighet<br>regeringen bestämmer.</p>
+<h4>4 §</h4>
+<p>I paragrafen anges de kostnader som staten har och som skall finansieras<br>med avgiftsmedel. Punkt 2 har kompletterats med statens kostnader för<br>prövning av säkerheter och användning och återbetalning av avgiftsmedel<br>enligt 2 a § tredje stycket och 8 b och 8c § §.</p>
+<p>I paragrafens andra stycke har införts en ny bestämmelse. Medlen i<br>fonden skall också användas för att bekosta Kämavfållsfondens för-<br>valtning, dvs. i huvudsak kostnaden för dess styrelse. Avgiftsmedlen<br>skall framdeles dessutom täcka reaktorinnehavamas, statens och<br>kommunernas kostnader för informationsinsatser som riktar sig till<br>allmänheten. Skälen för detta framgår av avsnitt 8. Bestämmelserna i<br>paragrafen omfattar således inte längre enbart statens kostnader. Det skall<br>vara fråga om information som riktar sig till allmänheten, dvs. personer<br>bosatta i Sverige. Avsikten är emellertid inte att t.ex. organisationer skall<br>kunna erhålla medel för att informera om kämavfallsfrågor. För att<br>kommunerna skall kunna lämna information måste de följa och bedöma<br>frågor om slutförvar. Även dessa kostnader omfattas av stadgandet i den<br>mån de är nödvändiga för att ge information till allmänheten. Frågor om &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;32</p>
+<p>användningen av medlen skall fortfarande ankomma på regeringen eller</p>
+<p>den myndighet som regeringen bestämmer.</p>
+<h4>6 §</h4>
+<p>Paragrafen anger grunderna for hur den årliga avgiften bestäms. Av<br>första stycket framgår att avgiften skall beräknas på grundval av beloppet<br>för avgiftsunderlaget i 3 § första stycket 1 och kostnaderna enligt 4 §.<br>Det följer av det förstnämnda lagrummet att avgiften beräknas på en<br>drifttid som uppgår till 25 år, med tillägg för tillkommande kostnader<br>vaije år om drifttiden är längre. Hänvisningen i lagrummet till reaktorns<br>drifttid har därför tagits bort. Syftningen på statens kostnader enligt 4 §<br>har ändrats eftersom andra stycket nämnda paragraf omfattar även<br>kommuners och reaktorinnehavares informationskostnader, liksom<br>kostnaderna för Kärnavfall sfonden.</p>
+<h4>7 §</h4>
+<p>Innehållet i paragrafen är nytt. Förutvarande första meningen har flyttats<br>till 1 a § medan motsvarigheten till andra meningen återfinns i 7 a §.<br>Enligt första stycket skall Kämavfallsfonden ledas av en styrelse, som<br>skall lämna en årlig redovisning till regeringen om förvaltningen.<br>Styrelsen utses enligt andra stycket av regeringen, som också förordnar<br>om revisorer för granskning av styrelsens förvaltning.</p>
+<p>Den redovisning som lämnas bör förutom sedvanlig årsredovisning och<br>revisionsberättelse innehålla en redovisning av förvaltningen mot<br>bakgrund av de placeringsregler som anges i lagen och i kompletterande<br>föreskrifter.</p>
+<h4>7a §</h4>
+<p>Stadgandet att fondens medel skall placeras hos Riksgäldskontoret<br>innebär att alla de inlåningsformer som kontoret kan erbjuda omfattas av<br>stadgandet. Fonden kan t.ex. välja mellan real och nominell avkastning.</p>
+<p>De grundläggande reglerna för fondförvaltningen anges i andra stycket.<br>Medlen i Kämavfallsfonden skall förvaltas så att kraven på en god<br>avkastning och en tillfredsställande betalningsberedskap tillgodoses. I<br>begreppet god avkastning ligger att fondens totala avkastning skall vara<br>real. I avsnitt 7 anges att Riksgäldskontoret är bundet av sin instruktion<br>och alltså har att ge andra statliga myndigheter lån och placeringsmöjlig-<br>heter till så goda villkor som möjligt, utan att subventionera någon<br>myndighet. Detta gäller naturligtvis även för kontorets förhandlingar med<br>Kämavfallsfonden.</p>
+<p>Eftersom uttag förekommer från fonden för t.ex. investeringar måste<br>styrelsen se till att medel finns tillgängliga då de behövs. Likviditetspla-<br>neringen bör ske i samråd med SKI.</p>
+<p>Sista stycket motsvaras av nuvarande 7 §, sista meningen.</p>
+<h4>7b §</h4>
+<p>Regeringen får meddela ytterligare föreskrifter om Kämavfallsfonden och<br>förvaltningen av medlen. Detalj regler om den löpande förvaltningen bör<br>kunna beslutas av styrelsen själv.</p>
+<p>3 Riksdagen 1995/96. 1 saml. Nr 83</p>
+<p>Prop. 1995/96:83</p>
+<p>33</p>
+<p>8 §&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Prop. 1995/96:83</p>
+<p>I paragrafen anges att det är reaktorinnehavarens andel av medlen i<br>Kämavfallsfonden som skall användas för att bekosta omhändertagandet<br>och vissa andra kostnader. Ändringen innebär ingen ändring i sak utan<br>är föranledd av att avgiften inte längre skall föras till fyra olika konton<br>i Riksbanken. Fondens bokföring och redovisning måste därför utformas<br>så att det alltid står klart hur stor andel av fondmedlen som belöper på<br>vaije reaktorinnehavare. Hänvisningen till kostnaderna enligt 4 § har<br>ändrats av samma skäl som anges i kommentaren till 6 §.</p>
+<h4>8 a §</h4>
+<p>Enligt denna nya bestämmelse skall medel i Kämavfallsfonden som inte<br>behövs för de ändamål som avses i 8 § återbetalas till reaktorinnehava-<br>ren. Återbetalning får dock enligt huvudregeln ske först sedan det<br>använda kärnbränslet och radioaktivt avfall som härrör från detta har<br>placerats i slutförvar samt reaktoranläggningen avvecklats och rivits, dvs.<br>sedan åtgärderna för omhändertagande enligt 2 § i allt väsentligt har<br>genomförts. Om särskilda skäl föreligger får återbetalning ske tidigare.<br>Härmed avses t.ex. då fondmedlen i så hög grad överstiger de verkliga<br>kostnaderna att en återbetalning bedöms kunna ske utan risk.</p>
+<h4>8 b §</h4>
+<p>I paragrafen anges de fall då de säkerheter som lämnats får utnyttjas av<br>staten. Säkerheterna får utnyttjas för att finansiera åtgärder för omhän-<br>dertagande om medlen i Kämavfallsfonden visar sig otillräckliga och<br>åtgärderna inte vidtas av reaktorinnehavaren. Med åtgärder för omhän-<br>dertagande avses de åtgärder som anges i 2 §. Om reaktorn drivs kortare<br>tid än 25 år, får säkerheterna dessutom användas för att tillföra Kämav-<br>fällsfonden medel som motsvarar de avgifter som kan beräknas falla bort<br>på grund av den begränsade drifttiden. Därigenom säkerställs att fonden<br>tillförs medel som motsvarar aktuellt grundbelopp i 3 § första stycket 2.</p>
+<h4>8c§</h4>
+<p>Paragrafen motsvarar delvis förutvarande andra stycket i 8 §. Dessutom<br>har en komplettering skett med hänsyn till de föreslagna reglerna om<br>återbetalning av medel i Kämavfallsfonden.</p>
+<h4>9 §</h4>
+<p>Paragrafen har kompletterats med hänsyn till den nya skyldigheten att<br>ställa säkerhet.</p>
+<h3>10.2 Förslaget till lag om ändring i lagen (1988:1597) om<br>finansiering av hanteringen av visst radioaktivt avfall m.m.</h3>
+<h3>3 §</h3>
+<p>Bestämmelsen kompletteras på så sätt att i lagen anges att avgiftsmedlen<br>skall överföras till Kämavfallsfonden och förvaltas på samma sätt som<br>enligt finansieringslagen. I lagen anges att förvaltningen skall ske<br></p>
+<p>34</p>
+<p>särskilt, eftersom det är fråga om olika medel avsedda for olika ändamål. Prop. 1995/96:83<br>Kämavfallsfondens konstruktion är sådan att vardera reaktorinnehavaren</p>
+<p>har en andel av fonden (8 § finansieringslagen). Studsvikslagen är inte<br>konstruerad på detta sätt. I princip är det alltså firåga om två olika fonder<br>som styrelsen har att förvalta.</p>
+<p>35</p>
+<h2>Sammanfattning av Kärnbränslefondsutredningens<br>betänkande (SOU 1994:107) Säkrare finansiering av<br>framtida kämavfallskostnader</h2>
+<p>Vi föreslår i sammandrag</p>
+<p>* &nbsp;att de medel som inbetalas till staten för att finansiera kostnaderna<br>för hantering och slutförvaring av använt kärnbränsle m.m. fr.o.m.<br>år 1995 placeras enligt riktlinjer som syftar till att uppnå en högre<br>avkastning än vad som i dag är möjligt,</p>
+<p>* &nbsp;&nbsp;att förvaltningen enligt dessa riktlinjer uppdras åt en fristående statlig<br>enhet benämnd Kämavfallsfonden,</p>
+<p>* &nbsp;att Statens kämkraftinspektion också i fortsättningen bl.a. skall pröva<br>frågor om användning av avgiftsmedlen och föreslå avgiftens storlek,<br>och</p>
+<p>* &nbsp;att ett system med kompletterande säkerheter införs fr.o.m. år 1995<br>för att öka tillförlitligheten i finansieringssystemet.</p>
+<p>Våra förslag innebär omfattande ändringar i finansieringslagen. Däremot<br>berörs inte de grundläggande ansvarsreglema enligt kämtekniklagen.</p>
+<h4>Nuvarande finansieringssystem</h4>
+<p>Det nuvarande systemet för finansiering av framtida utgifter för använt<br>kärnbränsle m.m. infördes år 1981 och grundas numera på bestämmelser<br>i dels den s.k. kämtekniklagen (1984:3, omtryckt 1992:1536), dels den<br>s.k. finansieringslagen (1992:1537).</p>
+<p>10-14 §§ kämtekniklagen innehåller de grundläggande bestämmelserna<br>om tillståndshavamas ansvar, inklusive det ekonomiska, for hantering<br>och slutförvaring av kärnavfall. I syfte att säkerställa att medel finns<br>tillgängliga när de olika åtgärderna i programmet för kämavfallshantering<br>skall genomföras, har införts ett system med en särskild avgift till staten.<br>Bestämmelser om detta avgiftssystem, som alltså skall ses som ett<br>komplement till de grundläggande ansvarsbestämmelserna, finns i<br>finansieringslagen.</p>
+<p>Den grundläggande principen är att kostnaderna för hanteringen av<br>kärnkraftens restprodukter skall bäras av kämkraftsproduktionen. Detta<br>skall åstadkommas genom att reaktorägama skall betala en avgift till<br>staten i förhållande till den energi som levereras från reaktoranlägg-<br>ningen. Beslut om avgift fattas årligen av regeringen, efter förslag av<br>Statens kämkraftinspektion, och uttrycks som ett visst belopp i öre per<br>kilowattimme el som levereras från reaktoranläggningen. Underlagsbe-</p>
+<p>Prop. 1995/96:83</p>
+<p>Bilaga 1</p>
+<p>räkningen infor Kämkraftinspektionens avgiftsförslag utförs på reaktorin-<br>nehavamas uppdrag av Svensk kämbränslehantering AB (SKB).</p>
+<p>Avgiften skall i huvudsak täcka kostnaderna för</p>
+<p>* &nbsp;en säker hantering och slutförvaring av i reaktorn använt kärn-<br>bränsle,</p>
+<p>* &nbsp;en säker avveckling och rivning av reaktoranläggningen, och</p>
+<p>* &nbsp;den forsknings- och utvecklingsverksamhet som erfordras för detta.</p>
+<p>Avgiften varierar mellan de olika företagen. Sedan år 1984 har den<br>legat på samma genomsnittliga nivå, 1,9 öre/kWh.</p>
+<p>Avgiftsmedlen betalas in kvartalsvis till Statens kämkraftinspektion och<br>skall enligt finanseringslagen sättas in på räntebärande konto i Riks-<br>banken. Från de fonderade medlen betalar staten ut ersättningar till käm-<br>kraftsföretagen för de kostnader dessa har för verksamheten redan i<br>nuläget. Dessa kostnader omfattar f.n. främst s.k. mellanförvaring av det<br>använda kärnbränslet samt forskning och utveckling.</p>
+<p>Vid slutet av år 1993 var den totala behållningen av de medel som<br>fonderats ca 13,3 miljarder kr. Beloppet utgör skillnaden mellan vad som<br>under perioden 1982-1993 har betalats in inklusive ränteavkastningen (ca<br>21,3 miljarder kr) och de hittillsvarande kostnaderna (ca 8 miljarder kr).</p>
+<p>Som utgångspunkt för regeringens beslut om avgift för år 1994<br>bedömde SKB i mitten av år 1993 att de totala återstående kostnaderna<br>skulle komma att uppgå till ca 45 miljarder kr.</p>
+<h4>Utredningens frågeställningar och uppgifter</h4>
+<p>Regeringen beslutade den 6 maj 1993 om direktiv för vårt arbete, där<br>uppdraget anges vara &quot;en utredning om översyn av kapitalförvaltningen<br>m.m.&quot; enligt finansieringslagen. Av direktiven framgår att översynen<br>skall omfatta tre områden.</p>
+<p>En första uppgift gäller formerna för kapitalförvaltningen enligt<br>finansieringslagen och att överväga om fondmedlen kan tillåtas bli<br>placerade friare än vad som gäller för närvarande. Syftet med ändrade<br>placeringsregler skulle vara att möjliggöra en ökad avkastning.</p>
+<p>En andra uppgift gäller vilka antaganden om den reala förräntningen<br>på de fonderade medlen som bör användas vid beräkningen av avgiften.</p>
+<p>Ett tredje område för utredningen är att &quot;på lämpligt sätt redovisa de<br>totala kostnaderna för elproduktionen från projektering och byggande till<br>rivning och slutförvaring av kärnkraftverk inklusive kämbränslecykeln&quot;.</p>
+<p>Prop. 1995/96:83</p>
+<p>Bilaga 1</p>
+<p>37</p>
+<h4>Tillförlitligheten i finanseringssystemet</h4>
+<p>I direktiven uttalas att finanseringslagens syfte är &quot;att garantera att<br>kämkraftsproduktionen finansierar samtliga kostnader som orsakas av<br>hantering och förvaring av det använda kärnbränslet och andra restpro-<br>dukter som denna produktion medför&quot;.</p>
+<p>Vi har därför sett det som angeläget att bedöma avgiftssystemets<br>förmåga i stort att fylla sitt syfte. Vår bedömning görs dels utifrån en<br>analys av kraven på säkerhet i de viktigaste antagandena som ligger till<br>grund för avgiftsnivån, dels utifrån en diskussion av tillståndshavamas<br>finansiella situation och därmed deras förmåga att i olika situationer<br>uppfylla sitt ekonomiska ansvar enligt reglerna i kämtekniklagen.</p>
+<h4>Kraven på antaganden vid avgiftsberäkningarna</h4>
+<p>Merparten av kostnaderna för avfallshanteringen etc., liksom en<br>betydande del av ränteintäkterna, förväntas uppkomma efter det att<br>intäkterna från avgifterna beräknas ha upphört. Detta bidrar till en<br>osäkerhet om det nuvarande finansieringssystemets förmåga att fylla sitt<br>syfte.</p>
+<p>Vid dagens avgiftsberäkningar ligger osäkerheterna i antagandena om<br>framtida kostnader, framtida elleveranser och, inte minst, den reala<br>avkastningen på fonderade medel fram till ca år 2050. Vid denna<br>tidpunkt beräknas allt kärnavfall ha placerats i slutförvar.</p>
+<p>Vid de analyser vi låtit göra har det inte, med vissa undantag,<br>framkommit något som tyder på att beräkningarna av de framtida<br>kostnaderna kan göras mera tillförlitliga än vad som f.n. sker. Vår<br>övergripande slutsats om kostnadsberäkningarna är att dessa ofrånkom-<br>ligen måste innehålla osäkerheter. Slutförvaringen, liksom rivningen av<br>kärnkraftverken, kan bli både dyrare och billigare än vad som bedöms<br>som mest sannolikt i dag.</p>
+<p>Bedömningar av de framtida intäkterna till avgiftssystemet måste bl.a.<br>bygga på antaganden om förväntad elproduktion från kärnkraftverken. En<br>utgångspunkt för beräkningen idag är en 25-årig intjänandetid per reaktor<br>samt riksdagsbeslutet om avveckling av kärnkraften år 2010. Det kan<br>dock inte uteslutas att en reaktor kan behöva stängas av före 25 års drift.<br>Vad gäller elproduktionens roll för avgiftsintäkterna konstaterar vi att de<br>framtida avgiftsintäkterna innehåller osäkerheter, eftersom omfattningen<br>av den framtida produktionen vid kärnkraftverken inte kan fastställas på<br>förhand.</p>
+<p>Det kanske mest kritiska antagandet för avgiftssystemets förmåga att<br>generera tillräckligt stora belopp för att täcka kostnaderna är real-<br>rän tean tagandet.</p>
+<p>Vi har ingående studerat den roll ett &quot;rätt&quot; realränteantagande har i<br>finansieringssystemet. Vår slutsats är att bedömningar av realräntans<br>framtida utveckling är behäftade med så stora svårigheter, att det är<br>olämpligt att använda sig av ett finansieringssystem som är väsentligt<br>beroende av dessa inbyggda svårigheter.</p>
+<p>Prop. 1995/96:83</p>
+<p>Bilaga 1</p>
+<p>38</p>
+<p>I detta perspektiv blir syftet att &quot;garantera att kämkraftsproduktionen<br>finansierar samtliga kostnader&quot; mer en strategisk fråga än en fråga om<br>att välja en &quot;bästa&quot; metod för att prognosticera t.ex. realräntan.</p>
+<p>Vi har därför inriktat utredningsarbetet på att söka oss fram mot förslag<br>till sådana förändringar i finansieringssystemet som kan göra detta<br>mindre beroende av ett &quot;rätt&quot; realränteantagande. Genom sådana<br>förändringar bör systemets tillförlitlighet öka.</p>
+<p>Vi konstaterar samtidigt att fondmedlens realavkastning, liksom<br>följaktligen en realränteprognos, blir beroende av hur medlen placeras.</p>
+<h4>Överväganden om kompletterande säkerheter</h4>
+<p>Även om man söker öka tillförlitligheten i finansieringssystemet blir det<br>nödvändigt att göra vissa avvägningar. Det går inte att konstruera<br>systemet som en garanti i absolut mening mot alla teoretiskt tänkbara<br>utfall vad gäller kostnader och intäkter.</p>
+<p>En lämplig lösning är enligt vår mening att låta det nuvarande<br>avgiftssystemet täcka ett s.k. basscenario. Detta basscenario blir då det<br>som de avgiftsskyldiga - och efter bedömning av Statens kämkraftinspek-<br>tion och i sista hand regeringen - anser sannolikt i samband med att<br>avgiften bestäms. Det bör understrykas att Kämkraftinspektionen genom<br>en sådan bedömning inte tagit ställning till vilka tekniska och säkerhets-<br>mässiga krav som kommer att ställas på de aktuella anläggningarna.</p>
+<p>För att täcka de eventuella merkostnaderna vid andra - mindre<br>sannolika men inte orimliga - scenarier är det enligt vår mening lämpligt<br>att finna andra finansieringskällor än avgifter. Grunden for detta synsätt<br>är redan lagd genom bestämmelserna i kämtekniklagen. Där föreskrivs<br>att det är tillståndshavama som skall svara for att åtgärderna genomförs.<br>I och med detta har de det ekonomiska ansvaret om fonderingen enligt<br>finansieringslagen skulle visa sig otillräcklig.</p>
+<p>Tillståndshavamas förmåga att uppfylla sina åtaganden vad avser<br>kostnaderna for hantering av kämkraftsavfall, rivning etc. beror i<br>realiteten bl.a. på deras finansiella stabilitet. En undersökning som vi låtit<br>göra i denna fråga visar på begränsningar hos de tre tillståndshavare som<br>inte har några egentliga andra intäkter än de, som kommer från driften<br>av kärnkrafts reaktorerna.</p>
+<p>En konsekvens av dessa förhållanden är att det inte kan uteslutas - för<br>det fall verksamheten vid kärnkraftverken upphört och/eller de fonderade<br>medlen visar sig otillräckliga - att tillståndshavama inte kommer att ha<br>tillräcklig ekonomisk förmåga att fullgöra sitt ansvar enligt kämteknikla-<br>gen.</p>
+<p>En slutsats är därför att tillståndshavamas lagenliga ansvar för<br>kostnaderna för avfallshanteringen bör ges det reella innehåll som<br>sannolikt har åsyftats när nu gällande lagstiftning beslutades. Detta torde<br>kunna uppnås om finansieringslagen kompletteras med bestämmelser som<br>gör det möjligt för dem som äger kärnkraftverken, dvs. tillståndshavama,<br>att gentemot staten garantera dessa ekonomiska förpliktelser enligt<br>kämtekniklagen.</p>
+<p>Prop. 1995/96:83</p>
+<p>Bilaga 1</p>
+<h4>Överväganden om långsiktig realränteutveckling</h4>
+<p>Om våra förslag i det följande genomförs, minskas realränteantagandets<br>roll för finansieringssystemets tillförlitlighet avsevärt. Frågan kvarstår<br>ändå, i enlighet med direktiven, om vilket realräntemått som bör<br>användas vid beräkning av avgiften. F.n. tillämpar Kämkraftinspektionen<br>antagandet att den reala avkastningen för perioden fram till år 2050<br>uppgår till 2,5 % per år.</p>
+<p>Vi har noterat att realräntans utveckling under 1900-talet kännetecknats<br>av stora variationer. Realräntan har under 1900-talet varit negativ under<br>flera perioder. 1970-talet är ett exempel på en sådan period. 1980-talet<br>och böijan av 1990-talet utgör å andra sidan exempel på en längre period<br>med synnerligen hög realränta (det är också under denna period som de<br>aktuella medlen varit fonderade och uppburit avkastning).</p>
+<p>I en underlagsrapport till utredningen från kapitalforvaltningsavdel-<br>ningen vid Sparbanken Sverige anges som ett referensfall en lång real-<br>ränta i storleksordningen 2-2,5 % för åren fram till 2010. På ännu längre<br>sikt skisseras att långa realräntor skulle ligga kring 2 % per år.</p>
+<p>I pensionsarbetsgruppens betänkande (SOU 1994:20) &quot;Reformerat<br>pensionssystem&quot; anges som ett försiktigt scenario att realräntan (och den<br>ekonomiska tillväxten) skulle vara ca 1,5 % per år i genomsnitt under<br>perioden 1995-2050.</p>
+<p>Med böijan i april månad 1994 började Riksgäldskontoret ta upp lån<br>genom s.k. realränteobligationer på den svenska marknaden. Den<br>förväntade genomsnittliga realräntan under tjugoårsperioden fram till år<br>2014 skulle enligt detta utfall på obligationsmarknaden ligga runt 4 % per<br>år.</p>
+<p>Vi har avstått från att ange någon siffra som mer trolig än någon annan<br>i det ganska breda osäkerhetsintervall som sålunda finns. Då vi finner att<br>fondmedlens realavkastning är beroende av hur medlen är placerade,<br>menar vi i stället att antaganden om långsiktig real avkastning på<br>fondmedlen måste utgå just från hur medlen är placerade.</p>
+<h4>Överväganden om fondförvaltning</h4>
+<p>Den ränta som idag ges på fondmedlen är den s.k. statslåneräntan.<br>Räntesatsen baseras därvid på den 10-åriga statsobligationsräntan, medan<br>räntebindningen endast är en månad. Denna form av specialinlåning är<br>enligt vår bedömning en från avkastningssynpunkt ofördelaktig konstruk-<br>tion.</p>
+<p>Vidare innebär dagens placering av de fonderade medlen en inflations-<br>risk, medan fondmedlen är avsedda för reala åtaganden, dvs. hanteringen<br>av kärnavfall m.m. Kreditrisk och likviditetsrisk är emellertid minimala.</p>
+<p>Vi har jämfört hur avkastningen med dagens placeringsregler förhåller<br>sig till annan statlig medelsförvaltning. Med de reservationer som<br>vidlåder en sådan jämförelse konstaterar vi att avkastningen på de i<br>Riksbanken inlånade medlen varit låg jämfört med den som givits andra<br>statiiga räntebärande placerare.</p>
+<p>Prop. 1995/96:83</p>
+<p>Bilaga 1</p>
+<p>Vi konstaterar också att argumenten för aktier i tillgångsportföljen blir<br>allt starkare, ju längre placeringshorisonten är. Samtidigt finner vi det<br>angeläget att betona att placeringshorisonten för de här aktuella fondmed-<br>len, om än i utgångsläget förhållandevis lång, är ändlig och successivt<br>avtagande.</p>
+<p>En viktig förutsättning för finansieringssystemets tillförlitlighet -<br>liksom för dess trovärdighet - är vidare att fondmedel placeras med hög<br>säkerhet. Vi menar därför att en möjlighet till friare placeringar måste<br>kombineras med strikta restriktioner avseende kreditrisk.</p>
+<p>Med dessa utgångspunkter och nuvarande placering i Riksbanken finner<br>vi, att starka skäl talar för att finna andra former för förvaltning i syfte<br>att öka avkastningen på de fonderade medlen.</p>
+<p>Ett av de alternativ vi undersökt är en inlåning utan inflationsrisk. En<br>form för inlåning utan inflationsrisk skulle vara en inlåning hos Riks-<br>gäldskontoret på villkor som följer av förhållandena på den eventuella<br>nya marknaden för realränteobligationer. Vi bedömer att ett sådant alter-<br>nativ har väsentliga fördelar i den mån det garanterar en god realavkast-<br>ning på lång sikt. Vi ser det emellertid inte som möjligt att nu förorda<br>detta, eftersom alternativet ännu är oklart till sitt innehåll.</p>
+<p>I avvägningen mellan friare förvaltning och fortsatt kontoinlåning har<br>vi beaktat att en friare förvaltning kan ske i olika former. Det kan vara<br>en förvaltning helt i egen regi, i form av externa förvaltningsuppdrag<br>eller som någon mellanform.</p>
+<p>Vi konstaterar bl.a. att även om endast externa förvaltare anlitas, så<br>behöver en intern kompetens byggas upp för åtminstone upphandling och<br>utvärdering av externa förvaltare, men också för analys av portföljstrategi<br>och makroekonomisk utveckling. Kombinationen av egen och extern<br>förvaltning har den fördelen att intern kompetens kan byggas upp på de<br>minst resurskrävande områdena, medan extern kompetens utnyttjas för<br>övriga placeringar genom förvaltningsuppdrag.</p>
+<p>Policy och placeringsregler samt krav avseende rapportering för<br>fondens förvaltning kan anges i ett placeringsreglemente. Om externa<br>förvaltare anlitas, helt eller delvis, kan kontroll av hur medlen placeras<br>erhållas genom att placeringsreglemente fastställs i de externa för-<br>valtningsavtalen och genom fördelning av medlen mellan olika förvaltare.</p>
+<p>Prop. 1995/96:83</p>
+<p>Bilaga 1</p>
+<p>41</p>
+<h4>Förslag</h4>
+<p>Kämavfallsfonden</p>
+<p>Vi menar att såväl alternativet med en friare förvaltning som alternativet<br>med en inflationskyddad inlåning i Riksgäldskontoret är att föredra<br>framför nuvarande inlåningsform i Riksbanken.</p>
+<p>I syfte att öka avkastningen på de fonderade medlen föreslår vi att en<br>fristående enhet benämnd Kämavfallsfonden inrättas. Förslaget innebär<br>att nuvarande system med kontoinlåning i Riksbanken avvecklas.</p>
+<p>Kämavfallsfonden bör ha en styrelse som utses av regeringen. I<br>styrelsen bör ingå högst sju personer med ingående erfarenhet av<br>strategiska frågeställningar vid kapitalplaceringar och med sakkunskap<br>inom finansiell ekonomi. Mot bakgrund av det formella ansvar för<br>kämavfallsprogrammet som kämtekniklagen ålägger de avgiftsskyldiga<br>menar vi, att regeringen till en å två av styrelseplatsema bör utse<br>personer med anknytning till kämkraftsproducerande företag. I uppgifter-<br>na skall vidare ligga att ställa medel till förfogande för Statens kämkraft-<br>inspektion.</p>
+<p>Till sin hjälp bör en styrelse, förutom chefen för fondförvaltningen, ha<br>ett expertråd som förbereder och analyserar ärenden för styrelsen. I<br>denna utformning blir förvaltningen en liten organisation.</p>
+<p>Målet för Kämavfallsfonden bör vara att placera medlen så att kraven<br>på långsiktigt hög avkastning, tillfredsställande betalningsberedskap och<br>riskspridning samt betryggande säkerhet tillgodoses.</p>
+<p>För att tillgodose dessa krav föreslår vi dels regler rörande vilka<br>tillgångsslag som skall vara tillåtna att placera i, dels särskilda begräns-<br>ningsregler för vissa av dessa tillgångsslag. Vi föreslår därvid att<br>Kämavfallsfonden bör kunna placera i såväl aktier som räntebärande<br>instrument samtidigt som inlåning hos Riksbanken och Riksgäldskontoret<br>bör vara möjlig. Vi föreslår även att likvida medel bör kunna hållas hos<br>annan bank.</p>
+<p>Samtidigt föreslår vi emellertid särskilda begränsningsregler som i<br>huvudsak innebär att</p>
+<p>* &nbsp;högst 40 procent av tillgångarna får vara placerade i aktier,</p>
+<p>* &nbsp;högst 15 procent av tillgångarna får vara placerade i utländska<br>aktier,</p>
+<p>* &nbsp;högst 15 procent av tillgångarna får vara placerade i utländska<br>skuldförbindelser,</p>
+<p>* &nbsp;högst 5 procent av det sammanlagda värdet av fondens aktietill-<br>gångar får vara hänförligt till ett enskilt aktiebolag,</p>
+<p>* &nbsp;högst 5 procent av samtliga aktier i ett bolag får innehas av<br>fonden.</p>
+<p>Prop. 1995/96:83</p>
+<p>Bilaga 1</p>
+<p>42</p>
+<p>Vårt förord for denna utformning av en fri förvaltning innebär givetvis<br>samtidigt att andra former väljs bort. Särskilt skall noteras att vi avfärdar<br>vaije form av exklusivt förvaltningsuppdrag. Detta motiveras av att vi be-<br>dömer att förvaltningen får förutsättningar att bedrivas effektivare om<br>styrelsen har handlingsutrymme och kan utnyttja konkurrensen mellan<br>olika penningplacerare.</p>
+<p>Vi vill emellertid också förorda att regeringen under den fortsatta<br>behandlingen av vårt förslag låter ytterligare undersöka förutsättningarna<br>för alternativet med en inflationsskyddad inlåning i Sverige.</p>
+<p>Samtidigt vill vi betona att styrelsen för den av oss föreslagna<br>Kämavfallsfonden kan, om en marknad uppstår för realränteobligationer,<br>komma att se placeringar i sådana som ett fördelaktigt alternativ.</p>
+<p>Kompletterande säkerheter, m.m.</p>
+<p>Det nuvarande avgiftssystemet fungerar väl i många avseenden. Vi<br>föreslår emellertid att det kompletteras. Syftet härmed är att säkerställa<br>att systemet kan fungera smidigt i olika situationer. Exempel på sådana<br>situationer kan vara både att medel för att täcka kostnaderna inte har<br>kunnat fonderas i avsedd omfattning, och att kostnaderna blir lägre än<br>enligt dagens bedömningar.</p>
+<p>De föreslagna förändringarna innebär i huvudsak:</p>
+<p>- Avgifter tas ut för ett s.k. basscenario och i sådan takt att fondupp-<br>byggnaden, inklusive den förväntade framtida avkastningen, efter 25<br>års drift (intjänandetiden) motsvarar de kostnader som är förknippade<br>med rivning av kärnkraftverken och med omhändertagandet av det<br>avfall som då producerats.</p>
+<p>- Krav på säkerheter införs för att</p>
+<p>i) &nbsp;säkerställa fonduppbyggnaden om kärnkraftverken stängs av<br>innan reaktorerna har drivits i 25 år (säkerhetsbelopp I),</p>
+<p>ii) säkerställa finansieringen av åtgärderna om fondbehållningen<br>visar sig otillräcklig till följd av att kostnaderna for åtgärderna<br>blir högre än beräknat, kommer tidigare än beräknat och/eller<br>om realräntan underskattats i samband med avgiftssättningen<br>(säkerhetsbelopp II).</p>
+<p>Säkerheter skall ställas av tillståndshavama, dvs. kämkraftsföretagen, for<br>deras ekonomiska ansvar enligt kämtekniklagen för omhändertagande av<br>kärnavfall. Förslaget innebär samtidigt att ägarna till kämkraftsföretagen,<br>då så erfordras, garanterar tillståndshavamas finansiella förmåga att<br>fullgöra detta ansvar. Genom detta system med säkerheter kan finan-<br>sieringen av kämavfallsprogrammet med en hög grad av sannolikhet<br>sägas vara tryggad på förhand.</p>
+<p>Förändringarna innebär vidare att regler införs om återbetalning av<br>fondmedel.</p>
+<p>Prop. 1995/96:83</p>
+<p>Bilaga 1</p>
+<p>Som underlag för ändringar i finansieringslagen kan våra förslag<br>sammanfattas i nedanstående punkter.</p>
+<p>Definition av begreppet avgift sunderlagsbelopp som grund för<br>avgifts sättning.</p>
+<p>Beloppet for avgiftsunderlaget, som baseras på en 25-årig intjänan-<br>detid per reaktor, fördelas mellan företagen och fastställs vaije år.</p>
+<p>- &nbsp;Definition av belopp för att säkerställa fonduppbyggnaden vid en<br>eventuell avstängning av en reaktor. Detta belopp, baserat på<br>hittills uppkomna avfallskostnader, kallas grundbelopp. Detta<br>fördelas mellan företagen och fastställs av regeringen vaije år.</p>
+<p>- &nbsp;Definition av belopp utöver grundbelopp för att säkerställa<br>finansieringen vid fondbrist till följd av att mindre sannolika men<br>inte orimliga händelser inträffar (kostnadsrisk, tidigareläggningsrisk<br>och realränterisk). Detta belopp kallas tilläggsbelopp. Detta<br>fördelas mellan företagen och fastställs av regeringen vaije år.</p>
+<p>Avgifterna skall baseras på beloppet för avgiftsunderlaget.</p>
+<p>- &nbsp;Tillståndshavama skall lämna fullgoda säkerheter för skillnaden<br>mellan grundbelopp och fonderat belopp (säkerhetsbelopp 7).<br>Tillgodogjord avkastning, liksom inbetalda avgifter leder till<br>nedskrivningar av säkerheterna. Vid avstängning av ett verk där en<br>eller flera reaktorer inte gått sin &quot;intjänandetid&quot;, skall säkerheter<br>kompensera för de förlorade avgiftsintäkterna i en takt som innebär<br>att pengar tillförs fonden så att den planerade fonduppbyggnaden<br>kan genomföras.</p>
+<p>- &nbsp;Tillståndshavama skall dessutom lämna fullgoda säkerheter för<br>tilläggsbelopp som regeringen fastställt (säkerhetsbelopp II).<br>Eventuellt kan som en övergångslösning säkerheter för tilläggs-<br>beloppet byggas upp under en viss tid.</p>
+<p>- &nbsp;&nbsp;Tillståndshavare får rätt till återbetalning av eventuellt fondöver-<br>skott efter det att åtgärdsprogrammet har avslutats. Om särskilda<br>skäl föreligger kan regeringen medge återbetalning tidigare.</p>
+<p>Det föreslagna systemet med säkerheter illustreras i figur 4.1 (s. 150).</p>
+<p>Statens kämkraftinspektion</p>
+<p>Som hittills förutsätts Statens kämkraftinspektion pröva frågor om<br>användning av avgiftsmedlen samt årligen lämna förslag om avgiftens<br>storlek.</p>
+<p>Nya uppgifter blir att inför regeringens beslut granska och pröva SKB:s<br></p>
+<p>Prop. 1995/96:83</p>
+<p>Bilaga 1</p>
+<p>44</p>
+<p>förslag om vad det s.k. basscenariot skall innehålla och SKB:s förslag om<br>storleken av grundbelopp och tilläggsbelopp. Vidare kommer Statens<br>kämkraftinspektion att förvalta de säkerheter som tillståndshavama, efter<br>beslut av regeringen, kommer att lämna.</p>
+<p>Realränteaniagande i avgiftsberäkningama</p>
+<p>Vi vill understryka att vårt förslag enligt ovan med kompletterande<br>säkerheter innebär att finansieringssystemets nuvarande beroende av ett<br>&quot;rätt&quot; realränteantagande minskas avsevärt. Samtidigt kvarstår emellertid<br>frågan, i enlighet med direktiven, om vilket realräntemått som bör<br>användas vid beräkning av avgiften.</p>
+<p>Vi menar att valet av antagande rörande real avkastning på fonderade<br>medel betingas av hur medlen förvaltas och är placerade. Vi föreslår<br>därför att Kämavfallsfonden årligen lämnar en rekommendation till<br>Statens kämkraftinspektion om vilket realränteantagande som bör<br>användas vid avgiftsberäkningen.</p>
+<h4>Om kärnkraftens totala kostnader</h4>
+<p>Frågan om elproduktion från kärnkraftverk täcker fullt ut de kostnader<br>den förorsakar rymmer åtskilliga frågeställningar, delvis av komplicerad<br>natur.</p>
+<p>Den tid som stått till förfogande för vårt utredningsuppdrag i dess<br>helhet har nödvändiggjort hårda prioriteringar mellan de tre utrednings-<br>uppgifter som har nämnts tidigare. Som utgångspunkt för dessa priorite-<br>ringar har tjänat formuleringen i direktiven (s. 5) att utredningsuppdraget<br>är &quot;att göra en översyn av kapitalförvaltningen enligt lagen (1981:669)<br>om finansiering av framtida utgifter för använt kärnbränsle m.m.”.</p>
+<p>Mot den bakgranden har vi funnit det mest angeläget att i första hand<br>penetrera frågorna med direkt anknytning till finansieringssystemet. Vi<br>har därvid redovisat ingående bedömningar av kostnaderna för kämav-<br>fallshantering och rivning av kärnkraftverk (kapitel 7 och bilagorna<br>7-10).</p>
+<p>Prop. 1995/96:83</p>
+<p>Bilaga 1</p>
+<p>45</p>
+<p>Framtida kämavfallskostnader</p>
+<p>Den redovisning och genomgång av teknik och kostnader för kämav-<br>fallsprogrammet som vi gjort utgår från de redovisningar som SKB<br>överlämnar till Statens kämkraftinspektion vaije år (enligt den s.k. Plan<br>93 uppgår de totala återstående kostnaderna till ca 45 miljarder kr).<br>Dessutom redovisas bedömningar som gjorts i andra länder av kostnader<br>för avfallshantering och rivning av kärnkraftverk. Vidare har vi låtit<br>några olika konsulter granska SKB:s beräkningsmetodik och kostnadsupp-<br>skattningar för olika delar i kämavfcillsprogrammet.</p>
+<p>Resultat av dessa översiktliga granskningar är att kostnadsberäk-<br>ningarna för det planerade systemet kan genomföras med tämligen god<br>tillförlitlighet. SKB:s kostnadsuppskattningar bedöms i stort vara rimliga<br>och väl underbyggda.</p>
+<p>Utgångspunkten för planeringen är tillämpning av känd teknik.<br>Samtidigt gäller dock att varken inkapslingsanläggning för använt<br>kärnbränsle eller slutförvar för detsamma, ännu så länge, har byggts<br>någonstans i världen. Det är möjligt att Sverige blir ett av de första<br>länder där sådana anläggningar byggs. Vi vill därför framhålla att<br>merkostnader kan uppkomma framöver till följd av nya erfarenheter från<br>t.ex. den inledande deponering som planeras för en mindre del av det<br>använda kärnbränslet. Men kostnaderna kan också bli lägre än vad som<br>nu beräknas.</p>
+<p>De uppskattade svenska rivningskostnadema är vid en internationell<br>jämförelse låga. Olika förklaringar till detta har redovisats av SKB.<br>Eftersom rivningskostnader svarar för hela 30 % av de beräknade<br>totalkostnaderna är vår slutsats, att frågan om rivningskostnader behöver<br>ägnas särskild uppmärksamhet framöver.</p>
+<p>För att bättre kunna värdera kostnadsuppskattningarna i allmänhet är<br>vår bedömning att delvis nya metoder behöver tillämpas vid beräkning<br>av kostnaderna. Exempel på sådana metoder är kostnadsberäkningar för<br>alternativ till de scenarier som nuvarande planering utgår ifrån. Vi menar<br>att det är särskilt angeläget att detta arbete kommer till stånd, då vi<br>grundar våra förslag om kompletterande säkerheter på att regeringen<br>skall kunna fastställa lämpliga omfattningar av avgiftsunderlags-, grund-<br>och tilläggsbelopp.</p>
+<p>Övriga kostnader vid kärnkraft sproduktion</p>
+<p>De prioriteringar inom utredningsarbetet som gjorts, innebär att vi inte<br>kunnat behandla alla aspekter på den tredje huvuduppgiften på ett sådant<br>sätt som uppgiftens natur egentligen kräver.</p>
+<p>En seriöst syftande studie av samtliga de frågor som tas upp i här<br>aktuell del av direktiven fordrar större utredningsresurser än som stått till<br>vårt förfogande. Studien bör inledningsvis enligt vår uppfattning innefatta<br>en genomgripande och grundläggande problemanalys med diskussion av<br>metodfrågor. Några exempel på frågeställningar som kan behöva belysas<br>är följande.</p>
+<p>Prop. 1995/96:83</p>
+<p>Bilaga 1</p>
+<p>Vilka typer av kostnader bör urskiljas? Vad är historiska kostnader och<br>vilka kostnader är möjliga att påverka i dag? Ar det lämpligt att redovisa<br>kostnader för kämkraftsproduktion utan att samtidigt ställa dessa<br>kostnader i relation till kostnader för annan elproduktion? Bör icke-<br>monetära kostnader mätas och redovisas och i så fall hur?</p>
+<p>För att få en utgångspunkt för våra överväganden har vi fört dis-<br>kussioner på grundval av de expertpromemorior som i sina huvuddrag<br>återges i bilaga 2.</p>
+<p>Det har inte visat sig möjligt att inom ramen för vårt arbete på ett<br>tillfredsställande sätt behandla alla de frågeställningar som aktualiseras<br>av de nämnda promemoriorna.</p>
+<p>Vi har emellertid gjort vissa ansträngningar för att närmare belysa<br>frågan om det finns några mer betydande s.k. externa kostnader till följd<br>av negativa externa effekter vid den nu pågående kämkraftsproduktionen.<br>Med externa kostnader avser vi då kostnader som kärnkraften förorsakar<br>allmänheten men som inte belastar den produktionskostnad som<br>reaktorägaren tar med i sin verksamhetskalkyl.</p>
+<p>Vi har valt att tillhandahålla detta arbetsmaterial som en bilaga till<br>betänkandet (bilaga 3). Materialet är inte så genomarbetat att det är ägnat<br>att i nuvarande skick läggas till grund för förslag om åtgärder.</p>
+<p>Den slutsats som vi anser möjlig att dra av detta arbetsmaterial är, att<br>det bör kunna utgöra en utgångspunkt för fortsatta studier av hithörande<br>frågor och på så sätt utgöra ett underlag för den allmänna debatten kring<br>energipolitiska frågeställningar. Vi vill i detta sammanhang peka på att<br>det kan vara en uppgift för den parlamentariskt sammansatta energikom-<br>mission som riksdagen uttalat sig för i maj 1994 (jfr 1993/94:NU17 s.<br>19), att inom ramen för sitt uppdrag överväga frågor om externa<br>kostnader för olika energislag.</p>
+<p>Prop. 1995/96:83</p>
+<p>Bilaga 1</p>
+<p>47</p>
+<h2>Författningsförslag i Kämbränslefondsutredningens Prop. 1995/96:83<br>betänkande (SOU 1994:107) Säkrare finansiering av Bilaga 2<br>framtida kämavfallskostnader</h2>
+<h3>1 Förslag till lag om ändring i lagen (1992:1537) om finan-<br>siering av framtida utgifter for använt kärnbränsle m.m.</h3>
+<p>Härigenom föreskrivs i fråga om lagen (1992:1537) om finansiering av<br>framtida utgifter for använt kärnbränsle m.m.</p>
+<p>dels att 1 - 4 och 6 - 9 §§ skall ha följande lydelse,</p>
+<p>dels att det i lagen skall införas sju nya paragrafer, 7 a - 7 e, 8 a och<br>8 b §§, av följande lydelse.</p>
+<p>Nuvarande lydelse &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Föreslagen lydelse</p>
+<p>Avgifter skall betalas enligt<br>denna lag för att finansiera dels<br>omhändertagande av använt<br>kärnbränsle och annat radioaktivt<br>avfall från kämkraftsreaktorer,<br>dels vissa kostnader som staten<br>har enligt denna lag och enligt<br>lagen (1984:3) om kärnteknisk<br>verksamhet.</p>
+<p>Avgift skall betalas av den som<br>har tillstånd att inneha eller driva<br>en kämkraftsreaktor (reaktorin-<br>nehavaren). Avgiften skall beta-<br>las årligen så länge reaktorn är i<br>drift.</p>
+<p>Avgifter skall betalas enligt<br>denna lag for att finansiera dels<br>omhändertagande av använt<br>kärnbränsle och annat radioaktivt<br>avfall från kämkraftsreaktorer,<br>dels vissa kostnader som staten<br>har enligt denna lag och enligt<br>lagen (1984:3) om kärnteknisk<br>verksamhet. För kostnader för<br>omhändertagande som inte täcks<br>av hittills inbetalade avgiftsmedel<br>skall säkerheter ställas.</p>
+<p>Avgift skall betalas och säker-<br>heter ställas av den som har till-<br>stånd att inneha eller driva en<br></p>
+<p>kämkraftsreaktor (reaktorinneha-<br>varen). Avgiften skall betalas<br>årligen så länge reaktorn är i<br>drift.</p>
+<p>Avgiftsskyldigheten avseende<br>omhändertagande omfattar kost-<br>nader för</p>
+<p>1. en säker hantering och<br>slutförvaring av i reaktorn an-<br>vänt kärnbränsle och radioaktivt<br>avfall som härrör från detta efter</p>
+<p>Skyldigheten att betala avgift<br>och ställa säkerheter avseende<br>omhändertagande omfattar kost-<br>nader för</p>
+<p>1. en säker hantering och<br>slutförvaring av i reaktorn an-<br>vänt kärnbränsle och radioaktivt</p>
+<p>48</p>
+<p>det att kärnbränslet eller avfallet<br>har förts bort från anläggningen,</p>
+<p>2. en säker avveckling och riv-<br>ning av reaktoranläggningen,</p>
+<p>3. den forsknings- och utveck-<br>lingsverksamhet som behövs för<br>att vad som avses i 1 och 2 skall<br>kunna fullgöras.</p>
+<p>avfall som härrör från detta efter Prop. 1995/96:83<br>det att kärnbränslet eller avfallet Bilaga 2<br>har förts bort från anläggningen,</p>
+<p>2. en säker avveckling och riv-<br>ning av reaktoranläggningen,</p>
+<p>3. den forsknings- och utveck-<br>lingsverksamhet som behövs för<br>att vad som avses i 1 och 2 skall<br>kunna fullgöras.</p>
+<p>Reaktorinnehavaren skall i<br>samråd med övriga reaktorin-<br>nehavare beräkna kostnaderna<br>för omhändertagandet. En sådan<br>beräkning skall innehålla en<br>uppskattning av dels kostnaderna<br>för samtliga de åtgärder som kan<br>behövas, dels kostnaderna för de<br>åtgärder som avses bli vidtagna<br>inom en tidrymd om minst tre år.</p>
+<p>Kostnadsberäkningen skall<br>varje år ses över och lämnas till<br>regeringen eller den myndighet<br>som regeringen bestämmer.</p>
+<p>§</p>
+<p>Reaktorinnehavaren skall i<br>samråd med övriga reaktorin-<br>nehavare beräkna kostnaderna<br>för omhändertagandet. En sådan<br>beräkning skall innehålla en<br>uppskattning av</p>
+<p>1. &nbsp;kostnaderna för samtliga<br>åtgärder som kan behövas då<br>reaktorn drivits i 25 år samt, om<br>drifttiden för reaktorn överstiger<br>25 år, kostnaden för tillkom-<br>mande åtgärder varje år därut-<br>över (avgift sunderlagsbelopp),</p>
+<p>2. om drifttiden för reaktorn<br>understiger 25 år, de kostnader<br>enligt 1 som kan hänföras till det<br>kärnbränsle som har använts när<br>beräkningen sker (grundbelopp),</p>
+<p>3. skäliga kostnader ftjr till-<br>kommande åtgärder som beror<br>på oplanerade händelser (till-<br>läggsbelopp).</p>
+<p>Av beräkningen skall dessutom<br>framgå kostnaderna for de åt-<br>gärder som avses bli vidtagna<br>inom en tidrymd om minst tre år.</p>
+<p>Kostnadsberäkningen skall<br>varje år ses över och lämnas till<br>regeringen eller den myndighet<br>som regeringen bestämmer.</p>
+<p>49</p>
+<p>4 Riksdagen 1995/96. 1 saml. Nr 83</p>
+<p>Utöver kostnaderna for omhän-<br>dertagande skall avgifterna täcka<br>statens kostnader för att</p>
+<p>1. komplettera forsknings- och<br>utvecklingsverksamhet som avses<br>i 2 § 3 samt pröva frågor härom,</p>
+<p>2. pröva frågor som avses i 5<br>§ första stycket och 8 § andra<br>stycket denna lag,</p>
+<p>3. pröva frågor om övervak-<br>ning och kontroll av slutförvar<br>enligt 16 § lagen (1984:3) om<br>kärnteknisk verksamhet.</p>
+<p>Utöver kostnader för omhän-<br>dertagande skall avgifterna täcka<br>statens kostnader för att</p>
+<p>1. komplettera forsknings- och<br>utvecklingsverksamhet som avses<br>i 2 § 3 samt pröva frågor härom,</p>
+<p>2. pröva frågor som avses i 5 §<br>första stycket, 8 § andra stycket<br>och 8 a § andra stycket denna<br>lag,</p>
+<p>3. pröva frågor om övervak-<br>ning och kontroll av slutförvar<br>enligt 16 § hgen (1984:3) om<br>kärnteknisk verksamhet.</p>
+<p>Prop. 1995/96:83</p>
+<p>Bilaga 2</p>
+<h4>5 §</h4>
+<p>Avgiftens storlek fastställs årligen för nästföljande kalenderår av<br>regeringen eller den myndighet som regeringen bestämmer.</p>
+<p>Vaije reaktorinnehavare skall betala avgift i förhållande till den energi<br>som levereras.</p>
+<p>Avgiften bestäms så att de<br>sammanlagda avgiftsbeloppen<br>som betalas under reaktorns<br>drifttid täcker kostnaderna för<br>omhändertagandet och statens<br>kostnader enligt 4 §.</p>
+<p>Avgiften bestäms så att de sam-<br>manlagda avgiftsbeloppen täcker<br>de kostnader för omhändertagan-<br>det som avses i 3 § första stycket<br>1 och statens kostnader enligt 4<br>§•</p>
+<p>Vid avgiftsberäkningen skall hänsyn tas till tidigare åtgärder för<br>omhändertagande av använt kärnbränsle och radioaktivt avfall som härrör<br>från detta, reaktoranläggningens beskaffenhet och övriga omständigheter<br>som kan påverka avgiftens storlek.</p>
+<h4>7§</h4>
+<p>Avgiften skall betalas till den<br>myndighet som regeringen be-<br>stämmer.</p>
+<p>Myndigheten skall sätta in<br>medlen på räntebärande konto i<br>Riksbanken. Räntan skall läggas<br>till kapitalet.</p>
+<p>Avgiften skall betalas till den<br>myndighet som regeringen be-<br>stämmer. Avgiftsmedlen skall<br>överföras till en fond, benämnd<br>Kämavfallsfonden.</p>
+<p>50</p>
+<h4>7a §</h4>
+<p>Kämavfallsfonden leds av en<br>styrelse, som skall förvalta med-<br>len i fonden i enlighet med 7b-<br>7 d §§. Styrelsen skall årligen<br>till regeringen lämna en redovis-<br>ning som avser förvaltningen<br>under det gångna året.</p>
+<p>Regeringen utser styrelse i<br>Kämavfallsfonden, förordnar om<br>revisorer för granskning av<br>styrelsens förvaltning och beslu-<br>tar om närmare föreskrifter för<br>fondens verksamhet.</p>
+<p>Ledamöter i styrelsen, revi-<br>sorerna och de arbetstagare och<br>uppdragstagare hos fonden som<br>styrelsen bestämmer skall skrift-<br>ligen anmäla sitt innehav och<br>ändringar i innehavet av fond-<br>papper som anges i 2 § insider-<br>lagen (1990:1342).</p>
+<p>7b§</p>
+<p>Medlen i Kämavfallsfonden<br>skall placeras så att kraven på<br>långsiktigt hög avkastning, till-<br>fredsställande betalningsbered-<br>skap och riskspridning samt<br>betryggande säkerhet tillgodoses.<br>Förvaltningen av vissa fondmedel<br>får överlåtas till värdepappersin-<br>stitut eller annan kapitalförvalta-<br>re.</p>
+<p>Avkastningen på fondens medel<br>skall läggas till kapitalet.</p>
+<p>7ci</p>
+<p>Kämavfallsfondens medel får<br>placeras</p>
+<p>1. i skuldförbindelser med låg<br>kreditrisk,</p>
+<p>2. i aktier eller aktiefonder som<br>är noterade på svensk eller ut-<br>ländsk börs,</p>
+<p>3. hos Riksbanken eller Riks-<br>gäldskontoret,</p>
+<p>4. hos annan bank, om det be-<br>hövs för att säkerställa tillräcklig<br></p>
+<p>Prop. 1995/96:83</p>
+<p>Bilaga 2</p>
+<p>betalningsberedskap.</p>
+<p>Fonden får förvärva optioner<br>eller terminskontrakt eller liknan-<br>de finansiella instrument, om det<br>behövs för att säkerställa en<br>effektivare fondförvaltning eller<br>som skydd mot valutakursför-<br>luster eller andra risker.</p>
+<p>De avgifter som betalats av<br>reaktorinnehavaren skall använ-<br>das för att ersätta innehavaren<br>för kostnader för omhänderta-<br>gandet samt för att täcka statens<br>kostnader för åtgärder enligt 4 §<br>hänförliga till reaktorn och<br>bränsle som använts i reaktorn.</p>
+<h4>'5</h4>
+<p>Högst 40 procent av marknads-<br>värdet för Kämavfallsfondens<br>tillgångar får vara placerade i<br>aktier. Placeringar i utländska<br>aktier och utländska skuldförbin-<br>delser får för vardera tillgängs-<br>slaget uppgå till högst 15 pro-<br>cent av samma marknadsvärde.</p>
+<p>Placeringar i ett aktiebolag får<br>högst uppgå till fem procent av<br>samtliga aktier i bolaget eller,<br>om aktierna har olika röstvärde,<br>högst fem procent av röstetalet<br>för samtliga aktier i bolaget.</p>
+<p>Högst fem procent av mark-<br>nadsvärdet för fondens samtliga<br>aktier får vara hänförliga till ett<br>visst aktiebolag eller till aktiebo-<br>lag som ingår i samma koncern.</p>
+<p>■ §</p>
+<p>Regeringen fastställer ytterligare<br>bestämmelser om förvaltningen<br>av medlen i Kämavfallsfonden.</p>
+<p>§</p>
+<p>Reaktorinnehavarens andel av<br>medlen i Kämavfallsfonden skall<br>användas för att ersätta inne-<br>havaren för kostnader för om-<br>händertagandet samt för att täcka<br>statens kostnader för åtgärder<br>enligt 4 § hänförliga till reaktorn<br>eller bränsle som använts i reak-<br>torn. Medlen får också användas<br>för att bekosta Kämavfallsfon-</p>
+<p>Prop. 1995/96:83</p>
+<p>Bilaga 2</p>
+<p>52</p>
+<p>Frågor om användning av av-<br>giftsmedlen prövas av regeringen<br>eller den myndighet som rege-<br>ringen bestämmer.</p>
+<p>8 a</p>
+<p>dens verksamhet.</p>
+<p>När allt det i reaktorn använda<br>kärnbränslet och radioaktivt<br>avfall som härrör från detta har<br>placerats i slutförvar samt reak-<br>toranläggningen avvecklats och<br>rivits, skall medel i Kämavfalls-<br>fonden som inte behövs för ända-<br>mål som avses i första stycket<br>återbetalas till reaktorinnehava-<br>ren. Medel i fonden som inte<br>behövs får återbetalas dessförin-<br>nan, om särskilda skäl förelig-<br>ger.</p>
+<p>Frågor om användning och<br>återbetalning av avgiftsmedlen<br>prövas av regeringen eller den<br>myndighet som regeringen be-<br>stämmer.</p>
+<p>§</p>
+<p>Reaktorinnehavaren skall till<br>den myndighet som regeringen<br>bestämmer ställa fullgoda säker-<br>heter som motsvarar de kost-<br>naderför omhändertagandet som<br>avses i 3 § första stycket 2 och<br>3. Säkerheter behöver inte ställas<br>för belopp som täcks av reaktor-<br>innehavarens andel av medlen i<br>Kämavfallsfonden.</p>
+<p>Regeringen eller den myndighet<br>som regeringen bestämmer skall<br>årligen och vid behov oftare<br>pröva om säkerheterna är till-<br>räckliga.</p>
+<p>Som säkerhet får inte godkän-<br>nas inteckning i kärnkraftverket.</p>
+<p>Prop. 1995/96:83</p>
+<p>Bilaga 2</p>
+<p>8 b $</p>
+<p>Säkerheter enligt 8 a § får<br>utnyttjas för att finansiera åt-<br>gärderför omhändertagande som<br>avses i 2 §, om medlen i Kämav-<br>fallsfonden visar sig otillräckliga<br>och åtgärderna inte vidtas av<br>reaktorinnehavaren. Om reaktorn<br>drivs kortare tid än 25 år, får</p>
+<p>säkerheterna dessutom utnyttjas<br>för att tillföra Kämavfallsfonden<br>medel som motsvarar de avgifter<br>enligt 5 § som bortfaller på<br>grund av den begränsade drift-<br>tiden. Frågor om utnyttjande av<br>säkerheter prövas av regeringen<br>eller den myndighet regeringen<br>bestämmer.</p>
+<p>Säkerheter som inte längre be-<br>hövs skall återlämnas till reak-<br>torinnehavaren.</p>
+<p>Prop. 1995/96:83</p>
+<p>Bilaga 2</p>
+<p>Reaktorinnehavaren skall på<br>begäran lämna de upplysningar<br>och tillhandahålla de handlingar<br>som behövs for att regeringen<br>eller den myndighet som rege-<br>ringen bestämmer skall kunna<br>fastställa avgiftens storlek och<br>pröva frågor om användningen<br>av medlen. I den utsträckning<br>det behövs skall reaktorinnehava-<br>ren på begäran även lämna<br>tillträde till anläggningar eller<br>platser där använt kärnbränsle<br>eller radioaktivt avfall som<br>härrör från detta förvaras eller<br>hanteras.</p>
+<p>Reaktorinnehavaren skall på<br>begäran lämna de upplysningar<br>och tillhandahålla de handlingar<br>som behövs för att regeringen<br>eller den myndighet som rege-<br>ringen bestämmer skall kunna<br>fastställa avgiftens storlek och<br>behovet av säkerheter samt pröva<br>frågor om användningen av med-<br>len. I den utsträckning det be-<br>hövs skall reaktorinnehavaren på<br>begäran även lämna tillträde till<br>anläggningar eller platser där<br>använt kärnbränsle eller radio-<br>aktivt avfall som härrör från<br>detta förvaras eller hanteras.</p>
+<h4>10 §</h4>
+<p>Den som med uppsåt eller av grov oaktsamhet åsidosätter sina<br>skyldigheter enligt 9 § genom att lämna oriktig uppgift döms till böter,<br>om gärningen inte är belagd med straff i brottsbalken.</p>
+<h4>11 §</h4>
+<p>Ett beslut enligt 9 § att infordra uppgifter eller begära tillträde till<br>anläggningar eller platser får förenas med vite.</p>
+<p>Denna lag träder i kraft den 1 januari 1995.</p>
+<p>54</p>
+<h2>Sammanställning av remissyttranden - Säkrare fi- Prop. 1995/96:83<br>nansiering av framtida kämavfallskostnader (SOU Bilaga 3<br>1994:107 och SOU 1994:108)</h2>
+<h3>1 Remissinstanserna</h3>
+<p>Efter remiss har yttranden över betänkandet avgetts av Riksbanken, Svea<br>Hovrätt, Kammarätten i Stockholm, Riksgäldskontoret, Statskontoret,<br>Finansinspektionen, Riksrevisionsverket (RRV), Boverket, Allmänna<br>pensionsfonden, Närings- och teknikutvecklingsverket (NUTEK),<br>Juridiska fakultetsstyrelsen vid universitetet i Uppsala, Lunds universitet,<br>Umeå universitet, Högskolan i Luleå, Handelshögskolan i Stockholm,<br>Kammarkollegiet, Länsstyrelsen i Uppsala län, Länsstyrelsen i Kalmar<br>län, Länsstyrelsen i Malmöhus län, Länsstyrelsen i Hallands län,<br>Länsstyrelsen i Västerbottens län, Statens naturvårdsverk (SNV), Statens<br>strålskyddsinstitut (SSI), Statens kämkraftinspektion (SKI), Lokala<br>säkerhetsnämnden vid Ringhals kärnkraftverk, Lokala säkerhetsnämnden<br>vid Forsmarks kärnkraftverk, Lokala säkerhetsnämnden vid Barsebäcks<br>kärnkraftverk, Statens råd för kämavfallsfrågor (KASAM), Östhammars<br>kommun, Varbergs kommun, Landstinget i Uppsala län, Svenska<br>kommunförbundet, Naturskyddsföreningen, Svenska Bankföreningen,<br>Barsebäck Kraft AB, Forsmarks Kraftgrupp AB, Svensk Kämbränslehan-<br>tering AB (SKB), OKG AB, Sydkraft AB, Vattenfall AB,</p>
+<h3>2 Allmänna och sammanfattande synpunkter</h3>
+<p>Betänkandet med underlagsrapporter har sänts för yttrande till 46<br>remissinstanser. Av dem har 29 haft synpunkter. 21 remissinstanser<br>tillstyrker i princip utredningens förslag om ändrade riktlinjer för<br>placering av de avgifter som tas ut för att bekosta hantering och<br>slutförvaring av använt kärnbränsle i syfte att uppnå en högre avkastning<br>än vad som är möjligt i dag. Likaså tillstyrker remissinstanserna att<br>förvaltningen av medlen uppdras åt ett fristående organ benämnt<br>Kämavfallsfonden samt att ett system med kompletterande säkerheter<br>införs.</p>
+<p>Bland dem som stöder utredningens förslag i dessa delar märks<br>Riksgäldskontoret, Statskontoret, Finansinspektionen och NUTEK.<br>Vidare tillstyrks förslaget av länstyrelsema i Uppsala län, Kalmar län,<br>Malmöhus län, Hallands län och Västerbottens län, SKI, lokala säkerhets-<br>nämndema vid Ringhals och Forsmarks kärnkraftverk, KASAM, Svenska<br>Kommunförbundet, Svenska Bankföreningen samt kraftproducenterna.</p>
+<p>Av de återstående remissinstanserna har flertalet begränsat sitt yttrande<br>till de övriga förslagen i betänkandet. Till denna kategori hör Riks-<br>banken, Boverket, Uppsala universitet och Statens Strålskyddsinstitut.</p>
+<p>Principiella invändningar mot och kritik av nämnda delar av ut-</p>
+<p>55</p>
+<p>redningens förslag framförs främst av Rikrevisionsverket och sam- Prop. 1995/96:83<br>hällsvetenskapliga fåkultetsnämnden vid Universitetet i Umeå. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Bilaga 3</p>
+<h3>3 Nya riktlinjer för placering av fondmedel</h3>
+<p>Riksbanken framhåller att den strävar efter att koncentrera verksam-<br>heten till sina huvuduppgifter, dvs. sådana som har samband med dess<br>ansvar för penningpolitiken och betalningssystemet. Mot den bakgrunden<br>är handhavandet av fondmedlen en udda uppgift för banken. Förslaget att<br>lyfta bort detta uppdrag från banken biträds därför. Utöver placeringar<br>i värdepapper bör enligt utredningsförslaget placeringar hos Riksbanken<br>och Riksgäldskontoret tillåtas om villkoren är tillfredsställande. Riks-<br>banken är emellertid mot bakgrunden av den nämnda policyn för<br>verksamheten inte angelägen att ha hand om sådana medel. Banken kan<br>inte erbjuda högre ränta än vad som gäller för 10-åriga statsobligationer<br>och den kan Kämavfallsfonden uppnå genom att låta köpa obligationerna<br>på marknaden.</p>
+<p>Riksgäldskontoret avråder från att ersätta dagens inlåning i Riksbanken<br>med ett alternativ som innebär att avgiftsmedlen automatiskt placeras hos<br>Riksgäldskontoret eftersom det inte det inte finns någon väl fungerande<br>realräntemarknad i Sverige. Riksgäldskontoret anser att Kämavfalls-<br>fonden bör bildas i enlighet med utredningens förslag. Fondförvaltningen<br>bör inriktas på att uppnå en säker real avkastning för att på så sätt<br>minimera riskerna. Det är enligt Riksgäldskontoret inte lämpligt att<br>tvinga fondförvaltama att endast hålla reala placeringar, men eftersom<br>målet är en real avkastning förefaller realränteobligationer och real<br>inlåning att vara lämpliga placeringsformer. Via placeringsreglementen<br>kan kapitalförvaltama åläggas att hålla en viss andel av tillgångarna i<br>reala placeringar.Kontoret anser det bör övervägas om inte en viss del<br>andel av placeringarna , t.ex. 10 procent, alltid bör vara placerade i<br>tillgångar utan kreditrisk för att få till stånd en viss miniminivå på<br>säkerheten i placeringarna. Utifrån ovanstående ramar och riktlinjer<br>kommer enligt Riksgäldskontoret mening Kämavfållsfondens tillgångs-<br>portfölj att bestå av en viss andel obligatoriska reala placeringar. Övriga<br>tillgångar i portföljen kommer att placeras utifrån målet att på ett säkert<br>sätt uppnå minst samma avkastning som den reala delen av portföljen. På<br>så vis blir hela portföljen inriktad på real avkastning.</p>
+<p>Statskontoret framhåller att förslaget om kompletterande säkerheter är<br>bärande för de förändringar i fråga om finansiering och förvaltning som<br>föreslås av utredningen. Det innebär att ett mer fullständigt ansvar för de<br>kostnader som följer av omhändertagandet av de synnerligen giftiga<br>resterna av utvinningen av kärnkraft läggs på ägarna av kämkraftföre-<br>tagen. Det föreslagna systemet med säkerheter höjer på ett betydande sätt<br>säkerheten för att ägarna av kraftverken i ett läge med otillräckliga<br>fondmedel kommer att kunna tillföra ytterligare medel. Statskontoret<br>tillstyrker därför förslaget. Statskontoret finner det rimligt att fondmedlen</p>
+<p>56</p>
+<p>i samband med införandet av de kompletterande säkerheterna får placeras<br>friare än i dag för att ge högre real förräntning. Konkurrens mellan olika<br>penningplacerare bör utnyttjas.</p>
+<p>Finansinspektionen har intet att erinra mot att avgift som tas ut för att<br>finansiera utgifter för använt kärnbränsle m.m. får placeras på ett friare<br>sätt än som f.n. är fallet för att därmed uppnå en högre avkastning.</p>
+<p>Inspektionen framhåller att de föreslagna placeringsmöjlighetema för<br>fonden liknar i stort de placeringsregler som fondbolag, vilka driver<br>verksamhet enligt lagen om värdepapper har att iaktta. Kämavfalls-<br>fondens ändamål skiljer sig emellertid på ett avgörande sätt från det som<br>gäller för värdepappersfonder, bl.a. genom utdebitering av avgifter och<br>genom att fonderade medel skall användes för på förhand bestämda<br>ändamål. Mot bakgrund härav anser Finansinspektionen att det regelsys-<br>tem som gäller för värdepappersfonder inte bör användas för den nu<br>aktuella fonden. Den bör således inte ställas under Finansinspektionens<br>tillsyn.</p>
+<p>Riksrevisionsverket (RRV) framhåller att vid bedömning av förslaget om<br>en särskild organisation -Kämavfallsfonden- med friare regler för<br>förvaltning av fonderade medel är frågan om risk central. Vad som sägs<br>i betänkandet om att få en &quot; ... långsiktigt hög real avkastning, till-<br>fredsställande betalningberedskap och riskspridning samt betryggande<br>säkerhet...&quot; är inte användbart som vägledning för de konkreta besluten.<br>För att fungera som rättesnöre för Kämavfallsfonden måste orden &quot;hög&quot;,<br>&quot;tillfredsställande&quot; och &quot;betryggande säkerhet&quot; definieras. I betänkandet<br>finns också en rad restriktioner för fondens placeringar och rutiner för<br>kontroll och styrning av förvaltningen. En del av bestämmelserna är<br>svåra att tolka. Verket anser att reglerna för Kämavfallsfondens<br>verksamhet kan behöva förtydligas.</p>
+<p>Om Kämavfallsfonden bildas utgår RRV från att kostnaderna för<br>personal och administration finansieras med fondens avkastning, d.v.s<br>utan statliga anslag. Verket saknar ett resonemang om fördelen med att<br>organisera Kämavfallsfonden som en fristående enhet framför att låta den<br>bli en del av någon befintlig statlig förvaltare.</p>
+<p>RRV tar vidare upp frågan vem som har ansvaret om fondens<br>förvaltning inte blir så framgångsrik som utredningen utgår från. Fonden<br>kan komma att bedriva sin verksamhet i mer än 50 år. Under den tiden<br>kan det inträffa att vissa av fondens tillgångar förlorar sitt värde och att<br>det leder till att pengarna inte räcker för att täcka kostnaderna för<br>kärnavfallet. Är det i så fall staten eller kämkraftbolagen som skall träda<br>in?</p>
+<p>Uppsala universitet (Juridiska fakulteten) tillstyrker friare placerings-<br>regler förutsatt att inramningarna är effektiva. Fria placeringsregler<br>kräver god information om utfallet av gjorda placeringar. De kräver<br>också en ordentlig granskning (revision) av förvaltningen. Det måste<br>också på ett eller annat sätt bestämmas vilken avkastning som skall<br>uppnås för bestämda perioder.</p>
+<p>Prop. 1995/96:83</p>
+<p>Bilaga 3</p>
+<p>Umeå universitet (Samhällsvetenskapliga fåkulteten) anser att ut-<br>redningens argument för placeringspolitiken bygger på truismer samt<br>innehåller motstridiga element utan någon diskussion om innebörden.</p>
+<p>Kammarkollegiet tillstyrker utredningens förslag i dess huvuddrag vad<br>gäller fondförvaltning och Kämavfållsfonden. När det gäller formerna för<br>organisation av den föreslagna Kämavfållsfonden förordar kollegiet en<br>annan organisation.</p>
+<p>Kollegiet anser att fonden inte bör ha någon anställd personal. Dessa<br>uppgifter bör i stället skötas av Kammarkollegiet. Härigenom skulle<br>verksamheten kunna drivas till lägre kostnader. En av kollegiets<br>verksamhetsgrenar är att svara för kanslifunktioner åt nämnder och<br>styrelser som är utsedda av regeringen, men som inte har någon egen<br>personal. En annan av kollegiets verksamheter är fond- och förmögen-<br>hetsförvaltning. Vid behov av statlig kapitalförvaltning bör upphandling<br>på marknaden ställas mot egenregi-altemativet hos Kammarkollegiet.<br>Kollegiet hänvisar till att det kostnadseffektivt och med gott förvaltnings-<br>resultat har svarat för medelsförvaltningen åt Arbetslivsfonden som i<br>vissa delar har likheter med Kämavfallsfonden.</p>
+<p>Länsstyrelsen i Malmöhus län finner att utredningens förslag har stora<br>fördelar ur konkurrenssynpunkt och anser det särskilt positivt att<br>Riksbankens ensamrätt för kontoinlåning slopas. Länsstyrelsen bedömer<br>att de nya placeringsaltemativen på sikt kommer att innebära möjlighet<br>till större realränteavkastning än f.n. Det är enligt länsstyrelsen också<br>positivt att externa fondförvaltare kan användas för placering av fondens<br>medel.</p>
+<p>Statens kärnkraftinspektion (SKI) biträder utredningens förslag till<br>organisation för fondförvaltning. Genom att tillåta en friare placering av<br>fondmedel inom ramen för ett väl preciserat placeringsreglemente bör<br>enligt SKLs mening utan nämnvärt ökat risktagande en förbättrad<br>avkastning kunna nås. Risktagandet med en friare placering kan täckas<br>in i de föreslagna garantiåtagandena från kraftföretagen. Kostnaderna för<br>den friare förvaltningen torde enligt SKI bli låga i förhållande till den<br>ökade avkastningen om utredningens förslag till organisation genomförs.<br>SKI föreslår att det övervägs om inte Studsviksfonden också skall<br>omfattas av de friare placeringsreglema som nu föreslås för kämavfalls-<br>fonden och att Studsviksfonden skall förvaltas på samma sätt.</p>
+<p>Enligt Statens råd för kämavfallsfrågor (KASAM) innebär den låga<br>reala avkastningen på fondmedlen vid nuvarande bundna förvaltning av<br>medlen liksom exponeringen för inflations- och ränterisker skäl för<br>övergång till en aktiv, friare fondförvaltning. KASAM tillstyrker<br>utredningens förslag till förändrade regler för förvaltning av kämavfålls-<br>fonden. KASAM påpekar vidare att avkastningen på Riksgäldens<br>realränteobligationer bör kunna fungera som riktmärke för realräntan i<br>basscenariot och utgöra intressanta placeringsobjekt för fonden. Fonden<br>bör kunna utnyttja andra placeringsobjekt varvid emellertid gränsen 40</p>
+<p>Prop. 1995/96:83</p>
+<p>Bilaga 3</p>
+<p>procent för placering av medel i aktier kan vara väl högt satt. Vidare<br>framhålls att fonden ur effektivitetssynpunkt bör ha möjlighet att<br>investera mer än 15 procent av tillgångarna på utländska aktiemarknader</p>
+<p>För att säkra informationsflödet mellan fondens styrelse och dess<br>expertråd bör en ledamot vara gemensam. För förvaltning av medel som<br>investeras i utländska värdepapper behövs enligt KASAM flera konkurre-<br>rande externa förvaltare for att en jämförelse mellan dem skall kunna<br>ske.</p>
+<p>Svenska Kommunförbundet som i princip tillstyrker utredningens<br>förslag till ändringar i finansieringslagen pekar på att investeringar i<br>infrastruktur bör utgöra en säker och inflationsskyddad placering. Inom<br>den kommunala sfären finns t.ex. energianläggningar och vattenverk som<br>kräver en långfristig finansiering. Det fiamtida placeringsreglementet bör<br>därför innefatta möjligheter att placera i den kommunala sektorn.</p>
+<p>Bankföreningen som tillstyrker förslaget om inrättadet av Kämavfalls-<br>fonden understryker angelägenheten av att den externa förvaltningen av<br>medlen fördelas på flera förvaltare. Härigenom ges fondens styrelse<br>större handlingsutrymme och kan utnyttja konkurrensen mellan olika<br>penningplacerare. Enligt föreningen bör det också vara självklart att<br>fondens likvida medel inte bara kan placeras hos Riksbanken och<br>Riksgäldskontoret utan även i bank om detta ger högre avkastning.</p>
+<p>Barsebäck Kraft AB (BKAB) instämmer i huvudsak i utredningens<br>bedömningar och tillstyrker uppläggningen av det nya finansieringssyste-<br>met. BKAB tillstyrker en friare förvaltning som ökar avkastningen på de<br>fonderade medlen. BKAB tillstyrker principerna för hur fondmedlen bör<br>placeras och de särskilda begränsningsregler som bör gälla.</p>
+<p>BKAB anser att ytterligare förbättringar kan nås om förvaltningen av<br>medlen läggs på en fristående stiftelse under tillståndhavamas ansvar.<br>Detta skulle tydliggöra kämkraftföretagens fulla ansvar för avfall och<br>rivning samtidigt som samhällets krav på tillförlitlighet ändå kan<br>uppfyllas. Samhällets insyn i förvaltningen av medlen kan uppnås genom<br>representation i stiftelsens styrelse. Även OKG AB förordar en helt<br>fristående stiftelse for förvaltning av fondmedlen.</p>
+<p>Om alternativet med en statlig fond väljs bör representationen från<br>kämkraftsföretagen i fondens styrelse utökas- utöver de 1 till 2 platser<br>som föreslagits- med hänsyn till det ansvar för bränslecykeln som åligger<br>tillståndshavama. En större representation från kämkraftforetagen i<br>Kämavfallsfondens styrelse önskas också av Sydkraft, OKG AB,<br>Vattenfall och Svensk Kärnbränslehantering AB (SKB).</p>
+<p>Forsmarks Kraftgrupp tillstyrker i huvudsak utredningens förslag om<br>en statlig fond men konstaterar att den realränta som skall användas vid<br>beräkningen av kraftbolagens avgifter därmed görs beroende av statens<br>skicklighet att förvalta fondmedlen. Samtidigt kräver staten garantier av<br>kämkraftforetagen och/eller dess ägare för den händelse medelsför-<br>valtningen skulle visa sig mindre lyckad. Ett förvaltningssystem som</p>
+<p>Prop. 1995/96:83</p>
+<p>Bilaga 3</p>
+<p>bygger på sådana premisser är enligt Forsmarks Kraftgrupp inte Prop. 1995/96:83<br>invändningsfritt. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Bilaga 3</p>
+<p>Sydkraft framhåller att utredningens förslag negativt påverkar kraftindu-<br>strins möjligheter att agera på de finansiella marknaderna. De föreslagna<br>genomgripande förändringarna bör ske stegvis och med rimliga över-<br>gångsregler. Sker detta och tas hänsyn till Sydkrafts synpunkter i övrigt<br>tillstyrker Sydkraft utredningens förslag som det starkt sammanfattats på<br>sidan 11 i betänkandet. Sydkraft framhåller vidare att utredningen agerat<br>utifrån försiktighetsprincipen och baserat sina ekonomiska analyser på<br>mycket konservativa antaganden. En årlig förändring av realräntan med<br>4 procent under de närmaste 20 åren förefaller enligt Sydkraft sannolika-<br>re än utredningens lägre värden.</p>
+<p>Vattenfall och SKB tillstyrker förslaget att placera avgiftsmedlen så att<br>en högre förräntning uppnås än f.n.</p>
+<h3>4 Kompletterande säkerheter, m.m.</h3>
+<p>Utredningens förslag om att tillståndshavama, dvs. kämkraftforetagen<br>skall ställa säkerheter för sitt ekonomiska ansvar enligt kämtekniklagen<br>för omhändertagandet av kärnavfall tillstyrks eller godtas av en mycket<br>stor andel av remissinstanserna. Statskontoret konstaterar att det<br>föreslagna systemet med säkerheter- säkerhetsbelopp I för grundbelopp<br>och säkerhetsbelopp för tilläggsbelopp II för tilläggsbelopp- på ett<br>betydande sätt höjer säkerheten för att ägarna av kärnkraftverken i ett<br>läge med otillräckliga fondmedel kommer att kunna tillföra ytterligare<br>medel. Statskontoret tillstyrker därför förslaget och även att säkerheterna<br>skall förvaltas av SKI.</p>
+<p>RRV betonar vikten av att säkerheterna är fullgoda. Verket menar att<br>frågan om ägamas ansvar behöver redas ut och förtydligas i den blivande<br>lagtexten.Frågan kan också få betydelse om det så småningom blir<br>aktuellt att betala tillbaka pengar som inte går åt. RRV pekar även på att<br>värdet av säkerheterna måste bevakas. En inteckning i en fastighet kan<br>vara fullgod när den lämnas men ha ett betydligt sämre värde när den<br>skall realiseras vid senare tidpunkt. Också Uppsala universitet (Juridiska<br>fakultetenjtar upp frågan om betydelsen för ställda säkerheter av<br>förändringar i ägarskapet av kärnkraftverken.</p>
+<p>Umeå universitet (Samhällsvetenskapliga fåkultetsnämnden) konstaterar<br>att kraftbolagen måste ställa säkerheter i form av borgensåtaganden eller<br>realsäkerhet i andra tillgångar, vilket är likvärdigt med att medel avsätts<br>till en fond som placeras i fastigheter, vattenkraftsaktier etc. eller<br>(borgensåtaganden) köper en försäkring. Krav på säkerhet innebär således<br>inte att fonderingskravet trollas bort utan är enbart ett uttryck för en viss<br>placeringspolitik. Litet talar enligt Umeå universitet för att för att denna<br>speciella placeringspolitik skulle vara fördelaktig. Utredningens förslag</p>
+<p>60</p>
+<p>med säkerheter innebär en minst lika stor kostnad för elkonsumenten som<br>ett alternativ med höjd avgift.</p>
+<p>SKI framhåller att mer kapitalstarka ägare kan krävas om säkerheter<br>skall ställas med betydande belopp. Detta kan innebära ökad benägenhet<br>till samgående inom branschen vilket i sin tur kan minska konkurrensen<br>på elmarknaden. Inspektionen anser inte att myndigheten bör ha<br>uppgiften att förvalta säkerheterna. Det bör i stället övervägas om inte<br>den myndighet som utses att värdera säkerheterna också bör få till<br>uppgift att förvalta dem.</p>
+<p>Beträffande utredningens förslag om återbetalning av fonderade medel<br>framhåller SKI att frågan om exakt när reaktorägama fullgjort sina<br>skyldigheter och vem som då övertar ansvaret för slutförvaret behöver<br>klarläggas ytterligare. Det är angeläget att detta görs i så god tid att man<br>kan ta hänsyn härtill vid prövningen av nödvändig storlek på avgifterna.<br>Frågan om återbetalning av fondmedel är således kopplad till frågan<br>om långsiktigt innehav, övervakning och kontroll av slutförvaret.</p>
+<p>KASAM framhåller att basscenariot och överraskningsscenema behöver<br>definieras och kostnadsberäknas som underlag för festställande av<br>avgiftsunderlagsbelopp respektive säkerhetsbelopp II. KASAM konstate-<br>rar att det torde vara mycket svårt att konstruera ett system där inte<br>staten vid mycket stora brister i fonden kommer att tvingas gå in som den<br>yttersta garanten för avfallshanteringen.</p>
+<p>SKB tillstyrker att formerna för avgiftsuttag ändras i enlighet med<br>utredningens förslag, vilket innebär att avgiften baseras på kostnaderna<br>för ett troligt &quot;basscenario&quot; och att osäkerheter i kostnader, drifttid och<br>förräntning täcks upp genom ställda säkerheter. Beträffande ställandet av<br>säkerheter hänvisar SKB till de synpunkter som lämnas av kraftföretagen.</p>
+<p>Även BKAB tillstyrker förslaget med ett avgiftsgrundande basscenario<br>kompletterat med säkerheter för att säkerställa fonduppbyggnaden i<br>händelse av kortare drifttid än beräknat eller lägre realavkastning på<br>fondmedlen än som antagits. Systemet medger att inbetalningen av<br>avgifter kan baseras på realistiska beräkningar av framtida hanterings-<br>kostnader utan påslag för särskilda händelser och osäkerheter, eftersom<br>dessa tas om hand av garantisystemet. Enligt BKAB bör detta leda till ett<br>lägre avgiftsuttag än vad som hittills gällt.</p>
+<p>Både BKAB och Sydkraft AB anser att SKB:s kostnadsberäkningar<br>som skall ligga till grund för basscenariet bör rensas från ett antal<br>konservativa antaganden och pålägg. Hänsyn bör vid festställande av<br>säkerhetsbeloppen tas till de tekniska landvinningar som görs successivt.</p>
+<h3>5 Om kärnkraftens totala kostnader</h3>
+<p>Enligt sina direktiv har utredningen haft att på lämpligt sätt redovisa de<br>totala kostnaderna för elproduktionen från projektering och byggande till</p>
+<p>Prop. 1995/96:83</p>
+<p>Bilaga 3</p>
+<p>rivning och slutförvaring av kärnkraftverk inklusive kämbränslecykeln.<br>Utredningen har av tidskäl valt att i första hand behandla frågor med<br>direkt anknytning till finansieringssystemet och har därvid redovisat<br>ingående bedömningar av kostnaderna för kämavfallshantering och<br>rivning av kärnkraftverk. Utredningen framhåller att en seriöst syftande<br>studie av samtliga de frågor som aktualiseras i direktiven kräver större<br>utredningsresurser än som stått till utredningens förfogande.</p>
+<p>Statskontoret anser det lämpligt att de spörsmål som utredningen själv<br>redovisar men även vad som anförs i de särskilda yttrandena får utgöra<br>utgångspunkter för det fortsatta utredande av kärnkraftens kostnader.</p>
+<p>NUTEK anser att en utredning av såväl kostnads- som intäktssidan inom<br>energi- och miljöområdet bör vara en viktig uppgift för Energikommis-<br>sionen.</p>
+<p>Uppsala universitet anser att utredning skulle ägnat betydligt större och<br>mer kritisk uppmärksamhet åt det förhållandet att SKB har förutsatt<br>rivningskostnader som ligger lågt jämfört med andra länder. Motsvarande<br>synpunkt förs fram av Lunds universitet som tillstyrker förslaget att en<br>fortsatt utredning genomförs, t.ex. som en uppgift för Energikommissio-<br>nen. Umeå universitet pekar på behovet av en bättre kartläggning av<br>driftens riskkostnad och finner en uppgift härom i utredningens bilaga<br>vara ansvarslös .</p>
+<p>KASAM finner den prioritering utredningen gjort mycket rimlig. De<br>studier som gjorts om olika energislags sociala kostnader har hittills lett<br>till motsägande resultat. Studier av externa kostnader genomförs bl.a.<br>inom EU:s forskningsprogram. Fortsatt kunskapsuppbyggnad på detta<br>område sker lämpligast genom deltagande i denna typ av forsknings-<br>program.</p>
+<p>Prop. 1995/96:83</p>
+<p>Bilaga 3</p>
+<p>62</p>
+<h3>6 Särskilda synpunkter på lagförslaget</h3>
+<p>(Finansieringslagen; 1992:1537)</p>
+<p>Finansinspektionen anser att om möjlighet skall finnas för Kämavfells-<br>fonden att överlåta förvaltningen av vissa fondmedel till värdepappers-<br>institut eller annan kapitalförvaltare bör en närmare precisering ske i<br>förslaget till ändring av finansieringslagen.</p>
+<p>RRV m.fl. konstaterar att i förslaget till lagtext står att det är reaktorin-<br>nehavaren som skall ställa säkerhet (1§). RRV anser att att frågan om<br>ägarnas ansvar bör redas ut och förtydligas i lagtexten.</p>
+<h3>7 Övriga synpunkter</h3>
+<p>RRV påminner om att verket granskat kassahållningen i den nuvarande<br>&quot;kämavfallsfonden&quot; år 1993 och därvid framhållit att behållningen i<br>fonden kunde öka med flera 100 milj kr om betalningarna till och från<br>fonden gjordes enligt modema principer för kassahållning i staten. RRV<br>har presenterat sina slutsatser vid ett möte med utredningen för att en<br>samordning skulle kunna ske av utredningens förslag med RRV:s. Enligt<br>verket är det anmärkningsvärt att i utredningens betänkande inte på något<br>ställe tas upp de förslag som verket lämnade.</p>
+<p>Prop. 1995/96:83</p>
+<p>Bilaga 3</p>
+<p>63</p>
+<h2>Sammanfattning av Riksrevisionsverkets rapport &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Prop. 1995/96:83</h2>
+<h2>RRV 1995:22 Kämavfallsprogrammet - Producent- Bilaga 4<br>ansvar och statlig tillsyn</h2>
+<p>Riksrevisionsverket (RRV) har granskat den statliga tillsynen över det s k<br>kämavfallsprogrammet. Sedan år 1992 är det Statens kämkraftinspektion<br>(SKI) som utövar tillsynen.</p>
+<p>RRV:s slutsats av granskningen är att SKI bör sluta med sin allmänna<br>tillsyn över kämavfallsprogrammet. Det finns flera skäl. Ett är att den<br>tillsyn som bedrivits hittills knappast haft någon effekt på kämav-<br>fallsprogrammet.</p>
+<p>Sedan programmet startade år 1982 har flera olika myndigheter haft<br>ansvar för statens tillsyn över det. Tillsynen har dock inte varit särskilt<br>aktiv. Med något enstaka undantag har de olika myndigheternas tillsyn<br>inte påverkat de åtgärder som vidtagits inom ramen för programmet. En<br>bidragande orsak kan vara att tillsynsmyndigheten försvagats genom de<br>olika förändringar som gjorts av dess organisation och inriktning.</p>
+<p>Men den främsta orsaken till att tillsynen inte satt några tydliga spår är<br>att det inte varit meningen. Den svenska lagstiftningen är mycket klar när<br>det gäller fördelningen av ansvaret för kärnavfallet. Enligt lagen är det<br>ägarna till kämkraftreaktorema som har det fulla och odelade ansvaret<br>för att avfallet tas om hand på ett säkert sätt. För det ändamålet har reak-<br>torinnehavama tillsammans bildat Svensk kämbränslehantering AB<br>(SKB). På uppdrag av sina ägare planerar och driver SKB kämavfallspro-<br>grammet. Den här ansvarsfördelningen innebär att tillsynsmyndigheten<br>inte har några formella möjligheter att styra kämavfallsprogrammet. SKB<br>kan själv avgöra vilken hänsyn bolaget ska till myndighetens synpunkter.<br>För att kunna ta ansvar för kämavfallsprogrammet måste SKB själv få<br>bestämma hur det ska utformas.</p>
+<p>Enligt RRV:s bedömning hade det alltså inte spelat någon roll om<br>tillsynsmyndigheten varit mer aktiv. Lagstiftningen hade ändå hindrat<br>myndigheten från att påverka kämavfallsprogrammet. Däremot har det<br>inte funnits några formella hinder för tillsynsmyndigheten att satsa mer<br>på att analysera och sprida den information om programmet som SKB<br>redovisat i olika sammanhang. Inte minst när det gäller kostnaderna för<br>de olika delarna av programmet har det enligt RRV funnits goda<br>möjligheter att bearbeta SKB:s uppgifter. På så sätt hade myndigheten<br>kunnat förse statsmakterna med ett bättre underlag för olika beslut. En<br>tänkbar förklaring till att SKI inte arbetat mer med den här typen av<br>analyser är att myndighetens organisationskultur är naturvetenskaplig och<br>teknisk snarare än ekonomisk.</p>
+<p>Den modell som vi i Sverige valt för att organisera ansvaret för<br>kärnavfallet sätter således en skarp gräns för tillsynsmyndighetens möjlig-<br>heter att påverka. En annan viktig förklaring till att myndigheten haft litet<br>inflytande är karaktären på den verksamhet som tillsynen avser. Kämav-<br>fallsprogrammet har hittills i hög grad varit en process för att skaffa<br>kunskap om hur kärnavfallet ska tas om hand. Syftet är att ta fram en<br>metod för att slutförvara avfallet. Så länge det inte finns några formella</p>
+<p>64</p>
+<p>beslut om hur kärnavfallet ska tas om hand — eller ens något färdigt<br>förslag till lösning — kan inte tillsynsmyndigheten säga om SKB:s olika<br>åtgärder är riktiga eller felaktiga. För att kunna korrigera krävs en tydlig<br>norm. Statens krav på reaktorinnehavama är att kärnavfallet ska tas om<br>hand på ett ”säkert” sätt. Ett så allmänt krav duger inte som norm för att<br>styra processen.</p>
+<p>Men det här förhållandet kommer att ändras. När SKB så småningom<br>söker tillstånd för att få bölja bygga anläggningar for att ta hand om<br>avfallet blir det SKI:s uppgift att granska ansökan. Då finns inte längre<br>några formella hinder för vilka krav som myndigheten kan ställa på<br>SKB:s arbete eller på den metod som bolaget valt för att hantera avfallet.<br>Tvärtom måste myndighetens granskning vara helt förutsättningslös och<br>utan några låsningar. Det är den andra centrala utgångspunkten for<br>RRV:s bedömning att SKI:s löpande tillsyn över kämavfallsprogrammet<br>bör tonas ned. Ju mindre myndigheten varit inblandad i det arbete som<br>ligger till grund för SKB:s ansökan, desto större möjligheter att göra en<br>förutsättningslös granskning. Och det är SKI:s viktigaste roll i kämav-<br>fallsprogrammet.</p>
+<p>Ett generellt problem med tillsynsorganisationer är att de riskerar att<br>påverkas av tillsynsobjektets bedömningar, synsätt och värderingar. Det<br>försämrar förutsättningarna för en effektiv tillsyn. På kämavfallsområdet<br>är den risken påtaglig, anser RRV. Det finns bara en tillsynsorganisation<br>och ett tillsynsobjekt, som båda arbetar i en liten ”bransch”. Därför är<br>det naturligt att de två organisationerna får olika typer av relationer till<br>varandra. Det kan leda till att gränserna mellan organisationerna suddas<br>ut.</p>
+<p>Därför anser RRV att rollerna bör renodlas och gränserna skärpas. Det<br>är en viktig förberedelse för SKI inför granskningen av SKB:s ansökan,<br>och ett sätt att skapa förtroende för myndigheten. För vid det tillfället är<br>SKI:s enda roll den granskande myndighetens. Vaije spår av rollen som<br>informell samtals- och samarbetspartner måste vara borta om gransk-<br>ningen ska ske förutsättningslöst. I rapporten pekar RRV på en rad<br>exempel på strategiska frågor som SKI måste ta ställning till för att<br>förbereda organisationen för uppgiften att granska SKB:s ansökan. Det<br>handlar bl a om hur den forskning som SKI själv bedriver på bästa sätt<br>ska stödja granskningen, om organisationens behov av kompetens, om<br>samarbetet med andra myndigheter. Det handlar också om mindre<br>konkreta — men inte mindre viktiga — frågor som att ompröva<br>etablerade föreställningar och skaffa en beredskap för konflikter.</p>
+<p>I hög grad är det SKI själv som ska hantera de här frågorna. Det bör<br>ske inom ramen för den strategi som organisationen måste formulera<br>inför prövningen av ansökan. Men för att stödja SKI i det sammanhanget<br>lämnar RRV också en del förslag till åtgärder från statsmakternas sida.</p>
+<p>RRV föreslår</p>
+<p>• &nbsp;att SKI:s roll som prövnings- och säkerhetsmyndighet ifråga om<br>kärnavfall görs tydligare</p>
+<p>• &nbsp;att SKI:s ansvar för kämavfallsfonden tas bort</p>
+<p>• &nbsp;att ansvaret för att beräkna kärnavfållsavgiften ges till den nya</p>
+<p>5 Riksdagen 1995/96. J saml. Nr 83</p>
+<p>Prop. 1995/96:83</p>
+<p>Bilaga 4</p>
+<p>Kämavfallsfonden</p>
+<p>• &nbsp;att de treåriga FoU-programmen ses över</p>
+<p>• &nbsp;att initiativ tas till en strategi för att minska riskerna för ”capture of<br>the regulator”</p>
+<p>• &nbsp;att SKI tar fram ett program med förberedelser inför sin prövning av<br>SKB:s ansökan om att bygga djupförvar och inkapslingsstation.</p>
+<p>Prop. 1995/96:83</p>
+<p>Bilaga 4</p>
+<p>66</p>
+<h2>Sammanfattning av Riksrevisionsverkets rapport<br>F 1993:30 - Avfall - Avveckling - Avkastning<br>- kassahållning i kämavfallsfonden</h2>
+<p>Riksrevisionsverket (RRV) har inom ramen för förvaltningsrevisionen<br>granskat den s k kämavfållsfonden, som bildades 1982 enligt lagen om<br>finansiering av framtida utgifter för använt kärnbränsle m m. Fonden ska<br>finansiera omhändertagandet av utbränt kärnbränsle och annat radioaktivt<br>avfall från kämreaktorer, rivning av kärnkraftverken, transporter,<br>slutförvar samt därmed sammanhängande forskning och utvecklings-<br>arbete. Den finansieras genom en avgift på elproduktionen i kärnkraftver-<br>ken. Avgiften är cirka 2 öre per kWh.</p>
+<p>Fonden förvaltas av Statens kämkraftinspektion (SKI) medan ersättning<br>betalas ut till Svensk Kämbränslehantering AB (SKB), ett av kraftföre-<br>tagen gemensamt ägt företag.</p>
+<p>Sedan år 1982 har avgifter på cirka 15 miljarder kronor betalats in till<br>fonden och cirka 9 miljarder kronor har betalats ut för bl a mellanlagring<br>av uttjänt bränsle samt FoU. Fondbehållningen beräknas vara cirka 13<br>miljarder kronor i slutet av år 1993. De totala kostnaderna som fonden<br>ska täcka beräknas uppgå till 58 miljarder kronor i 1993 års penning-<br>värde.</p>
+<p>RRV har granskat fonden ur ett kassahållningsperspektiv. Frågan är om<br>rutinerna för inbetalning av avgifter till och utbetalning av ersättning ur<br>fonden ligger i linje med de modema kassahållningsprinciper som<br>tillämpas av staten. Enligt en förordning från 1982 ska avgifter betalas<br>in till fonden kvartalsvis i efterskott, medan utbetalning av ersättning<br>görs kvartalsvis i förskott.</p>
+<p>RRV har simulerat effekterna av ändrade betalningstidpunkter, dels för<br>åren 1982 till 1993, dels för åren 1994 till 2010. Simuleringen visar att<br>betalningstidpunkterna har stor betydelse för behållningen och därmed<br>tillväxten i kämavfallsfonden. En ändring av betalningstidpunkterna<br>skulle kunna påverka fondbehållningen med miljardbelopp. RRV:s slut-<br>sats är att betalningstidpunkterna således inte ligger i linje med de moder-<br>na kassahållningsprincipema. Dessutom har betalningsrutinernas<br>utformning lett till ett, ur fondens synvinkel, onödigt transaktionsflöde<br>mellan SKB och kraftföretagen. Dessa transaktioner sker utan statlig<br>insyn.</p>
+<p>RRV föreslår bl a att SKI ska ta initiativ till en översyn av betalnings-<br>rutinerna. Översynen bör ha som syfte att närmare ansluta betalnings-<br>tiderna till gällande kassahållningsprinciper. Exempelvis bör ersättning<br>ur fonden inte betalas ut med förskott.</p>
+<p>Prop. 1995/96:83</p>
+<p>Bilaga 5</p>
+<p>67</p>
+<p>MILJÖDEPARTEMENTET</p>
+<p>1995-10-04</p>
+<p>Prop. 1995/96:83</p>
+<p>Bilaga 6</p>
+<p>Protokoll fört vid sammanträde den 3 oktober 1995 om förslag till<br>ändringar i lagen (1992:1537) om finansiering av vissa framtida<br>utgifter för använt kärnbränsle m.m.</p>
+<p>Närvarande: Se deltagarlista</p>
+<p>Mötesan teckningar:</p>
+<p>1 §</p>
+<p>Ordföranden hälsade de närvarande välkomna och förklarade mötet<br>öppnat.</p>
+<p>Ordföranden informerade om att syftet med mötet var att informera om<br>sådana ändringar i lagen (1992:1537) om finansiering av vissa framtida<br>utgifter för använt kärnbränsle m.m. (finansieringslagen) och lagen<br>(1988:1597) om finansiering av hanteringen av visst radioaktivt avfall<br>(Studsvikslagen) som regeringen övervägde att föreslå riksdagen och som<br>inte hade redovisats i det tidigare remitterade betänkandet SOU 1994:-<br>107.</p>
+<p>De förslag till ändringar som därvid avsågs var följande:</p>
+<p>- förvaltningen av fondmedlen enligt finansieringslagen,</p>
+<p>- förvaltningen av fondmedlen enligt studsvikslagen,</p>
+<p>- frågan om information till allmänheten</p>
+<p>- frågan om finansiering av Statens råd för kämavfallsfrågor, KASAM.</p>
+<p>EN PM om förslaget till förvaltningen av fondmedlen enligt finan-<br>sieringslagen delades ut.</p>
+<p>De närvarande uppmanades att muntligen eller skriftligen överlämna sina<br>synpunkter på förslaget till Miljödepartementet.</p>
+<p>2§</p>
+<p>Ordföranden redovisade kortfattat för innehållet i de olika förslagen till<br>ändringar.</p>
+<p>Erik Utterström, Finansdepartementet, redogjorde mer detaljerat för<br>förslaget till förvaltning av fondmedlen enligt finansieringslagen.</p>
+<p>68</p>
+<p>3 §</p>
+<p>Företrädare för KASAM framförde kritik beträffande förslaget till<br>förvaltning av fondmedlen enligt finansieringslagen. De konstaterade att<br>den överlämnade promemorian inte är tillräckligt uttömmande för att<br>kunna utgöra en grund för ett övervägt ställningstagande till förslaget.<br>KASAM avvisade dock inte principiellt lösningar som innebär att<br>fonderade medel placeras på konto hos Riksgäldskontoret. Kämbränsle-<br>fondutredningens förslag till en friare förvaltning av fondmedlen ansågs<br>dock vara ett bättre alternativ.</p>
+<p>KASAM ansåg att det var ytterst olyckligt för trovärdigheten i den<br>svenska modellen för kämavfallshantering, att motiv som rör beräkningen<br>av den svenska statsskulden, skall styra val av modell för förvaltningen<br>fondmedlen.</p>
+<p>4 §</p>
+<p>Företrädare för Vattenfall AB, Sydkraftkoncemen och Svensk Kämbräns-<br>lehantering AB, SKB, konstaterade, med reservation för den kortfattade<br>information som lämnats, att förslaget med inlåning av fondmedlen i<br>Riksgäldskontoret ger fördelar beträffande ränteavkastningen jämfört med<br>dagens placering i Riksbanken. Hänvisningen till Riksgäldens realräntelån<br>inger dock inte förtroende. Det är tveksamt om det går att få tillstånd en<br>fungerande realräntemarknad i Sverige. Kärnbränslefondsutredningens<br>förslag förslag med en friare förvaltning är dock ojämförligt mycket<br>bättre. En diversifierad portfölj av den typ utredningen föreslog erbjuder<br>bästa avkastning till lägsta motsvarande risk. Genom att hänvisa<br>fondmedlen till Riksgäldskontoret som enda alternativ försätter dessutom<br>den föreslagna placeringsdelegationen i en omöjlig förhandlingssituation.<br>Regeringens förslag innebär en icke diversifierad portfölj med högre både<br>nominell och real risk än om utredningens förslag hade genomförts.</p>
+<p>Företrädarna för SKB påminde om att medlen var &quot;öronmärkta&quot; enligt<br>lag och att eventuella brister i de uppbyggda fondema är reaktorinneha-<br>vama tvungna att täcka. De rigorösa arrangemangen för att säkerställa<br>att medel finns tillgängliga i framtiden, för att på bästa sätt ta om hand<br>kärnavfallet, har en mycket stor betydelse för förtroendet bland allmän-<br>heten. Att utnyttja fondmedlen som tillgång i annat sammanhang kan<br>därför leda till att förtroendet hos allmänheten urgröps. Detta kan få<br>mycket allvarliga konsekvenser för möjligheten att genomföra det<br>svenska kämavfallsprogrammet.</p>
+<p>Prop. 1995/96:83</p>
+<p>Bilaga 6</p>
+<p>Det antecknas att företrädare för Forsmarks kraftgrupp, Vattenfall, SKB,<br>Sydkraft, KASAM och SKI inkommit med skriftliga yttranden med i<br>huvudsak samma inställning som antecknats ovan.</p>
+<p>Deltagarlista:</p>
+<p>Prop. 1995/96:83</p>
+<p>Bilaga 6</p>
+<p>Mårten Eriksson, SKI</p>
+<p>Ulf Gustafson, SKI</p>
+<p>Sören Norrby, SKI</p>
+<p>Hans Forsström, SKB<br>Sten Bjurström, SKB</p>
+<p>Stig Sandklef, Vattenfåll</p>
+<p>Åke Hugosson, Sydkraft</p>
+<p>A-M Thunberg, KASAM<br>Nils Rydell, KASAM<br>Lotta Wes ter häll, KASAM<br>Olof Söderberg, KASAM</p>
+<p>Maria Gerholm, N-dep<br>Eric Utterström, Fi-dep<br>Vibeke Sylten, M-dep<br>Stefan Rubenson, M-dep<br>Ingvar Persson, M-dep</p>
+<p>70</p>
+<h2>Lagrådsremissens lagförslag</h2>
+<h3>1 Förslag till lag om ändring i lagen (1992:1537) om finan-<br>siering av framtida utgifter för använt kärnbränsle m.m.</h3>
+<p>Härigenom föreskrivs i fråga om lagen (1992:1537) om finansiering av<br>framtida utgifter for använt kärnbränsle m.m.,</p>
+<p>dels att 7 § skall betecknas 1 a §,</p>
+<p>dels att den nya 1 a § skall ha följande lydelse,</p>
+<p>dels att 1, 2, 3, 4, 6, 8 och 9 §§ skall ha följande lydelse,</p>
+<p>dels att det i lagen skall införas sju nya paragrafer, 2 a, 7 - 7 b och 8<br>a - 8 c §§, av följande lydelse.</p>
+<p>Prop. 1995/96:83</p>
+<p>Bilaga 7</p>
+<p>Nuvarande lydelse</p>
+<p>Avgifter skall betalas enligt<br>denna lag för att finansiera dels<br>omhändertagande av använt<br>kärnbränsle och annat radioaktivt<br>avfåll från kämkraftsreaktorer,<br>dels vissa kostnader som staten<br>har enligt denna lag och enligt<br>lagen (1984:3) om kärnteknisk<br>verksamhet.</p>
+<p>Avgift skall betalas av den som<br>har tillstånd att inneha eller driva<br>en kämkraftsreaktor (reaktorin-<br>nehavaren). Avgiften skall beta-<br>las årligen så länge reaktorn är i<br>drift.</p>
+<p>(7 § första meningen)</p>
+<p>Avgiften skall betalas till den<br>myndighet som regeringen be-<br>stämmer.</p>
+<p>Avgifisskyldigheten avseende<br>omhändertagande omfattar kost-</p>
+<p>Föreslagen lydelse</p>
+<p>§</p>
+<p>Avgifter skall betalas enligt<br>denna lag för att finansiera dels<br>omhändertagande av använt<br>kärnbränsle och annat radioaktivt<br>avfall från kämkraftsreaktorer,<br>dels vissa andra kostnader enligt<br>denna lag och enligt lagen<br>(1984:3) om kärnteknisk verk-<br>samhet.</p>
+<p>För sådana kostnader för om-<br>händertagande som inte täcks av<br>inbetalade avgiftsmedel skall<br>säkerheter ställas.</p>
+<p>Avgift skall betalas och säker-<br>heter ställas av den som har till-<br>stånd att inneha eller driva en<br>kämkraftsreaktor (reaktorinneha-<br>varen). Avgiften skall betalas<br>årligen så länge reaktorn är i<br>drift.</p>
+<p>lai</p>
+<p>Avgiften skall betalas till den<br>myndighet som regeringen be-<br>stämmer. Dessa avgiftsmedel<br>skall föras över till en fond, be-<br>nämnd Kämavfallsfonden.</p>
+<p>2 §</p>
+<p>Skyldigheten att betala avgift<br>och ställa säkerheter för omhän-</p>
+<p>nader för</p>
+<p>dertagande omfattar kostnader Prop. 1995/96:83<br>för &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Bilaga 7</p>
+<p>1. en säker hantering och slutförvaring av i reaktorn använt kärnbränsle<br>och radioaktivt avfåll som härrör från detta efter det att kärnbränslet eller<br>avfallet har förts bort från anläggningen,</p>
+<p>2. en säker avveckling och rivning av reaktoranläggningen,</p>
+<p>3. den forsknings- och utvecklingsverksamhet som behövs för att vad<br>som avses i 1 och 2 skall kunna fullgöras.</p>
+<p>Reaktorinnehavaren skall i<br>samråd med övriga reaktorin-<br>nehavare beräkna kostnaderna<br>för omhändertagandet. En sådan<br>beräkning skall innehålla en<br>uppskattning av dels kostnader-<br>na för samtliga de åtgärder som<br>kan behövas, dels kostnaderna<br>för de åtgärder som avses bli<br>vidtagna inom en tidrymd om<br>minst tre år.</p>
+<p>2a 5</p>
+<p>Reaktorinnehavaren skall ställa<br>Juligoda säkerheter till den myn-<br>dighet som regeringen bestäm-<br>mer. Säkerheterna skall motsvara<br>de kostnaderför omhändertagan-<br>de som anges i 3 § första stycket<br>2 och 3. Säkerheter behöver inte<br>ställas för belopp som täcks av<br>reaktorinnehavarens andel i<br>Kämavfallsfonden.</p>
+<p>En fastighet på vilken det be-<br>drivs kärnteknisk verksamhet får<br>inte utgöra säkerhet.</p>
+<p>Regeringen eller den myndighet<br>som regeringen bestämmer skall<br>pröva säkerheterna. Ett beslut<br>som rör den ställda säkerheten<br>får ändras när det finns anled-<br>ning till det.</p>
+<p>3 §</p>
+<p>Reaktorinnehavaren skall i<br>samråd med övriga reaktorin-<br>nehavare beräkna kostnaderna<br>för omhändertagandet. En sådan<br>beräkning skall innehålla en<br>uppskattning av 1. kostnaderna<br>för samtliga åtgärder som kan<br>behövas då reaktorn drivits i 25<br>år samt, om drifttiden för reak-<br>torn överstiger 25 år, kostnaden<br>för tillkommande åtgärder varje<br>är därutöver (belopp för avgifts-<br>underlag),</p>
+<p>2. de kostnader enligt 1 som<br>kan härföras till det kärnbränsle<br>som har använts när beräkningen<br>görs (grundbelopp), om driftti-</p>
+<p>72</p>
+<p>den för reaktorn understiger 25<br>år,</p>
+<p>3. skäliga kostnader för till-<br>kommande åtgärder som beror<br>på oplanerade händelser (till-<br>läggsbelopp).</p>
+<p>Av beräkningen skall dessutom<br>framgå kostnaderna för de åt-<br>gärder som avses bli vidtagna<br>inom en tidrymd om minst tre<br>år.</p>
+<p>Kostnadsberäkningen skall vaije år ses över och lämnas till regeringen<br>eller den myndighet som regeringen bestämmer.</p>
+<h4>4 §</h4>
+<p>Utöver kostnaderna för omhän- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Utöver kostnader för omhän-</p>
+<p>dertagande skall avgifterna täcka dertagande skall avgifterna täcka<br>statens kostnader för att &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;statens kostnader för att</p>
+<p>Prop. 1995/96:83</p>
+<p>Bilaga 7</p>
+<p>1. komplettera forsknings- och utvecklingsverksamhet som avses i 2 §</p>
+<p>3 samt pröva frågor härom,</p>
+<p>2. pröva frågor som avses i 5<br>§ första stycket och 8 § andra<br>stycket denna lag,</p>
+<p>2. pröva frågor som avses i 5 §<br>första stycket, 2 a § tredje styck-<br>et och 8 b - 8c § § denna lag,</p>
+<p>3. pröva frågor om övervakning och kontroll av slutförvar enligt 16 §<br>lagen (1984:3) om kärnteknisk verksamhet.</p>
+<p>Avgifterna skall vidare täcka de<br>kostnader som reaktorinnehavar-<br>na, staten eller kommunerna har<br>för information till allmänheten i<br>frågor som rör hantering och<br>slutförvaring av använt kärn-<br>bränsle och kärnavfall.</p>
+<p>Avgiften bestäms så att de<br>sammanlagda avgiftsbeloppen<br>som betalas under reaktorns<br>drifttid täcker kostnaderna för<br>omhändertagandet och statens<br>kostnader enligt 4 §.</p>
+<p>Avgiften bestäms så att de sam-<br>manlagda avgiftsbeloppen täcker<br>de kostnader för omhändertagan-<br>det som avses i 3 § första stycket<br>1 och kostnaderna enligt 4 §.</p>
+<p>Vid avgiftsberäkningen skall hänsyn tas till tidigare åtgärder för<br>omhändertagande av använt kärnbränsle och radioaktivt avfall som härrör<br>från detta, reaktoranläggningens beskaffenhet och övriga omständigheter</p>
+<p>73</p>
+<p>som kan påverka avgiftens storlek.</p>
+<h4>7§</h4>
+<p>Prop. 1995/96:83</p>
+<p>Bilaga 7</p>
+<p>(7 § andra meningen)<br>Myndigheten skall sätta in med-<br>len pä räntebärande konto i<br>Riksbanken.</p>
+<p>(7 § tredje meningen)</p>
+<p>Räntan skall läggas till kapitalet.</p>
+<p>(8 § första stycket)</p>
+<p>De avgifter som betalats av<br>reaktorinnehavaren skall använ-<br>das for att ersätta innehavaren<br>för kostnader för omhänderta-<br>gandet samt för att täcka statens<br>kostnader för åtgärder enligt 4 §<br>hänförliga till reaktorn och<br>bränsle som använts i reaktorn.</p>
+<p>Kämavfallsfonden leds av en<br>styrelse, som skall förvalta med-<br>len i fonden enligt 7 a - 7 b §§.<br>Styrelsen skall årligen till rege-<br>ringen lämna en redovisning som<br>avser förvaltningen under det<br>gångna året.</p>
+<p>Regeringen utser styrelse i<br>Kämavfallsfonden och förordnar<br>om revisorer för granskning av<br>styrelsens förvaltning.</p>
+<p>7 ai</p>
+<p>Kämavfallsfondens medel skall<br>placeras på konto i Riksgälds-<br>kontoret.</p>
+<p>Medlen i Kämavfallsfonden<br>skall förvaltas så att kraven på<br>en god och real avkastning och<br>tillfredsställande betalningsbe-<br>redskap tillgodoses.</p>
+<p>Avkastningen på fondens medel<br>skall läggas till kapitalet.</p>
+<p>7b i</p>
+<p>Regeringen får meddela närma-<br>re föreskrifter om Kämavfalls-<br>fonden och om fondens förvalt-<br>ning.</p>
+<p>§</p>
+<p>Reaktorinnehavarens andel av<br>medlen i Kämavfallsfonden skall<br>användas för att ersätta inne-<br>havaren för kostnader för om-<br>händertagandet samt för att täcka<br>kostnader för åtgärder enligt 4 §<br>hänförliga till reaktorn och<br>bränsle som använts i reaktorn.<br>Medlen skall också användas för<br>att bekosta Kämavfallsfondens<br>verksamhet.</p>
+<p>74</p>
+<p>( 8 § andra stycket)</p>
+<p>Frågor om användning av av-<br>giftsmedlen prövas av regeringen<br>eller den myndighet som rege-<br>ringen bestämmer.</p>
+<p>Reaktorinnehavaren skall på<br>begäran lämna de upplysningar<br>och tillhandahålla de handlingar<br>som behövs för att regeringen<br>eller den myndighet som rege-<br>ringen bestämmer skall kunna<br>fastställa avgiftens storlek och</p>
+<p>8a §</p>
+<p>Medel i Kämavfallsfonden som<br>inte behövs för det ändamål som<br>anges i 8 § skall återbetalas till<br>reaktorinnehavaren när</p>
+<p>1. allt det kärnbränsle som an-<br>vänts i reaktorn och allt det<br>radioaktiva avfall som härrör<br>från detta har placerats i slutför-<br>var och</p>
+<p>2. &nbsp;reaktoranläggningen har<br>avvecklats och rivits.</p>
+<p>Medel i fonden som inte behövs<br>får återbetalas innan dess, om<br>det finns särskilda skäl för det.</p>
+<p>8 b §</p>
+<p>Om medlen i Kämavfallsfonden<br>visar sig otillräckliga och åt-<br>gärderna inte vidtas av reaktor-<br>innehavaren, får regeringen<br>besluta att säkerheterna skall<br>utnyttjas för att finansiera åt-<br>gärderför omhändertagande som<br>avses i 2 §. Om reaktorn drivs<br>kortare tid än 25 år, får rege-<br>ringen dessutom besluta att<br>säkerheterna får utnyttjas för att<br>tillföra Kämavfallsfonden medel<br>som motsvarar de avgifter som<br>beräknas falla bort på grund av<br>den begränsade drifttiden.</p>
+<p>8 cl</p>
+<p>Frågor om användning och<br>återbetalning av avgiftsmedlen<br>prövas av regeringen eller den<br>myndighet som regeringen be-<br>stämmer.</p>
+<p>§</p>
+<p>Reaktorinnehavaren skall på<br>begäran lämna de upplysningar<br>och tillhandahålla de handlingar<br>som behövs för att regeringen<br>eller den myndighet som rege-<br>ringen bestämmer skall kunna<br>fastställa avgiftens storlek och<br></p>
+<p>Prop. 1995/96:83</p>
+<p>Bilaga 7</p>
+<p>pröva frågor om användningen<br>av medlen. I den utsträckning<br>det behövs skall reaktorinnehava-<br>ren på begäran även lämna<br>tillträde till anläggningar eller<br>platser där använt kärnbränsle<br>eller radioaktivt avfåll som<br>härrör från detta förvaras eller<br>hanteras.</p>
+<p>behovet av säkerheter samt pröva<br>frågor om användningen av med-<br>len. I den utsträckning det be-<br>hövs skall reaktorinnehavaren på<br>begäran även lämna tillträde till<br>anläggningar eller platser där<br>använt kärnbränsle eller radio-<br>aktivt avfall som härrör från<br>detta förvaras eller hanteras.</p>
+<p>Prop. 1995/96:83</p>
+<p>Bilaga 7</p>
+<p>1. Denna lag träder i kraft den 1 januari 1996.</p>
+<p>2. Behållningen av de avgifter som inbetalats före ikraftträdandet skall<br>föras över till Kämavfallsfonden för förvaltning enligt denna lag.</p>
+<p>76</p>
+<h3>2 Förslag till lag om ändring av lagen (1988:1597) om<br>finansiering av hanteringen av visst radioaktivt avfall m.m.</h3>
+<p>Härigenom föreskrivs att 3 § lagen (1988:1597) om finansiering av<br>hanteringen av visst radioaktivt avfell m.m. skall ha följande lydelse.</p>
+<p>Nuvarande lydelse</p>
+<p>Föreslagen lydelse</p>
+<p>Prop. 1995/96:83</p>
+<p>Bilaga 7</p>
+<p>3</p>
+<p>Avgiften är 0,15 öre för vaije levererad kilowattimme elström.<br>Avgiften skall betalas till Statens kämkraftinspektion.</p>
+<p>Avgiftsmedlen skall föras över<br>till Kämavfallsfonden som för-<br>valtar medlen särskilt. För för-<br>valtningen i övrigt gäller regler-<br>na i 7 - 7 b §§ lagen (1992:-<br>1537) om finansiering av fram-<br>tida utgifter för använt kärn-<br>bränsle m.m.</p>
+<p>1. Denna lag träder i kraft den 1 januari 1996.</p>
+<p>2. Behållningen av de avgifter som inbetalats före ikraftträdandet skall<br>föras över till Kämavlållsfonden för förvaltning enligt denna lag.</p>
+<p>77</p>
+<p>‘Senaste lydelse 1993:1677.</p>
+<h2>Lagrådet</h2>
+<p>Utdrag ur protokoll vid sammanträde 1995-10-12</p>
+<p>Närvarande: f.d. regeringsrådet Bertil Voss, justitierådet Johan Munck<br>och regeringsrådet Karl-Ingvar Rundqvist.</p>
+<p>Enligt en lagrådsremiss den 5 oktober 1995 (Miljödepartementet) har<br>regeringen beslutat inhämta Lagrådets yttrande över förslag till</p>
+<p>1. lag om ändring i lagen (1992:1537) om finansiering av framtida<br>utgifter för använt kärnbränsle m.m.,</p>
+<p>2. lag om ändring i lagen (1988:1597) om finansiering av hanteringen av<br>visst radioaktivt avfall m.m.</p>
+<p>Förslagen har inför Lagrådet föredragits av hovrättsassessorn Vibeke<br>Sylten.</p>
+<p>Lagrådet lämnar förslagen utan erinran.</p>
+<p>Prop. 1995/96:83</p>
+<p>Bilaga 8</p>
+<p>78</p>
+<h2>Miljödepartementet &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Prop. 1995/96:83</h2>
+<p>Utdrag ur protokoll vid regeringssammanträde den 19 oktober 1995</p>
+<p>Närvarande: statsministern Carlsson, ordförande, och statsråden</p>
+<p>Sahlin, Hjelm-Wallén, Hellström, Frei valds, Persson, Tham,</p>
+<p>Hedborg, Andersson, Winberg, Uusmann, Nygren, Ulvskog,</p>
+<p>Sundström, Lindh, Johansson</p>
+<p>Föredragande: Anna Lindh</p>
+<p>Regeringen beslutar proposition 1995/96:83 Säkrare finansiering av<br>framtida kämavfallskostnader m.m.</p>
+<p>79</p>
+<h2>Rättsdatablad</h2>
+<table border="1">
+<tr><td>
+<p>Författningsrubrik</p></td><td>
+<p>Bestämmelser som &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Celexnummer för</p>
+<p>inför, ändrar, upp- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;bakomliggande EG-</p>
+<p>häver eller upprepar &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;regler</p>
+<p>ett normgivningsbe-<br>myndigande</p></td></tr>
+<tr><td>
+<p>Lagen (1992:1537)<br>om finansiering av<br>framtida utgifter för<br>använt kärnbränsle m.m.</p></td><td>
+<p>1 a §, 7 b §</p></td></tr>
+</table>
+<p>gotab 49099. Stockholm 1995</p>
+<p>Prop. 1995/96:83</p>
+<p>80</p>

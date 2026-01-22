@@ -1,0 +1,835 @@
+SEARCH TERM: AI
+DOCUMENT ID: gs0365d3
+TITLE: Århuskonventionen
+TYPE: prop
+SUBTYPE: prop
+DATE: 2005-01-26
+PARLIAMENTARY YEAR: 2004/05
+ORGANISATION: M  t.o.m. 1 jan-07
+STATUS: hämtad_2
+DOWNLOADED: 2026-01-22 10:29:03
+================================================================================
+
+<div style="margin:3px;">
+<STYLE type="text/css">
+
+body {margin-top: 0px;margin-left: 0px;}
+
+#page_1 {position:relative; overflow: hidden;z:b;margin:18px 0px 17px 10px ;padding: 0px;border: none;width: 811px;}
+#page_1 #id_1 {border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 766px;overflow: hidden;}
+#page_1 #id_2 {border:none;z:b;margin:8px 0px 0px 10px ;padding: 0px;border:none;width: 811px;overflow: hidden;}
+#page_1 #id_2 #id_2_1 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 496px;overflow: hidden;}
+#page_1 #id_2 #id_2_2 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 451px;overflow: hidden;}
+
+#page_1 #dimg1z{position:absolute;top:891px;left:0px;z-index:-1;width:68px;height:1px;font-size: 1px !important;l-h:nHeight;}
+#page_1 #dimg1 #img1  {width:68px;height:1px;}
+
+
+
+
+#page_2 {position:relative; overflow: hidden;z:b;margin:18px 0px 17px 10px ;padding: 0px;border: none;width: 902px;}
+#page_2 #id_1 {border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 766px;overflow: hidden;}
+#page_2 #id_2 {border:none;z:b;margin:6px 0px 0px 10px ;padding: 0px;border:none;width: 856px;overflow: hidden;}
+#page_2 #id_2 #id_2_1 {float:left;border:none;z:b;margin:1px 0px 0px 10px ;padding: 0px;border:none;width: 496px;overflow: hidden;}
+#page_2 #id_2 #id_2_2 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 451px;overflow: hidden;}
+
+#page_2 #dimg1z{position:absolute;top:960px;left:0px;z-index:-1;width:426px;height:1px;font-size: 1px !important;l-h:nHeight;}
+#page_2 #dimg1 #img1  {width:426px;height:1px;}
+
+
+
+
+#page_3 {position:relative; overflow: hidden;z:b;margin:18px 0px 17px 10px ;padding: 0px;border: none;width: 902px;}
+#page_3 #id_1 {border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 766px;overflow: hidden;}
+#page_3 #id_2 {border:none;z:b;margin:6px 0px 0px 10px ;padding: 0px;border:none;width: 856px;overflow: hidden;}
+#page_3 #id_2 #id_2_1 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 496px;overflow: hidden;}
+#page_3 #id_2 #id_2_2 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 451px;overflow: hidden;}
+
+#page_3 #dimg1z{position:absolute;top:754px;left:441px;z-index:-1;width:69px;height:1px;font-size: 1px !important;l-h:nHeight;}
+#page_3 #dimg1 #img1  {width:69px;height:1px;}
+
+
+
+
+#page_4 {position:relative; overflow: hidden;z:b;margin:18px 0px 17px 10px ;padding: 0px;border: none;width: 902px;}
+#page_4 #id_1 {border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 766px;overflow: hidden;}
+#page_4 #id_2 {border:none;z:b;margin:6px 0px 0px 10px ;padding: 0px;border:none;width: 856px;overflow: hidden;}
+#page_4 #id_2 #id_2_1 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 496px;overflow: hidden;}
+#page_4 #id_2 #id_2_2 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 451px;overflow: hidden;}
+
+
+
+
+
+#page_5 {position:relative; overflow: hidden;z:b;margin:18px 0px 17px 10px ;padding: 0px;border: none;width: 902px;}
+#page_5 #id_1 {border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 766px;overflow: hidden;}
+#page_5 #id_2 {border:none;z:b;margin:6px 0px 0px 10px ;padding: 0px;border:none;width: 856px;overflow: hidden;}
+#page_5 #id_2 #id_2_1 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 496px;overflow: hidden;}
+#page_5 #id_2 #id_2_2 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 451px;overflow: hidden;}
+
+
+
+
+
+#page_6 {position:relative; overflow: hidden;z:b;margin:18px 0px 68px 10px ;padding: 0px;border: none;width: 902px;height: 637px;}
+#page_6 #id_1 {border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 766px;overflow: hidden;}
+#page_6 #id_2 {border:none;z:b;margin:4px 0px 0px 10px ;padding: 0px;border:none;width: 856px;overflow: hidden;}
+#page_6 #id_2 #id_2_1 {float:left;border:none;z:b;margin:3px 0px 0px 10px ;padding: 0px;border:none;width: 496px;overflow: hidden;}
+#page_6 #id_2 #id_2_2 {float:left;border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 451px;overflow: hidden;}
+
+#page_6 #dimg1z{position:absolute;top:636px;left:378px;z-index:-1;width:34px;height:1px;font-size: 1px !important;l-h:nHeight;}
+#page_6 #dimg1 #img1  {width:34px;height:1px;}
+
+
+
+
+#page_7 {position:relative; overflow: hidden;z:b;margin:18px 0px 17px 10px ;padding: 0px;border: none;width: 902px;}
+#page_7 #id_1 {border:none;z:b;margin:0px 0px 0px 10px ;padding: 0px;border:none;width: 856px;overflow: hidden;}
+#page_7 #id_2 {border:none;z:b;margin:94px 0px 0px 10px ;padding: 0px;border:none;width: 766px;overflow: hidden;}
+
+#page_7 #dimg1z{position:absolute;top:301px;left:63px;z-index:-1;width:290px;height:630px;}
+#page_7 #dimg1 #img1  {width:290px;height:630px;}
+
+
+
+
+#page_8 {position:relative; overflow: hidden;z:b;margin:18px 0px 60px 10px ;padding: 0px;border: none;width: 902px;height: 705px;}
+
+#page_8 #dimg1z{position:absolute;top:656px;left:84px;z-index:-1;width:286px;height:49px;}
+#page_8 #dimg1 #img1  {width:286px;height:49px;}
+
+
+
+
+.ft0{font:  12px 'Verdana' !important;l-h: 14px;}
+.ft1{font:  12px 'Verdana' !important;l-h: 16px;}
+.ft2{font:  10px 'Verdana' !important;l-h: 4px;}
+.ft3{font: bold  12px 'Verdana' !important;l-h: 18px;}
+.ft4{font: bold  12px 'Verdana' !important;l-h: 16px;}
+.ft5{font:  10px 'Verdana' !important;l-h: 7px;position: relative; bottom: 4px;}
+.ft6{font:  10px 'Verdana' !important;l-h: 13px;}
+.ft7{font:  12px 'Verdana' !important;margin-left: 22px;l-h: 16px;}
+.ft8{font:  12px 'Verdana' !important;margin-left: 22px;l-h: 14px;}
+.ft9{font:  12px 'Verdana' !important;margin-left: 22px;l-h: 15px;}
+.ft10{font:  12px 'Verdana' !important;l-h: 15px;}
+.ft11{font:  10px 'Verdana' !important;l-h: 12px;}
+.ft12{font:  10px 'Verdana' !important;l-h: 6px;position: relative; bottom: 4px;}
+.ft13{font:  12px 'Verdana' !important;l-h: 12px;}
+.ft14{font:  12px 'Verdana' !important;margin-left: 16px;l-h: 14px;}
+.ft15{font:  12px 'Verdana' !important;margin-left: 16px;l-h: 14px;}
+.ft16{font:  12px 'Verdana' !important;l-h: 14px;}
+.ft17{font: italic  12px 'Verdana' !important;l-h: 16px;}
+.ft18{font:  12px 'Verdana' !important;margin-left: 6px;l-h: 16px;}
+.ft19{font:  12px 'Verdana' !important;margin-left: 20px;l-h: 15px;}
+.ft20{font: italic  12px 'Verdana' !important;l-h: 15px;}
+.ft21{font:  12px 'Verdana' !important;l-h: 15px;}
+.ft22{font:  12px 'Verdana' !important;margin-left: 20px;l-h: 14px;}
+.ft23{font:  12px 'Verdana' !important;margin-left: 6px;l-h: 14px;}
+.ft24{font:  12px 'Verdana' !important;margin-left: 6px;l-h: 15px;}
+.ft25{font:  12px 'Verdana' !important;margin-left: 19px;l-h: 15px;}
+.ft26{font:  12px 'Verdana' !important;margin-left: 19px;l-h: 14px;}
+.ft27{font:  12px 'Verdana' !important;margin-left: 19px;l-h: 14px;}
+.ft28{font:  12px 'Verdana' !important;l-h: 13px;}
+.ft29{font: italic  12px 'Verdana' !important;l-h: 15px;}
+.ft30{font:  12px 'Verdana' !important;l-h: 15px;}
+.ft31{font:  12px 'Verdana' !important;margin-left: 7px;l-h: 14px;}
+.ft32{font:  12px 'Verdana' !important;margin-left: 6px;l-h: 15px;}
+.ft33{font:  12px 'Verdana' !important;margin-left: 19px;l-h: 16px;}
+.ft34{font:  12px 'Verdana' !important;margin-left: 7px;l-h: 16px;}
+.ft35{font:  12px 'Verdana' !important;margin-left: 7px;l-h: 15px;}
+.ft36{font:  12px 'Verdana' !important;margin-left: 7px;l-h: 14px;}
+.ft37{font: italic  12px 'Verdana' !important;l-h: 15px;}
+.ft38{font: italic  12px 'Verdana' !important;margin-left: 7px;l-h: 14px;}
+.ft39{font:  12px 'Verdana' !important;margin-left: 6px;l-h: 15px;}
+.ft40{font:  10px 'Verdana' !important;l-h: 1px;}
+.ft41{font: italic  10px 'Verdana' !important;l-h: 12px;}
+.ft42{font: italic  12px 'Verdana' !important;l-h: 14px;}
+.ft43{font: bold  12px 'Verdana' !important;l-h: 14px;}
+.ft44{font:  10px 'Verdana' !important;l-h: 6px;position: relative; bottom: 3px;}
+.ft45{font:  10px 'Verdana' !important;l-h: 11px;}
+.ft46{font:  10px 'Verdana' !important;l-h: 6px;position: relative; bottom: 3px;}
+.ft47{font:  10px 'Verdana' !important;l-h: 12px;}
+.ft48{font:  10px 'Verdana' !important;l-h: 11px;}
+.ft49{font:  12px 'Verdana' !important;margin-left: 6px;l-h: 13px;}
+
+.p0{text-align: right;padding-right: 42px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p1{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p2{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p3{text-align: left;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p4{text-align: left;padding-left: 260px;padding-right: 168px;margin-top: 30px;margin-bottom: 0px !important;text-indent: 0.126px;}
+.p5{text-align: center;padding-left: 0px;padding-right: 63px;margin-top: 3px;margin-bottom: 0px !important;}
+.p6{text-align: left;padding-right: 42px;margin-top: 0px;margin-bottom: 0px !important;}
+.p7{text-align: left;padding-right: 21px;margin-top: 26px;margin-bottom: 0px !important;}
+.p8{text-align: left;margin-top: 26px;margin-bottom: 0px !important;}
+.p9{text-align: left;padding-right: 21px;margin-top: 27px;margin-bottom: 0px !important;}
+.p10{text-align: left;padding-right: 21px;margin-top: 27px;margin-bottom: 0px !important;}
+.p11{text-align: left;margin-top: 24px;margin-bottom: 0px !important;}
+.p12{text-align: left;padding-left: 0px;padding-right: 21px;margin-top: 28px;margin-bottom: 0px !important;text-indent: 0.34px;}
+.p13{text-align: left;padding-left: 0px;padding-right: 21px;margin-top: 23px;margin-bottom: 0px !important;text-indent: 0.34px;}
+.p14{text-align: left;padding-left: 0px;padding-right: 21px;margin-top: 30px;margin-bottom: 0px !important;text-indent: 0.34px;}
+.p15{text-align: left;padding-left: 0px;padding-right: 21px;margin-top: 24px;margin-bottom: 0px !important;text-indent: 0.34px;}
+.p16{text-align: left;padding-right: 189px;margin-top: 15px;margin-bottom: 0px !important;}
+.p17{text-align: left;margin-top: 2px;margin-bottom: 0px !important;}
+.p18{text-align: left;padding-left: 0px;padding-right: 21px;margin-top: 0px;margin-bottom: 0px !important;text-indent: 0.14px;}
+.p19{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;text-indent: 0.34px;}
+.p20{text-align: left;padding-left: 0px;margin-top: 66px;margin-bottom: 0px !important;text-indent: 0.34px;}
+.p21{text-align: left;padding-left: 0px;margin-top: 67px;margin-bottom: 0px !important;text-indent: 0.34px;}
+.p22{text-align: left;padding-left: 0px;margin-top: 63px;margin-bottom: 0px !important;text-indent: 0.34px;}
+.p23{text-align: right;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p24{text-align: left;padding-left: 0px;padding-right: 21px;margin-top: 0px;margin-bottom: 0px !important;text-indent: 0.34px;}
+.p25{text-align: left;padding-left: 0px;padding-right: 21px;margin-top: 26px;margin-bottom: 0px !important;text-indent: 0.34px;}
+.p26{text-align: left;margin-top: 77px;margin-bottom: 0px !important;}
+.p27{text-align: left;padding-left: 0px;margin-top: 48px;margin-bottom: 0px !important;}
+.p28{text-align: left;padding-left: 0px;margin-top: 23px;margin-bottom: 0px !important;}
+.p29{text-align: left;padding-right: 21px;margin-top: 23px;margin-bottom: 0px !important;}
+.p30{text-align: left;padding-left: 0px;padding-right: 21px;margin-top: 15px;margin-bottom: 0px !important;text-indent: 0.15px;}
+.p31{text-align: left;padding-left: 0px;padding-right: 21px;margin-top: 13px;margin-bottom: 0px !important;text-indent: 0.16px;}
+.p32{text-align: left;padding-left: 0px;margin-top: 44px;margin-bottom: 0px !important;}
+.p33{text-align: left;padding-left: 0px;padding-right: 21px;margin-top: 23px;margin-bottom: 0px !important;text-indent: 0.138px;}
+.p34{text-align: left;padding-right: 21px;margin-top: 20px;margin-bottom: 0px !important;}
+.p35{text-align: left;padding-right: 21px;margin-top: 23px;margin-bottom: 0px !important;}
+.p36{text-align: left;padding-left: 0px;padding-right: 21px;margin-top: 14px;margin-bottom: 0px !important;text-indent: 0.14px;}
+.p37{text-align: left;margin-top: 3px;margin-bottom: 0px !important;}
+.p38{text-align: left;margin-top: 0px;margin-bottom: 0px !important;}
+.p39{text-align: left;padding-left: 0px;padding-right: 42px;margin-top: 14px;margin-bottom: 0px !important;text-indent: 0.15px;}
+.p40{text-align: left;padding-left: 0px;padding-right: 42px;margin-top: 30px;margin-bottom: 0px !important;text-indent: 0.16px;}
+.p41{text-align: left;padding-left: 0px;padding-right: 42px;margin-top: 12px;margin-bottom: 0px !important;text-indent: 0.15px;}
+.p42{text-align: left;padding-left: 0px;padding-right: 42px;margin-top: 7px;margin-bottom: 0px !important;text-indent: 0.16px;}
+.p43{text-align: left;padding-right: 42px;margin-top: 22px;margin-bottom: 0px !important;}
+.p44{text-align: left;padding-right: 42px;margin-top: 19px;margin-bottom: 0px !important;}
+.p45{text-align: left;padding-right: 42px;margin-top: 21px;margin-bottom: 0px !important;}
+.p46{text-align: left;padding-right: 42px;margin-top: 17px;margin-bottom: 0px !important;}
+.p47{text-align: left;padding-left: 0px;margin-top: 21px;margin-bottom: 0px !important;}
+.p48{text-align: left;margin-top: 22px;margin-bottom: 0px !important;}
+.p49{text-align: left;margin-top: 14px;margin-bottom: 0px !important;}
+.p50{text-align: left;margin-top: 15px;margin-bottom: 0px !important;}
+.p51{text-align: left;padding-left: 0px;padding-right: 42px;margin-top: 0px;margin-bottom: 0px !important;text-indent: 0.14px;}
+.p52{text-align: left;padding-left: 0px;padding-right: 21px;margin-top: 0px;margin-bottom: 0px !important;}
+.p53{text-align: left;padding-left: 0px;padding-right: 21px;margin-top: 19px;margin-bottom: 0px !important;}
+.p54{text-align: left;margin-top: 25px;margin-bottom: 0px !important;}
+.p55{text-align: left;padding-left: 0px;padding-right: 21px;margin-top: 8px;margin-bottom: 0px !important;}
+.p56{text-align: left;padding-left: 0px;padding-right: 21px;margin-top: 11px;margin-bottom: 0px !important;text-indent: 0.18px;}
+.p57{text-align: left;padding-left: 0px;padding-right: 21px;margin-top: 10px;margin-bottom: 0px !important;text-indent: 0.16px;}
+.p58{text-align: left;margin-top: 26px;margin-bottom: 0px !important;}
+.p59{text-align: left;padding-left: 0px;padding-right: 21px;margin-top: 11px;margin-bottom: 0px !important;}
+.p60{text-align: left;padding-left: 0px;margin-top: 28px;margin-bottom: 0px !important;}
+.p61{text-align: left;padding-left: 0px;padding-right: 21px;margin-top: 24px;margin-bottom: 0px !important;text-indent: 0.16px;}
+.p62{text-align: left;padding-left: 0px;padding-right: 21px;margin-top: 21px;margin-bottom: 0px !important;text-indent: 0.15px;}
+.p63{text-align: left;padding-left: 0px;padding-right: 21px;margin-top: 26px;margin-bottom: 0px !important;text-indent: 0.16px;}
+.p64{text-align: left;padding-left: 0px;padding-right: 21px;margin-top: 22px;margin-bottom: 0px !important;text-indent: 0.15px;}
+.p65{text-align: left;padding-left: 0px;padding-right: 21px;margin-top: 23px;margin-bottom: 0px !important;text-indent: 0.13px;}
+.p66{text-align: left;padding-left: 0px;padding-right: 21px;margin-top: 22px;margin-bottom: 0px !important;text-indent: 0.15px;}
+.p67{text-align: left;padding-left: 0px;padding-right: 42px;margin-top: 0px;margin-bottom: 0px !important;}
+.p68{text-align: left;padding-left: 0px;padding-right: 42px;margin-top: 18px;margin-bottom: 0px !important;text-indent: 0.16px;}
+.p69{text-align: left;padding-left: 0px;padding-right: 42px;margin-top: 37px;margin-bottom: 0px !important;text-indent: 0.16px;}
+.p70{text-align: left;padding-left: 0px;padding-right: 42px;margin-top: 41px;margin-bottom: 0px !important;text-indent: 0.15px;}
+.p71{text-align: left;padding-left: 0px;padding-right: 42px;margin-top: 46px;margin-bottom: 0px !important;}
+.p72{text-align: left;padding-left: 0px;padding-right: 42px;margin-top: 38px;margin-bottom: 0px !important;}
+.p73{text-align: left;padding-left: 0px;padding-right: 42px;margin-top: 44px;margin-bottom: 0px !important;}
+.p74{text-align: left;padding-left: 0px;margin-top: 13px;margin-bottom: 0px !important;}
+.p75{text-align: left;margin-top: 42px;margin-bottom: 0px !important;}
+.p76{text-align: left;padding-left: 0px;margin-top: 20px;margin-bottom: 0px !important;}
+.p77{text-align: left;padding-left: 0px;padding-right: 42px;margin-top: 20px;margin-bottom: 0px !important;}
+.p78{text-align: left;padding-left: 0px;padding-right: 21px;margin-top: 0px;margin-bottom: 0px !important;text-indent: 0.16px;}
+.p79{text-align: left;padding-left: 0px;padding-right: 21px;margin-top: 20px;margin-bottom: 0px !important;text-indent: 0.16px;}
+.p80{text-align: left;padding-left: 0px;padding-right: 21px;margin-top: 22px;margin-bottom: 0px !important;}
+.p81{text-align: left;padding-left: 0px;padding-right: 21px;margin-top: 27px;margin-bottom: 0px !important;}
+.p82{text-align: left;padding-left: 0px;padding-right: 21px;margin-top: 6px;margin-bottom: 0px !important;}
+.p83{text-align: left;margin-top: 24px;margin-bottom: 0px !important;}
+.p84{text-align: left;padding-left: 0px;margin-top: 11px;margin-bottom: 0px !important;}
+.p85{text-align: left;padding-left: 0px;padding-right: 21px;margin-top: 11px;margin-bottom: 0px !important;}
+.p86{text-align: left;padding-left: 0px;padding-right: 21px;margin-top: 14px;margin-bottom: 0px !important;text-indent: 0.18px;}
+.p87{text-align: left;padding-left: 0px;padding-right: 21px;margin-top: 22px;margin-bottom: 0px !important;text-indent: 0.18px;}
+.p88{text-align: left;padding-left: 0px;padding-right: 21px;margin-top: 21px;margin-bottom: 0px !important;text-indent: 0.18px;}
+.p89{text-align: left;padding-left: 0px;margin-top: 10px;margin-bottom: 0px !important;}
+.p90{text-align: left;padding-left: 0px;padding-right: 21px;margin-top: 26px;margin-bottom: 0px !important;}
+.p91{text-align: left;margin-top: 0px;margin-bottom: 0px !important;}
+.p92{text-align: left;padding-left: 0px;margin-top: 25px;margin-bottom: 0px !important;}
+.p93{text-align: left;padding-left: 0px;padding-right: 42px;margin-top: 24px;margin-bottom: 0px !important;}
+.p94{text-align: left;padding-left: 0px;margin-top: 7px;margin-bottom: 0px !important;}
+.p95{text-align: left;padding-left: 0px;padding-right: 42px;margin-top: 25px;margin-bottom: 0px !important;text-indent: 0.16px;}
+.p96{text-align: left;padding-left: 0px;padding-right: 42px;margin-top: 20px;margin-bottom: 0px !important;}
+.p97{text-align: left;padding-left: 0px;padding-right: 42px;margin-top: 27px;margin-bottom: 0px !important;}
+.p98{text-align: left;padding-left: 0px;padding-right: 42px;margin-top: 22px;margin-bottom: 0px !important;}
+.p99{text-align: left;padding-left: 0px;padding-right: 42px;margin-top: 41px;margin-bottom: 0px !important;}
+.p100{text-align: left;padding-left: 0px;padding-right: 42px;margin-top: 26px;margin-bottom: 0px !important;}
+.p101{text-align: left;padding-left: 0px;padding-right: 42px;margin-top: 23px;margin-bottom: 0px !important;}
+.p102{text-align: left;padding-left: 0px;padding-right: 42px;margin-top: 10px;margin-bottom: 0px !important;text-indent: 0.30px;}
+.p103{text-align: left;padding-left: 0px;padding-right: 42px;margin-top: 24px;margin-bottom: 0px !important;text-indent: 0.16px;}
+.p104{text-align: left;padding-left: 0px;margin-top: 9px;margin-bottom: 0px !important;}
+.p105{text-align: left;padding-left: 0px;margin-top: 0px;margin-bottom: 0px !important;}
+.p106{text-align: left;padding-left: 0px;margin-top: 36px;margin-bottom: 0px !important;}
+.p107{text-align: left;margin-top: 37px;margin-bottom: 0px !important;}
+.p108{text-align: left;padding-left: 0px;margin-top: 10px;margin-bottom: 0px !important;}
+.p109{text-align: left;padding-left: 0px;padding-right: 21px;margin-top: 10px;margin-bottom: 0px !important;}
+.p110{text-align: left;padding-left: 0px;padding-right: 21px;margin-top: 11px;margin-bottom: 0px !important;text-indent: 0.26px;}
+.p111{text-align: left;padding-left: 0px;padding-right: 21px;margin-top: 9px;margin-bottom: 0px !important;text-indent: 0.23px;}
+.p112{text-align: left;padding-left: 0px;padding-right: 21px;margin-top: 12px;margin-bottom: 0px !important;text-indent: 0.22px;}
+.p113{text-align: left;margin-top: 22px;margin-bottom: 0px !important;}
+.p114{text-align: left;padding-left: 0px;margin-top: 7px;margin-bottom: 0px !important;}
+.p115{text-align: left;padding-left: 0px;padding-right: 21px;margin-top: 24px;margin-bottom: 0px !important;text-indent: 0.18px;}
+.p116{text-align: left;padding-left: 0px;padding-right: 21px;margin-top: 22px;margin-bottom: 0px !important;text-indent: 0.18px;}
+.p117{text-align: left;padding-left: 0px;padding-right: 21px;margin-top: 19px;margin-bottom: 0px !important;}
+.p118{text-align: left;padding-left: 0px;padding-right: 21px;margin-top: 9px;margin-bottom: 0px !important;}
+.p119{text-align: left;padding-left: 0px;padding-right: 42px;margin-top: 0px;margin-bottom: 0px !important;text-indent: 0.15px;}
+.p120{text-align: left;padding-left: 0px;padding-right: 42px;margin-top: 24px;margin-bottom: 0px !important;text-indent: 0.16px;}
+.p121{text-align: left;padding-left: 0px;margin-top: 26px;margin-bottom: 0px !important;}
+.p122{text-align: left;padding-left: 0px;margin-top: 8px;margin-bottom: 0px !important;}
+.p123{text-align: left;padding-left: 0px;padding-right: 42px;margin-top: 24px;margin-bottom: 0px !important;}
+.p124{text-align: left;padding-left: 0px;padding-right: 42px;margin-top: 42px;margin-bottom: 0px !important;}
+.p125{text-align: left;padding-left: 0px;margin-top: 1px;margin-bottom: 0px !important;}
+.p126{text-align: left;padding-left: 0px;padding-right: 21px;margin-top: 1px;margin-bottom: 0px !important;}
+.p127{text-align: left;padding-left: 0px;margin-top: 18px;margin-bottom: 0px !important;}
+.p128{text-align: left;padding-left: 0px;padding-right: 21px;margin-top: 1px;margin-bottom: 0px !important;}
+.p129{text-align: left;padding-left: 0px;padding-right: 21px;margin-top: 0px;margin-bottom: 0px !important;}
+.p130{text-align: left;padding-left: 0px;padding-right: 21px;margin-top: 20px;margin-bottom: 0px !important;text-indent: 0.16px;}
+.p131{text-align: left;padding-left: 0px;margin-top: 13px;margin-bottom: 0px !important;}
+.p132{text-align: left;padding-left: 0px;margin-top: 6px;margin-bottom: 0px !important;}
+.p133{text-align: left;padding-right: 21px;margin-top: 8px;margin-bottom: 0px !important;}
+.p134{text-align: left;padding-right: 42px;margin-top: 0px;margin-bottom: 0px !important;}
+.p135{text-align: left;padding-left: 0px;margin-top: 17px;margin-bottom: 0px !important;}
+.p136{text-align: left;padding-left: 0px;margin-top: 6px;margin-bottom: 0px !important;}
+.p137{text-align: left;padding-right: 42px;margin-top: 8px;margin-bottom: 0px !important;}
+.p138{text-align: left;padding-right: 42px;margin-top: 5px;margin-bottom: 0px !important;}
+.p139{text-align: left;padding-left: 0px;margin-top: 6px;margin-bottom: 0px !important;}
+.p140{text-align: left;margin-top: 8px;margin-bottom: 0px !important;}
+.p141{text-align: left;padding-left: 0px;margin-top: 6px;margin-bottom: 0px !important;}
+.p142{text-align: center;padding-right: 42px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p143{text-align: center;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p144{text-align: center;padding-right: 1px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p145{text-align: center;padding-right: 42px;margin-top: 0px;margin-bottom: 0px !important;white-space: nowrap;}
+.p146{text-align: left;padding-left: 280px;margin-top: 31px;margin-bottom: 0px !important;}
+.p147{text-align: left;padding-left: 120px;margin-top: 15px;margin-bottom: 0px !important;}
+.p148{text-align: left;padding-left: 0px;margin-top: 16px;margin-bottom: 0px !important;}
+.p149{text-align: left;padding-left: 0px;padding-right: 126px;margin-top: 4px;margin-bottom: 0px !important;text-indent: 0.15px;}
+.p150{text-align: left;padding-left: 0px;padding-right: 126px;margin-top: 3px;margin-bottom: 0px !important;text-indent: 0.14px;}
+.p151{text-align: left;padding-left: 0px;margin-top: 3px;margin-bottom: 0px !important;}
+.p152{text-align: left;padding-left: 0px;padding-right: 126px;margin-top: 4px;margin-bottom: 0px !important;text-indent: 0.14px;}
+.p153{text-align: left;padding-left: 0px;padding-right: 126px;margin-top: 2px;margin-bottom: 0px !important;text-indent: 0.12px;}
+.p154{text-align: left;padding-right: 147px;margin-top: 0px;margin-bottom: 0px !important;}
+.p155{text-align: left;padding-right: 294px;margin-top: 0px;margin-bottom: 0px !important;}
+.p156{text-align: left;padding-left: 280px;margin-top: 31px;margin-bottom: 0px !important;}
+.p157{text-align: left;padding-left: 0px;margin-top: 15px;margin-bottom: 0px !important;}
+.p158{text-align: left;padding-left: 0px;margin-top: 16px;margin-bottom: 0px !important;}
+.p159{text-align: left;padding-left: 0px;margin-top: 15px;margin-bottom: 0px !important;}
+.p160{text-align: left;padding-left: 0px;padding-right: 126px;margin-top: 16px;margin-bottom: 0px !important;text-indent: 0.14px;}
+.p161{text-align: left;padding-left: 0px;padding-right: 126px;margin-top: 1px;margin-bottom: 0px !important;text-indent: 0.14px;}
+.p162{text-align: left;padding-left: 0px;padding-right: 126px;margin-top: 3px;margin-bottom: 0px !important;text-indent: 0.15px;}
+.p163{text-align: left;padding-left: 0px;padding-right: 126px;margin-top: 3px;margin-bottom: 0px !important;text-indent: 0.14px;}
+.p164{text-align: left;padding-left: 0px;margin-top: 1px;margin-bottom: 0px !important;}
+.p165{text-align: left;padding-left: 0px;margin-top: 4px;margin-bottom: 0px !important;}
+.p166{text-align: left;padding-left: 0px;margin-top: 4px;margin-bottom: 0px !important;}
+.p167{text-align: left;padding-left: 0px;margin-top: 5px;margin-bottom: 0px !important;}
+.p168{text-align: left;padding-left: 0px;margin-top: 7px;margin-bottom: 0px !important;}
+.p169{text-align: left;padding-left: 0px;padding-right: 126px;margin-top: 4px;margin-bottom: 0px !important;text-indent: 0.14px;}
+.p170{text-align: left;padding-left: 0px;padding-right: 126px;margin-top: 1px;margin-bottom: 0px !important;text-indent: 0.15px;}
+.p171{text-align: left;padding-left: 0px;margin-top: 3px;margin-bottom: 0px !important;}
+.p172{text-align: left;padding-left: 0px;padding-right: 126px;margin-top: 7px;margin-bottom: 0px !important;text-indent: 0.14px;}
+.p173{text-align: left;padding-left: 0px;padding-right: 126px;margin-top: 2px;margin-bottom: 0px !important;text-indent: 0.14px;}
+.p174{text-align: left;padding-left: 0px;margin-top: 12px;margin-bottom: 0px !important;}
+
+.td0{border-right: #000000 1px solid;padding: 0px;margin: 0px;width: 98px;vertical-align: bottom;}
+.td1{border-right: #000000 1px solid;border-top: #000000 1px solid;border-bottom: #000000 1px solid;padding: 0px;margin: 0px;width: 34px;vertical-align: bottom;}
+.td2{padding: 0px;margin: 0px;width: 531px;vertical-align: bottom;}
+.td3{padding: 0px;margin: 0px;width: 49px;vertical-align: bottom;}
+.td4{border-bottom: #000000 1px solid;padding: 0px;margin: 0px;width: 99px;vertical-align: bottom;}
+.td5{border-bottom: #000000 1px solid;padding: 0px;margin: 0px;width: 35px;vertical-align: bottom;}
+.td6{border-bottom: #000000 1px solid;padding: 0px;margin: 0px;width: 531px;vertical-align: bottom;}
+.td7{border-bottom: #000000 1px solid;padding: 0px;margin: 0px;width: 49px;vertical-align: bottom;}
+.td8{padding: 0px;margin: 0px;width: 424px;vertical-align: bottom;}
+.td9{padding: 0px;margin: 0px;width: 156px;vertical-align: bottom;}
+.td10{border-bottom: #000000 1px solid;padding: 0px;margin: 0px;width: 424px;vertical-align: bottom;}
+.td11{border-bottom: #000000 1px solid;padding: 0px;margin: 0px;width: 156px;vertical-align: bottom;}
+.td12{padding: 0px;margin: 0px;width: 215px;vertical-align: bottom;}
+.td13{padding: 0px;margin: 0px;width: 80px;vertical-align: bottom;}
+
+.tr0{heightzzz: 17px;}
+.tr1{heightzzz: 15px;}
+.tr2{heightzzz: 4px;}
+.tr3{heightzzz: 21px;}
+.tr4{heightzzz: 38px;}
+.tr5{heightzzz: 18px;}
+.tr6{heightzzz: 20px;}
+
+.t0{width: 750px;f:11px 'Verdana' !important;}
+.t1{width: 750px;f:13px 'Verdana' !important;}
+.t2{width: 310px;margin-top: 29px;f:italic 9px 'Verdana' !important;}
+
+</STYLE>
+
+
+
+<DIV id="page_1">
+<DIV id="dimg1">
+<INGENBILD zsrc="GS0365d31x1.jpg/" id="img1">
+</DIV>
+
+
+<DIV id="id_1">
+<TABLE cellpadding=0 cellspacing=0 class="t0">
+<TR>
+	<TD class="tr0 td0"><SPAN class="p0 ft0">25.6.2003</SPAN> </TD>
+	<TD class="tr1 td1"><SPAN class="p1 ft0">SV</SPAN> </TD>
+	<TD class="tr0 td2"><SPAN class="p2 ft1">Europeiska unionens officiella tidning</SPAN> </TD>
+	<TD class="tr0 td3"><SPAN class="p3 ft0">L 156/17</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr2 td4"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr2 td5"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr2 td6"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr2 td7"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+</TABLE>
+<P class="p4 ft3">EUROPAPARLAMENTETS OCH RÅDETS DIREKTIV 2003/35/EG av den 26 maj 2003</P>
+<P class="p5 ft4">om åtgärder för allmänhetens deltagande i utarbetandet av vissa planer och program avseende miljön och om ändring, med avseende på allmänhetens deltagande och rätt till rättslig prövning, av rådets direktiv 85/337/EEG och 96/61/EG</P>
+</DIV>
+<DIV id="id_2">
+<DIV id="id_2_1">
+<P class="p6 ft0">EUROPAPARLAMENTET OCH EUROPEISKA UNIONENS RÅD HAR ANTAGIT DETTA DIREKTIV</P>
+<P class="p7 ft1">med beaktande av Fördraget om upprättandet av Europeiska gemenskapen, särskilt artikel 175 i detta,</P>
+<P class="p8 ft1">med beaktande av kommissionens förslag (<SPAN class="ft5">1</SPAN>),</P>
+<P class="p9 ft1">med beaktande av Europeiska ekonomiska och sociala kommitténs yttrande (<SPAN class="ft5">2</SPAN>),</P>
+<P class="p8 ft1">med beaktande av Regionkommitténs yttrande (<SPAN class="ft5">3</SPAN>),</P>
+<P class="p10 ft1">i enlighet med förfarandet i artikel 251 i fördraget (<SPAN class="ft5">4</SPAN>), på grundval av det gemensamma utkast som förlikningskommittén godkände den 15 januari 2003, och</P>
+<P class="p11 ft1">av följande skäl:</P>
+<P class="p12 ft1"><SPAN class="ft6">(1)</SPAN><SPAN class="ft7">Syftet med gemenskapens miljölagstiftning är att bidra till att bevara, skydda och förbättra miljöns kvalitet och att skydda människors hälsa.</SPAN></P>
+<P class="p13 ft0"><SPAN class="ft6">(2)</SPAN><SPAN class="ft8">Gemenskapens miljölagstiftning innehåller bestämmelser som ger offentliga myndigheter och andra organ rätt att fatta beslut som kan ha betydande inverkan såväl på miljön som på människors hälsa och välbefinnande.</SPAN></P>
+<P class="p14 ft10"><SPAN class="ft6">(3)</SPAN><SPAN class="ft9">Om allmänheten faktiskt deltar i beslutsprocessen har den möjlighet att avge yttranden och uttrycka farhågor som kan vara relevanta för besluten, och beslutsfattaren får möjlighet att beakta dessa, vilket ökar ansvarigheten och öppenheten i beslutsprocessen och bidrar till att öka allmänhetens miljömedvetenhet och stöd för fattade beslut.</SPAN></P>
+<P class="p15 ft0"><SPAN class="ft11">(4)</SPAN><SPAN class="ft8">Deltagande, bland annat av sammanslutningar, organisationer och grupper, särskilt </SPAN><NOBR>icke-statliga</NOBR> miljöskyddsorganisationer, bör därför främjas, bland annat genom miljöupplysning till allmänheten.</P>
+<P class="p16 ft13">(<SPAN class="ft12">1</SPAN>) EGT C 154 E, 29.5.2001, s. 123. (<SPAN class="ft12">2</SPAN>) EGT C 221, 7.8.2001, s. 65.</P>
+<P class="p17 ft0">(<SPAN class="ft12">3</SPAN>) EGT C 357, 14.12.2001, s. 58.</P>
+<P class="p18 ft13">(<SPAN class="ft12">4</SPAN>) Europaparlamentets yttrande av den 23 oktober 2001 (ännu ej offentliggjort i EUT), rådets gemensamma ståndpunkt av den 25 april 2002 (EGT C 170 E, 16.7.2002, s. 22) och Europaparlamentets beslut av den 5 september 2002 (ännu ej offentliggjort i EUT). Europaparlamentets beslut av den 30 januari 2003 och rådets beslut av den 4 mars 2003.</P>
+</DIV>
+<DIV id="id_2_2">
+<P class="p19 ft0"><SPAN class="ft6">(5)</SPAN><SPAN class="ft8">Gemenskapen undertecknade den 25 juni 1998 FN/ECE- konventionen om tillgång till information, allmänhetens deltagande i beslut och rätt till överprövning i miljöfrågor (”Århuskonventionen”). Gemenskapslagstiftningen bör anpassas till konventionen med tanke på gemenskapens kommande ratificering.</SPAN></P>
+<P class="p20 ft0"><SPAN class="ft6">(6)</SPAN><SPAN class="ft8">Ett av Århuskonventionens mål är att garantera allmänhetens rätt att delta i beslut i miljöfrågor för att bidra till att skydda rätten att leva i en miljö som är tillfredsställande för människors hälsa och välbefinnande.</SPAN></P>
+<P class="p20 ft0"><SPAN class="ft6">(7)</SPAN><SPAN class="ft8">Artikel 6 i Århuskonventionen innehåller bestämmelser om allmänhetens deltagande i beslut om de särskilda verksamheter som tas upp i bilaga I till konventionen och om andra verksamheter som inte tas upp där men som kan ha betydande inverkan på miljön.</SPAN></P>
+<P class="p21 ft10"><SPAN class="ft6">(8)</SPAN><SPAN class="ft9">Artikel 7 i Århuskonventionen innehåller bestämmelser om allmänhetens deltagande i utarbetandet av planer och program på miljöområdet.</SPAN></P>
+<P class="p22 ft0"><SPAN class="ft6">(9)</SPAN><SPAN class="ft8">Artikel 9.2 och 9.4 i Århuskonventionen innehåller bestämmelser om rätt till domstolsprövning eller andra förfaranden för prövning av den materiella och formella giltigheten av ett beslut, en handling eller en underlåtenhet som omfattas av bestämmelserna om allmänhetens deltagande i artikel 6 i konventionen.</SPAN></P>
+<P class="p20 ft0"><SPAN class="ft11">(10)</SPAN><SPAN class="ft14">Det bör införas bestämmelser med avseende på vissa direktiv på miljöområdet enligt vilka det krävs att medlemsstaterna skall utarbeta planer och program för miljön, men som inte innehåller tillräckliga bestämmelser om allmänhetens deltagande, för att säkerställa allmänhetens deltagande i enlighet med bestämmelserna i Århuskonventionen, särskilt artikel 7 i denna. I annan berörd gemenskapslagstiftning ställs redan krav på allmänhetens deltagande i utarbetandet av planer och program, och i framtiden kommer att ingå i berörd lagstiftning från början, i enlighet med Århuskonventionen krav på allmänhetens deltagande.</SPAN></P>
+</DIV>
+</DIV>
+</DIV>
+<DIV id="page_2">
+<DIV id="dimg1">
+<INGENBILD zsrc="GS0365d32x1.jpg/" id="img1">
+</DIV>
+
+
+<DIV id="id_1">
+<TABLE cellpadding=0 cellspacing=0 class="t1">
+<TR>
+	<TD class="tr0 td0"><SPAN class="p3 ft1">L 156/18</SPAN> </TD>
+	<TD class="tr1 td1"><SPAN class="p1 ft0">SV</SPAN> </TD>
+	<TD class="tr0 td8"><SPAN class="p2 ft1">Europeiska unionens officiella tidning</SPAN> </TD>
+	<TD class="tr0 td9"><SPAN class="p23 ft1">25.6.2003</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr2 td4"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr2 td5"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr2 td10"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr2 td11"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+</TABLE>
+</DIV>
+<DIV id="id_2">
+<DIV id="id_2_1">
+<P class="p24 ft16"><SPAN class="ft6">(11)</SPAN><SPAN class="ft15">Rådets direktiv 85/337/EEG av den 27 juni 1985 om bedömning av inverkan på miljön av vissa offentliga och privata projekt (</SPAN><SPAN class="ft12">1</SPAN>) och rådets direktiv 96/61/EG av den 24 september 1996 om samordnade åtgärder för att förebygga och begränsa föroreningar (<SPAN class="ft12">2</SPAN>) bör ändras så att de fullt ut överensstämmer med bestämmelserna i Århuskonventionen, särskilt artikel 6 och artikel 9.2 och 9.4 i denna.</P>
+<P class="p25 ft0"><SPAN class="ft6">(12)</SPAN><SPAN class="ft14">Eftersom målet för den föreslagna åtgärden, nämligen att bidra till genomförande av förpliktelserna enligt Århuskonventionen, inte i tillräcklig utsträckning kan uppnås av medlemsstaterna och det därför, på grund av åtgärdens omfattning och verkningar, bättre kan uppnås på gemenskapsnivå, kan gemenskapen vidta åtgärder i enlighet med subsidiaritetsprincipen i artikel 5 i fördraget. I enlighet med proportionalitetsprincipen i samma artikel går detta direktiv inte utöver vad som är nödvändigt för att uppnå detta mål.</SPAN></P>
+<P class="p26 ft0">HÄRIGENOM FÖRESKRIVS FÖLJANDE.</P>
+<P class="p27 ft17">Artikel 1</P>
+<P class="p28 ft4">Syfte</P>
+<P class="p29 ft10">Syftet med detta direktiv är att bidra till genomförande av förpliktelserna enligt Århuskonventionen, särskilt genom att</P>
+<P class="p30 ft1"><SPAN class="ft6">a)</SPAN><SPAN class="ft18">föreskriva att allmänheten skall delta i utarbetandet av vissa planer och program på miljöområdet,</SPAN></P>
+<P class="p31 ft1"><SPAN class="ft0">b)</SPAN><SPAN class="ft18">förbättra allmänhetens deltagande och fastställa bestämmelser om rätt till rättslig prövning inom ramen för rådets direktiv 85/337/EEG och 96/61/EG.</SPAN></P>
+<P class="p32 ft17">Artikel 2</P>
+<P class="p33 ft4">Allmänhetens deltagande i utarbetandet av planer och program</P>
+<P class="p34 ft21"><SPAN class="ft0">1.</SPAN><SPAN class="ft19">I denna artikel avses med </SPAN><SPAN class="ft20">allmänheten </SPAN>en eller flera fysiska eller juridiska personer och, i enlighet med nationell lagstiftning eller praxis, sammanslutningar, organisationer eller grupper av dessa.</P>
+<P class="p35 ft0"><SPAN class="ft0">2.</SPAN><SPAN class="ft22">Medlemsstaterna skall se till att allmänheten på ett tidigt stadium ges möjlighet till faktiskt deltagande i förberedande och ändringar eller översyn av de planer eller program som skall utarbetas enligt bestämmelserna i bilaga I.</SPAN></P>
+<P class="p36 ft13">(<SPAN class="ft12">1</SPAN>) EGT L 175, 5.7.1985, s. 40. Direktivet ändrat genom direktiv 97/ 11/EG (EGT L 73, 14.3.1997, s. 5).</P>
+<P class="p37 ft0">(<SPAN class="ft12">2</SPAN>) EGT L 257, 10.10.1996, s. 26.</P>
+</DIV>
+<DIV id="id_2_2">
+<P class="p38 ft1">För detta ändamål skall medlemsstaterna säkerställa följande:</P>
+<P class="p39 ft0"><SPAN class="ft6">a)</SPAN><SPAN class="ft23">Att allmänheten informeras genom offentliga meddelanden eller på annat lämpligt sätt, t.ex. med hjälp av elektroniska medier när sådana är tillgängliga, om förslag till och ändringar eller översyn av sådana planer och program samt att relevant information om sådana förslag görs tillgänglig för allmänheten, bland annat information om rätten att delta i beslutsprocessen och om vilken behörig myndighet som synpunkter eller frågor kan lämnas till.</SPAN></P>
+<P class="p40 ft1"><SPAN class="ft0">b)</SPAN><SPAN class="ft18">Att allmänheten har rätt att yttra sig när alla alternativ är öppna innan beslut om planer och program fattas.</SPAN></P>
+<P class="p41 ft1"><SPAN class="ft6">c)</SPAN><SPAN class="ft18">Att det i beslutsprocessen tas vederbörlig hänsyn till resultatet av allmänhetens deltagande.</SPAN></P>
+<P class="p42 ft21"><SPAN class="ft0">d)</SPAN><SPAN class="ft24">Att den behöriga myndigheten, efter det att den granskat allmänhetens kommentarer och synpunkter, gör rimliga ansträngningar för att informera allmänheten om de beslut som fattats, om de skäl och överväganden som besluten grundar sig på samt om förfarandet för allmänhetens deltagande.</SPAN></P>
+<P class="p43 ft10"><SPAN class="ft10">3.</SPAN><SPAN class="ft25">Medlemsstaterna skall fastställa vilken allmänhet som har rätt att delta i enlighet med punkt 2, inbegripet relevanta ickestatliga organisationer som uppfyller kraven i nationell lagstiftning, exempelvis miljöskyddsorganisationer.</SPAN></P>
+<P class="p44 ft21">De närmare bestämmelserna om allmänhetens deltagande enligt denna artikel skall fastställas av medlemsstaterna för att göra det möjligt för allmänheten att förbereda sig och delta på ett effektivt sätt.</P>
+<P class="p45 ft1">Det skall fastställas rimliga tidsramar som ger tillräckligt med tid för var och en av de olika etapper för allmänhetens deltagande som anges i denna artikel.</P>
+<P class="p46 ft0"><SPAN class="ft10">4.</SPAN><SPAN class="ft26">Denna artikel skall inte omfatta planer och program som endast syftar till att tjäna nationellt försvar eller civil beredskap.</SPAN></P>
+<P class="p43 ft16"><SPAN class="ft16">5.</SPAN><SPAN class="ft27">Denna artikel skall inte omfatta planer och program i bilaga I för vilka ett förfarande för allmänhetens deltagande genomförs enligt Europaparlamentets och rådets direktiv 2001/ 42/EG av den 27 juni 2001 om bedömning av vissa planers och programs miljöpåverkan (</SPAN><SPAN class="ft12">3</SPAN>) eller enligt Europaparlamentets och rådets direktiv 2000/60/EG av den 23 oktober 2000 om upprättande av en ram för gemenskapens åtgärder på vattenpolitikens område (<SPAN class="ft12">4</SPAN>).</P>
+<P class="p27 ft17">Artikel 3</P>
+<P class="p47 ft4">Ändring av direktiv 85/337/EEG</P>
+<P class="p48 ft1">Direktiv 85/337/EEG ändras på följande sätt:</P>
+<P class="p49 ft1">1. I artikel 1.2 skall följande definitioner läggas till:</P>
+<P class="p50 ft28">(<SPAN class="ft12">3</SPAN>) EGT L 197, 21.7.2001, s. 30.</P>
+<P class="p51 ft0">(<SPAN class="ft12">4</SPAN>) EGT L 327, 22.12.2000, s. 1. Direktivet senast ändrat genom beslut nr 2455/2001/EG (EGT L 331, 15.12.2001, s. 1).</P>
+</DIV>
+</DIV>
+</DIV>
+<DIV id="page_3">
+<DIV id="dimg1">
+<INGENBILD zsrc="GS0365d33x1.jpg/" id="img1">
+</DIV>
+
+
+<DIV id="id_1">
+<TABLE cellpadding=0 cellspacing=0 class="t0">
+<TR>
+	<TD class="tr0 td0"><SPAN class="p0 ft0">25.6.2003</SPAN> </TD>
+	<TD class="tr1 td1"><SPAN class="p1 ft0">SV</SPAN> </TD>
+	<TD class="tr0 td2"><SPAN class="p2 ft1">Europeiska unionens officiella tidning</SPAN> </TD>
+	<TD class="tr0 td3"><SPAN class="p3 ft0">L 156/19</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr2 td4"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr2 td5"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr2 td6"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr2 td7"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+</TABLE>
+</DIV>
+<DIV id="id_2">
+<DIV id="id_2_1">
+<P class="p52 ft30">”<SPAN class="ft29">allmänheten</SPAN>: en eller flera fysiska eller juridiska personer och, i enlighet med nationell lagstiftning eller praxis, sammanslutningar, organisationer eller grupper av dessa.</P>
+<P class="p53 ft21"><SPAN class="ft20">den berörda allmänheten</SPAN>: den allmänhet som berörs eller kan antas bli berörd av, eller som har ett intresse av, de beslutsprocesser på miljöområdet som avses i artikel 2.2. <NOBR>Icke-stat-</NOBR> liga miljöskyddsorganisationer som uppfyller kraven i nationell lagstiftning skall enligt denna definition anses ha ett sådant intresse.”</P>
+<P class="p54 ft1"><SPAN class="ft10">2.</SPAN><SPAN class="ft18">Artikel 1.4 skall ersättas med följande:</SPAN></P>
+<P class="p55 ft21">”4. Medlemsstaterna får, efter bedömning från fall till fall och inom ramen för den nationella lagstiftningen, besluta att inte tillämpa detta direktiv på projekt som avser det nationella försvaret om de anser att det skulle inverka negativt på detta syfte.”</P>
+<P class="p54 ft1"><SPAN class="ft10">3.</SPAN><SPAN class="ft18">I artikel 2.3 skall leden a och b ersättas med följande:</SPAN></P>
+<P class="p56 ft1">”a) undersöka om någon annan form av bedömning skulle vara lämplig,</P>
+<P class="p57 ft0"><SPAN class="ft6">b)</SPAN><SPAN class="ft31">se till att uppgifter som erhållits genom en sådan annan form av bedömning som avses i led a, uppgifter om beslutet om undantaget samt skälen för detta görs tillgängliga för den berörda allmänheten.”</SPAN></P>
+<P class="p58 ft1"><SPAN class="ft10">4.</SPAN><SPAN class="ft18">Artikel 6.2 och 6.3 skall ersättas med följande:</SPAN></P>
+<P class="p59 ft0">”2. Allmänheten skall, genom offentliga meddelanden eller på annat lämpligt sätt, t.ex. med hjälp av elektroniska medier när sådana är tillgängliga, informeras om följande på ett tidigt stadium under de beslutsprocesser på miljöområdet som avses i artikel 2.2, och senast så snart som information rimligen kan ges:</P>
+<P class="p60 ft1"><SPAN class="ft6">a)</SPAN><SPAN class="ft18">Ansökan om tillstånd.</SPAN></P>
+<P class="p61 ft1"><SPAN class="ft0">b)</SPAN><SPAN class="ft18">Uppgift om att projektet omfattas av en miljökonsekvensbedömning och, i förekommande fall, att artikel 7 är tillämplig.</SPAN></P>
+<P class="p62 ft0"><SPAN class="ft6">c)</SPAN><SPAN class="ft23">Uppgifter om vilka myndigheter som är behöriga att fatta beslut, från vilka relevant information kan erhållas, till vilka synpunkter eller frågor kan lämnas in samt om tidsfristerna för att överlämna synpunkter eller frågor.</SPAN></P>
+<P class="p63 ft1"><SPAN class="ft0">d)</SPAN><SPAN class="ft18">Vilka beslut som kan komma att fattas eller, i förekommande fall, utkastet till beslut.</SPAN></P>
+<P class="p64 ft1"><SPAN class="ft6">e)</SPAN><SPAN class="ft18">Uppgift om var den information som har samlats in i enlighet med artikel 5 finns tillgänglig.</SPAN></P>
+<P class="p65 ft1"><SPAN class="ft1">f)</SPAN><SPAN class="ft18">Uppgift om när och var samt på vilket sätt relevant information kommer att göras tillgänglig.</SPAN></P>
+<P class="p66 ft10"><SPAN class="ft6">g)</SPAN><SPAN class="ft32">Närmare bestämmelser om allmänhetens deltagande i enlighet med punkt 5 i den här artikeln.</SPAN></P>
+</DIV>
+<DIV id="id_2_2">
+<P class="p67 ft1"><SPAN class="ft10">3.</SPAN><SPAN class="ft33">Medlemsstaterna skall inom rimliga tidsramar se till att den berörda allmänheten får tillgång till följande:</SPAN></P>
+<P class="p68 ft1"><SPAN class="ft6">a)</SPAN><SPAN class="ft34">All information som har samlats in i enlighet med artikel 5.</SPAN></P>
+<P class="p69 ft21"><SPAN class="ft6">b)</SPAN><SPAN class="ft35">I enlighet med den nationella lagstiftningen, de viktigaste rapporter och utlåtanden som har lämnats till den eller de behöriga myndigheterna vid den tidpunkt då den berörda allmänheten skall informeras i enlighet med punkt 2 i den här artikeln.</SPAN></P>
+<P class="p70 ft16"><SPAN class="ft6">c)</SPAN><SPAN class="ft36">I enlighet med bestämmelserna i Europaparlamentets och rådets direktiv 2003/4/EG av den 28 januari 2003 om allmänhetens tillgång till miljöinformation (*), annan information än den som avses i punkt 2 i den här artikeln, som är relevant för beslutet i enlighet med artikel 8 och som blir tillgänglig efter det att den berörda allmänheten har informerats i enlighet med punkt 2 i den här artikeln.</SPAN></P>
+<P class="p71 ft10"><SPAN class="ft10">4.</SPAN><SPAN class="ft25">Den berörda allmänheten skall på ett tidigt stadium få reella möjligheter att delta i de beslutsprocesser på miljöområdet som avses i artikel 2.2 och skall för detta ändamål ha rätt att yttra sig när alla alternativ står öppna till den eller de behöriga myndigheterna innan beslut fattas om ansökan om tillstånd.</SPAN></P>
+<P class="p72 ft0"><SPAN class="ft10">5.</SPAN><SPAN class="ft26">Närmare bestämmelser om information till allmänheten (till exempel genom affischering inom ett visst område eller offentliggörande i lokalpressen) och samråd med den berörda allmänheten (till exempel skriftligen eller genom offentlig utfrågning) skall fastställas av medlemsstaterna.</SPAN></P>
+<P class="p73 ft0"><SPAN class="ft0">6.</SPAN><SPAN class="ft26">För de olika etapperna skall det fastställas rimliga tidsramar som ger tillräckligt med tid för att informera allmänheten och för den berörda allmänheten att förbereda sig och på ett effektivt sätt delta i beslutsprocessen på miljöområdet, i enlighet med bestämmelserna i denna artikel.</SPAN></P>
+<P class="p74 ft1"><SPAN class="ft0">(*)</SPAN><SPAN class="ft18">EUT L 41, 14.2.2003, s. 26.”</SPAN></P>
+<P class="p75 ft1"><SPAN class="ft10">5.</SPAN><SPAN class="ft18">Artikel 7 skall ändras på följande sätt:</SPAN></P>
+<P class="p76 ft1"><SPAN class="ft6">a)</SPAN><SPAN class="ft34">Punkterna 1 och 2 skall ersättas med följande:</SPAN></P>
+<P class="p77 ft0">”1. När en medlemsstat uppmärksammar att ett projekt kan antas medföra en betydande inverkan på miljön i en annan medlemsstat eller om en medlemsstat som kan komma att utsättas i betydande grad begär det, skall den medlemsstat inom vilken projektet är avsett att utföras till den utsatta medlemsstaten så snart som möjligt och senast när den informerar den egna allmänheten översända bland annat</P>
+</DIV>
+</DIV>
+</DIV>
+<DIV id="page_4">
+
+
+<DIV id="id_1">
+<TABLE cellpadding=0 cellspacing=0 class="t1">
+<TR>
+	<TD class="tr0 td0"><SPAN class="p3 ft1">L 156/20</SPAN> </TD>
+	<TD class="tr1 td1"><SPAN class="p1 ft0">SV</SPAN> </TD>
+	<TD class="tr0 td8"><SPAN class="p2 ft1">Europeiska unionens officiella tidning</SPAN> </TD>
+	<TD class="tr0 td9"><SPAN class="p23 ft1">25.6.2003</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr2 td4"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr2 td5"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr2 td10"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr2 td11"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+</TABLE>
+</DIV>
+<DIV id="id_2">
+<DIV id="id_2_1">
+<P class="p78 ft1"><SPAN class="ft6">a)</SPAN><SPAN class="ft34">en beskrivning av projektet, tillsammans med alla tillgängliga uppgifter om dess möjliga gränsöverskridande konsekvenser,</SPAN></P>
+<P class="p79 ft1"><SPAN class="ft6">b)</SPAN><SPAN class="ft34">uppgifter om vilket slags beslut som kan komma att fattas,</SPAN></P>
+<P class="p80 ft0">och ge den andra medlemsstaten rimlig tid att ange om den vill delta i de beslutsprocesser på miljöområdet som avses i artikel 2.2, och den kan därvid bifoga de uppgifter som avses i punkt 2 i den här artikeln.</P>
+<P class="p81 ft0">2. Om en medlemsstat som mottar information i enlighet med punkt 1 anger att den avser att delta i de beslutsprocesser på miljöområdet som avses i artikel 2.2, skall den medlemsstat på vars territorium projektet är avsett att genomföras, om den inte redan har gjort det, till den utsatta medlemsstaten översända de uppgifter som skall lämnas i enlighet med artikel 6.2 eller göras tillgängliga i enlighet med artikel 6.3 a och b.”</P>
+<P class="p74 ft1"><SPAN class="ft0">b)</SPAN><SPAN class="ft18">Punkt 5 skall ersättas med följande:</SPAN></P>
+<P class="p82 ft21">”5. Närmare bestämmelser om genomförandet av denna artikel får fastställas av de berörda medlemsstaterna och dessa bestämmelser skall göra det möjligt för den berörda allmänheten på den påverkade medlemsstatens territorium att delta på ett effektivt sätt i de beslutsprocesser på miljöområdet som avses i artikel 2.2 för projektet.”</P>
+<P class="p83 ft1"><SPAN class="ft10">6.</SPAN><SPAN class="ft18">Artikel 9 skall ändras på följande sätt:</SPAN></P>
+<P class="p84 ft1"><SPAN class="ft6">a)</SPAN><SPAN class="ft18">Punkt 1 skall ersättas med följande:</SPAN></P>
+<P class="p85 ft0">”1. När ett beslut om att bevilja eller avslå en tillståndsansökan har fattats, skall den eller de ansvariga myndigheterna informera allmänheten enligt gällande förfaranden och låta allmänheten få tillgång till följande:</P>
+<P class="p86 ft1"><SPAN class="ft10">—</SPAN><SPAN class="ft18">Information om innehållet i beslutet och varje villkor som är knutet till detta.</SPAN></P>
+<P class="p87 ft10"><SPAN class="ft10">—</SPAN><SPAN class="ft32">Information om de huvudsakliga skäl och överväganden som beslutet grundar sig på, och även om förfarandet för allmänhetens deltagande, efter att denna granskat den berörda allmänhetens kommentarer och synpunkter.</SPAN></P>
+<P class="p88 ft10"><SPAN class="ft10">—</SPAN><SPAN class="ft32">En eventuell beskrivning av de huvudsakliga åtgärderna för att undvika, minska och om möjligt motverka de allvarligaste negativa effekterna.”</SPAN></P>
+<P class="p89 ft1"><SPAN class="ft0">b)</SPAN><SPAN class="ft18">Punkt 2 skall ersättas med följande:</SPAN></P>
+<P class="p85 ft0">”2. Den eller de behöriga myndigheterna skall informera alla medlemsstater med vilka samråd har hållits i enlighet med artikel 7 genom att till dem vidarebefordra den information som avses i punkt 1 i den här artikeln.</P>
+<P class="p90 ft0">De medlemsstater med vilka samråd har hållits skall se till att denna information görs tillgänglig på lämpligt sätt för den berörda allmänheten på det egna territoriet.”</P>
+</DIV>
+<DIV id="id_2_2">
+<P class="p91 ft1"><SPAN class="ft10">7.</SPAN><SPAN class="ft18">Följande artikel skall införas:</SPAN></P>
+<P class="p92 ft17">”Artikel 10a</P>
+<P class="p93 ft1">Medlemsstaterna skall inom ramen för den relevanta nationella lagstiftningen se till att de medlemmar av den berörda allmänheten</P>
+<P class="p94 ft1"><SPAN class="ft6">a)</SPAN><SPAN class="ft34">som har ett tillräckligt intresse, eller</SPAN></P>
+<P class="p95 ft1"><SPAN class="ft6">b)</SPAN><SPAN class="ft34">som hävdar att en rättighet kränks, när detta utgör en förutsättning enligt en medlemsstats förvaltningsprocessrättsliga lagstiftning,</SPAN></P>
+<P class="p96 ft0">har rätt att få den materiella eller formella giltigheten av ett beslut, en handling eller en underlåtenhet som omfattas av bestämmelserna om allmänhetens deltagande i detta direktiv prövad i domstol eller något annat oberoende och opartiskt organ som inrättats genom lag.</P>
+<P class="p97 ft1">Medlemsstaterna skall fastställa i vilket skede beslut, handlingar eller underlåtenhet kan prövas.</P>
+<P class="p98 ft0">Vad som utgör ett tillräckligt intresse och kränkning av en rättighet skall fastställas av medlemsstaterna, i enlighet med målet att ge den berörda allmänheten en omfattande rätt till rättslig prövning. För detta ändamål skall det intresse som en <NOBR>icke-statlig</NOBR> organisation som uppfyller kraven i artikel 1.2 har, anses tillräckligt i den mening som avses i led a i den här artikeln. Sådana organisationer skall också anses ha rättigheter som kan kränkas i den mening som avses i led b i den här artikeln.</P>
+<P class="p99 ft0">Bestämmelserna i denna artikel skall inte utesluta möjligheten av ett preliminärt prövningsförfarande inför en förvaltningsmyndighet och skall inte påverka kravet att de administrativa prövningsförfarandena skall vara uttömda innan rättsliga prövningsförfaranden får användas, om detta krav finns enligt den nationella lagstiftningen.</P>
+<P class="p100 ft1">Sådana förfaranden skall vara rättvisa, snabba och inte oöverkomligt kostsamma.</P>
+<P class="p101 ft0">För att främja den faktiska tillämpningen av bestämmelserna i denna artikel skall medlemsstaterna se till att praktisk information om rätten till rättslig prövning i domstol och i administrativ ordning görs tillgänglig för allmänheten.”</P>
+<P class="p58 ft1"><SPAN class="ft10">8.</SPAN><SPAN class="ft18">I bilaga I skall följande punkt läggas till:</SPAN></P>
+<P class="p102 ft21">”22. Ändringar eller utvidgningar av projekt som tas upp i denna bilaga, om sådana ändringar eller utvidgningar i sig själva uppfyller de eventuella tröskelvärden som anges i denna bilaga.”</P>
+<P class="p103 ft1"><SPAN class="ft10">9.</SPAN><SPAN class="ft18">I bilaga II skall följande läggas till i slutet av punkt 13 första strecksatsen:</SPAN></P>
+<P class="p104 ft1">”(ändringar eller utvidgningar som inte ingår i bilaga I).”</P>
+</DIV>
+</DIV>
+</DIV>
+<DIV id="page_5">
+
+
+<DIV id="id_1">
+<TABLE cellpadding=0 cellspacing=0 class="t0">
+<TR>
+	<TD class="tr0 td0"><SPAN class="p0 ft0">25.6.2003</SPAN> </TD>
+	<TD class="tr1 td1"><SPAN class="p1 ft0">SV</SPAN> </TD>
+	<TD class="tr0 td2"><SPAN class="p2 ft1">Europeiska unionens officiella tidning</SPAN> </TD>
+	<TD class="tr0 td3"><SPAN class="p3 ft0">L 156/21</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr2 td4"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr2 td5"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr2 td6"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr2 td7"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+</TABLE>
+</DIV>
+<DIV id="id_2">
+<DIV id="id_2_1">
+<P class="p105 ft17">Artikel 4</P>
+<P class="p106 ft4">Ändring av direktiv 96/61/EG</P>
+<P class="p107 ft1">Direktiv 96/61/EG ändras på följande sätt:</P>
+<P class="p83 ft1"><SPAN class="ft10">1.</SPAN><SPAN class="ft18">Artikel 2 skall ändras på följande sätt:</SPAN></P>
+<P class="p108 ft1"><SPAN class="ft6">a)</SPAN><SPAN class="ft18">I punkt 10 b skall följande mening läggas till:</SPAN></P>
+<P class="p109 ft21">”En ändring eller utvidgning av verksamheten skall därvid anses vara väsentlig om ändringen eller utvidgningen i sig själv uppfyller de eventuella tröskelvärden som anges i bilaga I.”</P>
+<P class="p89 ft1"><SPAN class="ft0">b)</SPAN><SPAN class="ft18">Följande punkter skall läggas till:</SPAN></P>
+<P class="p110 ft10">”13. <SPAN class="ft37">allmänheten</SPAN>: en eller flera fysiska eller juridiska personer och, i enlighet med nationell lagstiftning eller praxis, sammanslutningar, organisationer eller grupper av dessa.</P>
+<P class="p111 ft0"><SPAN class="ft0">14.</SPAN><SPAN class="ft38">den berörda allmänheten</SPAN>: den allmänhet som berörs eller kan antas bli berörd av, eller som har ett intresse av, beslutsprocesser om utfärdande eller uppdatering av tillstånd eller tillståndsvillkor. Ickestatliga miljöskyddsorganisationer som uppfyller kraven i nationell lagstiftning skall enligt denna definition anses ha ett sådant intresse.”</P>
+<P class="p58 ft10"><SPAN class="ft10">2.</SPAN><SPAN class="ft32">I artikel 6.1 första stycket skall följande strecksats läggas till:</SPAN></P>
+<P class="p112 ft1">”— de huvudalternativ som sökanden övervägt, om det finns sådana, i form av en översikt.”</P>
+<P class="p113 ft1"><SPAN class="ft10">3.</SPAN><SPAN class="ft18">Artikel 15 skall ändras på följande sätt:</SPAN></P>
+<P class="p84 ft1"><SPAN class="ft6">a)</SPAN><SPAN class="ft18">Punkt 1 skall ersättas med följande:</SPAN></P>
+<P class="p109 ft1">”1. Medlemsstaterna skall se till att den berörda allmänheten på ett tidigt stadium ges tillfälle att på ett effektivt sätt deltaga i förfaranden för</P>
+<P class="p114 ft1"><SPAN class="ft10">—</SPAN><SPAN class="ft18">meddelande av tillstånd för nya anläggningar,</SPAN></P>
+<P class="p115 ft1"><SPAN class="ft10">—</SPAN><SPAN class="ft18">meddelande av tillstånd för en väsentlig förändring av verksamheten vid en anläggning,</SPAN></P>
+<P class="p116 ft1"><SPAN class="ft10">—</SPAN><SPAN class="ft18">uppdatering av ett tillstånd för en anläggning eller av villkoren för en anläggnings tillstånd i enlighet med artikel 13.2 första strecksatsen.</SPAN></P>
+<P class="p117 ft1">Det förfarande som anges i bilaga V skall tillämpas för sådant deltagande.”</P>
+<P class="p104 ft1"><SPAN class="ft0">b)</SPAN><SPAN class="ft18">Följande punkt skall läggas till:</SPAN></P>
+<P class="p118 ft21">”5. Efter det att ett beslut har fattats skall den behöriga myndigheten i vederbörlig ordning informera allmänheten och göra följande information tillgänglig för allmänheten:</P>
+</DIV>
+<DIV id="id_2_2">
+<P class="p119 ft30"><SPAN class="ft6">a)</SPAN><SPAN class="ft39">Beslutets innehåll, inbegripet en kopia av tillståndet och eventuella villkor och senare uppdateringar.</SPAN></P>
+<P class="p120 ft21"><SPAN class="ft0">b)</SPAN><SPAN class="ft24">De skäl och överväganden som beslutet grundar sig på, och även om förfarandet för allmänhetens deltagande, efter det att den granskat allmänhetens kommentarer och synpunkter.”</SPAN></P>
+<P class="p54 ft1"><SPAN class="ft10">4.</SPAN><SPAN class="ft18">Följande artikel skall införas:</SPAN></P>
+<P class="p121 ft17">”Artikel 15a</P>
+<P class="p92 ft4">Rätt till rättslig prövning</P>
+<P class="p100 ft1">Medlemsstaterna skall inom ramen för den relevanta nationella lagstiftningen se till att de medlemmar av den berörda allmänheten</P>
+<P class="p122 ft1"><SPAN class="ft6">a)</SPAN><SPAN class="ft34">som har ett tillräckligt intresse, eller</SPAN></P>
+<P class="p95 ft1"><SPAN class="ft6">b)</SPAN><SPAN class="ft34">som hävdar att en rättighet kränks, när detta utgör en förutsättning enligt en medlemsstats förvaltningsprocessrättsliga lagstiftning,</SPAN></P>
+<P class="p98 ft0">har rätt att få den materiella eller formella giltigheten av ett beslut, en handling eller en underlåtenhet som omfattas av bestämmelserna om allmänhetens deltagande i detta direktiv prövad i domstol eller något annat oberoende och opartiskt organ som inrättats genom lag.</P>
+<P class="p97 ft1">Medlemsstaterna skall fastställa i vilket skede beslut, handlingar eller underlåtenhet kan prövas.</P>
+<P class="p123 ft0">Vad som utgör ett tillräckligt intresse och kränkning av en rättighet skall fastställas av medlemsstaterna, i enlighet med målet att ge den berörda allmänheten en omfattande rätt till rättslig prövning. För detta ändamål skall det intresse som en <NOBR>icke-statlig</NOBR> organisation som uppfyller kraven i artikel 1.2 har, anses tillräckligt i den mening som avses i led a i den här artikeln. Sådana organisationer skall också anses ha rättigheter som kan kränkas i den mening som avses i led b i den här artikeln.</P>
+<P class="p124 ft0">Bestämmelserna i denna artikel skall inte utesluta möjligheten av ett preliminärt prövningsförfarande inför en förvaltningsmyndighet och skall inte påverka kravet att de administrativa prövningsförfarandena skall vara uttömda innan rättsliga prövningsförfaranden får användas, om detta krav finns enligt den nationella lagstiftningen.</P>
+<P class="p97 ft1">Sådana förfaranden skall vara rättvisa, snabba och inte oöverkomligt kostsamma.</P>
+<P class="p123 ft0">För att främja den faktiska tillämpningen av bestämmelserna i denna artikel skall medlemsstaterna se till att praktisk information om rätten till rättslig prövning i domstol och i administrativ ordning görs tillgänglig för allmänheten.”</P>
+</DIV>
+</DIV>
+</DIV>
+<DIV id="page_6">
+<DIV id="dimg1">
+<INGENBILD zsrc="GS0365d36x1.jpg/" id="img1">
+</DIV>
+
+
+<DIV id="id_1">
+<TABLE cellpadding=0 cellspacing=0 class="t1">
+<TR>
+	<TD class="tr0 td0"><SPAN class="p3 ft1">L 156/22</SPAN> </TD>
+	<TD class="tr1 td1"><SPAN class="p1 ft0">SV</SPAN> </TD>
+	<TD class="tr0 td8"><SPAN class="p2 ft1">Europeiska unionens officiella tidning</SPAN> </TD>
+	<TD class="tr0 td9"><SPAN class="p23 ft1">25.6.2003</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr2 td4"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr2 td5"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr2 td10"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr2 td11"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+</TABLE>
+</DIV>
+<DIV id="id_2">
+<DIV id="id_2_1">
+<P class="p91 ft1"><SPAN class="ft10">5.</SPAN><SPAN class="ft18">Artikel 17 skall ändras på följande sätt:</SPAN></P>
+<P class="p125 ft1"><SPAN class="ft6">a)</SPAN><SPAN class="ft18">Punkt 1 skall ersättas med följande:</SPAN></P>
+<P class="p126 ft0">”1. Om en medlemsstat konstaterar att driften av en anläggning kan få en betydande, negativ inverkan på miljön i en annan medlemsstat, eller om en medlemsstat som kan komma att påverkas i betydande omfattning begär detta, skall den medlemsstat inom vars territorium ansökan om tillstånd enligt artikel 4 eller artikel 12.2 lämnades in till den andra medlemsstaten överlämna de uppgifter som skall lämnas eller hållas tillgängliga enligt bilaga V, samtidigt som den ställer dessa till förfogande för medborgarna i den egna medlemsstaten. Dessa uppgifter utgör grunden för de samråd som är nödvändiga inom ramen för de bilaterala relationerna mellan de två medlemsstaterna enligt principen om ömsesidighet och lika behandling.”</P>
+<P class="p127 ft1"><SPAN class="ft0">b)</SPAN><SPAN class="ft18">Följande punkter skall läggas till:</SPAN></P>
+<P class="p128 ft1">”3. Resultatet av eventuella samråd i enlighet med punkterna 1 och 2 skall beaktas när den behöriga myndigheten fattar ett beslut om ansökan.</P>
+<P class="p129 ft0">4. Den behöriga myndigheten skall informera medlemsstater med vilka samråd har hållits i enlighet med punkt 1 om det beslut som fattats beträffande ansökan och skall till dessa överlämna den information som avses i artikel 15.5. Dessa medlemsstater skall vidta nödvändiga åtgärder för att se till att denna information görs tillgänglig på lämpligt sätt för den berörda allmänheten på det egna territoriet.”</P>
+<P class="p130 ft1"><SPAN class="ft10">6.</SPAN><SPAN class="ft18">En ny bilaga V enligt bilaga II till detta direktiv skall läggas till.</SPAN></P>
+<P class="p131 ft17">Artikel 5</P>
+<P class="p132 ft4">Rapportering och översyn</P>
+<P class="p133 ft0">Före den 25 juni 2009 skall kommissionen överlämna en rapport om detta direktivs tillämpning och verkan till Europaparlamentet och rådet. För att ytterligare integrera miljöskyddskraven i enlighet med artikel 6 i fördraget och med beaktande</P>
+</DIV>
+<DIV id="id_2_2">
+<P class="p134 ft21">av de erfarenheter som vinns vid tillämpningen av detta direktiv i medlemsstaterna skall en sådan rapport om det är lämpligt åtföljas av förslag till ändringar av detta direktiv. Kommissionen kommer särskilt att överväga möjligheten att utvidga detta direktivs räckvidd till att omfatta andra planer och program om miljön.</P>
+<P class="p135 ft17">Artikel 6</P>
+<P class="p136 ft4">Genomförande</P>
+<P class="p137 ft10">Medlemsstaterna skall sätta i kraft de bestämmelser i lagar och andra författningar som är nödvändiga för att följa detta direktiv senast den 25 juni 2005. Medlemsstaterna skall genast underrätta kommissionen om detta.</P>
+<P class="p138 ft0">När en medlemsstat antar dessa bestämmelser skall de innehålla en hänvisning till detta direktiv eller åtföljas av en sådan hänvisning när de offentliggörs. Närmare föreskrifter om hur hänvisningen skall göras skall varje medlemsstat själv utfärda.</P>
+<P class="p135 ft17">Artikel 7</P>
+<P class="p139 ft4">Ikraftträdande</P>
+<P class="p140 ft1">Detta direktiv träder i kraft samma dag som det offentliggörs i</P>
+<P class="p38 ft17">Europeiska unionens officiella tidning<SPAN class="ft1">.</SPAN></P>
+<P class="p131 ft17">Artikel 8</P>
+<P class="p141 ft4">Adressater</P>
+<P class="p140 ft1">Detta direktiv riktar sig till medlemsstaterna.</P>
+<TABLE cellpadding=0 cellspacing=0 class="t2">
+<TR>
+	<TD class="tr3 td12"><SPAN class="p3 ft1">Utfärdat i Bryssel den 26 maj 2003.</SPAN> </TD>
+	<TD class="tr3 td13"><SPAN class="p3 ft40">&nbsp;</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr4 td12"><SPAN class="p142 ft41">På Europaparlamentets vägnar</SPAN> </TD>
+	<TD class="tr4 td13"><SPAN class="p143 ft41">På rådets vägnar</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr5 td12"><SPAN class="p142 ft11">P. COX</SPAN> </TD>
+	<TD class="tr5 td13"><SPAN class="p144 ft11">G. DRYS</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr6 td12"><SPAN class="p145 ft41">Ordförande</SPAN> </TD>
+	<TD class="tr6 td13"><SPAN class="p144 ft41">Ordförande</SPAN> </TD>
+</TR>
+</TABLE>
+</DIV>
+</DIV>
+</DIV>
+<DIV id="page_7">
+<DIV id="dimg1">
+<INGENBILD zsrc="GS0365d37x1.jpg/" id="img1">
+</DIV>
+
+
+<DIV id="id_1">
+<TABLE cellpadding=0 cellspacing=0 class="t0">
+<TR>
+	<TD class="tr0 td0"><SPAN class="p0 ft0">25.6.2003</SPAN> </TD>
+	<TD class="tr1 td1"><SPAN class="p1 ft0">SV</SPAN> </TD>
+	<TD class="tr0 td2"><SPAN class="p2 ft1">Europeiska unionens officiella tidning</SPAN> </TD>
+	<TD class="tr0 td3"><SPAN class="p3 ft0">L 156/23</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr2 td4"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr2 td5"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr2 td6"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr2 td7"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+</TABLE>
+<P class="p146 ft42">BILAGA I</P>
+<P class="p147 ft43">BESTÄMMELSER OM PLANER OCH PROGRAM SOM AVSES I ARTIKEL 2</P>
+<P class="p148 ft0"><SPAN class="ft11">a)</SPAN><SPAN class="ft23">Artikel 7.1 i rådets direktiv 75/442/EEG av den 15 juli 1975 om avfall (</SPAN><SPAN class="ft12">1</SPAN>).</P>
+<P class="p149 ft0"><SPAN class="ft6">b)</SPAN><SPAN class="ft23">Artikel 6 i rådets direktiv 91/157/EEG av den 18 mars 1991 om batterier och ackumulatorer som innehåller vissa farliga ämnen (</SPAN><SPAN class="ft12">2</SPAN>).</P>
+<P class="p150 ft0"><SPAN class="ft6">c)</SPAN><SPAN class="ft23">Artikel 5.1 i rådets direktiv 91/676/EEG av den 12 december 1991 om skydd mot att vatten förorenas av nitrater från jordbruket (</SPAN><SPAN class="ft12">3</SPAN>).</P>
+<P class="p151 ft0"><SPAN class="ft6">d)</SPAN><SPAN class="ft23">Artikel 6.1 i rådets direktiv 91/689/EEG av den 12 december 1991 om farligt avfall (</SPAN><SPAN class="ft12">4</SPAN>).</P>
+<P class="p152 ft0"><SPAN class="ft11">e)</SPAN><SPAN class="ft23">Artikel 14 i Europaparlamentets och rådets direktiv 94/62/EG av den 20 december 1994 om förpackningar och förpackningsavfall (</SPAN><SPAN class="ft12">5</SPAN>).</P>
+<P class="p153 ft0"><SPAN class="ft6">f)</SPAN><SPAN class="ft23">Artikel 8.3 i rådets direktiv 96/62/EG av den 27 september 1996 om utvärdering och säkerställande av luftkvaliteten (</SPAN><SPAN class="ft12">6</SPAN>).</P>
+</DIV>
+<DIV id="id_2">
+<P class="p154 ft45">(<SPAN class="ft44">1</SPAN>) EGT L 194, 25.7.1975, s. 39. Direktivet senast ändrat genom kommissionens beslut 96/350/EG (EGT L 135, 6.6.1996, s. 32). (<SPAN class="ft44">2</SPAN>) EGT L 78, 26.3.1991, s. 38. Direktivet senast ändrat genom kommissionens direktiv 98/101/EG (EGT L 1, 5.1.1999, s. 1).</P>
+<P class="p38 ft47">(<SPAN class="ft46">3</SPAN>) EGT L 375, 31.12.1991, s. 1.</P>
+<P class="p155 ft48">(<SPAN class="ft46">4</SPAN>) EGT L 377, 31.12.1991, s. 20. Direktivet senast ändrat genom direktiv 94/31/EG (EGT L 168, 2.7.1994, s. 28). (<SPAN class="ft46">5</SPAN>) EGT L 365, 31.12.1994, s. 10.</P>
+<P class="p38 ft6">(<SPAN class="ft46">6</SPAN>) EGT L 296, 21.11.1996, s. 55.</P>
+</DIV>
+</DIV>
+<DIV id="page_8">
+<DIV id="dimg1">
+<INGENBILD zsrc="GS0365d38x1.jpg/" id="img1">
+</DIV>
+
+
+<TABLE cellpadding=0 cellspacing=0 class="t1">
+<TR>
+	<TD class="tr0 td0"><SPAN class="p3 ft1">L 156/24</SPAN> </TD>
+	<TD class="tr1 td1"><SPAN class="p1 ft0">SV</SPAN> </TD>
+	<TD class="tr0 td8"><SPAN class="p2 ft1">Europeiska unionens officiella tidning</SPAN> </TD>
+	<TD class="tr0 td9"><SPAN class="p23 ft1">25.6.2003</SPAN> </TD>
+</TR>
+<TR>
+	<TD class="tr2 td4"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr2 td5"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr2 td10"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+	<TD class="tr2 td11"><SPAN class="p3 ft2">&nbsp;</SPAN> </TD>
+</TR>
+</TABLE>
+<P class="p156 ft42">BILAGA II</P>
+<P class="p157 ft0">Följande bilaga skall läggas till i direktiv 96/61/EG:</P>
+<P class="p158 ft42">”BILAGA V</P>
+<P class="p159 ft43">Allmänhetens deltagande i beslutsprocesser</P>
+<P class="p160 ft0"><SPAN class="ft11">1.</SPAN><SPAN class="ft23">Allmänheten skall informeras (genom offentliga meddelanden eller på annat lämpligt sätt, t.ex. med hjälp av elektroniska medier när sådana är tillgängliga) om följande på ett tidigt stadium under beslutsprocessen och senast så snart som information rimligen kan ges:</SPAN></P>
+<P class="p161 ft0"><SPAN class="ft11">a)</SPAN><SPAN class="ft23">Ansökan om tillstånd eller, i förekommande fall, ett eventuellt förslag om uppdatering av tillstånd eller tillståndsvillkor i enlighet med artikel 15.1, inbegripet de uppgifter som anges i artikel 6.1.</SPAN></P>
+<P class="p162 ft0"><SPAN class="ft6">b)</SPAN><SPAN class="ft23">I förekommande fall, uppgift om att beslutet föregåtts av en nationell eller gränsöverskridande miljökonsekvensbeskrivning eller av samråd mellan medlemsstaterna i enlighet med artikel 17.</SPAN></P>
+<P class="p163 ft0"><SPAN class="ft6">c)</SPAN><SPAN class="ft23">Uppgifter om vilka myndigheter som är behöriga att fatta beslut, från vilka relevant information kan erhållas och till vilka synpunkter eller frågor kan lämnas in samt om tidsfristerna för att överlämna synpunkter eller frågor.</SPAN></P>
+<P class="p164 ft0"><SPAN class="ft6">d)</SPAN><SPAN class="ft23">Vilka beslut som kan komma att fattas eller, i förekommande fall, utkastet till beslut.</SPAN></P>
+<P class="p165 ft0"><SPAN class="ft11">e)</SPAN><SPAN class="ft23">I förekommande fall, uppgifter om förslaget om uppdatering av tillstånd eller tillståndsvillkor.</SPAN></P>
+<P class="p166 ft0"><SPAN class="ft6">f)</SPAN><SPAN class="ft23">Uppgift om när och var eller på vilket sätt relevant information kommer att göras tillgänglig.</SPAN></P>
+<P class="p167 ft0"><SPAN class="ft11">g)</SPAN><SPAN class="ft23">Närmare bestämmelser om allmänhetens deltagande och om samråd i enlighet med punkt 5.</SPAN></P>
+<P class="p168 ft0"><SPAN class="ft11">2.</SPAN><SPAN class="ft23">Medlemsstaterna skall, inom lämpliga tidsramar, se till att den berörda allmänheten får tillgång till följande:</SPAN></P>
+<P class="p169 ft0"><SPAN class="ft11">a)</SPAN><SPAN class="ft23">I enlighet med den nationella lagstiftningen, de viktigaste rapporter och utlåtanden som har lämnats till den eller de behöriga myndigheterna vid den tidpunkt då den berörda allmänheten informerades i enlighet med punkt 1.</SPAN></P>
+<P class="p170 ft0"><SPAN class="ft6">b)</SPAN><SPAN class="ft23">I enlighet med bestämmelserna i Europaparlamentets och rådets direktiv 2003/4/EG av den 28 januari 2003 om allmänhetens tillgång till miljöinformation (*), annan information än den som avses i punkt 1 i den här bilagan, som är relevant för beslutet i enlighet med artikel 8 och som blir tillgänglig efter det att den berörda allmänheten har informerats i enlighet med punkt 1 i den här bilagan.</SPAN></P>
+<P class="p171 ft0"><SPAN class="ft11">3.</SPAN><SPAN class="ft23">Den berörda allmänheten skall ha rätt att yttra sig till den behöriga myndigheten innan beslut fattas.</SPAN></P>
+<P class="p172 ft0"><SPAN class="ft11">4.</SPAN><SPAN class="ft23">Resultatet av de samråd som har hållits i enlighet med denna bilaga skall beaktas på vederbörligt sätt vid beslutsfattandet.</SPAN></P>
+<P class="p173 ft28"><SPAN class="ft11">5.</SPAN><SPAN class="ft49">Närmare bestämmelser om information till allmänheten (till exempel genom affischering inom ett visst område eller offentliggörande i lokalpressen) och om samråd med den berörda allmänheten (till exempel skriftligen eller genom offentlig utfrågning) skall fastställas av medlemsstaterna. För de olika etapperna skall det fastställas rimliga tidsramar som ger tillräckligt med tid för att informera allmänheten och för den berörda allmänheten att förbereda sig och på ett effektivt sätt delta under beslutsprocessen på miljöområdet i enlighet med bestämmelserna i denna bilaga.</SPAN></P>
+<P class="p174 ft0">(*) EUT L 41, 14.2.2003, s. 26.”</P>
+</DIV>
+
+</div><style>
+
+
+TD,TD.p2h {
+zzzfont-size:90%;
+zzzmargin-right:2px;
+zzzoverflow:visable;
+zzzword-wrap: break-word;
+}
+
+P {
+zdisplay:block;
+}
+
+.divbreak {
+clear:both;
+display:block;
+zwidth: 100%;
+zheight: 1px;
+zword-wrap: break-word;
+}
+
+
+.xecp {
+  display:block;
+  margin: 0px !important;
+  padding: 0px !important;
+  
+}
+
+.ec {
+  border-style:solid;
+  border-width:1px;
+  display:block;
+  margin: 0px !important;
+  padding: 0px !important;
+}
+
+.TOPS {
+  overflow:visable;
+  margin:2px;
+  width:690px !important;
+}
+
+</style>
