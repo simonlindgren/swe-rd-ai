@@ -33,6 +33,23 @@ Propositioner reflect top-down discourse; motioner reflect bottom-up discourse.
 - **RQ5 Sentiment:** How does evaluative tone differ between document types, and how has it changed over time?
 - **RQ6 Agency and directionality:** Who is positioned as acting on AI – the state governing it, or people affected by it?
 
+## Findings
+
+### RQ1: Framing
+
+| Metric | Motioner | Propositioner |
+|--------|----------|---------------|
+| Opportunity framing (per 1k words) | 14.42 | 5.02 |
+| Risk framing (per 1k words) | 8.00 | 5.59 |
+| Net framing ratio | +6.43 | -0.57 |
+
+**Interpretation:** The top-down/bottom-up distinction holds, but not as initially expected:
+
+- **Propositioner** (government bills) are more cautious/balanced – technocratic language acknowledging both opportunity and risk roughly equally
+- **Motioner** (MP proposals) are more advocative – MPs use stronger evaluative language overall, skewing heavily toward opportunity framing
+
+This suggests MPs use AI discourse to push for action and investment (opportunity-focused advocacy), while government documents employ more measured policy language. The pattern is consistent across parliamentary years, not a recent phenomenon.
+
 ## Usage
 
 ```bash
