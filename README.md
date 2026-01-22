@@ -50,6 +50,10 @@ Propositioner reflect top-down discourse; motioner reflect bottom-up discourse.
 
 This suggests MPs use AI discourse to push for action and investment (opportunity-focused advocacy), while government documents employ more measured policy language. The pattern is consistent across parliamentary years, not a recent phenomenon.
 
+**Visualisations:**
+- [Framing comparison](results/rq1_framing_comparison.png) – bar chart and boxplot comparing document types
+- [Temporal trends](results/rq1_temporal.png) – framing evolution 2017–2025
+
 ## Usage
 
 ```bash
