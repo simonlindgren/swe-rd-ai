@@ -76,8 +76,31 @@ This reinforces the RQ1 finding: motioner use more domain-specific, substantive 
 **Visualisations:**
 - [Domain comparison](results/rq2_domain_bars.png) – grouped bar chart of all domains
 - [Radar profile](results/rq2_radar.png) – spider chart showing domain profiles
-- [Difference chart](results/rq2_difference.png) – over/under-representation by type
 - [Correlation heatmap](results/rq2_correlation.png) – domain co-occurrence patterns
+
+### RQ3: Stakeholder orientation
+
+| Category | Motioner | Propositioner | Difference |
+|----------|----------|---------------|------------|
+| State/government | 17.44 | 11.51 | **+5.93** |
+| EU/international | 4.40 | 7.76 | **-3.36** |
+| Communities/groups | 5.86 | 3.39 | +2.47 |
+| Experts/academia | 4.52 | 1.67 | +2.85 |
+| Vulnerable groups | 1.87 | 0.75 | +1.12 |
+
+**Interpretation:** The hypothesis that propositioner invoke more institutional actors is **not supported**:
+
+- **State/government** is mentioned 50% more in motioner than propositioner – MPs invoke government heavily
+- **EU/international** is the only actor category higher in propositioner (+3.36)
+- All citizen-focused categories (communities, vulnerable groups, workers) are higher in motioner
+- Both document types skew institutional overall, but motioner mention MORE actors of all types
+
+This suggests motioner call upon the state to act, while propositioner situate AI within EU/international frameworks. Propositioner use EU references to legitimise policy; motioner invoke government to demand action.
+
+**Visualisations:**
+- [Stakeholder categories](results/rq3_stakeholder_categories.png) – comparison across all categories
+- [Actor balance](results/rq3_actor_balance.png) – institutional vs citizen-focused
+- [Orientation scatter](results/rq3_orientation_scatter.png) – document-level positioning
 
 ## Usage
 

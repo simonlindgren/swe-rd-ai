@@ -1,0 +1,20 @@
+{
+  "corpus_stats": {
+    "total_documents": 1152,
+    "motioner": 452,
+    "propositioner": 700,
+    "total_words": 62087566
+  },
+  "mean_mentions_per_1k_words": {
+    "motioner": {
+      "institutional": 33.74034827024969,
+      "citizen_focused": 12.911696237989771,
+      "orientation_score": 20.828652032259924
+    },
+    "propositioner": {
+      "institutional": 27.05206136596322,
+      "citizen_focused": 9.397677906513351,
+      "orientation_score": 17.65438345944987
+    }
+  }
+}

@@ -4,3 +4,4 @@ matplotlib>=3.7
 seaborn>=0.12
 nltk>=3.8
 beautifulsoup4>=4.12
+scipy>=1.10
