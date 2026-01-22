@@ -54,6 +54,31 @@ This suggests MPs use AI discourse to push for action and investment (opportunit
 - [Framing comparison](results/rq1_framing_comparison.png) – bar chart and boxplot comparing document types
 - [Temporal trends](results/rq1_temporal.png) – framing evolution 2017–2025
 
+### RQ2: Thematic focus
+
+| Domain | Motioner | Propositioner | Difference |
+|--------|----------|---------------|------------|
+| Innovation | 12.01 | 6.02 | +5.99 |
+| Education | 7.71 | 2.26 | +5.45 |
+| Labour | 6.67 | 2.69 | +3.98 |
+| Healthcare | 5.05 | 1.81 | +3.24 |
+| Public sector | 10.82 | 10.01 | +0.81 |
+
+**Interpretation:** Contrary to the initial hypothesis that propositioner would emphasise competitiveness/innovation:
+
+- **All domains** are more frequent in motioner – no domain is over-represented in propositioner
+- **Innovation** shows the largest gap: MPs discuss it 2x more than government bills
+- **Education and labour** also strongly over-represented in motioner
+- **Public sector** is the only domain with similar frequency across both types
+
+This reinforces the RQ1 finding: motioner use more domain-specific, substantive language overall. Propositioner are more diffuse/technocratic, while MPs concentrate on specific policy areas when discussing AI.
+
+**Visualisations:**
+- [Domain comparison](results/rq2_domain_bars.png) – grouped bar chart of all domains
+- [Radar profile](results/rq2_radar.png) – spider chart showing domain profiles
+- [Difference chart](results/rq2_difference.png) – over/under-representation by type
+- [Correlation heatmap](results/rq2_correlation.png) – domain co-occurrence patterns
+
 ## Usage
 
 ```bash
