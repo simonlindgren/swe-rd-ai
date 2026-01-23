@@ -102,6 +102,29 @@ This suggests motioner call upon the state to act, while propositioner situate A
 - [Actor balance](results/rq3_actor_balance.png) – institutional vs citizen-focused
 - [Orientation scatter](results/rq3_orientation_scatter.png) – document-level positioning
 
+### RQ4: Temporal dynamics
+
+| Metric | Motioner | Propositioner |
+|--------|----------|---------------|
+| First appearance | 2011 | 2010 |
+| Peak volume year | 2025 (98 docs) | 2021 (50 docs) |
+| AI mention density | 4.8 per 1k | 0.07 per 1k |
+| 50-doc threshold | 2019 | 2012 |
+
+**Interpretation:** A clear shift in leadership over time:
+
+- **2010–2017**: Propositioner dominated AI discourse; motioner nearly absent
+- **2018**: Inflection point – motioner volume begins rapid growth (Swedish AI strategy released)
+- **2021+**: Motioner surpass propositioner in volume and continue accelerating
+- **AI density**: Motioner are 70x more AI-focused per word than propositioner
+
+Propositioner led early but plateaued around 2021. Motioner show exponential growth, suggesting MPs are increasingly using AI as an issue for political advocacy while government bills treat AI as one topic among many.
+
+**Visualisations:**
+- [Document volume](results/rq4_volume.png) – time series of document counts
+- [AI intensity](results/rq4_intensity.png) – AI mentions per 1k words over time
+- [Timeline](results/rq4_timeline.png) – annotated with key events
+
 ## Usage
 
 ```bash
