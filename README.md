@@ -161,20 +161,20 @@ This aligns with RQ1 (framing): MPs deploy more evaluative language overall when
 
 ### RQ6: Agency and directionality
 
-| Category | Motioner | Propositioner |
-|----------|----------|---------------|
-| Governing agency (per 1k chars) | 0.49 | 0.26 |
-| Affected agency (per 1k chars) | 0.49 | 0.18 |
-| Agency ratio (gov − affected) | +0.00 | +0.08 |
+| Category | Motioner | Propositioner | p-value |
+|----------|----------|---------------|---------|
+| Governing agency (per 1k chars) | 0.49 | 0.26 | <0.0001 |
+| Affected agency (per 1k chars) | 0.49 | 0.18 | <0.0001 |
+| Agency ratio (gov − affected) | +0.00 | +0.08 | 0.78 |
 
-**Interpretation:** The hypothesis is **partially supported** – propositioner lean toward governing agency framing:
+**Interpretation:** The hypothesis that propositioner frame AI as something to be governed is **not supported**:
 
-- **Motioner** use BOTH agency types equally (0.49 each) – MPs discuss AI governance AND its effects on people
-- **Propositioner** tilt toward governing language (+0.08 ratio) – government bills position the state as acting ON AI
-- **Absolute levels** are higher in motioner for both categories – MPs use more agency language overall
+- **Motioner use significantly more agency language** of both types (p < 0.0001) – continuing the pattern seen across all RQs
+- **The agency ratio difference is not significant** (p = 0.78) – the apparent tilt toward governing framing in propositioner could easily arise by chance
+- **Both document types** show balanced agency framing when they use agency language at all
 - **Most documents** (median = 0) use neutral language; agency framing appears in a subset of documents
 
-This suggests propositioner frame AI as something to be governed/controlled by the state, while motioner give relatively more voice to those affected by AI. However, the effect is **very subtle**.
+The dominant finding is that motioner deploy more evaluative/substantive language of all types, including agency language. There is no evidence that propositioner systematically frame AI as something to be governed more than motioner do.
 
 **Visualisations:**
 - [Agency comparison](results/rq6_agency_comparison.png) – governing vs affected by document type
