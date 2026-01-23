@@ -55,6 +55,8 @@ This suggests MPs use AI discourse to push for action and investment (opportunit
 - [Framing comparison](results/rq1_framing_comparison.png) – bar chart and boxplot comparing document types
 - [Temporal trends](results/rq1_temporal.png) – framing evolution 2017–2025
 
+---
+
 ### RQ2: Thematic focus
 
 **Method:** Dictionary-based keyword matching across eight policy domains. Each domain is defined by 14–15 Swedish keywords (e.g. labour: *arbete, arbetslöshet, sysselsättning, anställning, jobb, arbetsmarknad...*; innovation: *innovation, näringsliv, företag, startup, tillväxt, konkurrens...*). We count keyword occurrences in the full document text using case-insensitive substring matching.
@@ -83,6 +85,8 @@ This reinforces the RQ1 finding: motioner use more domain-specific, substantive 
 - [Radar profile](results/rq2_radar.png) – spider chart showing domain profiles
 - [Correlation heatmap](results/rq2_correlation.png) – domain co-occurrence patterns (correlation coefficients across documents; higher values indicate domains frequently discussed together, e.g. labour–education r=0.25, innovation–environment r=0.24)
 
+---
+
 ### RQ3: Stakeholder orientation
 
 **Method:** Regex-based keyword matching across eight stakeholder categories, grouped into institutional actors (EU/international, state/government, industry/business, experts/academia) and citizen-focused actors (citizens/individuals, workers/employees, communities/groups, vulnerable groups). Each category uses 8–11 Swedish keywords or patterns (e.g. state/government: *regering, staten, statlig, departement, minister, myndighet...*; vulnerable groups: *barn, äldre, funktionsnedsättning, utsatt, minoritet...*). Values are mentions per 1,000 words.
@@ -109,6 +113,8 @@ This suggests motioner call upon the state to act, while propositioner situate A
 - [Actor balance](results/rq3_actor_balance.png) – institutional vs citizen-focused
 - [Orientation scatter](results/rq3_orientation_scatter.png) – document-level positioning
 
+---
+
 ### RQ4: Temporal dynamics
 
 | Metric | Motioner | Propositioner |
@@ -132,6 +138,8 @@ Propositioner led early but plateaued around 2021. Motioner show exponential gro
 - [AI intensity](results/rq4_intensity.png) – AI mentions per 1k words over time
 - [Cumulative growth](results/rq4_cumulative.png) – stacked area of corpus growth
 - [Timeline](results/rq4_timeline.png) – annotated with key events
+
+---
 
 ### RQ5: Sentiment
 
@@ -157,6 +165,19 @@ This aligns with RQ1 (framing): MPs deploy more evaluative language overall when
 - [Sentiment distribution](results/rq5_sentiment_boxplot.png) – boxplot comparing document types
 - [Temporal trends](results/rq5_sentiment_timeline.png) – sentiment evolution over time
 - [Histogram](results/rq5_sentiment_histogram.png) – frequency distribution of sentiment scores
+
+---
+
+### Overall patterns
+
+- **Motioner deploy more evaluative language of all types** – opportunity framing, risk framing, domain keywords, stakeholder references, and sentiment words are all more frequent in motioner than propositioner
+- **Motioner skew positive; propositioner stay neutral** – MPs frame AI as opportunity (+6.43 net framing, +1.25 sentiment); government bills balance opportunity and risk roughly equally
+- **Propositioner are diffuse; motioner are focused** – government bills spread language thinly across topics, while MPs concentrate on specific policy domains (especially innovation, education, labour)
+- **Different legitimation strategies** – propositioner invoke EU/international frameworks; motioner invoke state/government to demand action
+- **Temporal shift in leadership** – propositioner led AI discourse 2010–2017; motioner surged post-2018 and now dominate in both volume and intensity
+- **The initial hypothesis was inverted** – we expected propositioner to emphasise competitiveness and motioner to emphasise protection; instead, motioner are the advocates for AI opportunity while propositioner maintain cautious, technocratic prose
+
+**In short:** MPs use AI as an advocacy issue; government treats it as one policy topic among many.
 
 ## Usage
 
