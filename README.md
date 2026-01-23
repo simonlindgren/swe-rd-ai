@@ -28,8 +28,8 @@ Propositioner reflect top-down discourse; motioner reflect bottom-up discourse.
 
 - **RQ1 Framing:** How is AI framed in each document type – as opportunity, risk, or both?
 - **RQ2 Thematic focus:** Which policy domains (labour, education, healthcare, defence, innovation) dominate in each document type?
-- **RQ3 Stakeholder orientation:** Who is invoked as relevant actors – institutions (EU, industry, state) vs citizens, workers, communities?
-- **RQ4 Temporal dynamics:** How has AI discourse emerged and intensified over time in each document type, and which leads?
+- **RQ3 Stakeholder orientation:** Who are invoked as relevant actors – institutions (EU, industry, state) vs citizens, workers, communities?
+- **RQ4 Temporal dynamics:** How has AI discourse emerged and intensified over time, and which document type led the discourse?
 - **RQ5 Sentiment:** How does evaluative tone differ between document types, and how has it changed over time?
 - **RQ6 Agency and directionality:** Who is positioned as acting on AI – the state governing it, or people affected by it?
 
@@ -42,6 +42,8 @@ Propositioner reflect top-down discourse; motioner reflect bottom-up discourse.
 | Opportunity framing (per 1k words) | 14.42 | 5.02 |
 | Risk framing (per 1k words) | 8.00 | 5.59 |
 | Net framing ratio | +6.43 | -0.57 |
+
+Net framing ratio = opportunity − risk. Positive values indicate opportunity-dominant framing; negative values indicate risk-dominant framing.
 
 **Interpretation:** The top-down/bottom-up distinction holds, but not as initially expected:
 
@@ -56,6 +58,8 @@ This suggests MPs use AI discourse to push for action and investment (opportunit
 
 ### RQ2: Thematic focus
 
+**Method:** Dictionary-based keyword matching across eight policy domains. Each domain is defined by 14–15 Swedish keywords (e.g. labour: *arbete, arbetslöshet, sysselsättning, anställning, jobb, arbetsmarknad...*; innovation: *innovation, näringsliv, företag, startup, tillväxt, konkurrens...*). We count keyword occurrences in the full document text using case-insensitive substring matching.
+
 | Domain | Motioner | Propositioner | Difference |
 |--------|----------|---------------|------------|
 | Innovation | 12.01 | 6.02 | +5.99 |
@@ -63,6 +67,8 @@ This suggests MPs use AI discourse to push for action and investment (opportunit
 | Labour | 6.67 | 2.69 | +3.98 |
 | Healthcare | 5.05 | 1.81 | +3.24 |
 | Public sector | 10.82 | 10.01 | +0.81 |
+
+Values are keyword mentions per 1,000 words, measuring density rather than raw counts. This normalisation ensures fair comparison despite different document counts (452 motioner vs 700 propositioner).
 
 **Interpretation:** Contrary to the initial hypothesis that propositioner would emphasise competitiveness/innovation:
 
@@ -76,9 +82,11 @@ This reinforces the RQ1 finding: motioner use more domain-specific, substantive 
 **Visualisations:**
 - [Domain comparison](results/rq2_domain_bars.png) – grouped bar chart of all domains
 - [Radar profile](results/rq2_radar.png) – spider chart showing domain profiles
-- [Correlation heatmap](results/rq2_correlation.png) – domain co-occurrence patterns
+- [Correlation heatmap](results/rq2_correlation.png) – domain co-occurrence patterns (correlation coefficients across documents; higher values indicate domains frequently discussed together, e.g. labour–education r=0.25, innovation–environment r=0.24)
 
 ### RQ3: Stakeholder orientation
+
+**Method:** Regex-based keyword matching across eight stakeholder categories, grouped into institutional actors (EU/international, state/government, industry/business, experts/academia) and citizen-focused actors (citizens/individuals, workers/employees, communities/groups, vulnerable groups). Each category uses 8–11 Swedish keywords or patterns (e.g. state/government: *regering, staten, statlig, departement, minister, myndighet...*; vulnerable groups: *barn, äldre, funktionsnedsättning, utsatt, minoritet...*). Values are mentions per 1,000 words.
 
 | Category | Motioner | Propositioner | Difference |
 |----------|----------|---------------|------------|
@@ -135,7 +143,7 @@ Propositioner led early but plateaued around 2021. Motioner show exponential gro
 | Standard deviation | 2.88 | 1.92 |
 | Document count | 443 | 262 |
 
-**Statistical test:** t = 2.92, p = 0.004 (significant)
+**Statistical test:** t = 2.92, p = 0.004. The p-value indicates less than 1% probability that the observed difference arose by chance; this difference is statistically significant.
 
 **Interpretation:** Both document types exhibit net positive sentiment around AI mentions, but motioner are significantly more positive:
 
@@ -153,20 +161,20 @@ This aligns with RQ1 (framing): MPs deploy more evaluative language overall when
 
 ### RQ6: Agency and directionality
 
-| Category | Motioner | Propositioner |
-|----------|----------|---------------|
-| Governing agency (per 1k chars) | 0.49 | 0.26 |
-| Affected agency (per 1k chars) | 0.49 | 0.18 |
-| Agency ratio (gov − affected) | +0.00 | +0.08 |
+| Category | Motioner | Propositioner | p-value |
+|----------|----------|---------------|---------|
+| Governing agency (per 1k chars) | 0.49 | 0.26 | <0.0001 |
+| Affected agency (per 1k chars) | 0.49 | 0.18 | <0.0001 |
+| Agency ratio (gov − affected) | +0.00 | +0.08 | 0.78 |
 
-**Interpretation:** The hypothesis is **partially supported** – propositioner lean toward governing agency framing:
+**Interpretation:** The hypothesis that propositioner frame AI as something to be governed is **not supported**:
 
-- **Motioner** use BOTH agency types equally (0.49 each) – MPs discuss AI governance AND its effects on people
-- **Propositioner** tilt toward governing language (+0.08 ratio) – government bills position the state as acting ON AI
-- **Absolute levels** are higher in motioner for both categories – MPs use more agency language overall
+- **Motioner use significantly more agency language** of both types (p < 0.0001) – continuing the pattern seen across all RQs
+- **The agency ratio difference is not significant** (p = 0.78) – the apparent tilt toward governing framing in propositioner could easily arise by chance
+- **Both document types** show balanced agency framing when they use agency language at all
 - **Most documents** (median = 0) use neutral language; agency framing appears in a subset of documents
 
-This suggests propositioner frame AI as something to be governed/controlled by the state, while motioner give relatively more voice to those affected by AI. However, the effect is subtle – the dominant pattern remains that motioner deploy more evaluative/substantive language of all types.
+The dominant finding is that motioner deploy more evaluative/substantive language of all types, including agency language. There is no evidence that propositioner systematically frame AI as something to be governed more than motioner do.
 
 **Visualisations:**
 - [Agency comparison](results/rq6_agency_comparison.png) – governing vs affected by document type
