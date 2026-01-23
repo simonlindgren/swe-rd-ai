@@ -1,5 +1,0 @@
-,doc_id,ai_mention_count,governing_count,affected_count,governing_norm,governing_norm,governing_norm,affected_norm,affected_norm,affected_norm,agency_ratio,agency_ratio,agency_ratio
-,count,sum,sum,sum,mean,median,std,mean,median,std,mean,median,std
-doc_type,,,,,,,,,,,,,
-mot,444,2931,435,417,0.489,0.0,1.084,0.487,0.0,1.155,0.002,0.0,1.544
-prop,262,1626,92,119,0.258,0.0,0.959,0.183,0.0,0.625,0.075,0.0,1.136
