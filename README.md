@@ -123,7 +123,55 @@ Propositioner led early but plateaued around 2021. Motioner show exponential gro
 **Visualisations:**
 - [Document volume](results/rq4_volume.png) – time series of document counts
 - [AI intensity](results/rq4_intensity.png) – AI mentions per 1k words over time
+- [Cumulative growth](results/rq4_cumulative.png) – stacked area of corpus growth
 - [Timeline](results/rq4_timeline.png) – annotated with key events
+
+### RQ5: Sentiment
+
+| Metric | Motioner | Propositioner |
+|--------|----------|---------------|
+| Mean sentiment ratio | +1.25 | +0.67 |
+| Median sentiment | 0.0 | 0.0 |
+| Standard deviation | 2.88 | 1.92 |
+| Document count | 443 | 262 |
+
+**Statistical test:** t = 2.92, p = 0.004 (significant)
+
+**Interpretation:** Both document types exhibit net positive sentiment around AI mentions, but motioner are significantly more positive:
+
+- **Motioner** use nearly twice as much positive evaluative language in AI contexts (+1.25 vs +0.67)
+- **High variance** in motioner (SD 2.88) reflects heterogeneous MP stances – some strongly positive, some negative
+- **Median of 0** for both types indicates many documents use neutral language around AI
+- **Propositioner** are more consistently neutral/mild – tighter distribution, fewer extreme values
+
+This aligns with RQ1 (framing): MPs deploy more evaluative language overall when discussing AI, while government bills maintain measured, technocratic prose. The sentiment difference is stable across the 2017–2025 period.
+
+**Visualisations:**
+- [Sentiment distribution](results/rq5_sentiment_boxplot.png) – boxplot comparing document types
+- [Temporal trends](results/rq5_sentiment_timeline.png) – sentiment evolution over time
+- [Histogram](results/rq5_sentiment_histogram.png) – frequency distribution of sentiment scores
+
+### RQ6: Agency and directionality
+
+| Category | Motioner | Propositioner |
+|----------|----------|---------------|
+| Governing agency (per 1k chars) | 0.49 | 0.26 |
+| Affected agency (per 1k chars) | 0.49 | 0.18 |
+| Agency ratio (gov − affected) | +0.00 | +0.08 |
+
+**Interpretation:** The hypothesis is **partially supported** – propositioner lean toward governing agency framing:
+
+- **Motioner** use BOTH agency types equally (0.49 each) – MPs discuss AI governance AND its effects on people
+- **Propositioner** tilt toward governing language (+0.08 ratio) – government bills position the state as acting ON AI
+- **Absolute levels** are higher in motioner for both categories – MPs use more agency language overall
+- **Most documents** (median = 0) use neutral language; agency framing appears in a subset of documents
+
+This suggests propositioner frame AI as something to be governed/controlled by the state, while motioner give relatively more voice to those affected by AI. However, the effect is subtle – the dominant pattern remains that motioner deploy more evaluative/substantive language of all types.
+
+**Visualisations:**
+- [Agency comparison](results/rq6_agency_comparison.png) – governing vs affected by document type
+- [Distribution](results/rq6_agency_boxplot.png) – agency ratio distributions
+- [Temporal trends](results/rq6_agency_temporal.png) – agency ratio over time
 
 ## Usage
 
